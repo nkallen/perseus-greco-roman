@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">O. Plasberg</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 <sourceDesc>
 <biblStruct>
@@ -43,7 +42,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.ac_lat.xml,v $
@@ -863,12 +862,12 @@ mortua sed dormit.'</p>
 
 <table><head>LUCULLI</head>
 <row><cell>A =</cell><cell>Vossicanus 84</cell></row>
-<row><cell></cell><cell>F = Florentinus Marcianus 257</cell></row>
-<row><cell></cell><cell>M = Monacensis 528</cell></row>
+<row><cell/><cell>F = Florentinus Marcianus 257</cell></row>
+<row><cell/><cell>M = Monacensis 528</cell></row>
 <row><cell>V =</cell><cell>Vindobonensis 189 (deficit inde a. p. 78, 28)</cell></row>
-<row><cell></cell><cell>N = Nostradamensis Parisinus 17812 adhibitus ubi deficit V</cell></row>
+<row><cell/><cell>N = Nostradamensis Parisinus 17812 adhibitus ubi deficit V</cell></row>
 <row><cell>B =</cell><cell>Vossianus 86</cell></row>
-<row><cell></cell><cell><hi rend="italics">dett.</hi> = deteriores (sive unus ex iss sive plures)</cell></row>
+<row><cell/><cell><hi rend="italics">dett.</hi> = deteriores (sive unus ex iss sive plures)</cell></row>
 </table>
 
 <table>
@@ -1684,7 +1683,7 @@ loco Lucullo subscribentur.]</hi></quote></div1>
 <div1 type="book" n="indexfrag"><head>Index Fragmentorum</head>
 
 <table>
-<row><cell><hi rend="italics"> Ha. Bai.</hi></cell><cell><hi rend="italics"> Mue.</hi></cell><cell></cell><cell><hi rend="italics"> huius edit. pag.</hi></cell></row>
+<row><cell><hi rend="italics"> Ha. Bai.</hi></cell><cell><hi rend="italics"> Mue.</hi></cell><cell/><cell><hi rend="italics"> huius edit. pag.</hi></cell></row>
 <row><cell><hi rend="italics"> 1</hi></cell><cell><hi rend="italics"> 1</hi></cell><cell><hi rend="italics"> Non. p. 65</hi></cell><cell><hi rend="italics"> 20, 10</hi></cell></row>
 <row><cell><hi rend="italics"> 2</hi></cell><cell><hi rend="italics"> 2</hi></cell><cell><hi rend="italics"> Non. p. 43</hi></cell><cell><hi rend="italics"> 21, 15</hi></cell></row>
 <row><cell><hi rend="italics"> 3</hi></cell><cell><hi rend="italics"> 3</hi></cell><cell><hi rend="italics"> Non. p. 65</hi></cell><cell><hi rend="italics"> 20, 18</hi></cell></row>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -4188,7 +4187,7 @@
 					<p>Oezalces, 320, 322, 324, 326</p>
 					<p>Olympia, 28</p>
 					<p>Opus, 26, 28 (<hi rend="italics">bis</hi>), 32; Opuntii, 24, 26 (<hi rend="italics">bis</hi>), 34</p>
-					<p>Or&#x0115;um, 20, 22, 24 (<hi rend="italics">bis</hi>), 26 (<hi rend="italics">bis</hi>), 28, 30, 34; Oritani, 34</p>
+					<p>Orĕum, 20, 22, 24 (<hi rend="italics">bis</hi>), 26 (<hi rend="italics">bis</hi>), 28, 30, 34; Oritani, 34</p>
 					<p>Orongis, 10, 14</p>
 					<p>Orsua, 88 (<hi rend="italics">bis</hi>)</p>
 					<p>Ostia, 260</p>
@@ -4201,8 +4200,8 @@
 					<p>Pepar&emacr;thus, 18, 20 (bis)</p>
 					<p>Pergamum, 246</p>
 					<p>Perusini, 192</p>
-					<p>Pess&#x012D;nus, 244, 246</p>
-					<p>Phen&#x0115;us, 30</p>
+					<p>Pessĭnus, 244, 246</p>
+					<p>Phenĕus, 30</p>
 					<p>Philippus V, of Macedonia, 16, 18, 20, 24 (<hi rend="italics">bis</hi>), 26 (<hi rend="italics">bis</hi>), 28 (<hi rend="italics">ter</hi>), 30, 222, 246, 250 (<hi rend="italics">bis</hi>), 252, 456, 516 (<hi rend="italics">bis</hi>), 522; an Epirote, 252 (<hi rend="italics">bis</hi>)</p>
 					<p>Phl&imacr;us, 30</p>
 					<p>Phocis, 20, 26</p>

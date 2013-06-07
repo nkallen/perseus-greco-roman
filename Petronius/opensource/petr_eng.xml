@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -66,8 +65,7 @@
                 hear nothing of ordinary life there. It is pirates standing in chainson the beach,
                 tyrants pen in hand ordering sons to cut off their fathers' heads, oracles in time
                 of pestilence demanding the blood of three virgins or more, honey-balls of phrases,
-                every word and act besprinkled with poppy-seed and sesame.<milestone unit="section"
-                    n="2"/>People who are fed on this diet can no more be sensible than people who
+                every word and act besprinkled with poppy-seed and sesame.<milestone unit="section" n="2"/>People who are fed on this diet can no more be sensible than people who
                 live in the kitchen can be savoury. With your permission I must tell you the truth,
                 that you teachers more than anyone have been the ruin of true eloquence. Your
                 tripping, empty tones stimulate certain absurd effects into being, with the result
@@ -144,8 +142,7 @@
                 pupils.</note> So while the young men were laughing at his epigrams, and denouncing
                 the tendency of his style as a whole, I took occasion to steal away and began
                 hurriedly to look for Ascyltos. But I did not remember the road accurately, and I
-                did not know where our lodgings were. So wherever I went, I kept coming back to<pb
-                    id="p.11"/> the same spot, till I was tired out with walking, and dripping with
+                did not know where our lodgings were. So wherever I went, I kept coming back to<pb id="p.11"/> the same spot, till I was tired out with walking, and dripping with
                     sweat.<milestone unit="section" n="7"/> At last I went up to an old woman who
                 was selling country vegetables and said,<quote>Please, mother, do you happen to know
                     where I live?</quote> She was charmed with such a polite fool.<quote>Of course I
@@ -219,8 +216,7 @@
                 in one corner of<pb id="p.17"/> the market, hoping that the bright colour might
                 attract a purchaser. In a little while a countryman, whom I knew by sight, came up
                 with a girl, and began to examine the cloak narrowly. Ascyltos in turn cast a glance
-                at the shoulders of our country customer,<note>The rustic was carrying a shirt (<hi
-                        rend="italics">tunica</hi>) hung over his shoulders.</note> and was suddenly
+                at the shoulders of our country customer,<note>The rustic was carrying a shirt (<hi rend="italics">tunica</hi>) hung over his shoulders.</note> and was suddenly
                 struck dumb with astonishment. I could not look upon the man myself without a stir,
                 for he was the person, I thought, who had found the shirt in the lonely spot where
                 we lost it. He was certainly the very man. But as Ascyltos was afraid to trust his
@@ -260,9 +256,7 @@
                 to tug at the dirty torn shirt, and cried out with equal bitterness that these
                 people had taken some spoil that was ours. But the dispute was in no way even, and
                 the dealers who were attracted by the noise of course laughed at our indignation,
-                since one side was laying claim to an expensive cloak, the other to a set of rags<pb
-                    id="p.21"/> which would not serve to make a decent patchwork.<milestone
-                    unit="section" n="15"/> Ascyltos now cleverly stopped their laughter by calling
+                since one side was laying claim to an expensive cloak, the other to a set of rags<pb id="p.21"/> which would not serve to make a decent patchwork.<milestone unit="section" n="15"/> Ascyltos now cleverly stopped their laughter by calling
                 for silence and saying, <quote>Well, you see, every one has an affection for his own
                     things. If they will give us our shirt, they shall have their cloak.</quote> The
                 countryman and the woman were satisfied with this exchange, but by this time some
@@ -307,8 +301,7 @@
                     walk abroad so commonly in our streets that it is easier to meet a god than a
                     man. Do not suppose that I have come here to avenge myself. I am more sorry for
                     your tender years than for my own wrongs. For I still believe that heedless
-                    youth has led you into deadly sin. I lay tormenting myself that night and<pb
-                        id="p.25"/> shivering with such a dreadful chill that I even fear an attack
+                    youth has led you into deadly sin. I lay tormenting myself that night and<pb id="p.25"/> shivering with such a dreadful chill that I even fear an attack
                     of tertian ague. So I asked for a remedy in my dreams, and was told to find you
                     out and allay the raging of my disease by the clever plan you would show me. But
                     I am not so greatly concerned about a cure; deep in my heart burns a greater
@@ -404,8 +397,7 @@
                 snore like old-established sleepers.</p>
             <p>By this time the butler had got up and refilled the flickering lamps. The boys rubbed
                 their eyes for a few minutes, and then came back to wait. Then a girl with cymbals
-                came in, and the crash of the brass aroused everybody.<milestone unit="section"
-                    n="23"/> Our evening began afresh, and Quartilla called us back again to our
+                came in, and the crash of the brass aroused everybody.<milestone unit="section" n="23"/> Our evening began afresh, and Quartilla called us back again to our
                 cups. The girl with the cymbals gave her fresh spirits for the revel. . . .</p>
             <p>Intrat cinaedus, homo omnium insulsissimus et plane illa domo dignus, qui ut
                 infractis manibus congemuit, eiusmodi carmina effudit:<quote rend="blockquote">
@@ -447,8 +439,7 @@
                     est ista quam ego fui, cum primum virum passa sum? Iunonem meam iratam habeam,
                     si unquam me meminerim virginem fuisse. Nam et infans cum paribus
                         inclinata<note>inclinata <hi rend="italics">Buecheler:</hi>
-                    inquinata.</note> sum, et subinde procedentibus<note>procedentibus <hi
-                            rend="italics">Burmann on authority of <quote>Old MS.</quote>:</hi>
+                    inquinata.</note> sum, et subinde procedentibus<note>procedentibus <hi rend="italics">Burmann on authority of <quote>Old MS.</quote>:</hi>
                         prodeuntibus.</note> annis maioribus me pueris applicui, donec ad hanc
                     aetatem perveni. Hinc etiam puto proverbium natum illud, ut dicatur posse taurum
                     tollere, qui vitulum sustulerit.</quote> Igitur ne maiorem iniuriam in secreto
@@ -485,8 +476,7 @@
                 amazed at such a display, and then Menelaus<note>Agamemnon's assistant, who would
                     take junior classes in rhetoric. He is called <hi rend="italics">antescholanus,</hi> assistant tutor, in c. 81.</note> ran up and said,
                     <quote>This is the man who will give you places at his table: indeed what you
-                    see is the overture to his dinner.</quote> Menelaus had just finished when<pb
-                    id="p.41"/> Trimalchio cracked his fingers. One eunuch came up at this signal
+                    see is the overture to his dinner.</quote> Menelaus had just finished when<pb id="p.41"/> Trimalchio cracked his fingers. One eunuch came up at this signal
                 and held the jordan for him as he played. He relieved himself and called for a
                 basin, dipped in his hands and wiped them on a boy's head.</p>
             <p><milestone unit="section" n="28"/>I cannot linger over details. We went into the
@@ -554,8 +544,7 @@
                     lost my dinner dress, which one of my clients gave me on my birthday. It was
                     Tyrian dve, of course, but it had been washed once already. Well, well, I make
                     you a present of the fellow.</quote></p>
-            <p><milestone unit="section" n="31"/>We were obliged by his august kindness, and when<pb
-                    id="p.47"/> we were in the dining-room, the slave for whom we had pleaded ran
+            <p><milestone unit="section" n="31"/>We were obliged by his august kindness, and when<pb id="p.47"/> we were in the dining-room, the slave for whom we had pleaded ran
                 up, and to our astonishment rained kisses on us, and thanked us for our mercy.
                     <quote>One word,</quote> he said, <quote>you will know in a minute who owes you
                     a debt of gratitude: 'The master's wine is in the butler's gift.</quote> ' . . .
@@ -621,8 +610,7 @@
                 tied to their necks, inscribed, <quote>Falernian of Opimius's vintage, 100 years in
                     bottle.</quote><note>Opimius was consul in 121 B. C.</note> As we were poring
                 over the labels Trimalchio clapped his hands and cried, <quote>Ah me, so wine lives
-                    longer than miserable man. So let us be merry.<note>The meaning of the word <hi
-                            rend="italics">tengomenas</hi> is uncertain. Attempts have been made to
+                    longer than miserable man. So let us be merry.<note>The meaning of the word <hi rend="italics">tengomenas</hi> is uncertain. Attempts have been made to
                         connect it with the Greek<foreign lang="greek">te/ggein</foreign>
                         <quote>to wet,</quote> because Alcaeus says <foreign lang="greek">te/gge
                             pneu/monas oi/)nw|,</foreign>
@@ -703,8 +691,7 @@
                 very juicy people. That one you see lying at the bottom of the end sofa has his
                 eight hundred thousand. He was quite a nobody. A little time ago he was carrying
                 loads of wood on his back. People do say&mdash;I know nothing, but I have
-                heard&mdash;that he pulled off a goblin's cap and found a fairy hoard.<note><hi
-                        rend="italics">Incubo</hi> was a goblin who guarded hid treasure. If one
+                heard&mdash;that he pulled off a goblin's cap and found a fairy hoard.<note><hi rend="italics">Incubo</hi> was a goblin who guarded hid treasure. If one
                     stole his cap, he was compelled to reveal the treasure.</note> If God makes
                 presents I am jealous of nobody. Still, he shows the marks of his master's
                     fingers,<note>On setting a slave free the master gave him a slap as a symbol of
@@ -737,8 +724,7 @@
                     dinner. God rest the bones of my patron; he wanted me to be a man among men. No
                     one can bring me anything new, as that last dish proved. The firmament where the
                     twelve gods inhabit turns into as many figures, and at one time becomes a ram.
-                    So anyone who is born under that sign has plenty of flocks and wool,<pb
-                        id="p.63"/> a hard head and a brazen forehead and sharp horns. Very many
+                    So anyone who is born under that sign has plenty of flocks and wool,<pb id="p.63"/> a hard head and a brazen forehead and sharp horns. Very many
                     pedants and young rams are born under this sign.</quote> We applauded the
                 elegance of his astrology, and so he went on: <quote>Then the whole sky changes into
                     a young bull. So men who are free with their heels are born now, and oxherds and
@@ -782,14 +768,11 @@
                 the guests.</p>
             <p><milestone unit="section" n="41"/>Meantime I had got a quiet corner to myself, and
                 had gone off on a long train of speculation,&mdash;why the pig had come in with
-                a cap of freedom on. After turning the problem over every way<note><hi
-                        rend="italics">Bacalusias</hi> may be derived from <hi rend="italics">baceolus</hi> (<foreign lang="greek">ba/khlos</foreign>) a blockhead, and
+                a cap of freedom on. After turning the problem over every way<note><hi rend="italics">Bacalusias</hi> may be derived from <hi rend="italics">baceolus</hi> (<foreign lang="greek">ba/khlos</foreign>) a blockhead, and
                         <hi rend="italics">ludere,</hi> hence meaning perhaps <quote>every kind of
-                        foolish explanation of the riddle.</quote></note> I ventured to put the<pb
-                    id="p.67"/> question which was troubling me to my old informant.<quote>Your
+                        foolish explanation of the riddle.</quote></note> I ventured to put the<pb id="p.67"/> question which was troubling me to my old informant.<quote>Your
                     humble servant can explain that too;</quote> he said,<quote>there is no riddle,
-                    the thing is quite plain. Yesterday when this animal appeared as <hi
-                        rend="italics">pi&egrave;ce de r&eacute;sistance</hi> at dinner, the
+                    the thing is quite plain. Yesterday when this animal appeared as <hi rend="italics">pi&egrave;ce de r&eacute;sistance</hi> at dinner, the
                     guests dismissed him; and so to-day he comes back to dinner as a
                 freedman.</quote> I cursed my dullness and asked no more questions, for fear of
                 showing that I had never dined among decent people.</p>
@@ -835,8 +818,7 @@
                     let us remember the living. He has got his deserts; he lived decently and died
                     decently. What has he got to grumble at? He started with twopence, and he was
                     always ready to pick a halfpenny out of the dirt with his teeth. So he grew and
-                    grew like a honeycomb. Upon my word, I believe he left a clear hundred<pb
-                        id="p.71"/> thousand, and all in hard cash. Still, I have eaten the dog's
+                    grew like a honeycomb. Upon my word, I believe he left a clear hundred<pb id="p.71"/> thousand, and all in hard cash. Still, I have eaten the dog's
                     tongue, I must speak the truth. He had a rough mouth, and talked continually,
                     and was more of a discord than a man. His brother was a fine fellow, stood by
                     his friends, open-handed and kept a good table. To begin with, he caught a
@@ -859,8 +841,7 @@
                     do not blame him: it is only his past pleasures he can take with him.</quote></p>
             <p><milestone unit="section" n="44"/>So said Phileros, but Ganymede broke in: <quote>You
                     go talking about things which are neither in heaven nor earth, and none of you
-                    care all the time how the price of food pinches. I swear I cannot get hold<pb
-                        id="p.73"/> of a mouthful of bread to-day. And how the drought goes on.
+                    care all the time how the price of food pinches. I swear I cannot get hold<pb id="p.73"/> of a mouthful of bread to-day. And how the drought goes on.
                     There has been a famine for a whole year now. Damn the magistrates, who play
                     'Scratch my back, and I'll scratch yours,' in league with the bakers. So the
                     little people come off badly; for the jaws of the upper classes are always
@@ -1081,8 +1062,7 @@
                     throne of Jupiter, especially when Caesar said to him: 'Does anyone else know
                     how to blow glass like this?' Just see what happened. He said not, and then
                     Caesar had him beheaded. Why? Because if his invention were generally known we
-                    should treat gold like dirt. Myself I have a great passion for silver.<milestone
-                        unit="section" n="52"/> I own about a hundred four-gallon cups engraved with
+                    should treat gold like dirt. Myself I have a great passion for silver.<milestone unit="section" n="52"/> I own about a hundred four-gallon cups engraved with
                     Cassandra killing her children, and they lying there dead in the most lifelike
                     way. I have a thousand jugs which Mummius<note>The name is suggested by the
                         previous references to Corinth. L. Mummius Achaicus captured and sacked
@@ -1099,12 +1079,10 @@
                     yourself not to be stupid.</quote> In the end we induced him to let the boy off.
                 As soon as he was forgiven the boy ran round the table . . . .</p>
             <p>Then Trimalchio shouted, <quote>Out with water! In with wine!</quote> . . . We took
-                up the joke, especially Agamemnon, who knew how to earn a second invitation<pb
-                    id="p.93"/> to dinner. Trimalchio warmed to his drinking under our flattery, and
+                up the joke, especially Agamemnon, who knew how to earn a second invitation<pb id="p.93"/> to dinner. Trimalchio warmed to his drinking under our flattery, and
                 was almost drunk when he said:<quote>None of you ask dear Fortunata to dance. I tell
                     you no one can dance the cancan better.</quote> He then lifted his hands above
-                his head and gave us the actor Syrus, while all the slaves sang in chorus:<quote
-                    rend="blockquote">
+                his head and gave us the actor Syrus, while all the slaves sang in chorus:<quote rend="blockquote">
                     <l>Madeia!</l>
                     <l>Perimadeia!<note>The meaning of these words is uncertain.</note></l>
                 </quote> And Trimalchio would have come out into the middle of the room if Fortunata
@@ -1123,8 +1101,7 @@
                 <quote>Stop,</quote> said Trimalchio, <quote>When did I buy any gardens at Pompeii?</quote>
                 <quote>Last year,</quote> said the clerk, <quote>so that they are not entered in
                     your accounts yet.</quote> Trimalchio glowed with passion, and said, <quote>I
-                    will not have any property which is bought in my name entered in my accounts<pb
-                        id="p.95"/> unless I hear of it within six months.</quote> We now had a
+                    will not have any property which is bought in my name entered in my accounts<pb id="p.95"/> unless I hear of it within six months.</quote> We now had a
                 further recitation of police notices, and some foresters' wills, in which Trimalchio
                 was cut out in a codicil; then the names of bailiffs, and of a freed-woman who had
                 been caught with a bathman and divorced by her husband, a night watchman; the name
@@ -1137,8 +1114,7 @@
                 profession. There were only two things in the world that he could watch with real
                 pleasure, acrobats and trumpeters; all other shows were silly nonsense.
                 <quote>Why,</quote> said he, <quote>I once bought a Greek comedy company, but I
-                    preferred them to do Atellane plays,<note>Native Latin comedy as opposed to <hi
-                            rend="italics">comoedia palliata,</hi> which was translated or adapted
+                    preferred them to do Atellane plays,<note>Native Latin comedy as opposed to <hi rend="italics">comoedia palliata,</hi> which was translated or adapted
                         from the Greek.</note> and I told my flute-player to have Latin
                 songs.</quote></p>
             <p><milestone unit="section" n="54"/>Just as Trimalchio was speaking the boy slipped and
@@ -1222,8 +1198,7 @@
                     you laughing at, sheep's head?</quote> he said.<quote>Are our host's good things
                     not good enough for you? I suppose you are richer and used to better living? As
                     I hope to have the spirits of this place on my side, if I had been sitting next
-                    him I should have put a stopper on his bleating by now. A nice young<pb
-                        id="p.103"/> shaver to laugh at other people! Some vagabond flyby-night not
+                    him I should have put a stopper on his bleating by now. A nice young<pb id="p.103"/> shaver to laugh at other people! Some vagabond flyby-night not
                     worth his salt. In fact, when I've done with him he won't know where to take
                     refuge. Upon my word, I am not easily annoyed as a rule, but in rotten flesh
                     worms will breed. He laughs. What has he got to laugh about? Did his father pay
@@ -1322,8 +1297,7 @@
                 There was a helmet on its head. Ajax followed and attacked it with his sword drawn
                 as if he were mad; and after making passes with the edge and the flat he collected
                 slices on the point, and divided the calf among the astonished company.</p>
-            <p><milestone unit="section" n="60"/>We were not given long to admire these elegant<hi
-                    rend="italics">tours de force;</hi> suddenly there came a noise from the
+            <p><milestone unit="section" n="60"/>We were not given long to admire these elegant<hi rend="italics">tours de force;</hi> suddenly there came a noise from the
                 ceiling, and the whole dining-room trembled. I rose from my place in a panic: I was
                 afraid some acrobat would come down through the roof. All the other guests too
                 looked up astonished, wondering what the new portent from heaven was announced. The
@@ -1360,8 +1334,7 @@
                 790.</note> and began the following story:</p>
             <p>
                 <quote>'While I was still a slave, we were living in a narrow street; the house now
-                    belongs to Gavilla. There it was God's will that I should fall in love with<pb
-                        id="p.115"/> the wife of Terentius the inn-keeper; you remember her, Melissa
+                    belongs to Gavilla. There it was God's will that I should fall in love with<pb id="p.115"/> the wife of Terentius the inn-keeper; you remember her, Melissa
                     of Tarentum, a pretty round thing. But I swear it was no base passion; I did not
                     care about her in that way, but rather because she had a beautiful nature. If I
                     asked her for anything it was never refused me; if she made twopence I had a
@@ -1370,8 +1343,7 @@
                         tavern for his master.</note> So I buckled on my shield and greaves, and
                     schemed how to come at her: and as you know, one's friends turn up in tight
                     places. My master happened to have gone to Capua to look after some silly
-                        business<note>Lit., elegant trash.</note> or other.<milestone unit="section"
-                        n="62"/> I seized my opportunity, and persuaded a guest in our house to come
+                        business<note>Lit., elegant trash.</note> or other.<milestone unit="section" n="62"/> I seized my opportunity, and persuaded a guest in our house to come
                     with me as far as the fifth milestone. He was a soldier, and as brave as Hell.
                     So we trotted off about cockcrow; the moon shone like high noon. We got among
                     the tombstones:<note>They would be by the roadside.</note> my man went aside to
@@ -1454,8 +1426,7 @@
                 dog-fight, for a lamp upset over the table, and broke all the glass to pieces, and
                 sprinkled some of the guests with hot oil. Trimalchio did not want to seem hurt at
                 his loss, so he kissed his favourite, and told him to jump on his back. He mounted
-                his horse at once and went on smacking Trimalchio's shoulders with his open<pb
-                    id="p.123"/> hand, saying, <quote>How many are we, blind man's
+                his horse at once and went on smacking Trimalchio's shoulders with his open<pb id="p.123"/> hand, saying, <quote>How many are we, blind man's
                         cheek?</quote><note><hi rend="italics">Bucca</hi> was a child's game
                     (Hoodman Blind in English) where one child was blindfolded and the others
                     touched him on the cheek, and asked him how many fingers, or how many children,
@@ -1478,8 +1449,7 @@
                     making first-class tombstones.</quote> I was relieved by this news, and lay down
                 in my place again, and watched Habinnas' entrance with great astonishment. He was
                 quite drunk, and had put his hands on his wife's shoulders; he had several wreaths
-                on, and ointment was running down his forehead into his eyes. He sat down in the<pb
-                    id="p.125"/> chief magistrate's place,<note>The lowest seat on the middle couch,
+                on, and ointment was running down his forehead into his eyes. He sat down in the<pb id="p.125"/> chief magistrate's place,<note>The lowest seat on the middle couch,
                     usually called the consul's seat, but here the highest official present took
                 it.</note> and at once called for wine and hot water. Trimalchio was delighted at
                 his good humour, and demanded a larger cup for himself, and asked him how he had
@@ -1490,8 +1460,7 @@
                     tax-collector, for they reckon that the dead man was worth fifty
                         thousand.<note>She would pay a tax of 5 per cent, i.e. 2,500 sesterces, on
                         his value.</note> But anyhow it was a pleasant affair, even if we did have
-                    to pour half our drinks over his lamented bones.</quote><milestone
-                    unit="section" n="66"/>
+                    to pour half our drinks over his lamented bones.</quote><milestone unit="section" n="66"/>
                 <quote>Ah,</quote> said Trimalchio, <quote>but what did you have for dinner?</quote>
                 <quote>I will tell you if I can,</quote> he said, <quote>but my memory is in such a
                     fine way that I often forget my own name. Well, first we had a pig crowned with
@@ -1553,15 +1522,13 @@
                 refuge in Scintilla's arms, and buried her burning red face in a napkin.</p>
             <p><milestone unit="section" n="68"/>After an interval, Trimalchio ordered fresh relays
                 of food to be brought in. The slaves took away all the tables, brought in others,
-                and sprinkled about sawdust coloured with saffron and vermilion, and, what I had<pb
-                    id="p.131"/> never seen before, powdered talc. Trimalchio at once said, <quote>I
+                and sprinkled about sawdust coloured with saffron and vermilion, and, what I had<pb id="p.131"/> never seen before, powdered talc. Trimalchio at once said, <quote>I
                     might really be satisfied with this course; for you have got your fresh relays.
                     But if there is anything nice, put it on.</quote></p>
             <p>Meanwhile a boy from Alexandria, who was handing hot water, began to imitate a
                 nightingale, and made Trimalchio shout, <quote>Oh! change the tune.</quote> Then
                 there was another joke. A slave, who was sitting at the feet of Habinnas, began, by
-                his master's orders I suppose, suddenly to cry in a loud voice:<quote
-                    rend="blockquote">
+                his master's orders I suppose, suddenly to cry in a loud voice:<quote rend="blockquote">
                     <l>
                         <quote>Now with his fleet Aeneas held the main.</quote>
                         <note>See Virgil, <hi rend="italics">&AElig;neid</hi> V, 1.</note>
@@ -1703,8 +1670,7 @@
                 follow Trimalchio, who was clapping his hands.</p>
             <p>I looked at Ascyltos and said, <quote>What do you think? I shall die on the spot at
                     the very sight of a bath.</quote>
-                <quote>Oh! let us say yes,</quote> he replied, <quote>and we will slip<pb id="p.143"
-                    /> away in the crowd while they are looking for the bath.</quote> This was
+                <quote>Oh! let us say yes,</quote> he replied, <quote>and we will slip<pb id="p.143"/> away in the crowd while they are looking for the bath.</quote> This was
                 agreed, and Giton led us through the gallery to the door, where the dog on the chain
                 welcomed us with such a noise that Ascyltos fell straight into the fish-pond. As I,
                 who had been terrified even of a painted dog, was drunk too, I fell into the same
@@ -1715,8 +1681,7 @@
                 the beast from his anger. But when, chilled to the bone, we asked the porter at
                 least to let us out of the door, he replied, <quote>You are wrong if you suppose you
                     can go out at the door you came in by. None of the guests are ever let out by
-                    the same door; they come in at one and go out by another.</quote><milestone
-                    unit="section" n="73"/> There was nothing to be done, we were victims enwound in
+                    the same door; they come in at one and go out by another.</quote><milestone unit="section" n="73"/> There was nothing to be done, we were victims enwound in
                 a new labyrinth, and the idea of washing had begun to grow pleasant, so we asked him
                 instead to show us the bath, and after throwing off our clothes, which Giton began
                 to dry in the front hall, we went in. It was a tiny place like a cold-water cistern,
@@ -1818,8 +1783,7 @@
                     has a certain security about her. I got another cargo of wine, bacon, beans,
                     perfumes, and slaves. Fortunata did a noble thing at that time; she sold all her
                     jewellery and all her clothes, and put a hundred gold pieces into my hand. They
-                    were the leaven of my fortune. What God wishes soon happens. I made<pb
-                        id="p.153"/> a clear ten million on one voyage. I at once bought up all the
+                    were the leaven of my fortune. What God wishes soon happens. I made<pb id="p.153"/> a clear ten million on one voyage. I at once bought up all the
                     estates which had belonged to my patron. I built a house, and bought slaves and
                     cattle; whatever I touched grew like a honey-comb. When I came to have more than
                     the whole revenues of my own country, I threw up the game: I retired from active
@@ -1955,8 +1919,7 @@
                 slaughter, and kept putting my hand to the sword-hilt which I had consecrated to the
                 work. Then a soldier, who may have been a swindler or a footpad, noticed me, and
                 said, Hullo, comrade, what regiment and company do you belong to?" I lied stoutly
-                about my captain and my regiment, and he said, <quote>Well, do soldiers in your<pb
-                        id="p.165"/> force walk about in white shoes?</quote> My expression and my
+                about my captain and my regiment, and he said, <quote>Well, do soldiers in your<pb id="p.165"/> force walk about in white shoes?</quote> My expression and my
                 trembling showed that I had lied, and he ordered me to hand over my arms and look
                 out for myself. So I was not only robbed, but my revenge was nipped in the bud. I
                 went back to the inn, and by degrees my courage cooled, and I began to bless the
@@ -2093,8 +2056,7 @@
                 .</p>
             <p><milestone unit="section" n="90"/>Some of the people who were walking in the
                 galleries threw stones at Eumolpus as he recited. He recognized this tribute to his
-                genius, covered his head, and fled out of the temple. I was afraid that he<pb
-                    id="p.181"/> would call me a poet. So I followed him in his flight, and came to
+                genius, covered his head, and fled out of the temple. I was afraid that he<pb id="p.181"/> would call me a poet. So I followed him in his flight, and came to
                 the beach, and as soon as we were out of range and could stop, I said, <quote>Tell
                     me, cannot you get rid of your disease? You have been in my company less than
                     two hours, and you have talked more often like a poet than like a man. I am not
@@ -2115,15 +2077,13 @@
                 enable me to catch his eye he turned round, his face softened with pleasure, and he
                 said, <quote>Forgive me, brother. As there are no deadly weapons here, I speak
                     freely. Take me away from this bloody robber and punish me as cruelly as you
-                    like, your penitent judge.<note>The words refer to the phrase in c. 80 <hi
-                            rend="italics">commisi iudici</hi> (sc.<hi rend="italics">Gitoni</hi>)
+                    like, your penitent judge.<note>The words refer to the phrase in c. 80 <hi rend="italics">commisi iudici</hi> (sc.<hi rend="italics">Gitoni</hi>)
                             <hi rend="italics">litem,</hi> where Encolpius left Giton to choose
                         between himself and Ascyltos.</note> It will be quite enough consolation for
                     my misery to die because you wish it.</quote> I told him to stop his
                 lamentation, for fear anyone should overhear our plans. We left Eumolpus
                 behind&mdash;he was reciting a poem in the bathroom&mdash;and I took Giton
-                out by a dark, dirty exit, and flew with all speed to my lodgings. Then<pb
-                    id="p.183"/> I shut the door and warmly embraced him, and rubbed my face against
+                out by a dark, dirty exit, and flew with all speed to my lodgings. Then<pb id="p.183"/> I shut the door and warmly embraced him, and rubbed my face against
                 his cheek, which was wet with tears. For a time neither of us could utter a sound
                 the boy's fair body shook with continuous sobs. <quote>It is a shame and a
                 wonder!</quote> I cried, <quote>You left me, and yet I love you, and no scar is left
@@ -2145,8 +2105,7 @@
                 in the door to see whether Ascyltos had come with him. When I saw that he was the
                 only visitor, I let him in at once. He threw himself on a bed, and when he saw Giton
                 before his eyes waiting at table, he wagged his head and said, <quote>I like your
-                    Ganymede. To-day should be a fine time for us.</quote> I was not pleased<pb
-                    id="p.185"/> at this inquisitive opening; I was afraid I had let Ascyltos's
+                    Ganymede. To-day should be a fine time for us.</quote> I was not pleased<pb id="p.185"/> at this inquisitive opening; I was afraid I had let Ascyltos's
                 double into the lodgings. Eumolpus persisted, and, when the boy brought him a drink,
                     said,<quote>I like you better than the whole bathful.</quote> He greedily drank
                 the cup dry, and said he had never taken anything with a sharper tang in it.
@@ -2384,8 +2343,7 @@
                 out the story of our feud, and explained our imminent danger, till Eumolpus shook.
                 He became muddled and helpless, and asked us each to put forward our views. <quote>I
                     would have you imagine that we have entered the ogre's den,</quote> he said.
-                    <quote>We must find some way out, unless we run the ship aground and<pb
-                        id="p.205"/> tree ourselves from all danger.</quote>
+                    <quote>We must find some way out, unless we run the ship aground and<pb id="p.205"/> tree ourselves from all danger.</quote>
                 <quote>No,</quote> said Gitoii,<quote>persuade the helmsman to run the boat into
                     some harbour. Pay him well, of course, and tell him your brother cannot stand
                     the sea, and is at his last gasp. You will be able to hide your deception by the
@@ -2399,8 +2357,7 @@
                     did not after all go round the patient's beds; how could we leave the ship
                     without being seen by every one? Cover our heads, or bare them? Cover them, and
                     every one will want to lend his arm to the poor sick man! Bare them, that is
-                    nothing more or less than proscribing ourselves.</quote><milestone
-                    unit="section" n="102"/>
+                    nothing more or less than proscribing ourselves.</quote><milestone unit="section" n="102"/>
                 <quote>No,</quote> I said, <quote>I should prefer to take refuge in boldness, slip
                     down a rope into the boat, cut the painter, and leave the rest to luck. I do not
                     invite Eumolpus to share the risk. It is not fair to load an innocent person
@@ -2426,15 +2383,13 @@
                     stomachs never make them unhappy? Like people who never sneeze nor snore? Just
                     because this kind of trick on one occasion turned out a success?<note>Cleopatra
                         had herself conveyed to Julius Caesar at Alexandria wrapped up in a carpet.
-                        Plutarch: <hi rend="italics">Life of Caesar,</hi> c. 49. Shaw: <hi
-                            rend="italics">Caesar and Cleopatra,</hi> Act iii.</note> But even
+                        Plutarch: <hi rend="italics">Life of Caesar,</hi> c. 49. Shaw: <hi rend="italics">Caesar and Cleopatra,</hi> Act iii.</note> But even
                     supposing we could endure one day tied up: what if we were detained longer by a
                     calm or by rough weather? What should we do? Even clothes that are tied up too
                     long get creased and spoilt, and papers in bundles lose their shape. Are we
                     young fellows who never worked in our lives to put up with bondage in dirty
                     cloths as if we were statues?. . . No, we still have to find some way of
-                    salvation. Look at what I thought of. Eumolpus, as a man of learning,<pb
-                        id="p.209"/> is sure to have some ink. We will use this medicine to dye
+                    salvation. Look at what I thought of. Eumolpus, as a man of learning,<pb id="p.209"/> is sure to have some ink. We will use this medicine to dye
                     ourselves, hair, nails, everything. Then we will stand by you with pleasure like
                     Aethiopian slaves, without undergoing any tortures, and our change of colour
                     will take in our enemies.</quote>
@@ -2477,8 +2432,7 @@
                     was a superhuman creature; he condemns jokes of this kind in a very witty
                     fashion.</quote>. . However, Lichas first prayed that Tryphaena's dream might
                 mean no harm, and then said, <quote>There is no objection to searching the ship to
-                    show that we do not despise the workings of Providence.</quote> Then the<pb
-                    id="p.213"/> man who had caught us at our wretched tricks the night before,
+                    show that we do not despise the workings of Providence.</quote> Then the<pb id="p.213"/> man who had caught us at our wretched tricks the night before,
                 whose name was Hesus, suddenly shouted,<quote>Then who are those fellows who were
                     being shaved in the dark by moonlight? A mighty bad precedent, I swear. I am
                     told that no man alive ought to shed a nail or a hair on board ship, unless
@@ -2708,8 +2662,7 @@
                 health. But she took no notice of his sympathy, struck and tore her breast more
                 violently than ever, pulled out her hair, and laid it on the dead body. Still the
                 soldier did not retire, but tried to give the poor woman food with similar
-                encouragements, until the maid, who was no doubt seduced by the smell of his<pb
-                    id="p.233"/> wine, first gave in herself, and put out her hand at his kindly
+                encouragements, until the maid, who was no doubt seduced by the smell of his<pb id="p.233"/> wine, first gave in herself, and put out her hand at his kindly
                 invitation, and then, refreshed with food and drink, began to assail her mistress's
                 obstinacy, and say, 'What will you gain by all this, if you faint away with hunger,
                 if you bury yourself alive, if you breathe out your undoomed soul before Fate calls
@@ -3283,8 +3236,7 @@
                     shall be loosened with fiery heat.</quote> . . .</p>
             <p><milestone unit="section" n="127"/>She was happy, and smiled so sweetly that I
                 thought the full moon had shown me her face from behind a cloud. Then she said,
-                letting the words escape through her fingers, <quote>If you do not despise a rich<pb
-                        id="p.283"/> woman who has known a man first this very year, dear youth, I
+                letting the words escape through her fingers, <quote>If you do not despise a rich<pb id="p.283"/> woman who has known a man first this very year, dear youth, I
                     will give you a new sister. True, you have a brother, too, for I made bold to
                     inquire, but why should you not take to yourself a sister as well? I will come
                     as the same kind of relation. Deign only to recognize my kiss also when it is
@@ -3447,8 +3399,7 @@
                 <l>sed furciferae mortifero timore lusus</l>
                 <l>ad verba, imagis quae poterant nocere, fugi.</l>
             </quote>
-            <p>Erectus igitur in cubitum hac fere oratione contumacem vexavi: <quote><hi
-                        rend="italics">Quid</hi> dicis</quote> inquam <quote>omnium hominum
+            <p>Erectus igitur in cubitum hac fere oratione contumacem vexavi: <quote><hi rend="italics">Quid</hi> dicis</quote> inquam <quote>omnium hominum
                     deorumque pudor? Nam ne nominare quidem te inter res serias fas est. Hoc de te
                     merui, ut me in caelo positum ad inferos traheres? | Ut traduceres<note place="marg">
                         <hi rend="italics">L</hi>
@@ -3734,8 +3685,7 @@
             <p><quote>Dii maiores sunt, qui me restituerunt in integrum. Mercurius enim, qui animas
                     ducere et reducere solet, suis beneficiis reddidit mihi, quod manus irata
                     praeciderat, ut scias me gratiosiorem esse quam Protesilaum<note>He was allowed
-                        to revisit earth after death. <hi rend="italics">See</hi> Wordsworth's <hi
-                            rend="italics">Laodamia.</hi></note> aut quemquam alium
+                        to revisit earth after death. <hi rend="italics">See</hi> Wordsworth's <hi rend="italics">Laodamia.</hi></note> aut quemquam alium
                 antiquorum.</quote> Haec locutus sustuli tunicam Eumolpoque me totum approbavi. At
                 ille primo exhorruit, deinde ut plurimum crederet, utraque manu deorum beneficia
                 tractat . . .</p>
@@ -3817,8 +3767,7 @@
         				the peer of Hellespontine Priapus?</p>
         		</div2>
         		<div2 type="section" n="5"><head>V</head>
-        			<p><hi rend="italics">Priscian Institutiones VIII, 16 and XI, 29</hi> (<hi
-        				rend="italics">pp. 881, 567 ed. Hertz</hi>) <hi rend="italics">among the
+        			<p><hi rend="italics">Priscian Institutiones VIII, 16 and XI, 29</hi> (<hi rend="italics">pp. 881, 567 ed. Hertz</hi>) <hi rend="italics">among the
         					examples by which he shows that the past participles of deponent verbs have a
         					passive meaning:</hi> Petronius, <quote><hi rend="italics">the soul locked</hi>
         						(<hi rend="italics">amplexam</hi>) <hi rend="italics">in our
@@ -3826,13 +3775,11 @@
         		</div2>
         		<div2 type="section" n="5b"><head>V<hi rend="super">b</hi></head>
         			<p><hi rend="italics">Boethius on Victorinus's translation of Porphyry, Dialogue II (p.
-        				45 ed. Basle):</hi> I shall be very glad to do it, he said. But since <hi
-        					rend="italics">the morning sun,</hi> in Petronius's words, <hi rend="italics">has now smiled upon the roofs,</hi> let us get up, and if there is any other
+        				45 ed. Basle):</hi> I shall be very glad to do it, he said. But since <hi rend="italics">the morning sun,</hi> in Petronius's words, <hi rend="italics">has now smiled upon the roofs,</hi> let us get up, and if there is any other
         				point, it shall be treated later with more careful attention.</p>
         		</div2>
         		<div2 type="section" n="6"><head>VI</head>
-        			<p><hi rend="italics">Fulgentius Mythologiae I</hi> (<hi rend="italics">p.</hi> 22 <hi
-        				rend="italics">ed. Muncker</hi>): You do not know . . . how women dread satire.
+        			<p><hi rend="italics">Fulgentius Mythologiae I</hi> (<hi rend="italics">p.</hi> 22 <hi rend="italics">ed. Muncker</hi>): You do not know . . . how women dread satire.
         				Lawyers may retreat and scholars may not utter a syllable before the flood of a
         				woman's words, the rhetorician may be dumb and the herald may stop his cries; satire
         				alone can put a limit to their madness, though it be Petronius's <hi rend="italics">Albucia</hi> who is hot.</p>
@@ -3840,8 +3787,7 @@
         		<pb id="p.329"/>
         		<div2 type="section" n="7"><head>VII</head>
         			<p><hi rend="italics">Fulgentius Mythologiae III, 8 (p. 124), (where he remarked that
-        				essence of myrrh is very strong):</hi> hence too Petronius Arbiter says <hi
-        					rend="italics">that he drank a cup of myrrh in order to excite his passion.</hi></p>
+        				essence of myrrh is very strong):</hi> hence too Petronius Arbiter says <hi rend="italics">that he drank a cup of myrrh in order to excite his passion.</hi></p>
         		</div2>
         		<div2 type="section" n="8"><head>VIII</head>
         			<p><hi rend="italics">Fulgentius in his Treatise on the Contents of Virgil's works (p.
@@ -3853,21 +3799,18 @@
         		<div2 type="section" n="9"><head>
         			<hi rend="italics">IX</hi>
         		</head>
-        			<p><hi rend="italics">Fulgentius in his Explanation of Old Words, 42 (p.</hi> 565 <hi
-        				rend="italics">in Mercer's edition): Ferculum</hi> means a dish of flesh. Hence
+        			<p><hi rend="italics">Fulgentius in his Explanation of Old Words, 42 (p.</hi> 565 <hi rend="italics">in Mercer's edition): Ferculum</hi> means a dish of flesh. Hence
         				too Petronius Arbiter says, <quote>
         					<hi rend="italics">After the dish offlesh (ferculum) was brought in.</hi>
         				</quote></p>
         		</div2>
         		<div2 type="section" n="10"><head>X</head>
         			<p><hi rend="italics">Fulgentius ibid. 46 (p. 565): Valgia</hi> really means the
-        				twisting of the lips which occurs in vomiting. As Petronius also says, <quote><hi
-        					rend="italics">With lips twisted as in a vomit</hi> (<hi rend="italics">valgiter</hi>).</quote></p>
+        				twisting of the lips which occurs in vomiting. As Petronius also says, <quote><hi rend="italics">With lips twisted as in a vomit</hi> (<hi rend="italics">valgiter</hi>).</quote></p>
         		</div2>
         		<div2 type="section" n="11"><head>XI</head>
             <p><hi rend="italics">Fulgentius ibid. 52 (p. 566): Alucinare</hi> means to dream
-                falsely, and is derived from <hi rend="italics">alucitae,</hi> which we call <hi
-                    rend="italics">conopes</hi> (mosquitoes). As Petronius Arbiter says,<quote>
+                falsely, and is derived from <hi rend="italics">alucitae,</hi> which we call <hi rend="italics">conopes</hi> (mosquitoes). As Petronius Arbiter says,<quote>
                     <hi rend="italics">For the mosquitoes (alucitae) were troubling my
                     companion.</hi>
                 </quote></p>
@@ -4010,8 +3953,7 @@
                 Quiritem?</quote> and there the nominative will be <quote>
                     <hi rend="italics">hic Quirites,</hi>
                 </quote> as Petronius says.</p>
-            <p><hi rend="italics">Pompeius in his Commentary on the Art of Donatus</hi> (<hi
-                    rend="italics">Keil p. 167, 9</hi>): No one says <quote>this Roman
+            <p><hi rend="italics">Pompeius in his Commentary on the Art of Donatus</hi> (<hi rend="italics">Keil p. 167, 9</hi>): No one says <quote>this Roman
                 citizen,</quote> but <quote>these Roman citizens,</quote> although we find the
                 former in books. Read Petronius, and you will find this use of the nominative
                 singular. And Petronius says <quote>
@@ -4028,8 +3970,7 @@
                 </quote>).</p>
             	</div2>
         		<div2 type="section" n="24"><head>XXIV</head>
-            <p><hi rend="italics">Hieronymus in his Letter to Demetriades CXXX, 19</hi> (<hi
-                    rend="italics">Vallarsius p.</hi> 995): Boys with hair curled and crimped and
+            <p><hi rend="italics">Hieronymus in his Letter to Demetriades CXXX, 19</hi> (<hi rend="italics">Vallarsius p.</hi> 995): Boys with hair curled and crimped and
                 skins smelling like foreign musk-rats, about whom Arbiter wrote the line, <quote>
                     <hi rend="italics">To smell good always is not to smell good,</hi>
                 </quote><note>The line occurs in Martial 2, 12, 4. The reference to Petronius may be
@@ -4237,8 +4178,7 @@
                 cities in flame, sees arms, and routed hosts, and the deaths of kings, and plains
                 streaming with outpoured blood. They whose life is to plead cases have statutes and
                 the courts before their eyes, and look with terror upon the judgement-seat
-                surrounded by a throng. The miser hides his gains and discovers buried treasure.<pb
-                    id="p.363"/> The hunter shakes the woods with his pack. The sailor snatches his
+                surrounded by a throng. The miser hides his gains and discovers buried treasure.<pb id="p.363"/> The hunter shakes the woods with his pack. The sailor snatches his
                 shipwrecked bark from the waves, or grips it in death-agony. The woman writes to her
                 lover, the adulteress yields herself: and the dog follows the tracks of the hare as
                 he sleeps. The wounds of the unhappy endure into the night-season.</p>

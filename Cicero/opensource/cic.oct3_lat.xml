@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -7147,7 +7146,7 @@ quicquid ad eos recuperatores <name>Apronius</name> attulisset, illum
 perfacile probaturum: condemnari cum istius invidia infamiaque
 malebant quam ad eius condiciones pactionesque
 accedere. <reg>quaerebant</reg> quae in verba recuperatores daret.
-<reg>respondebat</reg>, Sl PARERET<note>si pareret <hi rend="italics">cO</hi> (separ&#x1EBD;t) <hi rend="italics">al.</hi> (&sect;55 <hi rend="italics">supra</hi>; <hi rend="italics">Div.</hi> &sect;56): si paret <hi rend="italics">V edd.</hi></note> ADVERSVS EDICTVM FECISSE; qua
+<reg>respondebat</reg>, Sl PARERET<note>si pareret <hi rend="italics">cO</hi> (separẽt) <hi rend="italics">al.</hi> (&sect;55 <hi rend="italics">supra</hi>; <hi rend="italics">Div.</hi> &sect;56): si paret <hi rend="italics">V edd.</hi></note> ADVERSVS EDICTVM FECISSE; qua
 in re<note>qua in re <hi rend="italics"><foreign lang="greek">p</foreign>k</hi>: in qua re <hi rend="italics">V</hi>: qua re <hi rend="italics">cO</hi>: quae (<foreign lang="greek">d</foreign>) se in iud. <hi rend="italics">Lamb. in mg.</hi> 1584 (<hi rend="italics">falso ex N</hi>)</note> in iudicio dicturum esse aiebat<note>aiebat <hi rend="italics">VcO</hi>: dicebat <hi rend="italics">rell.</hi> (&sect;55 <hi rend="italics">supra</hi>)</note>. <reg>iniquissimis</reg> verbis,
 improbissimis recuperatoribus conflictari malebant quam
 quicquam cum isto sua voluntate decidere. <reg>summittebat</reg>
@@ -7654,7 +7653,7 @@ agris atque urbibus expleti atque saturati cum hoc cumulo
 quaestus decederent.
 
 <!--<milestone n="43" unit="chapter"/>--><milestone n="101" unit="section"/><name>Calactinis</name> quam ob rem imperasti 
-anno tertio ut decumas agri sui, quas <name>Calactae</name><note>Calact&#x0119; <hi rend="italics">p</hi>: Calacte <hi rend="italics">q Prisc. edd.</hi></note> dare consueverant,
+anno tertio ut decumas agri sui, quas <name>Calactae</name><note>Calactę <hi rend="italics">p</hi>: Calacte <hi rend="italics">q Prisc. edd.</hi></note> dare consueverant,
 <name>Amestrati</name> <persName>M. Caesio</persName> decumano darent? quod neque
 ante te praetorem illi fecerant neque tu ipse hoc ita statueras
 antea per biennium. <name>Theomnastus</name> <name>Syracusanus</name> in agrum
@@ -12669,7 +12668,7 @@ de quo ante<note>antea <foreign lang="greek">d</foreign> (iv, &sect;&sect;104, 1
 pecore, villis, pecuniis creditis ut nemini minus expediret
 ullum in <name>Sicilia</name> tumultum aut bellum commoveri; non
 dicam ne illud quidem, si maxime in culpa fuerit <name>Apollonius</name>,
-tamen in hominem honestissimae<note>honestissimae (-&#x0119;) civ. honestissimum <hi rend="italics">SD</hi>: honestissimae (-e) maximae (-e) civ. hon. <hi rend="italics">R<foreign lang="greek">Y</foreign></hi>: honestissimum civitatis honestissimae <hi rend="italics">p<foreign lang="greek">d</foreign></hi>, civitatis <hi rend="italics">suppl. in lac. p2</hi> (iii, &sect;56; v, &sect;&sect;117, 122): <hi rend="italics">cf. Am. J. Ph.</hi> xxvi, <hi rend="italics">p.</hi> 431</note> civitatis honestissimum
+tamen in hominem honestissimae<note>honestissimae (-ę) civ. honestissimum <hi rend="italics">SD</hi>: honestissimae (-e) maximae (-e) civ. hon. <hi rend="italics">R<foreign lang="greek">Y</foreign></hi>: honestissimum civitatis honestissimae <hi rend="italics">p<foreign lang="greek">d</foreign></hi>, civitatis <hi rend="italics">suppl. in lac. p2</hi> (iii, &sect;56; v, &sect;&sect;117, 122): <hi rend="italics">cf. Am. J. Ph.</hi> xxvi, <hi rend="italics">p.</hi> 431</note> civitatis honestissimum
 tam graviter animadverti causa indicta non oportuisse.
 
 <milestone n="21" unit="section"/><reg>nullam</reg> in te invidiam ne ex illis quidem rebus concitabo, 

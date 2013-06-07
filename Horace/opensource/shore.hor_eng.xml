@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -3791,7 +3790,7 @@ usually taken as abl. of place; conceivably dat. Cf. <emph>residunt in partem</e
 (Verg. Aen. 9.539). <lemma lang="la" targOrder="U">asperae</lemma>: the skin wrinkles and roughens as it
 shrinks and settles into place.
 </p></div3>
-<div3 type="commline" n="11"><p><lemma lang="la" targOrder="U">supern</lemma>&lt;*&gt;<lemma lang="la" targOrder="U">&ebreve;</lemma>&lt;/*&gt;<lemma lang="la" targOrder="U"></lemma>:
+<div3 type="commline" n="11"><p><lemma lang="la" targOrder="U">supern</lemma>&lt;*&gt;<lemma lang="la" targOrder="U">&ebreve;</lemma>&lt;/*&gt;<lemma lang="la" targOrder="U"/>:
 so Lucret. 2.1153, 6.544, 597; A. P.4. <lemma lang="la" targOrder="U">l&emacr;ves</lemma>: antithesis with
 <emph>asperae</emph>.
 </p></div3>
@@ -4088,7 +4087,7 @@ transition to moralizing on the blessedness of content generally. <lemma lang="l
 satis est:</lemma> and nothing more; recurs 3.16. 44; Epp. 1.2.46; PubI. Syr. 677,
 
 <foreign lang="la">quod volt habet,qui velle quod satis est potest.</foreign></p>
-<l></l></div3>
+<l/></div3>
 <div3 type="commline" n="26"><p><lemma lang="la" targOrder="U">sollicitat</lemma>: cf. 3.29.26; Epode 2.6, and the
 expansion of the thought in Merchant of Venice, 1.1, 'Your mind is tossing on
 the ocean,' etc.

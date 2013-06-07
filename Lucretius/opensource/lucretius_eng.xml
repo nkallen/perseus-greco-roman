@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
 <teiHeader>
@@ -31,10 +30,8 @@
  
 <encodingDesc>
 <refsDecl>
-<step refunit="book" delim="."
-      from="DESCENDANT (1 DIV1 N %1)" to="DITTO" />
-<step refunit="line"
-      from="DESCENDANT (%2 L)" to="DITTO" />
+<step refunit="book" delim="." from="DESCENDANT (1 DIV1 N %1)" to="DITTO"/>
+<step refunit="line" from="DESCENDANT (%2 L)" to="DITTO"/>
 </refsDecl>
 </encodingDesc>
  
@@ -512,7 +509,7 @@ card breaks not yet aligned
 <l>That which we're seeking with sagacious quest</l>
 <l>Exists, infallibly, commixed with things-</l>
 <l>The void, the invisible inane.</l>
-<milestone unit="card" n="370" />
+<milestone unit="card" n="370"/>
 <l rend="indent">Right here</l>
 <l>I am compelled a question to expound,</l>
 <l>Forestalling something certain folk suppose,</l>
@@ -750,7 +747,7 @@ card breaks not yet aligned
 <l>Since we behold each thing soever renewed,</l>
 <l>And unto all, their seasons, after their kind,</l>
 <l>Wherein they arrive the flower of their age.</l>
-<milestone unit="card" n="551" />
+<milestone unit="card" n="551"/>
 <l rend="indent">    Again, if bounds have not been set against</l>
 <l>The breaking down of this corporeal world,</l>
 <l>Yet must all bodies of whatever things</l>
@@ -1879,7 +1876,7 @@ card breaks not yet aligned
 <l>Nor forth from which a fresh supply can spring,</l>
 <l>Break in upon the founded world, and change</l>
 <l>Whole nature of things, and turn their motions about.</l>
-<milestone unit="card" n="308" />
+<milestone unit="card" n="308"/>
 <l rend="indent">                          Herein wonder not</l>
 <l>How 'tis that, while the seeds of things are all</l>
 <l>Moving forever, the sum yet seems to stand</l>

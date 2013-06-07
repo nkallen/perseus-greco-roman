@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -340,7 +339,7 @@ bona atque honesta copia praesto fuit.
 <milestone n="23" unit="section"/><reg>omnibus</reg> 
 acerba res et misera videbatur. <name>Cum</name> amici in comm . . . 
 
-<gap desc="Major break &ndash; end of one manuscript."/>
+&ndash;<gap desc="Major break  end of one manuscript."/>
 
 turbarunt. 
 
@@ -1179,7 +1178,7 @@ iudices, frugi, inquam, et in omnibus vitae partibus moderatum
 ac temperantem, plenum pudoris, plenum offici, plenum 
 religionis videtis positum in vestra fide ac potestate, atque 
 ita ut commissus sit fidei, permissus potestati. 
-<milestone n="41" unit="section"/></p><p><reg>videte</reg><note>videte] vit&#x0119;<hi rend="italics">V</hi></note> igitur utrum sit aequius hominem honestissimum, 
+<milestone n="41" unit="section"/></p><p><reg>videte</reg><note>videte] vitę<hi rend="italics">V</hi></note> igitur utrum sit aequius hominem honestissimum, 
 virum fortissimum, civem optimum dedi inimicissimis atque 
 immanissimis nationibus an reddi amicis, praesertim cum 
 tot res sint quae vestris animis pro huius innocentis salute 
@@ -1978,7 +1977,7 @@ ut victi in campo in foro vinceretis; tum qui contra vos pro
 huius salute pugnabant, amicissimi vestri, quibus non irascebamini<note>quibus non irascebamini <hi rend="italics">del. Campe</hi></note>, 
 consulatum vobis eripiebant, honori vestro repugnabant, 
 et tamen id inviolata vestra amicitia, integro officio, 
-vetere<note>vetere (-r&#x1EBD; <hi rend="italics">a</hi>) <hi rend="italics">Ta</hi>: veteri <hi rend="italics">cett.</hi></note> exemplo atque instituto optimi cuiusque faciebant. 
+vetere<note>vetere (-rẽ <hi rend="italics">a</hi>) <hi rend="italics">Ta</hi>: veteri <hi rend="italics">cett.</hi></note> exemplo atque instituto optimi cuiusque faciebant. 
 
 
 <milestone n="18" unit="chapter"/><milestone n="50" unit="section"/><reg>ego</reg> vero quibus ornamentis adversor tuis aut cui dignitati 
@@ -3342,7 +3341,7 @@ coniunctione etiam vicinitatis vehementer moventur.
 <milestone n="9" unit="chapter"/><milestone n="22" unit="section"/><reg>omnia</reg> 
 quae dico de <name>Plancio</name> dico expertus in nobis; sumus enim 
 finitimi <name>Atinatibus</name>. <reg>laudanda</reg> est vel etiam amanda vicinitas 
-retinens veterem illum offici morem<note>morem] m~t&#x1EBD; <hi rend="italics">T</hi></note>, non infuscata 
+retinens veterem illum offici morem<note>morem] m~tẽ <hi rend="italics">T</hi></note>, non infuscata 
 malivolentia, non adsueta mendaciis, non fucosa<note>fucosa <hi rend="italics">TEa, Schol.</hi>: fucata <hi rend="italics">cett.</hi></note>, non fallax, 
 non erudita artificio simulationis vel suburbano vel etiam  
 urbano. <reg>nemo</reg> <name>Arpinas</name> non <name>Plancio</name> studuit, nemo <name>Soranus</name><note>sopanus <hi rend="italics">codd.</hi>: <hi rend="italics">corr. ed. R</hi></note>, 

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -111,8 +110,7 @@
 						<head lang="greek">e)k tw=n *(hraklei/dou peri\ *politeiw=n.</head>
 						<p>*)aqhnai=oi to\ me\n e)c a)rxh=s e)xrw=nto basilei/a|. sunoikhsa/ntos de\ *)/iwnos au)toi=s to/te prw=ton *)/iwnes e)klh/qhsan.</p>
 						<div4 type="testimonium">
-							<head lang="en">Harpocration s.v. <foreign lang="greek"
-									>*)apo/llwn Patrw=|os</foreign>.</head>
+							<head lang="en">Harpocration s.v. <foreign lang="greek">*)apo/llwn Patrw=|os</foreign>.</head>
 							<p>&lt;tou/tou ga\r oi)kh/santos th\n *)attikh/n, w(s *)aristote/lhs fhsi/, tou\s *)aqhnai/ous *)/iwnas klhqh=nai, kai\ *)apo/llwna *patrw=|on au)toi=s o)nomasqh=nai.&gt;</p>
 						</div4>
 						<div4 type="testimonium">

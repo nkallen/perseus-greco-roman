@@ -1,9 +1,7 @@
-<?xml version="1.0"?>
-<!DOCTYPE TEI.2
-  PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
    <teiHeader type="text" status="new">
@@ -265,7 +263,7 @@ de\ me/giston w(s e)/oike qeou= sumparo/ntos kai\ sunepeuqu/nontos a)rxa\s mega/
 kai\ tu/xh| th=s a)lhqei/as, a)ne/krinen o(/stis ei)/h kai\ o(/pws 
 ge/noito, fwnh=| te pra|ei/a| kai\ filanqrw/pw| ble/mmati pi/stin au)tw=| met' e)lpi/dos e)ndidou/s.
 <milestone unit="section" n="5"/>o( de\ qarrw=n e)/legen: 
-&quot; a)ll' ou)de\n a)pokru/yomai/ se: kai\ ga\r ei)=nai dokei=s *)amouli/ou basilikw/teros. a)kou/eis ga\r kai\ a)nakri/neis pri\n h)\ 
+" a)ll' ou)de\n a)pokru/yomai/ se: kai\ ga\r ei)=nai dokei=s *)amouli/ou basilikw/teros. a)kou/eis ga\r kai\ a)nakri/neis pri\n h)\ 
 kola/zein: o( d' a)kri/tous e)kdi/dwsi. pro/teron me\n e(autou\s 
 oi)ketw=n basile/ws *faistu/lou kai\ *larenti/as h)pista/meqa 
 pai=das &lpar; e)sme\n de\ di/dumoi&rpar;, geno/menoi d' e)n ai)ti/a| pro\s se\ 
@@ -275,7 +273,7 @@ ki/ndunos.
 <milestone unit="section" n="6"/>gonai\ me\n ga\r h(mw=n a)po/rrhtoi le/gontai, trofai\ de\ kai\ tiqhnh/seis a)topw/terai neognw=n, oi(=s e)rri/fhmen oi)wnoi=s kai\ qhri/ois, u(po\ tou/twn trefo/menoi, mastw=| 
 lukai/nhs kai\ druokola/ptou ywmi/smasin, e)n ska/fh| tini\ 
 kei/menoi para\ to\n me/gan potamo/n. e)/sti d' h( ska/fh kai\ 
-sw/|zetai, xalkoi=s u(pozw/smasi gramma/twn a)mudrw=n e)gkexaragme/nwn, a(\ ge/noit' a)\n u(/steron i)/sws a)nwfelh= gnwri/smata toi=s tokeu=sin h(mw=n a)polome/nwn.&quot;
+sw/|zetai, xalkoi=s u(pozw/smasi gramma/twn a)mudrw=n e)gkexaragme/nwn, a(\ ge/noit' a)\n u(/steron i)/sws a)nwfelh= gnwri/smata toi=s tokeu=sin h(mw=n a)polome/nwn."
 </p>
          <p>
             <milestone unit="section" n="7"/>o( me\n ou)=n 
@@ -755,7 +753,7 @@ a)mfo/teroi, kai\ die/sxon au)tai=s e)n me/sw| katasth=nai th=s
 parata/cews, kai\ klauqmo\s a(/ma dia\ pa/ntwn e)xw/rei, kai\ 
 polu\s oi)=ktos h)=n pro/s te th\n o)/yin kai\ tou\s lo/gous e)/ti 
 ma=llon, ei)s i(kesi/an kai\ de/hsin e)k dikaiologi/as kai\ parrhsi/as teleutw=ntas.
-<milestone unit="section" n="3"/>&quot; ti/ ga/r &lpar; e)/fasan&rpar; u(ma=s deino\n h)\ 
+<milestone unit="section" n="3"/>" ti/ ga/r &lpar; e)/fasan&rpar; u(ma=s deino\n h)\ 
 luphro\n e)rgasa/menai, ta\ me\n h)/dh pepo/nqamen, ta\ de\ 
 pa/sxomen tw=n sxetli/wn kakw=n; h(rpa/sqhmen u(po\ tw=n 
 nu=n e)xo/ntwn bi/a| kai\ parano/mws, a(rpasqei=sai d' h)melh/qhmen u(p' a)delfw=n kai\ pate/rwn kai\ oi)kei/wn xro/non tosou=ton, o(/sos h(ma=s pro\s ta\ e)/xqista kera/sas tai=s megi/stais a)na/gkais pepoi/hke nu=n u(pe\r tw=n biasame/nwn kai\ 
@@ -770,7 +768,7 @@ e)ma/xesqe, pau/sasqai di' h(ma=s penqerou\s gegono/tas kai\
 pa/ppous kai\ oi)kei/ous o)/ntas e)xrh=n.
 <milestone unit="section" n="5"/>ei) d' u(pe\r h(mw=n o( 
 po/lemo/s e)sti, komi/sasqe h(ma=s meta\ gambrw=n kai\ te/knwn, kai\ a)po/dote h(mi=n pate/ras kai\ oi)kei/ous, mhd' a)fe/lhsqe pai=das kai\ a)/ndras. i(keteu/omen u(ma=s mh\ pa/lin 
-ai)xma/lwtoi gene/sqai.&quot;
+ai)xma/lwtoi gene/sqai."
 </p>
          <p>
 toiau=ta polla\ th=s *(ersili/as proagoreuou/shs kai\ tw=n a)/llwn deome/nwn, e)spei/sqhsan a)noxai/, kai\ sunh=lqon ei)s lo/gous oi( h(gemo/nes.
@@ -1120,16 +1118,16 @@ a(ya/menon ei)pei=n e)n pa=sin, w(s o(do\n au)tw=| badi/zonti *(rwmu/los e)c e)n
 kai\ me/gas w(s ou)/pote pro/sqen, o(/plois de\ lamproi=s kai\ 
 fle/gousi kekosmhme/nos.
 <milestone unit="section" n="2"/>au)to\s me\n ou)=n e)kplagei\s pro\s 
-th\n o)/yin &quot; w)= basileu=,&quot; fa/nai, &quot; ti/ dh\ paqw\n h)\ dianohqei/s, 
+th\n o)/yin " w)= basileu=," fa/nai, " ti/ dh\ paqw\n h)\ dianohqei/s, 
 h(ma=s me\n e)n ai)ti/ais &lt; pepoi/hkas&gt; a)di/kois kai\ ponhrai=s, 
-pa=san de\ th\n po/lin o)rfanh\n e)n muri/w| pe/nqei prole/loipas;&quot; e)kei=non d' a)pokri/nasqai: &quot; qeoi=s e)/docen w)= *pro/kle 
+pa=san de\ th\n po/lin o)rfanh\n e)n muri/w| pe/nqei prole/loipas;" e)kei=non d' a)pokri/nasqai: " qeoi=s e)/docen w)= *pro/kle 
 tosou=ton h(ma=s gene/sqai met' a)nqrw/pwn xro/non, e)kei=qen o)/ntas,<note resp="ed" place="unspecified" anchored="yes">
                <foreign lang="greek">e)kei=qen o)/ntas</foreign> MSS., Cora&euml;s, Sintenis<hi rend="superscript">1</hi>, and Bekker; Sintenis<hi rend="superscript">2</hi> transposes to follow <foreign lang="greek">ou)rano/n</foreign>.</note> kai\ po/lin e)p' a)rxh=| kai\ do/ch| megi/sth| kti/santas, au)=qis oi)kei=n 
 ou)rano/n.
 a)lla\ xai=re kai\ fra/ze *(rwmai/ois, 
 o(/ti swfrosu/nhn met' a)ndrei/as a)skou=ntes e)pi\ plei=ston 
 a)nqrwpi/nhs a)fi/contai duna/mews. e)gw\ d' u(mi=n eu)menh\s 
-e)/somai dai/mwn *kuri=nos.&quot;
+e)/somai dai/mwn *kuri=nos."
 <milestone unit="section" n="3"/>tau=ta pista\ me\n ei)=nai toi=s 
 *(rwmai/ois e)do/kei dia\ to\n tro/pon tou= le/gontos kai\ dia\ 
 to\n o(/rkon: ou) mh\n a)lla\ kai\ daimo/nio/n ti sunefa/yasqai 

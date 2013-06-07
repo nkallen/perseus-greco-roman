@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -51,7 +50,7 @@ Libri Octo</title>
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -329,7 +328,7 @@ mineis</hi> (Sam.) 588 <gap reason="needschecking"/> <hi rend="italics">acret</h
 621 <hi rend="italics">obuiusi ante</hi> (Sam.) 629 <hi rend="italics">clamore</hi> (Sam.) 636 <hi rend="italics">exertos</hi> V et Monacensis 638 <hi rend="italics">misseros</hi> V<hi rend="sup">1</hi> (Sam.) 639 <hi rend="italics">ubi</hi> (Sam.)</p>
 <p>VIII 18 <hi rend="italics">Uirgeneos</hi> in <hi rend="italics">Uirgineos</hi> corr. V<hi rend="sup">1</hi> (Sam.)
 39 <hi rend="italics">non nulla</hi> (Sam.) 72 <hi rend="italics">domui q.</hi> (Sam.)
-80 <hi rend="italics">iubet</hi> 129 <hi rend="italics">q&#x014F;q.</hi> V<hi rend="sup">1</hi> (Sam.)
+80 <hi rend="italics">iubet</hi> 129 <hi rend="italics">qŏq.</hi> V<hi rend="sup">1</hi> (Sam.)
 200 <hi rend="italics">locusque</hi> in <hi rend="italics">locosque</hi> corr. V<hi rend="sup">1</hi>
 205 <hi rend="italics">quaquam</hi> (Sam.) 211 <hi rend="italics">ipse</hi> (Sam.) 218 <hi rend="italics">ilbi</hi> potius quam <hi rend="italics">ubi</hi> 223 <hi rend="italics">fatantur</hi> in <hi rend="italics">fatentur</hi> corr V<hi rend="sup">1</hi> (Sam.)
 229 <hi rend="italics">cydera</hi> in <hi rend="italics">cythera</hi> corr. V<hi rend="sup">1</hi> itemque v. 235 ('corr. V<hi rend="sup">2</hi>' Sam.) 231 <hi rend="italics">stistinet</hi> 233 <hi rend="italics">aetida</hi> V et Monacensis (Sam.) 239 <hi rend="italics">planctu sacer</hi> (ut Monacensis) 279 <hi rend="italics">caelebro datalia</hi> (Sam.) 280 <hi rend="italics">de quaeso</hi> (Sam.) 289 <hi rend="italics">amon-
@@ -418,7 +417,7 @@ quod duo illi versus ita sunt obliterati, ut neque Thiloni neque mihi oculorum a
 omnia explicarentur, contingeret. haec ipse legi (dubias literas punctis suppositis significabo):
 <quote rend="blockquote">
 <l><hi rend="italics">No<gap reason="needschecking"/>  renoua noxa monachoru <gap reason="needschecking"/> lag ... doxa</hi></l>
-<l><hi rend="italics">En monachu<gap reason="needschecking"/>  ... dit qu&#x0113; demon .. ll ... <gap reason="needschecking"/> trauit.</hi></l></quote></p>
+<l><hi rend="italics">En monachu<gap reason="needschecking"/>  ... dit quē demon .. ll ... <gap reason="needschecking"/> trauit.</hi></l></quote></p>
 <p>Quamquam igitur in epigrammate non nimium profeci
 eruendo, hoc aegre ferendum vix puto; neque enim adsentior
 Thiloni, qui, quo in monasterio scriptus sit codex, in illa sub-
@@ -432,45 +431,45 @@ inter literas <hi rend="italics">l</hi> et <hi rend="italics">f</hi> interposito
 sum nomen non iam intellexisse.</note>) accedit, quod in Vaticano ipso <hi rend="italics">g</hi> litera
 duobus locis insularem formam (<gap reason="needschecking"/> ) servavit; dico v. VI 37
 <hi rend="italics">pla<gap reason="needschecking"/> a</hi> et v. VI 289 <hi rend="italics">Sug<gap reason="needschecking"/> ere.</hi> denique multae literarum mutationes nisi ex insulari scriptura vix intelleguntur. vide e. g.
-mutatas literas <hi rend="italics">n</hi> &#x2053; <hi rend="italics">r</hi>:</p>
-<p>I 8 <hi rend="italics">canbasa</hi> &#x2053; *<hi rend="italics">carbasa</hi><note>lectiones emendatae hic et ubique asterisco notantur.</note>) 449 <hi rend="italics">penderet</hi> V olim &#x2053; *<hi rend="italics">per-
-deret</hi> V<hi rend="sup">1</hi> II 109 <hi rend="italics">defendene</hi> &#x2053; *<hi rend="italics">defendere</hi>
+mutatas literas <hi rend="italics">n</hi> ⁓ <hi rend="italics">r</hi>:</p>
+<p>I 8 <hi rend="italics">canbasa</hi> ⁓ *<hi rend="italics">carbasa</hi><note>lectiones emendatae hic et ubique asterisco notantur.</note>) 449 <hi rend="italics">penderet</hi> V olim ⁓ *<hi rend="italics">per-
+deret</hi> V<hi rend="sup">1</hi> II 109 <hi rend="italics">defendene</hi> ⁓ *<hi rend="italics">defendere</hi>
 379 <hi rend="italics">penricula</hi>
 457 <hi rend="italics">instanre</hi> (exemplar procul dubio <hi rend="italics">instan<gap reason="needschecking"/> e</hi> exhibuit)
-529 <hi rend="italics">fragon</hi> &#x2053; *<hi rend="italics">fragor</hi>
-IV 3 <hi rend="italics">Iunorem</hi> &#x2053; *<hi rend="italics">nonem</hi>
-727 <hi rend="italics">anguet</hi> &#x2053; *<hi rend="italics">ur-
+529 <hi rend="italics">fragon</hi> ⁓ *<hi rend="italics">fragor</hi>
+IV 3 <hi rend="italics">Iunorem</hi> ⁓ *<hi rend="italics">nonem</hi>
+727 <hi rend="italics">anguet</hi> ⁓ *<hi rend="italics">ur-
 guet</hi>
-VI 554 <hi rend="italics">haunit</hi> &#x2053; * <hi rend="italics">haurit</hi>
-VII 139 <hi rend="italics">precani</hi> &#x2053; *<hi rend="italics">pre-
+VI 554 <hi rend="italics">haunit</hi> ⁓ * <hi rend="italics">haurit</hi>
+VII 139 <hi rend="italics">precani</hi> ⁓ *<hi rend="italics">pre-
 cari</hi>
-VIII 77 <hi rend="italics">panumper</hi> &#x2053; *<hi rend="italics">parumper</hi>
-263 <hi rend="italics">sonorem</hi> &#x2053; *<hi rend="italics">so-
+VIII 77 <hi rend="italics">panumper</hi> ⁓ *<hi rend="italics">parumper</hi>
+263 <hi rend="italics">sonorem</hi> ⁓ *<hi rend="italics">so-
 rorem</hi>
-<hi rend="italics">p</hi> &#x2053; <hi rend="italics">r</hi>: I 330 <hi rend="italics">paucos</hi> &#x2053; *<hi rend="italics">raucos</hi>
+<hi rend="italics">p</hi> ⁓ <hi rend="italics">r</hi>: I 330 <hi rend="italics">paucos</hi> ⁓ *<hi rend="italics">raucos</hi>
 516 <hi rend="italics">peruer-
-uerat</hi> &#x2053; *<hi rend="italics">reuerberat</hi>
-IV 698 <hi rend="italics">phoebi</hi> &#x2053; *<hi rend="italics">rhebae</hi>
+uerat</hi> ⁓ *<hi rend="italics">reuerberat</hi>
+IV 698 <hi rend="italics">phoebi</hi> ⁓ *<hi rend="italics">rhebae</hi>
 V 168 <hi rend="italics">per-
-uulsis</hi> &#x2053; *<hi rend="italics">reuulsis</hi>
-<hi rend="italics">p</hi> &#x2053; <hi rend="italics">f</hi>: III 96 <hi rend="italics">pacesque</hi> &#x2053; *<hi rend="italics">facesque</hi>
+uulsis</hi> ⁓ *<hi rend="italics">reuulsis</hi>
+<hi rend="italics">p</hi> ⁓ <hi rend="italics">f</hi>: III 96 <hi rend="italics">pacesque</hi> ⁓ *<hi rend="italics">facesque</hi>
 
 <pb id="p.xv"/>
 
-539 <hi rend="italics">pe<gap reason="needschecking"/> cula</hi> &#x2053; *<hi rend="italics">fercula</hi> 664 <hi rend="italics">fax</hi> &#x2053; *<hi rend="italics">pax</hi> IV 20 <hi rend="italics">fas</hi> &#x2053; *<hi rend="italics">pax</hi> VII 288 <hi rend="italics">fraecor</hi> &#x2053; <hi rend="italics">precor</hi> VIII 277 <hi rend="italics">pater</hi> (<hi rend="overline"><hi rend="italics">pr</hi></hi>) &#x2053; *<hi rend="italics">fra-
-ter</hi> (<hi rend="overline"><hi rend="italics">fr</hi></hi>) <hi rend="italics">f</hi> &#x2053; <hi rend="italics">r</hi>: II 392 <hi rend="italics">faemos</hi> &#x2053; *<hi rend="italics">remos s</hi> &#x2053; <hi rend="italics">p</hi>: I 148 <hi rend="italics">hispasus</hi> &#x2053; *<hi rend="italics">hippasus</hi> 234 <hi rend="italics">mossoque</hi> &#x2053; *<hi rend="italics">mopsoque.</hi></p>
-<p>Fortasse huc etiam mutatio literarum <hi rend="italics">a</hi> &#x2053; <hi rend="italics">x</hi> spectat, quae
-est IV 362: <hi rend="italics">caraxe</hi> (<hi rend="italics">carxe</hi> sine dubio in archetypo fuit) &#x2053;
+539 <hi rend="italics">pe<gap reason="needschecking"/> cula</hi> ⁓ *<hi rend="italics">fercula</hi> 664 <hi rend="italics">fax</hi> ⁓ *<hi rend="italics">pax</hi> IV 20 <hi rend="italics">fas</hi> ⁓ *<hi rend="italics">pax</hi> VII 288 <hi rend="italics">fraecor</hi> ⁓ <hi rend="italics">precor</hi> VIII 277 <hi rend="italics">pater</hi> (<hi rend="overline"><hi rend="italics">pr</hi></hi>) ⁓ *<hi rend="italics">fra-
+ter</hi> (<hi rend="overline"><hi rend="italics">fr</hi></hi>) <hi rend="italics">f</hi> ⁓ <hi rend="italics">r</hi>: II 392 <hi rend="italics">faemos</hi> ⁓ *<hi rend="italics">remos s</hi> ⁓ <hi rend="italics">p</hi>: I 148 <hi rend="italics">hispasus</hi> ⁓ *<hi rend="italics">hippasus</hi> 234 <hi rend="italics">mossoque</hi> ⁓ *<hi rend="italics">mopsoque.</hi></p>
+<p>Fortasse huc etiam mutatio literarum <hi rend="italics">a</hi> ⁓ <hi rend="italics">x</hi> spectat, quae
+est IV 362: <hi rend="italics">caraxe</hi> (<hi rend="italics">carxe</hi> sine dubio in archetypo fuit) ⁓
 *<hi rend="italics">carae.</hi></p>
 <p>Neque vero ipsum Vaticani codicis archetypon literis insularibus conscriptum fuisse videtur, sed archetypi fons. respicias quaeso, quod vv. 11 457 (<hi rend="italics">instanre</hi> ex archetypi lec-
 tione <hi rend="italics">instan<gap reason="needschecking"/> e</hi>) et IV 362 (<hi rend="italics">caraxe</hi> ex <hi rend="italics">carx<gap reason="needschecking"/> e</hi>) et errores et correctiones iam archetypi librario literas insulares non satis
 dignoscenti attribuenda esse apparet. praeterea aliae literarum permutationes in V obviae facilius ex usitata scriptura
 minuscula intelleguntur, veluti
-<hi rend="italics">r</hi> &#x2053; <hi rend="italics">t</hi>: II 362 <hi rend="italics">Tertor</hi> &#x2053; *<hi rend="italics">Terror</hi> IV 275 <hi rend="italics">Integet</hi> &#x2053; *<hi rend="italics">In-
-teger</hi> V 84 <hi rend="italics">pharentes</hi> &#x2053; *<hi rend="italics">patentes</hi> VII 38 <hi rend="italics">equote</hi> &#x2053; *<hi rend="italics">aequore</hi> 59 <hi rend="italics">mouera clatet</hi> &#x2053; *<hi rend="italics">mouet ac latet</hi> <hi rend="italics">i</hi> &#x2053; <hi rend="italics">r</hi>: VII 298
-<hi rend="italics">Piensa</hi> &#x2053; *<hi rend="italics">Prensa</hi> <hi rend="italics">n</hi> &#x2053; <hi rend="italics">ri</hi>: III 672 <hi rend="italics">enim</hi> (<hi rend="italics">en&itilde;</hi>) V olim
-&#x2053; *<hi rend="italics">erit</hi> V<hi rend="sup">1</hi> V 42 <hi rend="italics">funis</hi> &#x2053; *<hi rend="italics">furiis</hi> V 322 <hi rend="italics">respuent</hi> &#x2053; *<hi rend="italics">re-
-spuerit</hi> VII 274 <hi rend="italics">uideni</hi> &#x2053; *<hi rend="italics">uiderit</hi> <hi rend="italics">c</hi> &#x2053; <hi rend="italics">r</hi>: VII 379 <hi rend="italics">cogant</hi> &#x2053; *<hi rend="italics">rogant.</hi></p>
+<hi rend="italics">r</hi> ⁓ <hi rend="italics">t</hi>: II 362 <hi rend="italics">Tertor</hi> ⁓ *<hi rend="italics">Terror</hi> IV 275 <hi rend="italics">Integet</hi> ⁓ *<hi rend="italics">In-
+teger</hi> V 84 <hi rend="italics">pharentes</hi> ⁓ *<hi rend="italics">patentes</hi> VII 38 <hi rend="italics">equote</hi> ⁓ *<hi rend="italics">aequore</hi> 59 <hi rend="italics">mouera clatet</hi> ⁓ *<hi rend="italics">mouet ac latet</hi> <hi rend="italics">i</hi> ⁓ <hi rend="italics">r</hi>: VII 298
+<hi rend="italics">Piensa</hi> ⁓ *<hi rend="italics">Prensa</hi> <hi rend="italics">n</hi> ⁓ <hi rend="italics">ri</hi>: III 672 <hi rend="italics">enim</hi> (<hi rend="italics">en&itilde;</hi>) V olim
+⁓ *<hi rend="italics">erit</hi> V<hi rend="sup">1</hi> V 42 <hi rend="italics">funis</hi> ⁓ *<hi rend="italics">furiis</hi> V 322 <hi rend="italics">respuent</hi> ⁓ *<hi rend="italics">re-
+spuerit</hi> VII 274 <hi rend="italics">uideni</hi> ⁓ *<hi rend="italics">uiderit</hi> <hi rend="italics">c</hi> ⁓ <hi rend="italics">r</hi>: VII 379 <hi rend="italics">cogant</hi> ⁓ *<hi rend="italics">rogant.</hi></p>
 <p>Archetypon igitur Vaticani ex codice quodam sive in Britannia sive in monasterio Britannico Germaniae insulari scriptura exarato descriptum minusculis literis esse mihi videtur; tum demum ex illo exemplari minusculae scripturae ipse
 Vaticanus in Germania fluxit. qui quo anno in Italiam adlatus sit nescimus; quod tamen factum esse paulo post quam
 Poggius Sangallensem repperit (a. 1416), inde apparet, quod
@@ -821,16 +820,16 @@ non adnotavi.</note>)</p>
 <pb id="p.xxvii"/>
 
 que verba vicina, sed inter se non cohaerentia, falso coniunxit vel extremas syllabas eorum adsimilavit.<note>huc spectant, ut nonnulla exempla e primo libro afferam:
-I 69 <hi rend="italics">quo uomere</hi> &#x2053; *<hi rend="italics">qui uomere</hi> 180 <hi rend="italics">subitusque paratus</hi>
-&#x2053; *<hi rend="italics">subitusque paratis</hi> 351 <hi rend="italics">amplexu tristi</hi> &#x2053; *<hi rend="italics">amplexus tristi</hi>
-564 <hi rend="italics">truces</hi> &mdash; <hi rend="italics">labores</hi> &#x2053; *<hi rend="italics">trucis</hi> &mdash; <hi rend="italics">labores</hi> 609 <hi rend="italics">ualidam con-
-tortam</hi> &#x2053; *<hi rend="italics">ualidam contorto</hi> 730 <hi rend="italics">sacri Ioui</hi> &#x2053; *<hi rend="italics">sacra Ioui</hi>
-737 <hi rend="italics">Thessales exanimes</hi> &#x2053; *<hi rend="italics">Thessalis exanimes</hi> 769 <hi rend="italics">obitum
-natumque domumque</hi> &#x2053; *<hi rend="italics">obitus natumque domumque</hi> 795 <hi rend="italics">terras
-oculos</hi> &#x2053; *<hi rend="italics">terras oculis</hi> 822 <hi rend="italics">reuomente ueste</hi> &#x2053; *<hi rend="italics">reuomentes ueste.</hi>
+I 69 <hi rend="italics">quo uomere</hi> ⁓ *<hi rend="italics">qui uomere</hi> 180 <hi rend="italics">subitusque paratus</hi>
+⁓ *<hi rend="italics">subitusque paratis</hi> 351 <hi rend="italics">amplexu tristi</hi> ⁓ *<hi rend="italics">amplexus tristi</hi>
+564 <hi rend="italics">truces</hi> &mdash; <hi rend="italics">labores</hi> ⁓ *<hi rend="italics">trucis</hi> &mdash; <hi rend="italics">labores</hi> 609 <hi rend="italics">ualidam con-
+tortam</hi> ⁓ *<hi rend="italics">ualidam contorto</hi> 730 <hi rend="italics">sacri Ioui</hi> ⁓ *<hi rend="italics">sacra Ioui</hi>
+737 <hi rend="italics">Thessales exanimes</hi> ⁓ *<hi rend="italics">Thessalis exanimes</hi> 769 <hi rend="italics">obitum
+natumque domumque</hi> ⁓ *<hi rend="italics">obitus natumque domumque</hi> 795 <hi rend="italics">terras
+oculos</hi> ⁓ *<hi rend="italics">terras oculis</hi> 822 <hi rend="italics">reuomente ueste</hi> ⁓ *<hi rend="italics">reuomentes ueste.</hi>
 <p>sed licet plurima eiusmodi vitia neglegentiae sint attri-
 buendae, nonnunquam scribam, quae non intellexerit, consulto
-mutasse manifestum est, velut II 412 <hi rend="italics">uiridis circa horrida tel&#x0103;
+mutasse manifestum est, velut II 412 <hi rend="italics">uiridis circa horrida telă
 silua tremit</hi> pro *<hi rend="italics">uiridi circa horrida tel&acirc; silua tremit.</hi></p></note>)</p>
 <p>Plus delectationis quam ponderis illa vitia habent, quae
 inde orta sunt, quod scriba ut monachus verba ab ipsius
@@ -983,9 +982,9 @@ in 331 foliis chartaceis maximae formae continet Sili Punica
 (usque ad fol. 288) et Valerium Flaccum. in primo libro Valeri tot scholiis, glossis, rasuris, lectionibus variis maculatus
 est, ut primae manus scripturae saepe vix aut omnino non
 possint perspici. in ceteris Argonauticon libris tales maculae vix inveniuntur. in fine haec addita sunt:</p>
-<p><hi rend="italics">Finis eius quod inuenitur argonauticon. et quia ex&#x1EBD;plar &itilde;
-multis carminibus medosu erat <gap reason="needschecking"/>  script&umacr; &#x1EBD; festine opus alio
-<hi rend="italics">t<hi rend="overline">por</hi>e corrig&#x0113;;d&umacr;.</hi> In Sancto Gallo. M.<gap reason="needschecking"/>  CCCC.<gap reason="needschecking"/>  <gap reason="needschecking"/> XXVI<gap reason="needschecking"/>  Iulij. XVI.<gap reason="needschecking"/> </hi></p>
+<p><hi rend="italics">Finis eius quod inuenitur argonauticon. et quia exẽplar &itilde;
+multis carminibus medosu erat <gap reason="needschecking"/>  script&umacr; ẽ festine opus alio
+<hi rend="italics">t<hi rend="overline">por</hi>e corrigē;d&umacr;.</hi> In Sancto Gallo. M.<gap reason="needschecking"/>  CCCC.<gap reason="needschecking"/>  <gap reason="needschecking"/> XXVI<gap reason="needschecking"/>  Iulij. XVI.<gap reason="needschecking"/> </hi></p>
 <p>Quam subscriptionem falsario tribuendam esse Thilo contendit (praef. p. LXVI), Schmiedeberg contra e manu Bartholomaei de Montepoliciano, Poggii amici, profectam esse
 suspicatur (in diss. laud. p. 25 adn.). qua de re infra verba
 faciam. codicem satis multis locis ipse inspexi, tertii libri photographa mihi praesto sunt.</p>
@@ -1341,7 +1340,7 @@ Par. codicis <hi rend="italics">dat uultus</hi> ob vicinum nomen <hi rend="itali
 <pb id="p.xliv"/>
 
 fuisse videtur, quod aliquo modo metro adaptare conatus
-est Parisini librarius: <hi rend="italics">vult&uacute;s d&#x0103;t &#x0115;t p&oacute;ndera</hi> (?)), 593 <hi rend="italics">coorstum</hi>
+est Parisini librarius: <hi rend="italics">vult&uacute;s dăt ĕt p&oacute;ndera</hi> (?)), 593 <hi rend="italics">coorstum</hi>
 Par., <hi rend="italics">cohoruis</hi> V, *<hi rend="italics">cohors vix,</hi> II 46 <hi rend="italics">occurrit</hi> Par., *<hi rend="italics">occurrens</hi> V,
 VII 228 <hi rend="italics">patriamque uocato</hi> Par., *<hi rend="italics">patriam inde uocato</hi> V
 (hic excerptor sicut novicii omnes <hi rend="italics">inde</hi> parum intellexit;
@@ -1393,7 +1392,7 @@ potest, quin idem, qui <hi rend="italics">igni</hi> e Vergilio interpolavit, sen
 Par.) integra in exemplari suo reppererit. <hi rend="italics">meus</hi> autem nihil
 aliud significare atque <hi rend="italics">mens</hi> non est quod dicam; nam <hi rend="italics">n</hi> et
 <hi rend="italics">u</hi> literae in eius aetatis codicibus saepe vix discernuntur
-(cf. etiam II 44 &utilde; &#x2053; <hi rend="italics">&ntilde;</hi> i 120 <hi rend="italics">&utilde;</hi> &#x2053; <hi rend="italics">&ntilde;</hi> 45 <hi rend="italics">uoctisque, uiger</hi>).</p>
+(cf. etiam II 44 &utilde; ⁓ <hi rend="italics">&ntilde;</hi> i 120 <hi rend="italics">&utilde;</hi> ⁓ <hi rend="italics">&ntilde;</hi> 45 <hi rend="italics">uoctisque, uiger</hi>).</p>
 <p>Ex illius vetustioris excerptorum libri scriptura non satis
 perspicua etiam has lectiones in Par. labem traxisse arbitror: I 586 <hi rend="italics">tunc</hi> in <hi rend="italics">iter</hi> corr. Par.<note>Helmium B. Ph. W. 1911, 265 hac in re mecum consen-
 tire gaudeo.</note> (scil. mutatis compendiis
@@ -2206,7 +2205,7 @@ queritur (292 sq.). veram lectionem iam Pius lenissima mutatione restituerat: <h
 'heu ipsa quoque, quamquam sero, pendo Furiis debitum<note>cf. v 281: <hi rend="italics">fraudata ... Erinys.</hi></note>)
 scelus parricidii.' praeterea sic locum intellegendum esse testis est Statius (Theb. V 628), qui sic Valerium imitatur:
 <hi rend="italics">exsolvi</hi> (scil. ego Hypsipyle) <hi rend="italics">tibi, Lemne, nefas.</hi></p>
-<p>II 322 <hi rend="italics">a&#x012D;t, haec hospita, credited puppis</hi> C, <hi rend="italics">hospita</hi> om. V.</p>
+<p>II 322 <hi rend="italics">aĭt, haec hospita, credited puppis</hi> C, <hi rend="italics">hospita</hi> om. V.</p>
 <p>C libri lectionem iam Thilo recte refutavit (p. XLIV) his
 verbis: 'hospitus dicitur, qui aut alienus est vel peregrinus,
 aut hospitaliter aliquem excipit, aut hospitio alicui iunctus
@@ -2399,7 +2398,7 @@ quadraginta loci supersunt, ubi C aut solus aut una cum
 Parisino (I 331) genuinas lectiones pro V codicis vitiosis exhibet.<note>quem numerum, cum plures codices interpolatos cognoverimus, minutum iri verisimillimum est. dico autem has: 1 132
 <hi rend="italics">illa sedet</hi> C (?), <hi rend="italics">illa</hi> om. V 331 <hi rend="italics">pontumque polumque</hi> Par. C,
 <hi rend="italics">potumque cretamque</hi> V 337 <hi rend="italics">signiferum cratera</hi> C (<hi rend="italics">signiferum
-crat&#x1EBD;</hi> M<hi rend="sup">2</hi>, <hi rend="italics">signiferam crateram</hi> V 704 <hi rend="italics">ora</hi> C, <hi rend="italics">ira</hi> V II 6 <hi rend="italics">fre-
+cratẽ</hi> M<hi rend="sup">2</hi>, <hi rend="italics">signiferam crateram</hi> V 704 <hi rend="italics">ora</hi> C, <hi rend="italics">ira</hi> V II 6 <hi rend="italics">fre-
 tis</hi> C, <hi rend="italics">freti</hi> V 502 <hi rend="italics">passosque sinus</hi> C, <hi rend="italics">passusque sinu</hi> V
 III 106 <hi rend="italics">Olenii</hi> C, <hi rend="italics">ochenii</hi> V 182 <hi rend="italics">diuersa Sagen</hi> C, <hi rend="italics">diuersas
 agent</hi> SMU (V deest) 278 <hi rend="italics">flatus</hi> C, <hi rend="italics">fletus</hi> V 341 <hi rend="italics">festina</hi> C,
@@ -2589,7 +2588,7 @@ dit iter; mox ...</hi></p>
 
 Vergilianorum compositum esse persuasum habeo. leguntur
 enim haec in C: <hi rend="italics">Quam modo Tartareo galeam Medea veneno</hi>
-&lt;<hi rend="italics">Infectam deder&#x0103;t ususque armarat in illos</hi>&gt; <hi rend="italics">In medios torsit.</hi></p>
+&lt;<hi rend="italics">Infectam dederăt ususque armarat in illos</hi>&gt; <hi rend="italics">In medios torsit.</hi></p>
 <p>Ad quod supplementum cf. Verg. Aen. VII 341: <hi rend="italics">Gorgoneis
 Allecto infecta venenis</hi> et Aen. IV 647 <hi rend="italics">non hos quaesitum
 munus in usus</hi> vel Moretum 20 <hi rend="italics">quam fixam paries illos
@@ -2646,27 +2645,27 @@ meam inauguralem praefationis loco imprimendam liberalissime et benevolentissime
 
 <p>***<table>
 <row><cell>Lib. I</cell><cell>42</cell><cell>p. LXX</cell><cell>Lib. IV</cell><cell>301 sqq.</cell><cell>p. XXI</cell></row>
-<row><cell></cell><cell>49</cell><cell>p. LXX</cell><cell></cell><cell>572 sqq.</cell><cell>p. LXXIV</cell></row>
-<row><cell></cell><cell>403&ndash;410</cell><cell>p. XXIV</cell><cell></cell><cell>651 sqq.</cell><cell>p. XXII</cell></row>
-<row><cell></cell><cell>581</cell><cell>p. XXVIII</cell></row>
-<row><cell></cell><cell>593</cell><cell>p. LXX</cell><cell>Lib. V</cell><cell>82 sqq.</cell><cell>p. XXII</cell></row>
-<row><cell></cell><cell>779 sqq.</cell><cell>p. XIX</cell><cell></cell><cell>134 sqq.</cell><cell>p. LXXV</cell></row>
-<row><cell>Lib. II</cell><cell>111</cell><cell>p. LXIX adn.</cell><cell></cell><cell></cell><cell>et LXIII</cell></row>
-<row><cell></cell><cell>294</cell><cell>p. LXXI</cell><cell></cell><cell>321 sqq.</cell><cell>p. XVII</cell></row>
-<row><cell></cell><cell>322</cell><cell>p. lXXI</cell><cell></cell><cell>515</cell><cell>p. lXXVI</cell></row>
-<row><cell></cell><cell>335 sqq.</cell><cell>p. XX</cell><cell></cell><cell>692</cell><cell>p. XXiX</cell></row>
-<row><cell></cell><cell>375 sqq.</cell><cell>p. XVI</cell></row>
-<row><cell></cell><cell>439 sq.</cell><cell>p. LXXII</cell><cell>Lib. VI</cell><cell>120 sqq.</cell><cell>p. XVII</cell></row>
-<row><cell></cell><cell>473</cell><cell>p. XXVII</cell><cell></cell><cell>569 sqq.</cell><cell>p. XVIII</cell></row>
-<row><cell></cell><cell>535</cell><cell>p. LXXII</cell><cell>Lib. VII</cell><cell>55 sqq.</cell><cell>p. XXIII</cell></row>
-<row><cell></cell><cell>599</cell><cell>p. LXXII</cell><cell></cell><cell>185 sqq.</cell><cell>p. XVIII</cell></row>
-<row><cell>Lib. III</cell><cell>168 sq.</cell><cell>p. LXXIII</cell><cell></cell><cell>228</cell><cell>p. XLIV</cell></row>
-<row><cell></cell><cell>208 sqq.</cell><cell>p. XX</cell><cell></cell><cell>276-283</cell><cell>p. XXV</cell></row>
-<row><cell></cell><cell>210</cell><cell>p. LXXIII</cell><cell></cell><cell>373</cell><cell>p. LXIV</cell></row>
-<row><cell></cell><cell>298</cell><cell>p. LXXIV</cell><cell></cell><cell>478 sq.</cell><cell>p. LXXVII</cell></row>
-<row><cell></cell><cell>511</cell><cell>p. XXVII</cell><cell></cell><cell>533</cell><cell>p. LXXVI</cell></row>
-<row><cell></cell><cell>519</cell><cell>p. LXIII</cell><cell></cell><cell>590 sq.</cell><cell>p. LXXVI</cell></row>
-<row><cell></cell><cell>572 sqq.</cell><cell>p. XX</cell><cell></cell><cell>630</cell><cell>p. LXXVII</cell></row>
+<row><cell/><cell>49</cell><cell>p. LXX</cell><cell/><cell>572 sqq.</cell><cell>p. LXXIV</cell></row>
+<row><cell/><cell>403&ndash;410</cell><cell>p. XXIV</cell><cell/><cell>651 sqq.</cell><cell>p. XXII</cell></row>
+<row><cell/><cell>581</cell><cell>p. XXVIII</cell></row>
+<row><cell/><cell>593</cell><cell>p. LXX</cell><cell>Lib. V</cell><cell>82 sqq.</cell><cell>p. XXII</cell></row>
+<row><cell/><cell>779 sqq.</cell><cell>p. XIX</cell><cell/><cell>134 sqq.</cell><cell>p. LXXV</cell></row>
+<row><cell>Lib. II</cell><cell>111</cell><cell>p. LXIX adn.</cell><cell/><cell/><cell>et LXIII</cell></row>
+<row><cell/><cell>294</cell><cell>p. LXXI</cell><cell/><cell>321 sqq.</cell><cell>p. XVII</cell></row>
+<row><cell/><cell>322</cell><cell>p. lXXI</cell><cell/><cell>515</cell><cell>p. lXXVI</cell></row>
+<row><cell/><cell>335 sqq.</cell><cell>p. XX</cell><cell/><cell>692</cell><cell>p. XXiX</cell></row>
+<row><cell/><cell>375 sqq.</cell><cell>p. XVI</cell></row>
+<row><cell/><cell>439 sq.</cell><cell>p. LXXII</cell><cell>Lib. VI</cell><cell>120 sqq.</cell><cell>p. XVII</cell></row>
+<row><cell/><cell>473</cell><cell>p. XXVII</cell><cell/><cell>569 sqq.</cell><cell>p. XVIII</cell></row>
+<row><cell/><cell>535</cell><cell>p. LXXII</cell><cell>Lib. VII</cell><cell>55 sqq.</cell><cell>p. XXIII</cell></row>
+<row><cell/><cell>599</cell><cell>p. LXXII</cell><cell/><cell>185 sqq.</cell><cell>p. XVIII</cell></row>
+<row><cell>Lib. III</cell><cell>168 sq.</cell><cell>p. LXXIII</cell><cell/><cell>228</cell><cell>p. XLIV</cell></row>
+<row><cell/><cell>208 sqq.</cell><cell>p. XX</cell><cell/><cell>276-283</cell><cell>p. XXV</cell></row>
+<row><cell/><cell>210</cell><cell>p. LXXIII</cell><cell/><cell>373</cell><cell>p. LXIV</cell></row>
+<row><cell/><cell>298</cell><cell>p. LXXIV</cell><cell/><cell>478 sq.</cell><cell>p. LXXVII</cell></row>
+<row><cell/><cell>511</cell><cell>p. XXVII</cell><cell/><cell>533</cell><cell>p. LXXVI</cell></row>
+<row><cell/><cell>519</cell><cell>p. LXIII</cell><cell/><cell>590 sq.</cell><cell>p. LXXVI</cell></row>
+<row><cell/><cell>572 sqq.</cell><cell>p. XX</cell><cell/><cell>630</cell><cell>p. LXXVII</cell></row>
 </table></p>
 
 <pb id="p.lxxxvi"/></div3>
@@ -2675,7 +2674,7 @@ meam inauguralem praefationis loco imprimendam liberalissime et benevolentissime
 
 <p>***<table>
 <row><cell><hi rend="italics">V</hi>:</cell><cell>cod. Vaticanus 3277 saec. IX</cell></row>
-<row><cell></cell><cell>(V<hi rend="sup">2</hi> manus recentior)</cell></row>
+<row><cell/><cell>(V<hi rend="sup">2</hi> manus recentior)</cell></row>
 <row><cell><hi rend="italics">S</hi>:</cell><cell>cod. Sangallensis (saec. X)</cell></row>
 <row><cell><hi rend="italics">C</hi>:</cell><cell>cod. Carrionis saec. XV</cell></row>
 <row><cell><hi rend="italics">Par.</hi>:</cell><cell>excerpta Parisina (cod. Paris. 7647) saec. XIII</cell></row>
@@ -2685,7 +2684,7 @@ meam inauguralem praefationis loco imprimendam liberalissime et benevolentissime
 <row><cell><hi rend="italics">P</hi>:</cell><cell>cod. Vaticanus 1613</cell></row>
 <row><cell>II:</cell><cell>cod. Vaticanus 1614</cell></row>
 <row><cell><hi rend="italics">M</hi>:</cell><cell>cod. Monacensis</cell><cell rows="8">saec. XV</cell></row>
-<row><cell></cell><cell>(<hi rend="italics">M</hi><hi rend="sup">2</hi>, <hi rend="italics">M</hi><hi rend="sup"><hi rend="italics">r</hi></hi>, <hi rend="italics">M</hi><hi rend="sup"><hi rend="italics">s</hi></hi> manus recentiores)</cell></row>
+<row><cell/><cell>(<hi rend="italics">M</hi><hi rend="sup">2</hi>, <hi rend="italics">M</hi><hi rend="sup"><hi rend="italics">r</hi></hi>, <hi rend="italics">M</hi><hi rend="sup"><hi rend="italics">s</hi></hi> manus recentiores)</cell></row>
 <row><cell><hi rend="italics">U</hi>:</cell><cell>cod. Urbin. 669</cell></row>
 <row><cell><hi rend="italics">F</hi>:</cell><cell>cod. Urbin. 353</cell></row>
 <row><cell><hi rend="italics">R</hi>:</cell><cell>cod. Reginensis 1831</cell></row>

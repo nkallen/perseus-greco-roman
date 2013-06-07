@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -110,9 +109,9 @@
 <milestone unit="chapter" n="6"/>
 <milestone unit="section" n="1"/>Urbem Romam, sicuti ego accepi, condidere atque habuere initio Troiani, qui Aenea duce profugi sedibus incertis vagabantur, cumque iis Aborigines, genus hominum agreste, sine legibus, sine imperio, liberum atque solutum.
 <milestone unit="section" n="2"/>hi postquam in una moenia convenere, dispari genere, dissimili lingua, alius alio more viventes, incredibile memoratu est quam facile coaluerint: &lt;ita brevi multitudo dispersa atque vaga concordia civitas facta erat&gt;.
-<milestone unit="section" n="3" />sed postquam res eorum civibus moribus agris aucta satis prospera satisque pollens videbatur, sicuti pleraque mortalium habentur, invidia ex opulentia orta est.
+<milestone unit="section" n="3"/>sed postquam res eorum civibus moribus agris aucta satis prospera satisque pollens videbatur, sicuti pleraque mortalium habentur, invidia ex opulentia orta est.
 <milestone unit="section" n="4"/>igitur reges populique finitumi bello temptare, <pb id="p.7"/> pauci ex amicis auxilio esse: nam ceteri metu perculsi a periculis aberant.
-<milestone unit="section" n="5" />at Romani domi militiaeque intenti festinare, parare, alius alium hortari, hostibus obviam ire, libertatem patriam parentisque armis tegere. post ubi pericula virtute propulerant, sociis atque amicis auxilia portabant, magisque dandis quam accipiundis beneficiis amicitias parabant.
+<milestone unit="section" n="5"/>at Romani domi militiaeque intenti festinare, parare, alius alium hortari, hostibus obviam ire, libertatem patriam parentisque armis tegere. post ubi pericula virtute propulerant, sociis atque amicis auxilia portabant, magisque dandis quam accipiundis beneficiis amicitias parabant.
 <milestone unit="section" n="6"/>imperium legitumum, nomen imperi regium habebant. delecti, quibus corpus annis infirmum, ingenium sapientia validum erat, rei publicae consultabant: hi vel aetate vel curae similitudine patres appellabantur.
 <milestone unit="section" n="7"/>post ubi regium imperium quod initio conservandae libertatis atque augendae rei publicae fuerat, in superbiam dominationemque se convortit, inmutato more annua imperia binosque imperatores sibi fecere: eo modo minume posse putabant per licentiam insolescere animum humanum.</p>
 <p>
@@ -127,10 +126,10 @@
 <p>
 <milestone unit="chapter" n="8"/>
 <milestone unit="section" n="1"/>Sed profecto fortuna in omni re dominatur; ea res cunctas ex lubidine magis quam ex vero celebrat obscuratque.
-<milestone unit="section" n="2" />Atheniensium res gestae, sicuti ego aestumo, satis amplae magnificaeque fuere, verum aliquanto minores tamen quam fama feruntur.
+<milestone unit="section" n="2"/>Atheniensium res gestae, sicuti ego aestumo, satis amplae magnificaeque fuere, verum aliquanto minores tamen quam fama feruntur.
 <milestone unit="section" n="3"/>sed quia provenere ibi scriptorum magna ingenia, per terrarum orbem Atheniensium facta pro maxumis celebrantur.
 <milestone unit="section" n="4"/>ita eorum qui fecere virtus tanta habetur, quantum eam verbis potuere extollere praeclara ingenia.
-<milestone unit="section" n="5"/>at populo Romano numquam ea copia fuit, quia prudentissumus quisque maxume negotiosus erat, ingenium nemo sine corpore exercebat, optumus quisque facere quam dicere, sua ab <pb id="p.9" /> aliis bene facta laudari quam ipse aliorum narrare malebat.</p>
+<milestone unit="section" n="5"/>at populo Romano numquam ea copia fuit, quia prudentissumus quisque maxume negotiosus erat, ingenium nemo sine corpore exercebat, optumus quisque facere quam dicere, sua ab <pb id="p.9"/> aliis bene facta laudari quam ipse aliorum narrare malebat.</p>
 <p>
 <milestone unit="chapter" n="9"/>
 <milestone unit="section" n="1"/>Igitur domi militiaeque boni mores colebantur; concordia maxuma, minuma avaritia erat; ius bonumque apud eos non legibus magis quam natura valebat.
@@ -141,9 +140,9 @@
 <p>
 <milestone unit="chapter" n="10"/>
 <milestone unit="section" n="1"/>Sed ubi labore atque iustitia res publica crevit, reges magni bello domiti, nationes ferae et populi ingentes vi subacti, Carthago aemula imperi Romani ab stirpe interiit, cuncta maria terraeque patebant, saevire fortuna ac miscere omnia coepit.
-<milestone unit="section" n="2" />qui labores, pericula, dubias atque asperas res facile toleraverant, iis otium divitiaeque, optanda alias, oneri miseriaeque fuere.
+<milestone unit="section" n="2"/>qui labores, pericula, dubias atque asperas res facile toleraverant, iis otium divitiaeque, optanda alias, oneri miseriaeque fuere.
 <milestone unit="section" n="3"/>igitur primo pecuniae, deinde imperi cupido crevit: ea quasi materies omnium malorum fuere. namque avaritia fidem probitatem ceterasque artis bonas subvortit;
-<milestone unit="section" n="4" />pro his superbiam, crudelitatem, deos neglegere, omnia venalia habere edocuit.
+<milestone unit="section" n="4"/>pro his superbiam, crudelitatem, deos neglegere, omnia venalia habere edocuit.
 <milestone unit="section" n="5"/>ambitio multos mortalis falsos fieri <pb id="p.10"/> subegit, aliud clausum in pectore aliud in lingua promptum habere, amicitias inimicitiasque non ex re sed ex commodo aestumare, magisque voltum quam ingenium bonum habere.
 <milestone unit="section" n="6"/>haec primo paulatim crescere, interdum vindicari; post ubi contagio quasi pestilentia invasit, civitas inmutata, imperium ex iustissumo atque optumo crudele intolerandumque factum.</p>
 <p>
@@ -161,14 +160,14 @@
 <milestone unit="section" n="1"/>Postquam divitiae honori esse coepere et eas gloria imperium potentia sequebatur, hebescere virtus, paupertas probro haberi, innocentia pro malevolentia duci coepit.
 <milestone unit="section" n="2"/>igitur ex divitiis iuventutem luxuria atque avaritia cum superbia invasere: rapere consumere, sua parvi pendere aliena cupere, pudorem pudicitiam, divina atque humana promiscua, nihil pensi neque moderati habere.
 <milestone unit="section" n="3"/>operae pretium est, quom domos atque villas cognoveris in urbium modum exaedificatas, visere templa deorum, quae nostri maiores religiosissumi mortales fecere.
-<milestone unit="section" n="4" />verum illi delubra deorum pietate, domos suas gloria decorabant, neque victis quicquam praeter iniuriae licentiam eripiebant.
+<milestone unit="section" n="4"/>verum illi delubra deorum pietate, domos suas gloria decorabant, neque victis quicquam praeter iniuriae licentiam eripiebant.
 <milestone unit="section" n="5"/>at hi contra, ignavissumi homines, per summum scelus omnia ea sociis adimere, quae fortissumi viri victores reliquerant: proinde quasi iniuriam facere id demum esset imperio uti.
 <milestone unit="chapter" n="13"/>
 <milestone unit="section" n="1"/>nam quid ea memorem, quae nisi iis qui videre nemini credibilia sunt, a privatis compluribus subvorsos montis, maria <pb id="p.12"/> constrata esse?
 <milestone unit="section" n="2"/>quibus mihi videntur ludibrio fuisse divitiae: quippe quas honeste habere licebat, abuti per turpitudinem properabant.
 <milestone unit="section" n="3"/>sed lubido stupri ganeae ceterique cultus non minor incesserat: viri muliebria pati, mulieres pudicitiam in propatulo habere; vescendi causa terra marique omnia exquirere; dormire prius quam somni cupido esset; non famem aut sitim, neque frigus neque lassitudinem opperiri, sed ea omnia luxu antecapere.
 <milestone unit="section" n="4"/>haec iuventutem, ubi familiares opes defecerant,
-<milestone unit="section" n="5" />ad facinora incendebant: animus inbutus malis artibus haud facile lubidinibus carebat; eo profusius omnibus modis quaestui atque sumptui deditus erat.</p>
+<milestone unit="section" n="5"/>ad facinora incendebant: animus inbutus malis artibus haud facile lubidinibus carebat; eo profusius omnibus modis quaestui atque sumptui deditus erat.</p>
 <p>
 <milestone unit="chapter" n="14"/>
 <milestone unit="section" n="1"/>In tanta tamque corrupta civitate Catilina, id quod factu facillumum erat, omnium flagitiorum atque facinorum circum se tamquam stipatorum catervas habebat.
@@ -189,7 +188,7 @@
 <milestone unit="chapter" n="16"/>
 <milestone unit="section" n="1"/>Sed iuventutem, quam, ut supra diximus, illexerat, multis modis mala facinora edocebat.
 <milestone unit="section" n="2"/>ex illis testis signatoresque falsos commodare; fidem fortunas <pb id="p.14"/> pericula vilia habere; post ubi eorum famam atque pudorem adtriverat, maiora alia imperabat.
-<milestone unit="section" n="3" />si causa peccandi in praesens minus suppetebat, nihilo minus insontis sicuti sontis circumvenire iugulare: scilicet ne per otium torpescerent manus aut animus, gratuito potius malus atque crudelis erat.</p>
+<milestone unit="section" n="3"/>si causa peccandi in praesens minus suppetebat, nihilo minus insontis sicuti sontis circumvenire iugulare: scilicet ne per otium torpescerent manus aut animus, gratuito potius malus atque crudelis erat.</p>
 <p>
 <milestone unit="section" n="4"/>His amicis sociisque confisus Catilina, simul quod aes alienum per omnis terras ingens erat et quod plerique Sullani milites, largius suo usi, rapinarum et victoriae veteris memores civile bellum exoptabant, opprimundae rei publicae consilium cepit.
 <milestone unit="section" n="5"/>in Italia nullus exercitus, Cn. Pompeius in extremis terris bellum gerebat; ipsi consulatum petenti magna spes, senatus nihil sane intentus: tutae tranquillaeque res omnes, sed ea prorsus opportuna Catilinae.</p>
@@ -201,7 +200,7 @@
 <milestone unit="section" n="4"/>Q. Curius; praeterea ex equestri ordine M. Fulvius Nobilior, L. Statilius, P. Gabinius Capito, C. Cornelius; ad hoc multi ex coloniis et municipiis domi nobiles.
 <milestone unit="section" n="5"/>erant praeterea complures paulo occultius consili huiusce participes nobiles, quos magis dominationis spes hortabatur quam inopia aut alia necessitudo.
 <milestone unit="section" n="6"/>ceterum iuventus pleraque sed maxume nobilium Catilinae inceptis favebat: quibus in otio vel magnifice <pb id="p.15"/> vel molliter vivere copia erat; incerta pro certis, bellum quam pacem malebant.
-<milestone unit="section" n="7" />fuere item ea tempestate qui crederent M. Licinium Crassum non ignarum eius consili fuisse: quia Cn. Pompeius, invisus ipsi, magnum exercitum ductabat, quoiusvis opes voluisse contra illius potentiam crescere, simul confisum, si coniuratio valuisset, facile apud illos principem se fore.</p>
+<milestone unit="section" n="7"/>fuere item ea tempestate qui crederent M. Licinium Crassum non ignarum eius consili fuisse: quia Cn. Pompeius, invisus ipsi, magnum exercitum ductabat, quoiusvis opes voluisse contra illius potentiam crescere, simul confisum, si coniuratio valuisset, facile apud illos principem se fore.</p>
 <p>
 <milestone unit="chapter" n="18"/>
 <milestone unit="section" n="1"/>Sed antea item coniuravere pauci contra rem publicam, in quibus Catilina fuit.
@@ -217,7 +216,7 @@
 <milestone unit="section" n="2"/>quippe <pb id="p.16"/> foedum hominem a re publica procul esse volebat, simul quia boni complures praesidium in eo putabant et iam tum potentia Pompei formidulosa erat.
 <milestone unit="section" n="3"/>sed is Piso in provincia ab equitibus Hispanis, quos in exercitu ductabat, iter faciens occisus est.
 <milestone unit="section" n="4"/>sunt qui ita dicant imperia eius iniusta superba crudelia barbaros nequivisse pati; alii autem,
-<milestone unit="section" n="5" />equites illos, Cn. Pompei veteres fidosque clientis, voluntate eius Pisonem aggressos: numquam Hispanos praeterea tale facinus fecisse, sed imperia saeva multa antea perpessos. nos eam rem in medio relinquemus.
+<milestone unit="section" n="5"/>equites illos, Cn. Pompei veteres fidosque clientis, voluntate eius Pisonem aggressos: numquam Hispanos praeterea tale facinus fecisse, sed imperia saeva multa antea perpessos. nos eam rem in medio relinquemus.
 <milestone unit="section" n="6"/>de superiore coniuratione satis dictum.</p>
 <p>
 <milestone unit="chapter" n="20"/>
@@ -230,16 +229,16 @@
 <milestone unit="section" n="5"/>Sed ego quae mente agitavi, omnes iam antea divorsi audistis.
 <milestone unit="section" n="6"/>ceterum mihi in dies magis animus accenditur, quom considero, quae condicio vitae futura sit, nisi nosmet ipsi vindicamus in libertatem.
 <milestone unit="section" n="7"/>nam postquam res publica in paucorum potentium ius atque dicionem concessit, semper illis reges tetrarchae vectigales esse, populi nationes stipendia pendere; ceteri omnes, strenui boni, nobiles atque ignobiles, volgus fuimus sine gratia, sine auctoritate, iis obnoxii, quibus, si res publica valeret, formidini essemus.
-<milestone unit="section" n="8" />itaque omnis gratia potentia honos divitiae apud illos sunt aut ubi illi volunt; nobis reliquere pericula repulsas iudicia egestatem.
+<milestone unit="section" n="8"/>itaque omnis gratia potentia honos divitiae apud illos sunt aut ubi illi volunt; nobis reliquere pericula repulsas iudicia egestatem.
 <milestone unit="section" n="9"/>quae quo usque tandem patiemini, o fortissumi viri? nonne emori per virtutem praestat quam vitam miseram atque inhonestam, ubi alienae superbiae ludibrio fueris,
 <milestone unit="section" n="10"/>per dedecus amittere? verum enim vero, pro deum atque hominum fidem, victoria in manu nobis est, viget aetas, animus valet; contra illis annis atque divitiis omnia consenuerunt. tantummodo incepto opus est, cetera res expediet.
 <milestone unit="section" n="11"/>etenim quis mortalium, quoi virile ingenium est, tolerare potest illis divitias superare, quas profundant in extruendo mari et montibus coaequandis, nobis rem familiarem etiam ad necessaria deesse? illos binas aut amplius domos continuare, nobis larem familiarem nusquam ullum esse?
 <milestone unit="section" n="12"/>quom tabulas signa toreumata emunt, nova diruunt, alia aedificant, postremo omnibus modis pecuniam trahunt vexant, tamen summa lubidine divitias suas vincere nequeunt.
-<milestone unit="section" n="13" />at nobis est domi inopia, foris aes alienum, <pb id="p.18"/> mala res, spes multo asperior: denique quid reliqui habemus praeter miseram animam?</p>
+<milestone unit="section" n="13"/>at nobis est domi inopia, foris aes alienum, <pb id="p.18"/> mala res, spes multo asperior: denique quid reliqui habemus praeter miseram animam?</p>
 <p>
 <milestone unit="section" n="14"/>Quin igitur expergiscimini? en illa, illa quam saepe optastis libertas, praeterea divitiae decus gloria in oculis sita sunt; fortuna omnia ea victoribus praemia posuit.
 <milestone unit="section" n="15"/>res tempus pericula egestas belli spolia magnifica magis quam oratio mea vos hortantur.
-<milestone unit="section" n="16" />vel imperatore vel milite me utimini: neque animus neque corpus a vobis aberit.
+<milestone unit="section" n="16"/>vel imperatore vel milite me utimini: neque animus neque corpus a vobis aberit.
 <milestone unit="section" n="17"/>haec ipsa, ut spero, vobiscum una consul agam, nisi forte me animus fallit et vos servire magis quam imperare parati estis.'</p>
 <p>
 <milestone unit="chapter" n="21"/>
@@ -251,7 +250,7 @@
 <milestone unit="chapter" n="22"/>
 <milestone unit="section" n="1"/>fuere ea tempestate qui dicerent Catilinam oratione habita, quom ad ius iurandum popularis sceleris sui adigeret, humani corporis sanguinem vino permixtum in pateris circumtulisse:
 <milestone unit="section" n="2"/>inde quom post execrationem omnes degustavissent, sicuti in sollemnibus sacris fieri consuevit, aperuisse consilium suom, atque eo [dict]ita[re] fecisse, quo inter se fidi magis forent alius alii tanti facinoris conscii.
-<milestone unit="section" n="3" />nonnulli ficta et haec et multa praeterea existumabant ab iis, qui Ciceronis invidiam quae postea orta est leniri credebant atrocitate sceleris eorum, qui poenas dederant. nobis ea res pro magnitudine parum comperta est.</p>
+<milestone unit="section" n="3"/>nonnulli ficta et haec et multa praeterea existumabant ab iis, qui Ciceronis invidiam quae postea orta est leniri credebant atrocitate sceleris eorum, qui poenas dederant. nobis ea res pro magnitudine parum comperta est.</p>
 <p>
 <milestone unit="chapter" n="23"/>
 <milestone unit="section" n="1"/>Sed in ea coniuratione fuit Q. Curius, natus haud obscuro loco, flagitiis atque facinoribus coopertus, quem censores senatu probri gratia moverant.
@@ -272,14 +271,14 @@
 <milestone unit="section" n="2"/>haec mulier genere atque forma, praeterea viro liberis satis fortunata fuit; litteris Graecis Latinis docta, psallere [et] saltare <pb id="p.21"/> elegantius quam necesse est probae, multa alia, quae instrumenta luxuriae sunt.
 <milestone unit="section" n="3"/>sed ei cariora semper omnia quam decus atque pudicitia fuit; pecuniae an famae minus parceret, haud facile discerneres; lubido sic accensa, ut saepius peteret viros quam peteretur.
 <milestone unit="section" n="4"/>sed ea saepe antehac fidem prodiderat, creditum abiuraverat, caedis conscia fuerat: luxuria atque inopia praeceps abierat.
-<milestone unit="section" n="5" />verum ingenium eius haud absurdum: posse versus facere, iocum movere, sermone uti vel modesto vel molli vel procaci; prorsus multae facetiae multusque lepos inerat.</p>
+<milestone unit="section" n="5"/>verum ingenium eius haud absurdum: posse versus facere, iocum movere, sermone uti vel modesto vel molli vel procaci; prorsus multae facetiae multusque lepos inerat.</p>
 <p>
 <milestone unit="chapter" n="26"/>
 <milestone unit="section" n="1"/>His rebus conparatis Catilina nihilo minus in proxumum annum consulatum petebat, sperans, si designatus foret, facile se ex voluntate Antonio usurum. neque interea quietus erat, sed omnibus modis insidias parabat Ciceroni.
 <milestone unit="section" n="2"/>neque illi tamen ad cavendum dolus aut astutiae deerant.
 <milestone unit="section" n="3"/>namque a principio' consulatus sui multa pollicendo per Fulviam effecerat, ut Q. Curius, de quo paulo ante memoravi, consilia Catilinae sibi proderet;
 <milestone unit="section" n="4"/>ad hoc collegam suom Antonium pactione provinciae perpulerat, ne contra rem publicam sentiret; circum se praesidia amicorum atque clientium occulte habebat.
-<milestone unit="section" n="5" />postquam dies comitiorum venit et Catilinae neque petitio neque insidiae quas consulibus in campo fecerat prospere cessere, constituit bellum facere et extrema omnia experiri, quoniam quae occulte temptaverat aspera foedaque evenerant.</p>
+<milestone unit="section" n="5"/>postquam dies comitiorum venit et Catilinae neque petitio neque insidiae quas consulibus in campo fecerat prospere cessere, constituit bellum facere et extrema omnia experiri, quoniam quae occulte temptaverat aspera foedaque evenerant.</p>
 <p>
 <milestone unit="chapter" n="27"/>
 <milestone unit="section" n="1"/>Igitur C. Manlium Faesulas atque in eam partem Etruriae, Septimium quendam Camertem in agrum Picenum, C. Iulium in Apuliam dimisit, praeterea alium <pb id="p.22"/> alio, quem ubique opportunum sibi fore credebat.
@@ -326,7 +325,7 @@
 <p>
 <milestone unit="chapter" n="33"/>
 <milestone unit="section" n="1"/>'Deos hominesque testamur, imperator, nos arma neque contra patriam cepisse neque quo periculum aliis faceremus, sed uti corpora nostra ab iniuria tuta forent, qui miseri, egentes violentia atque crudelitate faeneratorum plerique patria, sed omnes fama atque fortunis expertes sumus. neque quoiquam nostrum licuit more maiorum lege uti neque amisso patrimonio liberum corpus habere: tanta saevitia faeneratorum atque praetoris fuit.
-<milestone unit="section" n="2" />saepe maiores vostrum, miseriti plebis Romanae, decretis suis inopiae eius opitulati sunt, ac novissume memoria nostra propter magnitudinem aeris alieni volentibus omnibus bonis argentum aere solutum est. <pb id="p.26"/>
+<milestone unit="section" n="2"/>saepe maiores vostrum, miseriti plebis Romanae, decretis suis inopiae eius opitulati sunt, ac novissume memoria nostra propter magnitudinem aeris alieni volentibus omnibus bonis argentum aere solutum est. <pb id="p.26"/>
 <milestone unit="section" n="3"/>saepe ipsa plebs, aut dominandi studio permota aut superbia magistratuum, armata a patribus secessit.
 <milestone unit="section" n="4"/>at nos non imperium neque divitias petimus, quarum rerum causa bella atque certamina omnia inter mortalis sunt, sed libertatem, quam nemo bonus nisi cum anima simul amittit.
 <milestone unit="section" n="5"/>te atque senatum obtestamur, consulatis miseris civibus, legis praesidium quod iniquitas praetoris eripuit restituatis, neve nobis eam neccessitudinem inponatis, ut quaeramus, quonam modo maxume ulti sanguinem nostrum pereamus.'</p>
@@ -335,7 +334,7 @@
 <milestone unit="section" n="1"/>Ad haec Q. Marcius respondit, si quid ab senatu petere vellent, ab armis discedant, Romam supplices proficiscantur: ea mansuetudine atque misericordia senatum populi Romani semper fuisse, ut nemo umquam ab eo frustra auxilium petiverit.</p>
 <p>
 <milestone unit="section" n="2"/>At Catilina ex itinere plerisque consularibus, praeterea optumo quoique litteras mittit: se falsis criminibus circumventum, quoniam factioni inimicorum resistere nequiverit, fortunae cedere, Massiliam in exilium proficisci, non quo sibi tanti sceleris conscius esset, sed uti res publica quieta foret neve ex sua contentione seditio oreretur.
-<milestone unit="section" n="3" />ab his longe divorsas litteras Q. Catulus in senatu recitavit, quas sibi nomine Catilinae redditas dicebat. earum exemplum infra scriptum est.</p>
+<milestone unit="section" n="3"/>ab his longe divorsas litteras Q. Catulus in senatu recitavit, quas sibi nomine Catilinae redditas dicebat. earum exemplum infra scriptum est.</p>
 <p>
 <milestone unit="chapter" n="35"/>
 <milestone unit="section" n="1"/>'L. Catilina Q. Catulo. Egregia tua fides, re cognita, grata mihi magnis in meis periculis, fiduciam commendationi meae tribuit.
@@ -351,7 +350,7 @@
 <milestone unit="section" n="3"/>praeterea decernit, uti consules dilectum habeant, Antonius cum exercitu Catilinam persequi maturet, Cicero urbi praesidio sit.</p>
 <p>
 <milestone unit="section" n="4"/>Ea tempestate mihi imperium populi Romani multo maxume miserabile visum est. quoi quom ad occasum ab ortu solis omnia domita armis parerent, domi otium atque divitiae, quae prima mortales putant, adfluerent, fuere tamen cives, qui seque remque publicam <pb id="p.28"/> obstinatis animis perditum irent.
-<milestone unit="section" n="5" />namque duobus senati decretis ex tanta multitudine neque praemio inductus coniurationem patefecerat neque ex castris Catilinae quisquam omnium discesserat: tanta vis morbi atque uti tabes plerosque civium animos invaserat.
+<milestone unit="section" n="5"/>namque duobus senati decretis ex tanta multitudine neque praemio inductus coniurationem patefecerat neque ex castris Catilinae quisquam omnium discesserat: tanta vis morbi atque uti tabes plerosque civium animos invaserat.
 <milestone unit="chapter" n="37"/>
 <milestone unit="section" n="1"/>neque solum illis aliena mens erat, qui conscii coniurationis fuerant, sed omnino cuncta plebes novarum rerum studio Catilinae incepta probabat.
 <milestone unit="section" n="2"/>id adeo more suo videbatur facere.
@@ -381,7 +380,7 @@
 <milestone unit="section" n="1"/>igitur P. Umbreno quoidam negotium dat, uti legatos Allobrogum requirat eosque, si possit, inpellat ad societatem belli, existumans publice privatimque aere alieno oppresses, praeterea quod natura gens Gallica bellicosa esset, facile eos ad tale consilium adduci posse.
 <milestone unit="section" n="2"/>Umbrenus quod in Gallia negotiatus erat, plerisque principibus civitatium notus erat atque eos noverat. itaque sine mora, ubi primum legatos in foro conspexit, percontatus pauca de statu civitatis et quasi dolens eius casum requirere coepit, quem exitum tantis malis sperarent.
 <milestone unit="section" n="3"/>postquam illos videt queri de avaritia magistratuum, accusare senatum, quod in eo auxili nihil esset, miseriis suis remedium mortem expectare, 'at ego' inquit 'vobis, si modo viri esse voltis, rationem ostendam, qua tanta ista mala effugiatis'.
-<milestone unit="section" n="4" />haec ubi dixit, Allobroges in maxumam spem adducti Umbrenum orare, ut sui misereretur: nihil tam asperum neque tam difficile esse, quod non cupidissume facturi essent, dum ea res civitatem aere alieno liberaret.
+<milestone unit="section" n="4"/>haec ubi dixit, Allobroges in maxumam spem adducti Umbrenum orare, ut sui misereretur: nihil tam asperum neque tam difficile esse, quod non cupidissume facturi essent, dum ea res civitatem aere alieno liberaret.
 <milestone unit="section" n="5"/>ille eos in domum D. Bruti perducit, quod foro propinqua erat neque aliena consili propter Semproniam; nam tum Brutus ab Roma aberat.
 <milestone unit="section" n="6"/>praeterea Gabinium arcessit, quo maior auctoritas sermoni inesset. eo praesente coniurationem aperit, nominat socios, praeterea multos quoiusque generis innoxios, quo legatis animus amplior esset. deinde eos pollicitos operam suam domum dimittit.
 <milestone unit="chapter" n="41"/>
@@ -398,7 +397,7 @@
 <p>
 <milestone unit="chapter" n="43"/>
 <milestone unit="section" n="1"/>At Romae Lentulus cum ceteris, qui principes coniurationis erant, paratis ut videbatur magnis copiis constituerant, uti, quom Catilina in agrum Aefulanum cum exercitu venisset, L. Bestia tribunus plebis contione habita quereretur de actionibus Ciceronis bellique gravissumi invidiam optumo consuli inponeret: eo signo proxuma nocte cetera multitude coniurationis suom quisque negotium exequeretur.
-<milestone unit="section" n="2" />sed ea divisa hoc modo dicebantur: Statilius et Gabinius uti cum magna manu duodecim simul opportuna loca urbis incenderent, quo tumultu facilior aditus ad consulem ceterosque, quibus insidiae parabantur, fieret; Cethegus Ciceronis ianuam obsideret eumque vi aggrederetur; alius autem alium, <pb id="p.32"/> sed filii familiarum, quorum ex nobilitate maxuma pars erat, parentis interficerent; simul caede et incendio perculsis omnibus ad Catilinam erumperent.
+<milestone unit="section" n="2"/>sed ea divisa hoc modo dicebantur: Statilius et Gabinius uti cum magna manu duodecim simul opportuna loca urbis incenderent, quo tumultu facilior aditus ad consulem ceterosque, quibus insidiae parabantur, fieret; Cethegus Ciceronis ianuam obsideret eumque vi aggrederetur; alius autem alium, <pb id="p.32"/> sed filii familiarum, quorum ex nobilitate maxuma pars erat, parentis interficerent; simul caede et incendio perculsis omnibus ad Catilinam erumperent.
 <milestone unit="section" n="3"/>inter haec parata atque decreta Cethegus semper querebatur de ignavia sociorum: illos dubitando et dies prolatando magnas opportunitates corrumpere; facto, non consulto in tali periculo opus esse, seque, si pauci adiuvarent, languentibus aliis impetum in curiam facturum.
 <milestone unit="section" n="4"/>natura ferox, vehemens, manu promptus erat, maxumum bonum in celeritate putabat.</p>
 <p>
@@ -413,9 +412,9 @@
 <milestone unit="section" n="6"/>Ad hoc mandata verbis dat: quom ab senatu hostis iudicatus sit, quo consilio servitia repudiet? in urbe parata esse quae iusserit.: ne cunctetur ipse propius adcedere.
 <milestone unit="chapter" n="45"/>
 <milestone unit="section" n="1"/>his rebus ita actis, constituta nocte qua proficiscerentur Cicero per legatos cuncta edoctus L. Valerio Flacco et C. Pomptino praetoribus imperat, ut in ponte <pb id="p.33"/> Mulvio per insidias Allobrogum comitatus deprehendant. rem omnem aperit, quoius gratia mittebantur; cetera, uti facto opus sit, ita agant permittit.
-<milestone unit="section" n="2" />illi, homines militares, sine tumultu praesidiis conlocatis, sicuti praeceptum erat, occulte pontem obsidunt.
+<milestone unit="section" n="2"/>illi, homines militares, sine tumultu praesidiis conlocatis, sicuti praeceptum erat, occulte pontem obsidunt.
 <milestone unit="section" n="3"/>postquam ad id loci legati cum Volturcio venerunt et simul utrimque clamor exortus est, Galli cito cognito consilio sine mora praetoribus se tradunt,
-<milestone unit="section" n="4" />Volturcius primo cohortatus ceteros gladio se a multitudine defendit, deinde, ubi a legatis desertus est, multa prius de salute sua Pomptinum obtestatus, quod ei notus erat, postremo timidus ac vitae diffidens velut hostibus sese praetoribus dedit.</p>
+<milestone unit="section" n="4"/>Volturcius primo cohortatus ceteros gladio se a multitudine defendit, deinde, ubi a legatis desertus est, multa prius de salute sua Pomptinum obtestatus, quod ei notus erat, postremo timidus ac vitae diffidens velut hostibus sese praetoribus dedit.</p>
 <p>
 <milestone unit="chapter" n="46"/>
 <milestone unit="section" n="1"/>Quibus rebus confectis omnia propere per nuntios consuli declarantur.
@@ -474,7 +473,7 @@
 <milestone unit="section" n="15"/>equidem ego sic existumo, patres conscripti. omnis cruciatus minores quam facinora illorum esse. sed plerique mortales postrema meminere et in hominibus inpiis sceleris eorum obliti de poena disserunt, si ea paulo severior fuit.</p>
 <p>
 <milestone unit="section" n="16"/>D. Silanum, virum fortem atque strenuom, certo scio quae dixerit studio rei publicae dixisse, neque illum in tanta re gratiam aut inimicitias exercere: eos mores eamque modestiam viri cognovi.
-<milestone unit="section" n="17" />verum sententia eius mihi non crudelis &mdash; quid enim in talis homines crudele fieri potest? &mdash; sed aliena a re publica nostra videtur.
+<milestone unit="section" n="17"/>verum sententia eius mihi non crudelis &mdash; quid enim in talis homines crudele fieri potest? &mdash; sed aliena a re publica nostra videtur.
 <milestone unit="section" n="18"/>nam profecto aut metus aut iniuria te subegit, Silane, consulem designatum genus poenae novom decernere.
 <milestone unit="section" n="19"/>de timore supervacuaneum est disserere, quom <pb id="p.39"/> praesertim diligentia clarissumi viri consulis tanta praesidia sint in armis.
 <milestone unit="section" n="20"/>de poena possum equidem dicere, id quod res habet, in luctu atque miseriis mortem aerumnarum requiem, non cruciatum esse; eam cuncta mortalium mala dissolvere; ultra neque curae neque gaudio locum esse.
@@ -522,7 +521,7 @@
 <milestone unit="section" n="12"/>sint sane, quoniam ita se mores habent, liberales ex sociorum fortunis, sint misericordes in furibus aerari: ne illi sanguinem nostrum largiantur et, dum paucis sceleratis parcunt, bonos omnis perditum eant.</p>
 <p>
 <milestone unit="section" n="13"/>Bene et conposite C. Caesar paulo ante in hoc ordine de vita et morte disseruit, credo falsa existumans ea, quae de inferis memorantur: divorso itinere malos a bonis loca taetra, inculta, foeda atque formidulosa habere.
-<milestone unit="section" n="14" />itaque censuit pecunias eorum publicandas, ipsos per municipia in custodiis habendos, videlicet timens, ne, si Romae sint, aut a popularibus coniurationis aut a multitudine conducta per vim eripiantur;
+<milestone unit="section" n="14"/>itaque censuit pecunias eorum publicandas, ipsos per municipia in custodiis habendos, videlicet timens, ne, si Romae sint, aut a popularibus coniurationis aut a multitudine conducta per vim eripiantur;
 <milestone unit="section" n="15"/>quasi vero mali atque scelesti tantummodo in urbe et non per totam Italiam sint, aut non ibi plus possit audacia, ubi ad defendundum opes minores sunt.
 <milestone unit="section" n="16"/>quare vanum equidem hoc consilium est, si periculum ex <pb id="p.43"/> illis metuit; si in tanto omnium metu solus non timet, eo magis refert me mihi atque vobis timere.
 <milestone unit="section" n="17"/>qua re quom de P. Lentulo ceterisque statuetis, pro certo habetote vos simul de exercitu Catilinae et de omnibus coniuratis decernere.
@@ -542,7 +541,7 @@
 <milestone unit="section" n="29"/>non votis neque suppliciis muliebribus auxilia deorum parantur; vigilando, agundo, bene consulundo prospera omnia cedunt. ubi socordiae te atque ignaviae tradideris, nequiquam deos inplores: irati infestique sunt.
 <milestone unit="section" n="30"/>apud maiores nostros A. Manlius Torquatus bello Gallico filium suom, quod is contra imperium in hostem pugnaverat,
 <milestone unit="section" n="31"/>necari iussit, atque ille egregius adulescens inmoderatae fortitudinis morte poenas dedit; vos de crudelissumis parricidis quid statuatis, cunctamini? videlicet cetera vita eorum huic sceleri obstat.
-<milestone unit="section" n="32" />verum parcite dignitati Lentuli, si ipse pudicitiae, si famae suae, si dis aut hominibus umquam ullis pepercit.
+<milestone unit="section" n="32"/>verum parcite dignitati Lentuli, si ipse pudicitiae, si famae suae, si dis aut hominibus umquam ullis pepercit.
 <milestone unit="section" n="33"/>ignoscite Cethegi adulescentiae, nisi iterum patriae bellum fecit. nam quid ego de Gabinio, Statilio, Caepario loquar?
 <milestone unit="section" n="34"/>quibus si quicquam umquam pensi fuisset, non ea consilia de re publica habuissent.
 <milestone unit="section" n="35"/>postremo, patres conscripti, si mehercule peccato locus esset, facile paterer vos ipsa re corrigi, quoniam verba contemnitis. sed undique circumventi sumus. Catilina cum exercitu faucibus urget; alii intra moenia atque in sinu urbis sunt hostes; neque parari neque consuli quicquam potest occulte: quo magis properandum est.</p>
@@ -554,10 +553,10 @@
 <p>
 <milestone unit="section" n="2"/>Sed mihi multa legenti, multa audienti, quae populus Romanus domi militiaeque, mari atque terra praeclara facinora fecit, forte lubuit attendere, quae res maxume tanta negotia sustinuisset.
 <milestone unit="section" n="3"/>sciebam saepenumero parva manu cum magnis legionibus hostium contendisse; cognoveram parvis copiis bella gesta cum opulentis regibus, ad hoc saepe fortunae violentiam toleravisse, facundia Graecos, gloria belli Gallos ante Romanos fuisse.
-<milestone unit="section" n="4" />ac mihi multa agitanti constabat paucorum civium egregiam virtutem cuncta patravisse, eoque factum, uti divitias paupertas, multitudinem paucitas superaret.
+<milestone unit="section" n="4"/>ac mihi multa agitanti constabat paucorum civium egregiam virtutem cuncta patravisse, eoque factum, uti divitias paupertas, multitudinem paucitas superaret.
 <milestone unit="section" n="5"/>sed postquam luxu atque desidia civitas corrupta est, rursus res publica magnitudine sua imperatorum atque magistratuum vitia sustentabat ac, sicuti effeta parentum &lt;ui&gt;, multis tempestatibus haud sane quisquam Romae virtute magnus fuit.
 <milestone unit="section" n="6"/>sed memoria mea ingenti virtute, divorsis moribus fuere viri duo, M. Cato et C. Caesar. quos quoniam res obtulerat, <pb id="p.46"/>  silentio praeterire non fuit consilium, quin utriusque naturam et mores, quantum ingenio possum, aperirem.
-<milestone unit="chapter" n="54" />
+<milestone unit="chapter" n="54"/>
 <milestone unit="section" n="1"/>igitur iis genus aetas eloquentia prope aequalia fuere, magnitudo animi par, item gloria, sed alia alii.
 <milestone unit="section" n="2"/>Caesar beneficiis ac munificentia magnus habebatur, integritate vitae Cato. ille mansuetudine et misericordia clarus factus, huic severitas dignitatem addiderat.
 <milestone unit="section" n="3"/>Caesar dando sublevando ignoscundo, Cato nihil largiundo gloriam adeptus est. in altero miseris perfugium erat, in altero malis pernicies. illius facilitas, huius constantia laudabatur.
@@ -575,7 +574,7 @@
 <p>
 <milestone unit="chapter" n="56"/>
 <milestone unit="section" n="1"/>Dum ea Romae geruntur, Catilina ex omni copia, quam et ipse adduxerat et Manlius habuerat, duas legiones instituit, cohortis pro numero militum conplet.
-<milestone unit="section" n="2" />deinde, ut quisque voluntarius aut ex sociis in castra venerat, aequaliter distribuerat, ac brevi spatio legiones numero hominum expleverat, quom initio non amplius duobus milibus habuisset.
+<milestone unit="section" n="2"/>deinde, ut quisque voluntarius aut ex sociis in castra venerat, aequaliter distribuerat, ac brevi spatio legiones numero hominum expleverat, quom initio non amplius duobus milibus habuisset.
 <milestone unit="section" n="3"/>sed ex omni copia circiter pars quarta erat militaribus armis instructa; ceteri, ut quemque casus armaverat, sparos aut lanceas, alii praeacutas sudis portabant.
 <milestone unit="section" n="4"/>sed postquam Antonius cum exercitu adventabat, Catilina per montis iter facere, modo ad urbem, modo Galliam vorsus castra movere, hostibus occasionem pugnandi non dare. sperabat propediem magnas copias sese habiturum, si Romae socii incepta patravissent.
 <milestone unit="section" n="5"/>interea servitia repudiabat, quoius initio ad eum magnae copiae concurrebant, opibus coniurationis fretus, simul alienum suis rationibus existumans <pb id="p.48"/> videri causam civium cum servis fugitivis communicavisse.</p>
@@ -590,16 +589,16 @@
 <p>
 <milestone unit="chapter" n="58"/>
 <milestone unit="section" n="1"/>'Compertum ego habeo, milites, verba virtutem non addere, neque ex ignavo strenuom neque fortem ex timido exercitum oratione imperatoris fieri.
-<milestone unit="section" n="2" />quanta quoiusque animo audacia natura aut moribus inest, tanta in bello patere solet. quem neque gloria neque pericula excitant, nequiquam hortere: timor animi auribus officit.
+<milestone unit="section" n="2"/>quanta quoiusque animo audacia natura aut moribus inest, tanta in bello patere solet. quem neque gloria neque pericula excitant, nequiquam hortere: timor animi auribus officit.
 <milestone unit="section" n="3"/>sed ego vos, quo pauca monerem, advocavi, simul uti causam mei consili aperirem.</p>
 <p>
 <milestone unit="section" n="4"/>Scitis equidem, milites, socordia atque ignavia <pb id="p.49"/> Lentuli quantam ipsi nobisque cladem attulerit, quoque modo, dum ex urbe praesidia opperior, in Galliam proficisci nequiverim.
 <milestone unit="section" n="5"/>nunc vero quo loco res nostrae sint, iuxta mecum omnes intellegitis.
-<milestone unit="section" n="6" />exercitus hostium duo, unus ab urbe, alter a Gallia obstant; diutius in his locis esse, si maxume animus ferat, frumenti atque aliarum rerum egestas prohibet; quocumque ire placet,
+<milestone unit="section" n="6"/>exercitus hostium duo, unus ab urbe, alter a Gallia obstant; diutius in his locis esse, si maxume animus ferat, frumenti atque aliarum rerum egestas prohibet; quocumque ire placet,
 <milestone unit="section" n="7"/>ferro iter aperiundum est.
 <milestone unit="section" n="8"/>quapropter vos moneo, uti forti atque parato animo sitis et, quom proelium inibitis, memineritis vos divitias, decus, gloriam, praeterea libertatem atque patriam in dextris vostris portare.
 <milestone unit="section" n="9"/>si vincimus, omnia nobis tuta erunt: commeatus abunde, municipia atque coloniae patebunt; si metu cesserimus, eadem illa advorsa fient,
-<milestone unit="section" n="10" />neque locus neque amicus quisquam teget quem arma non texerint.
+<milestone unit="section" n="10"/>neque locus neque amicus quisquam teget quem arma non texerint.
 <milestone unit="section" n="11"/>praeterea, milites, non eadem nobis et illis necessitudo inpendet: nos pro patria, pro libertate, pro vita certamus; illis supervacuaneum est pugnare pro potentia paucorum.
 <milestone unit="section" n="12"/>quo audacius aggredimini memores pristinae virtutis.
 <milestone unit="section" n="13"/>licuit vobis cum summa turpitudine in exilio aetatem agere, potuistis nonnulli Romae amissis bonis alienas opes expectare: quia illa foeda atque intoleranda viris videbantur,
@@ -627,7 +626,7 @@
 <milestone unit="section" n="3"/>veterani pristinae virtutis memores comminus acriter instare, illi haud timidi resistunt: maxuma vi certatur.
 <milestone unit="section" n="4"/>interea Catilina cum expeditis in prima acie vorsari, laborantibus succurrere, integros pro sauciis arcessere, omnia providere, multum ipse pugnare, saepe hostem ferire: strenui militis et boni imperatoris officia simul exequebatur.
 <milestone unit="section" n="5"/>Petreius ubi videt Catilinam, contra ac ratus erat, magna vi tendere, cohortem praetoriam in medios hostis inducit eosque perturbatos atque alios alibi resistentis interficit. deinde utrimque ex lateribus ceteros aggreditur.
-<milestone unit="section" n="6" />Manlius et Faesulanus in primis pugnantes cadunt.
+<milestone unit="section" n="6"/>Manlius et Faesulanus in primis pugnantes cadunt.
 <milestone unit="section" n="7"/>Catilina postquam fusas copias seque cum paucis relictum videt, memor generis atque pristinae suae dignitatis in confertissumos hostis incurrit ibique pugnans confoditur.</p>
 <p>
 <milestone unit="chapter" n="61"/>
@@ -731,7 +730,7 @@
 <milestone unit="section" n="6"/>tum idem Hiempsal placere sibi respondit, nam ipsum illum tribus proxumis annis adoptatione in regnum pervenisse.
 <milestone unit="section" n="7"/>quod verbum in pectus Iugurthae altius, quam quisquam ratus erat, descendit.
 <milestone unit="section" n="8"/>itaque ex eo tempore ira et metu anxius moliri, parare atque ea modo cum animo habere, quibus Hiempsal per dolum caperetur.
-<milestone unit="section" n="9" />quae ubi tardius procedunt neque lenitur animus ferox, statuit quovis modo inceptum perficere.</p>
+<milestone unit="section" n="9"/>quae ubi tardius procedunt neque lenitur animus ferox, statuit quovis modo inceptum perficere.</p>
 <p>
 <milestone unit="chapter" n="12"/>
 <milestone unit="section" n="1"/>Primo conventu, quem ab regulis factum supra memoravi, propter dissensionem placuerat dividi thesauros finisque imperi singulis constitui.
@@ -787,7 +786,7 @@
 <p>
 <milestone unit="chapter" n="15"/>
 <milestone unit="section" n="1"/>Postquam rex finem loquundi fecit, legati Iugurthae largitione magis quam causa freti paucis respondent: Hiempsalem ob saevitiam suam ab Numidis interfectum, Adherbalem ultro bellum inferentem, postquam superatus sit, queri, quod iniuriam facere nequivisset. Iugurtham ab senatu petere, ne se alium putarent ac Numantiae cognitus esset, neu verba inimici ante facta sua ponerent.
-<milestone unit="section" n="2" />deinde utrique curia egrediuntur. senatus statim consulitur. fautores legatorum, praeterea <pb id="p.67"/> senatus magna pars gratia depravata Adherbalis dicta contemnere, Iugurthae virtutem extollere laudibus; gratia, voce, denique omnibus modis pro alieno scelere et flagitio, sua quasi pro gloria, nitebantur.
+<milestone unit="section" n="2"/>deinde utrique curia egrediuntur. senatus statim consulitur. fautores legatorum, praeterea <pb id="p.67"/> senatus magna pars gratia depravata Adherbalis dicta contemnere, Iugurthae virtutem extollere laudibus; gratia, voce, denique omnibus modis pro alieno scelere et flagitio, sua quasi pro gloria, nitebantur.
 <milestone unit="section" n="3"/>at contra pauci, quibus bonum et aequom divitiis carius erat, subveniundum Adherbali et Hiempsalis mortem severe vindicandam censebant,
 <milestone unit="section" n="4"/>sed ex omnibus maxume Aemilius Scaurus, homo nobilis inpiger factiosus, avidus potentiae honoris divitiarum, ceterum vitia sua callide occultans.
 <milestone unit="section" n="5"/>is postquam videt regis largitionem famosam inpudentemque, veritus, quod in tali re solet, ne polluta licentia invidiam accenderet, animum a consueta lubidine continuit.
@@ -804,7 +803,7 @@
 <p>
 <milestone unit="section" n="3"/>In divisione orbis terrae plerique in parte tertia Africam posuere, pauci tantummodo Asiam et Europam esse, sed Africam in Europa.
 <milestone unit="section" n="4"/>ea finis habet ab occidente fretum nostri maris et Oceani, ab ortu solis declivem latitudinem, quem locum Catabathmon incolae appellant.
-<milestone unit="section" n="5" />mare saevom, inportuosum; ager frugum fertilis, bonus pecori, arbori infecundus; caelo terraque penuria aquarum.
+<milestone unit="section" n="5"/>mare saevom, inportuosum; ager frugum fertilis, bonus pecori, arbori infecundus; caelo terraque penuria aquarum.
 <milestone unit="section" n="6"/>genus hominum salubri corpore, velox, patiens laborum; &lt;ac&gt; plerosque senectus dissolvit, nisi qui ferro aut bestiis interiere, nam morbus haud saepe quemquam superat; ad hoc malefici generis pluruma animalia.
 <milestone unit="section" n="7"/>sed qui mortales initio Africam habuerint quique postea adcesserint aut quo modo inter se permixti sint, quamquam ab ea fama, quae plerosque obtinet, divorsum est, tamen, uti ex libris Punicis, qui regis Hiempsalis dicebantur, interpretatum nobis est utique rem sese habere cultores eius terrae putant, quam paucissumis dicam. ceterum fides eius rei penes auctores erit.</p>
 <p>
@@ -816,7 +815,7 @@
 <milestone unit="section" n="5"/>sed Persae intra Oceanum magis, iique alveos navium invorsos pro tuguriis habuere, quia neque materia in agris neque ab Hispanis emundi aut mutandi copia erat:
 <milestone unit="section" n="6"/>mare magnum et ignara lingua commercio prohibebant.
 <milestone unit="section" n="7"/>ii paulatim per conubia Gaetulos secum miscuere et, quia saepe temptantes agros alia, deinde alia loca petiverant, semet ipsi Nomadas appellavere.
-<milestone unit="section" n="8" />ceterum adhuc aedificia Numidarum agrestium, quae mapalia illi vocant, oblonga, incurvis lateribus, tecta quasi navium carinae sunt.
+<milestone unit="section" n="8"/>ceterum adhuc aedificia Numidarum agrestium, quae mapalia illi vocant, oblonga, incurvis lateribus, tecta quasi navium carinae sunt.
 <milestone unit="section" n="9"/>Medis autem et Armeniis adcessere Libyes &mdash;nam ii propius mare Africum agitabant, Gaetuli sub sole magis, haud procul ab ardoribus &mdash;, iique mature oppida habuere; nam freto divisi ab Hispania mutare res inter se instituerant.
 <milestone unit="section" n="10"/>nomen eorum paulatim Libyes corrupere, barbara lingua Mauros pro Medis appellantes.
 <milestone unit="section" n="11"/>sed res Persarum brevi adolevit, ac postea nomine Numidae, propter multitudinem a parentibus digressi, possedere ea loca, quae proxuma Carthagine[m] Numidia appellatur.
@@ -826,9 +825,9 @@
 <milestone unit="section" n="2"/>nam de Carthagine silere melius puto quam parum dicere, quoniam alio properare tempus monet.</p>
 <p>
 <milestone unit="section" n="3"/>Igitur ad Catabathmon, qui locus Aegyptum ab Africa dividit, secundo mari prima Cyrene est, colonia Theraeon, ac deinceps duae Syrtes interque eas Lepcis, deinde Philaenon arae, quem locum Aegyptum vorsus finem imperi habuere Carthaginienses, post aliae Punicae urbes.
-<milestone unit="section" n="4" />cetera loca usque ad Mauretaniam Numidae tenent, proxumi Hispania[m] Mauri sunt.
+<milestone unit="section" n="4"/>cetera loca usque ad Mauretaniam Numidae tenent, proxumi Hispania[m] Mauri sunt.
 <milestone unit="section" n="5"/>super Numidiam Gaetulos accepimus partim in tuguriis, alios incultius vagos agitare,
-<milestone unit="section" n="6" />post eos Aethiopas esse, dehinc loca exusta solis ardoribus.
+<milestone unit="section" n="6"/>post eos Aethiopas esse, dehinc loca exusta solis ardoribus.
 <milestone unit="section" n="7"/>igitur bello Iugurthino pleraque ex Punicis oppida et finis Carthaginiensium, quos novissume habuerant, populus Romanus per magistratus administrabat; Gaetulorum magna pars et Numidae usque ad flumen Muluccham sub Iugurtha erant; Mauris omnibus rex Bocchus imperitabat, praeter nomen cetera ignarus populi Romani itemque nobis neque bello neque pace antea cognitus.
 <milestone unit="section" n="8"/>de Africa et eius incolis ad necessitudinem rei satis dictum.</p>
 <p>
@@ -839,7 +838,7 @@
 <milestone unit="section" n="4"/>deinde cum omni multitudine in regnum suom convortit, existumans Adherbalem dolore permotum iniurias suas manu vindicaturum eamque rem belli causam fore.
 <milestone unit="section" n="5"/>at ille, quod neque se parem armis existumabat et amicitia populi Romani magis quam Numidis fretus erat, legatos ad Iugurtham de iniuriis questum misit. qui tametsi contumeliosa dicta rettulerant, prius tamen omnia pati decrevit quam bellum sumere, quia temptatum antea secus cesserat.
 <milestone unit="section" n="6"/>neque eo magis cupido Iugurthae minuebatur, quippe qui totum eius regnum animo iam invaserat.
-<milestone unit="section" n="7" />itaque non uti antea cum praedatoria manu, sed magno exercitu conparato bellum gerere coepit et aperte totius Numidiae imperium petere.
+<milestone unit="section" n="7"/>itaque non uti antea cum praedatoria manu, sed magno exercitu conparato bellum gerere coepit et aperte totius Numidiae imperium petere.
 <milestone unit="section" n="8"/>ceterum, qua pergebat, urbis agros vastare, praedas agere, suis animum hostibus terrorem augere.
 <milestone unit="chapter" n="21"/>
 <milestone unit="section" n="1"/>Adherbal ubi intellegit eo processum, uti regnum aut relinquendum esset aut armis retinendum, necessario copias parat et Iugurthae obvius procedit.
@@ -875,7 +874,7 @@
 <milestone unit="chapter" n="25"/>
 <milestone unit="section" n="1"/>His litteris recitatis fuere qui exercitum in Africam mittundum censerent et quam primum Adherbali subveniundum; de Iugurtha interim uti consuleretur, quoniam legatis non paruisset.
 <milestone unit="section" n="2"/>sed ab isdem illis regis fautoribus summa ope enisum, ne tale decretum fieret.
-<milestone unit="section" n="3" />ita bonum publicum, uti in plerisque negotiis solet, privata gratia devictum.
+<milestone unit="section" n="3"/>ita bonum publicum, uti in plerisque negotiis solet, privata gratia devictum.
 <milestone unit="section" n="4"/>legantur tamen in Africam maiores natu nobiles, amplis honoribus usi. in quis fuit M. Scaurus, de quo supra memoravimus, consularis et tum senatus princeps.
 <milestone unit="section" n="5"/>ii, quod res in invidia erat, simul et ab Numidis obsecrati, triduo navem ascendere. dein brevi Uticam adpulsi litteras ad Iugurtham mittunt: quam ocissume ad provinciam adcedat, seque ad eum ab senatu missos.
 <milestone unit="section" n="6"/>ille ubi accepit homines claros, quorum auctoritatem Romae pollere audiverat, contra inceptum suom venisse, primo conmotus metu atque lubidine divorsus agitabatur: timebat iram senatus,
@@ -908,10 +907,10 @@
 <milestone unit="section" n="7"/>igitur Calpurnius initio paratis commeatibus acriter Numidiam ingressus est, multosque mortalis et urbis aliquot pugnando cepit.
 <milestone unit="chapter" n="29"/>
 <milestone unit="section" n="1"/>sed ubi Iugurtha per legatos pecunia temptare bellique, quod administrabat, asperitatem ostendere coepit, animus aeger avaritia facile convorsus est.
-<milestone unit="section" n="2" />ceterum socius et administer omnium consiliorum adsumitur Scaurus, qui tametsi a principio plerisque ex factione eius corruptis acerrume regem inpugnaverat, tamen magnitudine pecuniae a bono honestoque in pravom abstractus est.
+<milestone unit="section" n="2"/>ceterum socius et administer omnium consiliorum adsumitur Scaurus, qui tametsi a principio plerisque ex factione eius corruptis acerrume regem inpugnaverat, tamen magnitudine pecuniae a bono honestoque in pravom abstractus est.
 <milestone unit="section" n="3"/>sed Iugurtha primo tantummodo belli redimebat, existumans sese aliquid interim Romae pretio aut <pb id="p.77"/> gratia effecturum. postea vero quam participem negoti Scaurum accepit, in maxumam spem adductus recuperandae pacis statuit cum iis de omnibus pactionibus praesens agere.
 <milestone unit="section" n="4"/>ceterum interea fidei causa mittitur a consule Sextius quaestor in oppidum Iugurthae Vagam. quoius rei species erat acceptio frumenti, quod Calpurnius palam legatis imperaverat, quoniam deditionis mora indutiae agitabantur.
-<milestone unit="section" n="5" />igitur rex, uti constituerat, in castra venit, ac pauca praesenti consilio locutus de invidia facti sui atque uti in deditionem acciperetur, reliqua cum Bestia et Scauro secreta transigit. dein postero die quasi per saturam sententiis exquisitis in deditionem accipitur.
+<milestone unit="section" n="5"/>igitur rex, uti constituerat, in castra venit, ac pauca praesenti consilio locutus de invidia facti sui atque uti in deditionem acciperetur, reliqua cum Bestia et Scauro secreta transigit. dein postero die quasi per saturam sententiis exquisitis in deditionem accipitur.
 <milestone unit="section" n="6"/>sed, uti pro consilio imperatum erat, elephanti triginta, pecus atque equi multi cum parvo argenti pondere quaestori traduntur.
 <milestone unit="section" n="7"/>Calpurnius Romam ad magistratus rogandos proficiscitur. in Numidia et exercitu nostro pax agitabantur.</p>
 <p>
@@ -931,8 +930,8 @@
 <p>
 <milestone unit="section" n="6"/>Neque ego vos hortor, quod saepe maiores vostri fecere, uti contra iniurias armati eatis. nihil vi, nihil secessione opus est; necesse est suomet ipsi more praecipites eant.
 <milestone unit="section" n="7"/>occiso Ti. Graccho, quem regnum parare aiebant, in plebem Romanam quaestiones habitae sunt; post C. Cracchi et C. Fulvi caedem item vostri ordinis multi mortales in carcere necati sunt: utriusque cladis non lex, verum lubido eorum finem fecit.
-<milestone unit="section" n="8" />sed sane fuerit regni paratio plebi sua restituere; quicquid sine sanguine civium ulcisci nequitur, iure factum sit.
-<milestone unit="section" n="9" />superioribus annis taciti indignabamini aerarium expilari, reges et populos liberos paucis nobilibus vectigal pendere, penes eosdem et summam gloriam et maxumas divitias esse. tamen haec talia facinora impune suscepisse parum habuere, itaque postremo leges, maistas vostra, <pb id="p.79"/> divina et humana omnia hostibus tradita sunt.
+<milestone unit="section" n="8"/>sed sane fuerit regni paratio plebi sua restituere; quicquid sine sanguine civium ulcisci nequitur, iure factum sit.
+<milestone unit="section" n="9"/>superioribus annis taciti indignabamini aerarium expilari, reges et populos liberos paucis nobilibus vectigal pendere, penes eosdem et summam gloriam et maxumas divitias esse. tamen haec talia facinora impune suscepisse parum habuere, itaque postremo leges, maistas vostra, <pb id="p.79"/> divina et humana omnia hostibus tradita sunt.
 <milestone unit="section" n="10"/>neque eos qui ea fecere pudet aut paenitet, sed incedunt per ora vostra magnifici, sacerdotia et consulatus, pars triumphos suos ostentantes; proinde quasi ea honori, non praedae habeant.
 <milestone unit="section" n="11"/>servi aere parati iniusta imperia dominorum non perferunt; vos, Quirites, in imperio nati aequo animo servitutem toleratis?
 <milestone unit="section" n="12"/>at qui sunt ii, qui rem publicam occupavere? homines sceleratissumi, cruentis manibus, immani avaritia, nocentissumi et idem superbissumi, quibus fides decus pietas, postremo honesta atque inhonesta omnia quaestui sunt.
@@ -949,12 +948,12 @@
 <milestone unit="section" n="21"/>Atque ego tametsi viro flagitiosissumum existumo impune iniuriam accepisse, tamen vos hominibus sceleratissumis ignoscere, quoniam cives sunt, aequo animo paterer, ni misericordia in perniciem casura esset.
 <milestone unit="section" n="22"/>nam et illis, quantum importunitatis habent, parum est impune male fecisse, nisi deinde faciundi licentia eripitur, et vobis aeterna sollicitudo remanebit, quom intellegetis aut serviundum esse aut per manus libertatem retinendam.
 <milestone unit="section" n="23"/>nam fidei quidem aut concordiae quae spes est? dominari illi volunt, vos liberi esse; facere illi iniurias, vos prohibere; postremo sociis nostris veluti hostibus, hostibus pro sociis utuntur.
-<milestone unit="section" n="24" />potestne in tam divorsis mentibus pax aut amicitia esse?</p>
+<milestone unit="section" n="24"/>potestne in tam divorsis mentibus pax aut amicitia esse?</p>
 <p>
 <milestone unit="section" n="25"/>Quare moneo hortorque vos, ne tantum scelus inpunitum omittatis. non peculatus aerari factus est neque per vim sociis ereptae pecuniae, quae quamquam gravia sunt, tamen consuetudine iam pro nihilo habentur; <pb id="p.81"/> hosti acerrumo prodita senatus auctoritas, proditum imperium vostrum est; domi militiaeque res publica venalis fuit.
 <milestone unit="section" n="26"/>quae nisi quaesita erunt, nisi vindicatum in noxios, quid erit reliquom, nisi ut illis qui ea fecere oboedientes vivamus? nam impune quae lubet facere, id est regem esse.
 <milestone unit="section" n="27"/>neque ego vos, Quirites, hortor, ut malitis civis vostros perperam quam recte fecisse, sed ne ignoscundo malis bonos perditum eatis.
-<milestone unit="section" n="28" />ad hoc in re publica multo praestat benefici quam malefici inmemorem esse: bonus tantummodo segnior fit, ubi neglegas, at malus inprobior.
+<milestone unit="section" n="28"/>ad hoc in re publica multo praestat benefici quam malefici inmemorem esse: bonus tantummodo segnior fit, ubi neglegas, at malus inprobior.
 <milestone unit="section" n="29"/>ad hoc si iniuriae non sint, haud saepe auxili egeas.'</p>
 <p>
 <milestone unit="chapter" n="32"/>
@@ -962,7 +961,7 @@
 <p>
 <milestone unit="section" n="2"/>Dum haec Romae geruntur, qui in Numidia relicti a Bestia exercitui praeerant, secuti morem imperatoris sui pluruma et flagitiosissuma facinora fecere.
 <milestone unit="section" n="3"/>fuere qui auro corrupti elephantos Iugurthae traderent, alii perfugas vendere[nt], pars ex pacatis praedas agebant:
-<milestone unit="section" n="4" />tanta vis avaritiae in animos eorum veluti tabes invaserat.
+<milestone unit="section" n="4"/>tanta vis avaritiae in animos eorum veluti tabes invaserat.
 <milestone unit="section" n="5"/>at Cassius praetor perlata rogatione a C. Memmio ac perculsa omni nobilitate ad Iugurtham proficiscitur eique timido et ex conscientia diffidenti rebus suis persuadet, quoniam se populo Romano dedisset, ne vim quam misericordiam eius experiri mallet. privatim praeterea fidem suam interponit, quam ille non minoris quam publicam ducebat: talis ea tempestate fama de Cassio erat.</p> <pb id="p.82"/>
 <p>
 <milestone unit="chapter" n="33"/>
@@ -981,7 +980,7 @@
 <milestone unit="section" n="4"/>quae postquam Massiva agitare coepit neque Iugurthae in amicis satis praesidi est, quod eorum alium conscientia, alium mala fama et timor impediebat, Bomilcari, proxumo ac maxume fido sibi, imperat, pretio, sicuti multa confecerat, insidiatores Massivae paret ac maxume occulte, sin id parum procedat, quovis modo Numidam interficiat.
 <milestone unit="section" n="5"/>Bomilcar mature regis mandata exequitur et per homines talis negoti artifices itinera egressusque eius, postremo loca atque tempora cuncta explorat. deinde, ubi res postulabat, insidias tendit.
 <milestone unit="section" n="6"/>igitur unus ex eo numero, qui ad caedem parati erant, paulo inconsultius Massivam aggreditur. illum obtruncat, sed ipse deprehensus multis hortantibus et in primis Albino consule indicium profitetur.
-<milestone unit="section" n="7" />fit reus magis ex aequo bonoque quam ex iure gentium Bomilcar, comes eius, qui Romam fide publica venerat.
+<milestone unit="section" n="7"/>fit reus magis ex aequo bonoque quam ex iure gentium Bomilcar, comes eius, qui Romam fide publica venerat.
 <milestone unit="section" n="8"/>at Iugurtha manufestus tanti sceleris non prius omisit contra verum niti, quam animadvortit supra gratiam atque pecuniam suam invidiam facti esse.
 <milestone unit="section" n="9"/>igitur, quamquam in priore actione ex amicis quinquaginta vades dederat, regno magis quam vadibus consulens clam in Numidiam Bomilcarem dimittit, ventus, ne reliquos popularis metus invaderet parendi sibi, si de illo supplicium sumptum foret. et ipse paucis diebus eodem profectus est, iussus a senatu Italia decedere.
 <milestone unit="section" n="10"/>sed postquam Roma egressus est, fertur saepe eo tacitus respiciens postremo dixisse 'o urbem venalem et mature perituram, si emptorem invenerit.'</p> <pb id="p.84"/>
@@ -990,7 +989,7 @@
 <milestone unit="section" n="1"/>Interim Albinus renovato bello commeatum, stipendium aliaque, quae militibus usui forent, maturat in Africam portare; ac statim ipse profectus, uti ante comitia, quod tempus haud longe aberat, armis aut deditione aut quovis modo bellum conficeret.
 <milestone unit="section" n="2"/>at contra Iugurtha trahere omnia et alias, deinde alias morae causas facere; polliceri deditionem ac deinde metum simulare; cedere instanti et paulo post, ne sui diffiderent, instare: ita belli modo, modo pacis mora consulem ludificare.
 <milestone unit="section" n="3"/>ac fuere qui tum Albinum haud ignarum consili regis existumarent neque ex tanta properantia tam facile tractum bellum socordia magis quam dolo crederent.
-<milestone unit="section" n="4" />sed postquam dilapso tempore comitiorum dies adventabat, Albinus Aulo fratre in castris pro praetore relicto Romam decessit.</p>
+<milestone unit="section" n="4"/>sed postquam dilapso tempore comitiorum dies adventabat, Albinus Aulo fratre in castris pro praetore relicto Romam decessit.</p>
 <p>
 <milestone unit="chapter" n="37"/>
 <milestone unit="section" n="1"/>Ea tempestate Romae seditionibus tribuniciis atrociter res publica agitabatur.
@@ -1013,7 +1012,7 @@
 <milestone unit="section" n="1"/>Sed ubi ea Romae comperta sunt, metus atque maeror civitatem invasere: pars dolere pro gloria imperi, pars insolita rerum bellicarum timere libertati; Aulo omnes infesti, ac maxume qui bello saepe praeclari fuerant, quod armatus dedecore potius quam manu salutem quaesiverat.
 <milestone unit="section" n="2"/>ob ea consul Albinus ex delicto fratris invidiam ac deinde periculum timens senatum de foedere consulebat, et tamen interim exercitui supplementum scribere, ab sociis et nomine Latino auxilia arcessere, denique omnibus modis festinare.
 <milestone unit="section" n="3"/>senatus ita, uti par fuerat, decernit suo atque populi iniussu nullum potuisse foedus fieri.
-<milestone unit="section" n="4" />consul impeditus a tribunis plebis, ne quas paraverat copias secum portaret, paucis diebus in Africam proficiscitur; nam omnis exercitus, uti convenerat, Numidia deductus in provincia hiemabat.
+<milestone unit="section" n="4"/>consul impeditus a tribunis plebis, ne quas paraverat copias secum portaret, paucis diebus in Africam proficiscitur; nam omnis exercitus, uti convenerat, Numidia deductus in provincia hiemabat.
 <milestone unit="section" n="5"/>postquam eo venit, quamquam persequi Iugurtham et mederi fraternae invidiae animo ardebat, cognitis militibus, quos praeter fugam soluto imperio licentia atque lascivia corruperat, ex copia rerum statuit sibi nihil agitandum.</p>
 <p>
 <milestone unit="chapter" n="40"/>
@@ -1028,7 +1027,7 @@
 <milestone unit="section" n="2"/>nam ante Carthaginem deletam populus et senatus Romanus placide modesteque inter se rem publicam tractabant, neque gloriae neque dominationis certamen inter civis erat: metus hostilis in bonis artibus civitatem retinebat.
 <milestone unit="section" n="3"/>sed ubi illa formido mentibus decessit, scilicet ea, quae res secundae amant, lascivia atque superbia incessere.
 <milestone unit="section" n="4"/>ita quod in advorsis rebus optaverant otium, postquam adepti sunt, asperius acerbiusque fuit.
-<milestone unit="section" n="5" />namque coepere nobilitas dignitatem, populus libertatem in lubidinem vortere, sibi quisque ducere trahere rapere. ita omnia in duas partis abstracta sunt, res publica, quae media fuerat, dilacerata.
+<milestone unit="section" n="5"/>namque coepere nobilitas dignitatem, populus libertatem in lubidinem vortere, sibi quisque ducere trahere rapere. ita omnia in duas partis abstracta sunt, res publica, quae media fuerat, dilacerata.
 <milestone unit="section" n="6"/>ceterum nobilitas factione magis pollebat, plebis vis soluta atque dispersa in multitudine minus poterat.
 <milestone unit="section" n="7"/>paucorum arbitrio belli domique agitabatur; penes eosdem aerarium provinciae magistratus gloriae triumphique erant; populus militia atque inopia urgebatur; praedas bellicas imperatores cum paucis <pb id="p.88"/> diripiebant: interea parentes aut parvi liberi militum,
 <milestone unit="section" n="8"/>uti quisque potentiori confinis erat, sedibus pellebantur.
@@ -1038,7 +1037,7 @@
 <milestone unit="section" n="1"/>nam postquam Ti. et C. Cracchus, quorum maiores Punico atque aliis bellis multum rei publicae addiderant, vindicare plebem in libertatem et paucorum scelera patefacere coepere, nobilitas noxia atque eo perculsa modo per socios ac nomen Latinum, interdum per equites Romanos, quos spes societatis a plebe dimoverat, Gracchorum actionibus obviam ierat; et primo Tiberium, dein paucos post annos eadem ingredientem Gaium, tribunum alterum, alterum triumvirum coloniis deducundis, cum M. Fulvio Flacco ferro necaverat.
 <milestone unit="section" n="2"/>et sane Gracchis cupidine victoriae haud satis moderatus animus fuit.
 <milestone unit="section" n="3"/>sed bono vinci satius est quam malo more iniuriam vincere.
-<milestone unit="section" n="4" />igitur ea victoria nobilitas ex lubidine sua usa multos mortalis ferro aut fuga extinxit plusque in reliquom sibi timoris quam potentiae addidit. quae res plerumque magnas civitatis pessum dedit, dum alteri alteros vincere quovis modo et victos acerbius ulcisci volunt.
+<milestone unit="section" n="4"/>igitur ea victoria nobilitas ex lubidine sua usa multos mortalis ferro aut fuga extinxit plusque in reliquom sibi timoris quam potentiae addidit. quae res plerumque magnas civitatis pessum dedit, dum alteri alteros vincere quovis modo et victos acerbius ulcisci volunt.
 <milestone unit="section" n="5"/>sed de studiis partium et omnis civitatis moribus si singillatim aut pro magnitudine parem disserere, tempus quam res maturius me deseret. quam ob rem ad inceptum redeo.</p>
 <p>
 <milestone unit="chapter" n="43"/>
@@ -1071,9 +1070,9 @@
 <p>
 <milestone unit="chapter" n="47"/>
 <milestone unit="section" n="1"/>Erat haud longe ab eo itinere, quo Metellus <pb id="p.92"/> pergebat, oppidum Numidarum nomine Vaga, forum rerum venalium totius regni maxume celebratum, ubi et incolere et mercari consueverant Italici generis multi mortales.
-<milestone unit="section" n="2" />huc consul, simul temptandi gratia, si paterentur, et &lt;ob&gt; opportunitates loci, praesidium inposuit. praeterea imperavit frumentum et alia, quae bello usui forent, conportare, ratus, id quod res monebat, frequentiam negotiatorum et commeatu[m] iuvaturam exercitum et iam paratis rebus munimento fore.
+<milestone unit="section" n="2"/>huc consul, simul temptandi gratia, si paterentur, et &lt;ob&gt; opportunitates loci, praesidium inposuit. praeterea imperavit frumentum et alia, quae bello usui forent, conportare, ratus, id quod res monebat, frequentiam negotiatorum et commeatu[m] iuvaturam exercitum et iam paratis rebus munimento fore.
 <milestone unit="section" n="3"/>inter haec negotia Iugurtha impensius modo legatos supplices mittere, pacem orare, praeter suam liberorumque vitam omnia Metello dedere.
-<milestone unit="section" n="4" />quos item uti priores consul illectos ad proditionem domum dimittebat, regi pacem, quam postulabat, neque abnuere neque polliceri et inter eas moras promissa legatorum expectare.</p>
+<milestone unit="section" n="4"/>quos item uti priores consul illectos ad proditionem domum dimittebat, regi pacem, quam postulabat, neque abnuere neque polliceri et inter eas moras promissa legatorum expectare.</p>
 <p>
 <milestone unit="chapter" n="48"/>
 <milestone unit="section" n="1"/>Iugurtha ubi Metelli dicta cum factis conposuit ac se suis artibus temptari animadvortit, quippe quoi verbis pax nuntiabatur, ceterum re bellum asperrumum erat, urbs maxuma alienata, ager hostibus cognitus, animi popularium temptati, coactus rerum necessitudine statuit armis certare.
@@ -1102,7 +1101,7 @@
 <milestone unit="section" n="2"/>itaque multum diei processerat, quom etiam tum eventus in incerto erat.
 <milestone unit="section" n="3"/>denique omnibus labore et aestu languidis Metellus, ubi videt Numidas minus instare, paulatim milites in unum conducit, ordines restituit et cohortis legionarias quattuor advorsum pedites hostium conlocat. eorum magna pars superioribus locis fessa consederat.
 <milestone unit="section" n="4"/>simul orare et hortari milites, ne deficerent neu paterentur hostis fugientis vincere: neque illis castra esse neque munimentum ullum, quo cedentes tenderent; in armis omnia sita.
-<milestone unit="section" n="5" />sed ne Iugurtha quidem interea quietus erat: circumire, hortari; renovare proelium et ipse cum delectis temptare omnia; subvenire suis, hostibus dubiis instare, quos firmos cognoverat, eminus pugnando retinere.
+<milestone unit="section" n="5"/>sed ne Iugurtha quidem interea quietus erat: circumire, hortari; renovare proelium et ipse cum delectis temptare omnia; subvenire suis, hostibus dubiis instare, quos firmos cognoverat, eminus pugnando retinere.
 <milestone unit="chapter" n="52"/>
 <milestone unit="section" n="1"/>eo modo inter se duo imperatores, summi viri, certabant, ipsi pares, ceterum opibus disparibus.
 <milestone unit="section" n="2"/>nam Mello virtus militum erat, locus advorsus; Iugurthae alia omnia praeter milites opportuna.
@@ -1136,7 +1135,7 @@
 <milestone unit="chapter" n="55"/>
 <milestone unit="section" n="1"/>Interim Romae gaudium ingens ortum cognitis Metelli rebus, ut seque et exercitum more maiorum gereret, in advorso loco victor tamen virtute fuisset, hostium agro potiretur, Iugurtham magnificum ex Albini socordia spem salutis in solitudine aut fuga coegisset habere.
 <milestone unit="section" n="2"/>itaque senatus ob ea feliciter acta dis inmortalibus supplicia decernere; civitas, trepida antea et sollicita de belli eventu, laeta agere; de Metello fama praeclara esse.
-<milestone unit="section" n="3" />igitur eo intentior ad victoriam niti, omnibus modis festinare, cavere tamen, necubi hosti opportunus fieret, meminisse post gloriam invidiam sequi.
+<milestone unit="section" n="3"/>igitur eo intentior ad victoriam niti, omnibus modis festinare, cavere tamen, necubi hosti opportunus fieret, meminisse post gloriam invidiam sequi.
 <milestone unit="section" n="4"/>ita, quo clarior erat, eo magis anxius erat, neque post insidias Iugurthae effuso exercitu praedari; ubi frumento aut pabulo opus erat, cohortes cum omni equitatu praesidium agitabant; exercitus partem ipse,
 <milestone unit="section" n="5"/>reliquos Marius ducebat. sed igni magis quam praeda ager vastabatur.
 <milestone unit="section" n="6"/>duobus locis haud longe inter se castra faciebant; ubi <pb id="p.99"/> vi opus erat,
@@ -1164,14 +1163,14 @@
 <milestone unit="section" n="2"/>at nostri repentino metu perculsi sibi quisque pro moribus consulunt; alii fugere, alii arma capere; magna pars volnerati aut occisi.
 <milestone unit="section" n="3"/>ceterum ex omni multitudine non amplius quadraginta memores nominis Romani grege facto locum cepere paulo quam alii editiorem, neque inde maxuma vi depelli quiverunt, sed tela eminus missa remittere, pauci in pluribus minus frustrari; sin Numidae propius adcessissent, ibi vero virtutem ostendere et eos maxuma vi caedere, fundere atque fugare.
 <milestone unit="section" n="4"/>interim Metellus quom acerrume rem gereret, clamorem hostilem a tergo <pb id="p.101"/> accepit, dein convorso equo animadvortit fugam ad se vorsum fieri, quae res indicabat popularis esse.
-<milestone unit="section" n="5" />igitur equitatum omnem ad castra propere misit ac statim C. Marium cum cohortibus sociorum, eumque lacrumans per amicitiam perque rem publicam obsecrat, ne quam contumeliam remanere in exercitu victore neve hostis inultos abire sinat.
+<milestone unit="section" n="5"/>igitur equitatum omnem ad castra propere misit ac statim C. Marium cum cohortibus sociorum, eumque lacrumans per amicitiam perque rem publicam obsecrat, ne quam contumeliam remanere in exercitu victore neve hostis inultos abire sinat.
 <milestone unit="section" n="6"/>ille brevi mandata efficit. at Iugurtha munimento castrorum impeditus, quom alii super vallum praecipitarentur, alii in angustiis ipsi sibi properantes officerent, multis amissis in loca munita sese recepit.
-<milestone unit="section" n="7" />Metellus infecto negotio, postquam nox aderat, in castra cum exercitu revortitur.</p>
+<milestone unit="section" n="7"/>Metellus infecto negotio, postquam nox aderat, in castra cum exercitu revortitur.</p>
 <p>
 <milestone unit="chapter" n="59"/>
 <milestone unit="section" n="1"/>Igitur postero die, prius quam ad oppugnandum egrederetur, equitatum omnem in ea parte, qua regis adventus erat, pro castris agitare iubet, portas et proxuma loca tribunis dispertit, deinde ipse pergit ad oppidum atque uti superiore die murum aggreditur. interim Iugurtha ex occulto repente nostros invadit:
 <milestone unit="section" n="2"/>qui in proxumo locati fuerant, paulisper territi perturbantur, reliqui cito subveniunt.
-<milestone unit="section" n="3" />neque diutius Numidae resistere quivissent, ni pedites cum equitibus permixti magnam cladem in congressu facerent. quibus illi freti non, uti equestri proelio solet, sequi, dein cedere, sed advorsis equis concurrere, implicare ac perturbare aciem: ita expeditis peditibus suis hostis paene victos dare.</p>
+<milestone unit="section" n="3"/>neque diutius Numidae resistere quivissent, ni pedites cum equitibus permixti magnam cladem in congressu facerent. quibus illi freti non, uti equestri proelio solet, sequi, dein cedere, sed advorsis equis concurrere, implicare ac perturbare aciem: ita expeditis peditibus suis hostis paene victos dare.</p>
 <p>
 <milestone unit="chapter" n="60"/>
 <milestone unit="section" n="1"/>Eodem tempore apud Zamam magna vi certabatur. ubi quisque legatus aut tribunus curabat, eo acerrume niti, neque alius in alio magis quam in sese spem habere; pariterque oppidani agere: oppugnare aut parare omnibus locis, avidius alteri alteros sauciare quam semet tegere,
@@ -1185,7 +1184,7 @@
 <p>
 <milestone unit="chapter" n="61"/>
 <milestone unit="section" n="1"/>Metellus postquam videt frustra inceptum neque oppidum capi neque Iugurtham nisi ex insidiis aut suo loco pugnam facere et iam aestatem exactam esse, ab Zama discedit et in iis urbibus, quae ad se defecerant satisque munitae loco aut moenibus erant, praesidia inponit.
-<milestone unit="section" n="2" />ceterum exercitum in provinciam, quae proxuma est Numidiae, hiemandi gratia conlocat.
+<milestone unit="section" n="2"/>ceterum exercitum in provinciam, quae proxuma est Numidiae, hiemandi gratia conlocat.
 <milestone unit="section" n="3"/>neque id tempus ex aliorum more quieti aut luxuriae concedit, sed, quoniam armis bellum parum procedebat, insidias regi per amicos tendere et eorum perfidia pro armis uti parat.
 <milestone unit="section" n="4"/>igitur Bomilcarem, qui Romae cum Iugurtha fuerat et inde vadibus datis clam de Massivae nece iudicium fugerat, quod ei per maxumam amicitiam maxuma copia fallundi <pb id="p.103"/> erat, multis pollicitationibus aggreditur. ac primo efficit, uti ad se conloquundi gratia occultus veniat; deinde fide data, si Iugurtham vivom aut necatum sibi tradidisset, fore ut illi senatus inpunitatem et sua omnia concederet,
 <milestone unit="section" n="5"/>facile Numidae persuadet, quom ingenio infido tum metuenti, ne, si pax cum Romanis fieret, ipse per condiciones ad supplicium traderetur.
@@ -1208,12 +1207,12 @@
 <milestone unit="section" n="3"/>Sed is natus et omnem pueritiam Arpini altus, ubi primum aetas militiae patiens fuit, stipendiis faciundis, non Graeca facundia neque urbanis munditiis sese exercuit: ita inter artis bonas integrum ingenium brevi adolevit.
 <milestone unit="section" n="4"/>ergo, ubi primum tribunatum militarem a populo petit, plerisque faciem eius ignorantibus, factis notus per omnis tribus declaratur.
 <milestone unit="section" n="5"/>deinde ab eo magistratu alium, post alium sibi peperit, semperque in potestatibus eo modo agitabat, ut ampliore quam gerebat dignus haberetur.
-<milestone unit="section" n="6" />tamen is ad id locorum talis vir &mdash; nam postea ambitione praeceps datus est &mdash; consulatum adpetere non audebat. etiam tum alios magistratus plebs, consulatum nobilitas inter se per manus tradebat.
+<milestone unit="section" n="6"/>tamen is ad id locorum talis vir &mdash; nam postea ambitione praeceps datus est &mdash; consulatum adpetere non audebat. etiam tum alios magistratus plebs, consulatum nobilitas inter se per manus tradebat.
 <milestone unit="section" n="7"/>novos nemo tam clarus neque tam egregiis factis erat, quin indignus illo honore et &lt;is&gt; quasi pollutus haberetur.</p> <pb id="p.105"/>
 <p>
 <milestone unit="chapter" n="64"/>
 <milestone unit="section" n="1"/>Igitur ubi Marius haruspicis dicta eodem intendere videt, quo cupido animi hortabatur, ab Metello petundi gratia missionem rogat. quoi quamquam virtus, gloria atque alia optanda bonis superabant, tamen inerat contemptor animus et superbia, commune nobilitatis malum.
-<milestone unit="section" n="2" />itaque primum conmotus insolita re mirari eius consilium et quasi per amicitiam monere, ne tam prava inciperet neu super fortunam animum gereret: non omnia omnibus cupiunda esse, debere illi res suas satis placere; postremo caveret id petere a populo Romano, quod illi iure negaretur.
+<milestone unit="section" n="2"/>itaque primum conmotus insolita re mirari eius consilium et quasi per amicitiam monere, ne tam prava inciperet neu super fortunam animum gereret: non omnia omnibus cupiunda esse, debere illi res suas satis placere; postremo caveret id petere a populo Romano, quod illi iure negaretur.
 <milestone unit="section" n="3"/>postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi primum potuisset per negotia publica, facturum sese quae peteret.
 <milestone unit="section" n="4"/>ac postea saepius eadem postulanti fertur dixisse, ne festinaret abire: satis mature illum cum filio suo consulatum petiturum. is eo tempore contubernio patris ibidem militabat, annos natus circiter viginti. quae res Marium quom pro honore, quem adfectabat, tum contra Metellum vehementer accenderat.
 <milestone unit="section" n="5"/>ita cupidine atque ira, pessumis consultoribus, grassari; neque facto ullo neque dicto abstinere, quod modo ambitiosum foret; milites, quibus in hibernis praeerat, laxiore imperio quam antea habere; apud negotiatores, quorum magna multitude Uticae erat, criminose simul et magnifice de bello loqui: dimidia pars exercitus si sibi permitteretur, paucis diebus Iugurtham in catenis habiturum; ab imperatore consulto trahi, quod homo inanis et regiae superbiae imperio nimis gauderet.
@@ -1248,13 +1247,13 @@
 <p>
 <milestone unit="chapter" n="70"/>
 <milestone unit="section" n="1"/>Per idem tempus Bomilcar, quoius impulsu Iugurtha deditionem, quam metu deseruit, inceperat, suspectus regi et ipse eum suspicions novas res cupere, ad perniciem eius dolum quaerere, die noctuque fatigare animum.
-<milestone unit="section" n="2" />denique omnia temptando socium sibi adiungit Nabdalsam. hominem nobilem, magnis opibus, clarum acceptumque popularibus suis, qui plerumque seorsum ab rege exercitum ductare et omnis res exequi solitus erat, quae Iugurthae fesso aut maioribus adstricto <pb id="p.109"/> superaverant; ex quo illi gloria opesque inventae.
+<milestone unit="section" n="2"/>denique omnia temptando socium sibi adiungit Nabdalsam. hominem nobilem, magnis opibus, clarum acceptumque popularibus suis, qui plerumque seorsum ab rege exercitum ductare et omnis res exequi solitus erat, quae Iugurthae fesso aut maioribus adstricto <pb id="p.109"/> superaverant; ex quo illi gloria opesque inventae.
 <milestone unit="section" n="3"/>igitur utriusque consilio dies insidiis statuitur; cetera, uti res posceret, ex tempore parari placuit.
 <milestone unit="section" n="4"/>Nabdalsa ad exercitum profectus, quem inter hiberna Romanorum iussus habebat, ne ager inultis hostibus vastaretur.
 <milestone unit="section" n="5"/>is postquam magnitudine facinoris perculsus ad tempus non venit metusque rem impediebat, Bomilcar, simul cupidus incepta patrandi et timore soci anxius, ne omisso vetere consilio novom quaereret, litteras ad eum per homines fidelis mittit, in quis mollitiam socordiamque viri accusare, testari deos, per quos iuravisset, monere, ne praemia Metelli in pestem convorteret: Iugurthae exitium adesse, ceterum suane an Metelli virtute periret, id modo agitari; proinde reputaret cum animo suo, praemia an cruciatum mallet.
 <milestone unit="chapter" n="71"/>
 <milestone unit="section" n="1"/>sed quom eae litterae adlatae, forte Nabdalsa exercito corpore fessus in lecto quiescebat, ubi cognitis Bomilcaris verbis primo cura,
-<milestone unit="section" n="2" />deinde, uti aegrum animum solet, somnus cepit.
+<milestone unit="section" n="2"/>deinde, uti aegrum animum solet, somnus cepit.
 <milestone unit="section" n="3"/>erat ei Numida quidam negotiorum curator, fidus acceptusque et omnium consiliorum nisi novissumi particeps.
 <milestone unit="section" n="4"/>qui postquam adlatas litteras audivit et ex consuetudine ratus opera aut ingenio suo opus esse in tabernaculum introiit, dormiente illo epistulam super caput in pulvino temere positam su- mit ac perlegit, dein propere cognitis insidiis ad regem pergit.
 <milestone unit="section" n="5"/>Nabdalsa paulo post experrectus ubi neque epistulam repperit et rem omnem, uti acta erat, [ex perfu- gis] cognovit, primo indicem persequi conatus, postquam id frustra fuit, Iugurtham placandi gratia adcedit: dicit. quae ipse paravisset facere, perfidia clientis sui praeventa; lacrumans obtestatur per amicitiam perque sua antea fideliter acta, ne super tali scelere suspectum sese haberet.
@@ -1280,7 +1279,7 @@
 <milestone unit="section" n="1"/>Ea fuga Iugurtha impensius modo rebus suis diffidens cum perfugis et parte equitatus in solitudines, dein Thalam pervenit, in oppidum magnum atque opulentum, ubi plerique thesauri filiorumque eius multus pueritiae cultus erat.
 <milestone unit="section" n="2"/>quae postquam Metello comperta sunt, quamquam inter Thalam flumenque proxumum in spatio milium quinquaginta loca arida atque vasta esse cognoverat, tamen spe patrandi belli, si eius oppidi potitus foret, omnis asperitates supervadere ac naturam etiam vincere aggreditur.
 <milestone unit="section" n="3"/>igitur omnia iumenta sarcinis levari iubet nisi frumento dierum decem, ceterum utris modo et alia aquae idonea portari.
-<milestone unit="section" n="4" />praeterea conquirit ex agris <pb id="p.112"/> quam plurumum potest domiti pecoris eoque inponit vasa quoiusque modi, sed pleraque lignea collecta ex tuguriis Numidarum; ad hoc finitumis imperat,
+<milestone unit="section" n="4"/>praeterea conquirit ex agris <pb id="p.112"/> quam plurumum potest domiti pecoris eoque inponit vasa quoiusque modi, sed pleraque lignea collecta ex tuguriis Numidarum; ad hoc finitumis imperat,
 <milestone unit="section" n="5"/>qui se post regis fugam Metello dederant, quam plurumum quisque aquae portaret; diem locumque, ubi praesto fueri&lt;n&gt;t, praedicit; ipse ex flumine,
 <milestone unit="section" n="6"/>quam proxumam oppido aquam esse supra diximus, iumenta onerat: eo modo instructus ad Thalam proficiscitur.
 <milestone unit="section" n="7"/>deinde ubi ad id loci ventum, quo Numidis praeceperat, et castra posita munitaque sunt, tanta repente caelo missa vis aquae dicitur, ut ea modo exercitui satis superque foret.
@@ -1303,7 +1302,7 @@
 <milestone unit="chapter" n="78"/>
 <milestone unit="section" n="1"/>Id oppidum ab Sidoniis conditum est, quos accepimus profugos ob discordias civilis navibus in eos locos venisse, ceterum situm inter duas Syrtis, quibus nomen ex re inditum.
 <milestone unit="section" n="2"/>nam duo sunt sinus prope in extrema Africa, inpares magnitudine, pari natura; quorum proxuma terrae praealta sunt, cetera uti fors tulit alta alia, alia [in tempestate] vadosa.
-<milestone unit="section" n="3" />nam ubi mare magnum esse et saevire ventis coepit, limum harenamque et saxa <pb id="p.114"/> ingentia fluctus trahunt: ita facies locorum cum ventis simul mutatur.
+<milestone unit="section" n="3"/>nam ubi mare magnum esse et saevire ventis coepit, limum harenamque et saxa <pb id="p.114"/> ingentia fluctus trahunt: ita facies locorum cum ventis simul mutatur.
 <milestone unit="section" n="4"/>Syrtes ab tractu nominatae. eius civitatis lingua modo convorsa conubio Numidarum, legum cultusque pleraque Sidonica; quae eo facilius retinebant, quod procul ab imperio regis aetatem agebant.
 <milestone unit="section" n="5"/>inter illos et frequentem Numidiam multi vastique loci erant.</p>
 <p>
@@ -1322,9 +1321,9 @@
 <milestone unit="chapter" n="80"/>
 <milestone unit="section" n="1"/>Iugurtha postquam amissa Thala nihil satis firmum contra Metellum putat, per magnas solitudines cum paucis profectus pervenit ad Gaetulos, genus hominum ferum incultumque et eo tempore ignarum nominis Romani.
 <milestone unit="section" n="2"/>eorum multitudinem in unum cogit ac paulatim consuefacit ordines habere, signa sequi, imperium observare, item alia militaria facere.
-<milestone unit="section" n="3" />praeterea regis Bocchi proxumos magnis muneribus et maioribus promissis ad studium sui perducit, quis adiutoribus regem aggressus inpellit, uti advorsus Romanos bellum incipiat.
+<milestone unit="section" n="3"/>praeterea regis Bocchi proxumos magnis muneribus et maioribus promissis ad studium sui perducit, quis adiutoribus regem aggressus inpellit, uti advorsus Romanos bellum incipiat.
 <milestone unit="section" n="4"/>id ea gratia facilius proniusque fuit, quod Bocchus initio huiusce belli legatos Romam miserat foedus et amicitiam petitum,
-<milestone unit="section" n="5" />quam rem opportunissumam incepto bello pauci impediverant caeci avaritia, quis omnia honesta atque inhonesta vendere mos erat.
+<milestone unit="section" n="5"/>quam rem opportunissumam incepto bello pauci impediverant caeci avaritia, quis omnia honesta atque inhonesta vendere mos erat.
 <milestone unit="section" n="6"/>et iam antea Iugurthae filia Boccho nupserat. verum ea necessitudo apud Numidas Maurosque levis ducitur, quia singuli pro opibus quisque quam plurumas uxores, denas alii, alii pluris habent, sed reges eo amplius.
 <milestone unit="section" n="7"/>ita animus multitudine distrahitur: nulla pro socia obtinet, pariter omnes viles sunt.
 <milestone unit="chapter" n="81"/>
@@ -1364,12 +1363,12 @@
 <milestone unit="section" n="11"/>ita plerumque evenit, ut, quem vos imperare iussistis, is sibi imperatorem alium quaerat.
 <milestone unit="section" n="12"/>atque ego scio, Quirites, qui, postquam consules facti sunt, et acta maiorum et Graecorum militaria praecepta legere coeperint: praeposteri homines, nam gerere quam fieri tempore posterius, re atque usu prius est.
 <milestone unit="section" n="13"/>conparate nunc, Quirites, cum illorum superbia me hominem novom. quae illi audire aut legere solent, eorum partem vidi, alia egomet gessi; quae illi litteris, ea ego militando didici.
-<milestone unit="section" n="14" />nunc vos existumate, facta an dicta pluris sint. contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur.
+<milestone unit="section" n="14"/>nunc vos existumate, facta an dicta pluris sint. contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur.
 <milestone unit="section" n="15"/>quamquam ego naturam unam et communem omnium existumo, sed fortissumum quemque generosissumum.
 <milestone unit="section" n="16"/>ac si iam ex patribus Albini aut Bestiae quaeri posset, mene an illos ex se gigni maluerint, quid responsuros creditis nisi <pb id="p.120"/> sese liberos quam optumos voluisse?
 <milestone unit="section" n="17"/>quod si iure me despiciunt, faciant item maioribus suis, quibus, uti mihi, ex virtute nobilitas coepit.
 <milestone unit="section" n="18"/>invident honori meo: ergo invideant labori, innocentiae, periculis etiam meis, quoniam per haec illum cepi.
-<milestone unit="section" n="19" />verum homines corrupti superbia ita aetatem agunt, quasi vostros honores contemnant; ita hos petunt, quasi honeste vixerint.
+<milestone unit="section" n="19"/>verum homines corrupti superbia ita aetatem agunt, quasi vostros honores contemnant; ita hos petunt, quasi honeste vixerint.
 <milestone unit="section" n="20"/>ne illi falsi sunt, qui divorsissumas res pariter expectant, ignaviae voluptatem et praemia virtutis.
 <milestone unit="section" n="21"/>atque etiam, quod apud vos aut in senatu verba faciunt, pleraque oratione maiores suos extollunt: eorum fortia facta memorando clariores sese putant.
 <milestone unit="section" n="22"/>quod contra est. nam quanto vita illorum praeclarior, tanto horum socordia flagitiosior.
@@ -1390,7 +1389,7 @@
 <milestone unit="section" n="36"/>haec atque alia talia maiores vostri faciundo seque remque publicam celebravere.
 <milestone unit="section" n="37"/>quis no- bilitas freta, ipse dissimilis moribus, nos illorum aemulos contemnit et omnis honores non ex merito sed quasi <pb id="p.122"/> debitos a vobis repetit.
 <milestone unit="section" n="38"/>ceterum homines superbissumi procul errant. maiores eorum omnia quae licebat illis reliquere: divitias, imagines, memoriam sui praeclaram; virtutem non reliquere, neque poterant: ea sola neque datur dono neque accipitur.
-<milestone unit="section" n="39" />sordidum me et incultis moribus aiunt, quia parum scite convivium exorno neque histrionem ullum neque pluris preti coquom quam vilicum habeo.
+<milestone unit="section" n="39"/>sordidum me et incultis moribus aiunt, quia parum scite convivium exorno neque histrionem ullum neque pluris preti coquom quam vilicum habeo.
 <milestone unit="section" n="40"/>quae mihi lubet confiteri, Quirites. nam ex parente meo et ex aliis sanctis viris ita accepi, munditias mulieribus, viris laborem convenire, omnibusque bonis oportere plus gloriae quam divitiarum esse; arma, non supellectilem decori esse.
 <milestone unit="section" n="41"/>quin ergo, quod iuvat, quod carum aestumant, id semper faciant: ament, potent; ubi adulescentiam habuere, ibi senectutem agant, in conviviis, dediti ventri et turpissumae parti corporis; sudorem, pulverem et alia talia relinquant nobis, quibus illa epulis iucundiora sunt.
 <milestone unit="section" n="42"/>verum non ita est. nam ubi se flagitiis dedecoravere turpissumi viri, bonorum praemia ereptum eunt.
@@ -1407,14 +1406,14 @@
 <milestone unit="chapter" n="86"/>
 <milestone unit="section" n="1"/>Huiusce modi oratione habita Marius, postquam plebis animos adrectos videt, propere commeatu, stipendio, armis aliisque utilibus navis onerat, cum his A. Manlium legatum proficisci iubet.
 <milestone unit="section" n="2"/>ipse interea milites scribere, non more maiorum neque ex classibus, sed uti quoiusque lubido erat, capite censos plerosque.
-<milestone unit="section" n="3" />id factum alii inopia bonorum, alii per ambitionem consulis memorabant, quod ab eo genere celebratus auctusque erat et homini potentiam quaerenti egentissumus quisque opportunissumus, quoi neque sua cara, quippe quae nulla sunt, et omnia cum pretio honesta videntur.</p>
+<milestone unit="section" n="3"/>id factum alii inopia bonorum, alii per ambitionem consulis memorabant, quod ab eo genere celebratus auctusque erat et homini potentiam quaerenti egentissumus quisque opportunissumus, quoi neque sua cara, quippe quae nulla sunt, et omnia cum pretio honesta videntur.</p>
 <p>
 <milestone unit="section" n="4"/>Igitur Marius cum aliquanto maiore numero, quam decretum erat, in Africam profectus paucis diebus Uticam advehitur.
 <milestone unit="section" n="5"/>exercitus ei traditur a P. Rutilio legato; nam Metellus conspectum Mari fugerat, ne videret ea, quae audita animus tolerare nequiverat.
 <milestone unit="chapter" n="87"/>
 <milestone unit="section" n="1"/>sed consul expletis legionibus cohortibusque auxiliariis in agrum fertilem et praeda onustum proficiscitur, omnia ibi capta militibus donat; dein castella et oppida natura et viris parum munita aggreditur, proelia multa, ceterum levia, alia aliis <pb id="p.124"/> locis facere.
 <milestone unit="section" n="2"/>interim novi milites sine metu pugnae adesse, videre fugientis capi aut occidi, fortissumum quemque tutissumum, armis libertatem patriam parentisque et alia omnia tegi, gloriam atque divitias quaeri.
-<milestone unit="section" n="3" />sic brevi spatio novi veteresque coaluere, et virtus omnium aequalis facta.</p>
+<milestone unit="section" n="3"/>sic brevi spatio novi veteresque coaluere, et virtus omnium aequalis facta.</p>
 <p>
 <milestone unit="section" n="4"/>At reges, ubi de adventu Mari cognoverunt, divorsi in locos difficilis abeunt. ita Iugurthae placuerat, speranti mox effusos hostis invadi posse, Romanos sicuti plerosque remoto metu laxius licentiusque futuros.</p>
 <p>
@@ -1423,7 +1422,7 @@
 <p>
 <milestone unit="section" n="2"/>Sed Marius inpigre prudenterque suorum et hostium res pariter attendere: cognoscere, quid boni utrisque aut contra esset, explorare itinera regum, consilia et insidias eorum antevenire, nihil apud se remissum neque aqud illos tutum pati.
 <milestone unit="section" n="3"/>itaque et Gaetulos et Iugurtham ex sociis nostris praedas agentis saepe aggressus in itinere fuderat ipsumque regem haud procul ab oppido Cirta armis exuerat.
-<milestone unit="section" n="4" />quae postquam gloriosa modo neque belli patrandi cognovit, statuit urbis, quae viris aut loco pro hostibus et advorsum se opportunissumae erant, singulas circumvenire: ita Iugurtham aut praesidiis nudatum &lt;iri&gt;, si ea pateretur, aut proelio certaturum.
+<milestone unit="section" n="4"/>quae postquam gloriosa modo neque belli patrandi cognovit, statuit urbis, quae viris aut loco pro hostibus et advorsum se opportunissumae erant, singulas circumvenire: ita Iugurtham aut praesidiis nudatum &lt;iri&gt;, si ea pateretur, aut proelio certaturum.
 <milestone unit="section" n="5"/>nam Bocchus nuntios ad eum saepe miserat: velle populi Romani amicitiam; ne quid ab se hostile timeret.
 <milestone unit="section" n="6"/>id simulaveritne, quo inprovisus gravior accideret, an mobilitate ingeni pacem atque bellum mutare solitus, parum exploratum est.
 <milestone unit="chapter" n="89"/>
@@ -1432,7 +1431,7 @@
 <milestone unit="section" n="3"/>sed ubi illum procul abesse et aliis negotiis intentum accepit, maiora et magis aspera aggredi tempus visum est.</p>
 <p>
 <milestone unit="section" n="4"/>Erat inter ingentis solitudines oppidum magnum atque valens nomine Capsa, quoius conditor Hercules Libys memorabatur. eius cives apud Iugurtham immunes, levi imperio et ob ea fidelissumi habebantur, muniti advorsum hostis non moenibus modo et armis atque viris, verum etiam multo magis locorum asperitate.
-<milestone unit="section" n="5" />nam praeter oppido propinqua alia omnia vasta, inculta, egentia aquae, infesta serpentibus, quarum vis sicuti omnium ferarum inopia cibi acrior. ad hoc natura serpentium ipsa perniciosa siti magis quam alia re accenditur.
+<milestone unit="section" n="5"/>nam praeter oppido propinqua alia omnia vasta, inculta, egentia aquae, infesta serpentibus, quarum vis sicuti omnium ferarum inopia cibi acrior. ad hoc natura serpentium ipsa perniciosa siti magis quam alia re accenditur.
 <milestone unit="section" n="6"/>eius potiundi Marium maxuma cupido invaserat, quom propter usum belli tum quia res aspera videbatur et Metellus oppidum Thalam magna gloria ceperat, haud dissimiliter situm munitumque, nisi quod apud Thalam non longe a moenibus aliquot fontes erant, Capsenses una modo atque ea intra oppidum iugi aqua, cetera pluvia utebantur.
 <milestone unit="section" n="7"/>id ibique et in omni Africa, quae procul a mari incultius agebat, eo facilius tolerabatur, quia Numidae plerumque lacte et ferina carne vescebantur et neque salem neque alia irritamenta gulae quaerebant:
 <milestone unit="section" n="8"/>cibus illis advorsum famem atque sitim, non lubidini neque luxuriae erat.
@@ -1446,7 +1445,7 @@
 <milestone unit="section" n="3"/>dein postquam tempus visum, castris egreditur, noctemque totam itinere facto consedit; idem proxuma facit; dein tertia multo ante lucis adventum pervenit in locum tumulosum ab Capsa non amplius duum milium intervallo, ibique quam occultissume potest cum omnibus copiis opperitur.
 <milestone unit="section" n="4"/>sed ubi dies coepit et Numidae nihil hostile metuentes multi oppido egressi, repente omnem equitatum et cum iis velocissumos pedites cursu tendere ad Capsam et portas obsidere iubet; deinde ipse intentus propere sequi neque milites praedari sinere.
 <milestone unit="section" n="5"/>quae postquam oppidani cognovere, res trepidae, metus ingens, malum inprovisum, ad hoc pars civium extra moenia in hostium potestate coegere, uti deditionem facerent.
-<milestone unit="section" n="6" />ceterum oppidum incensum, Numidae puberes interfecti, alii omnes venundati, praeda militibus divisa.
+<milestone unit="section" n="6"/>ceterum oppidum incensum, Numidae puberes interfecti, alii omnes venundati, praeda militibus divisa.
 <milestone unit="section" n="7"/>id facinus contra ius belli non avaritia neque scelere <pb id="p.127"/> consulis admissum, sed quia locus Iugurthae opportunus, nobis aditu difficilis, genus hominum mobile, infidum, ante neque beneficio neque metu coercitum.</p>
 <p>
 <milestone unit="chapter" n="92"/>
@@ -1475,7 +1474,7 @@
 <milestone unit="section" n="3"/>igitur diu multumque fatigati tandem in castellum perveniunt, desertum ab ea part, quod omnes sicut aliis diebus advorsum hostis aderant. Marius ubi ex nuntiis quae Ligus egerat cognovit, quamquam toto die intentos proelio Numidas habuerat, tum vero cohortatus milites et ipse extra vineas egressus testudine acta succedere et simul hostem tormentis sagittariisque et funditoribus eminus terrere.
 <milestone unit="section" n="4"/>at Numidae, saepe antea vineis Romanorum subvorsis, item incensis, non castelli moenibus sese tutabantur, sed pro muro dies noctisque agitare, male dicere Romanis ac Mario vecordiam obiectare, militibus nostris Iugurthae servitium minari, secundis rebus feroces esse.
 <milestone unit="section" n="5"/>interim omnibus, Romanis hostibusque, proelio intentis, magna utrimque vi pro gloria <pb id="p.130"/> atque imperio his illis pro salute certantibus, repente a tergo signa canere; ac primo mulieres et pueri, qui visum processerant, fugere, deinde uti quisque muro proxumus erat, postremo cuncti, armati inermesque.
-<milestone unit="section" n="6" />quod ubi accidit, eo acrius Romani instare, fundere ac plerosque tantummodo sauciare, dein super occisorum corpora vadere, avidi gloriae certantes murum petere, neque quemquam omnium praeda morari.
+<milestone unit="section" n="6"/>quod ubi accidit, eo acrius Romani instare, fundere ac plerosque tantummodo sauciare, dein super occisorum corpora vadere, avidi gloriae certantes murum petere, neque quemquam omnium praeda morari.
 <milestone unit="section" n="7"/>sic forte correcta Mari temeritas gloriam ex culpa invenit.</p>
 <p>
 <milestone unit="chapter" n="95"/>
@@ -1514,27 +1513,27 @@
 <milestone unit="chapter" n="100"/>
 <milestone unit="section" n="1"/>Dein Marius, uti coeperat, in hiberna it: propter commeatum in oppidis maritumis agere decreverat; neque tamen victoria socors aut insolens factus, sed pariter atque in conspectu hostium quadrato agmine incedere. <pb id="p.134"/> Sulla cum equitatu apud dextumos, in sinistra parte
 <milestone unit="section" n="2"/>A. Manlius cum funditoribus et sagittariis, praeterea cohortis Ligurum curabat. primos et extremos cum expeditis manipulis tribunos locaverat.
-<milestone unit="section" n="3" />perfugae, minume carl et regionum scientissumi, hostium iter explorabant. simul consul quasi nullo inposito omnia providere, apud omnis adesse, laudare et increpare merentis.
+<milestone unit="section" n="3"/>perfugae, minume carl et regionum scientissumi, hostium iter explorabant. simul consul quasi nullo inposito omnia providere, apud omnis adesse, laudare et increpare merentis.
 <milestone unit="section" n="4"/>ipse armatus intentusque, item milites cogebat. neque secus atque iter facere, castra munire, excubitum in porta cohortis ex legionibus, pro castris equites auxiliarios mittere, praeterea alios super vallum in munimentis locare, vigilias ipse circumire, non tam diffidentia futurum quae imperavisset, quam uti militibus exaequatus cum imperatore labor volentibus esset.
 <milestone unit="section" n="5"/>et sane Marius illoque aliisque temporibus Iugurthini belli pudore magis quam malo exercitum coercebat. quod multi per ambitionem fieri aiebant: [quod] a pueritia cousuetam duritiam et alia, quae ceteri miserias vocant, voluptati habuisse; nisi tamen res publica pariter ac saevissumo imperio bene atque decore gesta.</p>
 <p>
 <milestone unit="chapter" n="101"/>
 <milestone unit="section" n="1"/>Igitur quarto denique die haud longe ab oppido Cirta undique simul speculatores citi sese ostendunt, qua re hostis adesse intellegitur.
 <milestone unit="section" n="2"/>sed quia divorsi redeuntes alius ab alia parte atque omnes idem significabant, consul incertus, quonam modo aciem instrueret, nullo ordine conmutato advorsum omnia paratus ibidem opperitur.
-<milestone unit="section" n="3" />ita Iugurtham spes frustrata, qui copias in quattuor partis distribuerat, ratus ex omnibus aeque aliquos ab tergo hostibus venturos.
+<milestone unit="section" n="3"/>ita Iugurtham spes frustrata, qui copias in quattuor partis distribuerat, ratus ex omnibus aeque aliquos ab tergo hostibus venturos.
 <milestone unit="section" n="4"/>interim Sulla, quem primum <pb id="p.135"/> hostes attigerant, cohortatus suos turmatim et quam maxume confertis equis ipse aliique Mauros invadunt, ceteri in loco manentes ab iaculis eminus emissis corpora tegere et, si qui in manus venerant, obtruncare.
 <milestone unit="section" n="5"/>dum eo modo equites proeliantur, Bocchus cum peditibus, quos Volux, filius eius, adduxerat neque in priore pugna, in itinere morati, adfuerant, postremam Romanorum aciem invadunt.
 <milestone unit="section" n="6"/>tum Marius apud primos agebat, quod ibi Iugurtha cum plurumis erat. dein Numida cognito Bocchi adventu clam cum paucis ad pedites convortit. ibi latine &mdash; nam apud Numantiam loqui didicerat &mdash; exclamat nostros frustra pugnare, paulo ante Marium sua manu interfectum. simul gladium sanguine oblitum ostendere, quem in pugna satis inpigre occiso pedite nostro cruentaverat.
 <milestone unit="section" n="7"/>quod ubi milites accepere, magis atrocitate rei quam fide nuntii terrentur, simulque barbari animos tollere et in perculsos Romanos acrius incedere.
 <milestone unit="section" n="8"/>iamque paulum a fuga aberant, quom Sulla profligatis iis, quos advorsum ierat, rediens ab latere Mauris incurrit. Bocchus statim avortitur.
 <milestone unit="section" n="9"/>at Iugurtha, dum sustentare suos et prope iam adeptam victoriam retinere cupit, circumventus ab equitibus, dextra sinistraque omnibus occisis solus inter tela hostium vitabundus erumpit.
-<milestone unit="section" n="10" />atque interim Marius fugatis equitibus adcurrit auxilio suis, quos pelli iam acceperat.
+<milestone unit="section" n="10"/>atque interim Marius fugatis equitibus adcurrit auxilio suis, quos pelli iam acceperat.
 <milestone unit="section" n="11"/>denique hostes iam undique fusi. tum spectaculum horribile in campis patentibus: sequi fugere, occidi capi; equi atque viri adflicti, ac multi volneribus acceptis neque fugere posse neque quietem pati, niti modo ac statim concidere; postremo omnia, qua visus erat, constrata telis armis cadaveribus, et inter ea humus infecta sanguine.</p> <pb id="p.136"/>
 <p>
 <milestone unit="chapter" n="102"/>
 <milestone unit="section" n="1"/>Post ea loci consul haud dubie iam victor pervenit in oppidum Cirtam,quo initio profectus intenderat.
 <milestone unit="section" n="2"/>eo post diem quintum, quam iterum barbari male pugnaverant, legati a Boccho veniunt, qui regis verbis ab Mario petivere, duos quam fidissumos ad eum mitteret, velle de suo et de populi Romani commodo cum iis disserere. ille statim L. Sullam et A. Manlium ire iubet.
-<milestone unit="section" n="3" />qui quamquam acciti ibant, tamen placuit verba apud regem facere, ut ingenium aut avorsum flecterent aut cupidum pacis vehementius accenderent.
+<milestone unit="section" n="3"/>qui quamquam acciti ibant, tamen placuit verba apud regem facere, ut ingenium aut avorsum flecterent aut cupidum pacis vehementius accenderent.
 <milestone unit="section" n="4"/>itaque Sulla, quoius fa- cundiae, non aetati a Manlio concessum, pauca verba huiusce modi locutus:</p>
 <p>
 <milestone unit="section" n="5"/>'Rex Bocche, magna laetitia nobis est, quom te talem virum di monuere, uti aliquando pacem quam bellum malles neu te optumum cum pessumo omnium Iugurtha miscendo conmaculares, simul nobis demeres acerbam necessitudinem, pariter te errantem atque illum sceleratissumum persequi.
@@ -1576,7 +1575,7 @@
 <milestone unit="chapter" n="106"/>
 <milestone unit="section" n="1"/>Volux adveniens quaestorem appellat dicitque se a patre Boccho obviam illis simul et praesidio missum. deinde eum et proxumum diem sine metu coniuncti eunt.
 <milestone unit="section" n="2"/>post ubi castra <pb id="p.140"/> locata et diei vesper erat, repente Maurus incerto voltu pavens ad Sullam adcurrit dicitque sibi ex speculatoribus cognitum Iugurtham haud procul abesse. simul, uti noctu clam secum profugeret, rogat atque hortatur.
-<milestone unit="section" n="3" />ille animo feroci negat se totiens fusum Numidam pertimescere: virtuti suorum satis credere; etiam si certa pestis adesset, mansurum potius, quam, proditis quos ducebat, turpi fuga incertae ac forsitan post paulo morbo interiturae vitae parceret.
+<milestone unit="section" n="3"/>ille animo feroci negat se totiens fusum Numidam pertimescere: virtuti suorum satis credere; etiam si certa pestis adesset, mansurum potius, quam, proditis quos ducebat, turpi fuga incertae ac forsitan post paulo morbo interiturae vitae parceret.
 <milestone unit="section" n="4"/>ceterum ab eodem monitus, uti noctu proficisceretur, consilium adprobat; ac statim milites cenatos esse in castris ignisque quam creberrumos fieri, dein prima vigilia silentio egredi iubet.
 <milestone unit="section" n="5"/>iamque nocturno itinere fessis omnibus Sulla pariter cum ortu solis castra metabatur, quom equites Mauri nuntiant Iugurthain circiter duum milium intervallo ante consedisse.
 <milestone unit="section" n="6"/>quod postquam auditum est, tum vero ingens metus nostros invadit; credere se proditos a Voluce et insidiis circumventos. ac fuere qui dicerent manu vindicandum neque apud illum tantum scelus inultum relinquendum.
@@ -1584,7 +1583,7 @@
 <milestone unit="section" n="1"/>at Sulla, quamquam eadem existumabat, tamen ab iniuria Maurum prohibet. suos hortatur, uti fortem animum gererent: saepe antea &lt;a&gt; paucis strenuis advorsum multitudinem bene pugriatum; quanto sibi in proelio minus pepercissent, tanto tutiores fore; nec quemquam decere, qui manus armaverit, ab inermis pedibus auxilium petere, in maxumo metu nudum et caecum corpus ad hostis vortere.
 <milestone unit="section" n="2"/>dein Volucem, quoniam hostilia faceret, <pb id="p.141"/> Iovem maxumum obtestatus, ut sceleris atque perfidiae Bocchi testis adesset, ex castris abire iubet.
 <milestone unit="section" n="3"/>ille lacrumans orare, ne ea crederet: nihil dolo factum, ac magis calliditate Iugurthae, quoi videlicet speculanti iter suom cognitum esset.
-<milestone unit="section" n="4" />ceterum quoniam neque ingentem multitudinem haberet et spes opesque eius ex patre suo penderent, credere illum nihil palam ausurum, quom ipse filius testis adesset.
+<milestone unit="section" n="4"/>ceterum quoniam neque ingentem multitudinem haberet et spes opesque eius ex patre suo penderent, credere illum nihil palam ausurum, quom ipse filius testis adesset.
 <milestone unit="section" n="5"/>qua re optumum factu videri per media eius castra palam transire; sese vel praemissis vel ibidem relictis Mauris solum cum Sulla iturum.
 <milestone unit="section" n="6"/>ea res, uti in tali negotio, probata; ac statim profecti, quia de inproviso acciderant, dubio atque haesitante Iugurtha incolumes transeunt.
 <milestone unit="section" n="7"/>deinde paucis diebus, quo ire intenderant, perventum est.</p>
@@ -1618,7 +1617,7 @@
 <p>
 <milestone unit="chapter" n="112"/>
 <milestone unit="section" n="1"/>At rex postero die Asparem, Iugurthae legatum, appellat dicitque sibi per Dabarem ex Sulla cognitum posse condicionibus bellum poni: quam ob rem regis sui sententiam exquireret ille laetus in castra Iugurthae proficiscitur.
-<milestone unit="section" n="2" />deinde ab illo cuncta edoctus properato itinere post diem octavum redit ad Bocchum et ei nuntiat Iugurtham cupere omnia quae imperarentur facere, sed Mario parum confidere; saepe antea cum imperatoribus Romanis pacem conventam frustra fuisse.
+<milestone unit="section" n="2"/>deinde ab illo cuncta edoctus properato itinere post diem octavum redit ad Bocchum et ei nuntiat Iugurtham cupere omnia quae imperarentur facere, sed Mario parum confidere; saepe antea cum imperatoribus Romanis pacem conventam frustra fuisse.
 <milestone unit="section" n="3"/>ceterum Bocchus si ambobus consultum et ratam pacem vellet, daret operam, ut una ab omnibus quasi de pace in conloquium veniretur, ibique sibi Sullam traderet. quom talem virum in potestatem habuisset, tum fore uti iussu senatus aut populi foedus fieret; neque hominem nobilem non sua ignavia sed ob rem publicam in hostium potestate relictum iri.
 <milestone unit="chapter" n="113"/>
 <milestone unit="section" n="1"/>haec Maurus secum ipse diu volvens tandem promisit; ceterum dolo an vere cunctatus, parum comperimus. sed plerumque regiae voluntates ut vehementes sic mobiles, saepe ipsae sibi advorsae.
@@ -1626,8 +1625,8 @@
 <p>
 <milestone unit="section" n="3"/>Sed nocte ea, quae proxuma fuit ante diem conloquio decretum, Maurus adhibitis amicis ac statim inmutata voluntate remotis ceteris dicitur secum ipse multum agitavisse, voltu [corporis] &lt;et oculis&gt; pariter <pb id="p.145"/> atque animo varius; quae scilicet ita tacente ipso occulta pectoris patefecisse.
 <milestone unit="section" n="4"/>tamen postremo Sullam accersi iubet et ex illius sententia Numidae insidias tendit.
-<milestone unit="section" n="5" />deinde ubi dies advenit et ei nuntiatum est Iugurtham haud procul abesse, cum paucis amicis et quaestore nostro quasi obvius honoris causa procedit in tumulum facillumum visu insidiantibus.
-<milestone unit="section" n="6" />eodem Numida cum plerisque necesariis suis inermis, uti dictum erat, adcedit, ac statim signo dato undique simul ex insidiis invaditur.
+<milestone unit="section" n="5"/>deinde ubi dies advenit et ei nuntiatum est Iugurtham haud procul abesse, cum paucis amicis et quaestore nostro quasi obvius honoris causa procedit in tumulum facillumum visu insidiantibus.
+<milestone unit="section" n="6"/>eodem Numida cum plerisque necesariis suis inermis, uti dictum erat, adcedit, ac statim signo dato undique simul ex insidiis invaditur.
 <milestone unit="section" n="7"/>ceteri obtruncati, Iugurtha Sullae vinctus traditur et ab eo ad Marium deductus est.</p>
 <p>
 <milestone unit="chapter" n="114"/>
@@ -1649,7 +1648,7 @@
 <milestone unit="section" n="7"/>Agundum atque obviam eundum est, Quirites, ne spolia vostra penes illos sint, non prolatandum neque votis paranda auxilia; nisi forte speratis taedium iam aut pudorem tyrannidis Sullae esse et eum per scelus occupata periculosius dimissurum.
 <milestone unit="section" n="8"/>at ille eo processit, ut nihil gloriosum nisi tutum et omnia retinendae do- minationis honesta aestumet.
 <milestone unit="section" n="9"/>itaque illa quies et otium cum libertate, quae multi probi potius quam laborem cum honoribus capessebant, nulla sunt;
-<milestone unit="section" n="10" />hac tempestate serviundum aut imperitandum, habendus metus est aut faciundus, Quirites.
+<milestone unit="section" n="10"/>hac tempestate serviundum aut imperitandum, habendus metus est aut faciundus, Quirites.
 <milestone unit="section" n="11"/>nam quid ultra? quaeve humana superant aut divina inpulluta sunt? populus Romanus, paulo ante gentium moderator, exutus imperio gloria iure, agitandi inops despectusque ne servilia quidem alimenta reliqua habet.
 <milestone unit="section" n="12"/>sociorum et Lati magna vis civitate pro multis et egregiis factis a vobis data per unum prohibentur, et plebis innoxiae patrias sedes occupavere pauci satellites mercedem scelerum.
 <milestone unit="section" n="13"/>leges iudicia aerarium provinciae reges penes unum, denique necis civium et vitae licentia.
@@ -1674,8 +1673,8 @@
 <p>
 <milestone unit="section" n="1"/>'Maxume vellem, patres conscripti, rem publicam quietam esse aut in periculis a promptissumo quoque defendi, denique prava incepta consultoribus noxae esse. sed contra seditionibus omnia turbata sunt et ab iis, quos prohibere magis decebat; postremo, quae pessumi et stultissumi decrevere, ea bonis et sapientibus faciunda sunt.
 <milestone unit="section" n="2"/>nam bellum atque arma, quamquam vobis invisa, tamen, quia Lepido placent, sumunda sunt; nisi forte quoi pacem praestare et bellum pati consilium est.
-<milestone unit="section" n="3" />pro di boni, qui hanc urbem omissa cura adhuc tegitis, M. Aemilius, omnium flagitiosorum postremus, qui peior an ignavior sit deliberari non potest, exercitum opprimundae libertatis habet et se &lt;e&gt; contempto metuendum effecit; vos mussantes et retractantes verbis et vatum carminibus pacem optatis magis quam defenditis, neque intellegitis mollitia decretorum vobis dignitatem, illi metum detrahi.
-<milestone unit="section" n="4"/>atque id iure, quoniam ex rapinis consulatum, ob seditionem provinciam cum exercitu adeptus <pb id="p.150" /> est. quid ille ob bene facta cepisset, quoius sceleribus tanta praemia tribuistis?
+<milestone unit="section" n="3"/>pro di boni, qui hanc urbem omissa cura adhuc tegitis, M. Aemilius, omnium flagitiosorum postremus, qui peior an ignavior sit deliberari non potest, exercitum opprimundae libertatis habet et se &lt;e&gt; contempto metuendum effecit; vos mussantes et retractantes verbis et vatum carminibus pacem optatis magis quam defenditis, neque intellegitis mollitia decretorum vobis dignitatem, illi metum detrahi.
+<milestone unit="section" n="4"/>atque id iure, quoniam ex rapinis consulatum, ob seditionem provinciam cum exercitu adeptus <pb id="p.150"/> est. quid ille ob bene facta cepisset, quoius sceleribus tanta praemia tribuistis?
 <milestone unit="section" n="5"/>at scilicet eos, qui ad postremum usque legatos pacem concordiam et alia huiusce modi decreverunt, gratiam ab eo peperisse. immo despecti et indigni re publica habiti praedae loco aestumantur, quippe metu pacem repetentes, quo habitam amiserant.</p>
 <p>
 <milestone unit="section" n="6"/>Equidem a principio, quom Etruriam coniurare, proscriptos accersi, largitionibus rem publicam lacerari videbam, maturandum putabam et Catuli consilia cum paucis secutus sum. ceterum illi, qui gentis Aemiliae bene facta extollebant et ignoscundo populi Romani magnitudinem auxisse, nusquam etiam tum Lepidum progressum aiebant, quom privata arma opprimundae libertatis cepisset, sibi quisque opes aut patrocinia quaerundo consilium publicum corruperunt.
@@ -1711,7 +1710,7 @@
 <p>
 <milestone unit="section" n="6"/>Consules nos fecistis, Quirites, domi bellique impeditissuma re publica. namque imperatores Hispaniae stipendium milites arma frumentum poscunt, et id res cogit, quoniam defectione sociorum et Sertori per montis fuga neque manu certare possunt neque utilia parare.
 <milestone unit="section" n="7"/>exer- citus in Asia Ciliciaque ob nimias opes Mithridatis aluntur, Macedonia plena hostium est nec minus Italiae marituma et provinciarum, quom interim vectigalia parva et bellis incerta vix partem sumptu&lt;u&gt;m sustinent: ita classe, quae commeatus tuebatur, minore quam antea navigamus.
-<milestone unit="section" n="8"/>haec si dolo aut socordia nostra contracta sunt, agite, ut monet ira, supplicium sumite: sin fortuna <pb id="p.154" /> communis asperior est, quare indigna vobis nobisque et re publica incipitis?</p>
+<milestone unit="section" n="8"/>haec si dolo aut socordia nostra contracta sunt, agite, ut monet ira, supplicium sumite: sin fortuna <pb id="p.154"/> communis asperior est, quare indigna vobis nobisque et re publica incipitis?</p>
 <p>
 <milestone unit="section" n="9"/>Atque ego, quoius aetati mors propior est, non deprecor, si quid ea vobis incommodi demitur; neque mox ingenio corporis honestius quam pro vostra salute finem vitae fecerim.
 <milestone unit="section" n="10"/>adsum en C. Cotta consul, facio quod saepe maiores asperis bellis fecere: voveo dedoque me pro re publica.
@@ -1733,7 +1732,7 @@
 <milestone unit="section" n="7"/>Itaque meo et hostium exercitui par condicio est; namque stipendium neutri datur, victor uterque in Italiam venire potest.
 <milestone unit="section" n="8"/>quod ego vos moneo quaesoque ut animadvortatis neu cogatis necessitatibus privatim mihi consulere.
 <milestone unit="section" n="9"/>Hispaniam citeriorem, quae non ab hostibus tenetur, nos aut Sertorius ad internecionem vastavimus, praeter maritumas civitatis: ultro nobis sumptui onerique sunt. Gallia superiore anno Metelli exercitum stipendio frumentoque aluit et nunc malis fructibus ipsa vix agitat. ego non rem familiarem modo, verum etiam fidem consumpsi.
-<milestone unit="section" n="10" />reliqui vos estis: qui nisi subvenitis, invito et praedicente me exercitus hinc et cum eo omne bellum Hispaniae in Italiam transgredientur.'</p>
+<milestone unit="section" n="10"/>reliqui vos estis: qui nisi subvenitis, invito et praedicente me exercitus hinc et cum eo omne bellum Hispaniae in Italiam transgredientur.'</p>
 </div1> 
 	<pb id="p.156"/>
 <div1 type="book" n="Macr"> <head>Oratio Macri trib. pleb. ad plebem</head>
@@ -1750,8 +1749,8 @@
 <milestone unit="section" n="8"/>An dubium habetis, num officere quid vobis uno animo pergentibus possit, quos languidos socordesque perti- muere? nisi forte C. Cotta, ex factione media consul, aliter quam metu iura quaedam tribunis plebis restituit. et quamquam L. Sicinius primus de potestate tribunicia loqui ausus mussantibus vobis circumventus erat, tamen prius illi invidiam metuere, quam vos iniuriae pertaesum <pb id="p.157"/> est. quod ego nequeo satis mirari, Quirites; nam spem frustra fuisse intellexistis.
 <milestone unit="section" n="9"/>Sulla mortuo, qui scelestum inposuerat servitium, finem mali credebatis: ortus est longe saevior Catulus.
 <milestone unit="section" n="10"/>tumultus intercessit Bruto et Mamerco consulibus. dein C. Curio ad exitium usque insontis tribuni dominatus est.
-<milestone unit="section" n="11" />Lucullus superiore anno quantis animis ierit in L. Quintium, vidistis. quantae denique nunc mihi turbae concitantur! quae profecto in cassum agebantur, si prius quam vos serviundi finem, illi dominationis facturi erant: praesertim quom his civilibus armis dicta alia, sed certatum utrimque de dominatione in vobis sit.
-<milestone unit="section" n="12" />itaque cetera ex licentia aut odio aut avaritia in tempus arsere; permansit una res modo, quae utrimque quaesita est, et erepta in posterum: vis tribunicia, telum a maioribus libertati paratum.
+<milestone unit="section" n="11"/>Lucullus superiore anno quantis animis ierit in L. Quintium, vidistis. quantae denique nunc mihi turbae concitantur! quae profecto in cassum agebantur, si prius quam vos serviundi finem, illi dominationis facturi erant: praesertim quom his civilibus armis dicta alia, sed certatum utrimque de dominatione in vobis sit.
+<milestone unit="section" n="12"/>itaque cetera ex licentia aut odio aut avaritia in tempus arsere; permansit una res modo, quae utrimque quaesita est, et erepta in posterum: vis tribunicia, telum a maioribus libertati paratum.
 <milestone unit="section" n="13"/>quod ego vos moneo quaesoque ut animadvortatis neu nomina rerum ad ignaviam mutantes otium pro servitio appelletis. quo iam ipso frui, si vera et honesta flagitium superaverit, non est condicio: fuisset, si omnino quiessetis. nunc animum advortere et, nisi viceritis, quoniam omnis iniuria gravitate tutior est, artius habebunt.</p>
 <p>
 <milestone unit="section" n="14"/><quote>Quid censes igitur?</quote> aliquis vostrum subiecerit. primum omnium omittundum morem hunc quem agitis inpigrae linguae, animi ignavi, non ultra contionis locum memores libertatis.
@@ -1763,7 +1762,7 @@
 <milestone unit="section" n="20"/>quae tamen quamvis ampla quoniam serviti pretium ostentaretur, quoius torpedinis erat decipi et vostrarum rerum ultro iniuria&lt;e&gt; gratiam debere? cavendus dolus est.
 <milestone unit="section" n="21"/>namque alio modo neque valent in univorsos neque conabuntur. itaque simul conparant delenimenta et differunt vos in adventum Cn. Pompei, quem ipsum, ubi pertimuere, sublatum in cervices suas, mox dempto metu lacerant.
 <milestone unit="section" n="22"/>neque eos pudet, vindices uti se ferunt libertatis, tot viros sine uno aut remittere iniuriam non audere aut ius non posse defendere.
-<milestone unit="section" n="23" />mihi quidem satis spectatum est Pompeium, tantae gloriae adulescentem, malle principem volentibus vobis esse quam illis dominationis socium auctoremque in primis fore tribuniciae potestatis.
+<milestone unit="section" n="23"/>mihi quidem satis spectatum est Pompeium, tantae gloriae adulescentem, malle principem volentibus vobis esse quam illis dominationis socium auctoremque in primis fore tribuniciae potestatis.
 <milestone unit="section" n="24"/>verum, Quirites, antea singuli cives in pluribus, non in uno cuncti praesidia habebatis. neque mortalium quisquam dare aut eripere talia unus poterat.</p> <pb id="p.159"/>
 <p>
 <milestone unit="section" n="25"/>Itaque verborum satis dictum est, neque enim ignorantia res claudit.
@@ -1775,7 +1774,7 @@
 <p>
 <milestone unit="section" n="1"/>'Rex Mithridates regi Arsaci salutem. Omnes, qui secundis rebus suis ad belli societatem orantur, considerare debent, liceatne tum pacem agere, dein, quod quaesitur, satisne pium tutum gloriosum an indecorum sit.
 <milestone unit="section" n="2"/>tibi si perpetua pace frui licet, nisi hostes opportuni et scelestissumi, egregia fama, si Romanos oppresseris, futura est, neque petere audeam societatem et frustra mala mea cum bonis tuis misceri sperem.
-<milestone unit="section" n="3" />atque ea, quae te morari posse videntur, ira in Tigranem recentis belli et meae res parum prosperae, si vera existumare voles, maxume hortabuntur.
+<milestone unit="section" n="3"/>atque ea, quae te morari posse videntur, ira in Tigranem recentis belli et meae res parum prosperae, si vera existumare voles, maxume hortabuntur.
 <milestone unit="section" n="4"/>ille enim obnoxius qualem tu voles societatem accipiet; mihi fortuna multis rebus ereptis usum dedit bene suadendi et, quod florentibus optabile est, ego non validissumus praebeo exemplum, quo rectius tua conponas.</p>
 <p>
 <milestone unit="section" n="5"/>Namque Romanis cum nationibus populis regibus cunctis una et ea vetus causa bellandi est: cupido profunda imperi et divitiarum. qua primo cum rege Macedonum Philippo bellum sumpsere,
@@ -1794,7 +1793,7 @@
 <milestone unit="section" n="16"/>Nunc quaeso considera, nobis oppressis utrum firmiorem te ad resistundum an finem belli futurum putes? scio equidem tibi magnas opes virorum, armorum et auri esse; et ea re a nobis ad societatem, ab illis ad praedam pe- teris. ceterum consilium est, Tigranis regno integro meis militibus &lt;belli prudentibus&gt; procul ab domo parvo labore per nostra corpora bellum conficere, quo[m] neque vincere neque vinci sine tuo periculo possumus.
 <milestone unit="section" n="17"/>an ignoras Romanos, postquam ad occidentem pergentibus finem Oceanus fecit, arma huc convortisse? neque quicquam a principio nisi raptum habere, domum coniuges agros imperium? convenas olim sine patria parentibus, peste conditos orbis terrarum; quibus non humana ulla neque divina obstant, quin socios amicos, procul iuxta sitos, inopes potentisque trahant excindant, omniaque non serva et maxume regna hostilia ducant?
 <milestone unit="section" n="18"/>namque pauci libertatem, pars magna iustos dominos volunt; nos suspecti sumus aemuli et in tempore vindices adfuturi.
-<milestone unit="section" n="19" />tu vero, quoi Seleucea, maxuma urbium, regnumque Persidis inclutis divitiis est, quid ab illis nisi dolum <pb id="p.162"/> in praesens et postea bellum expectas?
+<milestone unit="section" n="19"/>tu vero, quoi Seleucea, maxuma urbium, regnumque Persidis inclutis divitiis est, quid ab illis nisi dolum <pb id="p.162"/> in praesens et postea bellum expectas?
 <milestone unit="section" n="20"/>Romani arma in omnis habent, acerruma in eos, quibus victis spolia maxuma sunt; audendo et fallundo et bella ex bellis serundo magni facti:
 <milestone unit="section" n="21"/>per hunc morem extinguent omnia aut occident. quod haud difficile est, si tu Mesopotamia, nos Armenia circumgredimur exercitum sine frumento, sine auxiliis, fortuna aut nostris vitiis adhuc incolumem.
 <milestone unit="section" n="22"/>teque illa fama sequetur, auxilio profectum magnis regibus latrones gentium oppressisse.
@@ -1804,4 +1803,4 @@
 </text> 
         </group>
     </text> 
-</TEI.2> 
+</TEI.2>

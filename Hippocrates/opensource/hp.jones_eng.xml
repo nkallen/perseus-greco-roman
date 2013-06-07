@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader>
@@ -3245,7 +3244,7 @@
 					<p>Now the following is much stronger evidence still.
 						All who go afoot through snow or great cold, and
 						become over-chilled in feet, hands or head, suffer at</p>
-					<pb id="p.45" />
+					<pb id="p.45"/>
 					<p>night very severely from burning and tingling when
 						they come into a warm place and wrap up ; in some
 						cases blisters arise like those caused by burning in
@@ -3314,7 +3313,7 @@
 						anything else, there is always the same change, heat
 						following chill and chill heat, and these supervene
 						at once, and need no coction. In all other instances,</p>
-					<pb id="p.49" />
+					<pb id="p.49"/>
 					<p>where acrid and unmixed humours come into play,
 						I am confident that the cause is the same, and that
 						restoration results from coction and mixture.</p>
@@ -5978,7 +5977,7 @@
 					<p><hi rend="center">?? <foreign lang="greek">*Z*S*M*O*N</foreign></hi></p>
 					<p>where the first character is obviously another form
 						of Galen's ??. Ilberg emends to :--</p>
-					<p><hi rend="center">?? <foreign lang="greek">*Z*S*M*O*N</foreign><foreign lang="greek">*U</foreign>></hi></p>
+					<p><hi rend="center">?? <foreign lang="greek">*Z*S*M*O*N</foreign><foreign lang="greek">*U</foreign>&gt;</hi></p>
 					<p>Galen reads :--</p>
 					<p><hi rend="center">?? <foreign lang="greek">*P*O*U*M*U</foreign></hi></p>
 					<p><hi rend="ital">i. e.</hi> <foreign lang="greek">PIQANO/N</foreign>.</p>

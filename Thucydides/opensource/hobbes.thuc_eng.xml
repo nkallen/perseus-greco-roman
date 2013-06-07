@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor n="transl" role="editor">Thomas Hobbes</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -864,7 +863,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>For men receive the report of things, though of their own country if done before their own time, all alike, from one as from another, without examination.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>For the vulgar sort of Athenians think that Hipparchus was the tyrant, and slain by Harmodius and Aristogeiton, and know not that Hippias had the government, as being the eldest son of Pisistratus, and that Hipparchus and Thessalus were his brethren;</seg>
+<seg/></p><p><seg>For the vulgar sort of Athenians think that Hipparchus was the tyrant, and slain by Harmodius and Aristogeiton, and know not that Hippias had the government, as being the eldest son of Pisistratus, and that Hipparchus and Thessalus were his brethren;</seg>
 <seg>and that Harmodius and Aristogeiton, suspecting that some of their accomplices had that day and at that instant discovered unto Hippias somewhat of their treason, did forbear Hippias as a man forewarned;</seg>
 <seg>and desirous to effect somewhat, though with danger, before they should be apprehended, lighting on Hipparchus slew him near the temple called Leocorium, whilst he was setting forth the Panathenaical show.</seg>
 
@@ -889,7 +888,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>And yet even of those things it was hard to know the certainty, because such as were present at every action spake not all after the same manner, but as they were affected to the parts or as they could remember.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>To hear this history rehearsed, for that there be inserted in it no fables, shall be perhaps not delightful.</seg>
+<seg/></p><p><seg>To hear this history rehearsed, for that there be inserted in it no fables, shall be perhaps not delightful.</seg>
 <seg>But he that desires to look into the truth of things done and which (according to the condition of humanity) may be done again, or at least their like, he shall find enough herein to make him think it profitable.</seg>
 <seg>And it is compiled rather for an everlasting possession than to be rehearsed for a prize. </seg></p><p><milestone unit="chapter" n="23"/>
 
@@ -1136,7 +1135,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>whereas by making league with us, you shall, with your fleet augmented, have to deal against the Peloponnesians alone.</seg></q></seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>Thus spake the Corcyraeans, and after them the Corinthians, thus: </seg></p><p><milestone unit="chapter" n="37"/>
+<seg/></p><p><seg>Thus spake the Corcyraeans, and after them the Corinthians, thus: </seg></p><p><milestone unit="chapter" n="37"/>
 
 <milestone unit="section" n="1"/>
 <seg>"The Corcyraeans in their oration having made mention not only of your taking them into league, but also that they are wronged and unjustly warred on, it is also necessary for us first to answer concerning both those points, and then afterwards to proceed to the rest of what we have to say: to the end you may foreknow that ours are the safest demands for you to embrace, and that you may upon reason reject the needy estate of those others.</seg>
@@ -1249,7 +1248,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>These things if you grant us, you shall both do as is fit and also advise the best for the good of your own affairs.</seg></q></seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>This was the effect of what was spoken by the Corinthians. </seg></p><p><milestone unit="chapter" n="44"/>
+<seg/></p><p><seg>This was the effect of what was spoken by the Corinthians. </seg></p><p><milestone unit="chapter" n="44"/>
 
 <milestone unit="section" n="1"/>
 <seg>Both sides having been heard and the Athenian people twice assembled, in the former assembly they approved no less of the reasons of the Corinthians than of the Corcyraeans.</seg>
@@ -1904,7 +1903,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>So shall you take the most profitable counsel for yourselves, and the most formidable to the enemy.</seg></q></seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Thus spake Archidamus.</seg>
+<seg/></p><p><seg>Thus spake Archidamus.</seg>
 <seg>But Sthenelaidas, then one of the Ephori, stood up last of all and spake to the Lacedaemonians in this manner: </seg></p><p><milestone unit="chapter" n="86"/>
 
 <milestone unit="section" n="1"/>
@@ -1937,7 +1936,7 @@ advice of Pericles.</item></list></p></argument>
 <seg> So they arose and the room was divided, wherein far the greater number were those that held the peace to be broken.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>Then calling in the confederates they told them that for their own parts their sentence was that the Athenians had done them wrong;</seg>
+<seg/></p><p><seg>Then calling in the confederates they told them that for their own parts their sentence was that the Athenians had done them wrong;</seg>
 <seg>but yet they desired to have all their confederates called together, and then to put it to the question again that if they would, the war might be decreed by common consent.</seg>
 
 <milestone unit="section" n="5"/>
@@ -2277,7 +2276,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>Thus ended the great expedition of the Athenians and their confederates into Egypt. </seg></p><p><milestone unit="chapter" n="111"/>
 
 <milestone unit="section" n="1"/>
-<seg></seg></p><p><seg>Also Orestes the son of Echecratidas, king of the Thessalians, driven out of Thessaly, persuaded the Athenians to restore him.</seg>
+<seg/></p><p><seg>Also Orestes the son of Echecratidas, king of the Thessalians, driven out of Thessaly, persuaded the Athenians to restore him.</seg>
 <seg>And the Athenians, taking with them the Boeotians and Phoceans, their confederates, made war against Pharsalus, a city of Thessaly, and were masters of the field as far as they strayed not from the army (for the Thessalian horsemen kept them from straggling) but could not win the city nor yet perform anything else of what they came for but came back again without effect and brought Orestes with them.</seg>
 
 <milestone unit="section" n="2"/>
@@ -2643,7 +2642,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>Now the Athenians, the god himself having judged this a pollution of sanctuary, required the Lacedaemonians to banish out of their city such as were touched with the same.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>At the same time that Pausanias came to his end, the Lacedaemonians by their ambassadors to the Athenians accused Themistocles, for that he also had Medised together with Pausanias, having discovered it by proofs against Pausanias, and desired that the same punishment might be likewise inflicted upon him.</seg>
+<seg/></p><p><seg>At the same time that Pausanias came to his end, the Lacedaemonians by their ambassadors to the Athenians accused Themistocles, for that he also had Medised together with Pausanias, having discovered it by proofs against Pausanias, and desired that the same punishment might be likewise inflicted upon him.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>Whereunto consenting (for he was at this time in banishment by ostracism;</seg>
@@ -2712,7 +2711,7 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="1"/>
 <seg>And this is that which the Lacedaemonians did command, and were commanded, in their first embassage touching the banishment of such as were under the curse.</seg>
-<seg></seg></p><p><seg>After this they sent ambassadors again to Athens commanding them to levy the siege from before Potidaea and to suffer Aegina to be free, but principally and most plainly telling them that the war should not be made in case they would abrogate the act concerning the Megareans, by which act they were forbidden both the fairs of Attica and all ports within the Athenian dominion.</seg>
+<seg/></p><p><seg>After this they sent ambassadors again to Athens commanding them to levy the siege from before Potidaea and to suffer Aegina to be free, but principally and most plainly telling them that the war should not be made in case they would abrogate the act concerning the Megareans, by which act they were forbidden both the fairs of Attica and all ports within the Athenian dominion.</seg>
 
 <milestone unit="section" n="2"/>
 <seg>But the Athenians would not obey them, neither in the rest of their commands nor in the abrogation of that act, but recriminated the Megareans for having tilled holy ground and unset out with bounds and for receiving of their slaves that revolted.</seg>
@@ -2812,7 +2811,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>Besides that, not any of these strangers upon trial would be found content to fly his own country and, withal upon less hope of victory, for a few days' increase of wages take part with the other side.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>"In this manner, or like to this, seems to me to stand the case of the Peloponnesians;</seg>
+<seg/></p><p><seg>"In this manner, or like to this, seems to me to stand the case of the Peloponnesians;</seg>
 <seg>whereas ours is both free from what in theirs I have reprehended, and has many great advantages besides.</seg>
 
 <milestone unit="section" n="4"/>
@@ -2959,7 +2958,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>When they had done, they sent a messenger to Athens and gave truce to the Thebans to fetch away the bodies of their dead, and ordered the city as was thought convenient for the present occasion.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The news of what was done coming straightway to Athens, they instantly laid hands on all the Boeotians then in Attica and sent an officer to Plataea to forbid their farther proceeding with their Theban prisoners till such time as they also should have advised of the matter;</seg>
+<seg/></p><p><seg>The news of what was done coming straightway to Athens, they instantly laid hands on all the Boeotians then in Attica and sent an officer to Plataea to forbid their farther proceeding with their Theban prisoners till such time as they also should have advised of the matter;</seg>
 <seg>for they were not yet advertised of their putting to death.</seg>
 
 <milestone unit="section" n="3"/>
@@ -2996,7 +2995,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>And whatsoever thing then chanced of the same nature, it was all sure to be inquired after.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>But men's affections for the most part went with the Lacedaemonians, and the rather, for that they gave out they would recover the Grecians' liberty.</seg>
+<seg/></p><p><seg>But men's affections for the most part went with the Lacedaemonians, and the rather, for that they gave out they would recover the Grecians' liberty.</seg>
 <seg>And every man, both private and public person, endeavoured as much as in them lay both in word and deed to assist them and thought the business so much hindered as himself was not present at it.</seg>
 
 <milestone unit="section" n="5"/>
@@ -3178,7 +3177,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>For the unlawful dwelling there caused not the calamities that befell the city, but the war caused the necessity of dwelling there, which war the oracle, not naming, foretold only that it should one day be inhabited unfortunately.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Many also furnished the turrets of the walls and whatsoever other place they could any of them get.</seg>
+<seg/></p><p><seg>Many also furnished the turrets of the walls and whatsoever other place they could any of them get.</seg>
 <seg>For when they were come in, the city had not place for them all;</seg>
 <seg>but afterwards they had the long walls divided amongst them and inhabited there and in most parts of Piraeus.</seg>
 
@@ -3197,7 +3196,7 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="3"/>
 <seg>For which cause they made preparation for the assault of it, and also spent much time about it otherwise.</seg>
-<seg></seg></p><p><seg>And Archidamus for this was not a little taxed as thought to have been both slow in gathering together the forces for the war and also to have favoured the Athenians in that he encouraged not the army to a forwardness in it.</seg>
+<seg/></p><p><seg>And Archidamus for this was not a little taxed as thought to have been both slow in gathering together the forces for the war and also to have favoured the Athenians in that he encouraged not the army to a forwardness in it.</seg>
 <seg>And afterwards likewise his stay in the isthmus and his slowness in the whole journey was laid to his charge, but especially his delay at Oenoe.</seg>
 
 <milestone unit="section" n="4"/>
@@ -3514,7 +3513,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>For we have opened unto us by our courage all seas and lands and set up eternal monuments on all sides both of the evil we have done to our enemies and the good we have done to our friends.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>"Such is the city for which these men, thinking it no reason to lose it, valiantly fighting have died.</seg>
+<seg/></p><p><seg>"Such is the city for which these men, thinking it no reason to lose it, valiantly fighting have died.</seg>
 <seg>And it is fit that every man of you that be left should be like minded to undergo any travail for the same. </seg></p><p><milestone unit="chapter" n="42"/>
 
 <milestone unit="section" n="1"/>
@@ -3595,7 +3594,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>Such was the funeral made this winter, which ending, ended the first year of this war.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>In the very beginning of summer the Peloponnesians and their confederates, with two-thirds of their forces as before, invaded Attica under the conduct of Archidamus the son of Zeuxidamas, king of Lacedaemon, and after they had encamped themselves, wasted the country about them.</seg>
+<seg/></p><p><seg>In the very beginning of summer the Peloponnesians and their confederates, with two-thirds of their forces as before, invaded Attica under the conduct of Archidamus the son of Zeuxidamas, king of Lacedaemon, and after they had encamped themselves, wasted the country about them.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>They had not been many days in Attica when the plague first began amongst the Athenians, said also to have seized formerly on divers other parts, as about Lemnos and elsewhere;</seg>
@@ -4074,7 +4073,7 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="1"/>
 <seg>Having made this protestation to the gods, he made ready his army for the war.</seg>
-<seg></seg></p><p><seg>And first having felled trees, he therewith made a palisade about the town that none might go out.</seg>
+<seg/></p><p><seg>And first having felled trees, he therewith made a palisade about the town that none might go out.</seg>
 <seg>That done, he raised a mount against the wall, hoping with so great an army all at work at once, to have quickly taken it.</seg>
 
 <milestone unit="section" n="2"/>
@@ -4737,7 +4736,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>And the Athenian commander allowed the conditions, he also fearing they should be too weak to make war against the whole island.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>When a cessation of arms was granted, the Mytilenaeans amongst others sent to Athens one of those that had given intelligence there of their design, and had repented him after of the same, to try if they could persuade them to withdraw their fleet from them as not intending any innovation.</seg>
+<seg/></p><p><seg>When a cessation of arms was granted, the Mytilenaeans amongst others sent to Athens one of those that had given intelligence there of their design, and had repented him after of the same, to try if they could persuade them to withdraw their fleet from them as not intending any innovation.</seg>
 
 <milestone unit="section" n="5"/>
 <seg>Withal they sent ambassadors at the same time to Lacedaemon, undiscovered of the fleet of the Athenians which was riding at anchor in Malea to the north of the city, being without any confidence of their success at Athens.</seg>
@@ -4803,7 +4802,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>for in the difference of minds is grounded the diversity of actions.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"As for our league with the Athenians, it was first made when you gave over the Medan war, and they remained to prosecute the relics of that business.</seg>
+<seg/></p><p><seg>"As for our league with the Athenians, it was first made when you gave over the Medan war, and they remained to prosecute the relics of that business.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>Yet we entered not such a league as to be their helpers in bringing the Grecians into the servitude of the Athenians but to set free the Grecians from the servitude of the Medes.</seg>
@@ -6002,7 +6001,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>but upon opportunity, he that first durst thought his revenge sweeter by the trust than if he had taken the open way.</seg>
 <seg>For they did not only put to account the safeness of that course but, having circumvented their adversary by fraud, assumed to themselves withal a mastery in point of wit.</seg>
 <seg>And dishonest men for the most part are sooner called able than simple men honest, and men are ashamed of this title but take a pride in the other.</seg>
-<seg></seg></p><p><seg>The cause of all this is desire of rule out of avarice and ambition, and the zeal of contention from those two proceeding.</seg>
+<seg/></p><p><seg>The cause of all this is desire of rule out of avarice and ambition, and the zeal of contention from those two proceeding.</seg>
 
 <milestone unit="section" n="8"/>
 <seg>For such as were of authority in the cities, both of the one and the other faction, preferring under decent titles, one, <hi>the polit-</hi> <hi>ical equality of the multitude,</hi> the other, <hi>the moderate aristoc-</hi> <hi>racy,</hi> though in words they seemed to be servants of the public, they made it in effect but the prize of their contention;</seg>
@@ -6128,7 +6127,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>But I will make mention only of such most memorable things as were done either by the confederates there with the Athenians or against the Athenians by the enemy.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>Charoeades the Athenian general being slain by the Syracusians, Laches, who was now sole commander of the fleet, together with the confederates made war on Mylae, a town belonging to Messana.</seg>
+<seg/></p><p><seg>Charoeades the Athenian general being slain by the Syracusians, Laches, who was now sole commander of the fleet, together with the confederates made war on Mylae, a town belonging to Messana.</seg>
 <seg>There were in Mylae two companies of Messanians in garrison, the which also laid a certain ambush for those that came up from the fleet.</seg>
 
 <milestone unit="section" n="3"/>
@@ -6174,7 +6173,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>Upon audience of these ambassadors the Lacedaemonians concluded to send out a colony, both intending the reparation of the injuries done to the Trachinians and to the Dorians and conceiving withal that the town would stand very commodiously for their war with the Athenians, inasmuch as they might thereby have a navy ready, where the passage was but short, against Euboea;</seg>
 <seg>and it would much further their conveyance of soldiers into Thrace.</seg>
 <seg>And they had their mind wholly bent to the building of the place.</seg>
-<seg></seg></p><p><seg>First, therefore, they asked counsel of the oracle in Delphi.</seg>
+<seg/></p><p><seg>First, therefore, they asked counsel of the oracle in Delphi.</seg>
 
 <milestone unit="section" n="5"/>
 <seg>And the oracle having bidden them do it, they sent inhabitants thither, both of their own people and of the neighbours about them, and gave leave also to any that would to go thither out of the rest of Greece, save only to the Ionians, Achaeans, and some few other nations.</seg>
@@ -6348,7 +6347,7 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="3"/>
 <seg>And now after the hallowing of it, the Athenians instituted the keeping, every fifth year, of the Delian games.</seg>
-<seg></seg></p><p><seg>There had also in old time been great concourse in Delos, both of Ionians and of the islanders round about.</seg>
+<seg/></p><p><seg>There had also in old time been great concourse in Delos, both of Ionians and of the islanders round about.</seg>
 <seg>For they then came to see the games, with their wives and children, as the Ionians do now the games at Ephesus.</seg>
 
 <milestone unit="section" n="4"/>
@@ -6506,13 +6505,13 @@ advice of Pericles.</item></list></p></argument>
 <seg>Then one asked him what he wondered at and how many he thought were slain;</seg>
 <seg>for he that asked him the question thought, on the other side, that he had been a herald sent from those at Idomene.</seg>
 <seg>And he answered, about two hundred.</seg>
-<seg></seg></p><p><seg>Then he that asked replied and said: <q direct="unspecified"><seg>Then these are not the armours of them, but of above a thousand.</seg></q></seg>
+<seg/></p><p><seg>Then he that asked replied and said: <q direct="unspecified"><seg>Then these are not the armours of them, but of above a thousand.</seg></q></seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>Then,</seg></q> said he again, <q direct="unspecified"><seg>they belong not to them that were in battle with us.</seg></q> The other answered: <q direct="unspecified"><seg>Yes, if you fought yesterday in Idomene.</seg></q> </seg></p><p><seg><q direct="unspecified"><seg>But we fought not yesterday at all, but the other day in our retreat.</seg></q> </seg></p><p><seg><q direct="unspecified"><seg>But we yet fought yesterday with those Ambraciotes that came from the city to aid the rest.</seg></q></seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>Then,</seg></q> said he again, <q direct="unspecified"><seg>they belong not to them that were in battle with us.</seg></q> The other answered: <q direct="unspecified"><seg>Yes, if you fought yesterday in Idomene.</seg></q> </seg></p><p><seg><q direct="unspecified"><seg>But we fought not yesterday at all, but the other day in our retreat.</seg></q> </seg></p><p><seg><q direct="unspecified"><seg>But we yet fought yesterday with those Ambraciotes that came from the city to aid the rest.</seg></q></seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>When the herald heard that and knew that the aid from the city was defeated, he burst out into Aimees, and astonished with the greatness of the present loss, forthwith went his way without his errand and required the dead bodies no farther.</seg>
+<seg/></p><p><seg>When the herald heard that and knew that the aid from the city was defeated, he burst out into Aimees, and astonished with the greatness of the present loss, forthwith went his way without his errand and required the dead bodies no farther.</seg>
 
 <milestone unit="section" n="6"/>
 <seg>For this loss was greater than, in the like number of days, happened to any one city of Greece in all this war.</seg>
@@ -6528,7 +6527,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>And the Athenians that were in the twenty galleys returned to Naupactus.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The Acarnanians and Amphilochians, when the Athenians and Demosthenes were gone, granted truce at the city of the Oeniades to those Ambraciotes and Peloponnesians that were fled to Salynthius and the Agraeans to retire, the Oeniades being gone over to Salynthius and the Agraeans likewise.</seg>
+<seg/></p><p><seg>The Acarnanians and Amphilochians, when the Athenians and Demosthenes were gone, granted truce at the city of the Oeniades to those Ambraciotes and Peloponnesians that were fled to Salynthius and the Agraeans to retire, the Oeniades being gone over to Salynthius and the Agraeans likewise.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>And for the future, the Acarnanians and Amphilochians made a league with the Ambraciotes for a hundred years, upon these conditions: <q direct="unspecified"><seg>That neither the Ambraciotes with the Acarnanians should make war against the Peloponnesians, nor the Acarnanians with the Ambraciotes against the Athenians;</seg>
@@ -6808,7 +6807,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>that they should send this the Athenians looking on, and not send over any vessel by stealth.&mdash;That the Athenians should nevertheless continue guarding of the island, provided that they landed not in it, and should not invade the Peloponnesian army neither by land nor sea.&mdash;That if either side transgressed in any part thereof, the truce was then immediately to be void, otherwise to hold good till the return of the Lacedaemonian ambassadors from Athens.&mdash;That the Athenians should convoy them in a galley unto Athens and back.&mdash;That at their return the truce should end, and the Athenians should restore them their galleys in as good estate as they had received them.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Thus was the truce made, and the galleys were delivered to the Athenians, to the number of about three score;</seg>
+<seg/></p><p><seg>Thus was the truce made, and the galleys were delivered to the Athenians, to the number of about three score;</seg>
 <seg>and the ambassadors were sent away, who, arriving at Athens, said as followeth: </seg></p><p><milestone unit="chapter" n="17"/>
 
 <milestone unit="section" n="1"/>
@@ -6946,7 +6945,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>So the Syracusians passed on to the port of Messana, having had the better in their passage by the shore and in the sea-fight, which were both together in such manner as is declared.</seg>
 
 <milestone unit="section" n="7"/>
-<seg></seg></p><p><seg>The Athenians, upon news that Camarina should by Archias and his complices be betrayed to the Syracusians, went thither.</seg>
+<seg/></p><p><seg>The Athenians, upon news that Camarina should by Archias and his complices be betrayed to the Syracusians, went thither.</seg>
 <seg>In the meantime the Messanians, with their whole power by land and also with their fleet, warred on Naxos, a Chalcidique city and their borderer.</seg>
 
 <milestone unit="section" n="8"/>
@@ -7073,7 +7072,7 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="4"/>
 <seg>And Cleon, who had sent a messenger before to signify his coming, came himself also, with those forces which he had required, unto Pylus.</seg>
-<seg></seg></p><p><seg>When they were both together, first they sent a herald to the camp in the continent to know if they would command those in the island to deliver up themselves and their arms without battle, to be held with easy imprisonment till some agreement were made touching the main war. </seg></p><p><milestone unit="chapter" n="31"/>
+<seg/></p><p><seg>When they were both together, first they sent a herald to the camp in the continent to know if they would command those in the island to deliver up themselves and their arms without battle, to be held with easy imprisonment till some agreement were made touching the main war. </seg></p><p><milestone unit="chapter" n="31"/>
 
 <milestone unit="section" n="1"/>
 <seg>Which when they refused, the Athenians for one day held their hands;</seg>
@@ -7372,7 +7371,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>and in the beginning of the same month happened an earthquake.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>At this time the Mytilenaean and other Lesbian outlaws, most of them residing in the continent, with mercenary forces out of Peloponnesus and some which they levied where they were, seize on Rhoeteium, and for two thousand Phocaean states render it again without doing them other harm.</seg>
+<seg/></p><p><seg>At this time the Mytilenaean and other Lesbian outlaws, most of them residing in the continent, with mercenary forces out of Peloponnesus and some which they levied where they were, seize on Rhoeteium, and for two thousand Phocaean states render it again without doing them other harm.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>After this they came with their forces to Antander and took that city also by treason.</seg>
@@ -7814,7 +7813,7 @@ advice of Pericles.</item></list></p></argument>
 <milestone unit="section" n="5"/>
 <seg>The rest of the army were mercenaries, hired by Brasidas out of Peloponnesus.</seg>
 <seg>[But] Brasidas himself the Lacedaemonians sent out, chiefly because it was his own desire;</seg>
-<seg></seg></p><p><milestone unit="chapter" n="81"/>
+<seg/></p><p><milestone unit="chapter" n="81"/>
 
 <milestone unit="section" n="1"/>
 <seg>notwithstanding the Chalcideans also longed to have him, as one esteemed also in Sparta every way an active man.</seg>
@@ -8166,7 +8165,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>but of light-armed soldiers and such as carried the provisions of the army, a great number.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Not long after this battle, Demosthenes, that had been with his army at Siphae, seeing the treason succeeded not, having aboard his galleys his army of Acarnanians and Agraeans and four hundred men of arms of Athens, landed in Sicyonia.</seg>
+<seg/></p><p><seg>Not long after this battle, Demosthenes, that had been with his army at Siphae, seeing the treason succeeded not, having aboard his galleys his army of Acarnanians and Agraeans and four hundred men of arms of Athens, landed in Sicyonia.</seg>
 <seg>But before all his galleys came to shore, the Sicyonians, who went out to defend their territory, put to flight such as were already landed and chased them back to their galleys, having also slain some and taken some alive.</seg>
 
 <milestone unit="section" n="4"/>
@@ -8295,7 +8294,7 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="1"/>
 <seg>The same winter the Megareans, having recovered their long walls holden by the Athenians, razed them to the very ground.</seg>
-<seg></seg></p><p><seg>Brasidas, after the taking of Amphipolis, having with him the confederates, marched with his army into the territory called Acte.</seg>
+<seg/></p><p><seg>Brasidas, after the taking of Amphipolis, having with him the confederates, marched with his army into the territory called Acte.</seg>
 
 <milestone unit="section" n="2"/>
 <seg>This Acte is that prominent territory which is disjoined from the continent by a ditch made by the king;</seg>
@@ -8389,13 +8388,13 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="2"/>
 <seg>But the rest of the Athenians, which before abandoned the place, with their boats and galleys put themselves into Pallene.</seg>
-<seg></seg></p><p><seg>There was in Lecythus a temple of Minerva.</seg>
+<seg/></p><p><seg>There was in Lecythus a temple of Minerva.</seg>
 <seg>And when Brasidas was about to give the assault, he had made proclamation that whosoever first scaled the wall should have thirty minae of silver for a reward.</seg>
 <seg>Brasidas now, conceiving that the place was won by means not human, gave those thirty minae to the goddess to the use of the temple.</seg>
 <seg>And then pulling down Lecythus, he built it anew and consecrated unto her the whole place.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>The rest of this winter he spent in assuring the places he had already gotten and in contriving the conquest of more.</seg>
+<seg/></p><p><seg>The rest of this winter he spent in assuring the places he had already gotten and in contriving the conquest of more.</seg>
 <seg>Which winter ending, ended the eighth year of this war. </seg></p><p><milestone unit="chapter" n="117"/>
 
 <milestone unit="section" n="1"/>
@@ -8422,25 +8421,25 @@ advice of Pericles.</item></list></p></argument>
 
 <milestone unit="section" n="4"/>
 <seg>and that whosoever else will may do the same every one according to the law of his own country.</seg>
-<seg></seg></p><p><seg>"If the Athenians will accord that each side shall keep within their own bounds, retaining what they now possess, the Lacedaemonians and the rest of the confederates touching the same think good thus: </seg></p><p><seg>"That the Lacedaemonians in Coryphasium stay within the mountains of Buphras and Tomeus, and the Athenians in Cythera without joining together in any league, either we with them or they with us.</seg>
+<seg/></p><p><seg>"If the Athenians will accord that each side shall keep within their own bounds, retaining what they now possess, the Lacedaemonians and the rest of the confederates touching the same think good thus: </seg></p><p><seg>"That the Lacedaemonians in Coryphasium stay within the mountains of Buphras and Tomeus, and the Athenians in Cythera without joining together in any league, either we with them or they with us.</seg>
 <seg>That those in Nisaea and Minoa pass not the highway, which from the gate of Megara near the temple of Nisus leadeth to the temple of Neptune, and so straightforward to the bridge that lies over into Minoa;</seg>
 <seg>that the Megareans pass not the same highway, nor into the island which the Athenians have taken, neither having commerce with other.</seg>
 <seg>That the Megareans keep what they now possess in Troezen and what they had before by agreement with the Athenians, and have free navigation, both upon the coasts of their own territories and their confederates.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>"That the Lacedaemonians and their confederates shall pass the seas not in a long ship, but in any other boat rowed with oars of burden not exceeding five hundred talents.</seg>
+<seg/></p><p><seg>"That the Lacedaemonians and their confederates shall pass the seas not in a long ship, but in any other boat rowed with oars of burden not exceeding five hundred talents.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>"That the heralds and ambassadors that shall pass between both sides for the ending of the war or for trials of judgment may go and come without impeachment, with as many followers as they shall think good, both by sea and land.</seg>
+<seg/></p><p><seg>"That the heralds and ambassadors that shall pass between both sides for the ending of the war or for trials of judgment may go and come without impeachment, with as many followers as they shall think good, both by sea and land.</seg>
 
 <milestone unit="section" n="7"/>
-<seg></seg></p><p><seg>"That during this time of truce, neither we nor you receive one another's fugitives, free nor bond.</seg>
+<seg/></p><p><seg>"That during this time of truce, neither we nor you receive one another's fugitives, free nor bond.</seg>
 
 <milestone unit="section" n="8"/>
-<seg></seg></p><p><seg>"That you to us and we to you shall afford law according to the use of our several states, to the end our controversies may be decided judicially without war.</seg>
+<seg/></p><p><seg>"That you to us and we to you shall afford law according to the use of our several states, to the end our controversies may be decided judicially without war.</seg>
 
 <milestone unit="section" n="9"/>
-<seg></seg></p><p><seg>"This is thought good by the Lacedaemonians and their confederates.</seg>
+<seg/></p><p><seg>"This is thought good by the Lacedaemonians and their confederates.</seg>
 <seg>But if you shall conceive any other articles more fair or of more equity than these, then shall you go and declare the same at Lacedaemon.</seg>
 <seg>For neither shall the Lacedaemonians nor their confederates refuse anything that you shall make appear to be just.</seg>
 
@@ -8448,7 +8447,7 @@ advice of Pericles.</item></list></p></argument>
 <seg>But let those that go, go with full authority, even as you do now require it of us.&mdash;That this truce shall be for a year.</seg>
 
 <milestone unit="section" n="11"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>The people decreed it.</seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>The people decreed it.</seg>
 <seg>Acamantis was president of the assembly.</seg>
 <seg>Phaenippus the scribe.</seg>
 <seg>Niciades overseer, and Laches pronounced these words: 'With good fortune to the people of Athens, a suspension of arms is concluded, according as the Lacedaemonians and their confederates have agreed.'</seg>
@@ -8791,10 +8790,10 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>the rest were redeemed by the Olynthians by exchange of man for man.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>About the same time the Boeotians took Panactum, a fort of the Athenians standing in their confines, by treason.</seg>
+<seg/></p><p><seg>About the same time the Boeotians took Panactum, a fort of the Athenians standing in their confines, by treason.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>Cleon, after he had settled the garrison in Torone, went thence by sea about the mountain Athos [to make war] against Amphipolis. </seg></p><p><milestone unit="chapter" n="4"/>
+<seg/></p><p><seg>Cleon, after he had settled the garrison in Torone, went thence by sea about the mountain Athos [to make war] against Amphipolis. </seg></p><p><milestone unit="chapter" n="4"/>
 
 <milestone unit="section" n="1"/>
 <seg>About the same time Phaeax the son of Erasistratus, who with two others was sent ambassador into Italy and Sicily, departed from Athens with two galleys.</seg>
@@ -9042,27 +9041,27 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>Being troubled with these imputations and considering with himself, there being no occasion of calamity in time of peace and the Lacedaemonians thereby recovering their men, that he also should cease to be obnoxious to the calumniations of his enemies whereas, in war, such as had charge could not but be quarrelled upon their losses&mdash;he was therefore forward to have the peace concluded.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>And this winter they fell to treaty, and withal the Lacedaemonians braved them with a preparation already making against the spring, sending to the cities about for that purpose, as if they meant to fortify in Attica, to the end that the Athenians might give them the better ear.</seg>
+<seg/></p><p><seg>And this winter they fell to treaty, and withal the Lacedaemonians braved them with a preparation already making against the spring, sending to the cities about for that purpose, as if they meant to fortify in Attica, to the end that the Athenians might give them the better ear.</seg>
 <seg>When after many meetings and many demands on either side, it was at last agreed that peace should be concluded, each part rendering what they had taken in the war, save that the Athenians should hold Nisaea (for when they [likewise] demanded Plataea and the Thebans answered that it was neither taken by force nor by treason, but rendered voluntarily, the Athenians said that they also had Nisaea in the same manner), the Lacedaemonians calling together their confederates, and all but the Boeotians, Corinthians, Eleians, and Megareans, (for these disliked it) giving their votes for the ending of the war, they concluded the peace, and confirmed it to the Athenians with sacrifice, and swore it, and the Athenians again unto them, upon these articles: </seg></p><p><milestone unit="chapter" n="18"/>
 
 <milestone unit="section" n="1"/>
 <seg>"The Athenians and Lacedaemonians and their confederates have made peace and sworn it, city by city, as followeth:</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"Touching the public temples, it shall be lawful to whomsoever will to sacrifice in them and to have access unto them and to ask counsel of the oracles in the same and to send their deputies unto them, according to the custom of his country, securely both by sea and land.</seg>
-<seg></seg></p><p><seg>"The whole place consecrate and temple of Apollo in Delphi, and Delphi itself, shall be governed by their own law, taxed by their own state, and judged by their own judges, both city and territory, according to the institution of the place.</seg>
+<seg/></p><p><seg>"Touching the public temples, it shall be lawful to whomsoever will to sacrifice in them and to have access unto them and to ask counsel of the oracles in the same and to send their deputies unto them, according to the custom of his country, securely both by sea and land.</seg>
+<seg/></p><p><seg>"The whole place consecrate and temple of Apollo in Delphi, and Delphi itself, shall be governed by their own law, taxed by their own state, and judged by their own judges, both city and territory, according to the institution of the place.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>"The peace shall endure between the Athenians with their confederates and the Lacedaemonians with their confederates for fifty years, both by sea and land, without fraud and without harm-doing.</seg>
+<seg/></p><p><seg>"The peace shall endure between the Athenians with their confederates and the Lacedaemonians with their confederates for fifty years, both by sea and land, without fraud and without harm-doing.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>"It shall not be lawful to bear arms with intention of hurt, neither for the Lacedaemonians and their confederates against the Athenians nor for the Athenians and their confederates against the Lacedaemonians by any art or machination whatsoever;</seg>
+<seg/></p><p><seg>"It shall not be lawful to bear arms with intention of hurt, neither for the Lacedaemonians and their confederates against the Athenians nor for the Athenians and their confederates against the Lacedaemonians by any art or machination whatsoever;</seg>
 <seg>if any controversy shall arise between them, the same shall be decided by law and by oath, in such manner as they shall agree on.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>"The Lacedaemonians and their confederates shall render Amphipolis to the Athenians;</seg>
+<seg/></p><p><seg>"The Lacedaemonians and their confederates shall render Amphipolis to the Athenians;</seg>
 <seg>the inhabitants of whatsoever city the Lacedaemonians shall render unto the Athenians shall be at liberty to go forth whither they will with bag and baggage.</seg>
-<seg></seg></p><p><seg>"Those cities which paid the tribute taxed in the time of Aristides, continuing to pay it, shall be governed by their own laws.</seg>
+<seg/></p><p><seg>"Those cities which paid the tribute taxed in the time of Aristides, continuing to pay it, shall be governed by their own laws.</seg>
 <seg>And now that the peace is concluded, it shall be unlawful for the Athenians or their confederates to bear arms against them or to do them any hurt as long as they shall pay the said tribute;</seg>
 <seg>the cities are these: Argilus, Stageirus, Acanthus, Scolus, Olynthus, Spartolus;</seg>
 
@@ -9071,17 +9070,17 @@ and the Lacedaemonians upon the Argives.</item>
 
 <milestone unit="section" n="7"/>
 <seg>but if the Athenians can persuade these cities unto it, then it shall be lawful for the Athenians to have them for confederates, having gotten their consent.</seg>
-<seg></seg></p><p><seg>"The Mecybernaeans, Sanaeans, and Singaeans shall inhabit their own cities on the same conditions with the Olynthians and Acanthians.</seg>
-<seg></seg></p><p><seg>"The Lacedaemonians and their confederates shall render Panactum unto the Athenians.</seg>
-<seg></seg></p><p><seg>"And the Athenians shall render to the Lacedaemonians Coryphasium, Cythera, Methone, Pteleum, and Atalante;</seg>
+<seg/></p><p><seg>"The Mecybernaeans, Sanaeans, and Singaeans shall inhabit their own cities on the same conditions with the Olynthians and Acanthians.</seg>
+<seg/></p><p><seg>"The Lacedaemonians and their confederates shall render Panactum unto the Athenians.</seg>
+<seg/></p><p><seg>"And the Athenians shall render to the Lacedaemonians Coryphasium, Cythera, Methone, Pteleum, and Atalante;</seg>
 <seg>they shall likewise deliver whatsoever Lacedaemonians are in the prison of Athens or in any prison of what place soever in the Athenian dominion, and dismiss all the Peloponnesians besieged in Scione and all that Brasidas did there put in, and whatsoever confederates of the Lacedaemonians are in prison, either at Athens or in the Athenian state.</seg>
-<seg></seg></p><p><seg>"And the Lacedaemonians and their confederates shall deliver whomsoever they have in their hands of the Athenians or their confederates in the same manner.</seg>
+<seg/></p><p><seg>"And the Lacedaemonians and their confederates shall deliver whomsoever they have in their hands of the Athenians or their confederates in the same manner.</seg>
 
 <milestone unit="section" n="8"/>
-<seg></seg></p><p><seg>"Touching the Scionaeans, Toronaeans, and Sermylians, and whatsoever other city belonging to the Athenians, the Athenians shall do with them what they think fit.</seg>
+<seg/></p><p><seg>"Touching the Scionaeans, Toronaeans, and Sermylians, and whatsoever other city belonging to the Athenians, the Athenians shall do with them what they think fit.</seg>
 
 <milestone unit="section" n="9"/>
-<seg></seg></p><p><seg>"The Athenians shall take an oath to the Lacedaemonians and their confederates, city by city;</seg>
+<seg/></p><p><seg>"The Athenians shall take an oath to the Lacedaemonians and their confederates, city by city;</seg>
 <seg>and that oath shall be the greatest that in each city is in use.</seg>
 <seg>The thing that they shall swear shall be this: 'I stand to these articles and to this peace, truly and sincerely.'</seg>
 <seg>And the Lacedaemonians and their confederates shall take the same oath to the Athenians.</seg>
@@ -9092,13 +9091,13 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>and at Lacedaemon, in the Amyclaeum.</seg>
 
 <milestone unit="section" n="11"/>
-<seg></seg></p><p><seg>"And if anything be on either side forgotten, or shall be thought fit upon good deliberation to be changed, it shall be lawful for them to do it, in such manner as the Lacedaemonians and Athenians shall think fit, jointly. </seg></p><p><milestone unit="chapter" n="19"/>
+<seg/></p><p><seg>"And if anything be on either side forgotten, or shall be thought fit upon good deliberation to be changed, it shall be lawful for them to do it, in such manner as the Lacedaemonians and Athenians shall think fit, jointly. </seg></p><p><milestone unit="chapter" n="19"/>
 
 <milestone unit="section" n="1"/>
 <seg>"This peace shall take beginning from the 24th of the month Artemisium, Pleistolas being ephore at Sparta, and the 5th of Elaphebolium, after the account of Athens, Alcaeus being archon.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>They that took the oath and sacrificed, were these.</seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>They that took the oath and sacrificed, were these.</seg>
 <seg>Of the Lacedaemonians: Pleistolas, Damagetus, Chionis, Metagenes, Acanthus, Daidus, Ischagoras, Philocaridas, Zeuxidas, Anthippus, Tellis, Alcinidas, Empedias, Menas, Laphilus.</seg>
 <seg>Of the Athenians these: Lampon, Isthmionicus, Nicias, Laches, Euthydemus, Procles, Pythodorus, Hagnon, Myrtilus, Thrasycles, Theagenes, Aristocrates, Iolcius, Timocrates, Leon, Lamachus, Demosthenes.</seg></q> </seg></p><p><milestone unit="chapter" n="20"/>
 
@@ -9139,35 +9138,35 @@ and the Lacedaemonians upon the Argives.</item>
 
 <milestone unit="section" n="1"/>
 <seg>"The Lacedaemonians shall be confederates with the Athenians for fifty years.</seg>
-<seg></seg></p><p><seg>"If any enemy invade the territory of the Lacedaemonians and do the Lacedaemonians any harm, the Athenians shall aid the Lacedaemonians against them in the strongest manner they can possibly;</seg>
+<seg/></p><p><seg>"If any enemy invade the territory of the Lacedaemonians and do the Lacedaemonians any harm, the Athenians shall aid the Lacedaemonians against them in the strongest manner they can possibly;</seg>
 <seg>but if the enemy, after he hath spoiled the country, shall be gone away, then that city shall be held as enemy both to the Lacedaemonians and to the Athenians and shall be warred upon by them both;</seg>
 <seg>and both cities shall again lay down the war jointly;</seg>
 <seg>and this is to be done justly, readily, and sincerely.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"And if any enemy shall invade the territories of the Athenians and do the Athenians any harm, then the Lacedaemonians shall aid the Athenians against them in the strongest manner they can possibly;</seg>
+<seg/></p><p><seg>"And if any enemy shall invade the territories of the Athenians and do the Athenians any harm, then the Lacedaemonians shall aid the Athenians against them in the strongest manner they can possibly;</seg>
 <seg>but if the enemy, after he hath spoiled the country, shall be gone away, then shall that city be held for enemy both to the Lacedaemonians and to the Athenians and shall be warred upon by both;</seg>
 
 <milestone unit="section" n="3"/>
 <seg>and both the cities shall again lay down the war together;</seg>
 <seg>and this to be done justly, readily, and sincerely.</seg>
-<seg></seg></p><p><seg>"If their slaves shall rebel, the Athenians shall assist the Lacedaemonians with all their strength possible.</seg>
+<seg/></p><p><seg>"If their slaves shall rebel, the Athenians shall assist the Lacedaemonians with all their strength possible.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>"These things shall be sworn unto by the same men on either side that swore the peace and shall be every year renewed by the Lacedaemonians [at their] coming to the Bacchanals at Athens and by the Athenians [at their] going to the Hyacinthian feast at Lacedaemon;</seg>
+<seg/></p><p><seg>"These things shall be sworn unto by the same men on either side that swore the peace and shall be every year renewed by the Lacedaemonians [at their] coming to the Bacchanals at Athens and by the Athenians [at their] going to the Hyacinthian feast at Lacedaemon;</seg>
 
 <milestone unit="section" n="5"/>
 <seg>and either side shall erect a pillar [inscribed with this league], one at Lacedaemon, near unto Apollo in the Amyclaeum, another at Athens, near Minerva in the citadel.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>"If it shall seem good to the Lacedaemonians and Athenians to add or take away anything touching the league, it shall be lawful for them to do it jointly. </seg></p><p><milestone unit="chapter" n="24"/>
+<seg/></p><p><seg>"If it shall seem good to the Lacedaemonians and Athenians to add or take away anything touching the league, it shall be lawful for them to do it jointly. </seg></p><p><milestone unit="chapter" n="24"/>
 
 <milestone unit="section" n="1"/>
 <seg><q direct="unspecified"><seg>Of the Lacedaemonians, took the oath these: Pleistoanax, Agis, Pleistolas, Damagetus, Chionis, Metagenes, Acanthus, Daidus, Ischagoras, Philocharidas, Zeuxidas, Anthippus, Alcinadas, Tellis, Empedias, Menas, Laphilus.</seg>
 <seg>Of the Athenians: Lampon, Isthmionicus, Laches, Nicias, Euthydemus, Procles, Pythodorus, Hagnon, Myrtilus, Thrasycles, Theagenes, Aristocrates, Iolcius, Timocrates, Leon, Lamachus, and Demosthenes.</seg></q></seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>This league was made not long after the peace;</seg>
+<seg/></p><p><seg>This league was made not long after the peace;</seg>
 <seg>and the Athenians delivered to the Lacedaemonians the men they had taken in the island;</seg>
 <seg>and by this time began the summer of the eleventh year.</seg>
 <seg>And hitherto hath been written these ten years, which this first war continued without intermission. </seg></p><p><milestone unit="chapter" n="25"/>
@@ -9303,7 +9302,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>The Phoceans and Locrians also began a war at that time against each other.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>And the Corinthians and Argives, being now league, went to Tegea to cause it to revolt from the Lacedaemonians, conceiving it to be an important piece [of Peloponnesus], and making account, if they gained it to their side, they should easily obtain the whole.</seg>
+<seg/></p><p><seg>And the Corinthians and Argives, being now league, went to Tegea to cause it to revolt from the Lacedaemonians, conceiving it to be an important piece [of Peloponnesus], and making account, if they gained it to their side, they should easily obtain the whole.</seg>
 
 <milestone unit="section" n="4"/>
 <seg>But when the Tegeates refused to become enemies to the Lacedaemonians, the Corinthians, who till then had been very forward, grew less violent and were afraid that no more of the rest would come in.</seg>
@@ -9422,7 +9421,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>The same winter the Olynthians took Mecyberne, held with a garrison of the Athenians, by assault.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>After this the Lacedaemonians (for the conferences between the Athenians and Lacedaemonians about reciprocal restitution continued still), hoping that if the Athenians should obtain from the Boeotians Panactum, that then they also should recover Pylus, sent ambassadors to the Boeotians with request that Panactum and the Athenian prisoners might be put into the hands of the Lacedaemonians, that they might get Pylus restored in exchange.</seg>
+<seg/></p><p><seg>After this the Lacedaemonians (for the conferences between the Athenians and Lacedaemonians about reciprocal restitution continued still), hoping that if the Athenians should obtain from the Boeotians Panactum, that then they also should recover Pylus, sent ambassadors to the Boeotians with request that Panactum and the Athenian prisoners might be put into the hands of the Lacedaemonians, that they might get Pylus restored in exchange.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>But the Boeotians answered that unless the Lacedaemonians would make a particular league with them as they had done with the Athenians, they would not do it.</seg>
@@ -9523,7 +9522,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>For Nicias was afraid he should return with nothing done and be carped at (as after also it fell out) as author of the Lacedaemonian peace.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>At his return, when the Athenians understood that nothing was effected at Lacedaemon, they grew presently into choler;</seg>
+<seg/></p><p><seg>At his return, when the Athenians understood that nothing was effected at Lacedaemon, they grew presently into choler;</seg>
 <seg>and apprehending injury (the Argives and their confederates being there present, brought in by Alcibiades), they made a peace and a league with them in these words: </seg></p><p><milestone unit="chapter" n="47"/>
 
 <milestone unit="section" n="1"/>
@@ -9531,35 +9530,35 @@ and the Lacedaemonians upon the Argives.</item>
 
 <milestone unit="section" n="2"/>
 <seg>It shall not be lawful for the Argives nor Eleians nor Mantineans nor their confederates to bear arms against the Athenians or the confederates under the command of the Athenians or their confederates by any fraud or machination whatsoever.</seg>
-<seg></seg></p><p><seg>"And the Athenians, Argives, and Mantineans have made league with each other for one hundred years on these terms:</seg>
+<seg/></p><p><seg>"And the Athenians, Argives, and Mantineans have made league with each other for one hundred years on these terms:</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>"If any enemy shall invade the territory of the Athenians, then the Argives, Eleians, and Mantineans shall go unto Athens to assist them, according as the Athenians shall send them word to do, in the best manner they possibly can.</seg>
+<seg/></p><p><seg>"If any enemy shall invade the territory of the Athenians, then the Argives, Eleians, and Mantineans shall go unto Athens to assist them, according as the Athenians shall send them word to do, in the best manner they possibly can.</seg>
 <seg>But if the enemy, after he have spoiled the territory, shall be gone back, then their city shall be held as an enemy to the Argives, Eleians, Mantineans, and Athenians, and war shall be made against it by all those cities;</seg>
 <seg>and it shall not be lawful for any of those cities to give over the war without the consent of all the rest.</seg>
-<seg></seg></p><p><seg>"And if an enemy shall invade the territory, either of the Argives or of the Eleians or of the Mantineans, then the Athenians shall come unto Argos, Elis, and Mantineia to assist them, in such sort as those cities shall send them word to do, in the best manner they possibly can.</seg>
+<seg/></p><p><seg>"And if an enemy shall invade the territory, either of the Argives or of the Eleians or of the Mantineans, then the Athenians shall come unto Argos, Elis, and Mantineia to assist them, in such sort as those cities shall send them word to do, in the best manner they possibly can.</seg>
 
 <milestone unit="section" n="4"/>
 <seg>But if the enemy, after he hath wasted their territory, shall be gone back, then their city shall be held as an enemy both to the Athenians and also to the Argives, Eleians, and Mantineans, and war shall be made against it by all those cities;</seg>
 <seg>and it shall not be lawful for any of them to give over the war against that city without the consent of all the rest.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>"There shall no armed men be suffered to pass through the dominions either of themselves or of any the confederates under their several commands to make war in any place whatsoever, unless by the suffrage of all the cities, Athens, Argos, Elis, and Mantineia, their passage be allowed.</seg>
-<seg></seg></p><p><seg>"To such as come to assist any of the other cities, that city which sendeth them shall give maintenance for thirty days after they shall arrive in the city that sent for them;</seg>
+<seg/></p><p><seg>"There shall no armed men be suffered to pass through the dominions either of themselves or of any the confederates under their several commands to make war in any place whatsoever, unless by the suffrage of all the cities, Athens, Argos, Elis, and Mantineia, their passage be allowed.</seg>
+<seg/></p><p><seg>"To such as come to assist any of the other cities, that city which sendeth them shall give maintenance for thirty days after they shall arrive in the city that sent for them;</seg>
 
 <milestone unit="section" n="6"/>
 <seg>and the like at their going away;</seg>
 <seg>but if they will use the army for a longer time, then the city that sent for them shall find them maintenance, at the rate of three oboles of Aegina a day for a man of arms, and of a drachma of Aegina for a horseman.</seg>
-<seg></seg></p><p><seg>"The city which sendeth for the aids shall have the leading and command of them whilst the war is in their own territory;</seg>
+<seg/></p><p><seg>"The city which sendeth for the aids shall have the leading and command of them whilst the war is in their own territory;</seg>
 
 <milestone unit="section" n="7"/>
 <seg>but if it shall seem good unto these cities to make a war in common, then all the cities shall equally participate of the command.</seg>
-<seg></seg></p><p><seg>"The Athenians shall swear unto the articles both for themselves and for their confederates;</seg>
+<seg/></p><p><seg>"The Athenians shall swear unto the articles both for themselves and for their confederates;</seg>
 <seg>and the Argives, Eleians, and Mantineans, and the confederates of these shall every one swear unto them city by city.</seg>
 
 <milestone unit="section" n="8"/>
 <seg>And their oath shall be the greatest that by custom of the several cities is used, and with most perfect hosts, and in these words: 'I will stand to this league, according to the articles thereof, justly, innocently, and sincerely, and not transgress the same by any art or machination whatsoever.'</seg>
-<seg></seg></p><p><seg>"This oath shall be taken at Athens by the senate and the officers of the commons, and administered by the Prytanes.</seg>
+<seg/></p><p><seg>"This oath shall be taken at Athens by the senate and the officers of the commons, and administered by the Prytanes.</seg>
 
 <milestone unit="section" n="9"/>
 <seg>At Argos it shall be taken by the senate and the council of eighty and by the Artynae, and administered by the council of eighty.</seg>
@@ -9567,17 +9566,17 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>At Elis it shall be taken by the procurators of the people and by the officers of the treasury and by the council of six hundred, and administered by the procurators of the people and by the keepers of the law.</seg>
 
 <milestone unit="section" n="10"/>
-<seg></seg></p><p><seg>"This oath shall be renewed by the Athenians, who shall go to Elis and to Mantineia and to Argos thirty days before the Olympian games;</seg>
+<seg/></p><p><seg>"This oath shall be renewed by the Athenians, who shall go to Elis and to Mantineia and to Argos thirty days before the Olympian games;</seg>
 <seg>and by the Argives, Eleians, and Mantineans, who shall come to Athens ten days before the Panathenaean holidays.</seg>
 
 <milestone unit="section" n="11"/>
-<seg></seg></p><p><seg>"The articles of this league and peace and the oath shall be inscribed in a pillar of stone by the Athenians in the citadel;</seg>
+<seg/></p><p><seg>"The articles of this league and peace and the oath shall be inscribed in a pillar of stone by the Athenians in the citadel;</seg>
 <seg>by the Argives in their market place within the precincts of the temple of Apollo;</seg>
 <seg>and by the Mantineans in their market place within the precinct of the temple of Jupiter.</seg>
 <seg>And at the Olympian games now at hand, there shall be jointly erected by them all a brazen pillar in Olympia [with the same inscription].</seg>
 
 <milestone unit="section" n="12"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>If it shall seem good to any of these cities to add anything to these articles, whatsoever shall be determined by them all in common council, the same shall stand good.</seg></q> </seg></p><p><milestone unit="chapter" n="48"/>
+<seg/></p><p><seg><q direct="unspecified"><seg>If it shall seem good to any of these cities to add anything to these articles, whatsoever shall be determined by them all in common council, the same shall stand good.</seg></q> </seg></p><p><milestone unit="chapter" n="48"/>
 
 <milestone unit="section" n="1"/>
 <seg>Thus was the league and the peace concluded;</seg>
@@ -9629,7 +9628,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>and the feast passed over.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>After the Olympian games, the Argives and their confederates went to Corinth to get the Corinthians into their league.</seg>
+<seg/></p><p><seg>After the Olympian games, the Argives and their confederates went to Corinth to get the Corinthians into their league.</seg>
 <seg>And the Lacedaemonian ambassadors chanced to be there also;</seg>
 <seg>and after much conference and nothing concluded, upon occasion of an earthquake they brake off the conference and returned every one to his own city.</seg>
 <seg>And so this summer ended. </seg></p><p><milestone unit="chapter" n="51"/>
@@ -9683,7 +9682,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>This advice being approved, they departed, and withdrew the Argives from Epidauria.</seg>
 <seg>And meeting afterwards again in the same place, they could not for all that agree;</seg>
 <seg>and the Argives again invaded and wasted Epidauria.</seg>
-<seg></seg></p><p><seg>The Lacedaemonians also drew forth their army against Caryae;</seg>
+<seg/></p><p><seg>The Lacedaemonians also drew forth their army against Caryae;</seg>
 
 <milestone unit="section" n="3"/>
 <seg>but then again, their sacrifice for passage being not to their mind, they returned.</seg>
@@ -9707,7 +9706,7 @@ and the Lacedaemonians upon the Argives.</item>
 
 <milestone unit="section" n="4"/>
 <seg>but did no more.</seg>
-<seg></seg></p><p><seg>All this winter, though there was war between the Argives and Epidaurians, yet was there no set battle, but only ambushes and skirmishes, wherein were slain on both sides such as it chanced.</seg>
+<seg/></p><p><seg>All this winter, though there was war between the Argives and Epidaurians, yet was there no set battle, but only ambushes and skirmishes, wherein were slain on both sides such as it chanced.</seg>
 
 <milestone unit="section" n="5"/>
 <seg>But in the end of winter, and the spring now at hand, the Argives came to Epidaurus with ladders, as destitute of men by reason of the war, thinking to have won it by assault, but returned again with their labour lost.</seg>
@@ -9759,7 +9758,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>for the Athenians alone of all their confederates were not yet come.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>Now the generality of the army of the Argives and their confederates did not think the danger present so great as indeed it was, but rather that the advantage in the battle would be their own;</seg>
+<seg/></p><p><seg>Now the generality of the army of the Argives and their confederates did not think the danger present so great as indeed it was, but rather that the advantage in the battle would be their own;</seg>
 <seg>and that the Lacedaemonians were intercepted, not only in the Argives territory, but also hard by the city.</seg>
 
 <milestone unit="section" n="5"/>
@@ -9783,7 +9782,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>The army, thus offended with Agis, departed, and were dissolved every man to his home.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>The Argives were much more offended with those of their city, which without the consent of the multitude had made the truce, they also supposing that the Lacedaemonians had escaped their hands in such an advantage as they never had the like before, in that the battle was to have been fought under the city walls and with the assistance of many and good confederates.</seg>
+<seg/></p><p><seg>The Argives were much more offended with those of their city, which without the consent of the multitude had made the truce, they also supposing that the Lacedaemonians had escaped their hands in such an advantage as they never had the like before, in that the battle was to have been fought under the city walls and with the assistance of many and good confederates.</seg>
 
 <milestone unit="section" n="6"/>
 <seg>And in their return they began to stone Thrasyllus at the Charadrum, the place where the soldiers, before they enter into the city from warfare, use to have their military causes heard.</seg>
@@ -10018,7 +10017,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>But after this, their miscarriage was imputed to fortune, and for their minds they were esteemed to have been ever the same they had been.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>The day before this battle it chanced also that the Epidaurians with their whole power invaded the territory of Argos, as being emptied much of men, and whilst the Argives were abroad, killed many of those that were left behind to defend it.</seg>
+<seg/></p><p><seg>The day before this battle it chanced also that the Epidaurians with their whole power invaded the territory of Argos, as being emptied much of men, and whilst the Argives were abroad, killed many of those that were left behind to defend it.</seg>
 
 <milestone unit="section" n="5"/>
 <seg>Also three thousand men of Elis and a thousand Athenians, besides those which had been sent before, being come after the battle to aid the Mantineans, marched presently all to Epidaurus and lay before it all the while the Lacedaemonians were celebrating the Carneian holidays;</seg>
@@ -10039,7 +10038,7 @@ and the Lacedaemonians upon the Argives.</item>
 
 <milestone unit="section" n="3"/>
 <seg>And their design was, first, to get a peace made with the Lacedaemonians, and after that a league, and then at last to set upon the commons.</seg>
-<seg></seg></p><p><seg>There went thither Lichas the son of Archesilaus, entertainer of the Argives in Lacedaemon, and brought to Argos two propositions: one of war, if the war were to proceed;</seg>
+<seg/></p><p><seg>There went thither Lichas the son of Archesilaus, entertainer of the Argives in Lacedaemon, and brought to Argos two propositions: one of war, if the war were to proceed;</seg>
 <seg>another of peace, if they were to have peace.</seg>
 <seg>And after much contradiction (for Alcibiades was also there), the Lacedaemonian faction, that boldly now discovered themselves, prevailed with the Argives to accept the proposition of peace, which was this: </seg></p><p><milestone unit="chapter" n="77"/>
 
@@ -10048,27 +10047,27 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>they shall withdraw their soldiers from Epidaurus and raze the fortification there.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"And if the Athenians depart not from Epidaurus [likewise], they shall be held as enemies both to the Argives and to the Lacedaemonians and also to the confederates of them both.</seg>
+<seg/></p><p><seg>"And if the Athenians depart not from Epidaurus [likewise], they shall be held as enemies both to the Argives and to the Lacedaemonians and also to the confederates of them both.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>"If the Lacedaemonians have any men of theirs in custody, they shall deliver them every one to his own city.</seg>
+<seg/></p><p><seg>"If the Lacedaemonians have any men of theirs in custody, they shall deliver them every one to his own city.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>"And for so much as concerneth the god, the Argives shall accept composition with the Epidaurians, upon an oath which they shall swear, touching that controversy;</seg>
+<seg/></p><p><seg>"And for so much as concerneth the god, the Argives shall accept composition with the Epidaurians, upon an oath which they shall swear, touching that controversy;</seg>
 
 <milestone unit="section" n="5"/>
 <seg>and the Argives shall give the form of that oath.</seg>
-<seg></seg></p><p><seg>"All the cities of Peloponnesus, both small and great, shall be free according to their patrial laws.</seg>
+<seg/></p><p><seg>"All the cities of Peloponnesus, both small and great, shall be free according to their patrial laws.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>"If any without Peloponnesus shall enter into it to do it harm, the Argives shall come forth to defend the same, in such sort as in a common council shall by the Peloponnesians be thought reasonable.</seg>
+<seg/></p><p><seg>"If any without Peloponnesus shall enter into it to do it harm, the Argives shall come forth to defend the same, in such sort as in a common council shall by the Peloponnesians be thought reasonable.</seg>
 
 <milestone unit="section" n="7"/>
-<seg></seg></p><p><seg>"The confederates of the Lacedaemonians without Peloponnesus shall have the same conditions which the confederates of the Argives and of the Lacedaemonians have, every one holding his own.</seg>
-<seg></seg></p><p><seg>"This composition is to hold from the time that they shall both parts have showed the same to their confederates and obtained their consent.</seg>
+<seg/></p><p><seg>"The confederates of the Lacedaemonians without Peloponnesus shall have the same conditions which the confederates of the Argives and of the Lacedaemonians have, every one holding his own.</seg>
+<seg/></p><p><seg>"This composition is to hold from the time that they shall both parts have showed the same to their confederates and obtained their consent.</seg>
 
 <milestone unit="section" n="8"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>And if it shall seem good to either part to add or alter anything, their confederates shall be sent unto and made acquainted therewith.</seg></q> </seg></p><p><milestone unit="chapter" n="78"/>
+<seg/></p><p><seg><q direct="unspecified"><seg>And if it shall seem good to either part to add or alter anything, their confederates shall be sent unto and made acquainted therewith.</seg></q> </seg></p><p><milestone unit="chapter" n="78"/>
 
 <milestone unit="section" n="1"/>
 <seg>These propositions the Argives accepted at first;</seg>
@@ -10077,14 +10076,14 @@ and the Lacedaemonians upon the Argives.</item>
 
 <milestone unit="section" n="1"/>
 <seg>"It seemeth good to the Lacedaemonians and Argives to make league and alliance for fifty years on these articles: </seg></p><p><seg>"That either side shall allow unto the other equal and like trials of judgment, after the form used in their cities.</seg>
-<seg></seg></p><p><seg>"That the rest of the cities of Peloponnesus (this league and alliance comprehending also them) shall be free both from the laws and payments of any other city than their own, holding what they have and affording equal and like trials of judgment according to the form used in their several cities.</seg>
+<seg/></p><p><seg>"That the rest of the cities of Peloponnesus (this league and alliance comprehending also them) shall be free both from the laws and payments of any other city than their own, holding what they have and affording equal and like trials of judgment according to the form used in their several cities.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"That every of the cities confederate with the Lacedaemonians, without Peloponnesus, shall be in the same condition with the Lacedaemonians;</seg>
+<seg/></p><p><seg>"That every of the cities confederate with the Lacedaemonians, without Peloponnesus, shall be in the same condition with the Lacedaemonians;</seg>
 <seg>and the confederates of the Argives in the same with the Argives, every one holding his own.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>"That if at any time there shall need an expedition to be taken in common, the Lacedaemonians and the Argives shall consult thereof and decree as shall stand most with equity towards the confederates.</seg>
+<seg/></p><p><seg>"That if at any time there shall need an expedition to be taken in common, the Lacedaemonians and the Argives shall consult thereof and decree as shall stand most with equity towards the confederates.</seg>
 
 <milestone unit="section" n="4"/>
 <seg>And that if any controversy arise between any of the cities, either within or without Peloponnesus, about limits or other matter, they also shall decide it. </seg></p><p><seg><q direct="unspecified"><seg>That if any confederate city be at contention with another, it shall have recourse to that city which they both shall think most indifferent;</seg>
@@ -10113,12 +10112,12 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>And the Lacedaemonians and Argives with a thousand men of either city having joined their arms, the Lacedaemonians first, with their single power, reduced the government of Sicyon to a smaller number;</seg>
 <seg>and then they both together dissolved the democracy at Argos.</seg>
 <seg>And the oligarchy was established conformable to the state of Lacedaemon.</seg>
-<seg></seg></p><p><seg>These things passed in the end of winter and near the spring.</seg>
+<seg/></p><p><seg>These things passed in the end of winter and near the spring.</seg>
 <seg>And so ended the fourteenth year of this war. </seg></p><p><milestone unit="chapter" n="82"/>
 
 <milestone unit="section" n="1"/>
 <seg>The next summer the Dictidears seated in Mount Athos revolted from the Athenians to the Chalcideans.</seg>
-<seg></seg></p><p><seg>And the Lacedaemonians ordered the state of Achaia after their own form, which before was otherwise.</seg>
+<seg/></p><p><seg>And the Lacedaemonians ordered the state of Achaia after their own form, which before was otherwise.</seg>
 
 <milestone unit="section" n="2"/>
 <seg>But the Argives, after they had by little and little assembled themselves and recovered heart, taking the time when the Lacedaemonians were celebrating their exercises of the naked youth, assaulted the few;</seg>
@@ -10159,13 +10158,13 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>for there the greatest part of them dwelt.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>The same winter the Athenians shut up Perdiccas in Macedonia [from the use of the sea], objecting that he had sworn the league of the Argives and Lacedaemonians;</seg>
+<seg/></p><p><seg>The same winter the Athenians shut up Perdiccas in Macedonia [from the use of the sea], objecting that he had sworn the league of the Argives and Lacedaemonians;</seg>
 <seg>and that when they had prepared an army, under the command of Nicias, the son of Niceratus, to go against the Chalcideans upon Thrace and against Amphipolis, he had broken the league made betwixt them and him, and by his departure was the principal cause of the dissolution of that army, and was therefore an enemy.</seg>
 <seg>And so this winter ended, and the fifteenth year of this war. </seg></p><p><milestone unit="chapter" n="84"/>
 
 <milestone unit="section" n="1"/>
 <seg>The next summer went Alcibiades to Argos with twenty galleys and took thence the suspected Argives and such as seemed to savour of the Lacedaemonian faction, to the number of three hundred, and put them into the nearest of the islands subject to the Athenian state.</seg>
-<seg></seg></p><p><seg>The Athenians made war also against the isle of Melos, with thirty galleys of their own, six of Chios, and two of Lesbos.</seg>
+<seg/></p><p><seg>The Athenians made war also against the isle of Melos, with thirty galleys of their own, six of Chios, and two of Lesbos.</seg>
 <seg>Wherein were of their own twelve hundred men of arms, three hundred archers, and twenty archers on horseback;</seg>
 <seg>and of their confederates and islanders, about fifteen hundred men of arms.</seg>
 
@@ -10174,7 +10173,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>and afterwards, when the Athenians put them to it by wasting of their land, they entered into open war.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Now the Athenian commanders, Cleomedes, the son of Lycomedes, and Tisias, the son of Tisimachus, being encamped upon their land with these forces, before they would hurt the same sent ambassadors to deal with them first by way of conference.</seg>
+<seg/></p><p><seg>Now the Athenian commanders, Cleomedes, the son of Lycomedes, and Tisias, the son of Tisimachus, being encamped upon their land with these forces, before they would hurt the same sent ambassadors to deal with them first by way of conference.</seg>
 <seg>These ambassadors the Melians refused to bring before the multitude, but commanded them to deliver their message before the magistrates and the few;</seg>
 <seg>and they accordingly said as followeth: </seg></p><p><milestone unit="chapter" n="85"/>
 
@@ -10377,7 +10376,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>but it was for certain controversies of their own, and the rest of Peloponnesus stirred not.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>The Melians also took that part of the wall of the Athenians, by an assault in the night, which looked towards the market place, and having slain the men that guarded it, brought into the town both corn and other provision, whatsoever they could buy for money, and so returned and lay still.</seg>
+<seg/></p><p><seg>The Melians also took that part of the wall of the Athenians, by an assault in the night, which looked towards the market place, and having slain the men that guarded it, brought into the town both corn and other provision, whatsoever they could buy for money, and so returned and lay still.</seg>
 <seg>And the Athenians from thenceforth kept a better watch.</seg>
 <seg>And so this summer ended. </seg></p><p><milestone unit="chapter" n="116"/>
 
@@ -10386,7 +10385,7 @@ and the Lacedaemonians upon the Argives.</item>
 <seg>And the Argives, having some of their own city in suspicion in regard of this design of the Lacedaemonians, apprehended some of them, and some escaped.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>About the same time the Melians took another part of the wall of the Athenians, they that kept the siege being then not many.</seg>
+<seg/></p><p><seg>About the same time the Melians took another part of the wall of the Athenians, they that kept the siege being then not many.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>But this done, there came afterwards some fresh forces from Athens, under the conduct of Philocrates, the son of Demeas.</seg>
@@ -10423,7 +10422,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 
 <milestone unit="section" n="4"/>
 <seg>But the Siculi passed out of Italy (for there they inhabited), flying from the Opici, having, as is most likely and as it is reported, observed the strait, and with a fore wind gotten over in boats which they made suddenly on the occasion, or perhaps by some other means.</seg>
-<seg></seg></p><p><seg>There is at this day a people in Italy called Siculi.</seg>
+<seg/></p><p><seg>There is at this day a people in Italy called Siculi.</seg>
 <seg>And Italy itself got that name after the same manner from a king of Arcadia called Italus.</seg>
 
 <milestone unit="section" n="5"/>
@@ -10433,7 +10432,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>And till now they possess the midland and north parts of the island.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>Also the Phoenicians inhabited the coast of Sicily on all sides, having taken possession of certain promontories and little islands adjacent, for trade's sake with the Sicilians.</seg>
+<seg/></p><p><seg>Also the Phoenicians inhabited the coast of Sicily on all sides, having taken possession of certain promontories and little islands adjacent, for trade's sake with the Sicilians.</seg>
 <seg>But after that many Grecians were come in by sea, the Phoenicians abandoned most of their former habitations, and uniting themselves, dwelt in Motya and Soloeis and Panormus, upon the borders of the Elymi, as relying upon their league with the Elymi, and because also from thence lay the shortest cut over unto Carthage.</seg>
 <seg>These were the barbarians, and thus they inhabited Sicily. </seg></p><p><milestone unit="chapter" n="3"/>
 
@@ -10915,7 +10914,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>Thus hasted these to be at Corcyra, to which place also the other army of the confederates were assembling.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>At Syracuse they had advertisement of the voyage from divers places;</seg>
+<seg/></p><p><seg>At Syracuse they had advertisement of the voyage from divers places;</seg>
 <seg>nevertheless it was long ere anything would be believed.</seg>
 <seg>Nay, an assembly being there called, orations were made, such as follow, on both parts, as well by them that believed the report touching the Athenian army to be true as by others that affirmed the contrary.</seg>
 <seg>And Hermocrates the son of Hermon, as one that thought he knew the certainty, stood forth and spake to this effect: </seg></p><p><milestone unit="chapter" n="33"/>
@@ -11080,7 +11079,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>Then one of their generals, rising up, forbade any other to stand forth, and spake himself to the matter in hand to this effect:</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>It is no wisdom, neither for the speakers to utter such calumnies one against another, nor for the hearers to receive them.</seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>It is no wisdom, neither for the speakers to utter such calumnies one against another, nor for the hearers to receive them.</seg>
 <seg>We should rather consider, in respect of these reports, how we may in the best manner, both every one in particular and the city in general, be prepared to resist them when they come.</seg>
 
 <milestone unit="section" n="3"/>
@@ -11458,7 +11457,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>And in the midst of these so arranged were received such as carried the weapons and tools of the army.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The Syracusians arranged their men of arms, who were Syracusians of all conditions and as many of their confederates as were present, by sixteen in file (they that came to aid them, were chiefly the Selinuntians, and then the horsemen of the Geloans, about two hundred, and of the Camarinaeans, about twenty horsemen and fifty archers);</seg>
+<seg/></p><p><seg>The Syracusians arranged their men of arms, who were Syracusians of all conditions and as many of their confederates as were present, by sixteen in file (they that came to aid them, were chiefly the Selinuntians, and then the horsemen of the Geloans, about two hundred, and of the Camarinaeans, about twenty horsemen and fifty archers);</seg>
 <seg>the cavalry they placed in the right point of the battle, being in all no less than a thousand two hundred, and with them the darters.</seg>
 
 <milestone unit="section" n="3"/>
@@ -11494,7 +11493,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>Nevertheless though they thought not the Athenians would have begun the battle, and were thereby constrained to fight upon a sudden, yet they resumed their arms and came presently forward to the encounter.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>And first, the casters of stones and slingers and archers of either side skirmished in the midst between the armies, mutually chasing each other, as amongst the light-armed was not unlikely.</seg>
+<seg/></p><p><seg>And first, the casters of stones and slingers and archers of either side skirmished in the midst between the armies, mutually chasing each other, as amongst the light-armed was not unlikely.</seg>
 <seg>After this, the soothsayers brought forth their sacrifices according to the law of the place;</seg>
 <seg>and the trumpets instigated the men of arms to the battle.</seg>
 
@@ -11535,7 +11534,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 
 <milestone unit="section" n="1"/>
 <seg>With this mind they went to winter at Naxos and Catana.</seg>
-<seg></seg></p><p><seg>The Syracusians, after they had buried their dead, called an assembly;</seg>
+<seg/></p><p><seg>The Syracusians, after they had buried their dead, called an assembly;</seg>
 
 <milestone unit="section" n="2"/>
 <seg>and Hermocrates, the son of Hermon, a man not otherwise second to any in wisdom, and in war both able for his experience and eminent for his valour, standing forth gave them encouragement and would not suffer them to be dismayed with that which had happened.</seg>
@@ -11640,7 +11639,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <milestone unit="section" n="2"/>
 <seg>And then it were a hard case if they, suspecting a bad action under a fair justification, are wise without a reason;</seg>
 <seg>and you, upon pretence of reason, should aid your natural enemies and help them that most hate you to destroy your more natural kindred.</seg>
-<seg></seg></p><p><seg>"But this is no justice;</seg>
+<seg/></p><p><seg>"But this is no justice;</seg>
 
 <milestone unit="section" n="3"/>
 <seg>to fight with them is justice, and not to stand in fear of their preparation.</seg>
@@ -11704,7 +11703,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>Which we will make plain from those very things which they accuse, and you, as most formidable, suspect us of, being assured that such as suspect with vehement fear, though they may be won for the present with the sweetness of an oration, yet when the matter comes to performance, will then do as shall be most for their turn.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>"We have told you that we hold our dominion yonder upon fear;</seg>
+<seg/></p><p><seg>"We have told you that we hold our dominion yonder upon fear;</seg>
 <seg>and that upon the same cause we come hither now, by the help of our friends to assure the cities here, and not to bring you into subjection but rather to keep you from it. </seg></p><p><milestone unit="chapter" n="84"/>
 
 <milestone unit="section" n="1"/>
@@ -11793,8 +11792,8 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 
 <milestone unit="section" n="3"/>
 <seg>And so the ambassadors of both sides went their ways.</seg>
-<seg></seg></p><p><seg>And the Syracusians made preparations for the war by themselves.</seg>
-<seg></seg></p><p><seg>The Athenians, being encamped at Naxos, treated with the Siculi to procure as many of them as they might to their side.</seg>
+<seg/></p><p><seg>And the Syracusians made preparations for the war by themselves.</seg>
+<seg/></p><p><seg>The Athenians, being encamped at Naxos, treated with the Siculi to procure as many of them as they might to their side.</seg>
 
 <milestone unit="section" n="4"/>
 <seg>Of whom, such as inhabited the plain and were subject to the Syracusians for the most part held off;</seg>
@@ -11811,7 +11810,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>They sent likewise to the Siculi about them and to Egesta, appointing them to send in all the horse they could, and made ready bricks and iron and whatsoever else was necessary for a siege, and every other thing they needed, as intending to fall in hand with the war early the next spring.</seg>
 
 <milestone unit="section" n="7"/>
-<seg></seg></p><p><seg>The ambassadors of Syracuse which were sent to Corinth and Lacedaemon, as they sailed by, endeavoured also to move the Italians to a regard of this action of the Athenians.</seg>
+<seg/></p><p><seg>The ambassadors of Syracuse which were sent to Corinth and Lacedaemon, as they sailed by, endeavoured also to move the Italians to a regard of this action of the Athenians.</seg>
 
 <milestone unit="section" n="8"/>
 <seg>Being come to Corinth, they spake unto them and demanded aid upon the title of consanguinity.</seg>
@@ -11934,7 +11933,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 
 <milestone unit="section" n="4"/>
 <seg>This agreed upon, they departed from Lacedaemon.</seg>
-<seg></seg></p><p><seg>In the meantime the galley arrived at Athens which the generals sent home for money and horsemen.</seg>
+<seg/></p><p><seg>In the meantime the galley arrived at Athens which the generals sent home for money and horsemen.</seg>
 <seg>And the Athenians, upon hearing, decreed to send both provision and horsemen to the army.</seg>
 <seg>So the winter ended, and the seventeenth year of this war written by Thucydides. </seg></p><p><milestone unit="chapter" n="94"/>
 
@@ -11961,7 +11960,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>But the Argives invaded the territory of Thyrea, confining on their own, and took a great booty from the Lacedaemonians, which they sold for no less than twenty-five talents.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>Not long after, the commons of Thespiae set upon them that had the government, but not prevailing, were part apprehended and part escaped to Athens, the Athenians having also aided them. </seg></p><p><milestone unit="chapter" n="96"/>
+<seg/></p><p><seg>Not long after, the commons of Thespiae set upon them that had the government, but not prevailing, were part apprehended and part escaped to Athens, the Athenians having also aided them. </seg></p><p><milestone unit="chapter" n="96"/>
 
 <milestone unit="section" n="1"/>
 <seg>The Syracusians the same summer, when they heard that the Athenians had horsemen sent to them from Athens and that they were ready now to come against them, conceiving that if the Athenians gat not Epipolae, a rocky ground and lying just against the city, they would not be able, though masters of the field, to take in the city with a wall, intended therefore, lest the enemy should come secretly up, to keep the passages by which there was access unto it with a guard.</seg>
@@ -12253,7 +12252,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>After this, the other twelve galleys of the Corinthians, Ambraciotes, and Leucadians, undescried of the Athenian galleys that lay in wait for them, entered the haven, under the command of Erasinides, a Corinthian, and helped the Syracusians to finish what remained to the cross wall.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>Now Gylippus went up and down Sicily, raising forces both for sea and land and soliciting to his side all such cities as formerly either had not been forward or had wholly abstained from the war.</seg>
+<seg/></p><p><seg>Now Gylippus went up and down Sicily, raising forces both for sea and land and soliciting to his side all such cities as formerly either had not been forward or had wholly abstained from the war.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>Other ambassadors also, both of the Syracusians and Corinthians, were sent to Lacedaemon and Corinth to procure new forces to be transported either in ships or boats, or how they could;</seg>
@@ -12338,7 +12337,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>Had the enemy but that one thing more, that the towns of Italy that now send us provision, seeing what estate we are now in and you not helping us, would turn to them, the war were at an end and we expugned without another stroke.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>"I could have written to you other things more pleasing than these, but not more profitable, seeing it is necessary for you to know certainly the affairs here when you go to council upon them.</seg>
+<seg/></p><p><seg>"I could have written to you other things more pleasing than these, but not more profitable, seeing it is necessary for you to know certainly the affairs here when you go to council upon them.</seg>
 <seg>Withal, because I know your natures to be such as though you love to hear the best, yet afterwards when things fall not out accordingly you will call in question them that write it, I thought best to write the truth for my own safety's sake. </seg></p><p><milestone unit="chapter" n="15"/>
 
 <milestone unit="section" n="1"/>
@@ -12366,7 +12365,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>and sent unto the confederates, appointing what forces they should provide, and to furnish himself amongst them with money and galleys and men of arms.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The Athenians sent also twenty galleys about Peloponnesus, to watch that none should go over into Sicily from Corinth or Peloponnesus.</seg>
+<seg/></p><p><seg>The Athenians sent also twenty galleys about Peloponnesus, to watch that none should go over into Sicily from Corinth or Peloponnesus.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>For the Corinthians, after the ambassadors were come to them and had brought news of the amendment of the affairs in Sicily, thought it was well that they had sent thither those other galleys before;</seg>
@@ -12649,7 +12648,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 
 <milestone unit="section" n="3"/>
 <seg>[Nevertheless], the Syracusians, after this blow received amongst the Siculi, held their hands and assaulted not the Athenians for a while.</seg>
-<seg></seg></p><p><seg>Demosthenes and Eurymedon, having their army now ready, crossed over from Corcyra and the continent with the whole army to the promontory of Iapygia.</seg>
+<seg/></p><p><seg>Demosthenes and Eurymedon, having their army now ready, crossed over from Corcyra and the continent with the whole army to the promontory of Iapygia.</seg>
 <seg>From thence they went to the Choerades, islands of Iapygia, and here took in certain Iapygian darters to the number of two hundred and fifty, of the Messapian nation.</seg>
 
 <milestone unit="section" n="4"/>
@@ -13141,7 +13140,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>if not, to make their retreat in order of battle by land (having first set fire on their navy) the nearest way unto some amicable place, either barbarian or Grecian, that they should best be able to reach unto before the enemy.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>As they had concluded, so they did.</seg>
+<seg/></p><p><seg>As they had concluded, so they did.</seg>
 <seg>For they both came down to the shore from their camp above and also manned every galley they had and compelled to go aboard every man of age of any ability whatsoever.</seg>
 
 <milestone unit="section" n="4"/>
@@ -13551,7 +13550,7 @@ thence to Catana.</item> <item><p>From thence Alcibiades is sent for home to mak
 <seg>And they all yielded, to the number of six thousand men;</seg>
 <seg>and the silver they had, they laid it all down, casting it into the hollow of targets, and filled with the same four targets.</seg>
 <seg>And these men they carried presently into the city.</seg>
-<seg></seg></p><p><seg>Nicias, and those that were with him, attained the same day to the river Erineus, which passing, he caused his army to sit down upon a certain ground more elevate than the rest. </seg></p><p><milestone unit="chapter" n="83"/>
+<seg/></p><p><seg>Nicias, and those that were with him, attained the same day to the river Erineus, which passing, he caused his army to sit down upon a certain ground more elevate than the rest. </seg></p><p><milestone unit="chapter" n="83"/>
 
 <milestone unit="section" n="1"/>
 <seg>Where the Syracusians the next day overtook and told him, that those with Demosthenes had yielded themselves, and willed him to do the like.</seg>
@@ -13903,18 +13902,18 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>The Athenians following them at the heels with nineteen galleys, being shut out by the Milesians, lay at anchor at Lada, an island over against the city.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>Presently upon the revolt of Miletus was made the first league between the king and the Lacedaemonians by Tissaphernes and Chalcideus, as followeth: </seg></p><p><milestone unit="chapter" n="18"/>
+<seg/></p><p><seg>Presently upon the revolt of Miletus was made the first league between the king and the Lacedaemonians by Tissaphernes and Chalcideus, as followeth: </seg></p><p><milestone unit="chapter" n="18"/>
 
 <milestone unit="section" n="1"/>
 <seg>"The Lacedaemonians and their confederates have made a league with the king and Tissaphernes on these articles: </seg></p><p><seg>"Whatsoever territory or cities the king possesseth and his ancestors have possessed, the same are to remain the king's.</seg>
-<seg></seg></p><p><seg>"Whatsoever money or other profit redounded to the Athenians from their cities, the king and the Lacedaemonians are jointly to hinder, so as the Athenians may receive nothing from thence, neither money nor other thing.</seg>
+<seg/></p><p><seg>"Whatsoever money or other profit redounded to the Athenians from their cities, the king and the Lacedaemonians are jointly to hinder, so as the Athenians may receive nothing from thence, neither money nor other thing.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"The king and the Lacedaemonians and their confederates are to make joint war against the Athenians.</seg>
+<seg/></p><p><seg>"The king and the Lacedaemonians and their confederates are to make joint war against the Athenians.</seg>
 <seg>And without consent of both parts it shall not be lawful to lay down the war against the Athenians, neither for the king nor for the Lacedaemonians and their confederates.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>If any shall revolt from the king, they shall be enemies to the Lacedaemonians and their confederates;</seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>If any shall revolt from the king, they shall be enemies to the Lacedaemonians and their confederates;</seg>
 <seg>and if any shall revolt from the Lacedaemonians and their confederates, they shall in like manner be enemies to the king.</seg></q> </seg></p><p><milestone unit="chapter" n="19"/>
 
 <milestone unit="section" n="1"/>
@@ -13988,7 +13987,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>But the Milesians pulled down the trophy, as erected where the Athenians were not masters.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>Leon and Diomedon, with the Athenian galleys that were at Lesbos, made war upon the Chians by sea from the isles called Oenussae, which lie before Chios, and from Sidussa and Pteleum (forts they held in Erythraea), and from Lesbos.</seg>
+<seg/></p><p><seg>Leon and Diomedon, with the Athenian galleys that were at Lesbos, made war upon the Chians by sea from the isles called Oenussae, which lie before Chios, and from Sidussa and Pteleum (forts they held in Erythraea), and from Lesbos.</seg>
 <seg>They that were aboard were men of arms of the roll, compelled to serve in the fleet.</seg>
 <seg>With these they landed at Cardamyle;</seg>
 
@@ -14006,7 +14005,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>And if through human misreckoning they miscarried in aught, they erred with many others, who in like manner had an opinion that the state of the Athenians would quickly have been overthrown.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>Being therefore shut up by sea, and having their lands spoiled, some within undertook to make the city return unto the Athenians.</seg>
+<seg/></p><p><seg>Being therefore shut up by sea, and having their lands spoiled, some within undertook to make the city return unto the Athenians.</seg>
 <seg>Which though the magistrates perceived, yet they themselves stirred not;</seg>
 <seg>but having received Astyochus into the city with four galleys that were with him from Erythraea, they took advice together, how by taking hostages, or some other gentle way, to make them give over the conspiracy.</seg>
 <seg>Thus stood the business with the Chians. </seg></p><p><milestone unit="chapter" n="25"/>
@@ -14132,7 +14131,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>Besides those forces he brought over with him, he had the soldiers which were of the five galleys that came thither with Chalcideus and were left there, to the number of five hundred, and armour to arm them.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Now some of the Lesbians having promised to revolt, Astyochus communicated the matter with Pedaritus and the Chians, alleging how meet it would be to go with a fleet and make Lesbos to revolt, for that they should either get more confederates, or failing, they should at least weaken the Athenians.</seg>
+<seg/></p><p><seg>Now some of the Lesbians having promised to revolt, Astyochus communicated the matter with Pedaritus and the Chians, alleging how meet it would be to go with a fleet and make Lesbos to revolt, for that they should either get more confederates, or failing, they should at least weaken the Athenians.</seg>
 <seg>But they gave him no ear;</seg>
 <seg>and for the Chian galleys, Pedaritus told him [plainly] he should have none of them. </seg></p><p><milestone unit="chapter" n="33"/>
 
@@ -14140,7 +14139,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>Whereupon Astyochus, taking with him five galleys of Corinth, a sixth of Megara, one of Hermione, and those of Laconia which he brought with him, went towards Miletus to his charge, mightily threatening the Chians, in case they should need him, not to help them.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>When he was come to Corycus in Erythraea, he stayed there.</seg>
+<seg/></p><p><seg>When he was come to Corycus in Erythraea, he stayed there.</seg>
 <seg>And the Athenians from Samos lay on the other side of the point, the one not knowing that the other was so near.</seg>
 
 <milestone unit="section" n="3"/>
@@ -14189,27 +14188,27 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>"The agreement of the Lacedaemonians and their confederates with king Darius and his children and with Tissaphernes for league and amity according to the articles following:</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"Whatsoever territories and cities do belong unto king Darius, or were his father's or his ancestors', against these shall neither the Lacedaemonians go to make war nor any way to annoy them;</seg>
+<seg/></p><p><seg>"Whatsoever territories and cities do belong unto king Darius, or were his father's or his ancestors', against these shall neither the Lacedaemonians go to make war nor any way to annoy them;</seg>
 <seg>neither shall the Lacedaemonians nor their confederates exact tribute of any of those cities.</seg>
 <seg>Neither shall king Darius, nor any under his dominion, make war upon or any way annoy the Lacedaemonians or any of the Lacedaemonian confederates.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>"If the Lacedaemonians or their confederates shall need anything of the king, or the king of the Lacedaemonians or their confederates, what they shall persuade each other to do, if they do it, shall be good.</seg>
+<seg/></p><p><seg>"If the Lacedaemonians or their confederates shall need anything of the king, or the king of the Lacedaemonians or their confederates, what they shall persuade each other to do, if they do it, shall be good.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>"They shall both of them make war jointly against the Athenians and their confederates;</seg>
+<seg/></p><p><seg>"They shall both of them make war jointly against the Athenians and their confederates;</seg>
 <seg>and when they shall give over the war, they shall also do it jointly.</seg>
-<seg></seg></p><p><seg>"Whatsoever army shall be in the king's country, sent for by the king, the king shall defray.</seg>
+<seg/></p><p><seg>"Whatsoever army shall be in the king's country, sent for by the king, the king shall defray.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>If any of the cities comprehended in the league made with the king shall invade the king's territories, the rest shall oppose them and defend the king to the utmost of their power.</seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>If any of the cities comprehended in the league made with the king shall invade the king's territories, the rest shall oppose them and defend the king to the utmost of their power.</seg>
 <seg>If any city of the king's, or under his dominion, shall invade the Lacedaemonians or their confederates, the king shall make opposition and defend them to the utmost of his power.</seg></q> </seg></p><p><milestone unit="chapter" n="38"/>
 
 <milestone unit="section" n="1"/>
 <seg>After this accord made, Theramenes delivered his galleys into the hands of Astyochus and, putting to sea in a light-horseman, is no more seen.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The Athenians that were now come with their army from Lesbos to Chios, and were masters of the field and of the sea, fortified Delphinium, a place both strong to the landward, and that had also a harbour for shipping, and was not far from the city itself of Chios.</seg>
+<seg/></p><p><seg>The Athenians that were now come with their army from Lesbos to Chios, and were masters of the field and of the sea, fortified Delphinium, a place both strong to the landward, and that had also a harbour for shipping, and was not far from the city itself of Chios.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>And the Chians, as having been disheartened in divers former battles, and otherwise not only not mutually well affected but jealous one of another (for Tydeus and his accomplices had been put to death by Pedaritus for Atticism, and the rest of the city was kept in awe, but by force, and for a time), stirred not against them.</seg>
@@ -14272,7 +14271,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>But [a shower of] rain, together with the cloudiness of the sky, made his galleys to miss their course in the dark and disordered them.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The next morning, the fleet being scattered, the left wing was manifestly described by the Athenians, whilst the rest wandered yet about the island.</seg>
+<seg/></p><p><seg>The next morning, the fleet being scattered, the left wing was manifestly described by the Athenians, whilst the rest wandered yet about the island.</seg>
 <seg>And thereupon Charminus and the Athenians put forth against them with twenty galleys, supposing they had been the same galleys they were watching for from Caunus;</seg>
 
 <milestone unit="section" n="3"/>
@@ -14287,7 +14286,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>The Athenians, when they understood what had passed in this battle, went from Samos with their whole navy to Syme.</seg>
 <seg>But neither went they out against the navy in Cnidus, nor the navy there against them.</seg>
 <seg>Whereupon they took up the furniture of their galleys at Syme, and assaulted Loryma, a town in the continent, and so returned to Samos.</seg>
-<seg></seg></p><p><seg>The whole navy of the Peloponnesians, being at Cnidus, was [now] in repairing and refurnishing with such things as it wanted;</seg>
+<seg/></p><p><seg>The whole navy of the Peloponnesians, being at Cnidus, was [now] in repairing and refurnishing with such things as it wanted;</seg>
 
 <milestone unit="section" n="2"/>
 <seg>and withal those eleven Lacedaemonians conferred with Tissaphernes (for he also was present) touching such things as they disliked in the articles before agreed on, and concerning the war, how it might be carried for the future in the best and most advantageous manner for them both.</seg>
@@ -14360,7 +14359,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>He gave counsel therefore, first to wear them out both and then, when he had clipped, as near as he could, the wings of the Athenians, to dismiss the Peloponnesians out of his country.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>And Tissaphernes had a purpose to do accordingly, as far as by his actions can be conjectured.</seg>
+<seg/></p><p><seg>And Tissaphernes had a purpose to do accordingly, as far as by his actions can be conjectured.</seg>
 <seg>For hereupon he gave himself to believe Alcibiades as his best counsellor in these affairs, and neither paid the Peloponnesians their wages nor would suffer them to fight by sea;</seg>
 <seg>but pretending the coming of the Phoenician fleet, whereby they might afterwards fight with odds, he overthrew their proceedings and abated the vigour of their navy, before very puissant, and was in all things else more backward than he could possibly dissemble. </seg></p><p><milestone unit="chapter" n="47"/>
 
@@ -14381,7 +14380,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>And when they came back to Samos, they drew all such as were for their purpose into an oath of conspiracy with themselves, and to the multitude gave it out openly that if Alcibiades might be recalled and the people put from the government, the king would turn their friend and furnish them with money.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>Though the multitude were grieved with this proceeding for the present, yet for the great hope they had of the king's pay they stirred not.</seg>
+<seg/></p><p><seg>Though the multitude were grieved with this proceeding for the present, yet for the great hope they had of the king's pay they stirred not.</seg>
 <seg>But they that were setting up the oligarchy, when they had communicated thus much to the multitude, fell to consideration anew and with more of their complices of the things spoken by Alcibiades.</seg>
 
 <milestone unit="section" n="4"/>
@@ -14468,7 +14467,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>Now the cause why Pisander accused Phrynichus and said he had betrayed Iasus and Amorges was only this: he thought him a man unfit for the business now in hand with Alcibiades.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>Pisander, after he had gone about to all those combinations (which were in the city before for obtaining of places of judicature and of command), exhorting them to stand together and advise about deposing the democracy, and when he had dispatched the rest of his business so as there should be no more cause for him to stay there, took sea with those other ten to go to Tissaphernes. </seg></p><p><milestone unit="chapter" n="55"/>
+<seg/></p><p><seg>Pisander, after he had gone about to all those combinations (which were in the city before for obtaining of places of judicature and of command), exhorting them to stand together and advise about deposing the democracy, and when he had dispatched the rest of his business so as there should be no more cause for him to stay there, took sea with those other ten to go to Tissaphernes. </seg></p><p><milestone unit="chapter" n="55"/>
 
 <milestone unit="section" n="1"/>
 <seg>Leon and Diomedon, arriving the same winter at the Athenian fleet, made a voyage against Rhodes, and finding there the Peloponnesian galleys drawn up to land, disbarked and overcame in battle such of the Rhodians as made head, and then put to sea again and went to Chalce.</seg>
@@ -14476,7 +14475,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>For from thence they could better observe the Peloponnesian navy when it should put off from the land.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>In this while there arrived at Rhodes Xenophontidas, a Laconian, sent out of Chios from Pedaritus, to advertise them that the fortification of the Athenians there was now finished and that unless they came and relieved them with their whole fleet, the state of Chios must utterly be lost.</seg>
+<seg/></p><p><seg>In this while there arrived at Rhodes Xenophontidas, a Laconian, sent out of Chios from Pedaritus, to advertise them that the fortification of the Athenians there was now finished and that unless they came and relieved them with their whole fleet, the state of Chios must utterly be lost.</seg>
 <seg>And it was resolved to relieve them.</seg>
 
 <milestone unit="section" n="3"/>
@@ -14485,7 +14484,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="1"/>
 <seg>After this the Chians were besieged both by sea and land more narrowly, and great famine was in the city.</seg>
-<seg></seg></p><p><seg>Pisander, and the other Athenian ambassadors that went with him, when they came to Tissaphernes, began to confer about the agreement.</seg>
+<seg/></p><p><seg>Pisander, and the other Athenian ambassadors that went with him, when they came to Tissaphernes, began to confer about the agreement.</seg>
 
 <milestone unit="section" n="2"/>
 <seg>But Alcibiades (for he was not sure of Tissaphernes, because he stood in fear too much of the Peloponnesians, and had a purpose besides, as Alcibiades himself had taught him, to weaken both sides [yet more]), betook himself to this shift: that Tissaphernes should break off the treaty by making to the Athenians exorbitant demands.</seg>
@@ -14513,27 +14512,27 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>"In the thirteenth year of the reign of Darius, Alexippidas being ephor in Lacedaemon, agreement was made in the plain of Maeander between the Lacedaemonians and their confederates on one part and Tissaphernes and Hieramenes and the sons of Pharnaces on the other part concerning the affairs of the king and of the Lacedaemonians and their confederates.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>"That whatsoever country in Asia belongeth to the king shall be the king's still;</seg>
+<seg/></p><p><seg>"That whatsoever country in Asia belongeth to the king shall be the king's still;</seg>
 
 <milestone unit="section" n="3"/>
 <seg>and that concerning his own countries, it shall be lawful for the king to do whatsoever he shall think meet.</seg>
-<seg></seg></p><p><seg>"That the Lacedaemonians and their confederates shall not invade any the territories of the king to harm them;</seg>
+<seg/></p><p><seg>"That the Lacedaemonians and their confederates shall not invade any the territories of the king to harm them;</seg>
 
 <milestone unit="section" n="4"/>
 <seg>nor the king, the territories of the Lacedaemonians or their confederates.</seg>
-<seg></seg></p><p><seg>"If any of the Lacedaemonians or their confederates shall invade the king's country to do it hurt, the Lacedaemonians and their confederates shall oppose it;</seg>
+<seg/></p><p><seg>"If any of the Lacedaemonians or their confederates shall invade the king's country to do it hurt, the Lacedaemonians and their confederates shall oppose it;</seg>
 <seg>and if any of the king's country shall invade the Lacedaemonians or their confederates to do them hurt, the king shall oppose it.</seg>
 
 <milestone unit="section" n="5"/>
-<seg></seg></p><p><seg>"That Tissaphernes shall, according to the rates agreed on, maintain the present fleet till the king's fleet arrive.</seg>
+<seg/></p><p><seg>"That Tissaphernes shall, according to the rates agreed on, maintain the present fleet till the king's fleet arrive.</seg>
 
 <milestone unit="section" n="6"/>
-<seg></seg></p><p><seg>"That when the king's navy shall be come, the Lacedaemonians and their confederates shall maintain their own navy themselves, if they please;</seg>
+<seg/></p><p><seg>"That when the king's navy shall be come, the Lacedaemonians and their confederates shall maintain their own navy themselves, if they please;</seg>
 <seg>or if they will have Tissaphernes to maintain it, he shall do it;</seg>
 <seg>and that the Lacedaemonians and their confederates, at the end of the war, repay Tissaphernes whatsoever money they shall have received of him.</seg>
 
 <milestone unit="section" n="7"/>
-<seg></seg></p><p><seg><q direct="unspecified"><seg>When the king's galleys shall be arrived, both they and the galleys of the Lacedaemonians and their confederates shall make the war jointly, according as to Tissaphernes and the Lacedaemonians and their confederates shall seem good;</seg>
+<seg/></p><p><seg><q direct="unspecified"><seg>When the king's galleys shall be arrived, both they and the galleys of the Lacedaemonians and their confederates shall make the war jointly, according as to Tissaphernes and the Lacedaemonians and their confederates shall seem good;</seg>
 <seg>and if they will give over the war against the Athenians, they shall give it over in the same manner.</seg></q> </seg></p><p><milestone unit="chapter" n="59"/>
 
 <milestone unit="section" n="1"/>
@@ -14588,7 +14587,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="3"/>
 <seg>For it was about this time that the democracy was put down at Athens.</seg>
-<seg></seg></p><p><seg>For after that Pisander and his fellow-ambassadors that had been with Tissaphernes were come to Samos, they both assured their affairs yet better in the army and also provoked the principal men of the Samians to attempt with them the erecting of the oligarchy, though there were then an insurrection amongst them against the oligarchy.</seg>
+<seg/></p><p><seg>For after that Pisander and his fellow-ambassadors that had been with Tissaphernes were come to Samos, they both assured their affairs yet better in the army and also provoked the principal men of the Samians to attempt with them the erecting of the oligarchy, though there were then an insurrection amongst them against the oligarchy.</seg>
 
 <milestone unit="section" n="4"/>
 <seg>And withal the Athenians at Samos, in a conference amongst themselves, deliberated how, since Alcibiades would not, to let him alone;</seg>
@@ -14601,7 +14600,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="2"/>
 <seg>And they sent away Diotrephes to his charge, who was now about Chios, chosen to go governor of the cities upon Thrace.</seg>
-<seg></seg></p><p><seg>He, when he came to Thasos, deposed the people.</seg>
+<seg/></p><p><seg>He, when he came to Thasos, deposed the people.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>And within two months at most after he was gone, the Thasians fortified their city, as needing no longer an aristocracy with the Athenians but expecting liberty every day by the help of the Lacedaemonians.</seg>
@@ -14677,7 +14676,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="4"/>
 <seg>Also Theramenes, the son of Agnon, an able man both for elocution and understanding, was another of the principal of those that overthrew the democracy.</seg>
-<seg></seg></p><p><seg>So that it is no marvel if the business took effect, being by many and wise men conducted, though it were a hard one.</seg>
+<seg/></p><p><seg>So that it is no marvel if the business took effect, being by many and wise men conducted, though it were a hard one.</seg>
 <seg>For it went sore with the Athenian people, almost a hundred years after the expulsion of the tyrants, to be now deprived of their liberty, having not only not been subject to any, but also for the half of this time been inured to dominion over others. </seg></p><p><milestone unit="chapter" n="69"/>
 
 <milestone unit="section" n="1"/>
@@ -14696,7 +14695,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="1"/>
 <seg>And the rest of the citizens mutinied not, but rested quiet.</seg>
-<seg></seg></p><p><seg>The Four Hundred, being now entered into the councilhouse, created Prytanes amongst themselves by lot, and made their prayers and sacrifices to the gods, all that were before usual at the entrance upon the government.</seg>
+<seg/></p><p><seg>The Four Hundred, being now entered into the councilhouse, created Prytanes amongst themselves by lot, and made their prayers and sacrifices to the gods, all that were before usual at the entrance upon the government.</seg>
 
 <milestone unit="section" n="2"/>
 <seg>And afterwards receding far from that course which in the administration of the state was used by the people, saving that for Alcibiades' sake they recalled not the outlaws, in other things they governed the commonwealth imperiously, and not only slew some, though not many, such as they thought fit to be made away, and imprisoned some, and confined others to places abroad, but also sent heralds to Agis, king of the Lacedaemonians, who was then at Deceleia, signifying that they would come to composition with him, and that now he might better treat with them than he might before with the unconstant people. </seg></p><p><milestone unit="chapter" n="71"/>
@@ -14920,7 +14919,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="4"/>
 <seg>So Astyochus and Hermocrates and the Milesians went their way to Lacedaemon.</seg>
-<seg></seg></p><p><seg>Alcibiades by this time was come back from Tissaphernes to Samos. </seg></p><p><milestone unit="chapter" n="86"/>
+<seg/></p><p><seg>Alcibiades by this time was come back from Tissaphernes to Samos. </seg></p><p><milestone unit="chapter" n="86"/>
 
 <milestone unit="section" n="1"/>
 <seg>And those ambassadors of The Four Hundred, which had been sent out before to mollify and to inform those of Samos, came from Delos now whilst Alcibiades was present.</seg>
@@ -14953,7 +14952,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 
 <milestone unit="section" n="8"/>
 <seg>but if either part miscarry once, either this at Samos or the other at Athens, there would none be left for the enemy to compound withal.</seg>
-<seg></seg></p><p><seg>There chanced to be present also the ambassadors of the Argives, sent unto the popular faction of the Athenians in Samos to assist them.</seg>
+<seg/></p><p><seg>There chanced to be present also the ambassadors of the Argives, sent unto the popular faction of the Athenians in Samos to assist them.</seg>
 
 <milestone unit="section" n="9"/>
 <seg>These Alcibiades commended and appointed to be ready when they should be called for and so dismissed them.</seg>
@@ -14964,7 +14963,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>The same summer, Tissaphernes, at the time that the Peloponnesians were offended with him most, both for the going home of Alcibiades and divers other things, as now manifestly Atticizing, with purpose, as indeed it seemed, to clear himself to them concerning his accusations, made ready for his journey to Aspendus for the Phoenician fleet, and willed Lichas to go along with him, saying that he would substitute Tamos, his deputy lieutenant over the army, to pay the fleet whilst himself was absent.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>This matter is diversly reported, and it is hard to know with what purpose he went to Aspendus and yet brought not the fleet away with him.</seg>
+<seg/></p><p><seg>This matter is diversly reported, and it is hard to know with what purpose he went to Aspendus and yet brought not the fleet away with him.</seg>
 <seg>For it is known that one hundred and forty-seven sail of Phoenicians were come forward as far as Aspendus;</seg>
 
 <milestone unit="section" n="3"/>
@@ -14973,7 +14972,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>for which cause also Tamos, who had that charge, made no better but rather worse payment than himself.</seg>
 <seg>Others, that having brought the Phoenicians as far as Aspendus, he might dismiss them for money, for he never meant to use their service.</seg>
 <seg>Some again said it was because they exclaimed so against it at Lacedaemon, and that it might not be said he abused them, but that he went openly to a fleet really set out.</seg>
-<seg></seg></p><p><seg>For my own part, I think it most clear that it was to the end to consume and to balance the Grecians that he brought not those galleys in;</seg>
+<seg/></p><p><seg>For my own part, I think it most clear that it was to the end to consume and to balance the Grecians that he brought not those galleys in;</seg>
 
 <milestone unit="section" n="4"/>
 <seg>consuming them, in that he went thither and delayed the time;</seg>
@@ -15143,7 +15142,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>and so did so many of their galleys as got to Chalcis.</seg>
 
 <milestone unit="section" n="7"/>
-<seg></seg></p><p><seg>The Peloponnesians, after they had taken twenty-two Athenian galleys with the men, whereof some they slew and some they took prisoners, erected a trophy;</seg>
+<seg/></p><p><seg>The Peloponnesians, after they had taken twenty-two Athenian galleys with the men, whereof some they slew and some they took prisoners, erected a trophy;</seg>
 <seg>and not long after, having caused all Euboea to revolt save only Oreus, which the Athenians held with their own forces, they settled the rest of their business there. </seg></p><p><milestone unit="chapter" n="96"/>
 
 <milestone unit="section" n="1"/>
@@ -15179,7 +15178,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>And this was the first thing that after so many misfortunes past made the city again to raise her head.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>They decreed also the recalling of Alcibiades and those that were in exile with him, and sending to him and to the army at Samos, willed them to fall in hand with their business. </seg></p><p><milestone unit="chapter" n="98"/>
+<seg/></p><p><seg>They decreed also the recalling of Alcibiades and those that were in exile with him, and sending to him and to the army at Samos, willed them to fall in hand with their business. </seg></p><p><milestone unit="chapter" n="98"/>
 
 <milestone unit="section" n="1"/>
 <seg>In this change Pisander and Alexicles, and such as were with them, and they that had been principal in the oligarchy, immediately withdrew themselves to Deceleia.</seg>
@@ -15253,7 +15252,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>But seeing it would not yield, they went away to Abydos.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The Athenians, who had been deceived by their spies, and not imagining that the enemy's fleet could have gone by without their knowledge, and attended at leisure the assault of Eressos, when now they knew they were gone, immediately left Eressos and hasted to the defence of Hellespont.</seg>
+<seg/></p><p><seg>The Athenians, who had been deceived by their spies, and not imagining that the enemy's fleet could have gone by without their knowledge, and attended at leisure the assault of Eressos, when now they knew they were gone, immediately left Eressos and hasted to the defence of Hellespont.</seg>
 
 <milestone unit="section" n="3"/>
 <seg>By the way they took two galleys of the Peloponnesians that, having ventured into the main more boldly in following the enemy than the rest had done, chanced to light upon the fleet of the Athenians.</seg>
@@ -15266,7 +15265,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>The Peloponnesians also, when they saw this, brought out their fleet against them from Abydos.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>Being sure to fight, they drew out their fleets in length, the Athenians along the shore of Chersonnesus, beginning at Idacus and reaching as far as Arrhiana, threescore and six galleys;</seg>
+<seg/></p><p><seg>Being sure to fight, they drew out their fleets in length, the Athenians along the shore of Chersonnesus, beginning at Idacus and reaching as far as Arrhiana, threescore and six galleys;</seg>
 <seg>and the Peloponnesians, from Abydos to Dardanum, fourscore and six galleys.</seg>
 
 <milestone unit="section" n="3"/>
@@ -15276,7 +15275,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>and the rest of the commanders, every one the place assigned him.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>Now the Peloponnesians laboured to give the first onset and with their left wing to over-reach the right wing of the Athenians and keep them from going out, and to drive those in the middle to the shore which was near.</seg>
+<seg/></p><p><seg>Now the Peloponnesians laboured to give the first onset and with their left wing to over-reach the right wing of the Athenians and keep them from going out, and to drive those in the middle to the shore which was near.</seg>
 <seg>The Athenians, who perceived it, where the enemy went about to cut off their way out, put forth the same way that they did and outwent them;</seg>
 
 <milestone unit="section" n="5"/>
@@ -15308,7 +15307,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>Of their own they lost fifteen.</seg>
 
 <milestone unit="section" n="4"/>
-<seg></seg></p><p><seg>When they had set up a trophy in the promontory of Cynossema and taken up the wrecks and given truce to the enemies to fetch away the bodies of their dead, they presently sent away a galley with a messenger to carry news of the victory to Athens.</seg>
+<seg/></p><p><seg>When they had set up a trophy in the promontory of Cynossema and taken up the wrecks and given truce to the enemies to fetch away the bodies of their dead, they presently sent away a galley with a messenger to carry news of the victory to Athens.</seg>
 
 <milestone unit="section" n="5"/>
 <seg>The Athenians, upon the coming in of this galley hearing of their unexpected good fortune, were encouraged much after their loss in Euboea and after their sedition, and conceived that their estate might yet keep up if they plied the business courageously. </seg></p><p><milestone unit="chapter" n="107"/>
@@ -15319,7 +15318,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>Then coming to Cyzicus, being an open town, they brought it again into their own power and levied a sum of money amongst them.</seg>
 
 <milestone unit="section" n="2"/>
-<seg></seg></p><p><seg>The Peloponnesians in the meantime, going from Abydos to Elaeus, recovered as many of their galleys [formerly] taken as remained whole;</seg>
+<seg/></p><p><seg>The Peloponnesians in the meantime, going from Abydos to Elaeus, recovered as many of their galleys [formerly] taken as remained whole;</seg>
 <seg>the rest the Elaeusians [had] burnt.</seg>
 <seg>They also sent Hippocrates and Epicles into Euboea to fetch away the fleet that was there. </seg></p><p><milestone unit="chapter" n="108"/>
 
@@ -15331,7 +15330,7 @@ the recalling of Alcibiades by the army, and at length, by his countenance, the 
 <seg>Being now almost autumn, he returned to Samos.</seg>
 
 <milestone unit="section" n="3"/>
-<seg></seg></p><p><seg>The Peloponnesians being now in Hellespont, the Antandrians (who are Aeolians) received into the city men of arms from Abydos by land through mount Ida, upon injury that had been done them by Arsaces, a deputy lieutenant of Tissaphernes.</seg>
+<seg/></p><p><seg>The Peloponnesians being now in Hellespont, the Antandrians (who are Aeolians) received into the city men of arms from Abydos by land through mount Ida, upon injury that had been done them by Arsaces, a deputy lieutenant of Tissaphernes.</seg>
 
 <milestone unit="section" n="4"/>
 <seg>This Arsaces, having feigned a certain war, not declared against whom, had formerly called out the chiefest of the Delians (the which in hallowing of Delos by the Athenians were turned out and had planted themselves in Adramyttium) to go with him to this war;</seg>

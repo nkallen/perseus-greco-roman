@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader>
@@ -12096,7 +12096,7 @@ katathko/menai au)/cousin au)tw=| to\ u(/dwr e)pi\ me/ga.
 o(/ti de\ e)pipolh=s e)stin au)tw=| kai\ u(yhlo\s o( r(ou=s, u(perba/llei
 e)s th\n xw/ran, ei) mh/ tis a)nastomw/sas au)to\n
 kata\ to\n *pollako/pan e)s ta\ e(/lh te e)ktre/yeie kai\ ta\s li/mnas, ai(\ dh\ a)rxo/menai a)po\ tau/ths th=s diw/ruxos
-<add>dih/kousin</add>> e)/ste e)pi\ th\n cunexh= th=| *)ara/bwn gh=|, kai\
+<add>dih/kousin</add>&gt; e)/ste e)pi\ th\n cunexh= th=| *)ara/bwn gh=|, kai\
 e)/nqen me\n e)s te/nagos e)pi\ polu/, e)k de\ tou= e)s qa/lassan
 kata\ polla/ te kai\ a)fanh= sto/mata e)kdi/dwsi.
 

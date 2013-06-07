@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd" >
-%PersDrama;
+<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -288,7 +287,7 @@ now they all parse, and the scenes are correctly identified
 <sp><speaker>LYSIMACHUS</speaker><p> Do you go hence to my country-house, and take care and deliver personally into his own hands those rakes to the bailiff Pistus himself. Take care and tell my wife that I have business in the city, so that she mayn't expect me; for do you mention that I have three causes coming on for judgment to-day. Be off, and remember to say this.</p></sp>
 <sp><speaker>SERV.</speaker><p> Anything more?</p></sp>
 <sp><speaker>LYSIMACHUS</speaker><p> That's enough. <stage>(Exit)</stage></p></sp>
-<sp><speaker>SERVANT.</speaker><p></p></sp>
+<sp><speaker>SERVANT.</speaker><p/></sp>
 <sp><speaker>DEMIPHO</speaker><p> <stage>Stepping forward</stage>. Greetings to you, Lysimachus.</p></sp>
 <sp><speaker>LYSIMACHUS</speaker><p> Well met! and greetings to you, Demipho. How are you? How goes it?</p></sp>
 <sp><speaker>DEMIPHO</speaker><p> As with one that's most wretched<milestone n="282" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">As with one that's most wretched</lemma>:  "Quod miserrimus" Literally 'what a very wretched person does."</note>.</p></sp>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -72,8 +71,7 @@
                 alone; before company he is dumb. You see lie swore in the Senate that he beheld
                 Drusilla mounting heavenwards, and all he got for his good news was that everybody
                 gave him the lie: since when he solemnly swears he will never bear witness again to
-                what he has seen, not even if he had seen a man murdered in open market. What<pb
-                    id="p.373"/> he told me I report plain and clear, as I hope for his health and
+                what he has seen, not even if he had seen a man murdered in open market. What<pb id="p.373"/> he told me I report plain and clear, as I hope for his health and
                     happiness.<quote rend="blockquote">
                     <milestone unit="section" n="2"/>
                     <l>Now had the sun with shorter course drawn in his risen light,</l>
@@ -159,8 +157,7 @@
                 </quote> At once he bubbled up the ghost, and there was an end to that shadow of a
                 life. He was listening to a troupe of comedians when he died, so you see I have
                 reason to fear those gentry. The last words he was heard to speak in this world were
-                these. When he had made a great noise with that part of him which talked<pb
-                    id="p.381"/> easiest, he cried out, <quote>Oh dear, oh dear! I think I have made
+                these. When he had made a great noise with that part of him which talked<pb id="p.381"/> easiest, he cried out, <quote>Oh dear, oh dear! I think I have made
                     a mess of myself.</quote> Whether he did or no, I cannot say, but certain it is
                 he always did make a mess of everything.</p>
             <p><milestone unit="section" n="5"/>What happened next on earth it is mere waste of time
@@ -218,8 +215,7 @@
                         iron.<note>A proverb, found also in Herondas iii, 76: apparently fairyland,
                         the land of Nowhere.</note> Out with the truth, and look sharp, or I'll
                     knock your quips and quiddities out of you.</quote> Then to make himself all the
-                more awful, he strikes an attitude and proceeds in his most tragic vein:<quote
-                    rend="blockquote">
+                more awful, he strikes an attitude and proceeds in his most tragic vein:<quote rend="blockquote">
                     <l>"Declare with speed what spot you claim by birth,</l>
                     <l>Or with this club fall stricken to the earth!</l>
                     <l>This club hath oft times slaughtered haughty kings!</l>
@@ -239,12 +235,10 @@
                 </quote> These lines he delivered with much spirit and a bold front. All the same,
                 he was not quite master of his<pb id="p.387"/> wits, and had some fear of a blow
                 from the fool.<note>A parody of the phrase, <foreign lang="greek">qeou=
-                    plhgh/,</foreign> god's blow, or as in Apostolius viii, 89, c, <foreign
-                        lang="greek">qeou= de/ plhgh\n ou)x u(perphda=| broto/s</foreign> (from
+                    plhgh/,</foreign> god's blow, or as in Apostolius viii, 89, c, <foreign lang="greek">qeou= de/ plhgh\n ou)x u(perphda=| broto/s</foreign> (from
                     Menander): no mortal can escape god's blow.</note> Claudius, seeing a mighty man
                 before him, forgot his trifling and understood that here he had not quite the same
-                pre-eminence as at Rome, where no one was his equal: the Gallic cock<note><hi
-                        rend="italics">Gallum</hi> means both Gaul and cock; the proverb plays on
+                pre-eminence as at Rome, where no one was his equal: the Gallic cock<note><hi rend="italics">Gallum</hi> means both Gaul and cock; the proverb plays on
                     his birthplace.</note> was worth most on his own dunghill. So this is what he
                 was thought to say, as far as could be made out: <quote>I did hope, Hercules,
                     bravest of all the gods, that you would take my part with the rest, and if I
@@ -362,8 +356,7 @@
                 your own) you will be fair. Come tell me, blessed Claudius, why of all those you
                 killed, both men and women, without a hearing, why you did not hear their side of
                 the case first, before putting them to death? Where do we find that custom? It is
-                not done in heaven. Look at Jupiter: all these years he has been king,<milestone
-                    unit="section" n="11"/> and never did more than once to break Vulcan's
+                not done in heaven. Look at Jupiter: all these years he has been king,<milestone unit="section" n="11"/> and never did more than once to break Vulcan's
                     leg,<quote rend="blockquote">
                     <l>Whom seizing by the foot he cast from the threshold of the sky,'</l>
                 </quote><note place="marg">Iliad i, 591</note> and once he fell in a rage with his wife and
@@ -390,8 +383,7 @@
                     Olympus within thirty hours.</quote></p>
             <p>A division was taken upon this without further debate. Not a moment was lost: Mercury
                 got a grip of his throat, and haled him to the lower regions, to that bourne from
-                which they say no traveller returns."<milestone unit="section" n="12"
-                    /><note>Catullus iii, 12.</note> As they passed downwards along the Sacred Way,
+                which they say no traveller returns."<milestone unit="section" n="12"/><note>Catullus iii, 12.</note> As they passed downwards along the Sacred Way,
                 Mercury asked what was that great concourse of men? could it be Claudius' funeral?
                 It was certainly a most gorgeous spectacle, got up regardless of expense, clear it
                 was that a god was being borne to the grave: tootling of flutes, roaring of horns,
@@ -454,8 +446,7 @@
                 In a loud voice he cried, <quote>Claudius is coming!</quote> All marched before him
                 singing, <quote>The lost is found, O let us rejoice together!</quote><note>With a
                     slight change, a cry used in the worship of Osiris.</note> Here were found C.
-                Silius consul elect, Juncus the ex-praetor, Sextus Traulus, M. Helvius,<pb
-                    id="p.403"/> Trogus, Cotta, Vettius Valens, Fabius, Roman Knights whom Narcissus
+                Silius consul elect, Juncus the ex-praetor, Sextus Traulus, M. Helvius,<pb id="p.403"/> Trogus, Cotta, Vettius Valens, Fabius, Roman Knights whom Narcissus
                 had ordered for execution. In the midst of this chanting company was Mnester the
                 mime, whom Claudius for honour's sake had made shorter by a head. The news was soon
                 blown about that Claudius had come: to Messalina they throng: first his freedmen,

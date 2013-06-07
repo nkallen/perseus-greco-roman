@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2> 
 	<teiHeader> 
@@ -105,8 +104,7 @@
 									editors, however, refers to any authority for this expression, which appears to me quaint
 									and unnatural--"but if the dread of a paroxysm be at hand." I prefer 
 								<foreign lang="greek">H)/DH</foreign> on the authority of many parallel passages, as for
-									example--<foreign lang="greek">PLHSI/ON DE\ H)/DH TOU= FRENI/ZEIN O)/NTES</foreign>, Galen, <hi
-										rend="ital">de loc. affect.</hi> iii.;  <foreign lang="greek">E)NSTA/NTOS DE\ H)/DH TOU= SUMPTW/MATOS</foreign>, 
+									example--<foreign lang="greek">PLHSI/ON DE\ H)/DH TOU= FRENI/ZEIN O)/NTES</foreign>, Galen, <hi rend="ital">de loc. affect.</hi> iii.;  <foreign lang="greek">E)NSTA/NTOS DE\ H)/DH TOU= SUMPTW/MATOS</foreign>, 
 								P. Æ. iii. 5, in the chapter on epilepsy. Ermerins very properly restores it, in
 									another passage of our author, where <foreign lang="greek">H(/DE</foreign> had been
 										substituted for it (Sympt. diut. morb. i. 9). Indeed <foreign lang="greek">H)/DH</foreign>, in
@@ -215,8 +213,7 @@
 							STO/MA KAI\ *R(I=NA, SU\N U(GRW=| DE\ TO\
 							PNEU=MA, A)/NESIS DH\ TH=S PRO/SQEN PNI/CIOS A(PA/NTWN
 							E)/OIKE. A)FRO\N DE\ A)POPTU/OUSI W(/SPER E)PI\ TOI=SI MEGA/LOISI
-							PNEU/MASI H( QA/LASSA TH\N A)/XNHN</foreign>·<note>Homer, Iliad. iv. 421, <hi
-								rend="ital">et seq.</hi></note> <foreign lang="greek">EU)=TE KAI\ E)CANI/STANTAI DH=QEN W(S
+							PNEU/MASI H( QA/LASSA TH\N A)/XNHN</foreign>·<note>Homer, Iliad. iv. 421, <hi rend="ital">et seq.</hi></note> <foreign lang="greek">EU)=TE KAI\ E)CANI/STANTAI DH=QEN W(S
 							TELEUTH/SAN TOS TOU= KAKOU=· E)PI\ DE\ TH=| A)POPAU/SI NWQROI\ TA\ ME/LEA TA\ PRW=TA, 
 							KARHBARIKOI\,  DIALELUME/NOI,
 							PA/RETOI , W)XROI\,
@@ -260,8 +257,7 @@
 							PA/SXOUSI, MA=LLON DE\ QNH/SKOUSI, 
 							A)KMA/ZONTES H(/KISTA· GE/RONTES DE\ PA/NTWN MA=LLON KAI\ PA/SXOUSI KAI\ QNH/SKOU
 							SI. AI)TI/H GA\R YU/CIS KAI\ CHRO/THS</foreign></p>
-						<pb
-							n="8"/> <p><foreign lang="greek">GH/RAOS, KAI\ QANA/TOU H(/DE
+						<pb n="8"/> <p><foreign lang="greek">GH/RAOS, KAI\ QANA/TOU H(/DE
 								FU/SIS</foreign>.<note> The common reading is  <foreign lang="greek">QANA/TOU H(
 									FU/SIS</foreign>, to which Ermerins adds <foreign lang="greek">H(/DE</foreign>, which I
 										have substituted for <foreign lang="greek">H(</foreign>, so as to produce a suitable reading
@@ -305,8 +301,7 @@
 							E)PIKROU/OIS,  E)NHXOU=N · XEI=RES E)N E)KTA/SI</foreign></p>
 						
 						<pb n="9"/> <p><foreign lang="greek">KATO/PIN KEKLASME/NAI, 
-							SKE/LEA CUGKEKAMME/NA· E)NANTI/WS GA\R I)GNU/H| KATO/PIN</foreign><note
-								n="3"> The common reading, <foreign lang="greek">KAKO/N TI</foreign>, is obviously at fault.
+							SKE/LEA CUGKEKAMME/NA· E)NANTI/WS GA\R I)GNU/H| KATO/PIN</foreign><note n="3"> The common reading, <foreign lang="greek">KAKO/N TI</foreign>, is obviously at fault.
 									The present reading is adopted by Ermerins, only using 
 								<foreign lang="greek">I)GNU/H|</foreign> in place of <foreign lang="greek">I)GNU/H</foreign>. Still there
 									is something unsatisfactory in the text. <foreign lang="greek">*)IGNU\S</foreign> and
@@ -442,8 +437,7 @@
 							KAI\ I)HTRO\S DE\ A)GAQO\S H)\ SIKU/H| EI)S TO\N QW/RHKA TO\ KAKO\N A)NH/GAGE,
 							H)\ SI/NHPI E)S TA\ STE/RNA KAI\ E)S TA\ PARA\ GNA/QOUS ME/REA E)PIQEI\S,
 							EI(/LKUSE E)/CW KAI\ DIE/PNEUSE· METECETE/ROISI DE\ E)S ME\N BRAXU\ TO\ KAKO\N U(PO\
-							TOUTE/WN A)PELA/QH E)/CW, A)PETAQE\N</foreign><note
-								n="2"> Ermerins has substituted the two words above for <foreign lang="greek">A)PETA/QH</foreign>
+							TOUTE/WN A)PELA/QH E)/CW, A)PETAQE\N</foreign><note n="2"> Ermerins has substituted the two words above for <foreign lang="greek">A)PETA/QH</foreign>
 								 and  <foreign lang="greek">A)POLUQE\N</foreign>, which have no proper
 									signification in this place. It must be admitted, that although some improvement, the
 									substituted terms are not quite suitable; as it can scarcely be said, that an internal disease is
@@ -503,8 +497,7 @@
 							STAFULH\ DE\ NE/OISI KAI\ A)KMA/ZOUSI· POLU/AIMOI GA\R KAI\ E)PIFLEGMAI/NEI
 							MA=LLON.  H(BA/SKOUSI DE\ KAI\ PAISI\ TA\ U(MENW/DEA.
 							TA/MNEIN DE\ PA/NTA A)SINE/A· E)PI\ DE\ TH=| STAFULH=| E)/TI E)RUQRIW/SH|,
-							AI(MORRAGI/H KAI\ PO/NOI KAI\ FLEGMON H=S E)PI/DOSIS.</foreign><note
-								n="1"> Hippocrates, Aphor. iii. 6. We are indebted to Ermerins for changing 
+							AI(MORRAGI/H KAI\ PO/NOI KAI\ FLEGMON H=S E)PI/DOSIS.</foreign><note n="1"> Hippocrates, Aphor. iii. 6. We are indebted to Ermerins for changing 
 								<foreign lang="greek">E)RUQRIW=SI</foreign> into  <foreign lang="greek">E)RUQRIW/SH|</foreign>.
 							</note></p>
 						<pb n="14"/> 
@@ -572,8 +565,7 @@
 							*NEI=LOS, DRIMU\ DE\ TO\ A)PO\ TW=N KRIQE/WN TO\ TW=N BRUTE/WN
 							PO/MA.</foreign><note>Ermerins suppresses the words <foreign lang="greek">A)PO\
 								TW=N KRIQE/WN</foreign>; but this seems an unwarrantable liberty. By a small alteration I
-									have made, the text becomes sufficiently amended. On the ancient <hi
-										rend="ital">Zythi,</hi> see Appendix to the Edinburgh Greek Lexicon.</note> 
+									have made, the text becomes sufficiently amended. On the ancient <hi rend="ital">Zythi,</hi> see Appendix to the Edinburgh Greek Lexicon.</note> 
 							<foreign lang="greek">TI/KTEI DE\ KAI\ H( *SURI/H,  MA/LISTA KOI/LH· O(/QEN
 							*AI)GU/PTIA KAI\ *SURIAKA\ E(/LKEA TA/DE KIKLH/SKOUSI.</foreign></p>
 						<p>
@@ -621,8 +613,7 @@
 							E(WUTE/OU O( U(MH/N· EI)S TO\ E)PE/KEINA DE\ E)PW/DUNOS · U(PO\ GA\R TOU= A)/XQEOS KAI\ TH=S FLEGMON H=S KAI\ TH=S
 							E)CARTH/SIOS A)POTE/TATAI H( O)DU/NH A)/XRI TH=S A(PA/SHS CUNAFI/HS TOU= U(ME/NOS E)S W)/MOUS KAI\ KLHI/+DAS
 							,  METECETE/ROISI DE\ KAI\ E)S NW=TA KAI\ E)S W)MOPLA/THN.
-							NWTIAI/HN TH\N DE\ PLEURI=TIN E)KA/LEON OI( PRO/SQEN.</foreign><note
-								n="1">Hippocrat. de Morbis, iii. 16, t. vii. p. 144, ed. Littr・</note> 
+							NWTIAI/HN TH\N DE\ PLEURI=TIN E)KA/LEON OI( PRO/SQEN.</foreign><note n="1">Hippocrat. de Morbis, iii. 16, t. vii. p. 144, ed. Littr・</note> 
 							<foreign lang="greek">PARE/PETAI DE\ DU/SPNOIA,  A)GRUPNI/H, 
 							A)POSITI/H, MH/LWN E)RU/QHMA FAIDRO\N,
 							BH\C CHRH\, PTU/ELA MO/LIS A)NAGO/MENA, 
@@ -819,7 +810,7 @@
 							TOU)/NOMA E)/XOUSA.</foreign><note>Wigan is not satisfied with 
 								<foreign lang="greek">TH=S O(DOU=</foreign>; and Ermerins does not hesitate to expunge these
 									words, as being a gloss on the text. Instead of doing this, I should rather be disposed to
-									read, <foreign lang="greek">TH=S E)CO/DOU</foreign>.</note ></p>
+									read, <foreign lang="greek">TH=S E)CO/DOU</foreign>.</note></p>
 						<p>
 							<foreign lang="greek">*SHMEI=A D' A)MFOI=N TA\ ME\N CUNA\ SMIKRA\ KAI\ PAU=RA, 
 							O(KO/SON KAI\ TO\ XWRI/ON, E)/NQA KAI\ A)NAGWGH=S KAI\
@@ -1026,8 +1017,7 @@
 							AI(MORRAGI/H| QNH/SKOUSI W)/KISTA. A)LLA\ TO/DE ME\N
 							OU) ME/GA TO\ QW/U+MA. QW/U+MA DE\ ME/GA TO/DE. 
 							E)PI\ GA\R TH=| A)PO\ PNEU/MONOS FORH=| MOU/NH| XALEPWTA/ TH| E)OU/SH|</foreign></p>
-						<pb
-							n="29"/> <p><foreign lang="greek">OU)K A)POGIGNW/SKOUSI E(WUTW=N OI( A)/NQRWPOI,
+						<pb n="29"/> <p><foreign lang="greek">OU)K A)POGIGNW/SKOUSI E(WUTW=N OI( A)/NQRWPOI,
 								KH)\N E)N TW=| E)SXA/TW| E)/WSI. DOKE/W DE\ E)/GWGE
 								TH\N TOU= PNEU/MONOS A)PONI/HN AI)TI/HN E)/MMENAI · PO/NOS GA\R KH)\N SMIKRO\S E)/H|, 
 								QA/NATON O)RRWDE/EI· KAI\ E)/STI E)N TOI=SI PLEI/STOISI FOBERW/TEROS H)\ KAKI/WN· A)PONI/H
@@ -1163,8 +1153,7 @@
 							A)TMO\S A)NA\ *R(I=NAS POULU\S, A)/DIYOI, 
 							E)CH/RANTAI GA\R TA/ T' A)/LLA, 
 							A)TA\R KAI\ TA\ A)/LLA DIYALE/A O)/RGANA, 
-							STO/MA,  STO/MAXOS·</foreign><note
-								n="1">Ermerins transposes all this clause, <foreign lang="greek">E)CH/RANTAI.
+							STO/MA,  STO/MAXOS·</foreign><note n="1">Ermerins transposes all this clause, <foreign lang="greek">E)CH/RANTAI.
 								..... STO/MAXOS</foreign>, to the beginning of the chapter, after
 								<foreign lang="greek">DE/RMATOS</foreign>. I find difficulty in reconciling myself to this
 									change; indeed, in either place, the meaning of these words is not clear.</note> 
@@ -1203,8 +1192,7 @@
 								<foreign lang="greek">W(S</foreign>, and a little transposition, I flatter myself that I have greatly
 									improved the text. Petit proposes to read <foreign lang="greek">I)LUW/DESI U(GROI=SI</foreign>, but without
 										referring to any medical authority for such an expression. In
-										illustration of the general meaning of this sentence, see an important passage on the <hi
-											rend="ital">Pneuma,</hi> below. Therap. I. i.</note> <foreign lang="greek">E)PEI\ DE\ TA/DE
+										illustration of the general meaning of this sentence, see an important passage on the <hi rend="ital">Pneuma,</hi> below. Therap. I. i.</note> <foreign lang="greek">E)PEI\ DE\ TA/DE
 							E)CH/NTLHSE H( NOU=SOS, KAI\ A)PO\ TW=N O)FQALMW=N TH\N A)XLU\NE(/LE,
 							O(RE/OUSI TA/ TE E)N TW=| H)E/RI, 
 							KAI\ GUMNH=| TH=| YUXH=| GI/GNONTAI MA/NTIES A)TREKE/ES· OI( DE\ E)S TOSO/NDE LEPTO/THTOS U(GRW=N
@@ -1236,8 +1224,7 @@
 							A)/KREA YUXRA\, KAI\ TO\ O(/LON *R(IGW/DEES.</foreign>
 						</p>
 						<pb n="34"/> <p><foreign lang="greek">*)\HN DE\ E)S TELEUTH\N H(/KH| TO\
-							KAKO\N, A)TA\R I(DROI= W(/NQRWPOS,</foreign><note
-								n="1">Ermerins places the words <foreign lang="greek">A)TA\R I(DROI= W(/NQRWPOS</foreign>
+							KAKO\N, A)TA\R I(DROI= W(/NQRWPOS,</foreign><note n="1">Ermerins places the words <foreign lang="greek">A)TA\R I(DROI= W(/NQRWPOS</foreign>
 								after  <foreign lang="greek">*R(IGW/DEES</foreign>, but the necessity for this change is not
 									very clear.</note> <foreign lang="greek">XOLH\ ME/LAINA A)/NW KAI\ KA/TW. 
 							OU)=RA SXEQEI=SA KU/STIS U(PO\ SPASMOU=· A)LL' OU)DE\ OU)=RON A(LI/ZETAI U(PO\ TH=S E)S TO\ E)/NTERON
@@ -1408,8 +1395,7 @@
 						<p><foreign lang="greek">*(OKO/SOI DE\ H)\ AI(MORRAGI/H|
 							, H)\ KOILI/HS TARA/XW| POLLOI=SI XOLW/DESI, 
 							H)\ OU)/ROISI A)KRH/TOISI SUXNOI=SI TO\N O)/LEQRON DIHLLA/CANTO,</foreign></p>
-						<pb
-							n="38"/> <p> <foreign lang="greek">TOUTE/OISI DE\ META\ TREI=S E(BDOMA/DAS E)S A)PO/STASIN PU/OU TO\
+						<pb n="38"/> <p> <foreign lang="greek">TOUTE/OISI DE\ META\ TREI=S E(BDOMA/DAS E)S A)PO/STASIN PU/OU TO\
 								H(=PAR TRE/PETAI · H)\N DE\ E)/TI POLLO\N U(PERBA/LLH| XRO/NON A)/NEU A)POSTA/SIOS, 
 								E)S U(/DRWPA A)/FUKTON TELEUTA=| · DIYALE/OI, 
 								BRAXUPO/TAI , CHROI\ TO\ SKH=NOS, 
@@ -1417,8 +1403,7 @@
 								A)/POIOS H( GEU=SIS.</foreign></p>
 						<p><foreign lang="greek">*TI/KTEI DE\
 							TO/DE TO\ PA/QOS FQINO/PWRON SU\N PLH/QOUS W(RAI/WN, KAI\ POIKI/LWN
-							A)PEYI/H· H(LIKI/H DE\, PASE/WN MA=LLON A)KMH/.</foreign><note
-								n="5">Ermerins reads <foreign lang="greek">A)KMAI/H</foreign>. But the common reading is
+							A)PEYI/H· H(LIKI/H DE\, PASE/WN MA=LLON A)KMH/.</foreign><note n="5">Ermerins reads <foreign lang="greek">A)KMAI/H</foreign>. But the common reading is
 									quite in accordance with the usage of our author, and is retained by Ermerins himself in
 									chap. x. of this book, near the end. It is, in short, an Attic anacoluthon, very common in the
 									works of that age, such as those of Ælian and Arrian.</note></p>
@@ -1493,8 +1478,7 @@
 							DRIMU\,  XOLW=DES · OU)=RA CANQA\,
 							DAKNW/DEA· TH\N GNW/MHN OU) PARA/FOROIME\N, 
 							NWQROI\ DE\ KAI\ MARASMW/DEES. EU)=TE O(KO/SOI TH/NDE
-							TH\N KATA/STASIN EI)=DON, KAU=SON E)KA/LEON.</foreign><note
-								n="3">Ermerins reads <foreign lang="greek">KAU/SOU I)DE/HN</foreign>, which, no doubt,
+							TH\N KATA/STASIN EI)=DON, KAU=SON E)KA/LEON.</foreign><note n="3">Ermerins reads <foreign lang="greek">KAU/SOU I)DE/HN</foreign>, which, no doubt,
 									makes very good sense; but the common reading appears quite satisfactory. It is but justice
 									to Ermerins to add, that he improves the next clause of the sentence very much by a change
 									in the punctuation.</note> <foreign lang="greek">KAI\ GA\R KAI\ TOU= GE/NOUS TOU= KAU/SOU TA\
@@ -1558,8 +1542,7 @@
 									kidneys. It would be superfluous to multiply references to passages in which Aretæus
 									applies <foreign lang="greek">SW=MA</foreign> to a particular part of the body. See Morb.
 										Diut. i. 10; Curat. Morb. Diut. i. 13; also Galen, De Locis Affectis, i.9. Indeed Aristotle
-										applies it expressly to the kidneys, in the sense of the fleshy part of the organ, or viscus, <hi
-											rend="ital">H. A.</hi> i. 17, 15. The meaning of the passage in question, therefore,
+										applies it expressly to the kidneys, in the sense of the fleshy part of the organ, or viscus, <hi rend="ital">H. A.</hi> i. 17, 15. The meaning of the passage in question, therefore,
 										evidently is, that "no mischief from sympathy arises in this case, owing to the peculiar
 										nature of the affected viscus itself, but the retention of the urine produces most horrible
 										mischief." Wigan translates the passage thus, -- "<foreign lang="la">reliqui corporis species, nullo affectus ex
@@ -1910,8 +1893,7 @@
 								A)/LOGOS</foreign>; but the obvious objection to this emendation is, that it does
 									not account for the omission of <foreign lang="greek">PO/NOS</foreign> in the common text.
 										On my own authority, I altered the passage as above; but I find that I had been anticipated
-										by Wigan in so far.</note> <foreign lang="greek">W(SPEREI/ TINOS PATA/CANTOS</foreign></p
-						> <pb n="53"/> <p><foreign lang="greek">CU/LW|· NAUTI/H, 
+										by Wigan in so far.</note> <foreign lang="greek">W(SPEREI/ TINOS PATA/CANTOS</foreign></p> <pb n="53"/> <p><foreign lang="greek">CU/LW|· NAUTI/H, 
 							E)/METOS XOLWDE/WN,  KATA/PTWSIS TOU= A)NQRW/POU ·
 							H)\N D' E)PITEI/NH| KOTE\ TO\ PA/QOS,  W(/NQRWPOS E)TELEU/THSE
 							. H)\N DE\ SMIKRO/TERONH)=|, 
@@ -1969,8 +1951,7 @@
 							H)\ MELA/NWN. EU)=TE E)PI\ ME\N CANQH=|
 							XOLH=|, MANI/AI GI/GNONTAI· E)PI\ DE\ TOI=SI ME/LASI,
 							MELAGXOLI/H · E)PI\ DE\ TW=| FLE/GMATI, H(
-							E)PILHYI/H. PASW=N GA\R H(/DE NOU/SWN TROPH/.</foreign><note
-								n="2">Ermerins finds great difficulty in explaining the exact meaning of the last sentence.
+							E)PILHYI/H. PASW=N GA\R H(/DE NOU/SWN TROPH/.</foreign><note n="2">Ermerins finds great difficulty in explaining the exact meaning of the last sentence.
 									He does not seem to have adverted that our author had in view 75, 76, 77, 78, 79, 80, of
 									the seventh section of the Aphorisms of Hippocrates. See the Commentary of Galen, and
 									the English edition, Syd. Soc. Ed. t. ii. p.773. I must say, however, that 
@@ -2205,9 +2186,7 @@
 							KAI\ QERA/PONTAS A)PE/KTEINAN, KAI\
 							E(WUTE/OISI XEI=RAS E)PH/NEGKAN· H(/DE KAI\ TOI=S PE/LAS OU)K A)KI/NDUNOS H( CUMFORH/ · I)DE/AI DE\
 							MURI/AI, TOI=SI ME/N GE EU)FUE/SITE KAI\</foreign></p>
-						<pb
-							n="60"/> <p> <foreign lang="greek">EU)MAQE/SI A)STRONOMI/H A)DI/DAKTOS</foreign>,<note
-								n="3">Though I have not meddled with the text, I am much inclined to think that the true
+						<pb n="60"/> <p> <foreign lang="greek">EU)MAQE/SI A)STRONOMI/H A)DI/DAKTOS</foreign>,<note n="3">Though I have not meddled with the text, I am much inclined to think that the true
 									reading would be <foreign lang="greek">A)UTODI/DAKTOS</foreign>. It occurs in Æschylus,
 										Agamem. 964. By the way, the example referred to by the Oxford lexicographers, to prove
 										that <foreign lang="greek">A)DI/DAKTOS</foreign> is sometimes used synonymously with
@@ -2312,8 +2291,7 @@
 							A)LL' A)POPLHCI/H ME\N O(/LOU TOU= SKH/NEOS,
 							KAI\ TH=S AI)SQH/SIO/S TE KAI\ GNW/MHS KAI\ KINH/SIO/S E)STI PARA/LUSIS. 
 							TOIGAROU=N A)POPLHCI/HN LU=SAI I)SXURH\N ME\N A)DU/NATON, 
-							A)SQENH= DE\ OU) *R(HI/+DION.</foreign><note
-								n="1">Hippocrat. Aph. ii. 42.</note>  <foreign lang="greek">PARAPLHGI/H DE\ PA/RESIS ME\N A(FH=S
+							A)SQENH= DE\ OU) *R(HI/+DION.</foreign><note n="1">Hippocrat. Aph. ii. 42.</note>  <foreign lang="greek">PARAPLHGI/H DE\ PA/RESIS ME\N A(FH=S
 							KAI\ KINH/SIOS, A)LLA\ ME/REOS, 
 							H)\ XEIRO\S, H)\ SKE/LEOS · PARA/LUSIS DE\ W(S E)PI/PAN
 							KINH/SIOS MOU=NON,  E)NERGEI/HS TE PA/RESIS· H)\N DE\ A(FH\ E)KLEI/PH|
@@ -2385,8 +2363,7 @@
 									perhaps, the former word might be dispensed with.</note> <foreign lang="greek">E)S MU/AS
 							PERAIOU/MENA, TA/DE TO\ KU=ROS TH=S KINH/SIOS I)/SXEI,
 							KAI\ TOI=SI A)PO\ TH=S KEFALH=S PROSDIDOI=. 
-							KAI\ GA\R AU)TA\ A)P' E)KEI/NWN TO\ PLEI=STON TH=S KINH/SIOS I)/SXEI·</foreign><note
-								n="5">Ermerins does not hesitate to substitute <foreign lang="greek">AI)SQH/SIOS</foreign>
+							KAI\ GA\R AU)TA\ A)P' E)KEI/NWN TO\ PLEI=STON TH=S KINH/SIOS I)/SXEI·</foreign><note n="5">Ermerins does not hesitate to substitute <foreign lang="greek">AI)SQH/SIOS</foreign>
 								in place of <foreign lang="greek">KINH/SIOS</foreign>, as fancying that the sense requires
 									this change.</note> <foreign lang="greek">I)/SXEI DE\ KAI\ E)C E(WUTE/WN KAI\ E)/LATTON · TA/DE ME/NTOI
 							A)KINHSI/HN PA/SXEI MA=LLON· SPA/NION DE\ EI)/ KOTE E)C E(WUTE/WN EI)S A)NAISQHSI/HN TRE/PONTA
@@ -2401,8 +2378,7 @@
 							A)/LLOTE ME\N E)S E)/KTASIN LE/LUTAI TA\ ME/LEA, OU)DE\
 							PALINDROME/EI E)S KA/MYIN, EU)=TE MH/KISTA KW=LA FAI/NETAI·
 							A)/LLOTE DE\ KULLA\ GI/GNETAI, OU)DE\ E)S MH=KOS A)POTEI/NETAI· EI) DE\
-							E)KTANU/SAI BIA=TAI, O(/KWS CU/LA E)S KANO/NA</foreign><note
-								n="7">The common reading is <foreign lang="greek">I(KANA\</foreign>, which appears to
+							E)KTANU/SAI BIA=TAI, O(/KWS CU/LA E)S KANO/NA</foreign><note n="7">The common reading is <foreign lang="greek">I(KANA\</foreign>, which appears to
 									have no meaning. The emendation is due to Ermerins. I have adopted it; although I must be
 									permitted to say, it is far from satisfactory. The translation given by Ermerins is: "<foreign lang="la">Quasi
 									ligna ad regulam dolaret</foreign>"; but it does not seem at all appropriate to the passage.</note>
@@ -2494,8 +2470,7 @@
 								<foreign lang="greek">E(/LKOS</foreign> for <foreign lang="greek">E)NTO\S</foreign> at the
 									commencement.</note> <foreign lang="greek">KAI\ FQI/SIS KIKLH/SKETAI· H)\N DE\ QW/RHC H)\
 							PLEURO\N E)MPUH/SH|,  E)PANA/GHTAI</foreign> </p>
-						<pb
-							n="67"/> <p><foreign lang="greek">DE\ DIA\ TOU= PNEU/MONOS, 
+						<pb n="67"/> <p><foreign lang="greek">DE\ DIA\ TOU= PNEU/MONOS, 
 								E)MPU/H H(/DE TOU)/NOMA.</foreign><note>I am not aware that the term
 									<foreign lang="greek">E)MPU/H</foreign> occurs elsewhere. Hippocrates and Galen, I believe,
 										universally use the substantive <foreign lang="greek">E)MPU/HMA</foreign>, or the adjective
@@ -2557,8 +2532,7 @@
 							<note>Ermerins, on his own authority, substitutes 
 								<foreign lang="greek">PLATE/AI</foreign>; but the other reading is in accordance with a well-known
 								Ionic usage. All the recent translators have fallen into the mistake of applying this passage
-								to the abdomen; whereas a careful examination of the context will show that <hi
-									rend="ital">it</hi> is out of the question in this place. Crassus more correctly renders it
+								to the abdomen; whereas a careful examination of the context will show that <hi rend="ital">it</hi> is out of the question in this place. Crassus more correctly renders it
 								thus: "<foreign lang="la">Digitorum ventres rugosi et lati</foreign>."  <foreign lang="greek">*KOILI/AI</foreign> in this
 									place evidently applies to the pulps of the fingers.</note> <foreign lang="greek">U(P'
 							A)SARKI/AS GA\R OU)/TE TH\N PERITAINI/HN OU)/TE TO\ STROGGU/LON I)/SXOUSI. 
@@ -2582,8 +2556,7 @@
 							*R(HI/+DION · OU)DE\ GA\R AI( PRO\S TOU\S SPONDU/LOUS SUNAQRW/SIES EU)CU/GKRUPTOI· DH=LAI DE\ KAI\ AI( EI)S TO\
 							STE/RNON E)PIBOLAI/ · TA\</foreign></p>
 						<pb n="69"/> <p><foreign lang="greek">ME/SA TW=N
-							PLEURE/WN KOI=LA,  *R(OMBOEIDE/A.</foreign><note
-								n="8">This word is most probably a false reading. See Wigan and Ermerins. The latter reads
+							PLEURE/WN KOI=LA,  *R(OMBOEIDE/A.</foreign><note n="8">This word is most probably a false reading. See Wigan and Ermerins. The latter reads
 								<foreign lang="greek">*R(OIBOEIDE/A</foreign>, one of Wigan's conjectural emendations.
 								<foreign lang="greek">*(ROIKOEIDE/A</foreign> and  <foreign lang="greek">*R(EBOEIDE/A</foreign>
 								have also been suggested. If I thought myself warranted to make any change
@@ -2794,8 +2767,7 @@
 							KARDI/H PA/QH|, OU)/KOTE E)S POLLO\N DIARKE/SEIE .
 							TH=|DE GA\R H( TH=S A)NAPNOH=S KAI\ TH=S ZWH=S A)RXH/.</foreign></p>
 						
-						<p><foreign lang="greek">*AI)TI/H DE\ YU/CIS KAI\ U(GRO/THS TOU= PNEU/MATOS·</foreign><note
-							n="2">Ermerins agrees with Petit in reading <foreign lang="greek">PNEU/MONOS.</foreign> I
+						<p><foreign lang="greek">*AI)TI/H DE\ YU/CIS KAI\ U(GRO/THS TOU= PNEU/MATOS·</foreign><note n="2">Ermerins agrees with Petit in reading <foreign lang="greek">PNEU/MONOS.</foreign> I
 								am doubtful.</note> <foreign lang="greek">U(/LH DE\ U(GRA\</foreign>,</p>
 						<pb n="74"/>
 						<p><foreign lang="greek">PAXE/A,  KOLLW/DEA· EU)PAQE/ES DE\
@@ -2914,8 +2886,7 @@
 							E)N TOI=SI O)CE/SI E)/LECA.</foreign></p>
 						<p><foreign lang="greek">*)\HN DE\ E)S PU=ON TRE/PHTAI, 
 							O)DU/NH O(CEI=A I)/SXEI ME/SFI KLEIDO\S,</foreign></p>
-						<pb
-							n="77"/> <p><foreign lang="greek">H)\ A)/KROU W)/MOU. U(PO\ GA\R
+						<pb n="77"/> <p><foreign lang="greek">H)\ A)/KROU W)/MOU. U(PO\ GA\R
 								TOU= A)/XQEOS E(/LKETAI TO\ DIA/FRAGMA, E)C OU(= TO\ H(=PAR H)/RTHTAI · TO\
 								DE\ DIA/FRAGMA TO\N U(PO\ TH=|SI PLEURH=|SI U(ME/NA BRI/QEI· CUNH=PTAI GA\R AU)TE/W|· O( DE\ E)PI\ TH\N KLHI=¨DA H)DE\
 								A)/KRW TW=N W)/MWN A)POTE/TATAI, KAI\ TA/DE CUNEFE/LKETAI
@@ -2981,8 +2952,7 @@
 							<foreign lang="greek">A)/RISTON DE\ DI' OU)/RWN KEKRI/SQAI· A)SFALESTE/RH DE\ KAI\ A)SINESTE/RH H( TH=|DE
 							TOU= PU/OU O(DO/S.</foreign></p>
 						<p><foreign lang="greek">*)\HN DE\ A)PO\ TH=S FLEGMONH=S A)NEKPU/HTON
-							H)=| TO\ H(=PAR, A)/PONON ME\N OU) GI/GNETAI,</foreign><note
-								n="5">Ermerins substitutes <foreign lang="greek">A)/PONON</foreign> for 
+							H)=| TO\ H(=PAR, A)/PONON ME\N OU) GI/GNETAI,</foreign><note n="5">Ermerins substitutes <foreign lang="greek">A)/PONON</foreign> for 
 								<foreign lang="greek">A)/PORON</foreign>, which latter word evidently is wrong. See Wigan.</note>
 							<foreign lang="greek">TO\N O)/GKON TE TO\N SKLHRO\N I(=ZON EI)S SKI/RRON I(DRU/ETAI.
 							EU)=TE PO/NOS ME\N OU) CUNEXH\S, NWQH\S DE\
@@ -3530,8 +3500,7 @@
 							TH=S GASTRO\S H( FORH\, TI/S O( TRO/POS TH=S CUSTA/SIOS;
 							O(DO\S GA\R E)S E)/CODON A(PA/NTWN DI' E(/DRHS EU)/ROOS· H( DE\ AU)TOU= TOU= U(GROU= TH=S E)N
 							LAGO/NI CULLOGH=S, A)/PISTOS H( TW=N E)NTE/RWN *R(AGH/.
-							OU) GA\R A)SINE\S OU)D' A)NW/LEQRON TRWQE\N E)/NTERON.</foreign><note
-								n="7">The text in the last part of this chapter is corrupt. Should we not read
+							OU) GA\R A)SINE\S OU)D' A)NW/LEQRON TRWQE\N E)/NTERON.</foreign><note n="7">The text in the last part of this chapter is corrupt. Should we not read
 								<foreign lang="greek">DIA\</foreign> before <foreign lang="greek">TW=N, 
 								K. T. 
 								L.</foreign>?</note></p>
@@ -3577,8 +3546,7 @@
 									"<foreign lang="la">Prout adventantis morbi processus est</foreign>." Ermerins reads, <foreign lang="greek">O(DOIPORE/ONTOS</foreign>.
 							</note> <foreign lang="greek">A)TA\R H)DE\ OU)RE/OUSI TOU= CUNH/QEOS MIKRO/NTI
 							MA=LLON· DI/YOS TE, A)LL' OU)DE/KW ME/GA</foreign>.</p>
-						<pb
-							n="97"/> <p><foreign lang="greek">*)\HN DE\ E)PI\ MA=LLON AU)/CHTAI, 
+						<pb n="97"/> <p><foreign lang="greek">*)\HN DE\ E)PI\ MA=LLON AU)/CHTAI, 
 								QE/RMANSIS MIKRH\ ME\N,  DAKNW/DHS
 								DE\,  E)NI/ZOUSA TOI=SI SPLA/GXNOISI· E)PIGA/STRION
 								*R(USSOI\,  E)PI/FLEBOI, 
@@ -3587,8 +3555,7 @@
 								EU)QU\S OU)RE/OUS I. TH=|DE/ MOI DOKE/EI
 								KALE/ESQAI DIABH/THS E)PI/KLHSIN, O(KOI=O/NTI DIABH/THS
 								E)W\N,  OU(/NEKEN E)N TW=| SKH/NEI+ TO\ U(GRO\N OU) MI/MNEI,
-								A)LLA\ O(/KWS DIABA/QRSH| TW=| A)NQRW/PW| E)S E)/CODON XRE/ETAI</foreign>.<note
-									n="3">The common reading is <foreign lang="greek">DIABHTH/SEWN</foreign>, which is
+								A)LLA\ O(/KWS DIABA/QRSH| TW=| A)NQRW/PW| E)S E)/CODON XRE/ETAI</foreign>.<note n="3">The common reading is <foreign lang="greek">DIABHTH/SEWN</foreign>, which is
 										evidently faulty. Even as corrected by Wigan and Ermerins, the sentence is still in an
 										unsatisfactory state. See note to the translation.</note> <foreign lang="greek">DIARKE/OUSI
 								DE\ E)S XRO/NON TINA\, EI) KAI\ MH\ KA/RTA POLLO\N,
@@ -3869,8 +3836,7 @@
 							H)\N DE\ KAI\ NE/OI PA/SXWSI,  GHRALE/OUS XRH\ GENE/SQAI
 							PA/NTAS TH\N E(/CIN,  NWQW/DEAS, 
 							E)KLU/TOUS,  A)YU/XOUS</foreign>,</p>
-						<pb
-							n="104"/> <p> <foreign lang="greek">O)KNE/ONTAS, KWFOU\S,
+						<pb n="104"/> <p> <foreign lang="greek">O)KNE/ONTAS, KWFOU\S,
 								A)SQENE/AS,  *R(IKIOUS, 
 								A)PRHKTOUS,  E)PW/XROUS,  LEUKOI\S,
 								GUNAIKW/DEAS,  A)POSI/TOUS, 
@@ -4062,8 +4028,7 @@
 						<p> <foreign lang="greek">*GE/ROUSI CU/NHQES TO\ KAKO\N,
 							KAI\ GUNAICI\ MA=LLON H)\ A)NDRA/SI. 
 							PAIDI/OISI DE\ DIA/RROIA ME\N CUNEXH\S,  E)FHME/RW| A)KRASI/H|
-							TROFH=S. A)LL' OU) KOILI/HS KU/TEI+ H( NOU=SOS</foreign>.<note
-								n="2"><foreign lang="greek">*KU/TEI+</foreign> in this clause is not a satisfactory reading; and
+							TROFH=S. A)LL' OU) KOILI/HS KU/TEI+ H( NOU=SOS</foreign>.<note n="2"><foreign lang="greek">*KU/TEI+</foreign> in this clause is not a satisfactory reading; and
 									yet I would hesitate to adopt <foreign lang="greek">PA/QEI+</foreign> with Wigan, or
 								<foreign lang="greek">KOILI/H| E)NSKH/PTEI</foreign> with Ermerins. It is worthy of remark,
 									that <hi rend="ital">kyte</hi> is a Scottish term for stomach. It occurs in Burns'
@@ -4243,8 +4208,7 @@
 							H)\N DE\ E(/LKOS E)GGE/NHTAI, E)PI\ ME\N TOI=SI A)/NW
 							STRO/FOS DAKNW/DHS, DRIMU\S, 
 							W(S A)PO\ XOLH=S QERMH=S SMIKRH=S, E)/MPUOI A)/LLOTE
-							KAI\ A)/LLOTE· TO\ DE\ PLE/ON, E)/MPUOI</foreign>. <note
-								n="3">The text, which is by no means in a satisfactory state, is thus attempted to be
+							KAI\ A)/LLOTE· TO\ DE\ PLE/ON, E)/MPUOI</foreign>. <note n="3">The text, which is by no means in a satisfactory state, is thus attempted to be
 									emended by Ermerins:--<foreign lang="greek">H)\N DE\ E(/LKOS E)GGE/NHTAI, 
 								E)PI\ ME\N TOI=SIN A)/NW STRO/FOS DAKNW/DHS, 
 								DRIMU\S, W(S A)PO\ XOLH=S, 
@@ -4392,8 +4356,7 @@
 							W)XRO\S KAKI/WN ME\N, POLLO\N DE\ KRE/SSWN O( TW=| SUNH/QEI+ MEMIGME/NOS
 							.  CUNH/QHS DE\ E)RUQRO\S ME\N KAI\ TA\ TOU=DE EI)/DEA· TO\ DE\ A)LHQE\S
 							GERAITE/RH|SI KAKI/ONES OI( E)RUQROI/ · H(/KISTA DE\ NEH/NISI OI( LEUKOI/</foreign>.</p>
-						<pb
-							n="116"/> <p><foreign lang="greek">A)TA\R KAI\ A)SINE/STEROI TAU/TH|SI OI( CUNH/QEES</foreign>·
+						<pb n="116"/> <p><foreign lang="greek">A)TA\R KAI\ A)SINE/STEROI TAU/TH|SI OI( CUNH/QEES</foreign>·
 								<note>Ermerins certainly does appear to improve the clause,
 									<foreign lang="greek">A)TA\R.... CUNH/QEES</foreign>, by
 										transferring them to this place. Formerly the words followed 
@@ -4429,15 +4392,13 @@
 							A)/NQRWPOS A)PORH=|. SHPEDW\N DE\ A)PO\ TOU= E(/LKEOS *R(E/EI OU)/TE AU)TE/H|SI
 							FORHTH\,  A)GRIAI/NEI YAU/SESI/ TE KAI\ FARMA/KOISI ,
 							KAI\ XALEPAI/NEI PWS KAI\ I)HTRI/H|· FLE/BES DE\ E)N U(STE/RH| E)S O)/GKON AI)/RONTAI
-							CU\N PERITA/SESI TW=N PE/LAS· E)/STI DE\ PEPNUME/NOISI OU)K A)/SHMON TH=| A(FH=|</foreign>.<note
-								n="4">Ermerins, contrary to all authority, reads <foreign lang="greek">PEPNEUME/NH|SI</foreign>, 
+							CU\N PERITA/SESI TW=N PE/LAS· E)/STI DE\ PEPNUME/NOISI OU)K A)/SHMON TH=| A(FH=|</foreign>.<note n="4">Ermerins, contrary to all authority, reads <foreign lang="greek">PEPNEUME/NH|SI</foreign>, 
 								on the ground that, in ancient times, midwives alone were entrusted with the
 									treatment of diseases of the female genital organs. This, however, was evidently not the
 									case, as must be obvious to any one who has carefully read the Hippocratic treatise on this
 									subject, and the other works contained in the <hi rend="ital">Gynœcia.</hi></note>
 							<foreign lang="greek">OU) GA\R A)/LLWS DH=LON· PU=R DE\ KAI\ A)/SH TOU= PANTO\S</foreign></p>
-						<pb
-							n="117"/> <p><foreign lang="greek">KAI\ SKLHRI/H CU/NESTIN, 
+						<pb n="117"/> <p><foreign lang="greek">KAI\ SKLHRI/H CU/NESTIN, 
 								H(=|PER TOI=SI QHRIW/DESI,  QANATW/DEA O)/NTA
 								E(/LKEA</foreign>,<note>This clause, which had puzzled all the former editors, is
 									expunged from the text altogether by Ermerins.</note> <foreign lang="greek">A)TA\R KAI\
@@ -4467,8 +4428,7 @@
 									Ermerins further suppresses <foreign lang="greek">KAI\ TIQHNOU=SAI</foreign>.</note> 
 							<foreign lang="greek">DOKE/EI DE/ KOTE TH=S DIPLO/HS TH=S U(STE/RHS O( E)/NDON
 							U(PEZWKW\S XITW\N,  A)POSPA=SQAI TOU= CUNAFE/OS.
-							DOIAI\ GA\R AI( SXI/DES ME\N AI( E)PHLLAGME/NAI XITW=NOS</foreign>·<note
-								n="7">The text here is under great obligations to Ermerins.</note> 
+							DOIAI\ GA\R AI( SXI/DES ME\N AI( E)PHLLAGME/NAI XITW=NOS</foreign>·<note n="7">The text here is under great obligations to Ermerins.</note> 
 							<foreign lang="greek">O(/DE OU)=N A)FI/STATAI ME\N KAI\ *R(EU/MATI, KAI\
 							E)NTRWSMW=| KAI\ BIAI/W| TO/KW|, EU)=TE E)PI\ TW=| XORI/W| PROSPE/FUKEN
 							AU)TE/H. H)\N GA\R TO/DE E(/LKHTAIBI/H|, 
@@ -4693,8 +4653,7 @@
 						<p><foreign lang="greek">*)ALL' A)/NDRES ME\N PAQEI=N
 							*R(HI/+TEROI,  GUNAIKW=N DE\ E)LAFRO/TERON· GUNAI=KES DE\ A)RAIO/TERON ME\N
 							A)NDRW=N,  XALEPW/TERON DE/</foreign>.</p>
-						<pb
-							n="123"/> <p><foreign lang="greek">TO\ GA\R MH\ E)N E)/QEI+ MHDE\ OI)KEI=ON, 
+						<pb n="123"/> <p><foreign lang="greek">TO\ GA\R MH\ E)N E)/QEI+ MHDE\ OI)KEI=ON, 
 								H)\N U(PO\ A)NA/GKHS KRE/SSON GE/NHTAI,  BIASTH\N
 								ME/ZONA TI/KTEI TH\N CUMFORH/N· H(LIKI/H TA\ POLLA\ ME\N A)PO\ E)TE/WN PE/NTE KAI\ TRIH/KONTA.
 								QA=SSON DE\ KAI\ BRA/DION E)K TH=S E(KA/STOU FU/SIOS KAI\ DIAI/THS.
@@ -4726,8 +4685,7 @@
 							O(/KWS OI( *QRH/I+KES *(RH/SOU</foreign>·<note>Iliad. x. 437.</note>
 							<foreign lang="greek">A)/LLOI DE\ PO/DARGOI, O(/KWS *MENE/LEW
 							PO/DARGOS</foreign>.<note>Iliad. xxiii. 255.</note> <foreign lang="greek">OI( DE\
-							CANQOI\, O(/KWS E(KATO\N KAI\ PENTH/KON TA</foreign>·<note
-								n="3">Iliad. xi. 680.</note> <foreign lang="greek">A)/LLOI DE\ KUA/NEOI · I(/PPW| EI)SA/MENOS
+							CANQOI\, O(/KWS E(KATO\N KAI\ PENTH/KON TA</foreign>·<note n="3">Iliad. xi. 680.</note> <foreign lang="greek">A)/LLOI DE\ KUA/NEOI · I(/PPW| EI)SA/MENOS
 							PARELE/CA TO KUANOXAI/TH|</foreign>.<note>Iliad. xx. 224.</note> 
 							<foreign lang="greek">W(=DE KAI\ BO/ES, W(=DE KAI\ KU/NES,
 							H)DE\ O(KO/SA A)NA\</foreign></p>
@@ -5052,16 +5010,14 @@
 							A)SH/MOUS KOUFISMOU\S POIEU/MENOI. H)\N DE\ PRO\ TH=S CUMMETRI/HS
 							A)PAUDH/SH| O( NOSE/WN, E)S DEUTE/RHN E)PA/NESIN U(PERBA/LLESQAI,
 							H)\N MH\ E)S MAKRO\N E)KPI/PTH|· EI) DE\</foreign></p>
-						<pb
-							n="136"/> <p><foreign lang="greek">MH\,  A)NAKALESA/MENON
+						<pb n="136"/> <p><foreign lang="greek">MH\,  A)NAKALESA/MENON
 								O)SMH=|SI, KAI\ YAU/SESI PROSW/POU, 
 								KAI\ PIE/SI PODW=N AU)TI/KA A)FAIRE/EIN· GNW=MA DE\ TH=S AU)TARKI/HS H( DU/NAMIS</foreign>.
 							</p>
 						<p><foreign lang="greek">*TROFH\ U(GRH\ PA=SI ME\N TOI=SI PURETAI/NOUSI,
 							OU)K H(/KISTA DE\ FRENITI KOI=SI· E)PICHRO/TEROI GA\R PURETW=N
 							MOU/NWN. TO\ DE\ MELI/KRHTON , 
-							H)\N MH\ XOLW/DEES E)/WSI· A)/PEPTON GA\R TOI=SI PIKROXO/LOISI</foreign>.<note
-								n="3">I have adopted the reading substituted by Ermerins in place of the ordinary text
+							H)\N MH\ XOLW/DEES E)/WSI· A)/PEPTON GA\R TOI=SI PIKROXO/LOISI</foreign>.<note n="3">I have adopted the reading substituted by Ermerins in place of the ordinary text
 									which stood thus: <foreign lang="greek">OU)DE\ MELI/KRH TON , 
 								H)/N MH\ XOLW/DEES E)/WSI,  EU)/PEPTON GA\R TOI=SI
 								PIKROXO/LOISI</foreign>. Petit proposes to improve the text by leaving out 
@@ -5129,8 +5085,7 @@
 						
 						<p><foreign lang="greek">*TA/DE ME/NTOI KAI\ U(/PNOU A)GWGA/.
 							H)\N GA\R PA/NNUXOI ME\N E)GRH/SSWSI, MHDE\
-							DI' H(ME/RHS EU(/DWSI,  A)TENE/ES DE\ TO\ CU/MPAN</foreign><note
-								n="4">Ermerins erases the clause <foreign lang="greek">A)TENE/ES DE\ TO\ CU/MPAN E)/WSI</foreign>
+							DI' H(ME/RHS EU(/DWSI,  A)TENE/ES DE\ TO\ CU/MPAN</foreign><note n="4">Ermerins erases the clause <foreign lang="greek">A)TENE/ES DE\ TO\ CU/MPAN E)/WSI</foreign>
 								altogether. By merely deleting the last word, and <foreign lang="greek">DE\</foreign> in
 									the following clause, I flatter myself that I have succeeded in emending the text
 									satisfactorily.</note> <foreign lang="greek">O)FQALMOI\, 
@@ -5382,8 +5337,7 @@
 							TH=| DRIMU/THTI, KAI\ KRA/MBH CU\N E)LAI/W| KAI\ GA/RW|· A)/RISTON DE\ KAI\
 							KU/MINON GLUKU\, CU\N KRA/MBH|, 
 							FUSE/WN H)DE\ OU)/RWN· E)REQISTE/A GA\R H( KU/STIS, H)DE\
-							GASTH\R, E)N PA/SH| TH=| NOU/SW|</foreign>.<note
-								n="2">Ermerins has entirely remodelled this passage--altering, ejecting, and introducing
+							GASTH\R, E)N PA/SH| TH=| NOU/SW|</foreign>.<note n="2">Ermerins has entirely remodelled this passage--altering, ejecting, and introducing
 									words, to make his author use the language which the editor fancies he ought to have used.
 									I have adopted only a few of his changes.</note></p>
 						<p> <foreign lang="greek">*TE/GCIES
@@ -5438,8 +5392,7 @@
 						<p>
 							<foreign lang="greek">*)\HN DE\ TRO/MOS XEIRW=N KAI\ KEFALH=S E)/H|,  KASTO/RION
 							PIPI/SKEIN DRAXMH=S O(LKH=S H(/MISU CU\N MELIKRH/ TOU KUA/QOIS TRISI\ E)S H(ME/RAS PLEU=NAS· H)\N DE\ MH\ PI/NH|
-							TO/DE,  E)NTH/KEIN CUMFO/RW| E)LAI/OU</foreign>,<note
-								n="3">The reading in most of the MSS., <foreign lang="greek">E)/KTEUCIN CUMFORH=S CU\N
+							TO/DE,  E)NTH/KEIN CUMFO/RW| E)LAI/OU</foreign>,<note n="3">The reading in most of the MSS., <foreign lang="greek">E)/KTEUCIN CUMFORH=S CU\N
 								E)LAI/W|</foreign>, has evidently no meaning. Petit mentions, that on the margin of a certain
 									good MS. he found <foreign lang="greek">E)S E)/KFEUCIN</foreign>, which certainly gives a
 										passable meaning, with little violence to the text. Wigan suggests 
@@ -5484,8 +5437,7 @@
 							A)/LUPON DE\ O)DACHSMO\N KAI\ PO/NON E)NDIDOI=. 
 							METRI/WS DE\ E)REQI/ZEI TE KAI\ PAROIDI/SKEI, KAI\ QERMASI/HN
 							PROKALE/ETAI. H)\N DE\ E)PI\ MA=LLON</foreign></p>
-						<pb
-							n="147"/> <p> <foreign lang="greek">E)QELH/SH|S TA/DE TOI GI/GNESQAI, 
+						<pb n="147"/> <p> <foreign lang="greek">E)QELH/SH|S TA/DE TOI GI/GNESQAI, 
 								LHMNH/STIDOS H)D' EU)FORBI/OU I(=SA CU\N LI/PAI+ GLEUKI/NW| XRI/EIN. 
 								A)/RISTON KAI\ SKI/LLHS W)MH=S LEPTOI=SI E)KTRI/BEIN· XRH\ DE\ A)POMA/CANTA TW=N MELE/WN TO\
 								E)LAIW=DES· ( A)/DHKTON GA\R PA=N DRIMU\ CU\N LI/PAI+ H)\N MH\ FARMAKW=DES 
@@ -5518,8 +5470,7 @@
 							H)DE\ E)S FARMA/KW N DRIME/WN XRI/SIN, TOU= DIA\ TH=S LHMNH/STIDOS, 
 							H)\ A)DA/RKHN</foreign>,<note>In the text of all
 								the MSS. we read <foreign lang="greek">U(DA\R</foreign>, which is evidently a monstrosity.
-									Upon the whole, I think it most probable that the Adarce is meant (see Ed. Gr. Lexicon <hi
-										rend="ital">in uoce</hi>). Ermerins expunges it altogether; and perhaps he does right; for
+									Upon the whole, I think it most probable that the Adarce is meant (see Ed. Gr. Lexicon <hi rend="ital">in uoce</hi>). Ermerins expunges it altogether; and perhaps he does right; for
 								<foreign lang="greek">LHMNH=STIS</foreign> and <foreign lang="greek">A)DA/RKH</foreign> were the same,
 									or nearly the same, thing.</note> <foreign lang="greek">H)\
 							QAYI/HN, H)\ SI/NHPI U(GRO\N E)C U(/DATOS CU\N A)/RTW| DIPLW=| E)S TRU/XNION</foreign>
@@ -5566,8 +5517,7 @@
 							<foreign lang="greek">DE\ TO\ ME/TRON. H)/N TE GA\R SMIKRW=| PLE/ON
 							A)FE/LH|S,  PROSAPE/PNICAS TO\N A)/NQRWPON. 
 							E)S GA\R TO\ ZH=N TOUTE/OISI KAI\ TO\ SMIKRO\N AI(=MA DUNATW/TATON, 
-							KAI\ H( A)LE/H TH=S ZWH=S TOU= SKH/NEOS KAI\ TH=S TROFH=S E)O/N</foreign>·<note
-								n="2">The text is not quite satisfactory; but we cannot venture to adopt the bold alteration
+							KAI\ H( A)LE/H TH=S ZWH=S TOU= SKH/NEOS KAI\ TH=S TROFH=S E)O/N</foreign>·<note n="2">The text is not quite satisfactory; but we cannot venture to adopt the bold alteration
 									introduced by Ermerins: <foreign lang="greek">KAI\ A)LE/H TH=S ZWH=S KAI\ TOU= SKH/NEOS TROFH\
 								E)O/N</foreign>. The meaning seems to be, that it is the animal heat which imparts life to
 									food introduced into the system.</note> <foreign lang="greek">H)/N TE MEI=ON TH=S
@@ -5585,8 +5535,7 @@
 							H)\N ME\N W)=N A)/NEU FANERH=S PROFA/SIOS A)PO/PLHKTOI GI/GNWNTAI,
 							W(=DE XRH\ SULLOGI/ ZESQAI A)MFI\ TH=S A)FAIRE/SIOS · H)\N DE\ A)PO\
 							PLHGH=S, H)\ KATAFORH=S, H)\
-							PIE/SIOS CUMBH=|, OU) XRH\ A)NABA/LLESQAI</foreign>.<note
-								n="3">Wigan suggests the necessity of <foreign lang="greek">OU)</foreign> before 
+							PIE/SIOS CUMBH=|, OU) XRH\ A)NABA/LLESQAI</foreign>.<note n="3">Wigan suggests the necessity of <foreign lang="greek">OU)</foreign> before 
 								<foreign lang="greek">XRH\</foreign>, and Ermerins accordingly adopts it.</note> 
 							<foreign lang="greek">METECETE/ROISI DE\ TO/DE MOU=NON EI)S A)/KESIN H)DE\ ZWH\N H)/RKESEN</foreign>.</p>
 						
@@ -5922,8 +5871,7 @@
 							A)LLA\ KAI\ DISSOI=S KLU/SMASI, TW=| ME\N
 							CUNH/QEI+, W(S A)/GEIN KOPRW/DEA · TW=| DE\ W(S A)POSPA=SQAI/ TI TW=N
 							XUMW=N A)PO\ TW=N PARISQMI/WN TE KAI\ QW/RHKOS. E)/STAI
-							W)=N, A)LLA\ MH/TE A)KRHTESTE/RH</foreign>, . . . . . . . . .<note
-								n="1">Although some words certainly appear to be wanting here and a short distance
+							W)=N, A)LLA\ MH/TE A)KRHTESTE/RH</foreign>, . . . . . . . . .<note n="1">Although some words certainly appear to be wanting here and a short distance
 									below, there is no lacuna in either place, in any of our British MSS.</note> 
 							<foreign lang="greek">KAI\ KENTAURI/OU KAI\ U(SSW/POU E(YH/MATA. TA/DE GA\R
 							KAI\ FLEGMA/TWN A)GWGA/. KH)\N DE\ A)PO\ LEPTH=S DIAI/THS
@@ -6060,8 +6008,7 @@
 							CHRA\, H)\ CU\N MELIKRH/
 							TW|. TOI=SI DE\ AU)TOI=S KAI\ E)MFUSH=N KALA/MW|, 
 							H)\ PTI/LW|, H)\ KAULW=| PAXE/I+ KAI\ E)PIMH/KEI+,
-							W(S TW=N E(LKE/WN QIGGA/NEIN TA\ FA/RMAKA</foreign>.<note
-								n="1">Ermerins introduces most extensive alterations in this passage; but I have not
+							W(S TW=N E(LKE/WN QIGGA/NEIN TA\ FA/RMAKA</foreign>.<note n="1">Ermerins introduces most extensive alterations in this passage; but I have not
 									ventured to adopt any of them. I have merely introduced 
 								<foreign lang="greek">H)\</foreign> after <foreign lang="greek">CHRA\</foreign>, which the sense
 									absolutely requires.</note>  <foreign lang="greek">A)/RISTON DE\ KAI\ XALKI=TIS</foreign></p>
@@ -6187,8 +6134,7 @@
 							O)NHI+STO\N KAI\ E)N W)OI=S KAI\ E)N PTISA/NH| KAI\ A(/PASI TOI=SI E)DE/SMASI KAI\ O(KO/SA PEPE/REI+ CUNW|DA/· KREW=N
 							A)KRO/PODES E)N XULOI=SI TAKEROI\, PE/LEIAI ,
 							A)LEKTORI/DES E(FQAI/· SUW=N E)GKE/FALOI, 
-							O)PTOI\ ME\N SU\N TW=| E)PIPLO/W|· A)/NEU DE\ TOUTE/OU A)/KNISOI</foreign>.<note
-								n="5">There is something inexplicable in this paragraph; for not only does no one of the
+							O)PTOI\ ME\N SU\N TW=| E)PIPLO/W|· A)/NEU DE\ TOUTE/OU A)/KNISOI</foreign>.<note n="5">There is something inexplicable in this paragraph; for not only does no one of the
 									other authorities recommend brains in the treatment of Pleurisy, but also no one says
 									anything of roasting the brains of swine in their cauls. I suspect the text must be
 									corrupt.</note> <foreign lang="greek">H)\N DE\ A)/KERXNOS E)/H|, 
@@ -6510,8 +6456,7 @@
 							O(/KWS MH\ TH=| E)PIRROH=| KENEO/MENOI OI( XW=ROI PROSMENE/WSI,
 							PLHMMURW=SI DE\ E)/NQA H( CU/NDOSIS. E)PI\
 							ME\N TH=S A)RAIW/SIOS TW=N FLEBW=N H( STU=YIS A)RKE/EI.  DIARRE/EI
-							GA\R, W(S U(DREI=ON NE/ON DEUQE\N</foreign>,<note
-								n="2">Petit was the first to remark, that the common reading, 
+							GA\R, W(S U(DREI=ON NE/ON DEUQE\N</foreign>,<note n="2">Petit was the first to remark, that the common reading, 
 								<foreign lang="greek">OU)QE\N</foreign>, is inadmissible.</note> <foreign lang="greek">TH=|SI A)RAIW/SESI.
 							A)TA\R H)DE\ E)PI\ TH=|SI DIAIRE/SESI STU=YIS ME\N I)HTREI/H E)S TH\N
 							CUNAGWGH\N TW=N XEILE/WN · ME/ZOSI DE\ KAI\ DUNATWTE/ROISI TOI=SI FARMA/KOIS XRE/ESQAI.
@@ -6637,8 +6582,7 @@
 							E(YEI/SQWSAN · E)S DE\ TH\N SU/STASIN, A)/MULOS E)/STW,
 							KAI\ GA/LA,  A)/RISTON KAI\ FA\R TO\ *TURRHNIKO\N 
 							, PAXU\ E)O\N KAI\ GLI/SXRON, 
-							KAI\ KOLLW=DES CU\N TW=| GA/LAKTI</foreign>·<note>The <hi
-								rend="ital">far</hi> of the Romans was a variety of the spelt. See Appendix to the
+							KAI\ KOLLW=DES CU\N TW=| GA/LAKTI</foreign>·<note>The <hi rend="ital">far</hi> of the Romans was a variety of the spelt. See Appendix to the
 								Edinburgh Lexicon.</note>  <foreign lang="greek">TAMISOU= DE\ TOU= E)RI/FOU U(GROI=SI TOI=SI
 							E(YH/MASI PROSEGXE/EIN E)S PH=CIN, O(/KWS E)PI\ GA/LAKTI E)S NE/OU
 							TUROU= CU/STASIN I)/SXEI· PAXU/TERON DE\ TOUTE/WN,  KE/GXROS E(FQO\S
@@ -6704,8 +6648,7 @@
 							POLLA\ KWLU/H|, EI(=S DE/ TIS A)RIQMO\S E)PI/KAIROS H)=|,
 							O(KOI=ON GLW=SSA TRHXEI/H KAI\ CHRH\ KAI\</foreign></p>
 						<pb n="181"/>
-						<p> <foreign lang="greek">ME(/LAINA · H(/DE TOI GA\R TA\ EI)/SW PA/NTA SHMAI/NEI</foreign>·<note
-							n="2">In this clause I have found it necessary to follow the conjectural emendation of Petit,
+						<p> <foreign lang="greek">ME(/LAINA · H(/DE TOI GA\R TA\ EI)/SW PA/NTA SHMAI/NEI</foreign>·<note n="2">In this clause I have found it necessary to follow the conjectural emendation of Petit,
 								which is adopted also by Ermerins, whose annotations on this passage are highly important.
 								The language would appear to be imitated from the Hippocratic treatise De Morbis, iii.
 								6.</note>  <foreign lang="greek">CUNTEKM AI/RESQAI DE\ E)PI\ PA=SI TH\N DU/NAMIN,
@@ -6736,8 +6679,7 @@
 							MERE/WN, A)TA\R H)DE\ E)S EU)ROH\N TOU= AI(/MATOS · METECETE/ROISI DE\
 							KAI\ E)PI\ TH=| SIKU/H| E)S TH\N DEUTE/RHN E)PIPLA/SSEIN. E)/STW DE\ KAI\
 							TH=|DE FEIDW/· KI/NDUNOS GA\R WU)TO\S TOU= AI(/MATOS TH=S A)METRI/HS KAI\ E)PI\ TH=| SIKU/H|. 
-							KLUSMOI=SI DE\ E)PI\ SKUBA/LOISI PALAOI=SI MOU=NON XRE/O</foreign>·<note
-								n="3">This is evidently the true reading, and not <foreign lang="greek">XRE/OS</foreign>.</note>
+							KLUSMOI=SI DE\ E)PI\ SKUBA/LOISI PALAOI=SI MOU=NON XRE/O</foreign>·<note n="3">This is evidently the true reading, and not <foreign lang="greek">XRE/OS</foreign>.</note>
 							<foreign lang="greek">TH=S DUNA/MIOS DE\ FEI/DEO</foreign>.</p>
 						<pb n="182"/>
 						<p> <foreign lang="greek">*TE/GCIES KEFALH=S YUXRAI\, O(KO/SAI
@@ -7067,8 +7009,7 @@
 							, H)\ DIH=LQEN E)CA/GON FU/SAS, 
 							SKU/BALA, FLE/GMA, 
 							XOLH\N, TOU= KAKOU= TA\S</foreign></p>
-						<p> <pb
-							n="190"/>  <foreign lang="greek">E)NTA/SIAS. TROFH\
+						<p> <pb n="190"/>  <foreign lang="greek">E)NTA/SIAS. TROFH\
 							DIECA/GOUSA · ZWMOI\ A)LEKTORI/DWN,  KOGXARI/WN,
 							PTISA/NHS O( XULO\S KA/QEFQOS, CU\N
 							POLLW=| LI/PAI+ A)RXH=QEN PROSEGXUQE/NTI TH=S E(YH/SIOS · SUNEYEI=N TW=|DE</foreign>,<note>I
@@ -7357,8 +7298,7 @@
 							SITW/DEES,  EU)/PEPTOI, 
 							EU)/XUMOI,  OU)RHTIKAI\, 
 							O(KOI=AI/ MOI E)PI\ NEFROI=SI LELE/XATAI· GA/LA, 
-							OI)=NOS GLUKU\S,  *QHRAIO\S</foreign><note
-								n="3">Should it not be <foreign lang="greek">*QHRAI=OS</foreign>? See Herodot. i. 150. Ed.
+							OI)=NOS GLUKU\S,  *QHRAIO\S</foreign><note n="3">Should it not be <foreign lang="greek">*QHRAI=OS</foreign>? See Herodot. i. 150. Ed.
 									Dindorf.</note> <foreign lang="greek">H)\ *SKUBALI/THS . 
 							FA/RMAKA PINO/MENA,  OU)RHTIKA\, 
 							EU)W/DEA, EU)/ROA· KAI\ TA)/LLA TA\ TOIAU=TA · A)/RISTON
@@ -7401,8 +7341,7 @@
 						<p><foreign lang="greek">*PA/SXEI DE\ TA/DE KAI\
 							U(PO\ FLEGMASI/HS . KAI\ GA\R PROPETESTE/RH TW=| PA/QEI+ KAI\ TW=| O)/GKW|
 							TOU= AU)XE/NOS GI/GNETAI· H( GA\R KATA\ PUQME/NA FLEGMASI/H A)/NW *R(E/PEI, 
-							H)\N ME\N E)S PO/DAS, E)/CW</foreign>.<note
-								n="2">It must be admitted, that the text is not in a satisfactory state; and yet I have not seen
+							H)\N ME\N E)S PO/DAS, E)/CW</foreign>.<note n="2">It must be admitted, that the text is not in a satisfactory state; and yet I have not seen
 									any emendation which I can think of adopting. For <foreign lang="greek">PA/QEI+</foreign>,
 								Ermerins reads <foreign lang="greek">BA/QEI+</foreign>, which occurs in the margin of
 									Henisch's edition; but I am not aware that this term is ever applied to any part of the uterus.
@@ -7410,8 +7349,7 @@
 										next sentence. Were I disposed to meddle with the text at all, I should substitute 
 								<foreign lang="greek">BA/REI+</foreign>.</note> <foreign lang="greek">A)SHRO\N ME\N W)=N KAI\ A)LEGEINON,
 							KAI\ A)TERPE/S· DU/SXRHSTON DE\</foreign></p>
-						<pb
-							n="199"/> <p><foreign lang="greek">KAI\ BADI/SAI, KAI\ E)S
+						<pb n="199"/> <p><foreign lang="greek">KAI\ BADI/SAI, KAI\ E)S
 								PLEURA\N KATAKE/ESQAI, KAI\ U(PTI/HN, 
 								H)\N MH\ TW\ PO/DE FLEGMH/NH| H( GUNH/· H)\N DE\ A)/NW FOITOI/H, 
 								W(S O)CU/TATA ME\N TH\N A)/NQRWPON A)PE/PNICE, PIE/ZEI
@@ -7523,8 +7461,7 @@
 							MH\ KATA\ LO/GON DE\ TO\ PA/QOS E)NDIDW=|, DE/OS DE\
 							SPASMOU=· (MA/LA GA/R TOI E)PI\ TW=|DE SPW=NTAI):
 							METABA/LLEIN XRH\ TH\N QERAPEI/HN TOI=SI QERMAI/NOUSI· XRE/OS ME\N GLEUKI/NOU
-							, H)\ SIKUWNI/OU A)NTI\ *R(ODI/NOU SU\N</foreign><note
-								n="2">I have ventured to introduce the preposition <foreign lang="greek">SU\N</foreign>, as
+							, H)\ SIKUWNI/OU A)NTI\ *R(ODI/NOU SU\N</foreign><note n="2">I have ventured to introduce the preposition <foreign lang="greek">SU\N</foreign>, as
 									something seems wanting in this clause of the sentence.</note></p>
 						<pb n="202"/>
 						<p> <foreign lang="greek">EI)RI/OISI DE\ KAQAROI=SI KAI\ E)PIPLA/SMASI A)LEAI/NOUSI .
@@ -7621,8 +7558,7 @@
 							A(\S OU)D' O)/FELOS E)KTA/MNEIN. O( DE\ TRO/POS E)N TH=|SI
 							XEIROURGI/H|SI LE/LEKTAI. ME/GA DE\ TO\ A)/KOS KEFALAI/H|SI KAI\
 							E)PILHYI/H|, KAI\ SKOTW/MASI, 
-							KAI\ CUMBLH/DHN A(PA/SH|SI TH=|SI TH=S KEFALH=S NOU/SOISI</foreign>.<note
-								n="1">The common reading, instead of <foreign lang="greek">ME/GA</foreign>, is 
+							KAI\ CUMBLH/DHN A(PA/SH|SI TH=|SI TH=S KEFALH=S NOU/SOISI</foreign>.<note n="1">The common reading, instead of <foreign lang="greek">ME/GA</foreign>, is 
 								<foreign lang="greek">META/</foreign>; in K”n's edition, <foreign lang="greek">KATA/</foreign>. The
 									reading I have introduced seems to me self-evident.</note></p>
 						<p>
@@ -7658,8 +7594,7 @@
 							<foreign lang="greek">POLLO\N E)MPA/SSWN, H)\ *R(HTI/NHS TH=S A)PO\ TH=S
 							TERMI/NQOU TOU= DE/NDREOS E)NTH/KWN O(LKH=S DRAXMA\S DU/O· E)S DE\ TH\N E)PIOU=SAN H(ME/RHN AI(=MA TH=S *R(INO\S
 							E)/NDON A)FAIRE/EIN, W(S EI)/SW PARWQEI=S QAI TO\ O)/RGANON KATEIA/DION
-							EU)/MHKES, H)\ TO\ KALEO/MENON TORU/NHN</foreign>.<note
-								n="2">Ermerins does right in substituting this word for <foreign lang="greek">STORU/NH</foreign>.
+							EU)/MHKES, H)\ TO\ KALEO/MENON TORU/NHN</foreign>.<note n="2">Ermerins does right in substituting this word for <foreign lang="greek">STORU/NH</foreign>.
 								See, in particular, Pollux, and the note of F&euml;os, Œc. Hippocrat., under this word. It
 									was a sort of ladle.</note> <foreign lang="greek">H)\ EI)/ TIS E)LLEIPW=S PRO\S TA/DE
 							E)/XEI, XHNO\S XRH\ PTEROU= TOU= KAULOU= TOU= PAXE/OS A)POGLU/YANTA
@@ -7693,8 +7628,7 @@
 							OI)=NON EU)W/DH LEUKO\N CU\N *R(ODI/NW| KATAIONEI=N A(/LIS. 
 							O)QO/NHN DE\ XRH\ TE/GCANTA E)PIPETANNU/NAI TH=|SI E)SXA/RH|SI ME/SFI H(ME/RHS TRI/THS· H)\N DE\
 							BAQEI=AI E)/WSI AI( E)SXA/RAI, PRA/SOU</foreign></p>
-						<pb
-							n="209"/> <p><foreign lang="greek">XRH\ KO/MHN CU\N A(LI\TRI/YANTA H)DE\ E)S O)QO/NHN E)GXRI/SANTA
+						<pb n="209"/> <p><foreign lang="greek">XRH\ KO/MHN CU\N A(LI\TRI/YANTA H)DE\ E)S O)QO/NHN E)GXRI/SANTA
 								TIQE/NAI · TH=| DE\ TRI/TH| KHRWTH\N E)K *R(ODI/NOU E)PI\ TOI=SI E)PIPOLAI/OISI, 
 								H)\ FA|KO\N CU\N ME/LITI E)PI\ TH=|SI BUQI/OISI E)SXA/RH|SI TIQE/NAI. 
 								O(KO/SA DE\ E)PI\ W)TEILH=| FA/RMAKA A)/LLH| PH GEGRA/YETAI . 
@@ -7865,8 +7799,7 @@
 							EU)PARA/GWGOS H( GNW/MH· DIA\ TA/DE *R(HI+DI/WS MAI/NONTAI KAI\
 							MELAGXOLE/OUSI OI(/DE· CU/MFOROS DE\ O( ME/TRIOS, E)S TH\N TH=S
 							TROFH=S OI)KONOMI/HN , KAI\ E)S A)NA/PAULAN TW=N DI' H(ME/RAS
-							KAMA/TWN. PRO/NOIA KAI\ E)PIMONH/</foreign><note
-								n="3">Ermerins also erases these words, which do not seem to be needed. See, further, Petit
+							KAMA/TWN. PRO/NOIA KAI\ E)PIMONH/</foreign><note n="3">Ermerins also erases these words, which do not seem to be needed. See, further, Petit
 									and Wigan.</note> <foreign lang="greek">PROEDRI/H TH=S KOILI/HS E)S A)PO/KRISIN· DIAPNOH=S GA\R
 							H( ME/ZWN AI)TI/H, KOILI/H. 
 							A)NA/TRIYIS AU)=QIS SKELW=N DI' H(MITUMBI/WN TRHXE/WN ME/SFI FOINI/CIOS, 
@@ -8024,8 +7957,7 @@
 							KAI\ PEPE/RIOS KAI\ SESE/LIOS PA/SAS I)DE/AS. KAI\ TI/
 							GA\R OU)K A)\N EU(/ROIS E)N TOI=SDE TW=N DUNATWTA/TWN; 
 							LO/GOS, O(/TI KAI\ GUPO\S</foreign></p>
-						<pb
-							n="217"/> <p> <foreign lang="greek">E)GKE/FALOS KAI\ AI)QUI/HS W)MH=S KRADI/H, 
+						<pb n="217"/> <p> <foreign lang="greek">E)GKE/FALOS KAI\ AI)QUI/HS W)MH=S KRADI/H, 
 								KAI\ AI( KATOIKI/DIOI GALE/AI</foreign><note>That this is the true
 									reading, and not <foreign lang="greek">OI( E)NOIKA/DIOI GALEOI\</foreign>, is quite obvious
 										from Dioscorides, ii. 27. All the <foreign lang="greek">GALEOI\</foreign> were sea animals.
@@ -8042,8 +7974,7 @@
 							H)\ DI' A)/LLWN, H)\ DI' AU)TOU=. 
 							NU=N DE\ XRH\ OU)DE\N U(PERORH=N, MHDE\ PRH/SSEIN TI
 							EI)KH=,  MA/LISTA ME\N E)F' E(KA/STOISI SMIKROI=SI PA/NTWS W)FELEU=N
-							TA· H)\N DE\ MH\,  BLA/PTONTA MHDE/N</foreign>.<note
-								n="3">Ermerins, following the advice of Petit, by the addition of 
+							TA· H)\N DE\ MH\,  BLA/PTONTA MHDE/N</foreign>.<note n="3">Ermerins, following the advice of Petit, by the addition of 
 									<foreign lang="greek">MH\</foreign>, and slightly altering the punctuation, greatly improves the text
 									in this place. Our author evidently alludes to the celebrated passage in the Epidemics of
 									Hippocrates. See vol.i. p. 360, Syd. Soc. Edit.</note> <foreign lang="greek">KAI\ GA\R O(RH/MATA
@@ -8340,8 +8271,7 @@
 							H)\N ME\N STO/MAXOS A)PEPTE/H|, TO/DE PARE/XEIN · H)\N
 							DE\ MHDE\N O(/DE PROSANAGKA/ZH|, PA/NTWN E)STI\ PTISA/NH KRE/SSWN ·
 							E)/CESTI DE\ TH\N PTISA/NHN E)S XO/NDRON A)LLA/CAI · A)FUSO/TEROS GA\R, 
-							KAI\ EU)PEPTO/TEROS KAI\ SMHGMATW/DHS H)\N W(S PTISA/NH PTI/SQH|</foreign>.<note
-								n="1">The common reading is <foreign lang="greek">H)\N KAI\ W(S PTISA/NH MIGMATW/DHS
+							KAI\ EU)PEPTO/TEROS KAI\ SMHGMATW/DHS H)\N W(S PTISA/NH PTI/SQH|</foreign>.<note n="1">The common reading is <foreign lang="greek">H)\N KAI\ W(S PTISA/NH MIGMATW/DHS
 								O)PTI/SQW</foreign>; which Ermerins alters to <foreign lang="greek">SMHGMATW/DHS
 								PTISQH=</foreign>, the meaning of which seems to me very equivocal.</note> 
 							<foreign lang="greek">E)N TH=|SI U(GROTE/RH|SI A)NAGWGH=|SI KU/AMOS KAQAI/REI E(/LKEA, 
@@ -8397,8 +8327,7 @@
 							DI/ODOS BLA/YAI. MH/PW TI KAI\ A)PO/SITOI E)/SONTAI · KH)/N TI LA/BWSI
 							EU)HME/ES. XRH\ DE\ KAI\ E)PI\ TH=|SI A)/LLH|SI E)KROH=|SI PANTOI/HN
 							MELE/THN TOU= STOMA/XOU POIE/ESQAI· O(/DE GA\R H( PA/NTWN FARMA/KWN O(DO/S· MEMNH=SQAI DE\ KAI\ TOU=
-							H(/PATOS XREW\N, E)/NQA TW=N E)LKE/WN E)STI\ H( *R(I/ZA</foreign>.<note
-								n="1">Though I have not ventured to alter the text, I must say that I think the true reading
+							H(/PATOS XREW\N, E)/NQA TW=N E)LKE/WN E)STI\ H( *R(I/ZA</foreign>.<note n="1">Though I have not ventured to alter the text, I must say that I think the true reading
 									would be <foreign lang="greek">FLEBW=N</foreign>, instead of 
 								<foreign lang="greek">E(LKE/WN</foreign>. I cannot see the significance of the latter, whereas the
 									former is of frequent use with our author as applied to the liver.</note> 
@@ -8611,8 +8540,7 @@
 									<foreign lang="greek">TO\ MU/RON</foreign>, fancying that the ointment could not be suitable in this
 									place. However, Actuarius recommends the Nardinum Unguentum expressly for
 									Stomachics. Meth. Med. vi. 10.</note> <foreign lang="greek">KAI\ H( DIA\ TW=N
-								QHRI/WN, KAI\ TOU= E)N PE/TRAIS O( KARPO\S</foreign>,<note
-									n="2">If the text here be sound, the expression must be understood as a strange
+								QHRI/WN, KAI\ TOU= E)N PE/TRAIS O( KARPO\S</foreign>,<note n="2">If the text here be sound, the expression must be understood as a strange
 										circumlocution for <foreign lang="greek">PETROSELI/NOU</foreign> or 
 									<foreign lang="greek">SELI/NOU TOU= E)N PE/TRAIS</foreign>. See below, in the next chapter. It is
 										worthy of remark, that this mode of circumlocution was much practised by the writers in
@@ -8699,8 +8627,7 @@
 								<foreign lang="greek">E)/METOS A)PO/</foreign>. On the popular modes of producing easy vomiting in
 									ancient times, see P<hi rend="smallcaps">AULUS</hi> Æ<hi rend="smallcaps">GINETA</hi>,
 									t. i, pp. 52--54. On the use
-									of emetics in the cure of Arthritis and Schiatica, see further, Ibid. t. i. pp. 652--676, <hi
-										rend="ital">passim.</hi></note> <foreign lang="greek">E)/PEITA E)S TO\N E)LLE/BORON
+									of emetics in the cure of Arthritis and Schiatica, see further, Ibid. t. i. pp. 652--676, <hi rend="ital">passim.</hi></note> <foreign lang="greek">E)/PEITA E)S TO\N E)LLE/BORON
 							A)/GEIN. DI/AITA DE\ H( E)PI\ TOI=SDE CUNH\ TOI=SI A)/LLOISI PA/QESI· KAI\
 							E)PI\ TH=| DIAI/TH| A)/LEIYIS,  YUXROLOUSI/H QALASSI/H· MA/LISTA ME\N
 							W)=N A(/PASI A)RQRITI KOI=SI CUNA\ A)/KEA· KAI\ GA\R KAI\ TOI=SI PODAGRIKOI=SI E)LLE/BOROS TO\ ME/GA
@@ -8751,8 +8678,7 @@
 							A)MPE/XEI. A)TERPE\S ME\N KAI\ FOBERO\N I)DEI=N· QHRI/OU GA\R I)DE/H·
 							DE/OS DE\ CUMBIOU=N TE KAI\ CUNDIAITA=SQAI, OU) MEI=ON H)\
 							LOIMW=|.  A)NAPNOH=S GA\R E)S META/DOSIN *R(HI+DI/H BAFH/.
-							TI/ A)\N W)=N EU(/ROI TIS E)N I)HTRIKH=| TOU=DE A)/CION E)/XON A)/KOS</foreign>;<note
-								n="1">The common reading, <foreign lang="greek">A)/CION E)/XON</foreign>, is changed by
+							TI/ A)\N W)=N EU(/ROI TIS E)N I)HTRIKH=| TOU=DE A)/CION E)/XON A)/KOS</foreign>;<note n="1">The common reading, <foreign lang="greek">A)/CION E)/XON</foreign>, is changed by
 									Ermerins to <foreign lang="greek">A)CIO/NIKON</foreign>. I cannot see that this change is
 										any improvement.</note> <foreign lang="greek">A)LLA\ GA\R PA/NTA XRH\ CUMFE/REIN FA/RMAKA,
 							KAI\ DIAI/THN, KAI\
@@ -8888,5 +8814,3 @@
 		</body>
 	</text>
 </TEI.2>
-
-

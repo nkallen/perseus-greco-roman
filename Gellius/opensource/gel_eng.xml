@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -55,7 +54,7 @@
 		<revisionDesc>
 			<change><date>2009</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -2318,7 +2317,7 @@ so subject to the patronage of Lucius Antonius? Who has ever been found in that 
 <p>In these and many other passages <hi rend="italics">mile</hi> is used in the singular number, and that is not, as some think, a concession to early usage or admitted as a neat figure of speech, but it is obviously demanded  <pb id="v1.p.83"/>  by rule. For the word <hi rend="italics">mille</hi> does not stand for the Greek <foreign lang="greek">xilioi,</foreign> <quote>thousand,</quote> but for <foreign lang="greek">xilia/s,</foreign> <quote>a thousand</quote> ; and just as they say one <foreign lang="greek">xilia/s,</foreign> or two <foreign lang="greek">xilia/des,</foreign> so we say one thousand and two thousands according to a definite and regular rule. Therefore these common expressions are correct and good usage, <quote>There is a thousand of denarii in the chest,</quote> and <quote>There is a thousand of horsemen in the army.</quote> Furthermore Lucilius, in addition to the example cited above, makes this point still clearer in another place also: for in his fifteenth book he says:
 
 <note>506 ff., Marx, who punctuates with a comma after <hi rend="italics">succussor,</hi> with a slight change in the meaning, taking <hi rend="italics">nullus seqetur</hi> in the sense of <hi rend="italics">non sequetur.</hi> On the Campanian horses see Livy, viii.11.5 and xxvi.4.3, 6; Val. Max. ii.3.3.</note>
-<quote rend="blockquote"> <l>This horse no jolting fine Campanian steed,</l> <l>Though he has passed him by one thousand, aye</l> <l>And twain, of paces, can in a longer course</l> <l>Compete with, but he will in fact appear</l> <l part= "I">To run the other way.</l></quote>  So too in the ninth book:
+<quote rend="blockquote"> <l>This horse no jolting fine Campanian steed,</l> <l>Though he has passed him by one thousand, aye</l> <l>And twain, of paces, can in a longer course</l> <l>Compete with, but he will in fact appear</l> <l part="I">To run the other way.</l></quote>  So too in the ninth book:
 
 <note>327, Marx.</note>
 <quote rend="blockquote"> <l>With sesterces a thousand you can gain</l> <l part="I">A hundred thousand.</l></quote>  Lucilius wrote <hi rend="italics">milli passum</hi> instead of <hi rend="italics">mille passibus</hi> and <hi rend="italics">uno milli nummum</hi> for <hi rend="italics">unis mille nunmis,</hi> thus showing clearly that <hi rend="italics">mille</hi> is a noun, used in the singular number, that its plural is <hi rend="italics">milia,</hi> and that it also forms an ablative case. Nor ought we to expect the rest of the cases; for there are many other words which are declined only in single cases, and even some which are not declined at all. Therefore we can no longer doubt that Cicero, in the speech which he wrote In <hi rend="italics">Defence of Milo,</hi>
@@ -2969,9 +2968,9 @@ lance, shall next emerge</l> <l>Into the realms of day. He is the first</l> <l>O
 <p>Cicero's words are:
 
 <note><hi rend="italics">Orator,</hi> &sect; 159.</note>
-<quote>Indeed, what can be more elegant than this, which does not come about from a natural law, but in accordance with a kind of usage? we pronounce the first vowel in <hi rend="italics">indoctus</hi> short, in <hi rend="italics">insanus</hi> long; in <hi rend="italics">immanis</hi> short, in <hi rend="italics">infelix</hi> long; in brief, in compound words in which the first letters are those which begin <hi rend="italics">sapiens</hi> and <hi rend="italics">felix</hi> the prefix is pronounced long, in all others short; thus we have conposuit but c&omacr;nsuevit, c&#x014F;ncrepuit  <pb id="v1.p.169"/>  but <hi rend="italics">c&omacr;nficit.</hi> Consult the rules of grammar and they will censure your usage; refer the matter to your ears and they will approve. Ask why it is so; they will say that it pleases them. And language ought to gratify the pleasure of the ear.</quote></p>
+<quote>Indeed, what can be more elegant than this, which does not come about from a natural law, but in accordance with a kind of usage? we pronounce the first vowel in <hi rend="italics">indoctus</hi> short, in <hi rend="italics">insanus</hi> long; in <hi rend="italics">immanis</hi> short, in <hi rend="italics">infelix</hi> long; in brief, in compound words in which the first letters are those which begin <hi rend="italics">sapiens</hi> and <hi rend="italics">felix</hi> the prefix is pronounced long, in all others short; thus we have conposuit but c&omacr;nsuevit, cŏncrepuit  <pb id="v1.p.169"/>  but <hi rend="italics">c&omacr;nficit.</hi> Consult the rules of grammar and they will censure your usage; refer the matter to your ears and they will approve. Ask why it is so; they will say that it pleases them. And language ought to gratify the pleasure of the ear.</quote></p>
 
-<p>In these words of which Cicero spoke it is clear that the principle is one of euphony, but what are we to say of the preposition <hi rend="italics">pro?</hi> For although it is often shortened or lengthened, yet it does not conform to this rule of Marcus Tullius. For it is not always lengthened when it is followed by the first letter of the word <hi rend="italics">fecit,</hi> which Cicero says has the effect of lengthening the prepositions <hi rend="italics">in</hi> and <hi rend="italics">con.</hi> For we pronounce <hi rend="italics">pr&#x014F;ficisci, pr&#x014F;fugere, pr&#x014F;fundere, pr&#x014F;fannu</hi> and <hi rend="italics">pr&#x014F;festumn</hi> with the first vowel short, but <hi rend="italics">pr&omacr;ferre, pr&omacr;fligare</hi> and <hi rend="italics">pr&omacr;ficere</hi> with that syllable long. Why is it then that this letter, which, according to Cicero's observation, has the effect of lengthening, does not have the same effect by reason of rule or of euphony in all words of the same kind,
+<p>In these words of which Cicero spoke it is clear that the principle is one of euphony, but what are we to say of the preposition <hi rend="italics">pro?</hi> For although it is often shortened or lengthened, yet it does not conform to this rule of Marcus Tullius. For it is not always lengthened when it is followed by the first letter of the word <hi rend="italics">fecit,</hi> which Cicero says has the effect of lengthening the prepositions <hi rend="italics">in</hi> and <hi rend="italics">con.</hi> For we pronounce <hi rend="italics">prŏficisci, prŏfugere, prŏfundere, prŏfannu</hi> and <hi rend="italics">prŏfestumn</hi> with the first vowel short, but <hi rend="italics">pr&omacr;ferre, pr&omacr;fligare</hi> and <hi rend="italics">pr&omacr;ficere</hi> with that syllable long. Why is it then that this letter, which, according to Cicero's observation, has the effect of lengthening, does not have the same effect by reason of rule or of euphony in all words of the same kind,
 
 <note>That is beginning with <hi rend="italics">f.</hi></note>
 but lengthens the vowel in one word and shortens it in another.</p>
@@ -2981,7 +2980,7 @@ but lengthens the vowel in one word and shortens it in another.</p>
 <note>He is loaded with debt; Fr. 50, Jordan; Sail <hi rend="italics">Hist.</hi> iv. 52, Maurenbrecher.</note>
 Moreover <hi rend="italics">c&omacr;ligatus</hi> and <hi rend="italics">c&omacr;nexus</hi> are pronounced long.</p>
 
-<p>But after all, in these cases which I have cited one can see that this particle is lengthened because the letter <hi rend="italics">n</hi> is dropped; for the loss of a letter is compensated by the lengthening of the syllable. This principle is observed also in the word <hi rend="italics">c&omacr;go;</hi> and it is no contradiction that we pronounce <hi rend="italics">c&#x014F;egi</hi>  <pb id="v1.p.171"/>  short; for this form cannot be derived from <hi rend="italics">c&omacr;go</hi> without violation of the principle of analogy.
+<p>But after all, in these cases which I have cited one can see that this particle is lengthened because the letter <hi rend="italics">n</hi> is dropped; for the loss of a letter is compensated by the lengthening of the syllable. This principle is observed also in the word <hi rend="italics">c&omacr;go;</hi> and it is no contradiction that we pronounce <hi rend="italics">cŏegi</hi>  <pb id="v1.p.171"/>  short; for this form cannot be derived from <hi rend="italics">c&omacr;go</hi> without violation of the principle of analogy.
 
 <note>For <quote>analogy</quote> in this sense of <quote>regularity,</quote> see ii. 25. Gellius thought that <hi rend="italics">coegi</hi> was an irregular form because <hi rend="italics">o&emacr;</hi> did not contract, as <hi rend="italics">oi</hi> did in <hi rend="italics">cogo;</hi> but contraction of unlike vowels did not take place when the second was long; cf. <hi rend="italics">co&amacr;ctus.</hi> Cicero's rule is correct, because a vowel is naturally long before <hi rend="italics">ns</hi> and <hi rend="italics">nf.</hi> The case of <hi rend="italics">pro</hi> is quite different. The <hi rend="italics">&omacr;</hi> in <hi rend="italics">c&omacr;pertus</hi> is due to contraction from <hi rend="italics">co-opertus. C&omacr;ligatus</hi> is a very rare form; Skutsch, quoted by Hosius, thought it might come from <hi rend="italics">co-alligatus.</hi> The <hi rend="italics">&omacr;</hi> in <hi rend="italics">cogo</hi> is also due to contraction (<hi rend="italics">co-ago, co-igo</hi>), which does not apply to the perfect <hi rend="italics">coegi.</hi> Compensatory lengthening takes place usually when an <hi rend="italics">s</hi> is lost, as in <hi rend="italics">c&omacr;necto</hi> for <hi rend="italics">co-snecto,</hi> or <hi rend="italics">n</hi> before <hi rend="italics">s</hi> and <hi rend="italics">f;</hi> less commonly when <hi rend="italics">nc</hi> is lost before n.</note>
 </p></div2>
@@ -4719,7 +4718,7 @@ or when its <hi rend="italics">n</hi> is lost, as in Sallust's <hi rend="italics
 <note><quote>Loaded with debt,</quote> Hist. fr. iv. 52, Maur.; see note on ii. 17. 11, p. 168. <hi rend="italics">Copertus</hi> is from <hi rend="italics">co-</hi> (not <hi rend="italics">con-) opertus,</hi> and there is no loss of <hi rend="italics">n.</hi></note>
 But in those instances which I have mentioned above the metre may be preserved without barbarously lengthening the prefixes; for the following letter in those words should be written with two <hi rend="italics">i's,</hi> not with one. For the simple verb to which the above-mentioned particles are prefixed, is not <hi rend="italics">icio,</hi> but <hi rend="italics">iacio,</hi> and the perfect is not <hi rend="italics">icit,</hi> but <hi rend="italics">iecit.</hi> When that word is used in compounds, the letter a is changed into <hi rend="italics">i,</hi> as happens in the verbs <hi rend="italics">insilio</hi> and <hi rend="italics">incipio,</hi> and thus the first <hi rend="italics">i</hi> acquires consonantal force.
 
-<note>Gellius is partly right. As <hi rend="italics">in</hi> + <hi rend="italics">capio</hi> and <hi rend="italics">in</hi> + <hi rend="italics">salio</hi> became <hi rend="italics">incipio</hi> and <hi rend="italics">insilio,</hi> so <hi rend="italics">ob</hi> + <hi rend="italics">iacio</hi> became <hi rend="italics">obiicio.</hi> As the Romans disliked the combination <hi rend="italics">ii,</hi> only one i was written, but both were pronounced, and the syllable <hi rend="italics">ob</hi> was thus long <quote>by position.</quote> In the early Latin dramatists the scansion <hi rend="italics">&#x0103;bicio</hi> indicates that the <hi rend="italics">i</hi> was syncopated and the semi-vowel changed to a vowel. See Sommer, <hi rend="italics">Lat. Laut- und Formenlehre,</hi> p. 522.</note>
+<note>Gellius is partly right. As <hi rend="italics">in</hi> + <hi rend="italics">capio</hi> and <hi rend="italics">in</hi> + <hi rend="italics">salio</hi> became <hi rend="italics">incipio</hi> and <hi rend="italics">insilio,</hi> so <hi rend="italics">ob</hi> + <hi rend="italics">iacio</hi> became <hi rend="italics">obiicio.</hi> As the Romans disliked the combination <hi rend="italics">ii,</hi> only one i was written, but both were pronounced, and the syllable <hi rend="italics">ob</hi> was thus long <quote>by position.</quote> In the early Latin dramatists the scansion <hi rend="italics">ăbicio</hi> indicates that the <hi rend="italics">i</hi> was syncopated and the semi-vowel changed to a vowel. See Sommer, <hi rend="italics">Lat. Laut- und Formenlehre,</hi> p. 522.</note>
 Accordingly, that syllable, being pronounced a little longer and fuller, does not allow the first syllable to be short, but makes it long by position, and thus the rhythm of the verse and the correct pronunciation are preserved.</p>
 
 <p>What I have said leads also to a knowledge of this, that in the line which we find in the sixth book of Virgil:
@@ -5637,7 +5636,7 @@ saw a dolphin that fell in love with a boy called Hyacinthus. For the fish with 
 <quote rend="blockquote"> <l>'Tis not my way, as if a dog had bit me (memorderit).</l></quote>  So too Laberius in the <hi rend="italics">Galli:</hi>
 
 <note>49, Ribbeck<hi rend="sup">3</hi>.</note>
-<quote rend="blockquote"> <l part= "F">Now from my whole estate</l> <l>A hundred thousand have I bitten off (<hi rend="italics">memordi</hi>).</l></quote>  The same Laberius too in his <hi rend="italics">Colorator:</hi>
+<quote rend="blockquote"> <l part="F">Now from my whole estate</l> <l>A hundred thousand have I bitten off (<hi rend="italics">memordi</hi>).</l></quote>  The same Laberius too in his <hi rend="italics">Colorator:</hi>
 
 <note>27, Ribbeck<hi rend="sup">3</hi>.</note>
 <quote rend="blockquote"> <l>And when, o'er slow fire cooked, I came beneath her teeth,</l> <l part="I">Twice, thrice she bit (<hi rend="italics">memordit</hi>).</l></quote>  <pb id="v2.p.47"/>  Also Publius Nigidius in his second book <hi rend="italics">On Animals</hi>:
@@ -6575,7 +6574,7 @@ and of Lucilius' <hi rend="italics">pectus sentibus stare.</hi>
 
 <div1 type="book" n="9"><head>Book IX</head>
 
-<div2 type="chapter" n="1"><head>head>I</head>
+<div2 type="chapter" n="1"><head>head&gt;I</head>
 <milestone unit="section" n="1arg"/>
 <argument>
 
@@ -6723,7 +6722,7 @@ that pleasure was indifferent, that is neutral, neither good nor evil, that,  <p
 <milestone unit="section" n="1"/>FROM <hi rend="italics">ago</hi> and <hi rend="italics">egi</hi> are derived the verbs <hi rend="italics">actito</hi> and <hi rend="italics">actitavi,</hi> which the grammarians call <quote>frequentatives.</quote>
 
 <note>Most modern grammarians prefer the more comprehensive term <quote>intensives.</quote></note>
-These verbs I have heard some men, and those not without learning, pronounce with a shortening of the first syllable, and give as their reason that the first letter of the primitive <hi rend="italics">ago</hi> is pronounced short. Why then do we make the first vowel long in the frequentative forms <hi rend="italics">esito and</hi> <hi rend="italics">unctito,</hi> which are derived from <hi rend="italics">edo</hi> and <hi rend="italics">ungo,</hi> in which the first letter is short;  <pb id="v2.p.173"/>  and, on the contrary, pronounce the first vowel short in <hi rend="italics">dictito</hi> from <hi rend="italics">d&imacr;co</hi>? Accordingly, should not <hi rend="italics">actito</hi> and <hi rend="italics">actitavi</hi> rather be lengthened? For the first syllable of almost all frequentatives is pronounced in the same way as the same syllable of the past participle of the verbs from which they are formed: for example, <hi rend="italics">lego l&emacr;ctus</hi> makes <hi rend="italics">l&emacr;ctito; ungo &umacr;nctus, &umacr;nctito; scr&imacr;bo scr&imacr;ptus, scr&imacr;ptito; moveo m&omacr;tus, m&omacr;tito; pendeo p&emacr;nsus, p&emacr;nsito; edo &emacr;sus, &emacr;sito; but d&imacr;co d&imacr;ctus forms dictito; g&#x0115;ro g&#x0115;stus, g&#x0115;stito; v&#x0115;ho v&#x0115;ctus, v&#x0115;ctito; r&#x0103;pio r&#x0103;ptus, r&#x0103;ptito; c&#x0103;pio c&#x0103;ptus, c&#x0103;ptito; f&#x0103;cio f&#x0103;ctus, f&#x0103;ctito.</hi> So then &#x0103;ctito should be pronounced with the first syllable long, since it is from <hi rend="italics">ago</hi> and &#x0103;ctus.</p>  </div2>
+These verbs I have heard some men, and those not without learning, pronounce with a shortening of the first syllable, and give as their reason that the first letter of the primitive <hi rend="italics">ago</hi> is pronounced short. Why then do we make the first vowel long in the frequentative forms <hi rend="italics">esito and</hi> <hi rend="italics">unctito,</hi> which are derived from <hi rend="italics">edo</hi> and <hi rend="italics">ungo,</hi> in which the first letter is short;  <pb id="v2.p.173"/>  and, on the contrary, pronounce the first vowel short in <hi rend="italics">dictito</hi> from <hi rend="italics">d&imacr;co</hi>? Accordingly, should not <hi rend="italics">actito</hi> and <hi rend="italics">actitavi</hi> rather be lengthened? For the first syllable of almost all frequentatives is pronounced in the same way as the same syllable of the past participle of the verbs from which they are formed: for example, <hi rend="italics">lego l&emacr;ctus</hi> makes <hi rend="italics">l&emacr;ctito; ungo &umacr;nctus, &umacr;nctito; scr&imacr;bo scr&imacr;ptus, scr&imacr;ptito; moveo m&omacr;tus, m&omacr;tito; pendeo p&emacr;nsus, p&emacr;nsito; edo &emacr;sus, &emacr;sito; but d&imacr;co d&imacr;ctus forms dictito; gĕro gĕstus, gĕstito; vĕho vĕctus, vĕctito; răpio răptus, răptito; căpio căptus, căptito; făcio făctus, făctito.</hi> So then ăctito should be pronounced with the first syllable long, since it is from <hi rend="italics">ago</hi> and ăctus.</p>  </div2>
 
 <div2 type="chapter" n="7"><head>VII</head>
 <milestone unit="section" n="7arg"/>
@@ -7364,7 +7363,7 @@ that <pb id="v2.p.245"/> Democritus wrote; namely, that there were certain birds
 
 <p>
 
-<milestone unit="section" n="1"/><hi rend="italics">PARTIM homninum venerunt</hi> is a common expression, meaning <quote>a part of the men came,</quote> that is, <quote>some men.</quote> For <hi rend="italics">partim</hi> is here an adverb and is not declined by cases. Hence we may say <hi rend="italics">cum partim hominum,</hi> that is, <quote>with some men</quote> or <quote>with a certain  <pb id="v2.p.247"/>  part of the men.</quote> Marcus Cato, in his speech <hi rend="italics">On the> property of Florius</hi> has written as follows:
+<milestone unit="section" n="1"/><hi rend="italics">PARTIM homninum venerunt</hi> is a common expression, meaning <quote>a part of the men came,</quote> that is, <quote>some men.</quote> For <hi rend="italics">partim</hi> is here an adverb and is not declined by cases. Hence we may say <hi rend="italics">cum partim hominum,</hi> that is, <quote>with some men</quote> or <quote>with a certain  <pb id="v2.p.247"/>  part of the men.</quote> Marcus Cato, in his speech <hi rend="italics">On the&gt; property of Florius</hi> has written as follows:
 
 <note>p. 64. 8, Jordan.</note>
 <quote>There she acted like a harlot, she went from the banquet straight to the couch and with a part of them (<hi rend="italics">cum partim illorum</hi>) she often conducted herself in the same manner.</quote> The less educated, however, read <hi rend="italics">cum parti,</hi> as if <hi rend="italics">partim</hi> were declined as a noun, not used as an adverb.</p>
@@ -8147,7 +8146,7 @@ or whether the suffix has some special force of its own.</p>
 
 <p>That the translation of certain Greek words into the Latin language is very difficult, for example, that which in Greek is called <foreign lang="greek">polupragmosu/nh.</foreign>
 
-<note></note>
+<note/>
 The word means <quote>being busy about many things,</quote> often with the idea of <quote>officiousness</quote> or <quote>meddling.</quote></p></argument>
 
 <p>
@@ -9211,7 +9210,7 @@ that from us they might raise up children for themselves and their people, and d
 <note>p. 39, Ribbeck<hi rend="sup">3</hi>.</note>
 <quote rend="blockquote"> <l>Neaera I'd not wish to have thee called;</l> <l>Neriene rather, since thou art wife to Mars.</l></quote>  Moreover, the metre of this verse is such that the third syllable in that name must be made short,
 
-<note>That is, N&emacr;r&#x012D;&#x0115;nem, instead of N&emacr;r&#x012D;&emacr;nem.</note>
+<note>That is, N&emacr;rĭĕnem, instead of N&emacr;rĭ&emacr;nem.</note>
 contrary to what was said above. But how greatly the quantity of this syllable varied among the early writers is so well known that I need not waste many words on the subject. Ennius also, in this verse from the first book of his <hi rend="italics">Annals,</hi>
 
 <note><hi rend="italics">Ann.</hi> 104, Vahlen<hi rend="sup">2</hi>.</note>
@@ -12653,4 +12652,4 @@ But that which was deposited with the arbiter they spoke of as <hi rend="italics
 </div1> 
 	</body>    
 </text>
-</TEI.2> 
+</TEI.2>

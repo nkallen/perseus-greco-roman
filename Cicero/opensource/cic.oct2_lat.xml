@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -682,7 +681,7 @@ nece <name>Papiri</name> cruentavit, haec<note>haec, haec <hi rend="italics">E</
 rursus est in me; nuper quidem, ut scitis, me ad 
 regiam paene confecit. 
 
-<milestone n="38" unit="section"/><reg>quid</reg> simile<note>simile] esse simile (?) <foreign lang="greek">S</foreign>: simil&#x1EBD; <hi rend="italics">E</hi>: simile est <hi rend="italics">Baiter</hi></note> <name>Milonis</name>? cuius vis 
+<milestone n="38" unit="section"/><reg>quid</reg> simile<note>simile] esse simile (?) <foreign lang="greek">S</foreign>: similẽ <hi rend="italics">E</hi>: simile est <hi rend="italics">Baiter</hi></note> <name>Milonis</name>? cuius vis 
 omnis haec semper fuit, ne <persName>P. Clodius</persName>, cum in iudicium 
 detrahi non posset, vi oppressam civitatem teneret. <reg>quem</reg> 
 si interficere voluisset, quantae<note>quotiens et quantae <hi rend="italics">Schol.</hi></note> quotiens occasiones, quam 
@@ -1856,7 +1855,7 @@ publica, tam nihil umquam nec de sua nec de communi<note>communi <foreign lang="
 salute cogitans, qui non<note>qui non] quin <hi rend="italics">AV</hi></note> intellegat tua salute contineri suam 
 et ex unius tua vita pendere omnium<note>pendere omnia <hi rend="italics"><foreign lang="greek">a</foreign> et Schol. Lucani</hi> v. 686</note>? <reg>equidem</reg> de te dies 
 noctesque, ut debeo, cogitans casus dumtaxat humanos et 
-incertos eventus valetudinis et naturae communis fragilitatem<note>fragilitat&#x1EBD;s <hi rend="italics">H</hi></note> 
+incertos eventus valetudinis et naturae communis fragilitatem<note>fragilitatẽs <hi rend="italics">H</hi></note> 
 extimesco, doleoque, cum res publica immortalis esse 
 debeat, eam in unius mortalis anima consistere. 
 
@@ -4571,7 +4570,7 @@ contra <persName>Cn. Pompei</persName> liberos pugnare<note>tamen erat aequissim
 
 <milestone n="76" unit="section"/><reg>an</reg> ut tu<note>ut tu <hi rend="italics">scripsi</hi>: tutu <hi rend="italics">V</hi>: ut <hi rend="italics">n</hi>: tu <hi rend="italics">cst</hi>: cum <hi rend="italics">Servius K.</hi> iv. 416: cum tu <hi rend="italics">Klotz</hi></note> <name>Narbone</name> mensas hospitum convomeres<note>convomeres <hi rend="italics">V</hi>: cum vomeres <hi rend="italics">cns</hi>: cum convom. <hi rend="italics">t</hi></note> <name>Dolabella</name> 
 pro te in <name>Hispania</name> dimicaret? </p>
-<p><reg>qui</reg> vero <name>Narbone</name> reditus! <reg>etiam</reg><note>etiam <hi rend="italics">V</hi>: &#x1EBD; (ei' <hi rend="italics">c</hi>) iam <hi rend="italics">ct</hi>: et tamen <hi rend="italics">ns</hi></note> quaerebat cur ego 
+<p><reg>qui</reg> vero <name>Narbone</name> reditus! <reg>etiam</reg><note>etiam <hi rend="italics">V</hi>: ẽ (ei' <hi rend="italics">c</hi>) iam <hi rend="italics">ct</hi>: et tamen <hi rend="italics">ns</hi></note> quaerebat cur ego 
 ex ipso cursu tam subito revertissem. <reg>exposui</reg> nuper, 
 patres conscripti, causam reditus mei. <reg>volui</reg>, si possem, 
 etiam ante <name>Kalendas</name> <name>Ianuarias</name> prodesse rei publicae. 
@@ -5028,7 +5027,7 @@ ergo flamen, ut <name>Iovi</name>, ut <name>Marti</name>, ut <name>Quirino</name
 <persName>M. Antonius</persName>? <reg>quid</reg> igitur cessas? <reg>cur</reg> non inauguraris<note>inauguraris <hi rend="italics">Halm</hi>: inauguraras <hi rend="italics">V</hi>: inaugurare <hi rend="italics">D</hi></note>? 
 <reg>sume</reg> diem, vide qui te inauguret: conlegae sumus; nemo 
 negabit. O detestabilem hominem, sive quod<note>eo quod <hi rend="italics">V</hi></note> tyranni<note>tyranni <hi rend="italics">D</hi>: Caesaris <hi rend="italics">V</hi></note> sacerdos 
-es<note>es] &#x1EBD; <hi rend="italics">V2 in ras.</hi>: est <hi rend="italics">D</hi></note> sive quod mortui! <reg>quaero</reg> deinceps num hodiernus 
+es<note>es] ẽ <hi rend="italics">V2 in ras.</hi>: est <hi rend="italics">D</hi></note> sive quod mortui! <reg>quaero</reg> deinceps num hodiernus 
 dies qui sit ignores? <reg>nescis</reg> heri quartum in circo diem 
 ludorum <name>Romanorum</name> fuisse? te autem ipsum ad populum 
 tulisse ut quintus praeterea dies <name>Caesari</name> tribueretur? <reg>cur</reg> 
@@ -5082,7 +5081,7 @@ repellendum<note>repellenda <hi rend="italics">Isid. Origg.</hi> ii. 29. 13</not
 <milestone n="114" unit="section"/><reg>quod</reg> si se ipsos illi nostri liberatores e conspectu 
 nostro abstulerunt, at exemplum facti reliquerunt. 
 <reg>illi</reg> quod nemo fecerat fecerunt. <name>Tarquinium</name> <name>Brutus</name> bello 
-est persecutus, qui tum rex fuit cum esse <name>Romae</name><note>Romae <hi rend="italics">Muretus</hi>: Roma te <hi rend="italics">V</hi> (-ae. t&#x0119;. <hi rend="italics">V2</hi>): Romae regem <hi rend="italics">D</hi></note> licebat; 
+est persecutus, qui tum rex fuit cum esse <name>Romae</name><note>Romae <hi rend="italics">Muretus</hi>: Roma te <hi rend="italics">V</hi> (-ae. tę. <hi rend="italics">V2</hi>): Romae regem <hi rend="italics">D</hi></note> licebat; 
 <persName>Sp. Cassius</persName>, <persName>Sp. Maelius</persName>, <persName>M. Manlius</persName> propter suspicionem 
 regni appetendi sunt necati: hi primum<note>primum <hi rend="italics">V</hi>: primi <hi rend="italics">D</hi></note> cum gladiis non in 
 regnum appetentem, sed in regnantem impetum fecerunt. 
@@ -5425,7 +5424,7 @@ dignitasque consisteret?
 
 <milestone n="20" unit="section"/><reg>sed</reg> cum tam atroci edicto nos 
 concitavisset, cur ipse non adfuit? <reg>num</reg> putatis<note>putastis (-ti <hi rend="italics">V1</hi>) <hi rend="italics">V</hi></note> aliqua re 
-tristi ac severa? vino atque epulis retentus, si<note>si <hi rend="italics">V</hi>: est <hi rend="italics">D</hi>: est, si <hi rend="italics">Faernus</hi></note> illae<note>illae] ille <hi rend="italics">V</hi>: eae <hi rend="italics">c</hi>: &#x0119;lea <hi rend="italics">t</hi>: alea si (est si s) <hi rend="italics">ns</hi></note> epulae 
+tristi ac severa? vino atque epulis retentus, si<note>si <hi rend="italics">V</hi>: est <hi rend="italics">D</hi>: est, si <hi rend="italics">Faernus</hi></note> illae<note>illae] ille <hi rend="italics">V</hi>: eae <hi rend="italics">c</hi>: ęlea <hi rend="italics">t</hi>: alea si (est si s) <hi rend="italics">ns</hi></note> epulae 
 potius quam popinae nominandae sunt, diem edicti obire 
 neglexit: in<note>in <hi rend="italics">V1</hi>: et <hi rend="italics">V2D</hi></note> ante diem<note>ante diem <hi rend="italics">D</hi>: ad <hi rend="italics">V</hi></note> <num>iv</num> <name>Kalendas</name> <name>Decembris</name> distulit. 
 <reg>adesse</reg> in <name>Capitolio</name> iussit; quod in templum ipse nescio 
@@ -5639,7 +5638,7 @@ defuturam esse profitetur. <reg>nihil</reg> est quod moneam vos.
 <reg>nemo</reg> est tam stultus qui non intellegat, si indormierimus 
 huic tempori, non modo crudelem superbamque dominationem 
 nobis sed ignominiosam etiam et flagitiosam ferendam 
-esse<note>ferendam esse <hi rend="italics">Muretus</hi>: ferend&#x1EBD; <hi rend="italics">V</hi>: ferendam <hi rend="italics">c</hi>: esse ferendam <hi rend="italics">nst</hi></note>. 
+esse<note>ferendam esse <hi rend="italics">Muretus</hi>: ferendẽ <hi rend="italics">V</hi>: ferendam <hi rend="italics">c</hi>: esse ferendam <hi rend="italics">nst</hi></note>. 
 
 <milestone n="35" unit="section"/><name>Nostis</name> insolentiam <name>Antoni</name>, nostis amicos, nostis totam 
 domum. <reg>libidinosis</reg>, petulantibus, impuris, impudicis, aleatoribus, 
@@ -7702,7 +7701,7 @@ civibus in tanta atrocitate temporis tantaque perturbatione
 rei publicae non differre vestitu. <reg>non</reg> enim ita gerimus nos 
 hoc bello consulares ut aequo animo populus <name>Romanus</name> 
 visurus sit nostri honoris insignia, cum partim e nobis ita 
-timidi sint ut omnem<note>timidi sint ut omnem <hi rend="italics">V</hi>: timidis induto &#x1EBD; nem <hi rend="italics">t</hi>: timidis in tuto est ne ii (hi) <hi rend="italics">cett.</hi></note> populi <name>Romani</name> beneficiorum memoriam 
+timidi sint ut omnem<note>timidi sint ut omnem <hi rend="italics">V</hi>: timidis induto ẽ nem <hi rend="italics">t</hi>: timidis in tuto est ne ii (hi) <hi rend="italics">cett.</hi></note> populi <name>Romani</name> beneficiorum memoriam 
 abiecerint, partim ita a re publica aversi ut<note>ut <hi rend="italics">Vb</hi>: ut huic <hi rend="italics">nst</hi></note> se hosti 
 favere prae se ferant, legatos nostros ab <name>Antonio</name> despectos 
 et inrisos<note>esse et inrisos <hi rend="italics">nst</hi></note> facile patiantur, legatum <name>Antoni</name> sublevatum 
@@ -8013,7 +8012,7 @@ publicae causa faveo, tum etiam tua.
 
 <milestone n="5" unit="section"/><reg>quaero</reg> igitur, eum 
 <name>Brutine</name><note>eumne Bruti <hi rend="italics">V</hi></note> similem malis an <name>Antoni</name>, ac permitto ut de tribus 
-<name>Antoniis</name> eligas quem velis. '<reg>di</reg> meliora<note>di meliora <hi rend="italics">V1b1t</hi>: dr. b. melior&#x1EBD; <hi rend="italics">V2</hi>: d. brutus melior est <hi rend="italics">cett.</hi></note>!' inquies. <reg>cur</reg> 
+<name>Antoniis</name> eligas quem velis. '<reg>di</reg> meliora<note>di meliora <hi rend="italics">V1b1t</hi>: dr. b. meliorẽ <hi rend="italics">V2</hi>: d. brutus melior est <hi rend="italics">cett.</hi></note>!' inquies. <reg>cur</reg> 
 igitur non eis faves, eos laudas quorum similem tuum filium 
 esse vis? <reg>simul</reg> enim et rei publicae consules et propones<note>consulis et proponis <hi rend="italics">D</hi></note> 
 illi exempla ad imitandum. <reg>hoc</reg> vero, <persName>Q. Fufi</persName>, cupio<note>cupio <hi rend="italics">V</hi>: copiosius <hi rend="italics">D</hi></note> sine 
@@ -8917,7 +8916,7 @@ diligo.
 
 <milestone n="37" unit="section"/>'<reg>vide</reg>,' inquit 'ne veteranos offendas:' hoc enim 
 vel maxime exaudio. <reg>ego</reg> autem veteranos tueri debeo, sed 
-eos quibus<note>sed eos quibus <hi rend="italics">n</hi>: sed iis quibus <hi rend="italics">s</hi>: q iis quos quibus <hi rend="italics">t</hi>: &#x1EBD; quod iis quos quibus <hi rend="italics">b.</hi></note><note><hi rend="italics">An</hi> eos quidem quibus?</note> sanitas est; certe timere non debeo. <name>Eos</name> vero 
+eos quibus<note>sed eos quibus <hi rend="italics">n</hi>: sed iis quibus <hi rend="italics">s</hi>: q iis quos quibus <hi rend="italics">t</hi>: ẽ quod iis quos quibus <hi rend="italics">b.</hi></note><note><hi rend="italics">An</hi> eos quidem quibus?</note> sanitas est; certe timere non debeo. <name>Eos</name> vero 
 veteranos qui pro re publica arma ceperunt secutique sunt 
 <persName>C. Caesarem</persName> auctorem<note>auctorem (-e <hi rend="italics">b</hi>) <hi rend="italics">bt</hi>: auctoritatem (-te <hi rend="italics">s</hi>) <hi rend="italics">ns</hi></note> beneficiorum paternorum, hodieque 
 rem publicam defendunt vitae suae periculo<note>vitae suae periculo <hi rend="italics">Halm</hi> (<hi rend="italics">cf.</hi> &sect; 4): video epericulo <hi rend="italics">t</hi>: magno per. <hi rend="italics">b</hi>: cum magno per. <hi rend="italics">ns</hi></note>, non tueri solum 
@@ -9137,7 +9136,7 @@ quae decrevimus obruere volumus<note>volumus <hi rend="italics">om. V1</hi></not
 delere possumus? <reg>quando</reg> enim obliviscetur ulla posteritas 
 cuius scelere in hac vestitus foeditate fuerimus? Vt  
 centurionum legionis <name>Martiae</name> <name>Brundisi</name> profusus sanguis 
-eluatur<note>eluatur <hi rend="italics">bn2</hi>: elevatur <hi rend="italics">V</hi>: eluitur <hi rend="italics">n1stv</hi></note>, num elui<note>elui <hi rend="italics">V</hi>: &#x0119;ui <hi rend="italics">t</hi>: eius <hi rend="italics">cett.</hi></note> praedicatio crudelitatis potest? Vt media 
+eluatur<note>eluatur <hi rend="italics">bn2</hi>: elevatur <hi rend="italics">V</hi>: eluitur <hi rend="italics">n1stv</hi></note>, num elui<note>elui <hi rend="italics">V</hi>: ęui <hi rend="italics">t</hi>: eius <hi rend="italics">cett.</hi></note> praedicatio crudelitatis potest? Vt media 
 praeteream, quae vetustas tollet operum circum<note>circa <hi rend="italics">D</hi></note> <name>Mutinam</name> 
 taetra monumenta<note>munimenta <hi rend="italics">D</hi></note>, sceleris indicia latrocinique vestigia? 
 
@@ -9757,7 +9756,7 @@ ossibus clarissimi viri et apparuisse numen deorum intra
 finem anni vertentis aut iam soluto supplicio parricidi<note>parricidii <hi rend="italics">b</hi>: -da <hi rend="italics">t</hi>: -dae (-diae <hi rend="italics">s</hi>) <hi rend="italics">cett.</hi></note> aut 
 impendente laetandum est.' O <name>Spartace</name>! quem enim te  
 potius appellem, cuius propter nefanda scelera tolerabilis 
-videtur fuisse<note>videtur fuisse <hi rend="italics">l</hi>: fuisse videtur <hi rend="italics">cett.</hi> (<hi rend="italics">malo numero</hi>)</note> <name>Catilina</name>? laetandum esse ausus es<note>es <hi rend="italics">nsv</hi> &#x1EBD; <hi rend="italics">t</hi>: <hi rend="italics">om. b</hi></note> scribere 
+videtur fuisse<note>videtur fuisse <hi rend="italics">l</hi>: fuisse videtur <hi rend="italics">cett.</hi> (<hi rend="italics">malo numero</hi>)</note> <name>Catilina</name>? laetandum esse ausus es<note>es <hi rend="italics">nsv</hi> ẽ <hi rend="italics">t</hi>: <hi rend="italics">om. b</hi></note> scribere 
 <name>Trebonium</name> dedisse poenas? sceleratum <name>Trebonium</name>? quo 
 scelere, nisi quod te <name>Idibus</name> <name>Martiis</name> a debita tibi peste 
 seduxit? 
@@ -9910,7 +9909,7 @@ imprimas non habere? '<name>Cascam</name> tribunatum gerere passi
 estis.' <reg>quid</reg> ergo? 
 
 <milestone n="31" unit="section"/>ut <name>Marullum</name>, ut <name>Caesetium</name><note>Caesetium <hi rend="italics">Ferrarius</hi>: caes etium <hi rend="italics">t</hi>: caes. etiam <hi rend="italics">cett.</hi></note> a re publica 
-removeremus<note>moveremus <hi rend="italics">b1</hi>: moremus <hi rend="italics">t</hi></note> eum per quem ut neque idem hoc<note>idem hoc <hi rend="italics">osv</hi>: idem <hi rend="italics">b</hi>: hoc &#x1EBD; <hi rend="italics">t</hi>: hoc idem <hi rend="italics">Halm</hi></note> posthac 
+removeremus<note>moveremus <hi rend="italics">b1</hi>: moremus <hi rend="italics">t</hi></note> eum per quem ut neque idem hoc<note>idem hoc <hi rend="italics">osv</hi>: idem <hi rend="italics">b</hi>: hoc ẽ <hi rend="italics">t</hi>: hoc idem <hi rend="italics">Halm</hi></note> posthac 
 neque multa eius modi accidere possent consecuti sumus? 
 '<reg>vectigalia</reg> <name>Iuliana</name> <name>Lupercis</name> ademistis.' <name>Lupercorum</name> mentionem 
 facere audet? neque illius diei memoriam perhorrescit 
@@ -9980,7 +9979,7 @@ adhuc omnia integra sunt.' <reg>nihil</reg> vidi tam integrum quam
 ut oppugnare imperatorem incipiant quem tanto studio 
 consensuque oderint<note>oderint <hi rend="italics">scripsi</hi>: ostenderint <hi rend="italics">t</hi>: offenderint <hi rend="italics">bsv</hi>: ostenderint quam oderint <hi rend="italics">Lehmann</hi>: cum tantum studium consensumque ostenderint <hi rend="italics">Halm</hi>: <hi rend="italics">fort.</hi> cum ... offensionem ostenderint</note>. 
 
-<milestone n="35" unit="section"/>'<reg>quos</reg> iam<note>quos iam <hi rend="italics">scripsi</hi>: quoniam (qu&#x1EBD; <hi rend="italics">s1</hi>) <hi rend="italics">codd</hi>:-atum <hi rend="italics">Madving</hi></note> vos adsentationibus et 
+<milestone n="35" unit="section"/>'<reg>quos</reg> iam<note>quos iam <hi rend="italics">scripsi</hi>: quoniam (quẽ <hi rend="italics">s1</hi>) <hi rend="italics">codd</hi>:-atum <hi rend="italics">Madving</hi></note> vos adsentationibus et 
 venenatis muneribus venistis depravaturi<note>depravaturi <hi rend="italics">scripsi</hi>: -ati (<hi rend="italics">om. t</hi>) <hi rend="italics">codd</hi> -atum <hi rend="italics">Madvig</hi></note>.' <reg>an</reg><note>an] itane <hi rend="italics">Madvig</hi></note> corrupti 
 sunt quibus persuasum sit<note>sit] est <hi rend="italics">b2</hi></note> foedissimum hostem iustissimo 
 bello persequi? '<reg>at</reg> militibus inclusis opem fertis. <reg>nihil</reg> 
@@ -10400,7 +10399,7 @@ sine defensione purgatus&mdash;quam ut quosdam nimis ieiuno
 animo et angusto monerem, id quod semper ipse fecissem, 
 uti excellentium civium virtutem imitatione dignam, non 
 invidia putarent. <name>Magnus</name> est in re publica campus, ut 
-sapienter dicere <persName>M. Crassus</persName><note>dicere M. <hi rend="italics">scripsi</hi>: dicer&#x1EBD; <hi rend="italics">t</hi>: dicere <hi rend="italics">cett.</hi>: dicere L. <hi rend="italics">coni. Halm</hi></note> solebat, multis apertus cursus ad 
+sapienter dicere <persName>M. Crassus</persName><note>dicere M. <hi rend="italics">scripsi</hi>: dicerẽ <hi rend="italics">t</hi>: dicere <hi rend="italics">cett.</hi>: dicere L. <hi rend="italics">coni. Halm</hi></note> solebat, multis apertus cursus ad 
 laudem. 
 
 <milestone n="7" unit="chapter"/>Vtinam quidem illi principes viverent qui me 
@@ -10564,7 +10563,7 @@ quam quoniam<note>quam quoniam <hi rend="italics">Orelli</hi>: quamquam <hi rend
 eos numquam oportebit consili sui paenitere. <reg>sed</reg> facile 
 est bene agere cum eis a quibus etiam tacentibus flagitari 
 videmur: illud admirabilius et maius maximeque proprium 
-senatus sapientis est, grata eorum<note>grata eorum <hi rend="italics">Naugerius</hi> (1): gr&#x1EBD; horum <hi rend="italics">b</hi>: gratiarum <hi rend="italics">cett.</hi></note> virtutem memoria prosequi 
+senatus sapientis est, grata eorum<note>grata eorum <hi rend="italics">Naugerius</hi> (1): grẽ horum <hi rend="italics">b</hi>: gratiarum <hi rend="italics">cett.</hi></note> virtutem memoria prosequi 
 qui pro patria vitam profuderunt. 
 
 <milestone n="31" unit="section"/><reg>quorum</reg> de honore 

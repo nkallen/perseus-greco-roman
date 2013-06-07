@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -56,7 +55,7 @@ Libri Octo</title>
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -800,7 +799,7 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="336"/>
 <l>attollens dictis animos: 'o si mihi sanguis,</l>
 <milestone unit="line" ed="exclude" n="337"/>
-<l>quantus erat, cum signiferum cratera minantem<note>signiferum cratera (crat&#x1EBD; <hi rend="italics">M</hi><hi rend="sup">2</hi>) minantem <hi rend="italics">CM</hi><hi rend="sup">2</hi>, signifera<gap reason="needschecking"/>  cratera<gap reason="needschecking"/>  sinaut<gap reason="needschecking"/>  <hi rend="italics">V</hi></note></l>
+<l>quantus erat, cum signiferum cratera minantem<note>signiferum cratera (cratẽ <hi rend="italics">M</hi><hi rend="sup">2</hi>) minantem <hi rend="italics">CM</hi><hi rend="sup">2</hi>, signifera<gap reason="needschecking"/>  cratera<gap reason="needschecking"/>  sinaut<gap reason="needschecking"/>  <hi rend="italics">V</hi></note></l>
 <milestone unit="line" ed="exclude" n="338"/>
 <l>non leviore Pholum<note>Pholum <hi rend="italics">Sabellicus,</hi> tholum <hi rend="italics">V,</hi> tolum <hi rend="italics">C</hi></note> manus haec compescuit auro,</l>
 <milestone unit="line" ed="exclude" n="339"/>
@@ -1446,7 +1445,7 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="638"/>
 <l>solvitur et vasto puppis mare sorbet hiatu.</l>
 <milestone unit="line" ed="exclude" n="639"/>
-<l>illam huc atque illuc nunc torquens verberat Eurus,<note>eurus <hi rend="italics">X</hi><hi rend="sup">2</hi> <hi rend="italics">>ut vid., M,</hi> euros <hi rend="italics">V</hi></note></l>
+<l>illam huc atque illuc nunc torquens verberat Eurus,<note>eurus <hi rend="italics">X</hi><hi rend="sup">2</hi> <hi rend="italics">&gt;ut vid., M,</hi> euros <hi rend="italics">V</hi></note></l>
 <milestone unit="line" ed="exclude" n="640"/>
 <l n="640">nunc stridens Zephyris aufert Notus; undique fervent</l>
 <milestone unit="line" ed="exclude" n="641"/>
@@ -6824,7 +6823,7 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="113"/>
 <milestone unit="para"/><l>Addidit hic casu comites Fortuna benigno</l>
 <milestone unit="line" ed="exclude" n="114"/>
-<l>Autolycum<note>Autolycum <hi rend="italics">Pius,</hi> Aut holitum <hi rend="italics">V,</hi> Autolitum <hi rend="italics">C</hi> &verbar; Phlogiumque <hi rend="italics">T</hi><hi rend="sup">2</hi>, <hi rend="italics">Bon.</hi><hi rend="sup">2</hi>, phogiumque <hi rend="italics">VC</hi> &verbar; Deileonta <hi rend="italics">Bon.</hi><hi rend="sup">2</hi>, deiolenta <hi rend="italics">VC</hi> &verbar; secutos <hi rend="italics">>M</hi><hi rend="sup">2</hi>, secutus <hi rend="italics">V</hi></note> Phlogiumque et Deileonta, secutos</l>
+<l>Autolycum<note>Autolycum <hi rend="italics">Pius,</hi> Aut holitum <hi rend="italics">V,</hi> Autolitum <hi rend="italics">C</hi> &verbar; Phlogiumque <hi rend="italics">T</hi><hi rend="sup">2</hi>, <hi rend="italics">Bon.</hi><hi rend="sup">2</hi>, phogiumque <hi rend="italics">VC</hi> &verbar; Deileonta <hi rend="italics">Bon.</hi><hi rend="sup">2</hi>, deiolenta <hi rend="italics">VC</hi> &verbar; secutos <hi rend="italics">&gt;M</hi><hi rend="sup">2</hi>, secutus <hi rend="italics">V</hi></note> Phlogiumque et Deileonta, secutos</l>
 <milestone unit="line" ed="exclude" n="115"/>
 <l n="115">Herculis arma viros; vagus hos ibi fixerat error.</l>
 <milestone unit="line" ed="exclude" n="116"/>
@@ -7858,7 +7857,7 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="595"/>
 <l n="595">pectora et ingenti turbantem pocula barba.'</l>
 <milestone unit="line" ed="exclude" n="596"/>
-<l>hic et<note>et <hi rend="italics">Bon.</hi><hi rend="sup">2</hi>, &#x0113; <hi rend="italics">V</hi> &verbar; Iaxarten <hi rend="italics">vulgo,</hi> laxarten <hi rend="italics">V,</hi> Laxasten <hi rend="italics">C</hi></note> Iaxarten dictis stupet hospes acerbis</l>
+<l>hic et<note>et <hi rend="italics">Bon.</hi><hi rend="sup">2</hi>, ē <hi rend="italics">V</hi> &verbar; Iaxarten <hi rend="italics">vulgo,</hi> laxarten <hi rend="italics">V,</hi> Laxasten <hi rend="italics">C</hi></note> Iaxarten dictis stupet hospes acerbis</l>
 <milestone unit="line" ed="exclude" n="597"/>
 <l>immodicum linguaque gravem, cui multa<note>multa <hi rend="italics">Heinsius,</hi> inulla <hi rend="italics">V,</hi> nulla <hi rend="italics">vulgo</hi></note> minanti</l>
 <milestone unit="line" ed="exclude" n="598"/>
@@ -8179,7 +8178,7 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="47"/>
 <l>gratior<note>Gratior <hi rend="italics">M,</hi> Cratior <hi rend="italics">V</hi></note> ipse deis orbaque beatior aula.</l>
 <milestone unit="line" ed="exclude" n="48"/>
-<l>proxima Bisaltae<note>Bisalte <hi rend="italics">Bon.</hi><hi rend="sup">1</hi>, bis altae <hi rend="italics">M</hi><hi rend="sup">2</hi><hi rend="italics">T hisaltae V</hi> &verbar; legio <hi rend="italics">T Piu>s,</hi> regio <hi rend="italics">V</hi></note> legio ductorque Colaxes,</l>
+<l>proxima Bisaltae<note>Bisalte <hi rend="italics">Bon.</hi><hi rend="sup">1</hi>, bis altae <hi rend="italics">M</hi><hi rend="sup">2</hi><hi rend="italics">T hisaltae V</hi> &verbar; legio <hi rend="italics">T Piu&gt;s,</hi> regio <hi rend="italics">V</hi></note> legio ductorque Colaxes,</l>
 <milestone unit="line" ed="exclude" n="49"/>
 <l>sanguis et ipse deum, Scythicis quem Iuppiter oris</l>
 <milestone unit="line" ed="exclude" n="50"/>
@@ -8848,7 +8847,7 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="359"/>
 <l>dat famulis, tendunt illi tractuque vicissim</l>
 <milestone unit="line" ed="exclude" n="360"/>
-<l n="360">taurea terga dormant, pingui fluit unguine<note>unguine <hi rend="italics">Bon.</hi><hi rend="sup">1</hi>, inguine <hi rend="italics">V</hi> &verbar; tellus <hi rend="italics">M,</hi> tellis <hi rend="italics">V,</hi> pellis <hi rend="italics">Damst&#x0113;</hi></note> tellus:</l>
+<l n="360">taurea terga dormant, pingui fluit unguine<note>unguine <hi rend="italics">Bon.</hi><hi rend="sup">1</hi>, inguine <hi rend="italics">V</hi> &verbar; tellus <hi rend="italics">M,</hi> tellis <hi rend="italics">V,</hi> pellis <hi rend="italics">Damstē</hi></note> tellus:</l>
 <milestone unit="line" ed="exclude" n="361"/>
 <l>talis utrimque labos, raptataque limite in arto</l>
 <milestone unit="line" ed="exclude" n="362"/>
@@ -11081,9 +11080,9 @@ Libri Octo</title>
 <milestone unit="line" ed="exclude" n="630"/>
 <l n="630">iamque omnes videre<note>uidere <hi rend="italics">V,</hi> odere <hi rend="italics">C</hi></note> virum, iamque omnia contra</l>
 <milestone unit="line" ed="exclude" n="631"/>
-<l>tela micant.<note>micant <hi rend="italics">Kr.</hi> (<hi rend="italics">vix</hi> v&#x012D;brant), iubant <hi rend="italics">V Post </hi></note> tum vero amens discrimine tanto,</l>
+<l>tela micant.<note>micant <hi rend="italics">Kr.</hi> (<hi rend="italics">vix</hi> vĭbrant), iubant <hi rend="italics">V Post </hi></note> tum vero amens discrimine tanto,</l>
 <milestone unit="line" ed="exclude" n="632"/>
-<l>quam modo Tartareo galeamn Medea veneno<note><hi rend="italics">in C legitur</hi> Infectam deder&#x0103; ususque armarat in illos</note></l>
+<l>quam modo Tartareo galeamn Medea veneno<note><hi rend="italics">in C legitur</hi> Infectam dederă ususque armarat in illos</note></l>
 <milestone unit="line" ed="exclude" n="633"/>
 <l><gap/></l>
 <milestone unit="line" ed="exclude" n="634"/>

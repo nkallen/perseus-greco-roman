@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -504,7 +503,7 @@ system.  If the subjunctive desribes an action at the same time as that of the m
 after that of the main verb (that is, action that is not completed), the subjunctive comes from the present system.  So:
 
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1"><emph>Main verb primary</emph></cell><cell cols="1" role="data" rows="1"><emph>Main verb secondary</emph></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1"><emph>Main verb primary</emph></cell><cell cols="1" role="data" rows="1"><emph>Main verb secondary</emph></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1"><emph>Subjunctive happens before (complete)</emph></cell><cell cols="1" role="data" rows="1">Perfect subjunctive</cell><cell cols="1" role="data" rows="1">Pluperfect subjunctive</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1"><emph>Subjunctive happens after (incomplete)</emph></cell><cell cols="1" role="data" rows="1">Present subjunctive</cell><cell cols="1" role="data" rows="1">Imperfect subjunctive</cell></row>
 </table>

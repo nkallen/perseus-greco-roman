@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -3856,7 +3855,7 @@
 <text lang="en" n="Court">
 <body>
 <head>The Court of Love, a tale from Chaucer.</head>
-<milestone n="0" unit="carte" />
+<milestone n="0" unit="carte"/>
 <l>Once as I lay, by heavy sleep oppress'd,</l>
 <l>With this strange whim my fancy was possess'd:</l>
 <l>I dreamt that Cupid call'd me to his court</l>

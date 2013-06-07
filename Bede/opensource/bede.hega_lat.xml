@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -599,7 +598,7 @@ beatorum martyrum, qui de toto orbe ad Dominum
 uenirent, mentionem faceret, ait: <note lang="en" anchored="yes" place="marg">Carm.
 VIII. iii.
 155.</note></p>
-<p></p><l>Albanum egregium fecunda Britania profert.</l>
+<p/><l>Albanum egregium fecunda Britania profert.</l>
 <p>Qui uidelicet Albanus, paganus adhuc, cum perfidorum
 principum mandata aduersum Christianos
 saeuirent, clericum quendam persecutores fugientem
@@ -832,11 +831,11 @@ emundari. Quod pulchre uersibus heroicis Prosper
 rethor insinuat, cum ait: <note lang="en" anchored="yes" place="marg">Epigr.
 p. 193,
 ed. <date value="1711">1711</date></note></p>
-<p></p><l>&lsquo;Contra Augustinum narratur serpere quidam
+<p/><l>&lsquo;Contra Augustinum narratur serpere quidam
 Scriptor, quem dudum liuor adurit edax.</l>
-<p></p><l>Quis caput obscuris contectum utcumque cauernis
+<p/><l>Quis caput obscuris contectum utcumque cauernis
 Tollere humo miserum propulit anguiculum?</l>
-<p></p><l>Aut hunc fruge sua aequorei pauere Britanni,
+<p/><l>Aut hunc fruge sua aequorei pauere Britanni,
 Aut hic Campano gramine corda tumet.&rsquo;</l></div2>
 <div2 type="chapter" n="11">
 <head>CAP. XI.</head>
@@ -1714,7 +1713,7 @@ trium stadiorum, et duobus tantum in locis est transmeabilis;
 utrumque enim caput protendit in mare.
 In hac ergo adplicuit seruus Domini Augustinus, et
 socii eius, uiri, ut ferunt, ferme XL. Acceperunt <note lang="en" anchored="yes" place="marg">Reception
-by <persName><surname>Ethelbert</surname></persName>>
+by <persName><surname>Ethelbert</surname></persName>&gt;
 of
 <placeName key="tgn,7008153">Kent</placeName>.</note>
 autem, praecipiente beato papa Gregorio, de gente Francorum
@@ -1821,7 +1820,7 @@ in diuersis speciebus possessiones conferret.
 <head>CAP. XXVII.</head>
 <argument><p>Ut idem episcopus factus Gregorio papae, quae sint Brittaniae gesta
 mandarit, simul et necessariis eius responsa petens acceperit.</p></argument>
-<p><note lang="en" anchored="yes" place="marg"><persName><surname>Augustine</surname></persName>>
+<p><note lang="en" anchored="yes" place="marg"><persName><surname>Augustine</surname></persName>&gt;
 consecrated
 by
 Etherius,
@@ -1836,7 +1835,7 @@ gentem Anglorum fidem Christi suscepisse, ac se episcopum
 factum esse referrent; simul et de eis, quae necessariae
 <note lang="en" anchored="yes" place="marg"><persName><surname>Gregory</surname></persName>'s
 replies to
-<persName><surname>Augustine</surname></persName>>'s
+<persName><surname>Augustine</surname></persName>&gt;'s
 questions.</note>
 uidebantur, quaestionibus eius consulta flagitans.
 Nec mora, congrua <milestone n="16 b." unit="folio page"/> quaesitui responsa recepit; quae
@@ -2023,7 +2022,7 @@ uel in prouectu ordinati episcopi gaudeant, uel pro eius
 custodia omnipotenti Deo preces pariter fundant?</hi></p>
 <p><hi rend="ital">VII. Interrogatio Augustini: Qualiter debemus cum
 Galliarum atque Brittaniarum episcopis agere?</hi></p>
-<p><note lang="en" anchored="yes" place="marg">7. On <persName><surname>Augustine</surname></persName>>'s
+<p><note lang="en" anchored="yes" place="marg">7. On <persName><surname>Augustine</surname></persName>&gt;'s
 relations
 to the
 Bishops of
@@ -3044,21 +3043,21 @@ beati Petri apostoli, ante secretarium, die quarto
 Iduum Martiarum, quandoque in ipso cum ceteris
 sanctae ecclesiae pastoribus resurrecturus in gloria,
 scriptumque in tumba ipsius epitaphium huiusmodi:</p>
-<p></p><l><hi rend="ital">Suscipe, terra, tuo corpus de corpore sumtum,
+<p/><l><hi rend="ital">Suscipe, terra, tuo corpus de corpore sumtum,
 Reddere quod ualeas uiuificante Deo.</hi></l>
-<p></p><l><milestone n="27 b." unit="folio page"/> <hi rend="ital">Spiritus astra petit, leti nil iura nocebunt,
+<p/><l><milestone n="27 b." unit="folio page"/> <hi rend="ital">Spiritus astra petit, leti nil iura nocebunt,
 Cui uitae alterius mors magis ipsa uia est.</hi></l>
-<p></p><l><hi rend="ital">Pontificis summi hoc clauduntur membra sepulchro,
+<p/><l><hi rend="ital">Pontificis summi hoc clauduntur membra sepulchro,
 Qui innumeris semper uiuit ubique bonis.</hi></l>
-<p></p><l><hi rend="ital">Esuriem dapibus superauit, frigora ueste,
+<p/><l><hi rend="ital">Esuriem dapibus superauit, frigora ueste,
 Atque animas monitis texit ab hoste sacris.</hi></l>
-<p></p><l><hi rend="ital">Implebatque actu, quicquid sermone docebat,
+<p/><l><hi rend="ital">Implebatque actu, quicquid sermone docebat,
 Esset ut exemplum, mystica uerba loquens.</hi></l>
-<p></p><l><hi rend="ital">Ad Christum Anglos conuertit pietate magistra,
+<p/><l><hi rend="ital">Ad Christum Anglos conuertit pietate magistra,
 Adquirens fidei agmina gente noua.</hi></l>
-<p></p><l><hi rend="ital">Hic labor, hoc studium, haec tibi cura, hoc pastor agebas,
+<p/><l><hi rend="ital">Hic labor, hoc studium, haec tibi cura, hoc pastor agebas,
 Ut Domino offerres plurima lucra gregis.</hi></l>
-<p></p><l><hi rend="ital">Hisque Dei consul factus laetare triumphis;
+<p/><l><hi rend="ital">Hisque Dei consul factus laetare triumphis;
 Nam mercedem operum iam sine fine tenes.</hi></l>
 <p>Nec silentio praetereunda opinio, quae de beato <note lang="en" anchored="yes" place="marg">Tradition
 as to the
@@ -5805,7 +5804,7 @@ cum illa adferens, quae iussa est, intraret atrium
 domus, in cuius interioribus daemoniosus torquebatur,
 conticuit ille subito, et quasi in somnum laxatus
 deposuit caput, membra in quietem omnia conposuit.</p>
-<p></p><l>&lsquo;Conticuere omnes, <milestone n="52 b." unit="folio page"/> intentique ora
+<p/><l>&lsquo;Conticuere omnes, <milestone n="52 b." unit="folio page"/> intentique ora
 tenebant,&rsquo;</l>
 <p>quem res exitum haberet, solliciti exspectantes. Et <note lang="en" anchored="yes" place="marg">Verg.
 Aen. ii. 1.</note>
@@ -9465,62 +9464,62 @@ Christi, et ideo ueraciter reginae, quia sponsae Christi,
 elegiaco metro conposuimus; et imitari morem sacrae
 scripturae, cuius historiae carmina plurima indita,
 et haec metro ac uersibus constat esse conposita.</p>
-<p></p><l>Alma Deus Trinitas, quae saecula cuncta gubernas, <note lang="en" anchored="yes" place="marg">Hymn in
+<p/><l>Alma Deus Trinitas, quae saecula cuncta gubernas, <note lang="en" anchored="yes" place="marg">Hymn in
 honour of
 Ethelthryth.</note>
 Adnue iam coeptis, alma Deus Trinitas.</l>
-<p></p><l>Bella Maro resonet, nos pacis dona canamus;
+<p/><l>Bella Maro resonet, nos pacis dona canamus;
 Munera nos Christi, bella Maro resonet.</l>
-<p></p><l>Carmina casta mihi, fedae non raptus Helenae;
+<p/><l>Carmina casta mihi, fedae non raptus Helenae;
 Luxus erit lubricis, carmina casta mihi.</l>
-<p></p><l>Dona superna loquar, miserae non proelia Troiae;
+<p/><l>Dona superna loquar, miserae non proelia Troiae;
 Terra quibus gaudet, dona superna loquar.</l>
-<p></p><l>En Deus altus adit uenerandae uirginis aluum,
+<p/><l>En Deus altus adit uenerandae uirginis aluum,
 Liberet ut homines, en Deus altus adit.</l>
-<p></p><l><milestone n="87 a." unit="folio page"/> Femina uirgo parit mundi deuota parentem,
+<p/><l><milestone n="87 a." unit="folio page"/> Femina uirgo parit mundi deuota parentem,
 Porta Maria Dei, femina uirgo parit.</l>
-<p></p><l>Gaudet amica cohors de uirgine matre tonantis;
+<p/><l>Gaudet amica cohors de uirgine matre tonantis;
 Uirginitate micans gaudet amica cohors.</l>
-<p></p><l>Huius honor genuit casto de germine plures,
+<p/><l>Huius honor genuit casto de germine plures,
 Uirgineos flores huius honor genuit.</l>
-<p></p><l>Ignibus usta feris, uirgo non cessit Agathe,
+<p/><l>Ignibus usta feris, uirgo non cessit Agathe,
 Eulalia et perfert, ignibus usta feris.</l>
-<p></p><l>Kasta feras superat mentis pro culmine Tecla,
+<p/><l>Kasta feras superat mentis pro culmine Tecla,
 Eufemia sacras kasta feras superat.
 <pb n="248"/></l>
-<p></p><l>Laeta ridet gladios ferro robustior Agnes,
+<p/><l>Laeta ridet gladios ferro robustior Agnes,
 Caecilia infestos laeta ridet gladios.</l>
-<p></p><l>Multus in orbe uiget per sobria corda triumphus,
+<p/><l>Multus in orbe uiget per sobria corda triumphus,
 Sobrietatis amor multus in orbe uiget.</l>
-<p></p><l>Nostra quoque egregia iam tempora uirgo beauit;
+<p/><l>Nostra quoque egregia iam tempora uirgo beauit;
 Aedilthryda nitet nostra quoque egregia.</l>
-<p></p><l>Orta patre eximio, regali et stemmate clara,
+<p/><l>Orta patre eximio, regali et stemmate clara,
 Nobilior Domino est, orta patre eximio.</l>
-<p></p><l>Percipit inde decus reginae, et sceptra sub astris,
+<p/><l>Percipit inde decus reginae, et sceptra sub astris,
 Plus super astra manens, percipit inde decus.</l>
-<p></p><l>Quid petis, alma, uirum, sponso iam dedita summo?
+<p/><l>Quid petis, alma, uirum, sponso iam dedita summo?
 Sponsus adest Christus; quid petis, alma, uirum?</l>
-<p></p><l>Regis ut aetherei matrem iam credo sequaris,
+<p/><l>Regis ut aetherei matrem iam credo sequaris,
 Tu quoque sis mater regis ut aetherei.</l>
-<p></p><l>Sponsa dicata Deo bis sex regnauerat annis,
+<p/><l>Sponsa dicata Deo bis sex regnauerat annis,
 Inque monasterio est sponsa dicata Deo.</l>
-<p></p><l>Tota sacrata polo celsis ubi floruit actis,
+<p/><l>Tota sacrata polo celsis ubi floruit actis,
 Reddidit atque animam tota sacrata polo.</l>
-<p></p><l>Uirginis alma caro est tumulata bis octo Nouembres,
+<p/><l>Uirginis alma caro est tumulata bis octo Nouembres,
 Nec putet in tumulo uirginis alma caro.</l>
-<p></p><l>Xriste, tui est operis, quia uestis et ipsa sepulchro
+<p/><l>Xriste, tui est operis, quia uestis et ipsa sepulchro
 Inuiolata nitet: Xriste, tui est operis.</l>
-<p></p><l>Ydros et ater abit sacrae pro uestis honore,
+<p/><l>Ydros et ater abit sacrae pro uestis honore,
 Morbi diffugiunt, ydros et ater abit.</l>
-<p></p><l>Zelus in hoste furit, quondam qui uicerat Euam;
+<p/><l>Zelus in hoste furit, quondam qui uicerat Euam;
 Uirgo triumphat ouans, zelus in hoste furit.</l>
-<p></p><l>Aspice, nupta Deo, quae sit tibi gloria terris;
+<p/><l>Aspice, nupta Deo, quae sit tibi gloria terris;
 Quae maneat caelis, aspice, nupta Deo.</l>
-<p></p><l>Munera laeta capis, festiuis fulgida taedis,
+<p/><l>Munera laeta capis, festiuis fulgida taedis,
 Ecce uenit sponsus, munera laeta capis.</l>
-<p></p><l>Et noua dulcisono modularis carmina plectro,
+<p/><l>Et noua dulcisono modularis carmina plectro,
 Sponsa hymno exultas et noua dulcisono.</l>
-<p></p><l>Nullus ab altithroni comitatu segregat agni,
+<p/><l>Nullus ab altithroni comitatu segregat agni,
 Quam affectu tulerat nullus ab altithroni.
 <pb n="249"/></l></div2>
 <div2 type="chapter" n="19">
@@ -11212,29 +11211,29 @@ scriptum, in quo et memoria deuotionis ipsius fixa per
 saecula maneret, et legentes quoque uel audientes
 exemplum facti ad studium religionis accenderet.
 Scriptum est ergo hoc modo:</p>
-<p></p><l><hi rend="ital">Culmen, opes, subolem, pollentia regna, triumphos,
+<p/><l><hi rend="ital">Culmen, opes, subolem, pollentia regna, triumphos,
 Exuuias, proceres, moenia, castra, lares;</hi>
 <milestone n="104 a." unit="folio page"/> <hi rend="ital">Quaeque patrum uirtus, et quae congesserat ipse
 Caedual armipotens, liquit amore Dei;</hi></l>
-<p></p><l><hi rend="ital">Ut Petrum, sedemque Petri rex cerneret hospes,
+<p/><l><hi rend="ital">Ut Petrum, sedemque Petri rex cerneret hospes,
 Cuius fonte meras sumeret almus aquas,</hi></l>
-<p></p><l><hi rend="ital">Splendificumque iubar radianti carperet haustu,
+<p/><l><hi rend="ital">Splendificumque iubar radianti carperet haustu,
 Ex quo uiuificus fulgor ubique fluit.</hi></l>
-<p></p><l><hi rend="ital">Percipiensque alacer rediuiuae praemia uitae,
+<p/><l><hi rend="ital">Percipiensque alacer rediuiuae praemia uitae,
 Barbaricam rabiem, nomen et inde suum</hi></l>
-<p></p><l><hi rend="ital">Conuersus conuertit ouans; Petrumque uocari
+<p/><l><hi rend="ital">Conuersus conuertit ouans; Petrumque uocari
 Sergius antistes iussit, ut ipse pater</hi></l>
-<p></p><l><hi rend="ital">Fonte renascentis, quem Christi gratia purgans
+<p/><l><hi rend="ital">Fonte renascentis, quem Christi gratia purgans
 Protinus albatum uexit in arce poli.</hi></l>
-<p></p><l><hi rend="ital">Mira fides regis, clementia maxima Christi,
+<p/><l><hi rend="ital">Mira fides regis, clementia maxima Christi,
 Cuius consilium nullus adire potest!</hi></l>
-<p></p><l><hi rend="ital">Sospes enim ueniens supremo ex orbe Britanni,
+<p/><l><hi rend="ital">Sospes enim ueniens supremo ex orbe Britanni,
 Per uarias gentes, per freta, perque uias,</hi></l>
-<p></p><l><hi rend="ital">Urbem Romuleam uidit, templumque uerendum
+<p/><l><hi rend="ital">Urbem Romuleam uidit, templumque uerendum
 Aspexit Petri mystica dona gerens.</hi></l>
-<p></p><l><hi rend="ital">Candidus inter oues Christi sociabilis ibit;
+<p/><l><hi rend="ital">Candidus inter oues Christi sociabilis ibit;
 Corpore nam tumulum, mente superna tenet.</hi></l>
-<p></p><l><hi rend="ital">Conmutasse magis sceptrorum insignia credas,
+<p/><l><hi rend="ital">Conmutasse magis sceptrorum insignia credas,
 Quem regnum Christi promeruisse uides.</hi></l>
 <p><hi rend="ital">Hic depositus est Caedual, qui et Petrus, rex Saxonum, sub
 die XII Kalendarum Maiarum, indictione II; qui uixit
@@ -11289,14 +11288,14 @@ uitam, aetatem, et obitum, epitaphium quoque monumenti
 ipsius uersibus heroicis XXX et IIII palam
 ac lucide cunctis illo aduenientibus pandit; quorum
 primi sunt hi:</p>
-<p></p><l><hi rend="ital">Hic sacer in tumba pausat cum corpore pracsul,
+<p/><l><hi rend="ital">Hic sacer in tumba pausat cum corpore pracsul,
 Quem nunc Theodorum lingua Pelasga uocat.</hi></l>
-<p></p><l><hi rend="ital">Princeps pontificum, felix summusque sacerdos
+<p/><l><hi rend="ital">Princeps pontificum, felix summusque sacerdos
 Limpida discipulis dogmata disseruit.</hi></l>
 <p>Ultimi autem hi:</p>
-<p></p><l><hi rend="ital">Namque diem nonamdecimam September habebat,
+<p/><l><hi rend="ital">Namque diem nonamdecimam September habebat,
 Cum carnis claustra spiritus egreditur.</hi></l>
-<p></p><l><hi rend="ital">Alma nouae scandens felix consortia uitae,
+<p/><l><hi rend="ital">Alma nouae scandens felix consortia uitae,
 Ciuibus angelicis iunctus in arce poli.</hi></l>
 <p>Successit autem Theodoro in episcopatum <note lang="en" anchored="yes" place="marg">Bertwald
 succeeds.</note> Berctuald,
@@ -12672,26 +12671,26 @@ et ministerio fratrum perlatus in primum suum
 ecclesia beati <hi rend="ital">apostoli Petri</hi> iuxta altare ad Austrum, ut
 et supra docuimus; et hoc de illo supra epitaphium
 scriptum:</p>
-<p></p><l><hi rend="ital">Uilfridus hic magnus requiescit corpore praesul,</hi></l>
-<p></p><l><hi rend="ital">Hanc Domino qui aulam ductus pietatis amore</hi></l>
-<p></p><l><hi rend="ital">Fecit, et eximio sacrauit nomine Petri,</hi></l>
-<p></p><l><hi rend="ital">Cui claues caeli Christus dedit arbiter orbis;</hi></l>
-<p></p><l><hi rend="ital">Atque auro ac Tyrio deuotus uestiit ostro.</hi></l>
-<p></p><l><hi rend="ital">Quin etiam sublime crucis, radiante metallo,</hi></l>
-<p></p><l><hi rend="ital">Hic posuit tropaeum, nec non et quattuor auro</hi></l>
-<p></p><l><hi rend="ital">Scribi euangelii praecepit in ordine libros;</hi></l>
-<p></p><l><hi rend="ital">Ac thecam e rutilo his condignam condidit auro;</hi></l>
-<p></p><l><hi rend="ital">Paschalis qui etiam sollemnia tempora cursus</hi></l>
-<p></p><l><hi rend="ital">Catholici ad iustum correxit dogma canonis,</hi></l>
-<p></p><l><hi rend="ital">Quem statuere patres, dubioque errore remoto,</hi></l>
-<p></p><l><hi rend="ital">Certa suae genti ostendit moderamina ritus;</hi></l>
-<p></p><l><hi rend="ital">Inque locis istis monachorum examina crebra</hi></l>
-<p></p><l><hi rend="ital">Colligit, ac monitis cauit, quae regula patrum</hi></l>
-<p></p><l><hi rend="ital">Sedulus instituit; multisque domique forisque</hi></l>
-<p></p><l><hi rend="ital">Iactatus nimium per tempora longa periclis,</hi></l>
-<p></p><l><hi rend="ital">Quindecies ternos postquam egit episcopus annos,</hi></l>
-<p></p><l><hi rend="ital">Transiit, et gaudens caelestia regna petiuit.</hi></l>
-<p></p><l><hi rend="ital">Dona, Iesu, ut grex pastoris calle sequatur.</hi></l></div2>
+<p/><l><hi rend="ital">Uilfridus hic magnus requiescit corpore praesul,</hi></l>
+<p/><l><hi rend="ital">Hanc Domino qui aulam ductus pietatis amore</hi></l>
+<p/><l><hi rend="ital">Fecit, et eximio sacrauit nomine Petri,</hi></l>
+<p/><l><hi rend="ital">Cui claues caeli Christus dedit arbiter orbis;</hi></l>
+<p/><l><hi rend="ital">Atque auro ac Tyrio deuotus uestiit ostro.</hi></l>
+<p/><l><hi rend="ital">Quin etiam sublime crucis, radiante metallo,</hi></l>
+<p/><l><hi rend="ital">Hic posuit tropaeum, nec non et quattuor auro</hi></l>
+<p/><l><hi rend="ital">Scribi euangelii praecepit in ordine libros;</hi></l>
+<p/><l><hi rend="ital">Ac thecam e rutilo his condignam condidit auro;</hi></l>
+<p/><l><hi rend="ital">Paschalis qui etiam sollemnia tempora cursus</hi></l>
+<p/><l><hi rend="ital">Catholici ad iustum correxit dogma canonis,</hi></l>
+<p/><l><hi rend="ital">Quem statuere patres, dubioque errore remoto,</hi></l>
+<p/><l><hi rend="ital">Certa suae genti ostendit moderamina ritus;</hi></l>
+<p/><l><hi rend="ital">Inque locis istis monachorum examina crebra</hi></l>
+<p/><l><hi rend="ital">Colligit, ac monitis cauit, quae regula patrum</hi></l>
+<p/><l><hi rend="ital">Sedulus instituit; multisque domique forisque</hi></l>
+<p/><l><hi rend="ital">Iactatus nimium per tempora longa periclis,</hi></l>
+<p/><l><hi rend="ital">Quindecies ternos postquam egit episcopus annos,</hi></l>
+<p/><l><hi rend="ital">Transiit, et gaudens caelestia regna petiuit.</hi></l>
+<p/><l><hi rend="ital">Dona, Iesu, ut grex pastoris calle sequatur.</hi></l></div2>
 <div2 type="chapter" n="20">
 <head>CAP. XX.</head>
 <argument><p>Ut religioso abbati Hadriano Albinus, Uilfrido in episcopatum Acca

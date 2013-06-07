@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -70,9 +69,7 @@
 				writers. It may be said of his descriptions generally, as of most early descriptions, that
 				they are graphic rather than accurate. When we try to reproduce them in the mind something
 				is wanting. For example, we do not gather from his narrative where the Euryelus was situated
-				by which the Athenians, and also Gylippus, ascended the heights of Epipolae (<bibl
-				n="Thuc. 6.97">6.97</bibl>; <bibl n="Thuc. 7.2">7.2</bibl>, <bibl n="Thuc. 7.43"
-				>43</bibl>), or how the Syracusan defences lay after the completion of the third
+				by which the Athenians, and also Gylippus, ascended the heights of Epipolae (<bibl n="Thuc. 6.97">6.97</bibl>; <bibl n="Thuc. 7.2">7.2</bibl>, <bibl n="Thuc. 7.43">43</bibl>), or how the Syracusan defences lay after the completion of the third
 				counter-wall (<bibl n="Thuc. 7.7">7.7</bibl>), or, without some consideration, how the
 				dolphins were placed for the protection of the Athenian ships in the great Syracusan harbour
 				(<bibl n="Thuc. 7.38">7.38</bibl>). The topography of battles is often imperfect, and
@@ -83,8 +80,7 @@
 				plans a better delineation was impossible. The narrative of the second sea-fight in the
 				Crisaean gulf (ii. go f.) is incoherent: for we are not told what happened to that portion
 				of the Peloponnesian fleet which was originally victorious. The manner of the attack which
-				ended in the<pb n="xii"/> capture of the first Syracusan counter-wall (<bibl n="Thuc. 6.100"
-				>6.100</bibl>) is not fully described and can only be inferred; the 'Argive hoplites'
+				ended in the<pb n="xii"/> capture of the first Syracusan counter-wall (<bibl n="Thuc. 6.100">6.100</bibl>) is not fully described and can only be inferred; the 'Argive hoplites'
 				who were killed in the Syracusan out-works after the capture of the stockade must have
 				joined the attacking party from one of the two other divisions of the army. Once more, in
 				the calculation of distances the eye or the information of the writer was frequently at
@@ -163,16 +159,14 @@
 				both entrances of the bay of Navarino. &mdash;And it is after all hard to believe
 				that as a fact they did not intend to keep out the Athenian ships by occupying (if not
 				blocking) the S. entrance.]</note>.</p>
-				<p>Thucydides also underrates considerably the length of the island, which he describes (<bibl
-				n="Thuc. 4.8">4.8</bibl>) as 15 stadia (about 3000 yards), whereas it is really 2 3/4
+				<p>Thucydides also underrates considerably the length of the island, which he describes (<bibl n="Thuc. 4.8">4.8</bibl>) as 15 stadia (about 3000 yards), whereas it is really 2 3/4
 				miles (4800 yards). [Mr. Grundy (see note) points out that the distance from the place where
 				the Athenians must have landed on the bay side of the island to its N. point is about 15
 				stadia.]<pb n="xv"/>
 				</p>
 				<p>
 				<bibl n="Thuc. 4.57">4.57 init.</bibl> According to Thucydides, Thyrea was situated about 10
-				stadia from the sea, or about 1 1/8 of a mile. According to Col. Leake (Morea, <bibl
-				n="Thuc. 2.492">2.492</bibl>) 'it is at least three times that distance.' Other writers
+				stadia from the sea, or about 1 1/8 of a mile. According to Col. Leake (Morea, <bibl n="Thuc. 2.492">2.492</bibl>) 'it is at least three times that distance.' Other writers
 				suggest other sites. But there are no remains which agree with the distance mentioned in
 				Thucydides (Bursian, Geographie von Griechenland, ii. p. 70).</p>
 				<p>
@@ -205,17 +199,14 @@
 				<p>
 				<bibl n="Thuc. 8.26">8.26 med.</bibl>
 				<foreign lang="greek">Le/ron th\n pro\ Milh/tou nh=son.</foreign> But Leros<pb n="xvi"/> is
-				forty miles from Miletus. All the MSS. except the Vatican read <foreign lang="greek"
-				>)/Eleon,</foreign> a place which is otherwise unknown. <foreign lang="greek"
-				>Le/ron</foreign> is probably correct, and is confirmed by the close connexion which we find
+				forty miles from Miletus. All the MSS. except the Vatican read <foreign lang="greek">)/Eleon,</foreign> a place which is otherwise unknown. <foreign lang="greek">Le/ron</foreign> is probably correct, and is confirmed by the close connexion which we find
 				existing between Leros and Miletus in the tribute lists (C. I. A. 37, 226, 251, 262, 264).
 				The expression is natural enough for a writer who had in his mind not maps of the Aegean,
 				but the actual voyage past Leros to Miletus.<bibl n="Thuc. 3.4">3.4 fin.</bibl>
 				<foreign lang="greek">w(/rmoun e)n th|= Male/a|, pro\s bore/an th=s po/lews</foreign>
 				(compare c. 6, <foreign lang="greek">periopmisa/menoi to\ pro\s no/ton</foreign>). But,
 				according to Strabo, Malea was at the southern extremity of the island. It is possible
-				however to take <foreign lang="greek">pro\s bore/an th=s po/lews</foreign> not with <foreign
-				lang="greek">w(/rmoun</foreign> but with <foreign lang="greek">a)poste/llousi pre/sbeis
+				however to take <foreign lang="greek">pro\s bore/an th=s po/lews</foreign> not with <foreign lang="greek">w(/rmoun</foreign> but with <foreign lang="greek">a)poste/llousi pre/sbeis
 				trih/rei,</foreign> referring to the Mytilenaeans, above.</p>
 				<p>
 				<bibl n="Thuc. 1.61">1.61 med.</bibl>
@@ -233,8 +224,7 @@
 				Cythera, <bibl n="Thuc. 4.53">4.53 fin.</bibl>, <foreign lang="greek">pa=sa</foreign> (i. e.
 				either <foreign lang="greek">h( nh=sos</foreign> or <foreign lang="greek">h(
 				Lakwnikh\</foreign>) <foreign lang="greek">ga\p a)ne/xi pro\s to\ Sikeliko\n kai\ Krhtiko\n
-				pe/lagos,</foreign> he has caused a great deal of trouble to his interpreters<note
-				anchored="yes">[In <bibl n="Thuc. 2.9">2.9</bibl> the variations in the text give good
+				pe/lagos,</foreign> he has caused a great deal of trouble to his interpreters<note anchored="yes">[In <bibl n="Thuc. 2.9">2.9</bibl> the variations in the text give good
 				ground for suspecting a gloss.]</note>. There is a lesser degree of obscurity in the
 				description of the country about Chimerium (<bibl n="Thuc. 1.46">1.46 fin.</bibl>),
 				especially the words <foreign lang="greek">r(ei= de\ kai\ Qu/amis potamo/s, o(ri/zwn th\n
@@ -243,8 +233,7 @@
 				Qesprwti/da kai\ Kestri/nhn,</foreign> but to<pb n="xvii"/>
 				<foreign lang="greek">potamw=n,</foreign> gathered from the previous sentence (scil. the
 				Acheron and the Thyamis).</p>
-				<p>It is worth while also to compare the description of the kingdom of the Odrysae in <bibl
-				n="Thuc. 2.97">2.97</bibl>, which, though not obscure, is cumbrous and very unlike the
+				<p>It is worth while also to compare the description of the kingdom of the Odrysae in <bibl n="Thuc. 2.97">2.97</bibl>, which, though not obscure, is cumbrous and very unlike the
 				manner of a modern geographer.</p>
 				<p>Considering the number of these errors and vague expressions, and the probability that
 				Thucydides from his imperfect means of knowledge would have fallen into them, is it worth
@@ -273,28 +262,21 @@
 						Barbarians, and might be said even to affect the world at large.</seg>
 					<milestone unit="section" n="3"/>
 					<seg>The character of the events which preceded, whether immediately or in more remote
-						antiquity, owing to the lapse of time cannot be made out with certainty.<note
-							anchored="yes">Or, connecting <foreign lang="greek">w(=n</foreign> with <foreign
-								lang="greek">makro/taton:</foreign> 'But after carrying the enquiry to the
+						antiquity, owing to the lapse of time cannot be made out with certainty.<note anchored="yes">Or, connecting <foreign lang="greek">w(=n</foreign> with <foreign lang="greek">makro/taton:</foreign> 'But after carrying the enquiry to the
 							furthest point at which any trustworthy evidence can be obtained.'</note> But,
-						judging from the evidence which I am able to trust after most careful enquiry<note
-							anchored="yes">Or, connecting <foreign lang="greek">w(=n</foreign> with <foreign
-								lang="greek">makro/taton:</foreign> 'But after carrying the enquiry to the
+						judging from the evidence which I am able to trust after most careful enquiry<note anchored="yes">Or, connecting <foreign lang="greek">w(=n</foreign> with <foreign lang="greek">makro/taton:</foreign> 'But after carrying the enquiry to the
 							furthest point at which any trustworthy evidence can be obtained.'</note>, I should
 						imagine that former ages were not great either in their wars or in anything else. </seg>
 				</p>
 				<p>
 					<milestone unit="chapter" n="2"/>
 					<milestone unit="section" n="1"/>
-					<seg>The country which is now called Hellas was not regularly settled<note anchored="yes"
-						>Or, taking <foreign lang="greek">ou) pa/lai</foreign> closely together: 'until
-						recent times.'</note> in ancient times<note anchored="yes">Or, taking <foreign
-							lang="greek">ou) pa/lai</foreign> closely together: 'until recent
+					<seg>The country which is now called Hellas was not regularly settled<note anchored="yes">Or, taking <foreign lang="greek">ou) pa/lai</foreign> closely together: 'until
+						recent times.'</note> in ancient times<note anchored="yes">Or, taking <foreign lang="greek">ou) pa/lai</foreign> closely together: 'until recent
 							times.'</note>. The people were<pb n="2"/> migratory, and readily left their homes
 						whenever they were overpowered by numbers.</seg>
 					<milestone unit="section" n="2"/>
-					<seg>There was no commerce, and they could not safely hold intercourse<note type="margin"
-						anchored="yes">
+					<seg>There was no commerce, and they could not safely hold intercourse<note type="margin" anchored="yes">
 						<hi>Weakness of ancient Hellas: readiness of the early tribes to migrate: the richer
 							districts the more unsettled; some of the poorer, like Attica, in reality the
 							more prosperous.</hi>
@@ -319,8 +301,7 @@
 					<seg>Certainly Attica, of which the soil was poor and thin, enjoyed a long freedom from
 						civil strife, and therefore retained its original inhabitants.</seg>
 					<milestone unit="section" n="6"/>
-					<seg>And a striking confirmation of my argument is afforded by the fact<note anchored="yes"
-						>Or, taking as <foreign lang="greek">e)s ta\ a)\lla</foreign> in another sense:
+					<seg>And a striking confirmation of my argument is afforded by the fact<note anchored="yes">Or, taking as <foreign lang="greek">e)s ta\ a)\lla</foreign> in another sense:
 						'that Attica through immigration increased in population quite out of proportion to
 						her increase in other respects;' or, supplying <foreign lang="greek">th\n
 							)Ella/da</foreign> and taking <foreign lang="greek">metoiki/as</foreign> in another
@@ -328,11 +309,9 @@
 						migrations were the cause which prevented the rest of Hellas from increasing equally
 						with Attica. The leading men of Hellas,' etc.</note> that Attica through immigration
 						increased in population more than any other region.</seg>
-					<seg>For the leading men of Hellas<note anchored="yes">Or, taking as <foreign lang="greek"
-						>e)s ta\ a)\lla</foreign> in another sense: 'that Attica through immigration
+					<seg>For the leading men of Hellas<note anchored="yes">Or, taking as <foreign lang="greek">e)s ta\ a)\lla</foreign> in another sense: 'that Attica through immigration
 						increased in population quite out of proportion to her increase in other respects;'
-						or, supplying <foreign lang="greek">th\n )Ella/da</foreign> and taking <foreign
-							lang="greek">metoiki/as</foreign> in another sense: 'And here is a striking
+						or, supplying <foreign lang="greek">th\n )Ella/da</foreign> and taking <foreign lang="greek">metoiki/as</foreign> in another sense: 'And here is a striking
 						confirmation of my argument that the constant migrations were the cause which
 						prevented the rest of Hellas from increasing equally with Attica. The leading men of
 						Hellas,' etc.</note>, when driven<pb n="3"/> out of their own country by war or
@@ -372,8 +351,7 @@
 						among the several tribes speaking the same language, and afterwards became
 						universal.'</note> the several Hellenic tribes (and I mean by the term Hellenes
 						those who, while forming separate communities, had a common language, and were
-						afterwards called by a common name)<note anchored="yes">Or, supplying <foreign
-							lang="greek">klhqe/ntes</foreign> with both clauses: 'those who successively
+						afterwards called by a common name)<note anchored="yes">Or, supplying <foreign lang="greek">klhqe/ntes</foreign> with both clauses: 'those who successively
 							acquired the Hellenic name, which first spread among the several tribes speaking the
 							same language, and afterwards became universal.'</note>, owing to their weakness and
 						isolation, were never united<pb n="4"/> in any great enterprise before the Trojan War.</seg>
@@ -425,8 +403,7 @@
 				<p>
 					<milestone unit="chapter" n="6"/>
 					<milestone unit="section" n="1"/>
-					<seg>For in ancient times all Hellenes carried weapons because<note type="margin"
-						anchored="yes">
+					<seg>For in ancient times all Hellenes carried weapons because<note type="margin" anchored="yes">
 						<hi>Old customs which are still existing in some parts of the country: dress of
 							Athenians and Spartans.</hi>
 					</note> their homes were undefended and intercourse was unsafe;</seg>
@@ -496,8 +473,7 @@
 				<p>
 					<milestone unit="section" n="2"/>
 					<seg>After Minos had established his navy, communication by sea became more general.</seg>
-					<seg>For, he having expelled the marauders<note anchored="yes">Cp. <bibl n="thuc. 1.4"
-						>1.4</bibl>.</note> when he colonised the greater part of the islands,</seg>
+					<seg>For, he having expelled the marauders<note anchored="yes">Cp. <bibl n="thuc. 1.4">1.4</bibl>.</note> when he colonised the greater part of the islands,</seg>
 					<milestone unit="section" n="3"/>
 					<seg>the dwellers on the sea-coast began to grow richer and to live in a more settled
 						manner; and some of them, finding their wealth increase beyond their expectations,
@@ -525,8 +501,7 @@
 							etc.</note>
 					</seg>
 					<milestone unit="section" n="2"/>
-					<seg>Those Peloponnesians who possess the most accurate traditions say that<note
-						anchored="yes">Or, 'Those who possess the most accurate traditions respecting the
+					<seg>Those Peloponnesians who possess the most accurate traditions say that<note anchored="yes">Or, 'Those who possess the most accurate traditions respecting the
 						history of Peloponnesus say that' etc.</note> originally Pelops gained his power by
 						the great wealth which he brought with him<pb n="7"/> from Asia into a poor country,
 						whereby he was enabled, although a stranger, to give his name to the Peloponnesus; and
@@ -590,8 +565,7 @@
 					<seg>yet, even upon his showing, the
 						expedition was comparatively small.</seg>
 					<milestone unit="section" n="4"/>
-					<seg>For it numbered, as he tells us, twelve hundred ships, those of the Boeotians<note
-						anchored="yes">
+					<seg>For it numbered, as he tells us, twelve hundred ships, those of the Boeotians<note anchored="yes">
 						<bibl n="hom. il. 2.509-510">Il. 2.509, 510</bibl>.</note> carrying one hundred and
 						twenty men each, those of Philoctetes<note anchored="yes">
 							<bibl n="hom. il. 2.719-720">Il. ii. 719, 720</bibl>.</note> fifty; and by these
@@ -683,8 +657,7 @@
 					<milestone unit="section" n="3"/>
 					<seg>A Corinthian ship-builder, Ameinocles, appears to have built four ships for the
 						Samians;</seg>
-					<seg>he went to Samos about three hundred years before the end of the Peloponnesian<note
-						type="margin" anchored="yes">B.C. 704.</note> War.</seg>
+					<seg>he went to Samos about three hundred years before the end of the Peloponnesian<note type="margin" anchored="yes">B.C. 704.</note> War.</seg>
 					<milestone unit="section" n="4"/>
 					<seg>And the earliest naval engagement on record is that between the Corinthians and
 						Corcyraeans</seg>
@@ -710,8 +683,7 @@
 					<seg>they fought with Cyrus, and were for a time masters of the sea around their own coasts.</seg>
 					<seg>Polycrates,<note type="margin" anchored="yes">B.C. 29&ndash;522.</note> too, who
 						was a tyrant of Samos in the reign of Cambyses, had a powerful navy and subdued several
-						of the islands, among them Rhenea, which he dedicated to the Delian Apollo<note
-							anchored="yes">Cp. <bibl n="Thuc. 3.104">3.104 init.</bibl>
+						of the islands, among them Rhenea, which he dedicated to the Delian Apollo<note anchored="yes">Cp. <bibl n="Thuc. 3.104">3.104 init.</bibl>
 						</note>.</seg>
 					<seg>And the Phocaeans, when they were colonising Massalia, defeated the Carthaginians
 						on<note type="margin" anchored="yes">B.C. 600.</note> the sea. </seg>
@@ -720,14 +692,12 @@
 					<milestone unit="chapter" n="14"/>
 					<milestone unit="section" n="1"/>
 					<seg>These were the most powerful navies,</seg>
-					<seg>and even these, which came into existence many generations<note type="margin"
-						anchored="yes">
+					<seg>and even these, which came into existence many generations<note type="margin" anchored="yes">
 						<hi>Scarcity of triremes. Smallness of the Athenian and Aeginetan fleets.</hi>
 					</note> after the Trojan War, appear to have consisted chiefly of fifty-oared vessels
 						and galleys of war, as in the days of Troy; as yet triremes were not common.</seg>
 					<milestone unit="section" n="2"/>
-					<seg>But a little before the Persian War and the death of Darius,<note type="margin"
-						anchored="yes">B.C. 485.</note> who succeeded Cambyses, the Sicilian tyrants and the
+					<seg>But a little before the Persian War and the death of Darius,<note type="margin" anchored="yes">B.C. 485.</note> who succeeded Cambyses, the Sicilian tyrants and the
 						Corcyraeans had them in considerable numbers.</seg>
 					<seg>No other maritime powers of any consequence arose in Hellas before the expedition of'
 						Xerxes.</seg>
@@ -763,8 +733,7 @@
 					<seg>Their wars were only the wars of the several neighboring tribes with one another.</seg>
 					<milestone unit="section" n="3"/>
 					<seg>The conflict in which the rest of Hellas was most divided, allying itself with one side
-						or the other, was the ancient war between the Chalcidians and Eretrians<note
-							anchored="yes">
+						or the other, was the ancient war between the Chalcidians and Eretrians<note anchored="yes">
 							<bibl n="Hdt. 5.99">Herod. 5.99</bibl>.</note>. </seg>
 				</p>
 				<p>
@@ -775,10 +744,8 @@
 						<hi>Impediments to progress:</hi>
 					</note> great prosperity when Cyrus and the Persians, having overthrown Croesus and
 						subdued the<note type="margin" anchored="yes">B.C. 546.</note> countries between the
-						river Halys and the sea, made war against them and enslaved<note type="margin"
-							anchored="yes">(1) <hi>The rising power of the Persians.</hi>
-						</note> the cities on the mainland. Some time afterwards,<note type="margin"
-							anchored="yes">B.C. 493.</note> Darius, strong in the possession of the Phoenician
+						river Halys and the sea, made war against them and enslaved<note type="margin" anchored="yes">(1) <hi>The rising power of the Persians.</hi>
+						</note> the cities on the mainland. Some time afterwards,<note type="margin" anchored="yes">B.C. 493.</note> Darius, strong in the possession of the Phoenician
 						fleet, conquered the islands also. </seg>
 				</p>
 				<p>
@@ -805,8 +772,7 @@
 								well governed.</hi>
 						</note> the exception of the Sicilian the last who ever ruled, were put down by the
 						Lacedaemonians.</seg>
-					<seg>For although Lacedaemon, after the conquest<note anchored="yes">Reading <foreign
-						lang="greek">kth=sin,</foreign> not <foreign lang="greek">kti/sin.</foreign>
+					<seg>For although Lacedaemon, after the conquest<note anchored="yes">Reading <foreign lang="greek">kth=sin,</foreign> not <foreign lang="greek">kti/sin.</foreign>
 					</note> of the country by the Dorians who now inhabit it, remained long unsettled, and
 						indeed longer than any country which we know, nevertheless she obtained good laws at an
 						earlier period than any other, and has never been subject to tyrants;</seg>
@@ -823,13 +789,11 @@
 					<seg>In the greatness<note type="margin" anchored="yes">B.C. 480.</note> of the impending
 						danger, the Lacedaemonians, who were the most powerful state in Hellas, assumed the lead
 						of the confederates,</seg>
-					<seg>while the Athenians, as the Persian host advanced, resolved to forsake their<note
-						type="margin" anchored="yes">
+					<seg>while the Athenians, as the Persian host advanced, resolved to forsake their<note type="margin" anchored="yes">
 						<hi>The Hellenes, who had been united in resisting the Persian, soon broke up into
 							two confederacies.</hi>
 					</note> city, broke up their homes, and, taking to their ships, became seamen.</seg>
-					<seg>The Barbarian was repelled by a common effort: but soon the Hellenes,<note
-						anchored="yes">Or, 'as well those who had revolted from the King, as those who had
+					<seg>The Barbarian was repelled by a common effort: but soon the Hellenes,<note anchored="yes">Or, 'as well those who had revolted from the King, as those who had
 						joined with him.'</note> as well those who had<pb n="14"/> revolted from the King as
 						those who formed the original confederacy<note anchored="yes">Or, 'either of Athens or
 							Sparta.'</note>, took different sides and became the allies either of the Athenians
@@ -855,8 +819,7 @@
 						</note> but took care that they should be governed by oligarchies in the exclusive
 						interest of Sparta.</seg>
 					<seg>The Athenians, on the other hand, after a time deprived the subject cities of their
-						ships and made all of them pay a fixed tribute, except Chios and Lesbos<note
-							anchored="yes">Cp. <bibl n="Thuc. 1.96">1.96</bibl>, <bibl n="Thuc. 1.99">99</bibl>;
+						ships and made all of them pay a fixed tribute, except Chios and Lesbos<note anchored="yes">Cp. <bibl n="Thuc. 1.96">1.96</bibl>, <bibl n="Thuc. 1.99">99</bibl>;
 							<bibl n="Thuc. 3.39">3.39 init.</bibl>; <bibl n="Thuc. 6.85">6.85 med.</bibl>;
 							<bibl n="Thuc. 7.57">7.57 init.</bibl>
 						</note>.</seg>
@@ -887,8 +850,7 @@
 						when<note type="margin" anchored="yes">B.C. 514.</note> he was slain by Harmodius
 						and Aristogeiton;</seg>
 					<seg>they are not aware that Hippias was the eldest of the sons of Peisistratus, and
-						succeeded him, and that Hipparchus and Thessalus were only his brothers<note
-							anchored="yes">Cp. <bibl n="Thuc. 6.54">6.54 seqq.</bibl>
+						succeeded him, and that Hipparchus and Thessalus were only his brothers<note anchored="yes">Cp. <bibl n="Thuc. 6.54">6.54 seqq.</bibl>
 						</note>. At the last moment, Harmodius and Aristogeiton suddenly suspected that Hippias
 						had been forewarned by some of their accomplices. They therefore abstained from
 						attacking him, but, wishing to do something before they were seized, and not to risk
@@ -957,8 +919,7 @@
 				<p>
 					<milestone unit="chapter" n="23"/>
 					<milestone unit="section" n="1"/>
-					<seg>The greatest achievement of former times was the Persian War; yet even this was<note
-						type="margin" anchored="yes">
+					<seg>The greatest achievement of former times was the Persian War; yet even this was<note type="margin" anchored="yes">
 						<hi>Length of the war, which was attended by all sorts of calamities, ordinary and
 							extraordinary. Among the latter might be enumerated earthquakes, eclipses,
 							droughts, and lastly, the plague.</hi>
@@ -966,8 +927,7 @@
 					<seg>But the Peloponnesian War was a protracted struggle, and attended by calamities such as
 						Hellas had never known within a like period of time.</seg>
 					<milestone unit="section" n="2"/>
-					<seg>Never were so many cities captured and depopulated&mdash;some by Barbarians,<pb
-						n="17"/> others by Hellenes themselves fighting against one another; and several of
+					<seg>Never were so many cities captured and depopulated&mdash;some by Barbarians,<pb n="17"/> others by Hellenes themselves fighting against one another; and several of
 						them after their capture were repeopled by strangers. Never were exile and slaughter
 						more frequent, whether in the war or brought about by civil strife.</seg>
 					<milestone unit="section" n="3"/>
@@ -979,8 +939,7 @@
 					<seg>All these calamities fell upon Hellas simultaneously with the war,</seg>
 					<milestone unit="section" n="4"/>
 					<seg>which began when the Athenians and Peloponnesians violated the thirty years' truce
-						concluded by them after the recapture of Euboea<note anchored="yes">Cp. <bibl
-							n="Thuc. 1.115">1.115</bibl>, <bibl n="Thuc. 1.146">146</bibl>.</note>.</seg>
+						concluded by them after the recapture of Euboea<note anchored="yes">Cp. <bibl n="Thuc. 1.115">1.115</bibl>, <bibl n="Thuc. 1.146">146</bibl>.</note>.</seg>
 					<milestone unit="section" n="5"/>
 					<seg>Why they broke it and what were the grounds of quarrel I will first set forth, that in
 						time to come no man may be at a loss to know what was the origin of this great war.</seg>
@@ -1078,8 +1037,7 @@
 						in insulting terms bade the Epidamnians receive the exiled oligarchs,</seg>
 					<seg>who had gone to
 						Corcyra and implored the Corcyraeans to restore them, appealing to the tie of kindred
-						and pointing to the sepulchres of their common ancestors<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.58">3.58 med.</bibl>, <bibl n="Thuc. 3.59">59 init.</bibl>
+						and pointing to the sepulchres of their common ancestors<note anchored="yes">Cp. <bibl n="Thuc. 3.58">3.58 med.</bibl>, <bibl n="Thuc. 3.59">59 init.</bibl>
 						</note>.</seg>
 					<seg>They also bade them send away the troops and the new settlers.</seg>
 					<milestone unit="section" n="4"/>
@@ -1104,8 +1062,7 @@
 					<seg>and proclaimed that a colony was to be sent thither; all who wished might go and
 						enjoy equal rights of citizenship;</seg>
 					<seg>but any one who was unwilling to sail at once might remain at Corinth, and, if he made
-						a deposit of fifty Corinthian drachmae, might still have a share in the colony.<note
-							anchored="yes">The sum would amount to &pound;2 15<hi>s.</hi> 4<hi>d.</hi>, or
+						a deposit of fifty Corinthian drachmae, might still have a share in the colony.<note anchored="yes">The sum would amount to &pound;2 15<hi>s.</hi> 4<hi>d.</hi>, or
 							to &pound;1 2<hi>s.</hi> 6<hi>d.</hi>, according to the two systems of reckoning
 							discussed in the note on <bibl n="Thuc. 3.70">3.70</bibl>, q.v.</note>
 					</seg>
@@ -1240,8 +1197,7 @@
 						lest the combination of the Athenian and Corcyraean navies might prevent them from
 						bringing the war to a satisfactory termination.</seg>
 					<milestone unit="section" n="4"/>
-					<seg>Accordingly an assembly was held at which both parties<note type="margin"
-						anchored="yes">B.C. 433.</note> came forward to plead their respective causes; and
+					<seg>Accordingly an assembly was held at which both parties<note type="margin" anchored="yes">B.C. 433.</note> came forward to plead their respective causes; and
 						first the Corcyraeans spoke as follows:&mdash;</seg>
 				</p>
 				<sp who="corcyreans">
@@ -1339,8 +1295,7 @@
 						<milestone unit="section" n="2"/>
 						<seg>And the injustice of their conduct to us is manifest:</seg>
 						<seg>for we proposed an arbitration in the matter of Epidamnus, but they insisted on
-							prosecuting their quarrel by arms and would not hear of a legal trial<note
-								anchored="yes">Cp. <bibl n="Thuc. 1.29">1.29 init.</bibl>
+							prosecuting their quarrel by arms and would not hear of a legal trial<note anchored="yes">Cp. <bibl n="Thuc. 1.29">1.29 init.</bibl>
 							</note>.</seg>
 						<milestone unit="section" n="3"/>
 						<seg>When you see how they treat us who are their own kinsmen, take warning: if they try
@@ -1352,8 +1307,7 @@
 					<p>
 						<milestone unit="chapter" n="35"/>
 						<milestone unit="section" n="1"/>
-						<seg>' But again, you will not break the treaty with the Lacedaemonians<note
-							anchored="yes">Cp. <bibl n="Thuc. 1.115">1.115 init.</bibl>
+						<seg>' But again, you will not break the treaty with the Lacedaemonians<note anchored="yes">Cp. <bibl n="Thuc. 1.115">1.115 init.</bibl>
 						</note> by receiving us: for we<note type="margin" anchored="yes">
 							<hi>Reasons why the Athenians should receive the Corcyraeans into alliance. They
 								will not break the treaty.</hi>
@@ -1491,8 +1445,7 @@
 						<milestone unit="chapter" n="39"/>
 						<milestone unit="section" n="1"/>
 						<seg>'They pretend that they first offered to have the matter decided by arbitration.
-							The appeal to justice might have some meaning in the mouth of one<note
-								anchored="yes">Or, 'whose actions corresponded to his professions, before he
+							The appeal to justice might have some meaning in the mouth of one<note anchored="yes">Or, 'whose actions corresponded to his professions, before he
 								entered on the struggle.'</note> who before he had<pb n="29"/> recourse to arms
 							acted honourably, as he now talks fairly<note anchored="yes"/>, but not when it is
 							made from a position<note type="margin" anchored="yes">
@@ -1547,8 +1500,7 @@
 										ours.</hi>
 								</note> of receiving the rebellious subjects of others.</seg>
 						<milestone unit="section" n="5"/>
-						<seg>At the revolt of Samos<note anchored="yes">Cp. <bibl n="Thuc. 1.115"
-							>1.115</bibl>.</note>, when<note type="margin" anchored="yes">B.C. 440.</note> the
+						<seg>At the revolt of Samos<note anchored="yes">Cp. <bibl n="Thuc. 1.115">1.115</bibl>.</note>, when<note type="margin" anchored="yes">B.C. 440.</note> the
 							other Peloponnesians were divided upon the question of giving aid to the rebels,</seg>
 						<seg>we voted in your favour and expressly maintained <q direct="unspecified"> that
 							every one should be allowed to chastise his own allies.</q>
@@ -1598,8 +1550,7 @@
 						<seg>is it worth while to be so carried away by the prospect of it,
 							that you bring upon yourselves the hatred of the Corinthians which is both near and
 							certain? Would you not be wiser in seeking to mitigate the ill-feeling which your
-							treatment of the Megarians has already inspired<note anchored="yes">Cp. <bibl
-								n="Thuc. 1.67">1.67 fin.</bibl>
+							treatment of the Megarians has already inspired<note anchored="yes">Cp. <bibl n="Thuc. 1.67">1.67 fin.</bibl>
 							</note> ?</seg>
 						<milestone unit="section" n="3"/>
 						<seg>The later kindness done in season, though small in comparison, may cancel a greater
@@ -1625,8 +1576,7 @@
 						<seg>Do not receive these Corcyraeans into alliance in despite of us, and do not support
 							them in injustice.</seg>
 						<milestone unit="section" n="4"/>
-						<seg>In acting thus you will act rightly, and will consult your own true interests.'<pb
-							n="32"/>
+						<seg>In acting thus you will act rightly, and will consult your own true interests.'<pb n="32"/>
 						</seg>
 					</p>
 				</sp>
@@ -1642,8 +1592,7 @@
 						</note> were more influenced by the words of the Corinthians,</seg>
 					<seg>but in the second they
 						changed their minds and inclined towards the Corcyraeans. They would not go so far as to make an alliance both offensive and defensive with them;</seg>
-					<seg>for then, if the Corcyraeans had required them to join<note type="margin" anchored="yes"
-						>B.C. 433.</note> in an expedition against Corinth, the treaty with the
+					<seg>for then, if the Corcyraeans had required them to join<note type="margin" anchored="yes">B.C. 433.</note> in an expedition against Corinth, the treaty with the
 						Peloponnesians would have been broken.</seg>
 					<seg>But they concluded a defensive league, by which the two states promised to aid each
 						other if an attack were made on the territory or on the allies of either.</seg>
@@ -1821,8 +1770,7 @@
 					<milestone unit="section" n="5"/>
 					<seg>It was now late in the day</seg>
 					<seg>and the Paean had been already sounded for the onset,</seg>
-					<seg>when the Corinthians suddenly began to row astern. They had described sailing<pb n="36"
-					/> towards them twenty vessels which the Athenians had sent to reinforce the former ten,
+					<seg>when the Corinthians suddenly began to row astern. They had described sailing<pb n="36"/> towards them twenty vessels which the Athenians had sent to reinforce the former ten,
 						fearing<note type="margin" anchored="yes">
 							<hi>Sudden appearance of twenty Athenian ships.</hi>
 						</note> what had actually happened, that the Corcyraeans would be defeated, and that the
@@ -1940,8 +1888,7 @@
 						they settled colonists of their own, and returned to Corinth.</seg>
 					<seg>Of their Corcyraean captives eight hundred who were slaves they sold, but two hundred
 						and fifty they detained in prison, treating them with much consideration, in the hope
-						that, when they returned, they would win over Corcyra to the Corinthian interest<note
-							anchored="yes">Cp. <bibl n="Thuc. 3.70">3.70</bibl>.</note>:</seg>
+						that, when they returned, they would win over Corcyra to the Corinthian interest<note anchored="yes">Cp. <bibl n="Thuc. 3.70">3.70</bibl>.</note>:</seg>
 					<seg>it so happened that the
 						majority of them were among the most influential men of the state.</seg>
 					
@@ -2011,8 +1958,7 @@
 					
 					<seg>The Athenians became aware of his designs and resolved to forestall the revolt of the
 						cities. They were already intending to send against Perdiccas thirty ships and a thousand
-						hoplites under the command of Archestratus the son of Lycomedes, and<note anchored="yes"
-							>Or <hi>e conj.</hi> 'four.'</note> ten others, and they told their admirals to take
+						hoplites under the command of Archestratus the son of Lycomedes, and<note anchored="yes">Or <hi>e conj.</hi> 'four.'</note> ten others, and they told their admirals to take
 						hostages from the Potidaeans and to demolish their wall. They were also to keep a watch over the towns in the neighbourhood and prevent any
 						attempt at rebellion. </seg>
 				</p>
@@ -2028,8 +1974,7 @@
 						Corinthian embassy to Lacedaemon and exerted themselves to procure assistance in case of
 						need.</seg>
 					<seg>A long negotiation was carried on at Athens which came to no satisfactory result; the
-						ships destined for Macedonia were<pb n="40"/> also sent against Potidaea. But at Lacedaemon they were promised by the magistrates that if<note type="margin"
-							anchored="yes">
+						ships destined for Macedonia were<pb n="40"/> also sent against Potidaea. But at Lacedaemon they were promised by the magistrates that if<note type="margin" anchored="yes">
 							<hi>They receive promises of assistance from Spara, and revolt.</hi>
 						</note> the Athenians attacked Potidaea they would invade Attica. So they seized the opportunity and revolted: the Chalcidians and Bottiaeans<note type="margin" anchored="yes">B.C. 432.</note> swore
 						alliance with them and joined in the revolt.</seg>
@@ -2087,8 +2032,7 @@
 					
 					<milestone unit="section" n="3"/>
 					
-					<seg>They arrived in Chalcidic&egrave; forty days after the revolt of Potidaea.<pb
-						n="41"/>
+					<seg>They arrived in Chalcidic&egrave; forty days after the revolt of Potidaea.<pb n="41"/>
 					</seg>
 				</p>
 				<p>
@@ -2139,8 +2083,7 @@
 					<seg>The Potidaeans and the Peloponnesian force under Aristeus had now taken up a
 						position<note type="margin" anchored="yes">
 							<hi>Engagement at the isthmus of Pallen&egrave;.</hi>
-						</note> at the isthmus on the side towards Olynthus<note anchored="yes">Reading <foreign
-							lang="greek">pro\s )Olu/nqou.</foreign>
+						</note> at the isthmus on the side towards Olynthus<note anchored="yes">Reading <foreign lang="greek">pro\s )Olu/nqou.</foreign>
 						</note>, where they awaited the coming of the Athenians;</seg>
 					<seg>they held their market outside the walls of Potidaea.</seg>
 					
@@ -2199,8 +2142,7 @@
 						Potidaea.</seg>
 					<seg>Both courses were hazardous; but at last he determined to contract his troops into the
 						smallest compass and force his way at full speed into Potidaea.</seg>
-					<seg>Harassed by the missiles of the enemy he pushed forward through the water<note
-						anchored="yes">Cp. <bibl n="Hdt. 8.129">Herod. 8.129</bibl>.</note> along the bank
+					<seg>Harassed by the missiles of the enemy he pushed forward through the water<note anchored="yes">Cp. <bibl n="Hdt. 8.129">Herod. 8.129</bibl>.</note> along the bank
 						in front of the sea-wall, not without loss; but he contrived to save the greater part of his men.</seg>
 					
 					<milestone unit="section" n="2"/>
@@ -2316,8 +2258,7 @@
 					<seg>The Lacedaemonians themselves then<note anchored="yes">Or, adopting the inferior
 						reading <foreign lang="greek">tw=n cumma/xwn te kai\ ei)/ tis:</foreign> 'proceeded
 						to summon any of their own allies, and any one else, who had similar charges,'
-						etc.</note> proceeded to summon any of the allies who had similar charges<note
-							anchored="yes">Or, adopting the inferior reading <foreign lang="greek">tw=n
+						etc.</note> proceeded to summon any of the allies who had similar charges<note anchored="yes">Or, adopting the inferior reading <foreign lang="greek">tw=n
 								cumma/xwn te kai\ ei)/ tis:</foreign> 'proceeded to summon any of their own
 							allies, and any one else, who had similar charges,' etc.</note>
 						<pb n="45"/> to bring against the Athenians, and calling their own ordinary assembly
@@ -2383,9 +2324,7 @@
 						<seg>And the blame of all this rests on you; for you originally allowed them to fortify
 							their<note type="margin" anchored="yes">
 								<hi>who have enslaved Hellas by not preventing her enslavement.</hi>
-							</note> city after the Persian War<note anchored="yes">Cp. <bibl n="Thuc. 1.90"
-								>1.90</bibl>&ndash;92.</note>, and afterwards to build their Long Walls<note
-									anchored="yes">Cp. <bibl n="Thuc. 1.107">1.107</bibl>.</note>; and to this hour you
+							</note> city after the Persian War<note anchored="yes">Cp. <bibl n="Thuc. 1.90">1.90</bibl>&ndash;92.</note>, and afterwards to build their Long Walls<note anchored="yes">Cp. <bibl n="Thuc. 1.107">1.107</bibl>.</note>; and to this hour you
 							have gone on defrauding of liberty their unfortunate subjects, and are now beginning to
 							take it away from your own allies.</seg>
 						<seg>For the true enslaver of a people is he who can put an end to their slavery but has no
@@ -2445,11 +2384,9 @@
 						<seg>And surely we have a right to find fault with our neighbours, if any one ever had. There<note type="margin" anchored="yes">
 							<hi>Contrast of the Athenian and Spartan characters</hi>
 						</note> are important interests at stake to which, as far as we can see, you are
-							insensible. And you have never considered what manner of men are these Athenians<note
-								anchored="yes">For descriptions of Athenian character, cp. <bibl n="Thuc. 2.37">2.37
+							insensible. And you have never considered what manner of men are these Athenians<note anchored="yes">For descriptions of Athenian character, cp. <bibl n="Thuc. 2.37">2.37
 									ff.</bibl>; <bibl n="Thuc. 3.38">3.38</bibl>; <bibl n="Thuc. 3.42">42</bibl>,
-								<bibl n="Thuc. 3.43">43</bibl>; <bibl n="Thuc. 6.76">6.76</bibl>; <bibl
-									n="Thuc. 6.87">87</bibl>.</note> with whom you will have to fight, and how
+								<bibl n="Thuc. 3.43">43</bibl>; <bibl n="Thuc. 6.76">6.76</bibl>; <bibl n="Thuc. 6.87">87</bibl>.</note> with whom you will have to fight, and how
 							utterly unlike yourselves.</seg>
 						
 						<milestone unit="section" n="2"/>
@@ -2517,8 +2454,7 @@
 							<hi>The Lacedaemonians must lay aside their policy of inaction.</hi>
 						</note> see that peace is best secured by those who use their strength justly, but whose
 							attitude shows that they have no intention of submitting to wrong.</seg>
-						<seg>Justice with you seems to consist in giving no annoyance to others and<note
-							anchored="yes">Or, 'in running no risk even in self-defence.'</note> in defending
+						<seg>Justice with you seems to consist in giving no annoyance to others and<note anchored="yes">Or, 'in running no risk even in self-defence.'</note> in defending
 							yourselves only against positive injury<note anchored="yes">Or, 'in running no risk even
 								in self-defence.'</note>.</seg>
 						
@@ -2573,8 +2509,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>Thus spoke the Corinthians.</seg>
-					<seg>Now there happened to be staying at Lacedaemon an Athenian<note type="margin"
-						anchored="yes">
+					<seg>Now there happened to be staying at Lacedaemon an Athenian<note type="margin" anchored="yes">
 						<hi>Some Athenian envoys who happen to be at Sparta desire to address assembly.</hi>
 					</note> embassy which had come on other business,</seg>
 					<seg>and when the envoys heard what the
@@ -2804,9 +2739,7 @@
 							states; and further, when any of you goes abroad, he respects neither these nor any
 							other Hellenic customs<note anchored="yes">For the misconduct of Spartan officers
 								abroad, cp. <bibl n="Thuc. 1.95">1.95</bibl>; <bibl n="Thuc. 1.130">130</bibl>;
-								<bibl n="Thuc. 3.3">3.3</bibl>; <bibl n="Thuc. 3.93">93 fin.</bibl>; <bibl
-									n="Thuc. 8.84">8.84 init.</bibl> Contrast Brasidas, <bibl n="Thuc. 4.81"
-										>4.81</bibl>.</note>
+								<bibl n="Thuc. 3.3">3.3</bibl>; <bibl n="Thuc. 3.93">93 fin.</bibl>; <bibl n="Thuc. 8.84">8.84 init.</bibl> Contrast Brasidas, <bibl n="Thuc. 4.81">4.81</bibl>.</note>
 						</seg>
 					</p>
 					<p>
@@ -3195,8 +3128,7 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>When the Persians, defeated by the Hellenes on sea and land,<note type="margin"
-						anchored="yes">
+					<seg>When the Persians, defeated by the Hellenes on sea and land,<note type="margin" anchored="yes">
 						<hi>The Athenians after the retreat of the Persians continue the war.</hi>
 					</note> had retreated from Europe, and the remnant of the fleet, which had taken refuge
 						at Mycale, had there perished, Leotychides, the Lacedaemonian king, who had commanded
@@ -3359,8 +3291,7 @@
 					
 					<milestone unit="section" n="3"/>
 					
-					<seg>Themistocles also persuaded the Athenians to finish the<note type="margin"
-						anchored="yes">B.C. 482.</note> Piraeus,</seg>
+					<seg>Themistocles also persuaded the Athenians to finish the<note type="margin" anchored="yes">B.C. 482.</note> Piraeus,</seg>
 					<seg>of which he had made a beginning in his
 						year of office as Archon.</seg>
 					<seg>The<note type="margin" anchored="yes">
@@ -3536,8 +3467,7 @@
 					
 					<seg>First of all under the leadership of Cimon, the son of Miltiades, the Athenians
 						besieged and<note type="margin" anchored="yes">B.C. 476&ndash;466.</note> took Eion
-						upon the Strymon, then in the hands of the Persians, and sold the<note type="margin"
-							anchored="yes">
+						upon the Strymon, then in the hands of the Persians, and sold the<note type="margin" anchored="yes">
 							<hi>The Athenians subject Eion, Scyros, Carystus, Naxos.</hi>
 						</note> inhabitants into slavery.</seg>
 					
@@ -3606,8 +3536,7 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>After a while the Thasians revolted; a quarrel had arisen<note type="margin"
-						anchored="yes">B.C. 465.</note> between them and the Athenians about the Thracian
+					<seg>After a while the Thasians revolted; a quarrel had arisen<note type="margin" anchored="yes">B.C. 465.</note> between them and the Athenians about the Thracian
 						markets and the mine on the Thracian coast opposite, of which the Thasians received the
 						profits.</seg>
 					<seg>The Athenians sailed to Thasos and, gaining a victory at sea,</seg>
@@ -3620,11 +3549,9 @@
 						Amphipolis.</seg>
 					<seg>They gained possession of the Nine Ways, which were inhabited by the Edoni,</seg>
 					<seg>but,
-						advancing into the interior of Thrace, they<note anchored="yes">Or, reading <foreign
-							lang="greek">ci/mpantes,</foreign> as Poppo is inclined to do, 'were destroyed
+						advancing into the interior of Thrace, they<note anchored="yes">Or, reading <foreign lang="greek">ci/mpantes,</foreign> as Poppo is inclined to do, 'were destroyed
 							to a man by the Thracians.'</note> were destroyed at Drabescus in Edonia by the
-						united Thracians,<note anchored="yes">Or, reading <foreign lang="greek"
-							>ci/mpantes,</foreign> as Poppo is inclined to do, 'were destroyed to a man by the
+						united Thracians,<note anchored="yes">Or, reading <foreign lang="greek">ci/mpantes,</foreign> as Poppo is inclined to do, 'were destroyed to a man by the
 							Thracians.'</note> whose country was threatened by the new settlement. </seg>
 				</p>
 				<p>
@@ -3639,8 +3566,7 @@
 					
 					<seg>Unknown to the Athenians they agreed,<note type="margin" anchored="yes">B.C.
 						464.</note> and were on the point of setting out</seg>
-					<seg>when the great earthquake occurred<note
-						type="margin" anchored="yes">
+					<seg>when the great earthquake occurred<note type="margin" anchored="yes">
 						<hi>Revolt of the Helots, who seize Ithom&egrave;.</hi>
 					</note> and was immediately followed by the revolt of the Helots and with them the
 						Perioeci of Thuria and Aethaea, who seized Ithom&egrave;.</seg>
@@ -3670,8 +3596,7 @@
 					<seg>The siege of Ithom&egrave; proved tedious, and the Lacedaemonians called in, among
 						other allies,<note type="margin" anchored="yes">B. C. 463&ndash;461.</note> the
 						Athenians,</seg>
-					<seg>who sent to their aid a considerable force under Cimon.<note type="margin"
-						anchored="yes">
+					<seg>who sent to their aid a considerable force under Cimon.<note type="margin" anchored="yes">
 						<hi>The Athenians come to the assistance of the Lacedaemonians, but being suspected
 							by them, they are dismissed and go away in a rage.</hi>
 					</note>
@@ -3700,8 +3625,7 @@
 					<seg>Now the Athenians saw that their dismissal was due to some suspicion which had arisen
 						and not to the less offensive reason which was openly avowed;<pb n="69"/>
 					</seg>
-					<seg>they felt keenly that such a slight ought not to have been<note type="margin"
-						anchored="yes">B.C. 463&ndash;461.</note> offered them by the Lacedaemonians;
+					<seg>they felt keenly that such a slight ought not to have been<note type="margin" anchored="yes">B.C. 463&ndash;461.</note> offered them by the Lacedaemonians;
 						and so, on their return home, they forthwith abandoned the alliance which they had made
 						with them against the Persians and went over to their Argive enemies.</seg>
 					<seg>At the same time both Argos and Athens bound themselves to Thessaly by a common oath of
@@ -3714,8 +3638,7 @@
 					
 					<seg>In the<note anchored="yes">Or, accepting <foreign lang="greek">teta/rtw|</foreign>
 						(Kr&uuml;ger conj.), 'the fourth year.'</note> tenth year of the siege the
-						defenders of Ithom&egrave; were unable to hold out any longer,<note type="margin"
-							anchored="yes">B.C. 455.</note> and capitulated to the Lacedaemonians. The terms were as follows: They were<note type="margin" anchored="yes">
+						defenders of Ithom&egrave; were unable to hold out any longer,<note type="margin" anchored="yes">B.C. 455.</note> and capitulated to the Lacedaemonians. The terms were as follows: They were<note type="margin" anchored="yes">
 								<hi>the Fall of Ithom&egrave;. The Athenians settle the exiled Messenians at
 									Naupactus.</hi>
 							</note> to leave Peloponnesus under a safeconduct, and were never again to return;</seg>
@@ -3739,8 +3662,7 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>The Athenians obtained the alliance of the Megarians,<note type="margin" anchored="yes"
-						>B.C. 461&ndash;460.</note> who revolted from the Lacedaemonians because the
+					<seg>The Athenians obtained the alliance of the Megarians,<note type="margin" anchored="yes">B.C. 461&ndash;460.</note> who revolted from the Lacedaemonians because the
 						Corinthians were pressing<note type="margin" anchored="yes">
 							<hi>Athens gains the alliance of Megara, as well as of Argos and Thesslay.</hi>
 						</note> them hard in a war arising out of a question of frontiers.</seg>
@@ -3768,8 +3690,7 @@
 					<seg>They were just then engaged in an expedition against Cyprus with two hundred ships of
 						their own and of their allies; and, quitting the island,</seg>
 					<seg>they went to his aid. They sailed from the sea into the Nile, and, making themselves masters of the river and
-						of two-thirds of Memphis, proceeded to attack the remaining part called<note
-							type="margin" anchored="yes">B.C. 460&ndash;457.</note> the White Castle,</seg>
+						of two-thirds of Memphis, proceeded to attack the remaining part called<note type="margin" anchored="yes">B.C. 460&ndash;457.</note> the White Castle,</seg>
 					<seg>in
 						which some of the Persians and Medes had taken refuge, and with them such Egyptians as
 						had not joined in the revolt. </seg>
@@ -3802,8 +3723,7 @@
 					<milestone unit="section" n="3"/>
 					
 					<seg>Thereupon the Peloponnesians sent over to the assistance of the Aeginetans three
-						hundred hoplites who had previously been assisting the Corinthians and Epidaurians. The Corinthians seized<note anchored="yes">Omitting the stop after <foreign
-							lang="greek">kate/labon.</foreign>
+						hundred hoplites who had previously been assisting the Corinthians and Epidaurians. The Corinthians seized<note anchored="yes">Omitting the stop after <foreign lang="greek">kate/labon.</foreign>
 						</note> on the heights of Geraneia, and thence made a descent with their allies into the
 						Megarian territory, thinking that the Athenians, who had so large a force absent in
 						Aegina and in Egypt, would be unable to assist the Megarians; or, if they did, would be
@@ -3813,8 +3733,7 @@
 					
 					<seg>But the Athenians, without moving their army from Aegina,</seg>
 					<seg>sent to Megara under the
-						command of Myronides a force consisting of their oldest and youngest men, who had<pb
-							n="71"/> remained at home.</seg>
+						command of Myronides a force consisting of their oldest and youngest men, who had<pb n="71"/> remained at home.</seg>
 					
 					<milestone unit="section" n="5"/>
 					
@@ -4044,8 +3963,7 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>A short time afterwards a thousand Athenians, under<note type="margin" anchored="yes"
-						>B.C. 454.</note> the command of Pericles the son of Xanthippus, embarking on board
+					<seg>A short time afterwards a thousand Athenians, under<note type="margin" anchored="yes">B.C. 454.</note> the command of Pericles the son of Xanthippus, embarking on board
 						the<note type="margin" anchored="yes">
 							<hi>The Athenians under Pericles defeat the Sicyonians.</hi>
 						</note> fleet which they had at Pegae, <seg>now in their possession,</seg> coasted along to Sicyon,</seg>
@@ -4071,8 +3989,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>The Athenians now abstained from war in Hellas itself,</seg>
-					<seg>but<note type="margin"
-						anchored="yes">
+					<seg>but<note type="margin" anchored="yes">
 						<hi>Truce for five years. Expedition to Cyprus. More ships sent to Egypt. Death of
 							Cimon. Battles at Salamis in Cyprus.</hi>
 					</note> made an expedition to Cyprus with two hundred ships of their own and of their
@@ -4086,8 +4003,7 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>Here Cimon<pb n="75"/> died, and a famine arose in the country; so the fleet<note
-						type="margin" anchored="yes">B.C. 449.</note> quitted Citium.</seg>
+					<seg>Here Cimon<pb n="75"/> died, and a famine arose in the country; so the fleet<note type="margin" anchored="yes">B.C. 449.</note> quitted Citium.</seg>
 					<seg>Arriving off Salamis in Cyprus they fought at sea</seg>
 					<seg>and also on land with Phoenician and
 						Cilician forces.</seg>
@@ -4110,8 +4026,7 @@
 					
 					<seg>Some time afterwards the Athenians, under the command of Tolmides the son of
 						Tolmaeus,<note type="margin" anchored="yes">B.C. 447.</note> with a thousand
-						hoplites of their own and contingents of their allies, made<note type="margin"
-							anchored="yes">
+						hoplites of their own and contingents of their allies, made<note type="margin" anchored="yes">
 							<hi>Defeat of the Athenians at Coronea. Resolution in Boeotia.</hi>
 						</note> an expedition against Orchomenus, Chaeronea, and certain other places in Boeotia
 						which were in the hands of oligarchical exiles from different Boeotian towns, and so
@@ -4147,8 +4062,7 @@
 							<hi>Revolt of Euboea. Slaughter of the Athenian garrison at Megara. Invasion of
 								Attica. Retirement of the Peloponnesians, and recovery of Euboea.</hi>
 						</note> that the Peloponnesians were on the point of invading Attica, and that the
-						Megarians had slaughtered the Athenian garrison, of whom a few only had escaped to<pb
-							n="76"/> Nisaea.</seg>
+						Megarians had slaughtered the Athenian garrison, of whom a few only had escaped to<pb n="76"/> Nisaea.</seg>
 					<seg>The Megarians had introduced a force of Corinthians, Sicyonians, and Epidaurians into
 						the city, and by their help had effected the revolt.</seg>
 					<seg>Pericles in haste withdrew his army from Euboea.</seg>
@@ -4383,8 +4297,7 @@
 						which possessed the enemy,</seg>
 					<seg>and yet more, which seemed to be wisely contrived, have ended
 						in foul disaster.</seg>
-					<seg>The execution of an enterprise is never equal<note anchored="yes">Reading <foreign
-						lang="greek">o(/moia.</foreign>
+					<seg>The execution of an enterprise is never equal<note anchored="yes">Reading <foreign lang="greek">o(/moia.</foreign>
 					</note> to the conception of it</seg>
 					<seg>in the confident mind of its promoter;</seg>
 					<seg>for men are safe
@@ -4494,8 +4407,7 @@
 								avoided these errors, you have wrapped yourselves in that contemptuous wisdom, which
 								has so often' etc.</note></seg>
 						<seg>For you certainly do not escape such imputations by
-							wrapping yourselves in that contemptuous wisdom which has so often<note anchored="yes"
-								>Or, 'For we cannot suppose that, having avoided these errors, you have wrapped
+							wrapping yourselves in that contemptuous wisdom which has so often<note anchored="yes">Or, 'For we cannot suppose that, having avoided these errors, you have wrapped
 								yourselves in that contemptuous wisdom, which has so often' etc.</note> brought men
 							to ruin, as in the end to be pronounced contemptible folly. </seg>
 					</p>
@@ -4510,8 +4422,7 @@
 							<hi>In going to war you have the God and the feeling of Hell as on your side, and
 								you will not break the treaty.</hi>
 						</note> devote our energies to the task which we have immediately in hand.</seg>
-						<seg>By labour to win virtue,&mdash;that is the lesson which we<note anchored="yes"
-							>Reading <foreign lang="greek">h(mi=n.</foreign>
+						<seg>By labour to win virtue,&mdash;that is the lesson which we<note anchored="yes">Reading <foreign lang="greek">h(mi=n.</foreign>
 						</note> have learnt from our fathers, and which you ought not to unlearn, because you
 							chance to have some trifling advantage over them in wealth and power; for men should not
 							lose in the time of their wealth what was gained by them in their time of want.</seg>
@@ -4533,12 +4444,10 @@
 						
 						<milestone unit="section" n="1"/>
 						
-						<seg>On every ground you will be right in going to war: it is our united advice;<note
-							anchored="yes">Reading <foreign lang="greek">tau)ta/:</foreign> or, with all the
+						<seg>On every ground you will be right in going to war: it is our united advice;<note anchored="yes">Reading <foreign lang="greek">tau)ta/:</foreign> or, with all the
 							MSS. retaining <foreign lang="greek">tau=ta:</foreign> 'And as it is most certain
 							that the policy which we recommend is for our advantage both as states and
-							individuals, send speedy aid' etc.</note> and if you<note type="margin"
-								anchored="yes">
+							individuals, send speedy aid' etc.</note> and if you<note type="margin" anchored="yes">
 								<hi>We cannot go on as we are. War is the way to peace; but peace may be the way to
 									war.</hi>
 							</note> believe community of interests to be the surest ground of strength both to
@@ -4646,8 +4555,7 @@
 					<seg>After a time they grew tired of the siege and most of them went away, committing the
 						guard to the nine Archons, and giving them full powers to do what they thought best in
 						the whole matter;</seg>
-					<seg>for in those days public affairs were chiefly administered by the nine Archons<note
-						anchored="yes">Cp. <bibl n="Hdt. 5.71">Herod. 5.71</bibl>.</note>.</seg>
+					<seg>for in those days public affairs were chiefly administered by the nine Archons<note anchored="yes">Cp. <bibl n="Hdt. 5.71">Herod. 5.71</bibl>.</note>.</seg>
 					
 					<milestone unit="section" n="9"/>
 					
@@ -4675,8 +4583,7 @@
 					<seg>the Lacedaemonian
 						king, again banished them from Athens in a time of civil strife by the help of the
 						opposite faction, expelling the living and disinterring and casting forth the bones of
-						the dead<note anchored="yes">Cp. <bibl n="Hdt. 5.70">Herod. 5.70</bibl>, <bibl
-							n="Thuc. 5.72">72</bibl>.</note>.</seg>
+						the dead<note anchored="yes">Cp. <bibl n="Hdt. 5.70">Herod. 5.70</bibl>, <bibl n="Thuc. 5.72">72</bibl>.</note>.</seg>
 					<seg>Nevertheless they afterwards returned, and to this day their race still survives in the
 						city. </seg>
 				</p>
@@ -4722,8 +4629,7 @@
 						Poseidon at Taenarus; these the Lacedaemonians, having first raised by the hand, had
 						then led away and slain.</seg>
 					<seg>The Lacedaemonians themselves believe this act of theirs to have been the cause of the
-						great earthquake which visited Sparta<note anchored="yes">Cp. <bibl n="Thuc. 1.101"
-							>1.101</bibl>, <bibl n="Thuc. 1.102">102</bibl>.</note>.</seg>
+						great earthquake which visited Sparta<note anchored="yes">Cp. <bibl n="Thuc. 1.101">1.101</bibl>, <bibl n="Thuc. 1.102">102</bibl>.</note>.</seg>
 					
 					<milestone unit="section" n="2"/>
 					
@@ -4734,8 +4640,7 @@
 					<milestone unit="section" n="3"/>
 					
 					<seg>When Pausanias the Lacedaemonian was originally summoned by the Spartans to give an
-						account of his command at the Hellespont<note anchored="yes">Cp. <bibl n="Thuc. 1.95"
-							>1.95</bibl>.</note>, and had been tried and acquitted, he was no longer sent
+						account of his command at the Hellespont<note anchored="yes">Cp. <bibl n="Thuc. 1.95">1.95</bibl>.</note>, and had been tried and acquitted, he was no longer sent
 						out in a public capacity, but he hired a trireme of Hermion&egrave; on his own
 						account and sailed to the Hellespont, pretending that he had gone thither to fight in
 						the cause of the Hellenes. In reality he wanted to prosecute an intrigue with the King, by which he hoped to
@@ -4820,8 +4725,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>Pausanias received the letter.</seg>
-					<seg>He had already acquired a high reputation among the Hellenes<note type="margin"
-						anchored="yes">
+					<seg>He had already acquired a high reputation among the Hellenes<note type="margin" anchored="yes">
 						<hi>Pausanias, carried away by pride, manifests his ambitious designs.</hi>
 					</note> when in command at Plataea, and now he was so great that he could no longer
 						contain himself or live like other men.</seg>
@@ -4849,8 +4753,7 @@
 						first instance on this ground<note anchored="yes">Cp. <bibl n="Thuc. 1.93">1.93
 							init.</bibl>
 						</note>.</seg>
-					<seg>And now, when he had sailed away in the ship<pb n="88"/> of Hermione without leave<note
-						anchored="yes">Cp. <bibl n="Thuc. 1.128">1.128</bibl>.</note>, and was evidently
+					<seg>And now, when he had sailed away in the ship<pb n="88"/> of Hermione without leave<note anchored="yes">Cp. <bibl n="Thuc. 1.128">1.128</bibl>.</note>, and was evidently
 						carrying on the same practices; when he had<note type="margin" anchored="yes">
 							<hi>He is recalled a second time by the Lacedaemonians and thrown into prison, but
 								soon comes out and offers himself for trial.</hi>
@@ -4943,8 +4846,7 @@
 						they wanted to hear something from Pausanias' own mouth, and so, according to a plan
 						preconcerted with them, the man went to Taenarus as a suppliant and there put up a hut
 						divided by a partition. In the inner part of the hut he placed some<pb n="90"/> of the Ephors, and when
-						Pausanias came to him and asked him why he was a suppliant, the whole<note type="margin"
-							anchored="yes">
+						Pausanias came to him and asked him why he was a suppliant, the whole<note type="margin" anchored="yes">
 							<hi>His servant takes sanctuary at Taenarus, where he conceals some of the Ephors.
 								Pausanias coming to enquirer the reason reveals the whole.</hi>
 						</note> truth was at once revealed to them. There was the man reproaching Pausanias with the directions which he had found in the
@@ -5091,8 +4993,7 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>There he found a merchant vessel sailing to Ionia, in which he embarked; it was<note
-						type="margin" anchored="yes">B.C. 466.</note> driven, however, by a storm to the
+					<seg>There he found a merchant vessel sailing to Ionia, in which he embarked; it was<note type="margin" anchored="yes">B.C. 466.</note> driven, however, by a storm to the
 						station of the Athenian fleet which was blockading Naxos.</seg>
 					<seg>He was unknown to his fellow passengers,</seg>
 					<seg>but, fearing what might happen, he told the
@@ -5119,15 +5020,13 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>The letter was in the following words:</seg>&mdash;<quote><seg>I, Themistocles,<note type="margin"
-						anchored="yes">
+					<seg>The letter was in the following words:</seg>&mdash;<quote><seg>I, Themistocles,<note type="margin" anchored="yes">
 						<hi>His letter to the King.</hi>
 					</note> have come to you, I who of all Hellenes did your house the greatest injuries so
 						long as I was compelled to defend myself against your father; but still greater benefits
 						when I was in safety and he in danger during his retreat.</seg>
 						<seg>And there is a debt of gratitude due to me</seg></quote> (here he noted how he had forewarned Xerxes
-					at Salamis of the resolution of the Hellenes to withdraw<note anchored="yes">Cp. <bibl
-						n="Hdt. 8.75">Herod. 8.75</bibl>.</note>, and how through his influence, as he
+					at Salamis of the resolution of the Hellenes to withdraw<note anchored="yes">Cp. <bibl n="Hdt. 8.75">Herod. 8.75</bibl>.</note>, and how through his influence, as he
 					pretended, they had refrained from breaking down the bridges)<note anchored="yes">Cp.
 						<bibl n="Hdt. 8.108">Herod. 8.108</bibl>.</note>.
 					<quote><seg>Now I am here, able to do you many other services, and persecuted by the Hellenes for
@@ -5212,8 +5111,7 @@
 					<seg>They came again and again, and told the Athenians that they must raise the siege of
 						Potidaea and restore Aegina to independence.<pb n="95"/>
 					</seg>
-					<seg>Above all, and in the plainest terms, they insisted<note type="margin" anchored="yes"
-						>B.C. 432.</note> that if they wanted to avert war, they must rescind the decree
+					<seg>Above all, and in the plainest terms, they insisted<note type="margin" anchored="yes">B.C. 432.</note> that if they wanted to avert war, they must rescind the decree
 						which excluded the Megarians from the market of Athens and the harbours in the Athenian
 						dominions.</seg>
 					
@@ -5260,8 +5158,7 @@
 							init.</bibl>
 						</note>
 						<pb n="96"/></seg>
-					<seg>The movement of events is often as wayward and incomprehensible<note
-						type="margin" anchored="yes">B.C. 432.</note> as the course of human thought;</seg>
+					<seg>The movement of events is often as wayward and incomprehensible<note type="margin" anchored="yes">B.C. 432.</note> as the course of human thought;</seg>
 					<seg>and
 						this is why we ascribe to chance whatever belies our calculation. </seg>
 				</p>
@@ -5276,8 +5173,7 @@
 									only provoke fresh demands and implies the loss of our independence.</hi>
 							</note> still clearer now.</seg>
 						<seg>Our agreement says that when differences arise, the two parties shall refer them to
-							arbitration, and in the mean time both are to retain what they have. But for arbitration they never ask; and when it is offered by us, they refuse it<note
-								anchored="yes">Cp. <bibl n="Thuc. 1.78">1.78</bibl>.</note>.</seg>
+							arbitration, and in the mean time both are to retain what they have. But for arbitration they never ask; and when it is offered by us, they refuse it<note anchored="yes">Cp. <bibl n="Thuc. 1.78">1.78</bibl>.</note>.</seg>
 						<seg>They want to redress their grievances by arms and not by argument;</seg>
 						<seg>and now they come to
 							us, using the language, no longer of expostulation, but of command.</seg>
@@ -5411,8 +5307,7 @@
 						
 						<milestone unit="section" n="6"/>
 						
-						<seg>And they will not easily acquire the art of seamanship<note anchored="yes">Cp. <bibl
-							n="Thuc. 1.121">1.121 med.</bibl>
+						<seg>And they will not easily acquire the art of seamanship<note anchored="yes">Cp. <bibl n="Thuc. 1.121">1.121 med.</bibl>
 						</note>;</seg>
 						
 						<milestone unit="section" n="7"/>
@@ -5527,8 +5422,7 @@
 									we made the treaty, and as soon as the Lacedaemonians allow their allied states
 									a true independence, not for the interest of Lacedaemon, but everywhere for
 									their own.</seg>
-								<seg>Also that we are willing to offer arbitration according<note type="margin"
-									anchored="yes">
+								<seg>Also that we are willing to offer arbitration according<note type="margin" anchored="yes">
 									<hi>We do not want war, but offer arbitration. Still peace is hopeless; and
 										we must prepare for war in a spirit worthy of our fathers.</hi>
 								</note> to the treaty.</seg>
@@ -5546,8 +5440,7 @@
 						
 						<milestone unit="section" n="4"/>
 						
-						<seg>Our<pb n="101"/> fathers, when they withstood the Persian, had no such<note
-							type="margin" anchored="yes">B.C. 432.</note> power as we have; what little they had
+						<seg>Our<pb n="101"/> fathers, when they withstood the Persian, had no such<note type="margin" anchored="yes">B.C. 432.</note> power as we have; what little they had
 							they forsook: not by good fortune but by wisdom, and not by power but by courage, they
 							drove the Barbarian away and raised us to our present height of greatness.</seg>
 						<seg>We must be worthy of them, and resist our enemies to the utmost, that we may hand down
@@ -5591,10 +5484,8 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>AND now the war between the Athenians and Peloponnesians and the allies of both<note
-						type="margin" anchored="yes">B.C. 431.</note> actually began.</seg>
-					<seg>Henceforward the struggle was uninterrupted, and they communicated with<note
-						type="margin" anchored="yes">
+					<seg>AND now the war between the Athenians and Peloponnesians and the allies of both<note type="margin" anchored="yes">B.C. 431.</note> actually began.</seg>
+					<seg>Henceforward the struggle was uninterrupted, and they communicated with<note type="margin" anchored="yes">
 						<hi>Outbreak of the war.</hi>
 					</note> one another only by heralds.</seg>
 					<seg>The narrative is arranged according to summers and winters and follows the order of
@@ -5678,8 +5569,7 @@
 					
 					<seg>When they had done all which could be done under the circumstances, they sallied forth
 						from their houses, choosing the time of night just before daybreak,<pb n="104"/> lest,
-						if they put off the attack until dawn, the enemy might<note type="margin" anchored="yes"
-							>B.C. 431.</note> be more confident and more a match for them.</seg>
+						if they put off the attack until dawn, the enemy might<note type="margin" anchored="yes">B.C. 431.</note> be more confident and more a match for them.</seg>
 					<seg>While darkness lasted they would be timid, and at a disadvantage, not knowing the
 						streets so well as themselves.</seg>
 					<seg>So they fell upon them at once hand to hand. </seg>
@@ -5842,9 +5732,7 @@
 							<hi>Both sides now prepare for the struggle.</hi>
 						</note> made preparations for war.</seg>
 					<seg>The Lacedaemonians and their allies made similar preparations.</seg>
-					<seg>Both they and the Athenians meditated sending embassies to the King<note anchored="yes"
-						>Cp. <bibl n="Thuc. 2.67">2.67 init.</bibl>; <bibl n="Thuc. 4.50"
-							>4.50</bibl>.</note>, and to the other Barbarian potentates<note anchored="yes">Cp.
+					<seg>Both they and the Athenians meditated sending embassies to the King<note anchored="yes">Cp. <bibl n="Thuc. 2.67">2.67 init.</bibl>; <bibl n="Thuc. 4.50">4.50</bibl>.</note>, and to the other Barbarian potentates<note anchored="yes">Cp.
 								<bibl n="Thuc. 2.29">2.29</bibl>, <bibl n="Thuc. 2.67">67</bibl>.</note> from
 						whom either party might hope to obtain aid; they likewise sought the alliance of
 						independent cities outside their own dominion.</seg>
@@ -5864,9 +5752,7 @@
 					<seg>The Athenians reviewed their confederacy, and sent ambassadors to the places
 						immediately adjacent to Peloponnesus&mdash;Corcyra, Cephallenia, Acarnania, and
 						Zacynthus.</seg>
-					<seg>They perceived that if they could only rely upon the friendship of these states<note
-						anchored="yes">Taking <foreign lang="greek">bebai/ws</foreign> with <foreign
-							lang="greek">ei) sfi/si fi/lia tau=ta ei)/h.</foreign>
+					<seg>They perceived that if they could only rely upon the friendship of these states<note anchored="yes">Taking <foreign lang="greek">bebai/ws</foreign> with <foreign lang="greek">ei) sfi/si fi/lia tau=ta ei)/h.</foreign>
 					</note>, they might completely encircle Peloponnesus with war. </seg>
 				</p>
 				<p>
@@ -5929,8 +5815,7 @@
 					<seg>Their respective allies were as follows:&mdash;The Lacedaemonian confederacy
 						included all the Peloponnesians with the exception of the Argives and the
 						Achaeans&mdash;they were both neutral; only the Achaeans of Pellene took part with
-						the Lacedaemonians at first; afterwards all the Achaeans joined them<note anchored="yes"
-							>Cp, <bibl n="Thuc. 5.82">5.82 init.</bibl>
+						the Lacedaemonians at first; afterwards all the Achaeans joined them<note anchored="yes">Cp, <bibl n="Thuc. 5.82">5.82 init.</bibl>
 						</note>.</seg>
 					
 					<milestone unit="section" n="4"/>
@@ -6028,8 +5913,7 @@
 					
 					<milestone unit="section" n="6"/>
 					
-					<seg>'And the city which we are attacking is not so utterly<note type="margin"
-						anchored="yes">B.C. 431.</note> powerless against an invader, but is in the best
+					<seg>'And the city which we are attacking is not so utterly<note type="margin" anchored="yes">B.C. 431.</note> powerless against an invader, but is in the best
 						possible state of preparation,<note type="margin" anchored="yes">
 							<hi>For they are thoroughly prepared, and the least likely of all men to sit idly by
 								while we waste their lands.</hi>
@@ -6112,8 +5996,7 @@
 						Athenian generals, knowing that the invasion was inevitable, and suspecting that
 						Archidamus in wasting the country might very likely spare his lands, either out of
 						courtesy and because he happened to be his friend, or by the order of the Lacedaemonian
-						authorities (who had already attempted to raise a prejudice against him<note
-							anchored="yes">Cp. <bibl n="Thuc. 1.126">1.126 init.</bibl> and 127.</note> when
+						authorities (who had already attempted to raise a prejudice against him<note anchored="yes">Cp. <bibl n="Thuc. 1.126">1.126 init.</bibl> and 127.</note> when
 						they demanded the expulsion of the polluted family, and might take this further means of
 						injuring him in the eyes of the Athenians), openly declared in the assembly that
 						Archidamus was his friend, but was not so to the injury of the state, and that supposing
@@ -6127,8 +6010,7 @@
 						and bring their property from the country into the city; they must defend their walls
 						but not go out to battle; they should also equip for service the fleet in which lay
 						their strength.</seg>
-					<seg>Their allies<pb n="112"/> should be kept well in hand, for their power depended on<note
-						type="margin" anchored="yes">B.C. 431.</note> the revenues which they derived from
+					<seg>Their allies<pb n="112"/> should be kept well in hand, for their power depended on<note type="margin" anchored="yes">B.C. 431.</note> the revenues which they derived from
 						them; military successes were generally gained by a wise policy and command of money.</seg>
 					<seg>The state of their<note type="margin" anchored="yes">
 						<hi>He reminds the Athenians of their enormous wealth and military and naval
@@ -6141,8 +6023,7 @@
 						&pound;120,000.</note> of tribute coming in annually from their allies, to say
 						nothing of their other revenue; and there were still remaining in the Acropolis six
 						thousand talents of coined silver.</seg>
-					<seg>(The whole amount had once been as much as nine thousand seven hundred talents<note
-						anchored="yes">About &pound;1,940,000.</note>, but from this had to be deducted
+					<seg>(The whole amount had once been as much as nine thousand seven hundred talents<note anchored="yes">About &pound;1,940,000.</note>, but from this had to be deducted
 						a sum of three thousand seven hundred expended on various buildings, such as the
 						Propylaea of the Acropolis, and also on the siege of Potidaea.)</seg>
 					
@@ -6171,9 +6052,7 @@
 					
 					<milestone unit="section" n="7"/>
 					
-					<seg>For this was the number engaged on garrison duty at the beginning of the war<note
-						anchored="yes">Cp. what is said of the citizens on garrison duty, <bibl
-							n="Thuc. 7.28">7.28 init.</bibl>
+					<seg>For this was the number engaged on garrison duty at the beginning of the war<note anchored="yes">Cp. what is said of the citizens on garrison duty, <bibl n="Thuc. 7.28">7.28 init.</bibl>
 					</note>, whenever the enemy invaded Attica; they were made up of the elder and younger
 						men, and of such metics as bore<pb n="113"/> heavy arms.</seg>
 					<seg>The Phaleric wall extended four miles from Phalerum to the city walls: the portion of
@@ -6303,8 +6182,7 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>When they came to Athens, only a few of them had houses or could find homes among<note
-						type="margin" anchored="yes">
+					<seg>When they came to Athens, only a few of them had houses or could find homes among<note type="margin" anchored="yes">
 						<hi>The new-comers, having no homes of their own, occupy the temples and waste
 							spaces in the city.</hi>
 					</note> friends or kindred.</seg>
@@ -6461,8 +6339,7 @@
 						the<note type="margin" anchored="yes">
 							<hi>Rage and excitement of the Athenians. Unpopularity of Pericles.</hi>
 						</note> plain of Thria, entertained a hope that they would come no further.</seg>
-					<seg>They remembered how, fourteen years before<note anchored="yes">Cp. <bibl
-						n="Thuc. 1.114">1.114 fin.</bibl>
+					<seg>They remembered how, fourteen years before<note anchored="yes">Cp. <bibl n="Thuc. 1.114">1.114 fin.</bibl>
 					</note>, the Lacedaemonian king, Pleistoanax the son of Pausanias, invaded Attica with a
 						Peloponnesian army, and how after advancing as far as Eleusis and Thria he came no
 						further, but retreated.</seg>
@@ -6496,8 +6373,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>But he, seeing that they were overcome by the irritation of the moment and inclined to
-						evil counsels, and confident that he was right in refusing to go out, would not<pb
-							n="119"/> summon an assembly or meeting of any kind, lest, coming together more in
+						evil counsels, and confident that he was right in refusing to go out, would not<pb n="119"/> summon an assembly or meeting of any kind, lest, coming together more in
 						anger than in prudence,<note type="margin" anchored="yes">
 							<hi>He refuses to comply with their wishes.</hi>
 						</note> they might take some false step.</seg>
@@ -6555,10 +6431,8 @@
 					
 					<seg>After the departure of the fleet the Peloponnesians remained in Attica as long as their
 						provisions lasted, and then, taking a new route, retired through Boeotia.</seg>
-					<seg>In passing by Oropus they wasted the country called Peira&iuml;k&egrave;<note
-						anchored="yes">Reading with the MSS. <foreign lang="greek">th\n gh=n th\n
-							Peirai+kh/n.</foreign> Cp. <bibl n="Thuc. 3.91">3.91 med.</bibl>, <foreign
-								lang="greek">e)s )Wrwpo\n th=s pe/ran gh=s,</foreign> i. e. the coast opposite
+					<seg>In passing by Oropus they wasted the country called Peira&iuml;k&egrave;<note anchored="yes">Reading with the MSS. <foreign lang="greek">th\n gh=n th\n
+							Peirai+kh/n.</foreign> Cp. <bibl n="Thuc. 3.91">3.91 med.</bibl>, <foreign lang="greek">e)s )Wrwpo\n th=s pe/ran gh=s,</foreign> i. e. the coast opposite
 						Euboea.</note>, inhabited by the Oropians, who are subjects of the Athenians.</seg>
 					<seg>On their return to Peloponnesus the troops dispersed to their several cities. </seg>
 				</p>
@@ -6652,8 +6526,7 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>In the same summer the Athenians expelled the Aeginetans and their families from<note
-						type="margin" anchored="yes">
+					<seg>In the same summer the Athenians expelled the Aeginetans and their families from<note type="margin" anchored="yes">
 						<hi>The Athenians expel the Aegintans from their country. Some of the exiles are
 							settled by the Lacedaemonians in Thyrea.</hi>
 					</note> Aegina, alleging that they had been the main cause of the war.</seg>
@@ -6745,8 +6618,7 @@
 					
 					<seg>He further reconciled Perdiccas with the Athenians, and persuaded them to restore
 						Therm&egrave; to him<note anchored="yes">Cp. <bibl n="Thuc. 1.61">1.61 init.</bibl>
-						</note> Whereupon Perdiccas joined the Athenian army under Phormio<note anchored="yes"
-							>Cp. <bibl n="Thuc. 1.64">1.64 med.</bibl>
+						</note> Whereupon Perdiccas joined the Athenian army under Phormio<note anchored="yes">Cp. <bibl n="Thuc. 1.64">1.64 med.</bibl>
 						</note>, and with him fought against the Chalcidians.</seg>
 					
 					<milestone unit="section" n="7"/>
@@ -6803,8 +6675,7 @@
 					
 					<seg>After ravaging the greater part of the country they retired.</seg>
 					<seg>They repeated the invasion, sometimes with cavalry, sometimes with the whole Athenian
-						army, every year during the war until Nisaea was taken<note anchored="yes">Cp. <bibl
-							n="Thuc. 4.66">4.66 init.</bibl>, <bibl n="Thuc. 4.69">69 fin.</bibl>
+						army, every year during the war until Nisaea was taken<note anchored="yes">Cp. <bibl n="Thuc. 4.66">4.66 init.</bibl>, <bibl n="Thuc. 4.69">69 fin.</bibl>
 						</note>. </seg>
 				</p>
 				<p>
@@ -6827,8 +6698,7 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>During the following winter, Evarchus the Acarnanian, desiring to be restored<note
-						type="margin" anchored="yes">
+					<seg>During the following winter, Evarchus the Acarnanian, desiring to be restored<note type="margin" anchored="yes">
 						<hi>The Corinthians restore the tyrant Evarchs to Astacus. On their return they
 							attack Cephallenia, but are defeated.</hi>
 					</note> to Astacus, persuaded the Corinthians to sail with forty ships and fifteen
@@ -6912,8 +6782,7 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>'Most of those who have spoken here before me have commended the lawgiver who<note
-						type="margin" anchored="yes">
+					<seg>'Most of those who have spoken here before me have commended the lawgiver who<note type="margin" anchored="yes">
 						<hi>The law which enjoins this oration has been often praised. But I should prefer
 							to praise the brave by deeds only, not to imperil their reputation on the skill
 							of an orator. Still, our ancestors approved the practice, and I must obey.</hi>
@@ -6951,8 +6820,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>'I will speak first of our ancestors,</seg>
-					<seg>for it is right and seemly that now, when we are lamenting<note type="margin"
-						anchored="yes">
+					<seg>for it is right and seemly that now, when we are lamenting<note type="margin" anchored="yes">
 						<hi>I will first common rate our predecessors, who gave us freedom and empire. And
 							before praising the dead, I will describe how Athens has won her greatness.</hi>
 					</note> the dead, a tribute should be paid to their memory.</seg>
@@ -7210,13 +7078,11 @@
 						themselves<pb n="132"/> alone.</seg>
 					<seg>And when the moment came they were minded to resist and suffer, rather than to fly and
 						save their lives; they ran away from the word of dishonour, but on the battle-field
-						their feet stood fast, and<note anchored="yes">Or, taking <foreign lang="greek"
-							>tu/xhs</foreign> with <foreign lang="greek">kairou=:</foreign> 'while for a moment
+						their feet stood fast, and<note anchored="yes">Or, taking <foreign lang="greek">tu/xhs</foreign> with <foreign lang="greek">kairou=:</foreign> 'while for a moment
 							they were in the hands of fortune, at the height, not of terror but of glory, they
 							passed away.'</note> in an instant, at the height of their fortune, they passed away
 						from the scene, not of their fear, but of their glory<note anchored="yes">Or, taking
-							<foreign lang="greek">tu/xhs</foreign> with <foreign lang="greek"
-								>kairou=:</foreign> 'while for a moment they were in the hands of fortune, at the
+							<foreign lang="greek">tu/xhs</foreign> with <foreign lang="greek">kairou=:</foreign> 'while for a moment they were in the hands of fortune, at the
 							height, not of terror but of glory, they passed away.'</note>. </seg>
 				</p>
 				<p>
@@ -7450,8 +7316,7 @@
 							with <foreign lang="greek">spasmo/n:</foreign> 'these convulsions in some cases soon
 							abated, in others not until long afterwards.'</note> some as soon as the previous
 						symptoms had abated, others not until long afterwards.<note anchored="yes">Or, taking
-							<foreign lang="greek">lwfh/santa</foreign> with <foreign lang="greek"
-								>spasmo/n:</foreign> 'these convulsions in some cases soon abated, in others not
+							<foreign lang="greek">lwfh/santa</foreign> with <foreign lang="greek">spasmo/n:</foreign> 'these convulsions in some cases soon abated, in others not
 							until long afterwards.'</note>
 					</seg>
 					
@@ -7634,8 +7499,7 @@
 					<milestone unit="section" n="4"/>
 					
 					<seg>No fear of Gods or law of man deterred a criminal.</seg>
-					<seg>Those who saw all perishing alike, thought that the worship or neglect of the Gods<pb
-						n="140"/> made no difference.</seg>
+					<seg>Those who saw all perishing alike, thought that the worship or neglect of the Gods<pb n="140"/> made no difference.</seg>
 					<seg>For offences against human law no punishment was to be feared; no one would live long
 						enough to be called to account.</seg>
 					<seg>Already a far heavier sentence had been passed and was hanging over a man's head;
@@ -7676,8 +7540,7 @@
 					
 					<seg>The answer of the oracle to the Lacedaemonians when the God was asked 'whether they
 						should go to war or not,' and he replied 'that if they fought with all their might, they
-						would conquer, and that he himself would take their part<note anchored="yes">Cp. <bibl
-							n="Thuc. 1.18">1.18 fin.</bibl>
+						would conquer, and that he himself would take their part<note anchored="yes">Cp. <bibl n="Thuc. 1.18">1.18 fin.</bibl>
 						</note>,' was not forgotten by those who had heard of it, and they quite imagined that
 						they were witnessing the fulfilment of his words.</seg>
 					
@@ -7686,8 +7549,7 @@
 					<seg>The disease certainly did set in immediately after the invasion of the Peloponnesians,
 						and did not spread into Peloponnesus in any degree worth speaking of, while Athens felt
 						its ravages most severely, and next to Athens the places which were most populous.</seg>
-					<seg>Such was the history of the plague<note anchored="yes">Cp. <bibl n="Thuc. 3.87"
-						>3.87</bibl>
+					<seg>Such was the history of the plague<note anchored="yes">Cp. <bibl n="Thuc. 3.87">3.87</bibl>
 					</note>.<pb n="141"/>
 					</seg>
 				</p>
@@ -7931,14 +7793,11 @@
 					<seg>'As to your sufferings in the war, if you fear that they may be very great and after
 						all fruitless, I have shown you already over and over again that such a fear is
 						groundless.</seg>
-					<seg>If you are still unsatisfied I will indicate<note anchored="yes">Or, taking <foreign
-						lang="greek">u(pa/rxon u(mi=n</foreign> absolutely: 'a consideration which,
-						however obvious, appears to have escaped you.' Or, again, taking <foreign
-							lang="greek">mege/qous</foreign>
+					<seg>If you are still unsatisfied I will indicate<note anchored="yes">Or, taking <foreign lang="greek">u(pa/rxon u(mi=n</foreign> absolutely: 'a consideration which,
+						however obvious, appears to have escaped you.' Or, again, taking <foreign lang="greek">mege/qous</foreign>
 					</note> one element of<pb n="145"/> your superiority which appears to have escaped
 						you<note anchored="yes">
-							<foreign lang="greek">pe/ri</foreign> with <foreign lang="greek"
-								>e)nqumhqh=nai:</foreign> 'one element of your superiority which nearly touches your
+							<foreign lang="greek">pe/ri</foreign> with <foreign lang="greek">e)nqumhqh=nai:</foreign> 'one element of your superiority which nearly touches your
 							empire, but of which you never seem to have considered the importance.'</note>,
 						although it nearly touches your imperial<note type="margin" anchored="yes">
 							<hi>Do you fear that your suffering will be fruit less? I tell you that you are
@@ -8032,9 +7891,7 @@
 					<seg>What too if the plague followed?</seg>
 					<seg>That was an unexpected blow, but we might have foreseen all the rest.</seg>
 					<seg>I am well aware that your hatred of me is aggravated by it.</seg>
-					<seg>But how unjustly, unless to me you also ascribe the credit of any extraordinary<pb
-						n="147"/> success which may befall you<note anchored="yes">Cp. <bibl n="Thuc. 1.400"
-							>1.400 init.</bibl>
+					<seg>But how unjustly, unless to me you also ascribe the credit of any extraordinary<pb n="147"/> success which may befall you<note anchored="yes">Cp. <bibl n="Thuc. 1.400">1.400 init.</bibl>
 						</note>!</seg>
 					
 					<milestone unit="section" n="2"/>
@@ -8060,9 +7917,7 @@
 					
 					<milestone unit="section" n="5"/>
 					
-					<seg>The indolent may indeed find fault, but<note anchored="yes">Or, taking <foreign
-						lang="greek">kai\ au)to\s</foreign> with <foreign lang="greek"
-							>boulo/menos:</foreign> 'he who is ambitious like ourselves.'</note> the man of
+					<seg>The indolent may indeed find fault, but<note anchored="yes">Or, taking <foreign lang="greek">kai\ au)to\s</foreign> with <foreign lang="greek">boulo/menos:</foreign> 'he who is ambitious like ourselves.'</note> the man of
 						action<note anchored="yes">Or, taking <foreign lang="greek">kai\ au)to\s</foreign>
 							with <foreign lang="greek">boulo/menos:</foreign> 'he who is ambitious like
 							ourselves.'</note> will seek to rival us, and he who is less fortunate will envy us.</seg>
@@ -8091,8 +7946,7 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>In the conduct of public affairs they took his advice, and sent no more embassies<note
-						type="margin" anchored="yes">
+					<seg>In the conduct of public affairs they took his advice, and sent no more embassies<note type="margin" anchored="yes">
 						<hi>The Athenians follow Pericles' advice, but are not appeased until they have
 							fined him. He soon regains their esteem, and takes the lead of affairs. After
 							his death his wisdom was even better appreciated than during his life. His
@@ -8177,8 +8031,7 @@
 					
 					<milestone unit="section" n="12"/>
 					
-					<seg>And yet after they had lost in the Sicilian expedition the greater part of their<note
-						type="margin" anchored="yes">
+					<seg>And yet after they had lost in the Sicilian expedition the greater part of their<note type="margin" anchored="yes">
 						<hi>Even after the Sicilian disaster they held' out against their old enemies and
 							many new ones, and were at last only ruined by themselves. So that Pericles was
 							quite right after all.</hi>
@@ -8236,8 +8089,7 @@
 					
 					<seg>At the time of their arrival two Athenian envoys, Learchus the son of Callimachus, and
 						Ameiniades the son of Philemon, chanced to be at the court of Sitalces; and they
-						entreated his son Sadocus, who had been made<pb n="151"/> an Athenian citizen<note
-							anchored="yes">Cp. <bibl n="Thuc. 2.29">2.29 fin.</bibl>
+						entreated his son Sadocus, who had been made<pb n="151"/> an Athenian citizen<note anchored="yes">Cp. <bibl n="Thuc. 2.29">2.29 fin.</bibl>
 						</note>, to deliver the envoys into their hands, that they might not find their way to
 						the King and so injure a city which was in some degree his own.</seg>
 					
@@ -8367,8 +8219,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>They, seeing that the army was suffering from the exposed situation, and considering
-						that the city had already spent two thousand talents<note anchored="yes"
-							>&pound;400,000.</note> on the siege, accepted the terms proposed.</seg>
+						that the city had already spent two thousand talents<note anchored="yes">&pound;400,000.</note> on the siege, accepted the terms proposed.</seg>
 					
 					<milestone unit="section" n="3"/>
 					
@@ -8495,8 +8346,7 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>Upon hearing these words the envoys again returned into the city,<note type="margin"
-						anchored="yes">
+					<seg>Upon hearing these words the envoys again returned into the city,<note type="margin" anchored="yes">
 						<hi>The Plateans, obtaining permission to consult the Athenians, are encouraged by
 							them to resist.</hi>
 					</note> and, after holding a consultation with the people, told Archidamus that they
@@ -8514,8 +8364,7 @@
 					
 					<seg>The Plataean envoys came to Athens, and after advising with the Athenians they brought
 						back the following message to their fellow-citizens:&mdash; 'Plataeans, the
-						Athenians say that never at any time since you first became their allies<note
-							anchored="yes">
+						Athenians say that never at any time since you first became their allies<note anchored="yes">
 							<bibl n="Hdt. 6.108">Herod. 6.108</bibl>.</note> have they suffered any one to do
 						you wrong, and that they will not forsake you now, but will assist you to the utmost of
 						their power; and they adjure you, by the oaths which your fathers swore, not to forsake
@@ -8807,8 +8656,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>They might even hope to take Naupactus.</seg>
-					<seg>The Lacedaemonians agreed, and at once despatched Cnemus, who was still admiral<note
-						anchored="yes">Cp. <bibl n="Thuc. 2.66">2.66</bibl>.</note>, with the thousand
+					<seg>The Lacedaemonians agreed, and at once despatched Cnemus, who was still admiral<note anchored="yes">Cp. <bibl n="Thuc. 2.66">2.66</bibl>.</note>, with the thousand
 						hoplites in a few ships;</seg>
 					
 					<milestone unit="section" n="3"/>
@@ -9055,8 +8903,7 @@
 						quite amazed and could not imagine that their own fleet was so inferior to that of the
 						enemy.</seg>
 					<seg>They suspected that there had been cowardice, not considering that the Athenians were
-						old sailors and that they were only beginners<note anchored="yes">Cp. <bibl
-							n="Thuc. 1.142">1.142</bibl>.</note> So they despatched the commissioners in a
+						old sailors and that they were only beginners<note anchored="yes">Cp. <bibl n="Thuc. 1.142">1.142</bibl>.</note> So they despatched the commissioners in a
 						rage.</seg>
 					
 					<milestone unit="section" n="3"/>
@@ -9066,8 +8913,7 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>Phormio likewise sent home messengers to announce the victory,<note type="margin"
-						anchored="yes">
+					<seg>Phormio likewise sent home messengers to announce the victory,<note type="margin" anchored="yes">
 						<hi>The Athenians send reinforcements to Phormio, but order them to go to Crete
 							first.</hi>
 					</note> and at the same time to inform the Athenians of the preparations which the enemy
@@ -9238,17 +9084,14 @@
 					
 					<seg>In the first place, the reason why they have provided a fleet so disproportionate is
 						because we have defeated them already, and they can see themselves that they are no
-						match for us; next,<note anchored="yes">Or, taking the antecedent to <foreign
-							lang="greek">w/(|</foreign> as supplied by the clause <foreign lang="greek">ou)
+						match for us; next,<note anchored="yes">Or, taking the antecedent to <foreign lang="greek">w/(|</foreign> as supplied by the clause <foreign lang="greek">ou)
 								ei) a)\llo ti qarsou=sin... katorqou=ntes:</foreign> 'as to the ground of the
 							confidence with which they attack us as if courage were native to them.'</note> as
 						to the courage which they suppose to be native to them and which is the ground of their
-						confidence when they attack us<note anchored="yes">Or, taking the antecedent to <foreign
-							lang="greek">w/(|</foreign> as supplied by the clause <foreign lang="greek">ou)
+						confidence when they attack us<note anchored="yes">Or, taking the antecedent to <foreign lang="greek">w/(|</foreign> as supplied by the clause <foreign lang="greek">ou)
 								ei) a)\llo ti qarsou=sin... katorqou=ntes:</foreign> 'as to the ground of the
 							confidence with which they attack us as if courage were native to them.'</note>,
-						that reliance is merely inspired by the success which their experience on land<pb
-							n="170"/> usually gives them, and will, as they fancy, equally ensure them by sea.</seg>
+						that reliance is merely inspired by the success which their experience on land<pb n="170"/> usually gives them, and will, as they fancy, equally ensure them by sea.</seg>
 					
 					<milestone unit="section" n="3"/>
 					
@@ -9282,8 +9125,7 @@
 					
 					<milestone unit="section" n="6"/>
 					
-					<seg>For most men when, like these Peloponnesians, they are a match for their enemies<note
-						anchored="yes">Or, 'For men who, like these Peloponnesians, are numerically superior
+					<seg>For most men when, like these Peloponnesians, they are a match for their enemies<note anchored="yes">Or, 'For men who, like these Peloponnesians, are numerically superior
 						to the enemy whom they face.'</note> rely more upon their strength than upon their
 						courage; but those who go into battle against far superior numbers and under no
 						constraint must be inspired by some extraordinary force of resolution.</seg>
@@ -9309,8 +9151,7 @@
 					
 					<milestone unit="section" n="9"/>
 					
-					<seg>The seafight must of necessity be reduced to a land-fight<note anchored="yes">Cp. <bibl
-						n="Thuc. 7.62">7.62</bibl>.</note> in which numbers tell.</seg>
+					<seg>The seafight must of necessity be reduced to a land-fight<note anchored="yes">Cp. <bibl n="Thuc. 7.62">7.62</bibl>.</note> in which numbers tell.</seg>
 					<seg>For all this I shall do my best to provide.</seg>
 					<seg>Do you meanwhile keep order and remain close to your ships.</seg>
 					<seg>Be prompt in taking your instructions, for the enemy is near at hand and watching us.</seg>
@@ -9343,12 +9184,9 @@
 					<seg>So they weighed anchor early in the morning, and, ranging their ships four deep, stood
 						in towards the gulf<note anchored="yes">Reading <foreign lang="greek">para/</foreign>
 							for <foreign lang="greek">e)pi/</foreign> with the Laurentian and three other MSS.
-							Or, adopting the conjecture <foreign lang="greek">e)kei/nwn</foreign> for <foreign
-								lang="greek">e(autw=n :</foreign> 'making for the enemy's shore, and'
-							&amp;c.</note> along their own coast<note anchored="yes">Reading <foreign
-								lang="greek">para/</foreign> for <foreign lang="greek">e)pi/</foreign> with the
-								Laurentian and three other MSS. Or, adopting the conjecture <foreign lang="greek"
-									>e)kei/nwn</foreign> for <foreign lang="greek">e(autw=n :</foreign> 'making for
+							Or, adopting the conjecture <foreign lang="greek">e)kei/nwn</foreign> for <foreign lang="greek">e(autw=n :</foreign> 'making for the enemy's shore, and'
+							&amp;c.</note> along their own coast<note anchored="yes">Reading <foreign lang="greek">para/</foreign> for <foreign lang="greek">e)pi/</foreign> with the
+								Laurentian and three other MSS. Or, adopting the conjecture <foreign lang="greek">e)kei/nwn</foreign> for <foreign lang="greek">e(autw=n :</foreign> 'making for
 								the enemy's shore, and' &amp;c.</note>, keeping the order in which they were
 						anchored.</seg>
 					<seg>The right wing, consisting of twenty of their fastest vessels, took the lead.</seg>
@@ -9503,14 +9341,12 @@
 					<milestone unit="section" n="3"/>
 					
 					<seg>No guard ships were stationed there, for no one ever expected<note anchored="yes">Or,
-						taking <foreign lang="greek">e)pei/</foreign> differently, and <foreign lang="greek"
-							>kaq' h(suxi/an</foreign> in the sense of 'without interference:' 'that the
+						taking <foreign lang="greek">e)pei/</foreign> differently, and <foreign lang="greek">kaq' h(suxi/an</foreign> in the sense of 'without interference:' 'that the
 						enemy would make a sudden attack of this kind. An attempt so bold and open was not
 						likely to be unopposed, or the very design, if entertained, to escape
 						detection.'</note> that the enemy would attempt a surprise of this kind.</seg>
 					<seg>As to an open and deliberate attack, how was he likely to venture on that? and if he
-						even entertained such a design, would he not have been found out in time<note
-							anchored="yes">Or, taking <foreign lang="greek">e)pei/</foreign> differently, and
+						even entertained such a design, would he not have been found out in time<note anchored="yes">Or, taking <foreign lang="greek">e)pei/</foreign> differently, and
 							<foreign lang="greek">kaq' h(suxi/an</foreign> in the sense of 'without
 							interference:' 'that the enemy would make a sudden attack of this kind. An attempt
 							so bold and open was not likely to be unopposed, or the very design, if entertained,
@@ -9583,8 +9419,7 @@
 					<seg>The promise of which he claimed fulfilment had been made to him by Perdiccas, when,
 						being hard pressed at the<pb n="176"/> beginning of the war, he wanted Sitalces to
 						reconcile him to the Athenians<note anchored="yes">The reconciliation had been effected
-							through the instrumentality of Nymphodorus; <bibl n="Thuc. 2.29"
-								>2.29</bibl>.</note>, and not to restore and place on the throne his brother Philip, who
+							through the instrumentality of Nymphodorus; <bibl n="Thuc. 2.29">2.29</bibl>.</note>, and not to restore and place on the throne his brother Philip, who
 						was his enemy; but Perdiccas did not keep his word.</seg>
 					<seg>The other was a promise which Sitalces had himself made to the Athenians when he
 						entered into alliance with them, that he would put an end to their war with the
@@ -9662,8 +9497,7 @@
 					
 					<seg>The tribute which was collected from the Hellenic cities and from all the barbarous
 						nations in the reign of Seuthes, the successor of Sitalces, under whom the amount was
-						greatest, was valued at about four hundred talents of coined money<note anchored="yes"
-							>&pound;800,00.</note>, reckoning only gold and silver.</seg>
+						greatest, was valued at about four hundred talents of coined money<note anchored="yes">&pound;800,00.</note>, reckoning only gold and silver.</seg>
 					<seg>Presents of gold and silver equal in value to the tribute, besides stuffs embroidered
 						or plain and other articles, were also brought, not only to the king himself, but to the
 						inferior chiefs and nobles of the Odrysae.</seg>
@@ -9734,8 +9568,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>Having mustered at Doberus, they made ready to<pb n="179"/> descend over the heights
-						into the plains of Macedonia, which were the territory of Perdiccas.<note type="margin"
-							anchored="yes">
+						into the plains of Macedonia, which were the territory of Perdiccas.<note type="margin" anchored="yes">
 							<hi>Early history of the Macedonian kingdom.</hi>
 						</note>
 					</seg>
@@ -9864,8 +9697,7 @@
 					<seg>Meanwhile Sitalces overran and ravaged Chalciic&egrave;, Bottic&egrave;, and
 						Macedonia, but could not effect his objects; and, his army being without food and
 						suffering from the winter, he was persuaded by his nephew, who next to himself had the
-						greatest authority, Seuthes the son of Spardacus<note anchored="yes">Cp. <bibl
-							n="Thuc. 4.101">4.101 fin.</bibl>
+						greatest authority, Seuthes the son of Spardacus<note anchored="yes">Cp. <bibl n="Thuc. 4.101">4.101 fin.</bibl>
 						</note>, to return home at once.</seg>
 					<seg>Now Perdiccas had secretly gained over Seuthes, promising to give him his sister in
 						marriage, with a portion.</seg>
@@ -9887,12 +9719,10 @@
 						fleet<note type="margin" anchored="yes">
 							<hi>The Athenians, under Phormio, make an expedition into Acarnania.</hi>
 						</note> had dispersed, made an expedition under the command of Phormio into the centre
-						of Acarnania with four hundred hoplites of their own taken from the fleet<note
-							anchored="yes">Cp. <bibl n="Thuc. 2.83">2.83 init.</bibl>; <bibl n="Thuc. 2.92">92
+						of Acarnania with four hundred hoplites of their own taken from the fleet<note anchored="yes">Cp. <bibl n="Thuc. 2.83">2.83 init.</bibl>; <bibl n="Thuc. 2.92">92
 								fin.</bibl>
 						</note> and four hundred Messenian hoplites.</seg>
-					<seg>They first coasted along towards Astacus<note anchored="yes">Cp. <bibl n="Thuc. 2.30"
-						>2.30</bibl>; <bibl n="Thuc. 2.33">33</bibl>.</note> and disembarked.</seg>
+					<seg>They first coasted along towards Astacus<note anchored="yes">Cp. <bibl n="Thuc. 2.30">2.30</bibl>; <bibl n="Thuc. 2.33">33</bibl>.</note> and disembarked.</seg>
 					<seg>From Stratus, Coronta, and other places they expelled those of the inhabitants whom
 						they distrusted, and restoring Cynes the son of Theolytus to Coronta, they returned to
 						their ships.</seg>
@@ -10181,8 +10011,7 @@
 					
 					<seg>Such was the course of the war in Lesbos.</seg>
 					<seg>In the same summer, and about the same time, the Athenians sent<pb n="188"/> thirty
-						ships to Peloponnesus; they were placed under the command of Asopius, the son<note
-							type="margin" anchored="yes">
+						ships to Peloponnesus; they were placed under the command of Asopius, the son<note type="margin" anchored="yes">
 							<hi>Asopius with thirty Athenian ships ravages the Laconian coast and, dismissing
 								eighteen, sails to Oeniadae, which he is unable to capture.</hi>
 						</note> of Phormio;</seg>
@@ -10202,8 +10031,7 @@
 					<milestone unit="section" n="4"/>
 					
 					<seg>As the inhabitants refused to yield, he disbanded his land-forces, but himself sailed
-						to Leucas and made a descent upon Nericus, where he and part of his army<note
-							type="margin" anchored="yes">
+						to Leucas and made a descent upon Nericus, where he and part of his army<note type="margin" anchored="yes">
 							<hi>He is killed in a descent upon Leucas.</hi>
 						</note> in returning to their ships were slain by the inhabitants, assisted by a few
 						Peloponnesian guards.</seg>
@@ -10466,8 +10294,7 @@
 						a navy is your chief want; you will draw away the allies of the Athenians, who will
 						fearlessly come over to you; thus you will more easily overthrow the power of Athens.</seg>
 					<seg>And you will no longer incur, as in times past, the reproach of deserting those who
-						revolt<note anchored="yes">Cp. <bibl n="Thuc. 1.40">1.40 fin.</bibl>; <bibl
-							n="Thuc. 1.69">1.69</bibl>.</note>
+						revolt<note anchored="yes">Cp. <bibl n="Thuc. 1.40">1.40 fin.</bibl>; <bibl n="Thuc. 1.69">1.69</bibl>.</note>
 						<pb n="193"/> If you come forward as their liberators your final triumph will be
 						assured. </seg>
 				</p>
@@ -10527,8 +10354,7 @@
 						</note> their weakness, determined to show them their mistake, and to prove that,
 						without moving the fleet from Lesbos, they were fully able to repel this new force which
 						threatened them.</seg>
-					<seg>They manned a hundred ships, in which they embarked, both metics and citizens<note
-						anchored="yes">Cp. <bibl n="Thuc. 1.143">1.143 init.</bibl>
+					<seg>They manned a hundred ships, in which they embarked, both metics and citizens<note anchored="yes">Cp. <bibl n="Thuc. 1.143">1.143 init.</bibl>
 					</note>,<pb n="194"/> all but the highest class and the Knights; they then set sail,
 						and, after displaying their strength along the shores of the isthmus, made descents upon
 						the Peloponnesian coast wherever they pleased.</seg>
@@ -10568,8 +10394,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>For then there were a hundred which guarded Attica, Euboea, and Salamis, and another
-						hundred which were cruising off Peloponnesus<note anchored="yes">Cp. <bibl
-							n="Thuc. 2.17">2.17 fin.</bibl>
+						hundred which were cruising off Peloponnesus<note anchored="yes">Cp. <bibl n="Thuc. 2.17">2.17 fin.</bibl>
 						</note>, not including the ships employed in blockading Potidaea and at other places; so
 						that in one and the same summer their fleet in all numbered two hundred and fifty.</seg>
 					
@@ -10580,14 +10405,11 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>Every one of the hoplites engaged in the siege received two drachmae<note
-						anchored="yes">About 1<hi>s.</hi> 4<hi>d.</hi>
+					<seg>Every one of the hoplites engaged in the siege received two drachmae<note anchored="yes">About 1<hi>s.</hi> 4<hi>d.</hi>
 					</note> a-day, one for himself, and one for his servant; the original force amounted to
-						three thousand<note anchored="yes">Cp. <bibl n="Thuc. 1.57">1.57 fin.</bibl>; <bibl
-							n="Thuc. 1.61">61 init.</bibl>
+						three thousand<note anchored="yes">Cp. <bibl n="Thuc. 1.57">1.57 fin.</bibl>; <bibl n="Thuc. 1.61">61 init.</bibl>
 						</note>, and this number was maintained as long as the siege lasted.</seg>
-					<seg>Sixteen hundred more came with Phormio, but went away before<pb n="195"/> the end<note
-						anchored="yes">Cp. <bibl n="Thuc. 1.64">1.64 med.</bibl>; <bibl n="Thuc. 2.58">2.58
+					<seg>Sixteen hundred more came with Phormio, but went away before<pb n="195"/> the end<note anchored="yes">Cp. <bibl n="Thuc. 1.64">1.64 med.</bibl>; <bibl n="Thuc. 2.58">2.58
 							med.</bibl>
 					</note>.</seg>
 					<seg>The sailors in the fleet all received the same pay as the soldiers.</seg>
@@ -10643,16 +10465,14 @@
 						for the<note type="margin" anchored="yes">
 							<hi>The Athenians raise a property-tax; and Lysicles is sent to collect tribute; he
 								is killed in Caria</hi>
-						</note> first time a property-tax of two hundred talents<note anchored="yes"
-							>&pound;40,000.</note>, and sent out twelve ships to collect tribute among the
+						</note> first time a property-tax of two hundred talents<note anchored="yes">&pound;40,000.</note>, and sent out twelve ships to collect tribute among the
 						allies, under the command of Lysicles and four others.</seg>
 					
 					<milestone unit="section" n="2"/>
 					
 					<seg>He sailed to various places and exacted<pb n="196"/> tribute; but as he was going up
 						from Myus in Caria, through the plain of the Maeander, he was attacked at the hill of
-						Sandius by the Carians and the Samians of Anaea<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.32">3.32 init.</bibl>; <bibl n="Thuc. 4.75">4.75 med.</bibl>
+						Sandius by the Carians and the Samians of Anaea<note anchored="yes">Cp. <bibl n="Thuc. 3.32">3.32 init.</bibl>; <bibl n="Thuc. 4.75">4.75 med.</bibl>
 						</note>, and, with a great part of his army, perished. </seg>
 				</p>
 				<p>
@@ -10752,8 +10572,7 @@
 					<seg>Those who carried the ladders went first and placed them against the wall; they were
 						followed by twelve others, armed only with sword and breastplate, under the command of
 						Ammeas the son of Coroebus: he was the first to mount; after him came the twelve,
-						ascending the wall and proceeding to the towers on the right and left, six to each<note
-							anchored="yes">See note on the passage.</note>.</seg>
+						ascending the wall and proceeding to the towers on the right and left, six to each<note anchored="yes">See note on the passage.</note>.</seg>
 					<seg>To these succeeded more men lightly armed with short spears, others following who bore
 						their shields, that they might have less difficulty in mounting the wall;</seg>
 					
@@ -10806,8 +10625,7 @@
 					<seg>A shower of missiles proceeding both from the upper and lower parts of the towers kept
 						off all assailants.</seg>
 					<seg>Meanwhile the main body of the Plataeans, who were still below, applied to the wall
-						many ladders at once, and, pushing down the battlements, made their way over<pb n="199"
-						/> through the space between the towers.</seg>
+						many ladders at once, and, pushing down the battlements, made their way over<pb n="199"/> through the space between the towers.</seg>
 					
 					<milestone unit="section" n="2"/>
 					
@@ -10837,8 +10655,7 @@
 					<seg>And the snow which the east wind brought in the night had greatly swollen the water, so
 						that they<note anchored="yes">Taking <foreign lang="greek">u(pere/xein</foreign> in the
 							sense of 'superare': or, 'could hardly keep above the surface in crossing.'</note>
-						could scarcely accomplish the passage<note anchored="yes">Taking <foreign lang="greek"
-							>u(pere/xein</foreign> in the sense of 'superare': or, 'could hardly keep above
+						could scarcely accomplish the passage<note anchored="yes">Taking <foreign lang="greek">u(pere/xein</foreign> in the sense of 'superare': or, 'could hardly keep above
 							the surface in crossing.'</note> It was the violence of the storm, however, which
 						enabled them to escape at all. </seg>
 				</p>
@@ -10861,8 +10678,7 @@
 					<seg>For nearly a mile the Plataeans continued on the Theban road; they then turned off and
 						went by the way up the mountain leading to Erythrae and Hysiae, and so, getting to the
 						hills, they escaped to Athens.</seg>
-					<seg>Their number was<pb n="200"/> two hundred and twelve<note anchored="yes">Cp. <bibl
-						n="Thuc. 3.20">3.20 med.</bibl>
+					<seg>Their number was<pb n="200"/> two hundred and twelve<note anchored="yes">Cp. <bibl n="Thuc. 3.20">3.20 med.</bibl>
 					</note>, though they had been originally more, for some of them went back to the city
 						and never got over the wall; one who was an archer was taken at the outer ditch.</seg>
 					
@@ -10907,8 +10723,7 @@
 					
 					<seg>With the return of summer the Peloponnesians despatched the two and forty ships
 						which<note type="margin" anchored="yes">B.C. 427.</note> they intended for
-						Mytilen&egrave; in charge of Alcidas, the Lacedaemonian admiral.<note type="margin"
-							anchored="yes">
+						Mytilen&egrave; in charge of Alcidas, the Lacedaemonian admiral.<note type="margin" anchored="yes">
 							<hi>After despatching a fleet under Alcidas to Lesbos, the Peloponnesians invade
 								Attica, using great distress.</hi>
 						</note> They and their allies then invaded Attica, in order that the Athenians,
@@ -10974,8 +10789,7 @@
 						</note> lives if they were left out of the convention, concluded a general agreement
 						with Paches and his army, stipulating that the fate of the Mytilenaeans should be left
 						in the hands of the Athenians at home.</seg>
-					<seg>They were to receive him and his forces into the city; but might send an embassy<pb
-						n="202"/> to Athens on their own behalf.</seg>
+					<seg>They were to receive him and his forces into the city; but might send an embassy<pb n="202"/> to Athens on their own behalf.</seg>
 					<seg>Until the envoys returned, Paches was not to bind, enslave, or put to death any
 						Mytilenaean.</seg>
 					
@@ -11086,12 +10900,10 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>He then put into harbour at Ephesus, where a deputation from the Samians of Anaea<note
-						anchored="yes">Cp. <bibl n="Thuc. 3.19">3.19 fin.</bibl>; <bibl n="Thuc. 4.75">4.75
+					<seg>He then put into harbour at Ephesus, where a deputation from the Samians of Anaea<note anchored="yes">Cp. <bibl n="Thuc. 3.19">3.19 fin.</bibl>; <bibl n="Thuc. 4.75">4.75
 							med.</bibl>
 					</note> came to him.</seg>
-					<seg>They told him that it was an ill manner of liberating Hellas, to have put to death<pb
-						n="204"/> men who were not his enemies and were not lifting a hand against him, but
+					<seg>They told him that it was an ill manner of liberating Hellas, to have put to death<pb n="204"/> men who were not his enemies and were not lifting a hand against him, but
 						were allies of Athens from necessity: if he went on in this way he would convert few of
 						his enemies into friends, and many of his friends into enemies.</seg>
 					
@@ -11234,13 +11046,11 @@
 					
 					<milestone unit="section" n="5"/>
 					
-					<seg>The Mytilenaean envoys who were at Athens<note anchored="yes">Cp. <bibl n="Thuc. 3.28"
-						>3.28 med.</bibl>
+					<seg>The Mytilenaean envoys who were at Athens<note anchored="yes">Cp. <bibl n="Thuc. 3.28">3.28 med.</bibl>
 					</note> perceived the change of feeling, and they and the Athenians who were in their
 						interest prevailed on the magistrates to bring the question again before the people;
 						this they were the more willing to do, because they saw themselves that the majority of
-						the citizens were anxious to have an opportunity given them of reconsidering<pb n="207"
-						/> their decision.</seg>
+						the citizens were anxious to have an opportunity given them of reconsidering<pb n="207"/> their decision.</seg>
 					
 					<milestone unit="section" n="6"/>
 					
@@ -11269,13 +11079,11 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>Having no fear or suspicion of one another in daily life<note anchored="yes">Cp. <bibl
-						n="Thuc. 1.68">1.68 init.</bibl>
+					<seg>Having no fear or suspicion of one another in daily life<note anchored="yes">Cp. <bibl n="Thuc. 1.68">1.68 init.</bibl>
 					</note>, you deal with your allies upon the same principle,. and you do not consider
 						that whenever you yield to them out of pity or are misled by their specious tales, you
 						are guilty of a weakness dangerous to yourselves, and receive no thanks from them.</seg>
-					<seg>You should remember that your empire is a despotism<note anchored="yes">Cp. <bibl
-						n="Thuc. 2.63">2.63 med.</bibl>
+					<seg>You should remember that your empire is a despotism<note anchored="yes">Cp. <bibl n="Thuc. 2.63">2.63 med.</bibl>
 					</note> exercised over unwilling subjects, who are always conspiring against you; they
 						do not obey in return for any kindness which you do them to your own injury, but in so
 						far as you are their masters; they have no love of you, but they are held down by force.</seg>
@@ -11284,16 +11092,14 @@
 					
 					<seg>Besides, what can be more detestable than to be perpetually changing our minds?</seg>
 					<seg>We forget that a state in which the laws, though imperfect, are inviolable, is better
-						off than one in which the laws are good but ineffective<note anchored="yes">Cp. <bibl
-							n="Thuc. 6.18">6.18 fin.</bibl>
+						off than one in which the laws are good but ineffective<note anchored="yes">Cp. <bibl n="Thuc. 6.18">6.18 fin.</bibl>
 						</note>.</seg>
 					<seg>Dullness and modesty are a more useful combination than cleverness and licence; and the
 						more simple sort generally make better citizens than the more astute.</seg>
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>For the latter desire to be thought wiser than the laws<note anchored="yes">Cp. <bibl
-						n="Thuc. 1.84">1.84 med.</bibl>
+					<seg>For the latter desire to be thought wiser than the laws<note anchored="yes">Cp. <bibl n="Thuc. 1.84">1.84 med.</bibl>
 					</note>; they want to be always getting their own way in public discussions; they think
 						that they can<pb n="208"/> nowhere have a finer opportunity of displaying their
 						intelligence<note anchored="yes">Cp. <bibl n="Thuc. 3.40">3.40 init.</bibl>
@@ -11331,8 +11137,7 @@
 					
 					<seg>Clearly he must be some one who has such confidence in his powers of speech as to
 						contend<note anchored="yes">Or, 'that what all men believe to be true is absolutely
-							false.'</note> that you never adopted what was most certainly your resolution<note
-								anchored="yes">Or, 'that what all men believe to be true is absolutely
+							false.'</note> that you never adopted what was most certainly your resolution<note anchored="yes">Or, 'that what all men believe to be true is absolutely
 								false.'</note>; or else he must be some one who, under the inspiration of a bribe,
 						elaborates a sophistical speech in the hope of diverting you from the point.</seg>
 					
@@ -11347,8 +11152,7 @@
 					<seg>When speeches are to be heard, you are too fond of using your eyes, but, where actions
 						are concerned, you trust your ears; you estimate<pb n="209"/> the possibility of future
 						enterprises from the eloquence of an orator, but as to accomplished facts, instead of
-						accepting ocular demonstration, you believe only what ingenious critics tell you<note
-							anchored="yes">Cp. <bibl n="Thuc. 7.48">7.48 med.</bibl>
+						accepting ocular demonstration, you believe only what ingenious critics tell you<note anchored="yes">Cp. <bibl n="Thuc. 7.48">7.48 med.</bibl>
 						</note>.</seg>
 					
 					<milestone unit="section" n="5"/>
@@ -11443,8 +11247,7 @@
 					<milestone unit="section" n="8"/>
 					
 					<seg>When conquerors we shall recover only a ruined city, and, for the future, the revenues
-						which are our strength will be lost to us<note anchored="yes">Cp. <bibl n="Thuc. 3.46"
-							>3.46 med.</bibl>
+						which are our strength will be lost to us<note anchored="yes">Cp. <bibl n="Thuc. 3.46">3.46 med.</bibl>
 						</note>.</seg>
 					<seg>But if we fail, the<pb n="211"/> number of our adversaries will be increased.</seg>
 					<seg>And when we ought to be employed in repelling the enemies with whom we have to do, we
@@ -11476,8 +11279,7 @@
 					<seg>There are no three things more prejudicial to your power.</seg>
 					<seg>Mercy should be reserved for the merciful, and not thrown away upon those who will have
 						no compassion on us, and who must by the force of circumstances always be our enemies.</seg>
-					<seg>And our charming orators will still have an arena<note anchored="yes">A Cp. <bibl
-						n="Thuc. 3.37">3.37 fin.</bibl>
+					<seg>And our charming orators will still have an arena<note anchored="yes">A Cp. <bibl n="Thuc. 3.37">3.37 fin.</bibl>
 					</note>, but one in which the questions at stake will not be so grave, and the city will
 						not pay so dearly for her brief pleasure in listening to them, while they for a good
 						speech get a good fee.</seg>
@@ -11622,8 +11424,7 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>But, whatever you may suspect<note anchored="yes">Reading <foreign lang="greek"
-						>a)ciou=nti.</foreign>
+					<seg>But, whatever you may suspect<note anchored="yes">Reading <foreign lang="greek">a)ciou=nti.</foreign>
 					</note>, when great interests are at stake, we who advise ought to look further and
 						weigh our words more carefully than you whose vision is limited.</seg>
 					<seg>And you should remember that we are accountable for our advice to you, but you who
@@ -11721,8 +11522,7 @@
 					<seg>Fortune too assists the illusion, for she often presents herself unexpectedly, and
 						induces states as well as individuals to run into peril, however inadequate their means;
 						and states even more than individuals, because they are throwing for a higher stake,
-						freedom or empire, and because when a man has a whole people acting with him,<note
-							anchored="yes">Or, reading <foreign lang="greek">au)tw=n,</foreign> 'he exaggerates
+						freedom or empire, and because when a man has a whole people acting with him,<note anchored="yes">Or, reading <foreign lang="greek">au)tw=n,</foreign> 'he exaggerates
 							the importance of his aims.'</note> he magnifies himself<note anchored="yes">Or,
 								reading <foreign lang="greek">au)tw=n,,</foreign> 'he exaggerates the importance of
 								his aims.'</note> out of all reason.</seg>
@@ -11865,8 +11665,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>The Athenians instantly despatched another trireme, hoping that, if the second could
-						overtake the first<note anchored="yes">Reading <foreign lang="greek"
-							>deute/pas.</foreign>
+						overtake the first<note anchored="yes">Reading <foreign lang="greek">deute/pas.</foreign>
 						</note>, which had a start of about twenty-four hours, it might be in time to save the
 						city.</seg>
 					
@@ -11906,12 +11705,10 @@
 					
 					<seg>Then, instead of imposing tribute on them, they divided the whole island, exclusive of
 						the territory of Methymna, into three thousand portions, of which they dedicated three
-						hundred to the Gods; the remainder they let out to cleruchi<note anchored="yes"
-							>Cleruchi, literally 'portioners,' Athenians who received land in a conquered
+						hundred to the Gods; the remainder they let out to cleruchi<note anchored="yes">Cleruchi, literally 'portioners,' Athenians who received land in a conquered
 							country, but remained citizens.</note> taken from their own citizens, whom they
 						chose by lot and sent to Lesbos.</seg>
-					<seg>The Lesbians undertook to pay them a yearly rent of two minae<note anchored="yes"
-						>&pound;6 13<hi>s.</hi> 4<hi>d.</hi>
+					<seg>The Lesbians undertook to pay them a yearly rent of two minae<note anchored="yes">&pound;6 13<hi>s.</hi> 4<hi>d.</hi>
 					</note> for each portion and cultivated the land themselves.</seg>
 					
 					<milestone unit="section" n="3"/>
@@ -11940,15 +11737,13 @@
 					<seg>But<pb n="220"/> Nicias wanted the Athenians to keep a watch over Megara, not as
 						hitherto from Budorum in Salamis, but from this spot, which was nearer, the
 						Peloponnesians would then be no longer able to send out triremes, as they had already
-						done on one occasion<note anchored="yes">Cp. <bibl n="Thuc. 2.93">2.93</bibl>, <bibl
-							n="Thuc. 2.94">94</bibl>.</note>, or privateers from the harbour unobserved, and
+						done on one occasion<note anchored="yes">Cp. <bibl n="Thuc. 2.93">2.93</bibl>, <bibl n="Thuc. 2.94">94</bibl>.</note>, or privateers from the harbour unobserved, and
 						nothing could be brought in by sea to Megara.</seg>
 					
 					<milestone unit="section" n="3"/>
 					
 					<seg>First of all he took<note anchored="yes">Or, 'two towers projecting from
-						Nisaea.'</note> two projecting towers on the side of the island towards Nisaea<note
-							anchored="yes">Or, 'two towers projecting from Nisaea.'</note> by the help of
+						Nisaea.'</note> two projecting towers on the side of the island towards Nisaea<note anchored="yes">Or, 'two towers projecting from Nisaea.'</note> by the help of
 						engines from the sea, and, having thus freed a way into the channel dividing Minoa from
 						the coast of Megara, he fortified the point nearest the mainland, where, by a bridge
 						through a lagoon, aid could be brought by the enemy to the island, lying as it did at
@@ -11978,8 +11773,7 @@
 					<seg>But the Lacedaemonian commander knew their weakness, and was desirous that the place
 						should be surrendered and not stormed; he had instructions from home to this effect, the
 						intention being that if some day a treaty of peace were concluded, and both parties
-						agreed to give up all the places which they had taken by force of arms<note
-							anchored="yes">Cp. <bibl n="Thuc. 5.17">5.17 med.</bibl>
+						agreed to give up all the places which they had taken by force of arms<note anchored="yes">Cp. <bibl n="Thuc. 5.17">5.17 med.</bibl>
 						</note>, Plataea might be excepted on the ground that the inhabitants had come to terms
 						of their own accord.</seg>
 					<seg>So he sent a herald to enquire whether they would surrender the place to the
@@ -12042,8 +11836,7 @@
 					<seg>If we were unacquainted with one another we might with advantage adduce in evidence
 						matters of which you were<pb n="222"/> ignorant, but now you know all that we can say;
 						and we are afraid, not that we are criminals in your eyes because you have decided that
-						we fall short of your own standard of virtue<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.57">3.57 init.</bibl>
+						we fall short of your own standard of virtue<note anchored="yes">Cp. <bibl n="Thuc. 3.57">3.57 init.</bibl>
 						</note>, but that we are being sacrificed to please others, and that the cause which we
 						plead is already prejudged. </seg>
 				</p>
@@ -12103,8 +11896,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>Yet even in this<note type="margin" anchored="yes">B.C. 519.</note> war you have
-						neither suffered nor were ever likely to suffer anything very atrocious at our<note
-							type="margin" anchored="yes">
+						neither suffered nor were ever likely to suffer anything very atrocious at our<note type="margin" anchored="yes">
 							<hi>We only let you at the bidding of the Athenians and you originally forced us to
 								become their allies. They helped us then, and how could we abandon them</hi>
 						</note> hands.</seg>
@@ -12163,8 +11955,7 @@
 					
 					<seg>You will find that the one more than<pb n="224"/> outweighs the other; for our service
 						to you was performed at a time when very few Hellenes opposed their courage to the power
-						of Xerxes; they were then held in honour, not<note anchored="yes">Or, reading <foreign
-							lang="greek">au)toi=s,</foreign> and referring the word to the Persians: 'who,
+						of Xerxes; they were then held in honour, not<note anchored="yes">Or, reading <foreign lang="greek">au)toi=s,</foreign> and referring the word to the Persians: 'who,
 							looking to advantage, forwarded the course of the invader.'</note> who, looking to
 						their own advantage, made terms with the invader<note anchored="yes">Or, reading
 							<foreign lang="greek">au)toi=s,</foreign> and referring the word to the
@@ -12185,8 +11976,7 @@
 							the Spartans on the Plataeans, or to the adhesion of the Plataeans to the Athenians;
 							see note.</note>.</seg>
 					<seg>For true expediency is only this&mdash;to have an enduring sense of gratitude
-						towards good allies for their services, while we<note anchored="yes">Reading <foreign
-							lang="greek">h(mi=n</foreign>
+						towards good allies for their services, while we<note anchored="yes">Reading <foreign lang="greek">h(mi=n</foreign>
 						</note> do not neglect our own immediate interest. </seg>
 				</p>
 				<p>
@@ -12418,8 +12208,7 @@
 						against the Athenians when they became<pb n="229"/> aggressive and endeavoured to
 						subjugate us as well as the rest of Hellas.</seg>
 					<seg>Owing to our divisions they actually conquered the greater part of the country; but we
-						defeated them at Coronea, and liberated Boeotia<note anchored="yes">Cp. <bibl
-							n="Thuc. 4.92">4.92 fin.</bibl>
+						defeated them at Coronea, and liberated Boeotia<note anchored="yes">Cp. <bibl n="Thuc. 4.92">4.92 fin.</bibl>
 						</note>; and at this moment we are zealously co-operating in the liberation of Hellas,
 						providing cavalry and munitions of war more largely than any of the allies.</seg>
 					<seg>Thus much in answer to the charge respecting our Persian tendencies. </seg>
@@ -12495,8 +12284,7 @@
 							456.</note> and of other members of the alliance.</seg>
 					<seg>And you were not, like us, under compulsion, but free, living under your ancient laws.</seg>
 					<seg>Moreover, you persisted in refusing that last offer of peace and neutrality which we
-						made to you before the siege began<note anchored="yes">Cp. <bibl n="Thuc. 2.72"
-							>2.72</bibl>, <bibl n="Thuc. 2.73">73</bibl>.</note>.</seg>
+						made to you before the siege began<note anchored="yes">Cp. <bibl n="Thuc. 2.72">2.72</bibl>, <bibl n="Thuc. 2.73">73</bibl>.</note>.</seg>
 					
 					<milestone unit="section" n="4"/>
 					
@@ -12531,8 +12319,7 @@
 					<seg>But when certain of the noblest and richest of your citizens, who wished to withdraw
 						you from a foreign alliance and to bring you back to the national institutions of
 						Boeotia, came and invited us, wherein are we to blame?</seg>
-					<seg>As you say yourselves, the leaders rather than the followers are the transgressors<note
-						anchored="yes">Cp. <bibl n="Thuc. 3.55">3.55 fin.</bibl>
+					<seg>As you say yourselves, the leaders rather than the followers are the transgressors<note anchored="yes">Cp. <bibl n="Thuc. 3.55">3.55 fin.</bibl>
 					</note>.But in our opinion, neither we nor they were really guilty.</seg>
 					
 					<milestone unit="section" n="3"/>
@@ -12633,8 +12420,7 @@
 					<seg>Maintain then, Lacedaemonians, the common Hellenic law which they have outraged, and
 						give to us, who have suffered contrary to law, the just recompense of our zeal' in your
 						cause.</seg>
-					<seg>Do not be moved by their words to spurn and reject us<note anchored="yes">Cp. <bibl
-						n="Thuc. 3.57">3.57 fin.</bibl>
+					<seg>Do not be moved by their words to spurn and reject us<note anchored="yes">Cp. <bibl n="Thuc. 3.57">3.57 fin.</bibl>
 					</note> but show Hellas by example that, when a cause is tried at your tribunal, deeds
 						and not words will prevail.</seg>
 					<seg>If the deeds be good, a brief statement of them is enough; if they be evil, speeches
@@ -12652,8 +12438,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>Thus spoke the Thebans.</seg>
-					<seg>The Lacedaemonian judges thought that no objection could be<note type="margin"
-						anchored="yes">
+					<seg>The Lacedaemonian judges thought that no objection could be<note type="margin" anchored="yes">
 						<hi>The Plataeans are put to death, and their city razed to the ground.</hi>
 					</note> made to their question, whether the Plataeans had done them any service in the
 						war.<note anchored="yes">Or, taking <foreign lang="greek">h)ci/oun</foreign> in a
@@ -12671,8 +12456,7 @@
 						war,... and they had repeated the request when just before the siege they had made
 						to them a proposal,' &amp;c.</note> of neutrality in accordance with the terms
 						of the same treaty; but the Plataeans had refused.</seg>
-					<seg>Considering that they had been wronged by them, after their own fair proposals<pb
-						n="234"/> had released them from the obligations of the treaty, they again brought
+					<seg>Considering that they had been wronged by them, after their own fair proposals<pb n="234"/> had released them from the obligations of the treaty, they again brought
 						up the Plataeans one after another, and asked each of them separately, Whether he had
 						done any service to the Lacedaemonians and their allies in the war?</seg>
 					<seg>When he said No, they took him away and slew him;</seg>
@@ -12721,8 +12505,7 @@
 					<seg>The forty Peloponnesian ships which had been sent to the aid of Lesbos, as they
 						fled<note type="margin" anchored="yes">
 							<hi>Return of Alcidas. He and Brasidas make ready an expedition to Corcyra.</hi>
-						</note> through the open sea pursued by the Athenians<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.33">3.33</bibl>
+						</note> through the open sea pursued by the Athenians<note anchored="yes">Cp. <bibl n="Thuc. 3.33">3.33</bibl>
 						</note>, were caught in a storm near Crete, and, making their way in a straggling
 						condition from Crete to the Peloponnesus, found at Cyllene thirteen Leucadian and
 						Ambraciot<pb n="235"/> triremes, and Brasidas the son of Tellis, who had been sent
@@ -12747,11 +12530,9 @@
 						were<note type="margin" anchored="yes">
 							<hi>Unsettled state of Corcyra, originating in the intrigues of the prisoners who
 								had returned from Corinth.</hi>
-						</note> taken at sea in the Epidamnian war<note anchored="yes">Cp. <bibl n="Thuc. 1.55"
-							>1.55 med.</bibl>
+						</note> taken at sea in the Epidamnian war<note anchored="yes">Cp. <bibl n="Thuc. 1.55">1.55 med.</bibl>
 						</note>, and afterwards released by the Corinthians.</seg>
-					<seg>They were nominally let out on bail for a sum of eight hundred talents<note
-						anchored="yes">&pound;160,000.</note> on the security of their proxeni, but in
+					<seg>They were nominally let out on bail for a sum of eight hundred talents<note anchored="yes">&pound;160,000.</note> on the security of their proxeni, but in
 						reality they had been induced to try and gain over Corcyra to the Corinthian interest.</seg>
 					
 					<milestone unit="section" n="2"/>
@@ -12760,14 +12541,12 @@
 						revolt from Athens.</seg>
 					<seg>On the arrival of an Athenian and also of a Corinthian vessel conveying ambassadors,
 						there was a discussion in the assembly, and the Corcyraeans voted that they would
-						continue allies of Athens according to their agreement<note anchored="yes">Cp. <bibl
-							n="Thuc. 1.44">1.44</bibl>.</note>, but would renew their former friendship with
+						continue allies of Athens according to their agreement<note anchored="yes">Cp. <bibl n="Thuc. 1.44">1.44</bibl>.</note>, but would renew their former friendship with
 						the Peloponnesians.</seg>
 					
 					<milestone unit="section" n="3"/>
 					
-					<seg>A certain Peithias, who voluntarily acted as the proxenus of<note type="margin"
-						anchored="yes">
+					<seg>A certain Peithias, who voluntarily acted as the proxenus of<note type="margin" anchored="yes">
 						<hi>Trial of Peithias, the popular leader. His acquittal. Trial of the oligarchs,
 							and murder of Peithias and of sixty others.</hi>
 					</note> the Athenians and was the popular leader, was summoned by the partisans of the
@@ -12793,10 +12572,8 @@
 					
 					<seg>Peithias, who happened to be a member of the senate as well as the popular leader,
 						persuaded the senators to put the law in execution.</seg>
-					<seg>The culprits, knowing that the law was against them, and perceiving that Peithias<note
-						anchored="yes">Or, 'before he ceased to be a senator would persuade the
-						people.'</note> as long as he remained in the senate would try to induce the people<note
-							anchored="yes">Or, 'before he ceased to be a senator would persuade the
+					<seg>The culprits, knowing that the law was against them, and perceiving that Peithias<note anchored="yes">Or, 'before he ceased to be a senator would persuade the
+						people.'</note> as long as he remained in the senate would try to induce the people<note anchored="yes">Or, 'before he ceased to be a senator would persuade the
 							people.'</note> to make an alliance offensive and defensive with Athens, conspired
 						together, and, rushing into the council chamber with daggers in their hands, slew him
 						and others to the number of sixty, as well private persons as senators.</seg>
@@ -12937,8 +12714,7 @@
 						been conveyed<note type="margin" anchored="yes">
 							<hi>Appearance of the Peloponnesian fleet.</hi>
 						</note> to the island, the Peloponnesian ships from Cyllene, which since the expedition
-						to Ionia had been in harbour there<note anchored="yes">Cp. <bibl n="Thuc. 4.69"
-							>4.69</bibl>.</note> arrived on the scene, fifty-three in number, still under the
+						to Ionia had been in harbour there<note anchored="yes">Cp. <bibl n="Thuc. 4.69">4.69</bibl>.</note> arrived on the scene, fifty-three in number, still under the
 						command of Alcidas.</seg>
 					<seg>Brasidas his adviser was on board.</seg>
 					<seg>They anchored for the night at Sybota, a harbour on the mainland, and when the morning
@@ -12988,8 +12764,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>But those who were opposed to the Corcyraeans, seeing this movement and fearing a
-						repetition of what happened at Naupactus<note anchored="yes">Cp. <bibl n="Thuc. 2.84"
-							>2.84</bibl>.</note>, came to the rescue, and the united fleet charged the
+						repetition of what happened at Naupactus<note anchored="yes">Cp. <bibl n="Thuc. 2.84">2.84</bibl>.</note>, came to the rescue, and the united fleet charged the
 						Athenians.</seg>
 					
 					<milestone unit="section" n="3"/>
@@ -13008,8 +12783,7 @@
 					<milestone unit="section" n="1"/>
 					
 					<seg>The Corcyraeans, who were afraid that the victorious enemy would sail to the city and
-						have recourse to some decisive measure, such as taking on board the prisoners<pb n="240"
-						/> in the island, conveyed them back to the temple of Her&egrave; and guarded the
+						have recourse to some decisive measure, such as taking on board the prisoners<pb n="240"/> in the island, conveyed them back to the temple of Her&egrave; and guarded the
 						city.</seg>
 					
 					<milestone unit="section" n="2"/>
@@ -13072,8 +12846,7 @@
 					<seg>These proceeded on their way.</seg>
 					<seg>Meanwhile<pb n="241"/> they killed any of their enemies whom they caught in the city.</seg>
 					<seg>On the arrival of the ships they disembarked those whom they had induced to go on
-						board, and despatched them<note anchored="yes">Reading with a few MSS.<foreign
-							lang="greek">a)pexrw=nto,</foreign> (which is quoted from Thucydides by the
+						board, and despatched them<note anchored="yes">Reading with a few MSS.<foreign lang="greek">a)pexrw=nto,</foreign> (which is quoted from Thucydides by the
 							Lexicographers,) instead of <foreign lang="greek">a(nexw/rhsan,</foreign> which
 							gives no sense.</note>; they also went to the temple of Her&egrave;, and
 						persuading about fifty of the suppliants to stand their trial condemned them all to
@@ -13116,14 +12889,11 @@
 						in the Athenians, the other the Lacedaemonians.</seg>
 					<seg>Now in time of peace, men would have had no excuse for introduring either, and no
 						desire to do so; but, when they were<pb n="242"/> at war<note anchored="yes">Omitting
-							the comma inserted in Bekker's text after <foreign lang="greek"
-								>prospoih/sei,</foreign> or retaining it 'and both sides could easily obtain allies
+							the comma inserted in Bekker's text after <foreign lang="greek">prospoih/sei,</foreign> or retaining it 'and both sides could easily obtain allies
 							to the hurt of their enemies and the advantage of themselves, the dissatisfied party
 							were only too ready to invoke foreign aid'; see note on the passage.</note>, the
 						introduction of a foreign alliance on one side or the other to the hurt of their enemies
-						and the advantage of themselves was easily effected by the dissatisfied party<note
-							anchored="yes">Omitting the comma inserted in Bekker's text after <foreign
-								lang="greek">prospoih/sei,</foreign> or retaining it 'and both sides could
+						and the advantage of themselves was easily effected by the dissatisfied party<note anchored="yes">Omitting the comma inserted in Bekker's text after <foreign lang="greek">prospoih/sei,</foreign> or retaining it 'and both sides could
 							easily obtain allies to the hurt of their enemies and the advantage of themselves,
 							the dissatisfied party were only too ready to invoke foreign aid'; see note on the
 							passage.</note> And revolution brought upon the cities of Hellas many terrible
@@ -13177,8 +12947,7 @@
 						of good faith was not divine law, but fellowship in crime.</seg>
 					<seg>If an enemy when he was in the ascendant offered fair words, the opposite party
 						received them not in a generous spirit<note anchored="yes">Or, 'but by active
-							precautions.'</note>, but by a jealous watchfulness of his actions<note
-								anchored="yes">Or, 'but by active precautions.'</note>.</seg>
+							precautions.'</note>, but by a jealous watchfulness of his actions<note anchored="yes">Or, 'but by active precautions.'</note>.</seg>
 					
 					<milestone unit="section" n="7"/>
 					
@@ -13208,9 +12977,7 @@
 						prize.</seg>
 					<seg>Striving in every way to overcome each other, they committed the most monstrous crimes;
 						yet even these were surpassed by the magnitude of their revenges<pb n="244"/> which they
-						pursued to the very utmost<note anchored="yes">Placing the comma after <foreign
-							lang="greek">mei/zous</foreign> instead of after <foreign lang="greek"
-								>e)pech/|esa/n te.</foreign>
+						pursued to the very utmost<note anchored="yes">Placing the comma after <foreign lang="greek">mei/zous</foreign> instead of after <foreign lang="greek">e)pech/|esa/n te.</foreign>
 						</note>, neither party observing any definite limits either of justice or public
 						expediency, but both alike making the caprice of the moment their law.</seg>
 					<seg>Either by the help of an unrighteous sentence, or grasping power with the strong hand,
@@ -13259,8 +13026,7 @@
 					<seg>There was every crime which men could commit in revenge who had been governed not
 						wisely, but tyrannically, and now had the oppressor at their mercy.</seg>
 					<seg>There were the dishonest designs of others<pb n="245"/> who were longing to be relieved
-						from their habitual poverty, and were naturally animated<note type="margin"
-							anchored="yes">(1) <hi>Fury of the oppressed,</hi> (2)<hi>discontent of the
+						from their habitual poverty, and were naturally animated<note type="margin" anchored="yes">(1) <hi>Fury of the oppressed,</hi> (2)<hi>discontent of the
 								poor,</hi> (3) <hi>party hatred among equals, were the great incentives to crime.
 									Human nature when inspired by revenge is too much for justice, conscience, or
 									prudence.</hi>
@@ -13381,8 +13147,7 @@
 					
 					<seg>how many of the common people could never be ascertained.</seg>
 					<seg>This too was the time when the frequent earthquakes occurred at Athens, in Euboea, and
-						in Boeotia, especially at Orchomenos<note anchored="yes">Cp. ch. 89, and <bibl
-							n="Thuc. 1.23">1.23 med.</bibl>
+						in Boeotia, especially at Orchomenos<note anchored="yes">Cp. ch. 89, and <bibl n="Thuc. 1.23">1.23 med.</bibl>
 						</note>
 					</seg>
 				</p>
@@ -13443,8 +13208,7 @@
 					<milestone unit="section" n="3"/>
 					
 					<seg>A similar inundation occurred in the neighbourhood of Atalant&egrave;, an island on
-						the coast of the Opuntian Locri, which carried away a part of the Athenian fort<note
-							anchored="yes">Cp. <bibl n="Thuc. 2.32">2.32</bibl>.</note>, and dashed in pieces
+						the coast of the Opuntian Locri, which carried away a part of the Athenian fort<note anchored="yes">Cp. <bibl n="Thuc. 2.32">2.32</bibl>.</note>, and dashed in pieces
 						one of two ships which were drawn up on the beach.</seg>
 					
 					<milestone unit="section" n="4"/>
@@ -13510,8 +13274,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>wishing to subdue the Melians, who, although they were islanders, resisted them and
-						would not join their alliance<note anchored="yes">Cp. <bibl n="Thuc. 5.84"
-							>5.84</bibl>.</note>.</seg>
+						would not join their alliance<note anchored="yes">Cp. <bibl n="Thuc. 5.84">5.84</bibl>.</note>.</seg>
 					
 					<milestone unit="section" n="3"/>
 					
@@ -13588,8 +13351,7 @@
 					<seg>They set to work and built afresh the walls of the city, which received the name of
 						Heraclea, and is situated about four miles and a half from Thermopylae and a little more
 						than two from the sea.</seg>
-					<seg>They also constructed docks<note anchored="yes">Or, reading <foreign lang="greek"
-						>ei/(rcan to\</foreign>&mdash;&mdash;,'and blockaded the defile at
+					<seg>They also constructed docks<note anchored="yes">Or, reading <foreign lang="greek">ei/(rcan to\</foreign>&mdash;&mdash;,'and blockaded the defile at
 						Thermopylae.'</note>, beginning the works near Thermopylae, at the pass, that the
 						city might be perfectly defended. </seg>
 				</p>
@@ -13608,8 +13370,7 @@
 					
 					<milestone unit="section" n="2"/>
 					
-					<seg>The reasons were these:&mdash;In the first place the Thessalians are strong in<pb
-						n="251"/> that part of the country, and fearing that Heraclea, which was built to
+					<seg>The reasons were these:&mdash;In the first place the Thessalians are strong in<pb n="251"/> that part of the country, and fearing that Heraclea, which was built to
 						control them, would be a powerful and dangerous neighbour, they carried on uninterrupted
 						war against the young colony until they completely wore the settlers out, although
 						originally they had been very numerous.</seg>
@@ -13630,13 +13391,11 @@
 						at<note type="margin" anchored="yes">
 							<hi>Attack upon Leucas. Demosthenes, instead of completing the blockade is persuaded
 								by the Messenians to invade Aetolia.</hi>
-						</note> Melos, the troops which were cruising in the thirty Athenian ships<note
-							anchored="yes">Cp. <bibl n="Thuc. 3.91">3.91 init.</bibl>
+						</note> Melos, the troops which were cruising in the thirty Athenian ships<note anchored="yes">Cp. <bibl n="Thuc. 3.91">3.91 init.</bibl>
 						</note> about Peloponnesus set an ambuscade at Ellomenus in Leucadia and killed a few of
 						the guards of the country.</seg>
 					<seg>They next attacked Leucas itself with a larger armament, consisting of the Acarnanians,
-						who followed them with their whole forces, all but the inhabitants of Oeniadae<note
-							anchored="yes">Cp. <bibl n="Thuc. 2.102">2.102 init.</bibl>
+						who followed them with their whole forces, all but the inhabitants of Oeniadae<note anchored="yes">Cp. <bibl n="Thuc. 2.102">2.102 init.</bibl>
 						</note>, and some Zacynthians and Cephallenians, together with fifteen ships from
 						Corcyra.</seg>
 					
@@ -13902,8 +13661,7 @@
 					
 					<milestone unit="section" n="4"/>
 					
-					<seg>So they sent with him on board the Athenian ships<note anchored="yes">Cp. <bibl
-						n="Thuc. 3.105">3.105</bibl> fin</note> a thousand hoplites; these got in and
+					<seg>So they sent with him on board the Athenian ships<note anchored="yes">Cp. <bibl n="Thuc. 3.105">3.105</bibl> fin</note> a thousand hoplites; these got in and
 						saved the place, which was in danger of having to capitulate, owing to the extent of the
 						wall and the paucity of its defenders.</seg>
 					
@@ -13970,8 +13728,7 @@
 					<milestone unit="section" n="2"/>
 					
 					<seg>The whole island was now purified in the following manner:&mdash;The Athenians took
-						away all the coffins of the dead which were in Delos<note anchored="yes">Cp. <bibl
-							n="Thuc. 1.8">1.8 init.</bibl>; v. I.</note>, and passed a decree that
+						away all the coffins of the dead which were in Delos<note anchored="yes">Cp. <bibl n="Thuc. 1.8">1.8 init.</bibl>; v. I.</note>, and passed a decree that
 						henceforward no one should die or give birth to a child there, but that the inhabitants
 						when they were near the time of either should be carried across to Rhenea.</seg>
 					<seg>Now Rhenea is near to Delos, so near<pb n="258"/> indeed that Polycrates the tyrant of
@@ -14054,8 +13811,7 @@
 						gathering and festival at Delos.</seg>
 					<seg>In after ages the islanders and the Athenians led choruses in procession, and
 						sacrificed.</seg>
-					<seg>But the games and the greater part of the ceremonies naturally fell into disuse,<pb
-						n="259"/> owing to the misfortunes of Ionia.</seg>
+					<seg>But the games and the greater part of the ceremonies naturally fell into disuse,<pb n="259"/> owing to the misfortunes of Ionia.</seg>
 					<seg>The Athenians now restored the games and for the first time introduced horse-races.
 					</seg>
 				</p>
@@ -14069,8 +13825,7 @@
 							<hi>Eurylochus and the Ambraciots combine their forces against the Amphilochian
 								Argos, which the Amphilochians, Acarnanians, and Athenians unite to protect. The
 								Ambraciots seize Olpae, and send for reinforcement</hi>
-						</note> induced Eurylochus and his army to remains<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.102">3.102 fin.</bibl>
+						</note> induced Eurylochus and his army to remains<note anchored="yes">Cp. <bibl n="Thuc. 3.102">3.102 fin.</bibl>
 						</note>, made an expedition against the Amphilochian Argos with three thousand hoplites.</seg>
 					<seg>They invaded the Argive territory and seized Olpae, a strong fort on a hill by the
 						sea-side, which in former days the Acarnanians had fortified and used as a common hall
@@ -14156,8 +13911,7 @@
 					<seg>During five days they remained inactive; on the sixth day both armies drew up in battle
 						array.</seg>
 					<seg>Demosthenes, fearing that he would be surrounded by the Peloponnesians who were more
-						numerous and extended beyond his own line, placed hoplites and light-armed troops,<pb
-							n="261"/> numbering altogether four hundred, in a deep lane overgrown with
+						numerous and extended beyond his own line, placed hoplites and light-armed troops,<pb n="261"/> numbering altogether four hundred, in a deep lane overgrown with
 						brushwood, intending them to lie in wait until the moment of conflict, when they were to
 						rush out from the rear on the line of the enemy where it overlapped.</seg>
 					
@@ -14211,8 +13965,7 @@
 					
 					<milestone unit="section" n="1"/>
 					
-					<seg>On the next day Menedaeus took the command, for Eurylochus and Macarius, the two<note
-						type="margin" anchored="yes">
+					<seg>On the next day Menedaeus took the command, for Eurylochus and Macarius, the two<note type="margin" anchored="yes">
 						<hi>Difficulties of the Lacedaemonian commander who negotiates with Demosthenes a
 							secret treaty for the Peloponnesians only.</hi>
 					</note> other generals, had been slain<note anchored="yes">Cp. <bibl n="Thuc. 4.38">4.38
@@ -14380,8 +14133,7 @@
 					
 					<seg>Some one present thought that the herald had come from the army defeated at
 						Idomen&egrave;, and asked why he looked so astonished, and how many of their men had
-						fallen; he replied, 'about two hundred<note anchored="yes">Cp. <bibl n="Thuc. 3.111"
-							>3.111 fin.</bibl>
+						fallen; he replied, 'about two hundred<note anchored="yes">Cp. <bibl n="Thuc. 3.111">3.111 fin.</bibl>
 						</note> '; whereupon the other rejoined, 'These which you see are not the arms of two
 						hundred men, but of more than a thousand.'</seg>
 					
@@ -14410,8 +14162,7 @@
 					<seg>Of this I am certain, that if the Acarnanians had been willing to destroy Ambracia as
 						Demosthenes and the Athenians desired, they might have taken it at the first onset.</seg>
 					<seg>But they were afraid that the Athenians, if they once got possession of the place,
-						would be more troublesome neighbours than the Ambraciots<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.92">3.92 init.</bibl>
+						would be more troublesome neighbours than the Ambraciots<note anchored="yes">Cp. <bibl n="Thuc. 3.92">3.92 init.</bibl>
 						</note>. </seg>
 				</p>
 				<p>
@@ -14498,8 +14249,7 @@
 					<milestone unit="section" n="6"/>
 					
 					<seg>Pythodorus, having now succeeded Laches in the command, sailed at the end of the winter
-						against the Locrian fort which Laches had previously taken<note anchored="yes">Cp. <bibl
-							n="Thuc. 3.99">3.99</bibl>.</note>, but he was defeated by the Locrians and
+						against the Locrian fort which Laches had previously taken<note anchored="yes">Cp. <bibl n="Thuc. 3.99">3.99</bibl>.</note>, but he was defeated by the Locrians and
 						retired. </seg>
 				</p>
 				<p>

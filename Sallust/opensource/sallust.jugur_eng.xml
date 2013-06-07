@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -26,7 +25,7 @@
 <date>1899</date>
 </imprint>
 </monogr>
-<idno type="lccn"></idno>
+<idno type="lccn"/>
 </biblStruct>
 </sourceDesc>
 </fileDesc>
@@ -273,7 +272,7 @@ So Aristippus said, <foreign lang="la">Habeo Laidem, non habeor &agrave; Laide,<
 <div1 type="chapter" n="48">
 <p> Jugurtha, on comparing the words of Metellus with his actions, perceived that he was assailed with his own artifices; for though peace was offered him in words, a most vigorous war was in reality pursued against him; one of his <pb n="132"/>strongest cities was wrested from him; his country was explored by the enemy, and the affections of his subjects alienated. Being compelled, therefore, by the necessity of circumstances, he resolved to try the fortune of a battle. Having, with this view, informed himself of the exact route of the enemy, and hoping for success from the advantage of the ground, he collected as large a force of every kind as he could, and, marching by cross-roads, got in advance of Metellus' army.</p>
 <p>There was, in that part of Numidia, of which, on the division of the kingdom, Adherbal had become possessor, a river named Muthul, flowing from the south; and, about twenty miles from it, was a range of mountains running parallel with the stream,<note anchored="yes" place="foot">XLVIII. Running parallel with the stream] <quote lang="la">Tractu pari.</quote> It may be well to illustrate this and the following chapter by a copy of the lines which Cortius has drawn, " to excite," as he says, "the imagination of his readers :"
-<figure></figure>
+<figure/>
 </note> wild and uncultivated; but from the center of it stretched a kind of hill, reaching to a vast distance, covered with wild olives, myrtles, and other trees, such as grow in a dry and sandy soil. The plain, which lay between the mountains and the Muthul, was uninhabited from want of water, except the parts bordering on the river, which were planted with trees, and full of cattle and inhabitants.</p></div1>
 <div1 type="chapter" n="49">
 <p> On this hill, which I have just mentioned, stretching in a transverse direction,<note anchored="yes" place="foot">XLIX. In a tranverse direction] <quote lang="la">Transverso itinere.</quote> It lay on the flank of the Romans as they marched toward the river, <foreign lang="la">in dextero latere.</foreign> c. 49, fin</note> Jugurtha took post with his line drawn out to a great length. The command of the elephants, and of part of the infantry, he committed to Bomilcar, and <pb n="133"/>gave him instructions how to act. He himself, with the whole of the cavalry and the choicest of the foot, took his station nearer to the range of mountains. Then, riding round among the several squadrons and battalions, he exhorted and conjured them to call to mind their former prowess and triumphs, and to defend themselves and their country from Roman rapacity; saying that they would have to engage with those whom they had already conquered and sent under the yoke, and that, though their commander was changed, there was no alteration in their spirit. He added, that he had provided for his men every thing becoming a general; that he had chosen the higher ground, where they, being well acquainted with the country,<note anchored="yes" place="foot">Well acquainted with the country] <quote lang="la">Prudentes.</quote> <cit><quote><foreign lang="la">"Periti loci et regionis"</foreign></quote><bibl>Cortius.</bibl></cit> Or it may mean knowing what they were to do, while the enemy would be <foreign lang="la">imperiti,</foreign> surprised and perplexed.</note> would contend with adversaries ignorant of it; nor would they engage, inferior in numbers and skill, with a larger or more experienced force; and that they should, therefore, be ready, when the signal should be given, to fall vigorously on the Romans, as that day would either crown<note anchored="yes" place="foot">Would crown] <quote lang="la">Confirmaturum.</quote> Would establish, settle, put the last hand to them.</note> all their labors and victories, or be a prelude to the most grievous calamities. He also addressed himself, individually, to any one whom he had rewarded with money or honors for military desert, reminding him of his favors, and pointing him out as an example to the rest; and finally he excited all his men, some in one way and some in another, by threats or entreaties, according to the different dispositions of each.</p>

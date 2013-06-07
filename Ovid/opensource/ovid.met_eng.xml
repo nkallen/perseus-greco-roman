@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -16982,7 +16981,7 @@ And Nestor might</l>
 
 <milestone n="441" unit="card"/>
 <milestone ed="Magnus" n="Diomedis socii. Oleaster." unit="tale"/>
-<milestone ed="More" n="DIOMED&apos;S FOLLOWERS TRANSFORMED" unit="tale"/>
+<milestone ed="More" n="DIOMED'S FOLLOWERS TRANSFORMED" unit="tale"/>
 
 <l n="tr">Macareus finished. And Aeneas' nurse,</l>
 <l n="tr">now buried in a marble urn, had this</l>

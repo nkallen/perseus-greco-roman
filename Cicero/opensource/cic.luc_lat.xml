@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">O. Plasberg</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 <sourceDesc>
 <biblStruct>
@@ -42,7 +41,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.luc_lat.xml,v $
@@ -1999,7 +1998,7 @@ maiorum est gentium Stoicus, Zenonis auditor, solem
 dominari et rerum potiri putat: ita cogimur dissensione sapientium dominum nostrum ignorare, quippe
 qui nesciamus soli an aetheri serviamus. Solis autem
 magnitudinem (ipse enim hic radiatus me intueri videtur admonens ut crebro faciam mentionem sui) &mdash;
-vos ergo huius magnitudinem quasi decempeda permensi refertis; ego me, quasi malis architectis,<note>mali architecti <hi rend="italics">Dav.</hi> &lt;in&gt; malis architectis <hi rend="italics">Pl.</hi></note> mensurae vestrae nego credere:<note>decempeda hinc (hic A hinc &#x0113;n&imacr; <hi rend="italics">sic</hi> N) me q. m. a. m. u. n. hoc (hoc <hi rend="italics">om.</hi> A<hi rend="sup">1</hi>) permensi r. (fertis A<hi rend="sup"><hi rend="italics">p</hi></hi>) ergo credere ANB. <hi rend="italics">constituit haec sicut supra scripta sunt Ha. ducibus man. Mdv. Herm.</hi></note> dubium est uter nostrum
+vos ergo huius magnitudinem quasi decempeda permensi refertis; ego me, quasi malis architectis,<note>mali architecti <hi rend="italics">Dav.</hi> &lt;in&gt; malis architectis <hi rend="italics">Pl.</hi></note> mensurae vestrae nego credere:<note>decempeda hinc (hic A hinc ēn&imacr; <hi rend="italics">sic</hi> N) me q. m. a. m. u. n. hoc (hoc <hi rend="italics">om.</hi> A<hi rend="sup">1</hi>) permensi r. (fertis A<hi rend="sup"><hi rend="italics">p</hi></hi>) ergo credere ANB. <hi rend="italics">constituit haec sicut supra scripta sunt Ha. ducibus man. Mdv. Herm.</hi></note> dubium est uter nostrum
 sit, leviter ut dicam, verecundior?<note>inverecundior <hi rend="italics">CMorgenstern de litt. humanioribus</hi> (<hi rend="italics">1800</hi>) <hi rend="italics">53 n.</hi></note>
 <milestone n="127" unit="section"/>Nec tamen istas
 quaestiones physicorum exterminandas puto. est enim

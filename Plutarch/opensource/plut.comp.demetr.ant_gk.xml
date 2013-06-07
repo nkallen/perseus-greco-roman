@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -19,7 +18,7 @@
 			<sourceDesc>
 				<listBibl>
 					<biblStruct>
-						<analytic n="Comp. Demetr. Ant."></analytic>
+						<analytic n="Comp. Demetr. Ant."/>
 						<monogr>
 							<author>Plutarch</author>
 							<title>Plutarch's Lives</title>
@@ -70,19 +69,19 @@ several loose ends cleaned up:
 
 * above all -- the basic problem enclitic accent:
 
-a)ndro\s tinos --> a)ndro/s tinos
+a)ndro\s tinos --&gt; a)ndro/s tinos
 
 also:
 
 apostrophes represented as rough breathigns have been fixed:
 
-ei)=t) --> ei)t'
+ei)=t) --&gt; ei)t'
 
 some noise has been cleaned up:
 
-ou(/tws:: --> ou(/tws:
+ou(/tws:: --&gt; ou(/tws:
 floating "'" removed
-'*fw/kw| --> *fw/kw|
+'*fw/kw| --&gt; *fw/kw|
 
 Revision 1.7  2010-11-10 22:57:39  gcrane
 a bug that removed spaces after ./:/; was fixed

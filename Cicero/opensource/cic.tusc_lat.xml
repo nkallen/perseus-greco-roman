@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">M. Pohlenz</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -47,7 +46,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.tusc_lat.xml,v $
@@ -339,23 +338,23 @@ aut omnino
 aut magna exparte essem ali
 quando liberatus<figure/> r&amp;ulime bru
 te te hortante maxime adea
-studia qu&#x0119; retenta animo re
+studia quę retenta animo re
 missa temporibus longo inter
 vallo intermissa revocavi.
-Etcum omnium artium qu&#x0119; ad
+Etcum omnium artium quę ad
 rectam vivendi viam ptinerent
-ratio &amp;disciplina studio sapienti&#x0119;
-qu&#x0119; philosophia dicitur contine
+ratio &amp;disciplina studio sapientię
+quę philosophia dicitur contine
 r&amp;ur.</p>
 <p>hoc mihi latinis litteris inlus
 trandum putavi.</p>
-<p><note type="marg">al libris</note> Nonquia philosophia gri&#x0119;is &amp; lit
+<p><note type="marg">al libris</note> Nonquia philosophia grięis &amp; lit
 teris &amp;doctoribus pcipi non poss&amp;.
 sed meum semp <figure/>iudicium fuit<note><hi rend="italics">at libris</hi> V<hi rend="sup">2</hi>, h' V<hi rend="sup">aut 1</hi></note>)
 omnia nostros aut invenisse pse
-sapientius quam gr&#x0119;cos.</p>
+sapientius quam gręcos.</p>
 <p>aut accepta abillis fecisse me
-liora qu&#x0119; quidem digna statuis
+liora quę quidem digna statuis
 sent inquibus elaborarent.</p>
 <p>Nammores &amp; instituta vitae
 resque domesticas acfamiliaris.
@@ -368,18 +367,18 @@ certe melioribus temperaver
 cum virtute nostri multum va
 luerunt tum plus &amp;iam disci<figure/>
 plina.</p>
-<p>Iam illa qu&#x0119; natura non litteris
-adsecuti sunt neq; cum gr&#x0119;cia
+<p>Iam illa quę natura non litteris
+adsecuti sunt neq; cum gręcia
 neque ulla cumgente sunt con
 ferenda.</p>
-<p>qu&#x0119; enim tanta gravitas. qu&#x0119;
+<p>quę enim tanta gravitas. quę
 tanta constantia magnitudo
 animi probitas fides
-qu&#x0119; tam excellens inomni gene
+quę tam excellens inomni gene
 re virtus inullis fuit
 ut sit cummaioribus nostris
 comparanda.</p>
-<p>Doctrina gr&#x0119;cia nos. &amp;omni lit
+<p>Doctrina gręcia nos. &amp;omni lit
 terarum genere superabat.
 inquo erat facile vincere non<note>Maiores litterae a parvis in hac pagina non tam facile
 distinguuntur quam in aliis ubi extra versum extant, nec tamen
@@ -468,7 +467,7 @@ sed <hi rend="italics">ci<figure/></hi> in r. V<hi rend="sup">2</hi>), 416, 7 <h
 262,18 <hi rend="italics">suspitio</hi> KV<hi rend="sup">1</hi> ac fortasse G<hi rend="sup">1</hi>, 282, 24 <hi rend="italics">pertinatia</hi> RVH &mdash;
 <hi rend="italics">tum</hi> pro <hi rend="italics">cum</hi> 248,27 (corr. V<hi rend="sup">c</hi>) 311, 20 (corr. R<hi rend="sup">1?</hi>) 366, 16 405, 23 423, 19 GKRV.
 <p>232,14 <hi rend="italics">fit</hi> pro <hi rend="italics">sit</hi> X (corr. K<hi rend="sup">2</hi>V<hi rend="sup">2</hi>), 443, 8 <hi rend="italics">pyrroni ferilli</hi> GRV<hi rend="sup">1</hi>
-(<hi rend="italics">s</hi> ex <hi rend="italics">f</hi> corr. V<hi rend="sup"></hi>) <hi rend="italics">pyrroniserilli</hi> K ( add. K<hi rend="sup">c</hi>).</p>
+(<hi rend="italics">s</hi> ex <hi rend="italics">f</hi> corr. V<hi rend="sup"/>) <hi rend="italics">pyrroniserilli</hi> K ( add. K<hi rend="sup">c</hi>).</p>
 <p>296, 2 <hi rend="italics">intueris</hi> pro <hi rend="italics">intuens,</hi> 296, 15 <hi rend="italics">audiens</hi> pro <hi rend="italics">audieris</hi></p>
 <p>367,6 <hi rend="italics">iniecta</hi> pro <hi rend="italics">inlecta</hi> X, 326, 7 <hi rend="italics">lu&amp;verbar;&amp;verbar;sisse</hi> V sed <hi rend="italics">l</hi> V<hi rend="sup">2?</hi>,
 <hi rend="italics">iusisse</hi> R<hi rend="sup">1</hi>, <hi rend="italics">iussisse</hi> QKR<hi rend="sup">2</hi>H,</p>
@@ -778,7 +777,7 @@ verbi formae contra ceterorum codicum consensum saepe per <hi rend="italics">i</
 scribuntur (velut 242,22&ndash;243,9 quinquies; sed 243,12 <hi rend="italics">intelle-
 gentia</hi>). nonnumquam hae formae etiam in ceteros codices irrepserunt, velut <hi rend="italics">intelligo</hi> 283,20 KRC 303,12 GV<hi rend="sup">vet</hi>, <hi rend="italics">intelligere</hi>
 242,22 V<hi rend="sup">c</hi>.</p>
-<p>Saepe <hi rend="italics">e</hi> et &#x0119; (<hi rend="italics">ae</hi>) confundi consentaneum est. velut <hi rend="italics">quaeror</hi>
+<p>Saepe <hi rend="italics">e</hi> et ę (<hi rend="italics">ae</hi>) confundi consentaneum est. velut <hi rend="italics">quaeror</hi>
 
 <pb id="p.XXI"/>
 
@@ -999,7 +998,7 @@ cum Aug. plerisque codd.</hi> (gloriae<figure/> L) <hi rend="italics">Lup.</hi><
 ad studia gloria, iacentque ea semper, quae apud quosque improbantur.<note>honos ... 219,2 improbantur <hi rend="italics">Aug. civ. 5,13</hi>
 (H <hi rend="italics">ecl. 212</hi>) <hi rend="italics">et ex eo Serv. Lupus ep. 1</hi></note> summam eruditionem Graeci sitam
 censebant in nervorum vocumque cantibus; igitur et
-Epaminondas, princeps meo iudicio Graeciae,<note>graecis X -&#x0119; <hi rend="italics">pro</hi> -s V<hi rend="sup">1 aut c</hi></note> fidibus
+Epaminondas, princeps meo iudicio Graeciae,<note>graecis X -ę <hi rend="italics">pro</hi> -s V<hi rend="sup">1 aut c</hi></note> fidibus
 praeclare cecinisse dicitur, Themistoclesque aliquot
 ante annos<note>annis <hi rend="italics">edd. vett.</hi></note> cum in epulis recusaret<note>recusasset V<hi rend="sup">2</hi><foreign lang="greek">s</foreign></note> lyram,<note>liram X</note> est habitus
 indoctior.<note>est... indoctior <hi rend="italics">Quint. inst. 1,10,19</hi></note> ergo in Graecia musici floruerunt, discebantque id omnes, nec qui nesciebat<note>nesciebant V<hi rend="sup">1</hi></note> satis excultus
@@ -1013,7 +1012,7 @@ eum primo eruditum, aptum tamen ad dicendum, post
 autem eruditum.<note>Cum ... 219, 15 eruditum H (218, 29 honos ... 219,2
 improbantur <hi rend="italics">bis</hi>)</note><note>etiam <hi rend="italics">ante</hi> erud. <hi rend="italics">add.</hi> V<hi rend="sup">c</hi> <hi rend="italics">mg.</hi></note> nam Galbam Africanum Laelium
 doctos fuisse traditum est, studiosum autem eum, qui
-is<note>his X hos V<hi rend="sup">c</hi><foreign lang="greek">s</foreign></note> aetate anteibat, Catonem,<note>catonem X</note> post vero Lepidum Carbonem<note>carbon&#x1EBD; V<hi rend="sup">c</hi></note> Gracchos, inde ita magnos<note>grac <hi rend="italics">in r.</hi>
+is<note>his X hos V<hi rend="sup">c</hi><foreign lang="greek">s</foreign></note> aetate anteibat, Catonem,<note>catonem X</note> post vero Lepidum Carbonem<note>carbonẽ V<hi rend="sup">c</hi></note> Gracchos, inde ita magnos<note>grac <hi rend="italics">in r.</hi>
 V<hi rend="sup">c</hi> (<hi rend="italics">in mg.</hi> at etiam <hi rend="italics">idem ante versum</hi> gracchos-magnos)</note> nostram ad aetatem,
 ut non multum aut nihil omnino Graecis cederetur.
 Philosophia iacuit usque ad hanc aetatem nec ullum
@@ -1251,7 +1250,7 @@ molior <hi rend="italics">vel</hi> sed getiam maiora molior <foreign lang="greek
 
 <p>Quia, quoniam post mortem mali nihil est,<note>nihil est <hi rend="italics">add.</hi> K<hi rend="sup">2</hi>V<hi rend="sup">2</hi> <hi rend="italics">om.</hi> X</note> ne mors
 quidem<note>ne quidem mors K</note> est malum, cui proxumum<note>proximum KV</note> tempus est post
-mortem, in quo mali nihil esse concedis: ita ne moriendum quidem<note>nequidem moriendum K</note> esse malum est; id<note>id estK<hi rend="sup">2</hi><foreign lang="greek">s</foreign></note><note>idem R id&#x1EBD; GK<hi rend="sup">1</hi>V</note> est enim perveniendum esse ad id, quod non esse malum confitemur. <pb id="p.226"/></p>
+mortem, in quo mali nihil esse concedis: ita ne moriendum quidem<note>nequidem moriendum K</note> esse malum est; id<note>id estK<hi rend="sup">2</hi><foreign lang="greek">s</foreign></note><note>idem R idẽ GK<hi rend="sup">1</hi>V</note> est enim perveniendum esse ad id, quod non esse malum confitemur. <pb id="p.226"/></p>
 
 <p>Uberius ista, quaeso. haec enim spinosiora, prius ut
 confitear me cogunt quam ut adsentiar. sed quae sunt
@@ -1292,7 +1291,7 @@ corpus occidere, animumque in corpore extingui. qui
 discedere animum censent,<note>cessent V<hi rend="sup">1</hi></note> alii statim dissipari, alii
 diu permanere, alii semper. quid sit porro ipse animus aut ubi aut unde, magna dissensio est. aliis cor <pb id="p.227"/>
 ipsum animus<note>aut ubi... 227.1 animus <hi rend="italics">in mg.</hi> G<hi rend="sup">1</hi> aut unde... dicuntur <hi rend="italics">Non. 66,5</hi></note> videtur, ex quo excordes, vecordes<note>vec. HM vaec. VG<hi rend="sup">1</hi> (sed a<figure/><hi rend="sup">1</hi>)R<hi rend="sup">1</hi> (<hi rend="italics">sed</hi> <figure/>a<hi rend="sup">1?</hi>)
-<hi rend="italics">Nonii codd. pr. F H</hi> v&#x0119;c. K</note> concordesque<note>vecordes<figure/> excordes concordes H <hi rend="italics">signis transponendi non
+<hi rend="italics">Nonii codd. pr. F H</hi> vęc. K</note> concordesque<note>vecordes<figure/> excordes concordes H <hi rend="italics">signis transponendi non
 satis dilucidis additis</hi></note> dicuntur<note>quid igitur sit animus... est. nam animus ab ani-
 ma dictus est (227, 12). aliis ... 227, 2 dicuntur H</note> et Nasica ille prudens bis consul
 <quote>Corculum</quote> et <quote>egregie cordatus homo, catus Aelius Sextus</quote>.<note><hi rend="italics">Ennius ann. 331</hi></note> Empedocles animum esse censet cordi suffusum
@@ -1513,7 +1512,7 @@ se natos ad homines iuvandos tutandos conservandos arbitrantur? abiit ad deos He
 abisset, nisi, cum inter homines esset, eam sibi viam<note>viam <hi rend="italics">s. v. add.</hi> K<hi rend="sup">2</hi></note>
 munivisset. vetera iam ista et religione omnium consecrata: quid in hac re p. tot tantosque viros ob rem
 p.<note>ob rem p.] b r
-<hi rend="italics">in r.</hi> V<hi rend="sup">1</hi> ob re p. K ob r&#x0113; p. (<hi rend="italics">er.</hi> ublic&#x0103;) G</note> interfectos cogitasse arbitramur? isdemne ut finibus nomen suum quibus vita terminaretur? nemo umquam sine magna spe inmortalitatis se pro patria offerret
+<hi rend="italics">in r.</hi> V<hi rend="sup">1</hi> ob re p. K ob rē p. (<hi rend="italics">er.</hi> ublică) G</note> interfectos cogitasse arbitramur? isdemne ut finibus nomen suum quibus vita terminaretur? nemo umquam sine magna spe inmortalitatis se pro patria offerret
 <pb id="p.234"/>
  ad mortem.
 
@@ -1535,7 +1534,7 @@ mercedem gloriae flagitat ab is quorum patres adfecerat gloria, idemque:
 II p. 135</hi></note></l>
 <l>Cur? volito vivos per ora virum.<note><hi rend="italics">Enn. var. 17</hi></note></l></quote><note>vivus V<hi rend="sup">c</hi></note>
 sed quid po&euml;tas?<note>poetas <foreign lang="greek">s</foreign> putas X
-poet&#x0119; V<hi rend="sup">c</hi> (p <hi rend="italics">a m. 1,</hi> oet&#x0119; <hi rend="italics">in r.</hi>)</note> opifices post mortem nobilitari<note>nobilitare K<hi rend="sup">1</hi> <hi rend="italics">corr.</hi><hi rend="sup">2</hi></note> volunt. quid enim Phidias sui similem speciem inclusit
+poetę V<hi rend="sup">c</hi> (p <hi rend="italics">a m. 1,</hi> oetę <hi rend="italics">in r.</hi>)</note> opifices post mortem nobilitari<note>nobilitare K<hi rend="sup">1</hi> <hi rend="italics">corr.</hi><hi rend="sup">2</hi></note> volunt. quid enim Phidias sui similem speciem inclusit
 in clupeo Minervae, cum inscribere &lt;nomen&gt;<note><hi rend="italics">add. Ern.</hi></note> non liceret? quid?<note>quid? nostri eqs. <hi rend="italics">libere Hier. in Gal. p. 517</hi></note> nostri philosophi nonne in is libris ipsis,
 quos scribunt de contemnenda gloria, sua nomina inscribunt?
 <milestone unit="section" n="35"/>
@@ -1571,8 +1570,8 @@ tota <foreign lang="greek">ne/kuia</foreign>,<note><foreign lang="greek">NECUIA<
 <foreign lang="greek">NErCUO</foreign> mantia RK nepsyomantia <hi rend="italics">mai. litt.</hi> G psichomantia,
 <hi rend="italics">sed</hi> psicho <hi rend="italics">in r.</hi> V<hi rend="sup">1 aut 2</hi> (<hi rend="italics">ex div. 1, 132</hi>) <hi rend="italics">corr. Dav.</hi></note> inde ea quae meus amicus Appius <foreign lang="greek">nekuomantei=a</foreign> faciebat, inde<note>-de in
 <hi rend="italics">om.</hi> K<hi rend="sup">1</hi> <hi rend="italics">add.</hi><hi rend="sup">c</hi></note> in vicinia<note>vitia KRV<hi rend="sup">1</hi> (vicinia <hi rend="italics">corr.</hi><hi rend="sup">1</hi>) vicia G</note> nostra Averni lacus, <pb id="p.236"/>
-<quote rend="blockquote"><l>u/nde animae excita/ntur obscura u/mbra opertae,<note>apertae (<hi rend="italics">vel</hi> &#x0119;, -e K<hi rend="sup">1</hi>)</note><note>opert&#x0119; <hi rend="italics">corr.</hi> V<hi rend="sup">1</hi>K<hi rend="sup">2</hi></note> ima/gines</l>
-<l>mo/rtuorum, alto o/stio<note>hostio alte (alt&#x0119; K<hi rend="sup">1</hi>)</note><note>ostio <foreign lang="greek">s</foreign>
+<quote rend="blockquote"><l>u/nde animae excita/ntur obscura u/mbra opertae,<note>apertae (<hi rend="italics">vel</hi> ę, -e K<hi rend="sup">1</hi>)</note><note>opertę <hi rend="italics">corr.</hi> V<hi rend="sup">1</hi>K<hi rend="sup">2</hi></note> ima/gines</l>
+<l>mo/rtuorum, alto o/stio<note>hostio alte (altę K<hi rend="sup">1</hi>)</note><note>ostio <foreign lang="greek">s</foreign>
 alto <hi rend="italics">corr.</hi> K<hi rend="sup">2</hi>V<hi rend="sup">1aut2</hi> <foreign lang="greek">s</foreign>. <hi rend="italics">locum rest. Leo. alii aut</hi> imagines mortuorum <hi rend="italics">in fine relicta male Ciceroni ipsi tribuunt aut ibi</hi> mort.
 imagines <hi rend="italics">scribunt</hi> <hi rend="italics">(praeterea</hi> aperto ex ostio <hi rend="italics">Mdv.</hi> opertae ex
 ostio <hi rend="italics">Ribb.</hi> altae <hi rend="italics">Klotz)</hi></note> Acheru/ntis,<note>acheruntis (acherontis KV<hi rend="sup">1</hi> <hi rend="italics">e
@@ -1595,7 +1594,7 @@ multaque saecula postea sic viguit Pythagoreorum nomen, ut nulli alii docti vide
 nisi quid erat numeris aut descriptionibus<note>descriptionibus B<foreign lang="greek">s</foreign> discriptionibus X (discretionibus V)</note> explicandum:
 
 <milestone unit="section" n="39"/>Platonem ferunt, ut Pythagoreos cognosceret,
-in Italiam venisse<note><hi rend="italics">ad</hi> venisse <hi rend="italics">adscr, in mg.</hi> et in ea (ita P) cum alios multos tum archytam (ut crithit&atilde; P) timeumque cognovit (et tim&#x0119;um invenisse
+in Italiam venisse<note><hi rend="italics">ad</hi> venisse <hi rend="italics">adscr, in mg.</hi> et in ea (ita P) cum alios multos tum archytam (ut crithit&atilde; P) timeumque cognovit (et timęum invenisse
 R)V<hi rend="sup">c</hi>R<hi rend="sup">rec</hi> P <hi rend="italics">al.</hi>, (<hi rend="italics">cf. fin. 5,87</hi>), <hi rend="italics">unde</hi> V<hi rend="sup">c</hi> <hi rend="italics">post</hi> ferunt (21) <hi rend="italics">add.</hi>
 qui, <hi rend="italics">tum corr.</hi> venit ed<figure/>dicisse (<hi rend="italics">voluit ut v.</hi> edidicisse <hi rend="italics">pro</hi> et
 dedicisse) <hi rend="italics">signo</hi> <figure/> <hi rend="italics">inter haec verba ut ante notam mg. addito</hi></note> et didicisse<note>dedicisse GR</note> Pythagorea omnia primumque
@@ -1638,10 +1637,10 @@ sunt, ut a terra longissime se<note>se <hi rend="italics">om.</hi> H</note> ecfe
 aliquid . . . animus,<note>putetur <hi rend="italics">vel</hi> cogitetur <hi rend="italics">fere potius supplendum quam</hi> sit <hi rend="italics">(We.).</hi> est <hi rend="italics">ante</hi> animus <hi rend="italics">add.</hi> B<foreign lang="greek">s</foreign></note> ne<note>nec K</note> tam vegeta<note>vegeta V<hi rend="sup">1</hi> (veg <hi rend="italics">in r.</hi>) K<hi rend="sup">2</hi></note><note>veta GK<hi rend="sup">1</hi>R</note> mens aut in corde
 cerebrove aut in Empedocleo sanguine demersa iaceat.
 Dicaearchum vero cum Aristoxeno aequali et condiscipulo suo, doctos sane homines, omittamus; quorum
-alter ne<note>nae R n&#x0119; K ne, <hi rend="italics">sed</hi> e <hi rend="italics">in r.</hi> V<hi rend="sup">1</hi></note> condoluisse quidem umquam videtur, qui
+alter ne<note>nae R nę K ne, <hi rend="italics">sed</hi> e <hi rend="italics">in r.</hi> V<hi rend="sup">1</hi></note> condoluisse quidem umquam videtur, qui
 animum<note>quia nimium K<hi rend="sup">1</hi></note> se habere non sentiat, alter ita delectatur suis
 cantibus, ut eos etiam ad haec transferre conetur.
-harmonian<note>arm. <hi rend="italics">ter</hi> H (<hi rend="italics">in</hi> 13 V<hi rend="sup">1</hi> <hi rend="italics">e corr., in</hi> 14 K)</note><note>harmoni&#x0103; K</note> autem ex intervallis sonorum nosse possumus, quorum varia compositio etiam harmonias<note>arm. <hi rend="italics">ter</hi> H (<hi rend="italics">in</hi> 13 V<hi rend="sup">1</hi> <hi rend="italics">e corr., in</hi> 14 K)</note> efficit pluris; membrorum vero situs<note>vero situs <hi rend="italics">om.</hi> K<hi rend="sup">1</hi> <hi rend="italics">add.</hi><hi rend="sup">c</hi></note> et figura corporis
+harmonian<note>arm. <hi rend="italics">ter</hi> H (<hi rend="italics">in</hi> 13 V<hi rend="sup">1</hi> <hi rend="italics">e corr., in</hi> 14 K)</note><note>harmoniă K</note> autem ex intervallis sonorum nosse possumus, quorum varia compositio etiam harmonias<note>arm. <hi rend="italics">ter</hi> H (<hi rend="italics">in</hi> 13 V<hi rend="sup">1</hi> <hi rend="italics">e corr., in</hi> 14 K)</note> efficit pluris; membrorum vero situs<note>vero situs <hi rend="italics">om.</hi> K<hi rend="sup">1</hi> <hi rend="italics">add.</hi><hi rend="sup">c</hi></note> et figura corporis
 vacans animo quam possit harmoniam<note>arm. <hi rend="italics">ter</hi> H (<hi rend="italics">in</hi> 13 V<hi rend="sup">1</hi> <hi rend="italics">e corr., in</hi> 14 K)</note> efficere, non
 video.<note>armonian ... 17 video</note> sed hic quidem, quamvis eruditus sit, sicut est,
 haec magistro concedat Aristoteli, canere ipse doceat;
@@ -2014,7 +2013,7 @@ caeli, dein conversionis celeritatem tantam quantam
 cogitare non possumus, tum<note>tunc K</note> vicissitudines dierum ac
 noctium commutationesque<note>commotionesque H</note> temporum quadrupertitas
 ad maturitatem frugum et ad temperationem<note>temporum frugum R</note><note>temperationum GR <hi rend="italics">(sed in</hi> u <hi rend="italics">aliquid corr.)</hi> V<hi rend="sup">1</hi> (-em<hi rend="sup">2</hi>)</note> corporum aptas eorumque omnium moderatorem et ducem <pb id="p.252"/>
-solem, lunamque adcretione et deminutione<note>dim. <hi rend="italics">ex</hi> dem. K<hi rend="sup">1</hi></note><note>adcretion&#x1EBD; et deminution&#x1EBD; V (&tilde; <hi rend="italics">postea
+solem, lunamque adcretione et deminutione<note>dim. <hi rend="italics">ex</hi> dem. K<hi rend="sup">1</hi></note><note>adcretionẽ et deminutionẽ V (&tilde; <hi rend="italics">postea
 add.</hi>)</note> luminis
 quasi fastorum notantem et significantem dies, tum
 in eodem orbe in duodecim partes distributo quinque
@@ -2080,7 +2079,7 @@ asc. KB<foreign lang="greek">s</foreign></note>
 
 <milestone unit="section" n="72"/>Ita<note><hi rend="italics">Plato Phaedon 80sqq.</hi></note> enim censebat itaque disseruit, duas<note>ut <hi rend="italics">ante</hi> duas <hi rend="italics">eras. in</hi> K</note> esse vias duplicesque cursus animorum e corpore excedentium: nam<note><hi rend="italics">cf. Lact. inst. 7, 10, 10</hi></note> qui se humanis
 vitiis contaminavissent et se totos<note>toto GV<hi rend="sup">1</hi> (<hi rend="sup">s</hi><hi rend="italics">add.</hi><hi rend="sup">2</hi>) R<hi rend="sup">1</hi> <hi rend="italics">ut v.</hi> (s <hi rend="italics">add. ipse, tum</hi> lib- <hi rend="italics">ex</hi> bib-)</note> libidinibus dedissent, quibus caecati vel<note>velut X <hi rend="italics">(sed</hi> ut <hi rend="italics">exp.</hi> V<hi rend="sup">vet</hi><hi rend="italics">)</hi></note> domesticis vitiis atque flagitiis se inquinavissent vel re publica violanda<note>rei publicae violandae V<hi rend="sup">2</hi></note> fraudes
-inexpiabiles concepissent,<note>concoepissent GR conc&#x0119;p. K</note> is devium quoddam iter
+inexpiabiles concepissent,<note>concoepissent GR concęp. K</note> is devium quoddam iter
 esse, seclusum a concilio deorum; qui autem se integros castosque servavissent, quibusque fuisset minima
 cum corporibus contagio seseque<note>contagiose seque V<hi rend="sup">1</hi></note> ab is semper sevocavissent<note>s<figure/>evocavissent V (<hi rend="italics">exp.</hi><hi rend="sup">vet</hi>)</note> essentque in corporibus humanis vitam imitati deorum, is ad illos a quibus essent profecti reditum facilem patere.
 
@@ -2111,7 +2110,7 @@ V<hi rend="sup">2</hi></note> aliud agimus, cum
 a voluptate,<note>vol. G<hi rend="sup">1</hi> a<figure/>uuol. K<hi rend="sup">1</hi></note> id est<note>id<figure/> (<hi rend="italics">pro</hi> id est) V</note> a corpore, cum a re familiari, quae
 est ministra et famula corporis, cum a re publica,
 cum a negotio omni sevocamus<note>omni<figure/>sev. (s. <hi rend="italics">i. r.</hi> V<hi rend="sup">c</hi>)V</note><note>omni sev. <hi rend="italics">ex</hi> omnis ev. R</note> animum, quid, inquam,<note>in quantum GR<hi rend="sup">1</hi>V<hi rend="sup">1</hi></note> tum agimus nisi animum ad se ipsum advocamus,<note>advocamus <foreign lang="greek">s</foreign> avoc. X (voc. K<hi rend="sup">1</hi> <hi rend="sup">a</hi><hi rend="italics">add.</hi> K<hi rend="sup">c</hi>)</note> secum esse cogimus<note>cogita<figure/>mus G<hi rend="sup">1</hi></note> maximeque a corpore abducimus? secernere autem a corpore animum, nec quicquam<note><hi rend="italics">post</hi> animum <hi rend="italics">add.</hi> V<hi rend="sup">2</hi>: id est se ipsum
-nec<figure/>quicquam K (<hi rend="sup">c</hi>K<hi rend="sup">c</hi>)</note> aliud, est mori<note>est mori <hi rend="italics">Bentl.</hi> &#x0113;mori K emori GRVH
+nec<figure/>quicquam K (<hi rend="sup">c</hi>K<hi rend="sup">c</hi>)</note> aliud, est mori<note>est mori <hi rend="italics">Bentl.</hi> ēmori K emori GRVH
 (<hi rend="italics">post</hi> aliud <hi rend="italics">add.</hi> quam R<hi rend="sup">al.m.</hi> nisi V<hi rend="sup">rec</hi>) <hi rend="italics">cf. Plato Phaed. 67d
 Lact. epit. 41</hi>: deum vere colere id est, nec quicquam aliud,
 sapientia.</note> discere. quare hoc commentemur, mihi crede, disiungamusque<note>credidis iung. GR<hi rend="sup">1</hi> <hi rend="italics">(corr.</hi><hi rend="sup">1?</hi><hi rend="italics">)</hi> V<hi rend="sup">1</hi> <hi rend="italics">(corr.</hi><hi rend="sup">2</hi><hi rend="italics">)</hi> credi
@@ -2240,7 +2239,7 @@ malis</quote><note>nea<figure/>malis K (<hi rend="italics">fuit</hi> m <hi rend=
 hominum? vere et iure possum; sed quid necesse est,
 cum id agam ne post mortem miseros nos putemus
 fore, etiam vitam efficere deplorando miseriorem?
-fecimus hoc in eo libro, in quo nosmet ipsos, quantum potuimus, consolati sumus. a malis igitur mors abducit, non a bonis, verum si<note><hi rend="italics">sqq. Val. Max 8, 9 ext. 3</hi></note> quaerimus. et quidem hoc<note>ecquidem GRV h<figure/>q<figure/>d&#x0115; (= haec quidem) K<hi rend="sup">1</hi> (hoc quidem <hi rend="italics">ss.</hi><hi rend="sup">2</hi>)</note> a
+fecimus hoc in eo libro, in quo nosmet ipsos, quantum potuimus, consolati sumus. a malis igitur mors abducit, non a bonis, verum si<note><hi rend="italics">sqq. Val. Max 8, 9 ext. 3</hi></note> quaerimus. et quidem hoc<note>ecquidem GRV h<figure/>q<figure/>dĕ (= haec quidem) K<hi rend="sup">1</hi> (hoc quidem <hi rend="italics">ss.</hi><hi rend="sup">2</hi>)</note> a
 Cyrenaico Hegesia<note>he<figure/>gesia R<hi rend="sup">1</hi></note> sic copiose disputatur, ut is a rege
 Ptolomaeo<note>ptolomeo K ptholomeo GV</note> prohibitus esse dicatur illa in scholis dicere, <pb id="p.260"/>
 quod<note>quod V<hi rend="sup">2</hi><foreign lang="greek">s</foreign> quo X</note> multi is auditis mortem sibi ipsi consciscerent.<note>-scerent <hi rend="italics">in r.</hi> V<hi rend="sup">c</hi></note>
@@ -2512,8 +2511,8 @@ in Thermopylis<note>thermopilis GRV (-las <hi rend="italics">m.</hi>
 <l>Dum sanctis patriae legibus obsequimur.</l></quote>
 quid ille dux<note>dux &lt;dum hostem
 proditor per&gt;</note> Leonidas<note>leonidas <foreign lang="greek">s</foreign></note> dicit?<note>semidam GKR semidam dicit V <hi rend="italics">(exp.</hi><hi rend="sup">c</hi><hi rend="italics">)</hi> di<figure/>cit GR</note><note>semitam ducit <hi rend="italics">Pl.</hi></note> <quote>pergite animo forti,
-Lacedaemonii,<note>lac&#x0119;dem. 23. 28 lac&#x0119;-
-d&#x0119;m. V</note><note>lacedem. GK</note> hodie apud inferos fortasse cenabimus.</quote> fuit haec gens fortis, dum Lycurgi<note>lygurgi X</note> leges vigebant.<note>quid... 29 vigebant <hi rend="italics">del. Dav. sed cf. Comm. et
+Lacedaemonii,<note>lacędem. 23. 28 lacę-
+dęm. V</note><note>lacedem. GK</note> hodie apud inferos fortasse cenabimus.</quote> fuit haec gens fortis, dum Lycurgi<note>lygurgi X</note> leges vigebant.<note>quid... 29 vigebant <hi rend="italics">del. Dav. sed cf. Comm. et
 Plasberg, Festschr. f. Vahlen 228 (cui obl. Se. Jb. d.ph. V.29p. 99).
 iam Cato l. l. Leonidam in comparationem vocavit; Sen. epist.
 82, 21 Catonis verba et Leonidae dictum coni. error</hi> (<foreign lang="greek">a)rista=te w(s e)n a=/|dou deipnh/sontes</foreign>)
@@ -2560,7 +2559,7 @@ sive occiderit animus sive vigeat. in corpore autem
 perspicuum est vel extincto animo vel elapso nullum
 residere sensum. Sed plena errorum sunt omnia.
 
-<milestone unit="section" n="105"/>trahit Hectorem<note>sqq. h&#x0119;ct. <hi rend="italics">semper</hi> V <hi rend="italics">plerumque</hi> KRG</note> ad currum religatum Achilles: lacerari
+<milestone unit="section" n="105"/>trahit Hectorem<note>sqq. hęct. <hi rend="italics">semper</hi> V <hi rend="italics">plerumque</hi> KRG</note> ad currum religatum Achilles: lacerari
 eum et sentire, credo, putat. ergo hic ulciscitur,<note>se <hi rend="italics">ante</hi> ulc. <hi rend="italics">add.</hi> V<hi rend="sup">2</hi></note> ut
 quidem sibi videtur; at illa sicut acerbissimam rem
 maeret:<note>meret GKR</note>
@@ -2636,14 +2635,14 @@ quamquam enim<note>en<figure/>im V (si
 <hi rend="italics">et</hi>...<hi rend="sup">2</hi>)</note> sensus abierit, tamen suis<note>suis <hi rend="italics">Lb. (cf.p.253,9)</hi> summis</note> et propriis
 bonis laudis et gloriae, quamvis non sentiant, mortui
 non carent. etsi enim nihil habet<note>habe<figure/>t G(<hi rend="italics">eras.</hi>n)</note> in se gloria cur
-expetatur,<note>expectatur X (c <hi rend="italics">exp. in</hi> V) vir<figure/>tut&#x0113; V (<figure/> <hi rend="italics">ss.</hi><hi rend="sup">2?</hi>)</note> tamen virtutem tamquam umbra sequitur.<note>sequatur V<hi rend="sup">2?</hi></note>
+expetatur,<note>expectatur X (c <hi rend="italics">exp. in</hi> V) vir<figure/>tutē V (<figure/> <hi rend="italics">ss.</hi><hi rend="sup">2?</hi>)</note> tamen virtutem tamquam umbra sequitur.<note>sequatur V<hi rend="sup">2?</hi></note>
 <milestone unit="section" n="110"/>
 
 verum<note><hi rend="italics">suppl. Po. (obl. Bitschofsky, Berl. ph. Woch. 1913,173) ante</hi>
 verum <hi rend="italics">quod pro adi. habent add.</hi> et <hi rend="italics">Bentl.</hi> igitur <hi rend="italics">Sey</hi></note> multitudinis iudicium de bonis &lt;bonum&gt; si
 quando est, magis laudandum est quam illi ob eam
 rem beati. non possum autem dicere, quoquo<note>quo V<hi rend="sup">1</hi> (<figure/><hi rend="italics">add.</hi><hi rend="sup">c</hi>)</note> modo
-hoc accipietur, Lycurgum Solonem legum et publicae<note>public&#x0119;<figure/> V (-ce K publi<figure/> G<hi rend="sup">1</hi>)</note>
+hoc accipietur, Lycurgum Solonem legum et publicae<note>publicę<figure/> V (-ce K publi<figure/> G<hi rend="sup">1</hi>)</note>
 disciplinae carere gloria, Themistoclem Epaminondam<note>et epam. V<hi rend="sup">2</hi></note>
 bellicae virtutis. ante enim Salamina<note>salamina <hi rend="italics">Man.</hi> salaminam <hi rend="italics">cf. We.</hi></note><note>salamini GK<hi rend="sup">1</hi> (i <hi rend="italics">add.</hi><hi rend="sup">2</hi>) V</note> ipsam Neptunus
 obruet quam Salaminii tropaei<note>trop<figure/>hi G<hi rend="sup">1</hi>K (<figure/> <hi rend="italics">add.</hi><hi rend="sup">2</hi> ) trop<figure/>ei <figure/>m. V (<hi rend="italics">ss.</hi><hi rend="sup">2</hi>)</note> memoriam, priusque<note>e V<hi rend="sup">2</hi> <hi rend="italics">om.</hi> X</note>
@@ -2724,8 +2723,8 @@ est sententia in Cresphonte usus Euripides:<note><hi rend="italics">fr. 449</hi>
 <l>At, qui/ labores mo/rte finisse/t gravis,</l>
 <l>Hunc o/mni<note>omni <hi rend="italics">Dav.</hi> omnes</note> amicos lau/de et laetitia e/xsequi.<note>exequi K</note></l></quote>
 simile quiddam est in Consolatione Crantoris: ait enim
-Terinaeum<note>terinaneum GKR tiren&#x0119;um V (i <hi rend="italics">et prius</hi> e <hi rend="italics">in r.</hi>
-V<hi rend="sup">c</hi> &#x0119; <hi rend="italics">ex</hi> e <hi rend="italics">al. m.</hi>) <hi rend="italics">cf. Ps. Plut. 109b</hi></note> quendam Elysium,<note>helysium GR<hi rend="sup">1</hi> (<figure/>)helisium
+Terinaeum<note>terinaneum GKR tirenęum V (i <hi rend="italics">et prius</hi> e <hi rend="italics">in r.</hi>
+V<hi rend="sup">c</hi> ę <hi rend="italics">ex</hi> e <hi rend="italics">al. m.</hi>) <hi rend="italics">cf. Ps. Plut. 109b</hi></note> quendam Elysium,<note>helysium GR<hi rend="sup">1</hi> (<figure/>)helisium
 V</note> cum graviter filii mortem maereret,<note>maeret X <hi rend="italics">corr.</hi> K<hi rend="sup">2</hi>R<hi rend="sup">2</hi>V<hi rend="sup">c</hi></note> venisse in psychomantium<note>sichomantium X</note> quaerentem,
 quae fuisset tantae calamitatis causa; huic in tabellis
 tris huius modi versiculos datos:
@@ -2742,7 +2741,7 @@ non solum gloriosae rhetoribus, sed etiam beatae videri solent. repetunt ab Erec
 cupide<note>cupidae GR<hi rend="sup">1</hi> (a) <hi rend="italics">add. Vahlen, Ges. ph. Schr. 1,569</hi></note> mortem expetiverunt pro vita civium; &lt;commemorant&gt; Codrum, qui se in medios inmisit hostis
 veste famulari,<note><figure/>famulari V familiari K (<hi rend="italics">supra</hi> veste <hi rend="italics">ss.</hi>. <figure/> ad accidendum K<hi rend="sup">2</hi>)</note> ne posset adgnosci,<note>a<figure/>gn. V</note> si esset ornatu <pb id="p.278"/>
 regio, quod oraculum erat datum,<note>datum sic si V (c <hi rend="italics">in r.</hi> V<hi rend="sup">c</hi>)</note> si rex interfectus
-esset, victrices<note>victricis X <hi rend="italics">ft. recte</hi></note> Athenas fore; Menoeceus<note>men&#x0119;ceus K</note> non praetermittitur, qui item<note>qui item V (item <hi rend="italics">in r.</hi> V<hi rend="sup">c</hi>) quidem GKRM quide
+esset, victrices<note>victricis X <hi rend="italics">ft. recte</hi></note> Athenas fore; Menoeceus<note>menęceus K</note> non praetermittitur, qui item<note>qui item V (item <hi rend="italics">in r.</hi> V<hi rend="sup">c</hi>) quidem GKRM quide
 P</note> oraculo edito largitus est patriae
 suum sanguinem; &lt;nam&gt;<note><hi rend="italics">add. Vahlen Opp. I, 101</hi></note> Iphigenia Aulide<note>au<figure/>ide V</note> duci se
 immolandam<note>immolandum V<hi rend="sup">1</hi></note> iubet, ut<note>ut <hi rend="italics">eqs. fort. hic Cicero ad locum poeticum allu-
@@ -2758,7 +2757,7 @@ certe timere desistant?<note>desistant?] <hi rend="italics">interrogandi signum 
 <milestone unit="section" n="117"/>nam si<note>si <hi rend="italics">add.</hi> K<hi rend="sup">c</hi></note> supremus ille dies
 non extinctionem, sed commutationem adfert loci,
 quid optabilius? sin autem perimit<note>peremit GR<hi rend="sup">1</hi> (<figure/> <hi rend="italics">add.</hi><hi rend="sup">c</hi>) V</note> ac delet omnino,
-quid melius quam in mediis vitae laboribus obdormiscere et ita coniventem<note>conibentem VK<hi rend="sup">1</hi> (conivent&#x1EBD;<hi rend="sup">2</hi>) conibuentem R<hi rend="sup">1</hi> (<hi rend="italics">corr.</hi><hi rend="sup">c</hi>) conhib. G</note> somno consopiri sempiterno? quod si fiat, melior Enni<note>ennii R</note> quam Solonis oratio.
+quid melius quam in mediis vitae laboribus obdormiscere et ita coniventem<note>conibentem VK<hi rend="sup">1</hi> (coniventẽ<hi rend="sup">2</hi>) conibuentem R<hi rend="sup">1</hi> (<hi rend="italics">corr.</hi><hi rend="sup">c</hi>) conhib. G</note> somno consopiri sempiterno? quod si fiat, melior Enni<note>ennii R</note> quam Solonis oratio.
 hic enim noster: <quote>nemo me lacrimis decoret</quote><note><hi rend="italics">Enn. var. 17</hi></note> inquit
 <quote>nec funera fletu faxit!</quote> at vero ille sapiens:
 <quote rend="blockquote"><l>Mors mea ne careat lacrimis: linquamus amicis</l>
@@ -2846,7 +2845,7 @@ doctissimorum contentionibus dissensionibusque viguisset.<note><figure/>viguisse
 </p>
 
 <p>Quam ob rem hortor omnis, qui facere id possunt,
-ut huius<note>eius <hi rend="italics">Boeth.</hi></note> quoque generis laudem iam languenti Graeciae<note>graecia G (graeciaerip.) RV<hi rend="sup">1</hi> graeciae V<hi rend="sup">2</hi> <hi rend="italics">Boeth.</hi> gr&#x0119;tiae K</note> eripiant et transferant<note>praeferant X (pref. V) transferant <hi rend="italics">V</hi><hi rend="sup">2</hi><hi rend="italics">Boeth.</hi></note> in hanc urbem, sicut reliquas omnis, quae quidem erant expetendae, studio
+ut huius<note>eius <hi rend="italics">Boeth.</hi></note> quoque generis laudem iam languenti Graeciae<note>graecia G (graeciaerip.) RV<hi rend="sup">1</hi> graeciae V<hi rend="sup">2</hi> <hi rend="italics">Boeth.</hi> grętiae K</note> eripiant et transferant<note>praeferant X (pref. V) transferant <hi rend="italics">V</hi><hi rend="sup">2</hi><hi rend="italics">Boeth.</hi></note> in hanc urbem, sicut reliquas omnis, quae quidem erant expetendae, studio
 atque industria sua maiores nostri transtulerunt.<note>transtulerunt X <hi rend="italics">Boeth.</hi> l<figure/> transtulere V<hi rend="sup">2</hi></note> atque oratorum quidem laus ita ducta ab humili venit
 ad summum, ut iam, quod natura fert in omnibus
 fere rebus, senescat<note>senescat rebus X <hi rend="italics">trp.</hi> <foreign lang="greek">s</foreign></note> brevique tempore ad nihilum ventura videatur, philosophia nascatur Latinis quidem litteris ex his temporibus, eamque nos adiuvemus<note>adiuvemur V<hi rend="sup">1</hi></note> nosque ipsos redargui<note>redarguiref. V<hi rend="sup">1</hi> (<hi rend="italics">prius</hi> i <hi rend="italics">in</hi> e <hi rend="italics">mut.</hi> V<hi rend="sup">2</hi>)</note> refellique patiamur. quod i ferunt
@@ -2903,7 +2902,7 @@ secuti sunt. nostra autem memoria Philo, quem nos
 frequenter audivimus, instituit alio tempore rhetorum
 praecepta tradere, alio philosophorum: ad quam nos
 consuetudinem a familiaribus nostris adducti in Tusculano, quod datum est temporis nobis, in eo consumpsimus. itaque cum ante meridiem dictioni operam dedissemus, sicut pridie feceramus, post meridiem<note>meridie X (-di V me-
-ridi ach. G) meridi&#x1EBD; K<hi rend="sup">2</hi>R<hi rend="sup">c?</hi> <hi rend="italics">cf. de orat.2, 367 et Usener, Jahrb
+ridi ach. G) meridiẽ K<hi rend="sup">2</hi>R<hi rend="sup">c?</hi> <hi rend="italics">cf. de orat.2, 367 et Usener, Jahrb
 f. Phil. 117 p. 79</hi></note>
 in Academiam descendimus. in qua disputationem
 habitam non quasi narrantes exponimus,<note>exponemus V<hi rend="sup">2</hi></note> sed eisdem<note>ex eisdem K <hi rend="italics">(exp. 2 aut 1)</hi></note>
@@ -2963,7 +2962,7 @@ maius<note>magis K<hi rend="sup">1</hi></note> argumentum nihil eam prodesse, qu
 </p>
 
 <p>Nullum vero id quidem argumentum est. nam ut
-agri non omnes frugiferi sunt qui coluntur, falsumque illud Acci:<note><hi rend="italics">Accius Atr. 234</hi></note><note>Accii Probae <hi rend="italics">Mur.</hi> acimprobe RK (ac&#x012D;<figure/>pbe) acinprobe GV</note>
+agri non omnes frugiferi sunt qui coluntur, falsumque illud Acci:<note><hi rend="italics">Accius Atr. 234</hi></note><note>Accii Probae <hi rend="italics">Mur.</hi> acimprobe RK (acĭ<figure/>pbe) acinprobe GV</note>
 <quote rend="blockquote"><l>Probae<note>falsumque ... probae <hi rend="italics">om.</hi> H</note> e/tsi in segetem su/nt deteriore/m datae</l>
 <l>Fruge/s, tamen ipsae<note>ipse KR</note> sua/pte natura<note>natura] <hi rend="italics">alt. a in r.</hi> G<hi rend="sup">1</hi> nature nitent K<hi rend="sup">1</hi></note> e/nitent</l></quote>,
 sic animi non omnes culti fructum<note>cultum fructi R<hi rend="sup">1</hi></note> ferunt. atque, ut<note>ut <hi rend="italics">add.</hi> G<hi rend="sup">1</hi></note>
@@ -3074,7 +3073,7 @@ sanguine Centauri tinctam tunicam induisset inhaesissetque<note>inhesise V</note
 <l>Quae co/rpore exancla/ta<note>exanclato k<hi rend="sup">2</hi></note> atque animo pe/rtuli!</l>
 <l>Nec mi/hi Iunonis te/rror inplaca/bilis</l>
 <l>Nec ta/ntum invexit tri/stis Eurystheu/s<note>euristeus X (<hi rend="italics">ex</hi> erusteus G<hi rend="sup">1</hi>)</note> mali,</l>
-<l>Quantum u/na vaecors<note>v&#x0119;cors X (<hi rend="italics">sed</hi> R <hi rend="italics">primo scripserat</hi>: unave corsoenei)</note> Oe/nei partu e/dita.</l>
+<l>Quantum u/na vaecors<note>vęcors X (<hi rend="italics">sed</hi> R <hi rend="italics">primo scripserat</hi>: unave corsoenei)</note> Oe/nei partu e/dita.</l>
 <l>Haec me i/nretivit ve/ste furiali i/nscium,</l>
 <l>Quae la/tere inhaerens mo/rsu lacerat vi/scera</l>
 <l>Urge/nsque<note>urguensque KR</note> graviter pu/lmonum<note>pulmonum] <figure/>-em K<hi rend="sup">2</hi></note> haurit<note>aurit GK<hi rend="sup">2?</hi> (h) R<hi rend="sup">1</hi> (h <hi rend="italics">add.</hi><hi rend="sup">c</hi>) V</note> spi/ritus: <pb id="p.290"/></l>
@@ -3126,7 +3125,7 @@ Aeschylus,<note>escylus X (y <hi rend="italics">ex</hi> u K<hi rend="sup">2</hi>
 sic enim accepimus. quo modo fert apud eum Prometheus dolorem, quem excipit ob furtum Lemnium,
 <quote rend="blockquote"><l>Unde<note><hi rend="italics">Accius Philoct. 533</hi></note> i/gnis cluet<note>clucet X (lucet KRP)</note><note>cluet V <hi rend="italics">(transf. m. 1 aut2)</hi></note> morta/libus clam</l>
 <l>Divi/sus; eum doctu/s<note>dictus <foreign lang="greek">s</foreign></note> Prometheus</l>
-<l>Clepsi/sse<note><hi rend="italics">ad</hi> clepsisse <hi rend="italics">glossam</hi> furasse <hi rend="italics">adscr.</hi> R<hi rend="sup">vet</hi></note> dolo poena/sque<note>poenasqu&#x0119; GRV<hi rend="sup">1</hi> (<figure/>e)</note> Iovi</l>
+<l>Clepsi/sse<note><hi rend="italics">ad</hi> clepsisse <hi rend="italics">glossam</hi> furasse <hi rend="italics">adscr.</hi> R<hi rend="sup">vet</hi></note> dolo poena/sque<note>poenasquę GRV<hi rend="sup">1</hi> (<figure/>e)</note> Iovi</l>
 <l>Fato<note>fato G (c <hi rend="italics">eras.</hi>) furti <hi rend="italics">Bentl.</hi></note> e/xpendisse supre/mo?</l></quote>
 has igitur poenas pendens<note>pendens <hi rend="italics">om.</hi> V</note> adfixus ad Caucasum dicit
 haec:
@@ -3159,12 +3158,12 @@ GL. VII, 457,6</hi></note></l>
 maesti G</note><note>hanc ... quae <hi rend="italics">Bentl.</hi> (cf. satelles... farta... avida) hunc ... qui
 maesti G</note> me/ perenni vi/vum foedat mi/seria.</l>
 <l>Namque, u/t videtis, vi/nclis constrictu/s Iovis</l>
-<l>Arce/re nequeo di/ram volucrem<note>voluere G</note><note>voluer&#x1EBD; R<hi rend="sup">1</hi> (e <hi rend="italics">in</hi> c <hi rend="italics">corr. manus vet. quae etiam in mg. adscr.</hi> volucr&#x1EBD;) V<hi rend="sup">1</hi> (<hi rend="italics">corr.</hi><hi rend="sup">1</hi>)</note><note>volucr&ecaron; <figure/>vol&verbar;uere K<hi rend="sup">1</hi></note> a pe/ctore.</l>
+<l>Arce/re nequeo di/ram volucrem<note>voluere G</note><note>voluerẽ R<hi rend="sup">1</hi> (e <hi rend="italics">in</hi> c <hi rend="italics">corr. manus vet. quae etiam in mg. adscr.</hi> volucrẽ) V<hi rend="sup">1</hi> (<hi rend="italics">corr.</hi><hi rend="sup">1</hi>)</note><note>volucr&ecaron; <figure/>vol&verbar;uere K<hi rend="sup">1</hi></note> a pe/ctore.</l>
 <milestone unit="section" n="25"/>
 <l>Sic me i/pse<note>ipse R <hi rend="italics">sed coeperat</hi> ipso</note> viduus<note>ipsiuidi ius G
 (<hi rend="italics">corr.</hi><hi rend="sup">1</hi>, <hi rend="italics">in mg.</hi> l<figure/> viduus<hi rend="sup">1</hi>) vidiuis V<hi rend="sup">1</hi></note> pe/stes excipio a/nxias</l>
 <l>Amo/re mortis te/rminum anquire/ns mali;</l>
-<l>Sed lo/nge a leto<note>l<figure/>eto V<hi rend="sup">1</hi> l&#x0119;to K</note> nu/mine aspello/r Iovis,</l>
+<l>Sed lo/nge a leto<note>l<figure/>eto V<hi rend="sup">1</hi> lęto K</note> nu/mine aspello/r Iovis,</l>
 <l>Atque hae/c vetusta, sae/clis glomerata ho/rridis,</l>
 <l>Lucti/fica clades no/stro infixa est co/rpori; <pb id="p.293"/></l>
 <l>E quo/ liquatae so/lis ardore e/xcidunt</l>
@@ -3281,7 +3280,7 @@ K<hi rend="sup">2</hi>R<hi rend="sup">c</hi>V<hi rend="sup">1</hi></note> patien
 <milestone unit="section" n="32"/>adflictusne<note>audieris<figure/> Gr audiens X <hi rend="italics">(de mendo cf. 1. 2)</hi></note><note>audies <foreign lang="greek">s</foreign> <hi rend="italics">cf. Lebreton, Et. sur la langue et la grammaire de
 Cic&eacute;ron p. 201</hi></note> et iacens et lamentabili voce deplorans audieris: <quote>o virum fortem!</quote>? te vero ita adfectum
 ne<note>nec K</note> virum quidem quisquam dixerit. amittenda igitur
-fortitudo est<note>est <hi rend="italics">om.</hi> H</note> aut sepeliendus dolor.<note>aut ... 17 dolor H</note> Ecquid<note>equid V<hi rend="sup">1</hi></note> scis igitur, si quid<note>quid V<hi rend="sup">rec</hi> <foreign lang="greek">s</foreign></note><note>quis GR<hi rend="sup">1</hi>V<hi rend="sup">1</hi></note><note>qu&#x0113; R<hi rend="sup">c</hi>K</note> de Corinthiis tuis amiseris, posse habere
+fortitudo est<note>est <hi rend="italics">om.</hi> H</note> aut sepeliendus dolor.<note>aut ... 17 dolor H</note> Ecquid<note>equid V<hi rend="sup">1</hi></note> scis igitur, si quid<note>quid V<hi rend="sup">rec</hi> <foreign lang="greek">s</foreign></note><note>quis GR<hi rend="sup">1</hi>V<hi rend="sup">1</hi></note><note>quē R<hi rend="sup">c</hi>K</note> de Corinthiis tuis amiseris, posse habere
 te reliquam supellectilem<note>supplectilem R<hi rend="sup">1</hi></note> salvam, virtutem autem si
 unam amiseris&mdash;etsi amitti non potest virtus, sed
 si unam confessus eris<note>fueris GK (l<figure/> eris<hi rend="sup">2</hi>) R (fu<hi rend="sup">l?</hi>)</note> te non habere, nullam esse
@@ -3289,7 +3288,7 @@ te habiturum?
 
 <milestone unit="section" n="33"/>num igitur fortem virum, num magno
 animo, num patientem, num gravem, num humana
-contemnentem potes dicere aut Philoctetam<note>phil<figure/>otet&#x0103; G<hi rend="sup">1</hi>V<hi rend="sup">1</hi> (tet)</note><note>atenim K<hi rend="sup">1</hi></note> illum&mdash;? a
+contemnentem potes dicere aut Philoctetam<note>phil<figure/>otetă G<hi rend="sup">1</hi>V<hi rend="sup">1</hi> (tet)</note><note>atenim K<hi rend="sup">1</hi></note> illum&mdash;? a
 te enim malo discedere,<note>discere X discedere <hi rend="italics">(cf. ac. 2, 115)</hi> <hi rend="italics">Bentl.</hi></note> sed ille certe non fortis, qui iacet <pb id="p.297"/>
 <quote rend="blockquote"><l>in tecto<note>tecto <hi rend="italics">Bouhier</hi> lecto</note> u/mido,<note><hi rend="italics">Accius Phil. 550</hi></note><note>umido X (G<hi rend="sup">1</hi> <hi rend="italics">in r.</hi>)
 <figure/> <hi rend="italics">add.</hi> K<hi rend="sup">2?</hi>V<hi rend="sup">2</hi>R<hi rend="sup">c</hi> <hi rend="italics">(sed postea deletum)</hi></note></l>
@@ -3322,7 +3321,7 @@ Graecia! aliud, inquam, est dolere,<note>dolo<figure/>re K (4 dolore V<hi rend="
 varices secabantur C.<note>C.] <figure/>l g K<hi rend="sup">2</hi></note> Mario, dolebat; cum aestu magno ducebat agmen, laborabat. est inter haec quaedam
 tamen similitudo: consuetudo enim laborum perpessionem dolorum<note>dolorem X <hi rend="italics">corr.</hi> K<hi rend="sup">2</hi>R<hi rend="sup">2</hi></note> efficit<note>efficiat X (a R<hi rend="sup">1?</hi>)</note> faciliorem.
 
-<milestone unit="section" n="36"/>itaque illi, qui<note>qui R<hi rend="sup">rec</hi>V<hi rend="sup">rec</hi></note><note>quae X (que K<hi rend="sup">1</hi> &#x0119;<hi rend="sup">2</hi>)</note> Graeciae formam rerum publicarum dederunt, corpora iuvenum firmari labore voluerunt; quod Spartiatae
+<milestone unit="section" n="36"/>itaque illi, qui<note>qui R<hi rend="sup">rec</hi>V<hi rend="sup">rec</hi></note><note>quae X (que K<hi rend="sup">1</hi> ę<hi rend="sup">2</hi>)</note> Graeciae formam rerum publicarum dederunt, corpora iuvenum firmari labore voluerunt; quod Spartiatae
 etiam in feminas transtulerunt, quae ceteris in urbibus mollissimo cultu <quote>parietum umbris occuluntur</quote>.<note><hi rend="italics">Trag. inc. 205sqq.</hi></note>
 illi autem voluerunt nihil horum simile esse
 <quote rend="blockquote"><l>a/pud Lacaenas vi/rgines,<note><hi rend="italics">Trag. inc. 205sqq.</hi></note></l>
@@ -3405,7 +3404,7 @@ plagas perferunt! quo modo illi, qui bene instituti
 sunt, accipere plagam<note>plaga G</note> malunt quam turpiter vitare!
 quam saepe apparet nihil eos malle quam vel domino
 satis facere vel populo! mittunt etiam volneribus confecti ad dominos, qui quaerant quid velint: si satis
-is factum sit, se velle decumbere.<note>dec&#x014F;mbere R<hi rend="sup">1</hi></note> quis mediocris
+is factum sit, se velle decumbere.<note>decŏmbere R<hi rend="sup">1</hi></note> quis mediocris
 gladiator<note>gradiator X (<hi rend="italics">corr.</hi> RK<hi rend="sup">1?</hi>K<hi rend="sup">2</hi>V<hi rend="sup">rec</hi>)</note> ingemuit, quis vultum mutavit umquam?
 quis non modo stetit, verum etiam decubuit turpiter?
 quis, cum decubuisset,<note>decubisset R<hi rend="sup">1</hi></note> ferrum recipere iussus collum
@@ -3488,7 +3487,7 @@ quod honestum sit,<note>sit] est
 iactare te non audebis profecto;
 
 <milestone unit="section" n="46"/>loquetur enim eorum
-voce Virtus ipsa tecum: <quote>tune, cum pueros Lacedaemone,<note>lacedemone KV (-n&#x0119;)</note> adulescentis<note>adulescentes V<hi rend="sup">2</hi></note> Olympiae,<note>olymphiae GKR</note> barbaros in harena<note>harena] h <hi rend="italics">exp.</hi> K<hi rend="sup">2</hi></note> videris excipientis<note>excipient<figure/>es R<hi rend="sup">1</hi></note> gravissimas plagas et ferentis silentio, si te forte dolor<note>dolor <hi rend="italics">add.</hi> V<hi rend="sup">c</hi></note> aliquis pervellerit, exclamabis
+voce Virtus ipsa tecum: <quote>tune, cum pueros Lacedaemone,<note>lacedemone KV (-nę)</note> adulescentis<note>adulescentes V<hi rend="sup">2</hi></note> Olympiae,<note>olymphiae GKR</note> barbaros in harena<note>harena] h <hi rend="italics">exp.</hi> K<hi rend="sup">2</hi></note> videris excipientis<note>excipient<figure/>es R<hi rend="sup">1</hi></note> gravissimas plagas et ferentis silentio, si te forte dolor<note>dolor <hi rend="italics">add.</hi> V<hi rend="sup">c</hi></note> aliquis pervellerit, exclamabis
 ut mulier, non constanter<note>non c.] nec c. <hi rend="italics">Char.</hi></note> et sedate<note>et sedate] sed ate G<hi rend="sup">1</hi></note> feres?<note><hi rend="italics">ubi Virtus loqui desinat, C. non significat cf. ac.2,
 93 al.</hi></note><note>exclamabis... 18 feres <hi rend="italics">Char. GL. 1220, 17</hi></note></quote> <quote>fieri non
 potest; natura non patitur.</quote> audio. pueri ferunt gloria<note><hi rend="italics">supra</hi> gloria <hi rend="italics">scr.</hi> <foreign lang="greek">y</foreign>ol <hi rend="italics">et in
@@ -3532,7 +3531,7 @@ KV (ad <hi rend="italics">exp. m. vet.</hi>) G<hi rend="sup">2</hi> (adac<hi ren
 <hi rend="italics">Halm</hi> (<hi rend="italics">sed cf. Th. l. l. II, 1049</hi>)</note> qui autem erunt firmiores nec tamen robustissimi, hos admonitu oportebit ut bonos milites revocatos dignitatem tueri. non
 nimis in Niptris<note>in niptris R<hi rend="sup">1</hi> in ni<figure/>ptris<hi rend="sup">2</hi></note> ille sapientissimus Graeciae saucius
 lamentatur<note>lamentator </note> vel modice potius: <quote>pedetemptim,</quote> inquit,<note>inquid G<hi rend="sup">1</hi>K</note> <quote rend="blockquote"><l>ite<note>ite, <hi rend="italics">quod Cic. ipse addidit, del. Dav.</hi></note> et sedato/ nisu<note><hi rend="italics">Pacuv. 256 Soph.p. 230</hi> pedetemptim ac sedato nisu
-<hi rend="italics">Char. GL. I 214, 10</hi> pedi<figure/>temptim K (<figure/> <hi rend="italics">ss.</hi><hi rend="sup">2</hi>) peditemtim R<hi rend="sup">1</hi> (pedetemptim<figure/>) V<hi rend="sup">1</hi> (pedetemtim <hi rend="italics">corr.</hi><hi rend="sup">1</hi>) peditent&#x1EBD; <hi rend="italics">in -&itilde; corr.</hi> G<hi rend="sup">2?</hi> <hi rend="italics">cf.
+<hi rend="italics">Char. GL. I 214, 10</hi> pedi<figure/>temptim K (<figure/> <hi rend="italics">ss.</hi><hi rend="sup">2</hi>) peditemtim R<hi rend="sup">1</hi> (pedetemptim<figure/>) V<hi rend="sup">1</hi> (pedetemtim <hi rend="italics">corr.</hi><hi rend="sup">1</hi>) peditentẽ <hi rend="italics">in -&itilde; corr.</hi> G<hi rend="sup">2?</hi> <hi rend="italics">cf.
 p. 345, 1</hi></note><note>nisi G<hi rend="sup">1</hi> -su ne suc <hi rend="italics">in r.</hi> V</note></l>
 <l>Ne su/ccussu arripia/t maior</l>
 <l>Dolor</l></quote>
@@ -3620,7 +3619,7 @@ raro, eiulatus<note><figure/>eiulatus K<hi rend="sup">1</hi> (eiu <hi rend="ital
 vetuerunt.<note>tabulae, V</note>
 
 <milestone unit="section" n="56"/>nec vero umquam ne<note>ne] nec X <hi rend="italics">corr.</hi> V<hi rend="sup">vet</hi></note> ingemescit<note>ingemisc. K<hi rend="sup">1</hi>R<hi rend="sup">c</hi></note> quidem
-vir fortis ac sapiens, nisi forte ut se intendat ad firmitatem, ut in stadio cursores exclamant quam maxime possunt. faciunt idem, cum exercentur, athletae;<note>in stadio ... 21 athletae <hi rend="italics">Char. GL. 216, 19</hi></note><note>atl&#x0119;tae RV</note><note>atlete K<hi rend="sup">1</hi></note><note>adlaetae G</note>
+vir fortis ac sapiens, nisi forte ut se intendat ad firmitatem, ut in stadio cursores exclamant quam maxime possunt. faciunt idem, cum exercentur, athletae;<note>in stadio ... 21 athletae <hi rend="italics">Char. GL. 216, 19</hi></note><note>atlętae RV</note><note>atlete K<hi rend="sup">1</hi></note><note>adlaetae G</note>
 pugiles vero, etiam cum feriunt<note>ferunt K<hi rend="sup">1</hi></note> adversarium, in iactandis caestibus ingemescunt,<note>ingemisc. K<hi rend="sup">1</hi>R<hi rend="sup">c</hi></note><note>-scent </note><note>-scunt K<hi rend="sup">2</hi>R<hi rend="sup">c</hi>V<hi rend="sup">2</hi></note> non quod doleant animove succumbant, sed quia profundenda<note>profunda G<hi rend="sup">1</hi></note> voce omne<note>cum <hi rend="italics">ante</hi> omne V<hi rend="sup">2</hi></note>
 corpus intenditur venitque plaga vehementior. quid?
 qui volunt exclamare maius, num satis habent latera <pb id="p.310"/>
@@ -3697,7 +3696,7 @@ etiam tolerabiles. videmusne<note>videmus<figure/>ne R (<figure/><hi rend="sup">
 ludorum,<note>ludorum <hi rend="italics">ex</hi> dolorum K<hi rend="sup">c</hi></note> qui gymnici nominantur, magnus<note>magnos X (<hi rend="italics">corr.</hi> K<hi rend="sup">c</hi>R<hi rend="sup">c</hi>V<hi rend="sup">rec</hi>)</note> honos sit,
 nullum ab is, qui in<note>qui<figure/>in V</note> id certamen descendant, devitari
 dolorem? apud quos autem venandi et equitandi laus
-viget, qui hanc petessunt,<note>pot&#x0119;&verbar;sunt G<hi rend="sup">1</hi></note><note>pes<figure/>sunt K<hi rend="sup">1</hi></note> nullum fugiunt dolorem.
+viget, qui hanc petessunt,<note>potę&verbar;sunt G<hi rend="sup">1</hi></note><note>pes<figure/>sunt K<hi rend="sup">1</hi></note> nullum fugiunt dolorem.
 quid de nostris ambitionibus, quid de cupiditate honorum loquar? quae flamma est, per quam non cucurrerint<note>cucurrerint <foreign lang="greek">s</foreign> -runt X</note>
 <pb id="p.313"/>
  i qui haec<note>qui ad haec G<hi rend="sup">1</hi> quiec K</note> olim punctis singulis colligebant?
@@ -3796,7 +3795,7 @@ iudicatur, aegrotet.
 <milestone unit="section" n="2"/>Quodsi talis nos natura genuisset,
 ut eam ipsam intueri et perspicere eademque optima
 duce cursum vitae conficere possemus, haut<note>haut V<hi rend="sup">2</hi></note><note>aut GK<hi rend="sup">1</hi>RV<hi rend="sup">1</hi></note><note>haud K<hi rend="sup">2</hi>B<foreign lang="greek">s</foreign></note> erat sane
-quod quisquam rationem ac doctrinam<note>rationem ac doctrinam <foreign lang="greek">s</foreign> ratione ac doctrina X rationed&#x1EBD; V<hi rend="sup">2</hi> hac <hi rend="italics">pro</hi> ac G<hi rend="sup">1</hi> et
+quod quisquam rationem ac doctrinam<note>rationem ac doctrinam <foreign lang="greek">s</foreign> ratione ac doctrina X rationedẽ V<hi rend="sup">2</hi> hac <hi rend="italics">pro</hi> ac G<hi rend="sup">1</hi> et
 Gr.?)</note> requireret.<note>requiret G<hi rend="sup">1</hi></note> nunc
 parvulos nobis dedit igniculos, quos celeriter malis
 moribus opinionibusque depravati<note>depravati V<hi rend="sup">1?</hi> <hi rend="italics">e corr.</hi> B<foreign lang="greek">s</foreign> depravatis X</note> sic restinguimus, ut
@@ -3807,7 +3806,7 @@ liceret <hi rend="italics">corr.</hi> R<hi rend="sup">c</hi> licetret G<hi rend=
 autem, simul atque editi in lucem et suscepti sumus,
 in omni continuo pravitate et in summa opinionum perversitate versamur, ut paene cum lacte nutricis errorem
 suxisse videamur. cum vero parentibus redditi, dein<note>reddit idem G reddit<figure/>idemr R
-(<figure/> <hi rend="italics">et</hi> r = <hi rend="italics">require</hi><hi rend="sup">al.m.</hi>) redditid&#x0113; V<hi rend="sup">1</hi> (redditi dein V<hi rend="sup">2</hi> <hi rend="italics">sec. Str.</hi>)
+(<figure/> <hi rend="italics">et</hi> r = <hi rend="italics">require</hi><hi rend="sup">al.m.</hi>) redditidē V<hi rend="sup">1</hi> (redditi dein V<hi rend="sup">2</hi> <hi rend="italics">sec. Str.</hi>)
 redditi idem HK (<figure/>dem&ubreve; <hi rend="italics">ss.</hi><hi rend="sup">2</hi>) redditi demum Gr.(?)B</note>
 magistris traditi sumus, tum<note>tum ... 9 cedat <hi rend="italics">Non. 416, 32</hi></note> ita variis imbuimur<note>inb. KR</note> erroribus, ut vanitati veritas et opinioni<note>opinio G<hi rend="sup">1</hi></note> confirmatae<note>confirmatae <foreign lang="greek">s</foreign>
 <hi rend="italics">Non.</hi> confirmata X</note> natura<note>naturae K</note>
@@ -3854,7 +3853,7 @@ morbos efficere possunt eorumque numerum augent'</hi> (plures!)
 eumque sollicitant,<note>solicitant G<hi rend="sup">1</hi>R<hi rend="sup">1</hi>V<hi rend="sup">1</hi></note> <quote>animusque aeger</quote>, ut ait Ennius,<note><hi rend="italics">Enn. sc. 392</hi></note>
 <quote>semper errat neque pati<note>pati] poti <hi rend="italics">Ribb. sed cf. Va.</hi></note> neque perpeti potest, cupere
 numquam desinit.</quote> quibus duobus morbis, ut omittam
-alios, aegritudine et cupiditate,<note>cupidldat&#x1EBD; R<hi rend="sup">1</hi></note> qui tandem possunt
+alios, aegritudine et cupiditate,<note>cupidldatẽ R<hi rend="sup">1</hi></note> qui tandem possunt
 in corpore esse graviores? qui vero probari potest
 ut sibi mederi animus non possit, cum ipsam medicinam corporis animus invenerit, cumque ad corporum sanationem multum ipsa corpora et natura valeat <pb id="p.319"/>
 nec omnes,<note>omnis X <hi rend="italics">corr.</hi> V<hi rend="sup">2</hi> sint <hi rend="italics">Tregd.</hi> sunt</note> qui curari se passi sint, continuo etiam
@@ -3894,7 +3893,7 @@ est, siquidem non multum differt ab insania.</p>
 
 <p>Non mihi quidem soli, sed, id quod admirari<note>amirari G<hi rend="sup">1</hi>(&amacr;mirari<hi rend="sup">2</hi>) R<hi rend="sup">1</hi>V</note> saepe
 soleo, maioribus quoque nostris hoc ita visum intellego
-multis saeculis ante Socratem,<note>socrant&#x0115; G<hi rend="sup">1</hi> (n <hi rend="italics">del.</hi><hi rend="sup">2</hi>) socraten KR</note> a quo haec omnis, quae
+multis saeculis ante Socratem,<note>socrantĕ G<hi rend="sup">1</hi> (n <hi rend="italics">del.</hi><hi rend="sup">2</hi>) socraten KR</note> a quo haec omnis, quae
 est de vita et de moribus, philosophia manavit.</p>
 
 <p>Quonam<note>quoniam G (i <hi rend="italics">del.</hi><hi rend="sup">1?</hi>)</note> tandem modo?</p>
@@ -3930,7 +3929,7 @@ quam Graecis.
 quod quaerimus quid et quale sit,<note>sit] fit V</note> verbi vis ipsa declarat. eos enim sanos quoniam intellegi necesse est, quorum mens motu quasi morbo perturbata nullo<note>nulla X <hi rend="italics">corr.</hi> V<hi rend="sup">1?</hi></note> sit, qui<note>quia K<hi rend="sup">1</hi></note>
 contra adfecti<note>affecti GR<hi rend="sup">2</hi> insani G<hi rend="sup">1</hi></note> sint, hos insanos appellari necesse est.
 itaque nihil melius, quam quod est in consuetudine sermonis Latini, cum exisse ex potestate dicimus eos,
-qui ecfrenati<note>hecfrenati G (h <hi rend="italics">del.</hi><hi rend="sup">2</hi>) h&#x0119;c fr. V effr. R<hi rend="sup">rec</hi>V<hi rend="sup">rec</hi></note> feruntur aut libidine aut iracundia&mdash;
+qui ecfrenati<note>hecfrenati G (h <hi rend="italics">del.</hi><hi rend="sup">2</hi>) hęc fr. V effr. R<hi rend="sup">rec</hi>V<hi rend="sup">rec</hi></note> feruntur aut libidine aut iracundia&mdash;
 quamquam ipsa iracundia libidinis est pars; sic enim
 definitur: iracundia ulciscendi libido<note>ulciscendi libido
 <hi rend="italics">cf. Aug. civ. 14,15</hi> quis V<hi rend="sup">1</hi></note>&mdash;; qui igitur
@@ -3948,7 +3947,7 @@ vetant duodecim<note>duodecem R<hi rend="sup">1</hi>V <hi rend="italics">tab. 5,
 Ciceronis locus obversatur Horatio s. 2, 3, 217</hi></note> tabulae; itaque non est scriptum <quote>si
 insanus</quote>, sed <quote>si furiosus<note>insanus et fur. <hi rend="italics">Non.</hi>
 escit <hi rend="italics">Bouhier</hi> esse incipit <foreign lang="greek">W</foreign> esset <hi rend="italics">Non.</hi></note> escit</quote>. stultitiam<note>stultiam V (<hi rend="italics">ss</hi><hi rend="sup">rec</hi>)
-stultia K (- <hi rend="italics">2</hi>) stultitia GR<hi rend="sup">1</hi> (-&#x0103;<hi rend="sup">2</hi>) H</note> enim censuerunt constantia,<note>inconstantiam KR (<hi rend="italics">etiam</hi>
+stultia K (- <hi rend="italics">2</hi>) stultitia GR<hi rend="sup">1</hi> (-ă<hi rend="sup">2</hi>) H</note> enim censuerunt constantia,<note>inconstantiam KR (<hi rend="italics">etiam</hi>
 m <hi rend="italics">a m. 1 ut. v.</hi>) V<hi rend="sup">1</hi> (<hi rend="italics">sed</hi> in <hi rend="italics">et</hi> m <hi rend="italics">exp.</hi><hi rend="sup">1</hi>) H inconstantia G insaniam enim censuerunt constantiam, id est sanitatem, tamen
 posse tueri <hi rend="italics">Non.</hi></note> id est sanitate, vacantem posse
 tamen tueri mediocritatem officiorum et vitae communem cultum atque usitatum; furorem autem<note>autem <hi rend="italics">om. Non.</hi></note> esse rati
@@ -4098,7 +4097,7 @@ etiam... 12 invidiae <hi rend="italics">Non. 443,15</hi> (10 in invidiam. non di
 in invidentia 11 invidia)</note> quod verbum ductum<note>dictum G<hi rend="sup">1</hi>K<hi rend="sup">1</hi> (<hi rend="italics">cf. Isidor. 10,134</hi>)</note> est a nimis intuendo fortunam alterius, ut est in Melanippo: <quote>quisnam florem<note><hi rend="italics">Acc. fr. 424</hi>
 (unde aut quis mortalis fl. <hi rend="italics">Non. 500, 13</hi> num quis non mortalis
 fl. <hi rend="italics">Ri. num</hi> quisnam <hi rend="italics">poetae sit, dubium</hi>) quasnam G<hi rend="sup">1</hi></note>
-liberum invidit meum?</quote> male Latine videtur, sed praeclare Accius; ut enim <quote>videre</quote>, sic <quote>invidere florem</quote><note>flore X flor&#x0113; K<hi rend="sup">2</hi>R<hi rend="sup">c?</hi></note>
+liberum invidit meum?</quote> male Latine videtur, sed praeclare Accius; ut enim <quote>videre</quote>, sic <quote>invidere florem</quote><note>flore X florē K<hi rend="sup">2</hi>R<hi rend="sup">c?</hi></note>
 rectius quam <quote>flori</quote>. nos consuetudine prohibemur;
 <milestone unit="section" n="21"/>
 po&euml;ta ius suum tenuit et dixit audacius)&mdash;cadit igitur
@@ -4237,7 +4236,7 @@ insperato et necopinato malo. est id quidem non mediocre ad aegritudinem augenda
 <milestone unit="section" n="29"/>
 haec igitur praemeditatio futurorum malorum lenit
 eorum adventum, quae venientia longe ante videris.
-itaque apud Euripiden a Theseo dicta laudantur; licet<note><hi rend="italics">Eurip. fr. 964</hi> euripid&#x0115; K
+itaque apud Euripiden a Theseo dicta laudantur; licet<note><hi rend="italics">Eurip. fr. 964</hi> euripidĕ K
 thesseo GKR<hi rend="sup">1</hi></note>
 enim, ut saepe facimus, in Latinum illa convertere:
 <quote rend="blockquote"><l>Nam qui hae/c audita a do/cto meminisse/m viro,</l>
@@ -4673,7 +4672,7 @@ mali, gravius etiam tulisse. quocirca Carneades, ut video nostrum scribere Antio
 <quote rend="blockquote"><l>Morta/lis nemo est que/m non<note>non <hi rend="italics">om. X add.</hi> K<hi rend="sup">2</hi>V<hi rend="sup">c</hi></note> attinga/t<note>attingit <foreign lang="greek">W</foreign> (attigit K) <hi rend="italics">vix recte, cf. Mue. in
 Seyfferti Laelio p. 143</hi></note> dolor</l>
 <l>Morbu/sque; multis<note>multis <hi rend="italics">Lb.</hi> multi</note> su/nt humandi li/beri,</l>
-<l>Rursu/m creandi, mo/rsque<note>mors quae GK (morsqu&#x0119;) R<hi rend="sup">1</hi>V (s <hi rend="italics">in r.</hi><hi rend="sup">c</hi>)</note> est finita o/mnibus.</l>
+<l>Rursu/m creandi, mo/rsque<note>mors quae GK (morsquę) R<hi rend="sup">1</hi>V (s <hi rend="italics">in r.</hi><hi rend="sup">c</hi>)</note> est finita o/mnibus.</l>
 <l>Quae ge/neri<note>genere X <hi rend="italics">corr.</hi> V<hi rend="sup">3</hi></note> humano ango/rem nequicquam a/dferunt:<note>adferant V<hi rend="sup">2</hi></note></l>
 <l>Redde/nda terrae est te/rra, tum<note>tum] tam <hi rend="italics">Sey.</hi> nam <hi rend="italics">K&uuml;h.</hi></note> vita o/mnibus</l>
 <l>Mete/nda ut fruges. si/c iubet Nece/ssitas.</l></quote>
@@ -4865,7 +4864,7 @@ fessio adversariis exprimenda est cf. Verr. 4, 112 Liv. 21, 18, 5
 Lucan. 6, 599 manibus exprime verum</hi>) experimentum (<hi rend="italics">et antea</hi>
 maxumum) <hi rend="italics">edd.</hi> (<hi rend="italics">sed hoc uerbum Tullianum non est, illudque</hi>
 hanc&mdash;diuturna <hi rend="italics">ratione conclusum, non ex experientia sumptum</hi>)</note> cum constet aegritudinem<note>aegritudinem V -ne GKR</note> vetustate tolli,<note>tollit X <hi rend="italics">sed ult.</hi> t <hi rend="italics">eras.</hi> V</note>
-hanc vim non esse in die<note>di&#x0113; V</note> positam, sed in cogitatione
+hanc vim non esse in die<note>diē V</note> positam, sed in cogitatione
 diuturna.<note>diurna X <hi rend="italics">corr.</hi> B<hi rend="sup">1</hi><foreign lang="greek">s</foreign></note> nam si et eadem res est et idem est homo,
 qui potest quicquam de dolore mutari, si neque de eo,
 propter quod dolet, quicquam est mutatum neque de
@@ -5076,7 +5075,7 @@ omnia consequi potuisse, simul ut<note>ut] <figure/> et V<hi rend="sup">2</hi></
 fuerit, et saepe diximus. sapientiae studium vetus id
 quidem in nostris, sed tamen ante Laelii aetatem et
 Scipionis non reperio quos appellare possim nominatim. quibus adulescentibus Stoicum Diogenen et Academicum Carneadem video ad senatum ab Atheniensibus missos esse legatos, qui cum rei publicae nullam
-umquam partem attigissent essetque<note>esseque V<hi rend="sup">1</hi></note> eorum alter Cyrenaeus<note>cyreneus GKR (<hi rend="italics">cyr&#x0119;n.</hi>)</note> alter Babylonius, numquam profecto scholis
+umquam partem attigissent essetque<note>esseque V<hi rend="sup">1</hi></note> eorum alter Cyrenaeus<note>cyreneus GKR (<hi rend="italics">cyręn.</hi>)</note> alter Babylonius, numquam profecto scholis
 essent excitati neque ad illud munus<note>munus] legationis <hi rend="italics">ss.</hi> V<hi rend="sup">rec</hi></note> electi, nisi in
 quibusdam principibus temporibus illis fuissent studia
 doctrinae. qui cum cetera litteris mandarent, alii ius
@@ -5474,7 +5473,7 @@ plurimum dissidentem.
 id quod ei fuerit concupitum, tum ecferetur<note>ecferetur <hi rend="italics">We.</hi> (effertur <hi rend="italics">Dav.</hi>) fertur Gr.
 fert X</note> alacritate,
 ut <quote>nihil ei constet</quote>, quod agat, ut ille, qui <quote>voluptatem<note>voluptatem eqs.] <hi rend="italics">Trabea fr. II eundemque Cic. in
-verbis</hi> nihil ei<note>ei B (<hi rend="italics">e corr.</hi>) <hi rend="italics">Bentl.</hi> est X (<figure/>&#x0113;. K esse V<hi rend="sup">3</hi>) quod <foreign lang="greek">s</foreign> quid X</note> constet (<hi rend="italics">Com. inc. 37</hi>) <hi rend="italics">respicit, cf. fin. 2, 14</hi></note>
+verbis</hi> nihil ei<note>ei B (<hi rend="italics">e corr.</hi>) <hi rend="italics">Bentl.</hi> est X (<figure/>ē. K esse V<hi rend="sup">3</hi>) quod <foreign lang="greek">s</foreign> quid X</note> constet (<hi rend="italics">Com. inc. 37</hi>) <hi rend="italics">respicit, cf. fin. 2, 14</hi></note>
 animi nimiam summum esse errorem</quote> arbitratur. eorum igitur malorum in una virtute posita sanatio est.
 Quid autem est non miserius solum, sed foedius etiam
 et deformius quam aegritudine quis adflictus debilitatus iacens? cui miseriae proxumus est is qui<note>qui] q: V (: <hi rend="italics">in r.</hi> V<hi rend="sup">c</hi>)</note> adpropinquans aliquod malum metuit exanimatusque<note>examinatusque K <hi rend="italics">Non. pars</hi></note>
@@ -5663,7 +5662,7 @@ sura K (<hi rend="italics">def. Ro</hi><foreign lang="greek">b</foreign><hi rend
 <l>Odi hominem, iratus pugno, nec longius quicquam</l>
 <l>Nobis,<note>nobis <foreign lang="greek">s</foreign> vobis X (<figure/>ubis R<hi rend="sup">1?</hi>)</note> quam dextrae gladium dum accommodet<note>accomodet V (<hi rend="italics">prius</hi> o <hi rend="italics">in
 r.</hi><hi rend="sup">c</hi>)</note> alter;</l>
-<l>Usque adeo studio atque odio illius ecferor<note>h&#x0119;c feror K<hi rend="sup">c</hi></note> ira;</l></quote></quote>
+<l>Usque adeo studio atque odio illius ecferor<note>hęc feror K<hi rend="sup">c</hi></note> ira;</l></quote></quote>
 at<note>at <foreign lang="greek">s</foreign>V<hi rend="sup">rec</hi> ac</note> sine hac<note>hac] ac G</note> gladiatoria iracundia videmus progredientem apud Homerum Aiacem multa cum hilaritate,<note><hi rend="italics">H 211 7.</hi></note> cum depugnaturus esset cum Hectore;
 
 <milestone unit="section" n="49"/>cuius, ut
@@ -5702,8 +5701,8 @@ est robusta illa et stabilis fortitudo, nisi forte, quae vehementer acriter anim
 qui hoc Stoicorum<note>stoicicorum GV</note> verum esse declaravit, numquam
 privatum esse sapientem, iratus videtur fuisse Ti.<note>Ti] <hi rend="italics">ex</hi> tam K<hi rend="sup">c</hi></note>
 Graccho<note>gracho X</note> tum, cum consulem languentem reliquit atque
-ipse privatus, ut si consul<note>consul<figure/>&#x0115;et K (&#x0115;<hi rend="sup">c</hi>)</note> esset, qui rem publicam
-salvam<note>salvam <foreign lang="greek">s</foreign> salva X</note> esse vellent,<note>vellent <hi rend="italics">We.</hi> vellet h&#x0119;c quid VK<hi rend="sup">c</hi></note> se sequi iussit.
+ipse privatus, ut si consul<note>consul<figure/>ĕet K (ĕ<hi rend="sup">c</hi>)</note> esset, qui rem publicam
+salvam<note>salvam <foreign lang="greek">s</foreign> salva X</note> esse vellent,<note>vellent <hi rend="italics">We.</hi> vellet hęc quid VK<hi rend="sup">c</hi></note> se sequi iussit.
 
 <milestone unit="section" n="52"/>nescio, ecquid
 ipsi nos fortiter in re p. fecerimus: si quid fecimus,
@@ -6283,7 +6282,7 @@ cuiusque V<hi rend="sup">c</hi><foreign lang="greek">s</foreign> cuius X (cuiu G
 rei cognitione<note>cognitionem H</note> hoc pulcherrimum nomen apud antiquos adsequebatur.<note>o vitae ... 407, 7 assequebatur H</note> itaque et illos septem, qui a Graecis <foreign lang="greek">sofoi/</foreign>,<note>CO<foreign lang="greek">f</foreign>Ol X</note> sapientes a nostris et habebantur<note>habebantur V<hi rend="sup">2</hi><foreign lang="greek">s</foreign>
 habeantur X (et et h. G)</note> et nominabantur,<note>qui... 8 nominabantur <hi rend="italics">del. Sauppe</hi></note> et multis ante saeculis Lycurgum,<note>lygurgum X (<hi rend="italics">ex</hi> lygitur gum K<hi rend="sup">1</hi>)</note> cuius
 temporibus Homerus etiam fuisse ante hanc urbem
-conditam traditur, et iam<note>et iam] etiam <foreign lang="greek">W</foreign></note> heroicis aetatibus Ulixem<note>ulixem] i <hi rend="italics">e</hi> corr.<hi rend="italics"></hi> G ulyxem V</note> et
+conditam traditur, et iam<note>et iam] etiam <foreign lang="greek">W</foreign></note> heroicis aetatibus Ulixem<note>ulixem] i <hi rend="italics">e</hi> corr.<hi rend="italics"/> G ulyxem V</note> et
 Nestorem accepimus et<note><hi rend="italics">alt.</hi> et <hi rend="italics">add.</hi> V<hi rend="sup">c</hi></note> fuisse et habitos esse sapientis.<note>sapientis <hi rend="italics">ex</hi> -es R<hi rend="sup">c</hi></note>
 
 <milestone unit="section" n="8"/>nec vero Atlans<note>atlans K athlans R<hi rend="sup">1</hi> (h
@@ -6447,7 +6446,7 @@ quid est cur virtus ipsa per se non efficiat beatos?<note>beatus R<hi rend="sup"
 
 <p>Atqui alterum dici non<note>non <hi rend="italics">add.</hi> G<hi rend="sup">1</hi></note> potest, quin i, qui nihil metuant, nihil angantur,<note>agantur KV<hi rend="sup">1</hi></note><note>agant <hi rend="italics">Non.</hi></note> nihil concupiscant, nulla impotenti laetitia ecferantur,<note>qui nihil metuant
 ... 18 nulla inpotentia ecferantur <hi rend="italics">Non. 129, 7</hi></note><note>ecferantur V<hi rend="sup">2</hi><foreign lang="greek">s</foreign> <hi rend="italics">Non.</hi> ecferant X
-(h&#x0119;c ferant K<hi rend="sup">c</hi>)</note> beati sint, itaque id tibi concedo; alterum autem iam integrum non est. superioribus enim disputationibus effectum est vacare<note>vacare V<hi rend="sup">2</hi><foreign lang="greek">s</foreign> vacari X</note> omni
+(hęc ferant K<hi rend="sup">c</hi>)</note> beati sint, itaque id tibi concedo; alterum autem iam integrum non est. superioribus enim disputationibus effectum est vacare<note>vacare V<hi rend="sup">2</hi><foreign lang="greek">s</foreign> vacari X</note> omni
 animi perturbatione<note>perturbatione V</note> sapientem.
 </p>
 
@@ -6711,7 +6710,7 @@ si<note>si (<hi rend="italics">priore loco</hi>)] sic K</note> hoc fas est dictu
 <milestone unit="section" n="39"/>hic igitur si est<note>si est (<hi rend="italics">alt. loco</hi>) <hi rend="italics">add.</hi> G<hi rend="sup">2</hi></note>
 excultus et si eius acies ita curata est, ut ne<note>ne] nec K</note> caecaretur
 erroribus, fit perfecta mens, id est absoluta ratio, quod
-est idem<note>id est] id&#x1EBD; G</note> virtus. et si omne beatum est, cui nihil deest, <pb id="p.422"/>
+est idem<note>id est] idẽ G</note> virtus. et si omne beatum est, cui nihil deest, <pb id="p.422"/>
 et quod in suo genere expletum atque cumulatum est,
 idque virtutis est proprium, certe omnes<note>omnis X</note> virtutis compotes<note>virtutis est comp. R (<hi rend="italics">sed est postea del.</hi>)</note> beati sunt.</p>
 
@@ -7025,7 +7024,7 @@ esse necesse est<note>in homine...14 necesse est <hi rend="italics">add.</hi> G<
 est autem<note>autem] enim H</note> in homine sagaci ac bona mente melius?
 eius bono fruendum est igitur, si beati esse volumus;
 bonum autem mentis est virtus; ergo hac beatam vitam
-contineri necesse est. hinc omnia, quae pulchra<note>pulcra K</note> honesta praeclara sunt, ut supra dixi, sed dicendum idem<note>id&#x1EBD;<figure/> V</note>
+contineri necesse est. hinc omnia, quae pulchra<note>pulcra K</note> honesta praeclara sunt, ut supra dixi, sed dicendum idem<note>idẽ<figure/> V</note>
 illud<note>illud <hi rend="italics">om</hi> <foreign lang="greek">s</foreign> H</note> paulo uberius videtur, plena gaudiorum sunt.
 ex perpetuis autem plenisque gaudiis cum perspicuum
 sit vitam beatam existere, sequitur ut ea existat ex<note>ex <hi rend="italics">om.</hi> V</note>
@@ -7042,7 +7041,7 @@ fingatur. primum ingenio eximio sit necesse est; tardis
 <pb id="p.435"/>
  enim mentibus virtus non facile comitatur; deinde<note>deinde] denique K</note>
 ad investigandam<note>vestigandam K</note> veritatem studio incitato. ex quo
-triplex ille animi fetus<note>fetus KR (&#x0119;) factus GV</note> existet, unus<note>I II III <hi rend="italics">ad-scribunt</hi> G<hi rend="sup">1</hi>V<hi rend="sup">1</hi></note> in cognitione rerum positus et in explicatione naturae, alter<note>aliter K</note> in discriptione expetendarum fugiendarumque rerum<note>fugiendarumque vererumne vivendi GKV (ve <hi rend="italics">exp. et</hi> <figure/>be <hi rend="italics">supra</hi> ne <hi rend="italics">scr.</hi>V<hi rend="sup">3</hi>) R<hi rend="sup">1</hi> <hi rend="italics">ut v.</hi> (fugiendarumque<figure/>rerum<figure/>. <hi rend="italics">post</hi> vivendi <hi rend="italics">quod in ras. certo dispicitur alia manus adscripscrat</hi>
+triplex ille animi fetus<note>fetus KR (ę) factus GV</note> existet, unus<note>I II III <hi rend="italics">ad-scribunt</hi> G<hi rend="sup">1</hi>V<hi rend="sup">1</hi></note> in cognitione rerum positus et in explicatione naturae, alter<note>aliter K</note> in discriptione expetendarum fugiendarumque rerum<note>fugiendarumque vererumne vivendi GKV (ve <hi rend="italics">exp. et</hi> <figure/>be <hi rend="italics">supra</hi> ne <hi rend="italics">scr.</hi>V<hi rend="sup">3</hi>) R<hi rend="sup">1</hi> <hi rend="italics">ut v.</hi> (fugiendarumque<figure/>rerum<figure/>. <hi rend="italics">post</hi> vivendi <hi rend="italics">quod in ras. certo dispicitur alia manus adscripscrat</hi>
 ue) H<hi rend="sup">1</hi> (fugiendar<figure/> <figure/>verer<figure/> nevivendi.<hi rend="italics">Verba</hi> c&umacr; ratio <hi rend="italics">ss.non</hi> H<hi rend="sup">1</hi> <hi rend="italics">sed alia manus eiusdem aetatis sec. Stroux</hi>) &lt;et in ratio&gt; ne We.bene <hi rend="italics">quod fin. 5,15 certa de causa deest add. Po. cl. ac.1, 19 fin. 5, 11. 16</hi></note> &lt;et in
 ratione be&gt;ne vivendi, tertius in iudicando,<note>in <hi rend="italics">ante</hi> iud. <hi rend="italics">om.</hi> K</note><note>iudicando nequid KRH</note> quid cuique rei sit consequens quid repugnans, in quo inest
 omnis<note>inest omnis] est H</note> cum subtilitas disserendi, tum veritas iudicandi.
@@ -7182,7 +7181,7 @@ quo<note>quod G (<hi rend="italics">exp.</hi><hi rend="sup">2</hi>)</note> quid 
 potest.<note>numquam...441, 7 sapientis (<hi rend="italics">om.</hi> 441, 12 omnia...14 potest) H</note>
 
 <milestone unit="section" n="82"/>Stoicorum quidem facilis conclusio est; qui
-cum finem bonorum esse<note>esse <hi rend="italics">om.</hi> H</note> senserint congruere<note>congru&#x0119; G<hi rend="sup">1</hi></note> naturae
+cum finem bonorum esse<note>esse <hi rend="italics">om.</hi> H</note> senserint congruere<note>congruę G<hi rend="sup">1</hi></note> naturae
 cumque ea convenienter vivere, cum id sit in sapientis<note>sapientis <hi rend="italics">Lb.</hi> sapiente</note>
 situm non officio solum, verum etiam<note>etiam <hi rend="italics">om.</hi> H</note> potestate, sequatur necesse est, ut, cuius in potestate summum bonum, in eiusdem vita beata<note>ita] ista V<hi rend="sup">1</hi></note> sit. ita fit semper vita beata
 sapientis.</p>
@@ -7306,7 +7305,7 @@ tertias,<note>tertia H</note> quod essent plane<note>plena K<hi rend="sup">1</hi
 modo, sed ne<note>ne <hi rend="italics">om.</hi> H</note> naturam quidem attingerent, funditus
 eiciendas putavit.<note>Epicurus...24 putavit H</note>
 
-<milestone unit="section" n="94"/>hoc<note>h&#x0119;c V<hi rend="sup">1</hi></note> loco<note>hodoco K<hi rend="sup">1</hi></note> multa ab Epicureis<note><hi rend="italics">fr. 440</hi></note> disputantur, eaeque<note>eaque V<hi rend="sup">1</hi></note> voluptates singillatim extenuantur,
+<milestone unit="section" n="94"/>hoc<note>hęc V<hi rend="sup">1</hi></note> loco<note>hodoco K<hi rend="sup">1</hi></note> multa ab Epicureis<note><hi rend="italics">fr. 440</hi></note> disputantur, eaeque<note>eaque V<hi rend="sup">1</hi></note> voluptates singillatim extenuantur,
 quarum genera non contemnunt, &lt;non&gt;<note><hi rend="italics">add. Bentl.</hi>
 (non <hi rend="italics">ante</hi> contemnunt <hi rend="italics">del. Mdv. ad fin. 1, 45</hi>). <hi rend="italics">agitur de volup-
 tatibus quae natura adpetuntur, non difficiles tamen ad caren-
@@ -7551,7 +7550,7 @@ sapientem fingunt po&euml;tae, numquam inducunt deplorantem
 <pb id="p.456"/>
  caecitatem suam; at vero Polyphemum Homerus cum inmanem ferumque finxisset,<note>finxisset (H?)F<foreign lang="greek">s</foreign>R <hi rend="italics">e corr.</hi> V<hi rend="sup">b</hi> fixisset X</note> cum ariete etiam
 conloquentem facit eiusque laudare fortunas, quod,
-qua<note>quod qua] quodq; V<hi rend="sup">1</hi></note> vellet, ingredi posset et, quae<note>quae] <hi rend="italics">c corr.</hi> B<hi rend="sup">1</hi><foreign lang="greek">s</foreign> quem (qu&#x1EBD;) XF</note> vellet, attingere.<note>attingeret XF
+qua<note>quod qua] quodq; V<hi rend="sup">1</hi></note> vellet, ingredi posset et, quae<note>quae] <hi rend="italics">c corr.</hi> B<hi rend="sup">1</hi><foreign lang="greek">s</foreign> quem (quẽ) XF</note> vellet, attingere.<note>attingeret XF
 <hi rend="italics">corr.</hi> <foreign lang="greek">s</foreign> (<hi rend="italics">de mendo cf. 455, 1; 429, 8 al.</hi>) attingere. et recte <hi rend="italics">Lb.</hi></note>
 recte hic quidem; nihilo enim erat ipse Cyclops quam
 aries ille prudentior.<note>prudentior ille V<hi rend="sup">b</hi> prudentior <hi rend="italics">postea add.</hi> R<hi rend="sup">1</hi></note>
@@ -7563,7 +7562,7 @@ operarii <hi rend="italics">subst.</hi>) <hi rend="italics">Dav.</hi></note>] no
 Latine. ergo hi<note>hic V</note> in illorum et illi in horum sermone
 surdi, omnesque item<note>item <hi rend="italics">Urb. 323</hi> (<hi rend="italics">s. XV</hi>)
 <hi rend="italics">Man.</hi> id X <hi rend="italics">om.</hi> F<foreign lang="greek">s</foreign></note> nos in is<note>is] his X eis F</note> linguis quas non intellegimus, quae sunt innumerabiles, surdi profecto
-sumus. <quote>at<note>at FH(?)BR e <hi rend="italics">corr.</hi></note> vocem citharoedi<note>citaroedi GV cithar&#x0119;di KH (e)</note> non audiunt</quote>.<note>aut X</note> ne<note>ne] nec K</note> stridorem quidem serrae,<note>serrae F<foreign lang="greek">s</foreign> fere X</note> tum cum acuitur, aut grunditum,<note>grunditum X <hi rend="italics">Non.</hi>
+sumus. <quote>at<note>at FH(?)BR e <hi rend="italics">corr.</hi></note> vocem citharoedi<note>citaroedi GV citharędi KH (e)</note> non audiunt</quote>.<note>aut X</note> ne<note>ne] nec K</note> stridorem quidem serrae,<note>serrae F<foreign lang="greek">s</foreign> fere X</note> tum cum acuitur, aut grunditum,<note>grunditum X <hi rend="italics">Non.</hi>
 grunnitum FR<hi rend="sup">2</hi>V<hi rend="sup">b</hi></note>
 cum iugulatur, suis<note>aut... 15 suis <hi rend="italics">Non. 114,26</hi></note> nec, cum quiescere volunt, fremitum murmurantis maris; et si cantus eos forte delectant, primum cogitare debent, ante quam hi sint inventi, multos beate vixisse sapientes, deinde multo
 maiorem percipi posse legendis his quam audiendis

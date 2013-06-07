@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -55,7 +54,7 @@
 
 <div1 type="book" n="8"><p>
 <pb/></p>
-<div2 type="CHAPTER" n="1"><p></p>
+<div2 type="CHAPTER" n="1"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">de\</lemma> answering to <foreign lang="greek">me\n</foreign> in the last sentence of <bibl n="Thuc. 7. 87. 6">bk. vii</bibl>. The subject of <hi rend="BOLD"><foreign lang="greek">h)gge/lqh</foreign></hi> is <foreign lang="greek">ta\ geno/mena</foreign> (<hi rend="ITALIC">ibid.</hi>) Thucydides did not divide the books.
 The order <hi rend="BOLD"><foreign lang="greek">e)s de\ . . . e)peidh\</foreign></hi> . . . instead of <foreign lang="greek">e)peidh\ de\ e)s</foreign> . . . brings out the opposition between the disaster <foreign lang="greek">peri\ *sikeli/an</foreign> and its effect on the Athenians at home.</p><p>
 
@@ -113,7 +112,7 @@ Thucyd. does not say that the committee consisted of ten (as is generally assume
 
 <lemma lang="greek" targOrder="U">kai\ w(s e)/docen au)toi=s, kai\ e)poi/oun tau=ta</lemma> lit. &lsquo;and when they had so decided, they also (or accordingly) proceeded to carry it out.&rsquo; <hi rend="BOLD"><foreign lang="greek">o(/mws de\ . . . probouleu/sousi</foreign></hi> gives the policy they thought best; but acting upon a resolve does not necessarily follow. Cf. <bibl n="Thuc. 2. 93">ii. 93</bibl>, <foreign lang="greek">w(s de\ e)/docen au)toi=s, kai\ e)xw/roun eu)qu/s</foreign>. So Hdt. <bibl n="Hdt. 8. 64">viii. 64</bibl>, <foreign lang="greek">w(s de/ sfi e)/doce, kai\ e)poi/eun tau=ta</foreign>. <pb n="139"/>
 </p></div3></div2>
-<div2 type="CHAPTER" n="2"><p></p>
+<div2 type="CHAPTER" n="2"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)phrme/noi h)=san</lemma> implying not merely excitement but elation and self-assertion; cf. <bibl n="Thuc. 6. 11">vi. 11</bibl>, <foreign lang="greek">pro\s ta\s tw=n e)nanti/wn tu/xas e)pai/resqai</foreign>. The allies of neither side, those of the Laced., and the subjects of Athens all have reason to pluck up activity.</p><p>
 
 <lemma lang="greek" targOrder="U">mhdete/rwn</lemma> the sense is hypothetical, <foreign lang="greek">ei)/ tines mhdet. h)=san</foreign>.</p><p>
@@ -144,7 +143,7 @@ Thucyd. does not say that the committee consisted of ten (as is generally assume
 
 <lemma lang="greek" targOrder="U">e)kei/nous au)toi\</lemma> brought together for the antithesis.
 </p></div3></div2>
-<div2 type="CHAPTER" n="3"><p></p>
+<div2 type="CHAPTER" n="3"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">eu)qu\s</lemma> not with <hi rend="BOLD"><foreign lang="greek">e)n tw=| xeimw=ni tou/tw|</foreign></hi> as Jowett renders, &lsquo;at the beginning of . . .&rsquo; This would be <foreign lang="greek">eu)qu\s a)rxome/nou tou= x. t.</foreign></p><p>
 
 <lemma lang="greek" targOrder="U">*)=agis me\n . . . *lakedaimo/nioi de\</lemma> . . . (<bibl n="Thuc. 8. 3. 2">&sect; 2</bibl>).</p><p>
@@ -181,7 +180,7 @@ The words <foreign lang="greek">kai\ xrh/mata</foreign> are an addition to <fore
 
 <lemma lang="greek" targOrder="U">kai\ e(autoi=s me\n</lemma> i.e. &lsquo;and (of these 100) . . .&rsquo;</p><p>
 
-<lemma lang="greek" targOrder="U">*boiwtoi=s . . . *fwkeu=si . . . *lokroi=s</lemma> In <bibl n="Thuc. 2. 9">ii. 9</bibl> these supply cavalry but not ships, while the Arcadians supply infantry.</p><p></p></div3></div2>
+<lemma lang="greek" targOrder="U">*boiwtoi=s . . . *fwkeu=si . . . *lokroi=s</lemma> In <bibl n="Thuc. 2. 9">ii. 9</bibl> these supply cavalry but not ships, while the Arcadians supply infantry.</p><p/></div3></div2>
 
 <div2 type="CHAPTER" n="4"><p> 1. <lemma lang="greek" targOrder="U">w(/sper dienoh/qhsan</lemma> viz. in <bibl n="Thuc. 8. 1. 3">c. 1, &sect; 3</bibl>.</p><p>
 
@@ -193,7 +192,7 @@ The particles at present may be thus arranged&mdash; <pb n="143"/>
 
 <lemma lang="greek" targOrder="U">to\ . . . tei/xisma</lemma> opposite Cythera (<bibl n="Thuc. 7. 26">vii. 26</bibl>).
 </p></div2>
-<div2 type="CHAPTER" n="5"><p></p>
+<div2 type="CHAPTER" n="5"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">o)/ntwn . . . e)n kataskeuh=|</lemma> These words are to be joined, the rest being translated &lsquo;just as if they were beginning.&rsquo; Cf. <bibl n="Thuc. 8. 14. 3">c. 14, &sect; 3</bibl>, <foreign lang="greek">e)n teixismw=| te pa/ntes h)=san kai\ paraskeuh=| pole/mou</foreign>, and <bibl n="Thuc. 2. 80">ii. 80</bibl>, <foreign lang="greek">to\ nautiko\n e)n paraskeuh=| h)=n</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">kataskeuh\</lemma> differs from <foreign lang="greek">paraskeuh\</foreign> merely as &lsquo;laying a groundwork&rsquo; from &lsquo;getting ready.&rsquo; Answering to the use here we have <bibl n="Thuc. 2. 78">ii. 78</bibl>, <foreign lang="greek">toiau/th me\n h( *plataiw=n poliorki/a kateskeua/sqh</foreign>; <bibl n="Thuc. 2. 85">ii. 85</bibl>, <foreign lang="greek">a)/llhn naumaxi/an belti/w kataskeua/zesqai</foreign>.</p><p>
@@ -240,7 +239,7 @@ As Pissuthnes has been mentioned before and Amorges not, the easiest correction 
 
 <lemma lang="greek" targOrder="U">a)poktenei=n</lemma> the future, seems a necessary correction for the <foreign lang="greek">a)poktei/nein</foreign> or <foreign lang="greek">a)poktei=nai</foreign> of MSS. That <hi rend="BOLD"><foreign lang="greek">a)poktei=nai</foreign></hi> should follow <hi rend="BOLD"><foreign lang="greek">e)no/mize</foreign></hi> in a future sense, though <hi rend="BOLD"><foreign lang="greek">poh/sein</foreign></hi> has preceded, <pb n="146"/> might perhaps be allowed to Thucydides, if we supposed him to have forgotten the precise verb with which he began, and if no infinitive had come in since <foreign lang="greek">poh/sein</foreign>. But <hi rend="BOLD"><foreign lang="greek">a)/cein</foreign></hi> so immediately precedes and proves his consciousness of <foreign lang="greek">e)no/mize</foreign>, that the combination <foreign lang="greek">a)/cein h)\ a)poktei=nai</foreign> seems out of the question. In <bibl n="Thuc. 4. 28">iv. 28</bibl> <foreign lang="greek">h(\ a)/cein zw=ntas h)\ au)tou= a)poktenei=n</foreign> is given without variant. On the question of the aorist in such sentences see Int. &sect; 2 (iii.), and Goodwin, M. and T &sect; 127. Some &lsquo;exceeding bold&rsquo; scholars would regularly substitute the future. See Shilleto's doubts on <bibl n="Thuc. 2. 3">ii. 3</bibl>, <foreign lang="greek">e)no/misan . . . krath=sai</foreign> (where all MSS. agree). In <bibl n="Thuc. 5. 22">v. 22</bibl>, <foreign lang="greek">ou)k e)/fasan de/casqai</foreign>, there is no variant.
 </p></div3></div2>
-<div2 type="CHAPTER" n="6"><p></p>
+<div2 type="CHAPTER" n="6"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">*farnaba/zw| tw=| *farna/kou</lemma>. Cf. <bibl n="Thuc. 1. 129">i. 129</bibl> (B.C. 476), <foreign lang="greek">*ce/rchs a)poste/llei *)arta/bazon to\n *farna/kou e)pi\ qa/lassan kai\ keleu/ei au)to\n th/n te *daskuli=tin satrapei/an paralabei=n k.t.l.</foreign>; <bibl n="Thuc. 2. 67">ii. 67</bibl> (B.C. 430), <foreign lang="greek">poreuqh=nai pe/ran tou= *(ellhspo/ntou w(s *farna/khn to\n *farnaba/zou</foreign>. So <bibl n="Thuc. 5. 1">v. 1</bibl> (B.C. 422) Pharnaces is in command of Atramyttium. From these passages it appears that the names had of late alternated (as with the Athenians), Pharnabazus&mdash;Pharnaces&mdash;Pharnabazus; and also that the satrapy was hereditary.</p><p>
 
 <lemma lang="greek" targOrder="U">komi/seian</lemma> &lsquo;bring&rsquo; for him, not for themselves; hence active. <hi rend="BOLD"><foreign lang="greek">o(/rws</foreign></hi> of course depends upon <foreign lang="greek">pe/myantos</foreign>.</p><p>
@@ -281,7 +280,7 @@ Arnold's statement that &lsquo;Alcibiades was the surname to every Endius and En
 
 <lemma lang="greek" targOrder="U">e)/pempon</lemma> note the tense; it appears afterwards that he did not yet start.
 </p></div3></div2>
-<div2 type="CHAPTER" n="7"><p></p>
+<div2 type="CHAPTER" n="7"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">eu)qu\s</lemma>, not with <foreign lang="greek">e)peigome/nwn</foreign> (which would mean &lsquo;immediately that they pressed them&rsquo;), but with the sentence.
 <foreign lang="greek"><hi rend="BOLD">e)peigome/nwn,</hi> e)peigo/ntwn</foreign> Schol. The middle in the sense of &lsquo;<hi rend="ITALIC">getting</hi>&rsquo; the matter urged on. The active does not appear to be used with the infinitive in this way. <foreign lang="greek">e)pei/gesqai/ ti</foreign> (<bibl n="Thuc. 3. 2">iii. 2</bibl>, etc.) is &lsquo;to press a thing on in one's own interest&rsquo;; so <foreign lang="greek">e)pei/gesqai</foreign> (<foreign lang="greek">w(/ste</foreign>) <foreign lang="greek">a\postei=lai au)tou\s ta\s nau=s</foreign>. Cf. Hom. Od. x<bibl n="Thuc. 3. 29">iii. 29</bibl>&mdash;
 <foreign lang="greek">polla\ pro\s h)e/lion kefalh\n tre/pe pamfano/wnta, du=nai e)peigo/menos</foreign> (&lsquo;eager that <hi rend="ITALIC">it</hi> should set&rsquo;).</p><p>
@@ -298,7 +297,7 @@ Arnold's statement that &lsquo;Alcibiades was the surname to every Endius and En
 
 <lemma lang="greek" targOrder="U">tw=n cummaxikw=n</lemma> &lsquo;the total number of ships belonging to the allied <hi rend="ITALIC">contingents.</hi>&rsquo; Kruger compares <bibl n="Xen. Cyrop. 3. 3. 12">Xen. Cyr. iii. 3, 12</bibl>, <foreign lang="greek">e)di/dasken h)=| e(/kaston i)sxuro\n h)=n tw=n summaxikw=n. ta\ cummaxika\</foreign> are the collective <foreign lang="greek">cummaxiko\n</foreign> (cf. <foreign lang="greek">to\ nautiko/n, to\ pezo/n</foreign>, etc.) looked at in its several components. Classen accepts the reading <foreign lang="greek">cummaxi/dwn</foreign>, understanding <foreign lang="greek">po/lewn</foreign>. This ellipse requires support and there is plainly none in <hi rend="ITALIC">e.g.</hi> <bibl n="Thuc. 2. 2. 1">ii. 2, &sect; 1</bibl>. Why should not Thuc. rather have written <foreign lang="greek">ai( cu/mpasai cummaxi/des nh=es</foreign>?
 </p></div3></div2>
-<div2 type="CHAPTER" n="8"><p></p>
+<div2 type="CHAPTER" n="8"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">u(pe\r tou= *farnaba/zou k.t.l.</lemma>. Construe <foreign lang="greek">ou)k e)koinou=nto u(pe\r tou= *f. to\n sto/lon</foreign>, i.e. they refused to let Pharn. be represented in the matter. <hi rend="BOLD"><foreign lang="greek">e)s th\n *xi/on</foreign></hi> may be taken with the sense of the sentence, but it is more Thucydidean to join it with the verbal noun <foreign lang="greek">sto/lon</foreign> (=<foreign lang="greek">to\n e)s th\n *xi/on</foreign>). Cf. <bibl n="Thuc. 1. 110">i. 110</bibl>, <foreign lang="greek">ta\ me\n kata\ th\n mega/lhn stratei/an *)aqhnai/wn e)s *ai)/gupton ou(/tws e)teleu/thse</foreign>. <pb n="149"/></p><p>
 
 <lemma lang="greek" targOrder="U">e)koinou=nto</lemma> This is the less supported reading; but <foreign lang="greek">e)koinwnou=nto</foreign> would require the genitive. <foreign lang="greek">koinwnei=n tini/ tinos</foreign> is the regular construction, though a contained accus. is found with the active in Eur. El. 1048, <foreign lang="greek">fo/non e)koinw/nhse/ moi</foreign>. The middle does not occui, and though the passage of Euripides may give some dubious warrant for <foreign lang="greek">e)koinw/noun ti</foreign>, it gives none for <foreign lang="greek">e)koinwnou=nto/ ti</foreign>. MSS. vary again in <bibl n="Thuc. 8. 48 .3">c. 48, &sect; 3</bibl>, <foreign lang="greek">e)koinw/nhsan</foreign> and <foreign lang="greek">e)koi/nwsan</foreign>. For <foreign lang="greek">koinou=sqai</foreign> with accus. cf. inf. <bibl n="Thuc. 8. 75. 3">c. 75, &sect; 3</bibl>, <foreign lang="greek">ta\ a)pobhso/mena cunekoinw/santo</foreign>, and Eur. Ion 608, <foreign lang="greek">koinoume)/nh ta\s sumfora/s</foreign>.</p><p>
@@ -328,7 +327,7 @@ Arnold's statement that &lsquo;Alcibiades was the surname to every Endius and En
 
 <lemma lang="greek" targOrder="U">w(s de\ . . . kai\</lemma> . . . Cf. c. 1 (end).
 </p></div3></div2>
-<div2 type="CHAPTER" n="9"><p></p>
+<div2 type="CHAPTER" n="9"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">au)tw=n</lemma>, the allied states.</p><p>
 
 <lemma lang="greek" targOrder="U">ou) prou)qumh/qhsan</lemma> &lsquo;desired not to &lt;*&gt;.&rsquo; Cf.  <foreign lang="greek">ou)/ fhmi, ou) bou/lomai</foreign>, etc.</p><p>
@@ -350,7 +349,7 @@ Literally &lsquo;they found Agis quite eager that, while <hi rend="ITALIC">they<
 
 <lemma lang="greek" targOrder="U">oi( d' o)li/goi kai\ cuneido/tes</lemma> &lsquo;while the oligarchical party, who were in the plot, . . .&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="10"><p></p>
+<div2 type="CHAPTER" n="10"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U"><hi rend="BOLD">e)phgge/lqhsan ga/r.</hi> ai( spondai\</lemma> of some books was not read by the Scholiast, who notes <foreign lang="greek">ai( spondai\ dhlo/noti</foreign>. The subject is apparently <foreign lang="greek">ta\ *)/isqmia</foreign>, or rather <foreign lang="greek">ai( *)isqmia/des spondai/</foreign> implied in it. Cf. <bibl n="Thuc. 5. 49">v. 49</bibl>, <foreign lang="greek">le/gontes mh\ e)phgge/lqai pw e)s *lakedai/mona ta\s sponda/s</foreign>. For the plural verb cf. <bibl n="Thuc. 5. 75">v. 75</bibl>, <foreign lang="greek">*ka/rneia e)tu/gxanon o)/nta</foreign>; <bibl n="Thuc. 1.126">i. 126</bibl>, <foreign lang="greek">e)peidh\ e)ph=lqon *)olu/mpia</foreign>. Mr. J. Riddell referred the notion to the plurality of the spectacles.
 The announcement was made by <foreign lang="greek">spondofo/roi</foreign>, <bibl n="Aeschin. 2.133">Aesch. De F. Leg. &sect; 302</bibl>, <foreign lang="greek">oi( spondofo/roi oi( ta\s musthriwti/das sponda\s e)pagge/llontes</foreign>. Grote (c. lxi. note) supposes the parenthesis to imply that the invitation was in the circumstances unusual and noticeable. This does not sufficiently appear from the passage.
 An alternative construction is to understand <foreign lang="greek">oi( *)aqhnai=oi</foreign> as the subject of <foreign lang="greek">e)phgge/lqhsan</foreign> by an extension of the passive use, which use is certainly not very strict in Greek. Thus the notion <foreign lang="greek">e)pagge/llousin au)tou\s parei=nai</foreign> may result in a passive <foreign lang="greek">e)pagge/llontai</foreign>, &lsquo;they have the summons conveyed to them.&rsquo; The position of the words makes rather for this rendering. <pb n="152"/></p><p>
@@ -377,7 +376,7 @@ There was another place called <foreign lang="greek">to\ *pei/raion</foreign> in
 
 <lemma lang="greek" targOrder="U">au)tw=n</lemma> &lsquo;of themselves,&rsquo; i.e. the Athenians. The position guards the meaning.
 </p></div3></div2>
-<div2 type="CHAPTER" n="11"><p></p>
+<div2 type="CHAPTER" n="11"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)s to\ nhsi/dion</lemma>. Stahl's <hi rend="BOLD"><foreign lang="greek">ti</foreign></hi> is not good. The article is anticipative, the knowledge of the existence of such an island being assumed. Cf. <bibl n="Thuc. 8. 21. 1">c. 21 (init.)</bibl> and note on <foreign lang="greek">e)/ti</foreign>, <bibl n="Thuc. 8. 36. 2">c 36, &sect; 2</bibl>. The island was one of the <foreign lang="greek">*pe/lopos nh=soi</foreign> and is now called Ovrionisi.
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">*parh=san ga\r kai\.</lemma> <foreign lang="greek">kai\</foreign> is suggested by the mention of <foreign lang="greek">boh/qeian</foreign>. &lsquo;The Pelop. <hi rend="ITALIC">on their side</hi> had reinforcements.&rsquo;</p><p>
@@ -392,8 +391,8 @@ There was another place called <foreign lang="greek">to\ *pei/raion</foreign> in
 
 <lemma lang="greek" targOrder="U">prw=ton</lemma> with <foreign lang="greek">a(pto/menoi</foreign>, like <foreign lang="greek">eu)qu/s</foreign>, &lsquo;at their very first dealing with . . .&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="12"><p></p>
-<div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)poknh=sai to\n plou=n</lemma>. Cf. <bibl n="Thuc. 3. 20">iii. 20</bibl>, <foreign lang="greek">a)pw/knhsan</foreign> <foreign lang="greek">to\n ki/ndunon</foreign>. The acc. after the simple <foreign lang="greek">o)knei=n</foreign> is rare and poetical; the principle of it is the same as in <foreign lang="greek">ou)de/na pw/pote ki/ndunon e)ce/sthsan</foreign> (Dem. 460 [10]). Cf. <bibl n="Thuc. 8. 1. 1">c. 1, &sect; 1</bibl>, <foreign lang="greek">cumproqumhqei=si to\n e)/kploun</foreign>.</p><p></p></div3>
+<div2 type="CHAPTER" n="12"><p/>
+<div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)poknh=sai to\n plou=n</lemma>. Cf. <bibl n="Thuc. 3. 20">iii. 20</bibl>, <foreign lang="greek">a)pw/knhsan</foreign> <foreign lang="greek">to\n ki/ndunon</foreign>. The acc. after the simple <foreign lang="greek">o)knei=n</foreign> is rare and poetical; the principle of it is the same as in <foreign lang="greek">ou)de/na pw/pote ki/ndunon e)ce/sthsan</foreign> (Dem. 460 [10]). Cf. <bibl n="Thuc. 8. 1. 1">c. 1, &sect; 1</bibl>, <foreign lang="greek">cumproqumhqei=si to\n e)/kploun</foreign>.</p><p/></div3>
 
 <div3 type="SECTION" n="2"><p><lemma lang="greek" targOrder="U">di' e)kei/nou</lemma>, sc. Alcibiades.
 There are two possible interpretations&mdash;
@@ -415,7 +414,7 @@ The former is the better, the construction being less strained. In the sense (<h
 
 <lemma lang="greek" targOrder="U">ai( loipai\</lemma> by partitive apposition takes up the construction begun with <foreign lang="greek">a)polhfqei=sai</foreign>. Strictly we should have <foreign lang="greek">a)polhfqeisw=n kai\ kopeisw=n</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="14"><p></p>
+<div2 type="CHAPTER" n="14"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">o(/sois t'</lemma>. This implies a following <foreign lang="greek">kai\</foreign> which shall continue the idea of stealth in their approach. &lsquo;They both arrested all those they met, and also . . . (adopted other means of concealment).&rsquo; The other means are stated in <hi rend="BOLD"><foreign lang="greek">kai\ prosb. *kwru/kw| k.t.l.</foreign></hi> (instead of sailing direct to Chios).</p><p>
 
 <lemma lang="greek" targOrder="U">tou= mh\</lemma> Cf. <bibl n="Thuc. 1. 4">i. 4</bibl>, <foreign lang="greek">to\ lhstiko\n kaqh/rei e)k th=s qala/sshs tou= ta\s proso/dous ma=llon i)e/nai au)tw=|</foreign>, <bibl n="Thuc. 5. 27">v. 27</bibl>, etc. The gen. is causal. The construction is not of the commonest in classical Greek. Cf. Latin <foreign lang="la">conservandae libertatis,</foreign> etc.</p><p>
@@ -445,7 +444,7 @@ Cf. Antiphon, 769 (142), <foreign lang="greek">ei)/ ti de/oi tw=| xorw=|</foreig
 The laxity lies in the position of the words <foreign lang="greek">e)k th=s nhsi=dos</foreign>.
 [Stahl would seek to ease (as he thinks) the construction by reading <foreign lang="greek">proanaxw/rhsin</foreign> in apposition to <foreign lang="greek">*poli/xnan</foreign> and dependent on <foreign lang="greek">e)tei/xizon</foreign>. He compares <bibl n="Thuc. 1. 90">i. 90</bibl>, <foreign lang="greek">th\n *peloro/nnhson . . . i(kanh\n . . . a)naxw/phsi/n te kai\ a)fopmh/n</foreign>. Far easier would be a conjecture <foreign lang="greek">proanaxwph=sai</foreign>. The const. <foreign lang="greek">dei= tini</foreign> with infin. is rare, but certainly Greek. Cf. <bibl n="Xen. Anab. 3. 4. 35">Xen. Anab. iii. 4, 35</bibl>, <foreign lang="greek">dei= e)pisa)cai to\n i(/ppon *pe/rsh| a)ndri/</foreign>; Eur. Hipp. 941, etc. No such change, however, is needed.]
 </p></div3></div2>
-<div2 type="CHAPTER" n="15"><p></p>
+<div2 type="CHAPTER" n="15"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">a)ggeli/a th=s *xi/ou</lemma>. Cf. <bibl n="Thuc. 1. 61">i. 61</bibl>, <foreign lang="greek">h)=lqe de\ h( a)ggeli/a tw=n po/lewn o(/ti a)festa=sin</foreign>; Soph. Aj. 221, <foreign lang="greek">e)dh/lwsas a)ndro\s ai)/qwnos a)ggeli/an</foreign>; Hom. Od. <bibl n="Thuc. 1. 408">i. 408</bibl>, etc. So <foreign lang="greek">lo/gos, mu=qos, ba/cis tino/s</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">th=s megi/sths</lemma> with a qualification, <bibl n="Thuc. 8. 40. 1">c. 40, &sect; 1</bibl>, <foreign lang="greek">th/n megi/sthn <hi rend="BOLD">tw=n e)n *)iwni/a|</hi> cummaxi/dwn po/lewn</foreign>. In <bibl n="Thuc. 8. 6. 4">c. 6, &sect; 4</bibl>, Chios has sixty ships.</p><p>
@@ -477,7 +476,7 @@ At the same time we can never be sure that Thucydides narrates every change in t
 
 <lemma lang="greek" targOrder="U">o)li/gon e)pra/sseto ou)de\n</lemma> Cf. <bibl n="Thuc. 2. 8">ii. 8</bibl>, <foreign lang="greek">o)li/gon e)peno/oun ou)de\n a)mfo/teroi</foreign>; <bibl n="Thuc. 7. 59">vii. 59</bibl>, <foreign lang="greek">o)li/gon ou)de\n e)s ou)de\n e)peno/oun</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="16"><p></p>
+<div2 type="CHAPTER" n="16"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">*sa/mon</lemma>, subjugated by the Athenians after a revolt, in B.C. 439.</p><p>
 
 <lemma lang="greek" targOrder="U">*te/wn</lemma> The inhabitants are <foreign lang="greek">*th/ioi. *te/ws: *th/ios lew/s: lh/iton:. new/s: nh/ios</foreign>, by quantitative metathesis from the stem <foreign lang="greek">*ta_v</foreign>.</p><p>
@@ -511,10 +510,10 @@ The genitive may also be joined <foreign lang="greek">a)po\ koinou=</foreign> wi
 
 <lemma lang="greek" targOrder="U">u(/parxos</lemma> A satrapy was further divided into provinces under <foreign lang="greek">u(/parxoi</foreign> (cf. governor and governor-general). Cf. <bibl n="Thuc. 8. 31. 2">c. 31, &sect; 2</bibl>, <foreign lang="greek">*tamw/s, *)iwni/as u(/parxos</foreign>; and <bibl n="Thuc. 8. 108. 4">c. 108, &sect; 4</bibl>, <foreign lang="greek">*)arsa/kou tou= *pe/rsou, *tissafe/rnous u(pa/rxou</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="17"><p></p>
+<div2 type="CHAPTER" n="17"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)n *xi/w| katalimpa/nousin</lemma>, to secure the loyalty of the Chians (Poppo).</p><p>
 
-<lemma lang="greek" targOrder="U">*mi/lhton</lemma> which had joined the Athenian confederacy not long after the battle of Mycale (B.C. 479). In B.C. 440 Miletus had appealed to Athens against Samos.</p><p></p></div3>
+<lemma lang="greek" targOrder="U">*mi/lhton</lemma> which had joined the Athenian confederacy not long after the battle of Mycale (B.C. 479). In B.C. 440 Miletus had appealed to Athens against Samos.</p><p/></div3>
 
 <div3 type="SECTION" n="2"><p><lemma lang="greek" targOrder="U">ta\s a)po\ th=s *p. nau=s</lemma>. In <bibl n="Thuc. 8. 6. 4">c. 6, &sect; 4</bibl>, the Lacedaemonians first agree to send forty ships. In <bibl n="Thuc. 8. 7. 1">c. 7</bibl> there were thirty-nine ships of the allied contingents at Corinth, and it was decided to send these. Twenty-one are carried over the Isthmus, one is lost, and twenty are now blockaded in Peiraeum. Five ships have been prepared in Laconia and sent already.</p><p>
 
@@ -533,7 +532,7 @@ The genitive may also be joined <foreign lang="greek">a)po\ koinou=</foreign> wi
 
 <lemma lang="greek" targOrder="U">dia\ *tiss. kai\ *xal.</lemma> with <foreign lang="greek">e)ge/neto</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="18"><p></p>
+<div2 type="CHAPTER" n="18"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)/stw</lemma> the singular, since the words <foreign lang="greek">kai\ po/leis</foreign> are closely joined to <foreign lang="greek">xw/ran</foreign> in the sense &lsquo;territory, <hi rend="ITALIC">including</hi> cities.&rsquo;
 The terms are very degrading to the Greeks. See the improvement in <bibl n="Thuc. 8. 58. 1">c. 58</bibl>, and the argument of Lichas, <bibl n="Thuc. 8. 52. 1">c. 52.</bibl></p><p>
 
@@ -545,7 +544,7 @@ The terms are very degrading to the Greeks. See the improvement in <bibl n="Thuc
 </p></div3>
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">o)/ntwn</lemma>. The forms in <foreign lang="greek">-wsan</foreign> do not appear on Attic inscriptions till about B.C. 300. Metrical data are also against them.
 </p></div3></div2>
-<div2 type="CHAPTER" n="19"><p></p>
+<div2 type="CHAPTER" n="19"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">de/ka e(te/ras</lemma>. In <bibl n="Thuc. 8. 17. 1">c. 17, &sect; 1</bibl>, Chalcideus mans his own five ships and twenty others with Chians. A different fleet of ten is now manned.</p><p>
 
 <lemma lang="greek" targOrder="U">*)/anaia</lemma> on the mainland opposite (and in a way commanding) Samos. Cf. <bibl n="Thuc. 4. 75">iv. 75</bibl>, <foreign lang="greek">w(/sper ta\ *)/anaia e)pi\ th=| *samw|</foreign>.
@@ -567,7 +566,7 @@ The terms are very degrading to the Greeks. See the improvement in <bibl n="Thuc
 <lemma lang="greek" targOrder="U">*le/bedon</lemma> one of the oldest and most flourishing Ionian cities; cf. Hdt. <bibl n="Hdt. 1. 142.3">i. 142</bibl>. Its subsequent desertion (Hor. Ep. i. 11, 7) was due to its destruction by Lysimachus (Paus. <bibl n="Paus. 7. 3">vii. 3</bibl>, 2).
 <foreign lang="greek"><hi rend="BOLD">*ai)pa/s,</hi> poli/xnion *thi/wn</foreign> (Strabo, p. 644).
 </p></div3></div2>
-<div2 type="CHAPTER" n="20"><p></p>
+<div2 type="CHAPTER" n="20"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">katadiwxqei=sai to/te</lemma>, &lsquo;which had been driven in there at the time I have mentioned,&rsquo; viz. <bibl n="Thuc. 8. 10. 3">c. 10, &sect; 3</bibl>. This use of <hi rend="BOLD"><foreign lang="greek">to/te</foreign></hi> is frequent in Thucydides: cf. <bibl n="Thuc. 8. 23. 4">c. 23, &sect; 4,</bibl> etc.</p><p>
 
 <lemma lang="greek" targOrder="U">e)n</lemma> goes with the combined notion <foreign lang="greek">katad. - to/te - kai\ e)formou/menai</foreign> (=<foreign lang="greek">e)nou=sai a(/te katadiwxqei=sai k.t.l.</foreign>)</p><p>
@@ -589,7 +588,7 @@ In <bibl n="Thuc. 8. 6. 5">c. 6</bibl> Melanchridas is <foreign lang="greek">nau
 
 <lemma lang="greek" targOrder="U">ou)k e)la/mbane</lemma> &lsquo;was making no progress in taking.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="21"><p></p><div3 type="SECTION" n="1"><p> 
+<div2 type="CHAPTER" n="21"><p/><div3 type="SECTION" n="1"><p> 
  <lemma lang="greek" targOrder="U">h(</lemma>, anticipatory or assumptive, or &lsquo;the well-known.&rsquo; Cf. <bibl n="Thuc. 8. 11. 1">c. 11, &sect; 1,</bibl> <foreign lang="greek">to\ nhsi/dion</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">e)pana/stasis toi=s dunatoi=s</lemma> the verbal noun with the case of the verb. Cf. <bibl n="Thuc. 1. 73">i. 73</bibl>, <foreign lang="greek">a)ntilogi/an toi=s u(mete/rois cumma/xois</foreign>; <bibl n="Plat. Rep. 444b">Plat. Rep. 444 B</bibl>, <foreign lang="greek">e)pana/stasin me/rous tino\s tw=| o(/lw|</foreign>.</p><p>
@@ -616,7 +615,7 @@ In <bibl n="Thuc. 8. 6. 5">c. 6</bibl> Melanchridas is <foreign lang="greek">nau
 
 <lemma lang="greek" targOrder="U">e)s e)kei/nous</lemma> with <foreign lang="greek">e)kdou=nai</foreign>, the order being a chiasmus. Cf. <bibl n="Plat. Rep. 360e">Plat. Rep. 360 E,</bibl> <foreign lang="greek">ta/ te a)du/nata kai\ ta\ dunata\ diaisqa/netai kai\ toi=s me\n</foreign> (sc. <foreign lang="greek">toi=s dunatoi=s</foreign>) <foreign lang="greek">e)pixeirei=, ta\ de\</foreign> (sc. <foreign lang="greek">ta\ a/du/nata</foreign>) <foreign lang="greek">e)a=|</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="22"><p></p>
+<div2 type="CHAPTER" n="22"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">w(/sper h)/rcanto</lemma>, <bibl n="Thuc. 8. 19. 1">c. 19 (init.)</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">proqumi/as</lemma> &lsquo;<foreign lang="la">ab</foreign> <foreign lang="greek">ou)de\n</foreign> <foreign lang="la">pendet</foreign>&rsquo; (P.) <foreign lang="greek">a)polei/pein</foreign> with genitive does not occur in positive sentences. <pb n="164"/></p><p>
@@ -638,7 +637,7 @@ In <bibl n="Thuc. 8. 6. 5">c. 6</bibl> Melanchridas is <foreign lang="greek">nau
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">*mh/qumnan . . . *mutilh/nhn</lemma>. For the past favourable relations of the former with Athens see <bibl n="Thuc. 3. 2">iii. 2</bibl>, <bibl n="Thuc. 3. 18">18</bibl>, <bibl n="Thuc. 3. 50">50, </bibl><bibl n="Thuc. 6. 85">vi. 85</bibl>, <bibl n="Thuc. 7. 57">vii. 57</bibl>; and for the unfavourable treatment of the latter, <bibl n="Thuc. 3. 50">iii. 50</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="23"><p></p>
+<div2 type="CHAPTER" n="23"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">te/ssarsi nausi\n</lemma>, though there were twenty at Cenchreae when he joined them.</p><p>
 
 <lemma lang="greek" targOrder="U">w(/sper w(/rmhto</lemma> &lsquo;as he had proposed,&rsquo; implying that no accident changed his plans or prevented their execution. Cf. <foreign lang="greek">w(/sper e)/pleon</foreign>, inf. <bibl n="Thuc. 8. 23. 3">&sect; 3.</bibl> For the meaning of the word cf <bibl n="Thuc. 8. 8. 2">c. 8, &sect; 2,</bibl> <foreign lang="greek">w(rmhme/nous</foreign>; <bibl n="Thuc. 8. 11. 3">c. 11, &sect; 3,</bibl> <foreign lang="greek">w(rmhme/nwn</foreign>.</p><p>
@@ -679,7 +678,7 @@ In <bibl n="Thuc. 8. 6. 5">c. 6</bibl> Melanchridas is <foreign lang="greek">nau
 
 <lemma lang="greek" targOrder="U">*dafnou=nta</lemma> unknown except from this place, and <bibl n="Thuc. 8. 31. 2">c. 31, &sect; 2</bibl> (where it is seen to be situated inland). <pb n="167"/>
 </p></div3></div2>
-<div2 type="CHAPTER" n="24"><p></p>
+<div2 type="CHAPTER" n="24"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">oi(/ t'</lemma>, answered by <foreign lang="greek">kai\ *le/wn k.t.l.</foreign>, <bibl n="Thuc. 8. 24. 2">&sect; 2</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">tai=s ei)/kosi</lemma> In <bibl n="Thuc. 8. 17. 3">c. 17, &sect; 3</bibl>, they are nineteen.</p><p>
@@ -731,7 +730,7 @@ Cf. <bibl n="Thuc. 1. 18">i. 18</bibl>, <foreign lang="greek">pro\ tw=n *mhdikw=
 
 <lemma lang="greek" targOrder="U">h(su/xasan</lemma> For aorist cf. <foreign lang="greek">e)swfro/nhsan</foreign>, <bibl n="Thuc. 8. 24. 4">&sect; 4.</bibl> Of the two courses open they chose to check any desire for action.
 </p></div3></div2>
-<div2 type="CHAPTER" n="25"><p></p>
+<div2 type="CHAPTER" n="25"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tou\s ga\r pentakosi/ous</lemma>. Not a specified or understood 500, but as in <bibl n="Thuc. 8. 15. 1">c. 15, &sect; 1,</bibl> <foreign lang="greek">ta\s . . . o)ktw/</foreign> (q.v.).
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">*milh/sioi</lemma>, subsequently rather illogically divided by &lsquo;partitive apposition&rsquo; (<foreign lang="greek">sxh=ma kaq' o(/lon kai\ me/ros</foreign>) into <hi rend="BOLD"><foreign lang="greek">au)toi/ te . . . kai\ oi( . . . kai\ *t. . . . kai\ au)to\s</foreign></hi> . . .</p><p>
@@ -754,7 +753,7 @@ Cf. <bibl n="Thuc. 1. 18">i. 18</bibl>, <foreign lang="greek">pro\ tw=n *mhdikw=
 
 <lemma lang="greek" targOrder="U">a)\n . . . prosxwrh=sai</lemma> The MSS. with one exception have <foreign lang="greek">prosxwrh/sein</foreign>. See Introduction, &sect; 2 (iii.) Goodwin, M. and T. &sect; 208. In <bibl n="Thuc. 4. 69">iv. 69</bibl>, <foreign lang="greek">*ni/saian perieteixizon nomi/zontes, ei e)ce/loien, qa=sson a)\n kai\ ta\ *me/gara prosxwrh=sai</foreign>, but in <bibl n="Thuc. 2. 80">ii. 80</bibl> almost all MSS. give <foreign lang="greek">nomi/zontes, ei) tau/thn prw/thn la/boien, r(a|di/ws a)\n sfi/si ta)=lla prosxwrh/sein</foreign> (two MSS. omit <foreign lang="greek">a)\n</foreign>). Cf. <bibl n="Thuc. 6. 66">vi. 66</bibl>, and inf. <bibl n="Thuc. 8. 71. 1">c. 71, &sect; 1</bibl>, where by far the most MS. authority is for <foreign lang="greek">a)\n h(suxa/sein</foreign>. It does not seem reasonable, in view of the almost constant variants in <foreign lang="greek">-sai, -sein</foreign>, to retam the future, nor can <foreign lang="greek">a)\n</foreign> well be treated as <hi rend="ITALIC">consopitum</hi> with the adverb <foreign lang="greek">r(a|di/was</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="26"><p></p>
+<div2 type="CHAPTER" n="26"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">peri\ dei/lhn h)/dh o)yi/an</lemma>. The afternoon is either <foreign lang="greek">prwi+/a</foreign> or <foreign lang="greek">o)yi/a</foreign>. In <bibl n="Thuc. 4. 69">iv. 69</bibl> and <bibl n="Thuc. 4. 103">103</bibl> <foreign lang="greek">peri\ dei/lhn</foreign> alone = <foreign lang="greek">p. d. prwi+/an</foreign>. <bibl n="Xen. Anab. 2. 2. 14">Xen. An. ii. 2, 14</bibl>, <foreign lang="greek">a)mfi\ dei/lhn</foreign> is opposed to <foreign lang="greek">o)ye/</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">ta\s a)po\ k.t.l.</lemma> The article does not in sense go immediately with <foreign lang="greek">pe/nte kai\ penth/konta</foreign>. Certain ships were expected from Peloponncsus and Sicily; this the article implies: the numeral states in what number the expected ships came, not the expected number.</p><p>
@@ -773,7 +772,7 @@ Cf. <bibl n="Thuc. 1. 18">i. 18</bibl>, <foreign lang="greek">pro\ tw=n *mhdikw=
 
 <lemma lang="greek" targOrder="U">periidei=n a)poteixisqei=san</lemma> Goodwin (M. and T. (old edit.) &sect; 24, note 2) says &lsquo;the aor. part. seems to express merely a momentary action, the time being the same that the aor. <pb n="172"/> infin. would denote if it were used in its place.&rsquo; Rather perhaps the aorist participle gives a vivid realisation or anticipation of the thing as if accomplished, while the present pictures it as being done. In a literal rendering such an expression as &lsquo;do not neglect us <hi rend="ITALIC">having been</hi> destroyed (<foreign lang="greek">diafqare/ntas</foreign>)&rsquo; differs much logically from &lsquo;do not neglect us in <hi rend="ITALIC">the act of being</hi> destroyed (<foreign lang="greek">diafqeirome/nous</foreign>)&rsquo;; but the substitution of the former expression in the sense of the latter is only the result of nimble imagination. It = &lsquo;do not let the time come when we <hi rend="ITALIC">shall have been</hi> destroyed without intervention by you.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="27"><p></p>
+<div2 type="CHAPTER" n="27"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)/mellon bohqh/sein</lemma>, sc. by sailing round.</p><p>
 
 <lemma lang="greek" targOrder="U">u(pomei/nantas</lemma> Cf. <bibl n="Thuc. 4. 30">iv. 30</bibl>, <foreign lang="greek">tw=n stratiwtw=n a)nagkasqe/ntwn . . . prosi/sxontas a)ristopoiei=sqai</foreign>. Herwerden and others would write <foreign lang="greek">u(pomei/nantes</foreign>, comparing <bibl n="Thuc. 8. 104. 4">c. 104, &sect; 4</bibl>, <foreign lang="greek">e)peigome/nwn tw=n *peloponnhsi/wn . . . u(persxo/ntes . . . a)poklh=|sai</foreign>. The objective and subjective constructions appear to be both possible Greek. See Shilleto on <bibl n="Thuc. 1. 136">i. 136</bibl>. <foreign lang="greek">u(pomei/nantas</foreign>=&lsquo;that their men, their side, should, etc.&rsquo;</p><p>
@@ -818,7 +817,7 @@ The double <hi rend="BOLD"><foreign lang="greek">ou)k</foreign></hi> goes thus, 
 
 <lemma lang="greek" targOrder="U">pro\s o)rgh\n</lemma> also in <bibl n="Thuc. 2. 65">ii. 65</bibl>, Dem. 1251, etc. For the genitive with <foreign lang="greek">o)rgh\</foreign> cf. <bibl n="Aesch. Ag. 70">Aesch. Ag. 70</bibl>, <foreign lang="greek">a)pu/rwn i(erw=n o)rga/s</foreign>, and in Latin Livy xx. i. 2, <foreign lang="la">ob iram interfecti domini.</foreign>
 </p></div3></div2>
-<div2 type="CHAPTER" n="28"><p></p>
+<div2 type="CHAPTER" n="28"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pikata/gontai</lemma>, &lsquo;come to land <hi rend="ITALIC">after</hi> (the Athenians have sailed).&rsquo; Cf. <bibl n="Thuc. 3. 49">iii. 49</bibl>, <foreign lang="greek">u(ste/ra au)th=s e)pikata/getai</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">ta\s *xi/as nau=s</lemma> In <bibl n="Thuc. 8. 17. 3">c. 17, &sect; 3</bibl>, Chalcideus and Alcibiades, with five Peloponnesian ships manned by Chians and twenty Chian ships, are pursued by the Athenians.</p><p>
@@ -854,9 +853,9 @@ The double <hi rend="BOLD"><foreign lang="greek">ou)k</foreign></hi> goes thus, 
 <div3 type="SECTION" n="5"><p> <lemma lang="greek" targOrder="U">e)s . . . kaqista=sin</lemma>, &lsquo;appoint him to Miletus,&rsquo; sc. <foreign lang="greek">a)/rxonta</foreign>, on the analogy of <foreign lang="greek">kaqista/nai tina\ e)s a)rxh/n</foreign> (Lys. 120 [5]).</p><p>
 
 <lemma lang="greek" targOrder="U">au)tou=</lemma> P-S writes <foreign lang="greek">au)toi\</foreign> on the ground that <foreign lang="greek">e)s t. *m. au)to/se</foreign> or <foreign lang="greek">e)n th=| *m. au)tou=</foreign> would be right, and any other combination wrong. <foreign lang="greek">au)toi\</foreign> is then their act as opposed to the appointment of Pedaritus made by the Lacedaemonians at home.
-But the Peloponnesians at Miletus despatch Pedaritus by land to Erythrae, while <hi rend="ITALIC">on the spot</hi> they make P. governor in Miletus. The supposed difficulty of <foreign lang="greek">au)tou=</foreign> is removed by taking <foreign lang="greek">kaqista=sin e)s</foreign> as a conventional phrase for to &lsquo;put in charge of,&rsquo; implying not motion but investiture. <foreign lang="greek">au)tou=</foreign> refers to their own position while they act, not to the position into which P. is to be placed, i.e. <foreign lang="greek">au/tou=</foreign> belongs to <foreign lang="greek">o( kaqista/s</foreign>, not to <foreign lang="greek">o( kaqista/menos</foreign>. &lsquo;There, at Miletus, they appoint to Miletus.&rsquo;</p><p></p></div3></div2>
+But the Peloponnesians at Miletus despatch Pedaritus by land to Erythrae, while <hi rend="ITALIC">on the spot</hi> they make P. governor in Miletus. The supposed difficulty of <foreign lang="greek">au)tou=</foreign> is removed by taking <foreign lang="greek">kaqista=sin e)s</foreign> as a conventional phrase for to &lsquo;put in charge of,&rsquo; implying not motion but investiture. <foreign lang="greek">au)tou=</foreign> refers to their own position while they act, not to the position into which P. is to be placed, i.e. <foreign lang="greek">au/tou=</foreign> belongs to <foreign lang="greek">o( kaqista/s</foreign>, not to <foreign lang="greek">o( kaqista/menos</foreign>. &lsquo;There, at Miletus, they appoint to Miletus.&rsquo;</p><p/></div3></div2>
 
-<div2 type="CHAPTER" n="29"><p></p>
+<div2 type="CHAPTER" n="29"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">katesth/sato e)s fulakh/n</lemma>. Herwerden and Stahl omit <foreign lang="greek">e)s</foreign>, and compare <bibl n="Thuc. 8. 62. 3">c. 62, &sect; 3</bibl>, <foreign lang="greek">*shsto\n kaqi/stato frou/rion kai\ fulakh\n tou= panto\s *(ellhspo/ntou</foreign>. But for what reason is Iasus a suitable <foreign lang="greek">fulakh\</foreign> in the sense in which Sestos is so on the Hellespont? And could the important genitive corresponding to <foreign lang="greek">*(ellhspo/ntou</foreign> be dispensed with? The natural sense is similar <pb n="177"/> to that of <bibl n="Thuc. 8. 1. 3">c. 1, &sect; 3</bibl>, <foreign lang="greek">e)s a)sfa/leian poei=sqai</foreign>; <bibl n="Isoc. L. 2.5">Isoc. 107 (123)</bibl>, <foreign lang="greek">ei)s a)sfa/leian kaqista/nai</foreign>. The middle is sufficiently defended either by the self-interest of the action, or by the meaning &lsquo;he <hi rend="ITALIC">got it</hi> (or &lsquo;<hi rend="ITALIC">had it</hi>&rsquo;) put under garrison.&rsquo;</p><p>
 
 <lemma lang="greek" targOrder="U">w(/sper u(pe/sth</lemma> <bibl n="Thuc. 8. 5. 5">c. 5, &sect; 5</bibl>, <foreign lang="greek">u(pisxnei=to trofh\n pare/cein</foreign> (the rate is not specified).</p><p>
@@ -877,7 +876,7 @@ I venture to write, in the first sentence, <hi rend="BOLD"><foreign lang="greek"
 
 <lemma lang="greek" targOrder="U">w(mologh/qhsan</lemma> The plural is determined by the neighbouring <hi rend="BOLD"><foreign lang="greek">trei=s o)boloi\</foreign>,</hi> though the true subject is <foreign lang="greek"><hi rend="BOLD">ple/on</hi> h)\ trei=s o)boloi/</foreign>. The expression is not equivalent to <foreign lang="greek">o)boloi\ plei=n: h)\ trei=s</foreign>, inasmuch as the excess is only a fraction. The plurality of the obols rather than the singular of the aggregate sum determines the number of the verb.
 </p></div3></div2>
-<div2 type="CHAPTER" n="30"><p></p>
+<div2 type="CHAPTER" n="30"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">toi=s . . . *)aqhnai/ois</lemma>. Grammatically the dative depends on <hi rend="BOLD"><foreign lang="greek">prosafigme/nai h)=san</foreign>.</hi> Jowett's opinion that it depends on some such intended expression as <foreign lang="greek">e)/docen e)formei=n</foreign>, with the construction subsequently changed, is disproved by <pb n="179"/> such instances as <bibl n="Thuc. 1. 72">i. 72</bibl> (init.), <foreign lang="greek">tw=n de\ *)aqhnai/wn e)/tuxe ga\r presbei/a pro/teron e)n th=| *lakedai/moni peri\ a)/llwn parou=sa, kai\ w(s h)/|sqonto tw=n lo/gwn e)/docen au)toi=s k.t.l.</foreign>, where Shilleto renders &lsquo;as there was an embassy . . . so, etc.&rsquo; Cf. <bibl n="Thuc. 1. 115">i. 115</bibl>, <foreign lang="greek">tw=n de\ *sami/wn h)=san ga/r tines oi(\ ou)x u(pe/menon a)ll' e)/fugon ei)s th\n h)/peiron. cunqe/menoi k.t.l.</foreign> Nor is such syntax confined to Thucydides; cf. <bibl n="Hdt. 9. 109">Hdt. ix. 109</bibl>, <foreign lang="greek">th=| de\ kakw=s ga\r e)/dee gene/sqai, ei)=pe k.t.l. ga\r</foreign> in such sentences takes the force of <foreign lang="greek">e)pei\</foreign>, as so commonly in <foreign lang="greek">a)lla\ . . . ga\r</foreign>: &lsquo;During the following winter, <hi rend="ITALIC">as</hi> the Athenians had received reinforcements, they were of a mind, etc.&rsquo; (= <foreign lang="greek">e)pei\ toi=s *)aqhnai/ois prosafigme/nai h)=san . . ., e)bou/lonto</foreign>). Accepting this idiom as sufficiently common, we find the chief difficulty in the <hi rend="BOLD"><foreign lang="greek">kai\</foreign></hi> before <foreign lang="greek">ta\s a)po\ *xi/ou</foreign>. The passage quoted from <bibl n="Thuc. 1. 72">i. 72</bibl> is almost precisely similar, but Shilleto's rendering cannot disguise the fact that it is anacoluthic. Here <foreign lang="greek">kai\ cunagago/ntes</foreign> is written as if the previous clause had run <foreign lang="greek">oi( *)aqhnai=oi prosafigme/nas e)/xontes k.t.l.</foreign>, &lsquo;having reinforcements and having gathered . . .&rsquo; But <hi rend="BOLD"><foreign lang="greek">kai\ oi)/koqen</foreign></hi> also helps and answers to <hi rend="BOLD"><foreign lang="greek">kai\ ta\s a)po\ *xi/ou</foreign>,</hi> the words <hi rend="BOLD"><foreign lang="greek">kai\ strathgoi\ . . . *eu)kth/mwn</foreign></hi> being parenthetical (as the otherwise impossible omission of <foreign lang="greek">nau=s</foreign> with <foreign lang="greek">ta\s a)po\ *xi/ou</foreign> shows). The whole literally = &lsquo;as there had arrived additional ships <hi rend="ITALIC">from home</hi> to the number of thirty-five (Charminus, etc., being in command of them), and having collected those from Chios and all the rest . . .&rsquo; [No alteration of the passage should be attempted by a critic familiar with Thucydides, but, if logical ease is desired at the expense of other considerations, it might be most natural to emend <hi rend="BOLD"><foreign lang="greek">ga\r h)=san</foreign></hi> to <hi rend="BOLD"><foreign lang="greek">parh=san</foreign>,</hi> which would make the sentence normal by the smallest possible change.]</p><p>
 
 <lemma lang="greek" targOrder="U">strathgoi\</lemma> The Athenians had no special term for admirals as distinguished from land-officers.</p><p>
@@ -899,7 +898,7 @@ I venture to write, in the first sentence, <hi rend="BOLD"><foreign lang="greek"
 <lemma lang="greek" targOrder="U">e)pi/ploun e)poiou=nto</lemma> &lsquo;proceeded to make descent upon.&rsquo; Kruger's <foreign lang="greek">e)pi/plous</foreign> gives a different force to <foreign lang="greek">e)poiou=nto</foreign>.
 [The accuracy of Thucydides in details may be gathered from his enumeration of these ships. In <bibl n="Thuc. 8. 15. 1">c. 15</bibl> there are eight ships under Strombichides and twelve under Thrasycles. In <bibl n="Thuc. 8. 19. 1">c. 19</bibl> Diomedon arrives with sixteen ships, in <bibl n="Thuc. 8. 23. 1">c. 23</bibl> Leon with ten more. In <bibl n="Thuc. 8. 25. 1">c. 25</bibl> there come forty-eight ships including transports. In <bibl n="Thuc. 8. 30. 1">c. 30</bibl> these are all collected and thirty-five more ships arrive from Athens. The total with no deductions should be 8+12+16+10+35+48 (including <foreign lang="greek">o(plitagwgoi/</foreign>), i.e. 129. Here we find 104 ships and some transports. The difference of twenty-five is to be aceounted for by the <foreign lang="greek">o(plitagwgoi/</foreign>, and by the number required to take back the 1500 Argives (<bibl n="Thuc. 8. 27. 1">c. 27</bibl>, fin.)].
 </p></div3></div2>
-<div2 type="CHAPTER" n="31"><p></p>
+<div2 type="CHAPTER" n="31"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">to/t'</lemma>, &lsquo;as above stated,&rsquo; viz. <bibl n="Thuc. 8. 24. 6">c. 24, &sect; 6</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">dia\ th\n prodosi/an</lemma> i.e. the <hi rend="ITALIC">threatened</hi> treachery (<hi rend="ITALIC">ibid.</hi>)</p><p>
@@ -920,7 +919,7 @@ I venture to write, in the first sentence, <hi rend="BOLD"><foreign lang="greek"
 
 <lemma lang="greek" targOrder="U">e)sbalo/menoi</lemma> Cf. <foreign lang="greek">e)cei/lonto</foreign>, <bibl n="Thuc. 8. 28. 1">c. 28, &sect; 1</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="32"><p></p>
+<div2 type="CHAPTER" n="32"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">au)=qis</lemma>, as they had done in <bibl n="Thuc. 8. 22. 1">c. 22</bibl>. 
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">to/te</lemma>, viz. <bibl n="Thuc. 8. 28. 5">c. 28, &sect; 5</bibl>.</p><p>
@@ -933,7 +932,7 @@ Nevertheless it is safer, despite one's doubts, not to wholly displace this obje
 
 <lemma lang="greek" targOrder="U">ta\s nau=s . . . tw=n *xi/wn</lemma> Pedaritus could apparently make this refusal. He was appointed governor of Chios by the Lacedaemonians (<bibl n="Thuc. 8. 28. 5">c. 28, &sect; 5</bibl>) and had, in regard to Chios, some independence of the nanarch.
 </p></div3></div2>
-<div2 type="CHAPTER" n="33"><p></p>
+<div2 type="CHAPTER" n="33"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">ta/s te tw=n *korinqi/wn pe/nte</lemma>, &lsquo;the Corinthian ships, which were five in number.&rsquo; These form part of the ten ships of <bibl n="Thuc. 8. 31. 1">c. 31, &sect; 1</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">*lakwnika\s</lemma> i.e. three of the four ships which had come with him from Cenchreae (<bibl n="Thuc. 8. 23. 1">c. 23, &sect; 1</bibl>) were Laconian. The other may have been the Hermionian.</p><p>
@@ -955,7 +954,7 @@ In <hi rend="BOLD"><foreign lang="greek">e)k tou= e)pi\ qa/tera lo/fou</foreign>
 
 <lemma lang="greek" targOrder="U">a(/pan . . . profasisqe/n</lemma> &lsquo;finding the whole matter had been a piece of trickery in order to get the men's deliverance from Samos,&rsquo; i.e. they had pretended to be ready to act as traitors and had thus managed to get let off. Join <hi rend="BOLD"><foreign lang="greek">swthri/a| e)k th=s *sa/mou</foreign>,</hi> as in <bibl n="Thuc. 7. 70">vii. 70</bibl>, <foreign lang="greek">th=s e)s th\n patri/da swthri/as</foreign> (P-S).
 </p></div3></div2>
-<div2 type="CHAPTER" n="34"><p></p>
+<div2 type="CHAPTER" n="34"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">e)k tou= *kwru/kou periple/ousa kat' *)argi=non. kat'</lemma> <hi rend="BOLD"><foreign lang="greek">*)argi=non</foreign></hi> might be taken with either <hi rend="BOLD"><foreign lang="greek">periple/ousa</foreign></hi> or <hi rend="BOLD"><foreign lang="greek">e)pitugxa/nei</foreign>.</hi> The former seems the better. Translate &lsquo;while, sailing from Corycus, they were turning the point of Arginum,&rsquo; i.e. <foreign lang="greek">e)k tou= *k. ple/ousa kai\ kat' *)argi=non periple/ousa</foreign>. The <foreign lang="greek">paraple/ousa</foreign> of P-S is not a good suggestion, since it is the sudden turning (<foreign lang="greek">peri-</foreign>) which brings them upon the Chian ships. Jowett strangely renders &lsquo;sailing <hi rend="ITALIC">round Corycus</hi> from their station on the south side of it and <hi rend="ITALIC">making for</hi> the promontory of Arginus.&rsquo; But it is clear from what follows that the Chian ships were in the waters running north and south between Chios and the mainland. The Athenian ships, coming from Corycus, sail suddenly upon them from the south-east round the promontory of Arginum.</p><p>
 
 <lemma lang="greek" targOrder="U">kai\ w(/sper ei)=xon i)do/ntes e)pedi/wkon</lemma> This appears the most satisfactory reading to be gathered from the discrepant MSS. &lsquo;They joined in the pursuit just as they happened to be (situated) when they first caught sight of them&rsquo;, or, &lsquo;and when they caught sight of them, they joined in the pursuit <hi rend="ITALIC">straightway.</hi>&rsquo; The Athenian ships did not start in pursuit all together, nor in a systematic way, but as quickly as each could from the place at which, as it rounded the point, it sighted the <pb n="184"/> enemy. <hi rend="BOLD"><foreign lang="greek">e)pedi/wkon</foreign></hi> is better than the simple verb; some began to pursue <hi rend="ITALIC">after</hi> others, to <hi rend="ITALIC">join in</hi> the chase.</p><p>
@@ -970,7 +969,7 @@ In <hi rend="BOLD"><foreign lang="greek">e)k tou= e)pi\ qa/tera lo/fou</foreign>
 
 <lemma lang="greek" targOrder="U">to\n teixismo/n</lemma> the anticipatory article; cf. <bibl n="Thuc. 8. 11. 1">c. 11, &sect; 1</bibl>. The reference is to the fortification in Chios (at Delphinium) mentioned inf. <bibl n="Thuc. 8. 38. 2">c. 38, &sect; 2</bibl>. Though this intended fortification has not been mentioned before, yet in <bibl n="Thuc. 8. 30. 1">c. 30, &sect; 1</bibl> this particular force is, to operate upon Chios, and a <foreign lang="greek">teixismo/s</foreign> of the sort at Deceleia was a natural proceeding. <foreign lang="greek">e)piteixismo\n</foreign> would be more definite (<bibl n="Thuc. 7. 18">vii. 18</bibl>, <bibl n="Thuc. 1. 142">i. 142</bibl>). &lsquo;They began to make preparations for <hi rend="ITALIC">their</hi> post of occupation.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="35"><p></p>
+<div2 type="CHAPTER" n="35"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">*qouri/ais</lemma>. Thurii was a lately founded and very mixed colony of Magna Graecia. In <bibl n="Thuc. 7. 33">vii. 33</bibl> (B.C. 413) Thurii is divided into two factions, for and against Athens. The latter faction was expelled. The position must have been subsequently reversed.</p><p>
 
 <lemma lang="greek" targOrder="U">*dwrieu\s</lemma> a Rhodian mentioned as Olympian victor (<bibl n="Thuc. 3. 8">iii. 8</bibl>). Cf. <bibl n="Xen. Hell. 1. 5. 19">Xen. Hell. i. 5, 19</bibl>, <foreign lang="greek">*dwrie/a o)/nta me\n *(ro/dion pa/lai de\ fuga/da e)c *)aqhnw=n kai\ *(ro/dou u(p' *)aqhnai/wn kateyhfisme/nwn au)tou= qa/naton k.t.l.</foreign> He had retired to Thurii, Pausan. <bibl n="Paus. 6. 7. 2">vi. 7, 2.</bibl>,</p><p>
@@ -989,7 +988,7 @@ In <hi rend="BOLD"><foreign lang="greek">e)k tou= e)pi\ qa/tera lo/fou</foreign>
 </p></div3>
 <div3 type="SECTION" n="3"><p><lemma lang="greek" targOrder="U">a)teixi/stw| ou)/sh|</lemma>. Cf. <bibl n="Thuc. 8. 31. 3">c. 31, &sect; 3</bibl>; <bibl n="Thuc. 8. 41. 2">c. 41, &sect; 2</bibl>; <bibl n="Thuc. 8. 44. 2">c. 44, &sect; 2</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="36"><p></p>
+<div2 type="CHAPTER" n="36"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">e)/ti</lemma>, anticipating the contrary state of things in <bibl n="Thuc. 8. 46. 5">c. 46, &sect; 5</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">diarpasqe/nta</lemma> For the position of the attributive see on <foreign lang="greek">prosballou/sas</foreign>, <bibl n="Thuc. 8. 35. 2">c. 35, &sect; 2</bibl>.</p><p>
@@ -1004,14 +1003,14 @@ In <hi rend="BOLD"><foreign lang="greek">e)k tou= e)pi\ qa/tera lo/fou</foreign>
 
 <lemma lang="greek" targOrder="U">e)poi/oun</lemma> not intended for <foreign lang="greek">e)poiou=nto. e)poiou=nto cunqh/kas</foreign> would = <foreign lang="greek">cuneti/qento</foreign>, but <foreign lang="greek">e)poi/oun c.</foreign> = &lsquo;they <hi rend="ITALIC">constructed</hi> another set of agreements.&rsquo; The subsequent adoption of them is implied. In <bibl n="Thuc. 5. 76">v. 76</bibl>, <foreign lang="greek">sponda\s poh/santes pro\s tou\s *l. kai\ cummaxi/an</foreign>, the <pb n="186"/> meaning is &lsquo;bringing about,&rsquo; since it is used of a party seeking to engage the whole. So <bibl n="Thuc. 5. 32">v. 32</bibl> and 38. In <bibl n="Thuc. 2. 15">ii. 15</bibl>, <foreign lang="greek">e(orth\n poiou=si</foreign>, Shilleto renders &lsquo;appoint.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="37"><p></p>
+<div2 type="CHAPTER" n="37"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tou\s pai=das tou\s basile/ws</lemma>. Artaxerxes and Cyrus (<bibl n="Xen. Anab. 1. 1. 1">Xen. Anab. i. 1, 1</bibl>).
 </p></div3>
 <div3 type="SECTION" n="4"><p> <lemma lang="greek" targOrder="U">kata/lusin</lemma>, sc. <foreign lang="greek">tou= pole/mou</foreign>.
 </p></div3>
 <div3 type="SECTION" n="5"><p> <lemma lang="greek" targOrder="U">e)n th=| basile/ws xw/ra| h)\ o(/shs a)/rxei</lemma>. A comprehensive phrase, probably without real distinction, but intended to guard against a breach of the contract on the part of Persia, which might occur where an empire was extensive and adherence loose. Some outlying dependency of Persia might assail the Peloponnesians, and they wish to force the king's hand, leaving him no excuse for not assisting. Persia must either assist or declare that the attacking state is no part of its empire. Grote (c. lxi. note) supposed the former part of the expression to mean the continent of Asia, and the latter &lsquo;as much as the satraps should find it convenient to lay hands upon of that which had belonged to Darius Hystaspes and Xerxes.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="38"><p></p>
+<div2 type="CHAPTER" n="38"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)fani/zetai</lemma>, &lsquo;is lost to sight&rsquo; = &lsquo;is never seen again.&rsquo; The tense of <hi rend="BOLD"><foreign lang="greek">a)pople/wn</foreign></hi> (not <foreign lang="greek">a)popleu/sas</foreign>) should be noted. Of unexplained disappearance also <bibl n="Thuc. 4. 80">iv. 80</bibl>, <foreign lang="greek">h)fa/nisa/n te au)tou\s kai\ ou)dei\s h)/|sqeto o(/tw| tro/pw| e(/kastos diefqa/rh</foreign>. In more definite circumstances <bibl n="Xen. Hell. 1. 6. 33">Xen. Hell. i. 6, 33</bibl>, <foreign lang="greek">*kallikrati/das e)mbalou/shs th=s new\s a)popesw\n ei)s th\n qa/lattan h)fani/sqh</foreign>.
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">*delfi/nion</lemma>. Captured by the Lacedaemonians in <bibl n="Xen. Hell. 1. 5. 15">Xen. Hell. i. 5, 15</bibl> (B.C. 407). The modern Delfino marks the site at about seven miles north of the city of Chios.</p><p>
@@ -1042,7 +1041,7 @@ Of <hi rend="BOLD"><foreign lang="greek">a)ntana/gein</foreign></hi> (though not
 
 <lemma lang="greek" targOrder="U">a)naxwrou=ntes</lemma> Gender <foreign lang="la">ad sensum,</foreign> and iterative imperfect tense: for <foreign lang="greek">a)nexw/roun kai\ h(su/xazon</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="39"><p></p>
+<div2 type="CHAPTER" n="39"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tw=| *farnaba/zw|</lemma>, <hi rend="ITALIC">v.</hi> <bibl n="Thuc. 8. 6. 1">c. 6, &sect; 1</bibl>; c. <bibl n="Thuc. 8. 8. 1">8, &sect; 1</bibl>. 
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">cumbou/lous</lemma>. Arnold compares similar advisers sent by Sparta, <bibl n="Thuc. 2. 85">ii. 85</bibl>, <bibl n="Thuc. 3. 76">iii. 76</bibl>, <bibl n="Thuc. 5. 63">v. 63</bibl> (where there are ten).</p><p>
@@ -1067,7 +1066,7 @@ Of <hi rend="BOLD"><foreign lang="greek">a)ntana/gein</foreign></hi> (though not
 
 <lemma lang="greek" targOrder="U">tou= cumparakomisqh=nai</lemma> &lsquo;so that they might be <hi rend="ITALIC">convoyed to join</hi> them,&rsquo; or &lsquo;so that they might be <hi rend="ITALIC">convoyed along</hi> (the coast) to Miletus.&rsquo; With the latter force of <hi rend="BOLD"><foreign lang="greek">para-</foreign></hi> cf. <bibl n="Thuc. 6. 44">vi. 44</bibl>, <foreign lang="greek">parekomi/zonto th\n *)itali/an</foreign>. For the construction cf. <bibl n="Thuc. 8. 14. 1">c. 14, &sect; 1</bibl>, <foreign lang="greek">tou= mh\ e)ca/ggeltoi gene/sqai</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="40"><p></p>
+<div2 type="CHAPTER" n="40"><p/>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">kai\ mia=| ge po/lei k.t.l. kai\</lemma> is corrective, &lsquo;and indeed . . .,&rsquo; &lsquo;nay.&rsquo; The statement should perhaps be taken relatively, <hi rend="ITALIC">i e.</hi> most slaves in proportion to the population. Grote refers to Athenaeus vi. 265, where Theopompus (circ. 333 B.C.) is quoted as saying <foreign lang="greek">*xi=oi prw=toi tw=n *(ellh/nwn meta\ *qettalou\s kai\ *lakedaimoni/ous e)xrh/santo dou/lois</foreign>, with the difference that <foreign lang="greek">*xi=oi barba/rous ke/kthntai tou\s oi)ke/tas kai\ timh\n au)tw=n kataba/llontes</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">xalepwte/rws kolazo/menoi</lemma> &lsquo;being punished more severely.&rsquo; Cf. <bibl n="Thuc. 3. 46">iii. 46</bibl>, <foreign lang="greek">xalepw=s timwrei=sqai. xalepw/teron</foreign> would suggest &lsquo;with more difficulty.&rsquo;
@@ -1080,7 +1079,7 @@ Of <hi rend="BOLD"><foreign lang="greek">a)ntana/gein</foreign></hi> (though not
 
 <lemma lang="greek" targOrder="U">w(/rmhto</lemma> &lsquo;was minded.&rsquo; Cf. <bibl n="Thuc. 8. 11. 3">c. 11, &sect; 3</bibl>; <bibl n="Thuc. 8. 23. 1">c. 23, &sect; 1</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="41"><p></p>
+<div2 type="CHAPTER" n="41"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)sfalw=s</lemma>, etc., i.e. he did not wish to begin by creating a prejudice against himself in their minds.</p><p>
 
 <lemma lang="greek" targOrder="U">a)fei\s to\ e)s th\n *xi/on</lemma> &lsquo;abandoning the expedition to Chios.&rsquo; We should not supply <foreign lang="greek">plei=n</foreign>, nor indeed any Greek word. Thucydides might have written <foreign lang="greek">to\ th=s *xi/ou</foreign>, &lsquo;the matter of Chios&rsquo;; but, as the matter was an expedition thither, <foreign lang="greek">e)s th\n *xi/on</foreign> takes the place of the genitive.
@@ -1101,7 +1100,7 @@ Of <hi rend="BOLD"><foreign lang="greek">a)ntana/gein</foreign></hi> (though not
 
 <lemma lang="greek" targOrder="U">*su/mhn kai\ *xa/lkhn</lemma> islands near to, and N. and W.N.W. respectively of, Rhodes. The latter was also called <foreign lang="greek">*xalkei/a</foreign>, which fact suggests the accentuation <foreign lang="greek">*xalkh=n</foreign>. <pb n="190"/>
 </p></div3></div2>
-<div2 type="CHAPTER" n="42"><p></p>
+<div2 type="CHAPTER" n="42"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pe/plei</lemma>, &lsquo;sailed <hi rend="ITALIC">on.</hi>&rsquo; For another meaning see <bibl n="Thuc. 8. 39. 1">c. 39, &sect; 1.</bibl></p><p>
 
 <lemma lang="greek" targOrder="U">pri\n e)/kpustos gene/sqai</lemma> rather represents &lsquo;<foreign lang="la">priusquam hostes</foreign> <hi rend="ITALIC"><foreign lang="la">cognoscerent</foreign></hi>&rsquo; than &lsquo;<foreign lang="la">priusquam</foreign> <hi rend="ITALIC"><foreign lang="la">cognoverunt</foreign>.</hi>&rsquo;</p><p>
@@ -1113,7 +1112,7 @@ This defeat of Charminus forms matter for a jest in <bibl n="Aristoph. Thes. 803
 </p></div3>
 <div3 type="SECTION" n="4"><p> <lemma lang="greek" targOrder="U">*(alikarnasso/n</lemma>, the chief city of Caria. It was evidently now friendly to Athens.
 </p></div3></div2>
-<div2 type="CHAPTER" n="43"><p></p>
+<div2 type="CHAPTER" n="43"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">pa/sais</lemma>, originally seventy-four in number (<bibl n="Thuc. 8. 30. 2">c. 30, &sect; 2</bibl>), but now reduced to sixty-eight through losses at Syme (<bibl n="Thuc. 8. 42. 4">c. 42, &sect; 4</bibl>).</p><p>
 
 <lemma lang="greek" targOrder="U">ou)d' e)kei=noi e)p' e)kei/nous</lemma> A parenthetical clause without strict grammar, for <foreign lang="greek">ou)d' e). e)p' e)k. w(/rmhsan</foreign> or <foreign lang="greek">ou)d' e)kei/nwn e)p' e)kei/nous o)rmhsa/ntwn</foreign>. It would be easy, but not desirable, to suggest <foreign lang="greek"><hi rend="BOLD">w)s</hi> ou)d' e)kei=noi k.t.l.</foreign> On <foreign lang="greek">e)kei=nos</foreign> as the emphatic pronoun <hi rend="ITALIC">v.</hi> <bibl n="Thuc. 8. 12. 2">c. 12, &sect; 2</bibl>. &lsquo;Nor <hi rend="ITALIC">they</hi> against <hi rend="ITALIC">them.</hi>&rsquo;</p><p>
@@ -1143,7 +1142,7 @@ Meanwhile the Athenian fleet at Samos consists of sixtyeight ships, and their ot
 
 <lemma lang="greek" targOrder="U">di' o)rgh=s</lemma> = <foreign lang="greek">o)rgizo/menos</foreign>. Cf. <foreign lang="greek">dia\ fulakh=s</foreign>, <bibl n="Thuc. 8. 39. 3">c. 39, &sect; 3</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="44"><p></p>
+<div2 type="CHAPTER" n="44"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pikhrukeuome/nwn</lemma>. Either (1) impersonal passive, &lsquo;proposals being made to them&rsquo;: cf. <bibl n="Thuc. 1. 116">i. 116</bibl>, <foreign lang="greek">e)saggelqe/ntwn o(/ti ai( nh=es ple/ousi</foreign>, where, however, Shilleto should be seen, and where the passive is not the passive of a deponent (for which passives see Jelf, &sect; 386); or (2) understand <foreign lang="greek">tinw=n</foreign>: cf. <bibl n="Thuc. 1. 3">i. 3</bibl>, <foreign lang="greek">e)pagome/nwn</foreign> (sc. <foreign lang="greek">tinw=n</foreign>) <foreign lang="greek">au)tou\s e)s ta\s a)/llas po/leis</foreign>; <bibl n="Dem. 18.322">Dem. 332</bibl>, <foreign lang="greek">ou)k a)peilou/ntwn ou)k e)paggellome/nwn ou)damw=s e)gw\ prode/dwka</foreign>. The second manner is probably the better. To separate <hi rend="BOLD"><foreign lang="greek">a)ndrw=n</foreign></hi> from <hi rend="BOLD"><foreign lang="greek">dunatwta/twn</foreign></hi> and make it the subject of the participle (with Dobree) seems out of the question.</p><p>
 
 <lemma lang="greek" targOrder="U">tw=n dunatwta/twn</lemma> the leaders of the oligarchical party. Cf. <bibl n="Thuc. 8. 21. 1">c. 21</bibl>.</p><p>
@@ -1165,7 +1164,7 @@ Rhodes had been obliged to contribute to Athens a contingent against Sicily (<bi
 </p></div3>
 <div3 type="SECTION" n="4"><p> <lemma lang="greek" targOrder="U">du/o kai\ tria/konta ta/lanta</lemma>, i.e. at the rate of a talent for every three ships.
 </p></div3></div2>
-<div2 type="CHAPTER" n="45"><p></p>
+<div2 type="CHAPTER" n="45"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)nasth=nai</lemma>, &lsquo;changed their quarters.&rsquo; Cf. <bibl n="Thuc. 1. 87">i. 87</bibl>, <foreign lang="greek">a)nasth/tw e)s e)kei=no to\ xwri/on</foreign>. Enr. Heracl 59, etc.</p><p>
 
 <lemma lang="greek" targOrder="U">w(/st' a)poktei=nai, h)=n ga\r k.t.l.</lemma> <bibl n="Plut. Alc. 24. 2">Plutarch, Alc. 24</bibl>, <foreign lang="greek">o( d' *)=agis e)xqro\s me\n u(ph=rxen au)tw=| dia\ th\n gunai=ka kakw=s peponqw/s, h)/xqeto de\ kai\ th=| do/ch: . . . tw=n d' a)/llwn *spartiatw=n oi( dunatw/tatoi kai\ filotimo/tatoi to\n *)alk. h)/dh e)baru/nonto dia\ fqo/non. i)/sxusan ou)=n kai\ diepra/canto tou\s oi)/koqen a)/rxontas e)pistei=lai pro\s *)iwni/an, o(/pws a)poktei/nwsin au)to/n</foreign>.</p><p>
@@ -1218,7 +1217,7 @@ Rhodes had been obliged to contribute to Athens a contingent against Sicily (<bi
 </p></div3>
 <div3 type="SECTION" n="6"><p> <lemma lang="greek" targOrder="U">a)pe/faine . . . feido/menon . . . a)podw/sein</lemma>. Cf. <bibl n="Thuc. 2. 13">ii. 13</bibl>, <foreign lang="greek">a)pe/faine d' e)/xon to\ a)/galma tessara/konta ta/lanta staqmo\n xrusi/ou a)pe/fqou kai\ periaireto\n ei)=nai a(/pan</foreign>. Here <foreign lang="greek">feido/menon</foreign> represents a fact and <foreign lang="greek">a)podw/sein</foreign> an assertion. 
 </p></div3></div2>
-<div2 type="CHAPTER" n="46"><p></p>
+<div2 type="CHAPTER" n="46"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">komi/santa h)\ nau=s *foini/ssas</lemma>, as if <foreign lang="greek">h)\ *(/ellhnas plei/ous</foreign> were to follow. The expression, however, is varied, and strictly <hi rend="BOLD"><foreign lang="greek">h)\</foreign></hi> should in consequence have been transposed before <hi rend="BOLD"><foreign lang="greek">komi/santa</foreign>.</hi>
 We learn more of these Phoenician ships (147 in number) in c. 87. Phoenicia came into the Persian empire under Cambyses (circ. 529 B.C.) and remained more or less loosely attached till the conquest by Alexander. The Phoenician was the most important contingent at the battle of Lade (B.C. 494), and played a large part at Salamis (B.C. 480).</p><p>
 
@@ -1276,7 +1275,7 @@ The exact words of Alcibiades would thus be <foreign lang="greek">a)po\ de\ u(mw
 
 <lemma lang="greek" targOrder="U">a)gwniei=sqai</lemma> The subject is not that of <hi rend="BOLD"><foreign lang="greek">h(/cein</foreign>,</hi> but <foreign lang="greek">au)tou\s</foreign> (the Pelop.) or <foreign lang="greek">sfei=s</foreign> (&lsquo;their side&rsquo;).
 </p></div3></div2>
-<div2 type="CHAPTER" n="47"><p></p>
+<div2 type="CHAPTER" n="47"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tw=| *tissafe/rnei</lemma>, the dat. depends on <hi rend="BOLD"><foreign lang="greek">a)/rista ei)=nai</foreign>.</hi> </p><p>
 
 <lemma lang="greek" targOrder="U">w)\n par' e)kei/nois</lemma> Alcibiades was not literally with the king. Yet, residing with Tissaphernes at the local headquarters of the Persians, and being indirectly adviser to the king, he may be said to be living with &lsquo;them.&rsquo;</p><p>
@@ -1303,7 +1302,7 @@ The exact words of Alcibiades would thus be <foreign lang="greek">a)po\ de\ u(mw
 
 <lemma lang="greek" targOrder="U">w(/rmhnto</lemma> Cf. <bibl n="Thuc. 8. 11. 3">c. 11, &sect; 3</bibl>, <foreign lang="greek">w(rmhme/nwn</foreign>, etc.
 </p></div3></div2>
-<div2 type="CHAPTER" n="48"><p></p>
+<div2 type="CHAPTER" n="48"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">u(potei/nontos . . . poh/sein</lemma>. Cf. <bibl n="Hdt. 7. 158">Hdt. vii. 158</bibl>, <foreign lang="greek">u(potei/nontos ta\ e)mpo/ria suneleuqerou=n</foreign>; <bibl n="Dem. 23.14">Dem. 625 (14)</bibl>, <foreign lang="greek">u(potei/nein u(posxe/seis</foreign>; <bibl n="Aristoph. Ach. 657">Arist. Ach. 657</bibl>, <foreign lang="greek">ou) qwpeu/wn ou)d' u(potei/nwn misqou/s</foreign>. This use, of suggesting hopes, is similar to that of <foreign lang="greek">u(poti/qhmi</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">au)toi/ q' e(autoi=s</lemma> These words go closely with <hi rend="BOLD"><foreign lang="greek">e)lpi/das ei)=xon</foreign>,</hi> while <hi rend="BOLD"><foreign lang="greek">e)s e(autou\s</foreign></hi> is part of a phrase with <hi rend="BOLD"><foreign lang="greek">peripoh/sein</foreign>.</hi> Moreover, <foreign lang="greek">au)toi/ q' e(autoi=s</foreign> is in contrast with <foreign lang="greek">kai\ tw=n polemi/wn</foreign> . . . Thus we have no mere pleonasm: &lsquo;they entertained great hopes <hi rend="ITALIC">both for themselves personally</hi> (to wit that they would get the control of affairs <hi rend="ITALIC">into their own hands</hi>), <hi rend="ITALIC">and also</hi> that they would overcome the enemy.&rsquo; There was in this new proposal a double chance (1) to get power for themselves, (2) to crush the Peloponnesians.</p><p>
@@ -1375,7 +1374,7 @@ The only objection to this rendering, which the grammatical structure seems to r
 
 <lemma lang="greek" targOrder="U">tw=n a)p' *)alk. kai\ e)n tw=| paro/nti prassome/nwn</lemma> &lsquo;of the <pb n="207"/> proposals of Alc. and the present negotiations.&rsquo; <hi rend="BOLD"><foreign lang="greek">tw=n</foreign></hi> is not repeated because <hi rend="BOLD"><foreign lang="greek">kai\ . . . prassome/nwn</foreign></hi> is merely exegetical.
 </p></div3></div2>
-<div2 type="CHAPTER" n="49"><p></p>
+<div2 type="CHAPTER" n="49"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">oi( cullege/ntes tw=n e)n th=| cunwmosi/a|</lemma>. It is agreed that <hi rend="BOLD"><foreign lang="greek">cummaxi/a|</foreign></hi> of MSS. cannot be defended, and at least the sense is given by Haacke's <hi rend="BOLD"><foreign lang="greek">cunwmosi/a|</foreign>,</hi> about which the only difficulty lies in accounting for the corruption. In <bibl n="Thuc. 8. 39. 2">c. 39, &sect; 2</bibl>; <bibl n="Thuc. 8. 33. 1">c. 33, &sect; 1</bibl>; <bibl n="Thuc. 8. 85. 1">c 85, &sect; 1</bibl>, there are variant misreadings of <foreign lang="greek">naumaxi/a</foreign> for <foreign lang="greek">nauarxi/a</foreign>. If in such obvious instances a confusion of the kind could occur, a corresponding confusion of <foreign lang="greek">cummaxi/a|</foreign> for <hi rend="BOLD"><foreign lang="greek">cunarxi/a|</foreign></hi> is quite probable in one less obvious. <foreign lang="greek">oi( cullege/ntes tw=n e)n th=| cunarxi/a|</foreign> is conceivable Greek for &lsquo;such of the joint commanders as were assembled.&rsquo; The various <foreign lang="greek">a)/rxontes</foreign> (<foreign lang="greek">trih/rarxoi</foreign>, <bibl n="Thuc. 8. 47. 2">c. 47, &sect; 2</bibl>, and <foreign lang="greek">strathgoi/</foreign>) who belonged to the plot were <foreign lang="greek">cu/narxoi</foreign> and their command a <foreign lang="greek">cunarxi/a</foreign>. Cf. <foreign lang="greek">oi( e)n te/lei, oi( e)n toi=s pra/gmasi</foreign>. But Thucydides does not elsewhere use this rather artificial combination, and from <bibl n="Thuc. 8. 48. 3">c. 48, &sect; 3</bibl>, on the whole it appears to me probable that the corruption went one step further still, the original word being <hi rend="BOLD"><foreign lang="greek">cunorki/a|</foreign></hi> ( = <foreign lang="greek">cunwmosi/a|</foreign>) which passed through <hi rend="BOLD"><foreign lang="greek">cunarxi/a|</foreign></hi> into <hi rend="BOLD"><foreign lang="greek">cummaxi/a|</foreign>.</hi></p><p>
 
 <lemma lang="greek" targOrder="U">oi( cullege/ntes tw=n k.t.l.</lemma> not all the conspirators being present. Cf. <bibl n="Thuc. 8. 48. 3">c. 48, &sect; 3</bibl>, <foreign lang="greek">e)n tw=| ple/oni tou= e(tairikou=</foreign>.</p><p>
@@ -1384,7 +1383,7 @@ The only objection to this rendering, which the grammatical structure seems to r
 
 <lemma lang="greek" targOrder="U">th=s tou= e)kei= dh/mou</lemma> not <foreign lang="greek">th=s e)kei= tou= dh/mou</foreign>. Part of the <foreign lang="greek">dh=mos</foreign> has already been won over, viz. the part at Samos. The bulk of the <foreign lang="greek">dh=mos</foreign> is left at Athens.
 </p></div3></div2>
-<div2 type="CHAPTER" n="50"><p></p>
+<div2 type="CHAPTER" n="50"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)/soito . . . e)nde/contai</lemma>. Cf. <bibl n="Thuc. 8. 51. 2">c. 51, &sect; 2</bibl>, <foreign lang="greek">w(s</foreign> . . . <foreign lang="greek">me/llousin . . . kai\ pepusme/nos ei)/h</foreign>; <bibl n="Thuc. 2. 80">ii. 80</bibl>, <foreign lang="greek">o(/ti . . . krath/sousi . . . kai\ . . . e)/soito</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">pro\s th\n e)nanti/wsin</lemma> &lsquo;in view of the opposition shown in his own speech.&rsquo; <hi rend="BOLD"><foreign lang="greek">pro\s</foreign></hi> gives the consideration prompting his fear. Cf. <bibl n="Thuc. 8. 39. 2">c. 39, &sect; 2</bibl>, <foreign lang="greek">pro\s ta\s e)pistola\s . . . u(pw/pteuon au)to/n</foreign>.</p><p>
@@ -1429,7 +1428,7 @@ The only objection to this rendering, which the grammatical structure seems to r
 
 <lemma lang="greek" targOrder="U">au)to\n diafqarh=nai</lemma> <foreign lang="la">ipsum</foreign>: &lsquo;rather than lose his own life.&rsquo; The antithesis of the pronoun is not <foreign lang="greek">e)kei/nous</foreign> above, but lies in the sense implied, viz. <foreign lang="greek">tou=to kai\ a)/llo pa=n bla/yai th\n po/lin ma=llon h)\ au)to\n diafqarh=nai u(po\ tw=n e)xqi/stwn</foreign>. The nominative <foreign lang="greek">au)to\s</foreign> would be incorrect here, since <foreign lang="greek">au)to\n diafqarh=nai</foreign> does not depend on the verb of saying, but is part of a clause dependent on <foreign lang="greek">a)nepi/fqonon ei)/h</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="51"><p></p>
+<div2 type="CHAPTER" n="51"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)dikou=nta</lemma>, &lsquo;not acting straightforwardly.&rsquo; Cf. <foreign lang="greek">ou) kalw=s e)kru/fqh</foreign>, <bibl n="Thuc. 8. 50. 5">c. 50, &sect; 5</bibl>. <bibl n="Plut. Alc. 25. 6">Plut. Alcib. 25</bibl> has it <foreign lang="greek">e)lelh/qei d' a)/ra</foreign> (sc. <foreign lang="greek">o( *fru/nixos</foreign>) <foreign lang="greek">prodo/ths prodo/th| dialego/menos</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">e)ca/ggelos</lemma> with its ordinary sense of betraying a secret to those not in it. Cf. <foreign lang="greek">e)caggeli/a</foreign>, <bibl n="Xen. Cyrop. 2. 4. 23">Xen. Cyr. ii. 4, 23</bibl>; <foreign lang="greek">e)cagge/llein</foreign>, <hi rend="ITALIC">ibid.</hi> <bibl n="Thuc. 6. 1. 42">vi. 1, 42</bibl>.</p><p>
@@ -1470,7 +1469,7 @@ The only objection to this rendering, which the grammatical structure seems to r
 
 <lemma lang="greek" targOrder="U">e)phlh/qeusen</lemma> transitive and causative: cf. <bibl n="Thuc. 8. 1. 1">c. 1, &sect; 1</bibl>, on <foreign lang="greek">e)ph/lpisan</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="53"><p></p>
+<div2 type="CHAPTER" n="53"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tw=n *)aqhnai/wn</lemma>. Dobree should not have struck this out. It draws attention to the Athenian side as opposed to Tissaphernes and his relations with the Peloponnesians.</p><p>
 
 <lemma lang="greek" targOrder="U">kefalaiou=ntes e)k pollw=n</lemma> Cf. <bibl n="Thuc. 6. 91">vi. 91</bibl>, <foreign lang="greek">polla\ parei\s ta\ me/gista kefalaiw/sw</foreign>.
@@ -1505,7 +1504,7 @@ The only objection to this rendering, which the grammatical structure seems to r
 
 <lemma lang="greek" targOrder="U">mh\ to\ ple/on peri\ . . . h)\ peri\</lemma> &lsquo;not so much about . . . as about . . .&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="54"><p></p>
+<div2 type="CHAPTER" n="54"><p/>
 <div3 type="SECTION" n="1"><p>
 <lemma lang="greek" targOrder="U">e)pelpi/zwn</lemma>, &lsquo;hoping besides&rsquo; Cf. <foreign lang="greek">e)piqerapeu/wn</foreign>, <bibl n="Thuc. 9. 47. 1">c. 47, &sect; 1</bibl>. The verb has a causal sense in <bibl n="Thuc. 8. 1. 1.">c. 1, &sect; 1</bibl>, but one similar to this in <bibl n="Eur. Hipp. 1011">Eur. Hipp. 1011</bibl>.</p><p>
 
@@ -1526,20 +1525,20 @@ The only objection to this rendering, which the grammatical structure seems to r
 
 <lemma lang="greek" targOrder="U">e)pi\ toi=s parou=sin</lemma> &lsquo;to suit the present exigcncies.&rsquo;</p><p>
 
-<lemma lang="greek" targOrder="U">diame/llesqai</lemma> impersonal passive: &lsquo;so that there should be no delay.&rsquo;</p><p></p></div3></div2>
+<lemma lang="greek" targOrder="U">diame/llesqai</lemma> impersonal passive: &lsquo;so that there should be no delay.&rsquo;</p><p/></div3></div2>
 
-<div2 type="CHAPTER" n="55"><p></p>
+<div2 type="CHAPTER" n="55"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)neilkusme/nas</lemma>. Cf. <bibl n="Thuc. 8. 44. 4">c. 44, &sect; 4</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">ma=llon h)\ e)k th=s *kw=</lemma> In <bibl n="Thuc. 8. 44. 3">c. 44, &sect; 3</bibl>, the Athenians had been making their descents <foreign lang="greek">e)k th=s *xa/lkhs kai\ e)k th=s *kw=</foreign>. Cf. <bibl n="Thuc. 8. 60. 3">c. 60, &sect; 3</bibl>. <pb n="214"/>
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">to\ tei=xos</lemma>, <bibl n="Thuc. 8. 38. 2">c. 38, &sect; 2</bibl>.</p><p>
 
-<lemma lang="greek" targOrder="U">bohqh/sein</lemma> For the future see on <bibl n="Thuc. 8. 2. 1">c. 2, &sect; 1</bibl>, <foreign lang="greek">cumproqumhqe/ntes a)palla/cesqai</foreign>.</p><p></p></div3>
+<lemma lang="greek" targOrder="U">bohqh/sein</lemma> For the future see on <bibl n="Thuc. 8. 2. 1">c. 2, &sect; 1</bibl>, <foreign lang="greek">cumproqumhqe/ntes a)palla/cesqai</foreign>.</p><p/></div3>
 
 <div3 type="SECTION" n="3"><p><lemma lang="greek" targOrder="U">to\ . . . e)pikouriko/n</lemma>, sc. <foreign lang="greek">to\ par' *)amo/rgou</foreign> of <bibl n="Thuc. 8. 28. 5">c. 28, &sect; 5</bibl>, and cf. <bibl n="Thuc. 8. 38. 3">c. 38, &sect; 3</bibl>
 </p></div3></div2>
-<div2 type="CHAPTER" n="56"><p></p>
+<div2 type="CHAPTER" n="56"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">th=s o(mologi/as</lemma>, &lsquo;the desired (or expected) agreement.&rsquo;
 </p></div3>
 <div3 type="SECTION" n="2"><p><lemma lang="greek" targOrder="U">e)dida/sketo</lemma>, viz. <bibl n="Thuc. 8. 46. 2">c. 46, &sect; 2</bibl>. <foreign lang="greek">e)dedi/dakto</foreign> might seem more apposite, and the translators say &lsquo;had been taught.&rsquo; But Tissaphernes is still under the influence of Alcibiades, and though A. wishes him to favour the Athenian side rather than the Lacedaemonian, yet he recommends him to wear out the Greeks upon each other (<bibl n="Thuc. 8. 46. 1">c. 46</bibl>). The imperfect is therefore sound, &lsquo;according to the lesson he was learning from him.&rsquo;</p><p>
@@ -1567,7 +1566,7 @@ There is, however, no statement in any writer that the king was not allowed to b
 <div3 type="SECTION" n="5"><p> <lemma lang="greek" targOrder="U">ou)ke/ti ti a)ll' a)/pora nomi/santes</lemma>, i.e. <foreign lang="greek">ou)ke/ti ti</foreign> (<foreign lang="greek">a)/llo</foreign>) <foreign lang="greek">a)ll' a)/pora nomi/santes</foreign>, &lsquo;no longer thinking anything (else) but that the matter (<foreign lang="greek">ta\ pra/gmata</foreign>) was an impracticable one.&rsquo; <foreign lang="greek">a)/llo</foreign> is not indispensable in this idiom, cf. <bibl n="Soph. OT 1331">Soph. O. T. 1331</bibl>, <foreign lang="greek">e)/paisen ou)/tis</foreign> (sc. <foreign lang="greek">a)/llos</foreign>) <foreign lang="greek">a)ll' e)gw/</foreign>, though it is commonly expressed. A different way of expressing the same sense would be <foreign lang="greek">ou)ke/ti ti a)/ll' h)\ a)/pora nomi/santes</foreign> (where <foreign lang="greek">a)/llo</foreign> is not to be confounded with <foreign lang="greek">a)lla\</foreign>).
 An alternative rendering <foreign lang="greek">ou)ke/ti ti</foreign> (<foreign lang="greek">pra/ssousin</foreign>), <foreign lang="greek">a)ll' a)/pora nomi/santes . . . komi/zontai</foreign> would be difficult to support by a parallel.
 </p></div3></div2>
-<div2 type="CHAPTER" n="57"><p></p>
+<div2 type="CHAPTER" n="57"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)kpepolemw=sqai</lemma>. This is distinctly preferable to <hi rend="BOLD"><foreign lang="greek">e)kpepolemh=sqai</foreign>.</hi> The sense is &lsquo;to be in a state of complete hostility.&rsquo; Cf. <bibl n="Thuc. 6. 77">vi. 77</bibl>, <foreign lang="greek">e)kpolemou=n pro\s a)llh/lous</foreign>. The forms in <foreign lang="greek">-e/w</foreign> are apt to eneroach on verbs of this class, which are regularly formed in <foreign lang="greek">-o/w</foreign> (so also <foreign lang="greek">-a/w</foreign> in <hi rend="ITALIC">e.g.</hi> <foreign lang="greek">e)kkwfa/w, e)kkwfo/w</foreign>). In the present, <foreign lang="greek">polemei=sqai</foreign> (<bibl n="Thuc. 1. 37">i. 37</bibl>), &lsquo;to have war made upon one,&rsquo; and <foreign lang="greek">polemou=sqai</foreign> (<bibl n="Thuc. 1. 36">i. 36</bibl>), &lsquo;to be made an object of war,&rsquo; may of course be used for each other without much distinction, and hence in <bibl n="Thuc. 3. 82">iii. 82</bibl> (<foreign lang="greek">polemoume/nwn</foreign>) and <bibl n="Thuc. 4. 20">iv. 20</bibl> (<foreign lang="greek">polemou=ntai</foreign>) it is doubtful to which form the verbs should be referred. But the perf. <foreign lang="greek">e)kpepolemh=sqai</foreign> should mean &lsquo;to have had war decisively <pb n="217"/> made upon one,&rsquo; while <foreign lang="greek">e)kpepolemw=sqai</foreign> is a present-perfect, &lsquo;to have been made a complete enemy of,&rsquo; i.e. &lsquo;to be in a state of complete hostility.&rsquo; The latter is required here. Cf. <foreign lang="greek">e)polemw/qh</foreign> (<bibl n="Thuc. 1. 57">i. 57</bibl>), <foreign lang="greek">polemw/sesqe au)tou/s</foreign> (<bibl n="Thuc. 5. 98">v. 98</bibl>).
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">w(/sper e)bou/leto</lemma>, &lsquo;consistently with his policy of . . &rsquo;</p><p>
@@ -1576,7 +1575,7 @@ An alternative rendering <foreign lang="greek">ou)ke/ti ti</foreign> (<foreign l
 
 <lemma lang="greek" targOrder="U">metapemya/menos ou)=n</lemma>. <foreign lang="greek">ou)=n</foreign> is resumptive of the remark beginning <hi rend="BOLD"><foreign lang="greek">pa/ntwn ou)=n</foreign>,</hi> though after a shorter interval than usual. Cf. <bibl n="Thuc. 7. 6">vii. 6</bibl>
 </p></div3></div2>
-<div2 type="CHAPTER" n="58"><p></p>
+<div2 type="CHAPTER" n="58"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tri/tw| kai\ deka/tw|</lemma>. Darius Nothus therefore began to reign in B.C. 424-423.</p><p>
 
 <lemma lang="greek" targOrder="U">*)alecippi/da</lemma> The actual Doric genitive is used in the treaty. Alexippidas was the ephor eponymus. Cf. <bibl n="Paus. 3. 11. 2">Paus. iii. 11, 2</bibl>, <foreign lang="greek">e)/foroi pare/xontai to\n e)pw/numon kaqa\ dh\ kai\ *)aqhnai/ois tw=n kaloume/nwn e)nne/a e)pw/numo/s e)stin ei(=s a)/rxwn</foreign>. So in Xen. Hellenica regularly, <hi rend="ITALIC">e.g.</hi> <foreign lang="greek">e)pi\ e)fo/rou me\n o)/ntos e)n *spa/rth| *eu)arxi/ppou, a)/rxontos d' e)n *)aqh/nais *eu)kth/monos</foreign> (<bibl n="Xen. Hell. 1. 2. 1">i. 2, 1</bibl>) etc.</p><p>
@@ -1588,7 +1587,7 @@ An alternative rendering <foreign lang="greek">ou)ke/ti ti</foreign> (<foreign l
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">o(/sh th=s *)asi/as e)sti/</lemma>, a most important amendment <pb n="218"/> of the terms of <bibl n="Thuc. 8. 37. 2">c. 37, &sect; 2</bibl>, <foreign lang="greek">o(po/sh xw/ra kai\ po/leis basile/ws ei)si\ *darei/ou h)\ tou= patro\s h)=san h)\ tw=n progo/nwn</foreign>, to which Lichas had so naturally objected (<bibl n="Thuc. 8. 43. 3">c. 43, &sect; 3</bibl>). The Hellenic states, however, are still surrendered according to the Persian point of view, though perhaps not according to the Lacedaemonian.
 </p></div3>
 <div3 type="SECTION" n="5"><p> <lemma lang="greek" targOrder="U">kata\ ta\ cugkei/mena</lemma>, i.e. &lsquo;the terms at present existing,&rsquo; <bibl n="Thuc. 8. 29. 2">c. 29, &sect; 2</bibl>.
-<bibl n="Thuc. 8. 29. 6">&sect; 6</bibl>.</p><p></p></div3>
+<bibl n="Thuc. 8. 29. 6">&sect; 6</bibl>.</p><p/></div3>
 
 <div3 type="SECTION" n="6"><p><lemma lang="greek" targOrder="U">*lakedaimoni/ous de\, . . . e)f' e(autoi=s ei)=nai</lemma>. The words <hi rend="BOLD"><foreign lang="greek">e)f' e(autoi=s ei)=nai</foreign></hi> are an afterthought. In the acc. and inf. construction of the treaty <foreign lang="greek">*lakedaimoni/ous de\ tre/fein, h)\n bou/lwntai</foreign> is intended. &lsquo;The Laced. shall, if they so wish, maintain their own fleet.&rsquo; But Thucydides, or the author of the treaty, joins <hi rend="BOLD"><foreign lang="greek">tre/fein</foreign></hi> closely with <hi rend="BOLD"><foreign lang="greek">h)\n bou/lwntai</foreign>,</hi> and supplies the infinitive by <hi rend="BOLD"><foreign lang="greek">e)f' e(autoi=s ei)=nai</foreign>,</hi> leaving <hi rend="BOLD"><foreign lang="greek">*lakedaimoni/ous</foreign></hi> without structure. &lsquo;The Laced. shall, if they choose to maintain their own fleet, have the right to do so&rsquo;; but for this <hi rend="ITALIC">e.g.</hi> <foreign lang="greek">e)a=sqai</foreign> would be required in strict grammar.</p><p>
 
@@ -1599,10 +1598,10 @@ An alternative rendering <foreign lang="greek">ou)ke/ti ti</foreign> (<foreign l
 <div3 type="SECTION" n="7"><p> <lemma lang="greek" targOrder="U">h)\n de\ . . . katalu/ein . . . katalu/esqai</lemma>, sc. <foreign lang="greek">to\n po/lemon</foreign>. Both active and middle are used of ending a war and coming to terms. <foreign lang="greek">katalu/ein</foreign> (<bibl n="Thuc. 5. 23">v. 23</bibl>, in a treaty), <foreign lang="greek">katalu/ein to\n po/lemon</foreign> (<bibl n="Thuc. 5. 47">v. 47</bibl>, a treaty), but <foreign lang="greek">katalu/ointo</foreign> (<bibl n="Thuc. 4. 18">iv. 18</bibl>), <foreign lang="greek">katalelume/nous to\n e)kei= po/lemon</foreign> (<bibl n="Thuc. 6. 36">vi. 36</bibl>).
 In the present passage, in view of the sudden change, <foreign lang="greek">katalu/esqai</foreign> should probably be taken as impersonal passive.
 </p></div3></div2>
-<div2 type="CHAPTER" n="59"><p></p>
+<div2 type="CHAPTER" n="59"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">gou=n</lemma>, &lsquo;at all events.&rsquo; The translation &lsquo;he wanted to <hi rend="ITALIC">appear</hi> to be preparing&rsquo; is incorrect. <hi rend="BOLD"><foreign lang="greek">dh=los ei)=nai</foreign></hi> is not &lsquo;to appear,&rsquo; nor does <hi rend="BOLD"><foreign lang="greek">gou=n</foreign></hi> qualify that term, but rather belongs to <hi rend="BOLD"><foreign lang="greek">paraskeuazo/menos</foreign>.</hi> &lsquo;He wanted it to be seen that he was <hi rend="ITALIC">preparing</hi>&rsquo; &mdash; though he might defer the actual performance as he chose.
 </p></div3></div2>
-<div2 type="CHAPTER" n="60"><p></p>
+<div2 type="CHAPTER" n="60"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">*)wrwpo\n</lemma>. The possession of this town had long been and continued to be a bone of contention between Athens and Boeotia. The Oropians are <foreign lang="greek">*)aqhnai/wn u(ph/kooi</foreign> in <bibl n="Thuc. 2. 23">ii. 23</bibl> (B.C. 431). In <bibl n="Thuc. 4. 96">iv. 96</bibl> (B.C. 424) the Athenians managed to hold the place after their defeat by the Boeotians, and to leave a garrison there. <pb n="219"/></p><p>
 
 <lemma lang="greek" targOrder="U">*)eretriw=n</lemma> Eretria was the second town in Euboea, Chalcis being the chief. In <bibl n="Thuc. 8. 95. 3">c. 95, &sect; 3</bibl>, Eretria is said to be 60 stadia from Oropus.</p><p>
@@ -1618,7 +1617,7 @@ In the present passage, in view of the sudden change, <foreign lang="greek">kata
 <lemma lang="greek" targOrder="U">e(w/rwn . . oi(=o/n<hi rend="SUPERLATIVE">*</hi> te/ tina</lemma> MSS. have <hi rend="BOLD"><foreign lang="greek">oi)=o/n te ei)=nai</foreign>.</hi>
 Kruger, P - S, and editors generally eject <hi rend="BOLD"><foreign lang="greek">ei)=nai</foreign>,</hi> on the ground that the regular construction with <foreign lang="greek">o(ra=n</foreign> is with the participle, while the infinitive is never found. Cf. Liddell and Scott, <foreign lang="greek">o(ra=n</foreign> II. c. In <bibl n="Thuc. 2. 45">ii. 45</bibl>, <foreign lang="greek">o(rw= me/gan to\n a)gw=na</foreign> has the predicative adjective without either participle or infinitive. If <foreign lang="greek">ei)=nai</foreign> is omitted, however, the participle <foreign lang="greek">o)\n</foreign> must be read, since <foreign lang="greek">e(w/rwn oi(=o/n te</foreign> alone cannot be paralleled. It is true that <foreign lang="greek">ai)sqa/nesqai</foreign> occurs in rare instances with the infinitive, <hi rend="ITALIC">e g.</hi> <bibl n="Thuc. 6. 59">vi. 59</bibl>, <foreign lang="greek">ai)sqanome/nous au)tou/s . . . du/nasqai</foreign>, and <bibl n="Thuc. 5. 4">v. 4</bibl>, <foreign lang="greek">ai)sqo/menos ou)k a)\n pei/qein</foreign>. It should, however, be noticed (1) that in each of these Thucydidean instances there is some reason for avoiding the participle, (2) that <foreign lang="greek">ai)sqa/nesqai</foreign> is akin to <foreign lang="greek">a)kou/w</foreign> and <foreign lang="greek">punqa/nesqai</foreign> (which also take infin. occasionally), while <foreign lang="greek">o(ra/w</foreign> is akin to <foreign lang="greek">oi)=da</foreign> (which does not take infinitive). Similarly parts of <foreign lang="greek">gignw/skw</foreign> may here and there take infinitive in the sense of &lsquo;resolving that&rsquo; (akin to <foreign lang="greek">ai)sqa/nesqai</foreign>, etc.), but <foreign lang="greek">e)/gnwka</foreign> = <foreign lang="greek">oi)=da</foreign> can only take a participle. Cf. Shilleto on <bibl n="Thuc. 1. 43">i. 43</bibl>. I read therefore <hi rend="BOLD"><foreign lang="greek">e(w/rwn ou)ke/ti . . . oi(=o/n te/ tina</foreign>,</hi> which is analogous to <foreign lang="greek">o(rw= me/gan to\n a)gw=na</foreign> of <bibl n="Thuc. 2. 45">ii. 45</bibl>, and which arose from a confusion of OIONTETINA with OIONTEINAI. &lsquo;They saw that it was no longer possible for one (i.e. themselves) to proceed to Chios without a naval battle.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="61"><p></p>
+<div2 type="CHAPTER" n="61"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">*derkuli/das te</lemma>, answered by <hi rend="BOLD"><foreign lang="greek">kai\ oi( *xi=oi</foreign>.</hi> </p><p>
 
 <lemma lang="greek" targOrder="U">*)/abudon</lemma> on the Asiatic side at the narrowest part of the Hellespont. <pb n="220"/></p><p>
@@ -1642,7 +1641,7 @@ The meaning of <hi rend="BOLD"><foreign lang="greek">e)piba/ths</foreign></hi> h
 
 <lemma lang="greek" targOrder="U">ou)k e)/lasson e)/xontes. sxo/ntes</lemma> of Vat. is less good. The present is &lsquo;like <foreign lang="greek">nikw=ntes</foreign>&rsquo; (P-S) and is regular. Cf. <bibl n="Thuc. 4. 25">iv. 25</bibl>, <foreign lang="greek">e)n th=| naumaxi/a| . . . ou)k e)/lasson e)/xontes . . . parekomi/sqhsan</foreign>, where all MSS. agree. So <bibl n="Thuc. 1. 105">i. 105</bibl>, etc.
 </p></div3></div2>
-<div2 type="CHAPTER" n="62"><p></p>
+<div2 type="CHAPTER" n="62"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">eu)qu\s</lemma> should probably be joined with the participle, &lsquo;immediately that D arrived.&rsquo; The position of the word, however, is somewhat against this.</p><p>
 
 <lemma lang="greek" targOrder="U">parecelqo/ntos</lemma> &lsquo;having completed (<hi rend="BOLD"><foreign lang="greek">e)c-</foreign></hi>) his march along the coast.&rsquo;.</p><p>
@@ -1651,13 +1650,13 @@ The meaning of <hi rend="BOLD"><foreign lang="greek">e)piba/ths</foreign></hi> h
 
 <lemma lang="greek" targOrder="U">*la/myakos</lemma> a colony from Phocaea and Miletus (Strabo, p. 589), about twenty miles from Abydus. The city had been attached to Atheus since B.C. 479.
 </p></div3>
-<div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">a(rpagh\n pohsa/menos</lemma>. Cf. <bibl n="Thuc. 8. 41. 2">c. 41, &sect; 2</bibl>, <foreign lang="greek">th\n xw/ran . . lei/an e)poei=to</foreign>.</p><p></p></div3>
+<div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">a(rpagh\n pohsa/menos</lemma>. Cf. <bibl n="Thuc. 8. 41. 2">c. 41, &sect; 2</bibl>, <foreign lang="greek">th\n xw/ran . . lei/an e)poei=to</foreign>.</p><p/></div3>
 
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">*shsto\n</lemma>, about four miles from Abydus obliquely across the Hellespont. It was regarded by the Athenians as the key of the strait (<bibl n="Aristot. Rh. 1411a">Arist. Rhet. iii. 10, &sect; 7</bibl>).</p><p>
 
 <lemma lang="greek" targOrder="U">h(/n pote *mh=doi ei(=xon</lemma> The <hi rend="BOLD"><foreign lang="greek">to/te</foreign></hi> of most other MSS. than Vat. will hardly stand. Though <foreign lang="greek">to/te</foreign> is often used of a matter previously mentioned, &lsquo;at the time above stated&rsquo; (cf. <bibl n="Thuc. 8. 20. 1">c. 20, &sect; 1</bibl>), it cannot be referred so far back as to <bibl n="Thuc. 1. 89">i. 89</bibl> (<foreign lang="greek">*shsto\n e)polio/rkoun *mh/dwn e)xo/ntwn</foreign>), which is the last reference to the possession by the Medes. A rendering &lsquo;on the well-known occasion&rsquo; would be far-fetched. For the fact cf. <bibl n="Hdt. 9. 115">Hdt. ix. 115</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="63"><p></p>
+<div2 type="CHAPTER" n="63"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">oi( e)n th=| *milh/tw| kai\ o( *)astu/oxos puqo/menos . . .</lemma> <foreign lang="greek">e)qa/rshse</foreign>, the verb agreeing with the nearer or more important subject. Cf. <bibl n="Thuc. 8. 81.1">c. 81</bibl> (init.), <foreign lang="greek">oi( de\ proestw=tes e)n th=| *sa/mw| kai\ ma/lista *qrasu/boulos . . . e)/peisen . . kai\ pleu/sas k.t.l.</foreign> Similarly <hi rend="BOLD"><foreign lang="greek">to\n *strombixi/dhn kai\ ta\s nau=s</foreign></hi> (= <foreign lang="greek">e)/xonta ta\s nau=s</foreign>) <hi rend="BOLD"><foreign lang="greek">a)pelhluqo/ta</foreign>,</hi> with which cf. <bibl n="Thuc. 4. 112">iv. 112</bibl>, <foreign lang="greek">*brasi/das me\n ou)=n kai\ to\ plh=qos . . . e)tra/peto boulo/menos k.t.l.</foreign> The writer considers Strombichides alone: what he does is what his forces do.
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">komi/zei</lemma>, sc. <foreign lang="greek">e)s *mi/lhton</foreign>. <pb n="222"/></p><p>
@@ -1693,7 +1692,7 @@ But all this is founded on a misconception, the fact being that the passage begi
 
 <lemma lang="greek" targOrder="U">talaipwrou=ntas</lemma> Cf. <bibl n="Thuc. 8. 48. 1">c. 48, &sect; 1</bibl>. <pb n="224"/>
 </p></div3></div2>
-<div2 type="CHAPTER" n="64"><p></p>
+<div2 type="CHAPTER" n="64"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">parakeleusa/menoi</lemma>, sc. <foreign lang="greek">e)n e(autoi=s</foreign> (<bibl n="Thuc. 4. 25">iv. 25</bibl>) or <foreign lang="greek">a)llh/lois</foreign> (<bibl n="Xen. Anab. 4. 2. 11">Xen. An. iv. 2, 11</bibl>).
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">a)/rxein</lemma>, further exegesis of <hi rend="BOLD"><foreign lang="greek">h(|rhme/non</foreign></hi> after <hi rend="BOLD"><foreign lang="greek">e)s ta\ e)pi\ *qra/|khs h(|rhme/non</foreign>,</hi> i.e. = <foreign lang="greek">w)/ste a)/rxein</foreign>.</p><p>
@@ -1719,12 +1718,12 @@ But all this is founded on a misconception, the fact being that the passage begi
 <lemma lang="greek" targOrder="U">th=s a)po\ tw=n *)aqhnai/wn u(pou/lou eu)nomi/as ou) protimh/santes</lemma> This reading is derived from Dionysius (<foreign lang="la">De iis quae Thucydidi propria sunt,</foreign> c. xi. p. 800), who in his time must have had much more trustworthy MSS. than ours. The view of Jowett that &lsquo;the reading in Dionysius is probably a slip of the memory,&rsquo; is scarcely tenable in view of the fact that Dionysius quotes the passage and comments on its construction with great particularity. He says that the customary grammar would be to write the feminine <hi rend="BOLD"><foreign lang="greek">protimh/sasai</foreign>,</hi> and the accus. <hi rend="BOLD"><foreign lang="greek">th\n u(/poulon eu)nomi/an</foreign></hi> instead of the genitive. It is scarcely to be supposed that Dionysius would comment thus on grammatical peculiarities which existed only in his own imagination.
 Poppo points out that Dionysius is wrong in taking the genitive to be a kind of solecism, since, as a matter of fact, <hi rend="BOLD"><foreign lang="greek">ou) protimh/santes</foreign></hi> is rightly explained by the scholiast <foreign lang="greek">ou) fronti/santes</foreign> &lsquo;not caring about,&rsquo; in which sense the genitive is regular with <foreign lang="greek">protima/w</foreign>. Poppo compares <bibl n="Aesch. Ag. 1672">Aesch. Ag. 1672</bibl>, <foreign lang="greek">mh\ protimh/sh|s matai/wn tw=nd' u(lagma/twn</foreign>; <bibl n="Eur. Alc. 761">Eur. Alc. 761</bibl>, etc. The accus. <hi rend="BOLD"><foreign lang="greek">th\n . . . u(/poulon au)tonomi/an</foreign></hi> of the MSS. is itself a correction made by some one labouring under the same error as Dionysius. Vat., however, has by some accident retained <hi rend="BOLD"><foreign lang="greek">th=s</foreign>,</hi> as also <hi rend="BOLD"><foreign lang="greek">a)po\</foreign></hi> (while the other MSS. have <hi rend="BOLD"><foreign lang="greek">u(po\</foreign></hi>).
 Another indication of the truth of Dionysius' reading appears in <hi rend="BOLD"><foreign lang="greek">eu)nomi/as</foreign>.</hi> It is fortunate that the genuine word has thus survived, since the Athenians did not offer their <foreign lang="greek">u)ph/kooi</foreign> independence (<foreign lang="greek">au)tonomi/an</foreign>), even while they turned their governments into oligarchies. &lsquo;The states made for downright freedom, caring nothing for the hollow and deceitful &ldquo;good government&rdquo; offered by the Athenians.&rsquo; What the Athenians offered was what they called <hi rend="BOLD"><foreign lang="greek">eu)nomi/a</foreign></hi> (from the oligarchical point of view), a term in keeping with <hi rend="BOLD"><foreign lang="greek">swfrosu/nhn</foreign></hi> above. Indeed the words <foreign lang="greek">eu)nomi/an a)po\ tw=n *)aq.</foreign> answer precisely to <foreign lang="greek">th=s met' *)aq. a)ristokrati/as</foreign> of <bibl n="Thuc. 8. 64. 3">&sect; 3</bibl>. Yet such <foreign lang="greek">eu)nomi/a</foreign> coming from Athens was insufficient and of precarious tenure: the old sore might soon break out again.
-The metaphor of <hi rend="BOLD"><foreign lang="greek">u(/poulos</foreign></hi> is common in Greek. Cf. <bibl n="Plat. Gorg. 518e">Plat. Gorg. 518 E</bibl>, <foreign lang="greek">oi)dei= kai\ u(/poulo/s e)stin h( po/lis</foreign>. <pb n="227"/> The purpose of the proposal is that when the payment for attendance at the boule, ecclesia, and dicasteria ceases, the poorer citizens may practically be prohibited from taking part in public affairs. &lsquo;Payment of members&rsquo; should cease. Dukas well refers to <bibl n="Aristot. Pol. 6.1321a">Aristot. Pol. vi. 4, 6</bibl>.</p><p></p></div3></div2>
+The metaphor of <hi rend="BOLD"><foreign lang="greek">u(/poulos</foreign></hi> is common in Greek. Cf. <bibl n="Plat. Gorg. 518e">Plat. Gorg. 518 E</bibl>, <foreign lang="greek">oi)dei= kai\ u(/poulo/s e)stin h( po/lis</foreign>. <pb n="227"/> The purpose of the proposal is that when the payment for attendance at the boule, ecclesia, and dicasteria ceases, the poorer citizens may practically be prohibited from taking part in public affairs. &lsquo;Payment of members&rsquo; should cease. Dukas well refers to <bibl n="Aristot. Pol. 6.1321a">Aristot. Pol. vi. 4, 6</bibl>.</p><p/></div3></div2>
 
-<div2 type="CHAPTER" n="65"><p></p>
+<div2 type="CHAPTER" n="65"><p/>
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">meqekte/on tw=n pragma/twn</lemma> Arnold quotes <bibl n="Xen. Hell. 2. 3. 18">Xen. Hell. ii. 3, 18</bibl>; where under the Thirty a nominal 3000 are chosen&mdash; <foreign lang="greek">tou\s meqe/contas dh\ tw=n pragma/twn</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="66"><p></p>
+<div2 type="CHAPTER" n="66"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">h)=n de\ tou=to eu)prepe\s k.t.l.</lemma>, &lsquo;now this was (only) a specious pretence, intended for the mass, etc.&rsquo; The 5000 were to be mythical. The omission of <hi rend="ITALIC">e.g.</hi> <foreign lang="greek">mo/non</foreign> with <hi rend="BOLD"><foreign lang="greek">eu)prepe\s</foreign></hi> might seem to leave the clause somewhat bald; but Thucyd. makes <foreign lang="greek">eu)prepe\s</foreign> in itself carry sufficient emphasis of &lsquo;pretence.&rsquo; Cf. <bibl n="Thuc. 7. 57">vii. 57</bibl>, <foreign lang="greek">a)na/gkh| me\n e)k tou= eu)prepou=s, boulh/sei de\ kata\ e)/xqos k.t.l.</foreign> So in <bibl n="Thuc. 3. 82">iii. 82</bibl>, <foreign lang="greek">met' o)no/matos eu)prepou=s</foreign>, in a large measure <foreign lang="greek">eu)prepou=s</foreign> = <foreign lang="greek">yeudou=s</foreign>. &lsquo;Now this was <hi rend="ITALIC">a pretence,</hi> intended, etc.&rsquo;</p><p>
 
 <lemma lang="greek" targOrder="U">e)pei\ e(/cein ge</lemma>. <foreign lang="greek">e)pei\ . . . ge</foreign> might perhaps be taken together: cf. <bibl n="Thuc. 6. 18">vi. 18</bibl>, <foreign lang="greek">e)peidh/ ge kai\ cunwmo/samen</foreign> (where, however, there is no separation). But in <bibl n="Thuc. 7. 30">vii. 30</bibl>, <foreign lang="greek">e)pei\ e)/n ge th=| a)/llh| a)naxwrh/sei k.t.l.</foreign>, the particle <hi rend="BOLD"><foreign lang="greek">ge</foreign></hi> is best taken as throwing emphasis on <foreign lang="greek">th=| a)/llh|</foreign>. So here <hi rend="BOLD"><foreign lang="greek">ge</foreign></hi> is best combined with <hi rend="BOLD"><foreign lang="greek">e(/cein</foreign>:</hi> &lsquo;those who were endeavouring to change the government meant to <hi rend="ITALIC">have</hi> the government.&rsquo;</p><p>
@@ -1772,7 +1771,7 @@ For <hi rend="BOLD"><foreign lang="greek">e)cairei=n</foreign></hi> cf. <bibl n=
 The trend of the passage is thus: the commons are suspicious of one another; the reason is explained in <hi rend="BOLD"><foreign lang="greek">e)nh=san ga\r k.t.l.</foreign>,</hi> because there were people in the league whom one would never have thought capable of favouring oligarchy. These persons, once thought so sure, naturally made men suspicious of the <hi rend="ITALIC">general run of people</hi> (<hi rend="BOLD"><foreign lang="greek">pro\s tou\s pollou\s</foreign></hi>), whose leanings were not so well known or so much relied on. <hi rend="BOLD"><foreign lang="greek">tw=n o)li/gwn</foreign></hi> next comes with antithesis to <hi rend="BOLD"><foreign lang="greek">tou\s pollou\s</foreign>,</hi> at least in sound: &lsquo;and they were of great service in securing the safety of the few.&rsquo; But instead of merely adding the word &lsquo;thereby&rsquo; or &lsquo;accordingly,&rsquo; he explains again how they were of such service, viz. &lsquo;by making a settled matter of the distrustfulness of the demos towards itself.&rsquo; This could have been expressed by <hi rend="ITALIC">e.g.</hi> <foreign lang="greek">kai\ ou(/tw plei=sta k t.l.</foreign> or <foreign lang="greek">kai\ dia\ tau=ta plei=sta k.t.l.</foreign>
 The only palliation, but a considerable one, of the tautology lies in the sense of the word <hi rend="BOLD"><foreign lang="greek">dh/mw|</foreign>,</hi> which must be distinguished here from <hi rend="BOLD"><foreign lang="greek">toi=s polloi=s</foreign>.</hi> It is the assembly or people viewed <hi rend="ITALIC">politically</hi> which was prevented from making any stand or taking any action. Reduced to its lowest terms the sentence = &lsquo;by making men generally distrust each other, they assisted the safety of the oligarchs, because they secured inertness on the part of the <hi rend="ITALIC">democratic body politic.</hi>&rsquo; It would be easy to suggest <foreign lang="greek">a)nelpisti/an</foreign> if any change were really necessary.
 </p></div3></div2>
-<div2 type="CHAPTER" n="67"><p></p>
+<div2 type="CHAPTER" n="67"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">ou)=n</lemma> resumptive after the explanatory note beginning <bibl n="Thuc. 8. 65. 2">c. 65, &sect; 2</bibl>, <foreign lang="greek">kai\ ga\r *)androkle/a k.t.l.</foreign></p><p>
 
 <lemma lang="greek" targOrder="U">cuggrafe/as</lemma> cf. <bibl n="Isoc. 7. 58">Isoc. Areop. 151</bibl>, <foreign lang="greek">ei) peri\ tou/twn e)ke/leuon u(ma=s e(le/sqai sune/drous h)\ suggrafe/as, di' w(=n o( dh=mos katelu/qh to\ pro/teron, ei)ko/tws a)\n ei)=xon th\n ai)ti/an tau/thn</foreign>. Harpocration (in voc. <foreign lang="greek">suggrafei=s</foreign>) <foreign lang="greek">h)=san de\ oi( me\n pa/ntes suggrafei=s tria/konta oi( to/te ai(reqe/ntes kaqa\ fhsi\n *)androti/wn te kai\ o( *filo/xoros, e(ka/teros e)n th=| *)atqi/di. o( de\ *qoukudi/dhs tw=n de/ka e)mnhmo/neuse mo/non tw=n probou/lwn</foreign>. Suidas (<foreign lang="greek">pro/bouloi</foreign>) agrees with this, <foreign lang="greek">pro\s toi=s ou)=si de/ka h(|re/qhsan a)/lloi ei)/kosi ei)shghso/menoi ta\ dokou=nta th=| politei/a|</foreign>. There is, however, little likelihood that the <foreign lang="greek">pro/bouloi</foreign> of <bibl n="Thuc. 8. 1. 3">c. 1, &sect; 3</bibl>, are either the same as, or bodily included <pb n="231"/> in, the <foreign lang="greek">cuggrafh=s</foreign>, and it is generally agreed that Harpocration, and after him Suidas, has confounded these <foreign lang="greek">cuggrafh=s</foreign> with the thirty tyrants of seven years later, who are enumerated in <bibl n="Xen. Hell. 2. 3. 2">Xen. Hell. ii. 3, 2</bibl>. <foreign lang="greek">e)/doce tw=| dh/mw| tria/konta a)/ndras e\le/sqai, oi(\ tou\s patri/ous no/mous cuggra/yousi, kaq' ou(\s politeu/sousi k.t.l.</foreign></p><p>
@@ -1798,7 +1797,7 @@ The reading offered in the text supposes a corruption from <foreign lang="greek"
 
 <lemma lang="greek" targOrder="U">kai\ . . . de\</lemma> &lsquo;and . . . furthermore&rsquo;: <bibl n="Thuc. 1. 132">i. 132</bibl>, <bibl n="Thuc. 2. 36">ii. 36</bibl>, <bibl n="Thuc. 6. 71">vi. 71</bibl>, <bibl n="Thuc. 7. 56">vii. 56</bibl>, <foreign lang="greek">kai\ h)=n de\ a)/cios o( a)gw/n</foreign>; <bibl n="Xen. Hell. 5. 2. 37">Xen. Hell. v. 2, 37</bibl>, <foreign lang="greek">oi)/ te a)/lloi kai\ h( tw=n *qhbai/wn de\ op/lis</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="68"><p></p>
+<div2 type="CHAPTER" n="68"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">o(/tw| tro/pw| kate/sth e)s k.t.l.</lemma> a free use of the so-called indirect question: &lsquo;devised the whole matter, how it was brought to this result.&rsquo; Properly a mixture of the notions <foreign lang="greek">cune/qhken, o(/tw| tro/pw| katasth/setai e)s tou=to</foreign>, &lsquo;devised by what way the matter should be brought, etc.,&rsquo; and <foreign lang="greek">cune/qhke to\ pra=gma, w(=| tro/pw| kate/sth e)s tou=to</foreign>, i.e. &lsquo;he contrived the matter, as to the way in which it was brought to this issue.&rsquo; <hi rend="BOLD"><foreign lang="greek">o(/tw|</foreign></hi> can scarcely = <foreign lang="greek">w(=|</foreign> in classical Attic prose. The only instance in Thucydides where <foreign lang="greek">o(/stis</foreign> apparently = <foreign lang="greek">o(\s</foreign> is in <bibl n="Thuc. 6. 3">vi. 3</bibl>, <foreign lang="greek">bwmo/n, o(/stis nu=n e)/cw th=s po/lew/s e)stin</foreign>, a passage where other peculiarities occur (see Wolfflin in Classen), and which is by no means decisive for the equivalence (v. P-S <hi rend="ITALIC">ad loc.</hi>)</p><p>
 
 <lemma lang="greek" targOrder="U">*)antifw=n</lemma> of Rhamnus, the earliest of the ten orators of the &lsquo;canon,&rsquo; and the first <foreign lang="greek">logogra/fos</foreign>. He was as unpopular with the comic poets as with the <foreign lang="greek">dh=mos</foreign>. Thucydides is said to have been his pupil, but this statement, resting on a secondhand remark of the Pseudo-Plutarch (Vit. Orat.) and others, is of dubious truth. The authenticity of some of the extant orations of Antiphon (fifteen <foreign lang="greek">fonikoi\ lo/goi</foreign>) is questioned. On his style and works see Jebb's <hi rend="ITALIC">Attic Orators.</hi></p><p>
@@ -1875,7 +1874,7 @@ It may be urged that, these tribes having been politically and nominally abolish
 
 <lemma lang="greek" targOrder="U">e)/feron de\ k.t.l.</lemma> &lsquo;they themselves brought them their pay for all the remainder of their term of office, and gave it to them as they left the room,&rsquo; i.e. they paid it out of their own pockets (<hi rend="BOLD"><foreign lang="greek">au)toi\</foreign></hi>).
 </p></div3></div2>
-<div2 type="CHAPTER" n="70"><p></p>
+<div2 type="CHAPTER" n="70"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">u(pech=lqe</lemma> &lsquo;had come out, giving way to them (<hi rend="BOLD"><foreign lang="greek">u(po</foreign>-</hi>).&rsquo; Cf. <foreign lang="greek">u(peksth=nai</foreign> etc.</p><p>
 
 <lemma lang="greek" targOrder="U">oi( de\ tetrako/sioi. de\</lemma> in apodosis is common in Thucydides. The nearest parallel to the present place is <bibl n="Thuc. 3. 98">iii. 98</bibl>, <foreign lang="greek">me/xri me\n ou)=n oi( toco/tai ei)=xo/n te ta\ be/lh au)toi=s kai\ oi(=oi/ te h)=san xrh=sqai, oi( de\ a)ntei=xon</foreign>.</p><p>
@@ -1900,7 +1899,7 @@ It may be urged that, these tribes having been politically and nominally abolish
 
 <lemma lang="greek" targOrder="U">ei)ko\s ei)=nai k.t.l.</lemma> a brachylogy for <foreign lang="greek">ei)ko\s ei)=nai ma=llon cugxwrei=n, a(/te sfi/si kai\ ou)ke/ti tw=| a)pi/stw| dh/mw| a)\n cugxwrou=nta</foreign>: &lsquo;and that it was only reasonable that he should be more ready to make terms, masmuch as he would be making terms with them and no longer with the fickle democracy.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="71"><p></p>
+<div2 type="CHAPTER" n="71"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">o( de\ nomi/zwn . . . tara/ssesqai au)tou/s</lemma>. Jowett states the general opinion that the confusion and tautology of this passage &lsquo;may reasonably lead to the inference that this portion of the work has not received the last corrections from the author's hand.&rsquo; P-S with justice observes &lsquo;<foreign lang="la">sed hic non desideramus scriptoris diligentiam, sed sanum dicendi genus.</foreign>&rsquo; Literally rendered the passage = &lsquo;but Agis, thinking that the state (or government, <bibl n="Thuc. 8. 66. 1">c. 66, &sect; 1</bibl>) was not in a settled condition, and that the democratic body would not surrender its ancient liberty in so ready a manner (sc. to the oligarchs), and (further) thinking that, if it were to see a large Lacedaemonian force, it would not remain quiet, nay, not altogether believing that, as it was, they (sc. the Athemans) were no longer in a troublous state,&rsquo; etc. The last clause may also be rendered &lsquo;nay, not <pb n="240"/> altogether believing that, as it was, they (sc. the oligarchs) were no longer afraid (sc. of the democracy still triumphing).&rsquo; If we make all due allowance for the fact that the subject of the first <hi rend="BOLD"><foreign lang="greek">h(suxa/zein</foreign></hi> is <hi rend="BOLD"><foreign lang="greek">th\n po/lin</foreign>,</hi> and that of the second <hi rend="BOLD"><foreign lang="greek">to\n dh=mon</foreign>,</hi> and if we give whatever weight it may deserve to Jowett's rather weak defence of <hi rend="BOLD"><foreign lang="greek">h(suxa/zein . . . ou)k a)\n h(suxa/zein</foreign></hi> on the ground of &lsquo;the want of another word,&rsquo; the tautology is still too flagrant to be endurable, even by those who accept the &lsquo;revision&rsquo; theory of Thucydidean composition.
 Nor is this the only objection. (1) According to Thucydides' manner <foreign lang="greek">ei(/ <hi rend="BOLD">te</hi></foreign> introduces a new point in a distinct way, and for that new point we must look in the words that follow. (2) In reference to the words <hi rend="BOLD"><foreign lang="greek">ei(/ te stratia\n pollh\n i)/doi sfw=n</foreign>,</hi> it must be noted that he immediately after <hi rend="ITALIC">sends</hi> for <foreign lang="greek">stratia\n pollh\n</foreign>, and makes the Athenians see such a force. Why is this done? Because, says Thucydides, he hoped that he could frighten them (<hi rend="BOLD"><foreign lang="greek">taraxqe/ntas</foreign></hi>) into submitting more readily to the terms the Lacedaemonians chose (<hi rend="BOLD"><foreign lang="greek">ma=llon a)\n xeirwqh=nai sfi/sin, h(=| bou/lontai</foreign></hi>). [It is manifestly wrong to render (with Jowett) <hi rend="BOLD"><foreign lang="greek">taraxqe/ntas</foreign></hi> as &lsquo;distracted by civil strife,&rsquo; or &lsquo;in the prevailing state of anarchy.&rsquo; For this <foreign lang="greek">tarassome/nous</foreign> or <foreign lang="greek">tetaragme/nous</foreign> would be required.] The thought is plainly, &lsquo;Agis did not readily listen to the proposals of the oligarcns, because he thought they had no such assured position as to conclude terms with him, and he thought too that, by bringing up a large force against Athens, he was much more likely to obtain satisfactory terms.&rsquo; The latter part of this thought has suffered in the Greek text. Most editors have assumed corruption in the case of the first <hi rend="BOLD"><foreign lang="greek">h(suxa/zein</foreign>.</hi> Dobree (followed by P-S) ejected <hi rend="BOLD"><foreign lang="greek">th\n po/lin ou)x h(suxa/zein</foreign></hi> and read <hi rend="BOLD"><foreign lang="greek">ou)/t' eu)qu\s</foreign>,</hi> making <hi rend="BOLD"><foreign lang="greek">ou)/te</foreign></hi> answer to <hi rend="BOLD"><foreign lang="greek">ei(/ te</foreign>.</hi> Interpolation of the kind implied seems highly improbable. It would be more reasonable to suspect the second verb. If the next clause <hi rend="BOLD"><foreign lang="greek">ou)d' e)n tw=| paro/nti . . . tara/ssesqai au)tou/s</foreign></hi> be rightly rendered, &lsquo;nay, not altogether believing that, as it was, they (sc. the negotiating oligarchs) were no longer afraid,&rsquo; and if the context be carefully examined, it will appear that the rough English of the passage (when sound) should read &lsquo;but Agis, thinking that the state was not in a settled condition, and that the democracy would not surrender its ancient liberty in so ready a manner, and thinking too that the sight of a large Lacedaemonian force <hi rend="ITALIC">would make it more ready to come to terms,</hi> nay, not altogether believing that, even as it was, they were no longer alarmed, was not at all responsive to those who had come from the 400, but sent for a large additional force from the Peloponnese, and not long afterwards he made a descent in person with the garrison from Deceleia, in conjunction with <pb n="241"/> the new arrivals, to the very walls of Athens, in the hope that the Athenians <hi rend="ITALIC">would be so alarmed as</hi> to submit themselves more readily on any terms to the Lacedaemonians, or that, in consequence of the confusion which would in all probability arise from both inside and outside, he might even be certain of capturing without any trouble at least the long walls, which would be left undefended.&rsquo; Agis thinks (1) that the internal feuds are not at an end, (2) that with a large force he could get better terms by frightening the Athenians, whom he already suspects (<hi rend="BOLD"><foreign lang="greek">e)n tw=| paro/nti</foreign></hi>) of being frightened at him.
 The words <hi rend="BOLD"><foreign lang="greek">ou)k a)\n h(suxa/zein</foreign></hi> seem, therefore, to disguise the sense &lsquo;would be the more ready to come to terms,&rsquo; which Thucydides would most characteristically express by <hi rend="ITALIC">e.g.</hi> <hi rend="BOLD"><foreign lang="greek">ou)k a)\n h(=sson</foreign></hi> with <foreign lang="greek">cugxwrh=sai</foreign> or its equivalent. <foreign lang="greek">cugxwrh=sai</foreign>, however, or <foreign lang="greek">cugxwrei=n</foreign> would hardly have been thus corrupted. A rarer verb might suffer such a fate, and I venture to think that Thucyd. wrote <hi rend="BOLD"><foreign lang="greek">ou)k a)\n h(=sson cugxa/zein</foreign>,</hi> which, written, as usual, with merely an accent to represent the syllable <hi rend="BOLD"><foreign lang="greek">-on</foreign>,</hi> would easily pass into <foreign lang="greek"><hi rend="BOLD">ou)k a)\n h(suxa/zein.</hi> sugxa/zein</foreign> is given by Hesychius = <foreign lang="greek">sugxwrei=n. proxa/zein</foreign>, though lost from literature, is quoted by Hesychius and Photius = <foreign lang="greek">proxwrei=n</foreign>. So <foreign lang="greek">paraxa/zw</foreign> = <foreign lang="greek">paraxwrw=</foreign>. Xenophon (<bibl n="Xen. Anab. 4. 1. 16">Anab. iv. 1, 16</bibl>) has <foreign lang="greek">a)naxa/zontes</foreign> = <foreign lang="greek">a)naxwrou=ntes</foreign>, and <foreign lang="greek">a)naxa/zesqai</foreign> = <foreign lang="greek">a)naxwrei=n</foreign> (<bibl n="Xen. Cyrop. 7. 1. 34">Cyr. vii. 1, 34</bibl>). In <bibl n="Xen. Anab. 4. 8. 18">Anab. iv. 8, 18</bibl>, <foreign lang="greek">diaxa/zontas</foreign> is a certain restoration of Schneider for <foreign lang="greek">dixa/zontas. diaxa/sasqai</foreign> occurs <bibl n="Xen. Cyrop. 7. 1. 31">Cyr. vii. 1, 31</bibl>. The rarity of <foreign lang="greek">xa/zw</foreign> and its compounds outside poetry will account for the corruption here. Such rare words would probably occur more frequently in a sound text of Thucydides, who gives us such rarities as <foreign lang="greek">dei=ma, prosferh/s, o(maixmi/a, kataspe/rxein, ei(rkth/, a)po/dasmos</foreign>.</p><p>
@@ -1940,7 +1939,7 @@ In the present passage <hi rend="BOLD"><foreign lang="greek">a)\n</foreign></hi>
 
 <lemma lang="greek" targOrder="U">ou(/tw dh\ gnou\s</lemma> &lsquo;having found out (the state of things = his mistake).&rsquo; Cf. <bibl n="Thuc. 8. 75. 1">c. 75, &sect; 1</bibl>, <foreign lang="greek">didaxqe/ntes</foreign>, &lsquo;having been taught (better).&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="72"><p></p>
+<div2 type="CHAPTER" n="72"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">oi( pra/ssontes</lemma> not, as Jowett, &lsquo;the promoters of the change,&rsquo; but = <foreign lang="greek">oi( ta\ th=s po/lews pra/gmata pr</foreign>. (= <foreign lang="greek">oi( tw=n pragma/twn mete/xontes</foreign>). Dem. 240 (45) and <bibl n="Aristot. Pol. 7.1324a">Aristot. Pol. vii. 2, 4</bibl>, combine <foreign lang="greek">politeu/esqai kai\ pra/ttein</foreign>.
 
 <lemma lang="greek" targOrder="U">kai\ th\n u(pero/rion a)sxoli/an. kai\</lemma> might be explanatory, but as opposed to <hi rend="BOLD"><foreign lang="greek">stratei/as</foreign></hi> the reference may be to such other business as takes men abroad, <hi rend="ITALIC">e.g.</hi> commerce and service as mariners, etc.
@@ -1960,7 +1959,7 @@ The statement must perhaps be taken <foreign lang="la">cum grano,</foreign> thou
 <lemma lang="greek" targOrder="U">a)rcame/nou tou= kakou=</lemma> &lsquo;that the mischief might begin there and . . .&rsquo; <foreign lang="greek"><hi rend="BOLD">tou=</hi> kakou=</foreign>, the feared (or possible) mischief.
 The expression appears to have been proverbial. Cf. <foreign lang="greek">a)rxe/kakos</foreign>, <bibl n="Hom. Il. 5.63">Il. v. 63</bibl>; <foreign lang="greek">a)rxh\ kakw=n</foreign>, <bibl n="Hdt. 5. 97">Hdt. v. 97</bibl>; <foreign lang="greek">ou) smikrw=n kakw=n h)=rcen</foreign>, <bibl n="Soph. Trach. 871">Soph. Tr. 871</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="73"><p></p>
+<div2 type="CHAPTER" n="73"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)n ga\r</lemma> explaining <hi rend="BOLD"><foreign lang="greek">o(/per e)ge/neto</foreign>,</hi> not the fear of the oligarchs (<hi rend="BOLD"><foreign lang="greek">dei/santes</foreign></hi>). The events at Samos were not yet known at Athens.</p><p>
 
 <lemma lang="greek" targOrder="U">e)newteri/zeto h)/dh ta\ peri\ th\n o)ligarxi/an</lemma> &lsquo;a reaction had set in against the oligarchical movement&rsquo; (J.) The passive as in <bibl n="Thuc. 4. 41">iv. 41</bibl>, <foreign lang="greek">mh\ sfi/si ti newterisqh=| tw=n kata\ th\n xw/ran</foreign>, corresponding to the active of <bibl n="Thuc. 1. 115">i. 115</bibl>, <foreign lang="greek">newteri/sai boulo/menoi th\n politei/an</foreign>.</p><p>
@@ -2023,7 +2022,7 @@ Plut. adds <foreign lang="greek">kai\ to\ pe/ras ou)dei\s e)/ti to\ para/pan e)c
 </p></div3>
 <div3 type="SECTION" n="6"><p> <lemma lang="greek" targOrder="U">tria/konta/ tinas</lemma>. Cf. <bibl n="Thuc. 8. 21. 1">c. 21</bibl>, <foreign lang="greek">e)s diakosi/ous tina/s</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="74"><p></p>
+<div2 type="CHAPTER" n="74"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)p' au)th=s</lemma> either (1) simply &lsquo;on board it&rsquo;: cf. <bibl n="Thuc. 6. 61">vi. 61</bibl>, <foreign lang="greek">o( *)alkibia/dhs e)pi\ ploi/ou e)peraiw/qh</foreign>, or (2) &lsquo;in command of it&rsquo;: cf. <bibl n="Hdt. 5. 109">Hdt. v. 109</bibl>, <foreign lang="greek">e)p' ou(= e)ta/xqhmen</foreign>, and such phrases as <foreign lang="greek">o( e)pi\ th=s dioikh/sews</foreign>. Add <hi rend="ITALIC">e.g.</hi> <bibl n="Thuc. 4. 11">iv. 11</bibl>, <foreign lang="greek">nau/arxos de\ au)tw=n e)pe/plei</foreign> <pb n="247"/> <foreign lang="greek">*qrasumhli/das</foreign>. But Chaereas seems not to have been a &lsquo;Paralus&rsquo; himself, but only to have been sent with the ship to aid the mission. Otherwise <hi rend="BOLD"><foreign lang="greek">a)/ndra *)aqhnai=on</foreign></hi> would be useless after <bibl n="Thuc. 8. 73. 5">c. 73, &sect; 5</bibl>. Moreover, if he had been in charge, his escape (<foreign lang="greek">dialaqw/n pws</foreign>) would have been unlikely.</p><p>
 
 <lemma lang="greek" targOrder="U">a)/ndra *)aqhnai=on</lemma> i.e. not a Samian.</p><p>
@@ -2046,7 +2045,7 @@ Plut. adds <foreign lang="greek">kai\ to\ pe/ras ou)dei\s e)/ti to\ para/pan e)c
 
 <lemma lang="greek" targOrder="U">e)pikatayeudo/menos. e)pi-</lemma> of addition. Cf. <foreign lang="greek">e)piqerapeu/wn</foreign>, <bibl n="Thuc. 8. 47. 1">c. 47, &sect; 1</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="75"><p></p>
+<div2 type="CHAPTER" n="75"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pi\ . . . w(/rmhsan ba/llein</lemma> i.e. <hi rend="BOLD"><foreign lang="greek">w(/rmhsan e)pi\ tou\s</foreign></hi> . . . <hi rend="BOLD">(<foreign lang="greek">w(/ste</foreign>) <foreign lang="greek">ba/llein</foreign> (<foreign lang="greek">au)tou/s</foreign>).</hi> Cf. <bibl n="Thuc. 8. 84. 3">c. 84, &sect; 3</bibl>, <foreign lang="greek">w(/rmhsan e)pi\ to\n *)astu/oxon w(/ste ba/llein</foreign>. Liddell and Scott wrongly join <foreign lang="greek">w(/rmhsan ba/llein</foreign> (intrans.).</p><p>
 
 <lemma lang="greek" targOrder="U">kai\ e)/ti</lemma> the other reading <hi rend="BOLD"><foreign lang="greek">kai\ e)pi\</foreign></hi> repeats <hi rend="BOLD"><foreign lang="greek">e)pi\</foreign></hi> unnecessarily. <foreign lang="greek">kai\ e)/ti</foreign> = &lsquo;and furthermore.&rsquo;</p><p>
@@ -2064,7 +2063,7 @@ Plut. adds <foreign lang="greek">kai\ to\ pe/ras ou)dei\s e)/ti to\ para/pan e)c
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">cunekoinw/santo</lemma> lit. &lsquo;the soldiers made common cause with the Samians in all their interests and in the issue of the risk they ran.&rsquo; The argument is&mdash;they thought that the Samians and themselves were in the same straits: both alike had nowhere to turn beyond themselves: they could not yield to the 400, and they could not yield to the enemy. Accordingly they made common cause.
 Jowett takes <hi rend="BOLD"><foreign lang="greek">pra/gmata</foreign></hi> as &lsquo;troubles.&rsquo; Rather it is &lsquo;interests.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="76"><p></p>
+<div2 type="CHAPTER" n="76"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">oi( me\n</lemma> the Athenians in Samos.</p><p>
 
 <lemma lang="greek" targOrder="U">oi( de\</lemma> the oligarchs at Athens.</p><p>
@@ -2119,12 +2118,12 @@ The easiest correction satisfying these conditions is to insert <hi rend="BOLD">
 
 <lemma lang="greek" targOrder="U">w(/ste ou)de\</lemma> Cf. <bibl n="Thuc. 5. 40">v. 40</bibl>, <foreign lang="greek">w(/ste ou)de\ pro\s *)aqhnai/ous e)/ti sfi/sin ei)=nai cummaxi/an poh/sasqai</foreign>. See Shilleto, Appendix B to Dem. De Falsa Leg. <hi rend="BOLD"><foreign lang="greek">ou)</foreign></hi> in such sentences represents <foreign lang="greek">ou)</foreign> with indic. in the direct narration (here <foreign lang="greek">ou)k ei)si\</foreign> . . . )
 </p></div3></div2>
-<div2 type="CHAPTER" n="77"><p></p><div3 type="SECTION" n="1"><p> 
+<div2 type="CHAPTER" n="77"><p/><div3 type="SECTION" n="1"><p> 
 <lemma lang="greek" targOrder="U">kai\ ta\ tou= pole/mou k.t.l.</lemma> Jowett points out the favourite opposition of <foreign lang="greek">lo/gos</foreign> and <foreign lang="greek">e)/rgon</foreign> implied in <hi rend="BOLD"><foreign lang="greek">kai\</foreign>.</hi></p><p>
 
 <lemma lang="greek" targOrder="U">oi( de/ka presbeutai/</lemma> These words are probably rightly rejected by Herwerden. They are unnecessary to the sense, and <foreign lang="greek">pre/sbeis</foreign> is the correct plural. <hi rend="BOLD"><foreign lang="greek">presbeutai/</foreign></hi> occurs only here and in <bibl n="Thuc. 8. 86. 1">c. 86, &sect; 1</bibl> (where it is equally unnecessary), except for <bibl n="Andoc. 3.41">Andoc. 28, 36</bibl>, <foreign lang="greek">presbeuta\s u(ma=s h(mei=s oi( pre/sbeis poiou=men</foreign>, where the reason of its presence is obvious. In inscriptions <foreign lang="greek">presbeutai/</foreign> does not appear till the third century B.C.
 </p></div3></div2>
-<div2 type="CHAPTER" n="78"><p></p>
+<div2 type="CHAPTER" n="78"><p/>
 <div3 type="SECTION" n="1"><p>
 <lemma lang="greek" targOrder="U">u(po/ te *)astuo/xou kai\ *t.</lemma> The position of <hi rend="BOLD"><foreign lang="greek">te</foreign></hi> is the usual one in such combinations. See <bibl n="Thuc. 8. 54. 2">c. 54, &sect; 2</bibl>, <foreign lang="greek">ta/ te pro\s to\n *tiss. kai\ *)alkibia/dhn</foreign>.</p><p>
 
@@ -2146,7 +2145,7 @@ The easiest correction satisfying these conditions is to insert <hi rend="BOLD">
 
 <lemma lang="greek" targOrder="U">komi/zein . . . kai\ o(/ti . . . kakoi=</lemma> one might have looked for <foreign lang="greek">komi/zein . . . kai\, o(/ti ou) . . . di/dwsi, kakou=n</foreign>. The reverse change from the constr. with <foreign lang="greek">o(/ti</foreign> to the infin. is common. P-S quotes as a parallel for the present passage <bibl n="Thuc. 5. 65">v. 65</bibl>, <foreign lang="greek">tou\s strathgou\s e)n ai)ti/a| ei)=xon . . . tou\s *lakedaimoni/ous a)feqh=nai . . . kai\ o(/ti . . . ou)dei\s e)pidiw/kei</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="79"><p></p>
+<div2 type="CHAPTER" n="79"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">do/can . . . w(/ste</lemma> . . . Cf. <bibl n="Thuc. 8. 45. 3">c. 45, &sect; 3</bibl>, <foreign lang="greek">e)di/dasken w(/ste . . . pei=sai w(/ste cugxwrh=sai</foreign>; <bibl n="Thuc. 8. 81. 1">c. 81, &sect; 1</bibl>, <foreign lang="greek">th=s au)th=s gnw/mhs e)xo/menos . . . w(/ste</foreign> . . . So <foreign lang="greek">yhfi/zesqai w(/ste</foreign> frequently.</p><p>
 
 <lemma lang="greek" targOrder="U">a)po\ cuno/dou</lemma> lit. &lsquo;as a result of a council meeting.&rsquo; Cf. <bibl n="Thuc. 8. 97. 2">c. 97, &sect; 2</bibl>, <foreign lang="greek">a)f' w(=n</foreign> (<foreign lang="greek">e)kklhsiw=n</foreign>) <foreign lang="greek">nomoqe/tas e)yhfi/santo</foreign>; <bibl n="Thuc. 1. 97">i. 97</bibl>, <foreign lang="greek">a)po\ koinw=n cuno/dwn bouleuo/ntwn</foreign>. The use of <foreign lang="greek">a)po\</foreign> in <hi rend="ITALIC">e.g.</hi> <bibl n="Thuc. 8. 99. 1">c. 99</bibl>, <foreign lang="greek">a)po\ paragge/lmatos ai)fnidi/ou a)/ras</foreign>, is akin.</p><p>
@@ -2171,7 +2170,7 @@ The easiest correction satisfying these conditions is to insert <hi rend="BOLD">
 </p></div3>
 <div3 type="SECTION" n="6"><p> <lemma lang="greek" targOrder="U">o)ktw\ kai\ e(kato\n</lemma>. P-S wishes to read <foreign lang="greek">ps'</foreign> for <foreign lang="greek">ph'</foreign>, i.e. 106 instead of 108, on the ground that Strombichides would only bring twenty-four ships (<bibl n="Thuc. 8. 62. 2">c. 62, &sect; 2</bibl>). But why may he not have taken others from Delphinium on his way?
 </p></div3></div2>
-<div2 type="CHAPTER" n="80"><p></p>
+<div2 type="CHAPTER" n="80"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a(qro/ais tai=s nausi\n</lemma> either (1) the ships of the Athenians, the dative depending on <foreign lang="greek">a)cio/maxoi</foreign> or <foreign lang="greek">a)ntanh/gonto</foreign>, and the thought being <foreign lang="greek">a(/te h)/dh a(qro/ais ou)/sais</foreign>, or (2) the ships of the Peloponnesians, the dat. being instrumental and the thought <foreign lang="greek">kai/per a(qro/ais ou)/sais</foreign>. For the former it may be argued that <foreign lang="greek">kai/per</foreign> is the more difficult to supply, and that there is a reference to the previous willingness of the Peloponnesians to fight <foreign lang="greek">o(/te ai( nh=es tw=n *)aqhnai/wn ou)de/pw e)n tw=| au)tw=| ei)si/n</foreign> (<bibl n="Thuc. 8. 78. 1">c. 78</bibl>). For the latter, the instrumental sense would answer to <bibl n="Thuc. 8. 79. 2">c. 79, &sect; 2</bibl>, <foreign lang="greek">ou) nomi/santes tw=| plh/qei diakinduneu=sai i(kanoi\ ei)=nai</foreign>, and <foreign lang="greek">e)kei/nwn</foreign> would seem to be required with <foreign lang="greek">nausi\n</foreign> unless the ships were those of the Peloponnesians.</p><p>
 
 <lemma lang="greek" targOrder="U">w(/sper . . . proseta/xqh</lemma> sec <bibl n="Thuc. 8. 8. 2">c. 8, &sect; 2</bibl>; <bibl n="Thuc. 8. 39. 2">c. 39, &sect; 2</bibl>.
@@ -2188,7 +2187,7 @@ The easiest correction satisfying these conditions is to insert <hi rend="BOLD">
 </p></div3>
 <div3 type="SECTION" n="4"><p> <lemma lang="greek" targOrder="U">o)ktw\</lemma> there are eight in <bibl n="Thuc. 8. 107. 1">c. 107, &sect; 1</bibl>. The number <foreign lang="greek">diaswqei=sai</foreign> is ten. It would be futile to inquire into the doings of individual ships.
 </p></div3></div2>
-<div2 type="CHAPTER" n="81"><p></p>
+<div2 type="CHAPTER" n="81"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">ai)ei/ te . . . e)xo/menos</lemma> as if <hi rend="BOLD"><foreign lang="greek">kai\ te/los . . . pei/sas</foreign></hi> with finite verb <hi rend="BOLD"><foreign lang="greek">kath=ge</foreign></hi> were to follow, i.e. &lsquo;Thrasybulus, who both clung to the same view . . . and also at last induced the soldiery to accept it . . . proceeded to bring back Alcibiades.&rsquo; With <foreign lang="greek">pei/sas</foreign> the sentence would be correct, except that <hi rend="BOLD"><foreign lang="greek">kai\</foreign></hi> before <hi rend="BOLD"><foreign lang="greek">*yhfisame/nwn</foreign></hi> would be better omitted. But instead of <foreign lang="greek">pei/sas</foreign> the finite verb <hi rend="BOLD"><foreign lang="greek">e)/peisen</foreign></hi> is wrongly written, the intervening <hi rend="BOLD"><foreign lang="greek">e)peidh\ . . . *)alkibia/dhn</foreign></hi> having diverted the construction.
 Though the sentence begins with a plural subject, the singular construction proceeds in agreement with <hi rend="BOLD"><foreign lang="greek">*qrasu/boulos</foreign></hi> alone, as the chief spirit in whom the doings of the rest are summed up. Cf. <bibl n="Thuc. 8. 63. 1">c. 63, &sect; 1</bibl>, <foreign lang="greek">oi( e)n th=| *milh/tw| kai\ o( *)astu/oxos puqo/menos . . . to\n *strombixi/dhn kai\ ta\s nau=s a)pelhluqo/ta e)qa/rshse</foreign>.</p><p>
 
@@ -2233,13 +2232,13 @@ Though the sentence begins with a plural subject, the singular construction proc
 
 <lemma lang="greek" targOrder="U">a)nade/casqai</lemma> is a legal term of &lsquo;going bail,&rsquo; Theophr. Char. xxvi. (quoted by P-S). The <foreign lang="la">dat. commodi</foreign> <hi rend="BOLD"><foreign lang="greek">au)tw=|</foreign></hi> is obviously natural, and is paralleled by <bibl n="Plb. 11. 25">Polyb. xi. 25, 9</bibl>. <hi rend="BOLD"><foreign lang="greek">au)toi=s</foreign></hi> of several good MSS. could only be unsatisfactorily taken as ethic dat. with <hi rend="BOLD"><foreign lang="greek">katelqw\n</foreign>.</hi> If <foreign lang="greek">au)toi=s</foreign> as a variant on <foreign lang="greek">au)tw=|</foreign> has any significance, it may point to <foreign lang="greek">au)tou\s, a)nade/casqai/ tina</foreign> being Greek for &lsquo;to go bail for&rsquo; a person. Cf. <bibl n="Plb. 5. 16">Polyb. v. 16, 8</bibl>. Probably, however, it is merely a mistaken emendation.
 </p></div3></div2>
-<div2 type="CHAPTER" n="82"><p></p>
+<div2 type="CHAPTER" n="82"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)neti/qesan</lemma> &lsquo;entrusted to him,&rsquo; or &lsquo;were for entrusting to him.&rsquo; Cf. <bibl n="Aristoph. Cl. 1452">Arist. Nub. 1452</bibl>&mdash; <foreign lang="greek">tauti\ di' u(ma=s, w)= *nefe/lai, pe/ponq' e)gw\ u(mi=n a)naqei\s a(/panta ta)ma\ pra/gmata</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">dia\ to\ au)ti/ka k.t.l.</lemma> see crit. note. The ordinary reading is <hi rend="BOLD"><foreign lang="greek">kata\ to\ au)ti/ka k.t.l.</foreign></hi> As an expression of time <foreign lang="greek">kata\ to\ au)ti/ka</foreign> is not found, and in any case would be hardly appropriate with <foreign lang="greek"><hi rend="BOLD">e(toi=moi h)/dh.</hi> dia\ to\ au)ti/ka</foreign> is of course impossible in such a meaning. If <hi rend="BOLD"><foreign lang="greek">kata\</foreign></hi> were sound it would have to be regarded as governing <hi rend="BOLD"><foreign lang="greek">to\ . . katafronei=n</foreign></hi> in the sense of <foreign lang="greek">dia\</foreign>, by a rare use akin to such expressions as <foreign lang="greek">kat' e)/xqos, ai)ti/an kaq' h(/ntina</foreign>, etc., while the variant <hi rend="BOLD"><foreign lang="greek">dia\</foreign></hi> would be its interpretation.
 The MSS. go on to read <hi rend="BOLD"><foreign lang="greek">tou/s te</foreign></hi> (or with little support <hi rend="BOLD"><foreign lang="greek">to/te</foreign>) <foreign lang="greek">paro/ntas. ge</foreign></hi> of P-S makes excellent sense, and if <hi rend="BOLD"><foreign lang="greek">kai\</foreign></hi> before <pb n="257"/> <hi rend="BOLD"><foreign lang="greek">plei=n</foreign></hi> is rendered as = <foreign lang="la">etiam,</foreign> the sentence becomes normal by joining <foreign lang="greek">dia\</foreign> (or <foreign lang="greek">kata\</foreign>) with the following articular infinitive. The general sense is &lsquo;their <hi rend="ITALIC">present</hi> enemies were not enough for them, and they were eager <hi rend="ITALIC">actually</hi> to sail against Athens.&rsquo;
 </p></div3>
-<div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">kai\ pa/nu</lemma> &lsquo;altogether&rsquo; (pronounced with emphasis). Cf. <bibl n="Thuc. 2. 11">ii. 11</bibl>, <foreign lang="greek">w(/ste xrh\ kai\ pa/nu e)lpi/zein</foreign>; <bibl n="Thuc. 6. 10">vi. 10</bibl>, etc.</p><p></p></div3>
+<div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">kai\ pa/nu</lemma> &lsquo;altogether&rsquo; (pronounced with emphasis). Cf. <bibl n="Thuc. 2. 11">ii. 11</bibl>, <foreign lang="greek">w(/ste xrh\ kai\ pa/nu e)lpi/zein</foreign>; <bibl n="Thuc. 6. 10">vi. 10</bibl>, etc.</p><p/></div3>
 
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">i(/na dh\</lemma>. For the tone implied in <hi rend="BOLD"><foreign lang="greek">dh\</foreign></hi> cf. <bibl n="Thuc. 8. 9. 1">c. 9, &sect; 1</bibl>.</p><p>
 
@@ -2247,7 +2246,7 @@ The MSS. go on to read <hi rend="BOLD"><foreign lang="greek">tou/s te</foreign><
 
 <lemma lang="greek" targOrder="U">tw=| *tissafe/rnei . . . e)kei/nois</lemma> instrumental cases. He frightened each party with the other.
 </p></div3></div2>
-<div2 type="CHAPTER" n="83"><p></p>
+<div2 type="CHAPTER" n="83"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">punqano/menoi</lemma> &lsquo;getting to know of.&rsquo;</p><p>
 
 <lemma lang="greek" targOrder="U">kai\ pro/teron</lemma> to be joined. <hi rend="BOLD"><foreign lang="greek">kai\</foreign></hi> is not connective. The distrust had existed <hi rend="ITALIC">before.</hi> See <bibl n="Thuc. 8. 78. 1">c. 78</bibl> and the general dissatisfaction in <bibl n="Thuc. 8. 45. 1">c. 45</bibl>.</p><p>
@@ -2285,7 +2284,7 @@ The easy correction <hi rend="BOLD"><foreign lang="greek">kata\</foreign></hi> c
 
 <lemma lang="greek" targOrder="U">di' i)/dia ke/rdh</lemma> Cf. <bibl n="Thuc. 8. 50. 3">c. 50, &sect; 3</bibl>, <foreign lang="greek">e)pi\ i)di/ois ke/rdesi</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="84"><p></p>
+<div2 type="CHAPTER" n="84"><p/>
 <div3 type="SECTION" n="1"><p><lemma lang="greek" targOrder="U">cunhne/xqh . . . qo/rubos</lemma>. Cf. <bibl n="Plat. Stat. 270c">Plat. Polit. 270 C</bibl>, <foreign lang="greek">metabola\s sumferome/nas</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">peri\ to\n *)astu/oxon</lemma> Liddell and Scott, <foreign lang="greek">peri\</foreign> C. I. 5.
@@ -2324,7 +2323,7 @@ The easy correction <hi rend="BOLD"><foreign lang="greek">kata\</foreign></hi> c
 
 <lemma lang="greek" targOrder="U">u(/steron</lemma> with <hi rend="BOLD"><foreign lang="greek">a)poqano/nta</foreign></hi> (= <foreign lang="greek">e)pei\ u(/steron a)pe/qanen</foreign>). as the position shows.
 </p></div3></div2>
-<div2 type="CHAPTER" n="85"><p></p>
+<div2 type="CHAPTER" n="85"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">au)toi=s</lemma> the Peloponnesians.</p><p>
 
 <lemma lang="greek" targOrder="U">pro/s te to\n *)astu/oxon kai\ to\n *t.</lemma> Cf. <bibl n="Thuc. 8. 78. 1">c. 78, &sect; 1</bibl>, <foreign lang="greek">u(po/ te *)astuo/xou kai\ *tissafe/rnous</foreign>.</p><p>
@@ -2347,7 +2346,7 @@ The easy correction <hi rend="BOLD"><foreign lang="greek">kata\</foreign></hi> c
 
 <lemma lang="greek" targOrder="U">fugo/ntos e)k *surakousw=n</lemma> a good instance of this sense of <foreign lang="greek">feu/gein</foreign>, &lsquo;having been declared an exile from Syracuse.&rsquo; Cf. <bibl n="Xen. Hell. 1. 1. 27">Xen. Hell, i. 1, 27</bibl>, <foreign lang="greek">h)gge/lqh</foreign> (410 B. C.) <foreign lang="greek">toi=s tw=n *surakosi/wn strathgoi=s oi)/koqen o(/ti feu/goien u(po\ tou= dh/mou</foreign>. The reason was a political victory of the opposite faction. Hermocrates afterwards established himself in Sicily and carried on a war against Syracuse.
 </p></div3></div2>
-<div2 type="CHAPTER" n="86"><p></p>
+<div2 type="CHAPTER" n="86"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">kai\ oi( k.t.l.</lemma> rather than <foreign lang="greek">oi( de\</foreign>, as this sentence properly forms a continuation of <bibl n="Thuc. 8. 85">c. 85</bibl>, thus, <foreign lang="greek">o( d' *)alkibia/dhs diebebh/kei . . . kai\ oi( e)k th=s *dh/lou . . . a)fiknou=ntai</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">to/te</lemma> viz. <bibl n="Thuc. 8. 72. 1">c. 72, &sect; 1</bibl>.</p><p>
@@ -2423,7 +2422,7 @@ The easy correction <hi rend="BOLD"><foreign lang="greek">kata\</foreign></hi> c
 
 <lemma lang="greek" targOrder="U">tou\s pre/sbeis</lemma> viz. those of the Argives, mentioned above.
 </p></div3></div2>
-<div2 type="CHAPTER" n="87"><p></p>
+<div2 type="CHAPTER" n="87"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">w(s e)do/kei dh/</lemma> &lsquo;as he would have them believe.&rsquo; <hi rend="BOLD"><foreign lang="greek">dh\</foreign></hi> is ironical, as in <bibl n="Thuc. 8. 9. 1">c. 9, &sect; 1</bibl>. His real object, according to Thucydides, was <foreign lang="greek">tribh=s e(/neka kai\ a)nokwxh=s</foreign> (inf. <bibl n="Thuc. 8. 87. 4">&sect; 4</bibl>).</p><p>
 
 <lemma lang="greek" targOrder="U">th=| stratia=|</lemma> sc. <foreign lang="greek">tw=n *peloponnhsi/wn</foreign>; <foreign lang="la">dat. commodi.</foreign></p><p>
@@ -2480,7 +2479,7 @@ The sense is given by Plutarch (<bibl n="Plut. Alc. 26. 7">Alcib. &sect; 26</bib
 
 <lemma lang="greek" targOrder="U">w(s e)pi\</lemma>, &lsquo;with the intention of fetching . . .&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="88"><p></p>
+<div2 type="CHAPTER" n="88"><p/>
 <div3 type="SECTION" n="1"><p>
 <lemma lang="greek" targOrder="U">h)\ ga\r au)to\s k.t.l.</lemma> <bibl n="Plut. Alc. 26. 7">Plut. Alc. 26</bibl> puts it <foreign lang="greek">h)\ metasth/sein pro\s au)tou\s h)\ diapra/cesqai mhde\ pro\s e)kei/nous komisqh=nai</foreign>.</p><p>
 
@@ -2492,7 +2491,7 @@ The sense is given by Plutarch (<bibl n="Plut. Alc. 26. 7">Alcib. &sect; 26</bib
 
 <lemma lang="greek" targOrder="U">a)/nw</lemma> practically = &lsquo;eastward.&rsquo; The part of Asia Minor on the Aegean Sea is called <foreign lang="greek">ta\ ka/tw</foreign>, the parts farther east are <foreign lang="greek">ta\ a)/nw</foreign>. The king of Peisia comes <hi rend="ITALIC">down</hi> to the Grecian sea, a Greek goes <hi rend="ITALIC">upward</hi> into the king's territory by land, or parallel to such direction by way of the king's waters.
 </p></div3></div2>
-<div2 type="CHAPTER" n="89"><p></p>
+<div2 type="CHAPTER" n="89"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)k th=s *sa/mou</lemma> &lsquo;returning from Samos,&rsquo; where they were in <bibl n="Thuc. 8. 86. 1">c. 86</bibl>. <pb n="269"/></p><p>
 
 <lemma lang="greek" targOrder="U">ka)kei/nois</lemma> )( <hi rend="BOLD"><foreign lang="greek">kai\ *peloponnhsi/wn</foreign>.</hi></p><p>
@@ -2548,7 +2547,7 @@ Others take <foreign lang="greek">sxh=ma politiko\n</foreign> as = <foreign lang
 
 <lemma lang="greek" targOrder="U">prosta/ths tou= dh/mou</lemma> Cf. <bibl n="Thuc. 3. 75">iii. 75</bibl>, <foreign lang="greek">oi( tou= dh/mou prosta/tai</foreign>; <bibl n="Thuc. 4. 46">iv. 46</bibl>, etc. The title is not official (cf. &lsquo;leader of the opposition&rsquo;). The <foreign lang="greek">prosta/tai</foreign> are merely champions of the popular interests.
 </p></div3></div2>
-<div2 type="CHAPTER" n="90"><p></p>
+<div2 type="CHAPTER" n="90"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tw=| toiou/tw| ei)/dei</lemma> either (1) <foreign lang="greek">politei/as</foreign>, cf. <bibl n="Thuc. 3. 62">iii. 62</bibl>, <foreign lang="greek">kai/toi ske/yasqe e)n oi)/w| ei)/dei e(ka/teroi h(mw=n tou=to e)/pracan</foreign> and context; or (2) in a wider sense of <foreign lang="greek">ei)=dos</foreign>, &lsquo;such a course,&rsquo; cf. <bibl n="Thuc. 8. 56. 2">c. 56, &sect; 2</bibl>, <foreign lang="greek">tre/petai e)pi\ toio/nde ei)=dos</foreign> and note. The scholiast explains by <foreign lang="greek">katasta/sei</foreign>. The sense of <hi rend="BOLD"><foreign lang="greek">toiou/tw|</foreign></hi> is to be gathered from the latter part of the preceding chapter.</p><p>
 
 <lemma lang="greek" targOrder="U">kai\ proestw=tes</lemma> i.e. who had most influence among that faction.</p><p>
@@ -2611,7 +2610,7 @@ Two moles ran out from the north and south sides of the harbour, nearly meeting 
 <lemma lang="greek" targOrder="U">toi=s cu/mpasi</lemma> (1) Taken by Haacke, P-S, etc., as meaning &lsquo;no agreement <hi rend="ITALIC">for the whole Athenian people</hi> (though the Lacedaemonians were willing to make terms with <hi rend="ITALIC">the oligarchs</hi>).&rsquo; This must mean &lsquo;no agreement which the whole body of the people would be likely to accept.&rsquo; But the envoys had not sought to obtain terms for any one but the oligarchy. <hi rend="BOLD"><foreign lang="greek">ou)de\n pra/cantes</foreign></hi> implies failure in their mission. (2) Bauer, Dukas, etc., take it as = <foreign lang="greek">o(/lws</foreign>, <hi rend="ITALIC">omnino,</hi> joining it with the negative: &lsquo;nothing at all.&rsquo; The separation from <hi rend="BOLD"><foreign lang="greek">ou)de\n</foreign></hi> is apparently too great for this, and the expression is hardly classical Greek. In <bibl n="Dem. 18.39">Demosth. De Cor. 239 (39)</bibl>, <foreign lang="greek">toi=s me\n ga\r o(/lois ou)de\n me/trio/n moi dokei=te poiei=n</foreign>, the words are part of a spurious letter of Philip. <foreign lang="greek">toi=s pa=sin</foreign> of <bibl n="Thuc. 2. 64">ii. 64</bibl>, <bibl n="Thuc. 5. 28">v. 28</bibl>, <bibl n="Thuc. 7. 50">vii. 50</bibl>, stands on a different footing.
 A third rendering may be suggested, viz. &lsquo;on the whole question&rsquo;: lit. &lsquo;having effected nothing leading to an agreement upon (<hi rend="ITALIC">for</hi>) the whole situation.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="91"><p></p>
+<div2 type="CHAPTER" n="91"><p/>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">w(=n h)=san k.t.l.</lemma> &lsquo;among which were included some Italian ships from Tarentum and Locri and some Sicilian vessels.&rsquo; Tarentum was a colony of Sparta. During the Sicilian expedition its attitude had been merely negative, though naturally it was unfriendly to Athens (<bibl n="Thuc. 6. 44">vi. 44</bibl>, <bibl n="Thuc. 6. 104">104</bibl>). <foreign lang="greek">*lokroi\ *)epizefu/rioi</foreign> was a Locrian colony with a Lacedaemonian element. Its previous relations with Athens had been hostile (<bibl n="Thuc. 3. 99">iii. 99</bibl>, <bibl n="Thuc. 6. 44">vi. 44</bibl>, <bibl n="Thuc. 7. 1">vii. 1</bibl>, etc.).</p><p>
 
 <lemma lang="greek" targOrder="U">e)pi\ *la=|</lemma> Las, though called by Livy (xxxviii. 30) <foreign lang="la">vicus maritimus,</foreign> was ten stadia from the sea according to <bibl n="Paus. 3. 24. 5">Pausan. iii. 24, 5</bibl>. Hence <hi rend="BOLD"><foreign lang="greek">e)pi\</foreign></hi> rather than <foreign lang="greek">e)n</foreign>. The town was about five miles S W. of Gythium.</p><p>
@@ -2629,7 +2628,7 @@ A third rendering may be suggested, viz. &lsquo;on the whole question&rsquo;: li
 <lemma lang="greek" targOrder="U">kai\ o(pwsou=n</lemma> &lsquo;in any way whatever,&rsquo; cf. <bibl n="Thuc. 8. 90. 2">c. 90, &sect; 2</bibl>. Most editors prefer to make <hi rend="BOLD"><foreign lang="greek">kai\</foreign></hi> connective, and construe <foreign lang="greek">cumbh=nai e)/xein ta\ th=s po/lews a)/neu teixw=n kai\ new=n kai\ o(pwsou=n</foreign>.
 Render &lsquo;actually to introduce the enemy, and, giving up ships and walls, make <hi rend="ITALIC">any manner of</hi> terms as to the fate of the country.&rsquo; <hi rend="BOLD"><foreign lang="greek">ta\ th=s po/lews e)/xein</foreign></hi> is apparently always taken in the sense of <foreign lang="greek">ta\ pra/gmata e)/xein</foreign>, i.e. make terms enabling them <hi rend="ITALIC">to hold the government.</hi> But in the last resource all that the oligarchs will seek is their personal safety, and the government may go to the Lacedaemonians. <foreign lang="greek">ta\ th=s po/lews</foreign> can hardly be used for &lsquo;the government,&rsquo; unless <hi rend="ITALIC">e.g.</hi> <foreign lang="greek">pra/ssein</foreign> stands in place of <foreign lang="greek">e)/xein</foreign>. The more natural rendering surely is <foreign lang="greek">cumbh=nai</foreign> (<foreign lang="greek">w(/ste</foreign>) <foreign lang="greek">ta\ th=s po/lews</foreign> (&lsquo;the condition of the state&rsquo;) <foreign lang="greek">e)/xein kai\ o(pwsou=n</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="92"><p></p>
+<div2 type="CHAPTER" n="92"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pesagwga\s tw=n polemi/wn</lemma> &lsquo;ways of letting in the enemy.&rsquo;
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">ou)=n</lemma> resumptive. The words <foreign lang="greek">h)=n de/ ti kai\ toiou=ton . . . e)cergasa/menoi</foreign> were a parenthetical comment. <hi rend="BOLD"><foreign lang="greek">ta\ lego/mena</foreign>,</hi> sc. by Theramenes above.</p><p>
@@ -2714,7 +2713,7 @@ The reading <hi rend="BOLD"><foreign lang="greek">fulakh\n</foreign></hi> would 
 
 <lemma lang="greek" targOrder="U">a)/ntikrus &dagger; a)\n dh=mon h(gou/menoi</lemma> If the reading is sound there is a very peculiar confusion of <foreign lang="greek">a)/ntikrus dh=mon h(gou/menoi</foreign> and <foreign lang="greek">a)/ntikrus a)\n ei)=nai dh=mon h(gou/menoi. <hi rend="BOLD">a)\n</hi></foreign> may possibly be an error for <hi rend="BOLD"><foreign lang="greek">dh\</foreign></hi> (<foreign lang="greek">*a*n</foreign> and <foreign lang="greek">*d*h</foreign> Cobet, Nov. Lect. p. 539), or less easily for <hi rend="BOLD"><foreign lang="greek">au)=</foreign>,</hi> &lsquo;democracy once again.&rsquo; For <foreign lang="greek">a)/ntikrus</foreign> with noun cf. <foreign lang="greek">ou)de)n h)\ a)/ntikrus doulei/a</foreign> (<bibl n="Thuc. 1. 122">i. 122</bibl>). To simply omit <foreign lang="greek">a)\n</foreign> with Kruger, P-S, etc., is scarcely criticism, and yet <foreign lang="greek">a)\n</foreign> cannot be allowed, in default of something parallel, to stand without <foreign lang="greek">ei)=nai</foreign> or some similar verb.
 </p></div3></div2>
-<div2 type="CHAPTER" n="93"><p></p>
+<div2 type="CHAPTER" n="93"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">o(/mws kai\ teqorubhme/noi</lemma> i.e. <foreign lang="greek">kai\ teq., o(/mws</foreign>. Cf.<bibl n="Thuc. 7. 75"> vii. 75</bibl>. <hi rend="BOLD"><foreign lang="greek">kai\</foreign></hi>=&lsquo;though at the same time . . .&rsquo; The perfect as in <foreign lang="greek">pefo/bhmai, teqau/maka, pefro/ntika</foreign>, etc.</p><p>
 
 <lemma lang="greek" targOrder="U">cune/labon</lemma> in the relative clause = pluperfect, as usual. Cf. <foreign lang="greek">cune/meinen</foreign>, <bibl n="Thuc. 8. 73. 4">c. 73, &sect; 4</bibl>.</p><p>
@@ -2745,7 +2744,7 @@ The reading <hi rend="BOLD"><foreign lang="greek">fulakh\n</foreign></hi> would 
 
 <lemma lang="greek" targOrder="U">*dionusi/w|</lemma> sc. <foreign lang="greek">i(erw=|</foreign>. The orthography (not <foreign lang="greek">-ei/w|</foreign>) is shown <pb n="285"/> by the metre in Arist. Frag. 187, <foreign lang="greek">ti/s a(\n fra/seie pou= 'sti to\ *dionu/sion</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="94"><p></p>
+<div2 type="CHAPTER" n="94"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)ph=lqen</lemma> sc. the fixed day. Cf. <foreign lang="greek">e)fh=ke</foreign>, <bibl n="Thuc. 8. 67. 2">c. 67, &sect; 2</bibl>. </p><p>
 
 <lemma lang="greek" targOrder="U">au)to\ tou=to . . . to\ pa/lai lego/menon k.t.l.</lemma> &lsquo;began to think that this was exactly what Theramenes had been telling them for some time&rsquo; (<bibl n="Thuc. 8. 91. 2">c. 91, &sect; 2</bibl>, and <bibl n="Thuc. 8. 92. 3">c. 92, &sect; 3</bibl>).</p><p>
@@ -2768,7 +2767,7 @@ For the one genitive depending on the other cf. <bibl n="Thuc. 1. 136">i. 136</b
 
 <lemma lang="greek" targOrder="U">kaqei=lkon</lemma> sc. <foreign lang="greek">e)k tw=n newsoi/kwn</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="95"><p></p>
+<div2 type="CHAPTER" n="95"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">peribalou=sai</lemma>. Cf, <bibl n="Hdt. 6. 44">Hdt. vi. 44</bibl>, <foreign lang="greek">e)k de\ *)aka/nqou o(rmeo/menoi to\n *)/aqwn perie/ballon</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">*qorikou= . . . *prasiw=n</lemma> Thoricus and Prasiae are the two seaside towns nearest to Sunium after the cape is rounded. Thoricus, seven miles from Sunium, was a place of some importance.</p><p>
@@ -2804,7 +2803,7 @@ The reading <hi rend="BOLD"><foreign lang="greek">e)s *eu)/boian</foreign></hi> 
 
 <lemma lang="greek" targOrder="U">plh\n *)wreou=</lemma> in the extreme north of the island, formerly called Histiaea (<bibl n="Thuc. 7. 57">vii. 57</bibl>). 2000 Athenian cleruchs had been settled in the place by Pericles after the Euboean revolt of B.C. 445 (<bibl n="Thuc. 1. 114">i. 114</bibl>). Hence <foreign lang="greek"><hi rend="BOLD">au)toi\</hi> ei)=xon</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="96"><p></p>
+<div2 type="CHAPTER" n="96"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">h)=lqe</lemma> i.e. the report of it. Cf. <bibl n="Dem. 3.5">Dem. Ol. iii. 5</bibl>, <foreign lang="greek">w(s ga\r h)gge/lqh *fi/lippos a)sqenw=n h)\ teqnew/s</foreign>, (<foreign lang="greek">h)=lqe ga\r a)mfo/tera</foreign>), <pb n="288"/> <foreign lang="greek">k.t.l.</foreign> In <bibl n="Thuc. 1. 61">i. 61</bibl> more correctly <foreign lang="greek">h)=lqe . . . h( a)ggeli/a</foreign>. So <bibl n="Thuc. 3. 33">iii. 33</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">megi/sth tw=n pri\n</lemma> an idiom almost too common to notice. Cf. <foreign lang="greek">a)ciologw/taton tw=n progegenhme/nwn</foreign> (<bibl n="Thuc. 1. 1">i. 1</bibl>). <foreign lang="greek">megi/sthn tw=n pro\ au)th=s</foreign> (<bibl n="Thuc. 1. 10">i. 10</bibl>), <foreign lang="greek">me/giston dh\ tw=n pri\n ki/ndunon</foreign> (<bibl n="Thuc. 6. 13">vi. 13</bibl>). <bibl n="Tac. Ag. 34.1">Tac. Agr. 36 [34]</bibl>. <foreign lang="la">ceterorum Britannorum fugacissimi.</foreign>
@@ -2827,7 +2826,7 @@ The reading <hi rend="BOLD"><foreign lang="greek">e)s *eu)/boian</foreign></hi> 
 
 <lemma lang="greek" targOrder="U">o(moio/tropoi geno/menoi k.t.l.</lemma> Arnold refers to <bibl n="Thuc. 7. 21">vii. 21</bibl> and <bibl n="Thuc. 7. 55">55</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="97"><p></p>
+<div2 type="CHAPTER" n="97"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">d' ou)=n</lemma> &lsquo;however,&rsquo; the statement of what might have been and the comparison of methods have been a digression.</p><p>
 
 <lemma lang="greek" targOrder="U">o(/mws</lemma> sc. <foreign lang="greek">kai/per e)kpeplhgme/noi</foreign> (<bibl n="Thuc. 8. 96. 1">c. 96, &sect; 1</bibl>).</p><p>
@@ -2867,7 +2866,7 @@ Commentators seem to compare with the number 5000 the whole number of hoplites <
 
 <lemma lang="greek" targOrder="U">tw=n pragma/twn</lemma> i.e. <foreign lang="greek">tou= pole/mou</foreign> (P-S).
 </p></div3></div2>
-<div2 type="CHAPTER" n="98"><p></p>
+<div2 type="CHAPTER" n="98"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">toco/tas tina\s tou\s barbarwta/tous</lemma>. The <foreign lang="greek">toco/tai</foreign> in question are the police or city-guard of Athens, slaves, mostly drawn from Scythia (hence <foreign lang="greek">ba/rbaroi</foreign>). See Boeckh, Oecon. i. 276-278. Their full number at this time, according to <bibl n="Aeschin. 2.174">Aeschines, De F. Leg 335</bibl>, was about 1200. In <bibl n="Aristoph. Ach. 54">Aristoph. Ach. 54</bibl>, the crier calling for the police says <foreign lang="greek">oi( toco/tai</foreign>!</p><p>
 
 <lemma lang="greek" targOrder="U">*oi)no/hn</lemma> Cf. <bibl n="Thuc. 2. 18">ii. 18</bibl>, <foreign lang="greek">h( ga\r *oi)no/h ou)=sa e)n meqori/ois th=s *)attikh=s kai\ *boiwti/as e)tetei/xisto, kai\ au)tw=| frouri/w| oi( *)aqhnai=oi e)xrw=nto o(po/te po/lemos katala/boi</foreign>. The town was on the direct road from Athens to Thebes and Delphi.
@@ -2880,7 +2879,7 @@ Commentators seem to compare with the number 5000 the whole number of hoplites <
 </p></div3>
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">cumbeba/sqai</lemma> impers. Cf. <bibl n="Thuc. 3. 67">iii. 67</bibl>, <bibl n="Thuc. 4. 23">iv. 23</bibl>, etc.
 </p></div3></div2>
-<div2 type="CHAPTER" n="99"><p></p>
+<div2 type="CHAPTER" n="99"><p/>
 <div3 type="SECTION" n="1"><p>
 <lemma lang="greek" targOrder="U">kai\ oi( e)n th=| *milh/tw|</lemma> &lsquo;the P. in Miletus, on their side also,&rsquo; as opposed to the new Peloponnesian force which had subjugated Euboea.</p><p>
 
@@ -2910,7 +2909,7 @@ Commentators seem to compare with the number 5000 the whole number of hoplites <
 
 <lemma lang="greek" targOrder="U">*)/ikaron</lemma> the nearest large island, west of, and near to, Samos.
 </p></div3></div2>
-<div2 type="CHAPTER" n="100"><p></p>
+<div2 type="CHAPTER" n="100"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">*qra/sullos</lemma> <hi rend="ITALIC">v.</hi> <bibl n="Thuc. 8. 76. 2">c. 76, &sect; 2</bibl>. 
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">au)to\n kaqe/cein au)tou=</lemma> either intrans. (cf. <bibl n="Thuc. 8. 28. 2">c. 28, &sect; 2</bibl>, <foreign lang="greek">e)n h)=| *)amo/rghs katei=xe</foreign>) or trans., of which the passive occurs in <bibl n="Thuc. 2. 86">ii. 86</bibl>, <foreign lang="greek">e)n w)=| oi( *)aqhnai=oi peri\ *krh/thn katei/xonto</foreign>. The latter makes the better sense. Thrasyllus knew that Mindarus wished to get to the Hellespont: he might hope to <hi rend="ITALIC">keep</hi> him in Chios, but he would not naturally expect him to stay there of his own accord.</p><p>
@@ -2945,7 +2944,7 @@ Commentators seem to compare with the number 5000 the whole number of hoplites <
 
 <lemma lang="greek" targOrder="U">tw=| strateu/mati</lemma> instrumental, &lsquo;by the forces on board them.&rsquo; <hi rend="BOLD"><foreign lang="greek">a)f' w(=n</foreign>,</hi> however, should not be joined closely with <foreign lang="greek">tw=| strateu/mati</foreign>, but taken with the whole clause: &lsquo;(working) from on board these ships, by means of the forces in them, etc.&rsquo;
 </p></div3></div2>
-<div2 type="CHAPTER" n="101"><p></p>
+<div2 type="CHAPTER" n="101"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">duoi=n h(me/rain</lemma>. MSS. have <hi rend="BOLD"><foreign lang="greek">dusi\n h(me/rais</foreign>.</hi> But <hi rend="BOLD"><foreign lang="greek">dusi\n</foreign></hi> is a form unknown in Attic until Roman times (Meisterhans, Gr. Att. Ins. p. 124), and is expressly condemned by Phrynichus (Rutherford, New Phryn. Art. clxxxv.) The correction to <hi rend="BOLD"><foreign lang="greek">duoi=n</foreign></hi> being made, <hi rend="BOLD"><foreign lang="greek">h(me/rain</foreign></hi> must be written (New Phryn. <hi rend="ITALIC">ibid.</hi>)
 Jowett renders &lsquo;having spent two days in provisioning,&rsquo; as if he read <foreign lang="greek">du/o h(me/ras</foreign>. The accusative would be used if the provisioning took the whole time; the genitive implies that it was done &lsquo;at times within&rsquo; two days. So P - S renders <foreign lang="la">intra duos dies,</foreign> comparing <bibl n="Thuc. 5. 14">v. 14</bibl>, <foreign lang="greek">w)/|onto o)li/gwn e)tw=n kaqairh/sein th\n tw=n *)aqhnai/wn du/namin</foreign>. Jelf, &sect; 523, 2. The genitive is really partitive.
 We cannot render &lsquo;provisioning themselves <hi rend="ITALIC">for</hi> two days' voyage,&rsquo; because of the following <hi rend="BOLD"><foreign lang="greek">th=| tri/th|</foreign>.</hi></p><p>
@@ -2976,7 +2975,7 @@ The Arginusae islands are at the limit of the territory of Cyme, and &lsquo;when
 
 <lemma lang="greek" targOrder="U">*(roi/teion</lemma> some seven miles up the Hellespont from Sigeum. As Classen points out, <hi rend="BOLD"><foreign lang="greek">h)/dh</foreign></hi> belongs to <foreign lang="greek">tou= *)ellhspo/ntou</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="102"><p></p>
+<div2 type="CHAPTER" n="102"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)n th=| *shstw=| k.t.l.</lemma> In <bibl n="Thuc. 8. 62. 3">c. 62, &sect; 3</bibl> Sestos was made the Athenian station to guard the Hellespont. Strombichides had brought back to Samos all the twenty-four ships with <pb n="297"/> which he had gone to Sestos (<bibl n="Thuc. 8. 79. 5">c. 79, &sect; 5</bibl>). The ships named here must therefore be those sent in <bibl n="Thuc. 8. 80. 4">c. 80, &sect; 4</bibl>.</p><p>
 
 <lemma lang="greek" targOrder="U">oi( fruktwroi\</lemma> The article assumes that they naturally existed. For the rest cf. <bibl n="Thuc. 3. 22">iii. 22</bibl>, <foreign lang="greek">o(/pws a)safh= ta\ shmei=a th=s fruktwri/as toi=s polemi/ois h)=</foreign>; <bibl n="Thuc. 3. 80">iii. 80</bibl>, <foreign lang="greek">e)fruktwrh/qhsan au)toi=s e)ch/konta nh=es prosple/ousai</foreign>.</p><p>
@@ -3003,7 +3002,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 </p></div3>
 <div3 type="SECTION" n="3"><p> <lemma lang="greek" targOrder="U">to\ i(ero\n tou= *prwtesila/ou</lemma>. Cf. <bibl n="Hdt. 7. 33">Hdt. vii. 33</bibl>; <bibl n="Hdt. 9. 116">ix. 116</bibl>, <bibl n="Hdt. 9. 120">120</bibl>; <bibl n="Paus. 1. 34. 2">Paus. i. 34 &sect; 2</bibl>; <bibl n="Strab. 13. 1. 31">Strabo xiii. 1. 31</bibl>. It was of some splendour.
 </p></div3></div2>
-<div2 type="CHAPTER" n="103"><p></p>
+<div2 type="CHAPTER" n="103"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e(\c kai\ o)gdoh/konta</lemma>. There were sixteen from Abydos, Mindaius had seventy-three (<bibl n="Thuc. 8. 99. 1">c. 99</bibl>), of which two were taken by the Athenians (inf. <bibl n="Thuc. 8. 103. 2">&sect; 2</bibl>), and one is not accounted for.
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">yeusqe/ntes tw=n skopw=n</lemma> &lsquo;disappointed in their scouts,&rsquo; <hi rend="ITALIC">i e.</hi> their scouts had failed to inform them. Cf. <bibl n="Plat. Menex. 245c">Plat. Menex. 245 C</bibl>, <foreign lang="greek">tw=n a)/llwn cumma/xwn e)yeu/sqh</foreign>. The gen. follows <foreign lang="greek">yeu/desqai</foreign> as it does <foreign lang="greek">a)marta/nein, a)pata=sqai</foreign>, etc. The exact nature of the mistake will depend on the nature of the expectation. Cf. <bibl n="Thuc. 4. 108">iv. 108</bibl>, <foreign lang="greek">e)yeusme/noi th=s tw=n *)aqhnai/wn duna/mews</foreign>; <bibl n="Soph. Aj. 807">Soph. Aj. 807</bibl>, <foreign lang="greek">e)/gnwka fwto\s h)pathme/nh</foreign>.</p><p>
@@ -3016,7 +3015,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 
 <lemma lang="greek" targOrder="U">e)k th=s *)/imbrou</lemma> also those from Lemnos (<bibl n="Thuc. 8. 102. 2">c. 102, &sect; 2</bibl>). See <foreign lang="greek">e(\c kai\ e(bdomh/konta</foreign>, <bibl n="Thuc. 8. 104. 2">c. 104, &sect; 2</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="104"><p></p>
+<div2 type="CHAPTER" n="104"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pi\ ke/rws</lemma> &lsquo;in column,&rsquo; <foreign lang="la">longo agmine,</foreign> as opposed to <foreign lang="greek">e)pi\ fa/laggos</foreign> (<bibl n="Xen. Hell. 6. 2. 30">Xen. Hell. vi. 2, 30</bibl>), <foreign lang="la">quadrato agmine.</foreign>
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">a)rca/menoi a)po\ *)ida/kou me/xri *)arrianw=n</lemma>. Nothing is known of Idacus or Arrhiani, nor are the genders of the words certain. The context (<foreign lang="greek">a)rca/menoi</foreign>, etc.) seems to imply that Arrhiani is farther up the Hellespont than Idacus. <hi rend="BOLD"><foreign lang="greek">me/xri</foreign></hi> with <hi rend="BOLD"><foreign lang="greek">pare/teinan</foreign>,</hi> not <foreign lang="greek">a)rca/menoi</foreign>.</p><p>
@@ -3041,7 +3040,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 </p></div3>
 <div3 type="SECTION" n="5"><p> <lemma lang="greek" targOrder="U">*kuno\s sh=ma</lemma> where tradition placed the tomb of Hecuba. <bibl n="Eur. Hec. 1265">Eur. Hec. 1265</bibl>, <foreign lang="greek">ku/wn genh/sei pu/rs' e)/xousa de/rgmata</foreign>; <bibl n="Eur. Hec. 1271">1271, 1273</bibl>, <foreign lang="greek">tu/mbw| d' o)/noma sw=| keklh/setai kuno\s talai/nhs sh=ma, nauti/lois te/kmar</foreign>. But the name must have had a less romantic origin. There is a Cynossema also in Caria: cf. <foreign lang="greek">*kuno\s ou)ra/, *kuno\s kefalai/</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="105"><p></p>
+<div2 type="CHAPTER" n="105"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">e)pece/bhsan</lemma> &lsquo;landed to follow up their victory&rsquo;. (J.) <pb n="301"/>
 </p></div3>
 <div3 type="SECTION" n="2"><p> <lemma lang="greek" targOrder="U">a)fane/s . . . h)=n</lemma> sc. what was going on, &lsquo;the state of things.&rsquo;</p><p>
@@ -3060,7 +3059,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 
 <lemma lang="greek" targOrder="U">peplanhme/nas</lemma> For the perfect of a state or condition cf. <foreign lang="greek">teqorubhme/noi</foreign>, <bibl n="Thuc. 8. 93. 1">c. 93, &sect; 1</bibl>
 </p></div3></div2>
-<div2 type="CHAPTER" n="106"><p></p>
+<div2 type="CHAPTER" n="106"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">nau=s me\n o)li/gas . . . th\n me/ntoi</lemma> &lsquo;though . . yet . . .&rsquo;.<pb n="302"/></p><p>
 
 <lemma lang="greek" targOrder="U">braxei/as k.t.l.</lemma> = &lsquo;gave them but a short distance to cover before reaching shelter.&rsquo;
@@ -3075,7 +3074,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 
 <lemma lang="greek" targOrder="U">dunata\</lemma> not impersonal, but in agreement with <hi rend="BOLD"><foreign lang="greek">ta\ pra/gmata</foreign>.</hi> Cf. <bibl n="Thuc. 3. 86">iii. 86</bibl>, <foreign lang="greek">ei) sfi/si dunata\ ei)/h ta\ e)n th=| *sikeli/a| pra/gmata u(poxei/ria gene/sqai</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="107"><p></p>
+<div2 type="CHAPTER" n="107"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">a)po\ spoudh=s</lemma>. All MSS. give <hi rend="BOLD"><foreign lang="greek">u(po\</foreign>,</hi> upon which no commentator has remarked. Thucydides has <foreign lang="greek">kata\ spoudh/n</foreign>, <bibl n="Thuc. 1. 93">i. 93</bibl>, <bibl n="Thuc. 2. 90">ii. 90</bibl>; <foreign lang="greek">meta\ spoudh=s</foreign> and <foreign lang="greek">dia\ spoudh=s</foreign> are also natural expressions; but there is no parallel to this use of <foreign lang="greek">u(po\</foreign>. Such expressions as <foreign lang="greek">u(p' o)rgh=s, u(f' h(donh=s, u(po\ de/ous</foreign> are only used where the <foreign lang="greek">o)rgh/, h(donh/, de/os</foreign> is the cause or motive of the action. In <bibl n="Thuc. 8. 35. 1">c. 35. &sect; 1</bibl>, all MSS. wrongly give <foreign lang="greek">a)po\</foreign> for <foreign lang="greek">u(po\</foreign>. If the contrary emendation is made here, we get the well-authenticated <foreign lang="greek">a)po\ spoudh=s</foreign> = <foreign lang="greek">spoudh=|</foreign> or <foreign lang="greek">spoudai/was</foreign> = &lsquo;they worked with a will.&rsquo; Cf. <foreign lang="greek">a)po\ tou= perifanou=s</foreign> = <foreign lang="greek">perifanw=s</foreign> (<bibl n="Thuc. 1. 35">i. 35</bibl>), <foreign lang="greek">a)po\ a)ntipa/lou paraskeuh=s</foreign> (<bibl n="Thuc. 1. 99">i. 99</bibl>). <bibl n="Hom. Il. 7.359">Hom. Il. vii. 359</bibl>, <foreign lang="greek">ei) d' e)teo\n dh\ tou=ton a)po\ spoudh=s a)goreu/eis</foreign>.</p><p>
 
 <lemma lang="greek" targOrder="U">oi( e)n th=| *shstw=|</lemma> Thucydides has omitted to tell us that they had established themselves there after the battle. It was, however, the natural thing to do.</p><p>
@@ -3092,7 +3091,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 
 <lemma lang="greek" targOrder="U">ta\s e)kei=qen nau=s</lemma> <hi rend="ITALIC">v.</hi> <bibl n="Thuc. 8. 95. 1">c. 95</bibl>. This fleet was wrecked off Mt. Athos (<bibl n="Diod. 13. 41">Diod. xiii. 41</bibl>). But Hippocrates was saved, as appears from <bibl n="Xen. Hell. 1. 1. 23">Xen. Hell. i. 1, 23</bibl>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="108"><p></p>
+<div2 type="CHAPTER" n="108"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">tai=s trisi\ kai\ de/ka</lemma> named in <bibl n="Thuc. 8. 88. 1">c. 88</bibl>. See the same place for the order <hi rend="BOLD"><foreign lang="greek">*kau/nou kai\ *fash/lidos</foreign>.</hi></p><p>
 
 <lemma lang="greek" targOrder="U">*peloponnhsi/ois</lemma> <foreign lang="la">dat. incommodi</foreign> with the general sense.
@@ -3113,7 +3112,7 @@ By keeping <hi rend="BOLD"><foreign lang="greek">poiou/menoi</foreign>,</hi> rea
 </p></div3>
 <div3 type="SECTION" n="5"><p> <lemma lang="greek" targOrder="U">a)/lla e)piba/llontos</lemma> &lsquo;and inasmuch as he was <hi rend="ITALIC">moreover</hi> laying upon them burdens, etc.&rsquo; <hi rend="BOLD"><foreign lang="greek">a)/lla</foreign></hi> is used as in the well-known idiom, <bibl n="Aeschin. 1.163">Aeschin. 23</bibl>, <foreign lang="greek">prosoflw\n ou) th\n e)pwbeli/an mo/non a)lla\ kai\ a)/llhn u)/brin</foreign>. Cf. <bibl n="Thuc. 2. 14">ii. 14</bibl>, <foreign lang="greek">e)sekomi/zonto pai=das kai\ gunai=kas kai\ th\n a)/llhn kataskeuh/n</foreign>.
 </p></div3></div2>
-<div2 type="CHAPTER" n="109"><p></p>
+<div2 type="CHAPTER" n="109"><p/>
 <div3 type="SECTION" n="1"><p> <lemma lang="greek" targOrder="U">ai)sqo/menos . . . to\ e)/rgon</lemma>. Jowett's &lsquo;perceived that this new injury was the work of the Peloponnesians' would require <foreign lang="greek">*peloponnhsi/wn o)\n e)/rgon</foreign>. Rather &lsquo;learning of this act on the part of the Peloponnesians in addition to . . .&rsquo; Though <pb n="304"/> the Peloponnesians did not initiate this revolt, they had assisted it with their hoplites.</p><p>
 
 <lemma lang="greek" targOrder="U">to\ e)n *milh/tw|</lemma> <bibl n="Thuc. 8. 84. 4">c. 84, &sect; 4</bibl>.</p><p>

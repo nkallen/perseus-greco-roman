@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -854,7 +853,7 @@
 <p> <lemma lang="greek" targOrder="U">qusi/as kai\ a)gw/nwn</lemma>: in appos. with <foreign lang="greek">tou= i(erou=</foreign>, answering the same purpose as <foreign lang="greek">w(/ste</foreign> with the corresponding infs. in <bibl n="Thuc. 5.49.3">c. 49. 3</bibl>. These words are not necessary, but are not out of place here (Kr. and St. bracket them <pb n="96"/> as an interpolation derived from <bibl n="Thuc. 5.49.3">c. 49. 3</bibl>).</p>
 <p><lemma lang="greek" targOrder="U">oi)/koi e)/quon</lemma>: for &lsquo;participation in the sacrifice at the festival of the Olympian Zeus belonged to the state religion of the Spartans&rsquo; (Curtius, Hermes 14, p. 131).&mdash;<lemma lang="greek" targOrder="U">e)qew/roun</lemma>: &ldquo;were on the spot and took part in the festival.&rdquo; Cf. <bibl n="Thuc. 5.18.4">c. 18. 4</bibl>; <bibl n="Thuc. 8.10.2">viii. 10. 2</bibl>.</p>
 <p> <lemma lang="greek" targOrder="U">mh\ bi/a| qu/swsi</lemma>: &ldquo;that they would force their way to the sacrifice by arms,&rdquo; aor.&mdash;<lemma lang="greek" targOrder="U">cu\n o(/plois tw=n newte/rwn</lemma>: an unusual expression: cum iuuentute armata, <hi rend="italic">with the young men under arms.</hi> The simple <foreign lang="greek">cu\n o(/plois</foreign> or <foreign lang="greek">cu\n toi=s o(/plois</foreign> (cf. 13; <bibl n="Thuc. 2.2.11">ii. 2. 11</bibl>; 90. 28; <bibl n="Thuc. 4.14.13">iv. 14. 13</bibl>; <bibl n="Thuc. 6.105.10">vi. 105. 10</bibl>) freq. denotes arms in actual use, and is practically equiv. to <foreign lang="greek">cu\n o(pli/tais</foreign>. Cf. Scott, <title>Marmion</title>, i. 20.</p>
-<p></p><p>The sight of plundering Border spears Might justify suspicious fears.</p>
+<p/><p>The sight of plundering Border spears Might justify suspicious fears.</p>
 <p>Here the <foreign lang="greek">o(/pla</foreign> are limited to the <foreign lang="greek">new/teroi</foreign> because the rest of the population was just then busy with the festival.&mdash; 12. <lemma lang="greek" targOrder="U">*(arpi/nh|</lemma>: for <foreign lang="greek">*)/argei</foreign> of the Mss. is an emendation of Michaelis (Philol. 24, p. 166) adopted by Cl. and St. Harpina, one of the eight towns of the Pisatid (Strab. viii. 32), was situated in the valley of the Alpheus, twenty stadia above Olympia (Curtius, <title>Pelopon.</title> II. p. 50; Bursian, II. p. 287 f.), near enough for protection, and far enough away to avoid disturbing the festival by the sight of arms.</p>
 <p> <lemma lang="greek" targOrder="U">*li/xas</lemma>: the same who appears freq. in the course of the war as a man of some influence. Cf. <bibl n="Thuc. 5.76.11">c. 76. 11</bibl>; <bibl n="Thuc. 8.39.8">viii. 39. 8</bibl>, etc.</p>
 <p><lemma lang="greek" targOrder="U">r(abdou/xwn</lemma>: prob. the subordinates of the agonothetae or hellanodicae, whose duty was to keep order and correct offenders. Hermann, <title>Griech. Alt.</title> II. &sect; 50, note 20.</p>

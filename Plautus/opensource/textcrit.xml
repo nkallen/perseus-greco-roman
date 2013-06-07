@@ -1,9 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
-<!ENTITY nmacr "[nmacr ]" >
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
+<!ENTITY nmacr "[nmacr ]">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -441,7 +440,7 @@ archetype.</p>
 <p>If we put these results in the form of a <foreign lang="la">stemma codicum,</foreign>
 we have&mdash;
 <pb n="8"/>
-<figure></figure><!-- picture of a stemma here --></p>
+<figure/><!-- picture of a stemma here --></p>
 <p>It is probable that <title>P,</title> the archetype, was directly copied
 from a MS. in capitals (i.e. not later than the fifth century);
 so that our authorities for the text of Plautus resolve themselves
@@ -4084,7 +4083,7 @@ haud <title>B mg.,</title> haud <title>CD</title>)</foreign>.</p>
 <div2 id="cbs1" type="paragraph" n="1">
 <p>
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell>
+<row role="data"><cell cols="1" role="data" rows="1"/>
 <cell cols="1" role="data" rows="1"><bibl n="Pl. Capt. 2.2">Plautus <title>Captivi</title> 251-269</bibl>:--</cell>
 <cell cols="1" role="data" rows="1">(Read <ref target="cis4" targOrder="U">introduction, &sect; 4</ref> on the relationship of the MSS. of Plautus.)</cell>
 </row>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">C. F. W. M&uuml;ller</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 <sourceDesc>
 <biblStruct>
@@ -43,7 +42,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.div_lat.xml,v $
@@ -652,8 +651,8 @@ et apud Ennium Vestalis illa:
 <l>Corde capessere; semita nulla pedem stabilibat.</l>
 <milestone unit="section" n="41"/>
 <l>Exin compellare pater me voce videtur</l>
-<l>His verbis: &quot;O gnata, tibi sunt ante gerendae</l>
-<l>Aerumnae, post ex fluvio fortuna resistet.&quot;</l>
+<l>His verbis: "O gnata, tibi sunt ante gerendae</l>
+<l>Aerumnae, post ex fluvio fortuna resistet."</l>
 <l>Haec ecfatus pater, germana, repente recessit</l>
 <l>Nec sese dedit in conspectum corde cupitus,</l>
 <l>Quamquam multa manus ad caeli caerula templa</l>
@@ -3668,4 +3667,3 @@ saepissime utemur. Mihi vero, inquit ille, nihil potest esse iucundius. Quae cum
 </body>
 </text>
 </TEI.2>
-

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -763,7 +762,7 @@
 <l>Illum dum refugis, longo quia grandior aevo,</l>
 <l rend="indent">Surgis ad invisas a sene mane rotas.</l>
 <l>At si, quem mavis, Cephalum conplexa teneres,</l>
-<l n="40" rend="indent">Clamares: &quot;lente currite, noctis equi!&quot;</l>
+<l n="40" rend="indent">Clamares: "lente currite, noctis equi!"</l>
 <l>Cur ego plectar amans, si vir tibi marcet ab annis?</l>
 <l rend="indent">Num me nupsisti conciliante seni?</l>
 <l>Adspice, quot somnos iuveni donarit amato</l>
@@ -1730,13 +1729,13 @@
 <l>Nequitiam vinosa tuam convivia narrant,</l>
 <l rend="indent">Narrant in multas conpita secta vias.</l>
 <l>Saepe aliquis digito vatem designat euntem,</l>
-<l n="20" rend="indent">Atque ait &quot;hic, hic est, quem ferus urit Amor!&quot;</l>
+<l n="20" rend="indent">Atque ait "hic, hic est, quem ferus urit Amor!"</l>
 <l>Fabula, nec sentis, tota iactaris in urbe,</l>
 <l rend="indent">Dum tua praeterito facta pudore refers. </l>
 <l>Tempus erat, thyrso pulsum graviore moveri;</l>
 <l rend="indent">Cessatum satis est &mdash; incipe maius opus!</l>
 <l n="25">Materia premis ingenium. cane facta virorum.</l>
-<l rend="indent">&quot;haec animo,&quot; dices, &quot;area facta meo est!&quot;</l>
+<l rend="indent">"haec animo," dices, "area facta meo est!"</l>
 <l>Quod tenerae cantent, lusit tua Musa, puellae,</l>
 <l rend="indent">Primaque per numeros acta iuventa suos.</l>
 <l>Nunc habeam per te Romana Tragoedia nomen!</l>
@@ -2601,7 +2600,7 @@
 <text lang="la" n="Ep.">
 <body>
 <head>Epistulae (vel Heroides)</head>
-<p></p>
+<p/>
 <div1 type="poem" n="1">
 <head>Penelope Ulixi</head>
 <l>Haec tua Penelope lento tibi mittit, Ulixe;</l>

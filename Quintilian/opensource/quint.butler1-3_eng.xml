@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -55,7 +54,7 @@
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -1620,7 +1619,7 @@ example I may quote the line of Publius Varro:
  <milestone unit="section" n="18"/>  If this were prose, it would be possible to give
 the letters their true syllabic value. I may mention
 as further anomalies peculiar to poetry the lengthening of a short syllable as in <hi rend="italics">Italiam fato profugus,</hi><note><hi rend="italics">Aen.</hi> i. 6.</note>
-or the shortening of a long such as <hi rend="italics">un&#x012D;ius ob noxam
+or the shortening of a long such as <hi rend="italics">unĭius ob noxam
 et furias;</hi><note><hi rend="italics">Aen.</hi> i. 45.</note> but in poetry we cannot label these as
 actual faults. <milestone unit="section" n="19"/>  Errors in sound on the other hand
 can be detected by the ear alone; although in Latin,
@@ -2137,7 +2136,7 @@ long, if that syllable contain an <hi rend="italics">e:</hi> take as examples
 such verbs as <hi rend="italics">prandeo, pendeo, spondeo</hi> with infinitives
 <hi rend="italics">prand&emacr;re, pend&emacr;re, spond&emacr;re.</hi> <milestone unit="section" n="8"/>  Those verbs, however,
 which terminate in <hi rend="italics">-o</hi> alone, if they form the infinitive in <hi rend="italics">e,</hi> have the <hi rend="italics">e</hi> short; compare <hi rend="italics">lego, dico, curro,</hi>
-with the infinitives, <hi rend="italics">leg&#x0115;re, dic&#x0115;re, curr&#x0115;re.</hi> I admit
+with the infinitives, <hi rend="italics">legĕre, dicĕre, currĕre.</hi> I admit
 that in Lucilius we find&mdash;
 
 <quote>
@@ -2244,7 +2243,7 @@ attempt to retain forms long obsolete and extinct
 is sheer impertinence and ostentatious pedantry. <milestone unit="section" n="21"/> I would suggest that the ripe scholar, who says <quote><hi rend="italics">ave</hi></quote>
 without the aspirate and with a long e (for it comes
 from <hi rend="italics">av&emacr;re</hi> and uses <hi rend="italics">calefacere</hi> and <hi rend="italics">conservavisse</hi> in
-preference to the usual forms,<note>For <hi rend="italics">hav&#x0115;,</hi> calfacere, conservasse.</note> should also add <hi rend="italics">face,
+preference to the usual forms,<note>For <hi rend="italics">havĕ,</hi> calfacere, conservasse.</note> should also add <hi rend="italics">face,
 dice</hi> and the like to his vocabulary. <milestone unit="section" n="22"/>  His way is the
 right way. Who doubts it? But there is an easier
 and more frequented path close by. There is,

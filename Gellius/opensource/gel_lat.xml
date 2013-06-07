@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -52,7 +51,7 @@
 		<revisionDesc>
 			<change><date>2009</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -2159,7 +2158,7 @@
 						
 						<milestone unit="section" n="11"/><foreign lang="greek">do/gma sautou= pepoi/hsai. Dei/knue pw=s ei)/wqas e)n ploi/w| xeima/zesqai:</foreign>
 						
-						<note><foreign lang="greek"></foreign> <hi rend="italics">Arrian.</hi></note>
+						<note><foreign lang="greek"/> <hi rend="italics">Arrian.</hi></note>
 						<foreign lang="greek">me/mnhsai tau/ths th=s diaire/sews, o(/tan</foreign> <foreign lang="greek">yofh/sh| to\ i(sti/on kai\ a)nakrauga/sh|s. )/An soi/ tis</foreign> <foreign lang="greek">kako/sxolo/s pws parasta\s ei)/ph|, le/ge moi, tou\s qeou/s soi,</foreign> <foreign lang="greek">a(\ prw/|hn e)/leges, mh/ ti kaki/a e)sti\n to\ nauagh=sai; mh/ti kaki/as mete/xon; ou)k a)/ra</foreign>
 						
 						<note><foreign lang="greek">gumna/zesqai,</foreign> <hi rend="italics">Arrian.</hi></note>
@@ -2438,7 +2437,7 @@
 						<p>Historia in libris Sotionis philosophi reperta super Laide meretrice et Demosthene rhetore.</p></argument>
 					<p>
 						
-						<milestone unit="section" n="1"/>SOTION ex peripatetica disciplina haut sane ignobilis vir fuit. Is librum multae variaeque historiae refertum composuit eumque inscripsit <foreign lang="greek">Ke/ras )Amalqei/as</foreign> <foreign lang="greek"></foreign>
+						<milestone unit="section" n="1"/>SOTION ex peripatetica disciplina haut sane ignobilis vir fuit. Is librum multae variaeque historiae refertum composuit eumque inscripsit <foreign lang="greek">Ke/ras )Amalqei/as</foreign> <foreign lang="greek"/>
 						
 						<milestone unit="section" n="2"/> Ea vox hoc ferme valet, tamquam si dicas <quote><hi rend="italics">Cornum Copiae.</hi></quote></p>
 					<p>
@@ -7316,7 +7315,7 @@
 								<note>videtur, <hi rend="italics">Virg.</hi></note>
 							</l> <l>Nec fratris radiis obnoxia surgere luna,</l></quote>
 							
-							<milestone unit="section" n="9"/>quod tu ais culpae suae conscium.' Alio quoque loco Vergilius verbo isto utitur a tua sententia diverse in his versibus:  <quote rend="blockquote"> <l part= "F">iuvat arva videre</l> <l>Non rastris hominum, non ulli obnoxia curae;</l></quote>  cura enim prodesse arvis solet, non nocere, quod tu de 'obnoxio' dixisti.
+							<milestone unit="section" n="9"/>quod tu ais culpae suae conscium.' Alio quoque loco Vergilius verbo isto utitur a tua sententia diverse in his versibus:  <quote rend="blockquote"> <l part="F">iuvat arva videre</l> <l>Non rastris hominum, non ulli obnoxia curae;</l></quote>  cura enim prodesse arvis solet, non nocere, quod tu de 'obnoxio' dixisti.
 							
 							<milestone unit="section" n="10"/> Iam vero illud etiam Q. Enni quo pacto congruere tecum potest, quod scribit in <hi rend="italics">Phoenice</hi> in hisce versibus:  <pb id="v2.p.72"/>  <quote rend="blockquote"> <l>S&eacute;d virum ver&aacute; virtute v&iacute;vere animatum &aacute;ddecet,</l> <l>F&oacute;rtiterque inn&oacute;xium stare
 								
@@ -7403,10 +7402,10 @@
 						<p>Quod Vergilius a Nolanis ob aquam sibi non permissam sustulit e versu suo <quote>Nolam</quote> et posuit <quote>oram</quote>; atque ibi quaedam alia de iucunda consonantia litterarum.</p></argument>
 					<p>
 						
-						<milestone unit="section" n="1"/>SCRIPTUM in quodam commentario repperi, versus istos a Vergilio ita primum esse recitatos atque editos:  <pb id="v2.p.82"/>  <quote rend="blockquote"> <l>Talem dives arat Capua et vicina Vesevo</l> <l part= "I">Nola iugo;</l></quote>  postea Vergilium petisse a Nolanis, aquam uti duceret
+						<milestone unit="section" n="1"/>SCRIPTUM in quodam commentario repperi, versus istos a Vergilio ita primum esse recitatos atque editos:  <pb id="v2.p.82"/>  <quote rend="blockquote"> <l>Talem dives arat Capua et vicina Vesevo</l> <l part="I">Nola iugo;</l></quote>  postea Vergilium petisse a Nolanis, aquam uti duceret
 						
 						<note><hi rend="italics">Hosius suggests.</hi> ducerent <hi rend="italics">or</hi> duci liceret; <hi rend="italics">Heraeus (Berl. Ph. Woch. 1904, 1163 ff.) defends</hi> duceret.</note>
-						in propinquum rus, Nolanos beneficium petitum non fecisse, poetam offensum nomen urbis eorum, quasi ex hominum memoria, sic ex carmine suo derasisse, <quote>oram</quote> que pro <quote>Nola</quote> mutasse atque ita reliquisse;</p>  <quote rend="blockquote"> <l part= "F">et vicina Vesevo</l> <l part= "I">Ora iugo.</l></quote>
+						in propinquum rus, Nolanos beneficium petitum non fecisse, poetam offensum nomen urbis eorum, quasi ex hominum memoria, sic ex carmine suo derasisse, <quote>oram</quote> que pro <quote>Nola</quote> mutasse atque ita reliquisse;</p>  <quote rend="blockquote"> <l part="F">et vicina Vesevo</l> <l part="I">Ora iugo.</l></quote>
 					<p>
 						
 						<milestone unit="section" n="2"/>Ea res verane an falsa sit, non laboro; quin tamen melius suaviusque ad aures sit <quote>ora</quote> quam <quote>Nola,</quote> dubium id non est.
@@ -11303,7 +11302,7 @@
 				<div2 type="chapter" n="1"><head>I</head>
 					<milestone unit="section" n="1arg"/>
 					<argument>
-						<p>Dissertatio Favorini philosophi adversus cos qui Chaldaei >appellantur, et ex coetu motibusque siderum et stellarum fata hominum dicturos pollicentur.</p></argument>
+						<p>Dissertatio Favorini philosophi adversus cos qui Chaldaei &gt;appellantur, et ex coetu motibusque siderum et stellarum fata hominum dicturos pollicentur.</p></argument>
 					<p>
 						
 						<milestone unit="section" n="1"/>ADVERSUM istos qui sese <quote>Chaldaeos</quote> seu <quote>genethliacos</quote> appellant ac de motu deque positu <corr sic="stellarunm">stellarum</corr> dicere posse quae futura sunt profitentur, audivimus quondam Favorinum philosophum Romae Graece disserentem egregia atque inlustri oratione;
@@ -14329,7 +14328,7 @@
 						
 						<milestone unit="section" n="13"/> Atque ille mihi placide et  <pb id="v3.p.352"/>  comiter: <quote>Quoniam,</quote> inquit, <quote>audiendi cupidus es, audi quid super isto brevi quidem, sed necessario et naturali pavore maiores nostri, conditores sectae Stoicae, senserint, vel potius,</quote> inquit, <quote>lege; nam et facilius credideris, si legas, et memineris magis.</quote>
 						
-						<milestone unit="section" n="14>"/> Atque ibi coram ex sarcinula sua librum protulit Epicteti philosophi quintum <foreign lang="greek">Diale/cewn,</foreign> quas ab Arriano digestas congruere scriptis <foreign lang="greek">zh/nwnos</foreign> et Chrysippi non dubium est.</p>
+						<milestone unit="section" n="14&gt;"/> Atque ibi coram ex sarcinula sua librum protulit Epicteti philosophi quintum <foreign lang="greek">Diale/cewn,</foreign> quas ab Arriano digestas congruere scriptis <foreign lang="greek">zh/nwnos</foreign> et Chrysippi non dubium est.</p>
 					<p>
 						
 						<milestone unit="section" n="15"/>In eo libro Graeca scilicet oratione scriptam hanc sententiam legimus: <quote>Visa animi, quas <foreign lang="greek">fantasi/as</foreign> philosophi appellant, quibus mens hominis prima statim specie accidentis ad animum rei pellitur, non voluntatis sunt neque arbitrariae, sed vi quadam sua inferunt sese hominibus noscitanda;
@@ -15343,4 +15342,4 @@
 			</div1>
 		</body>
 	</text>
-</TEI.2> 
+</TEI.2>

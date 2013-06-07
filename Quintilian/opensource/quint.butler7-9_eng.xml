@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -55,7 +54,7 @@
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -5900,7 +5899,7 @@ who destroyed Numantia and Carthage,</quote> it will
 be an <hi rend="italics">antonomasia,</hi> whereas, if you add the word
 <quote>Scipio,</quote> the phrase will be an <hi rend="italics">epithet.</hi> An epithet
 therefore cannot stand by itself.</p>
-<p><milestone unit="section" n="44	"/><hi rend="italics">Allegory,</hi> which is translated in Latin by <hi rend="italics">inversio,</hi>
+<p><milestone unit="section" n="44 "/><hi rend="italics">Allegory,</hi> which is translated in Latin by <hi rend="italics">inversio,</hi>
 either presents one thing in words and another in
 meaning, or else something absolutely opposed to the
 meaning of the words. The first type is generally produced by a series of metaphors. Take as an example:
@@ -6486,7 +6485,7 @@ passages dealing with such themes, and select
 examples of them from speeches; whereas in reality
 there is no department of oratory which does not
 admit such <hi rend="italics">figures.</hi> But it is one thing to admit
-<hi rend="italics">i>figure</hi> and another to be a <hi rend="italics">figure;</hi> I am not going
+<hi rend="italics">i&gt;figure</hi> and another to be a <hi rend="italics">figure;</hi> I am not going
 to be frightened out of repeating the term with some
 frequency in my attempt to make the facts clear.
 My opponents will, I know,<milestone unit="section" n="25"/> direct my attention to
@@ -10291,7 +10290,7 @@ the best texts of Cicero, there is no <hi rend="italics">pyrrhic</hi> (u u) in t
 phrase, which is identical in rhythm with <hi rend="italics">ausus est confiteri,</hi>
 praised just above. If <hi rend="italics">iudicii</hi> is read the final <hi rend="italics">spondee</hi> might
 be said to be preceded by a <hi rend="italics">pyrrhic</hi> and a <hi rend="italics">palimbacchius</hi> (i. e.
-<hi rend="italics">iud/&#x012D;c&#x012D;/&imacr; I&umacr;n&#x012D;/&amacr;n&imacr;</hi>).  The fact that the termination of both
+<hi rend="italics">iud/ĭcĭ/&imacr; I&umacr;nĭ/&amacr;n&imacr;</hi>).  The fact that the termination of both
 words is the same would account for the disappearance of
 one of them. The corruption may easily lie deeper still.
 But as the words quoted come from an actual speech of

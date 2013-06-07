@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader>
@@ -170,7 +169,7 @@
 						it had suited with man to eat and drink in like manner as the ox,
 						the horse, and all other animals, except man, do of the productions
 						of the earth, such as fruits, weeds, and grass; for from such things
-						these animals <pb id="p.3" />grow, live free of disease, and require no other kind
+						these animals <pb id="p.3"/>grow, live free of disease, and require no other kind
 						of food. And, at first, I am of opinion that man used the same sort
 						of food, and that the present articles of diet had been discovered
 						and invented only after a long lapse of time, for when they suffered
@@ -243,7 +242,7 @@
 						a wasting and weakness to the body. But whatever persons so affected
 						partook of solid food, or cake, or bread, even in small quantity,
 						would be ten times and more decidedly injured than those who had taken
-						soups, for no other <pb id="p.5" />reason than from the strength of the food in reference
+						soups, for no other <pb id="p.5"/>reason than from the strength of the food in reference
 						to the affection; and to whomsoever it is proper to take soups and
 						not eat solid food, such a one will be much more injured if he eat
 						much than if he eat little, but even little food will be injurious
@@ -13958,5 +13957,4 @@
 			</div1>
 		</body>
 	</text>
-</TEI.2> 
-
+</TEI.2>

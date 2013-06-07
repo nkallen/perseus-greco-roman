@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -49,7 +48,7 @@
 		<revisionDesc>
 			<change><date>2009</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 			
 		</revisionDesc>
@@ -5898,7 +5897,7 @@ publicum; hoc, quod tenes, quod tuum dicis, publicum est et quidem generis human
 <milestone unit="section" n="18"/>In illo feras me necesse est non per praescriptum euntem. Non enim adducor, ut in numerum liberalium artium pictores recipiam, non magis quam statuarios aut marmorarios aut ceteros luxuriae ministros. Aeque luctatores et totam oleo ac luto constantem scientiam expello ex his studiis liberalibus; aut et unguentarios recipiam et cocos et ceteros
 
 <note id="v2.n.358.1">ceteros later MSS.; ceteris VPb.</note>
-voluptatibus nostris ingenia accommodantes sua.           <pb id="v2.p.360"/> >Quid enim, oro te, liberale habent isti ieiuni vomitores, quorum corpora in sagina, animi in macie et veterno sunt ?
+voluptatibus nostris ingenia accommodantes sua.           <pb id="v2.p.360"/> &gt;Quid enim, oro te, liberale habent isti ieiuni vomitores, quorum corpora in sagina, animi in macie et veterno sunt ?
 
 <milestone unit="section" n="19"/>An liberale studium istuc esse iuventuti nostrae credimus, quam maiores nostri rectam exercuerunt hastilia iacere, sudem torquere, equum agitare, arma tractare ? Nihil liberos suos docebant, quod discendum esset iacentibus. Sed nec hae nec illae docent aluntve virtutem. Quid enim prodest equum regere et cursum eius freno temperare, adfectibus effrenatissimis abstrahi ? Quid prodest multos vincere luctatione vel caestu, ab iracundia vinci ? </p>
 
@@ -10666,4 +10665,4 @@ gaudium omne nascetur, cum visis, quae homines eripiunt, optant, custodiunt, nih
 </div1>
 </body>
 </text>
-</TEI.2>  
+</TEI.2>

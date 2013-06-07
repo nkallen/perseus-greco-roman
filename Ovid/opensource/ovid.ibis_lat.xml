@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader>
@@ -49,7 +49,7 @@
 <pb id="p.103"/>
 
 
-<lb type="displayNum" n="1"/>><milestone unit="alt" n="1"/>Tempus ad hoc ; lustris bis iam mihi quinque peractis , 
+<lb type="displayNum" n="1"/>&gt;<milestone unit="alt" n="1"/>Tempus ad hoc ; lustris bis iam mihi quinque peractis , 
 <lb type="displayNum" n="2"/>Omne fuit Musae carmen inerme meae; 
 <lb type="displayNum" n="3"/>Nullaque ; quae possit ; scriptis tot milibus , extat
 <lb type="displayNum" n="4"/>Littera Nasonis sanguinolenta legi: 
@@ -231,7 +231,7 @@
 <lb type="displayNum" n="131"/>Et prius hanc animam , nimium tibi saepe petitam , 
 
 <lb type="displayNum" n="132"/>Auferet illa dies , quae mihi sera venit ,</del> 
-<lb type="displayNum" n="133"/>><milestone unit="alt" n="7"/>Quam dolor hic umquam spatio evanescere possit,
+<lb type="displayNum" n="133"/>&gt;<milestone unit="alt" n="7"/>Quam dolor hic umquam spatio evanescere possit,
 
 
 

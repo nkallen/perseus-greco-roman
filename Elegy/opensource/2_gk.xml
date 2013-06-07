@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PERSEUS.BIBLSTRUCT 'INCLUDE'>
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PERSEUS.BIBLSTRUCT "INCLUDE">
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -125,8 +125,7 @@
                     <quote>
                       <l>*nu=n o(/te mhde\n *)/alecis o(/son mo/non ei)=f' o(/ti kalo/s,</l>
                       <l>w)=ptai kai\ pa/nth pa=s tis e)pistre/fetai.<!--note n="p.4.n.4"/--></l>
-                      <l>qume/, ti/ mhnu/eis kusi\n o)ste/on; ei)=t' a)nih/sei<note n="p.4.n.5"
-                        /></l>
+                      <l>qume/, ti/ mhnu/eis kusi\n o)ste/on; ei)=t' a)nih/sei<note n="p.4.n.5"/></l>
                       <l>u(/steron: ou)x ou(/tw *fai=dron a)pwle/samen;</l>
                     </quote>
                     <bibl>CURFRAG.tlg-0059.4</bibl>
@@ -144,8 +143,7 @@
                   <p>a)lla\ kai\ ei)s *)aga/qwna:</p>
                   <cit id="tlg-0059.cit.8">
                     <quote>
-                      <l>*th\n yuxh\n *)aga/qwna filw=n e)pi\ xei/lesin e)/sxon:<note n="p.6.n.3"
-                        /></l>
+                      <l>*th\n yuxh\n *)aga/qwna filw=n e)pi\ xei/lesin e)/sxon:<note n="p.6.n.3"/></l>
                       <l>h)=lqe ga\r h( tlh/mwn w(s diabhsome/nh.<!--note n="p.6.n.4"/--></l>
                     </quote>
                     <bibl>CURFRAG.tlg-0059.6</bibl>
@@ -232,8 +230,7 @@
 
             <div3 type="ELEGIAC" n="13">
               <cit id="tlg-0059.cit.18">
-                <quote>*pla/twnos: ei)s tou\s *)eretriei=s tou\s e)n *)ekbata/nois keime/nous: <cit
-                    id="tlg-0059.cit.19">
+                <quote>*pla/twnos: ei)s tou\s *)eretriei=s tou\s e)n *)ekbata/nois keime/nous: <cit id="tlg-0059.cit.19">
                     <quote>
                       <l>*oi(/de pot' *ai)gai/oio baru/bromon oi)=dma lipo/ntes</l>
                       <l>*)ekbata/nwn pedi/w| kei/meq' e)ni\ mesa/tw|:</l>
@@ -357,8 +354,7 @@
 
             <div3 type="ELEGIES" n="1">
               <cit id="tlg-1673.cit.4">
-                <quote>*simmi/ou *qhbai/ou<!--note n="p.12.n.1"/--> ei)s *sofokle/a: <cit
-                    id="tlg-1673.cit.5">
+                <quote>*simmi/ou *qhbai/ou<!--note n="p.12.n.1"/--> ei)s *sofokle/a: <cit id="tlg-1673.cit.5">
                     <quote>
                       <l>*to\n se\<!--note n="p.12.n.2"/--> xoroi=s me/lyanta *sofokle/a pai=da
                         *sofi/llou,</l>
@@ -386,8 +382,7 @@
                       <l>a)/mpelos u(gra\ pe/ric klh/mata xeuame/nh,</l>
                       <l>ei(/neken eu)maqi/hs<!--note n="p.14.n.1"/--> pinuto/fronos, h(\n o(
                           melixro\s<!--note n="p.14.n.2"/--></l>
-                      <l>h)/skhs' e)n<!--note n="p.14.n.3"/--> *mousw=n a)/mmiga kai\ *xari/twn.<note
-                          n="p.14.n.4"/></l>
+                      <l>h)/skhs' e)n<!--note n="p.14.n.3"/--> *mousw=n a)/mmiga kai\ *xari/twn.<note n="p.14.n.4"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-1673.2</bibl>
                   </cit>
@@ -398,14 +393,12 @@
 
             <div3 type="ELEGIAC" n="3">
               <cit id="tlg-1673.cit.8">
-                <quote>*simmi/ou:<!--note n="p.14.n.5"/--> ei)s *pla/twna to\n filo/sofon: <cit
-                    id="tlg-1673.cit.9">
+                <quote>*simmi/ou:<!--note n="p.14.n.5"/--> ei)s *pla/twna to\n filo/sofon: <cit id="tlg-1673.cit.9">
                     <quote>
                       <l>*swfrosu/nh| profe/rwn qnhtw=n h)/qei te dikai/w|</l>
                       <l>e)nqa/de kei=tai a)nh\r<!--note n="p.14.n.6"/--> qei=os *)aristokle/hs:</l>
                       <l>ei) de/ tis e)k pa/ntwn sofi/hs me/gan e)/sxen e)/painon,</l>
-                      <l>ou(=tos e)/xei plei=ston, kai\ fqo/non ou) fe/retai.<note n="p.14.n.7"
-                        /></l>
+                      <l>ou(=tos e)/xei plei=ston, kai\ fqo/non ou) fe/retai.<note n="p.14.n.7"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-1673.3</bibl>
                   </cit>
@@ -444,8 +437,7 @@
               <cit id="tlg-1633.cit.4">
                 <quote><add>p. fru/nhs</add>: kai\ pracite/lhs de\ o( a)galmatopoio\s
                   e)rw=n au)th=s th\n *knidi/an *)afrodi/thn a)p' au)th=s e)pla/sato kai\ e)n th=|
-                  tou= *)/erwtos ba/sei th=| u(po\ th\n skhnh\n tou= qea/trou e)pe/graye. <cit
-                    id="tlg-1633.cit.5">
+                  tou= *)/erwtos ba/sei th=| u(po\ th\n skhnh\n tou= qea/trou e)pe/graye. <cit id="tlg-1633.cit.5">
                     <quote>
                       <l>*pracite/lhs o(\n e)/pasxe dihkri/bwsen e)/rwta</l>
                       <l>e)c i)di/hs e(/lkwn a)rxe/tupon kradi/hs,</l>
@@ -511,11 +503,9 @@
                     a)nh/r</q>. e)pe/grayen d' e)pi\ pollw=n e)rgwn au)tou= kai\ ta/de:</p>
                   <cit id="tlg-1567.cit.6">
                     <quote>
-                      <l>*(abrodi/aitos a)nh\r a)reth/n te se/bwn ta/d' e)/graya<note n="p.20.n.1"
-                        /></l>
+                      <l>*(abrodi/aitos a)nh\r a)reth/n te se/bwn ta/d' e)/graya<note n="p.20.n.1"/></l>
                       <l>*parra/sios kleinh=s patri/dos e)c *)efe/sou.</l>
-                      <l>ou)de\ patro\s laqo/mhn *eu)h/noros, o(/s r(a m' e)/fuse<note n="p.20.n.2"
-                        /></l>
+                      <l>ou)de\ patro\s laqo/mhn *eu)h/noros, o(/s r(a m' e)/fuse<note n="p.20.n.2"/></l>
                       <l>gnh/sion, *(ellh/nwn prw=ta fe/ronta te/xnhs.</l>
                     </quote>
                     <bibl>CURFRAG.tlg-1567.2</bibl>
@@ -688,9 +678,7 @@
 
             <div3 type="ELEGIAC" n="1">
               <cit id="smith-apollodorus-bio-29.cit.1">
-                <quote lang="la">In eum Apollodorus supra scriptus versus fecit artem ipsi<note
-                    n="p.28.n.1"/> ablatam Zeuxin ferre secum. <cit
-                    id="smith-apollodorus-bio-29.cit.2">
+                <quote lang="la">In eum Apollodorus supra scriptus versus fecit artem ipsi<note n="p.28.n.1"/> ablatam Zeuxin ferre secum. <cit id="smith-apollodorus-bio-29.cit.2">
                     <quote>
                       <l><add>*(hmete/rhn<!--note n="p.28.n.2"/--> te/xnhn *zeu=cis a)ph=lqe
                         fe/rwn.</add></l>
@@ -808,8 +796,7 @@
 
             <div3 type="ELEGIAC" n="1">
               <cit id="tlg-0247.cit.9">
-                <quote>*dionu/sios de\ *)apo/llwnos ui(o\n au(to\n w)no/masen e)pigra/yas: <cit
-                    id="tlg-0247.cit.10">
+                <quote>*dionu/sios de\ *)apo/llwnos ui(o\n au(to\n w)no/masen e)pigra/yas: <cit id="tlg-0247.cit.10">
                     <quote>
                       <l>*dwri/dos e)k mhtro\s *foi/bou koinw/masi blastw/n<!--note n="p.34.n.1"/--></l>
                     </quote>
@@ -882,8 +869,7 @@
             <cit id="tlg-1476.cit.2">
               <quote>*timole/wn poliorkw=n *ma/merkon<!--note n="p.36.n.1"/--> to\n tu/rannon pollou\s
                 e)capath/santa kai\ para\ tou\s o(/rkous a)poktei/nanta katestrath/ghsen. o( me\n
-                tu/rannos &lt;w(mo/loghse *timole/onti paradw/sein e(auto\n e)f w(=| te><note
-                  n="p.36.n.2"/> kriqh=nai para\ *surakousi/ois mh\ kathgorou=ntos *timole/ontos, o(
+                tu/rannos &lt;w(mo/loghse *timole/onti paradw/sein e(auto\n e)f w(=| te&gt;<note n="p.36.n.2"/> kriqh=nai para\ *surakousi/ois mh\ kathgorou=ntos *timole/ontos, o(
                 de\ w)/mose mh\ kathgorh/sein. e)pi\ tou/tois o( *ma/merkos h(=ken ei)s ta\s
                 *surakou/sas. *timole/wn proagagw\n au)to\n ei)s th\n e)kklhsi/an
                 <q>*kathgorh/sw me\n ou)damw=s</q> e)/fh: <q>tou=to ga\r
@@ -903,8 +889,7 @@
                 <quote>oi( de\ polloi\ tw=n *surakousi/wn e)xule/painon u(po\ tw=n tura/nnwn
                   prophlakizo/menoi. kai\ ga\r o( *ma/merkos e)pi\ tw=| poi/hmata gra/fein kai\
                   tragw|di/as me/ga fronw=n e)ko/mpaze nikh/sas tou\s misqofo/rous, kai\ ta\s
-                  a)spi/das a)naqei\s toi=s qeoi=s e)legei=on u(bristiko\n e)pe/graye: <cit
-                    id="tlg-1476.cit.4">
+                  a)spi/das a)naqei\s toi=s qeoi=s e)legei=on u(bristiko\n e)pe/graye: <cit id="tlg-1476.cit.4">
                     <quote>
                       <l>*ta/sd' o)streiografei=s kai\ xruselefanthle/ktrous</l>
                       <l>a)spi/das a)spidi/ois ei(/lomen eu)tele/si.</l>
@@ -1143,8 +1128,7 @@
             <div3 type="HEXAMETER" n="1,2">
               <cit id="tlg-0086.cit.2">
                 <quote>sune/graye de\ pa/mpleista bibli/a, a(/per a)ko/louqon h(ghsa/mhn u(pogra/yai
-                  dia\ th\n peri\ pa/ntas lo/gous ta)ndro\s a)reth/n: . . *)/eph w(=n a)rxh/: <cit
-                    id="tlg-0086.cit.3">
+                  dia\ th\n peri\ pa/ntas lo/gous ta)ndro\s a)reth/n: . . *)/eph w(=n a)rxh/: <cit id="tlg-0086.cit.3">
                     <quote>
                       <l>*(agne\ qew=n pre/sbisq' e(kathbo/le . . .</l>
                     </quote>
@@ -1170,8 +1154,7 @@
                   gra/fwn ou(/tws: <cit id="tlg-0086.cit.6">
                     <quote>
                       <l>e)lqw\n d' e)s kleino\n *kekropi/hs da/pedon</l>
-                      <l>eu)sebe/wn semnh\n fili/hn<!--note n="p.48.n.1"/--> i(dru/sato<note n="p.48.n.2"
-                        /> bwmo\n<!--note n="p.48.n.3"/--></l>
+                      <l>eu)sebe/wn semnh\n fili/hn<!--note n="p.48.n.1"/--> i(dru/sato<note n="p.48.n.2"/> bwmo\n<!--note n="p.48.n.3"/--></l>
                       <l>a)ndro\s o(\n ou)d' ai)nei=n toi=si kakoi=si qe/mis:</l>
                       <l>o(\s mo/nos h)\ prw=tos qnhtw=n kate/deicen e)nargw=s</l>
                       <l n="5">oi)kei/w te bi/w| kai\ meqo/doisi lo/gwn,</l>
@@ -1290,8 +1273,7 @@
                       <l n="5">w)fe/limon de\ fi/lois, mh\ glukero\n ti/qete.</l>
                       <l>xrh/mata d' ou)k e)qe/lw suna/gein kluta/, kanqa/rou o)/lbon</l>
                       <l>mu/rmhko/s t' a)/fenos xrh/mata maio/menos,</l>
-                      <l>a)lla\ dikaiosu/nhs mete/xein kai\ plou=ton a)ginei=n<note n="p.54.n.1"
-                        /></l>
+                      <l>a)lla\ dikaiosu/nhs mete/xein kai\ plou=ton a)ginei=n<note n="p.54.n.1"/></l>
                       <l n="9">eu)/foron, eu)/kthton, ti/mion ei)s a)reth/n.</l>
                       <l>tw=n de\ tuxw\n *(ermh=n kai\ *mou/sas i/la/som' a(gna\s</l>
                       <l>ou) dapa/nais truferai=s, a)ll' a)retai=s o(si/ais.</l>
@@ -1309,8 +1291,7 @@
                 <title>u(/mnos ei)s *eu)te/leian</title>
               </head>
               <cit id="tlg-0336.cit.8">
-                <quote>kai\ o( *kra/ths me/ntoi pepoi/hken *(/umnon ei)s th\n *eu)te/leian: <cit
-                    id="tlg-0336.cit.9">
+                <quote>kai\ o( *kra/ths me/ntoi pepoi/hken *(/umnon ei)s th\n *eu)te/leian: <cit id="tlg-0336.cit.9">
                     <quote>
                       <l>*xai=re, qea\ de/spoina, sofw=n a)ndrw=n a)ga/phma,<!--note n="p.54.n.2"/--></l>
                       <l>*eu)teli/h, kleinh=s e)/ggone *swfrosu/nhs,</l>
@@ -1347,8 +1328,7 @@
                 <quote><add>p. *sti/lpwnos</add>: pa/lin de\ i)dw\n to\n *kra/thta
                   xeimw=nos sugkekaume/non, <q>*)=w *kra/ths</q> ei)=pe,
                   <q>dokei=s moi xrei/an e)/xein i(mati/ou kainou=</q>
-                  &lpar;o(/per h)=n nou= kai\ i(mati/ou&rpar;: kai\ to\n a)xqesqe/nta<note
-                    n="p.54.n.4"/> parw|dh=sai ei)s au)to\n ou(/tw: <cit id="tlg-0336.cit.13">
+                  &lpar;o(/per h)=n nou= kai\ i(mati/ou&rpar;: kai\ to\n a)xqesqe/nta<note n="p.54.n.4"/> parw|dh=sai ei)s au)to\n ou(/tw: <cit id="tlg-0336.cit.13">
                     <quote>
                       <l>*kai\ mh\n *sti/lpwn' ei)sei=don xale/p' a)/lge) e)/xonta</l>
                       <l>e)n *mega/rois, o(/qi fasi\ *tufwe/os e)/mmenai eu)na/s:</l>
@@ -1368,8 +1348,7 @@
                 <quote>fai/netai dh\ o( *mene/dhmos semno\s i(kanw=s gene/sqai, o(/qen au)to\n
                   *kra/ths parw|dw=n fhsi: <cit id="tlg-0336.cit.15">
                     <quote>
-                      <l>*fleia/s io/ n t' *)asklhpia/dhn kai\ tau=ron *)eretrh=.<note n="p.56.n.3"
-                        /></l>
+                      <l>*fleia/s io/ n t' *)asklhpia/dhn kai\ tau=ron *)eretrh=.<note n="p.56.n.3"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-0336.5</bibl>
                   </cit>
@@ -1402,8 +1381,7 @@
                 <title>*ph/rh</title>
               </head>
               <cit id="tlg-0336.cit.18">
-                <quote><add>p. *kra/thtos</add>: tou/tou pai/gnia fe/retai ta/de: <cit
-                    id="tlg-0336.cit.19">
+                <quote><add>p. *kra/thtos</add>: tou/tou pai/gnia fe/retai ta/de: <cit id="tlg-0336.cit.19">
                     <quote>
                       <l>*ph/rh tis po/lis e)sti\ me/sw| e)ni\ oi)/nopi tu/fw|</l>
                       <l>kalh\ kai\ pi/eira, peri/rrupos,<!--note n="p.56.n.4"/--> ou)de\n e)/xousa,</l>
@@ -1427,12 +1405,10 @@
                 <quote>kai\ *)antisqe/nhs de\ manh=nai ma=llon h)\ h(sqh=nai ai(rei=tai, o(/ te
                   *qhbai=os *kra/ths fhsi/: <cit id="tlg-0336.cit.21">
                     <quote>
-                      <l>tw=n de\ kratei=<!--note n="p.58.n.1"/--> yuxh=s h)/qei a)gallome/nh,<note
-                          n="p.58.n.2"/></l>
+                      <l>tw=n de\ kratei=<!--note n="p.58.n.1"/--> yuxh=s h)/qei a)gallome/nh,<note n="p.58.n.2"/></l>
                       <l>ou)/q' u(po\ xrusei/wn doulou/menoi<!--note n="p.58.n.3"/--> ou)/q' u(p'
                         e)rw/twn</l>
-                      <l>thcipo/qwn<!--note n="p.58.n.4"/--> ou)d' au)= ti sune/mporo/n e)sti<note
-                          n="p.58.n.5"/> fi/lubri.</l>
+                      <l>thcipo/qwn<!--note n="p.58.n.4"/--> ou)d' au)= ti sune/mporo/n e)sti<note n="p.58.n.5"/> fi/lubri.</l>
                     </quote>
                     <bibl>CURFRAG.tlg-0336.8</bibl>
                   </cit>
@@ -1440,8 +1416,7 @@
                   <cit id="tlg-0336.cit.22">
                     <quote>
                       <l>h(donh=| a)ndrapodw/dei a)dou/lwtoi kai\ a)/kamptoi<!--note n="p.58.n.6"/--></l>
-                      <l>a)qa/naton<!--note n="p.58.n.7"/--> basi/leian *)eleuqeri/an a)gapw=sin.<note
-                          n="p.58.n.8"/></l>
+                      <l>a)qa/naton<!--note n="p.58.n.7"/--> basi/leian *)eleuqeri/an a)gapw=sin.<note n="p.58.n.8"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-0336.9</bibl>
                   </cit>
@@ -1473,10 +1448,8 @@
                   a)/tufoi geno/menoi kai\ e)pai=tai kai\ diai/th| eu)telei= kai\ lith=| duna/menoi
                   xrh/sasqai. a)pori/a kai\ da/neia per.e/sthken; <cit id="tlg-0336.cit.26">
                     <quote>
-                      <l>*ko/gxon kai\ ku/amon su/nag' &lt;a)/ggei+&gt;,<note n="p.58.n.10"
-                        /> ka)\n ta/de dra/sh|s</l>
-                      <l>r(hi+di/ws sth/seis peni/as ka/q', &lt;e(tai=re,&gt;<note
-                          n="p.58.n.11"/> tro/paion:</l>
+                      <l>*ko/gxon kai\ ku/amon su/nag' &lt;a)/ggei+&gt;,<note n="p.58.n.10"/> ka)\n ta/de dra/sh|s</l>
+                      <l>r(hi+di/ws sth/seis peni/as ka/q', &lt;e(tai=re,&gt;<note n="p.58.n.11"/> tro/paion:</l>
                     </quote>
                     <bibl>CURFRAG.tlg-0336.11</bibl>
                   </cit>
@@ -1488,8 +1461,7 @@
 
             <div3 type="HEXAMETER" n="12">
               <cit id="tlg-0336.cit.27">
-                <quote><add>p. *kra/thtos</add>: e)/stin au)tou= kai\ to/de: <cit
-                    id="tlg-0336.cit.28">
+                <quote><add>p. *kra/thtos</add>: e)/stin au)tou= kai\ to/de: <cit id="tlg-0336.cit.28">
                     <quote>
                       <l>*tau=t' e)/xw, o(/ss' e)/maqon kai\ e)fro/ntisa kai\ meta\ *mousw=n</l>
                       <l>se/mn' e)da/hn: ta\ de\ polla\ kai\ o)/lbia tu=fos<!--note n="p.60.n.1"/-->
@@ -1540,8 +1512,7 @@
 
             <div3 type="UNKNOWN" n="14A">
               <cit id="tlg-0336.cit.33">
-                <quote><add>p. kolakei/as</add>: *kra/ths tou\s ko/laka/s fhsi <cit
-                    id="tlg-0336.cit.34">
+                <quote><add>p. kolakei/as</add>: *kra/ths tou\s ko/laka/s fhsi <cit id="tlg-0336.cit.34">
                     <quote>
                       <l>sugkataneusifa/gous</l>
                     </quote>
@@ -1588,8 +1559,7 @@
 
             <div3 type="IAMBIC" n="17">
               <cit id="tlg-0336.cit.39">
-                <quote><add>p. *kra/thtos</add>: fe/retai d' au)tou= ka)kei/na: <cit
-                    id="tlg-0336.cit.40">
+                <quote><add>p. *kra/thtos</add>: fe/retai d' au)tou= ka)kei/na: <cit id="tlg-0336.cit.40">
                     <quote>
                       <l>*)/erwta pau/ei<!--note n="p.62.n.1"/--> limo/s, ei) de\ mh/, xro/nos:</l>
                       <l>e)a\n de\ tou/tois mh\ du/nh| xrh=sqai, bro/xos.<!--note n="p.62.n.2"/--></l>
@@ -1686,8 +1656,7 @@
                 <quote>fasi\n to\n au)to\n &lpar;w(/s tines d' a)/llon tina\ | tw=n
                   filosofou/ntwn e)c i)/sou fronh/matos&rpar; | tle/onta tou= klu/dwnos
                   a)grioume/nou, | e)/peita fo/rtw| th=s new\s baroume/nhs, | r(i/ptein proqu/mws
-                  ei)s buqo\n ta\ xrh/mata, | tou=ton d' e)peipei=n a)/cion mnh/mhs logon: <cit
-                    id="tlg-0336.cit.53">
+                  ei)s buqo\n ta\ xrh/mata, | tou=ton d' e)peipei=n a)/cion mnh/mhs logon: <cit id="tlg-0336.cit.53">
                     <quote>
                       <l>*eu)= g', w)= *tu/xh moi tw=n kalw=n dida/skale,</l>
                       <l>w(s ei)s tri/bwna r(a|di/ws suste/llomai.</l>
@@ -1702,8 +1671,7 @@
             <div3 type="IAMBIC" n="22">
               <cit id="tlg-0336.cit.54">
                 <quote>ei) de\ tosau=ta me/tra qe/rous h(=n par' u(mi=n tou= nomi/smatos, ti/
-                  prosdoka=n e)/dei thnikau=ta, h(ni/ka, fhsi\n o( *boiw/tios poihth/s, <cit
-                    id="tlg-0336.cit.55">
+                  prosdoka=n e)/dei thnikau=ta, h(ni/ka, fhsi\n o( *boiw/tios poihth/s, <cit id="tlg-0336.cit.55">
                     <quote>
                       <l>*xalepo\n gene/sqai limo\n e)pi\ tw=| dra/gmati.<!--note n="p.66.n.1"/--></l>
                     </quote>
@@ -1790,8 +1758,7 @@
                     </quote>
                     <bibl>CURFRAG.tlg-0382.3</bibl>
                   </cit>
-                  <p>kai\ o(/ti tw=n podw=n e(/kasto/s e)stin e(ndekagra/mmatos.<note n="p.68.n.6"
-                    /></p>
+                  <p>kai\ o(/ti tw=n podw=n e(/kasto/s e)stin e(ndekagra/mmatos.<note n="p.68.n.6"/></p>
                 </quote>
                 <bibl>Ath. 10. 454</bibl>
               </cit>
@@ -1982,11 +1949,9 @@
 
             <div3 type="ELEGIAC" n="1">
               <cit id="tlg-0541.cit.3">
-                <quote>*mena/ndrou kwmikou=: ei)s *)epi/kouron kai\ *qemistokle/a: <cit
-                    id="tlg-0541.cit.4">
+                <quote>*mena/ndrou kwmikou=: ei)s *)epi/kouron kai\ *qemistokle/a: <cit id="tlg-0541.cit.4">
                     <quote>
-                      <l>*xai=re *neoklei/da di/dumon ge/nos, w(=n o( me\n h(mi=n<note n="p.76.n.2"
-                        /></l>
+                      <l>*xai=re *neoklei/da di/dumon ge/nos, w(=n o( me\n h(mi=n<note n="p.76.n.2"/></l>
                       <l>patri/da doulosu/nas r(u/saq', o( d' a)frosu/nas.</l>
                     </quote>
                     <bibl>CURFRAG.tlg-0541.1</bibl>
@@ -2032,8 +1997,7 @@
             <div3 type="IAMBIC" n="1">
               <cit id="tlg-0256.cit.1">
                 <quote>kai\ to\ *pana/rkous d' e)sti\ toiou=ton, w(/s fhsi *kle/arxos e)n tw=|
-                  *peri\ *gri/fwn, o(/ti ba/loi cu/lw| te kai\ ou) cu/lw| ktl. <cit
-                    id="tlg-0256.cit.2">
+                  *peri\ *gri/fwn, o(/ti ba/loi cu/lw| te kai\ ou) cu/lw| ktl. <cit id="tlg-0256.cit.2">
                     <quote>
                       <l>*ai)=no/s ti/s e)stin, w(s a)nh/r te kou)k a)nh\r</l>
                       <l>o)/rniqa kou)k o)/rniq' i)dw/n te kou)k i)dw\n</l>
@@ -2257,8 +2221,7 @@
             <div3 type="biodata">
               <cit id="tlg-0232.cit.17">
                 <quote>i)ste/on de\ o(/ti pollw=n prosw/pwn a(yame/nwn bro/xous e)pi\ lu/pais
-                  e)/paqon ou(/tw kata\ th\n palaia\n i(stori/an kai\ ai( *lukambi/des,<note
-                    n="p.86.n.1"/> e)pi\ toi=s *)arxilo/xou poih/masi mh\ fe/rousai th\n e)pifora\n
+                  e)/paqon ou(/tw kata\ th\n palaia\n i(stori/an kai\ ai( *lukambi/des,<note n="p.86.n.1"/> e)pi\ toi=s *)arxilo/xou poih/masi mh\ fe/rousai th\n e)pifora\n
                   tw=n e)kei/nou skwmma/twn.</quote>
                 <bibl>Eust. in Od. 1684. 45</bibl>
               </cit>
@@ -2382,8 +2345,7 @@
                   *)apo/llwn e)celau/nwn e)k tou= new\ *mousw=n au)to\n a)nei=pe qera/ponta
                   a)nh|rhke/nai, kai\ to\ deu/teron w(s a)pelogei=to e)n pole/mw| le/gwn a)pokei=nai
                   pa/lin *mousw=n qera/ponta e)/fh to\n *)arxi/loxon: tw=| patri\ de\ au)tou=
-                  xrwme/nw| pro\ th=s gene/sews a)qa/nato/n oi( pai=da genh/sesqai proei=pen.<note
-                    n="p.92.n.1"/></quote>
+                  xrwme/nw| pro\ th=s gene/sews a)qa/nato/n oi( pai=da genh/sesqai proei=pen.<note n="p.92.n.1"/></quote>
                 <bibl>Dio Chrys. 33. p. 397 M</bibl>
               </cit>
             </div3>
@@ -2482,8 +2444,7 @@
                 <quote>a)=r' ou)=n *)apollw/nios a)\n ma=llon h)\ *(/omhros e)qe/lois
                     gene/sqai;<!--note n="p.94.n.1"/--> ti/ de/; *)eratosqe/nhs e)n th=| *)hrigo/nh|
                   &lpar;dia\ pa/ntwn ga\r a)mw/mhton to\ pohma/tion&rpar; *)arxilo/xou,
-                  polla\ kai\ a)noikono/mhta parasu/rontos ka)kei=na e)k th=s e)mbolh=s<note
-                    n="p.94.n.2"/> tou= daimoni/ou pneu/matos h(\n u(po\ no/mon ta/cai du/skolon,
+                  polla\ kai\ a)noikono/mhta parasu/rontos ka)kei=na e)k th=s e)mbolh=s<note n="p.94.n.2"/> tou= daimoni/ou pneu/matos h(\n u(po\ no/mon ta/cai du/skolon,
                   a)=ra dh\ mei/zwn poihth/s;</quote>
                 <bibl><add>Longin.</add> Subl. 33.4 . .</bibl>
               </cit>
@@ -2494,8 +2455,7 @@
               <cit id="tlg-0232.cit.37">
                 <quote>ei(/lkusan e)nteu=qen &lpar;a)po\ tou= mu/qou&rpar; oi( poihtai\ to\n
                   ai)=non . . o( de\ meta\ tou=ton &lpar;*(hsi/odon&rpar; *)arxi/loxos
-                  w(/sper h(/dusma/ ti peritiqei\s th=| poih/sei mu/qois<note n="p.94.n.3"
-                  />&lt;ou)k&gt; o)liga/kis e)xrh/sato.</quote>
+                  w(/sper h(/dusma/ ti peritiqei\s th=| poih/sei mu/qois<note n="p.94.n.3"/>&lt;ou)k&gt; o)liga/kis e)xrh/sato.</quote>
                 <bibl>Jul. Or. 7. 207a</bibl>
               </cit>
             </div3>
@@ -2564,8 +2524,7 @@
                 <quote>a)ll' oi( palaioi\ th\n a)ndrei/an u(pela/mbanon ei)=nai megi/sthn tw=n
                   politikw=n a)retw=n . . *)arxi/loxos gou=n a)gaqo\s w)=n poihth\s prw=ton
                   e)kauxh/sato to\ du/nasqai mete/xein tw=n politikw=n a)gw/nwn, deu/teron d'
-                  e)mnh/sqh tw=n peri\ th\n poihtikh\n u(parxo/ntwn au)tw=|, le/gwn: <cit
-                    id="tlg-0232.cit.43">
+                  e)mnh/sqh tw=n peri\ th\n poihtikh\n u(parxo/ntwn au)tw=|, le/gwn: <cit id="tlg-0232.cit.43">
                     <quote>
                       <l>ei)mi\ d' e)gw\ qera/pwn me\n *)enuali/oio a)/naktos,</l>
                       <l>kai\ *mouse/wn e)rato\n dw=ron e)pista/menos.<!--note n="p.98.n.1"/--></l>
@@ -2652,8 +2611,7 @@
                   e)di/wcan, dio/ti e)pe/gnwsan au)to\n pepoihko/ta w(s krei=tto/n e)stin
                   a)pobalei=n ta\ o(/pla h)\ a)poqanei=n: <cit id="tlg-0232.cit.53">
                     <quote>
-                      <l>*)aspi/di me\n *sai+/wn tis a)ga/lletai, h(\n para\ qa/mnw|<note
-                          n="p.100.n.2"/></l>
+                      <l>*)aspi/di me\n *sai+/wn tis a)ga/lletai, h(\n para\ qa/mnw|<note n="p.100.n.2"/></l>
                       <l>e)/ntos<!--note n="p.100.n.3"/--> a)mw/mhton ka/llipon ou)k e)qe/lwn:</l>
                       <l>au)to\n d' e)/k m' e)sa/wsa:<!--note n="p.100.n.4"/--> ti/ moi me/lei a)spi\s
                         e)keinh;</l>
@@ -2702,8 +2660,7 @@
                       <l>*kh/dea me\n stono/enta, *peri/klees, ou)/te tis a)stw=n</l>
                       <l>memfo/menos qali/h|s te/ryetai ou)/te<!--note n="p.102.n.1"/--> po/lis:</l>
                       <l>toi/ous ga\r kata\ ku=ma polufloi/sboio qala/sshs</l>
-                      <l n="4">e)/klusen, oi)dale/ous d' a)mf' o)du/nh|s e)/xomen<note n="p.102.n.2"
-                        /></l>
+                      <l n="4">e)/klusen, oi)dale/ous d' a)mf' o)du/nh|s e)/xomen<note n="p.102.n.2"/></l>
                       <l>pneu/monas: a)lla\ qeoi\ ga\r a)nhke/stoisi kakoi=sin,</l>
                       <l>w)= fi/l', e)pi\ kraterh\n tlhmosu/nhn e)/qesan</l>
                       <l>fa/rmakon: a)/llote d' a)/llon e)/xei ta/de:<!--note n="p.102.n.3"/--> nu=n me\n
@@ -2772,8 +2729,7 @@
               <cit id="tlg-0232.cit.66">
                 <quote>pa/lin o( *)arxi/loxos ou)k e)painei=tai lupou/menos me\n e)pi\ tw=| a)ndri\
                   th=s a)delfh=s diefqarme/nw| kata\ qa/lattan, oi)/nw| de\ kai\ paidia=| pro\s th\n
-                  lu/phn ma/xesqai dianoou/menos: ai)ti/an me/ntoi lo/gon e)/xousan ei)/rhken: <cit
-                    id="tlg-0232.cit.67">
+                  lu/phn ma/xesqai dianoou/menos: ai)ti/an me/ntoi lo/gon e)/xousan ei)/rhken: <cit id="tlg-0232.cit.67">
                     <quote>
                       <l>ou)/te ti ga\r klai/wn i)h/somai ou)/te ka/kion</l>
                       <l>qh/sw terpwla\s kai\ qali/as e)fe/pwn.<!--note n="p.104.n.1"/--></l>
@@ -2793,8 +2749,7 @@
                   ga\r to\ xrhsi/mous<!--note n="p.104.n.2"/--> ei)=nai filou=sin a)llh/lous kai\ me/xri
                   tou/tou, w(/sper h( paroimi/a: <cit id="tlg-0232.cit.69">
                     <quote>
-                      <l>*glau=k', e)pi/kouros a)nh\r to/sson fi/los e(/ste ma/xhtai.<note
-                          n="p.104.n.3"/></l>
+                      <l>*glau=k', e)pi/kouros a)nh\r to/sson fi/los e(/ste ma/xhtai.<note n="p.104.n.3"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-0232.14</bibl>
                   </cit>
@@ -2808,8 +2763,7 @@
                 <quote>pa/nta ga\r po/nos teu/xei qnhtoi=s, kat' *)arxi/loxon, mele/th t' a)ri/sth.
                     <cit id="tlg-0232.cit.71">
                     <quote>
-                      <l>*pa/nta po/nos teu/xei qnhtoi=s mele/th te brotei/h.<note n="p.104.n.4"
-                        /></l>
+                      <l>*pa/nta po/nos teu/xei qnhtoi=s mele/th te brotei/h.<note n="p.104.n.4"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-0232.15</bibl>
                   </cit>
@@ -2836,8 +2790,7 @@
                 <quote><add>p. *plaggo/nos kai\ *bakxi/dos</add>: kai\ tou= loipou= fi/lai
                   e)ge/nonto, koinw=s periepousai to\n e)rasth/n. e)f' oi(=s *)/iwnes a)gasqe/ntes,
                   w(/s fhsi *mene/twr e)n tw=| *peri\ *)anaqhoa/twn, *pasifi/lan e)ka/lesan th\n
-                  *plaggo/na. marturei= de\ kai\ *)arxi/loxos peri\ au)th=s e)n tou/tois: <cit
-                    id="tlg-0232.cit.75">
+                  *plaggo/na. marturei= de\ kai\ *)arxi/loxos peri\ au)th=s e)n tou/tois: <cit id="tlg-0232.cit.75">
                     <quote>
                       <l>*sukh= petrai/h polla\s bo/skousa korw/nas</l>
                       <l>eu)h/qhs cei/nwn de/ktria *pasifi/lh.</l>
@@ -2906,8 +2859,7 @@
               <div4 type="IAMBIC" n="21">
                 <cit id="tlg-0232.cit.82">
                   <quote>kaqa/per *)arxi/loxos th=s *qa/sou ta\ karpofo/ra kai\ oi)no/peda parorw=n
-                    dia\ to\ traxu\ kai\ a)nw/malon die/bale th\n nh=son ei)pw/n: <cit
-                      id="tlg-0232.cit.83">
+                    dia\ to\ traxu\ kai\ a)nw/malon die/bale th\n nh=son ei)pw/n: <cit id="tlg-0232.cit.83">
                       <quote>
                         <l>h(/de d' w(/st' o)/nou r(a/xis</l>
                         <l>e(/sthken u(/hs a)gri/hs e)pistefh/s:</l>
@@ -3024,11 +2976,9 @@
                 <cit id="tlg-0232.cit.96">
                   <quote lang="la">Alii cognominatum Apollinem putant <foreign lang="greek">w(s
                       a)pollu/nta ta\ zw=|a</foreign> &colon; exanimat enim et perimit animantes
-                    cum pestem intemperie immittit; ut Euripides . . item Archilochus: <cit
-                      id="tlg-0232.cit.97">
+                    cum pestem intemperie immittit; ut Euripides . . item Archilochus: <cit id="tlg-0232.cit.97">
                       <quote>
-                        <l>*)/anac *)/apollon, kai\ su\ tou\s me\n ai)ti/ous<note n="p.112.n.1"
-                          /></l>
+                        <l>*)/anac *)/apollon, kai\ su\ tou\s me\n ai)ti/ous<note n="p.112.n.1"/></l>
                         <l>sh/maine kai/ sf ea s o)/llu' w(/sper o)llu/eis.</l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.28</bibl>
@@ -3040,8 +2990,7 @@
 
               <div4 type="IAMBIC" n="28">
                 <cit id="tlg-0232.cit.98">
-                  <quote>h( diplh= o(/ti *)arxi/loxos u(perte/ran th\n newte/ran e)de/cato: <cit
-                      id="tlg-0232.cit.99">
+                  <quote>h( diplh= o(/ti *)arxi/loxos u(perte/ran th\n newte/ran e)de/cato: <cit id="tlg-0232.cit.99">
                       <quote>
                         <l>oi)/hn *luka/mb ew <!--note n="p.112.n.2"/--> pai=da th\n u(perte/rhn.</l>
                       </quote>
@@ -3056,8 +3005,7 @@
                 <cit id="tlg-0232.cit.100">
                   <quote>kai\ o( ka/llistos poihtw=n *)arxi/loxos e)paine/sas au)th\n &lpar;th\n
                     ko/mhn&rpar; e)painei= me\n ou)=san e)n e(tai/ras sw/mati, le/gei de\
-                    ou(/tws: <q>h( de/ oi( . . meta/frena.</q> <cit
-                      id="tlg-0232.cit.101">
+                    ou(/tws: <q>h( de/ oi( . . meta/frena.</q> <cit id="tlg-0232.cit.101">
                       <quote>
                         <l>e)/xousa qallo\n mursi/nhs e)te/rpeto</l>
                         <l>r(odh=s te kalo\n a)/nqos, h( de/ oi( ko/mh</l>
@@ -3102,8 +3050,7 @@
                     a)gaqou\s a)pwle/sas poli/tas ou) *foi/nici polemw=n ou)de\ *mh/dois w(/sper
                     ou(mo\s a)delfo\s *ki/mwn, a)lla\ su/mmaxon kai\ suggenh= po/lin
                     katastrefo/menos.</q> tau=ta th=s *)elpini/khs legou/shs, o( *periklh=s
-                    meidia/sas a)tre/ma le/getai to\ tou= *)arxilo/xou pro\s au)th\n ei)pei=n: <cit
-                      id="tlg-0232.cit.106">
+                    meidia/sas a)tre/ma le/getai to\ tou= *)arxilo/xou pro\s au)th\n ei)pei=n: <cit id="tlg-0232.cit.106">
                       <quote>
                         <l>ou)k a)\n mu/roisi grhu=s e)ou=s h)lei/feo.<!--note n="p.114.n.1"/--></l>
                       </quote>
@@ -3121,8 +3068,7 @@
                       <quote>
                         <l>w(/sper &lt;par'&gt;<!--note n="p.114.n.2"/--> au)lw=| bru=ton h)\
                           *qrh=i+c a)nh\r</l>
-                        <l>h)\ *fru\c e)/bruze,<!--note n="p.114.n.3"/--> ku/bda d' h)=n poneume/nh.<note
-                            n="p.114.n.4"/></l>
+                        <l>h)\ *fru\c e)/bruze,<!--note n="p.114.n.3"/--> ku/bda d' h)=n poneume/nh.<note n="p.114.n.4"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.33</bibl>
                     </cit>
@@ -3187,8 +3133,7 @@
 
               <div4 type="IAMBIC" n="37">
                 <cit id="tlg-0232.cit.117">
-                  <quote>e)gkuti/: e)pi/rrhma shmai=non to\ e)n xrw=|: *)arxi/loxos: <cit
-                      id="tlg-0232.cit.118">
+                  <quote>e)gkuti/: e)pi/rrhma shmai=non to\ e)n xrw=|: *)arxi/loxos: <cit id="tlg-0232.cit.118">
                       <quote>
                         <l>xai/thn a)p' w)/mwn e)gkuti\ kekarme/nos</l>
                       </quote>
@@ -3202,8 +3147,7 @@
 
               <div4 type="IAMBIC" n="38">
                 <cit id="tlg-0232.cit.119">
-                  <quote>ai)hne/s: to\ deino\n kai\ polu/stonon: *)arxi/loxos: <cit
-                      id="tlg-0232.cit.120">
+                  <quote>ai)hne/s: to\ deino\n kai\ polu/stonon: *)arxi/loxos: <cit id="tlg-0232.cit.120">
                       <quote>
                         <l>prou)/qhke paisi\ dei=pnon ai)hne\s fe/rwn.</l>
                       </quote>
@@ -3216,12 +3160,10 @@
 
               <div4 type="IAMBIC" n="39">
                 <cit id="tlg-0232.cit.121">
-                  <quote>korwno/s: o( gau=ros kai\ u(yauxenw=n . . *)arxi/loxos: <cit
-                      id="tlg-0232.cit.122">
+                  <quote>korwno/s: o( gau=ros kai\ u(yauxenw=n . . *)arxi/loxos: <cit id="tlg-0232.cit.122">
                       <quote>
                         <l>*bou=s e)sti\n h(mi=n e)rga/ths e)n oi)ki/h|</l>
-                        <l>korwno/s, e)/rgwn i)/dris ou)d' a)r&lt;ou=n qe/lwn&gt;.<note
-                            n="p.116.n.2"/></l>
+                        <l>korwno/s, e)/rgwn i)/dris ou)d' a)r&lt;ou=n qe/lwn&gt;.<note n="p.116.n.2"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.40</bibl>
                     </cit>
@@ -3332,8 +3274,7 @@
                   <quote>fhlh/tou<!--note n="p.120.n.3"/--> de\ tou= ei)rhme/nou xrh=sis me\n para/ te
                     *(hsio/dw| kai\ para\ *)arxilo/xw| e)n tw=|: <cit id="tlg-0232.cit.137">
                       <quote>
-                        <l>*fhlh=ta<!--note n="p.120.n.3"/--> nu/ktwr peri\ po/lin pwleu/mene<note
-                            n="p.120.n.4"/></l>
+                        <l>*fhlh=ta<!--note n="p.120.n.3"/--> nu/ktwr peri\ po/lin pwleu/mene<note n="p.120.n.4"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.47</bibl>
                     </cit>
@@ -3346,8 +3287,7 @@
               <div4 type="IAMBIC" n="47">
                 <cit id="tlg-0232.cit.138">
                   <quote>p. kli/s. o)nom. 2. 679. 5 mu/khs: . . shmai/nei de\ kai\ to\ ai)/doion tou
-                    anqrw/pou, o(/per i)sosu/llabws e)/klinen *)arxi/loxos: <cit
-                      id="tlg-0232.cit.139">
+                    anqrw/pou, o(/per i)sosu/llabws e)/klinen *)arxi/loxos: <cit id="tlg-0232.cit.139">
                       <quote>
                         <l>a)ll' a)perrw/gasi/ &lt;moi&gt;<!--note n="p.120.n.5"/--></l>
                         <l>mu/k ew te/nontes.</l>
@@ -3362,8 +3302,7 @@
               <div4 type="IAMBIC" n="48">
                 <cit id="tlg-0232.cit.140">
                   <quote>kli/netai de\ kai\ w(s spondeiako/n, *)/arhs, *)/arou, o(/qen kat' *)ia/da
-                    dia/lekton e)pektei/nas *)arxi/loxos e)/fh e)n toi=s *trime/trois: <cit
-                      id="tlg-0232.cit.141">
+                    dia/lekton e)pektei/nas *)arxi/loxos e)/fh e)n toi=s *trime/trois: <cit id="tlg-0232.cit.141">
                       <quote>
                         <l>pai=d' *)/ar ew mihfo/nou</l>
                       </quote>
@@ -3419,8 +3358,7 @@
                 <cit id="tlg-0232.cit.147">
                   <quote><add>w)= sofw/tatoi gewrgoi/, ta)ma\ dh\ cuni/ete |
                     r(h/mata</add>: pro\s tau=ta kai\ *krati=nos e)n *puti/nh| pepoi/hken:
-                    <q>*)=w lipernh=tes poli=tai, ta)ma\ dh\ cuni/ete:</q><note
-                      n="p.122.n.2"/> e)/sti de/ pro\s ta\ *)arxilo/xou: <cit id="tlg-0232.cit.148">
+                    <q>*)=w lipernh=tes poli=tai, ta)ma\ dh\ cuni/ete:</q><note n="p.122.n.2"/> e)/sti de/ pro\s ta\ *)arxilo/xou: <cit id="tlg-0232.cit.148">
                       <quote>
                         <l>&lt;*)=w&gt; lipernh=tes poli=tai, ta)ma\ dh\ cuni/ete</l>
                         <l>r(h/mat'.<!--note n="p.122.n.3"/--></l>
@@ -3480,8 +3418,7 @@
               <div4 type="IAMBIC" n="54">
                 <cit id="tlg-0232.cit.155">
                   <quote>... kaqa/per *)arxi/loxos me\n toi=s *qrakikoi=s a)peilhmme/nos deinoi=s
-                    to\n po/lemon ei)ka/zei qalatti/w| klu/dwni, le/gwn w(=de/ pws: <cit
-                      id="tlg-0232.cit.156">
+                    to\n po/lemon ei)ka/zei qalatti/w| klu/dwni, le/gwn w(=de/ pws: <cit id="tlg-0232.cit.156">
                       <quote>
                         <l>*glau=x',<!--note n="p.124.n.1"/--> o(/ra: baqu\s ga\r h)/dh ku/masin
                           tara/ssetai</l>
@@ -3534,8 +3471,7 @@
 
               <div4 type="IAMBIC" n="57">
                 <cit id="tlg-0232.cit.161">
-                  <quote>oi( new/teroi ke/ras th\n sumplokh\n tw=n trixw=n o(moi/an ke/rati: <cit
-                      id="tlg-0232.cit.162">
+                  <quote>oi( new/teroi ke/ras th\n sumplokh\n tw=n trixw=n o(moi/an ke/rati: <cit id="tlg-0232.cit.162">
                       <quote>
                         <l>*to\n keropla/sthn a)/eide *glau=kon ..</l>
                       </quote>
@@ -3554,11 +3490,9 @@
 
               <div4 type="IAMBIC" n="58">
                 <cit id="tlg-0232.cit.164">
-                  <quote>o( de\ *)arxi/loxos .. peri\ strathgou= le/gwn ou(/tw fhsi/n: <cit
-                      id="tlg-0232.cit.165">
+                  <quote>o( de\ *)arxi/loxos .. peri\ strathgou= le/gwn ou(/tw fhsi/n: <cit id="tlg-0232.cit.165">
                       <quote>
-                        <l>*ou) file/w me/gan strathgo\n ou)de\ diapepligme/non<note n="p.126.n.3"
-                          /></l>
+                        <l>*ou) file/w me/gan strathgo\n ou)de\ diapepligme/non<note n="p.126.n.3"/></l>
                         <l>ou)de\ bostru/xoisi gau=ron ou)d' u(pecurhme/non,</l>
                         <l>a)lla/ moi smikro/s tis ei)/h kai\ peri\ knh/mas i)dei=n</l>
                         <l>r(oiko/s,<!--note n="p.126.n.4"/--> a)sfal ew/ s bebhkw\s possi, kardi/hs
@@ -3646,8 +3580,7 @@
                         <l>*ou)/ tis ai)doi=os met' a)stw=n ou)de\<!--note n="p.130.n.1"/--> peri/fhmos
                           qanw\n</l>
                         <l>gi/gnetai: xa/rin de\ ma=llon tou= zoou= diw/komen</l>
-                        <l>zw=ntes e)/ti:<!--note n="p.130.n.2"/--> ka/kista d' ai)ei\<note n="p.130.n.3"
-                          /> tw=| qano/nti gi/gnetai.</l>
+                        <l>zw=ntes e)/ti:<!--note n="p.130.n.2"/--> ka/kista d' ai)ei\<note n="p.130.n.3"/> tw=| qano/nti gi/gnetai.</l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.65</bibl>
                     </cit>
@@ -3676,8 +3609,7 @@
                     kola/zesqai</add>: o(moi/ws kai\ *)arxi/loxos: <cit id="tlg-0232.cit.179">
                       <quote>
                         <l>e(\n d' e)pi/stamai me/ga,</l>
-                        <l>to\n kakw=s &lt;me&gt;<!--note n="p.130.n.4"/--> drw=nta de/nnois<note
-                            n="p.130.n.5"/> a)ntamei/besqai kakoi=s.</l>
+                        <l>to\n kakw=s &lt;me&gt;<!--note n="p.130.n.4"/--> drw=nta de/nnois<note n="p.130.n.5"/> a)ntamei/besqai kakoi=s.</l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.67</bibl>
                     </cit>
@@ -3711,8 +3643,7 @@
                 <cit id="tlg-0232.cit.182">
                   <quote>pro\s ga\r tou\s sunh/qeis kai\ fi/lous o( qumo\s ai)/retai ma=llon h)\
                     pro\s tou\s a)gnw=tas o)ligwrei=sqai nomi/sas: dio\ kai\ *)arxi/loxos
-                    proshko/ntws toi=s fi/lois e)gkalw=n diale/getai pro\s to\n qumo/n: <cit
-                      id="tlg-0232.cit.183">
+                    proshko/ntws toi=s fi/lois e)gkalw=n diale/getai pro\s to\n qumo/n: <cit id="tlg-0232.cit.183">
                       <quote>
                         <l>su\ ga\r dh\ para\ fi/lwn a)pa/gxeai.<!--note n="p.132.n.1"/--></l>
                       </quote>
@@ -3743,12 +3674,10 @@
               <div4 type="IAMBIC" n="69">
                 <cit id="tlg-0232.cit.186">
                   <quote><add>p. tou= poluptw/tou</add>: e)/sti de\ to\ toiou=ton sxh=ma
-                    kai\ para/ tisi tw=n poihtw=n, w(s para\ *)arxilo/xw|: <cit
-                      id="tlg-0232.cit.187">
+                    kai\ para/ tisi tw=n poihtw=n, w(s para\ *)arxilo/xw|: <cit id="tlg-0232.cit.187">
                       <quote>
                         <l>nu=n de\ *l ew/ filos me\n a)/rxei, *l ew/ filos d' e)pikratei=,</l>
-                        <l>*l ew fi/lw| de\ pa/nta kei=tai, *l ew/ filos d' a)koue/tw.<note
-                            n="p.132.n.2"/></l>
+                        <l>*l ew fi/lw| de\ pa/nta kei=tai, *l ew/ filos d' a)koue/tw.<note n="p.132.n.2"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.71</bibl>
                     </cit>
@@ -3767,8 +3696,7 @@
                         <l>*toi=os a)nqrw/poisi qumo/s, *glau=ke, *lepti/n ew pa/i+,</l>
                         <l>gi/gnetai qnhtoi=s, o(koi=on<!--note n="p.132.n.3"/--> *zeu\s e)f' h(me/rhn
                           a)/gh|,</l>
-                        <l>kai\ froneu=si toi=' o(koi/ois e)gkure/wsin e)/rgmasin.<note
-                            n="p.132.n.4"/></l>
+                        <l>kai\ froneu=si toi=' o(koi/ois e)gkure/wsin e)/rgmasin.<note n="p.132.n.4"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.72</bibl>
                     </cit>
@@ -3794,8 +3722,7 @@
 
               <div4 type="IAMBIC" n="72">
                 <cit id="tlg-0232.cit.192">
-                  <quote>a)sko\n toi/nun le/gei to\n peri\ th\n gaste/ra to/pon: *)arxi/loxos: <cit
-                      id="tlg-0232.cit.193">
+                  <quote>a)sko\n toi/nun le/gei to\n peri\ th\n gaste/ra to/pon: *)arxi/loxos: <cit id="tlg-0232.cit.193">
                       <quote>
                         <l>kai\ pesei=n drh/sthn e)p' a)sko\n ka)pi\ gastri\ gaste/ra</l>
                         <l>prosbalei=n mhrou/s te mhroi=s.</l>
@@ -3811,11 +3738,9 @@
                 <cit id="tlg-0232.cit.194">
                   <quote>au)=qi/s te o( *)arxi/loxos to\ *(omhriko\n e)kei=no
                       metafe/rwn<bibl>&lpar;Il. 9. 116&rpar;</bibl>: <q>a)asa/mhn
-                    ou)d' au)to\s a)nai/nomai, a)nti/ nu pollw=n</q> w(=de/ pws gra/fei: <cit
-                      id="tlg-0232.cit.195">
+                    ou)d' au)to\s a)nai/nomai, a)nti/ nu pollw=n</q> w(=de/ pws gra/fei: <cit id="tlg-0232.cit.195">
                       <quote>
-                        <l>h)/mblakon, kai/ pou/ tin' a)/llon h(/d' a)/th kixh/sato.<note
-                            n="p.134.n.2"/></l>
+                        <l>h)/mblakon, kai/ pou/ tin' a)/llon h(/d' a)/th kixh/sato.<note n="p.134.n.2"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.75</bibl>
                     </cit>
@@ -3852,8 +3777,7 @@
 
               <div4 type="IAMBIC" n="75">
                 <cit id="tlg-0232.cit.198">
-                  <quote>. . oi(=on eu)qu\s o( *)arxi/loxos o(/tan me\n eu)xo/menos le/gh|: <cit
-                      id="tlg-0232.cit.199">
+                  <quote>. . oi(=on eu)qu\s o( *)arxi/loxos o(/tan me\n eu)xo/menos le/gh|: <cit id="tlg-0232.cit.199">
                       <quote>
                         <l>*klu=q' a)/nac *(/hfaiste kai\ moi su/mmaxos gounoume/nw|</l>
                         <l>i(/laos geneu=,<!--note n="p.136.n.1"/--> xari/zeu d' oi(=a/ per
@@ -3900,8 +3824,7 @@
               <div4 type="IAMBIC" n="78">
                 <cit id="tlg-0232.cit.204">
                   <quote>peri\ *perikle/ous fhsi\n *)arxi/loxos .. w(s a)klh/tou e)peispai/ontos
-                    ei)s ta\ sumpo/sia *mukoni/wn di/khn:<!--note n="p.136.n.2"/-->. . <cit
-                      id="tlg-0232.cit.205">
+                    ei)s ta\ sumpo/sia *mukoni/wn di/khn:<!--note n="p.136.n.2"/-->. . <cit id="tlg-0232.cit.205">
                       <quote>
                         <l>pollo\n de\ pi/nwn kai\ xali/krhton me/qu,<!--note n="p.136.n.3"/--></l>
                         <l>ou)/te ti=mon ei)sene/gkas<!--note n="p.136.n.4"/--></l>
@@ -3981,8 +3904,7 @@
               <div4 type="IAMBIC" n="83">
                 <cit id="tlg-0232.cit.211">
                   <quote>. . ta\ para\ th=| grafh=| diaforou/mena: ei)si\ tau=ta . . ei)/kelos
-                    a)steroph=| kai\ to\ i)/kelos . . bakxei/a<!--note n="p.140.n.1"/--> kai\ <cit
-                      id="tlg-0232.cit.212">
+                    a)steroph=| kai\ to\ i)/kelos . . bakxei/a<!--note n="p.140.n.1"/--> kai\ <cit id="tlg-0232.cit.212">
                       <quote>
                         <l>e(/wqen e(/kastos e)/pinen: e)n de\ bakxi/h|sin<!--note n="p.140.n.2"/--></l>
                       </quote>
@@ -4002,8 +3924,7 @@
               <div4 type="LYRIC" n="84">
                 <cit id="tlg-0232.cit.213">
                   <quote><add>yo/gos *)afrodi/ths: kai\ o(/ti fau=lon o( e)/rws kai\ po/swn
-                    ei)/h kakw=n gegonw\s ai)/tios</add>: *)arxilo/xou: <cit
-                      id="tlg-0232.cit.214">
+                    ei)/h kakw=n gegonw\s ai)/tios</add>: *)arxilo/xou: <cit id="tlg-0232.cit.214">
                       <quote>
                         <l>*du/sthnos e)/gkeimai po/qw|</l>
                         <l>a)/yuxos, xaleph=|si qew=n o)du/nh|sin e(/khti</l>
@@ -4019,8 +3940,7 @@
               <div4 type="LYRIC" n="85">
                 <cit id="tlg-0232.cit.215">
                   <quote>tri/ton de/ e)sti para\ *)arxilo/xw| a)suna/rthton e)k daktulikou=
-                    penqhmimerou=s kai\ i)ambikou= dime/trou a)katalh/ktou: <cit
-                      id="tlg-0232.cit.216">
+                    penqhmimerou=s kai\ i)ambikou= dime/trou a)katalh/ktou: <cit id="tlg-0232.cit.216">
                       <quote>
                         <l>a)lla/ m' o( lusimelh/s,<!--note n="p.140.n.3"/--> w)= t'ai=re, da/mnatai
                           po/qos.</l>
@@ -4110,8 +4030,7 @@
 
               <div4 type="LYRIC" n="89">
                 <cit id="tlg-0232.cit.224">
-                  <quote><add>p. *)arxilo/xou</add>: . . kai\ pa/lin o(/tan le/gh|: <cit
-                      id="tlg-0232.cit.225">
+                  <quote><add>p. *)arxilo/xou</add>: . . kai\ pa/lin o(/tan le/gh|: <cit id="tlg-0232.cit.225">
                       <quote>
                         <l>e)re/w tin' u(mi=n ai)=non, w)= *khruki/dh,</l>
                         <l>a)xnume/nh skuta/lh:<!--note n="p.144.n.3"/--></l>
@@ -4163,11 +4082,9 @@
                 <cit id="tlg-0232.cit.230">
                   <quote>kataproi+/casqai: a)po\ tou= proiko/s, h(\n diairou=ntes oi( *)/iwnes
                     pro/i+ka le/gousin, w(/sper h( proi+/c: &lt;ou&gt; dwrea\n di/dotai,
-                    fhsi/n, ou) &lt;d' e)n&gt; dw/r&lt;ou me/&gt;rei<note
-                      n="p.146.n.1"/> mou katagnw/setai/tis, a)ll' a)podw/sei misqo\n w(=n
+                    fhsi/n, ou) &lt;d' e)n&gt; dw/r&lt;ou me/&gt;rei<note n="p.146.n.1"/> mou katagnw/setai/tis, a)ll' a)podw/sei misqo\n w(=n
                     e)pra/cato. kai\ o( e)paith/s kai\ o( proi=ka ai)tw=n proi+/kths le/getai:
-                    ou(/tw eu(=ron e)n *(upomnh/mati *)epw|dw=n *)arxilo/xou. <cit
-                      id="tlg-0232.cit.231">
+                    ou(/tw eu(=ron e)n *(upomnh/mati *)epw|dw=n *)arxilo/xou. <cit id="tlg-0232.cit.231">
                       <quote>
                         <l>e)meu= d' e)kei=nos ou) kataproi+/cetai.</l>
                       </quote>
@@ -4185,8 +4102,7 @@
 
               <div4 type="LYRIC" n="93">
                 <cit id="tlg-0232.cit.233">
-                  <quote>ou) mh\n a)lla\ h( *tu/xh, kaqa/per h( par' *)arxilo/xw| gunh/: <cit
-                      id="tlg-0232.cit.234">
+                  <quote>ou) mh\n a)lla\ h( *tu/xh, kaqa/per h( par' *)arxilo/xw| gunh/: <cit id="tlg-0232.cit.234">
                       <quote>
                         <l>th=| me\n u(/dwr e)fo/rei</l>
                         <l>dolofrone/ousa xeiri/, qh)te/rh| de\ pu=r:</l>
@@ -4215,7 +4131,7 @@
                       <bibl>CURFRAG.tlg-0232.94</bibl>
                     </cit>
                   </quote>
-                  <bibl>Heph. <foreign lang="greek">p. poihm.</foreign> >7.2. p.71 Cons.</bibl>
+                  <bibl>Heph. <foreign lang="greek">p. poihm.</foreign> &gt;7.2. p.71 Cons.</bibl>
                 </cit>
               </div4>
 
@@ -4306,8 +4222,7 @@
                           <gap/>
                         </l>
                         <l>ku/m<add>ati</add> pla<add>zo/m</add>enos,</l>
-                        <l>ka)n *salmudhs sw=| gumno\n eu)frone/w<add>n e)te/wn</add><note
-                            n="p.150.n.2"/></l>
+                        <l>ka)n *salmudhs sw=| gumno\n eu)frone/w<add>n e)te/wn</add><note n="p.150.n.2"/></l>
                         <l>*qrh/i+kes a)kro/komoi</l>
                         <l n="5">la/boien, e)/nqa po/ll' a)naplh/sei kaka\</l>
                         <l>dou/lion a)/rton e)/dwn,</l>
@@ -4333,8 +4248,7 @@
                     <l>*(h xlai=n<add>a dhloi= s</add>xetli/h, <add>s'
                         e)stalme/nh</add><!--note n="p.150.n.7"/--></l>
                     <l>kurto/n, o(<add>te/oisi</add> filei=s</l>
-                    <l>a)gxou= kaqh=sqai. tau=ta d' *(ippw=na<add>c skafeu\s</add><note
-                        n="p.150.n.8"/></l>
+                    <l>a)gxou= kaqh=sqai. tau=ta d' *(ippw=na<add>c skafeu\s</add><note n="p.150.n.8"/></l>
                     <l><add>o</add>i)=den a)/rista brotw=n,</l>
                     <l n="5"><add>oi)=</add>den de\ k' *)ari/fantos: a)= ma/kar
                         o(/t<add>is</add><!--note n="p.150.n.9"/--></l>
@@ -4342,8 +4256,7 @@
                     <l><add>g</add>r<add>a/s</add>ou<!--note n="p.152.n.1"/--> pne/onta
                       fw=ra: tw=| xutrei=<add>d' o(/te</add><!--note n="p.152.n.2"/--></l>
                     <l>*ai)sxuli/dh| pole/mei,<!--note n="p.152.n.3"/--></l>
-                    <l>e)kei=nos h)/merse/n <add>se parqenh</add>i+/hs,<note n="p.152.n.4"
-                      /></l>
+                    <l>e)kei=nos h)/merse/n <add>se parqenh</add>i+/hs,<note n="p.152.n.4"/></l>
                     <l n="10">pa=s de\ pe/fhne<!--note n="p.152.n.5"/--> lo/<add>gos.</add></l>
                   </quote>
                   <bibl>Pap. Argentorat. Sitz. b. Berl. Akad. 1899. 857<!--note n="p.150.n.6"/--></bibl>
@@ -4353,8 +4266,7 @@
               <div4 type="LYRIC" n="98">
                 <cit id="tlg-0232.cit.251">
                   <quote>to\ tetra/metron &lpar;daktuliko\n&rpar; ei)s disu/llabon
-                    katalhktiko/n, w(=| prw=tos me\n e)xrh/sato *)arxi/loxos e)n *)epw|doi=s: <cit
-                      id="tlg-0232.cit.252">
+                    katalhktiko/n, w(=| prw=tos me\n e)xrh/sato *)arxi/loxos e)n *)epw|doi=s: <cit id="tlg-0232.cit.252">
                       <quote>
                         <l>faino/menon kako\n oi)/kad' a)/gesqai</l>
                       </quote>
@@ -4384,8 +4296,7 @@
               <div4 type="LYRIC" n="99">
                 <cit id="tlg-0232.cit.255">
                   <quote>tri/metron de\ katalhktiko\n &lpar;troxai+ko/n&rpar;, oi(=o/n e)sti
-                    to\ *)arxilo/xou, o(/ tines a)ke/falon i)ambiko\n kalou=si: <cit
-                      id="tlg-0232.cit.256">
+                    to\ *)arxilo/xou, o(/ tines a)ke/falon i)ambiko\n kalou=si: <cit id="tlg-0232.cit.256">
                       <quote>
                         <l>*zeu= pa/ter, ga/mon me\n ou)k e)dais a/mhn.</l>
                       </quote>
@@ -4400,8 +4311,7 @@
                 <cit id="tlg-0232.cit.257">
                   <quote>e)/sti de\ e)n au)tw=| &lpar;tw=| troxai+kw=|&rpar; e)pi/shmon ka
                     to\ di/metron braxukata/lhkton, to\ kalou/menon i)qufalliko/n: w(=| prw=tos me\n
-                    *)arxi/loxos ke/xrhtai, suzeu/cas au)to daktulikw=| tetrame/trw| ou(/tws: <cit
-                      id="tlg-0232.cit.258">
+                    *)arxi/loxos ke/xrhtai, suzeu/cas au)to daktulikw=| tetrame/trw| ou(/tws: <cit id="tlg-0232.cit.258">
                       <quote>
                         <l>*ou)ke/q' o(mw=s qa/lleis a(palo\n xro/a: ka/rfetai ga\r h)/dh.</l>
                       </quote>
@@ -4448,8 +4358,7 @@
               <div4 type="LYRIC" n="103">
                 <cit id="tlg-0232.cit.263">
                   <quote><add>yo/gos *)afrodi/ths: kai\ o(/ti fau=lon o( e)/rws kai\ po/swn
-                    ei)/h kakw=n gegonw\s ai)/tios</add>: *)arxilo/xou: <cit
-                      id="tlg-0232.cit.264">
+                    ei)/h kakw=n gegonw\s ai)/tios</add>: *)arxilo/xou: <cit id="tlg-0232.cit.264">
                       <quote>
                         <l>toi=os ga\r filo/thtos e)/rws u(po\ kardi/hn e)lusqei\s</l>
                         <l>pollh\n kat' a)xlu\n o)mma/twn e(/xeuen,</l>
@@ -4464,8 +4373,7 @@
 
               <div4 type="LYRIC" n="104">
                 <cit id="tlg-0232.cit.265">
-                  <quote>kai\ e)/ti <q>eu)=te pro\s</q> ktl. <cit
-                      id="tlg-0232.cit.266">
+                  <quote>kai\ e)/ti <q>eu)=te pro\s</q> ktl. <cit id="tlg-0232.cit.266">
                       <quote>
                         <l>*eu)=te<!--note n="p.154.n.4"/--> pro\s a)/eqla dh=mos h)qroi+/zeto,</l>
                         <l>e)n de\ *batousia/dhs</l>
@@ -4505,8 +4413,7 @@
                   <quote>pro/keitai ta\ pra/gmat' au)toi=s &lpar;toi=s qeoi=s&rpar; w(/sper
                     e)n o)fqalmoi=s. dia\ tou=to <q>*zeu\s e)n qeoi=si</q> ktl., kai\
                     o(/ti ge d' au)to\ tou=to o( au)to\s ou(=tos poihth\s marturei=. to\ ga\r
-                    deu/tero/n e)stin au)tw=|: <q>kai\ te/los</q> ktl. <cit
-                      id="tlg-0232.cit.271">
+                    deu/tero/n e)stin au)tw=|: <q>kai\ te/los</q> ktl. <cit id="tlg-0232.cit.271">
                       <quote>
                         <l>*zeu\s e)n qeoi=si ma/ntis a)yeude/statos</l>
                         <l>kai\ te/los au)to\s e)/xei.</l>
@@ -4521,11 +4428,9 @@
               <div4 type="LYRIC" n="105">
                 <cit id="tlg-0232.cit.272">
                   <quote lang="la"><add>de pentametro iambico catalecto</add>: Hoc potest
-                    dividi in dimetrum acatalectum Archilochium, de quo supra docui, <cit
-                      id="tlg-0232.cit.273">
+                    dividi in dimetrum acatalectum Archilochium, de quo supra docui, <cit id="tlg-0232.cit.273">
                       <quote>
-                        <l>fa/b' ou)=los ei(/&lt;lkus&gt;as fi/lous.<note n="p.157.n.1"
-                          /></l>
+                        <l>fa/b' ou)=los ei(/&lt;lkus&gt;as fi/lous.<note n="p.157.n.1"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0232.110</bibl>
                     </cit>
@@ -4550,8 +4455,7 @@
 
               <div4 type="LYRIC" n="107">
                 <cit id="tlg-0232.cit.276">
-                  <quote>gennai=a le/gei ta\ eu)genh= o( filo/sofos, w(s kai\ *)arxi/loxos: <cit
-                      id="tlg-0232.cit.277">
+                  <quote>gennai=a le/gei ta\ eu)genh= o( filo/sofos, w(s kai\ *)arxi/loxos: <cit id="tlg-0232.cit.277">
                       <quote>
                         <l>pa/relqe, gennai=os ga\r ei)=s.</l>
                       </quote>
@@ -4719,8 +4623,7 @@
                       th\<add>n a)/llwn do/-</add><lb/><add>c</add>an a)lla\ kai\
                       tou= poihtou= *)arxilo/xou ta\s a)reta\s <add>kai\
                       th=s</add><lb/>lamprunome/nhs eu)sebi/as kai\ th=s peri\ th\n
-                      *pa/r<add>on filopa-</add><lb/>tri/as kai\ tw=n u(p' au)tou=<note
-                        n="p.162.n.2"/> pepragme/nwn <add>u(pe\r tw=n *pari/-</add><lb/>wn
+                      *pa/r<add>on filopa-</add><lb/>tri/as kai\ tw=n u(p' au)tou=<note n="p.162.n.2"/> pepragme/nwn <add>u(pe\r tw=n *pari/-</add><lb/>wn
                       pollw=n kai\ mega/lwn a)gaqw=n d<add>e/ka bubli/a</add><lb/>pare\k
                       tou= a)nhgagwxo/tos tau=ta ei)s a)/rx<add>ontas
                       tou\s</add><lb/>e)thsi/ous. ge/grafen de\ o( *dhme/as e(/kasta
@@ -4744,9 +4647,7 @@
                           <l>*penth/kont' a)ndrw=n li/pe *k<add>oi/ranon</add>| h)/pios
                               *poseidw=n<!--note n="p.164.n.1"/--></l>
                           <l>nauagi/as swqe/nt' e(/na,<!--note n="p.164.n.2"/--></l>
-                          <l>o(/<add>s t' e)laxu-</add>|pte/rugon delfi=n'<note
-                              n="p.164.n.3"/> e)kelh/tis' ei)s *si/kun<add>qon.<note
-                              n="p.164.n.4"/></add></l>
+                          <l>o(/<add>s t' e)laxu-</add>|pte/rugon delfi=n'<note n="p.164.n.3"/> e)kelh/tis' ei)s *si/kun<add>qon.<note n="p.164.n.4"/></add></l>
                           <l>
                             <gap extent="18 lines almost wholly lost"/>
                           </l>
@@ -4770,12 +4671,9 @@
                       skw/ptwn o(/ti e)yeudo/<add>rkhsan:</add> <cit id="tlg-0232.cit.296">
                         <quote>
                           <l>*to/lman e)kpre/pousan ei)=den, ei)/ tis h)=n a)naiba/ths,</l>
-                          <l>a)n|gra/fh t' e)/ths *)arh=|os *)ecakestomalkidw=n:<note n="p.164.n.6"
-                            /></l>
-                          <l>w(s fa/a<!--note n="p.164.n.7"/--> xro|i\ prosi/zei, tw\s<note n="p.164.n.8"
-                            /> o( pai=s *peisistra/tou</l>
-                          <l>a)/ndras eu)= | nwmw=ntas au)lo\n kai\ lu/rhn a)nh=r'<note
-                              n="p.164.n.9"/> a)/gwn</l>
+                          <l>a)n|gra/fh t' e)/ths *)arh=|os *)ecakestomalkidw=n:<note n="p.164.n.6"/></l>
+                          <l>w(s fa/a<!--note n="p.164.n.7"/--> xro|i\ prosi/zei, tw\s<note n="p.164.n.8"/> o( pai=s *peisistra/tou</l>
+                          <l>a)/ndras eu)= | nwmw=ntas au)lo\n kai\ lu/rhn a)nh=r'<note n="p.164.n.9"/> a)/gwn</l>
                           <l>ei)s *qa/son, fwsi\ | *qre/i+cin<!--note n="p.164.n.10"/--> dw=r' e)/xwn
                             a)kh/raton</l>
                           <l>xruso/n: oi)kei/w|<!--note n="p.164.n.11"/-->| de\ ke/rdei cu/n' e)poi/hsan
@@ -4794,8 +4692,7 @@
                           <l>tw=n d' a)nwta/th *tu/xh<!--note n="p.164.n.13"/--></l>
                           <l>i(/laos parastaqei=sa | fa= t' e)/baine/ q', h(=| t' i)/h|</l>
                           <l>a)/rxen, h)=n t' ai)/ein a)u+th=s th=s polu | tlantos lew/:</l>
-                          <l>kou)/tis h)=n<!--note n="p.166.n.1"/--> tw=n r(iyako/ntwn wu(k<note
-                              n="p.166.n.2"/> e)fhmme/nh seri/s,<!--note n="p.166.n.3"/--></l>
+                          <l>kou)/tis h)=n<!--note n="p.166.n.1"/--> tw=n r(iyako/ntwn wu(k<note n="p.166.n.2"/> e)fhmme/nh seri/s,<!--note n="p.166.n.3"/--></l>
                           <l>a)ll' a)ko/ntisan: to/soi t' a)/r' a)qro/ois e)ca/lmasi</l>
                           <l>th=l' e)|pe/kqeon, to/s' e)/llab'<!--note n="p.166.n.4"/--> *)ai+/dhs
                             e(lw/ria.</l>
@@ -4893,8 +4790,7 @@
                         <quote>
                           <l>*)/etecas,<!--note n="p.168.n.6"/--> w)= *te/reina, <add>th\n e)gw\
                             qorh\n</add></l>
-                          <l><add>e)/n soi ga/mw| fu/teu</add>|s a parafernhsi/w:<note
-                              n="p.168.n.7"/></l>
+                          <l><add>e)/n soi ga/mw| fu/teu</add>|s a parafernhsi/w:<note n="p.168.n.7"/></l>
                         </quote>
                         <bibl>CURFRAG.tlg-0232.127</bibl>
                       </cit>
@@ -4959,18 +4855,14 @@
                             e)/kpa<add>llon, kre/wn<!--note n="p.170.n.4"/--></add></l>
                           <l><add>gau/rois lo/gois</add> | w)/rine: tw=n d'
                             e)da/mna<add>to</add></l>
-                          <l><add>u(/bris: pe/las ga\r sta=s'</add> | A)qhnai/h Dio\s<note
-                              n="p.170.n.5"/></l>
+                          <l><add>u(/bris: pe/las ga\r sta=s'</add> | A)qhnai/h Dio\s<note n="p.170.n.5"/></l>
                           <l>a)mf' <add>h(=min u(/yi neu=sen, *ai)olei=s d' a)/ra</add>
                             |</l>
                           <l>qe/san pro/xoun trigx<add>oi=si,<!--note n="p.170.n.6"/--> kou)k
                             *)ia/ones.</add></l>
-                          <l><add>e)pei\ d' e)</add>|rhkto pu/rgos a)mfadh/<add>n<note
-                              n="p.172.n.1"/> sfisin,</add></l>
-                          <l><add>o(\n *ka=res h)=ran qe/sei+</add>| bardi/sth|<note
-                              n="p.172.n.2"/> li/qwn</l>
-                          <l>i(drw=<add>ntes,<!--note n="p.172.n.3"/--> h(mi=n h)pu/h<note
-                              n="p.172.n.4"/> pa/sas a)na</add></l>
+                          <l><add>e)pei\ d' e)</add>|rhkto pu/rgos a)mfadh/<add>n<note n="p.172.n.1"/> sfisin,</add></l>
+                          <l><add>o(\n *ka=res h)=ran qe/sei+</add>| bardi/sth|<note n="p.172.n.2"/> li/qwn</l>
+                          <l>i(drw=<add>ntes,<!--note n="p.172.n.3"/--> h(mi=n h)pu/h<note n="p.172.n.4"/> pa/sas a)na</add></l>
                           <l><add>fu</add>| la\s a)/orto<!--note n="p.172.n.5"/--> *lesbi/wn
                             <add>formigkte/wn,</add></l>
                           <l><add>xei=ras de\</add>| qe/ntes xersi\n o)r<add>xeu=nto
@@ -4998,13 +4890,11 @@
                 <div5>
                   <cit id="tlg-0232.cit.310">
                     <quote>. . . <add>*)apol</add>lw/nio<add><gap/> <lb/>. . . . . . . . . . . . . . . th=s</add><lb/>mhtro\s
-                      au)th=s<add> . . . . . . . . . . . .. </add><gap
-                        extent="2 lines lost"/><lb/>kai\ me<add>ta\&quest; . . . . . . . .
+                      au)th=s<add> . . . . . . . . . . . .. </add><gap extent="2 lines lost"/><lb/>kai\ me<add>ta\&quest; . . . . . . . .
                       . . . . .</add><lb/><add>. . . . . . . . . . . . . . . .
                       .</add><lb/>. . th=s patri/dos kai\ *)arxilo/xou e)ntau=qa
                       p<add>a/lin</add><lb/><add>me/mnhtai o( *dhme/as
-                      &lpar;&quest;&rpar; . . . . . . . . .</add><gap
-                        extent="2 lines lost"/>
+                      &lpar;&quest;&rpar; . . . . . . . . .</add><gap extent="2 lines lost"/>
                       <cit id="tlg-0232.cit.311">
                         <quote>
                           <l>*ti/s se to\n e)n pe/trh| *mousw=n qera/pont' e)xa/racen</l>
@@ -5018,8 +4908,7 @@
                           <l>
                             <gap extent="followed, after a space, by c. four elegiac lines"/>
                             <note>the first two beginning <foreign lang="greek">*swfrosu/nhs
-                                oi)/aka</foreign> and <foreign lang="greek"
-                                >e)me/o&lpar;&quest;&rpar;,</foreign> and the last
+                                oi)/aka</foreign> and <foreign lang="greek">e)me/o&lpar;&quest;&rpar;,</foreign> and the last
                               ending <foreign lang="greek">*pa/ros.</foreign>
                             </note>
                           </l>
@@ -5039,8 +4928,7 @@
               <div4 type="LYRIC" n="115">
                 <cit id="tlg-0232.cit.312">
                   <quote><add>p. a)sunarth/twn</add>: gi/netai de\ o( teleutai=os th=s
-                    tetrapodi/as dia\ th\n e)pi\ te/lous a)dia/foron kai\ krhtiko/s: <cit
-                      id="tlg-0232.cit.313">
+                    tetrapodi/as dia\ th\n e)pi\ te/lous a)dia/foron kai\ krhtiko/s: <cit id="tlg-0232.cit.313">
                       <quote>
                         <l>kai\ bh/ssas o)re/wn duspaipa/lous<!--note n="p.174.n.1"/--> oi(=os h)=n e)p
                           h(/bhs</l>
@@ -5216,8 +5104,7 @@
 
             <div3 type="UNKNOWN" n="122">
               <cit id="tlg-0232.cit.329">
-                <quote>sku/ta: to\ metacu\ tw=n teno/ntwn tou= traxh/lou.. kai\ *)arxi/loxos: <cit
-                    id="tlg-0232.cit.330">
+                <quote>sku/ta: to\ metacu\ tw=n teno/ntwn tou= traxh/lou.. kai\ *)arxi/loxos: <cit id="tlg-0232.cit.330">
                     <quote>
                       <l>pw=s a)pe/prise sku/ta;<!--note n="p.178.n.1"/--></l>
                     </quote>
@@ -5230,8 +5117,7 @@
 
             <div3 type="UNKNOWN" n="123">
               <cit id="tlg-0232.cit.331">
-                <quote>h( u(po/ a)nti\ th=s meta/, meta\ da/|dwn: *)arxi/loxos: <cit
-                    id="tlg-0232.cit.332">
+                <quote>h( u(po/ a)nti\ th=s meta/, meta\ da/|dwn: *)arxi/loxos: <cit id="tlg-0232.cit.332">
                     <quote>
                       <l>a)/|dwn u(p' au)lhth=ros</l>
                     </quote>
@@ -5301,8 +5187,7 @@
 
             <div3 type="UNKNOWN" n="128">
               <cit id="tlg-0232.cit.341">
-                <quote>a)mudro/n: nu=n to\ xalepo\n legetai, w(s kai\ *)arxi/loxos: <cit
-                    id="tlg-0232.cit.342">
+                <quote>a)mudro/n: nu=n to\ xalepo\n legetai, w(s kai\ *)arxi/loxos: <cit id="tlg-0232.cit.342">
                     <quote>
                       <l>a)mudrh\n xoira/d' e)xaleu/menos</l>
                     </quote>
@@ -5362,8 +5247,7 @@
                 <quote>o(/qen au)toi=s sumbai/nen mh/te para\ dei=pnon sugklitw=n mh/te suskh/nwn
                   tugxa/nein proqu/mwn, o(/tan o(doiporw=sin h)\ ple/wsin, a)ll' a)nagkastw=n:
                   pro/skeitai ga\r &lpar;o( la/los&rpar; a(pantaxou=, tw=i(mati/wn
-                  a)ntilambano/menos, tou= genei/ou, th\n pleura\n qurokopw=n th=| xeiri/: <cit
-                    id="tlg-0232.cit.350">
+                  a)ntilambano/menos, tou= genei/ou, th\n pleura\n qurokopw=n th=| xeiri/: <cit id="tlg-0232.cit.350">
                     <quote>
                       <l>po/des dh\ kei=qi timiw/tatoi</l>
                     </quote>
@@ -5406,8 +5290,7 @@
 
             <div3 type="UNKNOWN" n="135">
               <cit id="tlg-0232.cit.355">
-                <quote>a)=: shmai/nei de\ kai\ to\ polu\ kai\ me/ga par' *)arxilo/xw|: <cit
-                    id="tlg-0232.cit.356">
+                <quote>a)=: shmai/nei de\ kai\ to\ polu\ kai\ me/ga par' *)arxilo/xw|: <cit id="tlg-0232.cit.356">
                     <quote>
                       <l>a)= e(/ad' ei)/s te tau/rous<!--note n="p.182.n.1"/--></l>
                     </quote>
@@ -5448,8 +5331,7 @@
             <div3 type="UNKNOWN" n="138">
               <cit id="tlg-0232.cit.361">
                 <quote>me/zea: ta\ ai)doi=a, o(/ti me/sa ei)si\ th=s ou)ra=s, me/ssea o)/nta:..
-                  *(hsi/odos &lpar;<bibl>op. 510</bibl>&rpar;, w(s kai\ *)arxi/loxos: <cit
-                    id="tlg-0232.cit.362">
+                  *(hsi/odos &lpar;<bibl>op. 510</bibl>&rpar;, w(s kai\ *)arxi/loxos: <cit id="tlg-0232.cit.362">
                     <quote>
                       <l>i)=nas d' a)pe/qrisen mede/w n:<!--note n="p.184.n.1"/--></l>
                     </quote>
@@ -5833,8 +5715,7 @@
               <cit id="tlg-0232.cit.409">
                 <quote>h( e)c pro/qesis, o(/tan au)th=| su/mfwnon e)pife/rhtai, tre/pei to\ c ei)s
                   k. dei= de\ prosqei=nai, xwri\s ei) mh\ eu(reqh=| meta\ pare/lkontos: oi(=on w(s
-                  par' *)arxilo/xw|:<bibl>&lpar;fr. 5&rpar;</bibl>: kai\ pa/lin: <cit
-                    id="tlg-0232.cit.410">
+                  par' *)arxilo/xw|:<bibl>&lpar;fr. 5&rpar;</bibl>: kai\ pa/lin: <cit id="tlg-0232.cit.410">
                     <quote>
                       <l>die\c to\ mu/rton</l>
                     </quote>
@@ -5937,8 +5818,7 @@
 
             <div3 type="UNKNOWN" n="171">
               <cit id="tlg-0232.cit.423">
-                <quote>kai\ e)/oiken o( skorpiw/dhs th\n glw=ssan *)arxi/loxos <cit
-                    id="tlg-0232.cit.424">
+                <quote>kai\ e)/oiken o( skorpiw/dhs th\n glw=ssan *)arxi/loxos <cit id="tlg-0232.cit.424">
                     <quote>
                       <l>a(palo\n ke/ras</l>
                     </quote>
@@ -6212,8 +6092,7 @@
 
             <div3 type="UNKNOWN" n="186A">
               <cit id="tlg-0232.cit.461">
-                <quote><add>o)reskw=|os</add>: . . o(/te gou=n gi/netai <cit
-                    id="tlg-0232.cit.462">
+                <quote><add>o)reskw=|os</add>: . . o(/te gou=n gi/netai <cit id="tlg-0232.cit.462">
                     <quote>
                       <l>o)re/skoos</l>
                     </quote>
@@ -6242,8 +6121,7 @@
             <div3 type="UNKNOWN" n="188">
               <cit id="tlg-0232.cit.465">
                 <quote>le/gei d' au)to\s kai\ ta\s pro/kas par' *)arxilo/xw| e)pi\ e)la/fou
-                  teqei=sqai, par' w(=| kai/ tis dia deili/an proswnoma/sqh <cit
-                    id="tlg-0232.cit.466">
+                  teqei=sqai, par' w(=| kai/ tis dia deili/an proswnoma/sqh <cit id="tlg-0232.cit.466">
                     <quote>
                       <l>pro/c</l>
                     </quote>
@@ -6273,8 +6151,7 @@
             <div3 type="UNKNOWN" n="190">
               <cit id="tlg-0232.cit.469">
                 <quote>purrixi/zein: to\n e)no/plion o)/rxhsin kai\ su/ntonon purri/xhn e)/legon.
-                  oi( me\n a)po\ *purri/kou tou= *krhto/s, oi( de\ . . a)po\ <cit
-                    id="tlg-0232.cit.470">
+                  oi( me\n a)po\ *purri/kou tou= *krhto/s, oi( de\ . . a)po\ <cit id="tlg-0232.cit.470">
                     <quote>
                       <l>*pu/rrou</l>
                     </quote>
@@ -6289,8 +6166,7 @@
 
             <div3 type="UNKNOWN" n="191">
               <cit id="tlg-0232.cit.471">
-                <quote>eu(ri/skomen de\ kai\ e)pi\ th=s stafulh=s dia\ tou= w lego/menon <cit
-                    id="tlg-0232.cit.472">
+                <quote>eu(ri/skomen de\ kai\ e)pi\ th=s stafulh=s dia\ tou= w lego/menon <cit id="tlg-0232.cit.472">
                     <quote>
                       <l>r(w/c</l>
                     </quote>
@@ -6365,8 +6241,7 @@
 
             <div3 type="UNKNOWN" n="196">
               <cit id="tlg-0232.cit.481">
-                <quote>kai\ ou)lo/trixes par' *(hrodo/ty, *)arxiloxos de\ a)nastre/yas <cit
-                    id="tlg-0232.cit.482">
+                <quote>kai\ ou)lo/trixes par' *(hrodo/ty, *)arxiloxos de\ a)nastre/yas <cit id="tlg-0232.cit.482">
                     <quote>
                       <l>tri/xoulon</l>
                     </quote>
@@ -6441,8 +6316,7 @@
             <div3 type="UNKNOWN" n="201">
               <cit id="tlg-0232.cit.491">
                 <quote lang="la">Trimetrum catalecticum iambicum fit hoc modo, cum una syllaba deest
-                  ut sex pedes iambici binis iunctis trimetrum faciant, ut est <cit
-                    id="tlg-0232.cit.492">
+                  ut sex pedes iambici binis iunctis trimetrum faciant, ut est <cit id="tlg-0232.cit.492">
                     <quote>
                       <l>a)/ntw ti, *mou=sa, pro\s me/son la/lhson.<!--note n="p.208.n.3"/--></l>
                     </quote>
@@ -6483,18 +6357,15 @@
                   kai\ au)to\s h(gemw\n u(po\ *sami/wn. e)/ktise de\ *)amorgo\n ei)s g/ po/leis,
                   *minw/an, *ai)gialo/n, *)arkesi/mhn. ge/gone de\ meta\ e)nenh/konta kai\
                   triako/sia e)/th tw=n *trwikw=n. e)/graye kata/ tinas prw=tos i)a/mbous,
-                  *)arxaiologi/an te tw=n *sami/wn di' e)legei/as e)n bibli/ois b/,<note
-                    n="p.210.n.2"/> kai\ a)/lla dia/fora.<!--note n="p.210.n.3"/--></quote>
-                <bibl>Suid. &lpar;s. <foreign lang="greek">*simwni/dhs</foreign> et <foreign
-                    lang="greek">*simmi/as</foreign> &rpar;</bibl>
+                  *)arxaiologi/an te tw=n *sami/wn di' e)legei/as e)n bibli/ois b/,<note n="p.210.n.2"/> kai\ a)/lla dia/fora.<!--note n="p.210.n.3"/--></quote>
+                <bibl>Suid. &lpar;s. <foreign lang="greek">*simwni/dhs</foreign> et <foreign lang="greek">*simmi/as</foreign> &rpar;</bibl>
               </cit>
             </div3>
 
 
             <div3 type="biodata">
               <cit id="tlg-0260.cit.2">
-                <quote>e)/sti de\ kai\ *)amorgo\s tw=n *spora/dwn o(/qen h)=n *shmwni/dhs<note
-                    n="p.210.n.1"/> o( tw=n i)a/mbwn poihth/s.</quote>
+                <quote>e)/sti de\ kai\ *)amorgo\s tw=n *spora/dwn o(/qen h)=n *shmwni/dhs<note n="p.210.n.1"/> o( tw=n i)a/mbwn poihth/s.</quote>
                 <bibl>Str. 10. 487</bibl>
               </cit>
             </div3>
@@ -6521,8 +6392,7 @@
             <div3 type="biodata">
               <cit id="tlg-0260.cit.5">
                 <quote>.. soi\ de\ muri/a suneidw\s i)a/mbwn a)/cia bebiwme/na, pro\s a(/ moi dokei=
-                  ou)d' o( *)arxi/loxos au)to\s diarke/sai proskale/sas kai\ to\n *shmwni/dhn<note
-                    n="p.212.n.1"/> kai\ to\n *(ippw/nakta sumpoiei=n met' au)tou= ka)\n e(/n ti
+                  ou)d' o( *)arxi/loxos au)to\s diarke/sai proskale/sas kai\ to\n *shmwni/dhn<note n="p.212.n.1"/> kai\ to\n *(ippw/nakta sumpoiei=n met' au)tou= ka)\n e(/n ti
                   tw=n proso/ntwn soi kakw=n. ou(/tws su/ ge paidia\s<!--note n="p.212.n.2"/-->
                   a)pe/fhnas e)n pa/sh| bdeluri/a| to\n *)orodoiki/dhn kai\ to\n *luka/mbhn kai\
                   to\n *bou/palon, tou\s e)kei/nwn i)a/mbous.</quote>
@@ -6597,8 +6467,7 @@
 
             <div3 type="iambic" n="3">
               <cit id="tlg-0260.cit.11">
-                <quote><add>su/gkrisis zwh=s kai\ qana/tou</add>: *shmwni/dou: <cit
-                    id="tlg-0260.cit.12">
+                <quote><add>su/gkrisis zwh=s kai\ qana/tou</add>: *shmwni/dou: <cit id="tlg-0260.cit.12">
                     <quote>
                       <l>pollo\s ga\r h(mi=n e)sti teqna/nai xro/nos,</l>
                       <l>zw=men d' a)riqmw=| pau=ra &lt;kai\&gt; kakw=s e)/tea.</l>
@@ -6630,8 +6499,7 @@
                   a)gaqou= kai\ telei/ou paraba/llwn e(auto/n, a(/ma tw=| suneido/ti tou= e)ndeou=s
                   dakno/menos kai\ di' e)lpi/da kai\ po/qon xai/rwn kai\ mesto\s w)\n o(rmh=s ou)k
                   h)remou/shs oi(=o/s t' e)sti\ kata\ to\n *shmwni/dhn <q>*)/aqhlos . .
-                  tre/xein,</q> tw=| a)gaqw=| mo/non ou)xi\ sumfu=nai glixo/menos. <cit
-                    id="tlg-0260.cit.16">
+                  tre/xein,</q> tw=| a)gaqw=| mo/non ou)xi\ sumfu=nai glixo/menos. <cit id="tlg-0260.cit.16">
                     <quote>
                       <l>a)/qhlos i(/ppw| pw=los w(\s a(/ma tre/xei.</l>
                     </quote>
@@ -6660,8 +6528,7 @@
 
             <div3 type="iambic" n="7">
               <cit id="tlg-0260.cit.19">
-                <quote><add>yo/gos gunaikw=n, e)/ti kai\ p. ga/mou</add>: *shmwni/dou: <cit
-                    id="tlg-0260.cit.20">
+                <quote><add>yo/gos gunaikw=n, e)/ti kai\ p. ga/mou</add>: *shmwni/dou: <cit id="tlg-0260.cit.20">
                     <quote>
                       <l>*xwri\s gunaiko\s qeo\s e)poi/hsen no/on</l>
                       <l>ta\ prw=ta. th\n me\n e)c u(o\s tanu/trixos,</l>
@@ -6905,8 +6772,7 @@
 
             <div3 type="iambic" n="16">
               <cit id="tlg-0260.cit.36">
-                <quote>*shmwni/dhs de\ e)n toi=s *)ia/mbois ou)k ai)dei=tai le/gwn: <cit
-                    id="tlg-0260.cit.37">
+                <quote>*shmwni/dhs de\ e)n toi=s *)ia/mbois ou)k ai)dei=tai le/gwn: <cit id="tlg-0260.cit.37">
                     <quote>
                       <l>kh)leifo/mhn muroioi kai\ quw/masi</l>
                       <l>kai\ bakka/ri: kai\ ga/r tis e(/mporos parh=n.</l>
@@ -6949,8 +6815,7 @@
 
             <div3 type="iambic" n="19">
               <cit id="tlg-0260.cit.42">
-                <quote>sknipo\n de\ to\n a)mudrw=s ble/ponta *shmwni/dhs o( i)ambopoio/s: <cit
-                    id="tlg-0260.cit.43">
+                <quote>sknipo\n de\ to\n a)mudrw=s ble/ponta *shmwni/dhs o( i)ambopoio/s: <cit id="tlg-0260.cit.43">
                     <quote>
                       <l>h)\ tuflo\s h)/ tis sknipo\s h)\ le/ga<!--note n="p.228.n.3"/--> ble/pwn</l>
                     </quote>
@@ -7048,8 +6913,7 @@
 
             <div3 type="iambic" n="25">
               <cit id="tlg-0260.cit.55">
-                <quote>kalou=ntai de\ kai\ a)rusth=res kai\ a)ru/stixoi: *shmwni/dhs: <cit
-                    id="tlg-0260.cit.56">
+                <quote>kalou=ntai de\ kai\ a)rusth=res kai\ a)ru/stixoi: *shmwni/dhs: <cit id="tlg-0260.cit.56">
                     <quote>
                       <l>e)/dwken ou)dei\s ou)d' a)rusth=ra trugo/s.</l>
                     </quote>
@@ -7308,8 +7172,7 @@
 
             <div3 type="iambic" n="41">
               <cit id="tlg-0260.cit.89">
-                <quote>o( *le/sbios *pru/lis: tau/th| kaq' o(moi/wsin *shmwni/dhs ke/xrhtai: <cit
-                    id="tlg-0260.cit.90">
+                <quote>o( *le/sbios *pru/lis: tau/th| kaq' o(moi/wsin *shmwni/dhs ke/xrhtai: <cit id="tlg-0260.cit.90">
                     <quote>
                       <l>... e)neu/det' w(/sper *le/sbios *pru/lis</l>
                     </quote>
@@ -7408,8 +7271,7 @@
             <div3 type="iambic" n="4">
               <cit id="tlg-0252.cit.11">
                 <quote>kulikhgorh/swn e)/rxomai ou) tw=n *kulikra/nwn ei(=s u(pa/rxwn, ou(\s
-                  xleua/zwn *(/ermippos o( kwmw|dwpoio\s e)n toi=s *)ia/mbois fhsi/n: <cit
-                    id="tlg-0252.cit.12">
+                  xleua/zwn *(/ermippos o( kwmw|dwpoio\s e)n toi=s *)ia/mbois fhsi/n: <cit id="tlg-0252.cit.12">
                     <quote>
                       <l>ei)s to\ *kulikra/nwn badi/zwn splhno/pedon a)fiko/mhn:</l>
                       <l>ei)=don ou)=n th\n *(hra/kleian kai\ ma/l' w(rai/an po/lin.</l>
@@ -7433,8 +7295,7 @@
                     <quote>
                       <l>u(/steron d' au)tostra/thgon<!--note n="p.240.n.2"/--> ou)=san
                           ei(lwthme/nhn<!--note n="p.240.n.3"/--></l>
-                      <l>kai\ kasalba/zousan ei)=don kai\ sesalakwnisme/nhn.<note n="p.240.n.4"
-                        /></l>
+                      <l>kai\ kasalba/zousan ei)=don kai\ sesalakwnisme/nhn.<note n="p.240.n.4"/></l>
                     </quote>
                     <bibl>CURFRAG.tlg-0252.4</bibl>
                   </cit>
@@ -7552,8 +7413,7 @@
                         <l>kai\ parw|xwkw\s &lt;pa/resti kai\ par ew\ n paroi/xetai,&gt;</l>
                         <l>e)k &lt;d'&gt; e)n eo/ ntos au)to\s au)tw=|
                           &lt;nei=t'&gt; e)nanti/hn o(do/n.</l>
-                        <l>twu)/rion ga\r h(mi\n e)/rgw| xqe/s, to\ de\ xqe\s au)/rion.<note
-                            n="p.246.n.1"/></l>
+                        <l>twu)/rion ga\r h(mi\n e)/rgw| xqe/s, to\ de\ xqe\s au)/rion.<note n="p.246.n.1"/></l>
                       </quote>
                       <bibl>CURFRAG.tlg-0259.2</bibl>
                     </cit>
@@ -7700,8 +7560,7 @@
                 <quote><add>p. *)olumpiei/ou tou= e)n *)olumpi/a|</add>: ke/ramos de\ ou)
                   gh=s o)pth=s e)sti/n, a)lla\ kera/mou tro/pon li/qos o( *pente/lh|sin
                   ei)rgasme/nos. to\ de\ eu(/rhma a)ndro\s *naci/ou le/gousin ei)=nai *bu/zou, ou(=
-                  fasin e)n *na/cw| ta\ a)ga/lmata e)f' w(=n e)pi/gramma ei)=nai: <cit
-                    id="adespota-001.cit.12">
+                  fasin e)n *na/cw| ta\ a)ga/lmata e)f' w(=n e)pi/gramma ei)=nai: <cit id="adespota-001.cit.12">
                     <quote>
                       <l>*na/cios *eu)/ergo/s me ge/nei *lhtou=s po/re, *bu/zew</l>
                       <l>pai=s, o(\s prw/tistos teu=ce li/qou ke/ramon.</l>
@@ -7740,8 +7599,7 @@
                 <quote>
                   <cit id="adespota-001.cit.16">
                     <quote>
-                      <l>*sta/la *cen*va/reos tou= *mei/cio/s ei)m' e)pi\ tu/mw|.<note n="p.256.n.1"
-                        /></l>
+                      <l>*sta/la *cen*va/reos tou= *mei/cio/s ei)m' e)pi\ tu/mw|.<note n="p.256.n.1"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.12</bibl>
                   </cit>
@@ -7815,8 +7673,7 @@
               <cit id="adespota-001.cit.25">
                 <quote lang="la"><add>de Bupalo et Athenide</add>: Complura enim in
                   finitimis insulis simulacra postea fecere, sicut in Delo, quibus subiecerunt
-                  carmen <q>non vitibus tantum censeri Chium, sed operibus Archermi<note
-                    n="p.256.n.4"/> filiorum.</q> <cit id="adespota-001.cit.26">
+                  carmen <q>non vitibus tantum censeri Chium, sed operibus Archermi<note n="p.256.n.4"/> filiorum.</q> <cit id="adespota-001.cit.26">
                     <quote>
                       <add><l>ou) mo/non oi)nanqais ti/etai po/lis *oi)nopi/wnos</l>
                       <l>a)lla\ kai\ *)arxe/rmou e)/rgmasi tw=n u(e/wn.</l></add>
@@ -7865,8 +7722,7 @@
                   to\n pro\s *)akadhmi/a| *)/erwtos &lt;bwmo\n&gt;<!--note n="p.258.n.2"/-->
                   i(dru/sasqai prw=ton, e)f' ou(= e)pige/graptai: <cit id="adespota-001.cit.32">
                     <quote>
-                      <l>*poikilomh/xan' *)/erws, soi\ to/nd' i(dru/sato prw=tos<note n="p.258.n.3"
-                        /></l>
+                      <l>*poikilomh/xan' *)/erws, soi\ to/nd' i(dru/sato prw=tos<note n="p.258.n.3"/></l>
                       <l>*xa/rmos e)pi\ skieroi=s te/rmasi gumnasi/ou.</l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.20</bibl>
@@ -7924,8 +7780,7 @@
                 <quote>
                   <cit id="adespota-001.cit.38">
                     <quote>
-                      <l>*)orri/ppw|<!--note n="p.260.n.2"/--> *megarh=s me dai+/froni tei=d'<note
-                          n="p.260.n.3"/> a)ri+/dhlon</l>
+                      <l>*)orri/ppw|<!--note n="p.260.n.2"/--> *megarh=s me dai+/froni tei=d'<note n="p.260.n.3"/> a)ri+/dhlon</l>
                       <l>mna=ma qe/san fa/ma| *delfi/di peiqo/menoi,</l>
                       <l>o(\s dh\ maki/stous me\n o(/rous a)pelu/sato pa/tra|</l>
                       <l>polla\n dusmene/wn ga=n a)potemnome/nwn:<!--note n="p.260.n.4"/--></l>
@@ -7941,8 +7796,7 @@
 
             <div3 type="elegiac" n="14">
               <cit id="adespota-001.cit.39">
-                <quote>*fa/illos: . . pe/ntaqlos, e)f' ou(= kai\ e)pi/gramma: <cit
-                    id="adespota-001.cit.40">
+                <quote>*fa/illos: . . pe/ntaqlos, e)f' ou(= kai\ e)pi/gramma: <cit id="adespota-001.cit.40">
                     <quote>
                       <l>*pe/nt' e)pi\ penth/konta po/das ph/dhse *fa/u+llos</l>
                       <l>di/skeusen d' e(kato\n pe/nt' a)poleipome/nwn.</l>
@@ -7956,8 +7810,7 @@
 
             <div3 type="elegiac" n="14A">
               <cit id="adespota-001.cit.41">
-                <quote>tw=| de\ a)naqh/mati tw=| e)s *)olumpi/an *qasi/wne)/pestin e)legei=on: <cit
-                    id="adespota-001.cit.42">
+                <quote>tw=| de\ a)naqh/mati tw=| e)s *)olumpi/an *qasi/wne)/pestin e)legei=on: <cit id="adespota-001.cit.42">
                     <quote>
                       <l>*ui(o\s me/n me *mi/kwnos *)ona/tas e)cete/lessen</l>
                       <l>au)to\s e)n *ai)gi/nh| dw/mata naieta/wn.</l>
@@ -7986,8 +7839,7 @@
                   a)ga/menoi d' au)to\n oi( *plataiei=s e)/qayan e)n tw=| i(erw=| th=s *eu)klei/as
                   *)artemidos, e)pigra/yantes to/de to\ tetra/metron: <cit id="adespota-001.cit.44">
                     <quote>
-                      <l>eu)xi/das *puqw=de qre/cas h)=lqe ta=|d' au)qa/meron.<note n="p.262.n.1"
-                        /></l>
+                      <l>eu)xi/das *puqw=de qre/cas h)=lqe ta=|d' au)qa/meron.<note n="p.262.n.1"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.26</bibl>
                   </cit>
@@ -8015,9 +7867,7 @@
               <cit id="adespota-001.cit.47">
                 <quote>*pausani/as . . peri\ *buza/ntion diatri/bwn to\n xalkou=n krath=ra to\n
                   a)nakei/menon toi=s qeoi=s toi=s e)pi\ tou= sto/matos i(drume/nois, o(\n e)/ti
-                  kai\ nu=n ei)=nai sumbai/nei, e)to/lmhsen e)pigra/ysai w(s au)to\s a)naqei/h,<note
-                    n="p.264.n.1"/> u(poqei\s to/de to\ e)pi/gramma . . <cit
-                    id="adespota-001.cit.48">
+                  kai\ nu=n ei)=nai sumbai/nei, e)to/lmhsen e)pigra/ysai w(s au)to\s a)naqei/h,<note n="p.264.n.1"/> u(poqei\s to/de to\ e)pi/gramma . . <cit id="adespota-001.cit.48">
                     <quote>
                       <l>*mna=m' a)reta=s a)ne/qhke *poseida/wni a)/nakti</l>
                       <l>*pausani/as a)/rxwn *(ella/dos eu)ruxo/rou<!--note n="p.264.n.2"/--></l>
@@ -8095,12 +7945,10 @@
                     <quote>
                       <l>*au)dh\ texnh/essa li/qou, le/ge, ti/s to/d'
                           <add>a)/gulma</add><!--note n="p.266.n.2"/--></l>
-                      <l>sth=sen *)apo/llwnos bwmo\n e)paglai/<add>sas;</add><note
-                          n="p.266.n.3"/></l>
+                      <l>sth=sen *)apo/llwnos bwmo\n e)paglai/<add>sas;</add><note n="p.266.n.3"/></l>
                       <l>-- *panamu/hs ui(o\s *kasbw/llios, ei)/ m'
                           e)p<add>iqumei=s</add><!--note n="p.266.n.4"/--></l>
-                      <l>e)ceipei=n, deka/thn th/nd' a)ne/qhke <add>qew=|.</add><note
-                          n="p.266.n.2"/></l>
+                      <l>e)ceipei=n, deka/thn th/nd' a)ne/qhke <add>qew=|.</add><note n="p.266.n.2"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.32</bibl>
                   </cit>
@@ -8392,8 +8240,7 @@
                       <l>krino/menoi<!--note n="p.274.n.2"/--> d' a)reth=s kai\ dei/matos ou)k
                         e)sa/wsan</l>
                       <l>*yuxa/s, a)ll' *)ai+/dhn koino\n e)/qento brabh=,<!--note n="p.274.n.3"/--></l>
-                      <l n="5">ou(/neken *(ellh/nwn, w(s mh\ zugo\n au)xe/ni qe/ntes<note
-                          n="p.274.n.4"/></l>
+                      <l n="5">ou(/neken *(ellh/nwn, w(s mh\ zugo\n au)xe/ni qe/ntes<note n="p.274.n.4"/></l>
                       <l>doulosu/nhs stugera\n a)mfi\s e)/xwsin u(/brin.</l>
                       <l>gai=a de\ patri\s e)/xei ko/lpois tw=n plei=sta kamo/ntwn</l>
                       <l>o)ste/',<!--note n="p.274.n.5"/--> e)pei\ qnhtoi=s e)k *dio\s h(/de kri/sis:</l>
@@ -8414,8 +8261,7 @@
                     <quote>
                       <l>*(hro/doton *lu/c ew kru/ptei ko/nis h(/de qano/nta,</l>
                       <l>*)ia/dos a)rxai/hs i(stori/hs pru/tanin,</l>
-                      <l>*dwrie/wn<!--note n="p.276.n.1"/--> pa/trhs blasto/nt' a)/po: tw=n<note
-                          n="p.276.n.2"/> ga\r a)/plhton</l>
+                      <l>*dwrie/wn<!--note n="p.276.n.1"/--> pa/trhs blasto/nt' a)/po: tw=n<note n="p.276.n.2"/> ga\r a)/plhton</l>
                       <l>mw=mon u(pekprofugw\n<!--note n="p.276.n.3"/--> *qou/rion e)/sxe pa/trhn.</l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.49</bibl>
@@ -8436,8 +8282,7 @@
                           ei)s</add>eki/xanen<!--note n="p.276.n.5"/--></l>
                       <l>w(s pau/rous prote/rwn a)ne/ras a)gxiqe/wn:</l>
                       <l n="5">tw=| r(a\ kai\ a(zo/menos sofi/hs e(o\n h(ghth=ra</l>
-                      <l>sth=sen *)ale/candros<!--note n="p.276.n.6"/--> kleino\s a(/pasi qeo/s.<note
-                          n="p.276.n.7"/></l>
+                      <l>sth=sen *)ale/candros<!--note n="p.276.n.6"/--> kleino\s a(/pasi qeo/s.<note n="p.276.n.7"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.50</bibl>
                   </cit>
@@ -8471,8 +8316,7 @@
                       <l><add>gra/mmasi</add> shmai/ne<add>i</add>
                         mh=k<add>os</add> o(doipori/as:<!--note n="p.278.n.2"/--></l>
                       <l><add>e)/stin ga\r t</add>o\ metacu\ qew=n pro\s dw/deka bwmo\n</l>
-                      <l><add>pe/nt' e)pi\</add> penth/kont' e)g lime/nos sta/dioi.<note
-                          n="p.278.n.3"/></l>
+                      <l><add>pe/nt' e)pi\</add> penth/kont' e)g lime/nos sta/dioi.<note n="p.278.n.3"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-001.52</bibl>
                   </cit>
@@ -8665,8 +8509,7 @@
               <cit id="adespota-002.cit.9">
                 <quote>ou(/tws a)delfw=n o(mofrosu/nh| kai\ ge/nos kai\ oi)=kos u(giai/nei kai\
                   te/qhle, kai\ fi/loi kai\ sunh/qeis w(/sper e)mmelh\s xoro\s ou)de\n ou)/te
-                  pra/ssousin e)nanti/on ou)/te le/gousin ou)/te fronou=sin: <cit
-                    id="adespota-002.cit.10">
+                  pra/ssousin e)nanti/on ou)/te le/gousin ou)/te fronou=sin: <cit id="adespota-002.cit.10">
                     <quote>
                       <l>e)n de\ dixostasi/h| kai\ o( pa/gkakos e)/mmore<!--note n="p.284.n.2"/-->
                         timh=s.</l>
@@ -8712,11 +8555,9 @@
                   toi=s *)apofqe/gmasin: *dwri/wni tw=| au)lhth=| fa/skonto/s tinos a)gaqo\n i)xqu\n
                   ei)=nai bati/da, <q>w(/sper a)\n ei)/ tis</q> e)/fh
                   <q>e(fqo\n tri/bwna e)sqi/oi</q><!--note n="p.286.n.1"/-->. . ou)k
-                  a)noh/sas ge tou=to fh/sas o( au)lhth/s: lo/gos palaio\s w(s o(/ti: <cit
-                    id="adespota-002.cit.16">
+                  a)noh/sas ge tou=to fh/sas o( au)lhth/s: lo/gos palaio\s w(s o(/ti: <cit id="adespota-002.cit.16">
                     <quote>
-                      <l>*)andri\ me\n au)lhth=ri qeoi\ no/on ei) kai\ e)/fusan.<note n="p.286.n.2"
-                        /></l>
+                      <l>*)andri\ me\n au)lhth=ri qeoi\ no/on ei) kai\ e)/fusan.<note n="p.286.n.2"/></l>
                       <l>a)ll a(/ma tw=| fush=n xw) no/os e)kpe/tatai.</l>
                     </quote>
                     <bibl>CURFRAG.adespota-002.8</bibl>
@@ -8729,8 +8570,7 @@
             <div3 type="elegiac" n="8">
               <cit id="adespota-002.cit.17">
                 <quote>e)/sti me\n ga\r o(/te kai\ tau)to/maton a)nte/prace tai=s e)pibolai=s tw=n
-                  a)gaqw=n a)ndrw=n, e)/stin d' o(/te pa/lin kata\ th\n paroimi/an: <cit
-                    id="adespota-002.cit.18">
+                  a)gaqw=n a)ndrw=n, e)/stin d' o(/te pa/lin kata\ th\n paroimi/an: <cit id="adespota-002.cit.18">
                     <quote>
                       <l>e)sqlo\s e)w\n a)/llou krei/ttonos a)nte/tuxen.</l>
                     </quote>
@@ -8756,8 +8596,7 @@
 
             <div3 type="elegiac" n="9">
               <cit id="adespota-002.cit.21">
-                <quote>le/getai de\ kai\ kre/sswn mh\ pleona/zontos tou= i ... kai/: <cit
-                    id="adespota-002.cit.22">
+                <quote>le/getai de\ kai\ kre/sswn mh\ pleona/zontos tou= i ... kai/: <cit id="adespota-002.cit.22">
                     <quote>
                       <l>*)=hn qeo\s h)\ kre/sswn dh/ tis: o)nh/someqa.<!--note n="p.286.n.4"/--></l>
                     </quote>
@@ -8770,8 +8609,7 @@
 
             <div3 type="elegiac" n="10">
               <cit id="adespota-002.cit.23">
-                <quote>a)/dhlon: *ou)/ti ma/tan qnatoi=si fa/tis toia/de boa=tai | w(s <cit
-                    id="adespota-002.cit.24">
+                <quote>a)/dhlon: *ou)/ti ma/tan qnatoi=si fa/tis toia/de boa=tai | w(s <cit id="adespota-002.cit.24">
                     <quote>
                       <l>*ou)<!--note n="p.286.n.5"/--> pa/nta qeoi\ pa=sin e)/dwkan e)/xein.</l>
                     </quote>
@@ -8799,8 +8637,7 @@
             <div3 type="elegiac" n="11A">
               <cit id="adespota-002.cit.27">
                 <quote><q>tou=to poih/sas e(\n</q> kata\ th\n paroimi/an
-                  <q>tw=n a)di/kwn e)/rgwn dikaio/taton.</q> <cit
-                    id="adespota-002.cit.28">
+                  <q>tw=n a)di/kwn e)/rgwn dikaio/taton.</q> <cit id="adespota-002.cit.28">
                     <quote>
                       <l>tou=to poih/sas</l>
                       <l>tw=n a)di/kwn e)/rgwn e(\n to\ dikaio/taton.<!--note n="p.288.n.1"/--></l>
@@ -8976,8 +8813,7 @@
                 <quote>w(/ste ou)k o)rqw=s ye/gousin oi( e)pitimw=ntes tw=| toiou/tw=| tro/pw| th=s
                   diale/ktou kai\ diakwmw|dou=ntes to\n poihth/n, oi(=on *eu)klei/dhs o( a)rxai=os,
                   w(s r(a/|dion poiei=n ei)/ tis dw/sei e)ktei/nein e)f' o(po/son bou/letai,
-                    e)legeiopoih/sas<!--note n="p.292.n.2"/--> e)n au)th=| th=| le/cei: <cit
-                    id="adespota-002.cit.51">
+                    e)legeiopoih/sas<!--note n="p.292.n.2"/--> e)n au)th=| th=| le/cei: <cit id="adespota-002.cit.51">
                     <quote>
                       <l>*)epi/xarin<!--note n="p.292.n.3"/--> ei)=don *maraqw=na/de badi/zonta,</l>
                     </quote>
@@ -9015,8 +8851,7 @@
             <div3 type="elegiac" n="24, 24A">
               <cit id="adespota-002.cit.55">
                 <quote><add>p. ai)ni/gmatos</add>: diafe/rei de\ a)llhgori/as o(/ti h( me\n
-                  a)maurou=tai h)\ le/cei h)\ dianoi/a|, to\ de\ kaq' e(ka/teron, oi(=on: <cit
-                    id="adespota-002.cit.56">
+                  a)maurou=tai h)\ le/cei h)\ dianoi/a|, to\ de\ kaq' e(ka/teron, oi(=on: <cit id="adespota-002.cit.56">
                     <quote>
                       <l>*(/hsswn a)lgh/sas pai=da to\n e)k *qe/tidos:</l>
                     </quote>
@@ -9085,8 +8920,7 @@
             <div3 type="hexameter" n="28">
               <cit id="adespota-002.cit.64">
                 <quote>kai\ o(/lws h( tou= e)/tous kata/stasis &lpar;pro\s au)/chsin
-                  sumba/lletai&rpar; . ., di) o(\ kai\ paroimiazo/menoi le/gousin o(\ti: <cit
-                    id="adespota-002.cit.65">
+                  sumba/lletai&rpar; . ., di) o(\ kai\ paroimiazo/menoi le/gousin o(\ti: <cit id="adespota-002.cit.65">
                     <quote>
                       <l>*)/etos fe/rei ou)xi\ a)/roura.</l>
                     </quote>
@@ -9101,8 +8935,7 @@
               <cit id="adespota-002.cit.66">
                 <quote>dia\ ti/ le/getai: <cit id="adespota-002.cit.67">
                     <quote>
-                      <l>*ei) d' o( no/tos bore/an prokale/ssetai, au)ti/ka xei/mwn.<note
-                          n="p.296.n.1"/></l>
+                      <l>*ei) d' o( no/tos bore/an prokale/ssetai, au)ti/ka xei/mwn.<note n="p.296.n.1"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-002.34</bibl>
                   </cit>
@@ -9122,8 +8955,7 @@
               <cit id="adespota-002.cit.69">
                 <quote>dia\ ti/ o( no/tos, o(/tan me\n e)la/ttwn h)=, ai)/qrio/s e)stin, o(/tan de\
                   me/gas, nefw/dhs; . . h)\ o(/ti e)la/ttwn a)rxo/meno/s e)stin . ., e)pi\ te/lei
-                  de\ ei)/wqe gi/nesqai me/gas; dio\ kai\paroima/zontai: <cit
-                    id="adespota-002.cit.70">
+                  de\ ei)/wqe gi/nesqai me/gas; dio\ kai\paroima/zontai: <cit id="adespota-002.cit.70">
                     <quote>
                       <l>*)arxome/nou ge no/tou kai\ lh/gontos bore/ao.</l>
                     </quote>
@@ -9265,8 +9097,7 @@
             <div3 type="hexameter" n="39">
               <cit id="adespota-002.cit.88">
                 <quote>ta\ d' e)n *spa/rth| kai\ ta\ para\ toi=s *krhsi\n a)ndrei=a meta\
-                  e)pimelei/as ai( po/leis sunh=gon. dio\ kai/ tis ou) kakw=s e)/fh: <cit
-                    id="adespota-002.cit.89">
+                  e)pimelei/as ai( po/leis sunh=gon. dio\ kai/ tis ou) kakw=s e)/fh: <cit id="adespota-002.cit.89">
                     <quote>
                       <l>*ou) xrh\ sumposi/oio<!--note n="p.300.n.1"/--> fi/lous a)pe/xesqai
                         e(tai/rous</l>
@@ -9423,8 +9254,7 @@
             <div3 type="iambic" n="49">
               <cit id="adespota-002.cit.108">
                 <quote>e)n de\ pompai=s kai\ qusi/ais ou) mo/non <q>ge/rwn kai\
-                  grhu+/s,</q> oude\ pe/nhs kai\ i)diw/ths, a)lla\ <cit
-                    id="adespota-002.cit.109">
+                  grhu+/s,</q> oude\ pe/nhs kai\ i)diw/ths, a)lla\ <cit id="adespota-002.cit.109">
                     <quote>
                       <l>kai\ paxuskelh\s a)letri\s pro\s mu/lhn kinoume/nh</l>
                     </quote>
@@ -9456,8 +9286,7 @@
 
             <div3 type="IAMBIC" n="51">
               <cit id="adespota-002.cit.112">
-                <quote>kai\ to\ bau/ kata\ mi/mhsin kuno\s o)cu/netai: <cit
-                    id="adespota-002.cit.113">
+                <quote>kai\ to\ bau/ kata\ mi/mhsin kuno\s o)cu/netai: <cit id="adespota-002.cit.113">
                     <quote>
                       <l>bau\ bau\ kai\ kuno\s fwnh\n i(/eis</l>
                     </quote>
@@ -9520,8 +9349,7 @@
                   Gorgasi. <cit id="adespota-002.cit.121">
                     <quote>
                       <l>*damo/filos ei)si/onti th\n me\n deci/an</l>
-                      <l>e)/graye, *go/rgasos de\ th\n a)riste/ran.<note n="p.306.n.3"
-                        /></l>
+                      <l>e)/graye, *go/rgasos de\ th\n a)riste/ran.<note n="p.306.n.3"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-002.61</bibl>
                   </cit>
@@ -9549,11 +9377,9 @@
                 <quote>kai\ bi/basis de/ ti ei)=dos *lakwnikh=s o)rxh/sews, h(=s kai\ ta\ a)=qla
                   prou)ti/qeto ou) toi=s paisi\ mo/non, a)lla\ kai\ tai=s ko/rais: e)/dei de\
                   a(/llesqai kai\ yau/ein toi=s posi\ pro\s ta\s puga/s, kai\ h)riqmei=to ta\
-                  phdh/mata, o(/qen kai\ e)pi\ mia=s h(=n e)pi/gramma: <cit
-                    id="adespota-002.cit.125">
+                  phdh/mata, o(/qen kai\ e)pi\ mia=s h(=n e)pi/gramma: <cit id="adespota-002.cit.125">
                     <quote>
-                      <l>. . *xi/li) a(/ pok' a)= biba/nda, plei=sta dh\ tw=n ph/poka<note
-                          n="p.308.n.2"/></l>
+                      <l>. . *xi/li) a(/ pok' a)= biba/nda, plei=sta dh\ tw=n ph/poka<note n="p.308.n.2"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-002.63</bibl>
                   </cit>
@@ -9564,8 +9390,7 @@
 
             <div3 type="IAMBIC" n="58, 59">
               <cit id="adespota-002.cit.126">
-                <quote><title lang="greek">p. i)atrikh=s kai\ gumnastikh=s</title>: <cit
-                    id="adespota-002.cit.127">
+                <quote><title lang="greek">p. i)atrikh=s kai\ gumnastikh=s</title>: <cit id="adespota-002.cit.127">
                     <quote>
                       <l>*paxei=a gasth\r lepto\n ou) ti/ktei no/on.</l>
                       <l>*mwro\s palaio\s fro/nimon ou) poiei= ne/on.</l>
@@ -9660,8 +9485,7 @@
                 <quote>
                   <cit id="adespota-002.cit.140">
                     <quote>
-                      <l>*)all' h)= lu/kos ta\s ai)=gas &lt;e)k&gt; kalei= molw/n.<note
-                          n="p.310.n.4"/></l>
+                      <l>*)all' h)= lu/kos ta\s ai)=gas &lt;e)k&gt; kalei= molw/n.<note n="p.310.n.4"/></l>
                     </quote>
                     <bibl>CURFRAG.adespota-002.70</bibl>
                   </cit>
@@ -9698,8 +9522,7 @@
 
             <div3 type="IAMBIC" n="68">
               <cit id="adespota-002.cit.144">
-                <quote><add>p. gri/fwn</add>: kai\ e)pi\ th=s ptisa/nhs: <cit
-                    id="adespota-002.cit.145">
+                <quote><add>p. gri/fwn</add>: kai\ e)pi\ th=s ptisa/nhs: <cit id="adespota-002.cit.145">
                     <quote>
                       <l>*kriqh=s a)floi/ou xulo\n o)rga/sas pi/e.</l>
                     </quote>

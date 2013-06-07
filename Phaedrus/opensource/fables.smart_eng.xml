@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -51,8 +50,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change><date></date>
-<respStmt><name></name><resp>markup</resp></respStmt>
+<change><date/>
+<respStmt><name/><resp>markup</resp></respStmt>
 <item>
 $Log: fables.smart_eng.xml,v $
 Revision 1.1  2009-12-07 18:50:35  rsingh04

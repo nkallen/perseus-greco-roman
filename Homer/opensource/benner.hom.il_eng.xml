@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -297,7 +296,7 @@ school commentaries
 <div2 id="cb1l37" type="commline" n="37">
 <p><lemma lang="greek" targOrder="U">meu</lemma>, enclitic pronoun, <ref target="cg110" targOrder="U">&sect; 110</ref>; contraction, <ref target="cg42" targOrder="U">&sect; 42</ref>.</p>
 <p><lemma lang="greek" targOrder="U">a)mfibe/bhkas</lemma>, to be translated by present tense, &lsquo;guardest,&rsquo; <ref target="cg187" targOrder="U">&sect; 187</ref>. The metaphor involved is illustrated by the line:</p>
-<p></p>
+<p/>
 <p><quote lang="greek">a)mfi\ d'  a)/r' au)tw=| bai=n) w(/s tis peri\ po/rtaki mh/thr</quote> (P 4), &lsquo;Menelaus strode before him [the slain Patroclus] like a cow before her calf,&rsquo; to give protection. Compare also E 299.
 </p></div2>
 <div2 id="cb1l38" type="commline" n="38">
@@ -3414,7 +3413,7 @@ with <quote lang="greek">moi</quote> remaining long in spite of the hiatus; so, 
 </p></div2>
 <div2 id="cb3l175" type="commline" n="175">
 <p><lemma lang="greek" targOrder="U">pai=da</lemma>, cf. <bibl n="Hom. Od. 4.12">Od. 4.12</bibl>-14:</p>
-<p></p>
+<p/>
 <p><quote lang="greek">*(ele/nh| de\ qeoi\ go/non ou)ke/t'  e)/fainon, e)pei\ dh\ to\ prw=ton e)gei/nato pai=d' e)rateinh/n, *(ermio/nhn, h)\ ei)=dos e)/xe xruse/hs *)afrodi/ths</quote>.</p>
 <p>&lsquo;To Helen the gods never again gave offspring, when once she had borne a lovely daughter, Hermione, who had the looks of golden Aphrodite.&rsquo;&mdash; <lemma lang="greek" targOrder="U">o(mhliki/hn</lemma>, &lsquo;companionship,&rsquo; i. e. &lsquo;companions.&rsquo;
 </p></div2>
@@ -3587,7 +3586,7 @@ with <quote lang="greek">moi</quote> remaining long in spite of the hiatus; so, 
 </p></div2>
 <div2 id="cb3l278" type="commline" n="278">
 <p><lemma lang="greek" targOrder="U">oi(/</lemma>, &lsquo;ye that,&rsquo; includes Hades and Persephone and in particular the Erinyes. Cf. T 258-260:</p>
-<p></p>
+<p/>
 <p><quote lang="greek">i)/stw nu=n *zeu\s prw=ta, qew=n u(/patos kai\ a)/ristos, *gh= te kai\ *)he/lios kai\ e)rinu/es, ai(/ q'  u(po\ gai=an a)nqrw/pous ti/nuntai, o(/tis k) e)pi/orkon o)mo/ssh|</quote>.
 </p></div2>
 <div2 id="cb3l285" type="commline" n="285">
@@ -5242,7 +5241,7 @@ with <quote lang="greek">moi</quote> remaining long in spite of the hiatus; so, 
 </p></div2>
 <div2 id="cb9l409" type="commline" n="409">
 <p>The spirit of life is thought to pass out through the mouth at death. Pope renders freely ll. 401-409:</p>
-<p></p>
+<p/>
 <p>Life is not to be bought with heaps of gold; Not all Apollo's Pythian treasures hold, Or Troy once held, in peace and pride of sway, Can bribe the poor possession of a day! Lost herds and treasures we by arms regain, And steeds unrivall'd on the dusty plain: But from our lips the vital spirit fled, Returns no more to wake the silent dead.
 </p></div2>
 <div2 id="cb9l410" type="commline" n="410">
@@ -6817,7 +6816,7 @@ with <quote lang="greek">moi</quote> remaining long in spite of the hiatus; so, 
 </p></div2>
 <div2 id="cb18l231" type="commline" n="231">
 <p><lemma lang="greek" targOrder="U">a)mfi/</lemma>, &lsquo;about,&rsquo; used vaguely; a more definite word would be <quote lang="greek">u(po/</quote>: cf. the phrase <quote lang="greek">u(po\ douri\ damh=nai</quote> (<bibl n="Hom. Il. 3.436">3.436</bibl>, <bibl n="Hom. Il. 4.479">4.479</bibl>, <bibl n="Hom. Il. 17.303">17.303</bibl>), &lsquo;be subdued under the spear,&rsquo; and <quote lang="greek">u(po\ douri\ pe/rqai</quote> (<bibl n="Hom. Il. 16.708">16.708</bibl>), &lsquo;be sacked under the spear.&rsquo; The locative sense &lsquo;around&rsquo; is not unsuited to <quote lang="greek">o)xe/essi</quote>, however. Translate, &lsquo;beneath their own chariots and spears.&rsquo; The situation is illustrated by a quotation from <bibl n="Hom. Il. 16.378">16.378</bibl>, 379, where likewise there was great confusion:</p>
-<p></p>
+<p/>
 <p><quote lang="greek">u(po\ d'  a)/cosi fw=tes e)/pipton prhne/es e)c o)xe/wn, di/froi d'  a)nakumbali/azon</quote>.</p>
 <p>&lsquo;And under the axles [of their own chariots] the men fell headlong from the cars, and the chariots fell rattling over.&rsquo; Here (<bibl n="Hom. Il. 18.231">18.231</bibl>) there is the additional idea that the men were transfixed by their own (or possibly one another's) spears in the accident of falling.
 </p></div2>
@@ -7122,7 +7121,7 @@ with <quote lang="greek">moi</quote> remaining long in spite of the hiatus; so, 
 <div2 id="cb18l432" type="commline" n="432">
 <p><lemma lang="greek" targOrder="U">a(lia/wn</lemma>, cf. l. 86.</p>
 <p><lemma lang="greek" targOrder="U">da/massen</lemma>, &lsquo;made subject,&rsquo; &lsquo;forced to wed.&rsquo; Cf. l. 85. The goddess Here assumes the responsibility in <bibl n="Hom. Il. 24.59">24.59</bibl> ff.:</p>
-<p></p>
+<p/>
 <p><quote lang="greek">au)ta\r *)axilleu/s e)sti qea=s go/nos, h(\n e)gw\ au)th\ qre/ya te kai\ a)ti/thla</quote> (&lsquo;nursed&rsquo;) <quote lang="greek">kai\ a)ndri\ po/ron para/koitin</quote> (&lsquo;wife&rsquo;), <quote lang="greek">*phlei=</quote>.
 </p></div2>
 <div2 id="cb18l434" type="commline" n="434">
@@ -8712,8 +8711,8 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-h|</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-h|</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Acc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-hn</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-hn, -an</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Voc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a, h</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-h, -a</quote></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Dual, both genders:  N. A. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a_</quote></cell> <cell cols="1" role="data" rows="1"></cell> </row>
-<row role="data"><cell cols="1" role="data" rows="1">G. D.</cell> <cell cols="1" role="data" rows="1"></cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Dual, both genders:  N. A. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a_</quote></cell> <cell cols="1" role="data" rows="1"/> </row>
+<row role="data"><cell cols="1" role="data" rows="1">G. D.</cell> <cell cols="1" role="data" rows="1"/> <cell cols="1" role="data" rows="1"/></row>
 <row role="data"><cell cols="1" role="data" rows="1">Plural, both genders:  N. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-ai</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">G.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a_/wn, -e/wn, -w=n</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-h|si</lemma>(<lemma lang="greek" targOrder="U">n</lemma>), <lemma lang="greek" targOrder="U">-h|s</lemma></cell></row>
@@ -8737,14 +8736,14 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <div3 id="cg73" type="section">
 <p>Endings of the Second Declension, Nouns and Adjectives (distinctively Homeric endings in bold type):
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Masc. and Fem.</cell> <cell cols="1" role="data" rows="1">Neut.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Masc. and Fem.</cell> <cell cols="1" role="data" rows="1">Neut.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Singular:  Nom.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-os</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-on</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oio</lemma> (<lemma lang="greek" targOrder="U">-oo</lemma>), <quote lang="greek">-ou</quote></cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oio</lemma> (<lemma lang="greek" targOrder="U">-oo</lemma>), <quote lang="greek">-ou</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-w|</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-w|</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Acc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-on</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-on</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Voc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-e</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-on</quote></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Dual, all genders:  N. A. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-w</quote></cell> <cell cols="1" role="data" rows="1"></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">G. D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oiin</lemma></cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Dual, all genders:  N. A. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-w</quote></cell> <cell cols="1" role="data" rows="1"/></row>
+<row role="data"><cell cols="1" role="data" rows="1">G. D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oiin</lemma></cell> <cell cols="1" role="data" rows="1"/></row>
 <row role="data"><cell cols="1" role="data" rows="1">Plural:  N. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-oi</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">G.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-wn</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-wn</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oisi</lemma>(<lemma lang="greek" targOrder="U">n</lemma>), <quote lang="greek">-ois</quote></cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oisi</lemma>(<lemma lang="greek" targOrder="U">n</lemma>), <quote lang="greek">-ois</quote></cell></row>
@@ -8762,14 +8761,14 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <div3 id="cg78" type="section">
 <p>Endings of the Third Declension, Nouns and Adjectives (distinctively Homeric endings in bold type):
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell> <cell cols="1" role="data" rows="1">Masc. and Fem.</cell> <cell cols="1" role="data" rows="1">Neut.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/> <cell cols="1" role="data" rows="1">Masc. and Fem.</cell> <cell cols="1" role="data" rows="1">Neut.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Singular:  Nom.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-s</quote>, --</cell> <cell cols="1" role="data" rows="1">--</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-os</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-os</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-i</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-i</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Acc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a, -n</quote></cell> <cell cols="1" role="data" rows="1">--</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Voc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-s,</quote> --</cell> <cell cols="1" role="data" rows="1">--</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Dual, all genders:  N. A. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-e</quote></cell> <cell cols="1" role="data" rows="1"></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">G. D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oiin</lemma></cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Dual, all genders:  N. A. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-e</quote></cell> <cell cols="1" role="data" rows="1"/></row>
+<row role="data"><cell cols="1" role="data" rows="1">G. D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-oiin</lemma></cell> <cell cols="1" role="data" rows="1"/></row>
 <row role="data"><cell cols="1" role="data" rows="1">Plural:   N. V.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-es</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-a</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">G.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-wn</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">-wn</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">D.</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-essi</lemma>(<lemma lang="greek" targOrder="U">n</lemma>), <quote lang="greek">-si</quote>(<quote lang="greek">n</quote>)</cell> <cell cols="1" role="data" rows="1"><lemma lang="greek" targOrder="U">-essi</lemma>(<lemma lang="greek" targOrder="U">n</lemma>), <quote lang="greek">-si</quote>(<quote lang="greek">n</quote>)</cell></row>
@@ -8798,7 +8797,7 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <row role="data"><cell cols="1" role="data" rows="1">Genitive</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">basilh=os</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">basilh/wn</quote></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Dative</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">basilh=i</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">basileu=si</quote>(<quote lang="greek">n</quote>)</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Accusative</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">basilh=a</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">basilh=as</quote></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Vocative</cell> <cell cols="1" role="data" rows="1">[<quote lang="greek">basileu=</quote>]</cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Vocative</cell> <cell cols="1" role="data" rows="1">[<quote lang="greek">basileu=</quote>]</cell> <cell cols="1" role="data" rows="1"/></row>
 </table></p></div3>
 <div3 id="cg87" type="section">
 <p>Simtlarly are inflected <quote lang="greek">*)axil</quote>(<quote lang="greek">l</quote>)<quote lang="greek">eu/s</quote>, &lsquo;Achilles,&rsquo; <quote lang="greek">i(ereu/s</quote>, &lsquo;priest,&rsquo; [<quote lang="greek">ou)reu/s</quote>], &lsquo;mule,&rsquo; etc.</p></div3>
@@ -8891,8 +8890,8 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <table>
 <row role="data"><cell cols="1" role="data" rows="1">Case</cell> <cell cols="1" role="data" rows="1">Singular 1</cell> <cell cols="1" role="data" rows="1">Singular 2</cell> <cell cols="1" role="data" rows="1">Plural 1</cell> <cell cols="1" role="data" rows="1">Plural 2</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Nom.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lis</quote> </cell><cell cols="1" role="data" rows="1"> </cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lies</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lhes</quote></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lios</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lhos</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">poli/wn</quote></cell> <cell cols="1" role="data" rows="1"></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lei</quote>;  see note</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lhi</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">poli/essi</quote>(<quote lang="greek">n</quote>)</cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lios</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lhos</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">poli/wn</quote></cell> <cell cols="1" role="data" rows="1"/></row>
+<row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lei</quote>;  see note</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lhi</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">poli/essi</quote>(<quote lang="greek">n</quote>)</cell> <cell cols="1" role="data" rows="1"/></row>
 <row role="data"><cell cols="1" role="data" rows="1">Acc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lin</quote></cell> <cell cols="1" role="data" rows="1">&mdash;</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/li_s</quote> (MSS. <quote lang="greek">po/leis</quote>), <quote lang="greek">po/lias</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">po/lhas</quote></cell></row>
 </table></p>
 <p>Note on the dative singular:  For <quote lang="greek">po/lii</quote> (or <quote lang="greek">po/li)</quote>), which would be expected in the dative singular, the MSS. regularly have <quote lang="greek">po/lei</quote> (familiar in Attic Greek). Yet datives in <quote lang="greek">-i</quote> occur in a few other similar words, e. g. <bibl n="Hom. Il. 24.18">24.18</bibl>, <quote lang="greek">e)n ko/ni e)ktanu/sa_s</quote> i. e. <quote lang="greek">ko/ni)</quote>(<quote lang="greek">i</quote>). Cf. <quote lang="greek">*qe/ti_</quote> (<bibl n="Hom. Il. 18.407">18.407</bibl>) for <quote lang="greek">*qe/tii</quote>.</p></div3>
@@ -8956,7 +8955,7 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <p>The following numerals only need special mention:</p>
 <p>1.
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell> <cell cols="1" role="data" rows="1">Masc.</cell> <cell cols="1" role="data" rows="1">Fem.</cell> <cell cols="1" role="data" rows="1">Neut</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/> <cell cols="1" role="data" rows="1">Masc.</cell> <cell cols="1" role="data" rows="1">Fem.</cell> <cell cols="1" role="data" rows="1">Neut</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Nom.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">ei(=s</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">mi/a, i)/a</quote></cell> <cell cols="1" role="data" rows="1">--</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">e(no/s</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">mih=s, i)h=s</quote></cell> <cell cols="1" role="data" rows="1">--</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">e(ni/</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">i)h=|</quote></cell> <cell cols="1" role="data" rows="1"><quote lang="greek">e(ni/, i)w=|</quote></cell></row>
@@ -9068,12 +9067,12 @@ The caesura of line 46 is slight; observe the bucolic diaeresis.  For long <lemm
 <table>
 <row role="data"><cell cols="1" role="data" rows="1">Case</cell> <cell cols="1" role="data" rows="1">Masculine</cell> <cell cols="1" role="data" rows="1">Neuter, where different</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Singular:   Nom.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tis</quote> (Attic <quote lang="greek">o(/stis</quote>)</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tti</quote> (<quote lang="greek">o(/ ti</quote>)</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tteo, o(/tteu, o(/teu</quote> (<quote lang="greek">o(/tou, ou(=tinos</quote>)</cell> <cell cols="1" role="data" rows="1"></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tew|</quote> (<quote lang="greek">o(/tw|, w(=|tini</quote>)</cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tteo, o(/tteu, o(/teu</quote> (<quote lang="greek">o(/tou, ou(=tinos</quote>)</cell> <cell cols="1" role="data" rows="1"/></row>
+<row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tew|</quote> (<quote lang="greek">o(/tw|, w(=|tini</quote>)</cell> <cell cols="1" role="data" rows="1"/></row>
 <row role="data"><cell cols="1" role="data" rows="1">Acc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tina</quote> (<quote lang="greek">o(/ntina</quote>)</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tti</quote> (<quote lang="greek">o(/ ti</quote>)</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Plural:  Nom.</cell> <cell cols="1" role="data" rows="1">--</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">a(/ssa, o(/tina</quote> (<quote lang="greek">a(/tta, a(/tina</quote>)</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tewn</quote> (<quote lang="greek">o(/twn, w(=ntinwn</quote>)</cell> <cell cols="1" role="data" rows="1"></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(te/oisi</quote>(<quote lang="greek">n</quote>) (<quote lang="greek">o(/tois, oi(=stisi</quote>)</cell> <cell cols="1" role="data" rows="1"></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Gen.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tewn</quote> (<quote lang="greek">o(/twn, w(=ntinwn</quote>)</cell> <cell cols="1" role="data" rows="1"/></row>
+<row role="data"><cell cols="1" role="data" rows="1">Dat.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(te/oisi</quote>(<quote lang="greek">n</quote>) (<quote lang="greek">o(/tois, oi(=stisi</quote>)</cell> <cell cols="1" role="data" rows="1"/></row>
 <row role="data"><cell cols="1" role="data" rows="1">Acc.</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">o(/tinas</quote> (<quote lang="greek">ou(/stinas</quote>)</cell> <cell cols="1" role="data" rows="1"><quote lang="greek">a(/ssa</quote> (<quote lang="greek">a(/tta</quote>)</cell></row>
 </table>
 </p></div3>

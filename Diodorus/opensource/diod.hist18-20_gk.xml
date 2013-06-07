@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader>
@@ -243,7 +243,7 @@ komi/zein to\ sw=ma tou= teteleuthko/tos basile/ws ei)s
 *)/ammwna e)/tacan *)arridai=on.
 </p></div2>
 
-<div2 type="chapter" n="4"><p><milestone unit="section" n="1"/>kratero\s de\ tw=n e)pifanesta/twn <add>a)ndrw=n</add>> u(pa/rxwn
+<div2 type="chapter" n="4"><p><milestone unit="section" n="1"/>kratero\s de\ tw=n e)pifanesta/twn <add>a)ndrw=n</add>&gt; u(pa/rxwn
  e)/tuxe proapestalme/nos ei)s *kiliki/an u(p' *)aleca/ndrou
 meta\ tw=n a)poluqe/ntwn th=s stratei/as, o)/ntwn
 muri/wn. a(/ma d' ei)lhfw\s e)ntola\s h)=n e)ggra/ptous, a(\s

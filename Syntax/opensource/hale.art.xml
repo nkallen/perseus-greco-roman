@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -298,7 +297,7 @@ and with that word everything dropped into place as simply as, in Milton's
 sentence following,
 
 <cit><quote lang="en"><lg type="iambic-pentameter"><l part="F">&hellip; the moon, whose orb</l>
-<l>Through optic glass the Tuscan artist views,</l></lg></quote><bibl></bibl></cit>
+<l>Through optic glass the Tuscan artist views,</l></lg></quote><bibl/></cit>
 
 the last word resolves our momentary suspense in regard to the relation
 of orb and artist;  which relation would have been precisely reversed,

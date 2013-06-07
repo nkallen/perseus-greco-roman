@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -224,8 +223,7 @@
                 <l>*)arh/nhqen e)/ban, mega/lh| periqarse/es a)lkh=|</l>
                 <l>a)mfo/teroi: *lugkeu\s de\ kai\ o)cuta/tois e)ke/kasto</l>
                 <l>o)/mmasin, ei) e)teo/n ge pe/lei kle/os, a)ne/ra kei=non</l>
-                <l n="155">r(hidi/ws kai\ ne/rqe kata\ xqono\s au)ga/zesqai. <milestone n="156"
-                        unit="card"/></l>
+                <l n="155">r(hidi/ws kai\ ne/rqe kata\ xqono\s au)ga/zesqai. <milestone n="156" unit="card"/></l>
                 <l rend="indent">*su\n de\ *periklu/menos *nhlh/ios w)=rto ne/esqai,</l>
                 <l>presbu/tatos pai/dwn, o(/ssoi *pu/lw| e)cege/nonto</l>
                 <l>*nhlh=os qei/oio: *poseida/wn de/ oi( a)lkh\n</l>
@@ -329,8 +327,7 @@
                 <l>w(s o)/felen kai\ *fri/con, o(/t' w)/leto parqe/nos *(/ellh,</l>
                 <l>ku=ma me/lan kriw=| a(/m' e)piklu/sai: a)lla\ kai\ au)dh\n</l>
                 <l>a)ndrome/hn proe/hke kako\n te/ras, w(/s ken a)ni/as</l>
-                <l>*)alkime/dh| meto/pisqe kai\ a)/lgea muri/a qei/h." <milestone n="260"
-                        unit="card"/></l>
+                <l>*)alkime/dh| meto/pisqe kai\ a)/lgea muri/a qei/h." <milestone n="260" unit="card"/></l>
                 <l n="260" rend="indent">*ai( me\n a)/r' w(=s a)go/reuon e)pi\ promolh=|si kio/ntwn.</l>
                 <l>h)/dh de\ dmw=e/s te polei=s dmwai/ t' a)ge/ronto:</l>
                 <l>mh/thr d' a)mf' au)to\n bebolhme/nh. o)cu\ d' e(ka/sthn</l>
@@ -387,8 +384,7 @@
                 <l>kai/ min deciterh=s xeiro\s ku/sen, ou)de/ ti fa/sqai</l>
                 <l>e)/mphs i(eme/nh du/nato, proqe/ontos o(mi/lou:</l>
                 <l n="315">a)ll' h( me\n li/pet' au)=qi paraklido/n, oi(=a geraih\</l>
-                <l>o(plote/rwn, o( de\ pollo\n a)poplagxqei\s e)lia/sqh. <milestone n="317"
-                        unit="card"/></l>
+                <l>o(plote/rwn, o( de\ pollo\n a)poplagxqei\s e)lia/sqh. <milestone n="317" unit="card"/></l>
                 <l rend="indent">*au)ta\r e)pei/ r(a po/lhos e)udmh/tous li/p' a)guia/s,</l>
                 <l>a)kth\n d' i(/kanen *pagashi/da, th=| min e(tai=roi</l>
                 <l>deide/xat', *)argw/|h| a)/mudis para\ nhi\ me/nontes.</l>
@@ -465,8 +461,7 @@
                 <l n="390">briqosu/nh|, kato/lisqe d' e)/sw a(lo/s: oi( de/ min au)=qi</l>
                 <l>a)\y a)naseira/zontes e)/xon prote/rwse kiou=san.</l>
                 <l>skalmoi=s d' a)mfi\s e)retma\ kath/rtuon: e)n de/ oi( i(sto\n</l>
-                <l>lai/fea/ t' eu)poi/hta kai\ a(rmalih\n e)ba/lonto. <milestone n="394" unit="card"
-                    /></l>
+                <l>lai/fea/ t' eu)poi/hta kai\ a(rmalih\n e)ba/lonto. <milestone n="394" unit="card"/></l>
                 <l rend="indent">*au)ta\r e)pei\ ta\ e(/kasta perifrade/ws a)le/gunan,</l>
                 <l n="395">klhi=das me\n prw=ta pa/lw| diemoirh/santo,</l>
                 <l>a)/ndr' e)ntuname/nw doiw\ mi/an: e)k d' a)/ra me/sshn</l>
@@ -520,8 +515,7 @@
                 <l>thlo/qi pou pe/prwtai e)p' *)asi/dos h)pei/roio.</l>
                 <l n="445">w(=de kakoi=s dedaw\s e)/ti kai\ pa/ros oi)wnoi=sin</l>
                 <l>po/tmon e)mo\n pa/trhs e)ch/ion, o)/fr' e)pibai/hn</l>
-                <l>nho/s, e)uklei/h de\ do/mois e)piba/nti li/phtai." <milestone n="448" unit="card"
-                    /></l>
+                <l>nho/s, e)uklei/h de\ do/mois e)piba/nti li/phtai." <milestone n="448" unit="card"/></l>
                 <l rend="indent">*(=ws a)/r' e)/fh: kou=roi de\ qeopropi/hs a)i/ontes</l>
                 <l>no/stw| me\n gh/qhsan, a)/xos d' e(/len *)/idmonos ai)/sh|.</l>
                 <l n="450">h)=mos d' h)e/lios staqero\n paramei/betai h)=mar,</l>
@@ -586,8 +580,7 @@
                 <l>o)/fra *zeu\s e)/ti kou=ros, e)/ti fresi\ nh/pia ei)dw/s,</l>
                 <l>*diktai=on nai/esken u(po\ spe/os: oi( de/ min ou)/pw</l>
                 <l n="510">ghgene/es *ku/klwpes e)kartu/nanto keraunw=|,</l>
-                <l>bronth=| te steroph=| te: ta\ ga\r *dii\ ku=dos o)pa/zei. <milestone n="512"
-                        unit="card"/></l>
+                <l>bronth=| te steroph=| te: ta\ ga\r *dii\ ku=dos o)pa/zei. <milestone n="512" unit="card"/></l>
                 <l rend="indent">*)=h, kai\ o( me\n fo/rmigga su\n a)mbrosi/h| sxe/qen au)dh=|.</l>
                 <l>toi\ d' a)/moton lh/cantos e)/ti prou/xonto ka/rhna</l>
                 <l>pa/ntes o(mw=s o)rqoi=sin e)p' ou)/asin h)reme/ontes</l>
@@ -655,8 +648,7 @@
                 <l>muri/a mh=l' e)fe/pontai a)/dhn kekorhme/na poi/hs</l>
                 <l>ei)s au)=lin, o( de/ t' ei)=si pa/ros su/rig gi ligei/h|</l>
                 <l>kala\ melizo/menos no/mion me/los, w(=s a)/ra toi/ge</l>
-                <l>w(ma/rteun: th\n d' ai)e\n e)passu/teros fe/ren ou)=ros. <milestone n="580"
-                        unit="card"/></l>
+                <l>w(ma/rteun: th\n d' ai)e\n e)passu/teros fe/ren ou)=ros. <milestone n="580" unit="card"/></l>
                 <l n="580" rend="indent">*au)ti/ka d' h)eri/h polulh/ios ai)=a *pelasgw=n</l>
                 <l>du/eto, *phlia/das de\ parech/meibon e)ri/pnas</l>
                 <l>ai)e\n e)piproqe/ontes: e)/dune de\ *shpia\s a)/krh,</l>
@@ -773,8 +765,7 @@
                 <l>o(plote/rh|si de\ pa/gxu ta/de fra/zesqai a)/nwga.</l>
                 <l>nu=n ga\r dh\ para\ possi\n e)ph/bolo/s e)st' a)lewrh/,</l>
                 <l n="695">ei)/ ken e)pitre/yhte do/mous kai\ lhi/da pa=san</l>
-                <l>u(mete/rhn cei/noisi kai\ a)glao\n a)/stu me/lesqai." <milestone n="697"
-                        unit="card"/></l>
+                <l>u(mete/rhn cei/noisi kai\ a)glao\n a)/stu me/lesqai." <milestone n="697" unit="card"/></l>
                 <l rend="indent">*(=ws e)/fat': e)n d' a)gorh\ plh=to qro/ou. eu)/ade ga/r sfin</l>
                 <l>mu=qos. a)ta\r meta\ th/nge parasxedo\n au)=tis a)nw=rto</l>
                 <l>*(uyipu/lh, kai\ toi=on u(poblh/dhn e)/pos hu)/da:</l>
@@ -825,8 +816,7 @@
                 <l>*)/areos o)xma/zousa qoo\n sa/kos: e)k de/ oi( w)/mou</l>
                 <l>ph=xun e)/pi skaio\n cunoxh\ kexa/lasto xitw=nos</l>
                 <l n="745">ne/rqen u(pe\k mazoi=o: to\ d' a)nti/on a)treke\s au)/tws</l>
-                <l>xalkei/h| dei/khlon e)n a)spi/di fai/net' i)de/sqai. <milestone n="747"
-                        unit="card"/></l>
+                <l>xalkei/h| dei/khlon e)n a)spi/di fai/net' i)de/sqai. <milestone n="747" unit="card"/></l>
                 <l rend="indent">*)en de\ bow=n e)/sken la/sios nomo/s: a)mfi\ de\ bousi\n</l>
                 <l>*thlebo/ai ma/rnanto kai\ ui(e/es *)hlektru/wnos:</l>
                 <l>oi( me\n a)muno/menoi, a)ta\r oi(/g' e)qe/lontes a)me/rsai,</l>
@@ -913,8 +903,7 @@
                 <l n="830">gai=an o)no/ssesqai: peri\ ga\r baqulh/ios a)/llwn</l>
                 <l>nh/swn, *ai)gai/h| o(/sai ei)n a(li\ naieta/ousin.</l>
                 <l>a)ll' a)/ge nu=n e)pi\ nh=a kiw\n e(ta/roisin e)ni/spes</l>
-                <l>mu/qous h(mete/rous, mhd' e)/ktoqi mi/mne po/lhos." <milestone n="834"
-                        unit="card"/></l>
+                <l>mu/qous h(mete/rous, mhd' e)/ktoqi mi/mne po/lhos." <milestone n="834" unit="card"/></l>
                 <l rend="indent">*)/isken, a)maldu/nousa fo/nou te/los, oi(=on e)tu/xqh</l>
                 <l n="835">a)ndra/sin: au)ta\r o( th/nge parablh/dhn prose/eipen</l>
                 <l rend="indent">"*(uyipu/lh, ma/la ken qumhde/os a)ntia/saimen</l>
@@ -968,8 +957,7 @@
                 <l>xersi/ te kai\ mu/qoisin e)deikano/wnto e(/kaston,</l>
                 <l n="885">eu)xo/menai maka/ressin a)ph/mona no/ston o)pa/ssai.</l>
                 <l>w(=s de\ kai\ *(uyipu/lh h)rh/sato xei=ras e(lou=sa</l>
-                <l>*ai)soni/dew, ta\ de/ oi( r(e/e da/krua xh/tei i)o/ntos: <milestone n="888"
-                        unit="card"/></l>
+                <l>*ai)soni/dew, ta\ de/ oi( r(e/e da/krua xh/tei i)o/ntos: <milestone n="888" unit="card"/></l>
                 <l rend="indent">"*ni/sseo, kai\ se\ qeoi\ su\n a)phre/sin au)=tis e(tai/rois</l>
                 <l>xru/seion basilh=i de/ros komi/seian a)/gonta</l>
                 <l n="890">au)/tws, w(s e)qe/leis kai/ toi fi/lon. h(/de de\ nh=sos</l>
@@ -1043,8 +1031,7 @@
                 <l>krh/nh| u(p' *)artaki/h|: e(/teron d' e)/lon, o(/stis a)rh/rei,</l>
                 <l>briqu/n: a)ta\r kei=no/n ge qeopropi/ais *(eka/toio</l>
                 <l>*nhlei+/dai meto/pisqen *)ia/ones i(dru/santo</l>
-                <l n="960">i(ero/n, h(\ qe/mis h)=en, *)ihsoni/hs e)n *)aqh/nhs. <milestone n="961"
-                        unit="card"/></l>
+                <l n="960">i(ero/n, h(\ qe/mis h)=en, *)ihsoni/hs e)n *)aqh/nhs. <milestone n="961" unit="card"/></l>
                 <l rend="indent">*tou\s d' a)/mudis filo/thti *doli/ones h)de\ kai\ au)to\s</l>
                 <l>*ku/zikos a)nth/santes o(/te sto/lon h)de\ gene/qlhn</l>
                 <l>e)/kluon, oi(/tines ei)=en, e)ucei/nws a)re/santo,</l>
@@ -1095,8 +1082,7 @@
                 <l>du/ptontes kefala\s kai\ sth/qea, gui=a d' u(/perqen</l>
                 <l>xe/rsw| teina/menoi: toi\ d' e)/mpalin, ai)gialoi=o</l>
                 <l n="1010">kra/ata me\n yama/qoisi, po/das d' ei)s be/nqos e)/reidon,</l>
-                <l>a)/mfw a(/m' oi)wnoi=si kai\ i)xqu/si ku/rma gene/sqai. <milestone n="1012"
-                        unit="card"/></l>
+                <l>a)/mfw a(/m' oi)wnoi=si kai\ i)xqu/si ku/rma gene/sqai. <milestone n="1012" unit="card"/></l>
                 <l rend="indent">*(/hrwes d', o(/te dh/ sfin a)tarbh\s e)/plet' a)/eqlos,</l>
                 <l>dh\ to/te pei/smata nho\s e)pi\ pnoih=|s a)ne/moio</l>
                 <l>lusa/menoi prote/rwse die\c a(lo\s oi)=dma ne/onto.</l>
@@ -1291,8 +1277,7 @@
                 <l>u(yo/qen e)mplh/casa qoh\ a)ne/moio kata/ic</l>
                 <l>au)toi=si sfh/nessin u(pe\k proto/nwn e)ru/shtai:</l>
                 <l n="1205">w(=s o(/ge th\n h)/eiren. o(mou= d' a)na\ to/ca kai\ i)ou\s</l>
-                <l>de/rma q' e(lw\n r(o/palo/n te pali/ssutos w)=rto ne/esqai. <milestone n="1207"
-                        unit="card"/></l>
+                <l>de/rma q' e(lw\n r(o/palo/n te pali/ssutos w)=rto ne/esqai. <milestone n="1207" unit="card"/></l>
                 <l rend="indent">*to/fra d' *(/ulas xalke/h| su\n ka/lpidi no/sfin o(mi/lou</l>
                 <l>di/zhto krh/nhs i(ero\n r(o/on, w(/s ke/ oi( u(/dwr</l>
                 <l>fqai/h a)fussa/menos potido/rpion, a)/lla te pa/nta</l>
@@ -1342,8 +1327,7 @@
                 <l>e)/nq' au)tw=| cu/mblhto kata\ sti/bon *(hraklh=i</l>
                 <l>gumno\n e)pai+/sswn pala/mh| ci/fos: eu)= de/ min e)/gnw</l>
                 <l n="1255">sperxo/menon meta\ nh=a dia\ kne/fas. au)ti/ka d' a)/thn</l>
-                <l>e)/kfato leugale/hn, bebarhme/nos a)/sqmati qumo/n: <milestone n="1257"
-                        unit="card"/></l>
+                <l>e)/kfato leugale/hn, bebarhme/nos a)/sqmati qumo/n: <milestone n="1257" unit="card"/></l>
                 <l rend="indent">"*daimo/nie, stugero/n toi a)/xos pa/mprwtos e)ni/yw.</l>
                 <l>ou) ga\r *(/ulas krh/nhnde kiw\n so/os au)=tis i(ka/nei.</l>
                 <l>a)lla/ e( lhisth=res e)nixri/myantes a)/gousin,</l>
@@ -1507,8 +1491,7 @@
                 <l>toi=si de\ messhgu\s qera/pwn *)amu/koio *lukwreu\s</l>
                 <l>qh=ke pa/roiqe podw=n doiou\s e(ka/terqen i(ma/ntas</l>
                 <l>w)mou/s, a)zale/ous, peri\ d' oi(/g' e)/san e)sklhw=tes.</l>
-                <l>au)ta\r o( to/ng' e)pe/essin u(perfia/loisi methu/da: <milestone n="55"
-                        unit="card"/></l>
+                <l>au)ta\r o( to/ng' e)pe/essin u(perfia/loisi methu/da: <milestone n="55" unit="card"/></l>
                 <l n="55" rend="indent">"*tw=nde/ toi o(/n k' e)qe/lh|sqa, pa/lou a)/ter e)gguali/cw</l>
                 <l>au)to\s e(kw/n, i(/na mh/ moi a)te/mbhai meto/pisqen.</l>
                 <l>a)lla\ ba/leu peri\ xeiri/: daei\s de/ ken a)/llw| e)ni/spois,</l>
@@ -1598,8 +1581,7 @@
                 <l>ai)ei\ ga\r ma/rnanto sidhrofo/rou peri\ gai/hs.</l>
                 <l>oi( d' h)/dh staqmou/s te kai\ au)/lia dhia/askon:</l>
                 <l>h)/dh d' a)/speta mh=la peritropa/dhn e)ta/monto</l>
-                <l>h(/rwes, kai\ dh/ tis e)/pos meta\ toi=sin e)/eipen: <milestone n="145"
-                        unit="card"/></l>
+                <l>h(/rwes, kai\ dh/ tis e)/pos meta\ toi=sin e)/eipen: <milestone n="145" unit="card"/></l>
                 <l n="145" rend="indent">"*fra/zesq' o(/tti ken h(=|sin a)nalkei/h|sin e)/recan,</l>
                 <l>ei)/ pws *(hraklh=a qeo\s kai\ deu=r' e)ko/misse??.</l>
                 <l>h)/toi me\n ga\r e)gw\ kei/nou pareo/ntos e)/olpa</l>
@@ -1716,8 +1698,7 @@
                 <l>mantosu/nas: i)/stw de\ dusw/numos, h(/ m' e)/laxen, kh\r</l>
                 <l>kai\ to/d' e)p' o)fqalmw=n a)lao\n ne/fos, oi(/ q' u(pe/nerqen</l>
                 <l n="260">dai/mones, oi(\ mhd' w(=de qano/nti per eu)mene/oien,</l>
-                <l>w(s ou)/ tis qeo/qen xo/los e)/ssetai ei(/nek' a)rwgh=s." <milestone n="262"
-                        unit="card"/></l>
+                <l>w(s ou)/ tis qeo/qen xo/los e)/ssetai ei(/nek' a)rwgh=s." <milestone n="262" unit="card"/></l>
                 <l rend="indent">*tw\ me\n e)/peiq' o(/rkoisin a)lalke/menai mene/ainon.</l>
                 <l>ai)=ya de\ kouro/teroi peponh/ato dai=ta ge/ronti,</l>
                 <l>loi/sqion *(arpui/h|sin e(lw/rion: e)ggu/qi d' a)/mfw</l>
@@ -1772,8 +1753,7 @@
                 <l>a)asa/mhn kai\ pro/sqe *dio\s no/on a)fradi/h|sin</l>
                 <l>xrei/wn e(cei/hs te kai\ e)s te/los. w(=de ga\r au)to\s</l>
                 <l n="315">bou/letai a)nqrw/pois e)pideue/a qe/sfata fai/nein</l>
-                <l>mantosu/nhs, i(/na kai/ ti qew=n xate/wsi no/oio. <milestone n="317" unit="card"
-                    /></l>
+                <l>mantosu/nhs, i(/na kai/ ti qew=n xate/wsi no/oio. <milestone n="317" unit="card"/></l>
                 <l rend="indent">*pe/tras me\n pa/mprwton, a)formhqe/ntes e)mei=o,</l>
                 <l>*kuane/as o)/yesqe du/w a(lo\s e)n cunoxh=|sin,</l>
                 <l>ta/wn ou)/tina/ fhmi diampere\s e)cale/asqai.</l>
@@ -1866,8 +1846,7 @@
                 <l>a)/lsos te skio/ein *)/areos, to/qi kw=as e)p' a)/krhs</l>
                 <l n="405">pepta/menon fhgoi=o dra/kwn, te/ras ai)no\n i)de/sqai,</l>
                 <l>a)mfi\s o)pipeu/ei dedokhme/nos: ou)de/ oi( h)=mar,</l>
-                <l>ou) kne/fas h(/dumos u(/pnos a)naide/a da/mnatai o)/sse." <milestone n="410"
-                        unit="card"/></l>
+                <l>ou) kne/fas h(/dumos u(/pnos a)naide/a da/mnatai o)/sse." <milestone n="410" unit="card"/></l>
                 <l rend="indent">*(=ws a)/r' e)/fh: tou\s d' ei)=qar e(/len de/os ei)sai+/ontas.</l>
                 <l>dh\n d' e)/san a)mfasi/h| bebolhme/noi: o)ye\ d' e)/eipen</l>
                 <l n="410">h(/rws *ai)/sonos ui(o\s a)mhxane/wn kako/thti:</l>
@@ -1987,8 +1966,7 @@
                 <l>*seiri/w| au)tw=| te *kroni/dh| *dii/. toi=o d' e(/khti</l>
                 <l n="525">gai=an e)piyu/xousin e)th/siai e)k *dio\s au)=rai</l>
                 <l>h)/mata tessara/konta: *ke/w| d' e)/ti nu=n i(erh=es</l>
-                <l>a)ntole/wn propa/roiqe *kuno\s r(e/zousi quhla/s. <milestone n="530" unit="card"
-                    /></l>
+                <l>a)ntole/wn propa/roiqe *kuno\s r(e/zousi quhla/s. <milestone n="530" unit="card"/></l>
                 <l rend="indent">*kai\ ta\ me\n w(=s u(de/ontai: a)risth=es de\ katau=qi</l>
                 <l>mi/mnon e)ruko/menoi: ceinh/ia d' a)/speta *qunoi\</l>
                 <l n="530">pa=n h)=mar *finh=i xarizo/menoi proi+/allon.</l>
@@ -2071,8 +2049,7 @@
                 <l>oi( de/ pou o)kruo/entos a)ne/pneon a)/rti fo/boio</l>
                 <l>h)e/ra paptai/nontes o(mou= pe/lago/s te qala/sshs</l>
                 <l>th=l' a)napepta/menon. dh\ ga\r fa/san e)c *)ai/dao</l>
-                <l n="610">sw/esqai: *ti=fus de\ paroi/tatos h)/rxeto mu/qwn: <milestone n="613"
-                        unit="card"/></l>
+                <l n="610">sw/esqai: *ti=fus de\ paroi/tatos h)/rxeto mu/qwn: <milestone n="613" unit="card"/></l>
                 <l rend="indent">"*)/elpomai au)th=| nhi\ to/g' e)/mpedon e)cale/asqai</l>
                 <l>h(me/as: ou)de/ tis a)/llos e)pai/tios, o(/sson *)aqh/nh,</l>
                 <l>h(/ oi( e)ne/pneusen qei=on me/nos, eu)=te/ min *)/argos</l>
@@ -2130,8 +2107,7 @@
                 <l n="665">loca\ parastrwfw=ntai u(po\ zugou=: au)ta\r a)utmh\</l>
                 <l>au)ale/h stoma/twn a)/moton bre/mei: oi( d' e)ni\ gai/h|</l>
                 <l>xhla\s skhri/ptonte panhme/rioi pone/ontai.</l>
-                <l>toi=s i)/keloi h(/rwes u(pe\c a(lo\s ei(=lkon e)retma/. <milestone n="671"
-                        unit="card"/></l>
+                <l>toi=s i)/keloi h(/rwes u(pe\c a(lo\s ei(=lkon e)retma/. <milestone n="671" unit="card"/></l>
                 <l rend="indent">*)=hmos d' ou)/t' a)/r pw fa/os a)/mbroton, ou)/t' e)/ti li/hn</l>
                 <l n="670">o)rfnai/h pe/letai, lepto\n d' e)pide/drome nukti\</l>
                 <l>fe/ggos, o(/t' a)mfilu/khn min a)negro/menoi kale/ousin,</l>
@@ -2236,8 +2212,7 @@
                 <l n="770">h)d' w(s *kuane/as pe/tras fu/gon, w(/s t' a)bo/lhsan</l>
                 <l>*lhtoi+/dh| kata\ nh=son. o( d' e(cei/hs e)ne/pontos</l>
                 <l>qe/lget' a)kouh=| qumo/n: a)/xos d' e(/len *(hraklh=i</l>
-                <l>leipome/nw|, kai\ toi=on e)/pos pa/ntessi methu/da: <milestone n="776"
-                        unit="card"/></l>
+                <l>leipome/nw|, kai\ toi=on e)/pos pa/ntessi methu/da: <milestone n="776" unit="card"/></l>
                 <l rend="indent">"*)=w fi/loi, oi(/ou fwto\s a)poplagxqe/ntes a)rwgh=s</l>
                 <l n="775">pei/ret' e)s *ai)h/thn to/sson plo/on. eu)= ga\r e)gw/ min</l>
                 <l>*dasku/lou e)n mega/roisi katauto/qi patro\s e)moi=o</l>
@@ -2298,8 +2273,7 @@
                 <l>ou)/tase, bebruxw\s de\ qow=| perika/ppese douri/.</l>
                 <l>kai\ to\n me\n xama/dis li/pon au)to/qi pepthw=ta:</l>
                 <l>to\n d' e(/taroi e)pi\ nh=a fe/ron yuxorrage/onta,</l>
-                <l>a)xnu/menoi, xei/ressi d' e(w=n e)nika/tqan' e(tai/rwn. <milestone n="837"
-                        unit="card"/></l>
+                <l>a)xnu/menoi, xei/ressi d' e(w=n e)nika/tqan' e(tai/rwn. <milestone n="837" unit="card"/></l>
                 <l n="835" rend="indent">*)/enqa de\ nautili/hs me\n e)rhtu/onto me/lesqai,</l>
                 <l>a)mfi\ de\ khdei/h| ne/kuos me/non a)sxalo/wntes.</l>
                 <l>h)/mata de\ tri/a pa/nta go/wn: e(te/rw| de/ min h)/dh</l>
@@ -2349,8 +2323,7 @@
                 <l>oi( me\n ga/r poqi tou=ton, o(\n e)/llaxon, oi)=ton o)/lonto:</l>
                 <l>h(mi=n d' e)n ga\r e)/asi kubernhth=res o(mi/lw|,</l>
                 <l>kai\ pole/es. tw= mh/ ti diatribw/meqa pei/rhs:</l>
-                <l>a)ll' e)/gresq' ei)s e)/rgon, a)porri/yantes a)ni/as." <milestone n="887"
-                        unit="card"/></l>
+                <l>a)ll' e)/gresq' ei)s e)/rgon, a)porri/yantes a)ni/as." <milestone n="887" unit="card"/></l>
                 <l n="885" rend="indent">*to\n d' au)=t' *ai)/sonos ui(o\s a)mhxane/wn prose/eipen:</l>
                 <l>"*ai)aki/dh, ph=| d' oi(/de kubernhth=res e)/asin;</l>
                 <l>ou(\s me\n ga\r to\ pa/roiqe dah/monas eu)xo/meq' ei)=nai,</l>
@@ -2411,8 +2384,7 @@
                 <l>*krwbi/alon, *krw/mnan te kai\ u(lh/enta *ku/twron.</l>
                 <l>e)/nqen d' au)=te *ka/rambin a(/m' h)eli/oio bolh=|sin</l>
                 <l>gna/myantes para\ poulu\n e)/peit' h)/launon e)retmoi=s</l>
-                <l n="945">*ai)gialo\n pro/pan h)=mar o(mw=s kai\ e)p' h)/mati vu/kta. <milestone
-                        n="948" unit="card"/></l>
+                <l n="945">*ai)gialo\n pro/pan h)=mar o(mw=s kai\ e)p' h)/mati vu/kta. <milestone n="948" unit="card"/></l>
                 <l rend="indent">*au)ti/ka d' *)assuri/hs e)pe/ban xqono/s, e)/nqa *sinw/phn,</l>
                 <l>qugate/r' *)aswpoi=o, kaqi/ssato, kai/ oi( o)/passen</l>
                 <l>parqeni/hn *zeu\s au)to/s, u(posxesi/h|si dolwqei/s.</l>
@@ -2468,8 +2440,7 @@
                 <l>no/sfi me\n ai(/d' au)tai/, th=|sin to/te koirane/esken</l>
                 <l>*(ippolu/th, no/sfin de\ *luka/stiai a)mfene/monto,</l>
                 <l n="1000">no/sfi d' a)kontobo/loi *xadh/siai. h)/mati d' a)/llw|</l>
-                <l>nukti/ t' e)piplome/nh| *xalu/bwn para\ gai=an i(/konto. <milestone n="1004"
-                        unit="card"/></l>
+                <l>nukti/ t' e)piplome/nh| *xalu/bwn para\ gai=an i(/konto. <milestone n="1004" unit="card"/></l>
                 <l rend="indent">*toi=si me\n ou)/te bow=n a)/rotos me/lei, ou)/te tis a)/llh</l>
                 <l>futalih\ karpoi=o meli/fronos: ou)de\ me\n oi(/ge</l>
                 <l>poi/mnas e(rsh/enti nomw=| e)/ni poimai/nousin.</l>
@@ -2536,8 +2507,7 @@
                 <l>a)qro/oi, o)/fra kolw|o\n a)hqei/h| fobe/wntai</l>
                 <l n="1065">neu/onta/s te lo/fous kai\ e)ph/ora dou/raq' u(/perqen.</l>
                 <l>ei) de/ ken au)th\n nh=son i(kw/meqa, dh\ to/t' e)/peita</l>
-                <l>su\n kela/dw| sake/essi pelw/rion o)/rsete dou=pon." <milestone n="1070"
-                        unit="card"/></l>
+                <l>su\n kela/dw| sake/essi pelw/rion o)/rsete dou=pon." <milestone n="1070" unit="card"/></l>
                 <l rend="indent">*(=ws a)/r' e)/fh: pa/ntessi d' e)pi/rroqos h(/ndane mh=tis.</l>
                 <l>a)mfi\ de\ xalkei/as ko/ruqas kefalh=|sin e)/qento</l>
                 <l n="1070">deino\n lampome/nas, e)pi\ de\ lo/foi e)ssei/onto</l>
@@ -2592,8 +2562,7 @@
                 <l>ui(h=as *fri/coio met' h)io/nas ba/le nh/sou</l>
                 <l n="1120">nu/xq' u(/po lugai/hn: to\ de\ muri/on e)k *dio\s u(/dwr</l>
                 <l>lh=cen a(/m' h)eli/w:| ta/xa d' e)ggu/qen a)ntebo/lhsan</l>
-                <l>a)llh/lois, *)/argos de\ paroi/tatos e)/kfato mu=qon: <milestone n="1125"
-                        unit="card"/></l>
+                <l>a)llh/lois, *)/argos de\ paroi/tatos e)/kfato mu=qon: <milestone n="1125" unit="card"/></l>
                 <l rend="indent">"*)anto/meqa pro\s *zhno\s *)epoyi/ou, oi(/tine/s e)ste</l>
                 <l>a)ndrw=n, eu)mene/ein te kai\ a)rke/ssai xate/ousin.</l>
                 <l n="1125">po/ntw| ga\r trhxei=ai e)pibri/sasai a)/ellai</l>
@@ -2649,8 +2618,7 @@
                 <l n="1175">mh/lwn t' h)de\ bow=n th=|d' e)sxa/rh| i(era\ kai/ein:</l>
                 <l>a)ll' i(/ppous dai/treuon, e)phetano\n kome/ousai.</l>
                 <l>au)ta\r e)pei\ r(e/cantes e)parte/a dai=t' e)pa/santo,</l>
-                <l>dh\ to/t a)/r' *ai)soni/dhs metefw/neen, h)=rxe/ te mu/qwn: <milestone n="1181"
-                        unit="card"/></l>
+                <l>dh\ to/t a)/r' *ai)soni/dhs metefw/neen, h)=rxe/ te mu/qwn: <milestone n="1181" unit="card"/></l>
                 <l rend="indent">"*zeu\s e)teh=| ta\ e(/kast' e)pide/rketai: ou)de/ min a)/ndres</l>
                 <l n="1180">lh/qomen e)/mpedon, oi(/ te qeoude/es ou)de\ di/kaioi.</l>
                 <l>w(s me\n ga\r pate/r' u(mo\n u(pecei/ruto fo/noio</l>
@@ -2702,8 +2670,7 @@
                 <l>me/sf' au)=tis do/rpoio koressa/menoi kate/darqen.</l>
                 <l>h)=ri d' a)negrome/noisin e)ukrah\s a)/en ou)=ros:</l>
                 <l>i(sti/a d' h)/eiran, ta\ d' u(pai\ r(iph=s a)ne/moio</l>
-                <l n="1230">tei/neto: r(i/mfa de\ nh=son a)poproe/leipon *)/arhos. <milestone
-                        n="1233" unit="card"/></l>
+                <l n="1230">tei/neto: r(i/mfa de\ nh=son a)poproe/leipon *)/arhos. <milestone n="1233" unit="card"/></l>
                 <l rend="indent">*nukti\ d' e)piplome/nh| *filurhi/da nh=son a)/meibon:</l>
                 <l>e)/nqa me\n *ou)rani/dhs *filu/rh| *kro/nos, eu)=t' e)n *)olu/mpw|</l>
                 <l>*tith/nwn h)/nassen, o( de\ *krhtai=on u(p' a)/ntron</l>
@@ -2753,8 +2720,7 @@
                 <l rend="indent">"*kolxi/da me\n dh\ gai=an i(ka/nomen h)de\ r(e/eqra</l>
                 <l>*fa/sidos: w(/rh d' h(=min e)ni\ sfi/si mhtia/asqai,</l>
                 <l>ei)/t' ou)=n meilixi/h| peirhso/meq' *ai)h/tao,</l>
-                <l n="1280">ei)/te kai\ a)lloi/h tis e)ph/bolos e)/ssetai o(rmh/." <milestone
-                        n="1283" unit="card"/></l>
+                <l n="1280">ei)/te kai\ a)lloi/h tis e)ph/bolos e)/ssetai o(rmh/." <milestone n="1283" unit="card"/></l>
                 <l rend="indent">*(=ws e)/fat': *)/argou d' au)=te parhgori/h|sin *)ih/swn</l>
                 <l>u(yo/qi nh=' e)ke/leusen e)p' eu)nai/h|sin e)ru/ssai</l>
                 <l>da/skion ei)sela/santas e(/los: to\ d' e)pisxedo\n h)=en</l>
@@ -2868,8 +2834,7 @@
                 <l>"*)/allois a)/lgea ta)ma\ ge/lws pe/lei: ou)de/ ti/ me xrh\</l>
                 <l>muqei=sqai pa/ntessin: a(/lis ei)dui=a kai\ au)th/.</l>
                 <l>nu=n d' e)pei\ u)/mmi fi/lon to/de dh\ pe/lei a)mfote/rh|sin,</l>
-                <l n="105">peirh/sw, kai/ min meili/comai, ou)d' a)piqh/sei." <milestone n="106"
-                        unit="card"/></l>
+                <l n="105">peirh/sw, kai/ min meili/comai, ou)d' a)piqh/sei." <milestone n="106" unit="card"/></l>
                 <l rend="indent">*(=ws fa/to: th\n d' *(/hrh r(adinh=s e)pema/ssato xeiro/s,</l>
                 <l>h)=ka de\ meidio/wsa parablh/dhn prose/eipen:</l>
                 <l>"*ou(/tw nu=n, *kuqe/reia, to/de xre/os, w(s a)goreu/eis,</l>
@@ -2931,8 +2896,7 @@
                 <l>h)e/lios prw/th|sin e)reu/qetai a)kti/nessin.</l>
                 <l>neio/qi d' a)/llote gai=a fere/sbios a)/stea/ t' a)ndrw=n</l>
                 <l n="165">fai/neto kai\ potamw=n i(eroi\ r(o/oi, a)/llote d' au)=te</l>
-                <l>a)/kries, a)mfi\ de\ po/ntos a)n' ai)qe/ra pollo\n i)o/nti. <milestone n="167"
-                        unit="card"/></l>
+                <l>a)/kries, a)mfi\ de\ po/ntos a)n' ai)qe/ra pollo\n i)o/nti. <milestone n="167" unit="card"/></l>
                 <l rend="indent">*(/hrwes d' a)pa/neuqen e(h=s e)pi\ se/lmasi nho\s</l>
                 <l>e)n potamw=| kaq' e(/los leloxhme/noi h)goro/wnto.</l>
                 <l>au)to\s d' *ai)soni/dhs metefw/neen: oi( d' u(pa/kouon</l>
@@ -3082,8 +3046,7 @@
                 <l>naieta/ei, ma/la pollo\n a)po/proqi *kolxi/dos ai)/hs.</l>
                 <l>a)lla\ ti/ mu/qwn h)=dos; a(\ d' e)n posi\n u(=min o)/rwren,</l>
                 <l n="315">ei)/pat' a)rifrade/ws, h)d' oi(/tines oi(/d' e)fe/pontai</l>
-                <l>a)ne/res, o(/pph| te glafurh=s e)k nho\s e)/bhte." <milestone n="317" unit="card"
-                    /></l>
+                <l>a)ne/res, o(/pph| te glafurh=s e)k nho\s e)/bhte." <milestone n="317" unit="card"/></l>
                 <l rend="indent">*toi=a/ min e)cere/onta kasignh/twn propa/roiqen</l>
                 <l>*)/argos u(poddei/sas a)mfi\ sto/lw| *ai)soni/dao</l>
                 <l>meilixi/ws prose/eipen, e)pei\ progene/steros h)=en:</l>
@@ -3188,8 +3151,7 @@
                 <l>pau/omai a)mh/toio. su/ d', ei) ta/de toi=a tele/sseis,</l>
                 <l>au)th=mar to/de kw=as a)poi/seai ei)s basilh=os:</l>
                 <l n="420">pri\n de/ ken ou) doi/hn, mhd' e)/lpeo. dh\ ga\r a)eike\s</l>
-                <l>a)/ndr' a)gaqo\n gegaw=ta kakwte/rw| a)ne/ri ei)=cai." <milestone n="422"
-                        unit="card"/></l>
+                <l>a)/ndr' a)gaqo\n gegaw=ta kakwte/rw| a)ne/ri ei)=cai." <milestone n="422" unit="card"/></l>
                 <l rend="indent">*(=ws a)/r' e)/fh: o( de\ si=ga podw=n pa/ros o)/mmata ph/cas</l>
                 <l>h(=st' au)/tws a)/fqoggos, a)mhxane/wn kako/thti.</l>
                 <l>boulh\n d' a)mfi\ polu\n strw/fa xro/non, ou)de/ ph| ei)=xen</l>
@@ -3242,8 +3204,7 @@
                 <l rend="indent">*(h me\n a)/r' w(=s e)o/lhto no/on meledh/masi kou/rh.</l>
                 <l>oi( d' e)pei\ ou)=n dh/mou te kai\ a)/steos e)kto\s e)/bhsan</l>
                 <l>th\n o(do/n, h(\n to\ pa/roiqen a)nh/luqon e)k pedi/oio,</l>
-                <l>dh\ to/t' *)ih/sona toi=sde prose/nnepen *)/argos e)/pessin: <milestone n="475"
-                        unit="card"/></l>
+                <l>dh\ to/t' *)ih/sona toi=sde prose/nnepen *)/argos e)/pessin: <milestone n="475" unit="card"/></l>
                 <l n="475" rend="indent">"*ai)soni/dh, mh=tin me\n o)no/sseai, h(/ntin' e)ni/yw:</l>
                 <l>pei/rhs d' ou) ma/l' e)/oike meqie/men e)n kako/thti.</l>
                 <l>kou/rhn dh/ tina pro/sqen u(pe/klues au)to\s e)mei=o</l>
@@ -3308,8 +3269,7 @@
                 <l>mh/thr h(mete/rh pepiqei=n e)parh=cai a)e/qlw|.</l>
                 <l>ei) de\ kai\ au)toi=sin to/d' e)fanda/nei, h)= t' a)\n i(koi/mhn</l>
                 <l>h)/mati tw=|d' au)tw=| pa/lin ei)s do/mon *ai)h/tao</l>
-                <l>peirh/swn: ta/xa d' a)\n su\n dai/moni peirhqei/hn." <milestone n="540"
-                        unit="card"/></l>
+                <l>peirh/swn: ta/xa d' a)\n su\n dai/moni peirhqei/hn." <milestone n="540" unit="card"/></l>
                 <l n="540" rend="indent">*(=ws fa/to: toi=si de\ sh=ma qeoi\ do/san eu)mene/ontes.</l>
                 <l>trhrw\n me\n feu/gousa bi/hn ki/rkoio peleia\s</l>
                 <l>u(yo/qen *ai)soni/dew pefobhme/nh e)/mpese ko/lpois:</l>
@@ -3378,8 +3338,7 @@
                 <l n="605">a)ll' e)ni\ *xalkio/phs geneh=| ta/de lugra\ tetu/xqai.</l>
                 <l>kai/ r(' o( me\n a)/sxeta e)/rga pifau/sketo dhmote/roisin</l>
                 <l>xwo/menos: me/ga de/ sfin a)pei/lee nh=a/ t' e)/rusqai</l>
-                <l>h)d' au)tou/s, i(/na mh/tis u(pe\k kako/thtos a)lu/ch|. <milestone n="609"
-                        unit="card"/></l>
+                <l>h)d' au)tou/s, i(/na mh/tis u(pe\k kako/thtos a)lu/ch|. <milestone n="609" unit="card"/></l>
                 <l rend="indent">*to/fra de\ mhte/r' e(h/n, metiw\n do/mon *ai)h/tao,</l>
                 <l n="610">*)/argos pantoi/oisi parhgore/esk' e)pe/essin,</l>
                 <l>*mh/deian li/ssesqai a)mune/men: h( de\ kai\ au)th\</l>
@@ -3444,8 +3403,7 @@
                 <l n="670">mu=qon a)nw/iston: dia\ d' e)/ssuto qambh/sasa</l>
                 <l>e)k qala/mou qa/lamo/nde diampere/s, w(=| e)/ni kou/rh</l>
                 <l>ke/klit' a)khxeme/nh, dru/yen d' e(ka/terqe pareia/s:</l>
-                <l>w(s d' i)/de da/krusin o)/sse pefurme/na, fw/nhse/n min: <milestone n="674"
-                        unit="card"/></l>
+                <l>w(s d' i)/de da/krusin o)/sse pefurme/na, fw/nhse/n min: <milestone n="674" unit="card"/></l>
                 <l rend="indent">"*)/wi moi e)gw/, *mh/deia, ti/ dh\ ta/de da/krua lei/beis;</l>
                 <l n="675">ti/pt' e)/paqes; ti/ toi ai)no\n u(po\ fre/nas i(/keto pe/nqos;</l>
                 <l>h)/ nu/ se qeumori/h peride/dromen a(/yea nou=sos,</l>
@@ -3496,8 +3454,7 @@
                 <l n="720">h)\ do/lon, h)/ tina mh=tin e)pifra/ssasqai a)e/qlou,</l>
                 <l>pai/dwn ei(/nek' e)mei=o; kai\ e)k kei/noio d' i(ka/nei</l>
                 <l>*)/argos, e)potru/nwn me teh=s peirh=sai a)rwgh=s:</l>
-                <l>messhgu\s me\n to/nge do/mw| li/pon e)nqa/d' i)ou=sa." <milestone n="724"
-                        unit="card"/></l>
+                <l>messhgu\s me\n to/nge do/mw| li/pon e)nqa/d' i)ou=sa." <milestone n="724" unit="card"/></l>
                 <l rend="indent">*(=ws fa/to: th=| d' e)/ntosqen a)ne/ptato xa/rmati qumo/s,</l>
                 <l n="725">foini/xqh d' a)/mudis kalo\n xro/a, ka\d de/ min a)xlu\s</l>
                 <l>ei(=len i)ainome/nhn, toi=on d' e)pi\ mu=qon e)/eipen:</l>
@@ -3575,8 +3532,7 @@
                 <l>w)/| moi e)mh=s a)/ths. h)= t' a)\n polu\ ke/rdion ei)/h</l>
                 <l>th=|d' au)th=| e)n nukti\ lipei=n bi/on e)n qala/moisin</l>
                 <l n="800">po/tmw| a)nwi/stw|, ka/k' e)le/gxea pa/nta fugou=san,</l>
-                <l>pri\n ta/de lwbh/enta kai\ ou)k o)nomasta\ tele/ssai." <milestone n="801"
-                        unit="card"/></l>
+                <l>pri\n ta/de lwbh/enta kai\ ou)k o)nomasta\ tele/ssai." <milestone n="801" unit="card"/></l>
                 <l rend="indent">*)=h, kai\ fwriamo\n meteki/aqen, h(=| e)/ni polla\</l>
                 <l>fa/rmaka/ oi(, ta\ me\n e)sqla/, ta\ de\ r(aisth/ri', e)/keito.</l>
                 <l>e)nqeme/nh d' e)pi\ gou/nat' o)du/reto. deu=e de\ ko/lpous</l>
@@ -3665,8 +3621,7 @@
                 <l>au)ta\r e)pei\ po/lios me\n e)udmh/tous li/p' a)guia/s,</l>
                 <l>nho\n d' ei)safi/kane die\k pedi/wn e)la/ousa,</l>
                 <l>dh\ to/t' e)utroxa/loio kat' au)to/qi bh/sat' a)ph/nhs</l>
-                <l n="890">i(eme/nh, kai\ toi=a meta\ dmwh=|sin e)/eipen: <milestone n="890"
-                        unit="card"/></l>
+                <l n="890">i(eme/nh, kai\ toi=a meta\ dmwh=|sin e)/eipen: <milestone n="890" unit="card"/></l>
                 <l rend="indent">"*)=w fi/lai, h)= me/ga dh/ ti parh/liton, ou)d' e)no/hsa</l>
                 <l>mh\ i)/men a)llodapoi=si met' a)ndra/sin, oi(/ t' e)pi\ gai=an</l>
                 <l>h(mete/rhn strwfw=sin. a)mhxani/h| bebo/lhtai</l>
@@ -3722,8 +3677,7 @@
                 <l>e)/ssetai, w(s dh\ kai\ pri\n *)aghnori/dhs fa/to *fineu/s.</l>
                 <l>nw=i d', e)gw\n *)/argos te, dedegme/noi, eu)=t' a)\n i(/khai,</l>
                 <l n="945">tw=|d' au)tw=| e)ni\ xw/rw| a)pesso/meq': oi)o/qi d' au)to\s</l>
-                <l>li/sseo/ min pukinoi=si paratrope/wn e)pe/essin." <milestone n="946" unit="card"
-                    /></l>
+                <l>li/sseo/ min pukinoi=si paratrope/wn e)pe/essin." <milestone n="946" unit="card"/></l>
                 <l rend="indent">*)=h r(a perifrade/ws, e)pi\ de\ sxedo\n h)/|neon a)/mfw.</l>
                 <l>ou)d' a)/ra *mhdei/hs qumo\s tra/pet' a)/lla noh=sai,</l>
                 <l>melpome/nhs per o(/mws: pa=sai de/ oi(, h(/ntin' a)qu/roi</l>
@@ -3784,8 +3738,7 @@
                 <l>pa/nnuxos ou)rani/oisin e(li/ssetai ei)dw/loisin.</l>
                 <l n="1005">w(=s kai\ soi\ qeo/qen xa/ris e)/ssetai, ei)/ ke saw/sh|s</l>
                 <l>to/sson a)risth/wn a)ndrw=n sto/lon. h)= ga\r e)/oikas</l>
-                <l>e)k morfh=s a)ganh=|sin e)phtei/h|si keka/sqai." <milestone n="1007" unit="card"
-                    /></l>
+                <l>e)k morfh=s a)ganh=|sin e)phtei/h|si keka/sqai." <milestone n="1007" unit="card"/></l>
                 <l rend="indent">*(=ws fa/to kudai/nwn: h( d' e)gklido\n o)/sse balou=sa</l>
                 <l>nekta/reon mei/dhs' e)xu/qh de/ oi( e)/ndoqi qumo\s</l>
                 <l n="1010">ai)/nw| a)eirome/nhs, kai\ a)ne/draken o)/mmasin a)/nthn:</l>
@@ -3840,8 +3793,7 @@
                 <l>a)llh/lous: kai\ d' au)to\s e)pei/geo dhioth=tos</l>
                 <l n="1060">i)qu=sai. to\ de\ kw=as e)s *(ella/da toi=o/ g' e(/khti</l>
                 <l>oi)/seai e)c *ai)/hs thlou= poqi/: ni/sseo d' e)/mphs,</l>
-                <l>h(=| fi/lon, h)/ toi e(/aden a)formhqe/nti ne/esqai." <milestone n="1062"
-                        unit="card"/></l>
+                <l>h(=| fi/lon, h)/ toi e(/aden a)formhqe/nti ne/esqai." <milestone n="1062" unit="card"/></l>
                 <l rend="indent">*(=ws a)/r' e)/fh, kai\ si=ga podw=n pa/ros o)/sse balou=sa</l>
                 <l>qespe/sion liaroi=si parhi/da da/krusi deu=en</l>
                 <l n="1065">murome/nh, o(/ t' e)/mellen a)po/proqi pollo\n e(oi=o</l>
@@ -3896,8 +3848,7 @@
                 <l>e)nqe/nd' ei)s *)iawlko\n a)narpa/casai a)/ellai,</l>
                 <l n="1115">o)/fra s', e)n o)fqalmoi=sin e)legxei/as profe/rousa,</l>
                 <l>mnh/sw e)mh=| i)o/thti pefugme/non. ai)/qe ga\r ei)/hn</l>
-                <l>a)profa/tws to/te soi=sin e)fe/stios e)n mega/roisin." <milestone n="1117"
-                        unit="card"/></l>
+                <l>a)profa/tws to/te soi=sin e)fe/stios e)n mega/roisin." <milestone n="1117" unit="card"/></l>
                 <l rend="indent">*(=ws a)/r' e)/fh, e)leeina\ kataproxe/ousa pareiw=n</l>
                 <l>da/krua: th\n d' o(/ge dh=qen u(poblh/dhn prose/eipen:</l>
                 <l n="1120">"*daimoni/h, kenea\s me\n e)/a pla/zesqai a)e/llas,</l>
@@ -3970,8 +3921,7 @@
                 <l>*)/areos a)mw/ontos o(/soi u(po\ douri\ li/ponto:</l>
                 <l>tou\s de\ to/t' *ai)h/ths e)/poren meta\ nh=a fe/resqai</l>
                 <l>profrone/ws, e)pei\ ou)/ min o)i/ssato pei/rat' a)e/qlou</l>
-                <l n="1190">e)canu/sein, ei) kai/ per e)pi\ zuga\ bousi\ ba/loito. <milestone
-                        n="1190" unit="card"/></l>
+                <l n="1190">e)canu/sein, ei) kai/ per e)pi\ zuga\ bousi\ ba/loito. <milestone n="1190" unit="card"/></l>
                 <l rend="indent">*)he/lios me\n a)/pwqen e)remnh\n du/eto gai=an</l>
                 <l>e(spe/rios, nea/tas u(pe\r a)/krias *ai)qioph/wn:</l>
                 <l>*nu\c d' i(/ppoisin e)/ballen e)/pi zuga/: toi\ de\ xameu/nas</l>
@@ -4026,8 +3976,7 @@
                 <l>u(/dwr, h)e\ kat' a)/lsos *(uanti/ou *)ogxhstoi=o,</l>
                 <l>kai/ te *kalau/reian meta\ dh=q' a(/ma ni/ssetai i(/ppois,</l>
                 <l>*pe/trhn q' *ai(moni/hn, h)\ dendrh/enta *geraisto/n:</l>
-                <l n="1245">toi=os a)/r' *ai)h/ths *ko/lxwn a)go\s h)=en i)de/sqai. <milestone
-                        n="1245" unit="card"/></l>
+                <l n="1245">toi=os a)/r' *ai)h/ths *ko/lxwn a)go\s h)=en i)de/sqai. <milestone n="1245" unit="card"/></l>
                 <l rend="indent">*to/fra de\ *mhdei/hs u(poqhmosu/nh|sin *)ih/swn</l>
                 <l>fa/rmaka mudh/nas h)me\n sa/kos a)mfepa/lunen</l>
                 <l>h)de\ do/ru briaro/n, peri\ de\ ci/fos: a)mfi\ d' e(tai=roi</l>
@@ -4248,8 +4197,7 @@
                 <l>farmaki/des: tromerw=| d' u(po\ dei/mati pa/lleto qumo/s.</l>
                 <l>th\n de\ ne/on *tithni\s a)nerxome/nh pera/thqen</l>
                 <l n="55">foitale/hn e)sidou=sa qea\ e)pexh/rato *mh/nh</l>
-                <l>a(rpale/ws, kai\ toi=a meta\ fresi\n h(=|sin e)/eipen: <milestone n="57"
-                        unit="card"/></l>
+                <l>a(rpale/ws, kai\ toi=a meta\ fresi\n h(=|sin e)/eipen: <milestone n="57" unit="card"/></l>
                 <l rend="indent">"*ou)k a)/r' e)gw\ mou/nh meta\ *la/tmion a)/ntron a)lu/skw,</l>
                 <l>ou)d' oi)/h kalw=| peridai/omai *)endumi/wni:</l>
                 <l>h)= qama\ dh\ kai\ sei=o ki/on doli/h|sin a)oidai=s,</l>
@@ -4301,8 +4249,7 @@
                 <l n="105">nh=a: polu\s d' o)rumagdo\s e)peigome/nwn e)la/th|sin</l>
                 <l>h)=en a)risth/wn: h( d' e)/mpalin a)i/ssousa</l>
                 <l>gai/h| xei=ras e)/teinen a)mh/xanos. au)ta\r *)ih/swn</l>
-                <l>qa/rsune/n t' e)pe/essi, kai\ i)/sxanen a)sxalo/wsan. <milestone n="109"
-                        unit="card"/></l>
+                <l>qa/rsune/n t' e)pe/essi, kai\ i)/sxanen a)sxalo/wsan. <milestone n="109" unit="card"/></l>
                 <l rend="indent">*)=hmos d' a)ne/res u(/pnon a)p' o)fqalmw=n e)ba/lonto</l>
                 <l n="110">a)gro/tai, oi(/ te ku/nessi pepoiqo/tes ou)/pote nu/kta</l>
                 <l>a)/gxauron knw/ssousin, a)leua/menoi fa/os h)ou=s,</l>
@@ -4429,8 +4376,7 @@
                 <l>h)\ plwth=s eu(ro/ntes e)/t' ei)n a(lo\s oi)/dmati nh=a,</l>
                 <l>a)/cousin, kai\ qumo\n e)niplh/sei meneai/nwn</l>
                 <l>ti/sasqai ta/de pa/nta, dah/sontai kefalh=|sin</l>
-                <l n="235">pa/nta xo/lon kai\ pa=san e(h\n u(pode/gmenoi a)/thn. <milestone n="236"
-                        unit="card"/></l>
+                <l n="235">pa/nta xo/lon kai\ pa=san e(h\n u(pode/gmenoi a)/thn. <milestone n="236" unit="card"/></l>
                 <l rend="indent">*(=ws e)/fat' *ai)h/ths: au)tw=| d' e)ni\ h)/mati *ko/lxoi</l>
                 <l>nh=a/s t' ei)ru/ssanto, kai\ a)/rmena nhusi\ ba/lonto,</l>
                 <l>au)tw=| d' h)/mati po/nton a)nh/ion: ou)de/ ke fai/hs</l>
@@ -4544,8 +4490,7 @@
                 <l>parqe/sqai kou/rh| *lhtwi/di no/sfin o(mi/lou,</l>
                 <l>ei)so/ke tis dika/sh|si qemistou/xwn basilh/wn,</l>
                 <l>ei)/te min ei)s patro\s xreiw\ do/mon au)=tis i(ka/nein,</l>
-                <l>ei)/te meq' *(ella/da gai=an a)risth/essin e(/pesqai. <milestone n="350"
-                        unit="card"/></l>
+                <l>ei)/te meq' *(ella/da gai=an a)risth/essin e(/pesqai. <milestone n="350" unit="card"/></l>
                 <l n="350" rend="indent">*)/enqa d' e)pei\ ta\ e(/kasta no/w| pempa/ssato kou/rh,</l>
                 <l>dh/ r(a/ min o)cei=ai kradi/hn e)le/lican a)ni=ai</l>
                 <l>nwleme/s: ai)=ya de\ no/sfin *)ih/sona mou=non e(tai/rwn</l>
@@ -4606,8 +4551,7 @@
                 <l>*ko/lxois h)=ra fe/rontes u(pe\r se/o no/sfin a)/naktos,</l>
                 <l>o(/s toi a)osshth/r te kasi/gnhto/s te te/tuktai:</l>
                 <l>ou)d' a)\n e)gw\ *ko/lxoisin u(pei/cw mh\ polemi/zein</l>
-                <l>a)ntibi/hn, o(/te mh/ me die\c ei)w=si ne/esqai." <milestone n="410" unit="card"
-                    /></l>
+                <l>a)ntibi/hn, o(/te mh/ me die\c ei)w=si ne/esqai." <milestone n="410" unit="card"/></l>
                 <l n="410" rend="indent">*)/isken u(possai/nwn: h( d' ou)loo\n e)/kfato mu=qon:</l>
                 <l>"*fra/zeo nu=n. xreiw\ ga\r a)eikeli/oisin e)p' e)/rgois</l>
                 <l>kai\ to/de mhti/sasqai, e)pei\ to\ prw=ton a)a/sqhn</l>
@@ -4679,8 +4623,7 @@
                 <l>tri\s d' a)pe/leice fo/nou, tri\s d' e)c a)/gos e)/ptus' o)do/ntwn,</l>
                 <l>h(\ qe/mis au)qe/nth|si doloktasi/as i(la/esqai.</l>
                 <l n="480">u(gro\n d' e)n gai/h| kru/yen ne/kun, e)/nq' e)/ti nu=n per</l>
-                <l>kei/atai o)ste/a kei=na met' a)ndra/sin *)ayurteu=sin. <milestone n="482"
-                        unit="card"/></l>
+                <l>kei/atai o)ste/a kei=na met' a)ndra/sin *)ayurteu=sin. <milestone n="482" unit="card"/></l>
                 <l rend="indent">*oi( d' a)/mudis pursoi=o se/las propa/roiqen i)do/ntes,</l>
                 <l>to/ sfin parqenikh\ te/kmar metiou=sin a)/eiren,</l>
                 <l>*kolxi/dos a)gxo/qi nho\s e(h\n para\ nh=' e)ba/lonto</l>
@@ -4748,8 +4691,7 @@
                 <l>bh= d' a(/lade *kroni/hn, au)to/xqona lao\n a)gei/ras</l>
                 <l>*faih/kwn: su\n ga/r oi( a)/nac po/rsune ke/leuqon</l>
                 <l n="550">h(/rws *nausi/qoos: to/qi d' ei(/sato, kai/ min e)/pefnon</l>
-                <l>*me/ntores, a)grau/loisin a)leco/menon peri\ bousi/n. <milestone n="550"
-                        unit="card"/></l>
+                <l>*me/ntores, a)grau/loisin a)leco/menon peri\ bousi/n. <milestone n="550" unit="card"/></l>
                 <l rend="indent">*)alla/, qeai/, pw=s th=sde pare\c a(lo/s, a)mfi/ te gai=an</l>
                 <l>*au)soni/hn nh/sous te *ligusti/das, ai(\ kale/ontai</l>
                 <l>*stoixa/des, *)argw/|hs periw/sia sh/mata nho\s</l>
@@ -4936,8 +4878,7 @@
                 <l n="735">w(/s t' a)pono/sfin a)/lucen u(pe/rbia dei/mata patro\s</l>
                 <l>su\n paisi\n *fri/coio: fo/non d' a)le/einen e)nispei=n</l>
                 <l>*)ayu/rtou. th\n d' ou)/ti no/w| la/qen: a)lla\ kai\ e)/mphs</l>
-                <l>murome/nhn e)le/airen, e)/pos d' e)pi\ toi=on e)/eipen: <milestone n="737"
-                        unit="card"/></l>
+                <l>murome/nhn e)le/airen, e)/pos d' e)pi\ toi=on e)/eipen: <milestone n="737" unit="card"/></l>
                 <l rend="indent">"*sxetli/h, h)= r(a kako\n kai\ a)eike/a mh/sao no/ston.</l>
                 <l n="740">e)/lpomai ou)k e)pi\ dh/n se baru\n xo/lon *ai)h/tao</l>
                 <l>e)kfuge/ein: ta/xa d' ei)=si kai\ *(ella/dos h)/qea gai/hs</l>
@@ -5032,8 +4973,7 @@
                 <l>nuktipo/los *(eka/th, th/n te klei/ousi *kra/taiin,</l>
                 <l n="830">mh/ pws smerdale/h|sin e)pai+/casa ge/nussin</l>
                 <l>lektou\s h(rw/wn dhlh/setai. a)ll' e)/xe nh=a</l>
-                <l>kei=s', o(/qi per tutqh/ ge parai/basis e)/sset' o)le/qrou." <milestone n="831"
-                        unit="card"/></l>
+                <l>kei=s', o(/qi per tutqh/ ge parai/basis e)/sset' o)le/qrou." <milestone n="831" unit="card"/></l>
                 <l rend="indent">*(=ws fa/to: th\n de\ *qe/tis toi/w| prosele/cato mu/qw|:</l>
                 <l>"*ei) me\n dh\ maleroi=o puro\s me/nos h)de\ qu/ellai</l>
                 <l n="835">zaxrhei=s lh/cousin e)th/tumon, h)= t' a)\n e)/gwge</l>
@@ -5085,8 +5025,7 @@
                 <l>pa=san e)fhmosu/nhn *qe/tidos mete/eipen e(tai/rois.</l>
                 <l>oi( d' a)/ra messhgu\s lh=can kai\ e)/pausan a)e/qlous</l>
                 <l>e)ssume/nws, do/rpon te xameu/nas t' a)mfepe/nonto,</l>
-                <l>th=|s e)/ni daisa/menoi nu/kt' a)/esan, w(s to\ pa/roiqen. <milestone n="883"
-                        unit="card"/></l>
+                <l>th=|s e)/ni daisa/menoi nu/kt' a)/esan, w(s to\ pa/roiqen. <milestone n="883" unit="card"/></l>
                 <l n="885" rend="indent">*)=hmos d' a)/kron e)/balle faesfo/ros ou)rano\n *)hw/s,</l>
                 <l>dh\ to/te laiyhroi=o kathlusi/h| zefu/roio</l>
                 <l>bai=non e)pi\ klhi=das a)po\ xqono/s: e)k de\ buqoi=o</l>
@@ -5254,8 +5193,7 @@
                 <l>derko/menoi tei/nousan a)mh/xanon: a)lla/ ke pa=sin,</l>
                 <l n="1050">kw=as e(lei=n memaw=tes, e)mi/cate dou/rata *ko/lxois</l>
                 <l>au)tw=| t' *ai)h/th| u(perh/nori: nu=n d' e)la/qesqe</l>
-                <l>h)nore/hs, o(/te mou=noi a)potmhge/ntes e)/asin." <milestone n="1051" unit="card"
-                    /></l>
+                <l>h)nore/hs, o(/te mou=noi a)potmhge/ntes e)/asin." <milestone n="1051" unit="card"/></l>
                 <l rend="indent">*(=ws fa/to lissome/nh: tw=n d' o(/ntina gouna/zoito,</l>
                 <l>o(/s min qarsu/nesken e)rhtu/wn a)xe/ousan.</l>
                 <l n="1055">sei=on d' e)gxei/as eu)h/keas e)n pala/mh|sin,</l>
@@ -5312,8 +5250,7 @@
                 <l>parqenikh\n me\n e)ou=san e(w=| a)po\ patri\ komi/ssai</l>
                 <l>i)qu/nw: le/ktron de\ su\n a)ne/ri porsai/nousan</l>
                 <l>ou)/ min e(ou= po/sios nosfi/ssomai: ou)de/, gene/qlhn</l>
-                <l>ei)/ tin' u(po\ spla/gxnoisi fe/rei, dh/|oisin o)pa/ssw." <milestone n="1108"
-                        unit="card"/></l>
+                <l>ei)/ tin' u(po\ spla/gxnoisi fe/rei, dh/|oisin o)pa/ssw." <milestone n="1108" unit="card"/></l>
                 <l n="1110" rend="indent">*(=ws a)/r' e)/fh: kai\ to\n me/n e)pisxedo\n eu)/nasen
                     u(/pnos.</l>
                 <l>h( d' e)/pos e)n qumw=| pukino\n ba/let': au)ti/ka d' w)=rto</l>
@@ -5374,8 +5311,7 @@
                 <l>terpwlh=s e)pe/bhmen o(/lw| podi/: su\n de/ tis ai)ei\</l>
                 <l>pikrh\ parme/mblwken e)ufrosu/nh|sin a)ni/h.</l>
                 <l>tw= kai\ tou\s glukerh=| per i)ainome/nous filo/thti</l>
-                <l>dei=m' e)/xen, ei) tele/oito dia/krisis *)alkino/oio. <milestone n="1168"
-                        unit="card"/></l>
+                <l>dei=m' e)/xen, ei) tele/oito dia/krisis *)alkino/oio. <milestone n="1168" unit="card"/></l>
                 <l n="1170" rend="indent">*)hw\s d' a)mbrosi/oisin a)nerxome/nh fae/essin</l>
                 <l>lu=e kelainh\n nu/kta di' h)e/ros: ai( d' e)ge/lassan</l>
                 <l>h)io/nes nh/soio kai\ e(rsh/essai a)/pwqen</l>
@@ -5433,8 +5369,7 @@
                 <l>a)krah\s h)w=qen u(pe\k *dio/s: oi( d' a)ne/moio</l>
                 <l n="1225">pnoih=| e)peigo/m??i)oi prote/rw qe/on. a)lla\ ga\r ou)/pw</l>
                 <l>ai)/simon h)=n e)pibh=nai *)axaii/dos h(rw/essin,</l>
-                <l>o)/fr' e)/ti kai\ *libu/hs e)pi\ pei/rasin o)tlh/seian. <milestone n="1226"
-                        unit="card"/></l>
+                <l>o)/fr' e)/ti kai\ *libu/hs e)pi\ pei/rasin o)tlh/seian. <milestone n="1226" unit="card"/></l>
                 <l rend="indent">*)/hdh me/n poqi ko/lpon e)pw/numon *)lmbrakih/wn,</l>
                 <l>h)/dh *kourh=tin e)/lipon xqo/na peptame/noisin</l>
                 <l n="1230">lai/fesi kai\ steina\s au)tai=s su\n *)exina/si nh/sous</l>
@@ -5524,8 +5459,7 @@
                 <l>e)/stan, e(/lon d' a)po\ xersi\ karh/atos h)re/ma pe/plon.</l>
                 <l n="1315">au)ta\r o(/g' ei)s e(te/rwse palimpete\s o)/mmat' e)/neiken,</l>
                 <l>dai/monas ai)desqei/s: au)to\n de/ min a)mfado\n oi)=on</l>
-                <l>meilixi/ois e)pe/essin a)tuzo/menon prose/eipon: <milestone n="1316" unit="card"
-                    /></l>
+                <l>meilixi/ois e)pe/essin a)tuzo/menon prose/eipon: <milestone n="1316" unit="card"/></l>
                 <l rend="indent">"*ka/mmore, ti/pt' e)pi\ to/sson a)mhxani/h| bebo/lhsai;</l>
                 <l>i)/dmen e)poixome/nous xru/seon de/ros: i)/dmen e(/kasta</l>
                 <l n="1320">u(mete/rwn kama/twn, o(/s' e)pi\ xqono/s, o(/ssa t' e)f' u(grh\n</l>
@@ -5630,8 +5564,7 @@
                 <l>ai)qome/nhn a)/moton lwfh/somen. ei) de/ ken au)=tis</l>
                 <l>dh/ pot' *)axaii/da gai=an i(kw/meqa nautili/h|sin,</l>
                 <l n="1420">dh\ to/te muri/a dw=ra meta\ prw/th|si qea/wn</l>
-                <l>loiba/s t' ei)lapi/nas te pare/comen eu)mene/ontes." <milestone n="1420"
-                        unit="card"/></l>
+                <l>loiba/s t' ei)lapi/nas te pare/comen eu)mene/ontes." <milestone n="1420" unit="card"/></l>
                 <l rend="indent">*(=ws fa/to lisso/menos a)dinh=| o)pi/: tai\ d' e)le/airon</l>
                 <l>e)ggu/qen a)xnume/nous: kai\ dh\ xqono\s e)cane/teilan</l>
                 <l>poi/hn pa/mprwton: poi/hs ge me\n u(yo/qi makroi\</l>
@@ -5747,8 +5680,7 @@
                 <l>e)ssume/nws make/lh|sin: e)moirh/santo de\ xai/tas</l>
                 <l>au)toi\ o(mw=s kou=rai/ te, ne/kun e)leeina\ paqo/nta</l>
                 <l n="1535">muro/menoi: tri\s d' a)mfi\ su\n e)/ntesi dinhqe/ntes</l>
-                <l>eu)= ktere/wn i)/sxonta, xuth\n e)pi\ gai=an e)/qento. <milestone n="1535"
-                        unit="card"/></l>
+                <l>eu)= ktere/wn i)/sxonta, xuth\n e)pi\ gai=an e)/qento. <milestone n="1535" unit="card"/></l>
                 <l rend="indent">*)all' o(/te dh/ r(' e)pi\ nho\s e)/ban, prh/sontos a)h/tew</l>
                 <l>a)\m pe/lagos noti/oio, po/rous t' a)petekmh/ranto</l>
                 <l>li/mnhs e)kpromolei=n *tritwni/dos, ou)/tina mh=tin</l>
@@ -5808,8 +5740,7 @@
                 <l>kai/ r(a/ oi( *ai)soni/dhn mh/lwn o(/ ti fe/rtaton a)/llwn</l>
                 <l>h)/nwgon r(e/cai kai\ e)peufhmh=sai e(lo/nta.</l>
                 <l n="1595">ai)=ya d' o(/g' e)ssume/nws e)kri/nato, kai/ min a)ei/ras</l>
-                <l>sfa/ce kata\ pru/mnhs, e)pi\ d' e)/nnepen eu)xwlh=|sin: <milestone n="1595"
-                        unit="card"/></l>
+                <l>sfa/ce kata\ pru/mnhs, e)pi\ d' e)/nnepen eu)xwlh=|sin: <milestone n="1595" unit="card"/></l>
                 <l rend="indent">"*dai=mon, o(/tis li/mnhs e)pi\ pei/rasi th=sd' e)faa/nqhs,</l>
                 <l>ei)/te se/ge *tri/twn', a(/lion te/ras, ei)/te se *fo/rkun,</l>
                 <l>h)\ *nhrh=a qu/gatres e)piklei/ous' a(losu/dnai,</l>
@@ -5943,8 +5874,7 @@
                 <l>kertomi/h kai\ nei=kos e)pesbo/lon. e)k de/ nu kei/nhs</l>
                 <l>molph=s h(rw/wn nh/sw| e)/ni toi=a gunai=kes</l>
                 <l>a)ndra/si dhrio/wntai, o(/t' *)apo/llwna quhlai=s</l>
-                <l n="1730">*ai)glh/thn *)ana/fhs timh/oron i(la/skwntai. <milestone n="1729"
-                        unit="card"/></l>
+                <l n="1730">*ai)glh/thn *)ana/fhs timh/oron i(la/skwntai. <milestone n="1729" unit="card"/></l>
                 <l rend="indent">*)all' o(/te dh\ ka)kei=qen u(peu/dia pei/smat' e)/lusan,</l>
                 <l>mnh/sat' e)/peit' *eu)/fhmos o)nei/ratos e)nnuxi/oio,</l>
                 <l>a(zo/menos *mai/hs ui(=a kluto/n. ei)/sato ga/r oi(</l>

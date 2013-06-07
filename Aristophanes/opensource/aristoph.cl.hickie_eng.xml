@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd" >
-%PersDrama;
+<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd">
 ]>
 <TEI.2>
 <teiHeader>
@@ -34,8 +33,7 @@
 </fileDesc>
 <encodingDesc>
 <refsDecl>
-<step refunit="line"
-      from="DESCENDANT (1 L N%1)" to="DITTO" />
+<step refunit="line" from="DESCENDANT (1 L N%1)" to="DITTO"/>
 </refsDecl>
 </encodingDesc>
 

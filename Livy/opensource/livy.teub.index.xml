@@ -1,7 +1,8 @@
-<?xml version="1.0"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > %PersProse; ]>
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
+]>
 <TEI.2>
 <teiHeader type="text" status="new">
 <fileDesc>
@@ -46,7 +47,7 @@ Fragmenta. Index</title>
 <text><body><pb id="p.1" n="1"/>
 <div1 type="letter"><head>A.</head>
 
-<div2 type="entry" id="abaci-teub-1"><head>Abaci<ref n="abacus-cn"></ref></head>
+<div2 type="entry" id="abaci-teub-1"><head>Abaci<ref n="abacus-cn"/></head>
 
 <p>cum aliis luxus instrumentis primum Roman advecti <bibl n="liv. 39.6">39.6</bibl>.</p></div2>
 
@@ -2375,7 +2376,7 @@ Fragmenta. Index</title>
 
 <p><bibl n="liv. 1.56">1.56</bibl>. <bibl n="liv. 4.25">4, 25</bibl>. <bibl n="liv. 5.13">5, 13</bibl>.</p>
 <p>Pythius <bibl n="liv. 5.21">5.21</bibl>. <bibl n="liv. 23.11">23.11</bibl>. <bibl n="liv. 29.10">29.10</bibl>.</p>
-<p>consulitur. <hi></hi> <hi>et</hi> <bibl n="liv. 5.15">5.15</bibl>.</p>
+<p>consulitur. <hi/> <hi>et</hi> <bibl n="liv. 5.15">5.15</bibl>.</p>
 <p>eius responsum <bibl n="liv. 5.16">16</bibl>.</p>
 <p>decima praedae ei datur <bibl n="liv. 5.23">23</bibl>.</p>
 <p>et cratera aurea Delphos portata <bibl n="liv. 5.25">25</bibl>.</p>
@@ -3148,7 +3149,7 @@ Fragmenta. Index</title>
 <p>implorant auxilium a Romanis <bibl n="liv. 31.5">31.5</bibl>.</p>
 <p>causa belli inter Athenienses et Philippum <bibl n="liv. 31.14">14</bibl>.</p>
 <p>Philippus adversus Athenas ducit exercitum <bibl n="liv. 31.24">24</bibl></p>
-<p>omnia vaslat, <hi></hi> <hi>et</hi> 26. ultro adversus Nabin auxilia offerunt <bibl n="liv. 34.23">34.23</bibl>.</p>
+<p>omnia vaslat, <hi/> <hi>et</hi> 26. ultro adversus Nabin auxilia offerunt <bibl n="liv. 34.23">34.23</bibl>.</p>
 <p>Athenienses celeres sunt et supra vires audaces <bibl n="liv. 45.23">45.23</bibl>.</p>
 <p>literis verbisque solis valent <bibl n="liv. 31.44">31.44</bibl>.</p></div2>
 
@@ -3250,7 +3251,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="m.-atilius-regulus-teub-2"><head><persName n="3"><foreName>M.</foreName> <surname>Atilius</surname> <addName>Regulus</addName></persName></head>
 
 <p>cos. <bibl n="liv. 10.32">10.32</bibl>.</p>
-<p>eius res gestae, <hi></hi> <hi>et</hi> 33. 35. 36. ei negatur triumphus, <hi>ibid.</hi></p></div2>
+<p>eius res gestae, <hi/> <hi>et</hi> 33. 35. 36. ei negatur triumphus, <hi>ibid.</hi></p></div2>
 
 <div2 type="entry" id="m.-atilius-regulus-teub-3"><head><persName n="3"><foreName>M.</foreName> <surname>Atilius</surname> <addName>Regulus</addName></persName></head>
 
@@ -4106,7 +4107,7 @@ Fragmenta. Index</title>
 <p>Boiorum agrum invadit <persName n="2"><foreName>C.</foreName> <surname>Oppius</surname></persName>, quem caedunt <bibl n="liv. 31.2">31.2</bibl>.</p>
 <p>duce Hamilcare Poeno invadunt Placentiam <bibl n="liv. 31.10">10</bibl>.</p>
 <p>iungunt se Insubribus et Cenomanis <bibl n="liv. 32.30">32.30</bibl>.</p>
-<p>eorum agros urunt coss. <hi></hi> <hi>et</hi> 31. caedunt Romanos <bibl n="liv. 33.36">33.36</bibl>.</p>
+<p>eorum agros urunt coss. <hi/> <hi>et</hi> 31. caedunt Romanos <bibl n="liv. 33.36">33.36</bibl>.</p>
 <p>eorum agros populantur Romani <bibl n="liv. 33.37">37</bibl>.</p>
 <p>vincuntur, ita ut vix nuntius cladis relictus sit, <bibl n="liv. 33.37">ibid.</bibl></p>
 <p>caeduntur a <persName n="2"><foreName>L.</foreName> <surname>Valerio</surname></persName> <bibl n="liv. 34.22">34.22</bibl> et <bibl n="liv. 34.46">46</bibl></p>
@@ -4189,7 +4190,7 @@ Fragmenta. Index</title>
 
 <p>oppidum <bibl n="liv. 9.28">9.28</bibl>. <bibl n="liv. 25.13">25.13</bibl>.</p>
 <p>caput Pentrorum Samnitium longe ditissimum <bibl n="liv. 9.31">9.31</bibl>.</p>
-<p>capitur a Romanis, <hi></hi> <hi>cf.</hi> et <bibl n="liv. 9.44">9.44</bibl>. <bibl n="liv. 10.12">10.12</bibl>.</p></div2>
+<p>capitur a Romanis, <hi/> <hi>cf.</hi> et <bibl n="liv. 9.44">9.44</bibl>. <bibl n="liv. 10.12">10.12</bibl>.</p></div2>
 
 <div2 type="entry" id="bovillae-teub-1"><head>Bovillae</head>
 
@@ -4859,7 +4860,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="canusium-teub-1"><head><ref n="canusium-geo">Canusium</ref></head>
 
 <p>fugiunt superstites post proelium ad Cannas Romani <bibl n="liv. 22.50">22.50</bibl> et <bibl n="liv. 22.52">52</bibl></p>
-<p>ad Canusium Marcellus Hannibali occurrit, <hi></hi> <hi>cf.</hi> et <bibl n="liv. 27.42">27.42</bibl>.</p></div2>
+<p>ad Canusium Marcellus Hannibali occurrit, <hi/> <hi>cf.</hi> et <bibl n="liv. 27.42">27.42</bibl>.</p></div2>
 
 <div2 type="entry" id="capena-teub-1"><head>Capena</head>
 
@@ -5917,7 +5918,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="circeii-teub-1"><head><ref n="circeii-geo">Circeii</ref></head>
 
 <p><bibl n="liv. 1.56">1.56</bibl>. <bibl n="liv. 2.39">2.39</bibl>.</p>
-<p>colonos Rom. inde expellit Marcius Coriolanus, et urbem Volscis tradit, <hi></hi> <hi>cf.</hi> et <bibl n="liv. 27.9">27.9</bibl>. <bibl n="liv. 29.15">29.15</bibl>.</p>
+<p>colonos Rom. inde expellit Marcius Coriolanus, et urbem Volscis tradit, <hi/> <hi>cf.</hi> et <bibl n="liv. 27.9">27.9</bibl>. <bibl n="liv. 29.15">29.15</bibl>.</p>
 <p>de Circeiis, quod pecuniam militesque Romanis negarant, senatusconsultum <bibl n="liv. 29.15">ibid.</bibl></p></div2>
 
 <div2 type="entry" id="circeienses-teub-1"><head><ref n="circeii-geo">Circeienses</ref></head>
@@ -8570,7 +8571,7 @@ Fragmenta. Index</title>
 <p>Salapiae princeps, favet Hannibali <bibl n="liv. 26.38">26.38</bibl>.</p>
 <p>eum de proditione appellat Blasius, <bibl n="liv. 26.38">ibid.</bibl></p></div2>
 
-<div2 type="entry" id="dassarenses-teub-1"><head>Dassarenses, iidem, ut videtur cum Dassaretiis, qui mox sequuntur.<ref n="dassaretae-geo"></ref></head>
+<div2 type="entry" id="dassarenses-teub-1"><head>Dassarenses, iidem, ut videtur cum Dassaretiis, qui mox sequuntur.<ref n="dassaretae-geo"/></head>
 
 <p>populus <bibl n="liv. 45.26">45.26</bibl>.</p></div2>
 
@@ -9569,7 +9570,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="epulones-teub-1"><head><ref n="epulones-cn">Epulones</ref></head>
 
 <p>triumviri quando primum creati <bibl n="liv. 33.42">33.42</bibl>.</p>
-<p>iis, ut pontificibus, datum ius togae practextae habendae, <hi></hi> <hi>cf.</hi> et <bibl n="liv. 40.42">40.42</bibl>.</p></div2>
+<p>iis, ut pontificibus, datum ius togae practextae habendae, <hi/> <hi>cf.</hi> et <bibl n="liv. 40.42">40.42</bibl>.</p></div2>
 
 <div2 type="entry" id="epulum-teub-1"><head>Epulum</head>
 
@@ -11939,7 +11940,7 @@ Fragmenta. Index</title>
 <p>Gomphorum expeditio ingentem terrorem affert Thessalis <bibl n="liv. 32.14">32.14</bibl>.</p>
 <p>Gomphos capit Amynander, <bibl n="liv. 32.14">ibid.</bibl></p></div2>
 
-<div2 type="entry" id="gonni-sive-gonnus-teub-1"><head>Gonni, sive Gonnus<ref n="gonnus-geo"></ref></head>
+<div2 type="entry" id="gonni-sive-gonnus-teub-1"><head>Gonni, sive Gonnus<ref n="gonnus-geo"/></head>
 
 <p>33, 10. <bibl n="liv. 36.10">36.10</bibl>. <bibl n="liv. 42.54">42.54</bibl>.</p>
 <p>oppidum. situm in faucibus. qua Tempe adeunt, <bibl n="liv. 42.54">ibid.</bibl> et <bibl n="liv. 36.10">36.10</bibl>. <bibl n="liv. 42.67">42.67</bibl>. <bibl n="liv. 44.6">44.6</bibl>.</p></div2>
@@ -12936,7 +12937,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="m.-horatius-pulvillus-teub-1"><head><ref n="horatia-gens-bio-1"><persName n="3"><foreName>M.</foreName> <surname>Horatius</surname> <addName>Pulvillus</addName></persName></ref></head>
 
 <p>cos. creatur <bibl n="liv. 2.8">2.8</bibl>.</p>
-<p>dedicat acdem lovis in Capitolio, <hi></hi> <hi>cf.</hi> et <bibl n="liv. 7.3">7.3</bibl>.</p></div2>
+<p>dedicat acdem lovis in Capitolio, <hi/> <hi>cf.</hi> et <bibl n="liv. 7.3">7.3</bibl>.</p></div2>
 
 <div2 type="entry" id="m.-horatius-teub-1"><head><persName n="2"><foreName>M.</foreName> <surname>Horatius</surname></persName></head>
 
@@ -13046,7 +13047,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="hostius-hostilius-teub-1"><head><ref n="hostilius-hostus-bio-1"><persName n="NAMEus-a NAMEius"><foreName>Hostius</foreName> <surname>Hostilius</surname></persName></ref></head>
 
 <p>rem Romanam iniquo loco contra Mettum Curtium sustinet <bibl n="liv. 1.12">1.12</bibl>.</p>
-<p>cadit, <hi></hi> <hi>cf. et</hi> 22.</p></div2>
+<p>cadit, <hi/> <hi>cf. et</hi> 22.</p></div2>
 
 <div2 type="entry" id="hyampolis-teub-1"><head><ref n="hyampolis-geo">Hyampolis</ref></head>
 
@@ -13229,7 +13230,7 @@ Fragmenta. Index</title>
 <p>acriter resistunt oppidant, <bibl n="liv. 28.19">ibid.</bibl></p>
 <p>urbs capitur, <bibl n="liv. 28.19">ibid.</bibl></p>
 <p>tum etiam arx <bibl n="liv. 28.20">20</bibl>.</p>
-<p>oppidani ad internecionem delentur, et urbs incenditur, <hi></hi> <hi>cf.</hi> et <bibl n="liv. 34.10">34.10</bibl>.</p></div2>
+<p>oppidani ad internecionem delentur, et urbs incenditur, <hi/> <hi>cf.</hi> et <bibl n="liv. 34.10">34.10</bibl>.</p></div2>
 
 <div2 type="entry" id="iliturgitani-teub-1"><head>Iliturgitani</head>
 
@@ -13465,7 +13466,7 @@ Fragmenta. Index</title>
 <div2 type="entry" id="interregnum-teub-1"><head><ref n="interrex-cn">Interregnum</ref></head>
 
 <p>unde dictum ? <bibl n="liv. 1.17">1.17</bibl>.</p>
-<p>interregna <bibl n="liv. 1.17">1.17</bibl> et <bibl n="liv. 1.22"></bibl>, <bibl n="liv. 3.8">3.8</bibl>. <bibl n="liv. 4.7">4.7</bibl>. <bibl n="liv. 4.43">43</bibl> et <bibl n="liv. 4.51">51</bibl>, <bibl n="liv. 5.17">5.17</bibl> et <bibl n="liv. 5.31">31</bibl>. <bibl n="liv. 6.1">6.1</bibl>. <bibl n="liv. 6.5">5</bibl> et <bibl n="liv. 6.36">36</bibl>. <bibl n="liv.7.17">7.17</bibl>. <bibl n="liv. 7.21">7.21</bibl> et <bibl n="liv. 7.28">28</bibl>, <bibl n="liv. 8.3">8.3</bibl>. <bibl n="liv. 8.17">17</bibl> et <bibl n="liv. 8.23">23</bibl>. <bibl n="liv. 9.7">9.7</bibl>, <bibl n="liv. 10.11">10.11</bibl>. <bibl n="liv. 10.22">22</bibl>. <bibl n="liv. 10.23">10.23</bibl>.</p></div2>
+<p>interregna <bibl n="liv. 1.17">1.17</bibl> et <bibl n="liv. 1.22"/>, <bibl n="liv. 3.8">3.8</bibl>. <bibl n="liv. 4.7">4.7</bibl>. <bibl n="liv. 4.43">43</bibl> et <bibl n="liv. 4.51">51</bibl>, <bibl n="liv. 5.17">5.17</bibl> et <bibl n="liv. 5.31">31</bibl>. <bibl n="liv. 6.1">6.1</bibl>. <bibl n="liv. 6.5">5</bibl> et <bibl n="liv. 6.36">36</bibl>. <bibl n="liv.7.17">7.17</bibl>. <bibl n="liv. 7.21">7.21</bibl> et <bibl n="liv. 7.28">28</bibl>, <bibl n="liv. 8.3">8.3</bibl>. <bibl n="liv. 8.17">17</bibl> et <bibl n="liv. 8.23">23</bibl>. <bibl n="liv. 9.7">9.7</bibl>, <bibl n="liv. 10.11">10.11</bibl>. <bibl n="liv. 10.22">22</bibl>. <bibl n="liv. 10.23">10.23</bibl>.</p></div2>
 
 <div2 type="entry" id="interrex-teub-1"><head><ref n="interrex-cn">Interrex</ref></head>
 
@@ -14880,7 +14881,7 @@ Fragmenta. Index</title>
 <p>sua ipsius lege damnatur <bibl n="liv. 7.16">16</bibl></p>
 <p>primus mag equit. de plebe creatur <bibl n="liv. 10.8">10.8</bibl>. <hi>cf.</hi> et <bibl n="liv. 6.39">6.39</bibl>.</p></div2>
 
-<div2 type="entry" id="c.-licinius-crassus-teub-1"><head><ref n="crassus-claudius-bio-3"><persName n="3"><foreName>C.</foreName> <surname>Licinius</surname> <addName>Crassus</addName></persName><ref n="crassus-claudius-bio-3"></ref></ref></head>
+<div2 type="entry" id="c.-licinius-crassus-teub-1"><head><ref n="crassus-claudius-bio-3"><persName n="3"><foreName>C.</foreName> <surname>Licinius</surname> <addName>Crassus</addName></persName><ref n="crassus-claudius-bio-3"/></ref></head>
 
 <p>praetor. sortitur iurisdictionem urbanam <bibl n="liv. 42.9">42.9</bibl> et <bibl n="liv. 42.10">10</bibl></p>
 <p>reficit classem <bibl n="liv. 42.27">27</bibl></p>
@@ -24460,16 +24461,16 @@ Fragmenta. Index</title>
 <p>de eius obitu varia fama <bibl n="liv. 25.17">17</bibl>.</p>
 <p>item de eius funere, <bibl n="liv. 25.17">ibid.</bibl></p></div2>
 
-<div2 type="entry" id="ti.-sempronius-gracchus-teub-1"><head><ref n="gracchus-bio-4">><ref n="gracchus-bio-4"><persName n="3"><foreName>Ti.</foreName> <surname>Sempronius</surname> <addName>Gracchus</addName></persName></ref></ref></head>
+<div2 type="entry" id="ti.-sempronius-gracchus-teub-1"><head><ref n="gracchus-bio-4">&gt;<ref n="gracchus-bio-4"><persName n="3"><foreName>Ti.</foreName> <surname>Sempronius</surname> <addName>Gracchus</addName></persName></ref></ref></head>
 
 <p>admodum adolescens, augur creatur in locum <persName n="3"><foreName>M.</foreName> <surname>Pomponii</surname> <addName>Mathonis</addName></persName> <bibl n="liv. 29.38">29.38</bibl>.</p>
 <p>moritur <bibl n="liv. 41.26">41.26</bibl>.</p></div2>
 
-<div2 type="entry" id="ti.-sempronius-gracchus-teub-2"><head>><ref n="gracchus-bio-5"><persName n="3"><foreName>Ti.</foreName> <surname>Sempronius</surname> <addName>Gracchus</addName></persName></ref></head>
+<div2 type="entry" id="ti.-sempronius-gracchus-teub-2"><head>&gt;<ref n="gracchus-bio-5"><persName n="3"><foreName>Ti.</foreName> <surname>Sempronius</surname> <addName>Gracchus</addName></persName></ref></head>
 
 <p>praefectus socium cadit in proelio cum Boiis <bibl n="liv. 33.36">33.36</bibl>.</p></div2>
 
-<div2 type="entry" id="ti.-sempronius-gracchus-teub-3"><head>><ref n="gracchus-bio-6"><persName n="3"><foreName>Ti.</foreName> <surname>Sempronius</surname> <addName>Gracchus</addName></persName></ref></head>
+<div2 type="entry" id="ti.-sempronius-gracchus-teub-3"><head>&gt;<ref n="gracchus-bio-6"><persName n="3"><foreName>Ti.</foreName> <surname>Sempronius</surname> <addName>Gracchus</addName></persName></ref></head>
 
 <p>acer iuvenis, legatus mittitur ad Philippum <bibl n="liv. 37.7">37.7</bibl>.</p>
 <p>ab eo comiter accipitur, <bibl n="liv. 37.7">ibid.</bibl></p>

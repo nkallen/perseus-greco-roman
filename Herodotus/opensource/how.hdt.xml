@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -371,7 +370,7 @@ Baal).</p></div3>
 <p>This dynasty traced back its descent to the god <foreign lang="greek">*mh/n</foreign> (J. H. S.
 xix. 80); it has a more genuine sound than that of the Heracleids
 above. The dynasty was
-<figure></figure></p>
+<figure/></p>
 <p>If Cotys be rightly connected with the Thracian goddess Cotytto,
 whose rites (Strabo, 470) were like those of the Phrygian Cybele,
 then the genealogy may represent the combination of the European
@@ -5051,7 +5050,7 @@ travelled straight by boat from Thapsacus to Babylon (cf. Grote,
 <foreign rend="ital">u. s.</foreign>), and the villages he passed were no doubt as much alike as
 castles on the Rhine to-day. Matzat (p. 445), however, very ingeniously 
 tries to prove that H.'s statement is possible. The river runs
-thus <figure></figure>, each bend being fourteen to eighteen miles
+thus <figure/>, each bend being fourteen to eighteen miles
 long (+ = site of Ardericca; 1, 2, 3 = the position of the boat on
 three following days). He finds a confirmation of these windings
 in 179. 4 (q. v.), the distance of Is from Babylon.</p>
@@ -9538,15 +9537,15 @@ Labyrinth.</p></div3>
 <p>H.'s measurements of the pyramids can best be estimated from
 the following table (fractions are neglected):
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1"><hi rend="ital">Petrie</hi></cell><cell cols="1" role="data" rows="1"><hi rend="ital">Herodotus</hi></cell><cell cols="1" role="data" rows="1"><hi rend="ital">Diodorus</hi> i.63</cell><cell cols="1" role="data" rows="1"><hi rend="ital">Pliny</hi></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1"><hi rend="ital">Petrie</hi></cell><cell cols="1" role="data" rows="1"><hi rend="ital">Herodotus</hi></cell><cell cols="1" role="data" rows="1"><hi rend="ital">Diodorus</hi> i.63</cell><cell cols="1" role="data" rows="1"><hi rend="ital">Pliny</hi></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1"><hi rend="ital">Great Pyramid.</hi></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Length of side (average)</cell><cell cols="1" role="data" rows="1">756</cell><cell cols="1" role="data" rows="1">800</cell><cell cols="1" role="data" rows="1">700</cell><cell cols="1" role="data" rows="1">883</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Height (original) (present 451)</cell><cell cols="1" role="data" rows="1">481</cell><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">more than 600</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Height (along sloping side<note anchored="yes" n="1">[It seems to be generally agreed that this is the height given by H.; it is calculated as 19/20 of the base.]</note></cell><cell cols="1" role="data" rows="1">720 (circ.)</cell><cell cols="1" role="data" rows="1">800</cell><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1"><hi rend="ital">Second Pyramid.</hi></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Length of side</cell><cell cols="1" role="data" rows="1">706</cell><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">600</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Length of side</cell><cell cols="1" role="data" rows="1">706</cell><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">600</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Height (present 469)</cell><cell cols="1" role="data" rows="1">472</cell><cell cols="1" role="data" rows="1">&lsquo;40 feet in size inferior to the other&rsquo; (127.3), i.e. along sloping side</cell><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1">Height (along sloping side)</cell><cell cols="1" role="data" rows="1">670 (circ.)</cell><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1">Height (along sloping side)</cell><cell cols="1" role="data" rows="1">670 (circ.)</cell><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1"><hi rend="ital">Pyramid of Mycerinus.</hi></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Length of side</cell><cell cols="1" role="data" rows="1">346</cell><cell cols="1" role="data" rows="1">280</cell><cell cols="1" role="data" rows="1">300</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Height</cell><cell cols="1" role="data" rows="1">215</cell><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">&mdash;</cell><cell cols="1" role="data" rows="1">&mdash;</cell></row>
@@ -17993,13 +17992,13 @@ B. C. The chronology which suits H.'s narrative best is Stein's
 from whom Abbott (Exc. xiii) varies only as to the first years.
 <table>
 <row role="data"><cell cols="1" role="data" rows="1">499.</cell><cell cols="1" role="data" rows="1">Spring. Expedition to Naxos. Four months' siege (v. 31-4).</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Autumn. Revolt of Aristagoras. Deposition of the tyrants
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Autumn. Revolt of Aristagoras. Deposition of the tyrants
 (v. 36-8).</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Winter. Aristagoras seeks help at Sparta and Athens (v. 38,
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Winter. Aristagoras seeks help at Sparta and Athens (v. 38,
 97).</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">498.</cell><cell cols="1" role="data" rows="1">Burning of Sardis. Battle of Ephesus (v. 99-102). Defection
 of Athens (v. 103).</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Spread of the revolt to Byzantium, Caria, and Cyprus.
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Spread of the revolt to Byzantium, Caria, and Cyprus.
 <pb n="13"/></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">497.</cell><cell cols="1" role="data" rows="1">Persian successes in Cyprus and Asia Minor (v. 108-123).
 Flight and death of Aristagoras (v. 124-6; <bibl n="Thuc. 4.102">Thuc. iv. 102</bibl>).
@@ -20519,7 +20518,7 @@ and Phoenician civilization of its own. Cf. Excavations in Cyprus
 (B. M.), at Paphos (J. H. S. ix. 147 f.), and at Salamis (J. H. S.
 xii. 59 f.); Myres, Catalogue of the Cyprus Museum.</p>
 <div3 id="c.5.104.1" type="section" n="1">
-<p>H. gives us the following genealogy of the kings of Salamis: <figure></figure></p>
+<p>H. gives us the following genealogy of the kings of Salamis: <figure/></p>
 <p>But Euelthon is king in the days of Arcesilaus III of Cyrene
 (iv. 162); so it is hardly possible that his great-grandson should
 have reached man's estate in 498 B. C. It has therefore been
@@ -21420,7 +21419,7 @@ were afterwards recognized as Philaidae, there was probably
 relationship by descent or adoption on the father's side also. The
 genealogy as given by H. is:
 <pb n="77"/>
-<figure></figure></p>
+<figure/></p>
 <p><lemma lang="greek" targOrder="U">w(s no/mos oi)kisth=|</lemma>. On hero-worship cf. <ref target="c.5.47" targOrder="U">v. 47 n.</ref>, 114.</p></div3>
 <div3 id="c.6.38.2" type="section" n="2">
 <p><lemma lang="greek" targOrder="U">u(po/qermote/rou</lemma>: perhaps &lsquo;passionate beneath the surface&rsquo;, as
@@ -23557,7 +23556,7 @@ the tyranny was held only by Orthagoras (Andreas) and his sons.
 But as it lasted a century (Ar. <foreign rend="ital">l. c.</foreign>, Diod. viii. fr. 24 = Ephorus) the
 genealogy here given seems preferable. (See note, p. 415.)
 <pb n="117"/>
-<figure></figure></p>
+<figure/></p>
 <p>Myron II made himself hated by his oppressive rule; after
 a rule of seven years he was slain by his brothers, and succeeded
 by the younger (? Ephorus) of them, Cleisthenes, who reigned for
@@ -28724,7 +28723,7 @@ of 5,283,220 men amounts (at 48 choenices to the medimnus) not to
 correctly, getting the result 1,100, but in dividing the 3,220 by 48 he
 <pb n="214"/>
 put his penultimate remainder 340 in place of the true quotient 67 1/12,
-as may be seen by doing the sum. <figure></figure></p>
+as may be seen by doing the sum. <figure/></p>
 <p>For other errors of calculation cf. <ref target="c.1.30" targOrder="U">i. 30 n.</ref></p></div3></div2>
 <div2 id="c.7.188" type="chapter" n="188">
 <p>Tarn (J. H. S. xxviii. 212-15) regards the whole account of the
@@ -32212,7 +32211,7 @@ three hundred the Phoenician squadron sent home later (ix. 96. 1).</p></div3></d
 <p>Cf. the list of Agiadae, vii. 204. The first king among the
 ancestors of Leotychides is Theopompus, the seven more immediate
 ancestors of Leotychides belonging to the younger branch, which
-gained the throne by the deposition of Demaratus (cf. vi. 65. 2). <figure></figure></p>
+gained the throne by the deposition of Demaratus (cf. vi. 65. 2). <figure/></p>
 <p><lemma lang="greek" targOrder="U">*eu)no/mou tou= *polude/ktew</lemma>. It has been held that Eunomus is a
 mere pseudonym for Lycurgus, who created <foreign lang="greek">eu)nomi/a</foreign>, and should be
 ejected from the lists; the order is reversed in <bibl n="Paus. 3.7.2">Paus. iii. 7. 2</bibl>; Plut.
@@ -32826,7 +32825,7 @@ and with the orders no doubt given to Cleombrotus. The return
 home was due to the approach of winter, during which a Greek
 force was always disbanded. They then came back to complete
 the wall in the spring.</p>
-<p><lemma lang="greek" targOrder="U">*eu)rua/nakta</lemma>. The genealogy implied seems to be <figure></figure></p>
+<p><lemma lang="greek" targOrder="U">*eu)rua/nakta</lemma>. The genealogy implied seems to be <figure/></p>
 <p>but if Euryanax be the son of Dorieus who fell in Sicily (cf. v. 41-6)
 he should have been king before Leonidas. Perhaps Dorieus
 by going abroad (cf. <ref target="c.6.70.1" targOrder="U">vi. 70. 1 n.</ref>) forfeited the throne or renounced
@@ -34594,7 +34593,7 @@ It is far more likely that states whose contingents were very small
 were left out, unless, like the Tenians, they rendered signal service
 (cf. viii. 82). Indeed, it would appear from the fact that the names
 <pb n="323"/>
-<figure></figure></p>
+<figure/></p>
 <p>N.B.&mdash;Those italicized in list 3 do not appear on either inscription; those in list 1 are
 not found in list 2.</p>
 <p>* indicates a marked difference in order from list 1.

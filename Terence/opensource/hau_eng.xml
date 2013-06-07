@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd" >
-%PersDrama;
+<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -117,15 +116,12 @@ new texts
         <body>
             <castList>
                 <castItem type="role">
-                    <role>CHREMES,<note anchored="yes">From <foreign lang="greek"
-                                >xre/mptomai,</foreign> "to spit."</note>
+                    <role>CHREMES,<note anchored="yes">From <foreign lang="greek">xre/mptomai,</foreign> "to spit."</note>
                     </role>
                     <roleDesc>an old gentleman, living in the country.</roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role>MENEDEMUS,<note anchored="yes">From <foreign lang="greek"
-                            >meno\s</foreign>, "strength," and <foreign lang="greek"
-                                >dh~mos,</foreign>, "the people."</note>
+                    <role>MENEDEMUS,<note anchored="yes">From <foreign lang="greek">meno\s</foreign>, "strength," and <foreign lang="greek">dh~mos,</foreign>, "the people."</note>
                     </role>
                     <roleDesc>an old gentleman, his neighbor.</roleDesc>
                 </castItem>
@@ -137,9 +133,7 @@ new texts
                     <roleDesc>son of Menedemus.</roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role>CLITIPHO,<note anchored="yes">From <foreign lang="greek"
-                                >kleito\s,</foreign> "illustrious," and <foreign lang="greek"
-                                >fw~s,</foreign> "light."</note>
+                    <role>CLITIPHO,<note anchored="yes">From <foreign lang="greek">kleito\s,</foreign> "illustrious," and <foreign lang="greek">fw~s,</foreign> "light."</note>
                     </role>
                     <roleDesc>son of Chremes.</roleDesc>
                 </castItem>
@@ -150,8 +144,7 @@ new texts
                     <roleDesc>son of Clinia.</roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role>SYRUS,<note anchored="yes">From <placeName key="tgn,1000140"
-                                >Syria</placeName>, his native country.</note>
+                    <role>SYRUS,<note anchored="yes">From <placeName key="tgn,1000140">Syria</placeName>, his native country.</note>
                     </role>
                     <roleDesc>servant of Clitipho.</roleDesc>
                 </castItem>
@@ -162,9 +155,7 @@ new texts
                     <roleDesc>wife of Chremes.</roleDesc>
                 </castItem>
                 <castItem type="role">
-                    <role>ANTIPHILA,<note anchored="yes">From <foreign lang="greek"
-                                >a)nti\,</foreign> "in return," and <foreign lang="greek"
-                                >filw~</foreign>), "to love."</note>
+                    <role>ANTIPHILA,<note anchored="yes">From <foreign lang="greek">a)nti\,</foreign> "in return," and <foreign lang="greek">filw~</foreign>), "to love."</note>
                     </role>
                     <roleDesc>a young woman beloved by Clinia.</roleDesc>
                 </castItem>
@@ -246,10 +237,8 @@ new texts
                         Ambivius Turpio performed it. Flaccus, the freedman of Claudius, composed
                         the music. The first time it was performed to the music of treble and bass
                         flutes; the second time, of two treble flutes. It was acted three times;
-                        Marcus Juventius and Titus Sempronius being Consuls.<note anchored="yes"
-                            >Being Consuls)--M. Juventius Thalna and Ti. Sempronius Gracchus were
-                            Consuls in the year from the Building of the City 589, and B.C. <date
-                                value="-164">164</date>.</note>
+                        Marcus Juventius and Titus Sempronius being Consuls.<note anchored="yes">Being Consuls)--M. Juventius Thalna and Ti. Sempronius Gracchus were
+                            Consuls in the year from the Building of the City 589, and B.C. <date value="-164">164</date>.</note>
                         <stage>HEAUTONTIMORUMENOS;</stage>
                         <stage>THE SELF-TORMENTOR.</stage>
                     </p>
@@ -275,15 +264,13 @@ new texts
                     <sp>
                         <speaker>THE PROLOGUE.</speaker>
                         <p>LEST it should be a matter of surprise to any one of you, why the Poet
-                            has assigned to an old man<milestone n="1" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Assigned to an old man</lemma>:
+                            has assigned to an old man<milestone n="1" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Assigned to an old man</lemma>:
                                 He refers to the fact that the Prologue was in general spoken by
                                 young men, whereas it is here spoken by L. Ambivius Turpio, the
                                 leader of the Company, a man stricken in years. The Prologue was
                                 generally not recited by a person who performed a character in the
                                 opening Scene.</note> a part that belongs to the young, that I will
-                            first explain to you;<milestone n="3" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">That I will first explain to
+                            first explain to you;<milestone n="3" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">That I will first explain to
                                     you</lemma>: His meaning seems to be, that he will first tell
                                 them the reason why he, who is to take a part in the opening Scene,
                                 speaks the Prologue, which is usually spoken by a young man who does
@@ -293,14 +280,12 @@ new texts
                                 (orator) for the Poet, a task which would be likely to be better
                                 performed by him than by a younger man.</note> and then, the reason
                             for my coming I will disclose. An entire Play from an entire Greek
-                                one,<milestone n="4" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">From an entire Greek one</lemma>: In
+                                one,<milestone n="4" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">From an entire Greek one</lemma>: In
                                 contradistinction to such Plays as the
                                     Andria, as to which it was a subject of complaint
                                 that it had been formed out of a mixture contaminantus) of the
                                 Andrian and Perinthian of Menander.</note> the Heautontimorumenos, I
-                            am to-day about to represent, which from a two-fold plot<milestone n="6"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Which
+                            am to-day about to represent, which from a two-fold plot<milestone n="6" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Which
                                     from a two-fold plot</lemma>: Vollbehr suggests that the meaning
                                 of this line is, that though it is but one Play, it has a two-fold
                                 plot--the intrigues of two young men with two mistresses, and the
@@ -315,8 +300,7 @@ new texts
                             new, and what it is: next I would mention who it was that wrote it, and
                             whose in Greek it is, if I did not think that the greater part of you
                             are aware. Now, for what reason I have learned this part, in a few words
-                            I will explain. The Poet intended me to be a Pleader,<milestone n="11"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">To be a
+                            I will explain. The Poet intended me to be a Pleader,<milestone n="11" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">To be a
                                     Pleader</lemma>: He is to be the pleader and advocate of the
                                 Poet, to influence the Audience in his favor, and against his
                                 adversaries; and not to explain the plot of the Play. Colman has the
@@ -339,13 +323,11 @@ new texts
                             this is the case, and that he does not repent of so doing; and he
                             affirms that he will do so again. He has the example of good Poets;
                             after which example he thinks it is allowable for him to do what they
-                            have done. Then, as to a malevolent old Poet<milestone n="22"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">A
+                            have done. Then, as to a malevolent old Poet<milestone n="22" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">A
                                     malevolent old Poet</lemma>: He alludes to his old enemy, Luscus
                                 Lavinius, referred to in the preceding Prologue.</note> saying that
                             he has suddenly applied himself to dramatic pursuits, relying on the
-                            genius of his friends,<milestone n="24" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">The genius of his
+                            genius of his friends,<milestone n="24" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">The genius of his
                                     friends</lemma>: He alludes to a report which had been spread,
                                 that his friends Laelius and Scipio had published their own
                                 compositions under his name. Servilius is also mentioned by
@@ -357,8 +339,7 @@ new texts
                             prospering to those who afford you the means of being spectators of new
                             Plays; those, I mean, without faults: that he may not suppose this said
                             in his behalf who lately made the public give way to a slave as he ran
-                            along in the street;<milestone n="31" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">As he ran along in the
+                            along in the street;<milestone n="31" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">As he ran along in the
                                     street</lemma>: He probably does not intend to censure this
                                 practice entirely in Comedy, but to remind the Audience that in some
                                 recent Play of Luscus Lavinius this had been the sole stirring
@@ -372,16 +353,14 @@ new texts
                                 Charinus, to tell him that his mistress Pasicompsa has been seen in
                                 the ship by his father Demipho; in the Stichus, Pinacium, a slave,
                                 runs to inform his mistress Philumena that her husband has arrived
-                                in port, on his return from <placeName key="tgn,1000004"
-                                    >Asia</placeName>; and in the Mostellaria, Tranio, in haste,
+                                in port, on his return from <placeName key="tgn,1000004">Asia</placeName>; and in the Mostellaria, Tranio, in haste,
                                 brings information of the unexpected arrival of Theuropides. The
                                 "currens servus" is also mentioned in the Prologue to the Andria, 1. 36. See the soliloquy
                                 of Stasimus, in the Trinummus of Plautus, 1. 1007.</note> why should
                             he take a madman's part? About his faults he will say more when he
                             brings out some other new ones, unless he puts an end to his caviling.
                             Attend with favorable feelings; grant me the opportunity that I may be
-                            allowed to act a quiet Play<milestone n="36" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">A quiet Play</lemma>:
+                            allowed to act a quiet Play<milestone n="36" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">A quiet Play</lemma>:
                                 "Statariam." See thie spurious Prologue to the Bacchides of Plautus,
                                 l. 10, and the Note to the passage in Bohn's Translation. The Comedy
                                 of the Romans was either "stataria," "motoria," or "mixta."
@@ -397,8 +376,7 @@ new texts
                             nowadays, those who write new Plays do not spare an aged man. If there
                             is any piece requiring exertion, they come running to me; but if it is a
                             light one, it is taken to another Company. In the present one the style
-                            is pure. Do you make proof, what, in each character,<milestone n="47"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">What in
+                            is pure. Do you make proof, what, in each character,<milestone n="47" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">What in
                                     each character</lemma>: "In utramque partem ingenium quid possit
                                 meum." This line is entirely omitted in Vollbehr's edition; but it
                                 appears to be merely a typographical error.</note> my ability can
@@ -432,8 +410,7 @@ new texts
                             digging, or plowing, or doing something, in fact, in the fields. You
                             take respite not an instant, and are quite regardless of yourself. I am
                             very sure that this is not done for your amusement. But really I am
-                            vexed how little work is done here.<milestone n="72" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">How little work is done
+                            vexed how little work is done here.<milestone n="72" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">How little work is done
                                     here</lemma>: Vollbehr thinks that his meaning is, that he is
                                 quite vexed to see so little progress made, in spite of his
                                 neighbor's continual vexation and turmoil, and that, as he says in
@@ -451,8 +428,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> I am a man,<milestone n="77" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">I am a man</lemma>: "Homo sum: humani
+                        <p> I am a man,<milestone n="77" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">I am a man</lemma>: "Homo sum: humani
                                 nihil a me alienum puto." St.
                                     Augustine says, that at the delivery of this
                                 sentiment, the Theatre resounded with applause; and deservedly,
@@ -592,13 +568,11 @@ new texts
                             becomes you; but if you do not do so, I shall find out how it becomes me
                             to act toward you. This arises from nothing, in fact, but too much
                             idleness. At your time of life, I did not devote my time to dalliance,
-                            but, in consequence of my poverty, departed. hence for <placeName
-                                key="tgn,1000004">Asia</placeName>, and there acquired in arms both
+                            but, in consequence of my poverty, departed. hence for <placeName key="tgn,1000004">Asia</placeName>, and there acquired in arms both
                             riches and military glory." At length the matter came to this,--the
                             youth, from hearing the same things so often, and with such severity,
                             was overcome. He supposed that I, through age and affection, had more
-                            judgment and foresight for him than him-self. He went off to <placeName
-                                key="tgn,1000004">Asia</placeName>, Chremes, to serve under the
+                            judgment and foresight for him than him-self. He went off to <placeName key="tgn,1000004">Asia</placeName>, Chremes, to serve under the
                             king.</p>
                     </sp>
                     <sp>
@@ -619,14 +593,11 @@ new texts
                         <speaker>MENEDEMUS</speaker>
                         <p> When I learned this from those who were in the secret, I returned home
                             sad, and with feelings almost over-whelmed and distracted through grief.
-                            I sit down; my servants run to me; they take off my shoes:<milestone
-                                n="124" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >Take off my? shoes</lemma>: As to the "socci," or low shoes of
+                            I sit down; my servants run to me; they take off my shoes:<milestone n="124" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Take off my? shoes</lemma>: As to the "socci," or low shoes of
                                 the ancients, see the Notes to the Trinummus of Plautus, 1. 720, in
                                 Bohn's Translation. It was the especial duty of certain slaves to
                                 take off the shoes of their masters.</note> then some make all haste
-                            to spread the couches,<milestone n="125" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">To spread the couches</lemma>:
+                            to spread the couches,<milestone n="125" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">To spread the couches</lemma>:
                                 The "lecti" or "couches" upon which the ancients reclined at meals,
                                 have been enlarged upon in the Notes to Plautus, where full
                                 reference is also made to the "coena," or dinner," and other meals
@@ -634,8 +605,7 @@ new texts
                             ability did zealously what he could, in order to alleviate my sorrow.
                             When I observed this, I began to reflect thus:--"What! are so many
                             persons anxious for my sake alone, to pleasure myself only? Are so many
-                            female servants to provide me with dress?<milestone n="130"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Provide
+                            female servants to provide me with dress?<milestone n="130" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Provide
                                     me with dress</lemma>: It was the custom for the mistress and
                                 female servants in each family to make the clothes of the master.
                                 Thus in the Fasti of <persName>Ovid</persName>,
@@ -659,16 +629,13 @@ new texts
                             any calamity. But so long as he leads this life of penury, banished from
                             his country through my severity, I will revenge his wrongs upon myself,
                             toiling, making money, saving, and laying up for him." At once I set
-                            about it; I left nothing in the house, neither movables<milestone
-                                n="141" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >Neither movables</lemma>: "Vas" is here used as a general name
+                            about it; I left nothing in the house, neither movables<milestone n="141" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Neither movables</lemma>: "Vas" is here used as a general name
                                 for articles of furniture. This line appears to be copied almost
                                 literally from one of Menander, which still exists.</note> nor
                             clothing; every thing I scraped together. Slaves, male and female,
                             except those who could easily pay for their keep by working in the
                             country, all of them I set up to auction and sold. I at once put up a
-                            bill to sell my house.<milestone n="145" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">To sell my house</lemma>: On the
+                            bill to sell my house.<milestone n="145" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">To sell my house</lemma>: On the
                                 mode of advertising houses to let or be sold among the Romans, see
                                 the Trinummus of Plautus, 1. 168, and the Note to the passage in
                                 Bohn's Translation.</note> I collected somewhere about fifteen
@@ -680,8 +647,7 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p> I believe you to be of an affectionate disposition toward your
-                                children,<milestone n="151" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Toward your clildren</lemma>: The plural "
+                                children,<milestone n="151" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Toward your clildren</lemma>: The plural "
                                 liberos" is here used to signify the one son which Menedemus has. So
                                 in the Hecyra, 1.217, the same word is used to signify but one
                                 daughter. This was a common mode of expression in the times of the
@@ -709,44 +675,34 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p> They will do so. Now, if it is convenient to you--the festival of
-                                <persName>Bacchus</persName><milestone n="162"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Festival
+                                <persName>Bacchus</persName><milestone n="162" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Festival
                                     of <persName>Bacchus</persName>,"
                                     "Dionysia"</lemma>: It is generally supposed that there were
-                                four Festivals called the Dionysia, during the year, at <placeName
-                                    key="perseus,Athens">Athens</placeName>. The first was the Rural,
+                                four Festivals called the Dionysia, during the year, at <placeName key="perseus,Athens">Athens</placeName>. The first was the Rural,
                                 or Lesser Dionysia, <foreign lang="greek">kat) agrou\s,</foreign> a
                                 vintage festival, which was celebrated in the "Demi" or boroughs of
                                     <placeName key="tgn,7002681">Attica</placeName>, in honor of
                                     <persName>Bacchus</persName>, in the month
                                 Poseidon. This was the most ancient of the Festivals, and was held
                                 with the greatest merriment and freedom; the slaves then enjoyed the
-                                same amount of liberty as they did at the Saturnalia at <placeName
-                                    key="perseus,Rome">Rome</placeName>. The second Festival, which
+                                same amount of liberty as they did at the Saturnalia at <placeName key="perseus,Rome">Rome</placeName>. The second Festival, which
                                 was called the Lenaea, from <foreign lang="greek">lhno\s,</foreign>
                                 a wine-press, was celebrated in the month Gamelion, with Scenic
                                 contests in Tragedy and Comedy. The third Dionysian Festival was the
                                 Anthesteria, or "Spring feast," being celebrated during three days
-                                in the month Anthesterion. The first day was called <foreign
-                                    lang="greek">piqoi/gia,</foreign> or "the Opening of the casks,"
+                                in the month Anthesterion. The first day was called <foreign lang="greek">piqoi/gia,</foreign> or "the Opening of the casks,"
                                 as on that day the casks were opened to taste the wine of the
-                                precedingyear. The second day was called <foreign lang="greek"
-                                    >xoes,</foreign> from <foreign lang="greek">xou~s,</foreign> "a
+                                precedingyear. The second day was called <foreign lang="greek">xoes,</foreign> from <foreign lang="greek">xou~s,</foreign> "a
                                 cup," and was probably devoted to drinking. The third day was called
-                                    <foreign lang="greek">xutroi\,</foreign> from <foreign
-                                    lang="greek">xutro\s,</foreign> a pot," as on it persons offered
+                                    <foreign lang="greek">xutroi\,</foreign> from <foreign lang="greek">xutro\s,</foreign> a pot," as on it persons offered
                                 pots with flower-seeds or cooked vegetables to Dionysus or
                                     <persName>Bacchus</persName>. The fourth
                                 Attic festival of Dionysius was celebrated in the month
                                 Elaphebolion, and was called the Dionysia <foreign lang="greek">e)n
-                                    a)/stei, *astika\,</foreign> or <foreign lang="greek"
-                                    >*megala\,</foreign> the "City" or "great" festival. It was
+                                    a)/stei, *astika\,</foreign> or <foreign lang="greek">*megala\,</foreign> the "City" or "great" festival. It was
                                 celebrated with great magnificence, processions and dramatic
-                                representations forming part of the ceremonial. From <placeName
-                                    key="tgn,1000074">Greece</placeName>, by way of <placeName
-                                    key="tgn,7003122">Sicily</placeName>, the Bacchanalia, or
-                                festivals of Bacchus, were introduced into <placeName
-                                    key="perseus,Rome">Rome</placeName>, where they became the
+                                representations forming part of the ceremonial. From <placeName key="tgn,1000074">Greece</placeName>, by way of <placeName key="tgn,7003122">Sicily</placeName>, the Bacchanalia, or
+                                festivals of Bacchus, were introduced into <placeName key="perseus,Rome">Rome</placeName>, where they became the
                                 scenes of and pretext for every kind of vice and debauchery, until
                                 at length they were put down in the year n.c. 187, with a strong
                                 hand, by the Consuls Spurius Posthumius Albinus and Q. Marcius
@@ -845,8 +801,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> I have heard that he has; in <placeName key="tgn,1000004"
-                                >Asia</placeName>.</p>
+                        <p> I have heard that he has; in <placeName key="tgn,1000004">Asia</placeName>.</p>
                     </sp>
                     <sp>
                         <speaker>CLITIPHO</speaker>
@@ -922,8 +877,7 @@ new texts
                         <speaker>CHREMES</speaker>
                         <p> What, he? <stage>Aside.</stage> But I'll restrain myself; for that the
                             other one should be in fear of his father is of service to
-                                him.<milestone n="199" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">Is of service to him</lemma>: He means that it is
+                                him.<milestone n="199" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Is of service to him</lemma>: He means that it is
                                 to the advantage of Clitipho that Clinia should be seen to stand in
                                 awe of his father.</note></p>
                     </sp>
@@ -940,8 +894,7 @@ new texts
                             live after his son's humor, or his son after his? And as to charging him
                             with harshness, it is not the fact. For the severities of fathers are
                             generally of one character, those I mean who are in some degree
-                            reasonable men.<milestone n="205" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Reasonable men</lemma>: "Homo," "a man,"
+                            reasonable men.<milestone n="205" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Reasonable men</lemma>: "Homo," "a man,"
                                 is here put for men in general who are fathers.</note> They do not
                             wish their sons to be always wenching; they do not wish them to be
                             always carousing; they give a limited allowance; and yet all this tends
@@ -977,8 +930,7 @@ new texts
                             youth is naturally inclined to. They regulate us by their own
                             desires,--such as they now are,--not as they once were. If ever I have a
                             son, he certainly shall find in me an indulgent father. For the means
-                            both of knowing and of pardoning<milestone n="218" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Of knowing and of
+                            both of knowing and of pardoning<milestone n="218" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Of knowing and of
                                     pardoning</lemma>: There is a jingle intended here in the
                                 resemblance of the words "cognoscendi," "knowing," and "ignoscendi,"
                                 "pardoning."</note> his faults shall be found by me; not like mine,
@@ -993,9 +945,7 @@ new texts
                             although he, as well, has cares enough of his own, still has a mistress
                             of virtuous and modest breeding, and a stranger to the arts of a
                             courtesan. Mine is a craving, saucy, haughty, extravagant creature, full
-                            of lofty airs. Then all that I have to give her is--fair words<milestone
-                                n="228" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >Is--fair words</lemma>: "Recte est." It is supposed that he
+                            of lofty airs. Then all that I have to give her is--fair words<milestone n="228" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Is--fair words</lemma>: "Recte est." It is supposed that he
                                 pauses before uttering these words, which mean "very well," or "very
                                 good," implying the giving.an assent without making a promise; he
                                 tells the reason, in saying that he has scruples or prejudices
@@ -1056,11 +1006,9 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CLITIPHO</speaker>
-                        <p> You don't consider that it is a great way fiom here.<milestone n="239"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Great way
+                        <p> You don't consider that it is a great way fiom here.<milestone n="239" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Great way
                                     from here</lemma>: That is, from the place where they are, in
-                                the country, to <placeName key="perseus,Athens"
-                                >Athens</placeName>.</note> Besides, you know the ways of women,
+                                the country, to <placeName key="perseus,Athens">Athens</placeName>.</note> Besides, you know the ways of women,
                             while they are bestirring themselves, and while they are making
                             preparations a whole year passes by.</p>
                     </sp>
@@ -1102,8 +1050,7 @@ new texts
                     <sp>
                         <speaker>DROMO</speaker>
                         <p> No wonder; they are so encumbered; they are bringing a troop of female
-                                attendants<milestone n="245" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Troop of female attendants</lemma>: The
+                                attendants<milestone n="245" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Troop of female attendants</lemma>: The
                                 train and expenses of a courtesan of high station are admirably
                                 depicted in the speech of Lysiteles, in the Trinummus of Plautus, 1.
                                 252.</note> with them. </p>
@@ -1228,8 +1175,7 @@ new texts
                             opportunity of judging of the course of her daily life; a thing which
                             especially discovers what is the disposition of each individual. We
                             found her industriously plying at the web; plainly clad in a mourning
-                                dress,<milestone n="286" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">In a mourning dress</lemma>: Among the
+                                dress,<milestone n="286" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">In a mourning dress</lemma>: Among the
                                 Greeks, in general, mourning for the dead seems to have lasted till
                                 the thirtieth day after the funeral, and during that period black
                                 dresses were worn. The Romans also wore mourning for the dead, which
@@ -1239,8 +1185,7 @@ new texts
                                 these occasions.</note> on account of this old woman, I suppose, who
                             was lately dead; without golden ornaments, dressed, besides, just like
                             those who only dress for themselves, and patched up with no worthless
-                            woman's trumpery.<milestone n="289" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">With no worthless woman's
+                            woman's trumpery.<milestone n="289" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">With no worthless woman's
                                     trumpery</lemma>: By "null&acirc; mal&acirc; re
                                 muliebri" he clearly means that they did not find her painted up
                                 with the cosmetics which some women were in the habit of using. Such
@@ -1262,8 +1207,7 @@ new texts
                                 Mostellaria of Plautus, Act I., Scene 3, l. 135, where Philematium
                                 is introduced making her toilet on the stage.</note> Her hair was
                             loose, long, and thrown back negligently about her temples. <stage>To
-                                CLINIA.</stage> Do you hold your peace.<milestone n="291"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Do hold
+                                CLINIA.</stage> Do you hold your peace.<milestone n="291" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Do hold
                                     your peace</lemma>: "Pax," literally "peace!" in the sense of
                                 "Hush!" "Be quiet!" See the Notes to the Trinummus of Plautus, ll.
                                 889-891, in Bohn's Translation.</note></p>
@@ -1275,14 +1219,12 @@ new texts
                     </sp>
                     <sp>
                         <speaker>SYRUS</speaker>
-                        <p> The old woman was spinning the woof:<milestone n="293" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">The woof</lemma>: See an
+                        <p> The old woman was spinning the woof:<milestone n="293" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">The woof</lemma>: See an
                                 interesting passage on the ancient weaving, in the Metamorphoses of
                                 Ovid, B. vi., l. 54, et seq. See also the Epistle of Penelope to
                                 Ulysses, in the Heroides of Ovid, l. 10, and the Note in Bohn's
                                 English Translation.</note> there was one little servant girl
-                            besides;--she was weaving<milestone n="294" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">She was weaving</lemma>: This
+                            besides;--she was weaving<milestone n="294" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">She was weaving</lemma>: This
                                 line and part of the next are supposed to have been translated
                                 almost literally from some lines, the composition of Menander, which
                                 are still extant.</note> together with them, covered with patched
@@ -1323,8 +1265,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>SYRUS</speaker>
-                        <p> Your Bacchis, whom we are bringing.<milestone n="310" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Your Bacchis, whom we
+                        <p> Your Bacchis, whom we are bringing.<milestone n="310" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Your Bacchis, whom we
                                     are bringing</lemma>: Colman has the following remark: "Here we
                                 enter upon the other part of the table, which the Poet has most
                                 artfully complicated with the main subject by making Syrus bring
@@ -1456,8 +1397,7 @@ new texts
                     <sp>
                         <speaker>CLITIPHO</speaker>
                         <p> Stuff! I see no grounds sufficiently solid why it should be for my
-                            advantage to incur this risk.<milestone n="337" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Incur this risk</lemma>: As to
+                            advantage to incur this risk.<milestone n="337" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Incur this risk</lemma>: As to
                                 his own mistress.</note>
                             <stage>Turning as if going.</stage></p>
                     </sp>
@@ -1481,8 +1421,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> I'll rid you at once of all fears, so that you may sleep at your ease
-                            upon either ear.<milestone n="342" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Upon either ear</lemma>: " In aurem
+                            upon either ear.<milestone n="342" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Upon either ear</lemma>: " In aurem
                                 utramvis," a proverbial expression, implying an easy and secure
                                 repose. It is also used by Plautus, and is found in a fragment of
                                 the <foreign lang="greek">*plokio\n,</foreign> or Necklace, a Comedy
@@ -1519,8 +1458,7 @@ new texts
                         <speaker>SYRUS</speaker>
                         <p>
                             <stage>moving on.</stage> Go on; I shall still do that which 1
-                                said.<milestone n="346" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">Still do that which I said</lemma>: "Perge porro,
+                                said.<milestone n="346" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Still do that which I said</lemma>: "Perge porro,
                                 tamen istuc ago." Stallbaum observes that the meaning is: "Although
                                 I'm going off, I'm still attending to what you're saying." According
                                 to Schmieder and others, it means: "Call on just as you please, I
@@ -1586,8 +1524,7 @@ new texts
                     <sp>
                         <speaker>CLITIPHO</speaker>
                         <p> But this I wonder at, how you could so easily prevail upon her, who is
-                            wont to treat such great peoplel<milestone n="363" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Such great
+                            wont to treat such great peoplel<milestone n="363" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Such great
                                     people</lemma>: "Quos," literally, "What persons!"</note> with
                             scorn.</p>
                     </sp>
@@ -1600,8 +1537,7 @@ new texts
                             to yourself. But hark you, take care, will you, not to be imprudently
                             impetuous. You know your father, how quick-sighted he is in these
                             matters; and I know you, how unable you are to command yourself. Keep
-                            clear of words of double meaning,<milestone n="372" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Words of double
+                            clear of words of double meaning,<milestone n="372" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Words of double
                                     meaning</lemma>: "Inversa verba, eversas cervices tuas."
                                 "Inversa verba" clearly means, words with a double meaning, or
                                 substituted for others by previous arrangement, like correspondence
@@ -1710,8 +1646,7 @@ new texts
                             elsewhere; and unless we have made provision in the mean time for the
                             future, we live in destitution. Now with you, when you have once
                             resolved to pass your life with one man whose manners are especially
-                            kindred to your own, those persons<milestone n="393" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">A man whose
+                            kindred to your own, those persons<milestone n="393" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">A man whose
                                     manners--those persons</lemma>: "Cujus--hi ;" a change of number
                                 by the use of the figure Enallage.</note> become attached to you. By
                             this kindly feeling, you are truly devoted to each other; and no
@@ -1738,8 +1673,7 @@ new texts
                     <sp>
                         <speaker>CLINIA</speaker>
                         <p>
-                            <stage>apart.</stage> Syrus, I can scarce endure it!<milestone n="400"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">I can
+                            <stage>apart.</stage> Syrus, I can scarce endure it!<milestone n="400" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">I can
                                     scarce endure it</lemma>: Colman has the following remark on
                                 this passage: "Madame Dacier, contrary to the authority of all
                                 editions and MSS., adopts a conceit of her father's in this place,
@@ -1833,8 +1767,7 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p>
-                            <stage>to himself.</stage> It is now daybreak.<milestone n="410"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">It is now
+                            <stage>to himself.</stage> It is now daybreak.<milestone n="410" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">It is now
                                     daybreak</lemma>: Though this is the only Play which includes
                                 more than one day in the action, it is not the only one in which the
                                 day is represented as breaking. The Amphitryon and the Curculio of
@@ -1922,8 +1855,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>MENEDEMUS</speaker>
-                        <p> Did you not tell him how I was affected?<milestone n="436"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">How I was
+                        <p> Did you not tell him how I was affected?<milestone n="436" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">How I was
                                     affected</lemma>: "Ut essem," literally, "How I was."</note></p>
                     </sp>
                     <sp>
@@ -1958,8 +1890,7 @@ new texts
                             For, that you may know how perfectly she is trained to extravagance, in
                             the first place, she has already brought with her more than ten female
                             attendants, all laden with clothes and jewels of gold; if a
-                                satrap<milestone n="452" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">If a satrap</lemma>: "Satrapa" was a
+                                satrap<milestone n="452" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">If a satrap</lemma>: "Satrapa" was a
                                 Persian word signifying "a ruler of a province." The name was
                                 considered as synonymous with "possessor of wealth almost
                                 inexhaustible."</note> had been her admirer, he never could support
@@ -1974,8 +1905,7 @@ new texts
                         <p> Is she, do you ask? I have felt it; for 1 have given her and her retinue
                             one dinner; had I to give them another such, it would be all over with
                             me; for, to pass by other matters, what a quantity of wine she did
-                            consume for me in tasting only,<milestone n="457" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">In tasting only</lemma>: "
+                            consume for me in tasting only,<milestone n="457" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">In tasting only</lemma>: "
                                 Pytiso" was the name given to the nasty practice of tasting wine,
                                 and then spitting it out; offensive in a man, but infinitely more so
                                 in a woman. It seems in those times to have been done by persons who
@@ -1984,19 +1914,16 @@ new texts
                                 sale-rooms where wine is put up to auction, and even there it is
                                 practiced much more than is either necessary or agreeable. Doubtless
                                 Bacchis did it to show her exquisite taste in the matter of
-                                wines.</note> saying thus, "This wine is too acid,<milestone n="458"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Is too
+                                wines.</note> saying thus, "This wine is too acid,<milestone n="458" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Is too
                                     acid</lemma>: "Asperum;" meaning that the wine was not old
                                 enough for her palate. The great fault of the Greek wines was their
                                 tartness, for which reason sea-water was mixed with them all except
                                 the Chian, which was the highest class of wine.</note> respected
-                                sir,<milestone n="459" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">Respected sir</lemma>: "Pater," literally
+                                sir,<milestone n="459" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Respected sir</lemma>: "Pater," literally
                                 "father;" a title by which the young generally addressed aged
                                 persons who were strangers to them.</note> do please look for
                             something more mellow." I opened all the casks, all the
-                                vessels<milestone n="460" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">All the casks, all the vessels</lemma>:
+                                vessels<milestone n="460" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">All the casks, all the vessels</lemma>:
                                 "Dolia omnia, omnes serias." The finer kinds of wine were drawn off
                                 from the " dolia," or large vessels, into the "amphorae," which,
                                 like the "dolia," were made of earth, and sometimes of glass. The
@@ -2040,16 +1967,14 @@ new texts
                             through some other person; suffer yourself to be imposed upon by the
                             artifices of his servant: although I have smelt out this too, that they
                             are about that, and are secretly planning it among them. Syrus is always
-                            whispering with that servant of yours;<milestone n="473" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">With that servant of
+                            whispering with that servant of yours;<milestone n="473" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">With that servant of
                                     yours</lemma>: Dromo.</note> they impart their plans to the
                             young men; and it were better for you to lose a talent this way, than a
                             mina the other. The money is not the question now, but this--in what way
                             we can supply it to the young man with the least danger. For if he once
                             knows the state of your feelings, that you would sooner part with your
                             life, and sooner with all your money, than allow your son to leave you;
-                            whew ! what an inlet<milestone n="482" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">What an inlet</lemma>:
+                            whew ! what an inlet<milestone n="482" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">What an inlet</lemma>:
                                 "Fenestram ;" literally, "a window."</note> will you be opening for
                             his debauchery! aye, and so much so, that henceforth to live can not be
                             desirable to you. For we all become worse through indulgence. Whatever
@@ -2067,8 +1992,7 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p> I'faith, I have not been sensible of sleep this night with my
-                                eyes,<milestone n="491" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">This night with my eyes</lemma>: Colman has the
+                                eyes,<milestone n="491" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">This night with my eyes</lemma>: Colman has the
                                 following Note here: "Hedelin obstinately contends from this
                                 passage, that neither Chremes nor any of his family went to bed the
                                 whole night; the contrary of which is evident, as Menage observes,
@@ -2127,8 +2051,7 @@ new texts
                         <p> I have disengaged myself, that I might lend you my services at my
                             leisure. Syrus must be found and instructed by me in this business. Some
                             one, I know not who, is coming out of my house: do you step hence home,
-                            that they may not perceive<milestone n="511" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">That they may not
+                            that they may not perceive<milestone n="511" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">That they may not
                                     perceive</lemma>: Madame Dacier observes that Chremes seizes
                                 this as a very plausible and necessary pretense to engage Menedemus
                                 to return home, and not to his labors in the field, as he had at
@@ -2184,8 +2107,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> Not too much, say you? Really, you've seen the old age of an
-                                eagle,<milestone n="521" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Old age of an eagle</lemma>: This was a
+                                eagle,<milestone n="521" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Old age of an eagle</lemma>: This was a
                                 proverbial expression, signifying a hale and vigorous old age. It
                                 has been suggested, too, that it alludes to the practice of some old
                                 men, who drink more than they eat. It was vulgarly said that eagles
@@ -2215,8 +2137,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>SYRUS</speaker>
-                        <p> Not like those of former days,<milestone n="524" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Not like those of former
+                        <p> Not like those of former days,<milestone n="524" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Not like those of former
                                     days</lemma>: Syrus, by showing himself an admirer of the good
                                 old times, a " laudator temporis acti," is wishful to flatter the
                                 vanity of Chremes, as it is a feeling common to old age, perhaps by
@@ -2298,8 +2219,7 @@ new texts
                         <speaker>CHREMES</speaker>
                         <p> And what is he now waiting for, Syrus? Is it until his father drives him
                             away from here a second time, when he can no longer support her
-                                expenses?<milestone n="544" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Can no longer support her
+                                expenses?<milestone n="544" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Can no longer support her
                                 expenses</lemma>: He refers to Menedemus and Bacchis.</note> Has he
                             no plot on foot against the old gentleman?</p>
                     </sp>
@@ -2341,13 +2261,11 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> I' faith, and I trust so too: nor do I say so now, because I have
-                            suspected him in any way; but in case, none the more<milestone n="555"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">But in
+                            suspected him in any way; but in case, none the more<milestone n="555" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">But in
                                     case, none the more</lemma>: " Sed si quid, ne quid." An
                                 instance of Aposiopesis, signifying "But if any thing does happen,
                                 don't you blame me."</note>----You see what his age is;
-                                <stage>aside</stage> and truly, Chremes,<milestone n="557"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">And
+                                <stage>aside</stage> and truly, Chremes,<milestone n="557" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">And
                                     truly, Chremes</lemma>: Some suppose that this is said in
                                 apparent candor by Syrus, in order the more readily to throw Chremes
                                 off his guard. Other Commentators, again, fancy these words to be
@@ -2410,8 +2328,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p>
-                            <stage>apart.</stage> 'Tis the truth<milestone n="568" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">'Tis the truth</lemma>:
+                            <stage>apart.</stage> 'Tis the truth<milestone n="568" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">'Tis the truth</lemma>:
                                 "Factum." "Done for" is another translation which this word will
                                 here admit of.</note>
                         </p>
@@ -2437,8 +2354,7 @@ new texts
                             Clitipho, to disclose all my secrets. With one, his station forbids it;
                             with another, I am ashamed of the action itself, lest I may appear a
                             fool or devoid of shame; do you rest assured that he does the
-                                same.<milestone n="577" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">That he does the sane</lemma>: Clinia.</note> But
+                                same.<milestone n="577" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">That he does the sane</lemma>: Clinia.</note> But
                             it is our part to be sensible of this; and, when and where it is
                             requisite, to show due complaisance.</p>
                     </sp>
@@ -2456,8 +2372,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> Clitipho, these same injunctions I gave you. You have acted the part of
-                            a prudent and discreet person.<milestone n="580" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Of a prudent and discreet
+                            a prudent and discreet person.<milestone n="580" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Of a prudent and discreet
                                     person</lemma>: This is said ironically.</note></p>
                     </sp>
                     <sp>
@@ -2492,8 +2407,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> How now--pray, is there but one way<milestone n="583" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Is there but one
+                        <p> How now--pray, is there but one way<milestone n="583" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Is there but one
                                     way</lemma>: And that an immodest one.</note> of going near them
                             ?</p>
                     </sp>
@@ -2596,8 +2510,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> Aye, if you did but know. O shocking! just see what she is hatching.
-                            There was a certain old woman here from <placeName key="perseus,Corinth"
-                                >Corinth</placeName>,--this Bacchis lent her a thousand silver
+                            There was a certain old woman here from <placeName key="perseus,Corinth">Corinth</placeName>,--this Bacchis lent her a thousand silver
                             drachmae.</p>
                     </sp>
                     <sp>
@@ -2616,8 +2529,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> She has brought her hither along with her, her I mean who is now with
-                            your wife.<milestone n="604" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">With your wife</lemma>: Madame Dacier
+                            your wife.<milestone n="604" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">With your wife</lemma>: Madame Dacier
                                 remarks, that as Anitiphila is shortly to be acknowledged as the
                                 daughter of Chremes, she is not therefore in company with the other
                                 women at the feast, who arc Courtesans, but with the wife of
@@ -2635,8 +2547,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> And would she really be a security ?<milestone n="606" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Would she really be a
+                        <p> And would she really be a security ?<milestone n="606" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Would she really be a
                                     security</lemma>: The question of Chremes seems directed to the
                                 fact whether the girl is of value sufficient to be good security for
                                 the thousand drachmae.</note></p>
@@ -2690,8 +2601,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> You shall soon know.<milestone n="612" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">You shall soon know</lemma>:
+                        <p> You shall soon know.<milestone n="612" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">You shall soon know</lemma>:
                                 Madame Dacier suggests that Chremes is prevented by his wife's
                                 coming from making a proposal to advance the money himself, on the
                                 supposition that it will be a lucrative speculation. This notion is
@@ -2808,16 +2718,14 @@ new texts
                         <speaker>SYRUS</speaker>
                         <p>
                             <stage>aside.</stage> Such is the fact, I'm sure: my young master has
-                            gained a loss<milestone n="628" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Has gained a loss</lemma>: He alludes to
+                            gained a loss<milestone n="628" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Has gained a loss</lemma>: He alludes to
                                 Clitipho, who, by the discovery of his sister, would not come in for
                                 such a large share of his father's property, and would consequently,
                                 as Syrus observes, gain a loss.</note> in consequence.</p>
                     </sp>
                     <sp>
                         <speaker>SOSTRATA</speaker>
-                        <p> Not at all; but there was here an elderly woman of <placeName
-                                key="perseus,Corinth">Corinth</placeName>, of no indifferent character;
+                        <p> Not at all; but there was here an elderly woman of <placeName key="perseus,Corinth">Corinth</placeName>, of no indifferent character;
                             to her I gave it to be exposed.</p>
                     </sp>
                     <sp>
@@ -2886,8 +2794,7 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p> That was right; thereby you proved the saving of yourself and
-                                her.<milestone n="653" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">Saving of yourself and her</lemma>: Madame Dacier
+                                her.<milestone n="653" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Saving of yourself and her</lemma>: Madame Dacier
                                 says that the meaning of this passage is this: Chremes tells his
                                 wife that by having given this ring, she has done two good acts
                                 instead of one--she has both cleared her conscience and saved the
@@ -2937,8 +2844,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p>
-                            <stage>aside.</stage> I'm undone! I see more hopes<milestone n="659"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">I see
+                            <stage>aside.</stage> I'm undone! I see more hopes<milestone n="659" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">I see
                                     more hopes</lemma>: Syrus is now alarmed that Antiphila should
                                 so soon be acknowledged as the daughter of Chremes, lest he may lose
                                 the opportunity of obtaining the money, and be punished as well, in
@@ -2988,8 +2894,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> Many a time a man can not be<milestone n="666" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">A man can not be</lemma>: This
+                        <p> Many a time a man can not be<milestone n="666" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">A man can not be</lemma>: This
                                 he says by way of palliating the cruelty he was guilty of in his
                                 orders to have the child put to death.</note> such as he would be,
                             if circumstances do not admit of it. Time has now so brought it about,
@@ -3003,12 +2908,10 @@ new texts
                     <stage>SYRUS alone.</stage>
                     <sp>
                         <speaker>SYRUS</speaker>
-                        <p> Unless my fancy deceives me,<milestone n="668" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Unless my fancy deceives
+                        <p> Unless my fancy deceives me,<milestone n="668" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Unless my fancy deceives
                                     me</lemma>: "Nisi me animus fallit." He comically repeats the
                                 very same words with which Sostrata commenced in the last
-                                Scene.</note> retribution<milestone n="668" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Retribution</lemma>:
+                                Scene.</note> retribution<milestone n="668" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Retribution</lemma>:
                                 "Infortunium!" was the name by which the slaves commonly denoted a
                                 beating. Colman has the following remark here: " Madame Dacier, and
                                 most of the later critics who have implicitly followed her, tell us
@@ -3033,8 +2936,7 @@ new texts
                             damsel is his son's mistress. For as to entertaining any hopes about the
                             money, or supposing I could cajole him, it's useless; I shall be
                             sufficient triumphant, if I'm allowed to escape with my sides
-                                covered.<milestone n="673" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">With my sides covered</lemma>: He most
+                                covered.<milestone n="673" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">With my sides covered</lemma>: He most
                                 probably alludes to the custom of tying up the slaves by their
                                 hands, after stripping them naked, when of course their " latera" or
                                 " sides" would be exposed, and come in for a share of the
@@ -3046,11 +2948,9 @@ new texts
                             if after this fashion? I effect just about the same. But this I think
                             will do. It can not. Yes! excellent. Bravo! I've found out the best of
                             all--I' faith, I do believe that after all I shall lay hold of this same
-                            run-away money.<milestone n="678" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Runaway money</lemma>: "Fugitivum
+                            run-away money.<milestone n="678" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Runaway money</lemma>: "Fugitivum
                                 argentum." Madame Dacier suggests that this is a bad translation of
-                                the words of Menander, which were "<foreign lang="greek"
-                                    >a)postre/yein to\n drape/tan xruso\n,</foreign>" where "
+                                the words of Menander, which were "<foreign lang="greek">a)postre/yein to\n drape/tan xruso\n,</foreign>" where "
                                     "<foreign lang="greek">xruso\s</foreign>" signified both " gold"
                                 and the name of a slave.</note></p>
                     </sp>
@@ -3230,8 +3130,7 @@ new texts
                     <sp>
                         <speaker>SYRUS</speaker>
                         <p> What if I have recourse to those who say, " What now if the sky were to
-                                fall?"<milestone n="719" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">If the sky were to fall</lemma>: He means
+                                fall?"<milestone n="719" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">If the sky were to fall</lemma>: He means
                                 those who create unnecessary difficulties in their imagination.
                                 Colman quotes the following remark from Patrick: "There is a
                                 remarkable passage in Arrian's Account of Alexander, lib. iv., where
@@ -3275,15 +3174,13 @@ new texts
                         <speaker>BACCHIS.</speaker>
                         <p>
                             <stage>pretending not to see CLINIA and SYRUS.</stage> To a very fine
-                                purpose,<milestone n="723" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">To a very fine purpose</lemma>: " Satis
+                                purpose,<milestone n="723" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">To a very fine purpose</lemma>: " Satis
                                 pol proterve," &amp;c. C. Laelius was said to have assisted
                                 Terence in the composition of his Plays, and in confirmation of
                                 this, the following story is told by Cornelius Nepos: " C. Laelius,
                                 happening to pass the Matronalia [a Festival on the first of March,
                                 when the husband, for once in the year, was bound to obey the wife]
-                                at his villa near <placeName key="perseus,Puteoli"
-                                    >Puteoli</placeName>, was told that dinner was waiting, but
+                                at his villa near <placeName key="perseus,Puteoli">Puteoli</placeName>, was told that dinner was waiting, but
                                 still neglected the summons. At last, when he made his appearance,
                                 he excused himself by saying that he had been in a particular vein
                                 of composition, and quoted certain lines which occur in the
@@ -3310,8 +3207,7 @@ new texts
                     <sp>
                         <speaker>BACCHIS.</speaker>
                         <p>
-                            <stage>aside.</stage> They're asleep<milestone n="730" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">They're asleep</lemma>:
+                            <stage>aside.</stage> They're asleep<milestone n="730" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">They're asleep</lemma>:
                                 "Dormiunt." This is clearly used figuratively, though Hedelin
                                 interprets it literally.</note>--I'faith, I'll rouse them.
                                 <stage>Aloud.</stage> My dear Phrygia, did you hear about the country-seat of
@@ -3325,8 +3221,7 @@ new texts
                         <speaker>BACCHIS.</speaker>
                         <p>
                             <stage>aloud.</stage> That it was the next to the farm here on the
-                            right-hand side.<milestone n="732" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Farm here on the right-hand side</lemma>:
+                            right-hand side.<milestone n="732" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Farm here on the right-hand side</lemma>:
                                 Cooke suggests that the Poet makes Bacchis call the house of
                                 Charinus "villa," and that of Chremes "fundus" (which signifies " a
                                 farm-house," or "farm"), for the purpose of exalting the one and
@@ -3340,9 +3235,7 @@ new texts
                         <speaker>BACCHIS.</speaker>
                         <p>
                             <stage>aloud.</stage> Run thither post-haste; the Captain is keeping the
-                            feast of <persName>Bacchus</persName><milestone
-                                n="733" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >The feast of <persName>Bacchus</persName></lemma>: This passage goes far to prove
+                            feast of <persName>Bacchus</persName><milestone n="733" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">The feast of <persName>Bacchus</persName></lemma>: This passage goes far to prove
                                 that the Dionysia here mentioned as being celebrated, were those
                                     <foreign lang="greek">ka/t) a\grous,</foreign> or the " rural
                                 Dionysia."</note> at his house.</p>
@@ -3427,8 +3320,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>BACCHIS.</speaker>
-                        <p> Then let's be going.<milestone n="742" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Let's be going</lemma>:
+                        <p> Then let's be going.<milestone n="742" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Let's be going</lemma>:
                                     Colman here remarks to
                                 the following effect: "There is some difficulty in this and the next
                                 speech in the original, and the Commentators have been puzzled to
@@ -3674,8 +3566,7 @@ new texts
                             recourse to this method; "What have I to do with it? Was it lent to me?
                             Did I give any orders? Had she the power to pawn my daughter without my
                             consent?" They quote that saying, Chremes, with good reason, " Riorous
-                                law<milestone n="796" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">Rigorous law</lemma>: <persName><surname>Cicero</surname></persName> mentions the same proverb in his work De
+                                law<milestone n="796" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Rigorous law</lemma>: <persName><surname>Cicero</surname></persName> mentions the same proverb in his work De
                                 Officiis, B. i., ch. 10, substituting the word "injuria" for "
                                 malitia." "' Extreme law, extreme injustice,' is now become a stale
                                 proverb in discourse." The same sentiment is found in the Fragments
@@ -3869,8 +3760,7 @@ new texts
                             from me, which I consider as paid for her board; another ten will follow
                             these for clothes; and then she will require two talents for her
                             portion. How many things, both just and unjust, are sanctioned by
-                                custom!<milestone n="839" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Are sanctioned by custom</lemma>: He
+                                custom!<milestone n="839" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Are sanctioned by custom</lemma>: He
                                 inveighs, perhaps justly, against the tyranny of custom; but in
                                 selecting this occasion for doing so, he does not manifest any great
                                 affection for his newly-found daughter.</note> Now I'm obliged,
@@ -4034,16 +3924,13 @@ new texts
                         <p>
                             <stage>to himself.</stage> I am quite aware that I am not so overwise,
                             or so very quick-sighted; but this assistant, prompter, and
-                                director<milestone n="875" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">Assistant, prompter, and director</lemma>:
+                                director<milestone n="875" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Assistant, prompter, and director</lemma>:
                                 The three terms here used are borrowed from the stage. "Adjutor" was
                                 the person who assisted the performers either by voice or gesture;
                                 "monitor" was the prompter; and "praemonstrator" was the person who
                                 in the rehearsal trained the actor in his part.</note> of mine,
                             Chremes, outdoes me in that. Any one of those epithets which are applied
-                            to a fool is suited to myself, such as dolt, post, ass,<milestone
-                                n="877" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >Dolt post, ass</lemma>: There is a similar passage in the
+                            to a fool is suited to myself, such as dolt, post, ass,<milestone n="877" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Dolt post, ass</lemma>: There is a similar passage in the
                                 Bacchides of Plautus, 1. 1087. "Whoever there are in any place
                                 whatsoever, whoever have been, and whoever shall be in time to come,
                                 fools, blockheads, idiots, dolts, sots, oafs, lubbers, I singly by
@@ -4099,8 +3986,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> The rogue can even mould the countenances of people.<note anchored="yes"
-                                >Mould the countenances of people--Ver. 887. He means that Syrus not
+                        <p> The rogue can even mould the countenances of people.<note anchored="yes">Mould the countenances of people--Ver. 887. He means that Syrus not
                                 only lays his plots well, but teaches the performers to put on
                                 countenances suitable to the several parts they are to
                             act.</note></p>
@@ -4178,8 +4064,7 @@ new texts
                     <sp>
                         <speaker>MENEDEMUS</speaker>
                         <p> For my part, I wonder at that, when you know other things so well. But
-                            this same Syrus has moulded your son,<milestone n="898" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Has moulded your
+                            this same Syrus has moulded your son,<milestone n="898" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Has moulded your
                                     son</lemma>: "Mire finxit." He sarcastically uses the same word,
                                 "fingo," which Chremes himself employed in 1. 887.</note> too, to
                             such perfection, that there could not be even the slightest suspicion
@@ -4270,8 +4155,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> I have hardly substance to suffice for ten days.<milestone n="909"
-                                unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Substance
+                        <p> I have hardly substance to suffice for ten days.<milestone n="909" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Substance
                                     to suffice for ten days</lemma>: "Familia" here means
                                 "property," as producing sustenance. Colman, however, has translated the passage: "Mine
                                 is scarce a ten-days' family."</note></p>
@@ -4283,8 +4167,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> His "she-friend" rather.<milestone n="911" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">His she-friend rather</lemma>:
+                        <p> His "she-friend" rather.<milestone n="911" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">His she-friend rather</lemma>:
                                 Menedemus speaks of "amico," a male friend, which Chremes plays upon
                                 by saying amicae," which literally meant a she-friend, and was the
                                 usual name by which decent people called a mistress.</note></p>
@@ -4337,8 +4220,7 @@ new texts
                         <p> That which you said I failed to do: make him sensible that you are his
                             father; make him venture to intrust every thing to you, to seek and to
                             ask of you; so that he may look for no other resources and forsake
-                                you.<milestone n="924" unit="TLN line"/><note anchored="yes"><lemma
-                                    targOrder="U">And forsake you</lemma>: Madame Dacier observes
+                                you.<milestone n="924" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">And forsake you</lemma>: Madame Dacier observes
                                 here, that one of the great beauties of this Scene consists in
                                 Chremes retorting on Menedemus the very advice given by himself at
                                 the beginning of the Play.</note>
@@ -4455,8 +4337,7 @@ new texts
                             out, that he shall always remember me as long as he lives; to imagine
                             that I'm to be a laughing-stock and a plaything for him! So may the Gods
                             bless me! he would not have dared to do to a widow-woman the things
-                            which he has done to me.<milestone n="954" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Which he has done to me</lemma>:
+                            which he has done to me.<milestone n="954" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Which he has done to me</lemma>:
                                     Colman has the
                                 following Note: "The departure of Menedemus here is very abrupt,
                                 seeming to be in the midst of a conversation; and his re-entrance
@@ -4511,9 +4392,7 @@ new texts
                             you might neither want nor be able to waste this which I have. When,
                             through your own conduct, it was not allowed me to give it you, to whom
                             I ought before all, I had recourse to those who were your nearest
-                            relations; to them I have made over and intrusted every thing.<milestone
-                                n="966" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >Intrusted every thing</lemma>: This is an early instance of a
+                            relations; to them I have made over and intrusted every thing.<milestone n="966" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Intrusted every thing</lemma>: This is an early instance of a
                                 trusteeship and a guardianship.</note> There you'll always find a
                             refuge for your folly; food, clothing, and a roof under which to betake
                             yourself.</p>
@@ -4565,13 +4444,11 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> It's all over.<milestone n="974" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">It's all over</lemma>: "Ilicet,"
+                        <p> It's all over.<milestone n="974" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">It's all over</lemma>: "Ilicet,"
                                 literally, "you may go away." This was the formal word with which
                                 funeral ceremonies and trials at law were concluded.</note> Don't
                             you mix yourself up in it; no one accuses you, Syrus, nor need you look
-                            out for an altar,<milestone n="975" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">Look out for an altar</lemma>:
+                            out for an altar,<milestone n="975" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Look out for an altar</lemma>:
                                 He alludes to the practice of slaves taking refuge at altars when
                                 they had committed any fault, and then suing for pardon through a
                                 "precator" or "mediator." See the Mostellaria of Plautus, 1. 1074,
@@ -4729,8 +4606,7 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p> Yes, rather, I should have said you do know; inasmuch as either
-                            expression amounts to the same thing.<milestone n="1010" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Amounts to the same
+                            expression amounts to the same thing.<milestone n="1010" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Amounts to the same
                                     thing</lemma>: "Quam quidem redit ad integrum eadem oratio;"
                                 meaning, "it amounts to one and the same thing," or, "it is all the
                                 same thing," whether you do or whether you don't know.</note></p>
@@ -4782,8 +4658,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>SOSTRATA</speaker>
-                        <p> Because my daughter has been found?<milestone n="1018" unit="TLN line"
-                                /><note anchored="yes"><lemma targOrder="U">Because my daughter has
+                        <p> Because my daughter has been found?<milestone n="1018" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Because my daughter has
                                     been found</lemma>: This sentence has given much trouble to the
                                 Commentators. Colman has
                                 the following just remarks upon it: "Madame Dacier, as well as all
@@ -4865,8 +4740,7 @@ new texts
                         <speaker>CHREMES</speaker>
                         <p> If you had been born from my head, Clitipho,just as they say <persName>Minerva</persName> was from Jove's, none the more
                             on that account would I suffer myself to be disgraced by your
-                                profligacy.<milestone n="1036" unit="TLN line"/><note anchored="yes"
-                                    ><lemma targOrder="U">By your profligacy</lemma>: It is probably
+                                profligacy.<milestone n="1036" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">By your profligacy</lemma>: It is probably
                                 this ebullition of Comic anger which is referred to by Horace, in
                                 his <cit>
                                     <bibl n="Hor. Ars 93">Art of Poetry:</bibl>
@@ -4883,8 +4757,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CHREMES</speaker>
-                        <p> I don't know as to the Gods;<milestone n="1037" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">I don't know as to the
+                        <p> I don't know as to the Gods;<milestone n="1037" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">I don't know as to the
                                     Gods</lemma>: "Deos nescio." The Critic Lambinus, in his letter
                                 to Charles the Ninth of France, accuses Terence of impiety in this
                                 passage. Madame Dacier has, however, well observed, that the meaning
@@ -4919,8 +4792,7 @@ new texts
                     <sp>
                         <speaker>CHREMES</speaker>
                         <p> Well, Menedemus, why don't you order my daughter to be sent for, and
-                            close with the offer<milestone n="1048" unit="TLN line"/><note
-                                anchored="yes"><lemma targOrder="U">And close with the
+                            close with the offer<milestone n="1048" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">And close with the
                                 offer</lemma>: "Firmas." This ratification or affirmation would be
                                 made by Menedemus using the formal word "Accipio," "I
                                 accept."</note> of the portion that I mentioned?</p>
@@ -5030,9 +4902,7 @@ new texts
                     </sp>
                     <sp>
                         <speaker>CLITIPHO</speaker>
-                        <p> What! that red-haired girl, with cat's eyes, freckled face,<milestone
-                                n="1060" unit="TLN line"/><note anchored="yes"><lemma targOrder="U"
-                                    >Freckled face</lemma>: Many take "sparso ore" here to mean
+                        <p> What! that red-haired girl, with cat's eyes, freckled face,<milestone n="1060" unit="TLN line"/><note anchored="yes"><lemma targOrder="U">Freckled face</lemma>: Many take "sparso ore" here to mean
                                 "wide-mouthed." Lemonnier thinks that must be the meaning, as he has
                                 analyzed the other features of her countenance. There is, however,
                                 no reason why he should not speak of her complexion; and it seems,

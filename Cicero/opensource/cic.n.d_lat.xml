@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">O. Plasberg</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 <sourceDesc>
 <biblStruct>
@@ -43,7 +42,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.n.d_lat.xml,v $
@@ -712,8 +711,8 @@ dixerim. roges me quid aut quale sit deus: auctore
 utar Simonide, de quo cum quaesivisset hoc idem tyrannus Hiero, deliberandi sibi unum diem postulavit; <pb id="p.24"/>
 cum idem ex eo postridie quaereret, biduum petivit;
 cum saepius duplicaret numerum dierum admiransque
-Hiero requireret cur ita faceret, &quot;quia quanto diutius
-considero&quot; inquit &quot;tanto mihi spes videtur obscurior&quot;.
+Hiero requireret cur ita faceret, "quia quanto diutius
+considero" inquit "tanto mihi spes videtur obscurior".
 Sed Simoniden arbitror (non enim poeta solum suavis
 verum etiam ceteroqui doctus sapiensque traditur),
 quia multa venirent in mentem acuta atque subtilia,
@@ -724,7 +723,7 @@ omnem veritatem.
 malo disserere quam tecum) quid dicit quod non modo
 philosophia dignum esset sed mediocri prudentia?</p>
 
-<p>Quaeritur primum in ea quaestione quae est de natura deorum, sintne dei necne sint. &quot;Difficile est negare.&quot; Credo si in contione quaeratur, sed in huius
+<p>Quaeritur primum in ea quaestione quae est de natura deorum, sintne dei necne sint. "Difficile est negare." Credo si in contione quaeratur, sed in huius
 modi sermone et in consessu &lt;familiari&gt; facillimum.
 itaque ego ipse pontifex, qui caerimonias religionesque publicas sanctissime tuendas arbitror, is hoc quod
 primum est, esse deos, persuaderi mihi non opinione
@@ -745,8 +744,8 @@ eas nulla suspicio deorum sit.
 <milestone unit="section" n="63"/>Quid Diagoras, Atheos <pb id="p.25"/>
 qui dictus est, posteaque Theodorus nonne aperte deorum naturam sustulerunt? nam Abderites quidem Protagoras, cuius a te modo mentio facta est, sophistes
 temporibus illis vel maximus, cum in principio libri sic
-posuisset &quot;de divis neque ut sint neque ut non sint
-habeo dicere&quot;, Atheniensium iussu urbe atque agro est
+posuisset "de divis neque ut sint neque ut non sint
+habeo dicere", Atheniensium iussu urbe atque agro est
 exterminatus librique eius in contione combusti; ex
 quo equidem existimo tardioris ad hanc sententiam
 profitendam multos esse factos, quippe cum poenam
@@ -783,8 +782,8 @@ ita necesse fuit aut haec flagitia concipere animo aut
 susceptae philosophiae nomen amittere.
 
 <milestone unit="section" n="67"/>quid enim
-mereas, ut Epicureus esse desinas? &quot;Nihil equidem&quot;
-inquis &quot;ut rationem vitae beatae veritatemque deseram&quot;.
+mereas, ut Epicureus esse desinas? "Nihil equidem"
+inquis "ut rationem vitae beatae veritatemque deseram".
 Ista igitur est veritas? nam de vita beata nihil repugno,
 quam tu ne in deo quidem esse censes nisi plane otio
 langueat. sed ubi est veritas? in mundis credo innumerabilibus omnibus minimis temporum punctis aliis nascentibus aliis cadentibus; an in individuis corpusculis tam praeclara opera nulla moderante natura
@@ -814,11 +813,11 @@ effugeret, quod videlicet Democritum fugerat: ait atomum, cum pondere et gravita
 
 <milestone unit="section" n="70"/>hoc dicere turpius est quam
 illud quod vult non posse defendere. Idem facit contra
-dialecticos; a quibus cum traditum sit in omnibus diiunctionibus, in quibus &quot;aut etiam aut non&quot; poneretur,
+dialecticos; a quibus cum traditum sit in omnibus diiunctionibus, in quibus "aut etiam aut non" poneretur,
 alterum utrum esse verum, pertimuit ne, si concessum
-esset huius modi aliquid &quot;aut vivet cras aut non vivet
-Epicurus&quot;, alterutrum fieret necessarium: totum hoc
-&quot;aut etiam aut non&quot; negavit esse necessarium; quo quid
+esset huius modi aliquid "aut vivet cras aut non vivet
+Epicurus", alterutrum fieret necessarium: totum hoc
+"aut etiam aut non" negavit esse necessarium; quo quid
 dici potuit obtusius? Urguebat Arcesilas Zenonem,
 cum ipse falsa omnia diceret quae sensibus viderentur,
 Zenon autem non nulla visa esse falsa non omnia; timuit Epicurus ne, si unum visum esset falsum, nullum
@@ -991,16 +990,16 @@ ista effutientem nauseare atque ipsum sibi displicere.
 An tu mei similem putas esse aut tui deum? profecto
 non putas.</p>
 
-<p>&quot;Quid ergo, solem dicam aut lunam aut caelum
+<p>"Quid ergo, solem dicam aut lunam aut caelum
 deum? ergo etiam beatum: quibus fruentem voluptatibus? et sapientem: qui potest esse in eius modi
 trunco sapientia?
 
-<milestone unit="section" n="85"/>&quot; haec vestra sunt. Si igitur nec humano * , quod docui, nec tali aliquo, quod tibi ita persuasum est, quid dubitas negare deos esse? non audes.
+<milestone unit="section" n="85"/>" haec vestra sunt. Si igitur nec humano * , quod docui, nec tali aliquo, quod tibi ita persuasum est, quid dubitas negare deos esse? non audes.
 sapienter id quidem, etsi hoc loco non populum metuis
 sed ipsos deos. novi ego Epicureos omnia sigilla venerantes. Quamquam video non nullis videri Epicurum,
 ne in offensionem Atheniensium caderet, verbis reliquisse deos re sustulisse. itaque in illis selectis eius
 brevibusque sententiis, quas appellatis <foreign lang="greek">kuri/as do/cas</foreign>,
-haec ut opinor prima sententia est: &quot;quod beatum et inmortale est id nec habet nec exhibet cuiquam negotium&quot;; in hac ita exposita sententia sunt qui existiment,
+haec ut opinor prima sententia est: "quod beatum et inmortale est id nec habet nec exhibet cuiquam negotium"; in hac ita exposita sententia sunt qui existiment,
 quod ille inscitia plane loquendi fecerit, fecisse consulto:
 
 <milestone unit="section" n="86"/>de homine minime vafro male existimant. dubium est enim utrum dicat aliquid esse beatum et inmortale an si quod sit id esse tale. non animadvertunt
@@ -1020,9 +1019,9 @@ loquar) negare esse deos, quid est quod te inpediat aut
 solem aut mundum aut mentem aliquam sempiternam
 in deorum numero ponere?
 
-<milestone unit="section" n="87"/>&quot;Numquam vidi&quot; inquit
-&quot;animam rationis consilique participem in ulla alia nisi
-humana figura&quot;. Quid solis numquidnam aut lunae aut
+<milestone unit="section" n="87"/>"Numquam vidi" inquit
+"animam rationis consilique participem in ulla alia nisi
+humana figura". Quid solis numquidnam aut lunae aut
 quinque errantium siderum simile vidisti? sol duabus
 unius orbis ultimis partibus definiens motum cursus
 annuos conficit; huius hanc lustrationem eiusdem incensa radiis menstruo spatio luna complet; quinque
@@ -1140,10 +1139,10 @@ est cur aut in solem illum aut in hunc mundum aut in
 aliquam mentem aeternam figura membrisque corporis
 vacuam cadere non potest?
 
-<milestone unit="section" n="96"/>nihil aliud dicis nisi &quot;Numquam vidi solem aut mundum beatum&quot;. Quid mundum
+<milestone unit="section" n="96"/>nihil aliud dicis nisi "Numquam vidi solem aut mundum beatum". Quid mundum
 praeter hunc umquamne vidisti? negabis. cur igitur
 non sescenta milia esse mundorum sed innumerabilia
-ausus es dicere? &quot;Ratio docuit.&quot; Ergo hoc te ratio non
+ausus es dicere? "Ratio docuit." Ergo hoc te ratio non
 docebit, cum praestantissima natura quaeratur eaque
 beata et aeterna, quae sola divina naturast, ut inmortalitate vincamur ab ea natura sic animi praestantia
 vinci, atque ut animi item corporis? cur igitur, cum
@@ -1160,8 +1159,8 @@ sunt multa quae terra mari paludibus fluminibus
 existunt; quae negemus esse, quia numquam vidimus?</p>
 
 <p>Ipsa vero quam nihil ad rem pertinet, quae vos delectat maxime, similitudo. quid canis nonne similis lupo
-(atque, ut Ennius, &quot;simia quam similis turpissuma bestia
-nobis&quot;); at mores in utroque dispares. elephanto beluarum nulla prudentior;
+(atque, ut Ennius, "simia quam similis turpissuma bestia
+nobis"); at mores in utroque dispares. elephanto beluarum nulla prudentior;
 
 <milestone unit="section" n="98"/>ad figuram quae vastior? de
 bestiis loquor; quid inter ipsos homines nonne et
@@ -1197,8 +1196,8 @@ praestantemque naturam, quae haec effecisset moveret
 regeret gubernaret. qui etiam si aberrant a coniectura,
 video tamen quid sequantur: tu quod opus tandem
 magnum et egregium habes quod effectum divina
-mente videatur, ex quo esse deos suspicere? &quot;Habebam&quot; <pb id="p.40"/>
-inquis &quot;in animo insitam informationem quandam dei&quot;.
+mente videatur, ex quo esse deos suspicere? "Habebam" <pb id="p.40"/>
+inquis "in animo insitam informationem quandam dei".
 Et barbati quidem Iovis, galeatae Minervae: num igitur
 esse talis putas?
 
@@ -1213,7 +1212,7 @@ possum de ichneumonum utilitate de crocodilorum de
 faelium dicere, sed nolo esse longus. ita concludam, tamen beluas a barbaris propter beneficium consecratas,
 vestrorum deorum non modo beneficium nullum extare, sed ne factum quidem omnino.
 
-<milestone unit="section" n="102"/>&quot;Nihil habet&quot; inquit &quot;negotii&quot;. Profecto Epicurus quasi pueri delicati nihil cessatione melius existimat. at ipsi tamen pueri
+<milestone unit="section" n="102"/>"Nihil habet" inquit "negotii". Profecto Epicurus quasi pueri delicati nihil cessatione melius existimat. at ipsi tamen pueri
 etiam cum cessant exercitatione aliqua ludicra delectantur: deum sic feriatum volumus cessatione torpere, ut,
 si se commoverit, vereamur ne beatus esse non possit?
 haec oratio non modo deos spoliat motu et actione divina, sed etiam homines inertis efficit, si quidem agens
@@ -1279,16 +1278,16 @@ est imago; quid quod etiam ad dormientem veniunt
 invocatae. tota res Vellei nugatoria est. Vos autem non
 modo oculis imagines sed etiam animis inculcatis: tanta est inpunitas garriendi. At quam licenter.
 
-<milestone unit="section" n="109"/>&quot;Fluentium frequenter transitio fit visionum, ut e multis una <pb id="p.43"/>
-videatur.&quot; Puderet me dicere non intellegere, si vos ipsi
+<milestone unit="section" n="109"/>"Fluentium frequenter transitio fit visionum, ut e multis una <pb id="p.43"/>
+videatur." Puderet me dicere non intellegere, si vos ipsi
 intellegeretis qui ista defenditis. quo modo enim probas continenter imagines ferri, aut si continenter, quo
-modo aeterne? &quot;Innumerabilitas&quot; inquit &quot;suppeditat
-atomorum&quot;. Num eadem ergo ista faciet ut sint omnia
+modo aeterne? "Innumerabilitas" inquit "suppeditat
+atomorum". Num eadem ergo ista faciet ut sint omnia
 sempiterna? Confugis ad aequilibritatem (sic enim
 <foreign lang="greek">i)sonomi/an</foreign> si placet appellemus) et ais, quoniam sit
 natura mortalis, inmortalem etiam esse oportere. isto
 modo, quoniam homines mortales sunt, sint aliqui inmortales, et quoniam nascuntur in terra, nascantur in
-aqua. &quot;Et quia sunt quae interimant, sint quae conservent.&quot; Sint sane, sed ea conservent quae sunt; deos
+aqua. "Et quia sunt quae interimant, sint quae conservent." Sint sane, sed ea conservent quae sunt; deos
 istos esse non sentio.
 
 <milestone unit="section" n="110"/>Omnis tamen ista rerum effigies
@@ -1303,8 +1302,8 @@ modo; virtus autem actuosa; et deus vester nihil agens;
 expers virtutis igitur;
 
 <milestone unit="section" n="111"/>ita ne beatus quidem. Quae ergo
-vita? &quot;Suppeditatio&quot; inquis &quot;bonorum nullo malorum
-interventu&quot;. Quorum tandem bonorum? voluptatum
+vita? "Suppeditatio" inquis "bonorum nullo malorum
+interventu". Quorum tandem bonorum? voluptatum
 credo, nempe ad corpus pertinentium; nullam enim novistis nisi profectam a corpore et redeuntem ad corpus
 animi voluptatem. non arbitror te velle similem esse
 Epicureorum reliquorum, quos pudeat quarundam Epicuri vocum, quibus ille testatur se &lt;ne&gt; intellegere quidem
@@ -1328,13 +1327,13 @@ Epicuri collega sapientiae, multa inpudentiora recitabat; accusat enim Timocrate
 adnuere te video, nota enim tibi sunt; proferrem libros
 si negares. Neque nunc reprehendo quod ad voluptatem omnia referantur (alia est ea quaestio), sed doceo
 deos vestros esse voluptatis expertes, ita vestro iudicio
-ne beatos quidem. &quot;At dolore vacant.
+ne beatos quidem. "At dolore vacant.
 
-<milestone unit="section" n="114"/>&quot; Satin est id ad
-illam abundantem bonis vitam beatissimam? &quot;Cogitat&quot;
-inquiunt &quot;adsidue beatum esse se; habet enim nihil
-aliud quod agitet in mente&quot;. Conprehende igitur animo
-et propone ante oculos deum nihil aliud in omni aeternitate nisi &quot;mihi pulchre est&quot; et &quot;ego beatus sum&quot; cogitantem.
+<milestone unit="section" n="114"/>" Satin est id ad
+illam abundantem bonis vitam beatissimam? "Cogitat"
+inquiunt "adsidue beatum esse se; habet enim nihil
+aliud quod agitet in mente". Conprehende igitur animo
+et propone ante oculos deum nihil aliud in omni aeternitate nisi "mihi pulchre est" et "ego beatus sum" cogitantem.
 <pb id="p.45"/>
  Nec tamen video quo modo non vereatur iste
 deus beatus ne intereat, cum sine ulla intermissione
@@ -1344,14 +1343,14 @@ beatus est vester deus nec aeternus.
 </p>
 <milestone unit="section" n="115"/>
 
-<p>&quot;At etiam de sanctitate de pietate adversus deos libros scripsit Epicurus.&quot; At quo modo in his loquitur:
+<p>"At etiam de sanctitate de pietate adversus deos libros scripsit Epicurus." At quo modo in his loquitur:
 ut &lt;Ti.&gt; Coruncanium aut P. Scaevolam pontifices maximos te audire dicas, non eum qui sustulerit omnem
 funditus religionem nec manibus ut Xerses sed rationibus deorum inmortalium templa et aras everterit. quid
 est enim cur deos ab hominibus colendos dicas, cum
 dei non modo homines non colant sed omnino nihil
 curent nihil agant?
 
-<milestone unit="section" n="116"/>&quot;At est eorum eximia quaedam praestansque natura, ut ea debeat ipsa per se ad se colendam elicere sapientem.&quot; An quicquam eximium potest
+<milestone unit="section" n="116"/>"At est eorum eximia quaedam praestansque natura, ut ea debeat ipsa per se ad se colendam elicere sapientem." An quicquam eximium potest
 esse in ea natura, quae sua voluptate laetans nihil nec
 actura sit umquam neque agat neque egerit? Quae
 porro pietas ei debetur a quo nihil acceperis, aut quid
@@ -1384,8 +1383,8 @@ et secutus praeter ceteros Ennius; ab Euhemero autem
 et mortes et sepulturae demonstrantur deorum; utrum
 igitur hic confirmasse videtur religionem an penitus
 totam sustulisse? Omitto Eleusinem sanctam illam et
-augustam, &quot;ubi initiantur gentes orarum ultimae&quot;, praetereo Samothraciam eaque quae Lemni &quot;nocturno aditu
-occulta coluntur silvestribus saepibus densa&quot;; quibus
+augustam, "ubi initiantur gentes orarum ultimae", praetereo Samothraciam eaque quae Lemni "nocturno aditu
+occulta coluntur silvestribus saepibus densa"; quibus
 explicatis ad rationemque revocatis rerum magis natura cognoscitur quam deorum.
 </p>
 <milestone unit="section" n="120"/>
@@ -1422,7 +1421,7 @@ erit ista amicitia sed mercatura quaedam utilitatum
 suarum. prata et arva et pecudum greges diliguntur
 isto modo, quod fructus ex is capiuntur, hominum caritas et amicitia gratuita est; quanto igitur magis deorum, qui nulla re egentes et inter se diligunt et hominibus consulunt. Quod ni ita sit, quid veneramur quid
 precamur deos, cur sacris pontifices cur auspiciis augures praesunt, quid optamus a deis inmortalibus quid
-vovemus? &quot;At etiam liber est Epicuri de sanctitate.&quot;
+vovemus? "At etiam liber est Epicuri de sanctitate."
 <milestone unit="section" n="123"/>
 Ludimur ab homine non tam faceto quam ad scribendi
 licentiam libero. quae enim potest esse sanctitas si dii
@@ -1435,7 +1434,7 @@ quidem, exilem quendam atque perlucidum, nihil cuiquam tribuentem nihil gratific
 potest, idque videns Epicurus re tollit oratione relinquit deos;
 
 <milestone unit="section" n="124"/>deinde si maxime talis est deus ut nulla gratia nulla hominum caritate teneatur, valeat&mdash;quid enim
-dicam &quot;propitius sit&quot;; esse enim propitius potest nemini,
+dicam "propitius sit"; esse enim propitius potest nemini,
 quoniam ut dicitis omnis in inbecillitate est et gratia
 et caritas.'</p>
 </div1> 
@@ -1479,9 +1478,9 @@ his de rebus agimus, quae sunt etiam negotiis anteponenda.</quote>
 tamque perspicuum, cum caelum suspeximus caelestiaque contemplati sumus, quam esse aliquod numen
 praestantissimae mentis quo haec regantur? quod ni
 ita esset, qui potuisset adsensu omnium dicere Ennius
-&quot;aspice hoc sublime candens, quem invocant omnes
-Iovem&quot;&mdash;illum vero et Iovem et dominatorem rerum
-et omnia motu regentem et, ut idem Ennius, &quot;patrem divumque hominumque&quot; et praesentem ac praepotentem
+"aspice hoc sublime candens, quem invocant omnes
+Iovem"&mdash;illum vero et Iovem et dominatorem rerum
+et omnia motu regentem et, ut idem Ennius, "patrem divumque hominumque" et praesentem ac praepotentem
 deum? quod qui dubitet, haud sane intellego cur non
 idem sol sit an nullus sit dubitare possit;
 
@@ -1553,10 +1552,10 @@ responderunt non fuisse iustum comitiorum rogatorem.
 
 tum Gracchus, ut e patre audiebam, incensus ira:
 
-<milestone unit="section" n="11"/>&quot;itane
+<milestone unit="section" n="11"/>"itane
 vero, ego non iustus, qui et consul rogavi et augur et
 auspicato? an vos Tusci ac barbari auspiciorum populi
-Romani ius tenetis et interpretes esse comitiorum potestis?&quot; itaque tum illos exire iussit. post autem e provincia litteras ad collegium misit, se cum legeret libros
+Romani ius tenetis et interpretes esse comitiorum potestis?" itaque tum illos exire iussit. post autem e provincia litteras ad collegium misit, se cum legeret libros
 recordatum esse vitio sibi tabernaculum captum fuisse
 hortos Scipionis, quod, cum pomerium postea intrasset
 habendi senatus causa, in redeundo cum idem pomerium transiret auspicari esset oblitus; itaque vitio
@@ -1607,7 +1606,7 @@ infinita vetustas mentita sit, statuat necesse est ab aliqua mente tantos natura
 
 <milestone unit="section" n="16"/>Chrysippus
 quidem, quamquam est acerrimo ingenio, tamen ea
-dicit ut ab ipsa natura didicisse, non ut ipse repperisse videatur. &quot;Si enim&quot; inquit &quot;est aliquid in rerum natura quod hominis mens quod ratio quod vis quod potestas humana efficere non possit, est certe id quod illud
+dicit ut ab ipsa natura didicisse, non ut ipse repperisse videatur. "Si enim" inquit "est aliquid in rerum natura quod hominis mens quod ratio quod vis quod potestas humana efficere non possit, est certe id quod illud
 efficit homine melius; atqui res caelestes omnesque eae
 quarum est ordo sempiternus ab homine confici non
 possunt; est igitur id quo illa conficiuntur homine melius. id autem quid potius dixeris quam deum? Etenim
@@ -1617,7 +1616,7 @@ praestantius; esse autem hominem qui nihil in omni
 mundo melius esse quam se putet desipientis adrogantiae est; ergo est aliquid melius. est igitur profecto
 deus.
 
-<milestone unit="section" n="17"/>&quot; An vero, si domum magnam pulchramque videris, non possis adduci ut, etiam si dominum non videas, muribus illam et mustelis aedificatam putes&mdash;:
+<milestone unit="section" n="17"/>" An vero, si domum magnam pulchramque videris, non possis adduci ut, etiam si dominum non videas, muribus illam et mustelis aedificatam putes&mdash;:
 tantum ergo ornatum mundi, tantam varietatem pulchritudinemque rerum caelestium, tantam vim et magnitudinem maris atque terrarum si tuum ac non deorum inmortalium domicilium putes, nonne plane desipere videare? An ne hoc quidem intellegimus, omnia
 supera esse meliora, terram autem esse infimam, quam
 crassissimus circumfundat aer: ut ob eam ipsam causam,
@@ -1628,7 +1627,7 @@ propter caeli pleniorem naturam, hoc idem generi humano evenerit, quod in terra 
 
 <milestone unit="section" n="18"/>Et tamen ex ipsa hominum
 sollertia esse aliquam mentem et eam quidem acriorem et divinam existimare debemus. unde enim hanc
-homo &quot;arripuit&quot;, ut ait apud Xenophontem Socrates.
+homo "arripuit", ut ait apud Xenophontem Socrates.
 quin et umorem et calorem, qui est fusus in corpore,
 et terrenam ipsam viscerum soliditatem, animum denique illum spirabilem si quis quaerat unde habeamus,
 apparet; quorum aliud a terra sumpsimus aliud ab
@@ -1661,24 +1660,24 @@ modo, conclusa autem aqua facile conrumpitur, sic orationis flumine reprensoris 
 autem conclusae rationis non facile se ipsa tutatur.
 Haec enim quae dilatantur a nobis Zeno sic premebat:
 <milestone unit="section" n="21"/>
-&quot;Quod ratione utitur id melius est quam id quod ratione non utitur; nihil autem mundo melius; ratione
-igitur mundus utitur&quot;. similiter effici potest sapientem
+"Quod ratione utitur id melius est quam id quod ratione non utitur; nihil autem mundo melius; ratione
+igitur mundus utitur". similiter effici potest sapientem
 esse mundum, similiter beatum, similiter aeternum;
 omnia enim haec meliora sunt quam ea quae sunt his
 carentia, nec mundo quicquam melius. ex quo efficietur esse mundum deum.
 
-<milestone unit="section" n="22"/>Idemque hoc modo: &quot;Nullius
+<milestone unit="section" n="22"/>Idemque hoc modo: "Nullius
 sensu carentis pars aliqua potest esse sentiens; mundi
 autem partes sentientes sunt; non igitur caret sensu
-mundus&quot;. Pergit idem et urguet angustius: &quot;Nihil&quot; inquit &quot;quod animi quodque rationis est expers, id generare ex se potest animantem compotemque rationis;
-mundus autem generat animantis compotesque rationis; animans est igitur mundus composque rationis&quot;. Idemque similitudine, ut saepe solet, rationem
-conclusit hoc modo: &quot;Si ex oliva modulate canentes
+mundus". Pergit idem et urguet angustius: "Nihil" inquit "quod animi quodque rationis est expers, id generare ex se potest animantem compotemque rationis;
+mundus autem generat animantis compotesque rationis; animans est igitur mundus composque rationis". Idemque similitudine, ut saepe solet, rationem
+conclusit hoc modo: "Si ex oliva modulate canentes
 tibiae nascerentur, num dubitares quin inesset in oliva
 tibicini quaedam scientia? quid si platani fidiculas ferrent numerose sonantes: idem scilicet censeres in platanis
 <pb id="p.58"/>
  inesse musicam. cur igitur mundus non animans
 sapiensque iudicetur, cum ex se procreet animantis
-atque sapientis?&quot;
+atque sapientis?"
 </p>
 <milestone unit="section" n="23"/>
 
@@ -1882,13 +1881,13 @@ Cleanthes putat, tactus et oculorum. nam solis calor et
 candor inlustrior est quam ullius ignis, quippe qui inmenso mundo tam longe lateque conluceat, et is eius
 tactus est, non ut tepefaciat solum sed etiam saepe
 comburat, quorum neutrum faceret nisi esset igneus.
-&quot;ergo&quot; inquit &quot;cum sol igneus sit Oceanique alatur umoribus&quot; (quia nullus ignis sine pastu aliquo possit permanere) &quot;necesse est aut ei similis sit igni quem adhibemus ad usum atque victum, aut ei qui corporibus
+"ergo" inquit "cum sol igneus sit Oceanique alatur umoribus" (quia nullus ignis sine pastu aliquo possit permanere) "necesse est aut ei similis sit igni quem adhibemus ad usum atque victum, aut ei qui corporibus
 animantium continetur.
 
 <milestone unit="section" n="41"/>atqui hic noster ignis, quem
 usus vitae requirit, confector est et consumptor omnium idemque quocumque invasit cuncta disturbat ac
 dissipat; contra ille corporeus vitalis et salutaris omnia
-conservat alit auget sustinet sensuque adficit.&quot; negat
+conservat alit auget sustinet sensuque adficit." negat
 ergo esse dubium horum ignium sol utri similis sit, cum
 is quoque efficiat ut omnia floreant et in suo quaeque
 genere pubescant. quare cum solis ignis similis eorum
@@ -1987,7 +1986,7 @@ mundos alios aliarum esse formarum.
 
 <milestone unit="section" n="49"/>quae si bis bina
 quot essent didicisset Epicurus certe non diceret; sed
-dum palato quid sit optimum iudicat, &quot;caeli palatum&quot;,
+dum palato quid sit optimum iudicat, "caeli palatum",
 ut ait Ennius, non suspexit.</p>
 
 <p>Nam cum duo sint genera siderum, quorum alterum <pb id="p.68"/>
@@ -2125,7 +2124,7 @@ arbitrabantur. itaque tum illud quod erat a deo natum
 nomine ipsius dei nuncupabant, ut cum fruges Cererem
 appellamus vinum autem Liberum, ex quo illud Te-
 <milestone unit="section" n="61"/>
-renti &quot;sine Cerere et Libero friget Venus&quot;, tum autem
+renti "sine Cerere et Libero friget Venus", tum autem
 res ipsa, in qua vis inest maior aliqua, sic appellatur ut
 ea ipsa vis nominetur deus, ut Fides ut Mens, quas in
 Capitolio dedicatas videmus proxume a M. Aemilio
@@ -2175,14 +2174,14 @@ qui deus Graece id ipsum nomen habet: <foreign lang="greek">*kro/nos</foreign> e
 dicitur, qui est idem <foreign lang="greek">xro/nos</foreign> id est spatium temporis.
 Saturnus autem est appellatus quod saturaretur annis;
 ex se enim natos comesse fingitur solitus, quia consumit aetas temporum spatia annisque praeteritis insaturabiliter expletur. vinctus autem a Iove, ne inmoderatos cursus haberet, atque ut eum siderum vinclis alligaret. sed ipse Iuppiter, id est iuvans pater, quem conversis casibus appellamus a iuvando Iovem, a poetis
-&quot;pater divomque hominumque&quot; dicitur, a maioribus autem nostris optumus maxumus, et quidem ante optimus
+"pater divomque hominumque" dicitur, a maioribus autem nostris optumus maxumus, et quidem ante optimus
 id est beneficentissimus quam maximus, quia maius
 est certeque gratius prodesse omnibus quam opes mag-
 <milestone unit="section" n="65"/>
-nas habere&mdash;hunc igitur Ennius, ut supra dixi, nuncupat ita dicens &quot;aspice hoc sublime candens, quem invocant omnes Iovem&quot; planius quam alio loco idem &quot;cui
-quod in me est exsecrabor hoc quod lucet quicquid est&quot;;
-hunc etiam augures nostri cum dicunt &quot;Iove fulgente
-tonante&quot;: dicunt enim &quot;caelo fulgente et tonante&quot;. Euripides autem ut multa praeclare sic hoc breviter:
+nas habere&mdash;hunc igitur Ennius, ut supra dixi, nuncupat ita dicens "aspice hoc sublime candens, quem invocant omnes Iovem" planius quam alio loco idem "cui
+quod in me est exsecrabor hoc quod lucet quicquid est";
+hunc etiam augures nostri cum dicunt "Iove fulgente
+tonante": dicunt enim "caelo fulgente et tonante". Euripides autem ut multa praeclare sic hoc breviter:
 <quote rend="blockquote"><l>vides sublime fusum immoderatum aethera, </l>
 <l>qui terram tenero circumiectu amplectitur: </l>
 <l>hunc summum habeto divum, hunc perhibeto Iovem.</l></quote>
@@ -2281,8 +2280,8 @@ quasi quandam deam singularem, quae mundum omnem gubernet et regat.
 
 <milestone unit="section" n="74"/>sed id praecise dicitur: ut, si <pb id="p.79"/>
 quis dicat Atheniensium rem publicam consilio regi,
-desit illud &quot;Arii pagi&quot;, sic, cum dicimus providentia
-mundum administrari, deesse arbitrato &quot;deorum&quot;, plene
+desit illud "Arii pagi", sic, cum dicimus providentia
+mundum administrari, deesse arbitrato "deorum", plene
 autem et perfecte sic dici existumato, providentia
 deorum mundum administrari. Ita salem istum, quo
 caret vestra natio, in inridendis nobis nolitote consumere, et mercule si me audiatis ne experiamini quidem; non decet non datum est non potestis. nec vero
@@ -2470,7 +2469,7 @@ modo loquitur:
 <l>molem ex profundo saxeam ad caelum eruit:</l></quote>
 dubitat primo quae sit ea natura quam cernit ignotam;
 idemque iuvenibus visis auditoque nautico cantu:
-&quot;sicut &dagger;inciti atque alacres rostris perfremunt delphini&quot;
+"sicut &dagger;inciti atque alacres rostris perfremunt delphini"
 &mdash;item alia multa&mdash;
 <quote rend="blockquote"><l>Silvani melo </l>
 <l>consimilem ad aures cantum et auditum refert</l></quote>
@@ -2491,13 +2490,13 @@ cui nomen est aer&mdash;Graecum illud quidem sed perceptum iam tamen usu a nostr
 Latino. hunc rursus amplectitur inmensus aether, qui
 constat ex altissimis ignibus (mutuemur hoc quoque
 verbum, dicaturque tam aether Latine quam dicitur aer,
-etsi interpretatur Pacuvius: &quot;hoc, quod memoro, nostri
-caelum Grai perhibent aethera&quot;&mdash;quasi vero non
-Graius hoc dicat. &quot;at Latine loquitur.&quot; si quidem nos
+etsi interpretatur Pacuvius: "hoc, quod memoro, nostri
+caelum Grai perhibent aethera"&mdash;quasi vero non
+Graius hoc dicat. "at Latine loquitur." si quidem nos
 non quasi Graece loquentem audiamus; docet idem alio
 loco:
 
-<milestone unit="section" n="92"/>&quot;Graiugena: de isto aperit ipsa oratio&quot;)&mdash;sed ad
+<milestone unit="section" n="92"/>"Graiugena: de isto aperit ipsa oratio")&mdash;sed ad
 maiora redeamus. ex aethere igitur innumerabiles
 flammae siderum existunt, quorum est princeps sol
 omnia clarissima luce conlustrans, multis partibus
@@ -2523,7 +2522,7 @@ sunt minus operosa; et multa quidem faciliora. certe
 ita temere de mundo effuttiunt, ut mihi quidem numquam hunc admirabilem caeli ornatum (qui locus est
 proxumus) suspexisse videantur.
 
-<milestone unit="section" n="95"/>Praeclare ergo Aristoteles &quot;Si essent&quot; inquit &quot;qui sub terra semper habitavissent bonis et inlustribus domiciliis, quae essent ornata signis atque picturis instructaque rebus his omnibus quibus abundant i qui beati putantur, nec tamen
+<milestone unit="section" n="95"/>Praeclare ergo Aristoteles "Si essent" inquit "qui sub terra semper habitavissent bonis et inlustribus domiciliis, quae essent ornata signis atque picturis instructaque rebus his omnibus quibus abundant i qui beati putantur, nec tamen
 exissent umquam supra terram, accepissent autem fama
 et auditione esse quoddam numen et vim deorum,
 deinde aliquo tempore patefactis terrae faucibus ex
@@ -2536,7 +2535,7 @@ lunaeque luminum varietatem tum crescentis tum senescentis, eorumque omnium ortu
 omni aeternitate ratos inmutabilesque cursus&mdash;quae
 cum viderent, profecto et esse deos et haec tanta opera
 <milestone unit="section" n="96"/>
-deorum esse arbitrarentur&quot;. atque haec quidem ille;
+deorum esse arbitrarentur". atque haec quidem ille;
 nos autem tenebras cogitemus tantas quantae quondam
 eruptione Aetnaeorum ignium finitimas regiones obscuravisse dicuntur, ut per biduum nemo hominem
 homo agnosceret, cum autem tertio die sol inluxisset
@@ -2627,7 +2626,7 @@ mutatione aut varietate
 quorum contemplatione nullius expleri potest animus
 naturae constantiam videre cupientis.
 <quote rend="blockquote"><l>extremusque adeo duplici de cardine vertex </l>
-<l>dicitur esse polus.&quot;</l></quote> <pb id="p.91"/>
+<l>dicitur esse polus."</l></quote> <pb id="p.91"/>
 Hunc circum Arctoe duae feruntur numquam occidentes.
 <quote rend="blockquote"><l>ex is altera apud Graios Cynosura vocatur, </l>
 <l>altera dicitur esse Helice,</l></quote>
@@ -2677,7 +2676,7 @@ Septentriones autem sequitur
 <l>quod quasi temone adiunctam prae se quatit Arctum.</l></quote>
 Dein quae sequuntur:
 
-<milestone unit="section" n="110"/>&quot;huic&quot; enim Booti
+<milestone unit="section" n="110"/>"huic" enim Booti
 <quote rend="blockquote"><l>subter praecordia fixa videtur </l>
 <l>stella micans radiis, Arcturus nomine claro;</l></quote>
 cuius &lt;pedibus&gt; subiecta fertur
@@ -2746,7 +2745,7 @@ refulget. post Lepus subsequitur
 <l>at Canis ad caudam serpens prolabitur Argo.</l></quote>
 <quote rend="blockquote"><l>hanc Aries tegit et squamoso corpore Pisces </l>
 <l>Fluminis inlustri tangentem corpore ripas.</l></quote>
-quem longe &quot;serpentem&quot; et manantem aspicies
+quem longe "serpentem" et manantem aspicies
 <quote rend="blockquote"><l>proceraque Vincla videbis, </l>
 <l>quae retinent Pisces caudarum a parte locata</l></quote>
 <quote rend="blockquote"><l>Inde Nepae cernes propter fulgentis acumen </l>
@@ -3504,15 +3503,15 @@ facis; mandavi enim memoriae non numerum solum
 sed etiam ordinem argumentorum tuorum. Primum
 fuit, cum caelum suspexissemus statim nos intellegere
 esse aliquod numen quo haec regantur. ex hoc illud
-etiam &quot;aspice hoc sublime candens, quem invocant
+etiam "aspice hoc sublime candens, quem invocant
 <milestone unit="section" n="11"/>
-omnes Iovem&quot;: quasi vero quisquam nostrum istum potius quam Capitolinum Iovem appellet, aut hoc perspicuum sit constetque inter omnes, eos esse deos quos
+omnes Iovem": quasi vero quisquam nostrum istum potius quam Capitolinum Iovem appellet, aut hoc perspicuum sit constetque inter omnes, eos esse deos quos
 tibi Velleius multique praeterea ne animantis quidem
 esse concedant. Grave etiam argumentum tibi videbatur, quod opinio de dis inmortalibus et omnium esset <pb id="p.122"/>
 et cottidie cresceret: placet igitur tantas res opinione
 stultorum iudicari, vobis praesertim qui illos insanos
-esse dicatis? &quot;At enim praesentis videmus deos, ut
-apud Regillum Postumius, in Salaria Vatinius&quot;&mdash;nescio quid etiam de Locrorum apud Sagram proelio.
+esse dicatis? "At enim praesentis videmus deos, ut
+apud Regillum Postumius, in Salaria Vatinius"&mdash;nescio quid etiam de Locrorum apud Sagram proelio.
 quos igitur tu Tyndaridas appellabas id est homines
 homine natos, et quos Homerus, qui recens ab illorum
 aetate fuit, sepultos esse dicit Lacedaemone, eos tu
@@ -3553,8 +3552,8 @@ futurum, cum id certe futurum sit? Unde porro ista
 divinatio, quis invenit fissum iecoris, quis cornicis cantum notavit quis sortis? quibus ego credo, nec possum Atti Navi quem commemorabas lituum contemnere, sed qui ista intellecta sint a philosophis debeo discere, praesertim cum plurimis de rebus divini
 isti mentiantur.
 
-<milestone unit="section" n="15"/>&quot;At medici quoque&quot; (ita enim dicebas)
-&quot;saepe falluntur&quot;. Quid simile medicina, cuius ego rationem video, et divinatio, quae unde oriatur non intellego? Tu autem etiam Deciorum devotionibus placatos deos esse censes. quae fuit eorum tanta iniquitas, ut placari populo Romano non possent nisi viri
+<milestone unit="section" n="15"/>"At medici quoque" (ita enim dicebas)
+"saepe falluntur". Quid simile medicina, cuius ego rationem video, et divinatio, quae unde oriatur non intellego? Tu autem etiam Deciorum devotionibus placatos deos esse censes. quae fuit eorum tanta iniquitas, ut placari populo Romano non possent nisi viri
 tales occidissent? consilium illud imperatorium fuit,
 quod Graeci <foreign lang="greek">strath/ghma</foreign> appellant, sed eorum imperatorum qui patriae consulerent vitae non parcerent; rebantur enim fore ut exercitus imperatorem equo incitato se in hostem inmittentem persequeretur, id quod
 evenit. Nam Fauni vocem equidem numquam audivi; <pb id="p.124"/>
@@ -3619,7 +3618,7 @@ sapientius, nullo modo prorsus adsentior, non quod
 difficile sit mentem ab oculis sevocare, sed quo magis
 sevoco eo minus id quod tu vis possum mente comprendere.
 <pb id="p.126"/>
- &quot;Nihil est mundo melius in rerum natura.&quot;
+ "Nihil est mundo melius in rerum natura."
 Ne in terris quidem urbe nostra; num igitur idcirco in
 urbe esse rationem cogitationem mentem putas, aut,
 quoniam non sit, num idcirco existimas formicam anteponendam esse huic pulcherrumae urbi, quod in urbe
@@ -3630,12 +3629,12 @@ tibi concedatur, non te ipsum quod velis sumere.
 <milestone unit="section" n="22"/>Istum
 enim locum totum illa vetus Zenonis brevis et ut tibi
 videbatur acuta conclusio dilatavit * . Zeno enim ita
-concludit: &quot;Quod ratione utitur id melius est quam id
+concludit: "Quod ratione utitur id melius est quam id
 quod ratione non utitur; nihil autem mundo melius;
 <milestone unit="section" n="23"/>
-ratione igitur mundus utitur&quot;. Hoc si placet, iam efficies ut mundus optime librum legere videatur; Zenonis enim vestigiis hoc modo rationem poteris concludere: &quot;quod litteratum est id est melius quam quod non
+ratione igitur mundus utitur". Hoc si placet, iam efficies ut mundus optime librum legere videatur; Zenonis enim vestigiis hoc modo rationem poteris concludere: "quod litteratum est id est melius quam quod non
 est litteratum; nihil autem mundo melius; litteratus
-igitur est mundus&quot;&mdash;isto modo etiam disertus et quidem mathematicus musicus, omni denique doctrina
+igitur est mundus"&mdash;isto modo etiam disertus et quidem mathematicus musicus, omni denique doctrina
 eruditus, postremo philosophus. Saepe dixisti nihil fieri
 sine deo, nec ullam vim esse naturae ut sui dissimilia
 posset effingere: concedam non modo animantem et
@@ -3655,7 +3654,7 @@ incredibilique constantia.
 <milestone unit="section" n="24"/>sed non omnia Balbe quae
 cursus certos et constantis habent ea deo potius tribuenda sunt quam naturae. quid Chalcidico Euripo in
 motu identidem reciprocando putas fieri posse constantius, quid freto Siciliensi, quid Oceani fervore illis
-in locis, &quot;Europam Libyamque rapax ubi dividit unda&quot;?
+in locis, "Europam Libyamque rapax ubi dividit unda"?
 quid aestus maritimi vel Hispanienses vel Brittannici
 eorumque certis temporibus vel accessus vel recessus
 sine deo fieri nonne possunt? vide quaeso, si omnis
@@ -3670,10 +3669,10 @@ deum.</p>
 <p>Et Chrysippus tibi acute dicere videbatur, homo sine
 dubio versutus et callidus (versutos eos appello quorum celeriter mens versatur, callidos autem quorum
 tamquam manus opere sic animus usu concalluit); is
-igitur &quot;Si aliquid est&quot; inquit &quot;quod homo efficere non
+igitur "Si aliquid est" inquit "quod homo efficere non
 possit, qui id efficit melior est homine; homo autem
 haec quae in mundo sunt efficere non potest; qui potuit igitur is praestat homini; homini autem praestare
-quis possit nisi deus; est igitur deus&quot;. Haec omnia in
+quis possit nisi deus; est igitur deus". Haec omnia in
 eodem quo illa Zenonis errore versantur.
 
 <milestone unit="section" n="26"/>quid enim
@@ -3685,9 +3684,9 @@ homine esse melius, summae adrogantiae censet esse.
 Sit sane adrogantis pluris se putare quam mundum; at
 illud non modo non adrogantis sed potius prudentis,
 intellegere se habere sensum et rationem, haec eadem
-Orionem et Caniculam non habere. Et &quot;Si domus
-pulchra sit, intellegamus eam dominis&quot; inquit &quot;aedificatam esse non muribus; sic igitur mundum deorum
-domum existimare debemus&quot;. Ita prorsus existimarem,
+Orionem et Caniculam non habere. Et "Si domus
+pulchra sit, intellegamus eam dominis" inquit "aedificatam esse non muribus; sic igitur mundum deorum
+domum existimare debemus". Ita prorsus existimarem,
 si illum aedificatum, non quem ad modum docebo a
 natura conformatum putarem.
 
@@ -3795,10 +3794,10 @@ commune est de calido; verum tamen videamus exitum.
 ita voltis opinor, nihil esse animal extrinsecus in natura atque mundo praeter ignem: qui magis quam
 praeter animam, unde animantium quoque constet animus, ex quo animal dicitur? quo modo autem hoc
 quasi concedatur sumitis, nihil esse animum nisi
-ignem; probabilius enim videtur tale quiddam esse animum, ut sit ex igni atque anima temperatum. &quot;Quod
+ignem; probabilius enim videtur tale quiddam esse animum, ut sit ex igni atque anima temperatum. "Quod
 si ignis ex sese ipse animal est nulla se alia admiscente
 natura, quoniam is, cum inest in corporibus nostris,
-efficit ut sentiamus, non potest ipse esse sine sensu.&quot;
+efficit ut sentiamus, non potest ipse esse sine sensu."
 Rursus eadem dici possunt: quidquid est enim quod
 sensum habeat, id necesse est sentiat et voluptatem
 et dolorem, ad quem autem dolor veniat ad eundem
@@ -3847,8 +3846,8 @@ cives in caelum receptos putant.
 <milestone unit="section" n="40"/>Haec igitur indocti;
 quid vos philosophi, qui meliora? Omitto illa, sunt
 enim praeclara: sit sane deus ipse mundus. hoc credo
-illud esse &quot;sublime candens, quem invocant omnes
-Iovem&quot;. Quare igitur pluris adiungimus deos? quanta
+illud esse "sublime candens, quem invocant omnes
+Iovem". Quare igitur pluris adiungimus deos? quanta
 autem est eorum multitudo: mihi quidem sane multi
 videntur; singulas enim stellas numeras deos eosque
 aut beluarum nomine appellas, ut Capram ut Nepam
@@ -3862,8 +3861,8 @@ vescatur deum credat esse? Nam quos ab hominibus
 pervenisse dicis ad deos, tu reddes rationem quem ad
 modum id fieri potuerit aut cur fieri desierit, et ego
 discam libenter; quo modo nunc quidem est, non video
-quo pacto ille, cui &quot;in monte Oetaeo inlatae lampades&quot;
-fuerint ut ait Accius, &quot;in domum aeternam patris&quot; ex
+quo pacto ille, cui "in monte Oetaeo inlatae lampades"
+fuerint ut ait Accius, "in domum aeternam patris" ex
 illo ardore pervenerit; quem tamen Homerus apud inferos conveniri facit ab Ulixe sicut ceteros qui excesserant vita.
 </p>
 
@@ -3889,7 +3888,7 @@ hic ex Alcmena quem Iuppiter genuit, sed tertius Iuppiter, quoniam ut iam docebo
 iure pontificio et more maiorum capedunculis his, quas
 Numa nobis reliquit, de quibus in illa aureola oratiuncula dicit Laelius, quam rationibus Stoicorum. Si
 enim vos sequar, dic quid ei respondeam qui me sic
-roget: &quot;Si di sunt * * , suntne etiam Nymphae deae? si
+roget: "Si di sunt * * , suntne etiam Nymphae deae? si
 Nymphae, Panisci etiam et Satyri; hi autem non sunt;
 ne Nymphae [deae] quidem igitur. at earum templa
 sunt publice vota et dedicata. ne ceteri quidem ergo
@@ -3900,11 +3899,11 @@ Acheron Cocytus Pyriphlegethon, tum Charon tum
 Cerberus di putandi.
 
 <milestone unit="section" n="44"/>at id quidem repudiandum; ne
-Orcus quidem igitur; quid dicitis ergo de fratribus?&quot;
+Orcus quidem igitur; quid dicitis ergo de fratribus?"
 Haec Carneades aiebat, non ut deos tolleret (quid enim <pb id="p.135"/>
 philosopho minus conveniens), sed ut Stoicos nihil de
-dis explicare convinceret; itaque insequebatur: &quot;Quid
-enim&quot; aiebat, &quot;si hi fratres sunt in numero deorum, num
+dis explicare convinceret; itaque insequebatur: "Quid
+enim" aiebat, "si hi fratres sunt in numero deorum, num
 de patre eorum Saturno negari potest, quem volgo maxime colunt ad occidentem? qui si est deus, patrem
 quoque eius Caelum esse deum confitendum est. quod
 si ita est, Caeli quoque parentes dii habendi sunt Aether
@@ -3915,7 +3914,7 @@ Querella Gratia Fraus Pertinacia Parcae Hesperides
 Somnia; quos omnis Erebo et Nocte natos ferunt. aut
 igitur haec monstra probanda sunt aut prima illa tollenda.
 
-<milestone unit="section" n="45"/>&quot; Quid Apollinem Volcanum Mercurium ceteros
+<milestone unit="section" n="45"/>" Quid Apollinem Volcanum Mercurium ceteros
 deos esse dices, de Hercule Aesculapio Libero Castore
 Polluce dubitabis? at hi quidem coluntur aeque atque
 illi, apud quosdam etiam multo magis. ergo hi dei sunt
@@ -3970,9 +3969,9 @@ rei publicae causa periculum adiret optimus quisque,
 virorum fortium memoriam honore deorum immortalium consecratam. ob eam enim ipsam causam Erectheus Athenis filiaeque eius in numero deorum sunt,
 itemque Leonaticum est delubrum Athenis quod <foreign lang="greek">*lewko/rion</foreign> nominatur. Alabandenses quidem sanctius Alabandum colunt, a quo est urbs illa condita, quam
 quemquam nobilium deorum; apud quos non inurbane
-Stratonicus ut multa, cum quidam ei molestus Alabandum deum esse confirmaret Herculem negaret, &quot;ergo&quot;
+Stratonicus ut multa, cum quidam ei molestus Alabandum deum esse confirmaret Herculem negaret, "ergo"
 <milestone unit="section" n="51"/>
-inquit &quot;mihi Alabandus tibi Hercules sit iratus&quot;. Illa
+inquit "mihi Alabandus tibi Hercules sit iratus". Illa
 autem Balbe, quae tu a caelo astrisque ducebas, quam <pb id="p.138"/>
 longe serpant non vides: solem deum esse lunamque,
 quorum alterum Apollinem Graeci alteram Dianam putant. quod si luna dea est, ergo etiam Lucifer ceteraeque errantes numerum deorum optinebunt; igitur etiam
@@ -4087,9 +4086,9 @@ et enodatio nominum?
 
 exsectum a filio Caelum, vinctum itidem a filio Saturnum, haec et alia generis eiusdem ita defenditis, ut i qui ista finxerunt non modo
 non insani sed etiam fuisse sapientes videantur. in <pb id="p.143"/>
-enodandis autem nominibus quod miserandum sit laboratis: &quot;Saturnus quia se saturat annis, Mavors quia
+enodandis autem nominibus quod miserandum sit laboratis: "Saturnus quia se saturat annis, Mavors quia
 magna vertit, Minerva quia minuit aut quia minatur,
-Venus quia venit ad omnia, Ceres a gerendo&quot;. quam
+Venus quia venit ad omnia, Ceres a gerendo". quam
 periculosa consuetudo. in multis enim nominibus haerebitis: quid Veiovi facies quid Volcano? quamquam,
 quoniam Neptunum a nando appellatum putas, nullum
 erit nomen quod non possis una littera explicare unde
@@ -4233,7 +4232,7 @@ de quo recte et verissume loquitur Atreus:
 <l>periclum, matres coinquinari regias,</l>
 <l>contaminari stirpem, admisceri genus.</l></quote>
 at id ipsum quam callide, qui regnum adulterio quaereret:
-<quote rend="blockquote"><l>addo&quot; inquit &quot;huc, quod mihi portento caelestum pater </l>
+<quote rend="blockquote"><l>addo" inquit "huc, quod mihi portento caelestum pater </l>
 <l>prodigium misit, regni stabilimen mei,</l>
 <l>agnum inter pecudes aurea clarum coma</l>
 <l>quondam Thyestem clepere ausum esse e regia,</l>
@@ -4289,7 +4288,7 @@ semper in ratione versantur? parumne subtiliter disputat ille in Eunucho:
 <quote rend="blockquote"><l>exclusit, revocat; redeam? non si me obsecret.</l></quote>
 ille vero in Synephebis Academicorum more contra
 communem opinionem non dubitat pugnare ratione,
-qui &quot;in amore summo summaque inopia suave&quot; esse
+qui "in amore summo summaque inopia suave" esse
 dicit
 <quote rend="blockquote"><l>parentem habere avarum inlepidum in liberos </l>
 <l>difficilem, qui te nec amet nec studeat tui,</l></quote>
@@ -4317,7 +4316,7 @@ imitatus est; quid hoc homine sollertius? cognosce
 alias quaestiones, auri Tolossani coniurationis Iugurthinae; repete superiora: Tubuli de pecunia capta ob
 rem iudicandam; posteriora: de incestu rogatione Peducaea; tum haec cotidiana: sicae venena peculatus,
 testamentorum etiam lege nova quaestiones. inde illa
-actio &quot;ope consilioque tuo furtum aio factum esse&quot;,
+actio "ope consilioque tuo furtum aio factum esse",
 inde tot iudicia de fide mala, tutelae mandati pro socio
 fiduciae, reliqua quae ex empto aut vendito aut conducto aut locato contra fidem fiunt, inde iudicium publicum rei privatae lege Laetoria, inde everriculum
 malitiarum omnium iudicium de dolo malo, quod
@@ -4341,9 +4340,9 @@ videatur.
 <milestone unit="section" n="76"/>
 
 <p>Sed urgetis identidem hominum esse istam culpam
-non deorum. Ut si medicus gravitatem morbi, gubernator vim tempestatis accuset; etsi hi quidem homunculi, sed tamen ridiculi: &quot;quis enim te adhibuisset&quot; dixerit quispiam &quot;si ista non essent&quot;. contra deum licet
-disputare liberius: &quot;in hominum vitiis ais esse culpam:
-eam dedisses hominibus rationem quae vitia culpamque excluderet&quot;. Ubi igitur locus fuit errori deorum?
+non deorum. Ut si medicus gravitatem morbi, gubernator vim tempestatis accuset; etsi hi quidem homunculi, sed tamen ridiculi: "quis enim te adhibuisset" dixerit quispiam "si ista non essent". contra deum licet
+disputare liberius: "in hominum vitiis ais esse culpam:
+eam dedisses hominibus rationem quae vitia culpamque excluderet". Ubi igitur locus fuit errori deorum?
 nam patrimonia spe bene tradendi relinquimus, qua
 possumus falli; deus falli qui potuit? an ut Sol in currum quom Phaethontem filium sustulit, aut Neptunus
 cum Theseus Hippolytum perdidit, cum ter optandi a
@@ -4399,13 +4398,13 @@ iubere?
 
 <milestone unit="section" n="81"/>Dies deficiat si velim numerare quibus bonis
 male evenerit, nec minus si commemorem quibus improbis optime. Cur enim Marius tam feliciter septimum consul domi suae senex est mortuus, cur omnium
-crudelissimus tam diu Cinna regnavit? &quot;At dedit poenas.&quot; Prohiberi melius fuit impedirique ne tot summos
+crudelissimus tam diu Cinna regnavit? "At dedit poenas." Prohiberi melius fuit impedirique ne tot summos
 viros interficeret quam ipsum aliquando poenas dare.
 Summo cruciatu supplicioque Q. Varius homo importunissumus periit; si quia Drusum ferro Metellum veneno sustulerat, illos conservari melius fuit quam poenas sceleris Varium pendere. Duodequadraginta Dionysius tyrannus annos fuit opulentissumae et beatissumae civitatis;
 
 <milestone unit="section" n="82"/>quam multos ante hunc in ipso Graeciae
-flore Pisistratus. &quot;At Phalaris, at Apollodorus poenas
-sustulit.&quot; Multis quidem ante cruciatis et necatis. Et
+flore Pisistratus. "At Phalaris, at Apollodorus poenas
+sustulit." Multis quidem ante cruciatis et necatis. Et
 praedones multi saepe poenas dant, nec tamen possumus dicere non pluris captivos acerbe quam praedones
 necatos. Anaxarchum Democriteum a Cyprio tyranno
 excarnificatum accepimus, Zenonem Eleatem in tormentis necatum; quid dicam de Socrate, cuius morti
@@ -4417,7 +4416,7 @@ sublatum?
 Harpalum, qui temporibus illis praedo felix habebatur,
 contra deos testimonium dicere, quod in illa fortuna
 tam diu viveret. Dionysius, de quo ante dixi, cum fanum Proserpinae Locris expilavisset, navigabat Syracusas; isque cum secundissumo vento cursum teneret,
-ridens &quot;videtisne&quot; inquit &quot;amici quam bona a dis inmortalibus navigatio sacrilegis detur&quot;. atque homo acutus
+ridens "videtisne" inquit "amici quam bona a dis inmortalibus navigatio sacrilegis detur". atque homo acutus
 cum bene planeque percepisset, in eadem sententia
 perseverabat. qui quom ad Peloponnesum classem appulisset et in fanum venisset Iovis Olympii, aureum ei
 detraxit amiculum grandi pondere, quo Iovem ornarat
@@ -4430,7 +4429,7 @@ fanis pater imberbis esset.
 
 <milestone unit="section" n="84"/>iam mensas argenteas de
 omnibus delubris iussit auferri, in quibus quod more
-veteris Graeciae inscriptum esset &quot;bonorum deorum&quot;,
+veteris Graeciae inscriptum esset "bonorum deorum",
 uti se eorum bonitate velle dicebat. idem Victoriolas
 aureas et pateras coronasque, quae simulacrorum porrectis manibus sustinebantur, sine dubitatione tollebat
 <pb id="p.155"/>
@@ -4455,9 +4454,9 @@ et malorum.
 </p>
 <milestone unit="section" n="86"/>
 
-<p>&quot;At enim minora di neglegunt, neque agellos singulorum nec viticulas persequuntur, nec, si uredo aut
+<p>"At enim minora di neglegunt, neque agellos singulorum nec viticulas persequuntur, nec, si uredo aut
 grando cuipiam nocuit, id Iovi animadvertendum fuit;
-ne in regnis quidem reges omnia minima curant&quot;: sic
+ne in regnis quidem reges omnia minima curant": sic
 enim dicitis. Quasi ego paulo ante de fundo Formiano
 P. Rutili sim questus non de amissa salute. Atque hoc
 quidem omnes mortales sic habent, externas commoditates,
@@ -4488,13 +4487,13 @@ opis victoriae facultas a dis expetenda est.</p>
 <p>Inproborum igitur prosperitates secundaeque res redarguunt, ut Diogenes dicebat, vim omnem deorum
 ac potestatem.
 
-<milestone unit="section" n="89"/>&quot;At non numquam bonos exitus habent
-boni.&quot; Eos quidem arripimus adtribuimusque sine ulla
+<milestone unit="section" n="89"/>"At non numquam bonos exitus habent
+boni." Eos quidem arripimus adtribuimusque sine ulla
 ratione dis inmortalibus. at Diagoras cum Samothracam venisset Atheus ille qui dicitur, atque ei quidam <pb id="p.157"/>
-amicus &quot;tu, qui deos putas humana neglegere, nonne
+amicus "tu, qui deos putas humana neglegere, nonne
 animadvertis ex tot tabulis pictis, quam multi votis vim
-tempestatis effugerint in portumque salvi pervenerint&quot;,
-&quot;ita fit&quot; inquit, &quot;illi enim nusquam picti sunt qui naufragia fecerunt in marique perierunt&quot;. idemque, cum
+tempestatis effugerint in portumque salvi pervenerint",
+"ita fit" inquit, "illi enim nusquam picti sunt qui naufragia fecerunt in marique perierunt". idemque, cum
 ei naviganti vectores adversa tempestate timidi et perterriti dicerent non iniuria sibi illud accidere qui illum
 in eandem navem recepissent, ostendit eis in eodem
 cursu multas alias laborantis quaesivitque num etiam
@@ -4504,8 +4503,8 @@ sis aut quem ad modum vixeris nihil intersit.
 </p>
 <milestone unit="section" n="90"/>
 
-<p>&quot;Non animadvertunt&quot; inquit &quot;omnia di, ne reges
-quidem&quot;. Quid est simile; reges enim si scientes praetermittunt, magna culpa est; at deo ne excusatio quidem est inscientiae. Quem vos praeclare defenditis,
+<p>"Non animadvertunt" inquit "omnia di, ne reges
+quidem". Quid est simile; reges enim si scientes praetermittunt, magna culpa est; at deo ne excusatio quidem est inscientiae. Quem vos praeclare defenditis,
 cum dicitis eam vim deorum esse, ut etiam si quis
 morte poenas sceleris effugerit expetantur eae poenae
 a liberis a nepotibus a posteris. O miram aequitatem
@@ -4541,7 +4540,7 @@ haec igitur quocumque se moveat, efficere posse quicquid velit. Itaque aut nesci
 res humanas, aut quid sit optimum non potest iudicare.
 <milestone unit="section" n="93"/>
 
-&quot;Non curat singulos homines.&quot; Non mirum: ne civitates
+"Non curat singulos homines." Non mirum: ne civitates
 quidem; non eas: ne nationes quidem et gentis. quod
 si has etiam contemnet, quid mirum est omne ab ea
 genus humanum esse contemptum?</p>

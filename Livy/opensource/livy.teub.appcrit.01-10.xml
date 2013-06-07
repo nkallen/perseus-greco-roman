@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -15,7 +14,7 @@
 	&fund.NEH;
 </titleStmt>
 	
-<extent></extent>
+<extent/>
 
 	&Perseus.publish;
 
@@ -586,7 +585,7 @@ urbis <hi rend="italics">coni. Madv. fort.</hi> aucta &lt;cum&gt; civitate magni
 <hi rend="italics">cf. c. 44, 3</hi> ad earn multitudinem urbs.. amplificanda visa est.)</p></div3>
 <div3 type="section" n="2"><p>(iam turn <hi rend="italics">RD,</hi> tantum <hi rend="italics">M,</hi>  uel tamtum <hi rend="italics">P</hi>1, ueltantum <hi rend="italics">P</hi>2<hi rend="italics">FU.</hi>)</p></div3>
 <div3 type="section" n="5"><p>(civis <hi rend="italics">PR</hi>1, cives <hi rend="italics">codd. rell.</hi>) &verbar; (immolasset <hi rend="italics">Rhenanus,</hi> immolassent <hi rend="italics">codd.</hi>)</p></div3>
-<div3 type="section" n="6"><p>(Sabinusque <hi rend="italics">codd.,</hi> Sabinus <hi rend="italics">Ald., Madv.</hi>></p></div3>
+<div3 type="section" n="6"><p>(Sabinusque <hi rend="italics">codd.,</hi> Sabinus <hi rend="italics">Ald., Madv.</hi>&gt;</p></div3>
 </div2>
 
 <div2 type="chapter" n="46">
@@ -1974,7 +1973,7 @@ labente <hi rend="italics">codd.</hi>)</p></div3>
 
 <pb id="p.XXVI"/>
 
-etenim <hi rend="italics">Madv.,</hi> nemin&#x1EBD; <hi rend="italics">codd.</hi>) &verbar; (fieri <hi rend="italics">HJM,</hi> haut fieri <hi rend="italics">Madv.,</hi> 
+etenim <hi rend="italics">Madv.,</hi> neminẽ <hi rend="italics">codd.</hi>) &verbar; (fieri <hi rend="italics">HJM,</hi> haut fieri <hi rend="italics">Madv.,</hi> 
 auferri <hi rend="italics">codd.,</hi> neminem ... adferre <hi rend="italics">Sigon., Weissenb.; HJM</hi>
 <hi rend="italics">coniecit:</hi> neminem ... verum &lt;indicaturum&gt; esse <hi rend="italics">vel</hi> neminem ... &lt;pass&gt;urum esse, <hi rend="italics">Harant:</hi> ceterum nemini ... verum
 esse praeiudicium rei tantae; auferri sibi placere; de eo...
@@ -2903,7 +2902,7 @@ cum <hi rend="italics">codd.</hi>).</p></div3> <div3 type="section" n="3"><p>(<h
 esset, plebs habebat).</p></div3> <div3 type="section" n="4"><p>(in conciliis <hi rend="italics">ed. Curion.,</hi> in consiliis
 <hi rend="italics">codd., Luterb. Non puto Livianum esse</hi> cogere consilium, <hi rend="italics">sed</hi>
 concilium, <hi rend="italics">v. 10, 16, 4. 36, 26, 1.</hi> [in] conciliis <hi rend="italics">Cr&eacute;v., Madv.</hi>).</p></div3>
-<div3 type="section" n="9"><p>((lt>cum&gt; universo ordini, tum <hi rend="italics">T. Faber,</hi> universo ordini cum
+<div3 type="section" n="9"><p>((lt&gt;cum&gt; universo ordini, tum <hi rend="italics">T. Faber,</hi> universo ordini cum
 <hi rend="italics">codd</hi>).</p></div3> <div3 type="section" n="13"><p>(effugere <hi rend="italics">M,</hi> confugere <hi rend="italics">codd. rell.</hi>).</p></div3></div2>
 
 <div2 type="chapter" n="49">
@@ -3365,7 +3364,7 @@ Madvig, Zingerle. Fort.</hi> lux.. &lt;aeque&gt; inquieta. .).</p></div3></div2>
 <div2 type="chapter" n="43">
 <div3 type="section" n="1"><p>(nequaquam <hi rend="italics">Whibley,</hi> nequiquam <hi rend="italics">MU,</hi> nec quicquam <hi rend="italics">P1,</hi> ne
 quicquam <hi rend="italics">P2</hi> (&lsquo;ne quicquam <hi rend="italics">p1,</hi> nec quicquam <hi rend="italics">P2</hi>&rsquo; <hi rend="italics">Figner</hi>).</p></div3>
-<div3 type="section" n="3"><p>(strage &lt;ea&gt;> <hi rend="italics">coni. Madv.</hi>).</p></div3> <div3 type="section" n="4"><p>(eos ipsos <hi rend="italics">V,</hi> ipsos <hi rend="italics">MPUL</hi>). &verbar;
+<div3 type="section" n="3"><p>(strage &lt;ea&gt;&gt; <hi rend="italics">coni. Madv.</hi>).</p></div3> <div3 type="section" n="4"><p>(eos ipsos <hi rend="italics">V,</hi> ipsos <hi rend="italics">MPUL</hi>). &verbar;
 (raptum omne Veios erat <hi rend="italics">codd.,</hi> raptum omne Veios &lt;vehi siv&gt;
 erant <hi rend="italics">coni. Madv. praef. p. XVI, quod haud displicet</hi>).</p></div3> <div3 type="section" n="5"><p><lemma>obsideri</lemma>] <hi rend="italics">sic codd.,</hi> obsidere <foreign lang="greek">s.</foreign></p></div3> <div3 type="section" n="8"><p>(ideo <hi rend="italics">Nov&aacute;k,</hi> de eo <hi rend="italics">codd.</hi>). &verbar;
 (pavidos <hi rend="italics">codd.,</hi> pavide <hi rend="italics">V</hi>).</p></div3></div2>
@@ -3634,7 +3633,7 @@ micat.. ardor. <hi rend="italics">Ov. Met. 15, 674</hi> oculos .. igne micantes;
 alibi cernebat <hi rend="italics">M, Vorm.</hi>).</p></div3> <div3 type="section" n="4"><p>(instare <hi rend="italics">Frob. 1,</hi> stare <hi rend="italics">codd.</hi>).</p></div3>
 <div3 type="section" n="7"><p><lemma>omnium de plebe</lemma>] <hi rend="italics">sic Siesbye,</hi> hominum de plebe <hi rend="italics">codd.
 Wesenberg coni.</hi> hominum &lt;solum&gt; de plebe. <hi rend="italics">Fuitne:</hi> homin&lt;es
-sol&gt;>um de plebe . . inventi; <hi rend="italics">cf. 8</hi> Cerceiensium quoque quidam cogniti?.</p></div3></div2>
+sol&gt;&gt;um de plebe . . inventi; <hi rend="italics">cf. 8</hi> Cerceiensium quoque quidam cogniti?.</p></div3></div2>
  
 <div2 type="chapter" n="14">
 <div3 type="section" n="2"><p>(intuenti <hi rend="italics">Gron.,</hi> intuenda <hi rend="italics">codd.</hi>).</p></div3>
@@ -4690,7 +4689,7 @@ auspicium gerere <hi rend="italics">non est Livianum</hi>).</p></div3></div2>
 <div3 type="section" n="6"><p>ser uos ero <hi rend="italics">M</hi>
 (servos = servus ero (hero) <hi rend="italics">Haupt opusc. I, 150</hi>), servo sero
 <hi rend="italics">Harl. 2,</hi> sumr (sum <hi rend="italics">P2</hi>) serio <hi rend="italics">P,</hi> serii <hi rend="italics">L,</hi> servo <foreign lang="greek">s,</foreign> serio <hi rend="italics">Klock</hi>
-(<hi rend="italics">Pithoeus</hi>), servo suo <hi rend="italics">ed. Mediol. 1480,</hi> serv&#x014F;s (<foreign lang="greek">paidagwgo\s</foreign>),
+(<hi rend="italics">Pithoeus</hi>), servo suo <hi rend="italics">ed. Mediol. 1480,</hi> servŏs (<foreign lang="greek">paidagwgo\s</foreign>),
 puero <hi rend="italics">dubitanter HJM. Loci corrupti vera emendatio nondum
 inventa est</hi>).</p></div3></div2>
 

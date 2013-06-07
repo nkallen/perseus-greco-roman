@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -5899,7 +5898,7 @@ against the rocks. We could see the bottom of the whirlpool all black
 with sand and mud, and the men were at their wit's ends for
 fear. While we were taken up with this, and were expecting each
 moment to be our last, Scylla pounced down suddenly upon us and
-violently [<term lang="xgreek">bi&ecirc;</term>]<term lang="xgreek"></term> snatched up my six best
+violently [<term lang="xgreek">bi&ecirc;</term>]<term lang="xgreek"/> snatched up my six best
 men. I was looking at once after both ship and men, and in a moment I
 saw their hands and feet ever so high above me, struggling in the air
 as Scylla was carrying them off, and I heard them call out my name in
@@ -6916,7 +6915,7 @@ tell them to throw me from yonder precipice, as a warning to tramps
 not to go about the country telling lies."</p>
 
 <p><milestone n="401" unit="line"/>"And <term lang="xgreek">aret&ecirc;</term> famed
-among men would be mine<term lang="xgreek"></term> " replied Eumaios, "both now and
+among men would be mine<term lang="xgreek"/> " replied Eumaios, "both now and
 hereafter, if I were to kill you after receiving you into my hut and
 showing you hospitality. I should have to say my prayers in good
 earnest if I did; but it is just supper time

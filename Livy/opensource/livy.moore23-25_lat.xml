@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -3807,7 +3806,7 @@
 					prosperae pugnae occasionem dari, tria milia expeditorum militum in villis circa vepribusque et silvis
 					disponit, qui signo dato simul omnes e latebris
 					<pb id="p.422"/>
-					existerent,<milestone unit="section" n="4>"/> et Magonem ac duo ferme milia equitum,<note type="margin">A.U.C. 542</note> qua fugam inclinaturam credebat, omnia itinera
+					existerent,<milestone unit="section" n="4&gt;"/> et Magonem ac duo ferme milia equitum,<note type="margin">A.U.C. 542</note> qua fugam inclinaturam credebat, omnia itinera
 					insidere iubet. <reg>his</reg> nocte praeparatis, prima luce
 					in aciem copias educit;<milestone unit="section" n="5"/> nec Fulvius est cunctatus,
 					non tam sua ulla spe quam militum impetu fortuito

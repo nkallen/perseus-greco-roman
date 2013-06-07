@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -387,7 +386,7 @@ quod, cum cotidie aliquid rogentur, ii quibus praestant indignantur? quod adliga
 umquam satis servi videntur nec nobis satis liberi? quae 
 haec summa eorum potentia est? tantum posse liberti 
 <milestone n="5" unit="section"/>
-solent. me vero &quot;dulces,&quot; ut Virgilius ait, &quot;Musae,&quot; remotum a sollicitudinibus et curis et necessitate cotidie aliquid 
+solent. me vero "dulces," ut Virgilius ait, "Musae," remotum a sollicitudinibus et curis et necessitate cotidie aliquid 
 contra animum faciendi, in illa sacra illosque fontis ferant; 
 nec insanum ultra et lubricum forum famamque pallentem trepidus experiar. 
 <milestone n="6" unit="section"/>
@@ -395,8 +394,8 @@ non me fremitus salutantium nec anhelans
 libertus excitet, nec incertus futuri testamentum pro pignore 
 scribam, nec plus habeam quam quod possim cui velim 
 relinquere; </p>
-<p></p><p>quandoque enim fatalis et meus dies </p>
-<p></p><p>veniet: 
+<p/><p>quandoque enim fatalis et meus dies </p>
+<p/><p>veniet: 
 statuarque tumulo non maestus et atrox, sed hilaris et 
 coronatus, et pro memoria mei nec consulat quisquam nec 
 roget.'   </p></div1>
@@ -541,7 +540,7 @@ aridum, Brutum autem otiosum atque diiunctum; rursusque
 Ciceronem a Calvo quidem male audisse tamquam solutum 
 et enervem, a Bruto autem, ut ipsius verbis utar, tamquam 
 <milestone n="6" unit="section"/>
-&quot;fractum atque elumbem.&quot; si me interroges, omnes mihi 
+"fractum atque elumbem." si me interroges, omnes mihi 
 videntur verum dixisse: sed mox ad singulos veniam, nunc 
 mihi cum universis negotium est. </p></div1>
 <div1 type="chapter" n="19">
@@ -678,9 +677,9 @@ et insulsam scurrilitatem, variet compositionem, nec omnis
 clausulas uno et eodem modo determinet. </p></div1>
 <div1 type="chapter" n="23">
 <milestone n="1" unit="section"/>
-<p>Nolo inridere &quot;rotam Fortunae&quot; et &quot;ius verrinum&quot; et 
+<p>Nolo inridere "rotam Fortunae" et "ius verrinum" et 
 illud tertio quoque sensu in omnibus orationibus pro sententia   
-positum &quot;esse videatur.&quot; nam et haec invitus rettuli et plura 
+positum "esse videatur." nam et haec invitus rettuli et plura 
 omisi, quae tamen sola mirantur atque exprimunt ii, qui 
 <milestone n="2" unit="section"/>
 se antiquos oratores vocitant. neminem nominabo, genus 
@@ -1061,7 +1060,7 @@ quas hodieque cum admiratione legimus. </p></div1>
 <milestone n="1" unit="section"/>
 <p>At nunc adulescentuli nostri deducuntur in scholas istorum, qui rhetores vocantur, quos paulo ante Ciceronis 
 tempora extitisse nec placuisse maioribus nostris ex eo 
-manifestum est, quod a Crasso et Domitio censoribus claudere, ut ait Cicero, &quot;ludum impudentiae&quot; iussi sunt. 
+manifestum est, quod a Crasso et Domitio censoribus claudere, ut ait Cicero, "ludum impudentiae" iussi sunt. 
 <milestone n="2" unit="section"/>
 sed ut dicere institueram, deducuntur in scholas, &lt;in&gt; quibus non 
 facile dixerim utrumne locus ipse an condiscipuli an genus 

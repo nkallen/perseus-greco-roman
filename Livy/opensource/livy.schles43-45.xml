@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -889,7 +888,7 @@
 					<milestone unit="section" n="22"/> later. On the <pb id="p.211"/>third day, he desisted from battle and went down to<note type="margin">B.C. 168</note> the lower side of the camp as if he were going to attempt the crossing through the spur of the fortifications which ran down to the
 					<milestone unit="section" n="23"/> sea. What was before Perseus' eyes ...<note>Judging from Plutarch, <hi rend="italics">Aemilius</hi> xvi, the lost four sheets told of the success of Nasica in clearing the pass, Perseus' fright and retreat, and his subsequent resolve to make a stand at Pydna; also of the joining of Nasica with Paulus and the overtaking of the Macedonians.</note></p> 
 				<p>
-					<milestone unit                   ="chapter" n="36"/>
+					<milestone unit="chapter" n="36"/>
 					<milestone unit="section" n="1"/>The season was that immediately following the turn of midsummer<note>See below, xxxvii. 5-8 and note 1; by the then calendar, it was Sept. 3.</note> ; the time of day was approaching noon; the journey had been made through much dust and an ever-hotter sun.
 					<milestone unit="section" n="2"/> Weariness and thirst now began to make themselves felt, and since it was presently obvious that midday would intensify the blazing heat, the consul decided not to expose men so weakened to a fresh and unwearied enemy;
 					<milestone unit="section" n="3"/> but such zeal was in their hearts for fighting at all costs that the consul needed as much skill to out manoeuvre his own men as the enemy.

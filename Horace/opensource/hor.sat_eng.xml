@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
  <teiHeader type="text" status="new">
@@ -122,20 +121,17 @@
 
      <p>How comes it to pass, Maecenas, that no one lives content with his condition, whether reason
       gave it him, or chance threw it in his way; [but] praises those who follow different pursuits?
-      "O happy merchants!" says the soldier, oppressed with years, <milestone ed="p" n="5"
-       unit="line"/>and now broken down in his limbs through excess of labor. On the other side, the
+      "O happy merchants!" says the soldier, oppressed with years, <milestone ed="p" n="5" unit="line"/>and now broken down in his limbs through excess of labor. On the other side, the
       merchant, when the south winds toss his ship [cries], "Warfare is preferable;" for why? the
       engagement is begun, and in an instant there comes a speedy death or a joyful victory. The
       lawyer praises the farmer's state <milestone ed="p" n="10" unit="line"/>when the client knocks
-      at his door by cockcrow. He who, having entered into a recognizance,<note anchored="yes" n="1"
-       resp="McCaul">
+      at his door by cockcrow. He who, having entered into a recognizance,<note anchored="yes" n="1" resp="McCaul">
        <p><cit>
          <quote lang="la">Datis vadibus.</quote>
          <bibl n="Hor. S. 1.1.11"/>
         </cit> In some suit, the farmer had given bail for his attendance on the day appointed for
         the trial. The persons who had bound themselves as bail for his appearance, are called
-         <foreign lang="la">vades</foreign>. The derivation of the word is supposed to be <foreign
-         lang="la">vadere</foreign>, "to go," because the person who procures such persons to answer
+         <foreign lang="la">vades</foreign>. The derivation of the word is supposed to be <foreign lang="la">vadere</foreign>, "to go," because the person who procures such persons to answer
         for his appearance, is allowed to go until the day of the trial.</p>
       </note> is dragged, from the country into the city, cries, "Those only are happy who live in
       the city." The other instances of this kind (they are so numerous) would weary out the
@@ -144,13 +140,11 @@
         of this name, a partisan of Pompey's, who had written some treatises on the doctrines of the
         Stoics, and who, he says, argued sometimes with Horace for the truth of the principles of
         that sect.</p>
-      </note> not to keep you in suspense, hear to what an issue I will bring the matter. <milestone
-       ed="p" n="15" unit="line"/>If any god should say, "Lo! I will effect what you desire: you,
+      </note> not to keep you in suspense, hear to what an issue I will bring the matter. <milestone ed="p" n="15" unit="line"/>If any god should say, "Lo! I will effect what you desire: you,
       that were just now a soldier, shall be a merchant; you, lately a lawyer [shall be] a farmer.
       Do ye depart one way, and ye another, having exchanged the parts you are to act in life. How
       now! Why do you stand?" They are unwilling; and yet it is in their power to be happy.
-       <milestone ed="p" n="20" unit="line"/>What reason can be assigned, but that <placeName
-       key="tgn,1125260">Jupiter</placeName> should deservedly distend both his cheeks in
+       <milestone ed="p" n="20" unit="line"/>What reason can be assigned, but that <placeName key="tgn,1125260">Jupiter</placeName> should deservedly distend both his cheeks in
       indignation, and declare that for the future he will not be so indulgent as to lend an ear to
       their prayers? But further, that I may not run over this in a laughing manner, like those [who
       treat] on ludicrous subjects (though what hinders one being merry, while telling the truth?
@@ -165,18 +159,15 @@
       retire into a secure resting-place, when once they have gotten together a sufficient
       provision.</p>
      <p>Thus the little ant (for she is an example), of great industry, carries in her mouth
-      whatever she is able, and adds to the heap which she piles up, <milestone ed="p" n="35"
-       unit="line"/>by no means ignorant and not careless for the future. Which [ant, nevertheless],
+      whatever she is able, and adds to the heap which she piles up, <milestone ed="p" n="35" unit="line"/>by no means ignorant and not careless for the future. Which [ant, nevertheless],
       as soon as Aquarius saddens the changed year, never creeps abroad, but wisely makes use of
       those stores which were provided beforehand: while neither sultry summer, nor winter, fire,
       ocean, sword, can drive you from gain. <milestone ed="p" n="40" unit="line"/>You surmount
       every obstacle, that no other man may be richer than yourself. What pleasure is it for you,
-      trembling to deposit an immense weight of silver and gold in the earth dug up by stealth?<note
-       anchored="yes" n="4" resp="TAB">
+      trembling to deposit an immense weight of silver and gold in the earth dug up by stealth?<note anchored="yes" n="4" resp="TAB">
        <p>i. e. to hide it.</p>
       </note> Because, if you should lessen it, it may be reduced to a paltry farthing.</p>
-     <p>But unless that be the case, what beauty has an accumulated hoard? <milestone ed="p" n="45"
-       unit="line"/>Though your thrashing-floor should yield<note anchored="yes" n="5" resp="McCaul">
+     <p>But unless that be the case, what beauty has an accumulated hoard? <milestone ed="p" n="45" unit="line"/>Though your thrashing-floor should yield<note anchored="yes" n="5" resp="McCaul">
        <p>Literally, "wear," "rub." There is an ellipse of <foreign lang="la">si</foreign>, as in
          <bibl n="Hor. S. 1.1.3">Sat. i. 3</bibl>; <bibl n="Hor. S. 2.4.292">ii. 4, 292</bibl>;
          <bibl n="Verg. A. 6.31">Virg. Aen. vi. 31</bibl></p>
@@ -189,24 +180,20 @@
      <p>While you leave us to take as much out of a moderate store why should you extol your
       granaries, more than our cornbaskets? As if you had occasion for no more than a pitcher or
       glass of water, and should say, "I had rather draw [so much] from a great river, than the very
-      same quantity from this little fountain." Hence it comes to pass, that the rapid <placeName
-       key="tgn,1128017">Aufidus</placeName> carries away, together with the bank, such men as an
+      same quantity from this little fountain." Hence it comes to pass, that the rapid <placeName key="tgn,1128017">Aufidus</placeName> carries away, together with the bank, such men as an
       abundance more copious than what is just delights. But he who desires only so much as is
       sufficient, <milestone ed="p" n="60" unit="line"/>neither drinks water fouled with the mud,
       nor loses his life in the waves. <milestone ed="p" n="61" unit="card"/></p>
      <p>But a great majority of mankind, misled by a wrong desire, cry, "No sum is enough; because
       you are esteemed in proportion to what you possess." What can one do to such a tribe as this?
       Why, bid them be wretched, since their inclination prompts them to it. As a certain person is
-      recorded [to have lived] at <placeName key="perseus,Athens">Athens</placeName>, <milestone
-       ed="p" n="65" unit="line"/>covetous and rich, who was wont to despise the talk of the people
+      recorded [to have lived] at <placeName key="perseus,Athens">Athens</placeName>, <milestone ed="p" n="65" unit="line"/>covetous and rich, who was wont to despise the talk of the people
       in this manner: "The crowd hiss me; but I applaud myself at home, as soon as I contemplate my
       money in my chest." The thirsty Tantalus catches at the streams, which elude his lips. Why do
-      you laugh? The name changed, the tale is told of you. <milestone ed="p" n="70" unit="line"
-      />You sleep upon your bags, heaped up on every side, gaping over them, and are obliged to
+      you laugh? The name changed, the tale is told of you. <milestone ed="p" n="70" unit="line"/>You sleep upon your bags, heaped up on every side, gaping over them, and are obliged to
       abstain from them, as if they were consecrated things, or to amuse yourself with them as you
       would with pictures. Are you ignorant of what value money has, what use it can afford? Bread,
-      herbs, a bottle of wine may be purchased; to which [necessaries], <milestone ed="p" n="75"
-       unit="line"/>add [such others], as, being withheld, human nature would be uneasy with itself.
+      herbs, a bottle of wine may be purchased; to which [necessaries], <milestone ed="p" n="75" unit="line"/>add [such others], as, being withheld, human nature would be uneasy with itself.
       What, to watch half dead with terror, night and day, to dread profligate thieves, fire, and
       your slaves, lest they should run away and plunder you; is this delightful? I should always
       wish to be very poor in possessions held upon these terms.</p>
@@ -214,8 +201,7 @@
       with a cold, or any other casualty should confine you to your bed, have you one that will
       abide by you, prepare medicines, entreat the physician that he would set you upon your feet,
       and restore you to your children and dear relations?</p>
-     <p>Neither your wife, nor your son, desires your recovery; <milestone ed="p" n="85" unit="line"
-      />all your neighbors, acquaintances, [nay the very] boys and girls hate you. Do you wonder
+     <p>Neither your wife, nor your son, desires your recovery; <milestone ed="p" n="85" unit="line"/>all your neighbors, acquaintances, [nay the very] boys and girls hate you. Do you wonder
       that no one tenders you the affection which you do not merit, since you prefer your money to
       every thing else? If you think to retain, and preserve as friends, the relations which nature
       gives you, without taking any pains; <milestone ed="p" n="90" unit="line"/>wretch that you
@@ -225,33 +211,27 @@
       being acquired which you coveted: <milestone ed="p" n="95" unit="line"/>nor do as did one
       Umidius (it is no tedious story), who was so rich that he measured his money, so sordid that
       he never clothed himself any better than a slave; and, even to his last moments, was in dread
-      lest want of bread should oppress him: but his freed-woman, <milestone ed="p" n="100"
-       unit="line"/>the bravest of all the daughters of Tyndarus,<note anchored="yes" n="6"
-       resp="Watson">
+      lest want of bread should oppress him: but his freed-woman, <milestone ed="p" n="100" unit="line"/>the bravest of all the daughters of Tyndarus,<note anchored="yes" n="6" resp="Watson">
        <p>As if she had been another Clytemnestra, the daughter of Tyndarus, who cut off her
         husband's head with an ax. <cit>
          <quote lang="la">Fortissima Tyndaridarum</quote>
          <bibl n="Hor. S. 1.1.100"/>
-        </cit>, from the accusative of <foreign lang="la">Tyndaris</foreign>, viz. <foreign
-         lang="la">Tyndarida</foreign>, comes the noun <foreign lang="la">Tyndarida</foreign>,
+        </cit>, from the accusative of <foreign lang="la">Tyndaris</foreign>, viz. <foreign lang="la">Tyndarida</foreign>, comes the noun <foreign lang="la">Tyndarida</foreign>,
          <foreign lang="la">Tyndaridae</foreign> etc.</p>
       </note> cut him in two with a hatchet. "What therefore do you persuade me to? That I should
       lead the life of Naevius, or in such a manner as a Nomentanus?"</p>
-     <p>You are going [now] to make things tally, that are contradictory in their natures.<note
-       anchored="yes" n="7" resp="McCaul">
+     <p>You are going [now] to make things tally, that are contradictory in their natures.<note anchored="yes" n="7" resp="McCaul">
        <p><cit>
          <quote lang="la">Pugnantia frontibus adversis</quote>
          <bibl n="Hor. S. 1.1.103"/>
-        </cit> means what we express by "diametrically opposite." The allusion in <foreign lang="la"
-         >frontibus adversis</foreign> is to a fight between bulls or rams, who butt each other with
+        </cit> means what we express by "diametrically opposite." The allusion in <foreign lang="la">frontibus adversis</foreign> is to a fight between bulls or rams, who butt each other with
         their heads. </p>
       </note> When I bid you not be a miser, I do not order you to become a debauchee or a prodigal.</p>
      <p><milestone ed="p" n="105" unit="line"/>There is some difference between the case of
        <placeName key="tgn,1123466">Tanais</placeName> and his son-in-law Visellius: there is a mean
       in things; finally, there are certain boundaries, on either side of which moral rectitude can
       not exist. I return now whence I digressed. Does no one, after the miser's example, like his
-      own station, but rather praise those who have different pursuits; <milestone ed="p" n="110"
-       unit="line"/>and pines, because his neighbor's she-goat bears a more distended udder; nor
+      own station, but rather praise those who have different pursuits; <milestone ed="p" n="110" unit="line"/>and pines, because his neighbor's she-goat bears a more distended udder; nor
       considers himself in relation to the greater multitude of poor; but labors to surpass, first
       one, and then another? Thus the richer man is always an obstacle to one that is hastening [to
       be rich]: <milestone ed="p" n="115" unit="line"/>as when the courser whirls along the chariot,
@@ -285,34 +265,27 @@
          <bibl n="Hor. S. 1.2.2"/>
         </cit>. The priests of Isis and Cybele were beggars by profession, and under the vail of
         religion were often guilty of the most criminal excesses. <foreign lang="la">Mimae</foreign>
-        were players of the most debauched and dissolute kind; and <foreign lang="la"
-        >balatrones</foreign>, in general, signifies all scoundrels, buffoons, and parasites, who
-        had their name, according to the old commentator, from Servilius Balatro. <quote lang="la"
-         >Balatrones hoc genus omne</quote>, for <foreign lang="la">omne hoc balatronum
+        were players of the most debauched and dissolute kind; and <foreign lang="la">balatrones</foreign>, in general, signifies all scoundrels, buffoons, and parasites, who
+        had their name, according to the old commentator, from Servilius Balatro. <quote lang="la">Balatrones hoc genus omne</quote>, for <foreign lang="la">omne hoc balatronum
         genus</foreign>, is a remarkable sort of construction.</p>
       </note> all this set is sorrowful and dejected on account of the death of the singer
       Tigellius; for he was liberal [toward them]. On the other hand, this man, dreading to be
-      called a spendthrift, will not give a poor friend <milestone ed="p" n="5" unit="line"
-      />wherewithal to keep off cold and pinching hunger. If you ask him why he wickedly consumes
+      called a spendthrift, will not give a poor friend <milestone ed="p" n="5" unit="line"/>wherewithal to keep off cold and pinching hunger. If you ask him why he wickedly consumes
       the noble estate of his grandfather and father in tasteless gluttony, buying with borrowed
       money all sorts of dainties; he answers, <milestone ed="p" n="10" unit="line"/>because he is
       unwilling to be reckoned sordid, or of a mean spirit: he is praised by some, condemned by
       others. Fufidius, wealthy in lands, wealthy in money put out at interest, is afraid of having
-      the character of a rake and spendthrift. This fellow deducts 5 per cent. interest<note
-       anchored="yes" n="11" resp="Torr">
+      the character of a rake and spendthrift. This fellow deducts 5 per cent. interest<note anchored="yes" n="11" resp="Torr">
        <p><cit>
          <quote lang="la">Quinas hic capiti mercedes exsecat</quote>
          <bibl n="Hor. S. 1.2.14"/>
-        </cit>. <foreign lang="la">Caput</foreign> is the principal; <foreign lang="la"
-        >merces</foreign> the interest; and <foreign lang="la">exsecare</foreign> is to deduct the
+        </cit>. <foreign lang="la">Caput</foreign> is the principal; <foreign lang="la">merces</foreign> the interest; and <foreign lang="la">exsecare</foreign> is to deduct the
         interest before the money is lent. For instance, Fufidius lent a hundred pounds, and at the
         end of the month the borrower was to pay him a hundred and five, principal and interest. But
         he gives only ninety-five pounds, deducting his interest when he lends the money, which thus
-        increases in twenty months equal to his principal. The laws allowed a usury called <foreign
-         lang="la">usura centesima</foreign>, which doubled the capital sum in a hundred months, or
+        increases in twenty months equal to his principal. The laws allowed a usury called <foreign lang="la">usura centesima</foreign>, which doubled the capital sum in a hundred months, or
         eight years and four months.</p>
-      </note> from the principal [at the time of lending]; <milestone ed="p" n="15" unit="line"
-      />and, the more desperate in his circumstances any one is, the more severely he pinches him:
+      </note> from the principal [at the time of lending]; <milestone ed="p" n="15" unit="line"/>and, the more desperate in his circumstances any one is, the more severely he pinches him:
       he hunts out the names<note anchored="yes" n="12" resp="Cruq">
        <p><cit>
          <quote lang="la">Nomina sectatur</quote>
@@ -344,24 +317,19 @@
       often in the midst of very great dangers. One has thrown himself long from the top of a house;
       another has been whipped almost to death: a third, in his flight, has fallen into a merciless
       gang of thieves: another has paid a fine, [to avoid] corporal [punishment]: the lowest
-      servants have treated another with the vilest indignities. <milestone ed="p" n="45"
-       unit="line"/>Moreover, this misfortune happened to a certain person, he entirely lost his
+      servants have treated another with the vilest indignities. <milestone ed="p" n="45" unit="line"/>Moreover, this misfortune happened to a certain person, he entirely lost his
       manhood. Every body said, it was with justice: Galba denied it.</p>
      <p>But how much safer is the traffic among [women] of the second rate! I mean the freed-women:
-      after which Sallustius is not less mad, than he who commits adultery. <milestone ed="p" n="50"
-       unit="line"/>But if he had a mind to be good and generous, as far as his estate and reason
+      after which Sallustius is not less mad, than he who commits adultery. <milestone ed="p" n="50" unit="line"/>But if he had a mind to be good and generous, as far as his estate and reason
       would direct him, and as far as a man might be liberal with moderation; he would give a
       sufficiency, not what would bring upon himself ruin and infamy. However, he hugs himself in
       this one [consideration]; this he delights in, this he extols: "I meddle with no matron."
-       <milestone ed="p" n="55" unit="line"/>Just as Marsaeus, the lover of Origo<note
-       anchored="yes" n="13" resp="Watson">
-       <p>Origo. There lived in Horace's time three famous courtesans at <placeName
-         key="perseus,Rome">Rome</placeName>; Origo, Cytheris, and Arbuscala, all comedians. The
+       <milestone ed="p" n="55" unit="line"/>Just as Marsaeus, the lover of Origo<note anchored="yes" n="13" resp="Watson">
+       <p>Origo. There lived in Horace's time three famous courtesans at <placeName key="perseus,Rome">Rome</placeName>; Origo, Cytheris, and Arbuscala, all comedians. The
         poet was probably acquainted with them all. We are at a loss to know who Marsaeus was.</p>
       </note> he who gives his paternal estate and seat to an actress, says, "I never meddle with
       other men's wives." But you have with actresses, you have with common strumpets: whence your
-      reputation derives a greater perdition, than your estate. <milestone ed="p" n="60" unit="line"
-      />What, is it abundantly sufficient to avoid the person, and not the [vice] which is
+      reputation derives a greater perdition, than your estate. <milestone ed="p" n="60" unit="line"/>What, is it abundantly sufficient to avoid the person, and not the [vice] which is
       universally noxious? To lose one's good name, to squander a father's effects, is in all cases
       an evil. What is the difference, [then, with regard to yourself,] whether you sin with the
       person of a matron, a maiden, or a prostitute?<note anchored="yes" n="14" resp="Fran">
@@ -377,8 +345,7 @@
       he was misled), suffered [for his commerce] with Fausta an adequate and more than adequate
       punishment, by being drubbed and stabbed, while he was shut out, that Longarenus might enjoy
       her within. Suppose this [young man's] mind had addressed him in the words of his appetite,
-      perceiving such evil consequences: "What would you have? <milestone ed="p" n="70" unit="line"
-      />Did I ever, when, my ardor was at the highest, demand a woman descended from a great consul,
+      perceiving such evil consequences: "What would you have? <milestone ed="p" n="70" unit="line"/>Did I ever, when, my ardor was at the highest, demand a woman descended from a great consul,
       and covered with robes of quality?" What could he answer? Why, "the girl was sprung from an
       illustrious father." But how much better things, and how different from this, does nature,
       abounding in stores of her own, recommend; <milestone ed="p" n="75" unit="line"/>if you would
@@ -390,8 +357,7 @@
       particular matron], amid her pearls and emeralds, a softer thigh, or limbs more delicate than
       yours, Cerinthus; nay, the prostitutes are frequently preferable. Add to this, that [the
       prostitute] bears about her merchandize without any varnish, and openly shows what she has to
-      dispose of; nor, if she has aught more comely than ordinary, <milestone ed="p" n="85"
-       unit="line"/>does she boast and make an ostentation of it, while she is industrious to
+      dispose of; nor, if she has aught more comely than ordinary, <milestone ed="p" n="85" unit="line"/>does she boast and make an ostentation of it, while she is industrious to
       conceal that which is offensive. This is the custom with men of fortune: when they buy horses,
       thy inspect them covered: that, if a beautiful forehand (as often) be supported by a tender
       hoof, it may not take in the buyer, eager for the bargain, because the back is handsome, the
@@ -413,22 +379,18 @@
       you? <milestone ed="p" n="105" unit="line"/>[But perhaps you will sing to me these verses out
       of Callimachus.] As the huntsman pursues the hare in the deep snow, but disdains to touch it
       when it is placed before him: thus sings the rake, and applies it to himself; my love is like
-      to this, for it passes over an easy prey, and pursues what flies from it. <milestone ed="p"
-       n="110" unit="line"/>Do you hope that grief, and uneasiness, and bitter anxieties, will be
+      to this, for it passes over an easy prey, and pursues what flies from it. <milestone ed="p" n="110" unit="line"/>Do you hope that grief, and uneasiness, and bitter anxieties, will be
       expelled from your breast by such verses as these? Would it not be more profitable to inquire
       what boundary nature has affixed to the appetites, what she can patiently do without, and what
       she would lament the deprivation of, and to separate what is solid from what is vain? What!
-      when thirst parches your jaws, are you solicitous for golden cups to drink out of? <milestone
-       ed="p" n="115" unit="line"/>What! when you are hungry, do you despise every thing but peacock
+      when thirst parches your jaws, are you solicitous for golden cups to drink out of? <milestone ed="p" n="115" unit="line"/>What! when you are hungry, do you despise every thing but peacock
       and turbot? When your passions are inflamed, and a common gratification is at hand, would you
       rather be consumed with desire than possess it? I would not: for I love such pleasures as are
       of easiest attainment. <milestone ed="p" n="120" unit="line"/>But she whose language is, "By
       and by," "But for a small matter more," "If my husband should be out of the way," [is only]
       for petitmaitres: and for himself, Philodemus says, he chooses her, who neither stands for a
       great price, nor delays to come when she is ordered. Let her be fair, and straight, and so far
-      decent as not to appear desirous of seeming fairer than nature has made her. <milestone ed="p"
-       n="125" unit="line"/>When I am in the company of such an one, she is my <placeName
-       key="tgn,5001986">Ilia</placeName> and Aegeria; I give her any name. Nor am I apprehensive,
+      decent as not to appear desirous of seeming fairer than nature has made her. <milestone ed="p" n="125" unit="line"/>When I am in the company of such an one, she is my <placeName key="tgn,5001986">Ilia</placeName> and Aegeria; I give her any name. Nor am I apprehensive,
       while I am in her company, lest her husband should return from the country; the door should be
       broken open; the dog should bark; the house, shaken, should resound on all sides with a great
       noise; <milestone ed="p" n="130" unit="line"/>the woman, pale [with fear] should bound away
@@ -451,23 +413,16 @@
        <p>Literally, "from the egg to the apples," for eggs were served first, and fruit last.</p>
       </note> one while at the deepest pitch of his voice, at another time with that which answers
       to the highest string of the tetrachord.<note anchored="yes" n="16" resp="McCaul">
-       <p>The four strings of this instrument were called by the Greeks <foreign lang="greek"
-         >u(pa/th</foreign> (<foreign lang="la">subsuma</foreign>), <foreign lang="greek"
-        >parupa/th</foreign> (<foreign lang="la">subsuma</foreign>), <foreign lang="greek"
-        >paranh/th</foreign> (<foreign lang="la">pene ima</foreign>), and <foreign lang="greek"
-         >nh/th</foreign> (<foreign lang="la">ima</foreign>). Thus the <foreign lang="la">summa
+       <p>The four strings of this instrument were called by the Greeks <foreign lang="greek">u(pa/th</foreign> (<foreign lang="la">subsuma</foreign>), <foreign lang="greek">parupa/th</foreign> (<foreign lang="la">subsuma</foreign>), <foreign lang="greek">paranh/th</foreign> (<foreign lang="la">pene ima</foreign>), and <foreign lang="greek">nh/th</foreign> (<foreign lang="la">ima</foreign>). Thus the <foreign lang="la">summa
         vox</foreign>, which answers to the highest string, <foreign lang="la">summa
         chorda</foreign>, must signify the bass, and <foreign lang="la">ima vox</foreign>, that
         strikes the same tone with <foreign lang="la">ima chorda</foreign>, must signify the treble.
-         <foreign lang="la">Summa</foreign> should be joined with <foreign lang="la"
-        >chorda</foreign>, not <foreign lang="la">voce</foreign>.</p>
+         <foreign lang="la">Summa</foreign> should be joined with <foreign lang="la">chorda</foreign>, not <foreign lang="la">voce</foreign>.</p>
        <p><cit>
          <quote lang="la">Citaret</quote>
          <bibl n="Hor. S. 1.3.7"/>
         </cit>. <placeName key="tgn,7010699">Bentley</placeName> remarks that this is a forensic
-        word, and can not be put for <foreign lang="la">recitaret</foreign>, besides that <foreign
-         lang="la">citare Io Bacche</foreign> is not Latin. He reads <foreign lang="la"
-        >iteraret</foreign>. The Librarians wrote <hi>ter</hi>, <hi>cer</hi>, and <hi>ler</hi>, in a
+        word, and can not be put for <foreign lang="la">recitaret</foreign>, besides that <foreign lang="la">citare Io Bacche</foreign> is not Latin. He reads <foreign lang="la">iteraret</foreign>. The Librarians wrote <hi>ter</hi>, <hi>cer</hi>, and <hi>ler</hi>, in a
         compendious form thus ~ over its natural place, thus the word &Icirc;TARET, with a
         circumflex over I, and hence <foreign lang="la">CITARET</foreign>.</p>
       </note> There was nothing uniform in that fellow; frequently would he run along, as one flying
@@ -479,14 +434,12 @@
       </note> he had often two hundred slaves, often but ten: one while talking of kings and
       potentates, every thing that was magnificent; at another &mdash; "Let me have a
       three-legged table, and a cellar of clean salt, and a gown which, though coarse, may be
-      sufficient to keep out the cold." Had you given ten hundred thousand sesterces<note
-       anchored="yes" n="18" resp="Watson">
+      sufficient to keep out the cold." Had you given ten hundred thousand sesterces<note anchored="yes" n="18" resp="Watson">
        <p>The sestertium among the Romans was about 7l. 16s. of our money, and contained a thousand
         sestertii. Their manner of reckoning was this: when a numeral noun agreed in gender and
         number with <foreign lang="la">sestertius</foreign>, it denoted precisely so many sestertii,
         as <foreign lang="la">decem sestertii</foreign>, just so many; but if the noun was joined to
-        the genitive plural of sestertius, it signified so many thousands; as <foreign lang="la"
-         >decem sestertium</foreign>, ten thousand sestertii. If the adverb numeral was joined to
+        the genitive plural of sestertius, it signified so many thousands; as <foreign lang="la">decem sestertium</foreign>, ten thousand sestertii. If the adverb numeral was joined to
         the genitive plural, it denoted so many hundred thousand, as <foreign lang="la">decies
          sestertium</foreign>, ten hundred thousand sestertii. Sometimes they put the adverb by
         itself, and sometimes added the numeral noun to it; as in this place <cit>
@@ -517,8 +470,7 @@
       But he is so good, that no man can be better; but he is your friend: but an immense genius is
       concealed under this unpolished person of his. Finally, sift yourself thoroughly, whether
       nature has originally sown the seeds of any vice in you, or even an ill habit [has done it].
-      For the fern, fit [only] to be burned, overruns the neglected fields. <milestone ed="p" n="38"
-       unit="card"/></p>
+      For the fern, fit [only] to be burned, overruns the neglected fields. <milestone ed="p" n="38" unit="card"/></p>
      <p>Let us return from our digression. As his mistress's disagreeable failings escape the
       blinded lover, or even give him pleasure (as Hagna's wen does to Balbinus), I could wish that
       we erred in this manner with regard to friendship, and that virtue had affixed a reputable
@@ -547,10 +499,8 @@
       be numbered among persons of spirit.</p>
      <p>This method, in my opinion, both unites friends, and preserves them in a state of union. But
       we invert the very virtues themselves, and are desirous of throwing dirt upon the untainted
-      vessel. Does a man of probity live among us? he is a person of singular diffidence;<note
-       anchored="yes" n="22" resp="TAB">
-       <p>But Orelli interprets <foreign lang="la">demissus</foreign> to mean <foreign lang="la"
-         >abjectus, pusilli animi.</foreign> See his judicious note.</p>
+      vessel. Does a man of probity live among us? he is a person of singular diffidence;<note anchored="yes" n="22" resp="TAB">
+       <p>But Orelli interprets <foreign lang="la">demissus</foreign> to mean <foreign lang="la">abjectus, pusilli animi.</foreign> See his judicious note.</p>
       </note> we give him the name of a dull and fat-headed fellow. Does this man avoid every snare,
       and lay himself open to no ill-designing villain; since we live amid such a race, where keen
       envy and accusations are flourishing? Instead of a sensible and wary man, we call him a
@@ -564,8 +514,7 @@
         </cit>. He wants an understanding that distinguishes the common decencies to be observed in
         addressing the great. Such was the <foreign lang="la">Communis sensus</foreign> among the
         Romans, for which we have no expression in English. <quote lang="la">Sit in beneficio sensus
-         communis: tempus, locum, personas observer</quote>. <placeName key="tgn,2652379"
-        >Seneca</placeName>. <quote lang="la">Quae versantur in consuetudine rei publicae; in sensu
+         communis: tempus, locum, personas observer</quote>. <placeName key="tgn,2652379">Seneca</placeName>. <quote lang="la">Quae versantur in consuetudine rei publicae; in sensu
          hominum communi, in natura, in moribus, comprehendenda esse oratori puto</quote>.
          <placeName key="tgn,2068515">Cicero</placeName> de Oratore. Lord Shaftesbury explains the
          <foreign lang="la">sensus communis</foreign> in Juvenal, that sense which regards the
@@ -578,8 +527,7 @@
       turn the scale to the majority of the former (if I have indeed a majority of good qualities),
       on this condition, he shall be placed in the same balance. He who requires that his friend
       should not take offense at his own protuberances, will excuse his friend's little warts. It is
-      fair that he who entreats a pardon for his own fault, should grant one in his turn. <milestone
-       ed="p" n="76" unit="card"/></p>
+      fair that he who entreats a pardon for his own fault, should grant one in his turn. <milestone ed="p" n="76" unit="card"/></p>
      <p>Upon the whole,<note anchored="yes" n="24" resp="Fran">
        <p>The second part of the satire begins here. The Stoics called all vicious people fools,
          <foreign lang="la">stultos</foreign>. <foreign lang="la">Quatenus</foreign> is frequently
@@ -595,16 +543,13 @@
         </cit>. <placeName key="tgn,2399199">Horace</placeName>, to excuse the slave, says, that the
         sauce was yet warm, tepidum, and therefore more tempting. For the same reason, he says, the
         fish was half eaten.</p>
-      </note> he would, among people in their senses, be called a madder man than Labeo.<note
-       anchored="yes" n="26" resp="Fran">
+      </note> he would, among people in their senses, be called a madder man than Labeo.<note anchored="yes" n="26" resp="Fran">
        <p><cit>
          <quote lang="la">Labeone insanior</quote>
          <bibl n="Hor. S. 1.3.82"/>
-        </cit>. The Scholiasts, commentators, and interpreters tell us, that <placeName
-         key="tgn,2399199">Horace</placeName> means Marcus Antistius Labeo, who, in the spirit of
+        </cit>. The Scholiasts, commentators, and interpreters tell us, that <placeName key="tgn,2399199">Horace</placeName> means Marcus Antistius Labeo, who, in the spirit of
         liberty, frequently opposed Augustus in the senate, when he attempted any alterations in the
-        state. <quote lang="la">Agitabat eum libertas nimia et vecors</quote>, says <placeName
-         key="tgn,1002882">Seneca</placeName>; which might justly render him odious to Augustus. But
+        state. <quote lang="la">Agitabat eum libertas nimia et vecors</quote>, says <placeName key="tgn,1002882">Seneca</placeName>; which might justly render him odious to Augustus. But
         whatever respect our poet had for his emperor, yet we never find that he treats the patrons
         of liberty with outrage. Nor can we well imagine that he dare thus cruelly brand a man of
         Labeo's abilities, riches, power, and employments in the state; to whom Augustus himself
@@ -614,40 +559,32 @@
         therefore recommends to a place in the text.</p>
       </note> How much more irrational and heinous a crime is this! Your friend has been guilty of a
       small error (which, unless you forgive, you ought to be reckoned a sour, ill-natured fellow),
-      you hate and avoid him, as a debtor does <placeName key="tgn,2077983">Ruso</placeName>;<note
-       anchored="yes" n="27" resp="McCaul">
+      you hate and avoid him, as a debtor does <placeName key="tgn,2077983">Ruso</placeName>;<note anchored="yes" n="27" resp="McCaul">
        <p>The alternative with <placeName key="tgn,2077983">Ruso</placeName> was either ruin from
         extortion, or misery from listening to his writings. If his wretched creditors could not pay
         him, then they were condemned to hear him read his works. Perhaps some might prefer
         considering <foreign lang="la">historias</foreign> used in the sense of "tedious narration,"
-        and refer it to the long schedule of the items in his account. <foreign lang="la"
-        >Audit</foreign>. Asinius Pollio first introduced the custom of reciting one's own
+        and refer it to the long schedule of the items in his account. <foreign lang="la">Audit</foreign>. Asinius Pollio first introduced the custom of reciting one's own
         compositions at <placeName key="tgn,7013962">Rome</placeName>.</p>
       </note> who, when the woeful calends come upon the unfortunate man, unless he lrocures the
       interest or capital by hook or by crook, is compelled to hear his miserable stories with his
       neck stretched out like a slave. [Should my friend] in his liquor water my couch, or has he
-      thrown down a jar carved by the hands of <placeName key="tgn,2319904"
-       >Evander</placeName>:<note anchored="yes" n="28" resp="Fran">
+      thrown down a jar carved by the hands of <placeName key="tgn,2319904">Evander</placeName>:<note anchored="yes" n="28" resp="Fran">
        <p><cit>
          <quote lang="la">Evandri manibus tritum</quote>
          <bibl n="Hor. S.1.3.91"/>
-        </cit>. &mdash; <foreign lang="la">Tornatum, caelatum, fabricatum</foreign>. <quote
-         lang="la">Hinc radios trivere rotis</quote>, <placeName key="tgn,1015191"
-        >Virgil</placeName>. <quote lang="la">Vitrum aliud flatu figuratur, aliud torno
+        </cit>. &mdash; <foreign lang="la">Tornatum, caelatum, fabricatum</foreign>. <quote lang="la">Hinc radios trivere rotis</quote>, <placeName key="tgn,1015191">Virgil</placeName>. <quote lang="la">Vitrum aliud flatu figuratur, aliud torno
         teritur</quote>, <placeName key="tgn,2588096">Pliny</placeName>. But as the Latins used the
         word <foreign lang="la">toreumata</foreign> to signify any works, either turned or wrought
         by the chisel, because they were made by the same workmen, Sanadon thinks the poet probably
         means, that this plate was engraved with an instrument. The Scholiast tells us, that this
-         <placeName key="tgn,2319904">Evander</placeName> was carried from <placeName
-         key="tgn,7001393">Athens</placeName> to <placeName key="tgn,7013962">Rome</placeName> by
+         <placeName key="tgn,2319904">Evander</placeName> was carried from <placeName key="tgn,7001393">Athens</placeName> to <placeName key="tgn,7013962">Rome</placeName> by
         Mark Antony, and that he excelled in sculpture and engraving. They who believe that
-         <placeName key="tgn,2399200">Horace</placeName> means king <placeName key="tgn,2319904"
-         >Evander</placeName>, would not only persuade us that this plate must have been preserved
+         <placeName key="tgn,2399200">Horace</placeName> means king <placeName key="tgn,2319904">Evander</placeName>, would not only persuade us that this plate must have been preserved
         so many ages by some uncommon good fortune, but have unluckily placed a vessel so valuable
         on a monarch's table, whose palace was a cottage, his throne a chair of ordinary wood, his
         beds made of leaves or rushes, and his tapestry the skins of beasts. <foreign lang="la">Res
-         inopes Evandrus habebat</foreign>. Dr. Bentley denies that the Latins ever used <foreign
-         lang="la">tritum</foreign> to signify <foreign lang="la">caelatum, perfectum</foreign>, and
+         inopes Evandrus habebat</foreign>. Dr. Bentley denies that the Latins ever used <foreign lang="la">tritum</foreign> to signify <foreign lang="la">caelatum, perfectum</foreign>, and
         he therefore recommends <foreign lang="la">tortum</foreign> to us, on the authority of an
         ancient manuscript.</p>
       </note> shall he for this [trifling] affair, or because in his hunger he has taken a chicken
@@ -689,11 +626,9 @@
       equal crime with highway robbery, and threaten that you would prune off with an
       undistinguishing hook little and great vices, if mankind were to give you the sovereignty over
       them. If he be rich, who is wise, and a good shoemaker, and alone handsome, and a king, why do
-      you wish for that which you are possessed of? You do not understand what Chrysippus,<note
-       anchored="yes" n="31" resp="Torr">
+      you wish for that which you are possessed of? You do not understand what Chrysippus,<note anchored="yes" n="31" resp="Torr">
        <p>Chrysippus is here pleasantly called father, because he was the first who explained, in
-        this absurd manner, these excellent precepts of <placeName key="tgn,2786860"
-        >Zeno</placeName> which teach us, that wisdom sets above kings; and that the throne she
+        this absurd manner, these excellent precepts of <placeName key="tgn,2786860">Zeno</placeName> which teach us, that wisdom sets above kings; and that the throne she
         offers to us is preferable to that of the greatest monarchs.</p>
       </note> the father [of your sect], says: "The wise man never made himself shoes nor slippers:
       nevertheless, the wise man is a shoemaker." How so? In the same manner, though Hermogenes be
@@ -742,10 +677,7 @@
          <quote lang="la">Emunctae naris</quote>
          <bibl n="Hor. S. 1.4.8"/>
         </cit>. Of a sagacious, penetrating genius, to discover the follies of mankind, and of an
-        agreeable, spirited, raillery, to turn them into ridicule, <foreign lang="la"
-        >facetus</foreign>. Such is the character of Lucilius by <placeName key="tgn,2068515"
-        >Cicero</placeName> and Quintilian: <foreign lang="la">perurbanum</foreign> and <foreign
-         lang="la">abunde salis</foreign>.</p>
+        agreeable, spirited, raillery, to turn them into ridicule, <foreign lang="la">facetus</foreign>. Such is the character of Lucilius by <placeName key="tgn,2068515">Cicero</placeName> and Quintilian: <foreign lang="la">perurbanum</foreign> and <foreign lang="la">abunde salis</foreign>.</p>
       </note> inelegant in the composition of verse: for in this respect he was faulty; he would
       often, as a great feat, dictate two hundred verses in an hour, standing in the same position.
       As he flowed muddily, there was [always] something that one would wish to remove; he was
@@ -755,9 +687,7 @@
        <p><cit>
          <quote lang="la">Minimo me provocat</quote>
          <bibl n="Hor. S. 1.4.14"/>
-        </cit>. We should understand <foreign lang="la">pignore</foreign> or <foreign lang="la"
-         >pretio</foreign>; nor is there any instance in the Latin tongue of <foreign lang="la"
-         >provocare minimo digito</foreign>, as the commentators explain it. A man well assured of
+        </cit>. We should understand <foreign lang="la">pignore</foreign> or <foreign lang="la">pretio</foreign>; nor is there any instance in the Latin tongue of <foreign lang="la">provocare minimo digito</foreign>, as the commentators explain it. A man well assured of
         the truth of what he asserts, is willing to bet a large wager against a small one, which
          <placeName key="tgn,2399199">Horace</placeName> means by minimo provocare.</p>
       </note> Take, if you dare, take your tablets, and I will take mine; let there be a place, a
@@ -765,8 +695,7 @@
       done a good part by me, since they have framed me of an humble and meek disposition, speaking
       but seldom, briefly: but do you, [Crispinus,] as much as you will, imitate air which is shut
       up in leathern bellows, perpetually puffing till the fire softens the iron. Fannius is a happy
-      man, who, of his own accord, has presented his manuscripts<note anchored="yes" n="37"
-       resp="Dac,San">
+      man, who, of his own accord, has presented his manuscripts<note anchored="yes" n="37" resp="Dac,San">
        <p><cit>
          <quote lang="la">Ultro delatis capsis.</quote>
          <bibl n="Hor. S. 1.4.21"/>
@@ -785,8 +714,7 @@
       merchandize from the rising sun, even to that with which the western regions are warmed: but
       he is hurried headlong through dangers, as dust wrapped up in a whirlwind; in dread lest he
       should lose any thing out of his capital, or [in hope] that he may increase his store. All
-      these are afraid of verses, they hate poets. "He has hay on his horn,<note anchored="yes"
-       n="38" resp="ed. Dubl">
+      these are afraid of verses, they hate poets. "He has hay on his horn,<note anchored="yes" n="38" resp="ed. Dubl">
        <p><cit>
          <quote lang="la">Faenum habet in cornu.</quote>
          <bibl n="Hor. S. 1.4.34"/>
@@ -851,22 +779,19 @@
          <bibl n="Hor. S. 1.4.88"/>
         </cit> Their host, who provided water for the bath; a part of their entertainment to express
         the whole.</p>
-      </note> and him too afterward in his liquor, when truth-telling <placeName key="tgn,2097807"
-       >Bacchus</placeName> opens the secrets of his heart. Yet this man seems entertaining, and
+      </note> and him too afterward in his liquor, when truth-telling <placeName key="tgn,2097807">Bacchus</placeName> opens the secrets of his heart. Yet this man seems entertaining, and
       well-bred, and frank to you, who are an enemy to the malignant: but do I, if I have laughed
       bccause the fop Rufillus smells all perfumes, and Gorgonius, like a he-goat, appear invidious
       and a snarler to you? If by any means mention happen to be made of the thefts of Petillius
        Capitolinus<note anchored="yes" n="41" resp="Fran">
        <p>The ancient commentator tells us, that Petillius was governor of the Capitol, from whence
-        he was called Capitolinus; that he was accused of stealing a golden crown of <placeName
-         key="tgn,2075298">Jupiter</placeName>, and acquitted by the favor of Augustus. If there be
+        he was called Capitolinus; that he was accused of stealing a golden crown of <placeName key="tgn,2075298">Jupiter</placeName>, and acquitted by the favor of Augustus. If there be
         any truth in this story, for we know not where the commentator found it, he was more
         probably surnamed from his theft, than for his government of the Capitol.</p>
       </note> in your company, you defend him after your manner: [as thus,] Capitolinus has had.me
       for a companion and a friend from childhood, and being applied to, has done many things on my
       account: and I am glad that he lives secure in the city; but I wonder, notwithstanding, how he
-      evaded that sentence. This is the very essence of black malignity,<note anchored="yes" n="42"
-       resp="TAB">
+      evaded that sentence. This is the very essence of black malignity,<note anchored="yes" n="42" resp="TAB">
        <p>Properly, "the juice of the cuttle-fish."</p>
       </note> this is mere malice itself: which crime, that it shall be far remote from my writings,
       and prior to them from my mind, I promise, if I can take upon me to promise any thing
@@ -885,8 +810,7 @@
       your life and reputation inviolate, so long as you stand in need of a guardian: so soon as age
       shall have strengthened your limbs and mind, you will swim without cork. In this manner he
       formed me, as yet a boy: and whether he ordered me to do any particular thing: You have an
-      authority for doing this: [then] he instanced some one out of the select magistrates:<note
-       anchored="yes" n="43" resp="Dac">
+      authority for doing this: [then] he instanced some one out of the select magistrates:<note anchored="yes" n="43" resp="Dac">
        <p><cit>
          <quote lang="la">Unum ex iudicibus selectis.</quote>
          <bibl n="Hor. S. 1.4.123"/>
@@ -921,11 +845,9 @@
        <p>Octavius and Antony, both aspiring to the sovereign power, must necessarily have had
         frequent quarrels and dissensions. Their reconciliations were of short continuance, because
         they were insincere. Among many negotiations, undertaken by their common friends to
-        reconcile them, history mentions two more particularly. The first in the year <date
-         value="-39">714</date>, the other in 717, which was concluded by the mediation of Octavia,
+        reconcile them, history mentions two more particularly. The first in the year <date value="-39">714</date>, the other in 717, which was concluded by the mediation of Octavia,
         and to which our poet was carried by Maecenas.</p>
-      </note> left mighty <placeName key="perseus,Rome">Rome</placeName>, <placeName
-       key="perseus,Aricia">Aricia</placeName> received me in but a middling inn: Heliodorus the
+      </note> left mighty <placeName key="perseus,Rome">Rome</placeName>, <placeName key="perseus,Aricia">Aricia</placeName> received me in but a middling inn: Heliodorus the
       rhetorician, most learned in the Greek language, was my fellow-traveler: thence we proceeded
       to Forum-Appi, stuffed with sailors and surly landlords. This stage, but one for better
        travelers<note anchored="yes" n="46" resp="McCaul">
@@ -965,8 +887,7 @@
       upon rocks that look white to a great distance. Maecenas was to come here, as was the
       excellent Cocceius, both sent embassadors on matters of great importance; having been
       accustomed to reconcile friends at variance.<note anchored="yes" n="48" resp="Masson">
-       <p>Three particulars demonstrate that this journey was to the second conference at <placeName
-         key="perseus,Brundusium">Brundusium</placeName>. Fonteius is here joined with Maecenas and
+       <p>Three particulars demonstrate that this journey was to the second conference at <placeName key="perseus,Brundusium">Brundusium</placeName>. Fonteius is here joined with Maecenas and
         Cocceius, but was not engaged in the first. The poet says, that Maecenas and Cocceius had
         been before employed to reconcile Octavius and Antony, <foreign lang="la">soliti</foreign>,
         which must necessarily suppose the first congress in 714, when Horace had not been
@@ -994,8 +915,7 @@
         </cit> The colonies and municipal towns had the same dignities and magistracies as the city
         of <placeName key="perseus,Rome">Rome</placeName>; senators, praetors, quaestors, and
         aediles. It is difficult to know whether <placeName key="perseus,Fundi">Fundi</placeName>
-        had a praetor chosen out of her own citizens, or whether he was sent from <placeName
-         key="perseus,Rome">Rome</placeName>.</p>
+        had a praetor chosen out of her own citizens, or whether he was sent from <placeName key="perseus,Rome">Rome</placeName>.</p>
       </note> laughing at the honors of that crazy scribe,<note anchored="yes" n="52" resp="San">
        <p><cit>
          <quote lang="la">Praemia scribe.</quote>
@@ -1013,17 +933,14 @@
         very different from those worn by the common people, <foreign lang="la">tunicato
         popello</foreign>, which were closed before, and without any purple border. They were called
          <foreign lang="la">tunicae rectae.</foreign></p>
-      </note> his praetexta, laticlave, and pan of incense.<note anchored="yes" n="53"
-       resp="ed. Dubl.">
+      </note> his praetexta, laticlave, and pan of incense.<note anchored="yes" n="53" resp="ed. Dubl.">
        <p><cit>
          <quote lang="la">Prunaeque batillum.</quote>
          <bibl n="Hor. S. 1.5.36"/>
         </cit> A pan for incense, frequently carried before the emperors, of those possessed of the
         sovereign authority.</p>
-      </note> At our next stage, being weary, we tarry in the city of the Mamurrae,<note
-       anchored="yes" n="54" resp="Torr">
-       <p>The stroke of satire here is of a delicate and almost imperceptible malignity. <placeName
-         key="perseus,Formiae">Formiae</placeName>, the city which Horace means, belonged to the
+      </note> At our next stage, being weary, we tarry in the city of the Mamurrae,<note anchored="yes" n="54" resp="Torr">
+       <p>The stroke of satire here is of a delicate and almost imperceptible malignity. <placeName key="perseus,Formiae">Formiae</placeName>, the city which Horace means, belonged to the
         Lamian family, whose antiquity was a great honor to it. But our poet paraphrases it by the
         name of a person, who was born there, and who has made his country famous in a very
         different manner. Mamurra was a Roman knight, who was infamous for his rapine, luxury and
@@ -1038,14 +955,12 @@
       met us at <placeName key="tgn,7009927">Sinuessa</placeName>; souls more candid ones than which
       the world never produced, nor is there a person in the world more bound to them than myself.
       0h what embraces, and what transports were there! While I am in my senses, nothing can I
-      prefer to a pleasant friend. The village, which is next adjoining to the bridge of <placeName
-       key="tgn,7003005">Campania</placeName>, accommodated us with lodging [at night]; and the
+      prefer to a pleasant friend. The village, which is next adjoining to the bridge of <placeName key="tgn,7003005">Campania</placeName>, accommodated us with lodging [at night]; and the
       public officers<note anchored="yes" n="56" resp="ed. Dubl.">
        <p><cit>
          <quote lang="la">Parochi</quote>
          <bibl n="Hor. S. 1.5.46"/>
-        </cit>. Before the consulship of Lucius Posthumius, the magistrates of <placeName
-         key="perseus,Rome">Rome</placeName> traveled at the public charge, without being
+        </cit>. Before the consulship of Lucius Posthumius, the magistrates of <placeName key="perseus,Rome">Rome</placeName> traveled at the public charge, without being
         burthensome to the provinces. Afterward commissaries were appointed in all the great roads
         to defray all expenses of those who were employed in the business of the state. They were
         obliged, by the <foreign lang="la">Lex Julia de provinciis</foreign>, to provide lodging,
@@ -1063,8 +978,7 @@
          <bibl n="Hor. S. 1.5.54"/>
         </cit> is a nominative case, and we must construe it, <foreign lang="la">Osci sunt clarum
          genus Messii</foreign>. The Oscans gave to Messius his illustrious birth, a sufficient
-        proof that he was an infamous scoundrel. The people who inhabited this part of <placeName
-         key="tgn,7003005">Campania</placeName> were guilty of execrable debaucheries.</p>
+        proof that he was an infamous scoundrel. The people who inhabited this part of <placeName key="tgn,7003005">Campania</placeName> were guilty of execrable debaucheries.</p>
       </note> Sarmentus's mistress is still alive. Sprung from such families as these, they came to
       the combat. First, Sarmentus: "I pronounce thee to have the look of a mad horse." We laugh;
       and Messius himself [says], "I accept your challenge:" and wags his head. "O!" cries he, "if
@@ -1095,10 +1009,8 @@
         gods, but those who stood on the hearth, and which it was his employment to keep clean.</p>
       </note> to the household gods according to his vow; though he was a scribe, [he told him] his
       mistress's property in him was not the less. Lastly, he asked, how lie ever came to run away;
-      such a lank meager fellow, for whom a pound of corn [a-day] would be ample.<note
-       anchored="yes" n="60" resp="Turnebus">
-       <p>By the laws of the twelve tables, a slave was allowed a pound of corn a day. <quote
-         lang="la">"Qui eum vinctum habebit, libras farris in dies dato."</quote></p>
+      such a lank meager fellow, for whom a pound of corn [a-day] would be ample.<note anchored="yes" n="60" resp="Turnebus">
+       <p>By the laws of the twelve tables, a slave was allowed a pound of corn a day. <quote lang="la">"Qui eum vinctum habebit, libras farris in dies dato."</quote></p>
       </note> We were so diverted, that we continued that supper to an unusual length.</p>
      <p>Hence we proceed straight on for <placeName key="tgn,7004393">Beneventum</placeName>; where
       the bustling landlord almost burned himself, in roasting some lean thrushes: for, the fire
@@ -1111,11 +1023,9 @@
       without a smoke that brought tears into our eyes; occasioned by a hearth's burning some green
       boughs with the leaves upon them. Here, like a great fool as I was, I wait till midnight for a
       deceitful mistress: sleep, however, overcomes me, while meditating love; and disagreeable
-      dreams make me ashamed of myself and every thing about me. <milestone ed="p" n="86"
-       unit="card"/></p>
+      dreams make me ashamed of myself and every thing about me. <milestone ed="p" n="86" unit="card"/></p>
      <p>Hence we were bowled away in chaises twenty-four miles, intending to stop at a little town,
-      which one can not name in a verse, but it is easily enough known by description.<note
-       anchored="yes" n="61" resp="McCaul">
+      which one can not name in a verse, but it is easily enough known by description.<note anchored="yes" n="61" resp="McCaul">
        <p>This (as the Schol. informs us) was Equotuticum. The reason that it can not occur in
         dactylics is, that the first is short, and the next two syllables long, while the
         penultimate is short. Were the first long, thero could be no difficulty about introducing
@@ -1127,8 +1037,7 @@
       Diomedes. Here Varius departs dejected from his weeping friends.</p>
      <p>Hence we came to Rabi, fatigued: because we made a long journey, and it was rendered still
       more troublesome by the rains. Next day the weather was better, the road worse, even to the
-      very walls of Barium that abounds in fish. In the next place <placeName key="tgn,7008311"
-       >Egnatia</placeName>, which [seems to have] been built on troubled waters, gave us occasion
+      very walls of Barium that abounds in fish. In the next place <placeName key="tgn,7008311">Egnatia</placeName>, which [seems to have] been built on troubled waters, gave us occasion
       for jests and laughter; for they wanted to persuade us, that at this sacred portal the incense
       melted without fire. The Jew Apella may believe this, not I. For I have learned [from
       Epicurus], that the gods dwell in a state of tranquillity; nor, if nature effect any wonder,
@@ -1152,10 +1061,8 @@
       </note> that ever inhabited the Tuscan territories, no one is of a nobler family than
       yourself; and though you have ancestors both on father's and mother's side, that in times past
       have had the command of mighty legions; do you, as the generality are wont, toss up your nose
-      at obscure people, such as me, who had [only] a freed-man<note anchored="yes" n="63"
-       resp="San">
-       <p>In the first ages of the republic <foreign lang="la">libertinus</foreign> and <foreign
-         lang="la">liberti filius</foreign> had the same signification; but some time before Cicero,
+      at obscure people, such as me, who had [only] a freed-man<note anchored="yes" n="63" resp="San">
+       <p>In the first ages of the republic <foreign lang="la">libertinus</foreign> and <foreign lang="la">liberti filius</foreign> had the same signification; but some time before Cicero,
         as we are informed by Suetonius, the manner of speaking was changed, and from thence
          <foreign lang="la">libertus</foreign> and <foreign lang="la">libertinus</foreign> were used
         as synonymous terms to signify a man who was made free.</p>
@@ -1169,8 +1076,7 @@
        <p><cit>
          <quote lang="la">Licuisse.</quote>
          <bibl n="Hor. S. 1.6.14"/>
-        </cit> Laevinus is here pleasantly set up to auction, for <foreign lang="la"
-        >licere</foreign> was the term used to signify raising the sale.</p>
+        </cit> Laevinus is here pleasantly set up to auction, for <foreign lang="la">licere</foreign> was the term used to signify raising the sale.</p>
       </note> [on account of his family, even] in the judgment of the people, with whose disposition
       you are well acquainted; who often foolishly bestow honors on the unworthy, and are from their
       stupidity slaves to a name: who are struck with admiration by inscriptions and statues. What
@@ -1194,20 +1100,17 @@
          <quote lang="la">Sic qui promittit.</quote>
          <bibl n="Hor. S. 1.6.34"/>
         </cit> This was the form of a senator's and a magistrate's oath.</p>
-      </note> to his citizens to take care of the city, the empire, and <placeName key="tgn,1000080"
-       >Italy</placeName>, and the sanctuaries of the gods, forces every mortal to be solicitous,
+      </note> to his citizens to take care of the city, the empire, and <placeName key="tgn,1000080">Italy</placeName>, and the sanctuaries of the gods, forces every mortal to be solicitous,
       and to ask from what sire he is descended, or whether he is base by the obscurity of his
       mother. What? do you, the son of a Syrus,<note anchored="yes" n="67" resp="Dac">
        <p><cit>
          <quote lang="la">Syri, Damae, aut Dionysi.</quote>
          <bibl n="Hor. S. 1.6.38"/>
-        </cit> These three names are the names of slaves. <placeName key="tgn,7002261"
-        >Damas</placeName> or <placeName key="tgn,1085129">Dama</placeName> is a contraction of
+        </cit> These three names are the names of slaves. <placeName key="tgn,7002261">Damas</placeName> or <placeName key="tgn,1085129">Dama</placeName> is a contraction of
         Demetrius; Syrus is frequently the slave in comedy.</p>
       </note> a <placeName key="tgn,1085129">Dama</placeName>, or a Dionysius, dare to cast down the
       citizens of <placeName key="perseus,Rome">Rome</placeName> from the [Tarpeian] rock, or
-      deliver them up to Cadmus [the executioner]? But, [you may say,] my colleague Novius sits<note
-       anchored="yes" n="68" resp="Torr">
+      deliver them up to Cadmus [the executioner]? But, [you may say,] my colleague Novius sits<note anchored="yes" n="68" resp="Torr">
        <p><foreign lang="la">Sedet</foreign> is a law word, properly applied to senators, praetors,
         and other judges when seated on the bench, in execution of their office.</p>
       </note> below me by one degree: for he is only what my father was. And therefore do you esteem
@@ -1261,8 +1164,7 @@
         that the Roman youths had full four months' vacation; hence <foreign lang="la">Octonis
          idibus</foreign> denote the period of tuition: trans, "bringing the money for eight months'
         instruction." </p>
-      </note> but had the spirit to bring me a child to <placeName key="perseus,Rome"
-      >Rome</placeName>, to be taught those arts which any Roman knight and senator can teach his
+      </note> but had the spirit to bring me a child to <placeName key="perseus,Rome">Rome</placeName>, to be taught those arts which any Roman knight and senator can teach his
       own children. So that, if any person had considered my dress, and the slaves who attended me
       in so populous a city, he would have concluded that those expenses were supplied to me out of
       some hereditary estate. He himself, of all others the most faithful guardian, was constantly
@@ -1283,14 +1185,12 @@
       must [then] immediately set about acquiring a larger fortune, and more people must be
       complimented; and this and that companion must be taken along, so that I could neither take a
       jaunt into the country, or a journey by myself; more attendants and more horses must be fed;
-      coaches must be drawn. Now, if I please, I can go as far as <placeName key="tgn,7004100"
-       >Tarentum</placeName> on my bob-tailed mule, whose loins the portmanteau galls with his
+      coaches must be drawn. Now, if I please, I can go as far as <placeName key="tgn,7004100">Tarentum</placeName> on my bob-tailed mule, whose loins the portmanteau galls with his
       weight, as does the horseman his shoulders. No one will lay to my charge such sordidness as he
       may, Tullius, to you, when five slaves follow you, a praetor, along the Tiburtian way,
       carrying a traveling kitchen, and a vessel of wine. Thus I live more comfortably, O
       illustrious senator, than you, and than thousands of others. Wherever I have a fancy, I walk
-      by myself: I inquire the price of herbs and bread: I traverse the tricking circus,<note
-       anchored="yes" n="72" resp="Turner">
+      by myself: I inquire the price of herbs and bread: I traverse the tricking circus,<note anchored="yes" n="72" resp="Turner">
        <p>He calls the circus <foreign lang="la">fallacem</foreign>, deceiving, because diviners,
         fortunetellers, interpreters of dreams, astrologers, and impostors of all sorts usually
         assemble there.</p>
@@ -1305,8 +1205,7 @@
          <foreign lang="la">echinus</foreign> were. Mr. Dacier thinks the first was a little urn,
         out of which they poured water into a basin, <foreign lang="la">echinus</foreign>, to wash
         their hands.</p>
-      </note> with a little bowl, earthen-ware from <placeName key="tgn,7003005"
-      >Campania</placeName>. Then I go to rest; by no means concerned that I must rise in the
+      </note> with a little bowl, earthen-ware from <placeName key="tgn,7003005">Campania</placeName>. Then I go to rest; by no means concerned that I must rise in the
       morning, and pay a visit to the statue of Marsyas,<note anchored="yes" n="74" resp="Torr">
        <p>Marsyas, a satyr, who, challenging Apollo to a trial of skill in music, was overcome and
         flayed alive by the god. A statue was erected to him in the forum, opposite to the rostra
@@ -1318,8 +1217,7 @@
       fourth hour; after that I take a ramble, or having read or written what may amuse me in my
       privacy, I am anointed with oil, but not with such as the nasty Nacca, when he robs the lamps.</p>
      <p>But when the sun, become more violent, has reminded me to go to baths, I avoid the
-       <placeName key="tgn,7006964">Campus Martius</placeName><note anchored="yes" n="75"
-       resp="Fran">
+       <placeName key="tgn,7006964">Campus Martius</placeName><note anchored="yes" n="75" resp="Fran">
        <p><cit>
          <quote lang="la">Fugio campum, lusumque trigonem.</quote>
          <bibl n="Hor. S. 1.6.126"/>
@@ -1347,8 +1245,7 @@
       blind men and barbers. This Persius, being a man of fortune, had very great business at
       Clazomenae, and, into the bargain, certain troublesome litigations wtth King; a hardened
       fellow, and one who was able to exceed even King in virulence; confident, blustering, of such
-      a bitterness of speech, that he would outstrip the Sisennae<note anchored="yes" n="77"
-       resp="ed. Dubl.">
+      a bitterness of speech, that he would outstrip the Sisennae<note anchored="yes" n="77" resp="ed. Dubl.">
        <p>Cornelius Sisenna being reproached by the senate with the bad conduct of his wife,
         replied, "I married her by the advice of Augustus." Insinuating, Augustus had obliged him to
         marry her, that he might have a more easy commerce with her. Titus Veturius Barras, having
@@ -1364,11 +1261,9 @@
       presents), when Brutus held as praetor<note anchored="yes" n="78" resp="San">
        <p>Marcus Brutus and Cassius were praetors of <placeName key="perseus,Rome">Rome</placeName>
         when Caesar was put to death. In 711 Brutus went to take possession of his Macedonian
-        government, and <foreign lang="la">praetor</foreign> may be understood <foreign lang="la"
-         >propraetor</foreign>; a manner of speaking of which there are many examples.</p>
+        government, and <foreign lang="la">praetor</foreign> may be understood <foreign lang="la">propraetor</foreign>; a manner of speaking of which there are many examples.</p>
       </note> the fertile <placeName key="tgn,1000004">Asia</placeName>, this pair, Rupilius and
-      Persius, encountered; in such a manner, that [the gladiators] Bacchius and Bithus<note
-       anchored="yes" n="79" resp="ed. Dubl.">
+      Persius, encountered; in such a manner, that [the gladiators] Bacchius and Bithus<note anchored="yes" n="79" resp="ed. Dubl.">
        <p>The Scholiast tells us, that Bithus and Bacchius were two gladiators, who certainly put to
         death whoever fought with them. They afterward engaged together, and both expired on the
         stage.</p>
@@ -1390,8 +1285,7 @@
       </note> himself a hardy vine-dresser, never defeated, to whom the passenger had often been
       obliged to yield, bawling cuckoo with roaring voice.</p>
      <p>But the Grecian Persius, as soon as he had been well sprinkled with Italian vinegar, bellows
-      out: O Brutus, by the great gods I conjure you, who are accustomed to take off kings,<note
-       anchored="yes" n="81" resp="McCaul">
+      out: O Brutus, by the great gods I conjure you, who are accustomed to take off kings,<note anchored="yes" n="81" resp="McCaul">
        <p>Lucius Junius Brutus expelled Tarquinius Superbus. Marcus Brutus freed his country from
         the imperial power of Julius Caesar. From the introduction of this, we may conjecture that
          <placeName key="tgn,2399199">Horace</placeName>, at the time of writing this satire, had
@@ -1403,8 +1297,7 @@
      <head>Priapus complains that the Esquilian mount is infested with the incantations of
       sorceresses.</head>
 
-     <p>FORMERLY I was the trunk of a wild fig-tree, an useless log:<note anchored="yes" n="82"
-       resp="Schol">
+     <p>FORMERLY I was the trunk of a wild fig-tree, an useless log:<note anchored="yes" n="82" resp="Schol">
        <p>The wood of a fig-tree was very little used, on account of its brittleness.</p>
       </note> when the artificer, in doubt whether he should make a stool or a Priapus of me,
       determined that I should be a god. Henceforward I became a god, the greatest terror of thieves
@@ -1431,11 +1324,9 @@
          NOSTRAE EXEAT HOC MONUMENTUM. HOC MONUMENTUM HEREDES NON SEQUITUR. IN FRONTE LAT. PED. XX.
          ET DIG. II. IN AGR. LONG. PED. XX.</quote>
         <foreign lang="la">In fronte</foreign> signifies to the road: <foreign lang="la">in
-        agro</foreign>, to the fields. <foreign lang="la">Dabat</foreign> is for <foreign lang="la"
-         >indicabat, testabatur.</foreign></p>
+        agro</foreign>, to the fields. <foreign lang="la">Dabat</foreign> is for <foreign lang="la">indicabat, testabatur.</foreign></p>
       </note> [of ground] in front, and three hundred toward the fields: that the burial-place
-      should not descend to the heirs of the estate. Now one may live in the Esquiliae,<note
-       anchored="yes" n="85" resp="Torr">
+      should not descend to the heirs of the estate. Now one may live in the Esquiliae,<note anchored="yes" n="85" resp="Torr">
        <p>The air was afterward so healthy, that Augustus was carried thither when he was ill.</p>
       </note> [since it is made] a healthy place; and walk upon an open terrace, where lately the
       melancholy passengers beheld the ground frightful with white bones; though both the thieves
@@ -1450,15 +1341,12 @@
       hair, yelling together with the elder Sagana. Paleness had rendered both of them horrible to
       behold. They began to claw up the earth with their nails, and to tear a black ewe-lamb to
       pieces with their teeth. </p>
-     <p>The blood was poured into a ditch, that thence they might charm out the shades<note
-       anchored="yes" n="87" resp="Dac">
+     <p>The blood was poured into a ditch, that thence they might charm out the shades<note anchored="yes" n="87" resp="Dac">
        <p>Black victims alone were sacrificed to the infernal gods, nor was any thing supposed more
         delicious to the souls of the departed than blood. They could not foretell any future
-        events, or answer any questions, until they had drank of it. <placeName key="tgn,2093866"
-         >Ulysses</placeName> was obliged to draw his sword to frighten them away from the blood he
+        events, or answer any questions, until they had drank of it. <placeName key="tgn,2093866">Ulysses</placeName> was obliged to draw his sword to frighten them away from the blood he
         had poured into the trench for Tiresias.</p>
-      </note> of the dead, ghosts that were to give them answers. There was a woolen effigy<note
-       anchored="yes" n="88" resp="Watson">
+      </note> of the dead, ghosts that were to give them answers. There was a woolen effigy<note anchored="yes" n="88" resp="Watson">
        <p>The image of wool represented the person they were willing should survive the other
         represented by that of wax. It is for this reason that the images were made of different
         materials, that their fates might be different.</p>
@@ -1473,8 +1361,7 @@
         majesty was coming.</p>
       </note> wander about; and the moon with blushes hiding behind the lofty monuments, that she
       might not be a witness to these doings. But if I lie, even a tittle, may my head be
-      contaminated with the white filth of ravens; and may <placeName key="tgn,2008628"
-      >Julius</placeName>, and the effeminate Miss Pediatous,<note anchored="yes" n="91" resp="Cruq">
+      contaminated with the white filth of ravens; and may <placeName key="tgn,2008628">Julius</placeName>, and the effeminate Miss Pediatous,<note anchored="yes" n="91" resp="Cruq">
        <p><cit>
          <quote lang="la">Iulius et fragilis Pediatia.</quote>
          <bibl n="Hor. S. 1.8"/>
@@ -1487,10 +1374,8 @@
       dismal and piercing shrieks; and how by stealth they laid in the earth a wolf's beard, with
       the teeth of a spotted snake; and how a great blaze flamed forth from the waxen image? And how
       I was shocked at the voices and actions of these two furies, a spectator however by no means
-      incapable of revenge? For from my cleft body of fig-tree<note anchored="yes" n="92"
-       resp="McCaul">
-       <p><foreign lang="la">Ficus</foreign>, i. e. I, an image made of the <foreign lang="la"
-         >truncus ficulnus</foreign>. The heat made the wood crack with a noise, which put the
+      incapable of revenge? For from my cleft body of fig-tree<note anchored="yes" n="92" resp="McCaul">
+       <p><foreign lang="la">Ficus</foreign>, i. e. I, an image made of the <foreign lang="la">truncus ficulnus</foreign>. The heat made the wood crack with a noise, which put the
         witches to flight.</p>
       </note> wood I uttered a loud noise with as great an explosion as a burst bladder. But they
       ran into the city: and with exceeding laughter and diversion might you have seen Canidia's
@@ -1504,8 +1389,7 @@
       custom, and totally intent upon it. A certain person, known to me by name only, runs up; and,
       having seized my hand, "How do you do, my dearest fellow?"</p>
      <p>"Tolerably well," say I, "as times go; and I wish you every thing you can desire."</p>
-     <p>When he still followed me; "Would you any thing?"<note anchored="yes" n="93"
-       resp="ed. Dubl.">
+     <p>When he still followed me; "Would you any thing?"<note anchored="yes" n="93" resp="ed. Dubl.">
        <p><cit>
          <quote lang="la">Numquid vis.</quote>
          <bibl n="Hor. S. 1.9.6"/>
@@ -1518,8 +1402,7 @@
      <p>But, "You know me," says he: "I am a man of learning."</p>
      <p>"Upon that account," says I: "you will have more of my esteem." Wanting sadly to get away
       from him, sometimes I walked on apace, now and then I stopped, and I whispered something to my
-      boy. When the sweat ran down to the bottom of my ankles. 0, said I to myself, Bolanus,<note
-       anchored="yes" n="94" resp="McCaul">
+      boy. When the sweat ran down to the bottom of my ankles. 0, said I to myself, Bolanus,<note anchored="yes" n="94" resp="McCaul">
        <p>Bolanus was a very irritable person. <placeName key="tgn,2032226">Horace</placeName> then
         pronounces him <cit>
          <quote lang="la">cerebri felicem</quote>
@@ -1542,8 +1425,7 @@
       ago; but you effect nothing. I shall still stick close to you; I shall follow you hence: where
       are you at present bound for?"</p>
      <p>"There is no need for your being carried so much about: I want to see a person, who is
-      unknown to you: he lives a great way off across the <placeName key="tgn,1130786"
-      >Tiber</placeName>, just by Caesar's gardens."</p>
+      unknown to you: he lives a great way off across the <placeName key="tgn,1130786">Tiber</placeName>, just by Caesar's gardens."</p>
      <p>"I have nothing to do, and I am not lazy; I will attend you thither." I hang down my ears
       like an ass of surly disposition, when a heavier load than ordinary is put upon his back.</p>
      <p>He begins again: "If I am tolerably acquainted with myself, you will not esteem Viscus or
@@ -1567,11 +1449,8 @@
      <p>One fourth<note anchored="yes" n="96" resp="TAB">
        <p>The first hour of the day among the Romans answered to our sixth. Martial says the courts
         were open at nine o'clock, <quote lang="la">"exercet raucos tertia causidicos;"</quote> it
-        was, therefore, more than an hour after their opening, that <placeName key="tgn,2399200"
-         >Horace</placeName> passed by the temple of <placeName key="tgn,1016295"
-       >Vesta</placeName>.</p>
-      </note> of the day being now passed, we came to <placeName key="tgn,1016295"
-      >Vesta</placeName>'s temple; and, as good luck would have it, he was obliged to appear to his
+        was, therefore, more than an hour after their opening, that <placeName key="tgn,2399200">Horace</placeName> passed by the temple of <placeName key="tgn,1016295">Vesta</placeName>.</p>
+      </note> of the day being now passed, we came to <placeName key="tgn,1016295">Vesta</placeName>'s temple; and, as good luck would have it, he was obliged to appear to his
       recognizance; which unless he did, he must have lost his cause.</p>
      <p>"If you love me," said he, "step in here a little."</p>
      <p>"May I die! if I be either able to stand it out,<note anchored="yes" n="97" resp="ed. Dubl.">
@@ -1579,11 +1458,9 @@
          <quote lang="la">Aut valeo stare.</quote>
          <bibl n="Hor. S. 1.9.39"/>
         </cit>
-        <placeName key="tgn,2399199">Horace</placeName> uses the law terms, <foreign lang="la"
-         >respondere, adesse, stare, rem relinquere.</foreign> The first signifies to appear before
+        <placeName key="tgn,2399199">Horace</placeName> uses the law terms, <foreign lang="la">respondere, adesse, stare, rem relinquere.</foreign> The first signifies to appear before
         a judge upon a summons; the second was properly to attend on the person who appeared, and to
-        support his cause; the third marks the posture in which he stood, and <foreign lang="la"
-         >relinquere causam</foreign> to suffer himself to be non-suited for not appearing.</p>
+        support his cause; the third marks the posture in which he stood, and <foreign lang="la">relinquere causam</foreign> to suffer himself to be non-suited for not appearing.</p>
       </note> or have any knowledge of the civil laws: and besides, I am in a hurry, you know
       whither."</p>
      <p>"I am in doubt what I shall do," said he; "whether desert you or my cause."</p>
@@ -1603,15 +1480,13 @@
         doing; this is a delicate fish, <foreign lang="la">paucorum hominum</foreign>, and does not
         love a great deal of company."</p>
       </note> and of a very wise way of thinking. No man ever made use of opportunity with more
-      cleverness. You should have a powerful assistant,<note anchored="yes" n="99"
-       resp="ed. Dubl., Fran">
+      cleverness. You should have a powerful assistant,<note anchored="yes" n="99" resp="ed. Dubl., Fran">
        <p><foreign lang="la">Adiutor</foreign> was a person who assisted a player either with his
         voice or action, but in what manner is to us inconceivable, as we have nothing like it in
         our stage. <cit>
          <quote lang="la">Ferre secundas</quote>
          <bibl n="Hor. S. 1.9.46"/>
-        </cit> may be somewhat better explained by a passage in <placeName key="tgn,2031372"
-        >Cicero</placeName>: "He will not exert his utmost eloquence, but consult your honor and
+        </cit> may be somewhat better explained by a passage in <placeName key="tgn,2031372">Cicero</placeName>: "He will not exert his utmost eloquence, but consult your honor and
         reputation, by lowering his own abilities and raising yours. Thus we see among the Grecian
         actors, that he who plays the second or third part, conceals his own power, that the
         principal player may appear to the best advantage."</p>
@@ -1631,8 +1506,7 @@
      <p>"You need only be inclined to it: such is your merit, you will accomplish it: and he is
       capable of being won;<note anchored="yes" n="100" resp="Bent">
        <p>The poet says Maecenas was naturally easy to be gained, but that a sense of his own
-        weakness obligred him to guard himself against the first addresses of a stranger. <foreign
-         lang="la">Eo</foreign> for <foreign lang="la">ideo difficiles aditus primos habet, quia est
+        weakness obligred him to guard himself against the first addresses of a stranger. <foreign lang="la">Eo</foreign> for <foreign lang="la">ideo difficiles aditus primos habet, quia est
          qui vinci possit</foreign> as in Terence, <quote lang="la">eo tibi videtur foedus, quia
          vestem illam non habet.</quote></p>
       </note> and on that account the first access to him he makes difficult."</p>
@@ -1650,8 +1524,7 @@
      <p>"I remember it very well; but will tell it you at a better opportunity: to-day is the
       thirtieth sabbath.<note anchored="yes" n="1" resp="TAB">
        <p>The Jews began their year the first of September, and celebrated their paschal festival
-        the fifteenth of April, in the thirtieth week, from whence <placeName key="tgn,2028398"
-         >Horace</placeName> calls it <cit>
+        the fifteenth of April, in the thirtieth week, from whence <placeName key="tgn,2028398">Horace</placeName> calls it <cit>
          <quote lang="la">tricesima sabbata.</quote>
          <bibl n="Hor. S. 1.9.69"/>
         </cit> It continued eight days, of which the two first and two last were observed with so
@@ -1666,8 +1539,7 @@
       he with a loud voice: and, "Do you witness the arrest?"<note anchored="yes" n="2" resp="Fran">
        <p>When a man had given bail in a court of justice, if he neglected the time of appearance,
         he might be taken by force before the praetor. But the person who would arrest him was
-        obliged, before he used him with violence, to have a witness of his capture, <foreign
-         lang="la">antestari.</foreign> This, however, could not be done without the consent of the
+        obliged, before he used him with violence, to have a witness of his capture, <foreign lang="la">antestari.</foreign> This, however, could not be done without the consent of the
         witnesses; he, therefore, willingly offered the captor his ear to touch, who was liable, if
         these forms were not observed, to an action, <foreign lang="la">iniuriarum
         actionem.</foreign> But thieves and people of infamous characters were not treated with so
@@ -1693,8 +1565,7 @@
         the <foreign lang="la">garrulus</foreign>, he ascribes his preservation to the god, that
         from his vicinity to the courts, was called <quote lang="la">iuris peritus.</quote>
         <bibl n="Juv. 1.113">Juven. i. 113.</bibl> Orellius considers reference to be made to
-        Apollo, <foreign lang="greek">a)lecika/kos</foreign> or <foreign lang="greek"
-        >a)potropai=os</foreign>, and that the passage is founded on <cit>
+        Apollo, <foreign lang="greek">a)lecika/kos</foreign> or <foreign lang="greek">a)potropai=os</foreign>, and that the passage is founded on <cit>
          <bibl n="Hom. Il. 20.443">Il. 20. 443</bibl>
          <quote lang="greek">to\n d' e)ch/rpacen *)apo/llw</quote>
         </cit></p>
@@ -1724,8 +1595,7 @@
          </lg>
         </quote></p>
       </note> did not run smoothly. Who is so foolish an admirer of Lucilius, that he would not own
-      this? But the same writer is applauded in the same Satire,<note anchored="yes" n="6"
-       resp="TAB">
+      this? But the same writer is applauded in the same Satire,<note anchored="yes" n="6" resp="TAB">
        <p>Cf. <bibl n="Hor. S. 1.4">Sat. 4.</bibl></p>
       </note> on account of his having lashed the town with great humor. Nevertheless granting him
       this, I will not therefore give up the other [considerations]; for at that rate I might even
@@ -1749,8 +1619,7 @@
       the Rhodian? But [still they cry] the style elegantly composed of both tongues is the more
       pleasant, as if Falernian wine is mixed with Chian. When you make verses, I ask you this
       question; were you to undertake the difficult cause of the accused Petillius, would you (for
-      instance), forgetful of your country and your father, while Pedius,<note anchored="yes" n="8"
-       resp="Watson">
+      instance), forgetful of your country and your father, while Pedius,<note anchored="yes" n="8" resp="Watson">
        <p>Pedius. This is, without doubt, the son of that Q. Pedius whom Julius Caesar made heir to
         the fourth part of his estate, and who was chosen consul with Octavius, in room of Hirtius
         and Pansa.</p>
@@ -1761,8 +1630,7 @@
       like the double-tongued Canusinian.<note anchored="yes" n="10" resp="Fran">
        <p><placeName key="tgn,7004111">Canusium</placeName> was built by Diomede. Its inhabitants,
         originally Greeks, had preserved many words of their first language, which being mixed with
-        Latin, made a ridiculous, disagreeable jargon. <placeName key="tgn,2072913"
-        >Virgil</placeName> for the same reason, calls the Tyrians, <cit>
+        Latin, made a ridiculous, disagreeable jargon. <placeName key="tgn,2072913">Virgil</placeName> for the same reason, calls the Tyrians, <cit>
          <quote lang="la">Tyriosque bilingues.</quote>
          <bibl n="Verg. A. 1.661">(Aen. 1.661)</bibl>
         </cit></p>
@@ -1785,8 +1653,7 @@
          <quote lang="la">Iugulat dum Memnona</quote>
          <bibl n="Hor. S. 1.10.36"/>
         </cit> is a tone and style of bombast in the true spirit of ridicule.</p>
-      </note> murders Memnon, and while he deforms the muddy source of the <placeName
-       key="tgn,7012611">Rhine</placeName>, I amuse myself with these satires; which can neither be
+      </note> murders Memnon, and while he deforms the muddy source of the <placeName key="tgn,7012611">Rhine</placeName>, I amuse myself with these satires; which can neither be
       recited in the temple<note anchored="yes" n="12" resp="ed. Dubl&gt;">
        <p><cit>
          <quote lang="la">Quae nec in Aede sonent.</quote>
@@ -1796,10 +1663,8 @@
         stage. Vossius believes they were established in imitation of the Sicilians and Athenians.
         Mr. Dacier thinks they were continued under the reign of Domitian.</p>
       </note> [of Apollo], as contesting for the prize when Tarpa presides as judge, nor can have a
-      run over and over again represented in the theaters. You, O Fundanius,<note anchored="yes"
-       n="13" resp="Watson">
-       <p>Fundanius. He is known only by this elogium of Horace. This passage refers to the <bibl
-         n="Ter. An.">Andria</bibl> of Terence, where Chremes is deceived by the artifices of
+      run over and over again represented in the theaters. You, O Fundanius,<note anchored="yes" n="13" resp="Watson">
+       <p>Fundanius. He is known only by this elogium of Horace. This passage refers to the <bibl n="Ter. An.">Andria</bibl> of Terence, where Chremes is deceived by the artifices of
        Davus.</p>
       </note> of all men breathing, are the most capable of prattling tales in a comic vein, how an
       artful courtesan and a Davus impose upon an old Chremes: Pollio sings the actions of kings in
@@ -1808,8 +1673,7 @@
          <quote lang="la">Pede ter percusso.</quote>
          <bibl n="Hor. S. 1.10.43"/>
         </cit> The tragic Iambics had but three measures, each measure having two feet, from whence
-        they were sometimes called <foreign lang="la">senarii</foreign>, and sometimes <foreign
-         lang="la">trimetra.</foreign></p>
+        they were sometimes called <foreign lang="la">senarii</foreign>, and sometimes <foreign lang="la">trimetra.</foreign></p>
       </note> measure; the sublime Varius composes the manly epic, in a manner that no one can
       equal: to <placeName key="tgn,1015191">Virgil</placeName> the Muses, delighting in rural
       scenes, have granted the delicate and the elegant. It was this kind [of satiric writing], the
@@ -1826,8 +1690,7 @@
       finished, and to run more smoothly than if some one, thinking it sufficient to conclude a
       something of six feet, be fond of writing two hundred verses before he eats, and as many after
       supper? Such was the genius of the Tuscan Cassius, more impetuous than a rapid river; who, as
-      it is reported, was burned [at the funeral pile] with his own books<note anchored="yes" n="15"
-       resp="McCaul">
+      it is reported, was burned [at the funeral pile] with his own books<note anchored="yes" n="15" resp="McCaul">
        <p>The funeral piles on which dead bodies were burned were made of wood. Cassius had written
         so much, that <placeName key="tgn,2399200">Horace</placeName> sportively gives it as a
         rumor, that his books formed his funeral pile. MCCAUL.</p>
@@ -1845,8 +1708,7 @@
       you be such a fool as to be ambitious that your verses should be taught in petty schools? That
       is not my case. It is enough for me, that the knight [Maecenas] applauds: as the courageous
       actress, Arbuscula, expressed herself, in contempt of the rest of the audience, when she was
-      hissed [by the populace]. What, shall that grubworm Pantilius<note anchored="yes" n="17"
-       resp="watson">
+      hissed [by the populace]. What, shall that grubworm Pantilius<note anchored="yes" n="17" resp="watson">
        <p>Pantilius. A buffoon, and a great enemy of Horace, whom he calls Cimex, an insect, out of
         contempt. Fannius is the same of whom he speaks in <bibl n="Hor. S. 4">Satire iv.</bibl></p>
       </note> have any effect upon me? Or can it vex me, that Demetrius carps at me behind my back?
@@ -1887,14 +1749,12 @@
         evident from the letters which <placeName key="tgn,2068515">Cicero</placeName> wrote to him.
         He was greatly in favor both with Julius Caesar and Augustus. As he accompanied the first in
         his wars in <placeName key="tgn,1000070">Gaul</placeName>, thirty years before this Satire
-        was written, he must, by this time, have been of an advanced age. <placeName
-         key="tgn,2399200">Horace</placeName> applies to him as one of great authority, on account
+        was written, he must, by this time, have been of an advanced age. <placeName key="tgn,2399200">Horace</placeName> applies to him as one of great authority, on account
         of his age and skill in the law. He was further a good judge of raillery, and had often used
         it with delicacy and success.</p>
       </note> give me your advice, what I shall do. Be quiet. I should not make, you say, verses at
       all. I do say so. May I be hanged, if that would not be best: but I can not sleep. Let those,
-      who want sound sleep, anointed swim thrice across the <placeName key="tgn,1130786"
-      >Tiber</placeName>: and have their clay well moistened with wine over-night. Or, if such a
+      who want sound sleep, anointed swim thrice across the <placeName key="tgn,1130786">Tiber</placeName>: and have their clay well moistened with wine over-night. Or, if such a
       great love of scribbling hurries you on, venture to celebrate the achievements of the
       invincible Caesar, certain of bearing off ample rewards for your pains.</p>
      <p>Desirous I am, my good father, [to do this,] but my strength fails me, nor can any one
@@ -1913,8 +1773,7 @@
       becomes light-headed and warm, and the candles appear multiplied. Castor delights in
       horsemanship: and he, who sprang from the same egg, in boxing. As many thousands of people [as
       there are in the world], so many different inclinations are there. It delights me to combine
-      words in meter, after the manner of Lucilius, a better man than both of us.<note
-       anchored="yes" n="4" resp="Rutgers">
+      words in meter, after the manner of Lucilius, a better man than both of us.<note anchored="yes" n="4" resp="Rutgers">
        <p>When the Romans mentioned a man of great reputation, and whose example had a sort of
         authority, their usual expression in conversation. was, Who is far better, and more valuable
         than you or me.</p>
@@ -1931,8 +1790,7 @@
       villains? 0 Jupiter, father and sovereign, may my weapon laid aside wear away with rust, and
       may no one injure me, who am desirous of peace? But that man who shall provoke me (I give
       notice, that it is better not to touch me) shall weep [his folly], and as a notorious
-      character shall be sung through all the streets of <placeName key="perseus,Rome"
-      >Rome</placeName>. <milestone ed="p" n="47" unit="card"/></p>
+      character shall be sung through all the streets of <placeName key="perseus,Rome">Rome</placeName>. <milestone ed="p" n="47" unit="card"/></p>
      <p>Cervius,<note anchored="yes" n="5" resp="Torr">
        <p>A criminal was acquitted or condemned by the number of votes, which the judges threw into
         a judiciary urn. Virgil tells us this custom was observed among the dead, <cit>
@@ -1941,8 +1799,7 @@
         </cit></p>
       </note> when he is offended, threatens one with the laws and the [judiciary] urn; Canidia,
       Albutius' poison to those with whom she is at enmity; Turius [threatens] great damages, if you
-      contest any thing while he is judge. How every animal<note anchored="yes" n="6"
-       resp="ed. Dubl.">
+      contest any thing while he is judge. How every animal<note anchored="yes" n="6" resp="ed. Dubl.">
        <p><placeName key="tgn,2399200">Horace</placeName>'s weapon is satire. This he will use
         against his enemies, just as every one, <cit>
          <quote lang="la">quo valet, suspectos terret</quote>
@@ -1958,8 +1815,7 @@
          <bibl n="Hor. S. 2.1.52"/>
         </cit>. <placeName key="tgn,2399200">Horace</placeName> means that Scaeva's not polluting
         his right hand with the blood of his mother is no more wonderful than that a wolf does not
-        attack a person <foreign lang="la">calce</foreign>, or an ox, <foreign lang="la"
-        >dente</foreign>. Bentley's conjecture <foreign lang="la">mirum si</foreign> is specious.
+        attack a person <foreign lang="la">calce</foreign>, or an ox, <foreign lang="la">dente</foreign>. Bentley's conjecture <foreign lang="la">mirum si</foreign> is specious.
         Similarly we have <cit>
          <bibl n="Ter. An. 4.4">Terent. Andr. iv. 4, 16;</bibl>
          <quote lang="la">Mirum vero, impudentur mulier si facit meretrix.</quote>
@@ -2000,14 +1856,12 @@
       lampoons? But he took to task the heads of the people, and the people themselves, class by
        class;<note anchored="yes" n="9" resp="Watson">
        <p>The great men, and people of whatever tribe. It is plain from what remains to us of
-        Lucilius, that he did not spare the great. Besides Metellus and <placeName key="tgn,2059602"
-         >Lupus</placeName> already mentioned, he attacked also Mutius Scaevola, Titus Albutius,
+        Lucilius, that he did not spare the great. Besides Metellus and <placeName key="tgn,2059602">Lupus</placeName> already mentioned, he attacked also Mutius Scaevola, Titus Albutius,
         Torquatus, Marcus Carbo, Lucius Tubulus, Publius Gallonins, Caius Cassius, Lucius Cotta,
         Clodius Asellus, Quintus Opimius, Nomentanus, Caius Cecilius Index, Trebellius, Publius
         Pavus Tuditanus. And not satisfied with this, he run through all the thirty-five tribes. one
         after another.</p>
-      </note> in short, he spared none but virtue and her friends. Yet, when the valorous <placeName
-       key="tgn,2081795">Scipio</placeName>, and the mild philosophical Laelius, had withdrawn
+      </note> in short, he spared none but virtue and her friends. Yet, when the valorous <placeName key="tgn,2081795">Scipio</placeName>, and the mild philosophical Laelius, had withdrawn
       themselves from the crowd and the public scene, they used to divert themselves with him, and
       joke in a free manner, while a few vegetables were boiled [for supper]. Of whatever rank I am,
       though below the estate and wit of Lucilius, yet envy must be obliged to own that I have lived
@@ -2022,8 +1876,7 @@
          <quote lang="la">Si mala condiderit.</quote>
          <bibl n="Hor. S. 2.1.82"/>
         </cit> Trebatius with much solemnity cites the laws of the twelve tables as his last
-        argument. A lawyer could produce nothing more strong, and <placeName key="tgn,2399200"
-         >Horace</placeName> being unable to defend himself by a direct answer, finds a way of
+        argument. A lawyer could produce nothing more strong, and <placeName key="tgn,2399200">Horace</placeName> being unable to defend himself by a direct answer, finds a way of
         getting out of the difficulty by playing on the words <foreign lang="la">malum
         carmen</foreign>, and giving them a different sense from what they had in the text of the
         law..</p>
@@ -2072,8 +1925,7 @@
          <quote lang="la">Diluta.</quote>
          <bibl n="Hor. S. 2.2.16"/>
         </cit> This mixture was called <foreign lang="la">mulsum</foreign>, mead. Ofella says: Don't
-        drink any thing but mead made of the best honey and the best wine. <foreign lang="la"
-         >Diluere</foreign> is applied to those things which are melted by the addition of fluid.
+        drink any thing but mead made of the best honey and the best wine. <foreign lang="la">Diluere</foreign> is applied to those things which are melted by the addition of fluid.
         Thus <cit>
          <bibl n="Verg. g. 1.341">Virg. Geor. i. 341,</bibl>
          <quote lang="la">Cui tu lacte favos et miti dilue Baccho.</quote>
@@ -2090,9 +1942,7 @@
          <quote lang="la">Lagois.</quote>
          <bibl n="Hor. S. 2.2.22"/>
         </cit> We do not find this word in any other author. It was probably a foreign bird, whose
-        flesh tasted and looked like that of a hare; a favorite dish among the Romans. <foreign
-         lang="la">Ostrea</foreign> is of two syllables, as in <placeName key="tgn,1015191"
-        >Virgil</placeName>, <cit>
+        flesh tasted and looked like that of a hare; a favorite dish among the Romans. <foreign lang="la">Ostrea</foreign> is of two syllables, as in <placeName key="tgn,1015191">Virgil</placeName>, <cit>
          <quote lang="la">Bis patriae cecidere manus: quin protenus omnia.</quote>
          <bibl n="Verg. A. 6.33">(Aen. 6.33)</bibl>
         </cit></p>
@@ -2136,8 +1986,7 @@
         vogue, and perhaps we only wait for a third man of taste to assure us, that a roasted
         cormorant is infinitely more delicious than sturgeons, turbots, or storks.</p>
       </note> The turbot was secure and the stork unmolested in her nest; till the praetorian
-       [<placeName key="tgn,2072219">Sempronius</placeName>], the inventor,<note anchored="yes"
-       n="20" resp="Torr">
+       [<placeName key="tgn,2072219">Sempronius</placeName>], the inventor,<note anchored="yes" n="20" resp="Torr">
        <p>The storks built their nests in safety until the time of Augustus, when your praetor
         taught you to eat them. Asinius Sempronius, or, according to others, Rutilius Rufus, when
         candidate for the praetorship, entertained the people with a dish of storks. But the people,
@@ -2157,10 +2006,8 @@
          <bibl n="Hor. S. 2.2.60"/>
         </cit> was a festival the day after the nuptials, when they drank and ate whatever remained
         of yesterday's entertainment, <foreign lang="la">quia iterum potaretur.</foreign> The
-        construction is remarkable, <quote lang="la">alios dierum festos</quote>, for <foreign
-         lang="la">alios qui ex diebus festi sunt</foreign>. <quote lang="la">Albatus</quote>,
-        white, was usually the color of the Roman robe even at funeral feasts. <quote lang="la"
-        >Ipse</quote> is a circumstance that strongly marks the avarice of Avidienus. Afraid that
+        construction is remarkable, <quote lang="la">alios dierum festos</quote>, for <foreign lang="la">alios qui ex diebus festi sunt</foreign>. <quote lang="la">Albatus</quote>,
+        white, was usually the color of the Roman robe even at funeral feasts. <quote lang="la">Ipse</quote> is a circumstance that strongly marks the avarice of Avidienus. Afraid that
         his guests or his servants should be too profuse of his oil, he pours it himself. The poet
         tells us, his bottle was of two pounds weight, as if it were his whole store, although he
         was extremely rich; and the vessel was of horn, that it might last a long time. All these
@@ -2222,19 +2069,16 @@
        <p><cit>
          <quote lang="la">Metato in agello.</quote>
          <bibl n="Hor. S. 2.2.114"/>
-        </cit> Ofellus was involved in the same disgrace and ruin as <placeName key="tgn,1015191"
-         >Virgil</placeName>, Tibullus, and Propertius. Their estates were given by Octavius to the
+        </cit> Ofellus was involved in the same disgrace and ruin as <placeName key="tgn,1015191">Virgil</placeName>, Tibullus, and Propertius. Their estates were given by Octavius to the
         veterans who had served against <placeName key="tgn,2200724">Brutus</placeName> and Cassius
         in the battle of <placeName key="tgn,2119567">Philippi</placeName>. That of Ofellus was
-        given to Umbrenus, who hired its former master to till the ground for him, <quote lang="la"
-         >mercede colonum</quote>. As each soldier had a certain number of acres, the land was
+        given to Umbrenus, who hired its former master to till the ground for him, <quote lang="la">mercede colonum</quote>. As each soldier had a certain number of acres, the land was
         measured, <quote lang="la">metato agello</quote>, before it was divided.</p>
       </note> with his cattle and children, talking to this effect; I never ventured to eat any
       thing on a work-day except pot-herbs, with a hock of smoke-dried bacon. And when a friend came
       to visit me after a long absence, or a neighbor, an acceptable guest to me resting from work
       on account of the rain, we lived well; not on fishes fetched from the city, but on a pullet
-      and a kid: then a dried grape, and a nut, with a large fig,<note anchored="yes" n="24"
-       resp="Turn, McCaul, Wheeler">
+      and a kid: then a dried grape, and a nut, with a large fig,<note anchored="yes" n="24" resp="Turn, McCaul, Wheeler">
        <p><cit>
          <quote lang="la">Duplice</quote>
          <bibl n="Hor. S. 2.2.122"/>
@@ -2246,8 +2090,7 @@
           pulpae tunc duplicate in cistellis serventur aut loculis.</quote>
         </cit></p>
       </note> set off our second course. After this, it was our diversion to have no other
-      regulation in our cups, save that against drinking to excess:<note anchored="yes" n="25"
-       resp="Turn">
+      regulation in our cups, save that against drinking to excess:<note anchored="yes" n="25" resp="Turn">
        <p>It was customary with the Romans to appoint some person <foreign lang="la">magister
          bibendi</foreign>, who directed the number of cups to be taken, and the toasts, etc. Ofella
         says there was no such person appointed, but that the only president that they had at their
@@ -2259,8 +2102,7 @@
          peccarat</foreign>) violated any of the convivial laws or customs, was punished by being
         obliged to drink a cupful, <foreign lang="la">poculo multabatur</foreign>, so that as no one
         drank but those who committed some breach of the laws, <foreign lang="la">bibere poenae et
-         dedecoris esset, non invitationis aut magisterii</foreign>. Thus <foreign lang="la"
-        >culpa</foreign> was <foreign lang="la">magistra bibendi</foreign>.</p>
+         dedecoris esset, non invitationis aut magisterii</foreign>. Thus <foreign lang="la">culpa</foreign> was <foreign lang="la">magistra bibendi</foreign>.</p>
       </note> then <placeName key="tgn,2068435">Ceres</placeName> worshiped [with a libation], that
       the corn might arise in lofty stems, smoothed with wine the melancholy of the contracted brow.
       Let fortune rage, and stir up new tumults: what can she do more to impair my estate? How much
@@ -2290,8 +2132,7 @@
       must be avoided; or whatever acquisitions you have made in the better part of your life, must
       with equanimity be given up. May the gods and goddesses, O Damasippus, present you with a
       barber for your sound advice! But by what means did you get so well acquainted with me? Since
-      all my fortunes were dissipated at the middle of the Exchange,<note anchored="yes" n="26"
-       resp="ed. Dubl.">
+      all my fortunes were dissipated at the middle of the Exchange,<note anchored="yes" n="26" resp="ed. Dubl.">
        <p>The name of Janus was sometimes given to those great arcades which crossed the streets of
          <placeName key="tgn,7013962">Rome</placeName>. Livy tells us there were three of them
         erected in the forum, the middle of which <placeName key="tgn,2028398">Horace</placeName>
@@ -2319,9 +2160,7 @@
       almost "fools all,"<note anchored="yes" n="28" resp="Fran">
        <p>It was an absurd and ridiculous maxim among the Stoics, that all vicious people were
         equally fools and madmen. <foreign lang="la">Prope</foreign> does not therefore lessen the
-        universality of the proposition, for the Latins frequently use <foreign lang="la"
-        >prope</foreign> and <foreign lang="la">fere</foreign> for <foreign lang="la"
-        >semper</foreign>. In the next line, <foreign lang="la">si</foreign> is not said in any
+        universality of the proposition, for the Latins frequently use <foreign lang="la">prope</foreign> and <foreign lang="la">fere</foreign> for <foreign lang="la">semper</foreign>. In the next line, <foreign lang="la">si</foreign> is not said in any
         manner of doubt, but has the force of an affirmative.</p>
       </note> if what Stertinius insists upon has any truth in it; from whom, being of a teachable
       disposition, I derived these admirable precepts, at the very time when, having given me
@@ -2341,8 +2180,7 @@
          <bibl n="Hor. S. 2.3.38"/>
         </cit> &mdash; <foreign lang="la">Opportunus, propitius.</foreign> The right was by the
         ancients esteemed the lucky side.</p>
-      </note> was at my elbow; and [addressed me to this effect]: Take care,<note anchored="yes"
-       n="31" resp="San, Dac">
+      </note> was at my elbow; and [addressed me to this effect]: Take care,<note anchored="yes" n="31" resp="San, Dac">
        <p><cit>
          <quote lang="la">Cave faxis.</quote>
          <bibl n="Hor. S. 2.3.38"/>
@@ -2358,18 +2196,15 @@
        <p><cit>
          <quote lang="la">Chrysippi porticus.</quote>
          <bibl n="Hor. S. 2.3.44"/>
-        </cit> The <foreign lang="la">Porticus</foreign> was a famous gallery at <placeName
-         key="tgn,7001393">Athens</placeName>, where <placeName key="tgn,2786861">Zeno</placeName>
-        held his school, which, from the Greek word <foreign lang="greek">sto/a</foreign>, <foreign
-         lang="la">Porticus</foreign>, took the name of Stoic.</p>
+        </cit> The <foreign lang="la">Porticus</foreign> was a famous gallery at <placeName key="tgn,7001393">Athens</placeName>, where <placeName key="tgn,2786861">Zeno</placeName>
+        held his school, which, from the Greek word <foreign lang="greek">sto/a</foreign>, <foreign lang="la">Porticus</foreign>, took the name of Stoic.</p>
       </note> deem every man mad, whom vicious folly or the ignorance of truth drives blindly
       forward. This definition takes in whole nations, this even great kings, the wise man [alone]
       excepted. Now learn, why all those, who have fixed the name of madman upon you, are as
       senseless as yourself. As in the woods, where a mistake makes people wander about from the
       proper path; one goes out of the way to the right; another to the left; there is the same
       blunder on both sides, only the illusion is in different directions: in this manner imagine
-      yourself mad; so that he, who derides you, hangs his tail,<note anchored="yes" n="33"
-       resp="Fran">
+      yourself mad; so that he, who derides you, hangs his tail,<note anchored="yes" n="33" resp="Fran">
        <p><cit>
          <quote lang="la">Caudam trahat.</quote>
          <bibl n="Hor. S. 2.3.53"/>
@@ -2405,11 +2240,9 @@
         since he does not pay for them, but that he would be a fool indeed, to refuse the favor
         which Mercury offers him, in the credulity of Perillius.</p>
       </note> which you can never repay: will you be a madman, if you receive it; or would you be
-      more absurd for rejecting a booty, which propitious Mercury offers? Take bond,<note
-       anchored="yes" n="36" resp="McCaul">
+      more absurd for rejecting a booty, which propitious Mercury offers? Take bond,<note anchored="yes" n="36" resp="McCaul">
        <p><foreign lang="la">Scribere</foreign> is sometimes used in the sense "to acknowledge the
-        receipt of a sum borrowed"; hence some have supposed that the meaning here is <foreign
-         lang="la">scribe te decem sestertia accepisse a Nerio</foreign>, as said by Damasippus'
+        receipt of a sum borrowed"; hence some have supposed that the meaning here is <foreign lang="la">scribe te decem sestertia accepisse a Nerio</foreign>, as said by Damasippus'
         creditor. Thus, Nerius is a banker, with whom Damasippus' creditor (Perillius) had lodged
         his money, and in whose books Damasippus, when drawing the ten sestertia, was required to
         acknowledge (<foreign lang="la">scribere</foreign>) the receipt of so much money. But I
@@ -2451,8 +2284,7 @@
         </cit> Alluding to the form of the will, in which the testator required any thing of his
         heir, <foreign lang="la">HERES DAMNAS ESTO.</foreign></p>
       </note> to exhibit a hundred pair of gladiators to the people, beside an entertainment
-      according to the direction of Arrius; and as much corn as is cut in <placeName
-       key="tgn,7001242">Africa</placeName>. Whether I have willed this rightly or wrongly, it was
+      according to the direction of Arrius; and as much corn as is cut in <placeName key="tgn,7001242">Africa</placeName>. Whether I have willed this rightly or wrongly, it was
       my will; be not severe against me, [cries the testator]. I imagine the provident mind of
       Staberius foresaw this. What then did he mean, when he appointed by will that his heirs should
       engrave the sum of their patrimony upon his tomb-stone? As long as he lived, he deemed poverty
@@ -2463,8 +2295,7 @@
       too? Ay, and a king, and whatever else he pleases. This he was in hopes would greatly redound
       to his praise, as if it had been an acquisition of his virtue. In what respect did the Grecian
        Aristippus<note anchored="yes" n="40" resp="Dac, San">
-       <p>Aristippus was the chief of the Cyrenaic sect. He held that pleasure was the <foreign
-         lang="la">summum bonum</foreign>, and virtue only valuable as it was a means of gaining
+       <p>Aristippus was the chief of the Cyrenaic sect. He held that pleasure was the <foreign lang="la">summum bonum</foreign>, and virtue only valuable as it was a means of gaining
         that pleasure. Epicurus was perfectly rigid when compared to his master Aristippus, and by
         our author's manner of mentioning him in many parts of his works, we may believe he was no
         enemy to so convenient a philosophy. Staberius, who was a Stoic, has given an ill-natured
@@ -2486,8 +2317,7 @@
       three hundred thousand), he drink nothing, but what is mere sharp vinegar: again &mdash;
       if, wanting but one year of eighty, he should lie upon straw, who has bed-clothes rotting in
       his chest, the food of worms and moths; he would seem mad, belike, but to few persons: because
-      the greatest part of mankind labors under the same malady. <milestone ed="p" n="122"
-       unit="card"/></p>
+      the greatest part of mankind labors under the same malady. <milestone ed="p" n="122" unit="card"/></p>
      <p>Thou dotard, hateful to the gods, dost thou guard [these possessions], for fear of wanting
       .thyself: to the end that thy son, or even the freedman thy heir, should guzzle it all up For
       how little will each day deduct from your capital, if you begin to pour better oil upon your
@@ -2516,16 +2346,13 @@
       ravenous heir will even now carry off these [treasures] of yours. What, while I am alive? That
       you may live, therefore, awake; do this. What would you have me do? Why your blood will fail
       you that are so much reduced, unless food and some great restorative be administered to your
-      decaying stomach. Do you hesitate? come on; take this ptisan<note anchored="yes" n="42"
-       resp="McCaul, Wheeler">
+      decaying stomach. Do you hesitate? come on; take this ptisan<note anchored="yes" n="42" resp="McCaul, Wheeler">
        <p><cit>
          <quote lang="la">Ptisanarium.</quote>
          <bibl n="Hor. S. 2.3.155"/>
         </cit> The diminutive from <foreign lang="la">ptsana</foreign>, unhusked barley or rice,
         from <foreign lang="greek">pti/ssw</foreign>, <foreign lang="la">tundo, tundendo
-        decortico</foreign>. Here it means a decoction, a kind of gruel made of <foreign lang="la"
-         >oryza</foreign>, rice. Rice was not then cultivated in <placeName key="tgn,1000080"
-        >Italy</placeName>, but brought from <placeName key="tgn,7016833">Egypt</placeName>. The
+        decortico</foreign>. Here it means a decoction, a kind of gruel made of <foreign lang="la">oryza</foreign>, rice. Rice was not then cultivated in <placeName key="tgn,1000080">Italy</placeName>, but brought from <placeName key="tgn,7016833">Egypt</placeName>. The
         physician purposely uses the diminutive <foreign lang="la">ptisanarium</foreign>, lest he
         should terrify the patient.</p>
       </note> made of rice. How much did it cost? A trifle. How much then? Eight asses. Alas! what
@@ -2541,8 +2368,7 @@
         domestic gods, and as these gods were the sons of the goddess of madness, they were
         particularly worshiped by persons disordered in their understanding. Stertinius therefore
         advises the man, who, by the favor of these gods, is neither perjured nor a miser,
-        gratefully to sacrifice a swine to them, which was their usual sacrifice. <quote lang="la"
-         >Fruge Lares, avidaque porca.</quote>
+        gratefully to sacrifice a swine to them, which was their usual sacrifice. <quote lang="la">Fruge Lares, avidaque porca.</quote>
         <bibl n="Hom. Od. 23.2">Od. xxiii. lib. ii.</bibl><!-- AEM:  surely not the Odyssey? --></p>
       </note> household gods. But he is ambitious and assuming. Let him make a voyage [then] to
       Anticyra. For what is the difference, whether you fling whatever you have into a gulf, or make
@@ -2558,8 +2384,7 @@
       that greater, which your father thinks and the purposes of nature determine to be sufficient.
       Further, lest glory should entice you, I will bind each of you by an oath: whichever of you
       shall be an aedile or a praetor, let him be excommunicated and accursed. Would you destroy
-      your effects in [largesses of] peas, beans, and lupines,<note anchored="yes" n="44"
-       resp="McCaul">
+      your effects in [largesses of] peas, beans, and lupines,<note anchored="yes" n="44" resp="McCaul">
        <p>Distributions of these were frequently made to the people by candidates for offices, or by
         the aediles at the celebration of the games, etc. Oppidius asks whether his son would be so
         mad as to squander his property in largesses, for the sake of obtaining an office in the
@@ -2612,8 +2437,7 @@
       </note> will always be reckoned disturbed in mind: and it will not matter, whether he go wrong
       through folly or through rage. Is Ajax delirious, while he kills the harmless lambs? Are you
       right in your head, when you willfully commit a crime for empty titles?</p>
-     <p>And is your heart pure, while it is swollen with the vice?<note anchored="yes" n="49"
-       resp="TAB">
+     <p>And is your heart pure, while it is swollen with the vice?<note anchored="yes" n="49" resp="TAB">
        <p>i. e. of madness.</p>
       </note> If any person should take a delight to carry about with him in his sedan a pretty
       lambkin; and should provide clothes, should provide maids and gold for it, as for a daughter;
@@ -2672,8 +2496,7 @@
       be guided by reason or method. In love these evils are inherent; war [one while], then peace
       again. If any one should endeavor to ascertain these things, that are various as the weather,
       and fluctuating by blind chance; he will make no more of it, than if he should set about
-      raving by right reason and rule." Whatwhen, picking the pippins<note anchored="yes" n="52"
-       resp="Wheeler">
+      raving by right reason and rule." Whatwhen, picking the pippins<note anchored="yes" n="52" resp="Wheeler">
        <p>The allusion is to a habit of determining the good or bad fortune of love by trying to
         strike the ceiling of a room with the pippins of apples. They were raised by pressing them
         between the first two fingers. If they struck the ceiling, it was considered a good
@@ -2688,11 +2511,9 @@
         </cit>, a proverbial precept of Pythagoras, "Do not stir the fire with a sword." Our poet
         uses it. as an easy transition from the folly to the madness of lovers. We shall have
         another proverb in the same sense, <quote lang="la">Oleum adde camino.</quote></p>
-      </note> I ask you, when Marius lately, after he had stabbed <placeName key="tgn,1000074"
-       >Hellas</placeName>, threw himself down a precipice, was he raving mad? Or will you absolve
+      </note> I ask you, when Marius lately, after he had stabbed <placeName key="tgn,1000074">Hellas</placeName>, threw himself down a precipice, was he raving mad? Or will you absolve
       the man from the imputation of a disturbed mind, and condemn him for the crime, according to
-      your custom, imposing on things names that have an affinity in signification? <milestone
-       ed="p" n="281" unit="card"/></p>
+      your custom, imposing on things names that have an affinity in signification? <milestone ed="p" n="281" unit="card"/></p>
      <p>There was a certain freedman, who, an old man, ran about the streets in a morning fasting,
       with his hands washed, and prayed thus: "Snatch me alone from death" (adding some solemn vow),
       "me alone, for it is an easy matter for the gods:" this man was sound in both his ears and
@@ -2773,20 +2594,16 @@
       garden much watered. If a visitor should come unexpectedly upon you in the evening, lest the
       tough old hen prove disagreeable to his palate, you must learn to drown it in Falernian wine
       mixed [with water]:<note anchored="yes" n="58" resp="TAB">
-       <p>But Bentley is doubtless right in reading <foreign lang="la">musto</foreign> for <foreign
-         lang="la">misto.</foreign></p>
-      </note> this will make it tender. The mushrooms that grow in meadows,<note anchored="yes"
-       n="59" resp="Torr,Dac">
+       <p>But Bentley is doubtless right in reading <foreign lang="la">musto</foreign> for <foreign lang="la">misto.</foreign></p>
+      </note> this will make it tender. The mushrooms that grow in meadows,<note anchored="yes" n="59" resp="Torr,Dac">
        <p>Nothing is more false. The best mushrooms, generally speaking, are those gathered in
         woods, heaths, or downs. They are more wholesome and better flavored than those of
        meadows.</p>
       </note> are of the best kind: all others are dangerously trusted. That man shall spend his
-      summers healthy who shall finish his dinners with mulberries<note anchored="yes" n="60"
-       resp="ed. Dubl.">
+      summers healthy who shall finish his dinners with mulberries<note anchored="yes" n="60" resp="ed. Dubl.">
        <p>The ancients had only one meal, but they who could not wait for supper usually eat bread,
         figs, grapes, or mulberries in the morning. But our doctor, who loved to dine in form,
-        taught another method, and in contradiction to <placeName key="tgn,2099233"
-        >Galen</placeName> and the faculty, would have his disciples eat mulberries after
+        taught another method, and in contradiction to <placeName key="tgn,2099233">Galen</placeName> and the faculty, would have his disciples eat mulberries after
        dinner.</p>
       </note> black [with ripeness], which he shall have gathered from the tree before the sun
       becomes violent. Aufidius used to mix honey with strong Falernian injudiciously; because it is
@@ -2796,8 +2613,7 @@
        <placeName key="tgn,2246284">Coan</placeName> white wine. The increasing moons swell the
       lubricating shell-fish. But every sea is not productive of the exquisite sorts. The Lucrine
       muscle is better than the Baian murex: [The best] oysters come from the Circean promontory;
-      cray-fish from <placeName key="tgn,7010130">Misenum</placeName>: the soft <placeName
-       key="tgn,7004100">Tarentum</placeName> plumes herself on her broad escalops. Let no one
+      cray-fish from <placeName key="tgn,7010130">Misenum</placeName>: the soft <placeName key="tgn,7004100">Tarentum</placeName> plumes herself on her broad escalops. Let no one
       presumptuously arrogate to himself the science of banqueting, unless the nice doctrine of
       tastes has been previously considered by him with exact system. Nor is it enough to sweep away
       a parcel of fishes from the expensive stalls, [while he remains] ignorant for what sort stewed
@@ -2856,8 +2672,7 @@
 
      <p>BESIDE what you have told me, O Tiresias, answer to this petition of mine: by what arts and
       expedients may I be able to repair my ruined fortunes-why do you laugh? Does it already seem
-      little to you, who are practiced in deceit, to be brought back to <placeName key="tgn,1007519"
-       >Ithaca</placeName>, and to behold [again] your family household gods? 0 you who never speak
+      little to you, who are practiced in deceit, to be brought back to <placeName key="tgn,1007519">Ithaca</placeName>, and to behold [again] your family household gods? 0 you who never speak
       falsely to any one, you see how naked and destitute I return home, according to your prophecy:
       nor is either my cellar, or my cattle there, unembezzled by the suitors [of Penelope]. But
       birth and virtue, unless [attended] with substance, is viler than seaweed.</p>
@@ -2867,8 +2682,7 @@
       delicious apples, and whatever dainties your well-cultivated ground brings forth for you, let
       the rich man, as more to be reverenced than your household god, taste before him: and, though
       he be perjured, of no family, stained with his brother's blood, a runaway; if he desire it, do
-      not refuse to go along with him, his companion on the outer side.<note anchored="yes" n="63"
-       resp="TAB">
+      not refuse to go along with him, his companion on the outer side.<note anchored="yes" n="63" resp="TAB">
        <p><cit>
          <quote lang="la">Comes exterior.</quote>
          <bibl n="Hor. S. 2.5.17"/>
@@ -2876,9 +2690,7 @@
         side. When three people walk together, the middle is, for the same reason, the most
         honorable place, and is therefore always given to the person of most distinction, interior
         comes.</p>
-      </note> What, shall I walk cheek by jole with a filthy <placeName key="tgn,7002261"
-      >Damas</placeName>? I did not behave myself in that manner at <placeName key="perseus,Troy"
-       >Troy</placeName>, contending always with the best. You must then be poor. I will command my
+      </note> What, shall I walk cheek by jole with a filthy <placeName key="tgn,7002261">Damas</placeName>? I did not behave myself in that manner at <placeName key="perseus,Troy">Troy</placeName>, contending always with the best. You must then be poor. I will command my
       sturdy soul to bear this evil; I have formerly endured even greater. Do thou, O prophet, tell
       me forthwith how I may amass riches, and heaps of money. In troth I have told you, and tell
       you again. Use your craft to lie at catch for the last wills of old men: nor, if one or two
@@ -2887,8 +2699,7 @@
       contested at any time at the bar; whichever of the parties live wealthy without heirs, should
       he be a rogue, who daringly takes the law of a better man, be thou. his advocate: despise the
       citizen, who is superior in reputation, and [the justness of] his cause, if at home he has a
-      son or a fruitful wife. [Address him thus:] "Quintus, for instance, or Publius<note
-       anchored="yes" n="64" resp="ed. Dubl.">
+      son or a fruitful wife. [Address him thus:] "Quintus, for instance, or Publius<note anchored="yes" n="64" resp="ed. Dubl.">
        <p><cit>
          <quote lang="la">Quinte, puta, aut Publi.</quote>
          <bibl n="Hor. S. 2.5.32"/>
@@ -2900,28 +2711,23 @@
       snatch my eyes from me, than he shall despise or defraud you of an empty nut. This is my care,
       that you lose nothing, that you be not made a jest of." Bid him go home, and make much of
       himself. Be his solicitor yourself: persevere, and be steadfast: whether the glaring dog-star
-      shall cleave the infant statues; or Furius, destined with his greasy paunch,<note
-       anchored="yes" n="65" resp="Wheeler">
+      shall cleave the infant statues; or Furius, destined with his greasy paunch,<note anchored="yes" n="65" resp="Wheeler">
        <p><cit>
          <quote lang="la">Pingui tentus omaso.</quote>
          <bibl n="Hor. S. 2.5.40"/>
         </cit> Furius, in a poem on the Gallic war, had said, <quote lang="la">Iupiter hibernas cana
-         nivo conspuet Alpes.</quote> Horace applies it to the author himself; adding <quote
-         lang="la">pingui tentus omaso</quote> in ridicule of his appearance. <quote lang="la"
-         >Furius poeta immanis ventris, qui nivem spumam (sputum) Iovis dixit. Ideo hoc ejus persona
+         nivo conspuet Alpes.</quote> Horace applies it to the author himself; adding <quote lang="la">pingui tentus omaso</quote> in ridicule of his appearance. <quote lang="la">Furius poeta immanis ventris, qui nivem spumam (sputum) Iovis dixit. Ideo hoc ejus persona
          dedit, tanquam ipse spuat.</quote>: Sch. Acr. Orelli considers three several passages of
         Furius to be referred to: <quote lang="la">rubra canicula findit infantes statuas,</quote>
         is a passage in which Furius describes a statuary, and thought he had a happy expression in
-        infantes, since statues are <foreign lang="greek">a)glw/ttoi</foreign>. By <quote lang="la"
-         >pingui tentus omasi</quote>, some general opposed to Caesar is described as a voracious
+        infantes, since statues are <foreign lang="greek">a)glw/ttoi</foreign>. By <quote lang="la">pingui tentus omasi</quote>, some general opposed to Caesar is described as a voracious
         barbarian. <quote lang="la">Hibernas</quote>, etc., formed the first line of his poetical
         history of Caesar.</p>
       </note> shall spue white snow over the wintery <placeName key="tgn,2066659">Alps</placeName>.
       Do not you see (shall some one say, jogging the person that stands next to him by the elbow)
       how indefatigable he is, how serviceable to his friends, how acute? [By this means] more
       tunnies shall swim in, and your fish-ponds will increase.</p>
-     <p>Further, if any one in affluent circumstances has reared<note anchored="yes" n="66"
-       resp="TAB">
+     <p>Further, if any one in affluent circumstances has reared<note anchored="yes" n="66" resp="TAB">
        <p><cit>
          <quote lang="la">Sublatus</quote>
          <bibl n="Hor. S. 2.5.46"/>
@@ -2940,19 +2746,16 @@
          <quote lang="la">Secundo versus</quote> was the second line, which contained the names of
         the heirs and co-heirs.</p>
       </note> intimates to be in the second clause: run over with a quick eye, whether you are sole
-      heir, or co-heir with many. Sometimes a well-seasoned lawyer, risen from a Quinquevir,<note
-       anchored="yes" n="68" resp="ed. Dubl.">
+      heir, or co-heir with many. Sometimes a well-seasoned lawyer, risen from a Quinquevir,<note anchored="yes" n="68" resp="ed. Dubl.">
        <p>The <foreign lang="la">quinqueviri</foreign> were a kind of tip-staff or bailiff, in the
         colonies and municipal towns. A man who had passed through these little offices may well be
         supposed to be sufficiently knowing in what we call the practice, and from this body public
         notaries and registers were chosen. Horace therefore means, by <quote lang="la">scriba
-         recoctus</quote>, a notary sufficiently refined in tricks and cunning of the law. <foreign
-         lang="la">Recoctus</foreign> is properly double-dyed, that hath fully taken its color.</p>
+         recoctus</quote>, a notary sufficiently refined in tricks and cunning of the law. <foreign lang="la">Recoctus</foreign> is properly double-dyed, that hath fully taken its color.</p>
       </note> shall delude the gaping raven; and the fortunehunter Nasica shall be laughed at by
       Coranus. <milestone ed="p" n="58" unit="card"/></p>
      <p>What, art thou in a [prophetic] raving; or dust thou play upon me designedly, by uttering
-      obscurities? 0 son of Laertes, whatever I shall say will come to pass, or it will not:<note
-       anchored="yes" n="69" resp="ed. Dubl.">
+      obscurities? 0 son of Laertes, whatever I shall say will come to pass, or it will not:<note anchored="yes" n="69" resp="ed. Dubl.">
        <p><cit>
          <quote lang="la">Quidquid dicam, aut erit, aut non.</quote>
          <bibl n="Hor. S. 2.5.59"/>
@@ -2988,9 +2791,7 @@
       intercourse, as of the kitchen. So far your Penelope is a good woman: who, had she once tasted
       of one old [doting gallant], and shared with you the profit, like a hound, will never be
       frighted away from the reeking skin [of the new-killed game].</p>
-     <p>What I am going to tell you happened when I was an old man. A wicked hag at <placeName
-       key="tgn,7011071">Thebes</placeName> was, according to her will, carried forth<note
-       anchored="yes" n="71" resp="TAB">
+     <p>What I am going to tell you happened when I was an old man. A wicked hag at <placeName key="tgn,7011071">Thebes</placeName> was, according to her will, carried forth<note anchored="yes" n="71" resp="TAB">
        <p><quote lang="la">Elata.</quote> Carried out to the funeral pile. <cit>
          <bibl n="Ter. An. 1">Ter. Andr. i.</bibl>
          <quote lang="la">Effertur, Imus.</quote>
@@ -3020,8 +2821,7 @@
          <quote lang="la">Nummo addicere.</quote>
          <bibl n="Hor. S. 2.5.109"/>
         </cit> When a counterfeit sale was made of any thing left by will, the forms of law were to
-        be observed. The buyer and seller went to a public officer called <foreign lang="la"
-         >Libripens</foreign>, or keeper of the scales; and the purchaser, in the presence of
+        be observed. The buyer and seller went to a public officer called <foreign lang="la">Libripens</foreign>, or keeper of the scales; and the purchaser, in the presence of
         witnesses, put a piece of money into the scales, which the seller took out, and the sale was
         afterward deemed legal. <foreign lang="la">Nummo addicere</foreign> means here "to sell for
         nothing."</p>
@@ -3056,13 +2856,11 @@
       of money! as it did to him, who having found a treasure, bought that very ground he before
       tilled in the capacity of an hired servant, enriched by Hercules' being his friend;" if what I
       have at present satisfies me grateful, I supplicate you with this prayer: make my cattle fat
-      for the use of their master, and every thing else, except my genius:<note anchored="yes"
-       n="75" resp="San">
+      for the use of their master, and every thing else, except my genius:<note anchored="yes" n="75" resp="San">
        <p><cit>
          <quote lang="la">Et caetera praeter ingenium.</quote>
          <bibl n="Hor. S. 2.6.14"/>
-        </cit> The Latins, in speaking of style, have expressions not unlike this, <quote lang="la"
-         >pingue et adipatum dicendi genus; poetae pinguae quiddam sonantes.</quote> This playing on
+        </cit> The Latins, in speaking of style, have expressions not unlike this, <quote lang="la">pingue et adipatum dicendi genus; poetae pinguae quiddam sonantes.</quote> This playing on
         the double meaning of the word is much in our author's manner. Besides, Mercury was a good
         humored god, who understood raillery, <quote lang="la">de Dis non tristibus.</quote> Yet,
         for fear the deity should understand the word <foreign lang="la">caetera</foreign> in its
@@ -3075,16 +2873,14 @@
          <bibl n="Hor. S. 2.6.16"/>
         </cit> He considers his country-house as a citadel inaccessible to the cares that besieged
         him at <placeName key="perseus,Rome">Rome</placeName>.</p>
-      </note> (what can I polish, preferably to my satires and prosaic muse?<note anchored="yes"
-       n="77" resp="San">
+      </note> (what can I polish, preferably to my satires and prosaic muse?<note anchored="yes" n="77" resp="San">
        <p><cit>
          <quote lang="la">Musaque pedestri.</quote>
          <bibl n="Hor. S. 2.6.17"/>
         </cit> The muse of satire, if such an expression may be allowed, is a muse on foot. She
         borrowed nothing from poetry but the measures of her verses, tho, only particular in which
         she differs from prose.</p>
-      </note>) neither evil ambition destroys me, nor the heavy<note anchored="yes" n="78"
-       resp="San">
+      </note>) neither evil ambition destroys me, nor the heavy<note anchored="yes" n="78" resp="San">
        <p><cit>
          <quote lang="la">Plumbeus.</quote>
          <bibl n="Hor. S. 2.6.18"/>
@@ -3118,30 +2914,26 @@
         in a smaller course. Horace calls this circle <quote lang="la">interiorem gyrum</quote>, by
         a figure taken from chariot races, in which the driver who turned nearest the goal marked a
         narrower circle, and was therefore called <quote lang="la">interior quadriga</quote>, with
-        regard to those who were obliged to take a larger compass, <quote lang="la"
-        >exteriores.</quote></p>
+        regard to those who were obliged to take a larger compass, <quote lang="la">exteriores.</quote></p>
       </note> After this, having uttered in a clear and determinate manner [the legal form], which
       may be a detriment to me, I must bustle through the crowd; and must disoblige the tardy. "What
       is your will, madman, and what are you about, impudent fellow?" So one accosts me with his
       passionate curses. "You jostle every thing that is in your way, if with an appointment full in
       your mind you are posting away to Maecenas." This pleases me, and is like honey: I will not
       tell a lie. But by the time I reach the gloomy Esquiliae, a hundred affairs of other people's
-      encompass me on every side: "Roscius begged that you would be with him at the court-house<note
-       anchored="yes" n="82" resp="Torr">
+      encompass me on every side: "Roscius begged that you would be with him at the court-house<note anchored="yes" n="82" resp="Torr">
        <p><cit>
          <quote lang="la">Ad Puteal.</quote>
          <bibl n="Hor. S. 2.6.35"/>
         </cit> He describes a part of the forum by a monument erected there to show that the place
         had been struck with thunder. Some of the proctors held a kind of sessions there to decide
         private causes.</p>
-      </note> to-morrow before the second hour." "The secretaries<note anchored="yes" n="83"
-       resp="Torr">
+      </note> to-morrow before the second hour." "The secretaries<note anchored="yes" n="83" resp="Torr">
        <p>Horace had purchased an employment of register or secretary to the treasury; from whence
         he is desired to return early from Maecenas to consult about some important affair that
         concerned the whole body.</p>
       </note> requested you would remember, Quintus, to return to-day about an affair of public
-      concern, and of great consequence." "Get Maecenas to put his signet<note anchored="yes" n="84"
-       resp="TAB">
+      concern, and of great consequence." "Get Maecenas to put his signet<note anchored="yes" n="84" resp="TAB">
        <p><cit>
          <quote lang="la">Imprimat his, cura.</quote>
          <bibl n="Hor. S. 2.6.38"/>
@@ -3157,27 +2949,21 @@
       Syrus?" "The cold morning air begins to pinch those that are ill provided against it;"
       &mdash; and such things as are well enough intrusted to a leaky ear. For all this time,
       every day and hour, I have been more subjected to envy. Our son of fortune here, says every
-      body, witnessed the shows in company with [Maecenas], and played with him in the <placeName
-       key="tgn,7006964">Campus Martius</placeName>. Does any disheartening report spread from the
+      body, witnessed the shows in company with [Maecenas], and played with him in the <placeName key="tgn,7006964">Campus Martius</placeName>. Does any disheartening report spread from the
       rostrum through the streets, whoever comes in my way cousults me [concerning it]: "Good sir,
       have you (for you must know, since you approach nearer the gods) heard any thing relating to
       the Dacians?"<note anchored="yes" n="85" resp="San">
-       <p>The Dacians had engaged in Antony's army at the battle of <placeName key="tgn,7010713"
-         >Actium</placeName>, in 723, and Octavius had disobliged them by refusing some favors which
+       <p>The Dacians had engaged in Antony's army at the battle of <placeName key="tgn,7010713">Actium</placeName>, in 723, and Octavius had disobliged them by refusing some favors which
         they demanded by their embassadors. He was obliged to send Marcus Crassus against them the
         year following. SAN.</p>
       </note> "Nothing at all for my part," [I reply]. "How you ever are a sneerer!" "But may all
       the gods torture me, if I know any thing of the matter." "What? will Caesar give the
        lands<note anchored="yes" n="86" resp="Dac, San">
-       <p>Octavius promised the soldiers who had served under him in reducing <placeName
-         key="tgn,7003122">Sicily</placeName>, that he would divide some of the conquered lands
+       <p>Octavius promised the soldiers who had served under him in reducing <placeName key="tgn,7003122">Sicily</placeName>, that he would divide some of the conquered lands
         among them. But the war in which he was engaged against Antony obliged him to defer the
-        division, and immediately after the battle of <placeName key="tgn,7010713"
-        >Actium</placeName>, the troops, which he had sent to <placeName key="perseus,Brundusium"
-         >Brundusium</placeName>, mutinied on this occasion.</p>
+        division, and immediately after the battle of <placeName key="tgn,7010713">Actium</placeName>, the troops, which he had sent to <placeName key="perseus,Brundusium">Brundusium</placeName>, mutinied on this occasion.</p>
        <p>He went himself to stop the beginning of a revolt, which might have been attended with
-        most dangerous consequences. This affair was all the news at <placeName key="perseus,Rome"
-         >Rome</placeName> when our poet wrote the present Satire.</p>
+        most dangerous consequences. This affair was all the news at <placeName key="perseus,Rome">Rome</placeName> when our poet wrote the present Satire.</p>
        <p><placeName key="tgn,7003122">Sicily</placeName> was called Triquetra from its triangular
         figure, and in some ancient coins it is represented under the figure of a woman with three
         legs.</p>
@@ -3273,8 +3059,7 @@
       </note> lived so irregularly that he would change his robe every hour; from a magnificent
       edifice, he would on a sudden hide himself in a place, whence a decent freedman could scarcely
       come out in a decent manner; one while he would choose to lead the life of a rake at
-       <placeName key="perseus,Rome">Rome</placeName>, another while that of a teacher at <placeName
-       key="perseus,Athens">Athens</placeName>; born under the evil influence of every
+       <placeName key="perseus,Rome">Rome</placeName>, another while that of a teacher at <placeName key="perseus,Athens">Athens</placeName>; born under the evil influence of every
        Vertumnus.<note anchored="yes" n="91" resp="Bond, San">
        <p><cit>
          <quote lang="la">Vertumnis natis iniquis.</quote>
@@ -3313,8 +3098,7 @@
       cross? When keen nature inflames me, any common wench that picks me up, dismisses me neither
       dishonored, nor caring whether a richer or a handsomer man enjoys her next. You, when you have
       cast off your ensigns of dignity, your equestrian ring and your Roman habit, turn out from a
-      magistrate a wretched <placeName key="tgn,1085129">Dama</placeName>,<note anchored="yes"
-       n="92" resp="Dac">
+      magistrate a wretched <placeName key="tgn,1085129">Dama</placeName>,<note anchored="yes" n="92" resp="Dac">
        <p>Davus calls his master a judge, because Augustus had granted him the privilege of wearing
         a ring and a robe, called <foreign lang="la">Angusticlavium</foreign>. Thus he was in some
         measure incorporated into the body of Roman knights, whom Augustus appointed to determine
@@ -3328,8 +3112,7 @@
          <bibl n="Hor. S. 2.7.58"/>
         </cit> The people who sold themselves to a master of gladiators, engaged in a form or bond,
         called <foreign lang="la">auctoramentum</foreign>, to suffer every thing, sword, fire,
-        whips, chains, and death. They were then received into the profession, and styled <foreign
-         lang="la">auctorati</foreign>. From thence the terms came to be used for all kinds of
+        whips, chains, and death. They were then received into the profession, and styled <foreign lang="la">auctorati</foreign>. From thence the terms came to be used for all kinds of
         infamous engagements.</p>
       </note> or slain with the sword; or be closed up in a filthy chest, where [the maid],
       conscious of her mistress' crime, has stowed you? Has not the husband of the offending dame a
@@ -3346,8 +3129,7 @@
       superior, subjected as you are, to the dominion of so many things and persons,, whom the
       prsetor's rod,<note anchored="yes" n="94" resp="TAB">
        <p><foreign lang="la">Vindicta</foreign> was a rod, which the lictor laid on the head of a
-        person whom the praetor made free. Plautus calls it <quote lang="la">festuca</quote>. <bibl
-         n="Pl. Mil. 961">(Mil. 961)</bibl></p>
+        person whom the praetor made free. Plautus calls it <quote lang="la">festuca</quote>. <bibl n="Pl. Mil. 961">(Mil. 961)</bibl></p>
       </note> though placed on your head three or four times over, can never free from this wretched
       solicitude? Add, to what has been said above, a thing of no less weight; whether he be an
        underling,<note anchored="yes" n="95" resp="San">
@@ -3355,8 +3137,7 @@
          <quote lang="la">Nam sive vicarius.</quote>
          <bibl n="Hor. S. 2.7.89"/>
         </cit> The Romans generally had a master-slave in every family, <foreign lang="la">servus
-         atriensis</foreign>, and all other slaves were called by one common name, <foreign
-         lang="la">vicarii</foreign>. The first, who commands, is not less a slave than those who
+         atriensis</foreign>, and all other slaves were called by one common name, <foreign lang="la">vicarii</foreign>. The first, who commands, is not less a slave than those who
         obey.</p>
       </note> who obeys the master-slave (as it is your custom to affirm), or only a fellow slave,
       what am I in respect of you? You, for example, who have the command of me, are in subjection
@@ -3364,8 +3145,7 @@
        <milestone ed="p" n="83" unit="card"/></p>
      <p>Who then is free? The wise man, who has dominion over himself; whom neither poverty, nor
       death, nor chains affright; brave in the checking of his appetites, and in contemning honors;
-      and, perfect in himself, polished and round as a globe,<note anchored="yes" n="96"
-       resp="ed. Dubl.">
+      and, perfect in himself, polished and round as a globe,<note anchored="yes" n="96" resp="ed. Dubl.">
        <p><cit>
          <quote lang="la">Teres atque rotundus.</quote>
          <bibl n="Hor. S. 2.7.86"/>
@@ -3377,14 +3157,12 @@
       turned out of doors, bedews you with cold water: she calls you again. Rescue your neck from
       this vile yoke; come, say, I am free, I am free. You are not able: for an implacable master
       oppresses your mind, and claps the sharp spurs to your jaded appetite, and forces you on
-      though reluctant. When you, mad one, quite languish at a picture by Pausias;<note
-       anchored="yes" n="97" resp="ed. Dubl.">
+      though reluctant. When you, mad one, quite languish at a picture by Pausias;<note anchored="yes" n="97" resp="ed. Dubl.">
        <p>Pausias was a famous flower-painter. Lucullus gave a thousand crowns for a picture, in
         which he drew his mistress Glycera sitting, and making a wreath of flowers. He was a
         contemporary of Apelles.</p>
       </note> how are you less to blame than I, when I admire the combats of Fulvius and Rutuba and
-      Placideianus, with their bended knees, painted in crayons<note anchored="yes" n="98"
-       resp="ed. Dubl.">
+      Placideianus, with their bended knees, painted in crayons<note anchored="yes" n="98" resp="ed. Dubl.">
        <p>Masters of gladiators hung the pictures of their best champions, such as Fulvius, Rutuba,
         or Placideianus, at the door of the house where they fought.</p>
       </note> or charcoal, as if the men were actually engaged, and push and parry, moving heir
@@ -3401,8 +3179,7 @@
       another while with sleep, to cheat care-in vain: for the gloomy companion presses upon you,
       and pursues you in your flight. "Where can I get a stone?" "What occasion is there for it?"
       "Where some darts?" "The man is either mad, or making verses." "If you do not take yourself
-      away in an instant, you shall go [and make] a ninth laborer<note anchored="yes" n="99"
-       resp="Dac">
+      away in an instant, you shall go [and make] a ninth laborer<note anchored="yes" n="99" resp="Dac">
        <p><cit>
          <quote lang="la">Accedes opera.</quote>
          <bibl n="Hor. S. 2.7.118"/>
@@ -3416,22 +3193,19 @@
      <head>A smart description of a miser ridiculously acting the extravagant.</head>
 
      <p>How did the entertainment of that happy fellow Nasidienus please you? for yesterday, as I
-      was seeking to make you my guest, you were said to be drinking there from mid-day.<note
-       anchored="yes" n="100" resp="ed. Dubl.">
+      was seeking to make you my guest, you were said to be drinking there from mid-day.<note anchored="yes" n="100" resp="ed. Dubl.">
        <p>Nasidienus, to give himself an air of a rake, dines three or four hours before the usual
         time; or perhaps Fundanius would insinuate that this was too solemn a feast for vulgar
         hours.</p>
       </note> [It pleased me so], that I never was happier in my life. Say (if it be not
       troublesome) what food first calmed your raging appetite.</p>
-     <p>In the first place, there was a Lucanian boar, taken when the gentle south wind blew,<note
-       anchored="yes" n="1" resp="ed. Dubl.">
+     <p>In the first place, there was a Lucanian boar, taken when the gentle south wind blew,<note anchored="yes" n="1" resp="ed. Dubl.">
        <p>Either by buying it cheap, or keeping it too long, the boar was tainted; but our host
         would insinuate that it had a particular flavor, by being taken when the wind was south,
         which made it delicate and tender.</p>
       </note> as the father of the entertainment affirmed; around it sharp rapes, lettuces,
       radishes; such things as provoke a languid appetite; skirrets, anchovies, dregs of Coan wine.
-      These once removed, one slave, tucked high with a purple cloth,<note anchored="yes" n="2"
-       resp="Dac">
+      These once removed, one slave, tucked high with a purple cloth,<note anchored="yes" n="2" resp="Dac">
        <p>The table was made of maple, a cheap and common wood; but Nasidienus, in an air of polite
         extravagance, makes the slaves wipe it with a purple napkin.</p>
       </note> wiped the maple table, and a second gathered up whatever lay useless, and whatever
@@ -3442,8 +3216,7 @@
       with <placeName key="tgn,7010621">Ceres</placeName>' sacred rites, bearing wines of Caecubum;
       Alcon brings those of <placeName key="tgn,7002670">Chios</placeName>, undamaged by the
        sea.<note anchored="yes" n="4" resp="Lamb">
-       <p>It was customary to mix sea-water with the strong wines of <placeName key="tgn,1000074"
-         >Greece</placeName>; but Fundanius, when he tells us that the wine Alcon carried had not a
+       <p>It was customary to mix sea-water with the strong wines of <placeName key="tgn,1000074">Greece</placeName>; but Fundanius, when he tells us that the wine Alcon carried had not a
         drop of water in it, would have us understand that this wine had never crossed the seas, and
         that it was an Italian wine which Nasidienus recommended for Chian.</p>
       </note> Here the master [cries], "Maecenas, if <placeName key="tgn,1031727">Alban</placeName>
@@ -3469,8 +3242,7 @@
       </note> the guests of the lowest couch did no hurt to the flagons. A lamprey is brought in,
       extended in a dish, in the midst of floating shrimps. Whereupon, "This," says the master, "was
       caught when pregnant; which, after having young, would have been less delicate in its flesh."
-      For these a sauce is mixed up; with oil which the best cellar of <placeName
-       key="perseus,Venafrum">Venafrum</placeName> pressed, with pickle from the juices of the
+      For these a sauce is mixed up; with oil which the best cellar of <placeName key="perseus,Venafrum">Venafrum</placeName> pressed, with pickle from the juices of the
       Iberian fish, with wine of five years old, but produced on this side the sea, while it is
       boiling (after it is boiled, the Chian wine suits it so well, that no other does better than
       it) with white pepper, and vinegar which, by being vitiated, turned sour the Methymnean grape.</p>
@@ -3478,8 +3250,7 @@
       stew in it] the sea-urchins unwashed, as being better than the pickle which the sea shell-fish
       yields. <milestone ed="p" n="54" unit="card"/></p>
      <p>In the mean time the suspended tapestry made a heavy downfall upon the dish, bringing along
-      with it more black dust than the north wind ever raises on the plains of <placeName
-       key="tgn,7003005">Campania</placeName>. Having been fearful of something worse, as soon as we
+      with it more black dust than the north wind ever raises on the plains of <placeName key="tgn,7003005">Campania</placeName>. Having been fearful of something worse, as soon as we
       perceive there was no danger, we rise up. Rufus, hanging his head, began to weep, as if his
       son had come to an untimely death: what would have been the end, had not the discreet
       Nomentanus thus raised his friend! "Alas! 0 fortune, what god is more cruel to us than thou?
@@ -3492,8 +3263,7 @@
       down, as just now, if the groom slipping with his foot should break a dish. But adversity is
       wont to disclose, prosperity to conceal, the abilities of a host as well as of a general." To
       this Nasidienus: "May the gods give you all the blessings, whatever you can pray for, you are
-      so good a man and so civil a guest;" and calls for his sandals.<note anchored="yes" n="6"
-       resp="Torr">
+      so good a man and so civil a guest;" and calls for his sandals.<note anchored="yes" n="6" resp="Torr">
        <p>That he might rise from table. The guests laid their slippers at the end of the bed when
         they went to supper.</p>
       </note> Then on every couch you might see divided whispers buzzing in each secret ear. I would

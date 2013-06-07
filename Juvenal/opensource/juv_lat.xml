@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -203,8 +202,7 @@
 					<lb/>nondum habitas<note><hi rend="italics"><foreign lang="la">habitas</foreign></hi>
 							<foreign lang="greek">*y</foreign>: <hi rend="italics"><foreign lang="la">habitat</foreign></hi> P Vind. OT Büch. Housman</note>, nullas
 						nummorum ereximus aras, 
-					<lb n="115"/>ut colitur Pax atque<note>In place of the dull <hi rend="italics"><foreign lang="la">atque</foreign></hi> of P<foreign
-								lang="greek">*y</foreign>, Postgate, supported by the reading <hi rend="italics"><foreign lang="la">firma</foreign></hi> found in the
+					<lb n="115"/>ut colitur Pax atque<note>In place of the dull <hi rend="italics"><foreign lang="la">atque</foreign></hi> of P<foreign lang="greek">*y</foreign>, Postgate, supported by the reading <hi rend="italics"><foreign lang="la">firma</foreign></hi> found in the
 							MS. II, has made the brilliant conj. <hi rend="italics"><foreign lang="la">Fama</foreign></hi>, approved by L. Havet. See Class.
 							Quart, iii. p. 67.</note> Fides Victoria Virtus 
 					<lb/>quaeque salutate crepitat Concordia nido.
@@ -217,8 +215,7 @@
 					<lb/>hic petit absenti nota iam callidus arte
 					<lb/>ostendens vacuam et clausam pro coniuge sellam
 					<lb n="125"/><q>Galla mea est</q> inquit, <q>citius dimitte, moraris?
-					<lb/>profer, Galla, caput, noli vexare, quiescit.</q> <note><hi rend="italics"><foreign lang="la">quiescit</foreign></hi> Vind.<foreign
-								lang="greek">*y</foreign>: <hi rend="italics"><foreign lang="la">quiescaet</foreign></hi> P: <hi rend="italics"><foreign lang="la">quiescet</foreign></hi> Büch. Housman.</note>
+					<lb/>profer, Galla, caput, noli vexare, quiescit.</q> <note><hi rend="italics"><foreign lang="la">quiescit</foreign></hi> Vind.<foreign lang="greek">*y</foreign>: <hi rend="italics"><foreign lang="la">quiescaet</foreign></hi> P: <hi rend="italics"><foreign lang="la">quiescet</foreign></hi> Büch. Housman.</note>
 					<lb/>Ipse dies pulchro distinguitur ordine rerum:
 					<lb/>sportula, deinde forum iurisque peritus Apollo
 					<lb/>atque triumphales, inter quas ausus habere
@@ -328,8 +325,7 @@
 									iura</foreign></hi>
 							<foreign lang="greek">*y</foreign> (see 1. 72): <hi rend="italics"><foreign lang="la">acturae</foreign></hi> P.</note>, citari
 					<lb/>ante omnes debet Scantinia: respice primum
-					<lb n="45"/>et scrutare viros; faciunt nam<note><hi rend="italics"><foreign lang="la">nam</foreign></hi> Housman from O: <hi rend="italics"><foreign lang="la">hi</foreign></hi> Vinci.<foreign
-								lang="greek">*y</foreign> and Büch.: <hi rend="italics"><foreign lang="la">qui</foreign></hi> Büch. (1910).</note> plura, sed illos 
+					<lb n="45"/>et scrutare viros; faciunt nam<note><hi rend="italics"><foreign lang="la">nam</foreign></hi> Housman from O: <hi rend="italics"><foreign lang="la">hi</foreign></hi> Vinci.<foreign lang="greek">*y</foreign> and Büch.: <hi rend="italics"><foreign lang="la">qui</foreign></hi> Büch. (1910).</note> plura, sed illos 
 					<lb/>defendit numerus iunctaeque umbone phalanges,
 					<lb/>magna inter molles concordia, non erit ullum
 					<lb/>exemplum in nostro tam detestabile sexu.
@@ -488,8 +484,7 @@
 					<lb n="15"/>(omnis enim populo mercedem pendere iussa est
 					<lb/>arbor et eiectis mendicat silva Camenis).
 					<lb/>in vallem Egeriae descendimus et speluncas
-					<lb/>dissimiles veris, quanto praesentius<note><hi rend="italics"><foreign lang="la">praestantius</foreign></hi> p<foreign lang="greek"
-								>*y</foreign>: <hi rend="italics"><foreign lang="la">presentius</foreign></hi> Vind.</note> esset 
+					<lb/>dissimiles veris, quanto praesentius<note><hi rend="italics"><foreign lang="la">praestantius</foreign></hi> p<foreign lang="greek">*y</foreign>: <hi rend="italics"><foreign lang="la">presentius</foreign></hi> Vind.</note> esset 
 					<lb/>numen aquis, viridi si margine clauderet undas
 					<lb n="20"/>herba, nec ingentium violarent marmora tofum.
 					<lb/>Hic tunc Vmbricius <q>quando artibus,</q> inquit, <q><p>honestis
@@ -717,8 +712,7 @@
 						meritoria somnum 
 					<lb n="235"/>admittunt? magnis opibus dormitur in urbe.
 					<lb/>inde caput morbi, raedarum transitus arto
-					<lb/>vicorum in flexu<note>Büch. and Owen read <hi rend="italics"><foreign lang="la">inflexu</foreign></hi>, after PVind.<foreign
-								lang="greek">*y</foreign>: Housman <hi rend="italics"><foreign lang="la">in flexu</foreign></hi>. See Journal of Phil. No. 67,
+					<lb/>vicorum in flexu<note>Büch. and Owen read <hi rend="italics"><foreign lang="la">inflexu</foreign></hi>, after PVind.<foreign lang="greek">*y</foreign>: Housman <hi rend="italics"><foreign lang="la">in flexu</foreign></hi>. See Journal of Phil. No. 67,
 							p. 40.</note> et stantis convicia mandrae 
 					<lb/>eripient somnum Druso vitulisque marinis.
 					<lb/>si vocat officium, turba cedente vehetur
@@ -896,8 +890,7 @@
 					<lb/><q>currite, iam sedit</q> rapta properabat abolla
 					<lb/>Pegasus, attonitae positus modo vilicus urbi.
 					<lb/>anne aliud tum praefecti? quorum optimus atque
-					<lb/>interpres legum sanctissimus omnia, quamquam<note><hi rend="italics"><foreign lang="la">quamquam</foreign></hi> Vind.<foreign lang="greek"
-								>*y</foreign>: <hi rend="italics"><foreign lang="la">quamque</foreign></hi> P.</note>
+					<lb/>interpres legum sanctissimus omnia, quamquam<note><hi rend="italics"><foreign lang="la">quamquam</foreign></hi> Vind.<foreign lang="greek">*y</foreign>: <hi rend="italics"><foreign lang="la">quamque</foreign></hi> P.</note>
 					<lb n="80"/>temporibus diris, tractanda putabat inermi
 					<lb/>iustitia, venit et Crispi iucunda senectus,
 					<lb/>cuius erant mores qualis facundia, mite
@@ -1189,8 +1182,7 @@
 					<lb/>tempestate paras, iamque a tonsore magistro
 					<lb/>pecteris, et digito pignus fortasse dedisti,
 					<lb/>certe sanus eras; uxorem, Postume, ducis?
-					<lb/>dic, qua Tisiphone, quibus exagitare<note><hi rend="italics"><foreign lang="la">exagitare</foreign></hi> P<foreign lang="greek"
-								>*y</foreign>: <hi rend="italics"><foreign lang="la">exagitere</foreign></hi> O.</note> colubris?
+					<lb/>dic, qua Tisiphone, quibus exagitare<note><hi rend="italics"><foreign lang="la">exagitare</foreign></hi> P<foreign lang="greek">*y</foreign>: <hi rend="italics"><foreign lang="la">exagitere</foreign></hi> O.</note> colubris?
 					<lb n="30"/>ferre potes dominam salvis tot restibus ullam,
 					<lb/>cum pateant altae caligantesque fenestrae,
 					<lb/>cum tibi vicinum se praebeat Aemilius pons?
@@ -1288,8 +1280,7 @@
 					<lb/>prostitit auratis titulum mentita Lyciscae
 					<lb/>ostenditque tuum, generose Britannice, ventrem,
 					<lb n="125"/>excepit blanda intrantis atque aera poposcit;
-					<lb/><del>continueque iacens cunctorum absorbuit ictus.</del><note> omitted by PR<foreign
-								lang="greek">*y</foreign>.</note>
+					<lb/><del>continueque iacens cunctorum absorbuit ictus.</del><note> omitted by PR<foreign lang="greek">*y</foreign>.</note>
 					<lb/>mox lenone suas iam dimittente puellas
 					<lb/>tristis abit, et quod potuit tamen ultima cellam
 					<lb/>clausit, adhuc ardens rigidae tentigine volvae,
@@ -1362,8 +1353,7 @@
 					<lb/>pulsat, adhuc Graece? non est hic sermo pudicus
 					<lb/>in vetula: quotiens lascivum intervenit illud
 					<lb n="195"/><foreign lang="greek">zwh\ kai\ yuxh/</foreign>, modo sub lodice
-							relictis<note>Housman conj. <hi rend="italics"><foreign lang="la">ferendis</foreign></hi> for the <hi rend="italics"><foreign lang="la">relictis</foreign></hi> of P<foreign lang="greek"
-								>*y</foreign>.</note>
+							relictis<note>Housman conj. <hi rend="italics"><foreign lang="la">ferendis</foreign></hi> for the <hi rend="italics"><foreign lang="la">relictis</foreign></hi> of P<foreign lang="greek">*y</foreign>.</note>
 					<lb/>uteris in turba, quod enim non excitet inguen
 					<lb/>vox blanda et nequam? digitos habet, ut tame omnes
 					<lb/>subsidant pinnae, dicas haec mollius Haemo
@@ -1577,8 +1567,7 @@
 					<lb/>purum te contendo virum, contendo: fateris?
 					<lb/>an vocat ancillas tortoris pergula?</q> Novi
 					<lb n="O 30"/>consilia et veteres quaecumque monetis amici:
-					<lb/><q>pone seram, cohibe.</q> sed quis custodiat<note>O here reads <hi rend="italics"><foreign lang="la">custodiat</foreign></hi>, but P<foreign
-								lang="greek">*y</foreign> have <hi rend="italics"><foreign lang="la">custodiet</foreign></hi> in the repeated passage, line
+					<lb/><q>pone seram, cohibe.</q> sed quis custodiat<note>O here reads <hi rend="italics"><foreign lang="la">custodiat</foreign></hi>, but P<foreign lang="greek">*y</foreign> have <hi rend="italics"><foreign lang="la">custodiet</foreign></hi> in the repeated passage, line
 							347.</note> ipsos 
 					<lb/>custodes, qui nunc lascivae furta puellae
 					<lb/>hac mercede silent? crimen commune tacetur:

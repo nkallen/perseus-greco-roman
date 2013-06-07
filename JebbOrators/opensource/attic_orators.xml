@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 &responsibility;
 &fund.NEH;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -1749,20 +1748,20 @@
 <figure id="ft1" rend="familytree">
 <head type="hidden">Stemma of the family of Nikias</head>
 <figDesc>
-<rs id="ft1i1" type="INDI" n="1"><persName type="sex=m">Nik&ecirc;ratos</persName><ref n="spouse" target="ft1f1" targOrder="U"></ref></rs>
-<rs id="ft1i2" type="INDI" n="2"><persName type="sex=m">Diogn&ecirc;tos</persName><note anchored="yes" place="inline">returned from exile in 403, but is now dead, &sect; 9</note><ref n="child" target="ft1f1" targOrder="U"></ref><ref n="spouse" target="ft1f2" targOrder="U"></ref></rs>
-<rs id="ft1i3" type="INDI" n="3"><persName type="sex=m">Eukrates</persName><note anchored="yes" place="inline">died 404 (&sect; 5 of speech)</note><ref n="child" target="ft1f1" targOrder="U"></ref><ref n="spouse" target="ft1f3" targOrder="U"></ref></rs>
-<rs id="ft1i4" type="INDI" n="4"><persName type="sex=m">Nikias</persName><note anchored="yes" place="inline">the General, died 413</note><ref n="child" target="ft1f1" targOrder="U"></ref><ref n="spouse" target="ft1f4" targOrder="U"></ref></rs>
-<rs id="ft1i5" type="INDI" n="5"><persName type="sex=m">Diomn&ecirc;stos</persName><note anchored="yes" place="inline">&sect; 21</note><ref n="child" target="ft1f2" targOrder="U"></ref></rs>
-<rs id="ft1i6" type="INDI" n="6"><note anchored="yes" place="inline">Eldest son, the speaker</note><ref n="child" target="ft1f3" targOrder="U"></ref></rs>
-<rs id="ft1i7" type="INDI" n="7"><note anchored="yes" place="inline">Second son, &sect; 21</note><ref n="child" target="ft1f3" targOrder="U"></ref></rs>
-<rs id="ft1i8" type="INDI" n="8"><persName type="sex=m">Nik&ecirc;ratos</persName><note anchored="yes" place="inline"><bibl n="Xen. Sym. 1.2">Xenoph. Sympos. 1.2</bibl>, etc.</note><ref n="child" target="ft1f4" targOrder="U"></ref><ref n="spouse" target="ft1f5" targOrder="U"></ref></rs>
-<rs id="ft1i9" type="INDI" n="9"><persName type="sex=m">Nikias</persName><note anchored="yes" place="inline">&sect; 10</note><ref n="child" target="ft1f5" targOrder="U"></ref></rs>
-<rs id="ft1f1" type="FAM" n="1"><ref n="husb" target="ft1i1" targOrder="U"></ref><ref n="chil" target="ft1i2" targOrder="U"></ref><ref n="chil" target="ft1i3" targOrder="U"></ref><ref n="chil" target="ft1i4" targOrder="U"></ref></rs>
-<rs id="ft1f2" type="FAM" n="2"><ref n="husb" target="ft1i2" targOrder="U"></ref><ref n="chil" target="ft1i5" targOrder="U"></ref></rs>
-<rs id="ft1f3" type="FAM" n="3"><ref n="husb" target="ft1i3" targOrder="U"></ref><ref n="chil" target="ft1i6" targOrder="U"></ref><ref n="chil" target="ft1i7" targOrder="U"></ref></rs>
-<rs id="ft1f4" type="FAM" n="4"><ref n="husb" target="ft1i4" targOrder="U"></ref><ref n="chil" target="ft1i8" targOrder="U"></ref></rs>
-<rs id="ft1f5" type="FAM" n="5"><ref n="husb" target="ft1i8" targOrder="U"></ref><ref n="chil" target="ft1i9" targOrder="U"></ref></rs>
+<rs id="ft1i1" type="INDI" n="1"><persName type="sex=m">Nik&ecirc;ratos</persName><ref n="spouse" target="ft1f1" targOrder="U"/></rs>
+<rs id="ft1i2" type="INDI" n="2"><persName type="sex=m">Diogn&ecirc;tos</persName><note anchored="yes" place="inline">returned from exile in 403, but is now dead, &sect; 9</note><ref n="child" target="ft1f1" targOrder="U"/><ref n="spouse" target="ft1f2" targOrder="U"/></rs>
+<rs id="ft1i3" type="INDI" n="3"><persName type="sex=m">Eukrates</persName><note anchored="yes" place="inline">died 404 (&sect; 5 of speech)</note><ref n="child" target="ft1f1" targOrder="U"/><ref n="spouse" target="ft1f3" targOrder="U"/></rs>
+<rs id="ft1i4" type="INDI" n="4"><persName type="sex=m">Nikias</persName><note anchored="yes" place="inline">the General, died 413</note><ref n="child" target="ft1f1" targOrder="U"/><ref n="spouse" target="ft1f4" targOrder="U"/></rs>
+<rs id="ft1i5" type="INDI" n="5"><persName type="sex=m">Diomn&ecirc;stos</persName><note anchored="yes" place="inline">&sect; 21</note><ref n="child" target="ft1f2" targOrder="U"/></rs>
+<rs id="ft1i6" type="INDI" n="6"><note anchored="yes" place="inline">Eldest son, the speaker</note><ref n="child" target="ft1f3" targOrder="U"/></rs>
+<rs id="ft1i7" type="INDI" n="7"><note anchored="yes" place="inline">Second son, &sect; 21</note><ref n="child" target="ft1f3" targOrder="U"/></rs>
+<rs id="ft1i8" type="INDI" n="8"><persName type="sex=m">Nik&ecirc;ratos</persName><note anchored="yes" place="inline"><bibl n="Xen. Sym. 1.2">Xenoph. Sympos. 1.2</bibl>, etc.</note><ref n="child" target="ft1f4" targOrder="U"/><ref n="spouse" target="ft1f5" targOrder="U"/></rs>
+<rs id="ft1i9" type="INDI" n="9"><persName type="sex=m">Nikias</persName><note anchored="yes" place="inline">&sect; 10</note><ref n="child" target="ft1f5" targOrder="U"/></rs>
+<rs id="ft1f1" type="FAM" n="1"><ref n="husb" target="ft1i1" targOrder="U"/><ref n="chil" target="ft1i2" targOrder="U"/><ref n="chil" target="ft1i3" targOrder="U"/><ref n="chil" target="ft1i4" targOrder="U"/></rs>
+<rs id="ft1f2" type="FAM" n="2"><ref n="husb" target="ft1i2" targOrder="U"/><ref n="chil" target="ft1i5" targOrder="U"/></rs>
+<rs id="ft1f3" type="FAM" n="3"><ref n="husb" target="ft1i3" targOrder="U"/><ref n="chil" target="ft1i6" targOrder="U"/><ref n="chil" target="ft1i7" targOrder="U"/></rs>
+<rs id="ft1f4" type="FAM" n="4"><ref n="husb" target="ft1i4" targOrder="U"/><ref n="chil" target="ft1i8" targOrder="U"/></rs>
+<rs id="ft1f5" type="FAM" n="5"><ref n="husb" target="ft1i8" targOrder="U"/><ref n="chil" target="ft1i9" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>The speaker begins by dwelling on the public services <note anchored="yes" place="marg">Analysis.</note> of his uncles Nikias and Diogn&ecirc;tos and his father Eukrates (&sect;&sect; 1&mdash;12). He next argues that a confiscation is never in any true sense a gain to the State. First, it endangers the most precious of all the city's treasures&mdash;concord among citizens. In the next place, property thus confiscated is always sold below its true value, and part even of the sum which it fetches is made away with by the proposer of the measure. Left in the hands of patriotic owners&mdash;like the speaker, his brother, and his cousin, who, all three, are trierarchs&mdash;it is far more profitable to the State (&sect;&sect; 13&mdash;23).</p>
@@ -3068,15 +3067,15 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 
 <figure id="ft2" rend="familytree">
 <figDesc>
-<rs id="ft2i1" type="INDI" n="1"><persName type="sex=m">Thrasyllos</persName><ref n="spouse" target="ft2f1" targOrder="U"></ref><ref n="spouse" target="ft2f2" targOrder="U"></ref></rs>
-<rs id="ft2i2" type="INDI" n="2"><persName type="sex=f">first wife</persName><ref n="spouse" target="ft2f1" targOrder="U"></ref></rs>
-<rs id="ft2i3" type="INDI" n="3"><persName type="sex=f">second wife</persName><ref n="spouse" target="ft2f2" targOrder="U"></ref></rs>
-<rs id="ft2i4" type="INDI" n="4"><note anchored="yes" place="inline">daughter, the claimant against the speaker, &sect; 6</note><ref n="child" target="ft2f1" targOrder="U"></ref></rs>
-<rs id="ft2i5" type="INDI" n="5"><persName type="sex=m">Thrasylochos</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft2f2" targOrder="U"></ref></rs>
-<rs id="ft2i6" type="INDI" n="6"><persName type="sex=m">S&ocirc;polis</persName><note anchored="yes" place="inline">who died before Thrasylochos, &sect; 11</note><ref n="child" target="ft2f2" targOrder="U"></ref></rs>
-<rs id="ft2i7" type="INDI" n="7"><note anchored="yes" place="inline">daughter, wife of the speaker, &sect; 9</note><ref n="child" target="ft2f2" targOrder="U"></ref></rs>
-<rs id="ft2f1" type="FAM" n="1"><ref n="husb" target="ft2i1" targOrder="U"></ref><ref n="wife" target="ft2i2" targOrder="U"></ref><ref n="chil" target="ft2i4" targOrder="U"></ref></rs>
-<rs id="ft2f2" type="FAM" n="2"><ref n="husb" target="ft2i1" targOrder="U"></ref><ref n="wife" target="ft2i3" targOrder="U"></ref><ref n="chil" target="ft2i5" targOrder="U"></ref><ref n="chil" target="ft2i6" targOrder="U"></ref><ref n="chil" target="ft2i7" targOrder="U"></ref></rs>
+<rs id="ft2i1" type="INDI" n="1"><persName type="sex=m">Thrasyllos</persName><ref n="spouse" target="ft2f1" targOrder="U"/><ref n="spouse" target="ft2f2" targOrder="U"/></rs>
+<rs id="ft2i2" type="INDI" n="2"><persName type="sex=f">first wife</persName><ref n="spouse" target="ft2f1" targOrder="U"/></rs>
+<rs id="ft2i3" type="INDI" n="3"><persName type="sex=f">second wife</persName><ref n="spouse" target="ft2f2" targOrder="U"/></rs>
+<rs id="ft2i4" type="INDI" n="4"><note anchored="yes" place="inline">daughter, the claimant against the speaker, &sect; 6</note><ref n="child" target="ft2f1" targOrder="U"/></rs>
+<rs id="ft2i5" type="INDI" n="5"><persName type="sex=m">Thrasylochos</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft2f2" targOrder="U"/></rs>
+<rs id="ft2i6" type="INDI" n="6"><persName type="sex=m">S&ocirc;polis</persName><note anchored="yes" place="inline">who died before Thrasylochos, &sect; 11</note><ref n="child" target="ft2f2" targOrder="U"/></rs>
+<rs id="ft2i7" type="INDI" n="7"><note anchored="yes" place="inline">daughter, wife of the speaker, &sect; 9</note><ref n="child" target="ft2f2" targOrder="U"/></rs>
+<rs id="ft2f1" type="FAM" n="1"><ref n="husb" target="ft2i1" targOrder="U"/><ref n="wife" target="ft2i2" targOrder="U"/><ref n="chil" target="ft2i4" targOrder="U"/></rs>
+<rs id="ft2f2" type="FAM" n="2"><ref n="husb" target="ft2i1" targOrder="U"/><ref n="wife" target="ft2i3" targOrder="U"/><ref n="chil" target="ft2i5" targOrder="U"/><ref n="chil" target="ft2i6" targOrder="U"/><ref n="chil" target="ft2i7" targOrder="U"/></rs>
 </figDesc>
 </figure>
 </p>
@@ -3497,17 +3496,17 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft3" rend="familytree">
 <figDesc>
-<rs id="ft3i1" type="INDI" n="1"><persName type="sex=m">Polyarchos</persName><ref n="spouse" target="ft3f1" targOrder="U"></ref></rs>
-<rs id="ft3i2" type="INDI" n="2"><persName type="sex=m">Kleonymos</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft3f1" targOrder="U"></ref></rs>
-<rs id="ft3i3" type="INDI" n="3"><persName type="sex=f">one sister</persName><ref n="child" target="ft3f1" targOrder="U"></ref><ref n="spouse" target="ft3f2" targOrder="U"></ref></rs>
-<rs id="ft3i4" type="INDI" n="4"><persName type="sex=m">Deinias</persName><note anchored="yes" place="inline">guardian of claimants, deceased</note><ref n="spouse" target="ft3f2" targOrder="U"></ref></rs>
-<rs id="ft3i5" type="INDI" n="5"><persName type="sex=m">elder claimant</persName><note anchored="yes" place="inline">the speaker</note><ref n="child" target="ft3f2" targOrder="U"></ref></rs>
-<rs id="ft3i6" type="INDI" n="6"><persName type="sex=m">younger claimant</persName><ref n="child" target="ft3f2" targOrder="U"></ref></rs>
+<rs id="ft3i1" type="INDI" n="1"><persName type="sex=m">Polyarchos</persName><ref n="spouse" target="ft3f1" targOrder="U"/></rs>
+<rs id="ft3i2" type="INDI" n="2"><persName type="sex=m">Kleonymos</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft3f1" targOrder="U"/></rs>
+<rs id="ft3i3" type="INDI" n="3"><persName type="sex=f">one sister</persName><ref n="child" target="ft3f1" targOrder="U"/><ref n="spouse" target="ft3f2" targOrder="U"/></rs>
+<rs id="ft3i4" type="INDI" n="4"><persName type="sex=m">Deinias</persName><note anchored="yes" place="inline">guardian of claimants, deceased</note><ref n="spouse" target="ft3f2" targOrder="U"/></rs>
+<rs id="ft3i5" type="INDI" n="5"><persName type="sex=m">elder claimant</persName><note anchored="yes" place="inline">the speaker</note><ref n="child" target="ft3f2" targOrder="U"/></rs>
+<rs id="ft3i6" type="INDI" n="6"><persName type="sex=m">younger claimant</persName><ref n="child" target="ft3f2" targOrder="U"/></rs>
 <rs id="ft3i7" type="INDI" n="7"><persName type="sex=m">Pherenikos</persName></rs>
 <rs id="ft3i8" type="INDI" n="8"><persName type="sex=m">Poseidippos</persName></rs>
 <rs id="ft3i9" type="INDI" n="9"><persName type="sex=m">Diocles</persName></rs>
-<rs id="ft3f1" type="FAM" n="1"><ref n="husb" target="ft3i1" targOrder="U"></ref><ref n="chil" target="ft3i2" targOrder="U"></ref></rs>
-<rs id="ft3f2" type="FAM" n="2"><ref n="husb" target="ft3i4" targOrder="U"></ref><ref n="wife" target="ft3i3" targOrder="U"></ref><ref n="chil" target="ft3i5" targOrder="U"></ref><ref n="chil" target="ft3i6" targOrder="U"></ref></rs>
+<rs id="ft3f1" type="FAM" n="1"><ref n="husb" target="ft3i1" targOrder="U"/><ref n="chil" target="ft3i2" targOrder="U"/></rs>
+<rs id="ft3f2" type="FAM" n="2"><ref n="husb" target="ft3i4" targOrder="U"/><ref n="wife" target="ft3i3" targOrder="U"/><ref n="chil" target="ft3i5" targOrder="U"/><ref n="chil" target="ft3i6" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Polyarchos left two children, Kleonymos, and the mother of the claimants. On the death of their father the claimants became the wards of their paternal uncle Deinias<note anchored="yes">From &sect; 9, it is clear that Deinias was not the brother of Kleonymos. In &sect; 4 it is expressly said that Kleonymos was the son of Polyarchos.</note>. They were heirs-at-law of their maternal uncle Kleonymos (&sect; 4). But Kleonymos, having quarrelled with Deinias, resolved to spite him by disinheriting his wards. He therefore made a will in favour of some remoter
@@ -3524,15 +3523,15 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft4" rend="familytree">
 <figDesc>
-<rs id="ft4i1" type="INDI" n="1"><persName type="sex=m">grandfather of Nikostratos</persName><ref n="spouse" target="ft4f1" targOrder="U"></ref></rs>
-<rs id="ft4i2" type="INDI" n="2"><persName type="sex=m">Thrasymachos</persName><ref n="child" target="ft4f1" targOrder="U"></ref><ref n="spouse" target="ft4f2" targOrder="U"></ref></rs>
-<rs id="ft4i3" type="INDI" n="3"><persName type="sex=m">Thrasippos</persName><ref n="child" target="ft4f1" targOrder="U"></ref><ref n="spouse" target="ft4f3" targOrder="U"></ref></rs>
-<rs id="ft4i4" type="INDI" n="4"><persName type="sex=m">Hagnon</persName><note anchored="yes" place="inline">These brothers are the defendants, for whom a friend perorates, against one Chariades.</note><ref n="child" target="ft4f3" targOrder="U"></ref></rs>
-<rs id="ft4i5" type="INDI" n="5"><persName type="sex=m">Hagnotheos</persName><ref n="child" target="ft4f3" targOrder="U"></ref></rs>
-<rs id="ft4i6" type="INDI" n="6"><persName type="sex=m">Nikostratos</persName><ref n="child" target="ft4f2" targOrder="U"></ref></rs>
-<rs id="ft4f1" type="FAM" n="1"><ref n="husb" target="ft4i1" targOrder="U"></ref><ref n="chil" target="ft4i2" targOrder="U"></ref><ref n="chil" target="ft4i3" targOrder="U"></ref></rs>
-<rs id="ft4f2" type="FAM" n="2"><ref n="husb" target="ft4i2" targOrder="U"></ref><ref n="chil" target="ft4i6" targOrder="U"></ref></rs>
-<rs id="ft4f3" type="FAM" n="3"><ref n="husb" target="ft4i3" targOrder="U"></ref><ref n="chil" target="ft4i4" targOrder="U"></ref><ref n="chil" target="ft4i5" targOrder="U"></ref></rs>
+<rs id="ft4i1" type="INDI" n="1"><persName type="sex=m">grandfather of Nikostratos</persName><ref n="spouse" target="ft4f1" targOrder="U"/></rs>
+<rs id="ft4i2" type="INDI" n="2"><persName type="sex=m">Thrasymachos</persName><ref n="child" target="ft4f1" targOrder="U"/><ref n="spouse" target="ft4f2" targOrder="U"/></rs>
+<rs id="ft4i3" type="INDI" n="3"><persName type="sex=m">Thrasippos</persName><ref n="child" target="ft4f1" targOrder="U"/><ref n="spouse" target="ft4f3" targOrder="U"/></rs>
+<rs id="ft4i4" type="INDI" n="4"><persName type="sex=m">Hagnon</persName><note anchored="yes" place="inline">These brothers are the defendants, for whom a friend perorates, against one Chariades.</note><ref n="child" target="ft4f3" targOrder="U"/></rs>
+<rs id="ft4i5" type="INDI" n="5"><persName type="sex=m">Hagnotheos</persName><ref n="child" target="ft4f3" targOrder="U"/></rs>
+<rs id="ft4i6" type="INDI" n="6"><persName type="sex=m">Nikostratos</persName><ref n="child" target="ft4f2" targOrder="U"/></rs>
+<rs id="ft4f1" type="FAM" n="1"><ref n="husb" target="ft4i1" targOrder="U"/><ref n="chil" target="ft4i2" targOrder="U"/><ref n="chil" target="ft4i3" targOrder="U"/></rs>
+<rs id="ft4f2" type="FAM" n="2"><ref n="husb" target="ft4i2" targOrder="U"/><ref n="chil" target="ft4i6" targOrder="U"/></rs>
+<rs id="ft4f3" type="FAM" n="3"><ref n="husb" target="ft4i3" targOrder="U"/><ref n="chil" target="ft4i4" targOrder="U"/><ref n="chil" target="ft4i5" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Nikostratos, an Athenian citizen, had died abroad, after an absence from Athens of eleven years (&sect; 8), during part of which he seems to have been doing
@@ -3550,27 +3549,27 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft5" rend="familytree">
 <figDesc>
-<rs id="ft5i1" type="INDI" n="1"><persName type="sex=m">Apollodorus?</persName><ref n="spouse" target="ft5f1" targOrder="U"></ref></rs>
-<rs id="ft5i2" type="INDI" n="2"><persName type="sex=m">Eupolis</persName><ref n="spouse" target="ft5f2" targOrder="U"></ref><ref n="child" target="ft5f1" targOrder="U"></ref></rs>
-<rs id="ft5i3" type="INDI" n="3"><persName type="sex=m">Mneson</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f1" targOrder="U"></ref></rs>
-<rs id="ft5i4" type="INDI" n="4"><persName type="sex=m">Thrasyllos I</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f1" targOrder="U"></ref><ref n="spouse" target="ft5f3" targOrder="U"></ref></rs>
-<rs id="ft5i5" type="INDI" n="5"><persName type="sex=f">mother of the testator</persName><ref n="spouse" target="ft5f3" targOrder="U"></ref><ref n="spouse" target="ft5f4" targOrder="U"></ref></rs>
-<rs id="ft5i6" type="INDI" n="6"><persName type="sex=m">Archedamos</persName><ref n="spouse" target="ft5f4" targOrder="U"></ref></rs>
-<rs id="ft5i7" type="INDI" n="7"><persName type="sex=m">Apollodorus II</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f2" targOrder="U"></ref></rs>
-<rs id="ft5i8" type="INDI" n="8"><persName type="sex=f"></persName><note anchored="yes" place="inline">wife of Pronapes</note><ref n="child" target="ft5f2" targOrder="U"></ref></rs>
-<rs id="ft5i9" type="INDI" n="9"><persName type="sex=f"></persName><note anchored="yes" place="inline">wife of Aeschines</note><ref n="child" target="ft5f2" targOrder="U"></ref><ref n="spouse" target="ft5f5" targOrder="U"></ref></rs>
-<rs id="ft5i10" type="INDI" n="10"><persName type="sex=m">Apollodorus I</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft5f3" targOrder="U"></ref><ref n="spouse" target="ft5f6" targOrder="U"></ref></rs>
-<rs id="ft5i11" type="INDI" n="11"><persName type="sex=f">one daughter</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f6" targOrder="U"></ref></rs>
-<rs id="ft5i12" type="INDI" n="12"><persName type="sex=f">mother of the speaker</persName><ref n="child" target="ft5f4" targOrder="U"></ref><ref n="spouse" target="ft5f7" targOrder="U"></ref></rs>
-<rs id="ft5i13" type="INDI" n="13"><persName type="sex=m">Thrasyllos II</persName><note anchored="yes" place="inline">speaker, adopted son of Apollodorus I</note><ref n="child" target="ft5f7" targOrder="U"></ref></rs>
-<rs id="ft5i14" type="INDI" n="14"><persName type="sex=m">Thrasybulos</persName><ref n="child" target="ft5f5" targOrder="U"></ref></rs>
-<rs id="ft5f1" type="FAM" n="1"><ref n="husb" target="ft5i1" targOrder="U"></ref><ref n="chil" target="ft5i2" targOrder="U"></ref><ref n="chil" target="ft5i3" targOrder="U"></ref><ref n="chil" target="ft5i4" targOrder="U"></ref></rs>
-<rs id="ft5f2" type="FAM" n="2"><ref n="husb" target="ft5i2" targOrder="U"></ref><ref n="chil" target="ft5i7" targOrder="U"></ref><ref n="chil" target="ft5i8" targOrder="U"></ref><ref n="chil" target="ft5i9" targOrder="U"></ref></rs>
-<rs id="ft5f3" type="FAM" n="3"><ref n="husb" target="ft5i4" targOrder="U"></ref><ref n="wife" target="ft5i5" targOrder="U"></ref><ref n="chil" target="ft5i10" targOrder="U"></ref></rs>
-<rs id="ft5f4" type="FAM" n="4"><ref n="husb" target="ft5i6" targOrder="U"></ref><ref n="wife" target="ft5i5" targOrder="U"></ref><ref n="chil" target="ft5i12" targOrder="U"></ref></rs>
-<rs id="ft5f5" type="FAM" n="5"><ref n="wife" target="ft5i9" targOrder="U"></ref><ref n="chil" target="ft5i14" targOrder="U"></ref></rs>
-<rs id="ft5f6" type="FAM" n="6"><ref n="husb" target="ft5i10" targOrder="U"></ref><ref n="chil" target="ft5i11" targOrder="U"></ref></rs>
-<rs id="ft5f7" type="FAM" n="7"><ref n="wife" target="ft5i12" targOrder="U"></ref><ref n="chil" target="ft5i13" targOrder="U"></ref></rs>
+<rs id="ft5i1" type="INDI" n="1"><persName type="sex=m">Apollodorus?</persName><ref n="spouse" target="ft5f1" targOrder="U"/></rs>
+<rs id="ft5i2" type="INDI" n="2"><persName type="sex=m">Eupolis</persName><ref n="spouse" target="ft5f2" targOrder="U"/><ref n="child" target="ft5f1" targOrder="U"/></rs>
+<rs id="ft5i3" type="INDI" n="3"><persName type="sex=m">Mneson</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f1" targOrder="U"/></rs>
+<rs id="ft5i4" type="INDI" n="4"><persName type="sex=m">Thrasyllos I</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f1" targOrder="U"/><ref n="spouse" target="ft5f3" targOrder="U"/></rs>
+<rs id="ft5i5" type="INDI" n="5"><persName type="sex=f">mother of the testator</persName><ref n="spouse" target="ft5f3" targOrder="U"/><ref n="spouse" target="ft5f4" targOrder="U"/></rs>
+<rs id="ft5i6" type="INDI" n="6"><persName type="sex=m">Archedamos</persName><ref n="spouse" target="ft5f4" targOrder="U"/></rs>
+<rs id="ft5i7" type="INDI" n="7"><persName type="sex=m">Apollodorus II</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f2" targOrder="U"/></rs>
+<rs id="ft5i8" type="INDI" n="8"><persName type="sex=f"/><note anchored="yes" place="inline">wife of Pronapes</note><ref n="child" target="ft5f2" targOrder="U"/></rs>
+<rs id="ft5i9" type="INDI" n="9"><persName type="sex=f"/><note anchored="yes" place="inline">wife of Aeschines</note><ref n="child" target="ft5f2" targOrder="U"/><ref n="spouse" target="ft5f5" targOrder="U"/></rs>
+<rs id="ft5i10" type="INDI" n="10"><persName type="sex=m">Apollodorus I</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft5f3" targOrder="U"/><ref n="spouse" target="ft5f6" targOrder="U"/></rs>
+<rs id="ft5i11" type="INDI" n="11"><persName type="sex=f">one daughter</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft5f6" targOrder="U"/></rs>
+<rs id="ft5i12" type="INDI" n="12"><persName type="sex=f">mother of the speaker</persName><ref n="child" target="ft5f4" targOrder="U"/><ref n="spouse" target="ft5f7" targOrder="U"/></rs>
+<rs id="ft5i13" type="INDI" n="13"><persName type="sex=m">Thrasyllos II</persName><note anchored="yes" place="inline">speaker, adopted son of Apollodorus I</note><ref n="child" target="ft5f7" targOrder="U"/></rs>
+<rs id="ft5i14" type="INDI" n="14"><persName type="sex=m">Thrasybulos</persName><ref n="child" target="ft5f5" targOrder="U"/></rs>
+<rs id="ft5f1" type="FAM" n="1"><ref n="husb" target="ft5i1" targOrder="U"/><ref n="chil" target="ft5i2" targOrder="U"/><ref n="chil" target="ft5i3" targOrder="U"/><ref n="chil" target="ft5i4" targOrder="U"/></rs>
+<rs id="ft5f2" type="FAM" n="2"><ref n="husb" target="ft5i2" targOrder="U"/><ref n="chil" target="ft5i7" targOrder="U"/><ref n="chil" target="ft5i8" targOrder="U"/><ref n="chil" target="ft5i9" targOrder="U"/></rs>
+<rs id="ft5f3" type="FAM" n="3"><ref n="husb" target="ft5i4" targOrder="U"/><ref n="wife" target="ft5i5" targOrder="U"/><ref n="chil" target="ft5i10" targOrder="U"/></rs>
+<rs id="ft5f4" type="FAM" n="4"><ref n="husb" target="ft5i6" targOrder="U"/><ref n="wife" target="ft5i5" targOrder="U"/><ref n="chil" target="ft5i12" targOrder="U"/></rs>
+<rs id="ft5f5" type="FAM" n="5"><ref n="wife" target="ft5i9" targOrder="U"/><ref n="chil" target="ft5i14" targOrder="U"/></rs>
+<rs id="ft5f6" type="FAM" n="6"><ref n="husb" target="ft5i10" targOrder="U"/><ref n="chil" target="ft5i11" targOrder="U"/></rs>
+<rs id="ft5f7" type="FAM" n="7"><ref n="wife" target="ft5i12" targOrder="U"/><ref n="chil" target="ft5i13" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Eupolis, Mneson and Thrasyllos were brothers.  Mneson died childless. Thrasyllos was killed in the Sicilian expedition, and left his son Apollodoros I. to
@@ -3589,25 +3588,25 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft6" rend="familytree">
 <figDesc>
-<rs id="ft6i1" type="INDI" n="1"><persName type="sex=f"></persName><note anchored="yes" place="inline">Kiron's aunt</note><ref n="child" target="ft6f1" targOrder="U"></ref><ref n="spouse" target="ft6f2" targOrder="U"></ref></rs>
-<rs id="ft6i2" type="INDI" n="2"><persName type="sex=f"></persName><note anchored="yes" place="inline">Kiron's mother</note><ref n="child" target="ft6f1" targOrder="U"></ref><ref n="spouse" target="ft6f3" targOrder="U"></ref></rs>
-<rs id="ft6i3" type="INDI" n="3"><persName type="sex=f"></persName><note anchored="yes" place="inline">first wife of Kiron</note><ref n="child" target="ft6f2" targOrder="U"></ref><ref n="spouse" target="ft6f4" targOrder="U"></ref></rs>
-<rs id="ft6i4" type="INDI" n="4"><persName type="sex=m">Kiron</persName><ref n="child" target="ft6f3" targOrder="U"></ref><ref n="spouse" target="ft6f4" targOrder="U"></ref><ref n="spouse" target="ft6f5" targOrder="U"></ref></rs>
-<rs id="ft6i5" type="INDI" n="5"><persName type="sex=m"></persName><note anchored="yes" place="inline">Kiron's brother</note><ref n="child" target="ft6f3" targOrder="U"></ref><ref n="spouse" target="ft6f6" targOrder="U"></ref></rs>
-<rs id="ft6i6" type="INDI" n="6"><persName type="sex=f"></persName><note anchored="yes" place="inline">wife of Nausimenes and of a second husband who is father of the children</note><ref n="child" target="ft6f4" targOrder="U"></ref><ref n="spouse" target="ft6f7" targOrder="U"></ref></rs>
-<rs id="ft6i7" type="INDI" n="7"><persName type="sex=m">the speaker</persName><ref n="child" target="ft6f7" targOrder="U"></ref></rs>
-<rs id="ft6i8" type="INDI" n="8"><persName type="sex=m"></persName><note anchored="yes" place="inline">one brother, &sect; 37</note><ref n="child" target="ft6f7" targOrder="U"></ref></rs>
-<rs id="ft6i9" type="INDI" n="9"><persName type="sex=m"></persName><note anchored="yes" place="inline">second wife of Kiron, sister of Diokles</note><ref n="spouse" target="ft6f5" targOrder="U"></ref></rs>
-<rs id="ft6i10" type="INDI" n="10"><persName type="sex=m"></persName><note anchored="yes" place="inline">two sons, both deceased</note><ref n="child" target="ft6f5" targOrder="U"></ref></rs>
-<rs id="ft6i11" type="INDI" n="11"><persName type="sex=m"></persName><note anchored="yes" place="inline">claimant against the speaker</note><ref n="child" target="ft6f6" targOrder="U"></ref></rs>
-<rs id="ft6i12" type="INDI" n="12"><persName type="sex=m">Kiron's grandfather</persName><ref n="husb" target="ft6f1" targOrder="U"></ref></rs>
-<rs id="ft6f1" type="FAM" n="1"><ref n="husb" target="ft6i12" targOrder="U"></ref><ref n="chil" target="ft6i1" targOrder="U"></ref><ref n="chil" target="ft6i2" targOrder="U"></ref></rs>
-<rs id="ft6f2" type="FAM" n="2"><ref n="wife" target="ft6i1" targOrder="U"></ref><ref n="chil" target="ft6i3" targOrder="U"></ref></rs>
-<rs id="ft6f3" type="FAM" n="3"><ref n="wife" target="ft6i2" targOrder="U"></ref><ref n="chil" target="ft6i4" targOrder="U"></ref><ref n="chil" target="ft6i5" targOrder="U"></ref></rs>
-<rs id="ft6f4" type="FAM" n="4"><ref n="wife" target="ft6i3" targOrder="U"></ref><ref n="husb" target="ft6i4" targOrder="U"></ref><ref n="chil" target="ft6i6" targOrder="U"></ref></rs>
-<rs id="ft6f5" type="FAM" n="5"><ref n="husb" target="ft6i4" targOrder="U"></ref><ref n="wife" target="ft6i9" targOrder="U"></ref><ref n="chil" target="ft6i10" targOrder="U"></ref></rs>
-<rs id="ft6f6" type="FAM" n="6"><ref n="husb" target="ft6i5" targOrder="U"></ref><ref n="chil" target="ft6i11" targOrder="U"></ref></rs>
-<rs id="ft6f7" type="FAM" n="7"><ref n="wife" target="ft6i6" targOrder="U"></ref><ref n="chil" target="ft6i7" targOrder="U"></ref><ref n="chil" target="ft6i8" targOrder="U"></ref></rs>
+<rs id="ft6i1" type="INDI" n="1"><persName type="sex=f"/><note anchored="yes" place="inline">Kiron's aunt</note><ref n="child" target="ft6f1" targOrder="U"/><ref n="spouse" target="ft6f2" targOrder="U"/></rs>
+<rs id="ft6i2" type="INDI" n="2"><persName type="sex=f"/><note anchored="yes" place="inline">Kiron's mother</note><ref n="child" target="ft6f1" targOrder="U"/><ref n="spouse" target="ft6f3" targOrder="U"/></rs>
+<rs id="ft6i3" type="INDI" n="3"><persName type="sex=f"/><note anchored="yes" place="inline">first wife of Kiron</note><ref n="child" target="ft6f2" targOrder="U"/><ref n="spouse" target="ft6f4" targOrder="U"/></rs>
+<rs id="ft6i4" type="INDI" n="4"><persName type="sex=m">Kiron</persName><ref n="child" target="ft6f3" targOrder="U"/><ref n="spouse" target="ft6f4" targOrder="U"/><ref n="spouse" target="ft6f5" targOrder="U"/></rs>
+<rs id="ft6i5" type="INDI" n="5"><persName type="sex=m"/><note anchored="yes" place="inline">Kiron's brother</note><ref n="child" target="ft6f3" targOrder="U"/><ref n="spouse" target="ft6f6" targOrder="U"/></rs>
+<rs id="ft6i6" type="INDI" n="6"><persName type="sex=f"/><note anchored="yes" place="inline">wife of Nausimenes and of a second husband who is father of the children</note><ref n="child" target="ft6f4" targOrder="U"/><ref n="spouse" target="ft6f7" targOrder="U"/></rs>
+<rs id="ft6i7" type="INDI" n="7"><persName type="sex=m">the speaker</persName><ref n="child" target="ft6f7" targOrder="U"/></rs>
+<rs id="ft6i8" type="INDI" n="8"><persName type="sex=m"/><note anchored="yes" place="inline">one brother, &sect; 37</note><ref n="child" target="ft6f7" targOrder="U"/></rs>
+<rs id="ft6i9" type="INDI" n="9"><persName type="sex=m"/><note anchored="yes" place="inline">second wife of Kiron, sister of Diokles</note><ref n="spouse" target="ft6f5" targOrder="U"/></rs>
+<rs id="ft6i10" type="INDI" n="10"><persName type="sex=m"/><note anchored="yes" place="inline">two sons, both deceased</note><ref n="child" target="ft6f5" targOrder="U"/></rs>
+<rs id="ft6i11" type="INDI" n="11"><persName type="sex=m"/><note anchored="yes" place="inline">claimant against the speaker</note><ref n="child" target="ft6f6" targOrder="U"/></rs>
+<rs id="ft6i12" type="INDI" n="12"><persName type="sex=m">Kiron's grandfather</persName><ref n="husb" target="ft6f1" targOrder="U"/></rs>
+<rs id="ft6f1" type="FAM" n="1"><ref n="husb" target="ft6i12" targOrder="U"/><ref n="chil" target="ft6i1" targOrder="U"/><ref n="chil" target="ft6i2" targOrder="U"/></rs>
+<rs id="ft6f2" type="FAM" n="2"><ref n="wife" target="ft6i1" targOrder="U"/><ref n="chil" target="ft6i3" targOrder="U"/></rs>
+<rs id="ft6f3" type="FAM" n="3"><ref n="wife" target="ft6i2" targOrder="U"/><ref n="chil" target="ft6i4" targOrder="U"/><ref n="chil" target="ft6i5" targOrder="U"/></rs>
+<rs id="ft6f4" type="FAM" n="4"><ref n="wife" target="ft6i3" targOrder="U"/><ref n="husb" target="ft6i4" targOrder="U"/><ref n="chil" target="ft6i6" targOrder="U"/></rs>
+<rs id="ft6f5" type="FAM" n="5"><ref n="husb" target="ft6i4" targOrder="U"/><ref n="wife" target="ft6i9" targOrder="U"/><ref n="chil" target="ft6i10" targOrder="U"/></rs>
+<rs id="ft6f6" type="FAM" n="6"><ref n="husb" target="ft6i5" targOrder="U"/><ref n="chil" target="ft6i11" targOrder="U"/></rs>
+<rs id="ft6f7" type="FAM" n="7"><ref n="wife" target="ft6i6" targOrder="U"/><ref n="chil" target="ft6i7" targOrder="U"/><ref n="chil" target="ft6i8" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Kiron married his first-cousin, by whom he had one daughter. This daughter was married, first, to Nausimenes; secondly, to another husband by whom she had two sons, of whom the eldest is the speaker.</p>
@@ -3627,21 +3626,21 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft7" rend="familytree">
 <figDesc>
-<rs id="ft7i1" type="INDI" n="1"><persName type="sex=m">Thudippos</persName><ref n="child" target="ft7f1" targOrder="U"></ref><ref n="spouse" target="ft7f2" targOrder="U"></ref></rs>
-<rs id="ft7i2" type="INDI" n="2"><note anchored="yes" place="inline">father of Thudippos</note><ref n="spouse" target="ft7f1" targOrder="U"></ref></rs>
-<rs id="ft7i3" type="INDI" n="3"><persName type="sex=m">Euthykrates</persName><ref n="child" target="ft7f1" targOrder="U"></ref><ref n="spouse" target="ft7f4" targOrder="U"></ref></rs>
-<rs id="ft7i4" type="INDI" n="4"><persName type="sex=m">Kleon</persName><note anchored="yes" place="inline">defendant</note><ref n="child" target="ft7f2" targOrder="U"></ref><ref n="spouse" target="ft7f3" targOrder="U"></ref></rs>
-<rs id="ft7i5" type="INDI" n="5"><note anchored="yes" place="inline">Son of Kleon, alleged to be adopted son and heir of Astyphilos</note><ref n="child" target="ft7f3" targOrder="U"></ref></rs>
-<rs id="ft7i6" type="INDI" n="6"><persName type="sex=f">Sister of Hierokles</persName><note anchored="yes" place="inline">married first to Euthykrates, then to Theophrastos</note><ref n="spouse" target="ft7f4" targOrder="U"></ref><ref n="spouse" target="ft7f5" targOrder="U"></ref></rs>
-<rs id="ft7i7" type="INDI" n="7"><persName type="sex=m">Theophrastos</persName><ref n="spouse" target="ft7f5" targOrder="U"></ref></rs>
-<rs id="ft7i8" type="INDI" n="8"><persName type="sex=f">sister</persName><ref n="child" target="ft7f4" targOrder="U"></ref></rs>
-<rs id="ft7i9" type="INDI" n="9"><persName type="sex=m">Astyphilos</persName><ref n="child" target="ft7f4" targOrder="U"></ref></rs>
-<rs id="ft7i10" type="INDI" n="10"><persName type="sex=m"></persName><note anchored="yes" place="inline">claimant and speaker</note><ref n="child" target="ft7f5" targOrder="U"></ref></rs>
-<rs id="ft7f1" type="FAM" n="1"><ref n="husb" target="ft7i2" targOrder="U"></ref><ref n="chil" target="ft7i1" targOrder="U"></ref><ref n="chil" target="ft7i3" targOrder="U"></ref></rs>
-<rs id="ft7f2" type="FAM" n="2"><ref n="husb" target="ft7i1" targOrder="U"></ref><ref n="chil" target="ft7i4" targOrder="U"></ref></rs>
-<rs id="ft7f3" type="FAM" n="3"><ref n="husb" target="ft7i4" targOrder="U"></ref><ref n="chil" target="ft7i5" targOrder="U"></ref></rs>
-<rs id="ft7f4" type="FAM" n="4"><ref n="husb" target="ft7i3" targOrder="U"></ref><ref n="wife" target="ft7i6" targOrder="U"></ref><ref n="chil" target="ft7i8" targOrder="U"></ref><ref n="chil" target="ft7i9" targOrder="U"></ref></rs>
-<rs id="ft7f5" type="FAM" n="5"><ref n="husb" target="ft7i7" targOrder="U"></ref><ref n="wife" target="ft7i6" targOrder="U"></ref><ref n="chil" target="ft7i10" targOrder="U"></ref></rs>
+<rs id="ft7i1" type="INDI" n="1"><persName type="sex=m">Thudippos</persName><ref n="child" target="ft7f1" targOrder="U"/><ref n="spouse" target="ft7f2" targOrder="U"/></rs>
+<rs id="ft7i2" type="INDI" n="2"><note anchored="yes" place="inline">father of Thudippos</note><ref n="spouse" target="ft7f1" targOrder="U"/></rs>
+<rs id="ft7i3" type="INDI" n="3"><persName type="sex=m">Euthykrates</persName><ref n="child" target="ft7f1" targOrder="U"/><ref n="spouse" target="ft7f4" targOrder="U"/></rs>
+<rs id="ft7i4" type="INDI" n="4"><persName type="sex=m">Kleon</persName><note anchored="yes" place="inline">defendant</note><ref n="child" target="ft7f2" targOrder="U"/><ref n="spouse" target="ft7f3" targOrder="U"/></rs>
+<rs id="ft7i5" type="INDI" n="5"><note anchored="yes" place="inline">Son of Kleon, alleged to be adopted son and heir of Astyphilos</note><ref n="child" target="ft7f3" targOrder="U"/></rs>
+<rs id="ft7i6" type="INDI" n="6"><persName type="sex=f">Sister of Hierokles</persName><note anchored="yes" place="inline">married first to Euthykrates, then to Theophrastos</note><ref n="spouse" target="ft7f4" targOrder="U"/><ref n="spouse" target="ft7f5" targOrder="U"/></rs>
+<rs id="ft7i7" type="INDI" n="7"><persName type="sex=m">Theophrastos</persName><ref n="spouse" target="ft7f5" targOrder="U"/></rs>
+<rs id="ft7i8" type="INDI" n="8"><persName type="sex=f">sister</persName><ref n="child" target="ft7f4" targOrder="U"/></rs>
+<rs id="ft7i9" type="INDI" n="9"><persName type="sex=m">Astyphilos</persName><ref n="child" target="ft7f4" targOrder="U"/></rs>
+<rs id="ft7i10" type="INDI" n="10"><persName type="sex=m"/><note anchored="yes" place="inline">claimant and speaker</note><ref n="child" target="ft7f5" targOrder="U"/></rs>
+<rs id="ft7f1" type="FAM" n="1"><ref n="husb" target="ft7i2" targOrder="U"/><ref n="chil" target="ft7i1" targOrder="U"/><ref n="chil" target="ft7i3" targOrder="U"/></rs>
+<rs id="ft7f2" type="FAM" n="2"><ref n="husb" target="ft7i1" targOrder="U"/><ref n="chil" target="ft7i4" targOrder="U"/></rs>
+<rs id="ft7f3" type="FAM" n="3"><ref n="husb" target="ft7i4" targOrder="U"/><ref n="chil" target="ft7i5" targOrder="U"/></rs>
+<rs id="ft7f4" type="FAM" n="4"><ref n="husb" target="ft7i3" targOrder="U"/><ref n="wife" target="ft7i6" targOrder="U"/><ref n="chil" target="ft7i8" targOrder="U"/><ref n="chil" target="ft7i9" targOrder="U"/></rs>
+<rs id="ft7f5" type="FAM" n="5"><ref n="husb" target="ft7i7" targOrder="U"/><ref n="wife" target="ft7i6" targOrder="U"/><ref n="chil" target="ft7i10" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Euthykrates and Thudippos were brothers. Thudippos had a son named Kleon. Euthykrates had a son Astyphilos and a daughter. On the death of Euthykrates, his wife married a second husband named Theophrastos, by whom she had a son.</p>
@@ -3659,27 +3658,27 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft8" rend="familytree">
 <figDesc>
-<rs id="ft8i1" type="INDI" n="1"><note anchored="yes" place="inline">father</note><ref n="spouse" target="ft8f1" targOrder="U"></ref></rs>
-<rs id="ft8i2" type="INDI" n="2"><persName type="sex=m">Aristomenes</persName><ref n="child" target="ft8f1" targOrder="U"></ref><ref n="spouse" target="ft8f2" targOrder="U"></ref></rs>
-<rs id="ft8i3" type="INDI" n="3"><persName type="sex=m">Aristarchos I</persName><ref n="child" target="ft8f1" targOrder="U"></ref><ref n="spouse" target="ft8f4" targOrder="U"></ref></rs>
-<rs id="ft8i4" type="INDI" n="4"><persName type="sex=m">Apollodorus</persName><ref n="child" target="ft8f2" targOrder="U"></ref></rs>
-<rs id="ft8i5" type="INDI" n="5"><persName type="sex=m">sister</persName><ref n="child" target="ft8f2" targOrder="U"></ref><ref n="spouse" target="ft8f5" targOrder="U"></ref></rs>
-<rs id="ft8i6" type="INDI" n="6"><persName type="sex=m">Kyronides</persName><note anchored="yes" place="inline">adopted by Xenaetos 1</note><ref n="child" target="ft8f4" targOrder="U"></ref><ref n="spouse" target="ft8f5" targOrder="U"></ref></rs>
-<rs id="ft8i7" type="INDI" n="7"><persName type="sex=m">Xenaenetos</persName><ref n="spouse" target="ft8f3" targOrder="U"></ref></rs>
-<rs id="ft8i8" type="INDI" n="8"><persName type="sex=f">mother</persName><ref n="child" target="ft8f3" targOrder="U"></ref><ref n="spouse" target="ft8f4" targOrder="U"></ref></rs>
-<rs id="ft8i9" type="INDI" n="9"><persName type="sex=m">Demochares</persName><ref n="child" target="ft8f4" targOrder="U"></ref></rs>
-<rs id="ft8i10" type="INDI" n="10"><persName type="sex=f">mother</persName><ref n="child" target="ft8f4" targOrder="U"></ref><ref n="spouse" target="ft8f6" targOrder="U"></ref></rs>
-<rs id="ft8i11" type="INDI" n="11"><note anchored="yes" place="inline">daughter who died young</note><ref n="child" target="ft8f4" targOrder="U"></ref></rs>
-<rs id="ft8i12" type="INDI" n="12"><persName type="sex=m">Aristarchos II</persName><note anchored="yes" place="inline">adopted by Aristarchos I</note><ref n="child" target="ft8f5" targOrder="U"></ref></rs>
-<rs id="ft8i13" type="INDI" n="13"><persName type="sex=m">Xenaenetos II</persName><note anchored="yes" place="inline">defendant, adopted by Aristarchos II</note><ref n="child" target="ft8f5" targOrder="U"></ref></rs>
-<rs id="ft8i14" type="INDI" n="14"><persName type="sex=m">speaker</persName><note anchored="yes" place="inline">claimant</note><ref n="child" target="ft8f6" targOrder="U"></ref></rs>
-<rs id="ft8i15" type="INDI" n="15"><note anchored="yes" place="inline">two sisters</note><ref n="child" target="ft8f6" targOrder="U"></ref></rs>
-<rs id="ft8f1" type="FAM" n="1"><ref n="husb" target="ft8i1" targOrder="U"></ref><ref n="chil" target="ft8i2" targOrder="U"></ref><ref n="chil" target="ft8i3" targOrder="U"></ref></rs>
-<rs id="ft8f2" type="FAM" n="2"><ref n="husb" target="ft8i2" targOrder="U"></ref><ref n="chil" target="ft8i4" targOrder="U"></ref><ref n="chil" target="ft8i5" targOrder="U"></ref></rs>
-<rs id="ft8f3" type="FAM" n="3"><ref n="husb" target="ft8i7" targOrder="U"></ref><ref n="chil" target="ft8i8" targOrder="U"></ref></rs>
-<rs id="ft8f4" type="FAM" n="4"><ref n="husb" target="ft8i3" targOrder="U"></ref><ref n="wife" target="ft8i8" targOrder="U"></ref><ref n="chil" target="ft8i6" targOrder="U"></ref><ref n="chil" target="ft8i9" targOrder="U"></ref><ref n="chil" target="ft8i10" targOrder="U"></ref><ref n="chil" target="ft8i11" targOrder="U"></ref></rs>
-<rs id="ft8f5" type="FAM" n="5"><ref n="husb" target="ft8i6" targOrder="U"></ref><ref n="wife" target="ft8i5" targOrder="U"></ref><ref n="chil" target="ft8i12" targOrder="U"></ref><ref n="chil" target="ft8i13" targOrder="U"></ref></rs>
-<rs id="ft8f6" type="FAM" n="6"><ref n="wife" target="ft8i10" targOrder="U"></ref><ref n="chil" target="ft8i14" targOrder="U"></ref><ref n="chil" target="ft8i15" targOrder="U"></ref></rs>
+<rs id="ft8i1" type="INDI" n="1"><note anchored="yes" place="inline">father</note><ref n="spouse" target="ft8f1" targOrder="U"/></rs>
+<rs id="ft8i2" type="INDI" n="2"><persName type="sex=m">Aristomenes</persName><ref n="child" target="ft8f1" targOrder="U"/><ref n="spouse" target="ft8f2" targOrder="U"/></rs>
+<rs id="ft8i3" type="INDI" n="3"><persName type="sex=m">Aristarchos I</persName><ref n="child" target="ft8f1" targOrder="U"/><ref n="spouse" target="ft8f4" targOrder="U"/></rs>
+<rs id="ft8i4" type="INDI" n="4"><persName type="sex=m">Apollodorus</persName><ref n="child" target="ft8f2" targOrder="U"/></rs>
+<rs id="ft8i5" type="INDI" n="5"><persName type="sex=m">sister</persName><ref n="child" target="ft8f2" targOrder="U"/><ref n="spouse" target="ft8f5" targOrder="U"/></rs>
+<rs id="ft8i6" type="INDI" n="6"><persName type="sex=m">Kyronides</persName><note anchored="yes" place="inline">adopted by Xenaetos 1</note><ref n="child" target="ft8f4" targOrder="U"/><ref n="spouse" target="ft8f5" targOrder="U"/></rs>
+<rs id="ft8i7" type="INDI" n="7"><persName type="sex=m">Xenaenetos</persName><ref n="spouse" target="ft8f3" targOrder="U"/></rs>
+<rs id="ft8i8" type="INDI" n="8"><persName type="sex=f">mother</persName><ref n="child" target="ft8f3" targOrder="U"/><ref n="spouse" target="ft8f4" targOrder="U"/></rs>
+<rs id="ft8i9" type="INDI" n="9"><persName type="sex=m">Demochares</persName><ref n="child" target="ft8f4" targOrder="U"/></rs>
+<rs id="ft8i10" type="INDI" n="10"><persName type="sex=f">mother</persName><ref n="child" target="ft8f4" targOrder="U"/><ref n="spouse" target="ft8f6" targOrder="U"/></rs>
+<rs id="ft8i11" type="INDI" n="11"><note anchored="yes" place="inline">daughter who died young</note><ref n="child" target="ft8f4" targOrder="U"/></rs>
+<rs id="ft8i12" type="INDI" n="12"><persName type="sex=m">Aristarchos II</persName><note anchored="yes" place="inline">adopted by Aristarchos I</note><ref n="child" target="ft8f5" targOrder="U"/></rs>
+<rs id="ft8i13" type="INDI" n="13"><persName type="sex=m">Xenaenetos II</persName><note anchored="yes" place="inline">defendant, adopted by Aristarchos II</note><ref n="child" target="ft8f5" targOrder="U"/></rs>
+<rs id="ft8i14" type="INDI" n="14"><persName type="sex=m">speaker</persName><note anchored="yes" place="inline">claimant</note><ref n="child" target="ft8f6" targOrder="U"/></rs>
+<rs id="ft8i15" type="INDI" n="15"><note anchored="yes" place="inline">two sisters</note><ref n="child" target="ft8f6" targOrder="U"/></rs>
+<rs id="ft8f1" type="FAM" n="1"><ref n="husb" target="ft8i1" targOrder="U"/><ref n="chil" target="ft8i2" targOrder="U"/><ref n="chil" target="ft8i3" targOrder="U"/></rs>
+<rs id="ft8f2" type="FAM" n="2"><ref n="husb" target="ft8i2" targOrder="U"/><ref n="chil" target="ft8i4" targOrder="U"/><ref n="chil" target="ft8i5" targOrder="U"/></rs>
+<rs id="ft8f3" type="FAM" n="3"><ref n="husb" target="ft8i7" targOrder="U"/><ref n="chil" target="ft8i8" targOrder="U"/></rs>
+<rs id="ft8f4" type="FAM" n="4"><ref n="husb" target="ft8i3" targOrder="U"/><ref n="wife" target="ft8i8" targOrder="U"/><ref n="chil" target="ft8i6" targOrder="U"/><ref n="chil" target="ft8i9" targOrder="U"/><ref n="chil" target="ft8i10" targOrder="U"/><ref n="chil" target="ft8i11" targOrder="U"/></rs>
+<rs id="ft8f5" type="FAM" n="5"><ref n="husb" target="ft8i6" targOrder="U"/><ref n="wife" target="ft8i5" targOrder="U"/><ref n="chil" target="ft8i12" targOrder="U"/><ref n="chil" target="ft8i13" targOrder="U"/></rs>
+<rs id="ft8f6" type="FAM" n="6"><ref n="wife" target="ft8i10" targOrder="U"/><ref n="chil" target="ft8i14" targOrder="U"/><ref n="chil" target="ft8i15" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Aristarchos I. had two sons and two daughters.  Kyronides, the eldest son, was adopted, during his father's lifetime, into the family of his maternal grandfather Xenaenetos I. At the death of Aristarchos I. the property went, therefore, to the second son, Demochares. Demochares died in youth. One of his sisters had died, without issue, before him. The other sister was thus left heiress to her father's estate; and might have been claimed in marriage by one of her near kinsmen. Her nearest kinsmen were, her uncle Aristomenes, brother of Aristarchos I., and his son Apollodoros. Neither of them claimed her hand. Aristomenes, as her guardian, gave her in marriage, with a small dowry, to a stranger: he
@@ -3701,24 +3700,24 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft9" rend="familytree">
 <figDesc>
-<rs id="ft9i1" type="INDI" n="1"><persName type="sex=m">Eponymos</persName><note anchored="yes" place="inline">deceased</note><ref n="spouse" target="ft9f1" targOrder="U"></ref></rs>
-<rs id="ft9i2" type="INDI" n="2"><note anchored="yes" place="inline">speaker, adopted son of Menekles 1, advocate of Philonides</note><ref n="child" target="ft9f1" targOrder="U"></ref><ref n="spouse" target="ft9f3" targOrder="U"></ref></rs>
-<rs id="ft9i3" type="INDI" n="3"><persName type="sex=m">brother</persName><ref n="child" target="ft9f1" targOrder="U"></ref></rs>
-<rs id="ft9i4" type="INDI" n="4"><persName type="sex=f">first sister</persName><note anchored="yes" place="inline">wife of Leukolophos</note><ref n="child" target="ft9f1" targOrder="U"></ref></rs>
-<rs id="ft9i5" type="INDI" n="5"><persName type="sex=f">second sister</persName><ref n="child" target="ft9f1" targOrder="U"></ref><ref n="spouse" target="ft9f4" targOrder="U"></ref><ref n="spouse" target="ft9f6" targOrder="U"></ref></rs>
-<rs id="ft9i6" type="INDI" n="6"><persName type="sex=m">Philonides</persName><note anchored="yes" place="inline">defendant</note><ref n="spouse" target="ft9f2" targOrder="U"></ref></rs>
-<rs id="ft9i7" type="INDI" n="7"><persName type="sex=m">daughter of Philonides</persName><ref n="child" target="ft9f2" targOrder="U"></ref><ref n="spouse" target="ft9f3" targOrder="U"></ref></rs>
-<rs id="ft9i8" type="INDI" n="8"><persName type="sex=m">Menekles I</persName><note anchored="yes" place="inline">deceased</note><ref n="spouse" target="ft9f4" targOrder="U"></ref><ref n="child" target="ft9f5" targOrder="U"></ref></rs>
-<rs id="ft9i9" type="INDI" n="9"><persName type="sex=m">brother of Menekles I</persName><note anchored="yes" place="inline">prosecutor, has one son</note><ref n="chil" target="ft9f5" targOrder="U"></ref></rs>
-<rs id="ft9i10" type="INDI" n="10"><persName type="sex=m">Eleios</persName><ref n="spouse" target="ft9f6" targOrder="U"></ref></rs>
-<rs id="ft9i11" type="INDI" n="11"><persName type="sex=m">Menekles II</persName><ref n="child" target="ft9f3" targOrder="U"></ref></rs>
-<rs id="ft9i12" type="INDI" n="12"><persName type="sex=m">two sons</persName><ref n="child" target="ft9f6" targOrder="U"></ref></rs>
-<rs id="ft9f1" type="FAM" n="1"><ref n="husb" target="ft9i1" targOrder="U"></ref><ref n="chil" target="ft9i2" targOrder="U"></ref><ref n="chil" target="ft9i3" targOrder="U"></ref><ref n="chil" target="ft9i4" targOrder="U"></ref><ref n="chil" target="ft9i5" targOrder="U"></ref></rs>
-<rs id="ft9f2" type="FAM" n="2"><ref n="husb" target="ft9i6" targOrder="U"></ref><ref n="chil" target="ft9i7" targOrder="U"></ref></rs>
-<rs id="ft9f3" type="FAM" n="3"><ref n="husb" target="ft9i2" targOrder="U"></ref><ref n="wife" target="ft9i7" targOrder="U"></ref><ref n="chil" target="ft9i11" targOrder="U"></ref></rs>
-<rs id="ft9f4" type="FAM" n="4"><ref n="husb" target="ft9i8" targOrder="U"></ref><ref n="wife" target="ft9i5" targOrder="U"></ref></rs>
-<rs id="ft9f5" type="FAM" n="5"><ref n="chil" target="ft9i8" targOrder="U"></ref><ref n="chil" target="ft9i9" targOrder="U"></ref></rs>
-<rs id="ft9f6" type="FAM" n="6"><ref n="husb" target="ft9i10" targOrder="U"></ref><ref n="wife" target="ft9i5" targOrder="U"></ref><ref n="chil" target="ft9i12" targOrder="U"></ref></rs>
+<rs id="ft9i1" type="INDI" n="1"><persName type="sex=m">Eponymos</persName><note anchored="yes" place="inline">deceased</note><ref n="spouse" target="ft9f1" targOrder="U"/></rs>
+<rs id="ft9i2" type="INDI" n="2"><note anchored="yes" place="inline">speaker, adopted son of Menekles 1, advocate of Philonides</note><ref n="child" target="ft9f1" targOrder="U"/><ref n="spouse" target="ft9f3" targOrder="U"/></rs>
+<rs id="ft9i3" type="INDI" n="3"><persName type="sex=m">brother</persName><ref n="child" target="ft9f1" targOrder="U"/></rs>
+<rs id="ft9i4" type="INDI" n="4"><persName type="sex=f">first sister</persName><note anchored="yes" place="inline">wife of Leukolophos</note><ref n="child" target="ft9f1" targOrder="U"/></rs>
+<rs id="ft9i5" type="INDI" n="5"><persName type="sex=f">second sister</persName><ref n="child" target="ft9f1" targOrder="U"/><ref n="spouse" target="ft9f4" targOrder="U"/><ref n="spouse" target="ft9f6" targOrder="U"/></rs>
+<rs id="ft9i6" type="INDI" n="6"><persName type="sex=m">Philonides</persName><note anchored="yes" place="inline">defendant</note><ref n="spouse" target="ft9f2" targOrder="U"/></rs>
+<rs id="ft9i7" type="INDI" n="7"><persName type="sex=m">daughter of Philonides</persName><ref n="child" target="ft9f2" targOrder="U"/><ref n="spouse" target="ft9f3" targOrder="U"/></rs>
+<rs id="ft9i8" type="INDI" n="8"><persName type="sex=m">Menekles I</persName><note anchored="yes" place="inline">deceased</note><ref n="spouse" target="ft9f4" targOrder="U"/><ref n="child" target="ft9f5" targOrder="U"/></rs>
+<rs id="ft9i9" type="INDI" n="9"><persName type="sex=m">brother of Menekles I</persName><note anchored="yes" place="inline">prosecutor, has one son</note><ref n="chil" target="ft9f5" targOrder="U"/></rs>
+<rs id="ft9i10" type="INDI" n="10"><persName type="sex=m">Eleios</persName><ref n="spouse" target="ft9f6" targOrder="U"/></rs>
+<rs id="ft9i11" type="INDI" n="11"><persName type="sex=m">Menekles II</persName><ref n="child" target="ft9f3" targOrder="U"/></rs>
+<rs id="ft9i12" type="INDI" n="12"><persName type="sex=m">two sons</persName><ref n="child" target="ft9f6" targOrder="U"/></rs>
+<rs id="ft9f1" type="FAM" n="1"><ref n="husb" target="ft9i1" targOrder="U"/><ref n="chil" target="ft9i2" targOrder="U"/><ref n="chil" target="ft9i3" targOrder="U"/><ref n="chil" target="ft9i4" targOrder="U"/><ref n="chil" target="ft9i5" targOrder="U"/></rs>
+<rs id="ft9f2" type="FAM" n="2"><ref n="husb" target="ft9i6" targOrder="U"/><ref n="chil" target="ft9i7" targOrder="U"/></rs>
+<rs id="ft9f3" type="FAM" n="3"><ref n="husb" target="ft9i2" targOrder="U"/><ref n="wife" target="ft9i7" targOrder="U"/><ref n="chil" target="ft9i11" targOrder="U"/></rs>
+<rs id="ft9f4" type="FAM" n="4"><ref n="husb" target="ft9i8" targOrder="U"/><ref n="wife" target="ft9i5" targOrder="U"/></rs>
+<rs id="ft9f5" type="FAM" n="5"><ref n="chil" target="ft9i8" targOrder="U"/><ref n="chil" target="ft9i9" targOrder="U"/></rs>
+<rs id="ft9f6" type="FAM" n="6"><ref n="husb" target="ft9i10" targOrder="U"/><ref n="wife" target="ft9i5" targOrder="U"/><ref n="chil" target="ft9i12" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>At the death of Menekles, his estate was claimed  by his brother<note anchored="yes">The author of the Argument says, <foreign lang="greek">a)delfw=n a)mfisbhthsa/ntwn</foreign>. The source of his mistake is plain. Throughout, the prosecutors are spoken of in the plural; and in &sect; 38 we read, <foreign lang="greek">a)mfo/teroi ou(=toi</foreign>. But &sect; 21 shows that Menekles had but one brother. The plural, and the <foreign lang="greek">a)mfo/teroi</foreign>, mean this brother and his son, the nephew of Menekles.</note>. But Menekles had left an adopted
@@ -3737,22 +3736,22 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft10" rend="familytree">
 <figDesc>
-<rs id="ft10i1" type="INDI" n="1"><persName type="sex=m">Lysimenes</persName><ref n="child" target="ft10f1" targOrder="U"></ref></rs>
-<rs id="ft10i2" type="INDI" n="2"><persName type="sex=m">Chaeron</persName><ref n="child" target="ft10f1" targOrder="U"></ref></rs>
-<rs id="ft10i3" type="INDI" n="3"><persName type="sex=m">Pylades</persName><ref n="child" target="ft10f1" targOrder="U"></ref></rs>
-<rs id="ft10i4" type="INDI" n="4"><persName type="sex=f">mother of Pyrrhos</persName><ref n="child" target="ft10f1" targOrder="U"></ref><ref n="spouse" target="ft10f2" targOrder="U"></ref></rs>
-<rs id="ft10i5" type="INDI" n="5"><persName type="sex=m">maternal grandfather of Pyrrhos</persName><ref n="spouse" target="ft10f1" targOrder="U"></ref></rs>
-<rs id="ft10i6" type="INDI" n="6"><persName type="sex=m">Pyrrhos</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft10f2" targOrder="U"></ref></rs>
-<rs id="ft10i7" type="INDI" n="7"><persName type="sex=f">sister of Pyrrhos</persName><ref n="child" target="ft10f2" targOrder="U"></ref><ref n="spouse" target="ft10f4" targOrder="U"></ref></rs>
-<rs id="ft10i8" type="INDI" n="8"><persName type="sex=m">Nikodemos</persName><note anchored="yes" place="inline">defendant</note><ref n="spouse" target="ft10f3" targOrder="U"></ref></rs>
-<rs id="ft10i9" type="INDI" n="9"><persName type="sex=f">mother of Phile</persName><ref n="spouse" target="ft10f3" targOrder="U"></ref></rs>
-<rs id="ft10i10" type="INDI" n="10"><persName type="sex=f">Phile</persName><note anchored="yes" place="inline">illegitimate daughter of Pyrrhos, wife of Xenokles</note><ref n="child" target="ft10f3" targOrder="U"></ref></rs>
-<rs id="ft10i11" type="INDI" n="11"><persName type="sex=m">Endios</persName><note anchored="yes" place="inline">adopted son of Pyrrhos, deceased</note><ref n="child" target="ft10f4" targOrder="U"></ref></rs>
-<rs id="ft10i12" type="INDI" n="12"><persName type="sex=m">plaintiff</persName><note anchored="yes" place="inline">the speaker</note><ref n="child" target="ft10f4" targOrder="U"></ref></rs>
-<rs id="ft10f1" type="FAM" n="1"><ref n="husb" target="ft10i5" targOrder="U"></ref><ref n="chil" target="ft10i1" targOrder="U"></ref><ref n="chil" target="ft10i2" targOrder="U"></ref><ref n="chil" target="ft10i3" targOrder="U"></ref><ref n="chil" target="ft10i4" targOrder="U"></ref></rs>
-<rs id="ft10f2" type="FAM" n="2"><ref n="wife" target="ft10i4" targOrder="U"></ref><ref n="chil" target="ft10i7" targOrder="U"></ref><ref n="chil" target="ft10i6" targOrder="U"></ref></rs>
-<rs id="ft10f3" type="FAM" n="3"><ref n="husb" target="ft10i8" targOrder="U"></ref><ref n="wife" target="ft10i9" targOrder="U"></ref><ref n="chil" target="ft10i10" targOrder="U"></ref></rs>
-<rs id="ft10f4" type="FAM" n="4"><ref n="wife" target="ft10i7" targOrder="U"></ref><ref n="chil" target="ft10i11" targOrder="U"></ref><ref n="chil" target="ft10i12" targOrder="U"></ref></rs>
+<rs id="ft10i1" type="INDI" n="1"><persName type="sex=m">Lysimenes</persName><ref n="child" target="ft10f1" targOrder="U"/></rs>
+<rs id="ft10i2" type="INDI" n="2"><persName type="sex=m">Chaeron</persName><ref n="child" target="ft10f1" targOrder="U"/></rs>
+<rs id="ft10i3" type="INDI" n="3"><persName type="sex=m">Pylades</persName><ref n="child" target="ft10f1" targOrder="U"/></rs>
+<rs id="ft10i4" type="INDI" n="4"><persName type="sex=f">mother of Pyrrhos</persName><ref n="child" target="ft10f1" targOrder="U"/><ref n="spouse" target="ft10f2" targOrder="U"/></rs>
+<rs id="ft10i5" type="INDI" n="5"><persName type="sex=m">maternal grandfather of Pyrrhos</persName><ref n="spouse" target="ft10f1" targOrder="U"/></rs>
+<rs id="ft10i6" type="INDI" n="6"><persName type="sex=m">Pyrrhos</persName><note anchored="yes" place="inline">deceased</note><ref n="child" target="ft10f2" targOrder="U"/></rs>
+<rs id="ft10i7" type="INDI" n="7"><persName type="sex=f">sister of Pyrrhos</persName><ref n="child" target="ft10f2" targOrder="U"/><ref n="spouse" target="ft10f4" targOrder="U"/></rs>
+<rs id="ft10i8" type="INDI" n="8"><persName type="sex=m">Nikodemos</persName><note anchored="yes" place="inline">defendant</note><ref n="spouse" target="ft10f3" targOrder="U"/></rs>
+<rs id="ft10i9" type="INDI" n="9"><persName type="sex=f">mother of Phile</persName><ref n="spouse" target="ft10f3" targOrder="U"/></rs>
+<rs id="ft10i10" type="INDI" n="10"><persName type="sex=f">Phile</persName><note anchored="yes" place="inline">illegitimate daughter of Pyrrhos, wife of Xenokles</note><ref n="child" target="ft10f3" targOrder="U"/></rs>
+<rs id="ft10i11" type="INDI" n="11"><persName type="sex=m">Endios</persName><note anchored="yes" place="inline">adopted son of Pyrrhos, deceased</note><ref n="child" target="ft10f4" targOrder="U"/></rs>
+<rs id="ft10i12" type="INDI" n="12"><persName type="sex=m">plaintiff</persName><note anchored="yes" place="inline">the speaker</note><ref n="child" target="ft10f4" targOrder="U"/></rs>
+<rs id="ft10f1" type="FAM" n="1"><ref n="husb" target="ft10i5" targOrder="U"/><ref n="chil" target="ft10i1" targOrder="U"/><ref n="chil" target="ft10i2" targOrder="U"/><ref n="chil" target="ft10i3" targOrder="U"/><ref n="chil" target="ft10i4" targOrder="U"/></rs>
+<rs id="ft10f2" type="FAM" n="2"><ref n="wife" target="ft10i4" targOrder="U"/><ref n="chil" target="ft10i7" targOrder="U"/><ref n="chil" target="ft10i6" targOrder="U"/></rs>
+<rs id="ft10f3" type="FAM" n="3"><ref n="husb" target="ft10i8" targOrder="U"/><ref n="wife" target="ft10i9" targOrder="U"/><ref n="chil" target="ft10i10" targOrder="U"/></rs>
+<rs id="ft10f4" type="FAM" n="4"><ref n="wife" target="ft10i7" targOrder="U"/><ref n="chil" target="ft10i11" targOrder="U"/><ref n="chil" target="ft10i12" targOrder="U"/></rs>
 </figDesc>
 <note anchored="yes" place="inline">Scheibe, in his stemma (p. xix.), makes Lysimenes, Chaeron and Pylades <emph>paternal</emph> uncles of Pyrrhos. Blass points out that &sect;&sect; 71, 30 and 32 show them to have been mateinal uncles (<title>Att. B.</title> II. 502).</note>
 </figure>
@@ -3775,25 +3774,25 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft11" rend="familytree">
 <figDesc>
-<rs id="ft11i1" type="INDI" n="1"><persName type="sex=m">Mixiades</persName><ref n="spouse" target="ft11f1" targOrder="U"></ref></rs>
-<rs id="ft11i2" type="INDI" n="2"><persName type="sex=f">mother of Philoktemon</persName><ref n="child" target="ft11f1" targOrder="U"></ref><ref n="spouse" target="ft11f2" targOrder="U"></ref></rs>
-<rs id="ft11i3" type="INDI" n="3"><persName type="sex=m">Euktemon</persName><note anchored="yes" place="inline">deceased</note><ref n="spouse" target="ft11f2" targOrder="U"></ref></rs>
-<rs id="ft11i4" type="INDI" n="4"><persName type="sex=m">Philoktemon</persName><ref n="child" target="ft11f2" targOrder="U"></ref></rs>
-<rs id="ft11i5" type="INDI" n="5"><persName type="sex=m">Ergamenes</persName><ref n="child" target="ft11f2" targOrder="U"></ref></rs>
-<rs id="ft11i6" type="INDI" n="6"><persName type="sex=m">Hegemon</persName><ref n="child" target="ft11f2" targOrder="U"></ref></rs>
-<rs id="ft11i7" type="INDI" n="7"><persName type="sex=f">wife of Chaereas</persName><ref n="child" target="ft11f2" targOrder="U"></ref><ref n="spouse" target="ft11f3" targOrder="U"></ref></rs>
-<rs id="ft11i8" type="INDI" n="8"><persName type="sex=f">wife of Phanostratos</persName><ref n="child" target="ft11f2" targOrder="U"></ref><ref n="spouse" target="ft11f4" targOrder="U"></ref></rs>
-<rs id="ft11i9" type="INDI" n="9"><persName type="sex=m">one daughter</persName><ref n="child" target="ft11f3" targOrder="U"></ref></rs>
-<rs id="ft11i10" type="INDI" n="10"><persName type="sex=m">Chaerestratos</persName><note anchored="yes" place="inline">adopted son of Philoktemon and client of the speaker</note><ref n="child" target="ft11f4" targOrder="U"></ref></rs>
-<rs id="ft11i11" type="INDI" n="11"><persName type="sex=m">one brother</persName><ref n="child" target="ft11f4" targOrder="U"></ref></rs>
-<rs id="ft11i12" type="INDI" n="12"><persName type="sex=m">Dion</persName><ref n="spouse" target="ft11f5" targOrder="U"></ref></rs>
-<rs id="ft11i13" type="INDI" n="13"><persName type="sex=f">Akte</persName><ref n="spouse" target="ft11f5" targOrder="U"></ref></rs>
-<rs id="ft11i14" type="INDI" n="14"><persName type="sex=m">two sons</persName><note anchored="yes" place="inline">clients of Androkles (the defendant) and Antidoros</note><ref n="child" target="ft11f5" targOrder="U"></ref></rs>
-<rs id="ft11f1" type="FAM" n="1"><ref n="husb" target="ft11i1" targOrder="U"></ref><ref n="chil" target="ft11i2" targOrder="U"></ref></rs>
-<rs id="ft11f2" type="FAM" n="2"><ref n="wife" target="ft11i2" targOrder="U"></ref><ref n="husb" target="ft11i3" targOrder="U"></ref><ref n="chil" target="ft11i4" targOrder="U"></ref><ref n="chil" target="ft11i5" targOrder="U"></ref><ref n="chil" target="ft11i6" targOrder="U"></ref><ref n="chil" target="ft11i7" targOrder="U"></ref><ref n="chil" target="ft11i8" targOrder="U"></ref></rs>
-<rs id="ft11f3" type="FAM" n="3"><ref n="wife" target="ft11i7" targOrder="U"></ref><ref n="chil" target="ft11i9" targOrder="U"></ref></rs>
-<rs id="ft11f4" type="FAM" n="4"><ref n="wife" target="ft11i8" targOrder="U"></ref><ref n="chil" target="ft11i10" targOrder="U"></ref><ref n="chil" target="ft11i11" targOrder="U"></ref></rs>
-<rs id="ft11f5" type="FAM" n="5"><ref n="husb" target="ft11i12" targOrder="U"></ref><ref n="wife" target="ft11i13" targOrder="U"></ref><ref n="chil" target="ft11i14" targOrder="U"></ref></rs>
+<rs id="ft11i1" type="INDI" n="1"><persName type="sex=m">Mixiades</persName><ref n="spouse" target="ft11f1" targOrder="U"/></rs>
+<rs id="ft11i2" type="INDI" n="2"><persName type="sex=f">mother of Philoktemon</persName><ref n="child" target="ft11f1" targOrder="U"/><ref n="spouse" target="ft11f2" targOrder="U"/></rs>
+<rs id="ft11i3" type="INDI" n="3"><persName type="sex=m">Euktemon</persName><note anchored="yes" place="inline">deceased</note><ref n="spouse" target="ft11f2" targOrder="U"/></rs>
+<rs id="ft11i4" type="INDI" n="4"><persName type="sex=m">Philoktemon</persName><ref n="child" target="ft11f2" targOrder="U"/></rs>
+<rs id="ft11i5" type="INDI" n="5"><persName type="sex=m">Ergamenes</persName><ref n="child" target="ft11f2" targOrder="U"/></rs>
+<rs id="ft11i6" type="INDI" n="6"><persName type="sex=m">Hegemon</persName><ref n="child" target="ft11f2" targOrder="U"/></rs>
+<rs id="ft11i7" type="INDI" n="7"><persName type="sex=f">wife of Chaereas</persName><ref n="child" target="ft11f2" targOrder="U"/><ref n="spouse" target="ft11f3" targOrder="U"/></rs>
+<rs id="ft11i8" type="INDI" n="8"><persName type="sex=f">wife of Phanostratos</persName><ref n="child" target="ft11f2" targOrder="U"/><ref n="spouse" target="ft11f4" targOrder="U"/></rs>
+<rs id="ft11i9" type="INDI" n="9"><persName type="sex=m">one daughter</persName><ref n="child" target="ft11f3" targOrder="U"/></rs>
+<rs id="ft11i10" type="INDI" n="10"><persName type="sex=m">Chaerestratos</persName><note anchored="yes" place="inline">adopted son of Philoktemon and client of the speaker</note><ref n="child" target="ft11f4" targOrder="U"/></rs>
+<rs id="ft11i11" type="INDI" n="11"><persName type="sex=m">one brother</persName><ref n="child" target="ft11f4" targOrder="U"/></rs>
+<rs id="ft11i12" type="INDI" n="12"><persName type="sex=m">Dion</persName><ref n="spouse" target="ft11f5" targOrder="U"/></rs>
+<rs id="ft11i13" type="INDI" n="13"><persName type="sex=f">Akte</persName><ref n="spouse" target="ft11f5" targOrder="U"/></rs>
+<rs id="ft11i14" type="INDI" n="14"><persName type="sex=m">two sons</persName><note anchored="yes" place="inline">clients of Androkles (the defendant) and Antidoros</note><ref n="child" target="ft11f5" targOrder="U"/></rs>
+<rs id="ft11f1" type="FAM" n="1"><ref n="husb" target="ft11i1" targOrder="U"/><ref n="chil" target="ft11i2" targOrder="U"/></rs>
+<rs id="ft11f2" type="FAM" n="2"><ref n="wife" target="ft11i2" targOrder="U"/><ref n="husb" target="ft11i3" targOrder="U"/><ref n="chil" target="ft11i4" targOrder="U"/><ref n="chil" target="ft11i5" targOrder="U"/><ref n="chil" target="ft11i6" targOrder="U"/><ref n="chil" target="ft11i7" targOrder="U"/><ref n="chil" target="ft11i8" targOrder="U"/></rs>
+<rs id="ft11f3" type="FAM" n="3"><ref n="wife" target="ft11i7" targOrder="U"/><ref n="chil" target="ft11i9" targOrder="U"/></rs>
+<rs id="ft11f4" type="FAM" n="4"><ref n="wife" target="ft11i8" targOrder="U"/><ref n="chil" target="ft11i10" targOrder="U"/><ref n="chil" target="ft11i11" targOrder="U"/></rs>
+<rs id="ft11f5" type="FAM" n="5"><ref n="husb" target="ft11i12" targOrder="U"/><ref n="wife" target="ft11i13" targOrder="U"/><ref n="chil" target="ft11i14" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 <p>Euktemon and his wife, the daughter of Mixiades, had three sons,&mdash;Philoktemon, Hegemon and Ergamenes; and two daughters, of whom one married Phanostratos, the other Chaereas. Euktemon, when an elderly man, formed an attachment to a freedwoman named Akte, who managed a lodging-house belonging to him in the Kerameikos. At last he left his home, divorced his wife, and lived altogether there. Akte had two sons,&mdash;the children, according to the speaker, of one Dion, a freedman. She persuaded Euktemon to enrol the eldest of these boys in his phratria, as his own son. Philoktemon protested; but was at length induced to consent, on the condition that Akte's son was to inherit only one of Euktemon's farms. Soon afterwards
@@ -3823,31 +3822,31 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft12" rend="familytree">
 <figDesc>
-<rs id="ft12i1" type="INDI" n="1"><persName type="sex=m">Dikaeogenes I</persName><ref n="spouse" target="ft12f1" targOrder="U"></ref></rs>
-<rs id="ft12i2" type="INDI" n="2"><persName type="sex=m">Menexenos I</persName><ref n="child" target="ft12f1" targOrder="U"></ref><ref n="spouse" target="ft12f2" targOrder="U"></ref></rs>
-<rs id="ft12i3" type="INDI" n="3"><persName type="sex=f">wife of Proxenos</persName><ref n="child" target="ft12f1" targOrder="U"></ref><ref n="spouse" target="ft12f3" targOrder="U"></ref></rs>
-<rs id="ft12i4" type="INDI" n="4"><persName type="sex=f">wife of Polyaratos</persName><ref n="child" target="ft12f2" targOrder="U"></ref><ref n="spouse" target="ft12f4" targOrder="U"></ref></rs>
-<rs id="ft12i5" type="INDI" n="5"><persName type="sex=f">wife of Democles</persName><ref n="child" target="ft12f2" targOrder="U"></ref><ref n="spouse" target="ft12f5" targOrder="U"></ref></rs>
-<rs id="ft12i6" type="INDI" n="6"><persName type="sex=f">wife of Kephisodon</persName><ref n="child" target="ft12f2" targOrder="U"></ref><ref n="spouse" target="ft12f6" targOrder="U"></ref></rs>
-<rs id="ft12i7" type="INDI" n="7"><persName type="sex=f">wife of Theoopompos</persName><ref n="child" target="ft12f2" targOrder="U"></ref><ref n="spouse" target="ft12f7" targOrder="U"></ref></rs>
-<rs id="ft12i8" type="INDI" n="8"><persName type="sex=m">Dikaeogenes II</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft12f2" targOrder="U"></ref></rs>
-<rs id="ft12i9" type="INDI" n="9"><persName type="sex=m">Dikaeogenes III</persName><ref n="child" target="ft12f3" targOrder="U"></ref></rs>
-<rs id="ft12i10" type="INDI" n="10"><persName type="sex=m">Harmodios</persName><ref n="child" target="ft12f3" targOrder="U"></ref></rs>
-<rs id="ft12i11" type="INDI" n="11"><persName type="sex=m">speaker</persName><ref n="child" target="ft12f4" targOrder="U"></ref></rs>
-<rs id="ft12i12" type="INDI" n="12"><persName type="sex=f">one sister</persName><ref n="child" target="ft12f4" targOrder="U"></ref></rs>
-<rs id="ft12i13" type="INDI" n="13"><persName type="sex=m">one brother</persName><ref n="child" target="ft12f5" targOrder="U"></ref></rs>
-<rs id="ft12i14" type="INDI" n="14"><persName type="sex=f">wife of Protarchides</persName><ref n="child" target="ft12f5" targOrder="U"></ref></rs>
-<rs id="ft12i15" type="INDI" n="15"><persName type="sex=m">Menexenos II</persName><ref n="child" target="ft12f6" targOrder="U"></ref></rs>
-<rs id="ft12i16" type="INDI" n="16"><persName type="sex=f">one sister</persName><ref n="child" target="ft12f6" targOrder="U"></ref></rs>
-<rs id="ft12i17" type="INDI" n="17"><persName type="sex=m">Kephisodotos</persName><ref n="child" target="ft12f7" targOrder="U"></ref></rs>
-<rs id="ft12i18" type="INDI" n="18"><persName type="sex=m">one brother</persName><ref n="child" target="ft12f7" targOrder="U"></ref></rs>
-<rs id="ft12f1" type="FAM" n="1"><ref n="husb" target="ft12i1" targOrder="U"></ref><ref n="chil" target="ft12i2" targOrder="U"></ref><ref n="chil" target="ft12i3" targOrder="U"></ref></rs>
-<rs id="ft12f2" type="FAM" n="2"><ref n="husb" target="ft12i2" targOrder="U"></ref><ref n="chil" target="ft12i4" targOrder="U"></ref><ref n="chil" target="ft12i5" targOrder="U"></ref><ref n="chil" target="ft12i6" targOrder="U"></ref><ref n="chil" target="ft12i7" targOrder="U"></ref><ref n="chil" target="ft12i8" targOrder="U"></ref></rs>
-<rs id="ft12f3" type="FAM" n="3"><ref n="wife" target="ft12i3" targOrder="U"></ref><ref n="chil" target="ft12i9" targOrder="U"></ref><ref n="chil" target="ft12i10" targOrder="U"></ref></rs>
-<rs id="ft12f4" type="FAM" n="4"><ref n="wife" target="ft12i4" targOrder="U"></ref><ref n="chil" target="ft12i11" targOrder="U"></ref><ref n="chil" target="ft12i12" targOrder="U"></ref></rs>
-<rs id="ft12f5" type="FAM" n="5"><ref n="wife" target="ft12i5" targOrder="U"></ref><ref n="chil" target="ft12i13" targOrder="U"></ref><ref n="chil" target="ft12i14" targOrder="U"></ref></rs>
-<rs id="ft12f6" type="FAM" n="6"><ref n="wife" target="ft12i6" targOrder="U"></ref><ref n="chil" target="ft12i15" targOrder="U"></ref><ref n="chil" target="ft12i16" targOrder="U"></ref></rs>
-<rs id="ft12f7" type="FAM" n="7"><ref n="wife" target="ft12i7" targOrder="U"></ref><ref n="chil" target="ft12i17" targOrder="U"></ref><ref n="chil" target="ft12i18" targOrder="U"></ref></rs>
+<rs id="ft12i1" type="INDI" n="1"><persName type="sex=m">Dikaeogenes I</persName><ref n="spouse" target="ft12f1" targOrder="U"/></rs>
+<rs id="ft12i2" type="INDI" n="2"><persName type="sex=m">Menexenos I</persName><ref n="child" target="ft12f1" targOrder="U"/><ref n="spouse" target="ft12f2" targOrder="U"/></rs>
+<rs id="ft12i3" type="INDI" n="3"><persName type="sex=f">wife of Proxenos</persName><ref n="child" target="ft12f1" targOrder="U"/><ref n="spouse" target="ft12f3" targOrder="U"/></rs>
+<rs id="ft12i4" type="INDI" n="4"><persName type="sex=f">wife of Polyaratos</persName><ref n="child" target="ft12f2" targOrder="U"/><ref n="spouse" target="ft12f4" targOrder="U"/></rs>
+<rs id="ft12i5" type="INDI" n="5"><persName type="sex=f">wife of Democles</persName><ref n="child" target="ft12f2" targOrder="U"/><ref n="spouse" target="ft12f5" targOrder="U"/></rs>
+<rs id="ft12i6" type="INDI" n="6"><persName type="sex=f">wife of Kephisodon</persName><ref n="child" target="ft12f2" targOrder="U"/><ref n="spouse" target="ft12f6" targOrder="U"/></rs>
+<rs id="ft12i7" type="INDI" n="7"><persName type="sex=f">wife of Theoopompos</persName><ref n="child" target="ft12f2" targOrder="U"/><ref n="spouse" target="ft12f7" targOrder="U"/></rs>
+<rs id="ft12i8" type="INDI" n="8"><persName type="sex=m">Dikaeogenes II</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft12f2" targOrder="U"/></rs>
+<rs id="ft12i9" type="INDI" n="9"><persName type="sex=m">Dikaeogenes III</persName><ref n="child" target="ft12f3" targOrder="U"/></rs>
+<rs id="ft12i10" type="INDI" n="10"><persName type="sex=m">Harmodios</persName><ref n="child" target="ft12f3" targOrder="U"/></rs>
+<rs id="ft12i11" type="INDI" n="11"><persName type="sex=m">speaker</persName><ref n="child" target="ft12f4" targOrder="U"/></rs>
+<rs id="ft12i12" type="INDI" n="12"><persName type="sex=f">one sister</persName><ref n="child" target="ft12f4" targOrder="U"/></rs>
+<rs id="ft12i13" type="INDI" n="13"><persName type="sex=m">one brother</persName><ref n="child" target="ft12f5" targOrder="U"/></rs>
+<rs id="ft12i14" type="INDI" n="14"><persName type="sex=f">wife of Protarchides</persName><ref n="child" target="ft12f5" targOrder="U"/></rs>
+<rs id="ft12i15" type="INDI" n="15"><persName type="sex=m">Menexenos II</persName><ref n="child" target="ft12f6" targOrder="U"/></rs>
+<rs id="ft12i16" type="INDI" n="16"><persName type="sex=f">one sister</persName><ref n="child" target="ft12f6" targOrder="U"/></rs>
+<rs id="ft12i17" type="INDI" n="17"><persName type="sex=m">Kephisodotos</persName><ref n="child" target="ft12f7" targOrder="U"/></rs>
+<rs id="ft12i18" type="INDI" n="18"><persName type="sex=m">one brother</persName><ref n="child" target="ft12f7" targOrder="U"/></rs>
+<rs id="ft12f1" type="FAM" n="1"><ref n="husb" target="ft12i1" targOrder="U"/><ref n="chil" target="ft12i2" targOrder="U"/><ref n="chil" target="ft12i3" targOrder="U"/></rs>
+<rs id="ft12f2" type="FAM" n="2"><ref n="husb" target="ft12i2" targOrder="U"/><ref n="chil" target="ft12i4" targOrder="U"/><ref n="chil" target="ft12i5" targOrder="U"/><ref n="chil" target="ft12i6" targOrder="U"/><ref n="chil" target="ft12i7" targOrder="U"/><ref n="chil" target="ft12i8" targOrder="U"/></rs>
+<rs id="ft12f3" type="FAM" n="3"><ref n="wife" target="ft12i3" targOrder="U"/><ref n="chil" target="ft12i9" targOrder="U"/><ref n="chil" target="ft12i10" targOrder="U"/></rs>
+<rs id="ft12f4" type="FAM" n="4"><ref n="wife" target="ft12i4" targOrder="U"/><ref n="chil" target="ft12i11" targOrder="U"/><ref n="chil" target="ft12i12" targOrder="U"/></rs>
+<rs id="ft12f5" type="FAM" n="5"><ref n="wife" target="ft12i5" targOrder="U"/><ref n="chil" target="ft12i13" targOrder="U"/><ref n="chil" target="ft12i14" targOrder="U"/></rs>
+<rs id="ft12f6" type="FAM" n="6"><ref n="wife" target="ft12i6" targOrder="U"/><ref n="chil" target="ft12i15" targOrder="U"/><ref n="chil" target="ft12i16" targOrder="U"/></rs>
+<rs id="ft12f7" type="FAM" n="7"><ref n="wife" target="ft12i7" targOrder="U"/><ref n="chil" target="ft12i17" targOrder="U"/><ref n="chil" target="ft12i18" targOrder="U"/></rs>
 </figDesc>
 </figure>
 <note anchored="yes" place="inline">In &sect; 26, according to the vulgate, Dikaeogenes III. betroths to Protarchides <foreign lang="greek">th\n a)delfh\n th\n e(autou=</foreign>. The context favours the emendation of H. Weissenborn, adopted by Scheibe, <foreign lang="greek">th\n a)delfidh=n th\n e(autou=</foreign>: but this cannot have been the speaker's sister.&mdash;Reiske proposed <foreign lang="greek">th\n a)delfh\n th\n e\mautou=</foreign>: Schomann, <foreign lang="greek">th\n a)delfh\n th\n tou/tou</foreign> (Kephisodotos) or <foreign lang="greek">th\n tou=</foreign>&mdash;, supposing the brother's name lost.&mdash;For a complete table of the House of Menexenos I. see Sch&auml;fer, <title>Demosthenes und seine Zeit</title>, III, Part 2, p. 212.</note>
@@ -3883,47 +3882,47 @@ omitting, no doubt by an oversight, the <foreign lang="greek">peri\ tou= zeu/gou
 <p>
 <figure id="ft13" rend="familytree">
 <figDesc>
-<rs id="ft13i1" type="INDI" n="1"><persName type="sex=m">Buselos</persName><ref n="spouse" target="ft13f1" targOrder="U"></ref></rs>
-<rs id="ft13i2" type="INDI" n="2"><persName type="sex=m">Hagnias</persName><ref n="child" target="ft13f1" targOrder="U"></ref><ref n="spouse" target="ft13f2" targOrder="U"></ref></rs>
-<rs id="ft13i3" type="INDI" n="3"><persName type="sex=m">Eubulides I</persName><ref n="child" target="ft13f1" targOrder="U"></ref><ref n="spouse" target="ft13f5" targOrder="U"></ref></rs>
-<rs id="ft13i4" type="INDI" n="4"><persName type="sex=m">Stratios I</persName><ref n="child" target="ft13f1" targOrder="U"></ref><ref n="spouse" target="ft13f7" targOrder="U"></ref></rs>
-<rs id="ft13i5" type="INDI" n="5"><persName type="sex=m">Habron</persName><ref n="child" target="ft13f1" targOrder="U"></ref></rs>
-<rs id="ft13i6" type="INDI" n="6"><persName type="sex=m">Kleokritos</persName><ref n="child" target="ft13f1" targOrder="U"></ref></rs>
-<rs id="ft13i7" type="INDI" n="7"><persName type="sex=m">Polemon</persName><ref n="child" target="ft13f2" targOrder="U"></ref><ref n="spouse" target="ft13f3" targOrder="U"></ref></rs>
-<rs id="ft13i8" type="INDI" n="8"><persName type="sex=f">Phylomache I</persName><ref n="child" target="ft13f2" targOrder="U"></ref><ref n="spouse" target="ft13f6" targOrder="U"></ref></rs>
-<rs id="ft13i9" type="INDI" n="9"><persName type="sex=f">sister of Stratios II</persName><ref n="spouse" target="ft13f3" targOrder="U"></ref><ref n="spouse" target="ft13f4" targOrder="U"></ref><ref n="child" target="ft13f10" targOrder="U"></ref></rs>
-<rs id="ft13i10" type="INDI" n="10"><persName type="sex=m">second husband</persName><ref n="spouse" target="ft13f4" targOrder="U"></ref></rs>
-<rs id="ft13i11" type="INDI" n="11"><persName type="sex=m">Philagros</persName><ref n="child" target="ft13f5" targOrder="U"></ref><ref n="spouse" target="ft13f6" targOrder="U"></ref></rs>
-<rs id="ft13i12" type="INDI" n="12"><persName type="sex=m">Phanostratos</persName><ref n="child" target="ft13f7" targOrder="U"></ref><ref n="spouse" target="ft13f10" targOrder="U"></ref></rs>
-<rs id="ft13i13" type="INDI" n="13"><persName type="sex=m">Charidemos</persName><ref n="child" target="ft13f7" targOrder="U"></ref><ref n="spouse" target="ft13f12" targOrder="U"></ref></rs>
-<rs id="ft13i14" type="INDI" n="14"><persName type="sex=f">one sister, married with a daughter</persName><ref n="child" target="ft13f3" targOrder="U"></ref></rs>
-<rs id="ft13i15" type="INDI" n="15"><persName type="sex=m">Hagnias</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft13f3" targOrder="U"></ref></rs>
-<rs id="ft13i16" type="INDI" n="16"><persName type="sex=m">Glaukon</persName><ref n="child" target="ft13f4" targOrder="U"></ref></rs>
-<rs id="ft13i17" type="INDI" n="17"><persName type="sex=m">Glaukos</persName><ref n="child" target="ft13f4" targOrder="U"></ref></rs>
-<rs id="ft13i18" type="INDI" n="18"><persName type="sex=m">Eubulides II</persName><ref n="child" target="ft13f6" targOrder="U"></ref><ref n="spouse" target="ft13i8" targOrder="U"></ref></rs>
-<rs id="ft13i19" type="INDI" n="19"><persName type="sex=f">Phylomache II</persName><note anchored="yes" place="inline">wife of Sositheos</note><ref n="child" target="ft13i8" targOrder="U"></ref><ref n="spouse" target="ft13f9" targOrder="U"></ref></rs>
-<rs id="ft13i20" type="INDI" n="20"><persName type="sex=m">Eubulides III</persName><ref n="child" target="ft13f9" targOrder="U"></ref></rs>
-<rs id="ft13i21" type="INDI" n="21"><persName type="sex=m">Stratios II</persName><ref n="child" target="ft13f10" targOrder="U"></ref><ref n="spouse" target="ft13f11" targOrder="U"></ref></rs>
-<rs id="ft13i22" type="INDI" n="22"><persName type="sex=m">two sons</persName><ref n="child" target="ft13f11" targOrder="U"></ref></rs>
-<rs id="ft13i23" type="INDI" n="23"><persName type="sex=m">Stratokles</persName><ref n="child" target="ft13f12" targOrder="U"></ref><ref n="spouse" target="ft13f13" targOrder="U"></ref></rs>
-<rs id="ft13i24" type="INDI" n="24"><persName type="sex=m">Theopompus</persName><note anchored="yes" place="inline">speaker and defendant</note><ref n="child" target="ft13f12" targOrder="U"></ref><ref n="spouse" target="ft13f14" targOrder="U"></ref></rs>
-<rs id="ft13i25" type="INDI" n="25"><persName type="sex=m">prosecutor</persName><ref n="child" target="ft13f13" targOrder="U"></ref></rs>
-<rs id="ft13i26" type="INDI" n="26"><persName type="sex=f">four sisters</persName><ref n="child" target="ft13f13" targOrder="U"></ref></rs>
-<rs id="ft13i27" type="INDI" n="27"><persName type="sex=m">Makartatos</persName><ref n="child" target="ft13f14" targOrder="U"></ref></rs>
-<rs id="ft13f1" type="FAM" n="1"><ref n="husb" target="ft13i1" targOrder="U"></ref><ref n="chil" target="ft13i2" targOrder="U"></ref><ref n="chil" target="ft13i3" targOrder="U"></ref><ref n="chil" target="ft13i4" targOrder="U"></ref><ref n="chil" target="ft13i5" targOrder="U"></ref><ref n="chil" target="ft13i6" targOrder="U"></ref></rs>
-<rs id="ft13f2" type="FAM" n="2"><ref n="husb" target="ft13i2" targOrder="U"></ref><ref n="chil" target="ft13i7" targOrder="U"></ref><ref n="chil" target="ft13i9" targOrder="U"></ref></rs>
-<rs id="ft13f3" type="FAM" n="3"><ref n="husb" target="ft13i7" targOrder="U"></ref><ref n="wife" target="ft13i9" targOrder="U"></ref><ref n="chil" target="ft13i14" targOrder="U"></ref><ref n="chil" target="ft13i15" targOrder="U"></ref></rs>
-<rs id="ft13f4" type="FAM" n="4"><ref n="wife" target="ft13i9" targOrder="U"></ref><ref n="husb" target="ft13i10" targOrder="U"></ref><ref n="chil" target="ft13i16" targOrder="U"></ref><ref n="chil" target="ft13i17" targOrder="U"></ref></rs>
-<rs id="ft13f5" type="FAM" n="5"><ref n="husb" target="ft13i3" targOrder="U"></ref><ref n="chil" target="ft13i11" targOrder="U"></ref></rs>
-<rs id="ft13f6" type="FAM" n="6"><ref n="husb" target="ft13i11" targOrder="U"></ref><ref n="wife" target="ft13i8" targOrder="U"></ref><ref n="chil" target="ft13i18" targOrder="U"></ref></rs>
-<rs id="ft13f7" type="FAM" n="7"><ref n="husb" target="ft13i4" targOrder="U"></ref><ref n="chil" target="ft13i12" targOrder="U"></ref><ref n="chil" target="ft13i13" targOrder="U"></ref></rs>
-<rs id="ft13f8" type="FAM" n="8"><ref n="husb" target="ft13i18" targOrder="U"></ref><ref n="chil" target="ft13i19" targOrder="U"></ref></rs>
-<rs id="ft13f9" type="FAM" n="9"><ref n="wife" target="ft13i19" targOrder="U"></ref><ref n="chil" target="ft13i20" targOrder="U"></ref></rs>
-<rs id="ft13f10" type="FAM" n="10"><ref n="husb" target="ft13i12" targOrder="U"></ref><ref n="chil" target="ft13i9" targOrder="U"></ref><ref n="chil" target="ft13i21" targOrder="U"></ref></rs>
-<rs id="ft13f11" type="FAM" n="11"><ref n="husb" target="ft13i21" targOrder="U"></ref><ref n="chil" target="ft13i22" targOrder="U"></ref></rs>
-<rs id="ft13f12" type="FAM" n="12"><ref n="husb" target="ft13i13" targOrder="U"></ref><ref n="chil" target="ft13i23" targOrder="U"></ref><ref n="chil" target="ft13i24" targOrder="U"></ref></rs>
-<rs id="ft13f13" type="FAM" n="13"><ref n="husb" target="ft13i23" targOrder="U"></ref><ref n="chil" target="ft13i25" targOrder="U"></ref><ref n="chil" target="ft13i26" targOrder="U"></ref></rs>
-<rs id="ft13f14" type="FAM" n="14"><ref n="husb" target="ft13i24" targOrder="U"></ref><ref n="chil" target="ft13i27" targOrder="U"></ref></rs>
+<rs id="ft13i1" type="INDI" n="1"><persName type="sex=m">Buselos</persName><ref n="spouse" target="ft13f1" targOrder="U"/></rs>
+<rs id="ft13i2" type="INDI" n="2"><persName type="sex=m">Hagnias</persName><ref n="child" target="ft13f1" targOrder="U"/><ref n="spouse" target="ft13f2" targOrder="U"/></rs>
+<rs id="ft13i3" type="INDI" n="3"><persName type="sex=m">Eubulides I</persName><ref n="child" target="ft13f1" targOrder="U"/><ref n="spouse" target="ft13f5" targOrder="U"/></rs>
+<rs id="ft13i4" type="INDI" n="4"><persName type="sex=m">Stratios I</persName><ref n="child" target="ft13f1" targOrder="U"/><ref n="spouse" target="ft13f7" targOrder="U"/></rs>
+<rs id="ft13i5" type="INDI" n="5"><persName type="sex=m">Habron</persName><ref n="child" target="ft13f1" targOrder="U"/></rs>
+<rs id="ft13i6" type="INDI" n="6"><persName type="sex=m">Kleokritos</persName><ref n="child" target="ft13f1" targOrder="U"/></rs>
+<rs id="ft13i7" type="INDI" n="7"><persName type="sex=m">Polemon</persName><ref n="child" target="ft13f2" targOrder="U"/><ref n="spouse" target="ft13f3" targOrder="U"/></rs>
+<rs id="ft13i8" type="INDI" n="8"><persName type="sex=f">Phylomache I</persName><ref n="child" target="ft13f2" targOrder="U"/><ref n="spouse" target="ft13f6" targOrder="U"/></rs>
+<rs id="ft13i9" type="INDI" n="9"><persName type="sex=f">sister of Stratios II</persName><ref n="spouse" target="ft13f3" targOrder="U"/><ref n="spouse" target="ft13f4" targOrder="U"/><ref n="child" target="ft13f10" targOrder="U"/></rs>
+<rs id="ft13i10" type="INDI" n="10"><persName type="sex=m">second husband</persName><ref n="spouse" target="ft13f4" targOrder="U"/></rs>
+<rs id="ft13i11" type="INDI" n="11"><persName type="sex=m">Philagros</persName><ref n="child" target="ft13f5" targOrder="U"/><ref n="spouse" target="ft13f6" targOrder="U"/></rs>
+<rs id="ft13i12" type="INDI" n="12"><persName type="sex=m">Phanostratos</persName><ref n="child" target="ft13f7" targOrder="U"/><ref n="spouse" target="ft13f10" targOrder="U"/></rs>
+<rs id="ft13i13" type="INDI" n="13"><persName type="sex=m">Charidemos</persName><ref n="child" target="ft13f7" targOrder="U"/><ref n="spouse" target="ft13f12" targOrder="U"/></rs>
+<rs id="ft13i14" type="INDI" n="14"><persName type="sex=f">one sister, married with a daughter</persName><ref n="child" target="ft13f3" targOrder="U"/></rs>
+<rs id="ft13i15" type="INDI" n="15"><persName type="sex=m">Hagnias</persName><note anchored="yes" place="inline">testator</note><ref n="child" target="ft13f3" targOrder="U"/></rs>
+<rs id="ft13i16" type="INDI" n="16"><persName type="sex=m">Glaukon</persName><ref n="child" target="ft13f4" targOrder="U"/></rs>
+<rs id="ft13i17" type="INDI" n="17"><persName type="sex=m">Glaukos</persName><ref n="child" target="ft13f4" targOrder="U"/></rs>
+<rs id="ft13i18" type="INDI" n="18"><persName type="sex=m">Eubulides II</persName><ref n="child" target="ft13f6" targOrder="U"/><ref n="spouse" target="ft13i8" targOrder="U"/></rs>
+<rs id="ft13i19" type="INDI" n="19"><persName type="sex=f">Phylomache II</persName><note anchored="yes" place="inline">wife of Sositheos</note><ref n="child" target="ft13i8" targOrder="U"/><ref n="spouse" target="ft13f9" targOrder="U"/></rs>
+<rs id="ft13i20" type="INDI" n="20"><persName type="sex=m">Eubulides III</persName><ref n="child" target="ft13f9" targOrder="U"/></rs>
+<rs id="ft13i21" type="INDI" n="21"><persName type="sex=m">Stratios II</persName><ref n="child" target="ft13f10" targOrder="U"/><ref n="spouse" target="ft13f11" targOrder="U"/></rs>
+<rs id="ft13i22" type="INDI" n="22"><persName type="sex=m">two sons</persName><ref n="child" target="ft13f11" targOrder="U"/></rs>
+<rs id="ft13i23" type="INDI" n="23"><persName type="sex=m">Stratokles</persName><ref n="child" target="ft13f12" targOrder="U"/><ref n="spouse" target="ft13f13" targOrder="U"/></rs>
+<rs id="ft13i24" type="INDI" n="24"><persName type="sex=m">Theopompus</persName><note anchored="yes" place="inline">speaker and defendant</note><ref n="child" target="ft13f12" targOrder="U"/><ref n="spouse" target="ft13f14" targOrder="U"/></rs>
+<rs id="ft13i25" type="INDI" n="25"><persName type="sex=m">prosecutor</persName><ref n="child" target="ft13f13" targOrder="U"/></rs>
+<rs id="ft13i26" type="INDI" n="26"><persName type="sex=f">four sisters</persName><ref n="child" target="ft13f13" targOrder="U"/></rs>
+<rs id="ft13i27" type="INDI" n="27"><persName type="sex=m">Makartatos</persName><ref n="child" target="ft13f14" targOrder="U"/></rs>
+<rs id="ft13f1" type="FAM" n="1"><ref n="husb" target="ft13i1" targOrder="U"/><ref n="chil" target="ft13i2" targOrder="U"/><ref n="chil" target="ft13i3" targOrder="U"/><ref n="chil" target="ft13i4" targOrder="U"/><ref n="chil" target="ft13i5" targOrder="U"/><ref n="chil" target="ft13i6" targOrder="U"/></rs>
+<rs id="ft13f2" type="FAM" n="2"><ref n="husb" target="ft13i2" targOrder="U"/><ref n="chil" target="ft13i7" targOrder="U"/><ref n="chil" target="ft13i9" targOrder="U"/></rs>
+<rs id="ft13f3" type="FAM" n="3"><ref n="husb" target="ft13i7" targOrder="U"/><ref n="wife" target="ft13i9" targOrder="U"/><ref n="chil" target="ft13i14" targOrder="U"/><ref n="chil" target="ft13i15" targOrder="U"/></rs>
+<rs id="ft13f4" type="FAM" n="4"><ref n="wife" target="ft13i9" targOrder="U"/><ref n="husb" target="ft13i10" targOrder="U"/><ref n="chil" target="ft13i16" targOrder="U"/><ref n="chil" target="ft13i17" targOrder="U"/></rs>
+<rs id="ft13f5" type="FAM" n="5"><ref n="husb" target="ft13i3" targOrder="U"/><ref n="chil" target="ft13i11" targOrder="U"/></rs>
+<rs id="ft13f6" type="FAM" n="6"><ref n="husb" target="ft13i11" targOrder="U"/><ref n="wife" target="ft13i8" targOrder="U"/><ref n="chil" target="ft13i18" targOrder="U"/></rs>
+<rs id="ft13f7" type="FAM" n="7"><ref n="husb" target="ft13i4" targOrder="U"/><ref n="chil" target="ft13i12" targOrder="U"/><ref n="chil" target="ft13i13" targOrder="U"/></rs>
+<rs id="ft13f8" type="FAM" n="8"><ref n="husb" target="ft13i18" targOrder="U"/><ref n="chil" target="ft13i19" targOrder="U"/></rs>
+<rs id="ft13f9" type="FAM" n="9"><ref n="wife" target="ft13i19" targOrder="U"/><ref n="chil" target="ft13i20" targOrder="U"/></rs>
+<rs id="ft13f10" type="FAM" n="10"><ref n="husb" target="ft13i12" targOrder="U"/><ref n="chil" target="ft13i9" targOrder="U"/><ref n="chil" target="ft13i21" targOrder="U"/></rs>
+<rs id="ft13f11" type="FAM" n="11"><ref n="husb" target="ft13i21" targOrder="U"/><ref n="chil" target="ft13i22" targOrder="U"/></rs>
+<rs id="ft13f12" type="FAM" n="12"><ref n="husb" target="ft13i13" targOrder="U"/><ref n="chil" target="ft13i23" targOrder="U"/><ref n="chil" target="ft13i24" targOrder="U"/></rs>
+<rs id="ft13f13" type="FAM" n="13"><ref n="husb" target="ft13i23" targOrder="U"/><ref n="chil" target="ft13i25" targOrder="U"/><ref n="chil" target="ft13i26" targOrder="U"/></rs>
+<rs id="ft13f14" type="FAM" n="14"><ref n="husb" target="ft13i24" targOrder="U"/><ref n="chil" target="ft13i27" targOrder="U"/></rs>
 </figDesc>
 </figure>
 <pb n="356"/></p>

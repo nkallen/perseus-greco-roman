@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">Th. Schiche</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -53,7 +52,7 @@ fasc. 43</title>
 <change><date>2009/08/21</date><respStmt><name>grc</name><resp>encoding</resp></respStmt>
 <item>
 C. 70 instances where the app crit contains abbreviations and graphic oddities trying to capture what is in the MSS. Not easily represented and not worth adding at this stage. These are for the most part just listed as <gap reason="typography"/>.</item></change>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.fin_lat.xml,v $
@@ -1027,7 +1026,7 @@ dolorem, idque instituit docere sic:
 <milestone unit="section" n="30"/>omne animal, simul atque natum sit, voluptatem appetere eaque gaudere ut summo bono, dolorem aspernari ut summum
 malum et, quantum possit, a se repellere, idque facere
 nondum depravatum ipsa natura incorrupte atque integre iudicante. itaque negat opus esse ratione neque
-disputatione, quam ob rem voluptas expetenda, fugiendus dolor sit. sentiri haec<note>haec] &#x0127; BE hoc NV</note> putat, ut calere ignem, nivem esse albam, dulce mel.<note>dulce esse mel R mel dulce A</note> quorum nihil oportere<note>oportere V oporteret</note> exquisitis rationibus confirmare, tantum<note>tantum <hi rend="italics">om.</hi> BE</note> satis esse<note>esse satis A</note> admonere. interesse enim inter<note>inter <hi rend="italics">om.</hi> BE</note> argumentum<note>argumentumque BE argumentatum R
+disputatione, quam ob rem voluptas expetenda, fugiendus dolor sit. sentiri haec<note>haec] ħ BE hoc NV</note> putat, ut calere ignem, nivem esse albam, dulce mel.<note>dulce esse mel R mel dulce A</note> quorum nihil oportere<note>oportere V oporteret</note> exquisitis rationibus confirmare, tantum<note>tantum <hi rend="italics">om.</hi> BE</note> satis esse<note>esse satis A</note> admonere. interesse enim inter<note>inter <hi rend="italics">om.</hi> BE</note> argumentum<note>argumentumque BE argumentatum R
 augmentatum A</note> conclusionemque rationis et inter mediocrem animadversionem atque
 admonitionem. altera occulta quaedam et quasi involuta aperiri, altera prompta<note>promta AR</note> et aperta iudicari.<note>indicari NV</note> etenim
 quoniam detractis de homine sensibus reliqui nihil est, <pb id="p.14"/>
@@ -3147,7 +3146,7 @@ aut legis, cum omnium factorum, cum regionum conquiris historiam, signum, tabula
 venatio, villa Luculli<note>Luculli <hi rend="italics">dett.</hi> lucilli</note>&mdash;nam si <quote>tuam</quote> dicerem, latebram haberes; ad corpus diceres pertinere&mdash;, sed ea,
 quae dixi, ad corpusne refers? an est aliquid, quod te
 sua sponte delectet? aut pertinacissimus fueris, si in
-eo<note>in eo ARNV <hi rend="italics">om.</hi> BE</note> perstiteris ad corpus ea, quae dixi, referri,<note>referri Lamb.<hi rend="italics"></hi> referre</note> aut deserueris totam Epicuri voluptatem, si negaveris.
+eo<note>in eo ARNV <hi rend="italics">om.</hi> BE</note> perstiteris ad corpus ea, quae dixi, referri,<note>referri Lamb.<hi rend="italics"/> referre</note> aut deserueris totam Epicuri voluptatem, si negaveris.
 </p>
 
 <p>Quod vero a te disputatum est<note>disputatum est] <hi rend="italics">p. 24, 22</hi>

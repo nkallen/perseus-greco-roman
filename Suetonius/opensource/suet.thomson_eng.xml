@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -88,7 +87,7 @@ In order to more fully "paint the picture of the times," we have had written and
 </closer></div2></div1>
 
 <div1 type="life" n="jul.">
-<head><rs key="Julius Caesar">Julius Caesar</rs><rs key="Forum of Caesar"></rs><rs key="Temple of Julius Caesar"></rs></head>
+<head><rs key="Julius Caesar">Julius Caesar</rs><rs key="Forum of Caesar"/><rs key="Temple of Julius Caesar"/></head>
 <div2 type="chapter" n="1">
 <p>JULIUS CAESAR, the divine,
 <note anchored="yes">
@@ -1010,7 +1009,7 @@ Upon the whole, he added nothing to his own happiness by all the dangers, the fa
 His health was greatly impaired: his former cheerfulness of temper, though not his magnanimity, appears to have forsaken him; and we behold in his fate a memorable example of illustrious talents rendered, by inordinate ambition, destructive to himself, and irretrievably pernicious to his country.
 </p></div2></div1>
 <div1 type="life" n="aug.">
-<head><rs key="Augustus">Augustus</rs><rs key="Forum of Augustus"></rs><rs key="Mausoleum of Augustus"></rs><rs key="Ara Pacis Augustae"></rs></head>
+<head><rs key="Augustus">Augustus</rs><rs key="Forum of Augustus"/><rs key="Mausoleum of Augustus"/><rs key="Ara Pacis Augustae"/></head>
 <div2 type="chapter" n="1">
 <p>THAT the family of the Octavii was of the first distinction in <placeName key="perseus,Velitrae">Velitrae</placeName>,<note anchored="yes">A town in the ancient Volscian territory, now called Veletri. It
 stands on the verge of the <placeName key="tgn,7009077">Pontine Marshes</placeName>, on the road to <placeName key="tgn,7004474">Naples</placeName>.</note>
@@ -4812,7 +4811,7 @@ Besides history, Suetonius informs us that he wrote a Defence of Cicero against 
 This appears to be the only tribute of esteem or approbation paid to the character of Cicero, from the time of Livy the historian, to the extinction of the race of the Caesars.
 </p></div2></div1>
 <div1 type="life" n="nero">
-<head><rs key="Nero"><placeName key="tgn,2538429">Nero</placeName></rs><rs key="Nero&apos;s Golden House"></rs></head>
+<head><rs key="Nero"><placeName key="tgn,2538429">Nero</placeName></rs><rs key="Nero's Golden House"/></head>
 <div2 type="chapter" n="1">
 <p>Two celebrated families, the Calvini and Aenobarbi, sprung from the race of the Domitii.
 The AEnobarbi derive both their extraction and their cognomen from one Lucius Domitius, of whom we have this tradition: -- As he was returning out of the country to <placeName key="tgn,7013962">Rome</placeName>, he was met by two young men of a most august appearance, who desired him to announce to the senate and people a victory, of which no certain intelligence had yet reached the city.
@@ -5611,7 +5610,7 @@ Repeated experience now clearly refuted the opinion of Augustus, that he had int
 The manners of the people were become too dissolute to be restrained by the authority of elective and temporary magistrates; and the Romans were hastening to that fatal period when general and great corruption, with its attendant debility, would render them an easy prey to any foreign invaders.
 </p></div2></div1>
 <div1 type="life" n="gal.">
-<head><rs key="Galba">Galba</rs><rs key="Horrea Galbae"></rs></head>
+<head><rs key="Galba">Galba</rs><rs key="Horrea Galbae"/></head>
 <div2 type="chapter" n="1">
 <p>THE race of the Caesars became extinct in <placeName key="tgn,2538428">Nero</placeName>; an event prognosticated by various signs, two of which were particularly significant.
 Formerly, when <placeName key="tgn,2039991">Livia</placeName>, after her marriage with Augustus, was making a visit to her villa at <placeName key="tgn,7009104">Veii</placeName>,
@@ -6180,7 +6179,7 @@ In the service of the four preceding emperors, Vitelliis had imbibed the princip
 The pusillanimity discovered by this emperor at his death forms a striking contrast to the heroic behaviour of Otho.
 </p></div2></div1>
 <div1 type="life" n="ves.">
-<head><rs key="Vespasian">Vespasian</rs><rs key="Aedes Divi Vespasiani"></rs><rs key="Temple of Vespasian"></rs></head>
+<head><rs key="Vespasian">Vespasian</rs><rs key="Aedes Divi Vespasiani"/><rs key="Temple of Vespasian"/></head>
 <div2 type="chapter" n="1">
 <p>THE empire, which had been long thrown into a disturbed and unsettled state, by the rebellion and violent death of its three last rulers, was at length restored to peace and security by the Flavian family, whose descent was indeed obscure, and which boasted no ancestral honours; but the public had no cause to regret its elevation; though it is acknowledged that Domitian met with the just reward of his avarice and cruelty.
 Titus Flavius Petro, a townsman of <placeName key="perseus,Reate">Reate</placeName>,<note anchored="yes"><placeName key="perseus,Reate">Reate</placeName>, the original seat of the Flavian family, was a city of the Sabines.
@@ -6717,7 +6716,7 @@ A writer mentioned frequently by Pliny, and who lived in this reign, was Liciniu
 Juvenal, who had begun his Satires several years before, continued to inveigh against the flagrant vices of the times; but the only author whose writings we have to notice in the present reign, is a poet of a different class.
 </p></div2></div1>
 <div1 type="life" n="tit.">
-<head><rs key="Titus">Titus</rs><rs key="Arch of Titus"></rs></head>
+<head><rs key="Titus">Titus</rs><rs key="Arch of Titus"/></head>
 <div2 type="chapter" n="1">
 <p>TITUS, who had the same cognomen with his father, was the darling and the delight of mankind; so much did the natural genius, address, or good fortune he possessed tend to conciliate the favour of all.
 This was, indeed, extremely difficult, after he became emperor, as before that time, and even during the reign of his father, he lay under public odium  and censure.
@@ -6895,7 +6894,7 @@ The burning ashes were covered not only over the neighbouring country, but as fa
 Amongst those to whom  this dreadful eruption proved fatal, was Pliny, the celebrated naturalist, whose curiosity to examine the phenomenon led him so far within the verge of danger, that he could not afterwards escape.
 </p></div2></div1>
 <div1 type="life" n="dom.">
-<head><rs key="Domitian">Domitian</rs><rs key="Domitianic Hall"></rs><rs key="Palace of Domitian"></rs><rs key="Stadium of Domitian"></rs></head>
+<head><rs key="Domitian">Domitian</rs><rs key="Domitianic Hall"/><rs key="Palace of Domitian"/><rs key="Stadium of Domitian"/></head>
 <div2 type="chapter" n="1">
 <p>DOMITIAN was born upon the ninth of the calends of November<note anchored="yes">A. U. C. 804.</note>
 [24th October], when his father was consul elect (being to enter upon his office the month following), in the sixth region of the city, at the Pomegranate,<note anchored="yes">A street. in the sixth region of Rome, so called, probably, from a remarkable specimen of this beautiful shrub which had made free growth on the spot.</note>
@@ -7736,7 +7735,7 @@ He was one of the greatest masters of rhetoric that ever lived.
 His orations were the result of consummate art, combined with unwearied industry, and survive as memorials of a time when eloquence, far more than at present, was a power which bent the verdicts of judicial tribunals and influenced the decrees of the state.
 </p></div2></div1>
 <div1 type="life" n="hortensius">
-<head><rs key="Hortensius">Q. Hortensius Hortalus</rs><rs key="Horrea of Hortensius"></rs></head>
+<head><rs key="Hortensius">Q. Hortensius Hortalus</rs><rs key="Horrea of Hortensius"/></head>
 <div2 type="chapter" n="1">
 <p>QUINTUS HORTENSIUS, one of the most distinguished of the Roman orators, was born <date value="-114">B.C. 114</date> of an equestrian Roman family.
 He began to plead at a very early age, and had already attained a great reputation in his profession when Cicero made his appearance in the forum.
@@ -8026,7 +8025,7 @@ Ovid certainly speaks of it in the highest terms; but Quintilian mentions him ra
 The nature of his subject, and the little taste which the Romans in general manifested for speculations like those of Lucretius, may perhaps account for his poetry being estimated below its real merits.
 </p></div2></div1>
 <div1 type="life" n="agrippa">
-<head><rs key="Agrippa">M. Vipsanius Agrippa</rs><rs key="Athens, Agrippa Monument"></rs><rs key="Baths of Agrippa"></rs></head>
+<head><rs key="Agrippa">M. Vipsanius Agrippa</rs><rs key="Athens, Agrippa Monument"/><rs key="Baths of Agrippa"/></head>
 <div2 type="chapter" n="1">
 <p>M. VIPSANIUS AGRIPPA was born <date value="-63">B. C. 63</date>. He was the son of Lucius, and was descended from a very obscure family.
 At the age of twenty he studied at Apollonia in Illyria, together with young Octavius, afterwards Octavianus and Augustus.
@@ -8945,7 +8944,7 @@ the vulgar he had the reputation of a conjurer, a necromancer, a worker
 of miracles; it is the fate of a great name to be embalmed in fable.
 </p></div2></div1>
 <div1 type="life" n="horace">
-<head><rs key="Horace">Q. Horatius Flaccus</rs><rs key="Horace&apos;s Villa"></rs></head>
+<head><rs key="Horace">Q. Horatius Flaccus</rs><rs key="Horace's Villa"/></head>
 <div2 type="chapter" n="1">
 <p>HORACE was born at Venusia, on the tenth of December, in the consulship of L. Cotta and L. Torquatus (<date value="-65">B. C. 65</date>). According to his own
 acknowledgment, his father was a freedman; by some it is said that he

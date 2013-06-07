@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -1144,7 +1143,7 @@
 				<milestone unit="section" n="14"/> He then gave the signal to pack baggage, and the soldiers carrying and driving their booty returned with sport and mirth so gaily to Beneventum that they
 				<milestone unit="section" n="15??"/> seemed to be returning from a feast on a day of general festivity, not from a battle.
 				<milestone unit="section" n="16"/> All the people of Beneventum, having come out <hi rend="italics">en masse</hi> to the gates to meet them, embraced the soldiers, congratulated them, invited them into their houses.
-				<milestone unit="section" n="17"/> Feasts had been made ready by all in the atria<note>Thus the good things could be seen through the open door, as in XXV.<hi rend="italics"></hi>xii. 15: <hi rend="italics">apertis ianuis in propatulo epulati sunt.</hi></note> of <pb id="p.227"/>their houses. To these they invited the soldiers and<note type="margin">B.C. 214</note> implored Gracchus to allow the soldiers to feast. And Gracchus did permit them, provided they all feasted in the open, each before the door of his house.
+				<milestone unit="section" n="17"/> Feasts had been made ready by all in the atria<note>Thus the good things could be seen through the open door, as in XXV.<hi rend="italics"/>xii. 15: <hi rend="italics">apertis ianuis in propatulo epulati sunt.</hi></note> of <pb id="p.227"/>their houses. To these they invited the soldiers and<note type="margin">B.C. 214</note> implored Gracchus to allow the soldiers to feast. And Gracchus did permit them, provided they all feasted in the open, each before the door of his house.
 				<milestone unit="section" n="18"/> Everything was brought out. Wearing caps<note>The <hi rend="italics">pilleus</hi> was evidence of freedom, as was the <hi rend="italics">lana alba.</hi></note> or white woollen headbands the volunteers feasted, some reclining, and some standing served and ate at the same time.
 				<milestone unit="section" n="19"/> This seemed to deserve the order Gracchus gave on his return to Rome for a representation of that day of festivity to be painted in the Temple of Liberty which his father, with money yielded by fines, caused to be built on the Aventine and dedicated.<note>The closing words are possibly copied from an inscription on the temple. The father was consul in <date value="-238">238 B.C.</date></note></p> 
 			<p>
@@ -1762,7 +1761,7 @@
 				<milestone unit="section" n="5"/> He would in due time inform them what he wished to have done. About the same hour a rumour had preceded him to Tarentum that a- few Numidian horsemen were ravaging the farms and had inspired widespread alarm among the rustics.
 				<milestone unit="section" n="6"/> On receiving this news the Roman commandant was only so far aroused- as -to command part of the cavalry to go out the next day at dawn, in order to prevent depredations of the enemy.
 				<milestone unit="section" n="7"/> For the rest his attention was so little aroused that <pb id="p.373"/>on the contrary the raid of the Numidians was to<note type="margin">B.C. 212</note> him a proof that Hannibal and the army had not stirred from their camp.</p> 
-			<p>Hannibal broke camp early in the night.<note><hi rend="italics">I.e.</hi> at the time of the first sound sleep, not yet <hi rend="italics">intempesta</hi> <hi rend="italics">nocte</hi> (toward midnight); Cicero <hi rend="italics">de Div.</hi> I. 57;<hi rend="italics"></hi>Macrobius I. iii. 15.</note>
+			<p>Hannibal broke camp early in the night.<note><hi rend="italics">I.e.</hi> at the time of the first sound sleep, not yet <hi rend="italics">intempesta</hi> <hi rend="italics">nocte</hi> (toward midnight); Cicero <hi rend="italics">de Div.</hi> I. 57;<hi rend="italics"/>Macrobius I. iii. 15.</note>
 				<milestone unit="section" n="8"/> His guide was Philemenus with his usual load of game. The rest of the traitors were waiting for acts previously arranged.
 				<milestone unit="section" n="9"/> It had been agreed, namely, that Philemenus, as he brought in his game by the usual postern, should lead in armed men, while on another side Hannibal should approach the Temenitis Gate.
 				<milestone unit="section" n="10"/> That quarter is toward the inland, facing east; tombs occupy a considerable space inside the walls. As he approached the gate the fire signal was given by Hannibal according to agreement, and in reply from Nico the same signal blazed; then on both sides the flames were extinguished. Hannibal was leading his men silently to the gate.

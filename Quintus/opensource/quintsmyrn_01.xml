@@ -1,10 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
-
 <TEI.2>
 
 <teiHeader type="text" status="new">
@@ -18,11 +16,11 @@
 &fund.Google;
 </titleStmt>
 
-<extent></extent>
+<extent/>
 
 &Perseus.publish;
 
-<notesStmt><note anchored="yes"></note></notesStmt>
+<notesStmt><note anchored="yes"/></notesStmt>
 <sourceDesc>
 <biblStruct>
 	<monogr>
@@ -60,7 +58,7 @@
 
 <revisionDesc>
         <change>
-            <date></date><respStmt><name></name><resp></resp></respStmt><item>
+            <date/><respStmt><name/><resp/></respStmt><item>
             </item>
         </change>
 </revisionDesc>
@@ -5009,7 +5007,7 @@
 <lb type="displayNum" n="555"/>xei=ra kamei=n kai\ ka/rtos: o( d' ou)k a)pe/lhge mo/qoio. 
 </p><p><lb type="displayNum" n="556"/>tw=n d' a)/r' *)aqhnai/h kratero\n po/non ei)soro/wsa
 <lb type="displayNum" n="557"/>ka/llipen *ou)lu/mpoio quwde/os ai)pa\ me/laqra:
-<lb type="displayNum" n="558"/>bh= d' a)/r' u(pe\r korufa\s <note n="1">Zimmermann, for kefalh=s of v.></note> o)re/wn: ou)d' i)/xnesi gai/hs
+<lb type="displayNum" n="558"/>bh= d' a)/r' u(pe\r korufa\s <note n="1">Zimmermann, for kefalh=s of v.&gt;</note> o)re/wn: ou)d' i)/xnesi gai/hs
 <lb type="displayNum" n="559"/>yau=e me/g' e)gkone/ousa: fe/ren de/ min i(ero\s a)h\r
 <lb type="displayNum" n="560"/>ei)dome/nhn nefe/essin, e)lafrote/rhn d' a)ne/moio. 
 <lb type="displayNum" n="561"/>*troi/hn d' ai)=y' a)fi/kane, po/das d' e)pe/qhke kolw/nh|

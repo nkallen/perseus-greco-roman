@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -185,7 +184,7 @@
 					tutus loqueretur,<milestone unit="section" n="3?"/> <quote><reg>tempus</reg> erat,</quote> inquit, <quote>T. Manli
 						vosque, patres conscripti, tandem iam vos nobiscum
 						nihil pro imperio agere, cum florentissimum deum
-						benignitate Latium<note>Latium <hi rend="italics">iladvig</hi>: <hi rend="italics"></hi>nunc (tune M) Latium <foreign lang="greek">W.</foreign></note> armis virisque, Samnitibus bello victis, Sidicinis Campanisque sociis, nunc etiam Volscis
+						benignitate Latium<note>Latium <hi rend="italics">iladvig</hi>: <hi rend="italics"/>nunc (tune M) Latium <foreign lang="greek">W.</foreign></note> armis virisque, Samnitibus bello victis, Sidicinis Campanisque sociis, nunc etiam Volscis
 						adiunctis, videretis; colonias quoque vestras Latinum
 						Romano praetulisse imperium.<milestone unit="section" n="4"/> <reg>sed</reg> quoniam vos
 						regno impotenti finem ut imponatis non inducitis in
@@ -4995,9 +4994,9 @@
 					numerus ampliatus est, ut essent IIII. Galli transalpini
 					qui in Italiam inruperant caesi sunt. <reg>eo</reg> bello populum
 					<pb id="p.560"/>
-					R. sui Latinique nominis <hi rend ="overline">DCCC</hi> armatorum<note><hi rend ="overline"><reg>dccc</reg></hi> armatorum Mormmsei,: accc <hi rend="italics">M</hi>SS.</note> habuisse dicit Exercitibus Romanis tune primurn trans Padum ductis Galli Insubres aliquot proeliis fusi in deditionem venerunt.
+					R. sui Latinique nominis <hi rend="overline">DCCC</hi> armatorum<note><hi rend="overline"><reg>dccc</reg></hi> armatorum Mormmsei,: accc <hi rend="italics">M</hi>SS.</note> habuisse dicit Exercitibus Romanis tune primurn trans Padum ductis Galli Insubres aliquot proeliis fusi in deditionem venerunt.
 					M. Claudius Marcellus cos. occiso Gallorum Insubrium
-					duce, Vertomaro,<note>Vertomaro <hi rend="italics">MSS.:</hi> Virtomane <hi rend="italics"><reg>propertius</reg></hi> IV. x. 41 (<hi rend="italics">codex</hi> <hi rend="italics">N):</hi> Viridomaro <hi rend="italics">ed. prin.</hi> (<hi rend="italics">cf. <reg>serv</reg>. Verg. <name>Aen</name>.</hi> VI. 855).</note> opima spolia rettulit. <name>Histri</name> subacti sunt. <reg>iterum</reg> Illyri cum rebellassent, domiti in deditionem venerunt. <reg>lustrum</reg> a censoribus ter<note>ter <hi rend="italics"><name>Madvig</name>:</hi> per <hi rend="italics">MSS.</hi></note> conditum est. <reg>primo</reg> lustro censa sunt civium capita <hi rend ="overline">CCLXX</hi> ccxii**. Libertini in quattuor tribus redacti sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam Collinam. C. Flaminius censor viam Flaminius muniit<note>C. Flaminius censor viam Flaminiam muniit <hi rend="italics"><name>Sigonius</name></hi> muniit <hi rend="italics">MSS.</hi></note> et circum Flaminium exstruxit. <reg>coloniae</reg> deductae sunt in agro de Gallis<note>de gallis <hi rend="italics"><reg>frobenius</reg></hi>: gallis <hi rend="italics">MSS.</hi></note> capto Placentia et Cremona.</p>  <pb id="p.1"/>   <pb id="p.3"/>
+					duce, Vertomaro,<note>Vertomaro <hi rend="italics">MSS.:</hi> Virtomane <hi rend="italics"><reg>propertius</reg></hi> IV. x. 41 (<hi rend="italics">codex</hi> <hi rend="italics">N):</hi> Viridomaro <hi rend="italics">ed. prin.</hi> (<hi rend="italics">cf. <reg>serv</reg>. Verg. <name>Aen</name>.</hi> VI. 855).</note> opima spolia rettulit. <name>Histri</name> subacti sunt. <reg>iterum</reg> Illyri cum rebellassent, domiti in deditionem venerunt. <reg>lustrum</reg> a censoribus ter<note>ter <hi rend="italics"><name>Madvig</name>:</hi> per <hi rend="italics">MSS.</hi></note> conditum est. <reg>primo</reg> lustro censa sunt civium capita <hi rend="overline">CCLXX</hi> ccxii**. Libertini in quattuor tribus redacti sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam Collinam. C. Flaminius censor viam Flaminius muniit<note>C. Flaminius censor viam Flaminiam muniit <hi rend="italics"><name>Sigonius</name></hi> muniit <hi rend="italics">MSS.</hi></note> et circum Flaminium exstruxit. <reg>coloniae</reg> deductae sunt in agro de Gallis<note>de gallis <hi rend="italics"><reg>frobenius</reg></hi>: gallis <hi rend="italics">MSS.</hi></note> capto Placentia et Cremona.</p>  <pb id="p.1"/>   <pb id="p.3"/>
 			</div1>
 			<div1 type="book" n="index"><head>Index of names</head>
 				<p>(<hi rend="italics">The References are to Pages.</hi>)</p>

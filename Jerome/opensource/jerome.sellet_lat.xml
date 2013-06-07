@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader>
@@ -705,7 +705,7 @@ Debemus igitur et nos animo praemeditari, quod aliquando futuri sumus et quod&md
 <pb id="p.296"/>
 transactum omne tantundem est, nisi quod magis senex onustus peccatorum fasce proficiscitur.
  <q>Optima quaeque dies miseris mortalibus aevi Prima fugit, subeunt morbi tristisque senectus Et labor et durae rapit inclementia mortis.</q>
-Naevius poeta <q>Pati,</q> inquit, <q>necesse est multa mortalem mala.</q> Unde et Niobam, qui multum fleverit in lapidem et in diversas bestias <add>conversas alias et Hecubam in canem</add>> commutatam finxit antiquitas, et Hesiodus natales hominum plangens gaudet in funere, prudenterque Ennius:
+Naevius poeta <q>Pati,</q> inquit, <q>necesse est multa mortalem mala.</q> Unde et Niobam, qui multum fleverit in lapidem et in diversas bestias <add>conversas alias et Hecubam in canem</add>&gt; commutatam finxit antiquitas, et Hesiodus natales hominum plangens gaudet in funere, prudenterque Ennius:
  <q>Plebes,</q> ait, <q>in hoc regio 1 antistat loco: licet Lacrimare plebi, regi honeste non licet.</q>
 Ut regi, sic episcopo, immo minus regi quam episcopo. Ille enim nolentibus praeest, hic volentibus; ille terrore subicit, hic servitute dominatur; ille corpora custodit ad mortem, hic animas servat ad vitam. In te omnium oculi diriguntur, domus tua et conversatio quasi in specula constituta magistra est publicae disciplinae. Quidquid feceris, id sibi omnes faciendum putant. Cave ne committas, quod aut, qui reprehendere volunt, digne lacerasse videantur aut, qui imitari, cogantur delinquere. Vince quantum potes, immo plus quam potes, mollitiem animi tui et ubertim fluentes lacrimas repi-ime, ne grandis pietas in nepotem apud incredulas mentes desperatio putetur in Deum. Desiderandus tibi est quasi
 <pb id="p.298"/>

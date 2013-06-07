@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -67,8 +66,7 @@
 					Tiberium Caesarem ad deos isse. Hunc si interrogaveris, soli narrabit: coram
 					pluribus nunquam verbum faciet. Nam ex quo in senatu iuravit se Drusillam vidisse
 					caelum ascendentem et illi pro tam bono nuntio nemo credidit, quod viderit, verbis
-					conceptis affirmavit se non indicaturum, etiam si in medio foro hominem<pb
-						id="p.372"/> occisum vidisset. Ab hoc ego quae tum audivi, certa clara affero,
+					conceptis affirmavit se non indicaturum, etiam si in medio foro hominem<pb id="p.372"/> occisum vidisset. Ab hoc ego quae tum audivi, certa clara affero,
 					ita illum salvum et felicem habeam.<milestone unit="section" n="2"/>
 					<quote rend="blockquote">
 						<l>Iam Phoebus breviore via contraxerat ortum</l>
@@ -81,8 +79,7 @@
 					Octobris. Horam non possum certam tibi dicere, facilius inter philosophos quam inter
 					horologia conveniet, tamen inter sextam et septimam erat.<quote>Nimis
 						rustice</quote> inquies: cum omnes poetae, non contenti ortus et occasus describere,
-					ut etiam medium diem inquietent, tu sic transibis horam tam bonam?"<quote
-						rend="blockquote">
+					ut etiam medium diem inquietent, tu sic transibis horam tam bonam?"<quote rend="blockquote">
 						<l>lam medium curru Phoebus diviserat orbem</l>
 						<l>et propior nocti fessas quatiebat habenas</l>
 						<l>obliquo flexam deducens tramite lucem:</l>
@@ -196,8 +193,7 @@
                     Itaque quod Gallum facere oportebat, Romam cepit. Hunc ego tibi recipio Luguduni
                     natum, ubi Licinus<note><hi rend="italics">Buecheler</hi> Licinusfor
                     Licinius.</note> multis annis regnavit. Tu autem, qui plura loca calcasti quam
-                    ullus mulio perpetuarius, Lugudunenses scire debes, et<note><hi rend="italics"
-                            >Buecheler omits</hi> et <hi rend="italics">with one MS. and
+                    ullus mulio perpetuarius, Lugudunenses scire debes, et<note><hi rend="italics">Buecheler omits</hi> et <hi rend="italics">with one MS. and
                         brackets</hi> Lugudunenses.</note> multa milia inter Xanthum et Rhodanum
                     interesse.</quote> Excandescit hoc loco Claudius et quanto potest murmure
                 irascitur. Quid diceret, nemo intellegebat, ille autem Febrim duci iubebat, illo
@@ -229,15 +225,13 @@
                 intellegi potuit, haec visus est dicere: <quote>Ego te, fortissime deorum Hercule,
                     speravi mihi adfuturum apud alios, et si qui a me notorem petisset, te fui
                     nominaturus, qui me optime nosti. Nam si memoria repetis, ego eram qui
-                            tibi<note><hi rend="italics">So MSS. Buecheler reads</hi> Tiburi, <hi
-                            rend="italics">quoting Suet. Aug.</hi> 72.</note> ante templum tuum ius
+                            tibi<note><hi rend="italics">So MSS. Buecheler reads</hi> Tiburi, <hi rend="italics">quoting Suet. Aug.</hi> 72.</note> ante templum tuum ius
                     dicebam totis diebus mense Iulio et Augusto. Tu scis, quantum illic miseriarum
                     tulerim, cum causidicos audirem diem et noctem, in quos si incidisses, valde
                     fortis licet tibi videaris, maluisses cloacas Augeae purgare: multo plus ego
                     stercoris exhausi. Sed quoniam volo</quote>
                 <milestone unit="section" n="8"/><quote>Non mirum quod in curiam impetum fecisti: nihil tibi clausi
-                    est. Modo dic nobis, qualem deum istum fieri velis. <foreign lang="greek"
-                        >)Epikou/reios qeo\s</foreign> non potest esse: <foreign lang="greek">ou)/te</foreign>
+                    est. Modo dic nobis, qualem deum istum fieri velis. <foreign lang="greek">)Epikou/reios qeo\s</foreign> non potest esse: <foreign lang="greek">ou)/te</foreign>
                     <foreign lang="greek">au)to\s pra=gma e)/xei ti ou)/te a)/llois
                     pare/xei;</foreign> Stoicus? Quomodo potest 'rotundus' esse, ut ait Varro, 'sine
                     capite, sine praeputio'? Est aliquid in illo Stoici dei, iam video: nec cor nec
@@ -252,8 +246,7 @@
                     vult: parum est quod templum in Britannia habet, quod hunc barbari colunt et ut
                     deum orant <foreign lang="greek">mwrou= eu)ila/tou tuxei=n</foreign>?</quote></p>
             <p><milestone unit="section" n="9"/>Tandem Iovi venit in mentem, privatis intra curiam
-                morantibus senatoribus non licere<note>senatoribus non licere: <hi rend="italics"
-                        >added by Buecheler.</hi></note> sententiam dicere nec disputare.
+                morantibus senatoribus non licere<note>senatoribus non licere: <hi rend="italics">added by Buecheler.</hi></note> sententiam dicere nec disputare.
                 <quote>Ego</quote> inquit <quote>p. c. interrogare vobis permiseram, vos mera
                     mapalia fecistis. Volo ut servetis disciplinam curiae. Hic qualiscunque est,
                     quid de nobis existimabit?</quote> Illo dimisso primus interrogatur sententiam
@@ -266,8 +259,7 @@
                     <quote>Olim</quote> inquit <quote>magna res erat deum fieri: iam famam mimum
                     fecistis. Itaque ne videar in personam, non in rem dicere sententiam, censeo ne
                     quis post hunc diem deus fiat ex his, qui <foreign lang="greek">a)rou/rhs
-                        karpo\n e)/dousin,</foreign> aut ex his, quos alit <foreign lang="greek"
-                        >zei/dwros a)/roura.</foreign>. Qui contra hoc senatus consultum deus
+                        karpo\n e)/dousin,</foreign> aut ex his, quos alit <foreign lang="greek">zei/dwros a)/roura.</foreign>. Qui contra hoc senatus consultum deus
                     factus, dictus pictusve erit, eum dedi Laruis et proximo munere inter novos
                     auctoratos ferulis vapulare placet.</quote> Proximus interrogatur sententiam
                 Diespiter Vicae Potae filius, et ipse designatus consul, nummulariolus: hoc quaestu
@@ -299,8 +291,7 @@
                 duas Iulias proneptes meas occideret, alteram ferro, alteram fame; unum abnepotem L.
                 Silanum. videris luppiter an in causa mala, certe in tua, si aequus futurus es. Dic
                 mihi, dive Claudi, quare quemquam ex his, quos quasque occidisti, antequam de causa
-                cognosceres, antequam audires, damnasti? Hoc ubi fieri solet?<milestone
-                    unit="section" n="11"/> In caelo non fit. Ecce Iuppiter, qui tot annos regnat,
+                cognosceres, antequam audires, damnasti? Hoc ubi fieri solet?<milestone unit="section" n="11"/> In caelo non fit. Ecce Iuppiter, qui tot annos regnat,
                 uni Volcano crus fregit, quem<quote rend="blockquote">
                     <l>
                         <foreign lang="greek">r(i=ye podo\s tetagw\n a)po\ bhlou=
@@ -344,8 +335,7 @@
                     reviviscerent.<pb id="p.398"/> Ex his unus cum vidisset capita conferentes et
                 fortunas suas deplorantes causidicos, accedit et ait:<quote>dicebam vobis: non
                     semper Saturnalia erunt.</quote></p>
-            <p>Claudius ut vidit funus suum, intellexit se mortuum esse. Ingenti eum <foreign
-                    lang="greek">mega/lw| xorikw=|</foreign> nenia cantabatur anapaestis:</p>
+            <p>Claudius ut vidit funus suum, intellexit se mortuum esse. Ingenti eum <foreign lang="greek">mega/lw| xorikw=|</foreign> nenia cantabatur anapaestis:</p>
             <quote rend="blockquote">
                 <l>"Fundite fletus, edite planctus,</l>
                 <l>resonet tristi clamore forum:</l>
@@ -406,15 +396,13 @@
                 praemiserat. Deinde praefecti duo Iustus Catonius et Rufrius Pollio. Deinde amici
                 Saturninus Lusius et Pedo Pompeius et Lupus et Celer Asinius consulares. Novissime
                 fratris filia, sororis filia, generi, soceri, socrus, omnes plane consanguinei. Et
-                agmine facto Claudio occurrunt. Quos cum vidisset Claudius, exclamat: <foreign
-                    lang="greek">pa/nta fi/lwn pgh/rh</foreign>
+                agmine facto Claudio occurrunt. Quos cum vidisset Claudius, exclamat: <foreign lang="greek">pa/nta fi/lwn pgh/rh</foreign>
                 <quote>quomodo huc venistis vos?</quote> Tum Pedo Pompeius: <quote>Quid dicis, homo
                     crudelissime? Quaeris, quomodo? Quis enim nos alius hue misit quam tu, omnium
                     amicorum interfector? In ius eamus, ego tibi hic sellas ostendam.</quote></p>
             <p><milestone unit="section" n="14"/>Ducit illum ad tribunal Aeaci: is lege Cornelia
                 quae de sicariis lata est, quaerebat. Postulat, nomen eius recipiat; edit
-                subscriptionem: occisos senatores XXXV, equites R. CCXXI, ceteros <foreign
-                    lang="greek">o(/sa ya/maqo/s te ko/nis te.</foreign>. Advocatum non invenit.
+                subscriptionem: occisos senatores XXXV, equites R. CCXXI, ceteros <foreign lang="greek">o(/sa ya/maqo/s te ko/nis te.</foreign>. Advocatum non invenit.
                 Tandem procedit P. Petronius, vetus convictor eius, homo Claudiana lingua disertus,
                 et postulat advocationem. Non datur. Accusat Pedo Pompeius magnis clamoribus.
                 Incipit patronus velle respondere. Aeacus, homo iustissimus,<pb id="p.404"/> vetat,

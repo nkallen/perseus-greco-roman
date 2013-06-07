@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -375,7 +374,7 @@
 <div2 type="section" n="10">
 <p><lemma lang="greek" targOrder="U">ei)s</lemma> with <lemma lang="greek" targOrder="U">a(/pac</lemma> only, forming one word. </p>
 <p><lemma lang="greek" targOrder="U">h)/nqhs'  e)pi\ tai=s e)lpi/sin</lemma>, &ldquo;puts forth the blossoms of hope,&rdquo; literally blossoms on hopes. The whole metaphor has a parallel in Shakespeare, <hi rend="italic">Henry VIII.</hi>, Act iii. Sc. 2:&mdash; </p>
-<p></p><p>&ldquo;This is the state of man: to-day he puts forth The tender leaves of hope, to-morrow blossoms, And bears his blushing honours thick upon him: The third day comes a frost, a killing frost.&rdquo; </p>
+<p/><p>&ldquo;This is the state of man: to-day he puts forth The tender leaves of hope, to-morrow blossoms, And bears his blushing honours thick upon him: The third day comes a frost, a killing frost.&rdquo; </p>
 <p><lemma lang="greek" targOrder="U">a)\n tu/xh|</lemma>. Cf. i. &sect; 3 (note). </p>
 <p><lemma lang="greek" targOrder="U">fwra=tai</lemma> curiously disturbs the metaphor. Metaphor and application are joined as in <foreign lang="greek">a)nex. k. dielus</foreign>. above, but in inverse order. </p>
 <p><lemma lang="greek" targOrder="U">peri\ au(ta\ katarrei=</lemma>. Like fading flowers round the stem of the <pb n="52"/> plant (Heslop), <foreign lang="greek">katarrei=n</foreign> being the regular word for the falling of leaves or petals. </p>
@@ -729,9 +728,9 @@
 <p><lemma lang="greek" targOrder="U">tw=n tou= pole/mou</lemma>. Not with <foreign lang="greek">xrhma/twn</foreign>. </p>
 <p><lemma lang="greek" targOrder="U">e)pi\ me\n . . . *fi/lippon de\</lemma>. See note on ii. 24. </p>
 <p><lemma lang="greek" targOrder="U">*korinqi/ous kai\ *megare/as</lemma>. It has been thought that this refers either&mdash; </p>
-<p></p><p>(1.) To the attack made on the two territories in 458, and on Megara by Pericles in 431. </p>
-<p></p><p>(2.) To recent invasions of which we know nothing, though in Speech 13 (not written by Demosthenes) there is an incidental mention of an attack on the Megarid. </p>
-<p></p><p>(3.) To neighbouring Greek states taken at random. </p>
+<p/><p>(1.) To the attack made on the two territories in 458, and on Megara by Pericles in 431. </p>
+<p/><p>(2.) To recent invasions of which we know nothing, though in Speech 13 (not written by Demosthenes) there is an incidental mention of an attack on the Megarid. </p>
+<p/><p>(3.) To neighbouring Greek states taken at random. </p>
 <p>Probably (2) is correct. If Demosthenes had been thinking definitely of events 100 years old, he would have stated the facts more particularly. </p>
 <p><lemma lang="greek" targOrder="U">*(ellhni/das</lemma>. It is implied that Philip is <foreign lang="greek">ba/rbaros</foreign> (<hi rend="italic">supra</hi>, &sect; 16). </p>
 <p><lemma lang="greek" targOrder="U">e)fod. toi=s strat</lemma>. Cf. i. 22, <foreign lang="greek">trofh=s toi=s ce/nois</foreign> (note). 
@@ -781,7 +780,7 @@
 <p><lemma lang="greek" targOrder="U">ei)s periousi/an</lemma>, &ldquo;with a view to amassing a fortune.&rdquo; </p>
 <p><lemma lang="greek" targOrder="U">e)pra/tteto au)toi=s</lemma>. See i. &sect; 28 (note). </p>
 <p><lemma lang="greek" targOrder="U">to\ koino\n au)/cein</lemma>. Cf. Hor. Od. ii. 15. 13: </p>
-<p></p><p>&ldquo;Privatus illis census erat brevis, Commune magnum.&rdquo; 
+<p/><p>&ldquo;Privatus illis census erat brevis, Commune magnum.&rdquo; 
 </p></div2>
 <div2 type="section" n="27">
 <p><lemma lang="greek" targOrder="U">e)kei/nois</lemma>, i.e. <foreign lang="greek">toi=s progo/nois</foreign>. </p>

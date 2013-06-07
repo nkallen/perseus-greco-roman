@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -16,7 +15,7 @@
 	&fund.NEH;
       </titleStmt>
 	
-      <extent></extent>
+      <extent/>
       
 	&Perseus.publish;
       
@@ -991,9 +990,9 @@
 
 <milestone unit="section" n="5"/>crudelissima ac superbissima gens sua omnia suique arbitrii facit; cum quibus bellum, cum quibus pacem habeamus, se modum imponere aequum censet. circumscribit includitque nos terminis montium fluminumque, quos non excedamus, neque eos, quos statuit, terminos obseruat:
 
-<milestone unit="section" n="6"/>&quot;ne transieris Hiberum; ne quid rei tibi sit cum Saguntinis.&quot; ad Hiberum est Saguntum? &quot;nusquam te uestigio moueris.
+<milestone unit="section" n="6"/>"ne transieris Hiberum; ne quid rei tibi sit cum Saguntinis." ad Hiberum est Saguntum? "nusquam te uestigio moueris.
 
-<milestone unit="section" n="7"/>&quot; parum est quod ueterrimas prouincias meas, Siciliam ac Sardiniam, &lt;ademisti?&gt; adimis etiam Hispanias et, si inde cessero, in Africam transcendes. &lt;transcendes&gt; autem? transcendisse dico. duos consules huius anni, unum in Africam, alterum in Hispaniam miserunt. nihil usquam nobis relictum est nisi quod armis uindicarimus.
+<milestone unit="section" n="7"/>" parum est quod ueterrimas prouincias meas, Siciliam ac Sardiniam, &lt;ademisti?&gt; adimis etiam Hispanias et, si inde cessero, in Africam transcendes. &lt;transcendes&gt; autem? transcendisse dico. duos consules huius anni, unum in Africam, alterum in Hispaniam miserunt. nihil usquam nobis relictum est nisi quod armis uindicarimus.
 
 <milestone unit="section" n="8"/><pb id="p.21059" n="aut uincere au"/>illis timidis et ignauis esse licet, qui respectum habent, quos sua terra, suus ager per tuta ac pacata itinera fugientes accipient: uobis necesse est fortibus uiris esse et, omnibus inter uictoriam mortemue certa desperatione abruptis, aut uincere aut, si fortuna dubitabit, in proelio potius quam in fuga mortem oppetere.
 
@@ -2895,7 +2894,7 @@
 
 <milestone unit="section" n="10"/><pb id="p.22097" n="loca in socio"/>nocte prope tota <persName n="3"><foreName>P.</foreName> <surname>Sempronius</surname> <addName>Tuditanus</addName></persName> non destitit monere, adhortari eos, dum paucitas hostium circa castra, dum quies ac silentium esset, dum nox inceptum tegere posset, se ducem sequerentur: ante lucem peruenire in tuta loca, in sociorum urbes posse.
 
-<milestone unit="section" n="11"/>si ut auorum memoria <persName n="2"><foreName>P.</foreName> <surname>Decius</surname></persName> tribunus militum in Samnio, si ut nobis adulescentibus priore Punico bello Calpurnius Flamma trecentis uoluntariis, cum ad tumulum eos capiendum situm inter medios duceret hostes, dixit &quot;moriamur, milites, et morte nostra eripiamus ex obsidione circumuentas legiones&quot;,
+<milestone unit="section" n="11"/>si ut auorum memoria <persName n="2"><foreName>P.</foreName> <surname>Decius</surname></persName> tribunus militum in Samnio, si ut nobis adulescentibus priore Punico bello Calpurnius Flamma trecentis uoluntariis, cum ad tumulum eos capiendum situm inter medios duceret hostes, dixit "moriamur, milites, et morte nostra eripiamus ex obsidione circumuentas legiones",
 
 <milestone unit="section" n="12"/> si hoc <persName n="2"><foreName>P.</foreName> <surname>Sempronius</surname></persName> diceret, nec uiros quidem nec Romanos uos duceret, si nemo tantae uirtutis exstitisset comes.
 
@@ -2913,7 +2912,7 @@
 
 <milestone unit="section" n="19"/>ex milibus septem armatorum sescenti exstiterunt qui erumpere auderent, qui in patriam liberi atque armati redirent, neque his sescentis hostes obstitere;
 
-<milestone unit="section" n="20"/>quam tutum iter duarum prope legionum agmini futurum censetis fuisse? haberetis hodie uiginti milia armatorum Canusii fortia, fidelia, patres conscripti. nunc autem quemadmodum hi boni fidelesque&mdash;nam &quot;fortes&quot; ne ipsi
+<milestone unit="section" n="20"/>quam tutum iter duarum prope legionum agmini futurum censetis fuisse? haberetis hodie uiginti milia armatorum Canusii fortia, fidelia, patres conscripti. nunc autem quemadmodum hi boni fidelesque&mdash;nam "fortes" ne ipsi
 
 <milestone unit="section" n="21"/> quidem dixerint&mdash;ciues esse possunt? nisi quis credere potest aut adfuisse erumpentibus qui, ne erumperent, obsistere conati sunt, aut non inuidere eos cum incolumitati, tum gloriae illorum per uirtutem partae, cum sibi timorem ignauiamque seruitutis ignominiosae causam esse sciant.
 
@@ -4485,9 +4484,9 @@
 
 <milestone unit="section" n="1"/><pb id="p.24013" n="uestrae libert"/> 'si aut pacem in Italia aut &lt;id&gt; bellum eumque hostem haberemus in quo neglegentiae laxior locus esset, qui uestris studiis, quae in campum ad mandandos quibus uelitis honores adfertis, moram ullam offerret, is mihi parum meminisse uideretur uestrae libertatis;
 
-<milestone unit="section" n="2"/>sed cum in hoc bello, in hoc hoste nunquam ab ullo duce sine ingenti nostra clade erratum sit, eadem uos cura qua in aciem armati descenditis inire suffragium ad creandos consules decet et sibi quemque dicere: &quot;Hannibali imperatori parem consulem nomino.
+<milestone unit="section" n="2"/>sed cum in hoc bello, in hoc hoste nunquam ab ullo duce sine ingenti nostra clade erratum sit, eadem uos cura qua in aciem armati descenditis inire suffragium ad creandos consules decet et sibi quemque dicere: "Hannibali imperatori parem consulem nomino.
 
-<milestone unit="section" n="3"/>&quot; hoc anno ad Capuam Uibellio Taureae, Campano summo equiti, prouocanti summus Romanus eques <persName n="NAMEus-a NAMEius"><foreName>Asellus</foreName> <surname>Claudius</surname></persName> est oppositus.
+<milestone unit="section" n="3"/>" hoc anno ad Capuam Uibellio Taureae, Campano summo equiti, prouocanti summus Romanus eques <persName n="NAMEus-a NAMEius"><foreName>Asellus</foreName> <surname>Claudius</surname></persName> est oppositus.
 
 <milestone unit="section" n="4"/>aduersus Gallum quondam prouocantem in ponte Anienis <persName n="2"><foreName>T.</foreName> <surname>Manlium</surname></persName> fidentem et animo et uiribus misere maiores nostri.
 

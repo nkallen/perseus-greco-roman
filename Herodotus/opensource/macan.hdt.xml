@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -17,7 +16,7 @@
 </titleStmt>
 &Perseus.publish;
 <sourceDesc>
-<bibl></bibl>
+<bibl/>
 </sourceDesc>
 </fileDesc>
 
@@ -13047,7 +13046,7 @@ This conception underlies the statement
 next annotated.</p></div3>
 <div3 type="commline" n="5">
 <p><lemma lang="greek" targOrder="U">tele/wn de\ kai\ e)qne/wn h)=san a)/lloi
-&lt;oi(&gt; shma/ntores</lemma> <foreign lang="greek"></foreign>. The <foreign lang="greek">te/los</foreign> may be
+&lt;oi(&gt; shma/ntores</lemma> <foreign lang="greek"/>. The <foreign lang="greek">te/los</foreign> may be
 taken to be the body of 10,000 men; the
 <foreign lang="greek">e)/qnh</foreign> are the ethnic units comprised in
 it, under their own native commanders,
@@ -41873,10 +41872,10 @@ the flower of &lsquo;Hellenism.&rsquo;</p>
 diagrammatically exhibited:
 <table>
 <row role="data"><cell cols="1" role="data" rows="1"><foreign lang="greek">*)aqhnai=oi</foreign></cell><cell cols="1" role="data" rows="1">I.</cell><cell cols="1" role="data" rows="1"><foreign lang="greek">h)=san</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*pelasgoi/</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">&lt;a)p' a)rxh=s&gt;</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*pelasgw=n e)xo/ntwn</foreign></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">w)noma/sqhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*kranaoi/</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)pi\ *pelasgw=n</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">th\n nu=n *(ella/da kaleome/nhn</foreign></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">II.</cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)peklh/qhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*kekropi/dai</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)pi\ *ke/kropos</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">basile/os</foreign></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">III.  <foreign lang="greek">metwnoma/sqhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*)aqhnai=oi</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)p' *)erexqe/os</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)kdecame/nou th\n a)rxh/n</foreign></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">IV.</cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)klh/qhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*)/iwnes</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)p' *)/iwnos</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">strata/rxew genome/nou *)aqhnai/oisi</foreign></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1"><foreign lang="greek">w)noma/sqhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*kranaoi/</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)pi\ *pelasgw=n</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">th\n nu=n *(ella/da kaleome/nhn</foreign></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">II.</cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)peklh/qhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*kekropi/dai</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)pi\ *ke/kropos</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">basile/os</foreign></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">III.  <foreign lang="greek">metwnoma/sqhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*)aqhnai=oi</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)p' *)erexqe/os</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)kdecame/nou th\n a)rxh/n</foreign></cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">IV.</cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)klh/qhsan</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">*)/iwnes</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">e)p' *)/iwnos</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">strata/rxew genome/nou *)aqhnai/oisi</foreign></cell></row>
 </table></p></div3>
 <div3 type="commline" n="11">
 <p><lemma lang="greek" targOrder="U">*kranaoi/</lemma>. Hdt. knows nothing

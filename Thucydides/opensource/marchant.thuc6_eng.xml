@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -51,7 +50,7 @@
 <body>
 <div1 type="book" n="6"><p>
 <pb n="115"/></p>
-<div2 type="CHAPTER" n="1"><p></p>
+<div2 type="CHAPTER" n="1"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)bou/lonto</lemma>&mdash;&lsquo;the word is here (as in Xen. <hi rend="ITALIC">Hel.</hi> III.  4, 2, and elsewhere) used not so much of <hi rend="ITALIC">will</hi> as of <hi rend="ITALIC">intention</hi> (Bloomfield). This is not accurate. Trans. &lsquo;felt a wish.&rsquo;  <foreign lang="greek">bou/lomai</foreign> expresses a vaguer wish than <foreign lang="greek">dianoou=mai</foreign>: it never means &lsquo;make up one's mind,&rsquo; and consequently cannot, like <foreign lang="greek">dianoou=mai</foreign>, be constructed with a fut. infin.
 </p>
@@ -92,7 +91,7 @@
 <p><lemma lang="greek" targOrder="U">to\ mh/</lemma>&mdash;Soph. <hi rend="ITALIC">Phil.</hi> 1141 <foreign lang="greek">e)/stin tis e)/stin o(/s se kwlu/sei to\ dra=n</foreign>. <hi rend="ITALIC">M.T.</hi> 811: Wecklein on <hi rend="ITALIC">Agam.</hi> 1588. It is <hi rend="ITALIC">internal accus.</hi>
 </p>
 <p><lemma lang="greek" targOrder="U">ei)=nai</lemma>&mdash;see crit. note. Poppo defended <foreign lang="greek">ou)=sa</foreign> here as a confusion between two constructions; but Classen is probably right in thinking that <foreign lang="greek">ou)=sa</foreign> got in from <foreign lang="greek">tosau/th ou)=sa</foreign> above. <pb n="118"/> Among recent critics, only L. Herbst defends <foreign lang="greek">ou)=sa</foreign>: he thinks that <foreign lang="greek">to/</foreign> does not affect the construction here and in other places, but is used as a demonstrative particle. Would <foreign lang="greek">mh/</foreign> then be possible?</p></div3></div2>
-<div2 type="CHAPTER" n="2"><p></p>
+<div2 type="CHAPTER" n="2"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">w)|ki/sqh de/</lemma>&mdash;answering to <foreign lang="greek">peri/plous me/n</foreign> above.  cc. 2-5 are generally described as a digression; but the passage is perhaps rather a continuation of the description of the greatness of Sicily. &lsquo;The greatness of Sicily,&rsquo; Freeman says, &lsquo;was essentially a colonial greatness, the greatness of communities which did not form whole nations but only parts of nations, nations of which other parts remained in their elder homes.&rsquo;
 </p>
@@ -220,7 +219,7 @@ Garibaldi takes Palermo. Sicily united with Italy. <pb n="124"/>
 <p><lemma lang="greek" targOrder="U">*karxhdw/n</lemma>&mdash;the tradition generally accepted at a later time was that Rome and Carthage were founded on the same day; but there is good evidence that Carthage was founded shortly before 800 B.C. Freeman shows that the Phoenicians were probably confined to the three towns after the Gk. settlement of Selinus, <hi rend="ITALIC">i e.</hi> after 628 B.C.
 </p>
 <p><lemma lang="greek" targOrder="U">tosoi/de</lemma>&mdash;the violation of the rule that these forms refer to what follows, occurs most commonly in speeches.</p></div3></div2>
-<div2 type="CHAPTER" n="3"><p></p>
+<div2 type="CHAPTER" n="3"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*(ellh/nwn</lemma>&mdash;the following tables exhibit the Gk.  cities:&mdash;  <hi rend="CENTER">I. CHALCIS in Euboea (<hi rend="ITALIC">Ionian</hi>)</hi></p><p> <hi rend="CENTER">Naxos, 735 Zancle, <hi rend="ITALIC">c.</hi> 715</hi></p><p> <hi rend="CENTER">Catana, 728 Leontini, 728 Hunera, 648</hi></p><p> <hi rend="CENTER">II. CORINTH (<hi rend="ITALIC">Dorian</hi>)</hi></p><p> <hi rend="CENTER">Syracuse, 734</hi></p><p> <hi rend="CENTER">Acrac, 664 Casmenae, 644 Camarma, 599</hi></p><p> <hi rend="CENTER">III. MEGARA (<hi rend="ITALIC">Ionian and Dorian</hi>)</hi></p><p> <hi rend="CENTER">Thapsus, removed to Megara Hyblaea, 726</hi></p><p> <hi rend="CENTER">Selmus, 628</hi></p><p> <hi rend="CENTER">IV RHODES (<hi rend="ITALIC">Dorian</hi>)</hi></p><p> <hi rend="CENTER">Gela, 688</hi></p><p> <hi rend="CENTER">Aciagas, 580.</hi></p><p>The above dates are not to be considered as more than approximate. <pb n="125"/>
 </p>
@@ -262,7 +261,7 @@ Garibaldi takes Palermo. Sicily united with Italy. <pb n="124"/>
 <p><lemma lang="greek" targOrder="U">*kata/nhn</lemma>&mdash;the modern <hi rend="ITALIC">Catania</hi>, which dates only from the earthquake of 1693. The city has survived many terrible disasters, due partly to its wars, and partly to its proximity to Aetna.
 </p>
 <p><lemma lang="greek" targOrder="U">oi)kisth\n e)poih/santo</lemma>&mdash;presently <foreign lang="greek">oi)kista\s poih/santes</foreign>, the active being used of the founders who make the appointment for a colony, the mid. of the citizens who choose for themselves &lsquo;Some distinction,&rsquo; says Freeman, &lsquo;is here hinted at between <pb n="127"/> the foundation of Leontinoi and the foundation of Katan&ecirc;. It may point to some possible dissension or secession.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="4"><p></p>
+<div2 type="CHAPTER" n="4"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kata/</lemma>&mdash;a common use of <foreign lang="greek">kata/</foreign>, and one which is not  confined to words denoting time.
 </p>
@@ -352,7 +351,7 @@ Garibaldi takes Palermo. Sicily united with Italy. <pb n="124"/>
 <p><lemma lang="greek" targOrder="U">th=s e(autou=</lemma>&mdash;Rhegium was peopled soon after Zanele by Chaleidians and by settlers from Peloponnesian Messene.
 </p>
 <p><lemma lang="greek" targOrder="U">a)ntwno/mase</lemma>&mdash;Class. supports this word from Dio Cass. (<bibl n="Thuc. 1. 55">I. 55</bibl>), from whom also Bloomfield quotes <foreign lang="greek">a)ntwnoma/sqh</foreign>, with the note that the word is extremely rare.</p></div3></div2>
-<div2 type="CHAPTER" n="5"><p></p>
+<div2 type="CHAPTER" n="5"><p/>
 <div3 type="SECTION" n="1"><p> l. <hi rend="BOLD">1. <foreign lang="greek">*(ime/ra</foreign></hi>&mdash;marks the western limit of Gk. eneroach ment on the N. coast. It was apparently intended as a stronghold against Phoenician Solus and Panormus. It disappeared for ever in 408, when Hannibal, grandson of the Hamilcar whom Gclon had defeated at Himera in 480, eaptured the town and utterly destroyed it.
 </p>
 <p><lemma lang="greek" targOrder="U">*eu)klei/dou</lemma>&mdash;probably these founders came from Chaleis, as metropolis of Zancle.
@@ -386,7 +385,7 @@ Garibaldi takes Palermo. Sicily united with Italy. <pb n="124"/>
 <p><lemma lang="greek" targOrder="U">to\ tri/ton</lemma>&mdash;this occurred about 461 B.C. The Olympic victory of Psaumis of Camarina, assigned to 452, is celebrated by Pindar, <hi rend="ITALIC">Olymp.</hi> 4 and 5. This lends point to the words of Pindar: <foreign lang="greek">a)p' a)maxani/as a)/gwn e)s fa/os to/nde da=mon a)stw=n</foreign>, and again, <foreign lang="greek">ai)th/swn po/lin eu)anori/aisi ta/nde klutai=s daida/llein</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">*gelw/|wn</lemma>&mdash;see critical note.</p></div3></div2>
-<div2 type="CHAPTER" n="6"><p></p>
+<div2 type="CHAPTER" n="6"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">tosau=ta ktl</lemma>&mdash;observe the <hi rend="ITALIC">chiastic</hi> form of the  summary: <foreign lang="greek">*(ellh/nwn</foreign>=c. 3, 1; <foreign lang="greek">barba/rwn</foreign>=c. 2, 6; <foreign lang="greek">tosau=ta e)/qnh</foreign>=c. 2, 1; <foreign lang="greek">tosh/nde ou)=san</foreign>=c. 2, 1 (previous senfence). The same arrangement occurs in <bibl n="Thuc. 2. 7">II. 7</bibl>, 8, 9.
 </p>
@@ -431,7 +430,7 @@ Garibaldi takes Palermo. Sicily united with Italy. <pb n="124"/>
 <p><lemma lang="greek" targOrder="U">prw=ton</lemma>&mdash;before finally deciding.
 </p>
 <p><lemma lang="greek" targOrder="U">ta\ tou= pole/mou . . pro\s tou\s *selinounti/ous</lemma>&mdash;unless <foreign lang="greek">po/lemos</foreign> can be considered as (<hi rend="ITALIC">a</hi>) a verbal noun, this order is impossible, because there is (<hi rend="ITALIC">b</hi>) no other epithet to <foreign lang="greek">pole/mou</foreign> than <foreign lang="greek">pro\s tou\s *sel</foreign>. Cf. (<hi rend="ITALIC">a</hi>) <bibl n="Thuc. 2. 52">II. 52</bibl> <foreign lang="greek">h( cugkomidh\</foreign> (verbal noun) <foreign lang="greek">e)k tw=n a)grw=n</foreign>: (<hi rend="ITALIC">b</hi>) <bibl n="Thuc. 1. 110">I. 110</bibl> <foreign lang="greek">ta\ kata\ th\n mega/lhn stratei/an *)aqhnai/wn</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="7"><p></p>
+<div2 type="CHAPTER" n="7"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">oi( cum. plh\n *korinqi/wn</lemma>&mdash;the relations between  Corinth and Sparta since the Peace of Nicias, early in 421, had been somewhat complicated:
 Corinth stood ont of the Peace.
@@ -477,7 +476,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">dexhme/rous</lemma>&mdash;Clas. explains &lsquo;renewable every ten days&rsquo;; but such relations between A. and eities so distant are surcly impossible. Grote is probably right in explaining it &lsquo;an armistice terminable at ten days' notice.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">e)teleu/ta</lemma>&mdash;the anaphora of this word is remarkable; but we have <hi rend="ITALIC">almost</hi> the same form of expression: &lsquo;and winter ended, and <hi rend="ITALIC">with winter</hi> ended the year.&rsquo; Procopius imitates this expression of Thuc.; but for the second <foreign lang="greek">e)teleu/ta</foreign> he regulaily substitutes <foreign lang="greek">e)/lhge</foreign>. The object of Thuc. in thus repeating <foreign lang="greek">e)teleu/ta</foreign> is doubtless to mark the fact that the end of winter and the end of the year of war coincide.</p></div3></div2>
-<div2 type="CHAPTER" n="8"><p></p>
+<div2 type="CHAPTER" n="8"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">h(=kon</lemma>&mdash;&lsquo;returned,&rsquo; as often. 
 </p>
@@ -502,7 +501,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">mega/lou e)/rgou</lemma>&mdash;this is taken as in apposition to <foreign lang="greek">*sikeli/as</foreign>, though in sense belonging to <foreign lang="greek">e)fi/esqai th=s *sik</foreign>. Stahl refers to Eur. <hi rend="ITALIC">Herc.</hi> 323 <foreign lang="greek">w(s mh\ te)kn' ei)si/dwmen, a)no/sion qe/an, yuxorragou=nta</foreign>, which is quite different, because <foreign lang="greek">te/kna yuxorragou=nta</foreign>=<foreign lang="greek">qe/a a:no/sios</foreign> is possible, whereas <foreign lang="greek">*sikeli/a</foreign>=<foreign lang="greek">e)/rgon me/ga</foreign> is impossible except as a brachylogy. Hence perhaps <foreign lang="greek">e)/rgou mega/lou</foreign> was in apposition to &lt;<foreign lang="greek">a)/rcai</foreign>&gt; (ingressive)  <foreign lang="greek">th=s *sikeli/as</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">a)potre/yai</lemma>&mdash;on the action of Nicias see c. 14.</p></div3></div2>
-<div2 type="CHAPTER" n="9"><p></p>
+<div2 type="CHAPTER" n="9"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)/ti</lemma>&mdash;&lsquo;further.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">a)/meinon</lemma>=&lsquo;prudent.&rsquo; </p>
@@ -524,7 +523,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">sw/|zein</lemma>&mdash;this and <foreign lang="greek">u(pa/rxonta, e(toi/mois, a)fanw=n, mello/ntwn, kinduneu/ein</foreign>, are all words that suggest business transactions. <foreign lang="greek">u(pa/rxonta</foreign>=&lsquo;balance in hand&rsquo;; <foreign lang="greek">sw/|zein</foreign>=&lsquo;to keep in safe deposit,&rsquo; as in Plat. <hi rend="ITALIC">Rep.</hi> 333 C <foreign lang="greek">parakataqe/sqai kai\ sw=n ei)=nai</foreign>: <foreign lang="greek">e(toi=ma</foreign>=&lsquo;ready money&rsquo;; <foreign lang="greek">a)fanh=</foreign> (<hi rend="ITALIC">not</hi> in its technical sense, &lsquo;personal property,&rsquo; but)=&lsquo;what is merely conjectural&rsquo;; <foreign lang="greek">kinduneu/ein</foreign>=&lsquo;to stake&rsquo; or &lsquo;invest.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">katasxei=n</lemma>&mdash;&lsquo;to secure.&rsquo; Kruger takes <foreign lang="greek">r(a/|dia</foreign> as=<foreign lang="greek">r(a/|dion</foreign>: but it may be that <foreign lang="greek">e)f) a(\</foreign>=<foreign lang="greek">e)kei=na e)f) a(/</foreign>, so that the trans. is &lsquo;the objects for which you are eager are not easy of attainment,&rsquo; and so Bloomfield takes it.</p></div3></div2>
-<div2 type="CHAPTER" n="10"><p></p>
+<div2 type="CHAPTER" n="10"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">deu=ro</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> you have not to think only of the  enemies you will find in Sicily. Already before the Pel. war Sparta had applied for help to Sicily: now the friends of Sparta there would be provoked to send it.
 </p>
@@ -578,7 +577,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">h(mei=s de/</lemma>&mdash;this clause does not, as Classen thought, depend on <foreign lang="greek">ei) . . ge</foreign>, but clearly stands in antithesis to <foreign lang="greek">xrh\ skopei=n tina</foreign>, as Stahl explains. What we <hi rend="ITALIC">are</hi> doing is quite different from what we <hi rend="ITALIC">ought</hi> to be doing. The contrast between <foreign lang="greek">skopei=n</foreign> and <foreign lang="greek">o)ce/ws</foreign> (<foreign lang="greek">metaxeiri/sai</foreign>) is repeated in c. 12, 2.
 </p>
 <p><lemma lang="greek" targOrder="U">dh/</lemma>&mdash;with <foreign lang="greek">bohqou=men *)egestai/ois</foreign>. The verbal contrasts between <foreign lang="greek">ou)=si cumma/xois</foreign> and <foreign lang="greek">pa/lai a)festw/twn, a)dikoume/nois</foreign> and <foreign lang="greek">au)toi) a)dikou/meqa, bohqou=men</foreign> and <foreign lang="greek">a)mu/nesqai</foreign> are good examples of antithesis in the <hi rend="ITALIC">enthymeme</hi>, or rhetorical inference. The enthymeme, which is very common in the speeches of Thuc., is &lsquo;a syllogism drawn, not from the premisses proper to any particular seience&mdash;such as medicine&mdash;but from propositions relating to contingent things in the sphere of human action&rsquo; (Jebb): thus here:&mdash;<hi rend="ITALIC">proposition</hi> 1, we aid Segesta; <hi rend="ITALIC">proposition</hi> 2, we neglect our revolted subjects. The inference is that we are neglecting the city's interest in not reducing the revolted to obedience. The most approved form of <hi rend="ITALIC">enthymeme</hi> according to later rhetoricians is this, which Cieero calls <hi rend="ITALIC">sententia ex contrariis conclusa: e.g.</hi> Cic. <hi rend="ITALIC">pro Sulla</hi> &sect; 22 <hi rend="ITALIC">an vero clarissimum virum generis vestri ac nominis nemo reprehendit qui filium suum vita privavit . . : tu rempublicam reprehendis, quae domesticos hostes . . necavit?</hi> One of the two premisses is often omitted, in which case the <hi rend="ITALIC">enthymeme</hi> becomes a mere statement backed up with a single reason.</p></div3></div2>
-<div2 type="CHAPTER" n="11"><p></p>
+<div2 type="CHAPTER" n="11"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai/toi . . katerg. ka)\n kat</lemma>&mdash;the alliteration  renders the assertion more incisive.
 </p>
@@ -640,7 +639,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">di' o)ligarxi/as</lemma>&mdash;&lsquo;by means of an oligarchy.&rsquo; Nicias had experienced the cunning of the Spartan government in the matter of the peace. It had been reduced to a name (c. 10, 2) through Spartan diplomacy aided by those in Athens who played into the hands of Sparta. This is a direct appeal to the extreme democrats, who were eagerly supporting the expedition. Cf. Demosth. 15, 30 <foreign lang="greek">ei(=s a)gw/n e)stin o( pro\s tou\s prodh/lous e)xqrou/s</foreign>. Stein thinks <foreign lang="greek">di' o)</foreign>.=<foreign lang="greek">o)ligarxikw=s</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">fulaco/meqa</lemma>&mdash;<hi rend="ITALIC">M.T.</hi> &sect; 339.</p></div3></div2>
-<div2 type="CHAPTER" n="12"><p></p>
+<div2 type="CHAPTER" n="12"><p/>
 <div3 type="SECTION" n="1"><p>  <foreign lang="greek"><hi rend="BOLD">lelwfh/kamen</hi>&mdash;lwfa=|: pau/etai</foreign> Hesych.: <foreign lang="greek">lwfa=| th=s  o)du/nhs</foreign>, Plat. <hi rend="ITALIC">Phaedr.</hi> 251 C; cf. <bibl n="Thuc. 2. 49">II. 49</bibl>, 5 <foreign lang="greek">meta\ tau=ta lwfh/santa</foreign>, of symptoms abating.
 </p>
 <p><lemma lang="greek" targOrder="U">xrh/masi kai\ toi=s sw/masin</lemma>&mdash;for the rather unusual art., cf. Demosth. 16, 12 <foreign lang="greek">kai\ xrh/mat' ei)sfe/rein kai\ toi=s sw/masi kinduneu/ein</foreign>: 22, 55 <foreign lang="greek">ei)s xrh/mata th\n di/khn prosh/kei lamba/nein. o( de\ ei)s ta\ sw/mata . . e)poih/sato ta\s timwri/as</foreign>. Clas. thinks the art. is added to give prominence to the more important item. <pb n="145"/>
@@ -674,7 +673,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)llampru/nesqai</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> <foreign lang="greek">lampru/nesqai e)n tw=| . . kindu/nw|</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">mh\ oi(=on newte/rous b</lemma>&mdash;&lsquo;not one for young men to decide and to carry out in a hurry.&rsquo; <foreign lang="greek">oi(=os</foreign>=<foreign lang="greek">toiou=tos w(/ste</foreign>, as often.</p></div3></div2>
-<div2 type="CHAPTER" n="13"><p></p>
+<div2 type="CHAPTER" n="13"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">parakeleustou/s</lemma>&mdash;Goller quotes Photius <hi rend="ITALIC">s.r.</hi>,  <foreign lang="greek">oi( e)k parakeleu/sews kai\ paraklh/sews sullamba/nontes</foreign>. It was deemed contrary to order (<foreign lang="greek">eu)kosmi/a</foreign>) in the Ecclesia to appeal (<foreign lang="greek">parakeleu/esqai</foreign>) to persons, <hi rend="ITALIC">except</hi> of course while making a speech, and it appears that there were penalties for any interruption of the kind. (The evidence for this is Aeschines 1, 61, where <foreign lang="greek">parakeleu/htai</foreign> is surely misunderstood by Schomann <hi rend="ITALIC">de Com. Ath.</hi>, E T. 119.) It was the business of the <foreign lang="greek">pruta/neis</foreign>, on whom see c. 14, 1, <foreign lang="greek">e)pimelei=sqai eu)kosmi/as</foreign>.
 </p>
@@ -705,7 +704,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">kai\ cunh=yan . . kai\ kat</lemma>&mdash;the double <foreign lang="greek">kai/</foreign> serves to balance the clauses.
 </p>
 <p><lemma lang="greek" targOrder="U">w)feli/as de/</lemma>&mdash;cf. on c. 11, 1.</p></div3></div2>
-<div2 type="CHAPTER" n="14"><p></p>
+<div2 type="CHAPTER" n="14"><p/>
 <div3 type="SECTION" n="1"><p> l. <hi rend="BOLD">1. <foreign lang="greek">pru/tani</foreign></hi>&mdash;<hi rend="ITALIC">i.e.</hi> the <foreign lang="greek">e)pista/ths tw=n pruta/newn</foreign> who  presided both in <foreign lang="greek">boulh/</foreign> and <foreign lang="greek">e)kklhsi/a</foreign>, the president chosen by lot from the fifty <foreign lang="greek">bouleutai/</foreign> of that <foreign lang="greek">fulh/</foreign> which happened to be on duty in the current Prytany. In the case before us the Prytany lasted thirty-five days (Aristot. <hi rend="ITALIC">Ath. Pol.</hi> c. 43).
 </p>
 <p><lemma lang="greek" targOrder="U">kh/desqai</lemma>&mdash;for the day and night during which the <foreign lang="greek">e)pista/ths</foreign> was on duty, he was in charge of the state seal, and held the keys of the temples in which state funds and documents were kept,
@@ -722,7 +721,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">h)/</lemma>&mdash;&lsquo;or at least.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">to\ kalw=s a)/rcai ktl</lemma> and indeed the whole of the closing passage of the speech, contains unmistakable references to the <foreign lang="greek">o(/rkos bouleutiko\s</foreign> (for which see <hi rend="ITALIC">Ath. Pol.</hi> c. 22, 2 with Sandys' note) <foreign lang="greek">e)n w(=| h)=n kata\ tou\s no/mous bouleu/sein</foreign>. The <foreign lang="greek">e)pista/ths</foreign> might think that he would be violating the spirit of the oath. But <foreign lang="greek">bla/ptein th\n po)lin</foreign> cannot be consistent with an oath <foreign lang="greek">ta\ be/ltista sumbouleu/sein th=| po/lei</foreign> (Lys. 31, 1).</p></div3></div2>
-<div2 type="CHAPTER" n="15"><p></p>
+<div2 type="CHAPTER" n="15"><p/>
 <div3 type="SECTION" n="2"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ e)s ta)=lla</lemma>&mdash;since the Peaee of Nicias, which  Alc. had opposed.
 </p>
@@ -751,7 +750,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)pitre/yantes</lemma>&mdash;sc. <foreign lang="greek">th\n po/lin</foreign>. The Schol. says <foreign lang="greek">ta\ tou= pole/mou</foreign>, but (1) this would be a charge against the other generals in Sicily such as Thuc. nowhere makes; (2) the sense is not so forcible; (3) the order of words is against it.
 </p>
 <p><lemma lang="greek" targOrder="U">ou) dia\ makrou=</lemma>=<foreign lang="greek">di' o)li/gou</foreign>, <hi rend="ITALIC">i.e.</hi> <foreign lang="greek">u(/steron</foreign> of &sect; 3. It should be noticed that Thuc. traces the ruin of Athens, not to the incapacity of Nicias, but rather to the measures taken by the Ecclesia after the departure of the Expedition.</p></div3></div2>
-<div2 type="CHAPTER" n="16"><p></p>
+<div2 type="CHAPTER" n="16"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ prosh/kei moi</lemma>&mdash;the speech displays with  great power (1) the temperament of Alc., (2) the reckless energy of the advanced democrats. The expedition to Sicily would not have been rash had it not been for the difficulties that were unsolved in Greece. Such seems to be the view of Thuc. (<bibl n="Thuc. 2. 65">II. 65</bibl>; <bibl n="Thuc. 7. 28">VII. 28</bibl>), who seems to think too that the forces should have been reealled when Nicias wrote home in the winter of 414. So too Isocrates, who has a long passage about the expedition (8, 85). &lsquo;The terms <foreign lang="greek">prosh/kei m</foreign>. and <foreign lang="greek">a)/cios ei(=nai</foreign> are not convertible; the former having referenee to his <pb n="150"/> <hi rend="ITALIC">right</hi> to the office, on the score of his birth, wealth, and lavish expenditure for the benefit of the state (in which view cf. Plato, p. 491 D <foreign lang="greek">tou/tous prosh/kei tw=n po/lewn a)/rxein</foreign>)&rsquo; (Bloomfield). Many passages (Gilbert, <hi rend="ITALIC">Bcitrage</hi>, pp. 2-5) show that in the fifth century B.C. the <foreign lang="greek">strathgi/a</foreign> was associated with such advantages.
 </p>
@@ -813,7 +812,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">kindu/nou</lemma>&mdash;Alc. is described <bibl n="Thuc. 5. 52">v. 52</bibl> as taking with him to the Pel. only a few Ath. hoplites and archers.
 </p>
 <p><lemma lang="greek" targOrder="U">e)s mi/an h(me/ran</lemma>&mdash;&lsquo;in one day&rsquo;: cf. Aristoph. <hi rend="ITALIC">Pax</hi> 366 <foreign lang="greek">e)co/lwlas . . ei)s au)ti/ka ma/la</foreign>, answering <foreign lang="greek">ei)s ti/n' h(me/ran</foreign>; to be joined with <foreign lang="greek">a)gwni/sasqai</foreign>, which is governed by <foreign lang="greek">kate/sthsa</foreign>&mdash;&lsquo;I made them fight.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="17"><p></p>
+<div2 type="CHAPTER" n="17"><p/>
 
 <p><lemma lang="greek" targOrder="U">e)c ou)=</lemma>&mdash;with <foreign lang="greek">qarsou=sin</foreign>. Though they won in 418, yet even in 415 their confidenee is not fully restored. This boast is of no value. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -855,7 +854,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)ne/lpistoi</lemma>&mdash;active, &lsquo;despondent.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">nu=n</lemma> is aecommodated to <foreign lang="greek">ei)/ te . . e)/rrwntai</foreign>, where <foreign lang="greek">te</foreign> corresponds to <foreign lang="greek">ou)/te</foreign>, &lsquo;even if they are ever so confident, to invade us is in their power.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">to\ me\n e)sba/llein</lemma> is aecus. of &lsquo;respect,&rsquo; as in <bibl n="Thuc. 2. 53">II. 53</bibl> <foreign lang="greek">to\ me\n prostalaipwrei=n ou)dei\s pro/qumos h)=n</foreign> (<hi rend="ITALIC">M.T.</hi> &sect; 795).</p></div3></div2>
-<div2 type="CHAPTER" n="18"><p></p>
+<div2 type="CHAPTER" n="18"><p/>
 
 <p><lemma lang="greek" targOrder="U">bla/ptein</lemma>&mdash;the real question is, Would Athens still have a fleet large enough to retaliate on the Pel. in ease of an invasion by making effective deseents on the coast of Pel.? <foreign lang="greek">e)stin</foreign> means after subtracting the fleet for Sicily: but <foreign lang="greek">a)nti/palon</foreign> begs the question. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -923,7 +922,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">gignw/skw . . moi dokei=n</lemma>&mdash;&lsquo;on the whole I judge that in my opinion a state accustomed to activity would quickly be ruined by a change to inactivity.&rsquo; For <foreign lang="greek">gignw/skw</foreign> with infin, see <hi rend="ITALIC">M.T.</hi> &sect; 915. <foreign lang="greek">moi dokei=n</foreign> is not superfluons, but is intended to emphasise the contrast between the views of Alc. and Nic.
 </p>
 <p><lemma lang="greek" targOrder="U">kai\ tw=n a)nqrw/pwn ktl</lemma>&mdash;this sentiment has become a commonplace, but is capable of being variously applied. The datives go with <foreign lang="greek">diafo/rws</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="19"><p></p>
+<div2 type="CHAPTER" n="19"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">fuga/dwn</lemma>&mdash;this and the rel. clause belong to <foreign lang="greek">*aeonti/nwn</foreign> only. 
 </p>
@@ -934,7 +933,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ei) pollh\n e)</lemma>&mdash;this hope of N. was, as Freeman says, &lsquo;not quite honest.&rsquo; It is strange that he did not resign.
 </p>
 <p><lemma lang="greek" targOrder="U">au)toi=s au)=qis</lemma>&mdash;with <foreign lang="greek">parelqw/n</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="20"><p></p>
+<div2 type="CHAPTER" n="20"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)pi\ tw=| paro/nti</lemma>&mdash;&lsquo;under the circumstances.&rsquo; Cf. <foreign lang="greek">e)pi\ tou/tois</foreign> c. 45. </p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -964,7 +963,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)parxh\ e)sfe/retai</lemma>&mdash;&lsquo;first-fruits are contributed.&rsquo; Some of the Sicels were dependent on Syracuse, and lived on their land on sufferance, paying a rent in kind. Hence in c. 45 to the dependent Sicels <foreign lang="greek">fu/lakes</foreign> are seut by Syr. to seeure them ou the coming of the Athenians. Some Sicels had even become serfs at Syracuse in the earliest times of the city, under the title <foreign lang="greek">kallu/rioi</foreign> (Freeman, <hi rend="ITALIC">Sic.</hi> II. Appendix II.) For the variant <foreign lang="greek">a)p' a)rxh=s fe/retai</foreign> see <hi rend="ITALIC">not, crit.</hi>
 </p>
 <p><lemma lang="greek" targOrder="U">i(/ppous</lemma>&mdash;cf. Pindar, <hi rend="ITALIC">Pyth.</hi> <bibl n="Thuc. 2. 1">II. 1</bibl> <foreign lang="greek">*megalapo/lies w)= *sura/kosai, baqupole/mou te/menos *)/areos, a)ndrw=n i(/ppwn te sidaroxarma=n daimo/niai trofoi/</foreign>. Soph. <hi rend="ITALIC">O.C.</hi> 507 <foreign lang="greek">gunai=x' o(rw=</foreign> &verbar; <foreign lang="greek">stei/xousan h)mw=n a)=sson, *ai)tnai/as e)pi\</foreign> &verbar; <foreign lang="greek">pw/lou bebw=san</foreign>. Athens, on the contrary, had to buy her horses from Boeotia and elsewhere.</p></div3></div2>
-<div2 type="CHAPTER" n="21"><p></p>
+<div2 type="CHAPTER" n="21"><p/>
 
 <p><lemma lang="greek" targOrder="U">si/tw|</lemma>&mdash;Sicily has always been famed for its corn. (See Freeman, <hi rend="ITALIC">Sic</hi> I. pp. 67, 91.) On the contrary, Athens had to import corn, mainly from the ports of the Euxine, also from Euboea, and shortly after this time from Cyprus. She was on several occasions in great straits on this account when an enemy controlled the sea. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -995,7 +994,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)parth/santes</lemma>&mdash;sc. <foreign lang="greek">strateuso/menoi</foreign>. The word is explained by the Schol.: <foreign lang="greek">a)parthqe/ntes, a)pelqo/ntes, kai\ polu\ th=s oi)kei/as xwrisqe/ntes</foreign>. The only passage that supports the supposed intrans. use of the act. is Dio Cass. 51, 4, 2 quoted by Pape and Clas. Now to <foreign lang="greek">a)parth/santes</foreign> supply <foreign lang="greek">a)po\ th=s h(mete/ras au)tw=n</foreign> from above&mdash;the main point being that the armament is separated from, cut off from home, and transferred to a distant land. Thus <foreign lang="greek">e)s . . a)parth/santes</foreign> repeats with an addition <foreign lang="greek">polu\ . . me/llomen plei=n</foreign>. The <hi rend="ITALIC">object</hi> of <foreign lang="greek">a)parth/santes</foreign> (<foreign lang="greek">th\n paraskeuh/n</foreign>) is implied in the preceding words, and its omission is no more than the ordinary omission of an object with military words. The phrase <foreign lang="greek">e)s gh=n a)parta=n</foreign> is a brachylogy for &lsquo;to cut off (and place) in a country.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">ou)de/</lemma>&mdash;misplaced, if the sense is&mdash;what it is always assumed to be&mdash;&lsquo;from which not even a messenger can easily come in the four winter months.&rsquo; But what no onc can tell is why N., if he means this, should say &lsquo;from which <hi rend="ITALIC">not even within four months</hi>, I mean in the winter months, is it easy for a messenger to come.&rsquo; Surely N. means what he says. He puts the case in its worst light. Should it be required to send at beginning of winter, it would be difficult for a messenger to go, and he might have to wait for spring, or put into an Italian or even a Libyan port for refuge. The months are Maimacteriou, Posideon, Gamelion, Anthesterion, corresponding roughly to November, December, January, and February, and they are taken not singly, but as together making up the time when voyaging was dangerous.</p></div3></div2>
-<div2 type="CHAPTER" n="22"><p></p>
+<div2 type="CHAPTER" n="22"><p/>
 
 <p><lemma lang="greek" targOrder="U">tw=n xeimerinw=n</lemma>&mdash;by no means a gloss on <foreign lang="greek">tessa/rwn</foreign>, as some have supposed, but absolutely necessary; for without them the statement made by N. would be a manifest absurdity. With them the statement is a debater's argument of a quibbling character. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1016,7 +1015,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ta\ par' *)e. . . e(toi=ma ei)=nai</lemma>&mdash;as in <bibl n="Thuc. 1. 69">I. 69</bibl> <foreign lang="greek">ta\ par' u(mw=n a)ci/ws proapanth=sai</foreign>. &lsquo;The support of Segesta&rsquo; is that promised in c. 8, 2.
 </p>
 <p><lemma lang="greek" targOrder="U">le/getai</lemma>&mdash;the passive is used both personally and impersonally, and regularly with infiu.</p></div3></div2>
-<div2 type="CHAPTER" n="23"><p></p>
+<div2 type="CHAPTER" n="23"><p/>
 
 <p><lemma lang="greek" targOrder="U">kai\ lo/gw|</lemma>&mdash;there is a play on the double meaning of <foreign lang="greek">le/gw, lo/gos</foreign>&mdash;<hi rend="ITALIC">statement</hi> and <hi rend="ITALIC">pretence.</hi> </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1049,7 +1048,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">tau=ta ga\r . . bebaio/tata . . swth/ria</lemma>&mdash;see Index II. <hi rend="ITALIC">fines</hi>, <foreign lang="greek">telika\ kefa/laia</foreign>, <hi rend="ITALIC">i.e.</hi> the points on which a speaker insists in order to persuade. Here they are <foreign lang="greek">to\ be/baion</foreign> and <foreign lang="greek">to\ swth/rion</foreign>, and these may be considered varieties of <foreign lang="greek">to\ sumfe/ron</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">ei) de/ tw|</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> if any of the ten strategi not appointed to the command takes a different view. It is indeed probable that other members of the board besides Nicias, Alcibiades, and Lamachus were going to Sicily, but with powers subordinate to theirs. Thus an inscription (Hicks, <hi rend="ITALIC">Gr. Ins.</hi> p. 96), referring to the official year July 416-July 415, mentions Antimachus among the strategi sent to Sicily along with Lamachus and Alcibiades.</p></div3></div2>
-<div2 type="CHAPTER" n="24"><p></p>
+<div2 type="CHAPTER" n="24"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">tw=n pragma/twn</lemma>&mdash;&lsquo;by the scale of the requirements&rsquo;:  cf. c. 19, 2 <foreign lang="greek">paraskeuh=s plh/qei</foreign>. The second <foreign lang="greek">h)\</foreign> = <foreign lang="greek">ei) de\ mh/</foreign>: the first is probably spurious.
 </p>
@@ -1085,7 +1084,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)i/dion misqofora/n</lemma>&mdash;this is explained by editors to mean that the addition of Sicily to the empire would lead to continual campaigns; but Gilbert rightly paraphrases: &lsquo;they hoped to get permanent employment out of the acquisition somehow&rsquo;: <foreign lang="greek">misqofora/</foreign> is used loosely for pay for any services.
 </p>
 <p><lemma lang="greek" targOrder="U">u(pa/rcein</lemma>&mdash;the attraction of short rel. clauses into infin. in reported speech is less rare in Gk. than in Lat. Thuc. has nine instances.</p></div3></div2>
-<div2 type="CHAPTER" n="25"><p></p>
+<div2 type="CHAPTER" n="25"><p/>
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kako/nous . . th=| po/lei</lemma>&mdash;the application of the phrase here reminds us of Dr. Johnson's description of Patriotism as &lsquo;the last refuge of a scoundrel.&rsquo; </p></div3>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1114,7 +1113,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">w(s kata\ lo/gon</lemma>&mdash;two explanations are given of this phrase: (1) Classen and Stahl say it is the same as <foreign lang="greek">w(s e(/kastos</foreign> (in Herod. and Thuc.) without a verb, so that the full form is <foreign lang="greek">w(s kata\ lo/gon e(toima/sainto a)/n</foreign>: (2) Kruger compares <foreign lang="greek">w(s</foreign> with numerals, so that the sense is &lsquo;<hi rend="ITALIC">about</hi> in proportion.&rsquo; The former is apparently right, because the number of the hoplites is left uncertam, and the other numbers are to depend on the number of hoplites ultimately fixed.
 </p>
 <p><lemma lang="greek" targOrder="U">e(toimasa/menoi</lemma>&mdash;when a plural subj. of infin. includes the subject of the main verb as here, whether in whole or in part, it is put in the nom. or accus. at will. Cf. <bibl n="Thuc. 7. 48">VII. 48</bibl>, 1 <foreign lang="greek">o( *niki/as e)no/mize . . laqei=n a)\n . . poiou=ntes</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="26"><p></p>
+<div2 type="CHAPTER" n="26"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ peri\ stratia=s plh/qous ktl</lemma>&mdash;this vote  shows how chary the Ecclesia was of delegating its authority even to the Strategi. Even this did not excuse them from their responsibility: they would still have to render an account <pb n="166"/> (<foreign lang="greek">eu)/quna</foreign>) on laying down their office, and might be prosecuted if they made mistakes (<bibl n="Thuc. 7. 48">VII. 48</bibl>). Gardner and Jevons, <hi rend="ITALIC">Manual</hi> p. 470.</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -1127,7 +1126,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)s</lemma>&mdash;&lsquo;with regard to,&rsquo; as often.
 </p>
 <p><lemma lang="greek" targOrder="U">xrhma/twn</lemma>&mdash;7000 talents had been stored in the Treasury during the Peace of Nicias, if Andocides and Aeschines are to be trusted.</p></div3></div2>
-<div2 type="CHAPTER" n="27"><p></p>
+<div2 type="CHAPTER" n="27"><p/>
 
 <p><lemma lang="greek" targOrder="U">a)/qroisin</lemma>&mdash;cf. <hi rend="ITALIC">Ath. Pol.</hi> c. 24 <foreign lang="greek">xrhma/twn h)qroisme/nwn pollw=n</foreign>. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1155,7 +1154,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">e)pi\ cunwmosi/a|</lemma>&mdash;cf. c. 60, 1. </p>
 <p><lemma lang="greek" targOrder="U">dh/mou kata/lusis</lemma> is one of the crimes to which the <foreign lang="greek">no/mos ei)saggeltiko/s</foreign> applied. The crime was first dealt with by Solon, and is often alluded to.</p></div3></div2>
-<div2 type="CHAPTER" n="28"><p></p>
+<div2 type="CHAPTER" n="28"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)po/</lemma>&mdash;cf. c. 45, 1 <foreign lang="greek">a)po\ tw=n katasko/pwn safh= h)g-</foreign>  <foreign lang="greek">ge/lleto</foreign>: <bibl n="Thuc. 1. 20">I. 20</bibl> <foreign lang="greek">e)k tw=n cuneido/twn memhnu=sqai</foreign>: c. 36, 2.
 </p>
@@ -1172,7 +1171,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">oi( . . a)xqo/menoi</lemma>&mdash;foremost among these was Androcles the demagogue, who was put to death in 411.
 </p>
 <p><lemma lang="greek" targOrder="U">ou)de\n ei)/h au)tw=n</lemma>&mdash;it is generally agreed among modern writers that Alc. had nothing to do with the mutilation of the Hermae. The authors of the mutilation remain unknown, and various views are held; the most probable being that the outrage was the work of oligarchs, undertaken with a view to rnin Alcibiades, and used with the same purpose by some of the extreme democrats. In none of the lists of Hermocopids furnished by informers did Alcibiades's name occur.</p></div3></div2>
-<div2 type="CHAPTER" n="29"><p></p>
+<div2 type="CHAPTER" n="29"><p/>
 
 <p><lemma lang="greek" targOrder="U">ou) dhmotikh/n</lemma>&mdash;&lsquo;unconstitutional.&rsquo; </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1206,7 +1205,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)n h/me/rais r(htai=s</lemma>&mdash;&lsquo;within a fixed time after his return&rsquo;; cf. Demosth. 23, 72 <foreign lang="greek">ti/ ou)=n o( no/mos keleu/ei; . . e)/n tisin ei/rhme/nois xro/nois a)pelqei=n</foreign>. Aeschines <bibl n="Thuc. 2. 109">II. 109</bibl> <foreign lang="greek">bouleu/sasqai to\n dh=mon u(pe\r ei/rh/nhs e)n taktai=s h(me/rais</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">e)k mei/zonos diabolh=s . . a)gwni/sasqai</lemma>&mdash;as in <hi rend="ITALIC">Lys.</hi> 3, 48 <foreign lang="greek">e)k toiou/twn pragma/twn ei)s toiou/tous a)gw=nas katasth=nai</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="30"><p></p>
+<div2 type="CHAPTER" n="30"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">qe/rous mesou=ntos h)/dh</lemma>&mdash;cf. Isaeus 6, 14 <foreign lang="greek">th=| stratia|</foreign>  <foreign lang="greek">a)f) ou(= e)ce/pleusan ei/s *sikeli/an h)/dh e)sti\ du/o kai\ penth/konta e)/th, a)po\ *)areimnh/stou a)/rxontos</foreign>. With this date the Schol. on Aristoph. <hi rend="ITALIC">Birds</hi> hypoth. 11 agrees. Arimnestus went out of office on the last day of Scirophorion (June-July) 415. Hence the date of the departure is about the end of June.
 </p>
@@ -1228,7 +1227,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ta\ me\n w(s kth/sointo</lemma>&mdash;&lsquo;(hoping) that they might gain Sicily.&rsquo; <hi rend="ITALIC">M.T.</hi> &sect;&sect; 128, 136
 </p>
 <p><lemma lang="greek" targOrder="U">tou\s d' ei)/ pote</lemma>&mdash;&lsquo;(lamenting) that they might <hi rend="ITALIC">never</hi> see their friends again.&rsquo; This is the same use of <foreign lang="greek">ei)</foreign> as appears after verbs of <hi rend="ITALIC">fearing, M.T.</hi> &sect; 376; Eur. <hi rend="ITALIC">Med.</hi> 184 <foreign lang="greek">a)ta\r fo/bos ei)</foreign> <pb n="170"/> <foreign lang="greek">pei/sw</foreign>. But <hi rend="ITALIC">metus si</hi> = &lsquo;fear lest,&rsquo; Tac. <hi rend="ITALIC">An.</hi> 1, 11 <hi rend="ITALIC">quibus unus metus si intellegere viderentur.</hi></p></div3></div2>
-<div2 type="CHAPTER" n="31"><p></p>
+<div2 type="CHAPTER" n="31"><p/>
 
 <p><lemma lang="greek" targOrder="U">o)/yointo</lemma>&mdash;this and c. 34, 5 <foreign lang="greek">ei) u(pode/cointo</foreign>, are the only two examples of <foreign lang="greek">ei)</foreign> with fut. opt. in Thuc., and they may both be regarded as interrogative uses of  <foreign lang="greek">ei)</foreign>. In conditional sentences Thuc. almost invariably retains the indic. after <foreign lang="greek">ei)</foreign> in <hi rend="ITALIC">O.O.</hi> </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1309,7 +1308,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">me/gistos dia/plous</lemma>&mdash;&lsquo;this is said because, though Egypt (against which they had formerly gone [460 B.C.] was farther in direct distance, yet the circuitous navigation to Sieily made a greater distance&rsquo; (Bloomfield).
 </p>
 <p><lemma lang="greek" targOrder="U">e)pi\ megi/sth| e). pro/s</lemma>&mdash;&lsquo;with the greatest hopes in comparison with their present position.&rsquo; The note in Jowett misses the point, which is that they looked forward to an <hi rend="ITALIC">enormous</hi> extension of empire: &lsquo;Had Athens succeeded . . she would soon have added to her dominions part of Italy, and perhaps Carthage&mdash;the whole of Greece, and perhaps Maeedonia and Thrace&rsquo; (Bloomfield). See c. 90, 2.</p></div3></div2>
-<div2 type="CHAPTER" n="32"><p></p>
+<div2 type="CHAPTER" n="32"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">ta\s nomizome/nas pro\ th=s a)nagwgh=s</lemma>&mdash;&lsquo;that were  customary before the start.&rsquo; What is unusual is that the prayers were offered in common, and not by each ship independently.
 </p>
@@ -1322,7 +1321,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)pi\ ke/rws</lemma>&mdash;&lsquo;in single file,&rsquo; opposite of <foreign lang="greek">metwphdo/n</foreign> or <foreign lang="greek">e)pi\ metw/pon</foreign>. Cf. <foreign lang="greek">kata\ mi/an</foreign> and <foreign lang="greek">e)pi\ mi/an</foreign>, &lsquo;one behind another.&rsquo; When outside the harbour, they began raeing.</p></div3>
 <div3 type="SECTION" n="3"><p>  </p>
 <p><lemma lang="greek" targOrder="U">toioi/de</lemma>&mdash;it is plain, as Stahl says, that the <hi rend="ITALIC">views</hi> expressed by Hermoerates differed from those generally put forward. But &lsquo;speeches like this&rsquo; (of Hermoerates) need not mean more than speeches that expressed views on the situation and offered adviee.</p></div3></div2>
-<div2 type="CHAPTER" n="33"><p></p>
+<div2 type="CHAPTER" n="33"><p/>
 
 <p><lemma lang="greek" targOrder="U">*(ermokra/ths</lemma>&mdash;leader of the aristocratie party, and ranked by later writers with Timoleon. His chief doctrine, compared by Freeman to the Monroe doctrine, was Sicily for the Siceliots. He had persuaded the Greek cities of Sieily to make peacc in 424, and thus had already dealt a heavy blow to Athenian designs in the island. Dionysius I. married his daughter. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1370,7 +1369,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ka)\n peri\ sfi/sin au)toi=s</lemma>&mdash;<bibl n="Thuc. 1. 69">I. 69</bibl> <foreign lang="greek">to\n ba/rbaron au)to\n peri\ au)tw=| ta\ plei/w sfale/nta</foreign>. Soph. <hi rend="ITALIC">Ajax</hi> 828 <foreign lang="greek">peptw=ta tw=|de peri\ neorra/ntw| ci/fei</foreign>. Herod. 9, 101 <foreign lang="greek">mh\ peri\ *mardoni/w|</foreign>. Aristoph. <hi rend="ITALIC">Pax</hi> 905 <foreign lang="greek">peri\ tai=si kampai=s . . peptwko/tes</foreign>. The other ordinary prose use of <foreign lang="greek">peri/</foreign> with dat. is after verbs of <hi rend="ITALIC">fearing,</hi> as usually in Thuc. (cf. Aristoph. <hi rend="ITALIC">Eq.</hi> 27 <foreign lang="greek">peri\ tw=| de/rmati de/doika</foreign>). &lsquo;As examples of a striking deviation from his usual construction may be mentioned <bibl n="Thuc. 3. 102">III. 102</bibl> <foreign lang="greek">dei/sas peri) au)th=s</foreign> . . <bibl n="Thuc. 8. 93">VIII. 93</bibl> <foreign lang="greek">e)fobei=to peri\ tou= politikou=</foreign>, for elsewhere Thuc. has <foreign lang="greek">peri/</foreign> with dat, after verbs of fearing, according to the usual Attic construction (cf. Phrynichus in <hi rend="ITALIC">B.A.G.</hi> p. 37 <foreign lang="greek">de/doika peri\ tw=|de, kata\ dotikh\n w)s e)pi\ to\ polu\ oi( *)attikoi/</foreign>)&rsquo; (Prof. C. F Smith). But Phrynichus speaks too strongly: the construction occurs but once in  <pb n="176"/> Aristoph., never in the orators, unless in Antiphon, <hi rend="ITALIC">Fr.</hi> 77 we should alter <foreign lang="greek">dei=sqai peri\ tou=</foreign>. But it is wrong to pronounce <foreign lang="greek">peri/</foreign> with dat. &lsquo;poetical and Ionic&rsquo; with Du Mesml. (There is great variety in the use of prepositions in Attic, and in the dictum of the Alexandrine grammarians there is some truth: <foreign lang="greek">para\ *qoukudi/dh| e)nhllagme/nws pa/sas eu(rh/seis ta\s proqe/seis keime/nas</foreign>.)
 </p>
 <p><lemma lang="greek" targOrder="U">o(/per . . hu)ch/qhsan</lemma> = <foreign lang="greek">h(/nper au)/chsin hu)ch/qhsan</foreign> (Poppo).</p></div3></div2>
-<div2 type="CHAPTER" n="34"><p></p>
+<div2 type="CHAPTER" n="34"><p/>
 
 <p><lemma lang="greek" targOrder="U">e)pi\ tw=| o)</lemma>&mdash;<bibl n="Thuc. 7. 64">VII. 64</bibl> <foreign lang="greek">to\ me/ga o)/noma tw=n *)aqhnw=n</foreign>: &lsquo;owing to their reputation as the city that he had attacked.&rsquo; That <foreign lang="greek">o)/noma</foreign> does not mean &lsquo;fiction&rsquo; or &lsquo;mere statement&rsquo; here is shown by <foreign lang="greek">kai\ h(mi=n to\ toiou=to</foreign>: it has the same sense as <foreign lang="greek">o)/noma</foreign> above. To have been the object of the Persian attack constituted that glory of Athens that led to her rise. <foreign lang="greek">h)/|ei</foreign>, which is in <hi rend="ITALIC">O.O.</hi>, represents <foreign lang="greek">h)/|ei</foreign> of <hi rend="ITALIC">O.R.:</hi> men said, after the war, &ldquo;<foreign lang="greek">e)p' *)aqh/nas h)/|ei o( *mh=dos</foreign>.&rdquo; Syraeuse too will grow great <foreign lang="greek">e/pi\ tw=| o)no/mati w(s e)f) h(ma=s h(/|ei o( *)aqhnai=os</foreign>. See Index s.v. <foreign lang="greek">e)pi/</foreign>. </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -1464,7 +1463,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">to\ d' h)/dh</lemma>&mdash;take <foreign lang="greek">to\ d' h)/dh w(s e)pi\ kindu/nou pra/ssein</foreign> together, &lsquo;to act at present as in time of danger.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">e)n plw=| . . ei)si/</lemma>&mdash;cf. <foreign lang="greek">e)n o(dw=| ei)=nai, e)n teixismw=|, e)n paraskeuh=|, e)n kinh/sei, e)n sta/sei</foreign>, etc.</p></div3></div2>
-<div2 type="CHAPTER" n="35"><p></p>
+<div2 type="CHAPTER" n="35"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)n pollh=| e)/ridi h)=san, w(s</lemma>&mdash;cf. <bibl n="Thuc. 2. 54">II. 54</bibl> <foreign lang="greek">e)ge/neto e)/ris toi=s  a)nqrw/pois mh\ loimo\n w)noma/sqai</foreign>.
 </p>
@@ -1483,7 +1482,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">*)aqhnago/ras</lemma>&mdash;nothing more is heard of him, but, from the mention of his name and the description given of him, he must <pb n="181"/> have been famous. He would, however, as leader of the popular party and opposed to Hermocrates, be promment only in time of peace.
 </p>
 <p><lemma lang="greek" targOrder="U">dh/mou prosta/ths</lemma>&mdash;cf. c. 28, 2 <foreign lang="greek">dh/mou proesta/nai</foreign>. The phrase is often applied to unofficial leaders of a popular party, and in <hi rend="ITALIC">Ath. Pol.</hi> is interchanged with <foreign lang="greek">dhmagwgo/s</foreign>, and is contrasted with <foreign lang="greek">tw=n gnwri/mwn, eu)po/rwn, e)pifanw=n, prosta/ths</foreign>. He was &lsquo;the man whom the multitude expected to come forward as their champion&mdash;<foreign lang="greek">e)n tw=| paro/nti</foreign>, as long as they eontinued to trust him&rsquo; (Freeman). Of course he <hi rend="ITALIC">might</hi> be a <foreign lang="greek">strathgo/s</foreign>, as Pericles, but was not necessarily in any official position. The speech that follows is very remarkable; like the Funeral Oration (<bibl n="Thuc. 2. 35">II. 35</bibl>), it does not apply only to the matter immediately under consideration, but has a wider range as illustrating the politics of Syracuse, and indeed of all democracies. It shows how &lsquo;it is much easier to draw up a democratic constitution than to work it, when drawn up, in a democratic spirit&rsquo; (Freeman).</p></div3></div2>
-<div2 type="CHAPTER" n="36"><p></p>
+<div2 type="CHAPTER" n="36"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">tou\s me\n ktl</lemma>&mdash;a chance hexameter. 
 </p>
@@ -1507,7 +1506,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)gapa=n . . o(/ti</lemma>&mdash;so with <foreign lang="greek">ei), e)a)n</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">au)tou\s . . e)kei/nous</lemma>&mdash;apply to the same persons, as often; cf. c. 61 <foreign lang="greek">kate/gnwsan au)tou= kai\ tw=n met' e)kei/nou</foreign>. Sometimes <foreign lang="greek">e)kei=nos</foreign> <pb n="182"/> is first, as Plat. <hi rend="ITALIC">Resp.</hi> p. 343 C <foreign lang="greek">eu)dai/mona e)kei=non poiou=sin u(phretou=ntes au)tw=|</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="37"><p></p>
+<div2 type="CHAPTER" n="37"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">th=s . . e)piou/shs</lemma>=<foreign lang="greek">th=s nu=n e)piou/shs s</foreign>. Thuc. often  places an attributive partic. after a noun when there are other modifications.
 </p>
@@ -1540,7 +1539,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">to/ te cu/mpan</lemma>&mdash;sums up the whole argument.
 </p>
 <p><lemma lang="greek" targOrder="U">krath=sai . . th=s gh=s</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> obtain possession of so much <pb n="183"/> land as is necessary for the <foreign lang="greek">strato/pedon</foreign>. Cf. c. 23, 2 <foreign lang="greek">eu)qu\s kratei=n th=s gh=s</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="38"><p></p>
+<div2 type="CHAPTER" n="38"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)/ndres</lemma>&mdash;<hi rend="ITALIC">quidam</hi>, hinting, as that word sometimes  does, at definite opponents.</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -1583,7 +1582,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">i)sonomei=sqai</lemma>&mdash;<hi rend="ITALIC">liberty</hi> and <hi rend="ITALIC">equality,</hi> <foreign lang="greek">e)leuqeri/a</foreign> and <foreign lang="greek">i)sonomi/a</foreign>, were the cardinal principles of Greek democracy.
 </p>
 <p><lemma lang="greek" targOrder="U">tou\s au)tou/s</lemma>&mdash;members of the same state.</p></div3></div2>
-<div2 type="CHAPTER" n="39"><p></p>
+<div2 type="CHAPTER" n="39"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">fh/sei tis ktl</lemma>&mdash;&lsquo;I shall be told that democracy  is neither a wise nor a fair principle, that the owners of property are at the same time the best qualified to govern well. But I answer first that a whole community is termed a people, whereas only a section bears the name oligarchy; further, that though the rich are the best guardians of property, the wise are the best counsellors, and the many after hearing arguments are the best judges, and that these (three) classes, whether they act in parts or as a whole, have under democracy an equal share.&rsquo;
 </p>
@@ -1600,7 +1599,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">oi(/ te duna/menoi</lemma>=<foreign lang="greek">oi( o)ligarxikoi/</foreign> (Schol.).
 </p>
 <p><lemma lang="greek" targOrder="U">a)du/nata</lemma>&mdash;sc. <foreign lang="greek">o)/nta</foreign>, &lsquo;whereas it is impossible to attain such hopes.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="40"><p></p>
+<div2 type="CHAPTER" n="40"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)ll)</lemma>&mdash;repeated below in <foreign lang="greek">a)ll) h)/toi</foreign>, on account  of the long parenthetie vocative <foreign lang="greek">w)= a/zunetw/tatoi . . h)\ a)dikw/tatoi</foreign>.
 </p>
@@ -1628,7 +1627,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)kou/ein</lemma>&mdash;sc. <foreign lang="greek">tou\s lo/gous a/f) u(mw=n</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">e)k tou= e)/rgw| ktl</lemma>&mdash;&lsquo;by taking precautions in action not to permit that,&rsquo; <hi rend="ITALIC">i.e.</hi> <foreign lang="greek">to\ a)faireqh=nai th\n e)leuqeri/an</foreign>. Thus she will take notice of the words &lsquo;as if they were deeds&rsquo;; and the &lsquo;deeds&rsquo; meant are of course efforts to obtain control of the government; c. 36, 2.</p></div3></div2>
-<div2 type="CHAPTER" n="41"><p></p>
+<div2 type="CHAPTER" n="41"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">tw=n de\ strathgw=n</lemma>&mdash;presumably that one of the (15)  Syr. generals who was presiding over the assembly.
 </p>
@@ -1649,7 +1648,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ta\ de\ kai\ e)pimemelh/meqa</lemma>&mdash;&lsquo;some precautions of that nature we have already taken.&rsquo; <foreign lang="greek">ta\ de/</foreign> is <hi rend="ITALIC">internal</hi> accus.; cf. c. 40, 1.
 </p>
 <p><lemma lang="greek" targOrder="U">e)s u(ma=s oi)/somen</lemma>&mdash;a common meaning of <foreign lang="greek">fe/rw</foreign>in tragedy, but rare in prose. Eur. <hi rend="ITALIC">Phoen.</hi> 1086 <foreign lang="greek">h)= pou cumfora\n h(/keis fe/rwn</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="42"><p></p>
+<div2 type="CHAPTER" n="42"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)pece/tasin</lemma>&mdash;&lsquo;a final muster&rsquo; of all the contingents. 
 </p>
@@ -1660,7 +1659,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)n tai=s katagwgai=s</lemma>&mdash;&lsquo;whenever they landed.&rsquo;</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
 <p><lemma lang="greek" targOrder="U">proapanta=n</lemma>&mdash;before the main body put into any port.</p></div3></div2>
-<div2 type="CHAPTER" n="43"><p></p>
+<div2 type="CHAPTER" n="43"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*(rodi/oin</lemma>&mdash;almost all MSS. give the <foreign lang="greek">-oin</foreign> form for  fem. here. Yet in c. 104, 1 all have the <foreign lang="greek">-ain</foreign> form twice. The <hi rend="ITALIC">form</hi> <foreign lang="greek">du/o</foreign> is joined with plural far more often than with dual in Thuc.; it is used several times as gen. or dat., always with plur. (Hasse, <hi rend="ITALIC">Dual in Thuc. and Xen.</hi> p. 17). Though <foreign lang="greek">du/o, duoi=n</foreign> is generally added to a dual (see Rutherford, <hi rend="ITALIC">New Phryn.</hi> p. 290), it is omitted when a pair is referred to (Meisterhaus, p. 163).
 </p>
@@ -1687,7 +1686,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">*megareu=si</lemma>&mdash;expelled in the party struggle of 424 B.C., when Brasidas saved Megara from falling into the hands of Athens.
 </p>
 <p><lemma lang="greek" targOrder="U">i(ppe/as</lemma>&mdash;they are not again heard of.</p></div3></div2>
-<div2 type="CHAPTER" n="44"><p></p>
+<div2 type="CHAPTER" n="44"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">prw/th</lemma>&mdash;for in 414 <foreign lang="greek">stratia\n a)/llhn e)yhfi/santo</foreign>  <foreign lang="greek">pe)mpein</foreign>.
 </p>
@@ -1707,7 +1706,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">*xalkideu=si</lemma>&mdash;see c. 3, 3. The refusal of Rhegium was the greatest blow, as it had supported Athens before in Sicily.</p></div3>
 <div3 type="SECTION" n="5"><p>  </p>
 <p><lemma lang="greek" targOrder="U">pro\s ta/</lemma>&mdash;with <foreign lang="greek">prosoi/sontai</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="45"><p></p>
+<div2 type="CHAPTER" n="45"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">w(s e)pi\ tou/tois</lemma>&mdash;cf. <bibl n="Thuc. 7. 45">VII. 45</bibl> <foreign lang="greek">w(s e)pi\ tou/tois pareskeua/-</foreign>  <foreign lang="greek">zonto</foreign>, &lsquo;under these circumstances.&rsquo;
 </p>
@@ -1716,7 +1715,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">peripo/lia</lemma> in Italy and Sicily=<foreign lang="greek">frou/ria</foreign> in Attica.
 </p>
 <p><lemma lang="greek" targOrder="U">e)n th=| xw/ra|</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> in the territory belonging to Syracuse</p></div3></div2>
-<div2 type="CHAPTER" n="46"><p></p>
+<div2 type="CHAPTER" n="46"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)k th=s *)ege/sths</lemma>&mdash;attraction of the preposition to the  verb.
 </p>
@@ -1749,7 +1748,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">parei=xe</lemma>&mdash;sc. <foreign lang="greek">au)ta/</foreign>, the spectacle, the gen. abs. being used in conjunction with <foreign lang="greek">pa/ntwn . . xrwme/nwn</foreign>, though strictly <foreign lang="greek">polla\ faino/mena</foreign> is required. The substitution of the gen. abs. for a <hi rend="ITALIC">dat.</hi> is not very rare, but the substitution for a <hi rend="ITALIC">nom.</hi> is unusual; cf. <bibl n="Thuc. 7. 48">VII. 48</bibl>, 2 <foreign lang="greek">xrhma/twn a/pori/a| e)ktruxw/sein, a)/llws te kai\ . . qalassokratou/ntwn</foreign> (for <foreign lang="greek">-es</foreign>). Livy XX<bibl n="Thuc. 3. 24">III. 24</bibl> <hi rend="ITALIC">pontem fluminis petentes, obsesso ante ab hostibus ponte.</hi></p></div3>
 <div3 type="SECTION" n="5"><p>  </p>
 <p><lemma lang="greek" targOrder="U">ai)ti/an ei)=xon u(po/</lemma>&mdash;see c. 14, 1 n.</p></div3></div2>
-<div2 type="CHAPTER" n="47"><p></p>
+<div2 type="CHAPTER" n="47"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*niki/ou . gnw/mh</lemma>&mdash;(1) to reconcile Selinus and  Segesta, (2) then to sail round the coast&mdash;but to risk nothing.
 </p>
@@ -1761,7 +1760,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">di) o)li/gou</lemma>&mdash;of time; c. 11, 4.
 </p>
 <p><lemma lang="greek" targOrder="U">th=| po/lei</lemma>&mdash;with <foreign lang="greek">kinduneu/ein</foreign>, which depends on <foreign lang="greek">h)=n gnw/mh</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="48"><p></p>
+<div2 type="CHAPTER" n="48"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*)alkibia/dhs</lemma>&mdash;(1) to form alliances with the Siceliots  and Sieels, and encourage the subjects of Syracuse to revolt; (2) then attack Syracuse and Selmus, unless they complied with the demands made of them.
 </p>
@@ -1774,7 +1773,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)fo/rmhsin</lemma>&mdash;a point from which to watch the enemy.
 </p>
 <p><lemma lang="greek" targOrder="U">katoiki/zein</lemma>&mdash;subject &lsquo;the Athenians.&rsquo; Observe that the plan of Alcibiades would afford him great opportunities for the employment of diplomacy, in which he excelled.</p></div3></div2>
-<div2 type="CHAPTER" n="49"><p></p>
+<div2 type="CHAPTER" n="49"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*la/maxos</lemma>&mdash;it is generally agreed that his advice  ought to have been followed: (1) to attack Syracuse at once, (2) to make the site of Hyblaean Megara their head-quarters.
 </p>
@@ -1792,7 +1791,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">h)\n pro\s ktl</lemma>&mdash;this is the plan for the army: they would win a victory under the walls, and then take up a strong position there. The superfluous men with the ships would seek the nearest convenient harbour, and Megara would be a better site than Alcibiades's Messene for this <foreign lang="greek">e)fo/rmhsis</foreign>.</p></div3>
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*me/gara</lemma>&mdash;see c. 4, 2. On Lamachus see Intr. p. xiv. <pb n="190"/></p></div3></div2>
-<div2 type="CHAPTER" n="50"><p></p>
+<div2 type="CHAPTER" n="50"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">diapleu/sas</lemma>&mdash;from Rhegium. 
 </p>
@@ -1811,7 +1810,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">tou\s lime/nas</lemma>&mdash;the Great, the Little, and Trogilus.
 </p>
 <p><lemma lang="greek" targOrder="U">polemhte/a</lemma>&mdash;the construction with the plur. verbal is &lsquo;essentially Ionic and poetical&rsquo; (C. F. Smith). It occurs several times in Thuc., but seldom in other Attic prose.</p></div3></div2>
-<div2 type="CHAPTER" n="51"><p></p>
+<div2 type="CHAPTER" n="51"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">pro\s th\n e). tetramme/nwn</lemma>&mdash;&lsquo;had their attention oc cupied with&rsquo;; <foreign lang="greek">tre/pesqai pro/s</foreign> of persons is &lsquo;to concentrate one's attention on,&rsquo; or &lsquo;to appeal to the help of,&rsquo; &lsquo;resort to.&rsquo; The aor. is <foreign lang="greek">e)trapo/mhn, e)treya/mhn</foreign> being trans.
 </p>
@@ -1820,7 +1819,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">h)go/razon</lemma>=<foreign lang="greek">e)n a/gora=| die/tribon</foreign> (Schol.), &lsquo;to learn what was going on&rsquo; (Arnold), just as at Athens it was customary to loiter there, especially before and after a meeting of the <pb n="191"/> Ecclesia. The people coming from the Ecclesia would find the army in the Agora.</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
 <p><lemma lang="greek" targOrder="U">ou) polloi/ tines</lemma>&mdash;c. 1, 1 n.</p></div3></div2>
-<div2 type="CHAPTER" n="52"><p></p>
+<div2 type="CHAPTER" n="52"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ o(/ti</lemma>&mdash;instead of <foreign lang="greek">kai\ e)k *surakousw=n o()ti</foreign>. 
 </p>
@@ -1836,7 +1835,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">kata/ ti</lemma>&mdash;some point in Syr. land.
 </p>
 <p><lemma lang="greek" targOrder="U">i(ppe/wn</lemma>&mdash;the difficulty that Nicias had expected.</p></div3></div2>
-<div2 type="CHAPTER" n="53"><p></p>
+<div2 type="CHAPTER" n="53"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">th\n *salamini/an</lemma>&mdash;one of the two state ships.  Aristoph. <hi rend="ITALIC">Birds</hi> 147 refers to this mission: <foreign lang="greek">a)naku/yetai</foreign> &verbar; <foreign lang="greek">klhth=|r' a)/gous' e(/wqen h( *salamini/a</foreign>. A third state ship, the <hi rend="ITALIC">Delias</hi>, is mentioned in inscriptions.
 </p>
@@ -1851,7 +1850,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">tina/</lemma>&mdash;masc. <pb n="192"/></p></div3>
 <div3 type="SECTION" n="3"><p>  </p>
 <p><lemma lang="greek" targOrder="U">u(po\ *lakedaimoni/wn</lemma>&mdash;in 510 B.C. under K. Cleomenes. Herod. <bibl n="Thuc. 6. 123">vi. 123</bibl>; <hi rend="ITALIC">Ath. Pol.</hi> c. 19.</p></div3></div2>
-<div2 type="CHAPTER" n="54"><p></p>
+<div2 type="CHAPTER" n="54"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">to\ ga/r</lemma>&mdash;the introduction of this episode causes  great surprise to modern critics. There are discrepancies in the account of the affair as given here and in the <hi rend="ITALIC">Ath. Pol.:</hi> &lsquo;we cannot tell which story is the truer, and the probabilities which may be alleged on either side are not decisive&rsquo; (Forbes, <hi rend="ITALIC">Thuc.</hi> i.). Thuc. makes reference to the story in <bibl n="Thuc. 1. 20">I. 20</bibl>. We must remember that the matter was of first-rate historical and political interest to the Athenians, and that Thuc. writes for students.
 </p>
@@ -1900,7 +1899,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">nu=n</lemma>&mdash;the inscription was discovered in 1877 near Callirhoe (<hi rend="ITALIC">C.I.A.</hi> <bibl n="Thuc. 4. 373">IV. 373</bibl>).
 </p>
 <p><lemma lang="greek" targOrder="U">a)mudroi=s</lemma>&mdash;Classen remarks that the letters are mostly clear enough at the present day. But it is very likely that the inscription was restored later.</p></div3></div2>
-<div2 type="CHAPTER" n="55"><p></p>
+<div2 type="CHAPTER" n="55"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)kribe/steron</lemma>&mdash;that this alludes to some tradition  in the family of Thuc. is clear, but it is not certain that he was related to the Pisistratids, as stated by Hermippus (3rd cent. B.C.) ap. Marcellin.
 3 </p>
@@ -1925,7 +1924,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">tou= pa/qous th=| dustuxi/a|</lemma>&mdash;&lsquo;through his tragic fate.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">o)nomasqe/nta</lemma>=<foreign lang="greek">o)nomasto\n geno/menon</foreign> (Schol.). The accus. <pb n="195"/> when a dat. (<foreign lang="greek">*(ippa/rxw|</foreign>) or gen. precedes is very common, though it is not necessary.</p></div3></div2>
-<div2 type="CHAPTER" n="56"><p></p>
+<div2 type="CHAPTER" n="56"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">to\n d' ou)=n</lemma>&mdash;return to the story. 
 </p>
@@ -1946,7 +1945,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ta\ pro\s tou\s d</lemma>&mdash;accus. of respect.</p></div3>
 <div3 type="SECTION" n="3"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)/xonta/s ge</lemma>&mdash;causal.</p></div3></div2>
-<div2 type="CHAPTER" n="57"><p></p>
+<div2 type="CHAPTER" n="57"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)ph=lqen</lemma>&mdash;cf. Aeschin. 2, 62 <foreign lang="greek">e)ph/|ei xro/nos</foreign>. 
 </p>
@@ -1970,7 +1969,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)/tupton kai\ a)poktei/nousin</lemma>&mdash;the historic pres. is often combined with imperfect. &lt;<foreign lang="greek">e)s</foreign>&gt;<foreign lang="greek">to\ au)ti/ka</foreign> Stem.</p></div3>
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">ou) r(a|di/ws diete/qh</lemma>&mdash;a characteristic instance of the manner of Thuc., who never dwells on the details of outrages. In <hi rend="ITALIC">Ath. Pol.</hi> the story of Aristogeiton's torture and stabbing by Hippias is given at length. Thuc. says only &lsquo;he was harshly treated.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="58"><p></p>
+<div2 type="CHAPTER" n="58"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">to\ geno/menon</lemma>&mdash;&lsquo;the scene of the act.&rsquo; 
 </p>
@@ -1985,7 +1984,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">pro\s th\n c</lemma>&mdash;&lsquo;with reference to the disaster.&rsquo;</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
 <p><lemma lang="greek" targOrder="U">oi)o/menoi/ ti e)rei=n</lemma>&mdash;the arms were piled when an address was given.</p></div3></div2>
-<div2 type="CHAPTER" n="59"><p></p>
+<div2 type="CHAPTER" n="59"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">h( a)lo/gistos to/lma</lemma>&mdash;&lsquo;the reckless venture,&rsquo; in con trast with the <foreign lang="greek">a)rxh\ th=s e)piboulh=s</foreign> which had been carefully planned. With this only goes <foreign lang="greek">e)k tou= paraxrh=ma perideou=s</foreign>: it was only the reckless venture &lsquo;which arose out of the sudden alarm&rsquo; that the conspiracy had been revealed.</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -2004,7 +2003,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">u(po\ *aak</lemma>&mdash;see c. 53, 3.
 </p>
 <p><lemma lang="greek" targOrder="U">*si/geion</lemma>&mdash;Pisistratus had placed Hegesistratus in charge of it (Herod. <bibl n="Thuc. 5. 94">v. 94</bibl>).</p></div3></div2>
-<div2 type="CHAPTER" n="60"><p></p>
+<div2 type="CHAPTER" n="60"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">w(=n</lemma>&mdash;neut. </p>
 <p><lemma lang="greek" targOrder="U">mimnh/|skomai</lemma> here takes accus. neut.,  (<foreign lang="greek">e)kei=na</foreign>) <foreign lang="greek">o(/sa</foreign>: otherwise the relative would be <foreign lang="greek">o(/swn</foreign>, attracted as always in a rel. sentence replacing a noun.</p></div3>
@@ -2041,7 +2040,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)panei=pon a)rgu/rion</lemma>&mdash;their goods were confiscated, <hi rend="ITALIC">C.I.A.</hi> <bibl n="Thuc. 1. 274">I. 274</bibl>; Hicks n. 55; [Lys.] 6, 18 <foreign lang="greek">tou)s feu/gontas zhtei=te sullamba/nein, e)pikhru/ttontes ta/lanton a)rguri/ou dw/sein tw=| a)pago/nti h)\ a)poktei/nanti</foreign>. So Philochorus ap. Schol. on Aristoph. <hi rend="ITALIC">Birds</hi> 766.</p></div3>
 <div3 type="SECTION" n="5"><p>  </p>
 <p><lemma lang="greek" targOrder="U">perifanw=s</lemma>&mdash;antithesis to <foreign lang="greek">a)dh/lws</foreign>. He means because the panic was allayed. The rewards to informers were then distributed at the Panathenaea.</p></div3></div2>
-<div2 type="CHAPTER" n="61"><p></p>
+<div2 type="CHAPTER" n="61"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)nago/ntwn</lemma>&mdash;esp. Androcles and Thessalus, son of  Cimon.
 </p>
@@ -2091,7 +2090,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)rh/mh| di/kh|</lemma>&mdash;&lsquo;by default.&rsquo; The trial had been instituted already before the <hi rend="ITALIC">Salaminia</hi> left, by Thessalus.
 </p>
 <p><lemma lang="greek" targOrder="U">qa/naton</lemma>&mdash;his goods were confiscated, and the Eumolpidae, in which family the pricsthood of the Mysteries was hereditary, invoked a curse upon him. His goods were confiscated.</p></div3></div2>
-<div2 type="CHAPTER" n="62"><p></p>
+<div2 type="CHAPTER" n="62"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)/pleon</lemma>&mdash;it was a grave blunder after showing them selves at Syracuse to sail away to Segesta. Nicias now took np his own plan of action, for which see c. 47.
 </p>
@@ -2122,7 +2121,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">perie/pleusan</lemma>&mdash;if this is the right word, the meaning is <pb n="202"/> that the fleet again sailed along the north coast, as Freeman and Holm explain. (It is strange that apparently the whole fleet should go on such a mission. But see Intr. p. xxiii.)
 </p>
 <p><lemma lang="greek" targOrder="U">*(/ublan</lemma>&mdash;see c. 2, 5. They attempt to take the city by storm.</p></div3></div2>
-<div2 type="CHAPTER" n="63"><p></p>
+<div2 type="CHAPTER" n="63"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">pareskeua/zonto</lemma>&mdash;has a double construction here, as  also in <bibl n="Thuc. 8. 4">VIII. 4</bibl>.
 </p>
@@ -2147,7 +2146,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ei) . . h)/</lemma>&mdash;&lsquo;whether . . or,&rsquo; and </p>
 <p><lemma lang="greek" targOrder="U">ma=llon</lemma>=&lsquo;by prefcrence.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">sfi/sin</lemma>=the Syraeusans, who are contrasted with the Leontines. It is possible that Plutarch read <foreign lang="greek">cunhkh/sontes au:toi=s ma=llon</foreign>, as he has <foreign lang="greek">ei) *katanai/ois sunoikh/sontes h)\ *leonti/nous katoikiou=ntes h(/kousi</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="64"><p></p>
+<div2 type="CHAPTER" n="64"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)/gein . . o(/ti plei=ston</lemma>&mdash;&lsquo;draw them as far as  possible.&rsquo;
 </p>
@@ -2195,7 +2194,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">to\ stra/teuma . . ai(rh/sein</lemma>&mdash;&lsquo;would capture the (whole) army,&rsquo; including those in the city (<foreign lang="greek">tou\s para\ sfi/si</foreign>)&mdash;for the gates would be shut and the ships would be burnt&mdash;&lsquo;after attacking the palisade&rsquo; that surrounded the camp. <pb n="204"/>
 </p>
 <p><lemma lang="greek" targOrder="U">h(toima/sqai ktl</lemma>=<foreign lang="greek">e(toi/mous ei)=nai tou\s a)/ndras par' w(=n au)to\s h(/kei</foreign> (Schol.).</p></div3></div2>
-<div2 type="CHAPTER" n="65"><p></p>
+<div2 type="CHAPTER" n="65"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">meta\ tou=</lemma>&mdash;&lsquo;with the confidence that they otherwise  felt, and the resolve even without this message to attack C., believed the man far more inconsiderately (than they would have done otherwise).&rsquo; <foreign lang="greek">meta/</foreign> with infin. is rare: it occurs only in <bibl n="Thuc. 1. 6">I. 6</bibl>, <bibl n="Thuc. 2. 43">II. 43</bibl>, both gen., and here. Demosth. 5, 5 <foreign lang="greek">meta\ tou= prosoflei=n ai)sxu/nhn . . e)/gnwte th\n tw=n tau=ta peisa/ntwn kaki/an</foreign>.
 </p>
@@ -2216,7 +2215,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">to\ strato/pedon</lemma>&mdash;the camp referred to in c. 64, 1.
 </p>
 <p><lemma lang="greek" targOrder="U">a)potrepo/menoi</lemma>&mdash;imperf. representing the time taken.</p></div3></div2>
-<div2 type="CHAPTER" n="66"><p></p>
+<div2 type="CHAPTER" n="66"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">au)toi=s</lemma>&mdash;the Syr. 
 </p>
@@ -2245,7 +2244,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)/peita de\ u(/steron</lemma>&mdash;frequently used together. So <foreign lang="greek">meta\ tau=q) u)/steron</foreign> several times in Demosth.
 </p>
 <p><lemma lang="greek" targOrder="U">diaba/ntes</lemma>&mdash;&lsquo;that is, they withdrew into the precinet of the temple, or at least into its immediate neighbourhood&rsquo; (Freeman). The Syr. must have previously erossed the road to get at the A.</p></div3></div2>
-<div2 type="CHAPTER" n="67"><p></p>
+<div2 type="CHAPTER" n="67"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">w(s e)s ma/xhn</lemma>&mdash;the site of the following battle was  somewhere S. of the Anapus and E. of the Helorine road.
 </p>
@@ -2269,7 +2268,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">prote/rois e)pixeirh(sein</lemma>=<foreign lang="greek">a)/rcein th=s ma/xhs</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">e)pipariw/n</lemma>&mdash;&lsquo;passing along the lines.&rsquo; <foreign lang="greek">e(/kasta</foreign> is direct obj. to this, while <foreign lang="greek">kata\ e)/qnh</foreign> and <foreign lang="greek">cu/mpasi</foreign> are objects to <foreign lang="greek">parekeleu/eto</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="68"><p></p>
+<div2 type="CHAPTER" n="68"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">oi(/</lemma>&mdash;&lsquo;seeing that we.&rsquo; 
 </p>
@@ -2306,7 +2305,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">proqu/mws . . kai\ h(ghsa/menoi</lemma>&mdash;the partic. and adv. are combined, as elsewhere.
 </p>
 <p><lemma lang="greek" targOrder="U">th\n parou=san a)na/gkhn</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> the obligation to win; whereas <foreign lang="greek">a)pori/an</foreign> is &lsquo;the dilemma&rsquo;&mdash;victory or a difficult retreat.</p></div3></div2>
-<div2 type="CHAPTER" n="69"><p></p>
+<div2 type="CHAPTER" n="69"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">strato/pedon</lemma>&mdash;often used for an army stationed in a  permanent camp.
 </p>
@@ -2345,7 +2344,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">e)/peita de/ ktl</lemma>&mdash;&lsquo;and a secondary motive was the possibility that by helping to subdue others they might find their subjeetion to Athens (<foreign lang="greek">au)toi=s</foreign>) less oppressive.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">a)/llo ti</lemma> is object to <foreign lang="greek">cugkatastreya/menon</foreign>, to which supply <foreign lang="greek">to\ u(ph/koon</foreign>. The return to the neut. sing. is influenced by <foreign lang="greek">ti a)/llo</foreign>, which stands for <foreign lang="greek">tinas a)/llous</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="70"><p></p>
+<div2 type="CHAPTER" n="70"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">genome/nhs e)n xersi/</lemma>&mdash;so <foreign lang="greek">e)n xersi\ geno/menoi</foreign>. In Lat.  too both <hi rend="ITALIC">ad manus veniunt</hi> and <hi rend="ITALIC">ad manus pugna venit</hi> are found.
 </p>
@@ -2367,7 +2366,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">o(/mws</lemma>&mdash;&lsquo;though defeated.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">sfw=n au)tw=n . . tw=n xrhma/twn</lemma>&mdash;partitive gen.</p></div3></div2>
-<div2 type="CHAPTER" n="71"><p></p>
+<div2 type="CHAPTER" n="71"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">to\ i(ero/n</lemma>&mdash;Plutarch says that the A. army was  anxious to seize the spoils of the temple, and that Nieias prevented the sacrilege, and purposely permitted the Syr. to occupy the Olympieum. <pb n="209"/>
 </p>
@@ -2390,7 +2389,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">kai\ si=ton</lemma>&mdash;<hi rend="ITALIC">explanation</hi> of <foreign lang="greek">ta\ a)/lla</foreign>, so that <foreign lang="greek">kai/</foreign> = &lsquo;both.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">e)s to\ e)/ar</lemma>&mdash;expressing the time in the fnt. when the thing is to occur. Frequent in Aristophanes.</p></div3></div2>
-<div2 type="CHAPTER" n="72"><p></p>
+<div2 type="CHAPTER" n="72"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)s th\n *na/con kai\ *kata/nhn</lemma>&mdash;the order is the same  as in c. 61, 2, the more remote place being mentioned first. For the stay of the fleet at Naxos see c. 74, 1. Thuc. here gives in summary the action of the A. during the rest of the winter before passing to the action of the Syr. during the same time.
 </p>
@@ -2427,7 +2426,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">o)mo/sai au)toi=s</lemma>&mdash;the whole people were to take this oath. It was not to be confined to the troops
 </p>
 <p><lemma lang="greek" targOrder="U">a)profasi/stws</lemma>&mdash;&lsquo;with resolution,&rsquo; without having to offer reasons for their conduct.</p></div3></div2>
-<div2 type="CHAPTER" n="73"><p></p>
+<div2 type="CHAPTER" n="73"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai/</lemma>&mdash;&lsquo;accordingly.&rsquo; 
 </p>
@@ -2441,7 +2440,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">w)feli/an a)/llhn</lemma>&mdash;&lsquo;reinforcements.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">e)pipe/mpein</lemma> is contrasted with <foreign lang="greek">metape/mpein</foreign> in <bibl n="Thuc. 7. 15">VII. 15</bibl>.</p></div3></div2>
-<div2 type="CHAPTER" n="74"><p></p>
+<div2 type="CHAPTER" n="74"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a(\ me\n e)pra/sseto</lemma>&mdash;&lsquo;the design failed, because Alc.  . . knowing that he would be banished, gave information about the plot, of which he had knowledge.&rsquo;
 </p>
@@ -2456,7 +2455,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">prouxw/rei</lemma>&mdash;a favourite word with Thue. for &lsquo;to succeed.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">o(/ria kai/</lemma>&mdash;on the MSS. <foreign lang="greek">*qra|kas</foreign> see crit. note. <foreign lang="greek">o(/ria</foreign> are, according to Stahl, protected places for the storage of arms and baggage. Hesych. explains <foreign lang="greek">o(/ria</foreign> as <foreign lang="greek">tei/xisma, fragmo/s</foreign>. Others understand <foreign lang="greek">o(/ria</foreign> as &lsquo;docks,&rsquo; <foreign lang="greek">new/ria</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="75"><p></p>
+<div2 type="CHAPTER" n="75"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">to\n *temeni)thn</lemma>&mdash;(1) the wall was built so as to en close the T., or precinct of Apollo's temple, which was part of the Neapolis; (2) it was <foreign lang="greek">pro\s th=| po/lei</foreign>, adjoining the city wall; (3) it was <foreign lang="greek">para\ pa=n to\ pro\s ta\s *)epipola\s o(rw=n</foreign>, &lsquo;running all along the ground that looks towards Epipolae.&rsquo; This is not clear; but it implies (<hi rend="ITALIC">a</hi>) a wall of considerable length, (<hi rend="ITALIC">b</hi>) a wall that did not project far to the west.
 3 </p>
@@ -2477,7 +2476,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">prosxwrw=si</lemma>&mdash;sc. <foreign lang="greek">mh/. <hi rend="BOLD">kata/</hi></foreign> = &lsquo;owing to.&rsquo;</p></div3>
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">prodiaba/llein</lemma>&mdash;&lsquo;prejudice them against the A.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="76"><p></p>
+<div2 type="CHAPTER" n="76"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">th\n p. du/namin</lemma>&mdash;obj. of <foreign lang="greek">dei/santes</foreign>, while <foreign lang="greek">au)th/n</foreign> is obj.  of <foreign lang="greek">kataplagh=te</foreign>.
 </p>
@@ -2523,7 +2522,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">oi( d' e)pi/</lemma>&mdash;strictly this should be <foreign lang="greek">oi( de\ d. metabolh=s</foreign>, still depending on <foreign lang="greek">peri\ de/</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">despo/tou m</lemma>.&mdash;cf. c. 18, 7 n. The artificiality of this passage is censured by Dion. Hal.</p></div3></div2>
-<div2 type="CHAPTER" n="77"><p></p>
+<div2 type="CHAPTER" n="77"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)/xontes paradei/gmata</lemma>&mdash;the &lsquo;examples&rsquo; are of two  kinds: there aie (1) the experience of the subjects of Athens; (2) the repetition of the deception. Both of these demonstrate the folly of not combining. Hence <foreign lang="greek">tw=n te e)kei= *(e</foreign>. is answered by <foreign lang="greek">kai\ . . sofi/smata</foreign>, in apposition to <foreign lang="greek">paradei/gmata</foreign>. Then <foreign lang="greek">katoiki/seis</foreign> and <foreign lang="greek">e)pikouri/as</foreign> are the explanation of <foreign lang="greek">sofi/smata</foreign>&mdash; &lsquo;tricks such as the restoration of L.,&rsquo; etc.
 </p>
@@ -2559,7 +2558,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ou) kai\ e)s au)to/n tina</lemma>&mdash;this is the inclusive use of <foreign lang="greek">tis</foreign> often found close to a plur., as in <bibl n="Thuc. 7. 39">VII. 39</bibl> <foreign lang="greek">o(/sa tis e)/xei, pa/ntas a)nagka/sai pwlei=n</foreign>. For <foreign lang="greek">h(/kein e)s</foreign> &lsquo;penetrate to&rsquo; cf. <bibl n="Thuc. 2. 48">II. 48</bibl> <foreign lang="greek">kai\ e)s th\n a)/nw po/lin a)fi/keto</foreign> (<foreign lang="greek">h( no/sos</foreign>), and for the opinion, <bibl n="Thuc. 1. 120">I. 120</bibl> <foreign lang="greek">ka)\n me/xri sfw=n to\ deino\n proelqei=n</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">pro\ de\ au)tou= ktl</lemma>&mdash;this stands for <foreign lang="greek">ma=llon de\ to\n pro\ au)tou= pa/sxonta kaq) au(to\n d</foreign>., &lsquo;but rather that he who suffers before one confines the trouble to himself,&rsquo; <hi rend="ITALIC">i.e.</hi> isolates it, prevents it from spreading. For the order, which is due to the emphasis laid on <foreign lang="greek">pro\ au)tou=</foreign>, cf. <bibl n="Thuc. 2. 7">II. 7</bibl> <foreign lang="greek">e)c *)itali/as toi=s e(lome)nois</foreign> for <foreign lang="greek">toi=s e)c *)i. e(</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="78"><p></p>
+<div2 type="CHAPTER" n="78"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ ei)/ tw| a)/ra</lemma>&mdash;&lsquo;now if by chance it has occurred to  any one.&rsquo; The sing. is used throughout this section where the plur. would be commoner.
 </p>
@@ -2614,7 +2613,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)k tou= o(moi)ou</lemma> = <foreign lang="greek">o(moi)ws</foreign>, adverbial phrases with <foreign lang="greek">e)k</foreign> being very common in Thue.&mdash;as <foreign lang="greek">e)k tou= profanou=s, tou= fanerou=, tou= eu)qe/os, tou= ei)ko/tos, tou= eu)prepou=s, tou= dikai/ou</foreign>, etc.
 </p>
 <p><lemma lang="greek" targOrder="U">o(/pws mhde\n e)ndw/somen</lemma>&mdash;this explains <foreign lang="greek">a(/per</foreign> and <foreign lang="greek">tau=ta</foreign>, and <pb n="218"/> the construction is on the analogy of that which follows verbs of <hi rend="ITALIC">precaution</hi>, <foreign lang="greek">o(rw=, e)pimelou=mai</foreign>, etc. The note in Jowett says that &lsquo;there is a slight flaw in the double reference of the words, which apply better to the actual than to the supposed case.&rsquo; But in the supposed case&mdash;that Athens had attacked Camarina instead of Syracuse&mdash;it would still have been in point for Camarina, while calling in the aid of Syr., to urge her not to give way before Athens, viz. for the sake of the other Siceliot cities. To refrain from supporting Camarina would have been a surrender to Athens. There is, in fact, only a different <hi rend="ITALIC">nuance</hi> in the meaning of <foreign lang="greek">e)ndw/somen</foreign> as applied to the two cases. Precisely the same happens in <bibl n="Thuc. 7. 61">VII. 61</bibl>, where the one word <foreign lang="greek">patri/dos</foreign> is applied to the Athenians and Syracusans with a different implication.</p></div3></div2>
-<div2 type="CHAPTER" n="79"><p></p>
+<div2 type="CHAPTER" n="79"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">deili/a| de\ ktl</lemma>&mdash;&lsquo;perhaps from cowardice you will  regard your duty in relation to us and to the invaders by saying.&rsquo; Stahl and Fr. Muller think <foreign lang="greek">to\ di/kaion</foreign> is ironical, since the plea of <foreign lang="greek">cummaxi/a</foreign> with Athens would not be justice to Syr. But Meyer points out that it would be just to both sides for Camarina to nrge &lsquo;we have a <foreign lang="greek">cummaxi/a</foreign> with Athens, and only <foreign lang="greek">spondai/</foreign> with Syr.&rsquo; See n. on c. 75, 3. The speaker contemplates Camarina supporting Athens on this ground of duty.
 </p>
@@ -2649,7 +2648,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ta/nanti/a</lemma> is adverbial.
 </p>
 <p><lemma lang="greek" targOrder="U">pro\s h(ma=s mo/nous</lemma>&mdash;alluding to the previous battle, c. 65 ff.</p></div3></div2>
-<div2 type="CHAPTER" n="80"><p></p>
+<div2 type="CHAPTER" n="80"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a(qro/ous</lemma>&mdash;sc. <foreign lang="greek">h(ma=s</foreign>, both Syr. and Camarina, which  are also meant in <foreign lang="greek">i)e/nai e)s th\n cummaxi/an</foreign>.
 </p>
@@ -2713,7 +2712,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">mh\ a)/n</lemma>&mdash;with <foreign lang="greek">genome/nhn</foreign> only = <foreign lang="greek">h(\ mh\ a)\n braxei=a ge/noito</foreign>, i.e. the <hi rend="ITALIC">generic</hi> or <hi rend="ITALIC">characteristic</hi> <foreign lang="greek">mh/</foreign> piobably. We might, however, say that the passage implies a <hi rend="ITALIC">warning</hi> or <hi rend="ITALIC">command;</hi> it is solemn and emphatic. Cf. c. 102 <foreign lang="greek">nomi/santes mh\ a)\n e)/ti i(kanoi\ gene/sqai</foreign>. (There is difference of opinion about this <foreign lang="greek">mh/</foreign>. Goodwin (<hi rend="ITALIC">M. T.</hi> &sect; 688) views it as an &lsquo;irregularity&rsquo;; Bohme-Widmann say that &lsquo;<foreign lang="greek">mh/</foreign> with <hi rend="ITALIC">potential</hi> inf. or partic. after verbs of <hi rend="ITALIC">saying</hi> and <hi rend="ITALIC">thinking</hi> is common&rsquo;; Fr. Muller says the <foreign lang="greek">mh/</foreign> is &lsquo;under the influence of the inf. <foreign lang="greek">diafugei=n</foreign>.&rsquo; This lends point to Prof. Gildersleeve's remark that &lsquo;to understand <foreign lang="greek">ou)</foreign> and <foreign lang="greek">mh/</foreign> a certain mobility is necessary.&rsquo; <hi rend="ITALIC">A.J.P.</hi> July 1892, p. 259.)
 </p>
 <p><lemma lang="greek" targOrder="U">braxei=an</lemma>&mdash;probably &lsquo;small,&rsquo; a common meaning in Thuc., though some passages are certainly ambiguous. In <bibl n="Thuc. 7. 14">VII. 14</bibl> <foreign lang="greek">braxei=a a)kmh\ plhrw/matos</foreign>, the Schol. and Plutarch understood <foreign lang="greek">braxei=a</foreign> as &lsquo;short-lived,&rsquo; whereas modern edd. render &lsquo;the efficient part of a crew is small.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="82"><p></p>
+<div2 type="CHAPTER" n="82"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)fiko/meqa</lemma>&mdash;our intention when we came was to  renew the treaty (see c. 75, 3), but we now find it necessary to defend the imperial policy of Athens.
 </p>
@@ -2749,7 +2748,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <foreign lang="greek"><hi rend="BOLD">doulei/an de\ . . e)bou/lonto</hi>&mdash;bou/lomai</foreign> only here with a subst. as obj.: Bohme-Widmann compare <foreign lang="greek">th\n au)th\n du/natai dou/lwsin</foreign> <bibl n="Thuc. 1. 141">I. 141</bibl>. We should also expect <foreign lang="greek">e)boulh/qhsan</foreign>, if the sense is &lsquo;they chose slavery.&rsquo; Heibst understands <foreign lang="greek">e)negkei=n</foreign> to <foreign lang="greek">e)bou/lonto</foreign> from <foreign lang="greek">e)penegkei=n</foreign>, but such an ellipse is surely impossible. <foreign lang="greek">douleu/ein</foreign> of the inferior MSS. is very tempting. See crit. note.
 </p>
 <p><lemma lang="greek" targOrder="U">to\ au)to/</lemma>&mdash;after the fem. <foreign lang="greek">doulei/an</foreign>, by a common change. With <foreign lang="greek">e)penegkei=n</foreign> supply <foreign lang="greek">e)bou/lonto</foreign></p></div3></div2>
-<div2 type="CHAPTER" n="83"><p></p>
+<div2 type="CHAPTER" n="83"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)/cioi/ te</lemma>&mdash;this is answered not by <foreign lang="greek">kai/</foreign> but by <foreign lang="greek">a(/ma de/</foreign>  below; cf. <bibl n="Thuc. 1. 25">I. 25</bibl> <foreign lang="greek">kata/ te to\ di/kaion . . a/ma de\ kai\ mi/sei</foreign>: <bibl n="Thuc. 7. 81">VII. 81</bibl> <foreign lang="greek">qa=sso/n te ga\r o( *niki/as h)=ge . . o( de\ *dhmosqe/nhs</foreign>. Generally where <foreign lang="greek">te</foreign> is not answered by <foreign lang="greek">kai/</foreign> there are many intervening words, sometimes a parenthesis.
 </p>
@@ -2792,7 +2791,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">a)sfalw=s</lemma>&mdash;&lsquo;for our safety.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">doulwso/menoi</lemma>&mdash;sc. <foreign lang="greek">ta\ e)nqa/de</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="84"><p></p>
+<div2 type="CHAPTER" n="84"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">u(pola/bh| de\ ktl</lemma>&mdash;&lsquo;let no one suppose that care for  you is not our concern.&rsquo;
 </p>
@@ -2819,7 +2818,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">cu/mforos</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> to maintain the dominion of Athens, it was needful that the Euboean Chalcis should be unarmed and tributary (Freeman), and should not contribute ships.
 </p>
 <p><lemma lang="greek" targOrder="U">kai\ *leonti=noi</lemma>&mdash;sc. <foreign lang="greek">cu/mforoi/ ei)sin</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="85"><p></p>
+<div2 type="CHAPTER" n="85"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)ndri\ de\ tura/nnw|</lemma>&mdash;Sicily was intimately acquainted  with the ways of despots. Here the frankest description of the Athenian <foreign lang="greek">a)rxh/</foreign> is given, as by Cleon in <bibl n="Thuc. 3. 37">III. 37</bibl> <foreign lang="greek">turanni/da e)/xete th\n a)rxh/n</foreign>.
 2 </p>
@@ -2854,7 +2853,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">bi/a| h)\ kai\ kat' e)rhmi/an</lemma>&mdash;with <foreign lang="greek">a)/rcai</foreign>, &lsquo;to acquire empire for themselves over Sicily by force or else through mere lack of resistance.&rsquo; Jowett renders &lsquo;first they must unite you in a common suspicion of us, and then, either by force or through your isolation when we have failed and retired, they will dominate Sicily.&rsquo; But (1) <foreign lang="greek">bi/a|</foreign> refers <hi rend="ITALIC">not to</hi> <foreign lang="greek">a)pra/ktwn h(mw=n a)pelqo/ntwn</foreign>, but to <foreign lang="greek">e)pi\ tw=| h(. custh/santes u(po/ptw|</foreign>: they want to unite your forces with their own, only that they may force themselves into the position of head of a Sicilian alliance, <pb n="228"/> which they will turn into empire. (2) Only <foreign lang="greek">h)\ kai\ kat' e)rhmi/an</foreign> refers to <foreign lang="greek">a)pra/ktwn h(mw=n a)pelqo/ntwn</foreign>. If they fail to seeure empire while we are still in Sicily, nevertheless they will secure it when we are no longer here to resist them. (3) That this is so is shown by <foreign lang="greek">ou)/te ga\r ktl</foreign>., where the <foreign lang="greek">i)sxu\s tosau/th</foreign> refers to the means by which Syr. would assure herself of empire <foreign lang="greek">bi/a|</foreign>, and <foreign lang="greek">h\mw=n mh\ paro/ntwn</foreign> means that Syr. would turn against the Siceliots when the Athenians were gone, and would acquire empire <foreign lang="greek">kat' e)rhmi/an</foreign>, through laek of resistance. Thus (4) there is no reference to a struggle with the Siceliots in <foreign lang="greek">bi/a|</foreign>, but only to the struggle between a Sicilian confederation and Athens, in the course of whieh Syr. might assure herself of empire.
 </p>
 <p><lemma lang="greek" targOrder="U">kat' e)rhmi/an</lemma>&mdash;se. <foreign lang="greek">tw=n kwluso/ntwn</foreign> (Stahl).</p></div3></div2>
-<div2 type="CHAPTER" n="86"><p></p>
+<div2 type="CHAPTER" n="86"><p/>
 
 <p><lemma lang="greek" targOrder="U">a)na/gkh de/</lemma>&mdash;sc. <foreign lang="greek">au)tou\s a)/rcai th=s *sikeli/as</foreign>. (H. Kleist points out that this ehapter is an example of the <foreign lang="greek">e)pixei/rhma</foreign>, or conclusion based on a major and a minor premiss: (<hi rend="ITALIC">a</hi>) major premiss &mdash;<hi rend="ITALIC">propositio</hi>&mdash;<foreign lang="greek">a)ndri\ de\ tura/nnw| . . gi/gnesqai</foreign>: (<hi rend="ITALIC">b</hi>) minor premiss &mdash;<hi rend="ITALIC">assumptio</hi>&mdash;<foreign lang="greek">kai\ h(ma=s tou=to w)felei=</foreign>. This is supported by a proof&mdash;<hi rend="ITALIC">assumptionis probatio</hi>&mdash;in <foreign lang="greek">a)pistei=n de\ . . *peloponnhsi/ois</foreign>: (<hi rend="ITALIC">c</hi>) conclusion&mdash;<hi rend="ITALIC">complexio</hi>&mdash;<foreign lang="greek">w)/ste kai\ ta)nqa/de . . kaqi/stasqai</foreign>. The <foreign lang="greek">e)pixei/rhma</foreign> differs from the syllogism essentially in that neither of the premisses need be true.) </p>
 <div3 type="SECTION" n="1"><p>  </p>
@@ -2895,7 +2894,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <foreign lang="greek"><hi rend="BOLD">e)/ti boulh/sesqe</hi>&mdash;e)/ti</foreign> is often so used in threats and prophecies.
 </p>
 <p><lemma lang="greek" targOrder="U">o(/te</lemma>&mdash;&lsquo;at a time when.&rsquo; <foreign lang="greek">o(/te</foreign> is the regular particle for introducing a reference to a date.</p></div3></div2>
-<div2 type="CHAPTER" n="87"><p></p>
+<div2 type="CHAPTER" n="87"><p/>
 <div3 type="SECTION" n="1"><p>  <foreign lang="greek"><hi rend="BOLD">a)lla/</hi>&mdash;w(/ste, ou)=n</foreign>, and <foreign lang="greek">a)lla/</foreign> are the commonest  particles for introducing a new division of a speech.
 </p>
 <p><lemma lang="greek" targOrder="U">e)n kefalai/ois</lemma>&mdash;such a recapitulation is especially appropriate to the peroration.</p></div3>
@@ -2940,7 +2939,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 
 <p><lemma lang="greek" targOrder="U">kai\ a)ntepibouleu=sai/ pote</lemma>&mdash;&lsquo;at length change your plan and resolve to plot against the S. likewise in return.&rsquo; <foreign lang="greek">e)k tou= o(moi/ou</foreign>, &lsquo;as they plot against you.&rsquo; <foreign lang="greek">a)ntepibouleu=sai</foreign> is object of (<foreign lang="greek">meta</foreign>)<foreign lang="greek">la)bete</foreign>, and <foreign lang="greek">toi=s *s</foreign>. of <foreign lang="greek">a)ntepibouleu=sai</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="88"><p></p>
+<div2 type="CHAPTER" n="88"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)pepo/nqesan</lemma>&mdash;&lsquo;the feeling was as follows,&rsquo; already  before the speeches.
 </p>
@@ -3020,7 +3019,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">kwlu/ontas</lemma>&mdash;the pres. partic. is very common with verbs of &lsquo;sending.&rsquo; The partic. is placed either in nom. or accus. at will&mdash;<foreign lang="greek">e)/pempon a)gge/llontes</foreign> or <foreign lang="greek">e)/pempon pre/sbeis a)gge/llontas</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">parw/cune . . e)cw/rmhse</lemma>&mdash;&lsquo;stimulated their passions and their energies.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="89"><p></p>
+<div2 type="CHAPTER" n="89"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">a)nagkai=on</lemma>&mdash;the abruptness of the opening is a fine  touch. On the <hi rend="ITALIC">dispositio</hi> of the speech see Appendix.
 </p>
@@ -3094,7 +3093,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">o(mologoume/nhs a)noi/as</lemma>&mdash;a phrase made to please his audience. Theognis l. 847 <foreign lang="greek">la\c e)pi/ba dh/mw| keneo/froni</foreign>.
 </p>
 <p><lemma lang="greek" targOrder="U">kai\ to\ meqista/nai</lemma>&mdash;goes back to <foreign lang="greek">dikaiou=ntes . . tou=to</foreign> (<foreign lang="greek">to\ sxh=ma</foreign>) <foreign lang="greek">cundiasw/|zein. au/th/n</foreign>=<foreign lang="greek">th\n dhmokrati/an</foreign>. Wilkins quotes Napoleon III.'s <hi rend="ITALIC">Julius Caesar</hi>, &lsquo;All political change is fatal in the presence of a foreigner invading the soil of a fatherland.&rsquo; And even the desire for political change vanishes in the presence of a war&mdash;as the same Napoleon well knew.</p></div3></div2>
-<div2 type="CHAPTER" n="90"><p></p>
+<div2 type="CHAPTER" n="90"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">ta\ me\n ktl</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> all this explains how I came to  support democracy: lit. &lsquo;this is how the circumstances came about that bear on the prejudices aroused against me.&rsquo;
 </p>
@@ -3117,7 +3116,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">diarkh=</lemma>&mdash;pred. to <foreign lang="greek">xrh/mata kai\ si=ton. <hi rend="BOLD">a)/neu</hi></foreign> &lsquo;without touching.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">e)nqe/nde</lemma>=<foreign lang="greek">e)k th=s *(ella)dos</foreign>.</p></div3></div2>
-<div2 type="CHAPTER" n="91"><p></p>
+<div2 type="CHAPTER" n="91"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">o(/soi</lemma>&mdash;the edd. all say that Nicias and Lamachus are  meant, and Reiske even proposed <foreign lang="greek">w\s oi(</foreign> as a correction; but <foreign lang="greek">o(/soi u(po/loipoi</foreign> means &lsquo;all those who remain now I am withdrawn,&rsquo; &lsquo;all the generals left behind, including <hi rend="ITALIC">those who have not gone to Sicily,</hi>&rsquo; and not &lsquo;those whom I have left in Sicily.&rsquo; That this is so is shown by the following facts: (1) <hi rend="ITALIC">the use of</hi> <foreign lang="greek">u(po/loipos</foreign> in Thuc.: <bibl n="Thuc. 1. 105">I. 105</bibl> <foreign lang="greek">to\ pro\s *ai)gi/nh| stra)teuma</foreign> is contrasted with <foreign lang="greek">oi( e)k th=s po/lews u(po/loipoi</foreign>: <bibl n="Thuc. 4. 2">IV. 2</bibl> <foreign lang="greek">strathgoi\ oi( u(po/loipoi</foreign> are contrasted with <foreign lang="greek">o( h)/dh proafigme/nos e)s *sikeli/an</foreign>: <bibl n="Thuc. 7. 64">VII. 64</bibl> <foreign lang="greek">tou\s e)kei=</foreign> (<hi rend="ITALIC">i.e.</hi> at home) <foreign lang="greek">h(mw=n u(poloi/pous</foreign>: cf. also <hi rend="ITALIC">ib.</hi> <foreign lang="greek">h( u(po/loipos po/lis</foreign> and c. 17 <foreign lang="greek">u(po/loipon h(mi=n e)sti\n a)nti/palon nautiko/n</foreign>: (2) in c. 62, 1 the generals <hi rend="ITALIC">left in Sicily</hi> are called <foreign lang="greek">oi( loipoi\ tw=n *)aqhnai/wn strathgoi\ e)n th=| *sikeli/a|</foreign>: (3) in <bibl n="Thuc. 2. 65">II. 65</bibl> Thuc. speaks of the support given to the expedition at home after it sailed out; and of course the <foreign lang="greek">strathgoi/</foreign> in Athens would have to advise about this, and some of them might be sent out to replace Alcibiades: (4) <foreign lang="greek">au)ta)</foreign> = <hi rend="ITALIC">all</hi> the schemes including the <foreign lang="greek">katapole/mhsis</foreign> of Peloponnese. It would be absurd to attribute the whole of this work to Nicias and Lamachus alone.
 </p>
@@ -3178,7 +3177,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">ta\ par' u(mw=n . . polemei=sqai</lemma>&mdash;&lsquo;that the war is being condueted on your part.&rsquo; <foreign lang="greek">ta\ pa\r' u)mw=n</foreign> is prob. subject, not adverbial. </p>
 <p><lemma lang="greek" targOrder="U">o)ligwrh/sousi</lemma> sc. <foreign lang="greek">tou= diaforei=n th\n p.</foreign></p></div3></div2>
-<div2 type="CHAPTER" n="92"><p></p>
+<div2 type="CHAPTER" n="92"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">gi/gnesqai de\ ktl.</lemma>&mdash;&lsquo;the prompt and efficient execu tion of these plans rests with you.&rsquo;</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -3217,7 +3216,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 </p>
 <p><lemma lang="greek" targOrder="U">th=s a(pa/shs *(ella/dos</lemma>&mdash;he contrasts the mildness of the coming Spartan hegemony with the oppression of the present Athenian Empire. The contrast is of course imaginary. </p>
 <p><lemma lang="greek" targOrder="U">kat' eu)/noian</lemma>&mdash;&lsquo;in virtue of their goodwill.&rsquo;</p></div3></div2>
-<div2 type="CHAPTER" n="93"><p></p>
+<div2 type="CHAPTER" n="93"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ au)toi/</lemma>&mdash;&lsquo;even unasked&rsquo; they were thinking of  sending an expedition against Athens, but were &lsquo;hesitating and looking about them.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">e)perrw/sqhsan</lemma> is opposite of <foreign lang="greek">a)rrwstei=n</foreign>: cf. <bibl n="Thuc. 7. 7">VII. 7</bibl> <foreign lang="greek">e)s ta)=lla polu\ e)pe/rrwnto</foreign>: the <foreign lang="greek">e)p-</foreign> denotes <hi rend="ITALIC">addition.</hi>
@@ -3248,7 +3247,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">h( . . trih/rhs</lemma>&mdash;see c. 74, 2. <foreign lang="greek">trofh/n</foreign> is money to pay the troops. The sum is 300 talents (c. 94, 4). Cf. the inscription given in Hicks, p. 79 &lsquo;<foreign lang="greek">epi\ th=s *)antioxi/dos o)gdo/hs prutaneuou/shs tri/th| h(me/ra|</foreign> (this date would be somewhere in March, which fits in with the text here) <foreign lang="greek">th=s prutanei/as</foreign>&rsquo;: a sum of 300 talents is paid as a loan from the treasure of Athena (cf. <bibl n="Thuc. 2. 13">II. 13</bibl>) to Aristocrates, Euonymus, and the other strategi, who pay it over for the army in Sicily. Then follows an account of a further loan of 4 talents, 2000 drachmas, for the ships that were to convey the money to Sicily.
 </p>
 <p><lemma lang="greek" targOrder="U">e)teleu/ta</lemma>&mdash;see on c. 7, 4.</p></div3></div2>
-<div2 type="CHAPTER" n="94"><p></p>
+<div2 type="CHAPTER" n="94"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*mega/rwn, ou(/s</lemma>&mdash;for the change from place-name to  inhabitants, which is very common, cf. cc. 48; 74, 1; 75, 2. Observe that unless gender and number are in agreement with the antecedent, attraction of rel. is impossible. Cf. c. 20, 3 <foreign lang="greek">*na/cou kai\ *kata/nhs, a)\s h)/lpizon</foreign>.
 </p>
@@ -3270,7 +3269,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">tou\s i(ppe/as</lemma>&mdash;see c. 93, 4. </p>
 <p><lemma lang="greek" targOrder="U">tw=n i(/ppwn</lemma>&mdash;&lsquo;the required horses&rsquo; were to be got in Sicily.</p></div3></div2>
-<div2 type="CHAPTER" n="95"><p></p>
+<div2 type="CHAPTER" n="95"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)p' *)/argos</lemma>&mdash;an ally of Athens. Classen thinks  that the purpose was to make a hostile settlement at Cleonae.
 </p>
@@ -3285,7 +3284,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ou) kate/sxen</lemma>&mdash;intrans., &lsquo;did not attain their object&rsquo;; cf. c. 11, 3.
 </p>
 <p><lemma lang="greek" targOrder="U">*)aqh/naze</lemma>&mdash;it was part of the tradition of Athens, often alluded to in tragedy, to afford shelter to exiles.</p></div3></div2>
-<div2 type="CHAPTER" n="96"><p></p>
+<div2 type="CHAPTER" n="96"><p/>
 <div3 type="SECTION" n="1"><p>  [</p>
 <p><lemma lang="greek" targOrder="U">te</lemma>]&mdash;cf. c. 94, 2 n. As Stahl says, there is no parallel  in Thuc. to such a &lsquo;trajection&rsquo; of <foreign lang="greek">te</foreign> as this for <foreign lang="greek">tou\s i\ppe)as h(/konta/s te</foreign>.
 </p>
@@ -3310,7 +3309,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">loga/das</lemma>&mdash;see on c. 66, 2. In c. 100 <foreign lang="greek">loga/des</foreign> and <foreign lang="greek">e)klektoi/</foreign> occur together.
 </p>
 <p><lemma lang="greek" targOrder="U">o(/pws . . ei)=en . . paragi/gnwntai</lemma>&mdash;cf. <bibl n="Thuc. 7. 17">VII. 17</bibl> <foreign lang="greek">o(/pws . . a)popeira/swsi . . kwlu/oien</foreign>. &lsquo;As the two forms are equally correct, we sometimes find both in the same sense.&rsquo; <hi rend="ITALIC">M.T.</hi> &sect; 321.</p></div3></div2>
-<div2 type="CHAPTER" n="97"><p></p>
+<div2 type="CHAPTER" n="97"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">tau/ths th=s nukto\s ktl</lemma>&mdash;as the passage stands in the  MSS., the construe is &lsquo;on the day that followed this night the A. held a review,&rsquo; <hi rend="ITALIC">i.e.</hi> on the day following the night that preceded the Syracusan review, they having sailed from Catana to Leon during the night. But serious objections to this are the intolerable harshness of the sentence, the absence of <foreign lang="greek">kai\ au)toi/</foreign> after <foreign lang="greek">e)chta/zonto</foreign>, and above all the absurdity of supposing that the A. would hold a review at Leou while the Syr. were doing the same on the Anapus, instead of making the best of their way to Euryelus, their whole object being to seize the height unknown to the Syr., as the night voyage shows. And &sect; 2 below, <foreign lang="greek">e)xw/rei eu)qu/s dro/mw|</foreign>, is inconsistent with the supposition. Again, the review cannot have been held at Catana, as then the voyage must have been made when day was well advanced. The choiee lies between inserting <foreign lang="greek">h(=|</foreign> with Poppo <pb n="246"/> before <foreign lang="greek">th=|</foreign> and striking out <foreign lang="greek">kai/</foreign> with Madvig, so as to refer <foreign lang="greek">e)chta/zonto</foreign> to the Syr.; and with Kruger regarding <foreign lang="greek">th=| e)pigignome/nh| . . e)chta/zonto</foreign> as an adscript on <foreign lang="greek">tau/ths th=s nukto/s</foreign>, intended to explain its meaning. This has then been attached to the text by <foreign lang="greek">kai/</foreign>.
 </p>
@@ -3332,7 +3331,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e)pikataba/ntes</lemma>&mdash;the A. march down the hill and then back again. For the succession of participles cf. c. 4, 1.
 </p>
 <p><lemma lang="greek" targOrder="U">e)pi\ tw=| *labda/lw|</lemma>&mdash;east of the point of ascent, on the north brink of the cliff, &lsquo;on the extremity&rsquo; (<foreign lang="greek">a)kroi=s</foreign>). This site would be convenient with the fleet stationed at Thapsus. Its disadvantage was that it was not visible from the <foreign lang="greek">ku/klos</foreign> which the A. presently built. It was subsequently taken by Gylippus. When he took it there were apparently no stores there; these were apparently removed to the <foreign lang="greek">ku/klos</foreign>: cf. c. 102, 2. (See Heitland in <hi rend="ITALIC">Jour. of Phil.</hi> '94 p. 57.) &lsquo;A safe place was needed for their money and stuff, while they themselves went forth to fight with the enemy, or to hem in his city by a wall across the height which was now their own&rsquo; (Freeman).</p></div3></div2>
-<div2 type="CHAPTER" n="98"><p></p>
+<div2 type="CHAPTER" n="98"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">kai\ ou) pollw=| ktl</lemma>&mdash;though expressed paratactically,  <pb n="247"/> the section consists of two causes and a result&mdash;each introduced by <foreign lang="greek">kai/</foreign>&mdash;so that <foreign lang="greek">kai\ cu/mpantes</foreign>=&lsquo;and thus in all.&rsquo;</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -3346,7 +3345,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">ski/dnasqai</lemma> is an Ionic form</p></div3>
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">fulh/</lemma>=<foreign lang="greek">ta/cis</foreign>. Gardner and Jevons, p. 637. <foreign lang="greek">e(\n ta/gma a)po\ fulh=s mia=s</foreign>, Schol.</p></div3></div2>
-<div2 type="CHAPTER" n="99"><p></p>
+<div2 type="CHAPTER" n="99"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">to\ pro\s bore/an tou= ku/klou tei=xos</lemma>&mdash;either &lsquo;a wall to wards the north of the fort,&rsquo; or &lsquo;the wall north of the fort.&rsquo; It is not clear whether <foreign lang="greek">to\ pro\s b</foreign>. agrees with <foreign lang="greek">tei=xos</foreign> or not. Thuc. distinguishes <foreign lang="greek">ku/klos</foreign> from <foreign lang="greek">a)potei/xisma</foreign>.
 </p>
@@ -3376,7 +3375,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">pu/rgous culi/nous</lemma>&mdash;probably on the south side of the wall.</p></div3>
 <div3 type="SECTION" n="4"><p>  </p>
 <p><lemma lang="greek" targOrder="U">ai( de\ nh=es ktl</lemma> &mdash;this explains on the one hand how it was that the Syr. were not open to attack from the harbour, on the other why the A. were able to get provisions in spite of the Syr. counterwork and possession of the harbour.</p></div3></div2>
-<div2 type="CHAPTER" n="100"><p></p>
+<div2 type="CHAPTER" n="100"><p/>
 <div3 type="SECTION" n="1"><p> l.2. </p>
 <p><lemma lang="greek" targOrder="U">o(/sa te e)staurw/qh kai\ w)|kodomh/qh</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> the <foreign lang="greek">u(potei/xisma</foreign>  consisted partly of palisading and partly of stone-work. The exact relations between the <foreign lang="greek">stau/rwma</foreign> and <foreign lang="greek">oi)kodo/mhma</foreign> cannot be <pb n="249"/> determined. Thuc. himself is not clear, for he speaks presently of <foreign lang="greek">fu/laka tou= oi)kodh/matos</foreign>, and farther on alludes to part of the same people as <foreign lang="greek">oi( e)n tw=| staurw/mati fula/ssontes</foreign>. Observe that <foreign lang="greek">te</foreign> is misplaced.
 </p>
@@ -3399,7 +3398,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <div3 type="SECTION" n="3"><p>  </p>
 <p><lemma lang="greek" targOrder="U">th\n . . u(potei/xisin</lemma> = <foreign lang="greek">to( oi)kodo/mhma</foreign> of &sect; 1. On </p>
 <p><lemma lang="greek" targOrder="U">diefo/rhsan</lemma> see c. 91, 7</p></div3></div2>
-<div2 type="CHAPTER" n="101"><p></p>
+<div2 type="CHAPTER" n="101"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">e)tei/xizon to\n krhmno/n</lemma>&mdash;&lsquo;they proceeded to build a  wall on the cliff,&rsquo; not &lsquo;built a wall along the cliff,&rsquo; as Classen. This is the short piece of wall that ran from the <foreign lang="greek">ku/klos</foreign> to the <hi rend="ITALIC">Portella del Fusco</hi>, and is more accurately described in &sect; 3 as <pb n="250"/> <foreign lang="greek">to\ pro\s to\n krhmno/n</foreign>. (Arnold, Grote, and Freeman understand &lsquo;they fortified a point on the cliff,&rsquo; and assume that Nicias subsequently filled in the space between this new fort and the <foreign lang="greek">ku/klos</foreign> with a wall which Thuc. does not mention. They increase the difficulty by placing the <foreign lang="greek">ku/klos</foreign> too far north. Lupus, Stahl, and Fr. Muller read &lt;<foreign lang="greek">e)s</foreign>&gt;  <foreign lang="greek">to\n krhmno/n</foreign>, but this is not necessary when the <foreign lang="greek">ku/klos</foreign> is rightly placed, the distance now built being so short that the wall &lsquo;<hi rend="ITALIC">to</hi> the cliff&rsquo; can be fairly called a wall &lsquo;<hi rend="ITALIC">on</hi> the cliff.&rsquo;)
 </p>
@@ -3431,7 +3430,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">e(autw=n</lemma>&mdash;the plur. is often so used where one general among several is mentioned.
 </p>
 <p><lemma lang="greek" targOrder="U">eu)qu\s kata\ ta/xos</lemma> &mdash; an instance of the tendency to multiply words, esp. adverbs, in order to obtain emphasis&mdash;<hi rend="ITALIC">e.g.</hi> <foreign lang="greek">po/qen oi)ko/qen: au)tou= e)kei=</foreign>. The same tendency is seen in Latin, esp. in comedy.</p></div3></div2>
-<div2 type="CHAPTER" n="102"><p></p>
+<div2 type="CHAPTER" n="102"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">au)tw=n</lemma>&mdash;depends on <foreign lang="greek">oi( katafugo/ntes</foreign>. See c. 62, 5 n.  </p>
 <p><lemma lang="greek" targOrder="U">tou\s kata\ sfa=s</lemma>&mdash;means the left wing of the A.</p></div3>
@@ -3445,7 +3444,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <div3 type="SECTION" n="4"><p> l.22. </p>
 <p><lemma lang="greek" targOrder="U">kai\ h( cu/mpasa</lemma>&mdash;<hi rend="ITALIC">i.e.</hi> not only the two divisions that had advanced from the city, but the left wing also that had fled to the bridge, returned. For </p>
 <p><lemma lang="greek" targOrder="U">mh/</lemma> see <hi rend="ITALIC">M.T.</hi> &sect; 685.</p></div3></div2>
-<div2 type="CHAPTER" n="103"><p></p>
+<div2 type="CHAPTER" n="103"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">au)to/n</lemma>&mdash;&lsquo;the general.&rsquo; The A. now stopped build ing north of the <foreign lang="greek">ku/klos</foreign>, and built a double wall from <hi rend="ITALIC">Portella del Fusco</hi> towards the Great Harbour. Now that the fleet was in the harbour, it was necessary to secure communication with the <foreign lang="greek">ku/klos</foreign>. The object of the wall being double was partly that provisions might come safely from the harbour, and partly to guard against an attack from two sides, as Polichna was in the possession of Syr.</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>
@@ -3465,7 +3464,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <p><lemma lang="greek" targOrder="U">u(po/</lemma>&mdash;&lsquo;under the weight of.&rsquo;
 </p>
 <p><lemma lang="greek" targOrder="U">*(hraklei/dhn</lemma>&mdash;not the same as the one mentioned in c. 73, 1.</p></div3></div2>
-<div2 type="CHAPTER" n="104"><p></p>
+<div2 type="CHAPTER" n="104"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*gu/lippos</lemma>&mdash;see c. 93, 2. He assumes, in accordance  with the statements of Alcibiades, that the A., having secured Sicily, will proceed to attack Italy.
 </p>
@@ -3485,7 +3484,7 @@ In 427 and 425 we know from inscriptions that Athens negotiated with him to prev
 <div3 type="SECTION" n="3"><p>  </p>
 <p><lemma lang="greek" targOrder="U">u(perei=de</lemma>&mdash;&lsquo;despised the small number.&rsquo; </p>
 <p><lemma lang="greek" targOrder="U">fulakh/n</lemma>&mdash; sc. <foreign lang="greek">new=n</foreign>. He presently sent out four ships, but they failed to intercept Gylippus.</p></div3></div2>
-<div2 type="CHAPTER" n="105"><p></p>
+<div2 type="CHAPTER" n="105"><p/>
 <div3 type="SECTION" n="1"><p>  </p>
 <p><lemma lang="greek" targOrder="U">*lakedaimo/nioi</lemma>&mdash;see c. 95. The A. now openly  <pb n="253"/> break the Peace of Nicias and the alliance that followed by attacking places in Laconia.</p></div3>
 <div3 type="SECTION" n="2"><p>  </p>

@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -32,7 +32,7 @@
               <note>Machine readable text of this edition was posted on the Latin Library (http://www.thelatinlibrary.com) by Konrad Schroder</note>
             </imprint>
           </monogr>
-	  <idno type="ISBN"></idno>
+	  <idno type="ISBN"/>
         </biblStruct>
       </sourceDesc>
     </fileDesc>

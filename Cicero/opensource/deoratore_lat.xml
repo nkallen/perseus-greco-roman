@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">A. S. Wilkins</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -23,8 +22,8 @@
 <author>M. Tullius Cicero</author>
 <editor role="editor">A. S. Wilkins</editor>
 <imprint>
-<pubPlace></pubPlace>
-<publisher></publisher>
+<pubPlace/>
+<publisher/>
 <date>1902</date>
 </imprint>
 </monogr>
@@ -47,7 +46,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: deoratore_lat.xml,v $
@@ -729,7 +728,7 @@ prudenter et composite et ornate et memoriter dicet cum
 quadam actionis etiam dignitate.
 <milestone n="65" unit="section"/>
 Sin cuipiam nimis infinitum
-videtur, quod ita posui &quot;quacumque de re,&quot; licet hinc
+videtur, quod ita posui "quacumque de re," licet hinc
 quantum cuique videbitur circumcidat atque amputet, tamen
 illud tenebo, si, quae ceteris in artibus atque studiis sita
 sunt, orator ignoret tantumque ea teneat, quae sint in
@@ -1272,8 +1271,8 @@ accidere, ne illo ipso &lt;tempore&gt; accideret, timere; altera est
 haec, de qua queri saepe soleo; quod ceterarum homines
 artium spectati et probati, si quando aliquid minus bene
 fecerunt quam solent, aut noluisse aut valetudine impediti
-non potuisse consequi id, quod scirent, putantur: &quot;noluit&quot;
-inquiunt &quot;hodie agere Roscius,&quot; aut &quot;crudior fuit&quot;; oratoris
+non potuisse consequi id, quod scirent, putantur: "noluit"
+inquiunt "hodie agere Roscius," aut "crudior fuit"; oratoris
 peccatum, si quod est animadversum, stultitiae peccatum
 videtur;
 <milestone n="125" unit="section"/>
@@ -2291,10 +2290,10 @@ Quod si ea probarentur in
 populis atque in civitatibus, quis tibi, Crasse, concessisset,
 clarissimo viro et amplissimo et principi civitatis, ut illa
 diceres in maxima contione tuorum civium, quae dixisti?
-&quot;Eripite nos ex miseriis, eripite ex faucibus eorum, quorum
+"Eripite nos ex miseriis, eripite ex faucibus eorum, quorum
 crudelitas &lt;nisi&gt; nostro sanguine non potest expleri; nolite
 sinere nos cuiquam servire, nisi vobis universis, quibus et
-possumus et debemus.&quot; Omitto miserias, in quibus, ut illi
+possumus et debemus." Omitto miserias, in quibus, ut illi
 aiunt, vir fortis esse non potest; omitto faucis, ex quibus te
 eripi vis, ne iudicio iniquo exsorbeatur sanguis tuus, quod
 sapienti negant accidere posse: servire vero non modo te,
@@ -2370,9 +2369,9 @@ supplex aut reus, sed magister aut dominus videretur esse
 iudicum. Quin etiam, cum ei scriptam orationem disertissimus
 orator Lysias attulisset, quam, si ei videretur, edisceret,
 ut ea pro se in iudicio uteretur, non invitus legit et commode
-scriptam esse dixit; &quot;sed&quot; inquit &quot;ut, si mihi calceos Sicyonios
+scriptam esse dixit; "sed" inquit "ut, si mihi calceos Sicyonios
 attulisses, non uterer, quamvis essent habiles atque apti ad
-pedem, quia non essent viriles,&quot; sic illam orationem disertam
+pedem, quia non essent viriles," sic illam orationem disertam
 sibi et oratoriam videri, fortem et virilem non videri. Ergo ille
 quoque damnatus est; neque solum primis sententiis, quibus
 tantum statuebant iudices, damnarent an absolverent, sed
@@ -2464,10 +2463,10 @@ quam ad suam rem accommodatum abstulisset, ut eum
 tristem Galba vidit, nomine appellavit quaesivitque, qua de
 re ad Crassum rettulisset; ex quo ut audivit commotumque
 <milestone n="240" unit="section"/>
-ut vidit hominem, &quot;suspenso&quot; inquit &quot;animo et occupato
-Crassum tibi respondisse video,&quot; deinde ipsum Crassum
-manu prehendit et &quot;heus tu,&quot; inquit &quot;quid tibi in mentem
-venit ita respondere?&quot; Tum ille fidenter homo peritissimus
+ut vidit hominem, "suspenso" inquit "animo et occupato
+Crassum tibi respondisse video," deinde ipsum Crassum
+manu prehendit et "heus tu," inquit "quid tibi in mentem
+venit ita respondere?" Tum ille fidenter homo peritissimus
 confirmare ita se rem habere, ut respondisset, nec dubium
 esse posse; Galba autem adludens varie et copiose multas
 similitudines adferre multaque pro aequitate contra ius
@@ -3010,14 +3009,14 @@ atque urbano opere defessi gestiant ac volitare cupiant
 vacui cura ac labore. 
 <milestone n="24" unit="section"/>
 Itaque illud ego, quod in causa Curiana
-Scaevolae dixi, non dixi secus ac sentiebam: nam &quot;si,&quot;
-inquam &quot;Scaevola, nullum erit testamentum recte factum,
+Scaevolae dixi, non dixi secus ac sentiebam: nam "si,"
+inquam "Scaevola, nullum erit testamentum recte factum,
 nisi quod tu scripseris, omnes ad te cives cum tabulis veniemus,
-omnium testamenta tu scribes unus. Quid igitur?&quot;
-inquam &quot;quando ages negotium publicum? quando amicorum?
-quando tuum? quando denique nihil ages?&quot; Tum
-illud addidi &quot;mihi enim liber esse non videtur, qui non
-aliquando nihil agit.&quot; In qua permaneo, Catule, sententia
+omnium testamenta tu scribes unus. Quid igitur?"
+inquam "quando ages negotium publicum? quando amicorum?
+quando tuum? quando denique nihil ages?" Tum
+illud addidi "mihi enim liber esse non videtur, qui non
+aliquando nihil agit." In qua permaneo, Catule, sententia
 meque, cum huc veni, hoc ipsum nihil agere et plane cessare
 delectat. 
 <milestone n="25" unit="section"/>
@@ -3027,10 +3026,10 @@ modo non hortatur ad disputandum, sed etiam deterret.
 Nam ut C. Lucilius, homo doctus et perurbanus, dicere
 solebat ea, quae scriberet neque se ab indoctissimis neque
 a doctissimis legi velle, quod alteri nihil intellegerent, alteri
-plus fortasse quam ipse; de quo etiam scripsit &quot;Persium
-non curo legere,&quot;&mdash;hic fuit enim, ut noramus, omnium fere
-nostrorum hominum doctissimus&mdash;&quot;Laelium Decumum
-volo,&quot; quem cognovimus virum bonum et non inlitteratum,
+plus fortasse quam ipse; de quo etiam scripsit "Persium
+non curo legere,"&mdash;hic fuit enim, ut noramus, omnium fere
+nostrorum hominum doctissimus&mdash;"Laelium Decumum
+volo," quem cognovimus virum bonum et non inlitteratum,
 sed nihil ad Persium; sic ego, si iam mihi disputandum sit
 de his nostris studiis, nolim equidem apud rusticos, sed
 multo minus apud vos; malo enim non intellegi orationem
@@ -3165,8 +3164,8 @@ copiam petere non possit.'
 <milestone n="39" unit="section"/>
  Tum Catulus 'etsi,' inquit
 'Antoni, minime impediendus est interpellatione iste cursus
-orationis tuae, patiere tamen mihique ignosces; &quot;non enim
-possum quin exclamem,&quot; ut ait ille in Trinummo: ita vim
+orationis tuae, patiere tamen mihique ignosces; "non enim
+possum quin exclamem," ut ait ille in Trinummo: ita vim
 oratoris cum exprimere subtiliter visus es, tum laudare
 copiosissime; quod quidem eloquentem vel optime facere
 oportet, ut eloquentiam laudet; debet enim ad eam laudandam
@@ -3930,8 +3929,8 @@ in scripto, quod totum a facti controversia separatum est.
 Ita tria sunt omnino genera, quae in disceptationem et
 controversiam cadere possint: quid fiat factum futurumve
 sit, aut quale sit, aut quo modo nominetur; nam illud quidem,
-quod quidam Graeci adiungunt, &quot;rectene factum sit,&quot; totum
-in eo est &quot;quale sit.&quot; Sed iam ad institutum revertar meum.
+quod quidam Graeci adiungunt, "rectene factum sit," totum
+in eo est "quale sit." Sed iam ad institutum revertar meum.
 <milestone n="114" unit="section"/></p>
 <p>Cum igitur accepta causa et genere cognito rem tractare
 coepi, nihil prius constituo, quam quid sit illud, quo mihi
@@ -4377,7 +4376,7 @@ Pacuvianus prope bellum indixeris.'
 <milestone n="156" unit="section"/>
  'Minime,' inquit Antonius;
 'ac sic decrevi philosophari potius, ut Neoptolemus
-apud Ennium &quot;paucis: nam omnino haud placet.&quot; Sed
+apud Ennium "paucis: nam omnino haud placet." Sed
 tamen haec est mea sententia, quam videbar exposuisse:
 ego ista studia non improbo, moderata modo sint: opinionem
 istorum studiorum et suspicionem artifici apud eos,
@@ -4458,18 +4457,18 @@ attingat; extrinsecus autem, cum ea, quae sunt foris neque
 haerent in rei natura, conliguntur. 
 <milestone n="164" unit="section"/>
 Si res tota quaeritur,
-definitione universa vis explicanda est, sic: &quot;si maiestas
+definitione universa vis explicanda est, sic: "si maiestas
 est amplitudo ac dignitas civitatis, is eam minuit, qui exercitum
 hostibus populi Romani tradidit, non qui eum, qui id
 <milestone n="165" unit="section"/>
-fecisset, populi Romani potestati tradidit.&quot; Sin pars, partitione,
-hoc modo: &quot;aut senatui parendum de salute rei
+fecisset, populi Romani potestati tradidit." Sin pars, partitione,
+hoc modo: "aut senatui parendum de salute rei
 publicae fuit aut aliud consilium instituendum aut sua
 sponte faciendum; aliud consilium, superbum; suum, adrogans;
-utendum igitur fuit consilio senatus.&quot; Si ex
-vocabulo, ut Carbo: &quot;si consul est, qui consulit patriae,
+utendum igitur fuit consilio senatus." Si ex
+vocabulo, ut Carbo: "si consul est, qui consulit patriae,
 <milestone n="166" unit="section"/>
-quid aliud fecit Opimius?&quot; Sin ab eo, quod rem attingit,
+quid aliud fecit Opimius?" Sin ab eo, quod rem attingit,
 plures sunt argumentorum sedes ac loci, nam et coniuncta
 quaeremus et genera et partis generibus subiectas et similitudines
 et dissimilitudines et contraria et consequentia et
@@ -4478,54 +4477,54 @@ rerum vestigabimus et ea, quae ex causis orta sint, et
 maiora, paria, minora quaeremus. 
 <milestone n="167" unit="section"/>
 Ex coniunctis sic argumenta
-ducuntur: &quot;si pietati summa tribuenda laus est,
-debetis moveri, cum Q. Metellum tam pie lugere videatis.&quot;
-Ex genere autem: &quot;si magistratus in populi Romani esse
+ducuntur: "si pietati summa tribuenda laus est,
+debetis moveri, cum Q. Metellum tam pie lugere videatis."
+Ex genere autem: "si magistratus in populi Romani esse
 potestate debent, quid Norbanum accusas, cuius tribunatus
 <milestone n="168" unit="section"/>
-voluntati paruit civitatis?&quot; Ex parte autem ea, quae est
-subiecta generi: &quot;si omnes, qui rei publicae consulunt, cari
+voluntati paruit civitatis?" Ex parte autem ea, quae est
+subiecta generi: "si omnes, qui rei publicae consulunt, cari
 nobis esse debent, certe in primis imperatores, quorum consiliis,
 virtute, periculis retinemus et nostram salutem et
-imperi dignitatem.&quot; Ex similitudine autem: &quot;si ferae
+imperi dignitatem." Ex similitudine autem: "si ferae
 partus suos diligunt, qua nos in liberos nostros indulgentia
 <milestone n="169" unit="section"/>
-esse debemus?&quot; At ex dissimilitudine: &quot;si barbarorum est
+esse debemus?" At ex dissimilitudine: "si barbarorum est
 in diem vivere, nostra consilia sempiternum tempus spectare
-debent.&quot; Atque utroque in genere et similitudinis et dissimilitudinis
+debent." Atque utroque in genere et similitudinis et dissimilitudinis
 exempla sunt ex aliorum factis aut dictis aut
 eventis et fictae narrationes saepe ponendae. Iam ex contrario:
 <milestone n="170" unit="section"/>
-&quot;si Gracchus nefarie, praeclare Opimius.&quot; Ex consequentibus:
-&quot;si et ferro interfectus ille et tu inimicus eius
+"si Gracchus nefarie, praeclare Opimius." Ex consequentibus:
+"si et ferro interfectus ille et tu inimicus eius
 cum gladio cruento comprehensus in illo ipso loco et nemo
 praeter te ibi visus est et causa nemini et tu semper audax,
-quid est quod de facinore dubitare possimus?&quot; Ex consentaneis
+quid est quod de facinore dubitare possimus?" Ex consentaneis
 et ex praecurrentibus et ex repugnantibus, ut olim
-Crassus adulescens: &quot;non si Opimium defendisti, Carbo,
+Crassus adulescens: "non si Opimium defendisti, Carbo,
 idcirco te isti bonum civem putabunt: simulasse te et
 aliquid quaesisse perspicuum est, quod Ti. Gracchi mortem
 saepe in contionibus deplorasti, quod P. Africani necis
 socius fuisti, quod eam legem in tribunatu tulisti, quod
 <milestone n="171" unit="section"/>
-semper a bonis dissedisti.&quot; Ex causis autem rerum sic:
-&quot;avaritiam si tollere vultis, mater eius est tollenda, luxuries.&quot;
-Ex eis autem, quae sunt orta de causis: &quot;si aerari copiis
+semper a bonis dissedisti." Ex causis autem rerum sic:
+"avaritiam si tollere vultis, mater eius est tollenda, luxuries."
+Ex eis autem, quae sunt orta de causis: "si aerari copiis
 et ad belli adiumenta et ad ornamenta pacis utimur, vectigalibus
 <milestone n="172" unit="section"/>
-serviamus.&quot; Maiora autem et minora et paria comparabimus
-sic: ex maiore: &quot;si bona existimatio divitiis
+serviamus." Maiora autem et minora et paria comparabimus
+sic: ex maiore: "si bona existimatio divitiis
 praestat et pecunia tanto opere expetitur, quanto gloria
-magis est expetenda!&quot; ex minore:</p>
-<l>&quot;hic parvae consuetudinis</l>
+magis est expetenda!" ex minore:</p>
+<l>"hic parvae consuetudinis</l>
 <l>causa huius mortem tam fert familiariter:</l>
-<l>quid si ipse amasset? Quid hic mihi faciet patri?&quot;
-Ex pari: &quot;est eiusdem et eripere et contra rem publicam
+<l>quid si ipse amasset? Quid hic mihi faciet patri?"
+Ex pari: "est eiusdem et eripere et contra rem publicam
 <milestone n="173" unit="section"/>
-largiri pecunias.&quot; Foris autem adsumuntur ea, quae non
-sua vi, sed extranea sublevantur, ut haec: &quot;hoc verum est;
+largiri pecunias." Foris autem adsumuntur ea, quae non
+sua vi, sed extranea sublevantur, ut haec: "hoc verum est;
 dixit enim Q. Lutatius. Hoc falsum est; habita enim
-quaestio est. Hoc sequi necesse est; recito enim tabulas.&quot;
+quaestio est. Hoc sequi necesse est; recito enim tabulas."
 De quo genere toto paulo ante dixi. 
 <milestone n="174" unit="section"/>
 Haec, ut brevissime
@@ -5086,8 +5085,8 @@ quem dignum contumelia iudicabat, utroque genere pugnavit.
 <milestone n="223" unit="section"/>
 Quam multa de balneis, quas nuper ille vendiderat,
 quam multa de amisso patrimonio dixit! Atque illa
-brevia, cum ille diceret se sine causa sudare, &quot;minime&quot;
-inquit &quot;modo enim existi de balneis.&quot; Innumerabilia &lt;alia&gt;
+brevia, cum ille diceret se sine causa sudare, "minime"
+inquit "modo enim existi de balneis." Innumerabilia &lt;alia&gt;
 fuerunt, sed non minus iucunda illa perpetua: cum enim
 Brutus duo lectores excitasset et alteri de colonia Narbonensi
 Crassi orationem legendam dedisset, alteri de lege Servilia,
@@ -5095,26 +5094,26 @@ et cum contraria inter sese de re publica capita contulisset,
 noster hic facetissime tris patris Bruti de iure civili libellos
 tribus legendos dedit. 
 <milestone n="224" unit="section"/>
-Ex libro primo: &quot;forte evenit ut in
-Privernati essemus.&quot; &quot;Brute, testificatur pater se tibi Privernatem
-fundum reliquisse.&quot; Deinde ex libro secundo: &quot;in
-Albano eramus ego et Marcus filius.&quot; &quot;Sapiens videlicet
+Ex libro primo: "forte evenit ut in
+Privernati essemus." "Brute, testificatur pater se tibi Privernatem
+fundum reliquisse." Deinde ex libro secundo: "in
+Albano eramus ego et Marcus filius." "Sapiens videlicet
 homo cum primis nostrae civitatis norat hunc gurgitem;
 metuebat ne, cum is nihil haberet, nihil esse ei relictum
-putaretur.&quot; Tum ex libro tertio, in quo finem scribendi
+putaretur." Tum ex libro tertio, in quo finem scribendi
 fecit&mdash;tot enim, ut audivi Scaevolam dicere, sunt veri Bruti
-libri&mdash;&quot;in Tiburti forte adsedimus ego et Marcus filius.&quot;
-&quot;Ubi sunt hi fundi, Brute, quos tibi pater publicis commentariis
+libri&mdash;"in Tiburti forte adsedimus ego et Marcus filius."
+"Ubi sunt hi fundi, Brute, quos tibi pater publicis commentariis
 consignatos reliquit? Quod nisi puberem te,
 inquit, iam haberet, quartum librum composuisset et se
 <milestone n="225" unit="section"/>
-etiam in balneis lotum cum filio scriptum reliquisset.&quot; Quis
+etiam in balneis lotum cum filio scriptum reliquisset." Quis
 est igitur qui non fateatur hoc lepore atque his facetiis non
 minus refutatum esse Brutum quam illis tragoediis, quas egit
 idem, cum casu in eadem causa efferretur anus Iunia. Pro
 di immortales, quae fuit illa, quanta vis! quam inexspectata!
 quam repentina! cum coniectis oculis, gestu omni ei
-imminenti, summa gravitate et celeritate verborum &quot;Brute,
+imminenti, summa gravitate et celeritate verborum "Brute,
 quid sedes? Quid illam anum patri nuntiare vis tuo?
 Quid illis omnibus, quorum imagines duci vides? Quid
 maioribus tuis? Quid L. Bruto, qui hunc populum dominatu
@@ -5133,7 +5132,7 @@ Tu hos intueri? Tu in foro, [tu in urbe,] tu in civium esse
 conspectu? Tu illam mortuam, tu imagines ipsas non perhorrescis?
 Quibus non modo imitandis, sed ne conlocandis
 <milestone n="227" unit="section"/>
-quidem tibi locum ullum reliquisti.&quot; Sed haec tragica atque
+quidem tibi locum ullum reliquisti." Sed haec tragica atque
 divina; faceta autem et urbana innumerabilia vel ex una
 contione meministis; nec enim maior contentio umquam
 fuit nec apud populum gravior oratio quam huius contra
@@ -5283,7 +5282,7 @@ addidisti clausulam: tota Tarracina tum omnibus in parietibus
 inscriptas fuisse litteras L. L. L. M. M.; cum quaereres
 id quid esset, senem tibi quendam oppidanum dixisse:
 <milestone n="241" unit="section"/>
-&quot;lacerat lacertum Largi mordax Memmius.&quot; Perspicitis
+"lacerat lacertum Largi mordax Memmius." Perspicitis
 genus hoc quam sit facetum, quam elegans, quam oratorium,
 sive habeas vere quod narrare possis, quod tamen est mendaciunculis
 aspergendum, sive fingas. Est autem huius
@@ -5293,13 +5292,13 @@ eis, qui audiunt, tum geri illa fierique videantur.
 <milestone n="242" unit="section"/>
 In re est
 item ridiculum, quod ex quadam depravata imitatione sumi
-solet, ut idem Crassus: &quot;per tuam nobilitatem, per vestram
-familiam!&quot; Quid aliud fuit, in quo contio rideret, nisi
-illa vultus et vocis imitatio? &quot;Per tuas statuas!&quot; vero
+solet, ut idem Crassus: "per tuam nobilitatem, per vestram
+familiam!" Quid aliud fuit, in quo contio rideret, nisi
+illa vultus et vocis imitatio? "Per tuas statuas!" vero
 cum dixit et extento bracchio paulum etiam de gestu
 addidit, vehementius risimus. Ex hoc genere est illa
 Rosciana imitatio senis:</p>
-<l>&quot;tibi ego, Antipho, has sero, inquit; seniumst, quom audio.&quot;
+<l>"tibi ego, Antipho, has sero, inquit; seniumst, quom audio."
 Atqui ita est totum hoc ipso genere ridiculum, ut cautissime
 tractandum sit; mimorum est enim et ethologorum,
 si nimia est imitatio, sicut obscenitas. Orator surripiat
@@ -5325,9 +5324,9 @@ in mentem mihi quidem venit: sunt enim dicaces; Granio
 quidem nemo dicacior. Hoc, opinor, primum, ne, quotienscumque
 potuerit dictum dici, necesse habeamus dicere.
 <milestone n="245" unit="section"/>
-Pusillus testis processit. &quot;Licet&quot; inquit &quot;rogare?&quot; Philippus.
-Tum quaesitor properans &quot;modo breviter.&quot; Hic ille
-&quot;non accusabis: perpusillum rogabo.&quot; Ridicule. Sed sedebat
+Pusillus testis processit. "Licet" inquit "rogare?" Philippus.
+Tum quaesitor properans "modo breviter." Hic ille
+"non accusabis: perpusillum rogabo." Ridicule. Sed sedebat
 iudex L. Aurifex brevior ipse quam testis etiam: omnis
 est risus in iudicem conversus; visum est totum scurrile
 ridiculum. Ergo haec, quae cadere possunt in quos nolis,
@@ -5335,20 +5334,20 @@ quamvis sint bella, sunt tamen ipso genere scurrilia;
 <milestone n="246" unit="section"/>
 ut
 iste, qui se vult dicacem et me hercule est, Appius, sed non
-numquam in hoc vitium scurrile delabitur. &quot;Cenabo&quot;
-inquit &quot;apud te,&quot; huic lusco familiari meo, C. Sextio; &quot;uni
-enim locum esse video.&quot; Est hoc scurrile, et quod sine
+numquam in hoc vitium scurrile delabitur. "Cenabo"
+inquit "apud te," huic lusco familiari meo, C. Sextio; "uni
+enim locum esse video." Est hoc scurrile, et quod sine
 causa lacessivit et tamen id dixit, quod in omnis luscos
 conveniret; ea, quia meditata putantur esse, minus ridentur:
-illud egregium Sexti et ex tempore &quot;manus lava&quot;
+illud egregium Sexti et ex tempore "manus lava"
 <milestone n="247" unit="section"/>
-inquit &quot;et cena.&quot; Temporis igitur ratio et ipsius dicacitatis
+inquit "et cena." Temporis igitur ratio et ipsius dicacitatis
 moderatio et temperantia et raritas dictorum distinguent
 oratorem a scurra, et quod nos cum causa dicimus, non ut
 ridiculi videamur, sed ut proficiamus aliquid, illi totum
 diem et sine causa. Quid enim est Vargula adsecutus, cum
 eum candidatus A. Sempronius cum M. fratre suo complexus
-esset &quot;puer, abige muscas&quot;? Risum quaesivit, qui
+esset "puer, abige muscas"? Risum quaesivit, qui
 est mea sententia vel tenuissimus ingeni fructus. Tempus
 igitur dicendi prudentia et gravitate moderabimur; quarum
 utinam artem aliquam haberemus! Sed domina natura est.
@@ -5371,13 +5370,13 @@ Sed hoc eisdem verbis; ex eisdem
 [autem] locis [nascuntur] omnia. Nam quod Sp. Carvilio
 graviter claudicanti ex vulnere ob rem publicam accepto et
 ob eam causam verecundanti in publicum prodire mater
-dixit &quot;quin prodis, mi Spuri? quotienscumque gradum
-facies, totiens tibi tuarum virtutum veniat in mentem,&quot; praeclarum
-et grave est: quod Calvino Glaucia claudicanti &quot;ubi
-est vetus illud: num claudicat? at hic clodicat&quot;! hoc ridiculum
+dixit "quin prodis, mi Spuri? quotienscumque gradum
+facies, totiens tibi tuarum virtutum veniat in mentem," praeclarum
+et grave est: quod Calvino Glaucia claudicanti "ubi
+est vetus illud: num claudicat? at hic clodicat"! hoc ridiculum
 est; et utrumque ex eo, quod in claudicatione animad-
-verti potuit, est ductum. &quot;Quid hoc Navio ignavius?&quot;
-severe Scipio; at in male olentem &quot;video me a te circumveniri&quot;
+verti potuit, est ductum. "Quid hoc Navio ignavius?"
+severe Scipio; at in male olentem "video me a te circumveniri"
 subridicule Philippus; at utrumque genus continet
 verbi ad litteram immutati similitudo. 
 <milestone n="250" unit="section"/>
@@ -5385,10 +5384,10 @@ Ex ambiguo dicta
 vel argutissima putantur, sed non semper in ioco, saepe
 etiam in gravitate versantur. Africano illi superiori coronam
 sibi in convivio ad caput accommodanti, cum ea saepius
-rumperetur, P. Licinius Varus &quot;noli mirari,&quot; inquit &quot;si non
-convenit, caput enim magnum est&quot;: et laudabile et honestum;
-at ex eodem genere est &quot;Calvo satis est, quod dicit
-parum.&quot; Ne multa: nullum genus est ioci, quo non ex
+rumperetur, P. Licinius Varus "noli mirari," inquit "si non
+convenit, caput enim magnum est": et laudabile et honestum;
+at ex eodem genere est "Calvo satis est, quod dicit
+parum." Ne multa: nullum genus est ioci, quo non ex
 eodem severa et gravia sumantur. 
 <milestone n="251" unit="section"/>
 Atque hoc etiam animadvertendum
@@ -5421,7 +5420,7 @@ requirerent, excusavit Vespa Terentius, quod eum bracchium
 fregisse diceret; ut illud Africani, quod est apud Lucilium</p>
 <l>Quid Decius? Nuculam an confixum vis facere? inquit:
 <milestone n="254" unit="section"/>
-ut tuus amicus, Crasse, Granius, &quot;non esse sextantis.&quot; Et
+ut tuus amicus, Crasse, Granius, "non esse sextantis." Et
 si quaeritis, is, qui appellatur dicax, hoc genere maxime
 excellet; sed risum movent alia maiorem. Ambiguum
 per se ipsum probatur id quidem, ut ante dixi, vel maxime;
@@ -5435,10 +5434,10 @@ notissimum ridiculi genus, cum aliud exspectamus, aliud
 dicitur: hic nobismet ipsis noster error risum movet: quod
 si admixtum est etiam ambiguum, fit salsius; ut apud Novium
 videtur esse misericors ille, qui iudicatum duci videt:
-percontatur ita: &quot;quanti addictus?&quot; &quot;Mille nummum.&quot; Si
-addidisset tantummodo &quot;ducas licet&quot;; esset illud genus
-ridiculi praeter exspectationem; sed quia addidit &quot;nihil
-addo, ducas licet&quot;; addito ambiguo [altero genere ridiculi],
+percontatur ita: "quanti addictus?" "Mille nummum." Si
+addidisset tantummodo "ducas licet"; esset illud genus
+ridiculi praeter exspectationem; sed quia addidit "nihil
+addo, ducas licet"; addito ambiguo [altero genere ridiculi],
 fuit, ut mihi quidem videtur, salsissimus. Hoc tum est
 venustum, cum in altercatione arripitur ab adversario
 verbum et ex eo, ut a Catulo in Philippum, in eum ipsum
@@ -5450,12 +5449,12 @@ attendere et aucupari verba oportebit; in quo, ut ea, quae
 sint frigidiora, vitemus,&mdash;est enim cavendum, ne arcessitum
 dictum putetur&mdash;permulta tamen acute dicemus. Alterum
 genus est, quod habet parvam verbi immutationem, quod in
-littera positum Graeci vocant <foreign lang="greek">paronomasi/an</foreign>, ut &quot;Nobiliorem
-mobiliorem&quot; Cato; aut, ut idem, cum cuidam dixisset
-&quot;eamus deambulatum&quot; et ille &quot;quid opus fuit de?&quot; &quot;Immo
-vero&quot; inquit &quot;quid opus fuit te?&quot; Aut eiusdem responsio
+littera positum Graeci vocant <foreign lang="greek">paronomasi/an</foreign>, ut "Nobiliorem
+mobiliorem" Cato; aut, ut idem, cum cuidam dixisset
+"eamus deambulatum" et ille "quid opus fuit de?" "Immo
+vero" inquit "quid opus fuit te?" Aut eiusdem responsio
 <milestone n="257" unit="section"/>
-illa &quot;si tu et adversus et aversus impudicus es.&quot; Etiam
+illa "si tu et adversus et aversus impudicus es." Etiam
 interpretatio nominis habet acumen, cum ad ridiculum
 convertas, quam ob rem ita quis vocetur; ut ego nuper
 Nummium divisorem, ut Neoptolemum ad Troiam, sic
@@ -5473,7 +5472,7 @@ haberet filium delicatiorem, abeunte iam illo,</l>
 <milestone n="258" unit="section"/>
 In hoc genus coniciuntur etiam proverbia, ut illud Scipionis,
 cum Asellus omnis se provincias stipendia merentem peragrasse
-gloriaretur: &quot;agas asellum&quot; et cetera; qua re ea quoque,
+gloriaretur: "agas asellum" et cetera; qua re ea quoque,
 quoniam mutatis verbis non possunt retinere eandem
 venustatem, non in re, sed in verbis posita ducantur. 
 <milestone n="259" unit="section"/>
@@ -5485,16 +5484,16 @@ ridiculus. Sed abeo a mimis; tantum genus huius ridiculi
 insigni aliqua et nota re notari volo; est autem ex hoc
 genere illud, quod tu, Crasse, nuper ei, qui te rogasset, num
 tibi molestus esset futurus, si ad te bene ante lucem venisset,
-&quot;tu vero&quot; inquisti &quot;molestus non eris.&quot; &quot;Iubebis igitur te&quot;
-inquit &quot;suscitari?&quot; Et tu &quot;certe negaram te molestum
+"tu vero" inquisti "molestus non eris." "Iubebis igitur te"
+inquit "suscitari?" Et tu "certe negaram te molestum
 <milestone n="260" unit="section"/>
-futurum.&quot; Ex eodem hoc vetus illud est, quod aiunt Maluginensem
+futurum." Ex eodem hoc vetus illud est, quod aiunt Maluginensem
 illum [M.] Scipionem, cum ex centuria sua renuntiaret
-Acidinum consulem praecoque dixisset &quot;dic de
-L. Manlio&quot;: &quot;virum bonum&quot; inquit &quot;egregiumque civem
-esse arbitror.&quot; Ridicule etiam illud L. [Porcius] Nasica
-censori Catoni; cum ille &quot;ex tui animi sententia tu uxorem
-habes?&quot; &quot;Non hercule&quot; inquit &quot;ex mei animi sententia.&quot;
+Acidinum consulem praecoque dixisset "dic de
+L. Manlio": "virum bonum" inquit "egregiumque civem
+esse arbitror." Ridicule etiam illud L. [Porcius] Nasica
+censori Catoni; cum ille "ex tui animi sententia tu uxorem
+habes?" "Non hercule" inquit "ex mei animi sententia."
 Haec aut frigida sunt aut tum salsa, cum aliud est exspectatum.
 Natura enim nos, ut ante dixi, noster delectat error;
 ex quo, cum quasi decepti sumus exspectatione, ridemus.
@@ -5502,9 +5501,9 @@ ex quo, cum quasi decepti sumus exspectatione, ridemus.
 In verbis etiam illa sunt, quae aut ex immutata oratione
 ducuntur aut ex unius verbi translatione aut ex inversione
 verborum. Ex immutatione, ut olim Rusca cum legem
-ferret annalem, dissuasor M. Servilius &quot;dic mihi,&quot; inquit
-&quot;M. Pinari, num, si contra te dixero, mihi male dicturus es,
-ut ceteris fecisti?&quot; &quot;Ut sementem feceris, ita metes&quot; inquit.
+ferret annalem, dissuasor M. Servilius "dic mihi," inquit
+"M. Pinari, num, si contra te dixero, mihi male dicturus es,
+ut ceteris fecisti?" "Ut sementem feceris, ita metes" inquit.
 <milestone n="262" unit="section"/>
 Ex translatione autem, ut, cum Scipio ille maior Corinthiis
 statuam pollicentibus eo loco, ubi aliorum essent impera-
@@ -5512,10 +5511,10 @@ torum, turmalis dixit displicere. Invertuntur autem verba,
 ut, Crassus apud M. Perpernam iudicem pro Aculeone cum
 diceret, aderat contra Aculeonem Gratidiano L. Aelius
 Lamia, deformis, ut nostis; qui cum interpellaret odiose,
-&quot;audiamus&quot; inquit &quot;pulchellum puerum&quot; Crassus; cum
-esset arrisum, &quot;non potui mihi&quot; inquit Lamia &quot;formam ipse
-fingere, ingenium potui&quot;; tum hic &quot;audiamus&quot; inquit
-&quot;disertum&quot;: multo etiam arrisum est vehementius. Sunt
+"audiamus" inquit "pulchellum puerum" Crassus; cum
+esset arrisum, "non potui mihi" inquit Lamia "formam ipse
+fingere, ingenium potui"; tum hic "audiamus" inquit
+"disertum": multo etiam arrisum est vehementius. Sunt
 etiam illa venusta ut in gravibus sententiis, sic in facetiis&mdash;
 dixi enim dudum rationem aliam esse ioci, aliam severitatis,
 <milestone n="263" unit="section"/>
@@ -5523,10 +5522,10 @@ gravium autem et iocorum unam esse materiam&mdash;ornant
 igitur in primis orationem verba relata contrarie, quod idem
 genus saepe est etiam facetum, ut Servius ille Galba cum
 iudices L. Scribonio tribuno plebis ferret familiaris suos et
-dixisset Libo &quot;quando tandem, Galba, de triclinio tuo
-exibis?&quot; &quot;cum tu&quot; inquit &quot;de cubiculo alieno.&quot; A quo
+dixisset Libo "quando tandem, Galba, de triclinio tuo
+exibis?" "cum tu" inquit "de cubiculo alieno." A quo
 genere ne illud quidem plurimum distat, quod Glaucia
-Metello &quot;villam in Tiburti habes, cortem in Palatio.&quot;</l>
+Metello "villam in Tiburti habes, cortem in Palatio."</l>
 <p>Ac verborum quidem genera, quae essent faceta, dixisse
 me puto; 
 <milestone n="264" unit="section"/>
@@ -5540,45 +5539,45 @@ Memmio. Et ad hoc genus ascribamus etiam narrationes
 apologorum. 
 <milestone n="265" unit="section"/>
 Trahitur etiam aliquid ex historia, ut, cum Sex.
-Titius se Cassandram esse diceret, &quot;multos&quot; inquit Antonius
-&quot;possum tuos Aiaces Oileos nominare.&quot; Est etiam ex
+Titius se Cassandram esse diceret, "multos" inquit Antonius
+"possum tuos Aiaces Oileos nominare." Est etiam ex
 similitudine, quae aut conlationem habet aut tamquam
 imaginem: conlationem, ut ille Gallus olim testis in Pisonem,
 cum innumerabilem Magio praefecto pecuniam dixisset
-datam idque Scaurus tenuitate Magi redargueret, &quot;erras,&quot;
-inquit &quot;Scaure; ego enim Magium non conservasse dico,
-sed tamquam nudus nuces legeret, in ventre abstulisse&quot;; ut
+datam idque Scaurus tenuitate Magi redargueret, "erras,"
+inquit "Scaure; ego enim Magium non conservasse dico,
+sed tamquam nudus nuces legeret, in ventre abstulisse"; ut
 illud M. Cicero senex, huius viri optimi, nostri familiaris,
-pater, &quot;nostros homines similis esse Syrorum venalium: ut
+pater, "nostros homines similis esse Syrorum venalium: ut
 <milestone n="266" unit="section"/>
-quisque optime Graece sciret, ita esse nequissimum.&quot; Valde
+quisque optime Graece sciret, ita esse nequissimum." Valde
 autem ridentur etiam imagines, quae fere in deformitatem
 aut in aliquod vitium corporis ducuntur cum similitudine
-turpioris: ut meum illud in Helvium Manciam &quot;iam ostendam
-cuius modi sis,&quot; cum ille &quot;ostende, quaeso&quot;; demonstravi
+turpioris: ut meum illud in Helvium Manciam "iam ostendam
+cuius modi sis," cum ille "ostende, quaeso"; demonstravi
 digito pictum Gallum in Mariano scuto Cimbrico sub
 Novis distortum, eiecta lingua, buccis fluentibus; risus est
 commotus; nihil tam Manciae simile visum est; ut cum
-Tito Pinario mentum in dicendo intorquenti: &quot;tum ut
+Tito Pinario mentum in dicendo intorquenti: "tum ut
 <milestone n="267" unit="section"/>
-diceret, si quid vellet, si nucem fregisset.&quot; Etiam illa, quae
+diceret, si quid vellet, si nucem fregisset." Etiam illa, quae
 minuendi aut augendi causa ad incredibilem admirationem
-efferuntur; velut tu, Crasse, in contione: &quot;ita sibi ipsum
+efferuntur; velut tu, Crasse, in contione: "ita sibi ipsum
 magnum videri Memmium, ut in forum descendens caput
-ad fornicem Fabianum demitteret&quot;; ex quo genere etiam
+ad fornicem Fabianum demitteret"; ex quo genere etiam
 illud est, quod Scipio apud Numantiam, cum stomacharetur
-cum C. Metello, dixisse dicitur: &quot;si quintum pareret mater
+cum C. Metello, dixisse dicitur: "si quintum pareret mater
 <milestone n="268" unit="section"/>
-eius, asinum fuisse parituram.&quot; Arguta etiam significatio est,
+eius, asinum fuisse parituram." Arguta etiam significatio est,
 cum parva re et saepe verbo res obscura et latens inlustratur;
 ut, cum C. Fabricio P. Cornelius, homo, ut existimabatur,
 avarus et furax, sed egregie fortis et bonus imperator, gratias
 ageret, quod se homo inimicus consulem fecisset, bello
-praesertim magno et gravi &quot;nihil est, quod mihi gratias
-agas,&quot; inquit &quot;si malui compilari quam venire&quot;; ut Asello
-Africanus obicienti lustrum illud infelix, &quot;noli&quot; inquit
-&quot;mirari; is enim, qui te ex aerariis exemit, lustrum condidit
-et taurum immolavit.&quot; [Tacita suspicio est, ut religione
+praesertim magno et gravi "nihil est, quod mihi gratias
+agas," inquit "si malui compilari quam venire"; ut Asello
+Africanus obicienti lustrum illud infelix, "noli" inquit
+"mirari; is enim, qui te ex aerariis exemit, lustrum condidit
+et taurum immolavit." [Tacita suspicio est, ut religione
 civitatem obstrinxisse videatur Mummius, quod Asellum
 ignominia levarit.]</p>
 <p>Urbana etiam dissimulatio est, cum alia dicuntur ac
@@ -5589,9 +5588,9 @@ severe ludas, cum aliter sentias ac loquare;
 ut noster Scaevola
 Septumuleio illi Anagnino, cui pro C. Gracchi capite
 erat aurum repensum, roganti, ut se in Asiam praefectum
-duceret &quot;quid tibi vis,&quot; inquit &quot;insane? tanta malorum est
+duceret "quid tibi vis," inquit "insane? tanta malorum est
 multitudo civium, ut tibi ego hoc confirmem, si Romae
-manseris, te paucis annis ad maximas pecunias esse venturum.&quot;
+manseris, te paucis annis ad maximas pecunias esse venturum."
 <milestone n="270" unit="section"/>
 In hoc genere Fannius in annalibus suis Africanum
 hunc Aemilianum dicit fuisse &lt;egregium&gt; et Graeco
@@ -5607,7 +5606,7 @@ maiora forensium actionum quam omnium sermonum condimenta
 sunt. Nam sicut quod apud Catonem est&mdash;qui
 multa rettulit, ex quibus a me exempli causa non nulla
 ponuntur&mdash;per mihi scitum videtur, C. Publicium solitum
-dicere &quot;P. Mummium cuiusvis temporis hominem esse,&quot; sic
+dicere "P. Mummium cuiusvis temporis hominem esse," sic
 profecto se res habet, nullum ut sit vitae tempus, in quo
 non deceat leporem humanitatemque versari. 
 <milestone n="272" unit="section"/>
@@ -5616,17 +5615,17 @@ ad cetera. Est huic finitimum dissimulationi, cum honesto
 verbo vitiosa res appellatur; ut cum Africanus censor tribu
 movebat eum centurionem, qui in Pauli pugna non adfuerat,
 cum ille se custodiae causa diceret in castris remansisse
-quaereretque, cur ab eo notaretur, &quot;non amo&quot; inquit
+quaereretque, cur ab eo notaretur, "non amo" inquit
 <milestone n="273" unit="section"/>
-&quot;nimium diligentis.&quot; Acutum etiam illud est, cum ex alterius
+"nimium diligentis." Acutum etiam illud est, cum ex alterius
 oratione aliud excipias atque ille vult; ut Salinatori
 Maximus, cum Tarento amisso arcem tamen Livius retinuisset
 multaque ex ea proelia praeclara fecisset, cum
 aliquot post annis Maximus id oppidum recepisset rogaretque
 eum Salinator, ut meminisset opera sua se Tarentum
-recepisse, &quot;quidni&quot; inquit &quot;meminerim? Numquam enim
+recepisse, "quidni" inquit "meminerim? Numquam enim
 <milestone n="274" unit="section"/>
-recepissem, nisi tu perdidisses.&quot; Sunt etiam illa subabsurda,
+recepissem, nisi tu perdidisses." Sunt etiam illa subabsurda,
 sed eo ipso nomine saepe ridicula, non solum mimis perapposita,
 sed etiam quodam modo nobis:</p>
 <l>homo fatuus,</l>
@@ -5640,70 +5639,70 @@ aliquid etiam apud nos loci, ut vel non stultus quasi
 stulte cum sale dicat aliquid: ut tibi, Antoni, Mancia, cum
 audisset te censorem a M. Duronio de ambitu postulatum,
 <milestone n="275" unit="section"/>
-&quot;aliquando&quot; inquit &quot;tibi tuum negotium agere licebit.&quot; Valde
+"aliquando" inquit "tibi tuum negotium agere licebit." Valde
 haec ridentur et hercule omnia, quae a prudentibus [quasi]
 per simulationem [non intellegendi] subabsurde salseque
 dicuntur. Ex quo genere est etiam non videri intellegere
-quod intellegas, ut Pontidius &quot;qualem existimas, qui in
-adulterio deprehenditur?&quot; &quot;tardum!&quot; ut ego, qui in dilectu
+quod intellegas, ut Pontidius "qualem existimas, qui in
+adulterio deprehenditur?" "tardum!" ut ego, qui in dilectu
 Metello, cum excusationem oculorum a me non acciperet
 <milestone n="276" unit="section"/>
-et dixisset &quot;tu igitur nihil vides?&quot; &quot;ego vero&quot; inquam
-&quot;a porta Esquilina video villam tuam;&quot; ut illud Nasicae,
+et dixisset "tu igitur nihil vides?" "ego vero" inquam
+"a porta Esquilina video villam tuam;" ut illud Nasicae,
 qui cum ad poetam Ennium venisset eique ab ostio quaerenti
 Ennium ancilla dixisset domi non esse, Nasica sensit
 illam domini iussu dixisse et illum intus esse; paucis post
 diebus cum ad Nasicam venisset Ennius et eum ad ianuam
 quaereret, exclamat Nasica domi non esse, tum Ennius
-&quot;quid? ego non cognosco vocem&quot; inquit &quot;tuam?&quot; Hic
-Nasica &quot;homo es impudens: ego cum te quaererem ancillae
-tuae credidi te domi non esse, tu mihi non credis ipsi?&quot;
+"quid? ego non cognosco vocem" inquit "tuam?" Hic
+Nasica "homo es impudens: ego cum te quaererem ancillae
+tuae credidi te domi non esse, tu mihi non credis ipsi?"
 Est bellum illud quoque, ex quo is, qui dixit inridetur in eo
 ipso genere, quo dixit; 
 <milestone n="277" unit="section"/>
 ut, cum Q. Opimius consularis,
 qui adulescentulus male audisset, festivo homini Egilio, qui
-videretur mollior nec esset, dixisset &quot;quid tu, Egilia mea?
-quando ad me venis cum tua colu et lana?&quot; &quot;Non pol&quot;
-inquit &quot;audeo, nam me ad famosas vetuit mater accedere.&quot;
+videretur mollior nec esset, dixisset "quid tu, Egilia mea?
+quando ad me venis cum tua colu et lana?" "Non pol"
+inquit "audeo, nam me ad famosas vetuit mater accedere."
 <milestone n="278" unit="section"/>
 Salsa sunt etiam, quae habent suspicionem ridiculi absconditam,
 quo in genere est Siculi illud, cui cum familiaris quidam
 quereretur quod diceret uxorem suam suspendisse se
-de ficu, &quot;amabo te,&quot; inquit &quot;da mihi ex ista arbore quos
-seram surculos.&quot; In eodem genere est, quod Catulus dixit
+de ficu, "amabo te," inquit "da mihi ex ista arbore quos
+seram surculos." In eodem genere est, quod Catulus dixit
 cuidam oratori malo: qui cum in epilogo misericordiam se
 movisse putaret, postquam adsedit, rogavit hunc videreturne
-misericordiam movisse, &quot;ac magnam quidem,&quot; inquit &quot;neminem
+misericordiam movisse, "ac magnam quidem," inquit "neminem
 enim puto esse tam durum, cui non oratio tua misericordia
 <milestone n="279" unit="section"/>
-digna visa sit.&quot; Me tamen hercule etiam illa valde
+digna visa sit." Me tamen hercule etiam illa valde
 movent stomachosa et quasi submorosa ridicula, non cum
 a moroso dicuntur; tum enim non sal, sed natura ridetur;
 in quo, ut mihi videtur, persalsum illud est apud Novium:</l>
-<l>&quot;quid ploras, pater?&quot;</l>
-<l>&quot;Mirum ni cantem: condemnatus sum.&quot;
+<l>"quid ploras, pater?"</l>
+<l>"Mirum ni cantem: condemnatus sum."
 Huic generi quasi contrarium est ridiculi genus patientis ac
 lenti, ut, cum Cato percussus esset ab eo, qui arcam ferebat,
-cum ille diceret &quot;cave,&quot; rogavit &quot;num quid aliud ferret
+cum ille diceret "cave," rogavit "num quid aliud ferret
 <milestone n="280" unit="section"/>
-praeter arcam.&quot; Est etiam stultitiae salsa reprehensio, ut
+praeter arcam." Est etiam stultitiae salsa reprehensio, ut
 ille Siculus, cui praetor Scipio patronum causae dabat
 hospitem suum, hominem nobilem, sed admodum stultum,
-&quot;quaeso,&quot; inquit &quot;praetor, adversario meo da istum patronum,
-deinde mihi neminem dederis.&quot; Movent illa etiam, quae
+"quaeso," inquit "praetor, adversario meo da istum patronum,
+deinde mihi neminem dederis." Movent illa etiam, quae
 coniectura explanantur longe aliter atque sunt, sed acute atque
 concinne; ut, cum Scaurus accusaret Rutilium ambitus,
 cum ipse consul esset factus, ille repulsam tulisset, et in eius
 tabulis ostenderet litteras A. F. P. R. idque diceret esse,
 actum fide P. Rutili; Rutilius autem, ante factum, post
 relatum; C. Canius, eques Romanus, cum Rufo adesset,
-exclamat, neutrum illis litteris declarari: &quot;quid ergo?&quot;
-inquit Scaurus; &quot;Aemilius fecit, plectitur Rutilius.&quot;</l>
+exclamat, neutrum illis litteris declarari: "quid ergo?"
+inquit Scaurus; "Aemilius fecit, plectitur Rutilius."</l>
 <p>Ridentur etiam discrepantia: 
 <milestone n="281" unit="section"/>
-&quot;quid huic abest nisi res et
-virtus?&quot; Bella etiam est familiaris reprehensio quasi errantis;
+"quid huic abest nisi res et
+virtus?" Bella etiam est familiaris reprehensio quasi errantis;
 ut cum obiurgavit Albium Granius quod, cum eius tabulis
 quiddam ab Albucio probatum videretur, et valde absoluto
 Scaevola gauderet neque intellegeret contra suas tabulas
@@ -5712,58 +5711,58 @@ esse iudicatum.
 Huic similis est etiam admonitio in consilio
 dando familiaris, ut, cum patrono malo, cum vocem in
 dicendo obtudisset, suadebat Granius, ut mulsum frigidum
-biberet, simul ac domum redisset, &quot;perdam&quot; inquit &quot;vocem,
+biberet, simul ac domum redisset, "perdam" inquit "vocem,
 <milestone n="283" unit="section"/>
-si id fecero&quot;: &quot;melius est&quot; inquit &quot;quam reum.&quot; Bellum
+si id fecero": "melius est" inquit "quam reum." Bellum
 etiam est, cum quid cuique sit consentaneum dicitur; ut,
 cum Scaurus non nullam haberet invidiam ex eo, quod
 Phrygionis Pompei, locupletis hominis, bona sine testamento
 possederat, sederetque advocatus reo Bestiae, cum
-funus quoddam duceretur, accusator C. Memmius &quot;vide,&quot;
-inquit &quot;Scaure, mortuus rapitur, si potes esse possessor.&quot;
+funus quoddam duceretur, accusator C. Memmius "vide,"
+inquit "Scaure, mortuus rapitur, si potes esse possessor."
 <milestone n="284" unit="section"/>
 Sed ex his omnibus nihil magis ridetur, quam quod est
 praeter exspectationem, cuius innumerabilia sunt exempla,
 vel Appi maioris illius, qui in senatu, cum ageretur de agris
 publicis et de lege Thoria et peteretur Lucullus ab eis, qui
-a pecore eius depasci agros publicos dicerent, &quot;non est&quot;
-inquit &quot;Luculli pecus illud; erratis&quot;;&mdash;defendere Lucullum
-videbatur&mdash;&quot;ego liberum puto esse: qua libet pascitur.&quot;
+a pecore eius depasci agros publicos dicerent, "non est"
+inquit "Luculli pecus illud; erratis";&mdash;defendere Lucullum
+videbatur&mdash;"ego liberum puto esse: qua libet pascitur."
 <milestone n="285" unit="section"/>
 Placet etiam mihi illud Scipionis illius, qui Ti. Gracchum
 perculit: cum ei M. Flaccus multis probris obiectis P. Mucium
-iudicem tulisset; &quot;eiero,&quot; inquit &quot;iniquus est&quot;; cum
-esset admurmuratum, &quot;ah,&quot; inquit &quot;P. C., non ego mihi illum
-iniquum eiero, verum omnibus.&quot; Ab hoc vero Crasso nihil
+iudicem tulisset; "eiero," inquit "iniquus est"; cum
+esset admurmuratum, "ah," inquit "P. C., non ego mihi illum
+iniquum eiero, verum omnibus." Ab hoc vero Crasso nihil
 facetius: cum laesisset testis Silus Pisonem, quod se in eum
-audisse dixisset, &quot;potest fieri,&quot; inquit &quot;Sile, ut is, unde te
-audisse dicis, iratus dixerit.&quot; Adnuit Silus. &quot;Potest etiam,
-ut tu non recte intellexeris.&quot; Id quoque toto capite adnuit,
-ut se Crasso daret. &quot;Potest etiam fieri,&quot; inquit &quot;ut omnino,
-quod te audisse dicis, numquam audieris.&quot; Hoc ita praeter
+audisse dixisset, "potest fieri," inquit "Sile, ut is, unde te
+audisse dicis, iratus dixerit." Adnuit Silus. "Potest etiam,
+ut tu non recte intellexeris." Id quoque toto capite adnuit,
+ut se Crasso daret. "Potest etiam fieri," inquit "ut omnino,
+quod te audisse dicis, numquam audieris." Hoc ita praeter
 exspectationem accidit, ut testem omnium risus obrueret.
 Huius generis est plenus Novius, cuius iocus est familiaris
 <milestone n="286" unit="section"/>
-&quot;sapiens si algebis, tremes&quot; et alia permulta. Saepe etiam
+"sapiens si algebis, tremes" et alia permulta. Saepe etiam
 facete concedas adversario id ipsum, quod tibi ille detrahit;
 ut C. Laelius, cum ei quidam malo genere natus diceret,
-indignum esse suis maioribus, &quot;at hercule&quot; inquit &quot;tu tuis
-dignus.&quot; Saepe etiam sententiose ridicula dicuntur, ut
+indignum esse suis maioribus, "at hercule" inquit "tu tuis
+dignus." Saepe etiam sententiose ridicula dicuntur, ut
 M. Cincius, quo die legem de donis et muneribus tulit,
-cum C. Cento prodisset et satis contumeliose &quot;quid fers,
-Cinciole?&quot; quaesisset, &quot;ut emas,&quot; inquit &quot;Gai, si uti velis.&quot;
+cum C. Cento prodisset et satis contumeliose "quid fers,
+Cinciole?" quaesisset, "ut emas," inquit "Gai, si uti velis."
 <milestone n="287" unit="section"/>
 Saepe etiam salse, quae fieri non possunt, optantur; ut
 M. Lepidus, cum, ceteris se in campo exercentibus, ipse in
-herba recubuisset, &quot;vellem hoc esset,&quot; inquit &quot;laborare.&quot;
+herba recubuisset, "vellem hoc esset," inquit "laborare."
 Salsum est etiam quaerentibus et quasi percontantibus lente
 respondere quod nolint; ut censor Lepidus, cum M. Antistio
 Pyrgensi equum ademisset amicique [cum] vociferarentur et
 quaererent, quid ille patri suo responderet, cur ademptum
 sibi equum diceret, cum optimus colonus, parcissimus,
-modestissimus, frugalissimus esset, &quot;me istorum&quot; inquit
+modestissimus, frugalissimus esset, "me istorum" inquit
 <milestone n="288" unit="section"/>
-&quot;nihil credere.&quot; Conliguntur a Graecis, alia non nulla, exsecrationes,
+"nihil credere." Conliguntur a Graecis, alia non nulla, exsecrationes,
 admirationes, minationes; sed haec ipsa nimis
 mihi videor in multa genera discripsisse; nam illa, quae
 verbi ratione et vi continentur, certa fere ac definita sunt;
@@ -5918,10 +5917,10 @@ Habet enim et voluntatem nocendi in iracundia et vim in
 ingenio et pondus in vita. Nec, si hoc Crassus non committit,
 ideo non multi et saepe committunt. Quo quidem
 mihi turpius videri nihil solet, quam quod ex oratoris dicto
-aliquo aut responso aut rogato sermo ille sequitur: &quot;occidit.&quot;
-&quot;Adversariumne?&quot; &quot;Immo vero&quot; aiunt &quot;se et eum, quem
+aliquo aut responso aut rogato sermo ille sequitur: "occidit."
+"Adversariumne?" "Immo vero" aiunt "se et eum, quem
 <milestone n="303" unit="section"/>
-defendit.&quot; Hoc Crassus non putat nisi perfidia accidere
+defendit." Hoc Crassus non putat nisi perfidia accidere
 posse; ego autem saepissime video in causis aliquid mali
 facere homines minime malos. Quid, illud, quod supra
 dixi, solere me cedere et, ut planius dicam, fugere ea, quae
@@ -6142,11 +6141,11 @@ Quod si hanc brevitatem quaesisset:</l>
 <l>effertur, imus, ad sepulcrum venimus,</l>
 <l>in ignem imposita est,
 [fere] decem versiculis totum conficere potuisset; quamquam
-hoc ipsum &quot;effertur, imus,&quot; concisum est ita, ut non
+hoc ipsum "effertur, imus," concisum est ita, ut non
 brevitati servitum sit, sed magis venustati. 
 <milestone n="328" unit="section"/>
 Quod si nihil
-fuisset, nisi &quot;in ignem imposita est,&quot; tamen res tota cognosci
+fuisset, nisi "in ignem imposita est," tamen res tota cognosci
 facile potuisset. Sed et festivitatem habet narratio distincta
 personis et interpuncta sermonibus, et est et probabilius,
 quod gestum esse dicas, cum quem ad modum actum sit
@@ -7632,9 +7631,9 @@ offenditur, quod sensus in nimia voluptate natura, non
 mente satiantur; in scriptis et in dictis non aurium solum,
 sed animi iudicio etiam magis infucata vitia noscuntur.
 <milestone n="101" unit="section"/>
-Qua re &quot;bene et praeclare&quot; quamvis nobis saepe dicatur;
-&quot;belle et festive&quot; nimium saepe nolo; quamquam illa ipsa
-exclamatio &quot;non potest melius&quot; sit velim crebra; sed habeat
+Qua re "bene et praeclare" quamvis nobis saepe dicatur;
+"belle et festive" nimium saepe nolo; quamquam illa ipsa
+exclamatio "non potest melius" sit velim crebra; sed habeat
 tamen illa in dicendo admiratio ac summa laus umbram
 aliquam et recessum, quo magis id, quod erit inluminatum,
 exstare atque eminere videatur. 
@@ -8152,8 +8151,8 @@ quodam iudicio ponderandus est; in quo consuetudo etiam
 bene loquendi valet plurimum. 
 <milestone n="151" unit="section"/>
 Itaque hoc, quod vulgo
-de oratoribus ab imperitis dici solet &quot;bonis hic verbis,&quot; aut
-&quot;aliquis non bonis utitur,&quot; non arte aliqua perpenditur, sed
+de oratoribus ab imperitis dici solet "bonis hic verbis," aut
+"aliquis non bonis utitur," non arte aliqua perpenditur, sed
 quodam quasi naturali sensu iudicatur: in quo non magna
 laus est vitare vitium, quamquam est magnum, verum
 tamen hoc quasi solum quoddam atque fundamentum est,
@@ -8170,10 +8169,10 @@ Inusitata sunt prisca fere ac vetustate ab
 usu cotidiani sermonis iam diu intermissa, quae sunt poetarum
 licentiae liberiora quam nostrae; sed tamen raro
 habet etiam in oratione poeticum aliquod verbum dignitatem.
-Neque enim illud fugerim dicere, ut Caelius &quot;qua tempestate
-Poenus in Italiam venit,&quot; nec &quot;prolem&quot; aut &quot;subolem&quot; aut
-&quot;effari&quot; aut &quot;nuncupare&quot; aut, ut tu soles, Catule, &quot;non
-rebar&quot; aut &quot;opinabar&quot;; aut alia multa, quibus loco positis
+Neque enim illud fugerim dicere, ut Caelius "qua tempestate
+Poenus in Italiam venit," nec "prolem" aut "subolem" aut
+"effari" aut "nuncupare" aut, ut tu soles, Catule, "non
+rebar" aut "opinabar"; aut alia multa, quibus loco positis
 grandior atque antiquior oratio saepe videri solet. 
 <milestone n="154" unit="section"/>
 Novantur
@@ -8181,10 +8180,10 @@ autem verba, quae ab eo, qui dicit, ipso gignuntur ac
 fiunt, vel coniungendis verbis, ut haec:</p>
 <l>tum pavor sapientiam omnem mi exanimato expectorat.</l>
 <l>num non vis huius me versutiloquas malitias . . .
-videtis enim et &quot;versutiloquas&quot; et &quot;expectorat&quot; ex coniunctione
+videtis enim et "versutiloquas" et "expectorat" ex coniunctione
 facta esse verba, non nata; sed saepe vel sine coniunctione
-verba novantur ut &quot;ille senius desertus,&quot; ut &quot;di
-genitales,&quot; ut &quot;bacarum ubertate incurvescere.&quot; 
+verba novantur ut "ille senius desertus," ut "di
+genitales," ut "bacarum ubertate incurvescere." 
 <milestone n="155" unit="section"/>
 Tertius ille
 modus transferendi verbi late patet, quem necessitas genuit
@@ -8224,7 +8223,7 @@ ne id, quod ageretur, intellegi posset, duobus translatis
 verbis similitudine ipsa indicat:</l>
 <l>quandoquidem is se circum vestit dictis, saepit se dolo.
 Non numquam etiam brevitas translatione conficitur, ut illud
-&quot;si telum manu fugit&quot;: imprudentia teli missi brevius propriis
+"si telum manu fugit": imprudentia teli missi brevius propriis
 verbis exponi non potuit, quam est uno significata
 translato. 
 <milestone n="159" unit="section"/>
@@ -8256,29 +8255,29 @@ uti vocabulo et nomine. Unde enim simile duci potest,
 potest autem ex omnibus, indidem verbum unum, quod
 similitudinem continet, translatum lumen adferet orationi.
 <milestone n="162" unit="section"/>
-Quo in genere primum est fugienda dissimilitudo: &quot;caeli
-ingentes fornices&quot;; quamvis sphaeram in scaenam, ut dicitur,
+Quo in genere primum est fugienda dissimilitudo: "caeli
+ingentes fornices"; quamvis sphaeram in scaenam, ut dicitur,
 attulerit Ennius, tamen in sphaera fornicis similitudo
 inesse non potest.</l>
 <l>Vive, Ulixes; dum licet:</l>
 <l>oculis postremum lumen radiatum rape!
-non dixit &quot;pete&quot; non &quot;cape,&quot;&mdash;haberet enim moram sperantis
-diutius esse victurum&mdash;sed &quot;rape&quot;: est hoc verbum ad id
+non dixit "pete" non "cape,"&mdash;haberet enim moram sperantis
+diutius esse victurum&mdash;sed "rape": est hoc verbum ad id
 <milestone n="163" unit="section"/>
-aptatum, quod ante dixerat, &quot;dum licet.&quot; Deinde videndum
-est ne longe simile sit ductum: &quot;Syrtim&quot; patrimoni, &quot;scopulum&quot;
-libentius dixerim; &quot;Charybdim&quot; bonorum, &quot;voraginem&quot;
+aptatum, quod ante dixerat, "dum licet." Deinde videndum
+est ne longe simile sit ductum: "Syrtim" patrimoni, "scopulum"
+libentius dixerim; "Charybdim" bonorum, "voraginem"
 potius; facilius enim ad ea, quae visa, quam ad illa, quae
 audita sunt, mentis oculi feruntur; et quoniam haec vel
 summa laus est in verbis transferendis, ut sensum feriat id,
 quod translatum sit, fugienda est omnis turpitudo earum
 rerum, ad quas eorum animos, qui audient, trahet similitudo.
 <milestone n="164" unit="section"/>
-Nolo dici morte Africani &quot;castratam&quot; esse rem publicam,
-nolo &quot;stercus curiae&quot; dici Glauciam; quamvis sit simile,
+Nolo dici morte Africani "castratam" esse rem publicam,
+nolo "stercus curiae" dici Glauciam; quamvis sit simile,
 tamen est in utroque deformis cogitatio similitudinis; nolo
-esse aut maius, quam res postulet: &quot;tempestas comissationis&quot;;
-aut minus: &quot;comissatio tempestatis&quot;; nolo esse
+esse aut maius, quam res postulet: "tempestas comissationis";
+aut minus: "comissatio tempestatis"; nolo esse
 verbum angustius id, quod translatum sit, quam fuisset
 illud proprium ac suum:</l>
 <l>quidnam est, obsecro? Quid te adirier abnutas?
@@ -8288,8 +8287,8 @@ melius esset vetas, prohibes, absterres; quoniam ille dixerat:</l>
 <milestone n="165" unit="section"/>
 Atque etiam, si vereare, ne paulo durior translatio esse
 videatur, mollienda est praeposito saepe verbo; ut si olim,
-M. Catone mortuo, &quot;pupillum&quot; senatum quis relictum
-diceret, paulo durius; sin, &quot;ut ita dicam, pupillum,&quot; aliquanto
+M. Catone mortuo, "pupillum" senatum quis relictum
+diceret, paulo durius; sin, "ut ita dicam, pupillum," aliquanto
 mitius: etenim verecunda debet esse translatio, ut
 deducta esse in alienum locum, non inrupisse, atque ut
 precario, non vi, venisse videatur. 
@@ -8314,8 +8313,8 @@ verborum. Ne illa quidem traductio atque immutatio
 in verbo quandam fabricationem habet [sed in oratione]:</l>
 <l>Africa terribili tremit horrida terra tumultu;
 [pro Afris est sumpta Africa,] neque factum est verbum, ut
-&quot;mare saxifragis undis&quot;; neque translatum, ut &quot;mollitur
-mare&quot;; sed ornandi causa proprium proprio commutatum:</l>
+"mare saxifragis undis"; neque translatum, ut "mollitur
+mare"; sed ornandi causa proprium proprio commutatum:</l>
 <l>desine, Roma, tuos hostis . . . .
 &lt;et&gt;</l>
 <l>testes sunt campi magni . . . .
@@ -8327,8 +8326,8 @@ togam pro pace, arma ac tela pro bello;
 <milestone n="168" unit="section"/>
 quo item in genere
 et virtutes et vitia pro ipsis, in quibus illa sunt, appellantur:
-&quot;luxuries quam in domum inrupit,&quot; et &quot;quo avaritia penetravit&quot;;
-aut &quot;fides valuit, iustitia confecit.&quot; Videtis profecto
+"luxuries quam in domum inrupit," et "quo avaritia penetravit";
+aut "fides valuit, iustitia confecit." Videtis profecto
 genus hoc totum, cum inflexo immutatoque verbo res
 eadem enuntiatur ornatius; cui sunt finitima illa minus
 ornata, sed tamen non ignoranda, cum intellegi volumus
@@ -8492,23 +8491,23 @@ sunt insignes percussiones eorum numerorum et minuti
 pedes. Qua re primum ad heroum nos [dactylici et anapaesti
 spondi pedem] invitat: in quo impune progredi licet
 duo dumtaxat pedes aut paulo plus, ne plane in versum aut
-similitudinem versus incidamus. &quot;Altae sunt geminae, quibus.&quot;
+similitudinem versus incidamus. "Altae sunt geminae, quibus."
 Hi tres [heroi] pedes in principia continuandorum
 verborum satis decore cadunt. 
 <milestone n="183" unit="section"/>
 Probatur autem ab eodem
 illo maxime paean, qui est duplex: nam aut a longa oritur,
-quam tres breves consequuntur, ut haec verba &quot;desinite,
-incipite, comprimite,&quot; aut a brevibus deinceps tribus, extrema
-producta atque longa, sicut illa sunt &quot;domuerant,
-sonipedes&quot;; atque illi philosopho ordiri placet a superiore
+quam tres breves consequuntur, ut haec verba "desinite,
+incipite, comprimite," aut a brevibus deinceps tribus, extrema
+producta atque longa, sicut illa sunt "domuerant,
+sonipedes"; atque illi philosopho ordiri placet a superiore
 paeane, posteriore finire; est autem paean hic posterior non
 syllabarum numero, sed aurium mensura, quod est acrius
 iudicium et certius, par fere cretico, qui est ex longa et brevi
 et longa: ut</l>
 <l>Quid petam praesidi, aut exsequar? quove nunc . . .
-A quo numero exorsus est Fannius: &quot;si, Quirites, minas
-illius.&quot; Hunc ille clausulis aptiorem putat, quas vult longa
+A quo numero exorsus est Fannius: "si, Quirites, minas
+illius." Hunc ille clausulis aptiorem putat, quas vult longa
 plerumque syllaba terminari. 
 <milestone n="184" unit="section"/>
 Neque vero haec tam acrem
@@ -8823,15 +8822,15 @@ Ctesiphontem contra Demosthenem dixerat; qua perlecta
 petitum ab eo est postridie, ut legeret illam etiam, quae
 erat contra ab Demosthene pro Ctesiphonte dicta: quam
 cum suavissima et maxima voce legisset, admirantibus
-omnibus &quot;quanto&quot; inquit &quot;magis miraremini, si audissetis
-ipsum!&quot; ex quo satis significavit, quantum esset in actione,
+omnibus "quanto" inquit "magis miraremini, si audissetis
+ipsum!" ex quo satis significavit, quantum esset in actione,
 qui orationem eandem aliam fore putarit actore mutato.
 <milestone n="214" unit="section"/>
 Quid fuit in Graccho, quem tu melius, Catule, meministi,
-quod me puero tanto opere ferretur? &quot;Quo me miser
+quod me puero tanto opere ferretur? "Quo me miser
 conferam? Quo vertam? In Capitoliumne? At fratris
 sanguine madet. An domum? Matremne ut miseram
-lamentantem videam et abiectam?&quot; Quae sic ab illo esse
+lamentantem videam et abiectam?" Quae sic ab illo esse
 acta constabat oculis, voce, gestu, inimici ut lacrimas tenere
 non possent. Haec ideo dico pluribus, quod genus hoc
 totum oratores, qui sunt veritatis ipsius actores, reliquerunt;

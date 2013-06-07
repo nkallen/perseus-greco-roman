@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -502,7 +501,7 @@ new texts (they parse but haven't been proofread yet)
 <l n="140">ignoscent, siquid peccaro stultus, amici </l>
 <l>inque vicem illorum patiar delicta libenter </l>
 <l>privatusque magis vivam te rege beatus. </l>
-<l></l></div2>
+<l/></div2>
 <div2 type="poem" n="4">
 <head>Satyricorum poetarum, ac suam praesertim, in scribendo licentiam excusat.</head>
 <l>Eupolis atque Cratinus Aristophanesque poetae </l>
@@ -760,7 +759,7 @@ new texts (they parse but haven't been proofread yet)
 <l>nec, siquid miri faciat natura, deos id </l>
 <l>tristis ex alto caeli demittere tecto. </l>
 <l>Brundisium longae finis chartaeque viaeque est. </l>
-<l></l></div2>
+<l/></div2>
 <div2 type="poem" n="6">
 <head>Ad Maecenatem:  de vera nobilitate</head>
 <l>Non quia, Maecenas, Lydorum quidquid Etruscos </l>
@@ -895,7 +894,7 @@ new texts (they parse but haven't been proofread yet)
 <l>vita solutorum misera ambitione gravique; </l>
 <l n="130">his me consolor victurum suavius ac si </l>
 <l>quaestor avus pater atque meus patruusque fuisset. </l>
-<l></l></div2>
+<l/></div2>
 <div2 type="poem" n="7">
 <head>Rupilii et Persii rixam facete describit.</head>
 <l>Proscripti Regis Rupili pus atque venenum </l>
@@ -1019,10 +1018,10 @@ new texts (they parse but haven't been proofread yet)
 <l>omnis conposui.' 'felices. nunc ego resto. </l>
 <l>confice; namque instat fatum mihi triste, Sabella </l>
 <l n="30">quod puero cecinit divina mota anus urna: </l>
-<l>&quot;hunc neque dira venena nec hosticus auferet ensis </l>
+<l>"hunc neque dira venena nec hosticus auferet ensis </l>
 <l>nec laterum dolor aut tussis nec tarda podagra: </l>
 <l>garrulus hunc quando consumet cumque: loquaces, </l>
-<l>si sapiat, vitet, simul atque adoleverit aetas.&quot;' 
+<l>si sapiat, vitet, simul atque adoleverit aetas."' 
 <milestone ed="p" n="35" unit="card"/></l>
 <l n="35">ventum erat ad Vestae, quarta iam parte diei </l>
 <l>praeterita, et casu tum respondere vadato </l>
@@ -1436,8 +1435,8 @@ new texts (they parse but haven't been proofread yet)
 <l n="35">solatus iussit sapientem pascere barbam </l>
 <l>atque a Fabricio non tristem ponte reverti. </l>
 <l>nam male re gesta cum vellem mittere operto </l>
-<l>me capite in flumen, dexter stetit et &quot;cave faxis </l>
-<l>te quicquam indignum. pudor&quot; inquit &quot;te malus angit, </l>
+<l>me capite in flumen, dexter stetit et "cave faxis </l>
+<l>te quicquam indignum. pudor" inquit "te malus angit, </l>
 <l n="40">insanos qui inter vereare insanus haberi. </l>
 <l>primum nam inquiram, quid sit furere: hoc si erit in te </l>
 <l>solo, nil verbi, pereas quin fortiter, addam. 
@@ -1699,7 +1698,7 @@ new texts (they parse but haven't been proofread yet)
 <l>in Tiberi stabit.' casus medicusve levarit  </l>
 <l>aegrum ex praecipiti: mater delira necabit </l>
 <l>in gelida fixum ripa febrimque reducet, </l>
-<l n="295">quone malo mentem concussa? timore Deorum.&quot; </l>
+<l n="295">quone malo mentem concussa? timore Deorum." </l>
 <l>haec mihi Stertinius, sapientum octavos, amico </l>
 <l>arma dedit, posthac ne conpellarer inultus. </l>
 <l>dixerit insanum qui me, totidem audiet atque </l>
@@ -1864,18 +1863,18 @@ new texts (they parse but haven't been proofread yet)
 <l>qui meliorem audax vocet in ius, illius esto </l>
 <l n="30">defensor; fama civem causaque priorem </l>
 <l>sperne, domi si gnatus erit fecundave coniux. </l>
-<l>&quot;Quinte&quot; puta aut &quot;Publi&quot; &mdash; gaudent praenomine molles </l>
-<l>auriculae &mdash; &quot;tibi me virtus tua fecit amicum. </l>
+<l>"Quinte" puta aut "Publi" &mdash; gaudent praenomine molles </l>
+<l>auriculae &mdash; "tibi me virtus tua fecit amicum. </l>
 <l>ius anceps novi, causas defendere possum; </l>
 <l n="35">eripiet quivis oculos citius mihi quam te  </l>
 <l>contemptum cassa nuce pauperet; haec mea cura est, </l>
-<l>nequid tu perdas neu sis iocus.&quot; ire domum atque </l>
+<l>nequid tu perdas neu sis iocus." ire domum atque </l>
 <l>pelliculam curare iube; fi cognitor ipse, </l>
 <l>persta atque obdura: seu rubra canicula findet </l>
 <l n="40">infantis statuas, seu pingui tentus omaso </l>
 <l>Furius hibernas cana nive conspuet Alpes. </l>
-<l>&quot;nonne vides&quot; aliquis cubito stantem prope tangens </l>
-<l>inquiet, &quot;ut patiens, ut amicis aptus, ut acer?&quot; </l>
+<l>"nonne vides" aliquis cubito stantem prope tangens </l>
+<l>inquiet, "ut patiens, ut amicis aptus, ut acer?" </l>
 <l>plures adnabunt thynni et cetaria crescent. </l>
 <l n="45">sicui praeterea validus male filius in re </l>
 <l>praeclara sublatus aletur, ne manifestum </l>
@@ -1933,9 +1932,9 @@ new texts (they parse but haven't been proofread yet)
 <l>ad Caelum manibus sublatis dixerit, urge: </l>
 <l>crescentem tumidis infla sermonibus utrem. </l>
 <l>cum te servitio longo curaque levarit, </l>
-<l n="100">et certum vigilans &quot;quartae sit partis Ulixes&quot; </l>
-<l>audieris &quot;heres&quot;: &quot;ergo nunc Dama sodalis </l>
-<l>nusquam est? unde mihi tam fortem tamque fidelem?&quot; </l>
+<l n="100">et certum vigilans "quartae sit partis Ulixes" </l>
+<l>audieris "heres": "ergo nunc Dama sodalis </l>
+<l>nusquam est? unde mihi tam fortem tamque fidelem?" </l>
 <l>sparge subinde et, si paulum potes inlacrimare, est </l>
 <l>gaudia prodentem voltum celare. sepulcrum </l>
 <l n="105">permissum arbitrio sine sordibus exstrue: funus </l>
@@ -2037,14 +2036,14 @@ new texts (they parse but haven't been proofread yet)
 <l>vincere tangentis male singula dente superbo, </l>
 <l>cum pater ipse domus palea porrectus in horna  </l>
 <l>esset ador loliumque, dapis meliora relinquens. </l>
-<l n="90">tandem urbanus ad hunc &quot;quid te iuvat&quot; inquit, &quot;amice, </l>
+<l n="90">tandem urbanus ad hunc "quid te iuvat" inquit, "amice, </l>
 <l>praerupti nemoris patientem vivere dorso? </l>
 <l>vis tu homines urbemque feris praeponere silvis? </l>
 <l>carpe viam, mihi crede, comes, terrestria quando </l>
 <l>mortalis animas vivunt sortita neque ulla est </l>
 <l n="95">aut magno aut parvo leti fuga: quo, bone, circa, </l>
 <l>dum licet, in rebus iucundis vive beatus, </l>
-<l>vive memor, quam sis aevi brevis.&quot; haec ubi dicta </l>
+<l>vive memor, quam sis aevi brevis." haec ubi dicta </l>
 <l>agrestem pepulere, domo levis exsilit; inde </l>
 <l>ambo propositum peragunt iter, urbis aventes </l>
 <l n="100">moenia nocturni subrepere. iamque tenebat </l>
@@ -2062,9 +2061,9 @@ new texts (they parse but haven't been proofread yet)
 <l>valvarum strepitus lectis excussit utrumque. </l>
 <l>currere per totum pavidi conclave magisque </l>
 <l>exanimes trepidare, simul domus alta Molossis </l>
-<l n="115">personuit canibus. tum rusticus: &quot;haud mihi vita </l>
-<l>est opus hac&quot; ait et &quot;valeas: me silva cavosque </l>
-<l>tutus ab insidiis tenui solabitur ervo.&quot;'  
+<l n="115">personuit canibus. tum rusticus: "haud mihi vita </l>
+<l>est opus hac" ait et "valeas: me silva cavosque </l>
+<l>tutus ab insidiis tenui solabitur ervo."'  
 </l></div2>
 <div2 type="poem" n="7">
 <head>Horatii servus libertate usus Saturnalitia festive illum et acriter obiurgat.</head>
@@ -2101,15 +2100,15 @@ new texts (they parse but haven't been proofread yet)
 <l>vinctus eas, ita te felicem dicis amasque, </l>
 <l>quod nusquam tibi sit potandum. iusserit ad se </l>
 <l>Maecenas serum sub lumina prima venire </l>
-<l>convivam: &quot;nemon' oleum fert ocius? ecquis </l>
-<l n="35">audit?&quot; cum magno blateras clamore fugisque. </l>
+<l>convivam: "nemon' oleum fert ocius? ecquis </l>
+<l n="35">audit?" cum magno blateras clamore fugisque. </l>
 <l>Mulvius et scurrae, tibi non referenda precati, </l>
-<l>discedunt. &quot;etenim fateor me&quot; dixerit ille </l>
-<l>&quot;duci ventre levem, nasum nidore supinor, </l>
+<l>discedunt. "etenim fateor me" dixerit ille </l>
+<l>"duci ventre levem, nasum nidore supinor, </l>
 <l>inbecillus, iners, siquid vis, adde, popino. </l>
 <l n="40">tu cum sis quod ego et fortassis nequior, ultro </l>
 <l>insectere velut melior verbisque decoris </l>
-<l>obvolvas vitium?&quot; quid, si me stultior ipso </l>
+<l>obvolvas vitium?" quid, si me stultior ipso </l>
 <l>quingentis empto drachmis deprenderis? aufer </l>
 <l>me voltu terrere; manum stomachumque teneto, </l>
 <l n="45">dum quae Crispini docuit me ianitor edo. 
@@ -2140,7 +2139,7 @@ new texts (they parse but haven't been proofread yet)
 <l>quaeres, quando iterum paveas iterumque perire </l>
 <l n="70">possis, o totiens servus. quae belua ruptis, </l>
 <l>cum semel effugit, reddit se prava catenis? </l>
-<l>&quot;non sum moechus&quot; ais. neque ego hercule fur, ubi vasa </l>
+<l>"non sum moechus" ais. neque ego hercule fur, ubi vasa </l>
 <l>praetereo sapiens argentea. tolle periclum: </l>
 <l>iam vaga prosiliet frenis natura remotis. </l>
 <l n="75">tune mihi dominus, rerum imperiis hominumque </l>
@@ -2161,7 +2160,7 @@ new texts (they parse but haven't been proofread yet)
 <l>ex his ut proprium quid noscere? quinque talenta </l>
 <l n="90">poscit te mulier, vexat foribusque repulsum </l>
 <l>perfundit gelida, rursus vocat: eripe turpi </l>
-<l>colla iugo Liber, &quot;liber sum&quot; dic age. non quis. </l>
+<l>colla iugo Liber, "liber sum" dic age. non quis. </l>
 <l>urget enim dominus mentem non lenis et acris </l>
 <l>subiectat lasso stimulos versatque negantem. </l>
 <l n="95">vel cum Pausiaca torpes, insane, tabella, </l>
@@ -2206,8 +2205,8 @@ new texts (they parse but haven't been proofread yet)
 <l>posset cenantis offendere, ut Attica virgo </l>
 <l>cum sacris Cereris procedit fuscus Hydaspes </l>
 <l n="15">caecuba vina ferens, Alcon Chium maris expers. </l>
-<l>hic erus &quot;Albanum, Maecenas, sive Falernum </l>
-<l>te magis adpositis delectat, habemus utrumque.&quot;' </l>
+<l>hic erus "Albanum, Maecenas, sive Falernum </l>
+<l>te magis adpositis delectat, habemus utrumque."' </l>
 <l>'divitias miseras! sed quis cenantibus una, </l>
 <l>Fundani, pulcre fuerit tibi, nosse laboro.' </l>
 <l n="20">'summus ego et prope me Viscus Thurinus et infra, </l>
@@ -2224,7 +2223,7 @@ new texts (they parse but haven't been proofread yet)
 <l>post hoc me docuit melimela rubere minorem </l>
 <l>ad lunam delecta. quid hoc intersit, ab ipso </l>
 <l>audieris melius. tum Vibidius Balatroni </l>
-<l>&quot;nos nisi damnose bibimus, moriemur inulti,&quot; </l>
+<l>"nos nisi damnose bibimus, moriemur inulti," </l>
 <l n="35">et calices poscit maiores. vertere pallor </l>
 <l>tum parochi faciem nil sic metuentis ut acris </l>
 <l>potores, vel quod maledicunt liberius vel </l>
@@ -2233,8 +2232,8 @@ new texts (they parse but haven't been proofread yet)
 <l n="40">Vibidius Balatroque secutis omnibus: imi  </l>
 <l>convivae lecti nihilum nocuere lagoenis. </l>
 <l>adfertur squillas inter murena natantis </l>
-<l>in patina porrecta. sub hoc erus &quot;haec gravida&quot; inquit </l>
-<l>&quot;capta est, deterior post partum carne futura. </l>
+<l>in patina porrecta. sub hoc erus "haec gravida" inquit </l>
+<l>"capta est, deterior post partum carne futura. </l>
 <l n="45">his mixtum ius est: oleo, quod prima Venafri </l>
 <l>pressit cella; garo de sucis piscis Hiberi; </l>
 <l>vino quinquenni, verum citra mare nato, </l>
@@ -2243,7 +2242,7 @@ new texts (they parse but haven't been proofread yet)
 <l n="50">quod Methymnaeam vitio mutaverit uvam. </l>
 <l>erucas viridis, inulas ego primus amaras </l>
 <l>monstravi incoquere; inlutos Curtillus echinos, </l>
-<l>ut melius muria quod testa marina remittat.&quot; 
+<l>ut melius muria quod testa marina remittat." 
 <milestone ed="p" n="54" unit="card"/></l>
 <l>interea suspensa gravis aulaea ruinas </l>
 <l n="55">in patinam fecere, trahentia pulveris atri </l>
@@ -2252,11 +2251,11 @@ new texts (they parse but haven't been proofread yet)
 <l>sensimus, erigimur; Rufus posito capite, ut si </l>
 <l>filius inmaturus obisset, flere. quis esset </l>
 <l n="60">finis, ni sapiens sic Nomentanus amicum </l>
-<l>tolleret: &quot;heu, Fortuna, quis est crudelior in nos </l>
+<l>tolleret: "heu, Fortuna, quis est crudelior in nos </l>
 <l>te Deus? ut semper gaudes inludere rebus </l>
-<l>humanis!&quot; Varius mappa conpescere risum </l>
+<l>humanis!" Varius mappa conpescere risum </l>
 <l>vix poterat. Balatro suspendens omnia naso </l>
-<l n="65">&quot;haec est condicio vivendi&quot; aiebat, &quot;eoque </l>
+<l n="65">"haec est condicio vivendi" aiebat, "eoque </l>
 <l>responsura tuo numquam est par fama labori. </l>
 <l>tene, ut ego accipiar laute, torquerier omni </l>
 <l>sollicitudine districtum, ne panis adustus, </l>
@@ -2265,9 +2264,9 @@ new texts (they parse but haven't been proofread yet)
 <l>adde hos praeterea casus, aulaea ruant si, </l>
 <l>ut modo; si patinam pede lapsus frangat agaso. </l>
 <l>sed convivatoris, uti ducis, ingenium res </l>
-<l>adversae nudare solent, celare secundae.&quot; </l>
-<l n="75">Nasidienus ad haec &quot;tibi Di, quaecumque preceris, </l>
-<l>commoda dent: ita vir bonus es convivaque comis&quot; </l>
+<l>adversae nudare solent, celare secundae." </l>
+<l n="75">Nasidienus ad haec "tibi Di, quaecumque preceris, </l>
+<l>commoda dent: ita vir bonus es convivaque comis" </l>
 <l>et soleas poscit. tum in lecto quoque videres </l>
 <l>stridere secreta divisos aure susurros.' </l>
 <l>'nullos his mallem ludos spectasse; sed illa </l>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -3967,8 +3966,7 @@
                     <seg>We must believe that the tyrant city that has been established in <placeName key="tgn,1000074">Hellas</placeName>
                         has been established against all alike, with a programme of universal
                         empire, part fulfilled, part in contemplation; let us then attack and reduce it, and win future security for ourselves and
-                        freedom for the Hellenes who are now enslaved.&rsquo;<milestone
-                            unit="para" ed="P"/>Such were the words of the Corinthians. </seg>
+                        freedom for the Hellenes who are now enslaved.&rsquo;<milestone unit="para" ed="P"/>Such were the words of the Corinthians. </seg>
                 </p>
                 <p>
                     <milestone n="125" unit="chapter"/>
@@ -12138,8 +12136,7 @@
                         to give birth to a child in the island; but that they should be carried over to Rhenea, which is so near to <placeName key="perseus,Delos">Delos</placeName>
                         that Polycrates, tyrant of <placeName key="perseus,Samos City">Samos</placeName>, having added Rhenea to his other island
                         conquests during his period of naval ascendancy, dedicated it to the Delian
-                        Apollo by binding it to <placeName key="perseus,Delos">Delos</placeName> with a chain.<milestone unit="para" ed="P"
-                        />The Athenians, after the purification, celebrated, for the first time, the
+                        Apollo by binding it to <placeName key="perseus,Delos">Delos</placeName> with a chain.<milestone unit="para" ed="P"/>The Athenians, after the purification, celebrated, for the first time, the
                         quinquennial festival of the Delian games.</seg>
 
 
@@ -13945,8 +13942,7 @@
                         to compare small things with great, as at <placeName key="perseus,Thermopylae">Thermopylae</placeName>, where the defenders
                         were cut off through the Persians getting round by the path, being now
                         attacked in front and behind, began to give way, and overcome by the odds
-                        against them and exhausted from want of food, retreated.<milestone
-                            unit="para" ed="P"/>The Athenians were already masters of the approaches
+                        against them and exhausted from want of food, retreated.<milestone unit="para" ed="P"/>The Athenians were already masters of the approaches
                     </seg>
                 </p>
                 <p>
@@ -16883,8 +16879,7 @@
                     <seg>Brasidas expecting their arrival conveyed away to <placeName key="perseus,Olynthus">Olynthus</placeName> in <placeName key="tgn,7002716">Chalcidice</placeName>
                         the women and children of the Scionaeans and Mendaeans, and sent over to
                         them five hundred Peloponnesian heavy infantry and three hundred Chalcidian
-                        targeteers, all under the command of Polydamidas.<milestone unit="para"
-                            ed="P"/>Leaving these two towns to prepare together against the speedy
+                        targeteers, all under the command of Polydamidas.<milestone unit="para" ed="P"/>Leaving these two towns to prepare together against the speedy
                         arrival of the Athenians, </seg>
                 </p>
                 <p>
@@ -17953,8 +17948,7 @@
                         <milestone unit="para" ed="P"/>1.</seg>
                     <seg>Touching the national temples, there shall be a free passage by land and by
                         sea to all who wish it, to sacrifice, travel, consult, and attend the oracle
-                        or games, according to the customs of their countries.<milestone unit="para"
-                            ed="P"/>2.</seg>
+                        or games, according to the customs of their countries.<milestone unit="para" ed="P"/>2.</seg>
                     <seg>The temple and shrine of Apollo at <placeName key="perseus,Delphi">Delphi</placeName> and the Delphians shall be
                         governed by their own laws, taxed by their own state, and judged by their
                         own judges, the land and the people, according to the custom of their
@@ -18012,8 +18006,7 @@
                         the Peloponnesians besieged in <placeName key="perseus,Scione">Scione</placeName>, and all others in <placeName key="perseus,Scione">Scione</placeName> that are
                         allies of the Lacedaemonians, and all whom Brasidas sent in there, and any
                         others of the allies of the Lacedaemonians that may be in the prison at
-                        <placeName key="perseus,Athens">Athens</placeName> or elsewhere in the Athenian dominions.<milestone unit="para" ed="P"
-                        />7.</seg>
+                        <placeName key="perseus,Athens">Athens</placeName> or elsewhere in the Athenian dominions.<milestone unit="para" ed="P"/>7.</seg>
                     <seg>The Lacedaemonians and their allies shall in like manner give back any of
                         the Athenians or their allies that they may have in their hands.</seg>
 
@@ -19075,8 +19068,7 @@
                     <seg>It shall not be lawful to carry on war, either for the Argives, Eleans,
                         Mantineans, and their allies, against the Athenians, or the allies in the
                         Athenian empire; or for the Athenians and their allies against the Argives, Eleans,
-                        Mantineans, or their allies, in any way or means whatsoever.<milestone
-                            unit="para" ed="P"/>The Athenians, Argives, Eleans, and Mantineans shall
+                        Mantineans, or their allies, in any way or means whatsoever.<milestone unit="para" ed="P"/>The Athenians, Argives, Eleans, and Mantineans shall
                         be allies for a hundred years upon the terms following:&mdash;</seg>
 
 
@@ -19409,8 +19401,7 @@
                         returned home.</seg>
                     <seg>Meanwhile a thousand Athenian heavy infantry had come to their aid under
                         the command of Alcibiades, but finding that the Lacedaemonian expedition was
-                        at an end, and that they were no longer wanted, went back again.<milestone
-                            unit="para" ed="P"/>So passed the summer. </seg>
+                        at an end, and that they were no longer wanted, went back again.<milestone unit="para" ed="P"/>So passed the summer. </seg>
                 </p>
                 <p>
                     <milestone n="56" unit="chapter"/>
@@ -20109,8 +20100,7 @@
    <milestone unit="section" n="1"/>
                     <seg>
                         <milestone unit="para" ed="P"/>The assembly of the Lacedaemonians agrees to
-                        treat with the Argives upon the terms following&mdash;<milestone
-                            unit="para" ed="P"/>1.</seg>
+                        treat with the Argives upon the terms following&mdash;<milestone unit="para" ed="P"/>1.</seg>
                     <seg>The Argives shall restore to the Orchomenians their children, and to the
                         Moenalians their men, and shall restore the men they have in <placeName key="perseus,Mantinea">Mantinea</placeName> to the
                         Lacedaemonians.</seg>
@@ -22053,8 +22043,7 @@
                         expedition; although the strength of the armament, and the profuse provision which they
                         remarked in every department, was a sight that could not but comfort them.</seg>
                     <seg>As for the foreigners and the rest of the crowd, they simply went to see a
-                        sight worth looking at and passing all belief.<milestone unit="para" ed="P"
-                        />Indeed this armament that first sailed out was by far the most costly and
+                        sight worth looking at and passing all belief.<milestone unit="para" ed="P"/>Indeed this armament that first sailed out was by far the most costly and
                         splendid Hellenic force that had ever been sent out by a single city up to
                         that time.</seg>
 
@@ -23032,8 +23021,7 @@
                     <seg>Thus, although an Athenian, he gave his daughter, Archedice, to a
                         Lampsacene, Aeantides, son of the tyrant of <placeName key="perseus,Lampsakos">Lampsacus</placeName>, seeing that they had
                         great influence with Darius.</seg>
-                    <seg>And there is her tomb in <placeName key="perseus,Lampsakos">Lampsacus</placeName> with this inscription:&mdash;<quote
-                            type="inscript">
+                    <seg>And there is her tomb in <placeName key="perseus,Lampsakos">Lampsacus</placeName> with this inscription:&mdash;<quote type="inscript">
                             <l met="dact">
                                 <seg>Archedice lies buried in this earth,</seg>
                             </l>
@@ -29201,8 +29189,7 @@
    <milestone unit="section" n="4"/>
                     <seg>
                         <milestone unit="para" ed="P"/>3.</seg>
-                    <seg>Both shall carry on jointly the war against the Athenians and their allies; and if they make peace, both shall do so jointly.<milestone unit="para"
-                            ed="P"/>4.</seg>
+                    <seg>Both shall carry on jointly the war against the Athenians and their allies; and if they make peace, both shall do so jointly.<milestone unit="para" ed="P"/>4.</seg>
                     <seg>The expense of all troops in the king's country, sent for by the king,
                         shall be borne by the king.</seg>
 

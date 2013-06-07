@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 &responsibility;
 <funder>Robert B. Strassler</funder>
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -25703,7 +25702,7 @@ recipient that he must look at the second tablet; then he will
 raise five on the right, because <foreign lang="greek">k</foreign> is the fifth letter in the
 group,<note anchored="yes"><p>The grouping of these letters will be as follows:&mdash;
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="label" rows="1">1</cell><cell cols="1" role="label" rows="1">2</cell><cell cols="1" role="label" rows="1">3</cell><cell cols="1" role="label" rows="1">4</cell><cell cols="1" role="label" rows="1">5</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="label" rows="1">1</cell><cell cols="1" role="label" rows="1">2</cell><cell cols="1" role="label" rows="1">3</cell><cell cols="1" role="label" rows="1">4</cell><cell cols="1" role="label" rows="1">5</cell></row>
 <row role="data"><cell cols="1" role="label" rows="1">1</cell> <cell cols="1" role="data" rows="1"><foreign lang="greek">a</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">z</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">l</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">p</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">f</foreign></cell></row>
 <row role="data"><cell cols="1" role="label" rows="1">2</cell> <cell cols="1" role="data" rows="1"><foreign lang="greek">b</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">h</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">m</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">r</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">x</foreign></cell></row>
 <row role="data"><cell cols="1" role="label" rows="1">3</cell> <cell cols="1" role="data" rows="1"><foreign lang="greek">g</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">q</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">n</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">s</foreign></cell><cell cols="1" role="data" rows="1"><foreign lang="greek">y</foreign></cell></row>
@@ -41665,26 +41664,26 @@ of the Great Scipio, sisters to his adoptive
 father.<note anchored="yes"><p>The following pedigree will show the various family connexions here alluded to:&mdash;
 <figure id="ft1" rend="familytree">
 <figDesc>
-<rs id="ft1i1" type="INDI" n="1"><persName type="sex=m">Publius Cornelius Scipio</persName><note anchored="yes" place="inline">ob. in Spain B. C. 212</note><ref n="spouse" target="ft1f1" targOrder="U"></ref></rs>
-<rs id="ft1i2" type="INDI" n="2"><persName type="sex=m">P. Cornelius Scipio Africanus</persName><note anchored="yes" place="inline">ob. B.C. 187</note><ref n="child" target="ft1f1" targOrder="U"></ref><ref n="spouse" target="ft1f2" targOrder="U"></ref></rs>
-<rs id="ft1i3" type="INDI" n="3"><persName type="sex=f">Aemilia</persName><note anchored="yes" place="inline">ob. B.C. 162</note><ref n="spouse" target="ft1f2" targOrder="U"></ref><ref n="child" target="ft1f3" targOrder="U"></ref></rs>
-<rs id="ft1i4" type="INDI" n="4"><persName type="sex=m">Lucius Aemilius Paulus</persName><note anchored="yes" place="inline">ob. B.C. <date value="-160">160</date></note><ref n="child" target="ft1f3" targOrder="U"></ref><ref n="spouse" target="ft1f4" targOrder="U"></ref></rs>
-<rs id="ft1i5" type="INDI" n="5"><persName type="sex=f">Papiria</persName><ref n="spouse" target="ft1f4" targOrder="U"></ref></rs>
-<rs id="ft1i6" type="INDI" n="6"><persName type="sex=m">P. Scipio Nasica</persName><ref n="spouse" target="ft1f5" targOrder="U"></ref></rs>
-<rs id="ft1i7" type="INDI" n="7"><persName type="sex=f">Cornelia</persName><note anchored="yes" place="inline">(1)</note><ref n="child" target="ft1f2" targOrder="U"></ref><ref n="spouse" target="ft1f5" targOrder="U"></ref></rs>
-<rs id="ft1i8" type="INDI" n="8"><persName type="sex=m">Tib. Sempronius Gracchus</persName><ref n="spouse" target="ft1f6" targOrder="U"></ref></rs>
-<rs id="ft1i9" type="INDI" n="9"><persName type="sex=f">Cornelia</persName><note anchored="yes" place="inline">(2)</note><ref n="child" target="ft1f2" targOrder="U"></ref><ref n="spouse" target="ft1f6" targOrder="U"></ref></rs>
-<rs id="ft1i10" type="INDI" n="10"><persName type="sex=m">Publius Cornelius Scipio Africanus</persName><note anchored="yes" place="inline">ob. s. p. adopted his cousin who became Publius Cornelius Scipio Aemilianus Africanus ob. B. C. 129.</note><ref n="child" target="ft1f2" targOrder="U"></ref></rs>
-<rs id="ft1i11" type="INDI" n="11"><persName type="sex=m">Quintus Fabius Maximus</persName><note anchored="yes" place="inline">adopted by Q. F. M.</note><ref n="child" target="ft1f4" targOrder="U"></ref></rs>
-<rs id="ft1i12" type="INDI" n="12"><persName type="sex=m">Scipio Aemilianus</persName><note anchored="yes" place="inline">b. B.C. 185</note><ref n="child" target="ft1f4" targOrder="U"></ref></rs>
-<rs id="ft1i13" type="INDI" n="13"><persName type="sex=f"></persName><note anchored="yes" place="inline">two daughters</note><ref n="child" target="ft1f4" targOrder="U"></ref></rs>
-<rs id="ft1i14" type="INDI" n="14"><persName type="sex=m"></persName><ref n="spouse" target="ft1f3" targOrder="U"></ref></rs>
-<rs id="ft1f1" type="FAM" n="1"><ref n="husb" target="ft1i1" targOrder="U"></ref><ref n="chil" target="ft1i2" targOrder="U"></ref></rs>
-<rs id="ft1f2" type="FAM" n="2"><ref n="husb" target="ft1i2" targOrder="U"></ref><ref n="wife" target="ft1i3" targOrder="U"></ref><ref n="chil" target="ft1i7" targOrder="U"></ref><ref n="chil" target="ft1i9" targOrder="U"></ref><ref n="chil" target="ft1i10" targOrder="U"></ref></rs>
-<rs id="ft1f3" type="FAM" n="3"><ref n="chil" target="ft1i3" targOrder="U"></ref><ref n="chil" target="ft1i4" targOrder="U"></ref><ref n="husb" target="ft1i14" targOrder="U"></ref></rs>
-<rs id="ft1f4" type="FAM" n="4"><ref n="husb" target="ft1i4" targOrder="U"></ref><ref n="wife" target="ft1i5" targOrder="U"></ref><ref n="chil" target="ft1i11" targOrder="U"></ref><ref n="chil" target="ft1i12" targOrder="U"></ref><ref n="chil" target="ft1i13" targOrder="U"></ref></rs>
-<rs id="ft1f5" type="FAM" n="5"><ref n="husb" target="ft1i6" targOrder="U"></ref><ref n="wife" target="ft1i7" targOrder="U"></ref></rs>
-<rs id="ft1f6" type="FAM" n="6"><ref n="husb" target="ft1i8" targOrder="U"></ref><ref n="wife" target="ft1i9" targOrder="U"></ref></rs>
+<rs id="ft1i1" type="INDI" n="1"><persName type="sex=m">Publius Cornelius Scipio</persName><note anchored="yes" place="inline">ob. in Spain B. C. 212</note><ref n="spouse" target="ft1f1" targOrder="U"/></rs>
+<rs id="ft1i2" type="INDI" n="2"><persName type="sex=m">P. Cornelius Scipio Africanus</persName><note anchored="yes" place="inline">ob. B.C. 187</note><ref n="child" target="ft1f1" targOrder="U"/><ref n="spouse" target="ft1f2" targOrder="U"/></rs>
+<rs id="ft1i3" type="INDI" n="3"><persName type="sex=f">Aemilia</persName><note anchored="yes" place="inline">ob. B.C. 162</note><ref n="spouse" target="ft1f2" targOrder="U"/><ref n="child" target="ft1f3" targOrder="U"/></rs>
+<rs id="ft1i4" type="INDI" n="4"><persName type="sex=m">Lucius Aemilius Paulus</persName><note anchored="yes" place="inline">ob. B.C. <date value="-160">160</date></note><ref n="child" target="ft1f3" targOrder="U"/><ref n="spouse" target="ft1f4" targOrder="U"/></rs>
+<rs id="ft1i5" type="INDI" n="5"><persName type="sex=f">Papiria</persName><ref n="spouse" target="ft1f4" targOrder="U"/></rs>
+<rs id="ft1i6" type="INDI" n="6"><persName type="sex=m">P. Scipio Nasica</persName><ref n="spouse" target="ft1f5" targOrder="U"/></rs>
+<rs id="ft1i7" type="INDI" n="7"><persName type="sex=f">Cornelia</persName><note anchored="yes" place="inline">(1)</note><ref n="child" target="ft1f2" targOrder="U"/><ref n="spouse" target="ft1f5" targOrder="U"/></rs>
+<rs id="ft1i8" type="INDI" n="8"><persName type="sex=m">Tib. Sempronius Gracchus</persName><ref n="spouse" target="ft1f6" targOrder="U"/></rs>
+<rs id="ft1i9" type="INDI" n="9"><persName type="sex=f">Cornelia</persName><note anchored="yes" place="inline">(2)</note><ref n="child" target="ft1f2" targOrder="U"/><ref n="spouse" target="ft1f6" targOrder="U"/></rs>
+<rs id="ft1i10" type="INDI" n="10"><persName type="sex=m">Publius Cornelius Scipio Africanus</persName><note anchored="yes" place="inline">ob. s. p. adopted his cousin who became Publius Cornelius Scipio Aemilianus Africanus ob. B. C. 129.</note><ref n="child" target="ft1f2" targOrder="U"/></rs>
+<rs id="ft1i11" type="INDI" n="11"><persName type="sex=m">Quintus Fabius Maximus</persName><note anchored="yes" place="inline">adopted by Q. F. M.</note><ref n="child" target="ft1f4" targOrder="U"/></rs>
+<rs id="ft1i12" type="INDI" n="12"><persName type="sex=m">Scipio Aemilianus</persName><note anchored="yes" place="inline">b. B.C. 185</note><ref n="child" target="ft1f4" targOrder="U"/></rs>
+<rs id="ft1i13" type="INDI" n="13"><persName type="sex=f"/><note anchored="yes" place="inline">two daughters</note><ref n="child" target="ft1f4" targOrder="U"/></rs>
+<rs id="ft1i14" type="INDI" n="14"><persName type="sex=m"/><ref n="spouse" target="ft1f3" targOrder="U"/></rs>
+<rs id="ft1f1" type="FAM" n="1"><ref n="husb" target="ft1i1" targOrder="U"/><ref n="chil" target="ft1i2" targOrder="U"/></rs>
+<rs id="ft1f2" type="FAM" n="2"><ref n="husb" target="ft1i2" targOrder="U"/><ref n="wife" target="ft1i3" targOrder="U"/><ref n="chil" target="ft1i7" targOrder="U"/><ref n="chil" target="ft1i9" targOrder="U"/><ref n="chil" target="ft1i10" targOrder="U"/></rs>
+<rs id="ft1f3" type="FAM" n="3"><ref n="chil" target="ft1i3" targOrder="U"/><ref n="chil" target="ft1i4" targOrder="U"/><ref n="husb" target="ft1i14" targOrder="U"/></rs>
+<rs id="ft1f4" type="FAM" n="4"><ref n="husb" target="ft1i4" targOrder="U"/><ref n="wife" target="ft1i5" targOrder="U"/><ref n="chil" target="ft1i11" targOrder="U"/><ref n="chil" target="ft1i12" targOrder="U"/><ref n="chil" target="ft1i13" targOrder="U"/></rs>
+<rs id="ft1f5" type="FAM" n="5"><ref n="husb" target="ft1i6" targOrder="U"/><ref n="wife" target="ft1i7" targOrder="U"/></rs>
+<rs id="ft1f6" type="FAM" n="6"><ref n="husb" target="ft1i8" targOrder="U"/><ref n="wife" target="ft1i9" targOrder="U"/></rs>
 </figDesc>
 </figure></p>
 </note>

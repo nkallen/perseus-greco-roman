@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -61,10 +60,7 @@
                                 <head>a) Mutili</head>
                                 <p><hi rend="italics">Mutili</hi> (maiuscuis litteris
                                         signati<note>1) Mutilis, qui apud Dietschium et in mea
-                                        editione Upsaliensi (a. 1911&ndash;1915) siglis <hi
-                                            rend="italics">P</hi><hi rend="sup">1</hi>, <hi
-                                            rend="italics">P</hi><hi rend="sup">2</hi>, <hi
-                                            rend="italics">M</hi><hi rend="sup">2</hi> notati sunt,
+                                        editione Upsaliensi (a. 1911&ndash;1915) siglis <hi rend="italics">P</hi><hi rend="sup">1</hi>, <hi rend="italics">P</hi><hi rend="sup">2</hi>, <hi rend="italics">M</hi><hi rend="sup">2</hi> notati sunt,
                                         nova sigla indidi A, C, M, ut &mdash; id quod nunc fieri
                                         solet &mdash; numeri litteris adfixi primam et
                                         correctricem manus significarent.</note>) lacuna in extrema
@@ -78,43 +74,33 @@
                                     suppleta est.</p>
                                 <listBibl>
                                     <bibl id="wit-P">P cod. <name id="Parisinus-16024">Parisinus
-                                            16024</name>, olim <name id="Sorbonnensis-500"
-                                            >Sorbonnensis 500</name>, saec. X scriptus.<note><cit>
+                                            16024</name>, olim <name id="Sorbonnensis-500">Sorbonnensis 500</name>, saec. X scriptus.<note><cit>
                                                 <quote lang="la">conloquio decretum</quote>
                                                 <bibl n="Sal. Jug. 113.3">Iug. 113,3</bibl>
-                                            </cit> et quae sequuntur perierunt (= <hi rend="italics"
-                                                >P</hi> priorum editorum).</note></bibl>
+                                            </cit> et quae sequuntur perierunt (= <hi rend="italics">P</hi> priorum editorum).</note></bibl>
                                     <bibl id="wit-A">A cod. <name id="Parisinus-16025">Parisinus
-                                            16025</name>, olim Sorb. 1576, eiusdem aetatis (= <hi
-                                            rend="italics">P</hi><hi rend="sup">1</hi> prior.
+                                            16025</name>, olim Sorb. 1576, eiusdem aetatis (= <hi rend="italics">P</hi><hi rend="sup">1</hi> prior.
                                         edit.).</bibl>
                                     <bibl id="wit-C">C cod. <name id="Parisinus-6085">Parisinus
                                         6085</name>, exeuntis saec. X vel ineuntis saec. XI.
-                                            <note>post finem Iug. oratio Bocchic. <bibl
-                                                n="Sal. Jug. 110">110</bibl> prima manu adscripta
-                                            est, tum recentiore manu tota lacuna suppleta (= <hi
-                                                rend="italics">P</hi><hi rend="sup">2</hi> prior.
+                                            <note>post finem Iug. oratio Bocchic. <bibl n="Sal. Jug. 110">110</bibl> prima manu adscripta
+                                            est, tum recentiore manu tota lacuna suppleta (= <hi rend="italics">P</hi><hi rend="sup">2</hi> prior.
                                             edit.).</note></bibl>
-                                    <bibl id="wit-B">B cod. <name id="Basileensis-A.-N.-IV-11"
-                                            >Basileensis A. N. IV 11</name>, saec. XI scriptus. ut
+                                    <bibl id="wit-B">B cod. <name id="Basileensis-A.-N.-IV-11">Basileensis A. N. IV 11</name>, saec. XI scriptus. ut
                                         in C, ita in hoc codice in fine libri<note>
                                             <bibl n="Sal. Jug. 110">Iug. 110</bibl>
                                         </note> prima manu adscripta (= <hi rend="italics">B</hi>
                                         prior. edit.).</bibl>
                                     <bibl id="wit-N">N cod. <name id="Palatinus-889">Palatinus
-                                        889</name>, olim Nazarianus, ineuntis saec. XI (= <hi
-                                            rend="italics">N</hi> meae editionis Upsaliensis).</bibl>
+                                        889</name>, olim Nazarianus, ineuntis saec. XI (= <hi rend="italics">N</hi> meae editionis Upsaliensis).</bibl>
                                     <bibl id="wit-K">K cod. <name id="Palatinus-887">Palatinus
                                         887</name>, olim Kemnati humanistae, saec. X vel XI exaratus.<note><cit>
                                                 <quote lang="la">bene ficiis</quote>
                                                 <bibl n="Sal. Jug. 102.11">Iug. 102, 11</bibl>
-                                            </cit> desinit, reliqua posterior manus supplevit (= <hi
-                                                rend="italics">K</hi> edit. Upsal.).</note></bibl>
+                                            </cit> desinit, reliqua posterior manus supplevit (= <hi rend="italics">K</hi> edit. Upsal.).</note></bibl>
                                     <bibl id="wit-H">H cod. <name id="Berolinensis-205">Berolinensis
                                             205</name>, olim Philipps. 1902, saec. XI scriptus.
-                                        lacunam alia manus paulo post supplevit (= <hi
-                                            rend="italics">H</hi> edit. Upsal., <hi rend="italics"
-                                        >h</hi> Maurenbrecheri: Sallustiana I. Heft: Die
+                                        lacunam alia manus paulo post supplevit (= <hi rend="italics">H</hi> edit. Upsal., <hi rend="italics">h</hi> Maurenbrecheri: Sallustiana I. Heft: Die
                                         &Uuml;berlieferung der Iugurthaluecke [a. 1903]).</bibl>
                                     <bibl id="wit-M">M cod. <name id="Monacensis-4559">Monacensis
                                             4559</name>, saec. XI vel XII scriptus. <note>praeter
@@ -124,25 +110,20 @@
                                             </cit> &mdash; <cit>
                                                 <quote lang="la">sunt ii qui</quote>
                                                 <bibl n="Sal. Jug. 31">31,12</bibl>
-                                            </cit> (= folia 23<hi rend="sup">b</hi> 24<hi rend="sup"
-                                                >a</hi> codicis) recentior manus scripsit (= <hi
-                                                rend="italics">M</hi><hi rend="sup">2</hi> prior.
+                                            </cit> (= folia 23<hi rend="sup">b</hi> 24<hi rend="sup">a</hi> codicis) recentior manus scripsit (= <hi rend="italics">M</hi><hi rend="sup">2</hi> prior.
                                             edit.).</note></bibl>
-                                    <bibl id="wit-T">T cod. <name id="Turicensis-bibl.-reip.-C-143a"
-                                            >Turicensis bibl. reip. C 143a</name>, saec. XI
+                                    <bibl id="wit-T">T cod. <name id="Turicensis-bibl.-reip.-C-143a">Turicensis bibl. reip. C 143a</name>, saec. XI
                                         exeuntis. lacuna post suppleta (= <hi rend="italics">T</hi>
                                         prior. edit.).</bibl>
                                     <pb id="p.IV"/>
                                     <bibl id="wit-D">D cod. <name id="Parisinus-10195">Parisinus
                                             10195</name>, olim Echternacensis, eiusdem fere aetatis,
                                         glossis germanicis praeditus. lacuna recentiore manu
-                                        suppleta (= <hi rend="italics">D</hi> edit. Upsal., <hi
-                                            rend="italics">E</hi> Mausenbrecheri).</bibl>
+                                        suppleta (= <hi rend="italics">D</hi> edit. Upsal., <hi rend="italics">E</hi> Mausenbrecheri).</bibl>
                                     <bibl id="wit-F">F cod. <name id="Hauniensis-25">Hauniensis
                                         25</name>, olim Fabricianus, eiusdem temporis.<note>extrema
                                             Iug. pars inde ab <bibl n="Sal. Jug. 103.2">103,2</bibl>
-                                            usque ad finem recentiore manu scripta (= <hi
-                                                rend="italics">F</hi> prior. edit.).</note></bibl>
+                                            usque ad finem recentiore manu scripta (= <hi rend="italics">F</hi> prior. edit.).</note></bibl>
                                     <bibl>Omnes hi codices manum correctricem passi sunt. inprimis
                                         correcturarum P<hi rend="sup">2</hi>, A<hi rend="sup">2</hi>
                                         vis est maxima, cum eae a prima manu exiguo temporis
@@ -151,8 +132,7 @@
                                         consentientes sum complexus.</bibl>
                                     <bibl id="wit-X">X consensum codicum PACB vel omnium vel trium
                                         significat.</bibl>
-                                    <bibl id="wit-Y">Y consensum ceterorum codicum (NKH <foreign
-                                            lang="greek">G</foreign>) vel omnium vel plurimorum
+                                    <bibl id="wit-Y">Y consensum ceterorum codicum (NKH <foreign lang="greek">G</foreign>) vel omnium vel plurimorum
                                         significat.</bibl>
                                     <bibl>Cognatio mutilorum, quam in Prolegomenis ad Sallustium
                                         (Gotoburgi 1911) p. 6&ndash;67 explicavi, hoc fere
@@ -164,12 +144,9 @@
                                     paulo post aetatem prioris manus suppleta est:</p>
                                 <listBibl>
                                     <bibl id="wit-Q">Q cod. <name id="Parisinus-5748">Parisinus
-                                        5748</name>, saec. XI scriptus (= <hi rend="italics"
-                                            >P</hi><hi rend="sup">r</hi> prior, edit.)</bibl>
+                                        5748</name>, saec. XI scriptus (= <hi rend="italics">P</hi><hi rend="sup">r</hi> prior, edit.)</bibl>
                                     <bibl id="wit-R">R cod. <name id="Vaticanus-3325">Vaticanus
-                                        3325</name>, saec XII exeuntis (= <hi rend="italics"
-                                            >V</hi><hi rend="sup">1</hi> edit. Upsal., <hi
-                                            rend="italics">v</hi> Maurenbrecheri).</bibl>
+                                        3325</name>, saec XII exeuntis (= <hi rend="italics">V</hi><hi rend="sup">1</hi> edit. Upsal., <hi rend="italics">v</hi> Maurenbrecheri).</bibl>
                                 </listBibl>
                             </div3>
                             <div3 type="subsection" n="2">
@@ -177,30 +154,20 @@
                                 <p><hi rend="italics">Integri</hi> (minuscus litteris signati) totum
                                     Iugurtham exhibent.</p>
                                 <listBibl>
-                                    <bibl id="wit-l">l cod. <name id="Leidensis-Voss.-lat.-73"
-                                            >Leidensis Voss. lat. 73</name>, saec. XI scriptus in
+                                    <bibl id="wit-l">l cod. <name id="Leidensis-Voss.-lat.-73">Leidensis Voss. lat. 73</name>, saec. XI scriptus in
                                         fine valde mutilatus Iug. 109,<hi rend="sup">4</hi>
-                                        <hi rend="italics">praeterea</hi> desinit (= <hi
-                                            rend="italics">l</hi> edit. Upsal., <hi rend="italics"
-                                        >L</hi> Maurenbrecheri).</bibl>
-                                    <bibl id="wit-s">s cod. <name
-                                            id="Lipsiensis-bibl.-sen.-rep.-I-fol.-4">Lipsiensis
-                                            bibl. sen. rep. I fol. 4</name>, eiusdem saeculi (= <hi
-                                            rend="italics">s</hi> prior, edit.).</bibl>
+                                        <hi rend="italics">praeterea</hi> desinit (= <hi rend="italics">l</hi> edit. Upsal., <hi rend="italics">L</hi> Maurenbrecheri).</bibl>
+                                    <bibl id="wit-s">s cod. <name id="Lipsiensis-bibl.-sen.-rep.-I-fol.-4">Lipsiensis
+                                            bibl. sen. rep. I fol. 4</name>, eiusdem saeculi (= <hi rend="italics">s</hi> prior, edit.).</bibl>
                                     <bibl id="wit-n">n cod. <name id="Parisinus-6086">Parisinus
-                                        6086</name>, eiusdem aetatis. Iug. 108,2 <hi rend="italics"
-                                            >consulto esse</hi>&verbar;&verbar;exit (= <hi
-                                            rend="italics">n</hi> edit. Upsal.).</bibl>
+                                        6086</name>, eiusdem aetatis. Iug. 108,2 <hi rend="italics">consulto esse</hi>&verbar;&verbar;exit (= <hi rend="italics">n</hi> edit. Upsal.).</bibl>
                                     <bibl id="wit-m">m cod. <name id="Monacensis-14477">Monacensis
-                                            14477</name>, eiusdem aetatis. Iug. 106,1 <hi
-                                            rend="italics">Volux
-                                        adueniens</hi>&verbar;&verbar;desinit (= <hi
-                                            rend="italics">m</hi> prior. edit.).</bibl>
+                                            14477</name>, eiusdem aetatis. Iug. 106,1 <hi rend="italics">Volux
+                                        adueniens</hi>&verbar;&verbar;desinit (= <hi rend="italics">m</hi> prior. edit.).</bibl>
                                 </listBibl>
                                 <p>Praeter hos in lacuna Iug. adhibitus est:</p>
                                 <listBibl>
-                                    <bibl id="wit-pi"><foreign lang="greek">p</foreign> cod. <name
-                                            id="Palatinus-883">Palatinus 883</name>, saec. XII
+                                    <bibl id="wit-pi"><foreign lang="greek">p</foreign> cod. <name id="Palatinus-883">Palatinus 883</name>, saec. XII
                                         scriptus (= <foreign lang="greek">p</foreign> edit. Upsal.
                                         et Maurenbrecheri).</bibl>
                                 </listBibl>
@@ -412,10 +379,7 @@
                             <p>3. Quod ad res <hi rend="italics">orthographicas</hi> attinet,
                                 vetustiores formas constanter scripsi: v<hi rend="italics">o</hi>rto
                                     v<hi rend="italics">o</hi>ster, aequ<hi rend="italics">o</hi>s,
-                                    ingenu<hi rend="italics">o</hi>s, qu<hi rend="italics"
-                                >o</hi>ius, qu<hi rend="italics">o</hi>m; l<hi rend="italics"
-                                >u</hi>bet, max<hi rend="italics">u</hi>mus, man<hi rend="italics"
-                                >u</hi>festus, ger<hi rend="italics">u</hi>ndus cet.; cuius
+                                    ingenu<hi rend="italics">o</hi>s, qu<hi rend="italics">o</hi>ius, qu<hi rend="italics">o</hi>m; l<hi rend="italics">u</hi>bet, max<hi rend="italics">u</hi>mus, man<hi rend="italics">u</hi>festus, ger<hi rend="italics">u</hi>ndus cet.; cuius
                                 scribendi rationis vestigia in codicibus antiquissimis passim
                                 inveniuntur.</p>
                         </div2>
@@ -508,8 +472,7 @@
                                             <cell>
                                                 <ref target="wit-T">T</ref>
                                             </cell>
-                                            <cell>cod. <name id="Turicensis-bibl.-reip.-C-143"
-                                                  >Turicensis bibl. reip. C 143a</name></cell>
+                                            <cell>cod. <name id="Turicensis-bibl.-reip.-C-143">Turicensis bibl. reip. C 143a</name></cell>
                                         </row>
                                         <row>
                                             <cell>
@@ -541,8 +504,7 @@
                                 <cell>
                                     <ref target="wit-s">s</ref>
                                 </cell>
-                                <cell>cod. <ref target="Lipsiensis-bibl.-sen.-rep.-I-fol.-4"
-                                        >Lipsiensis bibl. sen. rep. I fol. 4</ref></cell>
+                                <cell>cod. <ref target="Lipsiensis-bibl.-sen.-rep.-I-fol.-4">Lipsiensis bibl. sen. rep. I fol. 4</ref></cell>
                             </row>
                             <row>
                                 <cell>
@@ -581,8 +543,7 @@
                                 <cell>cod. <ref target="Palatinus-883">Palatinus 883</ref></cell>
                             </row>
                         </table>
-                        <p>P<hi rend="sup">1</hi>A<hi rend="sup">1</hi> primam manum, P<hi
-                                rend="sup">1</hi>A<hi rend="sup">2</hi> manum corretricem
+                        <p>P<hi rend="sup">1</hi>A<hi rend="sup">1</hi> primam manum, P<hi rend="sup">1</hi>A<hi rend="sup">2</hi> manum corretricem
                             significant.</p>
                         <p>&ast; Asterisco testimonia notantur, in quibus nomen Sallustii deest.</p>
                         <p><hi rend="italics">cf.</hi> ante testimonia positum imitationes

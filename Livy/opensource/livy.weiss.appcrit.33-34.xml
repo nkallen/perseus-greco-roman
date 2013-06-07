@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -15,7 +14,7 @@
 	&fund.NEH;
       </titleStmt>
 	
-      <extent></extent>
+      <extent/>
       
 	&Perseus.publish;
       
@@ -2163,7 +2162,7 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 </div3>
 
 <div3 type="section" n="4">
-<p><lemma lang="la">principem</lemma>] HJM. vermutet, dafs <foreign lang="la">ii</foreign>> <foreign lang="la">principem</foreign> zu schreiben sei; vgl. 27, 11, 8; 32, 7, 3.</p>
+<p><lemma lang="la">principem</lemma>] HJM. vermutet, dafs <foreign lang="la">ii</foreign>&gt; <foreign lang="la">principem</foreign> zu schreiben sei; vgl. 27, 11, 8; 32, 7, 3.</p>
 <p><lemma lang="la">senatus</lemma>] Mail. Ausg. 1505; <foreign lang="la">senatum</foreign> MB.</p>
 </div3>
 

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -618,7 +617,7 @@ added cvs log keyword
 												<bibl>Jebb on Soph. Ph. 800, with the Appendix, pp. 243-245</bibl>. According to
 												another account, Hephaestus fell, not on <placeName key="tgn,7011173">Lemnos</placeName>, but into the sea, where he was saved by Thetis. See <bibl n="Hom. Il. 18.394">Hom. Il. 18.394ff.</bibl></note>
 							<milestone n="6" unit="section"/></p>
-						<p>Zeus had intercourse with >Metis, who turned into
+						<p>Zeus had intercourse with &gt;Metis, who turned into
 							many shapes in order to avoid his embraces. When she was with child, Zeus, taking time by
 							the forelock,<pb n="25"/>swallowed her, because Earth said that, after giving birth to the
 							maiden who was then in her womb, Metis would bear

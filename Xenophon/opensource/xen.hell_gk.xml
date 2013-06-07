@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader status="new" type="text">
@@ -77,7 +76,7 @@
 <milestone n="20" unit="section"/>*)alkibia/dhs de\ mei/nas au)tou= ei)/kosin h(me/ras kai\ xrh/mata polla\ labw\n para\ tw=n *kuzikhnw=n, ou)de\n a)/llo kako\n e)rgasa/menos e)n th=| po/lei a)pe/pleusen ei)s *proko/nnhson. e)kei=qen d' e)/pleusen ei)s *pe/rinqon kai\ *shlumbri/an.
 <milestone n="21" unit="section"/>kai\ *peri/nqioi me\n ei)sede/canto ei)s to\ a)/stu to\ strato/pedon: *shlumbrianoi\ de\ e)de/canto me\n ou)/, xrh/mata de\ e)/dosan.
 <milestone n="22" unit="section"/>e)nteu=qen d' a)fiko/menoi th=s *kalxhdoni/as ei)s *xruso/polin e)tei/xisan au)th/n, kai\ dekateuth/rion kateskeu/asan e)n au)th=|, kai\ th\n deka/thn e)ce/legon tw=n e)k tou= *po/ntou ploi/wn, kai\ fulakh\n e)gkatalipo/ntes nau=s tria/konta kai\ strathgw\ du/o, *qhrame/nhn kai\ *eu)/maxon, tou= te xwri/ou e)pimelei=sqai kai\ tw=n e)kpleo/ntwn ploi/wn kai\ ei)/ ti a)/llo du/nainto bla/ptein tou\s polemi/ous. oi( d' a)/lloi strathgoi\ ei)s to\n *(ellh/sponton w)/|xonto.
-<milestone n="23" unit="section"/>para\ de\ *(ippokra/tous tou= *minda/rou e)pistole/ws ei)s *lakedai/mona gra/mmata pemfqe/nta e(a/lwsan ei)s *)aqh/nas le/gonta ta/de: &quot;e)/rrei ta\ ka=la. *mi/ndaros a)pessu/a. peinw=nti tw)/ndres. a)pori/omes ti/ xrh\ dra=n.&quot;
+<milestone n="23" unit="section"/>para\ de\ *(ippokra/tous tou= *minda/rou e)pistole/ws ei)s *lakedai/mona gra/mmata pemfqe/nta e(a/lwsan ei)s *)aqh/nas le/gonta ta/de: "e)/rrei ta\ ka=la. *mi/ndaros a)pessu/a. peinw=nti tw)/ndres. a)pori/omes ti/ xrh\ dra=n."
 <milestone n="24" unit="section"/>*farna/bazos de\ panti\ tw=| tw=n *peloponnhsi/wn strateu/mati kai\ toi=s summa/xois parakeleusa/menos mh\ a)qumei=n e(/neka cu/lwn, w(s o)/ntwn pollw=n e)n th=| basile/ws, e(/ws a)\n ta\ sw/mata sw=a h)=|, i(ma/tio/n t' e)/dwken e(ka/stw| kai\ e)fo/dion duoi=n mhnoi=n, kai\ o(pli/sas tou\s nau/tas fu/lakas kate/sthse th=s e(autou= paraqalatti/as gh=s.
 <milestone n="25" unit="section"/>kai\ sugkale/sas tou/s te a)po\ tw=n po/lewn strathgou\s kai\ trihra/rxous e)ke/leue nauphgei=sqai trih/reis e)n *)anta/ndrw| o(/sas e(/kastoi a)pw/lesan, xrh/mata/ te didou\s kai\ u(/lhn e)k th=s *)/idhs komi/zesqai fra/zwn.
 <milestone n="26" unit="section"/>nauphgoume/nwn de\ oi( *surako/sioi a(/ma toi=s *)antandri/ois tou= tei/xous ti e)pete/lesan, kai\ e)n th=| froura=| h)/resan pa/ntwn ma/lista. dia\ tau=ta de\ eu)ergesi/a te kai\ politei/a *surakosi/ois e)n *)anta/ndrw| e)sti/. *farna/bazos me\n ou)=n tau=ta diata/cas eu)qu\s ei)s *kalxhdo/na e)boh/qei.

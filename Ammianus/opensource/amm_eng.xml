@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -49,7 +48,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 			<change><date>5/27/09</date><respStmt><name>RS</name><resp>(n/a)</resp></respStmt>
 				<item>
@@ -3521,7 +3520,7 @@ For I am too cautious, or (to speak more truly) too timid, to exaggerate anythin
 
 <milestone unit="section" n="1"/> After the kings had passed by Nineveh, a great city of Adiabene, and after sacrificing victims in the middle of the bridge over the Anzaba and finding the omens favourable, had crossed full of joy, I judged that all the rest of the throng could hardly enter in three days; so I quickly returned to the satrap and rested, entertained with hospitable attentions.
 
-<milestone unit="section" n="2"/> Then I returned, again passing through deserted and solitary places, more quickly  pb n=451>  than could be expected, led as I was by the great consolation of necessity, and cheered the spirits of those who were troubled because they were informed that the kings, without any detour, had crossed on a single bridge of boats.
+<milestone unit="section" n="2"/> Then I returned, again passing through deserted and solitary places, more quickly  pb n=451&gt;  than could be expected, led as I was by the great consolation of necessity, and cheered the spirits of those who were troubled because they were informed that the kings, without any detour, had crossed on a single bridge of boats.
 
 <milestone unit="section" n="3"/> Therefore at once swift horsemen were sent to Cassianus, commander in Mesopotamia, and to Euphronius, then governor of the province, to compel the peasants with their households and all their flocks to move to safer quarters, directing also that the city of Carrhae should quickly be abandoned, since the town was surrounded only by weak fortifications; and in addition that all the plains be set on fire, to prevent the enemy from getting fodder.
 
@@ -12784,7 +12783,7 @@ the brother of Firmus, and Maximus to arrest Vincentius, who as second in comman
 
 <milestone unit="section" n="11"/> After these arrangements had thus been made to the joy of the land-owners, he marched to Tubusuptum, a town near Mount Ferratus, but declined to receive a second deputation from Firmus, because, contrary to the previous agreement, it had brought no hostages with it. From there he carefully examined into everything, so far as present circumstances allowed, and then advanced rapidly against the peoples of the Tyndenses and the Masinissenses, who were provided only with light arms and were led by Mascizel
 
-<note>At the command of Honorius he later invaded Africa with an army and killed his brother Gildo (see xxix. 5, 6, note); cf. Claudian, <hi rend="italics">Bell. Gild.</hi> i. 389 ff.; Orosius, vii. 36, 4.> Stilicho had him thrown from a bridge; cf. Zos. v. 11, who calls him Masceledus.</note>
+<note>At the command of Honorius he later invaded Africa with an army and killed his brother Gildo (see xxix. 5, 6, note); cf. Claudian, <hi rend="italics">Bell. Gild.</hi> i. 389 ff.; Orosius, vii. 36, 4.&gt; Stilicho had him thrown from a bridge; cf. Zos. v. 11, who calls him Masceledus.</note>
 and Dius, brothers of Firmus.
 
 <milestone unit="section" n="12"/> When the enemy, active in all their limbs, were in sight, a fierce battle began after volleys of missiles from both sides; amid the groans of the dying and the wounded the mournful howls of the barbarians were heard, as they were taken prisoner or killed; and when the contest was ended,  <pb id="v3.p.255"/>  many fields were plundered and burned.
@@ -13422,7 +13421,7 @@ the loftiness of the royal power, in accordance with the advice of Modestus, abs
 ) or as the fourth part of flattery;
 
 <note>I.e., the lowest of the four parts.</note>
-but Epicurus counts it among evil arts, calling it <foreign lang="greek">kakotexni/a.</foreign>>
+but Epicurus counts it among evil arts, calling it <foreign lang="greek">kakotexni/a.</foreign>&gt;
 
 <note>The art of deceiving; cf. Quintilian, ii. 15, 2; 20, 2. Epicurus denied that it was an art.</note>
 Tisias
@@ -15914,4 +15913,4 @@ of squared blocks of stone, a work of extraordinary size, and sought out a huge 
 </div1>  
 </body>
 </text>
-</TEI.2> 
+</TEI.2>

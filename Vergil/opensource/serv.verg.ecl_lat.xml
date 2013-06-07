@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -35,8 +34,8 @@
 		
 		<encodingDesc>
 			<refsDecl doctype="TEI.2">
-				<step delim="." refunit="poem" from="DESCENDANT (1 DIV1 N %1)"></step>
-				<step refunit="commline" from="DESCENDANT (1 DIV2 N %2)" n="chunk"></step>
+				<step delim="." refunit="poem" from="DESCENDANT (1 DIV1 N %1)"/>
+				<step refunit="commline" from="DESCENDANT (1 DIV2 N %2)" n="chunk"/>
 			</refsDecl>
 		</encodingDesc>
 		
@@ -87,23 +86,23 @@
 						narum: nam personae hic rusticae sunt, simplicitate gaudentes, a 
 						quibus nihil altum debet requiri. adhibetur autem ad carmen bu-
 						colicum, quod debet quarto pede terminare partem orationis: qui 
-						pes si sit dactylus, meliorem efficit versum, ut &quot;nos patriae 
-						fines et dulcia&quot;. primus etiam pes secundum Donatum et dacty-
-						lus esse debet et terminare partem orationis, ut &quot;Tityre&quot;. 
+						pes si sit dactylus, meliorem efficit versum, ut "nos patriae 
+						fines et dulcia". primus etiam pes secundum Donatum et dacty-
+						lus esse debet et terminare partem orationis, ut "Tityre". 
 						quam legem Theocritus vehementer observat, Vergilius non adeo; 
 						ille enim in paucis versibus ab ista ratione deviavit, hic eam in 
 						paucis secutus est: Terentianus cum de hoc metro diceret 
-						&quot;plurimus hoc pollet Siculae telluris alumnus&quot;, &quot;noster 
-						rarus eo pastor Maro&quot;. intentio poetae haec est, ut imitetur 
+						"plurimus hoc pollet Siculae telluris alumnus", "noster 
+						rarus eo pastor Maro". intentio poetae haec est, ut imitetur 
 						Theocritum Syracusanum, meliorem Moscho et ceteris qui bucolica 
-						scripserunt,&mdash;unde est &quot;prima Syracosio dignata est 
-						ludere versu nostra&quot;&mdash;et aliquibus locis per allegoriam agat 
+						scripserunt,&mdash;unde est "prima Syracosio dignata est 
+						ludere versu nostra"&mdash;et aliquibus locis per allegoriam agat 
 						gratias Augusto vel aliis nobilibus, quorum favore amissum agrum 
 						recepit. in qua re tantum dissentit a Theocrito: ille enim ubique 
 						simplex est, hic necessitate compulsus aliquibus locis miscet figuras, 
 						quas perite plerumque etiam ex Theocriti versibus facit, quos ab 
 						illo dictos constat esse simpliciter. hoc autem fit poetica urbani-
-						tate: sic Iuvenalis &quot;Actoris Aurunci spolium&quot;; nam Ver-
+						tate: sic Iuvenalis "Actoris Aurunci spolium"; nam Ver-
 						gilii versum de hasta dictum figurate ad speculum transtulit. et 
 						causa scribendorum bucolicorum haec est: cum post occisum :<hi rend="caps">iii</hi>: 
 						iduum Maiarum die in senatu Caesarem Augustus eius filius contra 
@@ -111,32 +110,32 @@
 						titus Cremonensium agros, qui contra eum senserant, militibus suis <pb/> 
 						dedit. qui cum non sufficerent, etiam Mantuanorum iussit distribui, 
 						non propter culpam, sed propter vicinitatem, unde est 
-						&quot;Mantua vae miserae nimium vicina Cremonae&quot;. perdito ergo 
+						"Mantua vae miserae nimium vicina Cremonae". perdito ergo 
 						agro Vergilius Romam venit et potentium favore meruit, ut agrum 
 						suum solus reciperet. ad quem accipiendum profectus, ab Arrio 
 						centurione, qui eum tenebat, paene est interemptus, nisi se prae-
-						cipitasset in Mincium: unde est allegoricos &quot;ipse aries 
-						etiam nunc vellera siccat&quot;. postea ab Augusto missis tribus 
+						cipitasset in Mincium: unde est allegoricos "ipse aries 
+						etiam nunc vellera siccat". postea ab Augusto missis tribus 
 						viris et ipsi integer ager est redditus et Mantuanis pro parte. hinc 
 						est, quod cum in prima ecloga legimus eum recepisse agrum, 
-						postea eum querelantem invenimus, ut &quot;audieras, et fama 
+						postea eum querelantem invenimus, ut "audieras, et fama 
 						fuit; sed carmina tantum nostra valent, Lycida, tela inter 
 						Martia, quantum Chaonias dicunt aquila veniente colum-
-						bas&quot;. nec numerus hic dubius est nec ordo librorum, quippe cum 
+						bas". nec numerus hic dubius est nec ordo librorum, quippe cum 
 						unus sit liber: de eclogis multi dubitant, quae licet decem sint, 
 						incertum tamen est, quo ordine scriptae sint. plerique duas certas 
-						volunt ipsius testimonio, ultimam, ut &quot;extremum hunc&quot;, (et 
-						primam, ut) in georgicis &quot;Tityre, te patulae cecini 
-						sub tegmine fagi&quot;; alii primam illam volunt &quot;prima Syra-
-						cosio dignata est ludere versu&quot;. sane sciendum, <hi rend="caps">vii.</hi> eclogas 
+						volunt ipsius testimonio, ultimam, ut "extremum hunc", (et 
+						primam, ut) in georgicis "Tityre, te patulae cecini 
+						sub tegmine fagi"; alii primam illam volunt "prima Syra-
+						cosio dignata est ludere versu". sane sciendum, <hi rend="caps">vii.</hi> eclogas 
 						esse meras rusticas, quas Theocritus <hi rend="caps">x.</hi> habet. hic in tribus a bu-
 						colico carmine, sed cum excusatione discessit, ut in genethliaco 
 						Salonini et in Sileni theologia, vel ut ex insertis altioribus rebus 
 						posset placere, vel quia tot varietates implere non poterat. poetae 
 						vitam in Aeneide diximus. operis explanatio in sequentibus com-
 						probabitur. sane sciendum Vergilium <hi rend="caps">xxviii.</hi> annorum scripsisse 
-						bucolica, unde etiam ipse in fine georgicorum &quot;audaxque iuventa, 
-						Tityre, te patulae cecini sub tegmine fagi&quot;. et dicit Donatus, 
+						bucolica, unde etiam ipse in fine georgicorum "audaxque iuventa, 
+						Tityre, te patulae cecini sub tegmine fagi". et dicit Donatus, 
 						quod etiam in poetae memoravimus vita, in scribendis carminibus 
 						naturalem ordinem secutum esse Vergilium: primo enim pastoralis 
 						fuit in montibus vita, post agriculturae amor, inde bellorum cura <pb/> 
@@ -153,10 +152,10 @@
 						sunt et simplicitate gaudentes: unde nihil in his urbanum, nihil 
 						declamatorium invenitur; sed ex re rustica sunt omnia negotia, 
 						comparationes et si qua sunt alia. hinc est, quod annos a fructi-
-						bus computat, ut &quot;post aliquot mea regna videns mi-
-						rabor aristas&quot;, hinc etiam illae comparationes sunt &quot;nam 
+						bus computat, ut "post aliquot mea regna videns mi-
+						rabor aristas", hinc etiam illae comparationes sunt "nam 
 						neque me tantum venientis sibilus austri nec percussa 
-						iuvant fluctu tam litora nec quae saxosas inter d. f. valles&quot;. 
+						iuvant fluctu tam litora nec quae saxosas inter d. f. valles". 
 					</p>
 				</div2>
 			</div1>
@@ -185,7 +184,7 @@
 					
 					<p><hi rend="caps">siluestrem musam</hi> id est rusticum carmen. <hi rend="caps">tenvi avena</hi> 
 						culmo, stipula, unde rustici plerumque cantare consuerunt: alibi 
-						&quot;stridenti miserum stipula disperdere carmen&quot;. di-
+						"stridenti miserum stipula disperdere carmen". di-
 						cendo autem 'tenui avena', stili genus humilis latenter ostendit, quo, 
 						ut supra dictum est, in bucolicis utitur. <hi rend="caps">meditaris</hi> quod Graeci 
 						<foreign lang="greek">meletw=</foreign> dicunt, per antistoechon 'meditor' dixerunt Latini: l enim 
@@ -197,8 +196,8 @@
 				<div2 type="commline" n="4">
 					
 					<p><hi rend="caps">nos patriam fugimus</hi> plus est, quam si diceret 'relinqui-
-						mus': sic Horatius &quot;Teucer Salamina patremque cum fugeret&quot;. 
-						<hi rend="caps">lentus</hi> otiosus, ut &quot;qui nunc lenti consedimus arvis&quot;. 
+						mus': sic Horatius "Teucer Salamina patremque cum fugeret". 
+						<hi rend="caps">lentus</hi> otiosus, ut "qui nunc lenti consedimus arvis". 
 					</p>
 				</div2>
 				
@@ -218,10 +217,10 @@
 					<p><hi rend="caps">namque erit ille mihi semper deus</hi> et iteratio ipsa ex-
 						clusit adulationis colorem. 'semper' id est post mortem et dum 
 						vivit. alii enim imperatores post mortem in numerum referuntur <pb/> 
-						deorum, Augustus templa vivus emeruit: Horatius &quot;praesenti tibi 
+						deorum, Augustus templa vivus emeruit: Horatius "praesenti tibi 
 						maturos largimur honores iurandasque tuum per nomen 
-						ponimus aras&quot;. sic Lucanus de Nerone &quot;sed mihi iam 
-						numen&quot;. 
+						ponimus aras". sic Lucanus de Nerone "sed mihi iam 
+						numen". 
 					</p>
 				</div2>
 				
@@ -230,8 +229,8 @@
 					<p><hi rend="caps">saepe tener nostris ab ovilibus i. a.</hi> inbuere est pro-
 						prie inchoare et initiare. nemo autem unam eandemque rem saepe 
 						inchoat. sed constat saepe pascua mutare pastores, sicut etiam in 
-						georgicis legimus &quot;itque pecus longa in deserta sine 
-						ullis hospitiis; tantum campi iacet&quot;: unde necesse est pa-
+						georgicis legimus "itque pecus longa in deserta sine 
+						ullis hospitiis; tantum campi iacet": unde necesse est pa-
 						stores totiens aras inbuere, quotiens mutaverint pascua. invenimus 
 						etiam apud antiquiores, inbuere esse non inchoare, sed perfundere 
 						et madefacere: secundum quod absolutus est sensus, ut sit 'saepe 
@@ -241,16 +240,16 @@
 				
 				<div2 type="commline" n="9">
 					
-					<p><hi rend="caps">errare</hi> pasci, ut &quot;mille meae Siculis errant in 
-						montibus agnae&quot;. 
+					<p><hi rend="caps">errare</hi> pasci, ut "mille meae Siculis errant in 
+						montibus agnae". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="10">
 					
-					<p><hi rend="caps">ludere</hi> scribere, ut &quot;carmina qui lusi pastorum&quot;: Ho-
-						ratius &quot;poscimur. siquid vacui sub umbra lusimus tecum&quot;. 
-						<hi rend="caps">calamo agresti</hi> rustico stilo, sic supra &quot;tenui avena&quot;. 
+					<p><hi rend="caps">ludere</hi> scribere, ut "carmina qui lusi pastorum": Ho-
+						ratius "poscimur. siquid vacui sub umbra lusimus tecum". 
+						<hi rend="caps">calamo agresti</hi> rustico stilo, sic supra "tenui avena". 
 					</p>
 				</div2>
 				
@@ -275,9 +274,9 @@
 				<div2 type="commline" n="13">
 					
 					<p><hi rend="caps">protenus</hi> porro tenus, longe a finibus: unde et paulo 
-						post &quot;at nos hinc alii sitientes ibimus Afros&quot;. <hi rend="caps">aeger</hi> 
-						et corpore et animo aeger dicitur, ut &quot;aegram nulli quondam 
-						flexere mariti&quot;. <hi rend="caps">ago</hi> autem proprie: nam agi dicuntur pecora. <pb/> 
+						post "at nos hinc alii sitientes ibimus Afros". <hi rend="caps">aeger</hi> 
+						et corpore et animo aeger dicitur, ut "aegram nulli quondam 
+						flexere mariti". <hi rend="caps">ago</hi> autem proprie: nam agi dicuntur pecora. <pb/> 
 					</p>
 				</div2>
 				
@@ -286,10 +285,10 @@
 					<p><hi rend="caps">spem gregis</hi> id est marem et feminam: reparatio enim 
 						gregis in sexu utroque consistit. <hi rend="caps">silice in nuda</hi> ad hoc per-
 						tinet praemissa dolentis interiectio: nam solent herbas substernere, 
-						ut ipse in georgicis dicit &quot;et multa duram stipula 
-						filicumque maniplis sternere&quot;. <hi rend="caps">conixa</hi> pro eo, quod est 
-						'enixa': nam hiatus causa mutavit praepositionem, sicut &quot;secludite 
-						curas&quot; pro 'excludite'. 
+						ut ipse in georgicis dicit "et multa duram stipula 
+						filicumque maniplis sternere". <hi rend="caps">conixa</hi> pro eo, quod est 
+						'enixa': nam hiatus causa mutavit praepositionem, sicut "secludite 
+						curas" pro 'excludite'. 
 					</p>
 				</div2>
 				
@@ -306,8 +305,8 @@
 					<p><hi rend="caps">de caelo tactas memini p. q.</hi> mire compositum augurium: 
 						nam quercus in tutela Iovis est, et huius arboris fructu olim ho-
 						mines pascebantur. haec ergo tacta, id est adflata et leviter fulmi-
-						nata, ut Cicero &quot;tactus etiam ille qui hanc urbem condidit 
-						Romulus&quot;, significabat nutu imperatoris posse agros eorum perire, 
+						nata, ut Cicero "tactus etiam ille qui hanc urbem condidit 
+						Romulus", significabat nutu imperatoris posse agros eorum perire, 
 						apud quos fulminatae sunt arbores: nam agri causa victus sunt, 
 						sicut olim quercus. quod autem ait 'tactas', ostendit temporale 
 						fore damnum, quale patiuntur arbores leviter fulminatae. et bene 
@@ -318,7 +317,7 @@
 				
 				<div2 type="commline" n="18">
 					
-					<p><hi rend="caps">da</hi> dic, sic econtra &quot;accipe nunc Danaum insidias&quot;, id 
+					<p><hi rend="caps">da</hi> dic, sic econtra "accipe nunc Danaum insidias", id 
 						est audi. 
 					</p>
 				</div2>
@@ -339,7 +338,7 @@
 				<div2 type="commline" n="20">
 					
 					<p><hi rend="caps">stultus ego</hi> id est rusticus, qui nescivi iudicare. <hi rend="caps">nostrae</hi> autem Mantuae. <hi rend="caps">quo</hi> id est ad quam: nam adverbium 
-						posuit pro nomine, ut &quot;genus unde Latinum&quot;, id est a quo. 
+						posuit pro nomine, ut "genus unde Latinum", id est a quo. 
 					</p>
 				</div2>
 				
@@ -385,8 +384,8 @@
 						compulsum, et item latenter carpit tempora, quibus libertas non 
 						nisi in urbe Roma erat. aut certe simpliciter intellegamus hoc 
 						loco Tityrum sicut pastorem locutum: nam ubique eum Theocritus 
-						mercennarium inducit, item Vergilius, ut &quot;Tityre dum 
-						redeo, brevis est via, pasce capellas&quot;. <hi rend="caps">quae sera tamen respexit inertem</hi> desidem, se non requirentem. nam culpat suam <pb/> 
+						mercennarium inducit, item Vergilius, ut "Tityre dum 
+						redeo, brevis est via, pasce capellas". <hi rend="caps">quae sera tamen respexit inertem</hi> desidem, se non requirentem. nam culpat suam <pb/> 
 						inertiam, quod non ante Romam ierit et sit usus puer libertate, 
 						qua uti coepit provectioris aetatis. 
 					</p>
@@ -416,8 +415,8 @@
 						enim 'post' 'ante' 'circum' etiam ablativo iungebant, quod hodie 
 						facere minime possumus: aut 'longopost' una pars est orationis, ut 
 						sit sensus, venit tempore longopost, sicut multominus, multomagis, 
-						postmodo: Horatius &quot;postmodo, quod mi obsit, clare multum-
-						que locuto&quot;. et 'longopost', ut postposita videatur esse praepositio 
+						postmodo: Horatius "postmodo, quod mi obsit, clare multum-
+						que locuto". et 'longopost', ut postposita videatur esse praepositio 
 						et in unitatem coacta. 
 					</p>
 				</div2>
@@ -448,9 +447,9 @@
 						campo Martio inclusa tabulatis, in quibus stans populus Romanus 
 						suffragia ferre consueverat. sed quoniam haec saepta similia sunt 
 						ovilibus, duo haec invicem pro se ponuntur, ut hoc loco saepta 
-						pro ovilibus posuit, item Lucanus econtra &quot;et miserae 
-						maculavit ovilia Romae&quot;, Iuvenalis &quot;antiquo quae 
-						proxima surgit ovili&quot;. sane 'pinguis' melius ad victimam, quam 
+						pro ovilibus posuit, item Lucanus econtra "et miserae 
+						maculavit ovilia Romae", Iuvenalis "antiquo quae 
+						proxima surgit ovili". sane 'pinguis' melius ad victimam, quam 
 						ad caseum refertur. 
 					</p>
 				</div2>
@@ -467,8 +466,8 @@
 					
 					<p><hi rend="caps">amarylli vocares</hi> 'Amarylli' vocativus Graecus est, qui 
 						brevis est, quotienscumque nominativus 'is' terminatur, ut 'Ama-
-						ryllis' 'Pieris': Horatius &quot;dulcem quae strepitum Pieri tem-
-						peras&quot;. 
+						ryllis' 'Pieris': Horatius "dulcem quae strepitum Pieri tem-
+						peras". 
 					</p>
 				</div2>
 				
@@ -611,8 +610,8 @@
 					<p><hi rend="caps">raucae</hi> id est <foreign lang="greek">bragxw/deis.</foreign> <hi rend="caps">palumbes</hi> columbae, quas 
 						vulgus tetas vocat. et non dicuntur latine, sed multorum aucto-
 						ritas latinum facit: Cicero in elegia, quae &dagger;talia masta inscribi-
-						tur &quot;iam mare Tyrrhenum longe penitusque palumbes re-
-						liquit&quot;. 
+						tur "iam mare Tyrrhenum longe penitusque palumbes re-
+						liquit". 
 					</p>
 				</div2>
 				
@@ -620,7 +619,7 @@
 					
 					<p><hi rend="caps">gemere</hi> canere: proprie de turture. <hi rend="caps">turtur</hi> et mascu-
 						lino et feminino genere invenitur, ut 'aeria turtur cessabit', et 
-						Plautus &quot;tibi obustos turtures&quot;. <hi rend="caps">ab ulmo</hi> ulmus lignum est, 
+						Plautus "tibi obustos turtures". <hi rend="caps">ab ulmo</hi> ulmus lignum est, 
 						quod sub vinea fit. 
 					</p>
 				</div2>
@@ -678,9 +677,9 @@
 						sua albam terram turbulentus efficitur. vel Oaxes fluvius Scythiae: 
 						in Creta insula non est; sed est aqua cretei coloris. Oaxen Phili-
 						sthenes ait Apollinis et Anchiales filium: hunc Oaxen in Creta op-
-						pidum condidisse, quod suo nomine nominavit, ut Varro ait &quot;quos 
+						pidum condidisse, quod suo nomine nominavit, ut Varro ait "quos 
 						magno Anchiale partus adducta dolore et geminis capiens 
-						tellurem Oeaxida palmis &dagger;scindere dicta&quot;. 
+						tellurem Oeaxida palmis &dagger;scindere dicta". 
 					</p>
 				</div2>
 				
@@ -695,8 +694,8 @@
 				<div2 type="commline" n="67">
 					
 					<p><hi rend="caps">en</hi> ecce, <hi rend="caps">umqvam</hi> aliquando. 'en umquam' Vergilius alio 
-						loco dividit interposito verbo, ut infra in ipso libro &quot;en 
-						erit umquam ille dies&quot;, quod significat umquamne, aliquando. 
+						loco dividit interposito verbo, ut infra in ipso libro "en 
+						erit umquam ille dies", quod significat umquamne, aliquando. 
 					</p>
 				</div2>
 				
@@ -836,8 +835,8 @@
 					
 					<p><hi rend="caps">assidue</hi> id est saepius. <hi rend="caps">incondita</hi> id est incomposita, 
 						subito dicta, agrestia: vel insanientis dicta verba: vel 'incondita' in- <pb/> 
-						conscripta, ut Sallustius in libro <hi rend="caps">v</hi> &quot;at illi quibus vires ad-
-						erant, cuncti ruere ad portas, incondita temnere&quot;. 
+						conscripta, ut Sallustius in libro <hi rend="caps">v</hi> "at illi quibus vires ad-
+						erant, cuncti ruere ad portas, incondita temnere". 
 					</p>
 				</div2>
 				
@@ -890,12 +889,12 @@
 				<div2 type="commline" n="11">
 					
 					<p><hi rend="caps">alia serpyllumque</hi> herbas calidas, quae aestum repel- <pb/> 
-						lunt: nam, ut etiam Plinius dicit in naturali historia, &quot;omnis me-
-						dicina aut a contrario aut a simili quaeritur&quot;: unde etiam 
+						lunt: nam, ut etiam Plinius dicit in naturali historia, "omnis me-
+						dicina aut a contrario aut a simili quaeritur": unde etiam 
 						calor potest aut frigore aut alio calore depelli. hinc est quod in 
 						ultima ecloga, cum amator remedium quaerat ardori, dicit se itu-
-						rum aut ad Scythiam aut ad Aethiopiam, ut &quot;Aethiopum 
-						versemus oves sub sidere cancri&quot;. sane serpyllus herba est, 
+						rum aut ad Scythiam aut ad Aethiopiam, ut "Aethiopum 
+						versemus oves sub sidere cancri". sane serpyllus herba est, 
 						quam Graeci herpyllon dicunt: in multis enim nominibus, quae in 
 						Graeco aspirationem habent, nos pro aspiratione 's' ponimus: inde 
 						est pro herpyllo 'serpyllum', pro hex 'sex', pro hepta 'septem'. 
@@ -917,9 +916,9 @@
 				<div2 type="commline" n="14">
 					
 					<p><hi rend="caps">tristis amaryllidis i.</hi> bene addidit 'tristes'&mdash;plerumque 
-						enim, ut ait Terentius, &quot;amantium irae amoris integratio est&quot;&mdash;, 
+						enim, ut ait Terentius, "amantium irae amoris integratio est"&mdash;, 
 						ut veram iram ostenderet, non fictam illam, quae aliquid gratiae 
-						habere consuevit: unde Horatius &quot;urit grata protervitas&quot;. 
+						habere consuevit: unde Horatius "urit grata protervitas". 
 					</p>
 				</div2>
 				
@@ -938,8 +937,8 @@
 					<p><hi rend="caps">o formose puer</hi> bene dicit Donatus suspendendum 'o' et 
 						sic dicendum 'formose puer', ut intellegamus per iram eum aliud <pb/> 
 						voluisse dicere, sed in haec verba, ne Alexin offenderet, amoris 
-						necessitate compulsum. <hi rend="caps">ne crede</hi> ne confide: Sallustius &quot;virtuti 
-						satis credebant&quot;, id est confidebant. 
+						necessitate compulsum. <hi rend="caps">ne crede</hi> ne confide: Sallustius "virtuti 
+						satis credebant", id est confidebant. 
 					</p>
 				</div2>
 				
@@ -958,9 +957,9 @@
 						memorat. et multi secundum Homerum, qui ait <foreign lang="greek">kai\ ga/la leuko\n,</foreign> 
 						legunt 'nivei quam lactis'. sed melius est 'quam dives pecoris ni-
 						vei': nam candidae oves in ingenti sunt pretio, unde in georgicis 
-						legimus &quot;continuoque greges lege mollibus albos&quot;, 
-						item alibi &quot;munere sic niveo lanae, si credere di-
-						gnum est&quot;. 
+						legimus "continuoque greges lege mollibus albos", 
+						item alibi "munere sic niveo lanae, si credere di-
+						gnum est". 
 					</p>
 				</div2>
 				
@@ -990,8 +989,8 @@
 					<p><hi rend="caps">amphion dircaeus in a. a.</hi> Amphion et Zethus fratres 
 						fuerunt ex Iove et Antiopa; sed Zethus rusticus fuit, Amphion vero <pb/> 
 						musicae artis peritus. sane Aracynthus mons est Thebanus: unde 
-						'actaeo' litorali debemus accipere&mdash;ut &quot;at procul in sola secretae 
-						Troades acta&quot;&mdash;, non Atheniensi, licet Athenae primo Actis dictae 
+						'actaeo' litorali debemus accipere&mdash;ut "at procul in sola secretae 
+						Troades acta"&mdash;, non Atheniensi, licet Athenae primo Actis dictae 
 						sint. quamquam plerique 'Actaeo Aracyntho' Atheniensi accipiant, 
 						non quod Aracynthus apud Athenas est, sed ut ostendatur rustici 
 						imperitia. nam et Theocritus ad exprimendam rusticam simplici-
@@ -1004,8 +1003,8 @@
 				<div2 type="commline" n="25">
 					
 					<p><hi rend="caps">nec sum adeo informis</hi> verecunde suam commemorat 
-						pulchritudinem: sic Cicero in Caeliana &quot;ut eum paeniteat 
-						non deformem esse natum&quot;, nam pulcherrimum voluit dicere. 
+						pulchritudinem: sic Cicero in Caeliana "ut eum paeniteat 
+						non deformem esse natum", nam pulcherrimum voluit dicere. 
 						<hi rend="caps">in litore vidi cum p. v. s. m.</hi> negatur hoc per rerum naturam 
 						posse fieri; sed Theocritum secutus est, qui hoc dicit de Cyclope. 
 						sed illic est excusatio, vel quia ingentem habet oculum Cyclops, 
@@ -1059,7 +1058,7 @@
 					
 					<p><hi rend="caps">viridi hibisco</hi> ad hibiscum compellere, scilicet a lacte 
 						depulsos. hibiscus autem genus est herbae. et sic dixit 'hibisco' ad 
-						hibiscum, ut &quot;it clamor caelo&quot;, id est ad caelum. 
+						hibiscum, ut "it clamor caelo", id est ad caelum. 
 					</p>
 				</div2>
 				
@@ -1074,10 +1073,10 @@
 						arbores, virgulta, feras; caprinos pedes habet, ut ostendat terrae 
 						soliditatem; fistulam septem calamorum habet propter harmoniam 
 						caeli, in qua septem soni sunt, ut diximus in Aeneide 
-						&quot;septem discrimina vocum&quot;; <foreign lang="greek">kalau/ropa</foreign> habet, id est pedum, 
+						"septem discrimina vocum"; <foreign lang="greek">kalau/ropa</foreign> habet, id est pedum, 
 						propter annum, qui in se recurrit. hic quia totius naturae deus 
 						est, a poetis fingitur cum Amore luctatus et ab eo victus, quia, ut 
-						legimus, &quot;omnia vincit Amor&quot;. ergo Pan secundum fa-
+						legimus, "omnia vincit Amor". ergo Pan secundum fa-
 						bulas amasse Syringa nympham dicitur: quam cum sequeretur, illa 
 						implorato Terrae auxilio in calamum conversa est, quem Pan ad <pb/> 
 						solacium amoris incidit et sibi fistulam fecit. sane sciendum, 'Pana' 
@@ -1092,11 +1091,11 @@
 				<div2 type="commline" n="34">
 					
 					<p><hi rend="caps">nec te paeniteat calamo trivisse l.</hi> non tibi parum 
-						videatur: Terentius &quot;at enim quantum hic operis fiat, paeni-
-						tet&quot;, id est parum videtur. et notandum 'paeniteat trivisse' prae-
+						videatur: Terentius "at enim quantum hic operis fiat, paeni-
+						tet", id est parum videtur. et notandum 'paeniteat trivisse' prae-
 						teritum pro praesenti positum usurpative, quod in defectivis li-
-						center fit, ubi praesens non invenitur, ut &quot;quamquam animus 
-						meminisse horret&quot;. <hi rend="caps">labellum</hi> inanissimam quidam temptant 
+						center fit, ubi praesens non invenitur, ut "quamquam animus 
+						meminisse horret". <hi rend="caps">labellum</hi> inanissimam quidam temptant 
 						facere discretionem, ut virorum labra, mulierum labia dicantur. 
 					</p>
 				</div2>
@@ -1112,8 +1111,8 @@
 					
 					<p><hi rend="caps">disparibus septem c. cicutis</hi> inaequalibus cannis: nam 
 						et harmonia inaequalis est. cicuta autem est quod est inter can-
-						narum nodos. <hi rend="caps">conpacta</hi> coniuncta, ut &quot;turrim conpactis tra-
-						bibus quam eduxerat ipse&quot;. 
+						narum nodos. <hi rend="caps">conpacta</hi> coniuncta, ut "turrim conpactis tra-
+						bibus quam eduxerat ipse". 
 					</p>
 				</div2>
 				
@@ -1129,7 +1128,7 @@
 				<div2 type="commline" n="40">
 					
 					<p><hi rend="caps">nec tuta mihi valle reperti c.</hi> commendat a difficul-
-						tate: sic in primo &quot;reliquias Troia ex ardente receptas&quot;. 
+						tate: sic in primo "reliquias Troia ex ardente receptas". 
 					</p>
 				</div2>
 				
@@ -1146,8 +1145,8 @@
 				
 				<div2 type="commline" n="43">
 					
-					<p><hi rend="caps">orat abducere</hi> orat ut abducat: figuratum est, ut &quot;donat 
-						habere&quot;, id est donat ut habeat. 
+					<p><hi rend="caps">orat abducere</hi> orat ut abducat: figuratum est, ut "donat 
+						habere", id est donat ut habeat. 
 					</p>
 				</div2>
 				
@@ -1163,23 +1162,23 @@
 					
 					<p><hi rend="caps">huc ades o formose puer t. l. p. e. f. nymphae calathis</hi> tantum honoris habet puero, ut ei dicat etiam numina obse-
 						cutura. sane 'calathis' graecum est; nam latine quasillum dicitur: 
-						Cicero in Philippicis &quot;at vero inter quasilla pen-
-						datur aurum&quot;. 
+						Cicero in Philippicis "at vero inter quasilla pen-
+						datur aurum". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="46">
 					
 					<p><hi rend="caps">candida nais</hi> vel pulchra, vel dea: nam dii umbris con-
-						trarii sunt, quas nigras esse constat. hinc est &quot;candidus 
-						insuetum miratur limen Olympi&quot;. 
+						trarii sunt, quas nigras esse constat. hinc est "candidus 
+						insuetum miratur limen Olympi". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="47">
 					
-					<p><hi rend="caps">pallentes violas</hi> amantum tinctas colore: Horatius &quot;et 
-						tinctus viola pallor amantium&quot;: unde non praeter affectionem 
+					<p><hi rend="caps">pallentes violas</hi> amantum tinctas colore: Horatius "et 
+						tinctus viola pallor amantium": unde non praeter affectionem 
 						amantis eos flores nymphas dicit offerre, qui sunt amantibus similes. 
 						sane Papaver, Narcissus, Anethus pulcherrimi pueri fuerunt quique 
 						in flores suorum nominum versi sunt: quos ei offerendo quasi ad-
@@ -1191,8 +1190,8 @@
 					
 					<p><hi rend="caps">tum casia</hi> herba suavissimi odoris, ut sequentia indicant, 
 						quam Graeci <foreign lang="greek">kasi/an</foreign> dicunt. et sic dictum est 'tum casia atque 
-						aliis intexens suavibus herbis', ut in Sallustio &quot;leonem atque 
-						alias feras&quot;. 
+						aliis intexens suavibus herbis', ut in Sallustio "leonem atque 
+						alias feras". 
 					</p>
 				</div2>
 				
@@ -1228,8 +1227,8 @@
 				
 				<div2 type="commline" n="53">
 					
-					<p><hi rend="caps">cerea pruna</hi> aut cerei coloris, aut mollia: Horatius &quot;cerea 
-						Telephi laudas brachia&quot;. <hi rend="caps">honos erit huic quoque p.</hi> si a 
+					<p><hi rend="caps">cerea pruna</hi> aut cerei coloris, aut mollia: Horatius "cerea 
+						Telephi laudas brachia". <hi rend="caps">honos erit huic quoque p.</hi> si a 
 						te dilectum fuerit, sicut castaneae in honore fuerunt amatae Ama-
 						ryllidi. 
 					</p>
@@ -1237,7 +1236,7 @@
 				
 				<div2 type="commline" n="54">
 					
-					<p><hi rend="caps">o lauri</hi> licet Horatius dixerit &quot;depone sub lauru mea&quot;, 
+					<p><hi rend="caps">o lauri</hi> licet Horatius dixerit "depone sub lauru mea", 
 						melius tamen est iuxta secundam formam inflectere; nam melius 
 						sonat. <hi rend="caps">proxima myrte</hi> vel vicina lauro, vel ad odorem proxima: 
 						potest enim utrumque intellegi. 
@@ -1255,7 +1254,7 @@
 					
 					<p><hi rend="caps">rusticus es corydon</hi> arguit se stultitiae, quod eum se 
 						sperat placare muneribus, qui potest habere meliora: nam supra 
-						ait &quot;delicias domini&quot;. 
+						ait "delicias domini". 
 					</p>
 				</div2>
 				
@@ -1268,8 +1267,8 @@
 				<div2 type="commline" n="58">
 					
 					<p>(<hi rend="caps">hev</hi>) <hi rend="caps">hev quid volvi misero mihi</hi> quomodo eum dicit dis-
-						cedere, quem supra cum eo diximus non fuisse? nam ait &quot;solus 
-						montibus et silvis&quot;. (sed) ratione non caret. Epicurei enim di-
+						cedere, quem supra cum eo diximus non fuisse? nam ait "solus 
+						montibus et silvis". (sed) ratione non caret. Epicurei enim di-
 						cunt, quod etiam Cicero tractat, geminam esse voluptatem, unam 
 						quae percipitur, et alteram imaginariam, scilicet eam quae nascitur 
 						ex cogitatione. unde ita debemus accipere, hunc usum per cogita-
@@ -1330,8 +1329,8 @@
 				
 				<div2 type="commline" n="66">
 					
-					<p><hi rend="caps">aratra iugo referunt s. i.</hi> Horatius &quot;videre fessos 
-						vomerem inversum boves collo trahentes languido&quot;. et hoc 
+					<p><hi rend="caps">aratra iugo referunt s. i.</hi> Horatius "videre fessos 
+						vomerem inversum boves collo trahentes languido". et hoc 
 						vult dicere: omnia excepto amore finiuntur. 
 					</p>
 				</div2>
@@ -1339,9 +1338,9 @@
 				<div2 type="commline" n="67">
 					
 					<p><hi rend="caps">et sol crescentes d. d. v.</hi> variavit, nam ait supra 
-						&quot;maioresque cadunt altis de montibus umbrae&quot;. 'du-
-						plicat' autem auget: Sallustius &quot;et Marius victus duplicaverat 
-						bellum&quot;. 
+						"maioresque cadunt altis de montibus umbrae". 'du-
+						plicat' autem auget: Sallustius "et Marius victus duplicaverat 
+						bellum". 
 					</p>
 				</div2>
 				
@@ -1362,12 +1361,12 @@
 					
 					<p><hi rend="caps">semiputata tibi f. v. i. ulmo est</hi> plus est, quam si in-
 						putata diceret; tolerabilius enim est non incipere aliquid, quam 
-						incepta deserere: hinc est illud in primo &quot;mene incepto de-
-						sistere victam?&quot; item in georgicis &quot;atque opere in 
-						medio defixa reliquit aratra&quot;. sane geminam arguit neglegen-
+						incepta deserere: hinc est illud in primo "mene incepto de-
+						sistere victam?" item in georgicis "atque opere in 
+						medio defixa reliquit aratra". sane geminam arguit neglegen-
 						tiam, et quod semiputata vitis est, et quod frondosa ulmus; nam 
-						utrumque obest: unde est in georgicis &quot;bis vitibus in-
-						gruit umbra&quot;. et aut simpliciter intellegimus hunc locum, ut 
+						utrumque obest: unde est in georgicis "bis vitibus in-
+						gruit umbra". et aut simpliciter intellegimus hunc locum, ut 
 						suam arguat neglegentiam: aut certe illud est: non mirum, me 
 						esse dementem, qui habeo vites semiputatas. nam in sacris dici-
 						tur, quod corripiatur furore qui sacrificaverit de vino, quod est de 
@@ -1378,7 +1377,7 @@
 				<div2 type="commline" n="71">
 					
 					<p><hi rend="caps">quin tu</hi> quin immo. hortantis est. <hi rend="caps">quorum indiget usus</hi> id est quae rusticus usus requirit. sane et 'eget illa re' di-
-						cimus, ut &quot;eget ille senatu&quot;, et 'eget illius rei': unde est 'indiget' 
+						cimus, ut "eget ille senatu", et 'eget illius rei': unde est 'indiget' 
 						nam et hoc utroque iungitur casui. <pb/> 
 					</p>
 				</div2>
@@ -1398,8 +1397,8 @@
 						gamus, invenies alium imperatorem, si te Augustus contemnit pro 
 						agris rogantem. sed melius simpliciter accipimus hunc locum: nam 
 						nihil habet, quod possit ad Caesarem trahi. illud vero paulo post 
-						paene aperte dicetur in Augustum Caesarem &quot;quoniam 
-						Fors omnia versat&quot;. 
+						paene aperte dicetur in Augustum Caesarem "quoniam 
+						Fors omnia versat". 
 					</p>
 				</div2>
 			</div1>
@@ -1423,8 +1422,8 @@
 						poeta illic et introductae personae loquuntur. hos autem omnes 
 						characteres in bucolico esse convenit carmine, sicut liber etiam <pb/> 
 						iste demonstrat. nam habet in quo tantum poeta loquitur, ut 
-						&quot;Sicelides musae, paulo maiora canamus&quot;; habet mixtum, 
-						ut &quot;extremum hunc, Arethusa, mihi concede laborem&quot; 
+						"Sicelides musae, paulo maiora canamus"; habet mixtum, 
+						ut "extremum hunc, Arethusa, mihi concede laborem" 
 						&mdash;nam etiam Gallum illic inducit loquentem&mdash;; habet dramaticum, 
 						ut in prima ecloga, item in hac, quam miro ordine, ex rebus com-
 						munibus veniente, composuit: habet enim in ipso quasi primo oc-
@@ -1434,7 +1433,7 @@
 						'cuium pecus' ostendit eum esse mercennarium. 'cuium' autem an-
 						tique ait, vitans homoeoteleuton, ne diceret 'cuius pecus', quod 
 						modo trium est generum. antiqui dicebant sicut 'meus mea meum', 
-						sic 'cuius cuia cuium': Terentius &quot;quid? virgo cuia est?&quot; 
+						sic 'cuius cuia cuium': Terentius "quid? virgo cuia est?" 
 					</p>
 				</div2>
 				
@@ -1466,9 +1465,9 @@
 					
 					<p><hi rend="caps">bis mulget in hora</hi> quod bis per totum diem debet in 
 						ovibus fecundis fieri: nam pro laude in georgicis posuit, <pb/> 
-						bis ad diem mulgeri oves, dicens &quot;quod surgente die mulsere 
+						bis ad diem mulgeri oves, dicens "quod surgente die mulsere 
 						horisque diurnis, nocte premunt; quod iam tenebris et 
-						sole cadente, sub lucem exportant calathis&quot;. quid autem sit 
+						sole cadente, sub lucem exportant calathis". quid autem sit 
 						'bis mulget in hora' ipse dicit, 'et sucus pecori et lac subducitur 
 						agnis'. 
 					</p>
@@ -1479,7 +1478,7 @@
 					<p><hi rend="caps">parcius</hi> melius hic distinguitur: licet possit dici etiam 
 						'parcius ista'. sensus autem est: noli valde haec obicere, tamen 
 						scias viris fortibus obiciendas rapinas: ipse enim ait in <hi rend="caps">viiii.</hi> 
-						&quot;convectare iuvat praedas et vivere rapto&quot;. 
+						"convectare iuvat praedas et vivere rapto". 
 					</p>
 				</div2>
 				
@@ -1488,17 +1487,17 @@
 					<p><hi rend="caps">novimus et qui te</hi> subaudis 'corruperint', quod suppressit 
 						verecunde, licet Theocritus aperte ipsam turpitudinem ponat et ex-
 						primat. <hi rend="caps">transuersa tuentibus hircis</hi> hircos, id est capros, 
-						libidinosa constat esse animalia: unde Horatius &quot;libidinosus im-
-						molabitur caper et agna Tempestatibus&quot;. quod etiam Plinius 
-						Secundus dicit &quot;hirci si casu aliquo coeuntes vident, adeo in-
-						dignantur, ut in eos paene impetum faciant&quot;. hinc est 'trans-
+						libidinosa constat esse animalia: unde Horatius "libidinosus im-
+						molabitur caper et agna Tempestatibus". quod etiam Plinius 
+						Secundus dicit "hirci si casu aliquo coeuntes vident, adeo in-
+						dignantur, ut in eos paene impetum faciant". hinc est 'trans-
 						versa tuentibus hircis', id est vestram turpitudinem indignantibus. 
 						alii hoc inprobant et legunt 'hirquis'&mdash;hirqui autem sunt oculo-
 						rum anguli secundum Suetonium Tranquillum in vitiis corporalibus&mdash;, 
 						ut sit sensus: novimus, qui te corruperint, hirquis transversa tuen-
 						tibus, ut sit hypallage pro 'oculis in hirquos retortis', quam rem 
-						solet libido perficere: unde Iuvenalis &quot;oculosque in 
-						fine trementes&quot;, Persius &quot;patranti fractus ocello&quot;. 
+						solet libido perficere: unde Iuvenalis "oculosque in 
+						fine trementes", Persius "patranti fractus ocello". 
 					</p>
 				</div2>
 				
@@ -1506,7 +1505,7 @@
 					
 					<p><hi rend="caps">sed faciles nymphae risere</hi> ideo, inquit, indulserunt 
 						nymphae, quia mites sunt et exorabiles: sic in georgicis 
-						&quot;et faciles venerare napaeas&quot;. <hi rend="caps">sacello</hi> id est in loco sacro; 
+						"et faciles venerare napaeas". <hi rend="caps">sacello</hi> id est in loco sacro; 
 						nam diminutive dictum est. <pb/> 
 					</p>
 				</div2>
@@ -1522,7 +1521,7 @@
 				<div2 type="commline" n="11">
 					
 					<p><hi rend="caps">mala falce</hi> qua tu male uteris. et dictum est ex affectu 
-						utentis, sicut &quot;inutile ferrum cingitur&quot;. in hoc autem maximum 
+						utentis, sicut "inutile ferrum cingitur". in hoc autem maximum 
 						nefas est quod ait 'vites novellas', quia vetulae et cum utilitate 
 						inciduntur. fuerat autem capitale supplicium arbores alienas inci-
 						dere. et 'arbustum' quidam locum, in quo arbores sunt, volunt 
@@ -1533,8 +1532,8 @@
 				<div2 type="commline" n="12">
 					
 					<p><hi rend="caps">arcum et calamos</hi> nam habent arma pastores, ut in 
-						georgicis docuit &quot;armaque Amyclaeumque canem 
-						Cressasque pharetras&quot;. 
+						georgicis docuit "armaque Amyclaeumque canem 
+						Cressasque pharetras". 
 					</p>
 				</div2>
 				
@@ -1542,8 +1541,8 @@
 					
 					<p><hi rend="caps">peruerse menalca</hi> aut converse ad turpitudinem: aut 
 						intellegamus fuisse quendam Menalcam nobilem, ut istum perver-
-						sum Menalcam dixerit illius comparatione: sic Sallustius &quot;saevus 
-						iste Romulus&quot;. 
+						sum Menalcam dixerit illius comparatione: sic Sallustius "saevus 
+						iste Romulus". 
 					</p>
 				</div2>
 				
@@ -1560,8 +1559,8 @@
 						tur, ut si dicas 'philosophus', nomen ipsum ponis, si autem velis 
 						dicere 'sapientiae operam dans', personam exprimes per officium, 
 						sicut hoc loco fecit: nam pro servo furem posuit; furta enim spe-
-						cialiter servorum sunt: sic Plautus de servo &quot;homo es trium lit-
-						terarum&quot;, id est fur. 
+						cialiter servorum sunt: sic Plautus de servo "homo es trium lit-
+						terarum", id est fur. 
 					</p>
 				</div2>
 				
@@ -1573,7 +1572,7 @@
 				
 				<div2 type="commline" n="18">
 					
-					<p><hi rend="caps">excipere</hi> dolo capere, ut &quot;excipit incautum&quot;. <hi rend="caps">la-</hi> <pb/> 
+					<p><hi rend="caps">excipere</hi> dolo capere, ut "excipit incautum". <hi rend="caps">la-</hi> <pb/> 
 						<hi rend="caps">trante lycisca</hi> lycisci sunt, ut etiam Plinius dicit, canes nati ex 
 						lupis et canibus, cum inter se forte misceantur. 
 					</p>
@@ -1582,15 +1581,15 @@
 				<div2 type="commline" n="20">
 					
 					<p><hi rend="caps">post carecta l.</hi> loca caricis plena. carix autem herba 
-						est acuta et durissima, sparto similis: alibi &quot;et carice pastus 
-						acuta&quot;. sane hoc loco superfluam volunt esse allegoriam, dicentes 
+						est acuta et durissima, sparto similis: alibi "et carice pastus 
+						acuta". sane hoc loco superfluam volunt esse allegoriam, dicentes 
 						rem nusquam lectam de Vergilio. aiunt enim hoc: Varus, tragoe-
 						diarum scriptor, habuit uxorem litteratissimam, cum qua Vergilius 
 						adulterium solebat admittere, cui etiam dedit scriptam tragoediam, 
 						quam illa marito dedit tamquam a se scriptam. hanc recitavit Va-
 						rus pro sua: quam rem dicit Vergilius per allegoriam; nam tra-
-						goediae praemium caper fuerat: Horatius &quot;carmine qui tragico 
-						vilem certavit ob hircum&quot;. sed melius simpliciter accipimus: 
+						goediae praemium caper fuerat: Horatius "carmine qui tragico 
+						vilem certavit ob hircum". sed melius simpliciter accipimus: 
 						refutandae enim sunt allegoriae in bucolico carmine, nisi cum, ut 
 						supra diximus, ex aliqua agrorum perditorum necessitate de-
 						scendunt. 
@@ -1612,8 +1611,8 @@
 				
 				<div2 type="commline" n="25">
 					
-					<p><hi rend="caps">cantando tu illum</hi> imperitus peritum. <hi rend="caps">cera iuncta fuit</hi> supra &quot;Pan primus calamos cera coniungere 
-						plures instituit&quot;. 
+					<p><hi rend="caps">cantando tu illum</hi> imperitus peritum. <hi rend="caps">cera iuncta fuit</hi> supra "Pan primus calamos cera coniungere 
+						plures instituit". 
 					</p>
 				</div2>
 				
@@ -1623,8 +1622,8 @@
 						drivia ulularent et flebile quiddam in honore Dianae canerent ru-
 						stici ad reddendam Cereris imitationem, quae raptam Proserpinam 
 						in triviis clamore requirebat. novimus autem eandem esse Proser-
-						pinam, quam Dianam: sic in Aeneide &quot;nocturnisque 
-						Hecate triviis ululata per urbes&quot;. <pb/> 
+						pinam, quam Dianam: sic in Aeneide "nocturnisque 
+						Hecate triviis ululata per urbes". <pb/> 
 					</p>
 				</div2>
 				
@@ -1661,13 +1660,13 @@
 						ut eam iam enixam esse dicamus, sed debere nos iuvencam sub-
 						audire, ut sit: ego hanc iuvencam pono, vitulam ne forte recuses. 
 						nam et vitula a viridiore aetate dicta est, sicut virgo, et paulo 
-						post ipse dicturus est &quot;si ad vitulam spectas, nihil est 
-						quod pocula laudes&quot;, item &quot;et vitula tu dignus et hic&quot;: 
+						post ipse dicturus est "si ad vitulam spectas, nihil est 
+						quod pocula laudes", item "et vitula tu dignus et hic": 
 						unde iuvencam subaudire non possumus, sed secundum superiorem 
 						sensum intellegamus. vitula enim est nomen aetatis, non quod 
 						tantum ante partum iuvencae possideant. <hi rend="caps">mulctram</hi> et feminino 
 						genere dicimus 'haec mulctra' et neutro 'hoc mulctrare', unde est 
-						in georgicis &quot;implebunt mulctraria vaccae&quot;. alii fa-
+						in georgicis "implebunt mulctraria vaccae". alii fa-
 						ciunt discretionem, ut sit 'mulctra' tempus quo mulgentur animalia, 
 						'mulctrare' vas in quod mulgentur. 
 					</p>
@@ -1682,7 +1681,7 @@
 				<div2 type="commline" n="32">
 					
 					<p><hi rend="caps">de grege non ausim q. d. t.</hi> supra enim eum aliena 
-						pascere dixit animalia, ut &quot;dic mihi Damoeta, cuium pecus?&quot; 
+						pascere dixit animalia, ut "dic mihi Damoeta, cuium pecus?" 
 					</p>
 				</div2>
 				
@@ -1714,8 +1713,8 @@
 				
 				<div2 type="commline" n="37">
 					
-					<p><hi rend="caps">divini opus alcimedontis</hi> laus ab artifice: Cicero &quot;Poly-
-						cliti esse dicebant&quot;. <hi rend="caps">pocula</hi> autem <hi rend="caps">fagina</hi> quasi rem ma-
+					<p><hi rend="caps">divini opus alcimedontis</hi> laus ab artifice: Cicero "Poly-
+						cliti esse dicebant". <hi rend="caps">pocula</hi> autem <hi rend="caps">fagina</hi> quasi rem ma-
 						ximam. 
 					</p>
 				</div2>
@@ -1758,7 +1757,7 @@
 				<div2 type="commline" n="43">
 					
 					<p><hi rend="caps">necdum illis labra admovi</hi> hypallage est&mdash;pocula enim 
-						labris adhibemus&mdash;, ut &quot;dare classibus austros&quot;. et tantam in eis 
+						labris adhibemus&mdash;, ut "dare classibus austros". et tantam in eis 
 						dicit venerationem, ut necdum illis usus fuerit. 
 					</p>
 				</div2>
@@ -1809,15 +1808,15 @@
 				<div2 type="commline" n="53">
 					
 					<p><hi rend="caps">vicine palaemon</hi> benivolum reddit ex vicinitatis comme-
-						moratione: Terentius &quot;vel virtus me tua vel vicinitas, quod 
-						ego in propinqua parte amicitiae puto&quot;. 
+						moratione: Terentius "vel virtus me tua vel vicinitas, quod 
+						ego in propinqua parte amicitiae puto". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="56">
 					
 					<p><hi rend="caps">nunc omnis ager nunc omnis parturit arbos</hi> ipse alibi 
-						&quot;parturit almus ager&quot;. sane bene subdidit 'nunc frondent silvae' 
+						"parturit almus ager". sane bene subdidit 'nunc frondent silvae' 
 						referens ad arbores steriles: nam 'parturiunt' de pomiferis dicimus. 
 						vult autem tempus exprimere, quo et deliciae sunt in agris et ru-
 						stici minus laborant, ut sit duplex ad cantilenam invitatio. 
@@ -1840,9 +1839,9 @@
 					<p><hi rend="caps">ab iove principium musae</hi> vel musae meae ab Iove est 
 						principium: vel o musae, sumamus ab Iove principium. est autem 
 						Arati, qui ait <foreign lang="greek">*)ek *dio\s a)rxw/mesqa to\n ou)de/pot' a)/ndres e)w=men a)/r-
-							rhton.</foreign> <hi rend="caps">iovis omnia plena</hi> Lucanus &quot;Iuppiter est 
-						quodcumque vides, quodcumque moveris&quot;, ipse alibi &quot;spiritus 
-						intus alit, totamque infusa per artus mens agitat molem&quot;: 
+							rhton.</foreign> <hi rend="caps">iovis omnia plena</hi> Lucanus "Iuppiter est 
+						quodcumque vides, quodcumque moveris", ipse alibi "spiritus 
+						intus alit, totamque infusa per artus mens agitat molem": 
 						ipse enim est spiritus, sine quo nihil movetur aut regitur. 
 					</p>
 				</div2>
@@ -1850,7 +1849,7 @@
 				<div2 type="commline" n="61">
 					
 					<p><hi rend="caps">colit terras</hi> amat: ceterum superior colitur, non colit 
-						inferiorem: sic alibi &quot;unam posthabita coluisse Samo&quot;, id est 
+						inferiorem: sic alibi "unam posthabita coluisse Samo", id est 
 						amasse. nec mirum si rusticus sumpsit ab Iove principium, quem 
 						amare terras constat et habere carminum curam. 
 					</p>
@@ -1859,8 +1858,8 @@
 				<div2 type="commline" n="62">
 					
 					<p><hi rend="caps">et me phoebus amat</hi> aut simile est quod dicit, quia uni-
-						cuique deus, quem colit, summus videtur, ut &quot;summe deum, <pb/> 
-						sancti custos Soractis Apollo&quot;, ut Apollinem exaequaverit Iovi: 
+						cuique deus, quem colit, summus videtur, ut "summe deum, <pb/> 
+						sancti custos Soractis Apollo", ut Apollinem exaequaverit Iovi: 
 						aut certe ordo sit talis 'me et Phoebus amat', ut et plus dicat, 
 						nec Iovi videatur Apollinem comparare. 
 					</p>
@@ -1879,8 +1878,8 @@
 				
 				<div2 type="commline" n="65">
 					
-					<p><hi rend="caps">ante videri</hi> antequam lateat: Horatius &quot;nunc et laten-
-						tis proditor intimo gratus puellae risus ab angulo&quot;. 
+					<p><hi rend="caps">ante videri</hi> antequam lateat: Horatius "nunc et laten-
+						tis proditor intimo gratus puellae risus ab angulo". 
 					</p>
 				</div2>
 				
@@ -1932,15 +1931,15 @@
 				<div2 type="commline" n="74">
 					
 					<p><hi rend="caps">animo non spernis</hi> id est libentissime habes. et est li-
-						totes figura, sicut &quot;munera nec sperno&quot;. et multi hunc locum 
+						totes figura, sicut "munera nec sperno". et multi hunc locum 
 						allegoricos accipiunt, ut videatur Augusto dicere: quid prodest quia 
 						me diligis, si ad capiendos hostes pergens in otio me relinquis? 
 						dicitur enim Vergilius sequi voluisse Augustum contra Antonium 
 						ad Actiaca bella properantem. <hi rend="caps">amynta</hi> vocativus graecus est. <pb/> 
 						et sciendum, graeca nomina in 'as' exeuntia, sive crescant sive 
 						non crescant in genetivo, vocativum in 'a' mittere, ut 'Aeneas 
-						Aeneae o Aenea, Pallas Pallantis o Palla', ut &quot;non haec, o Palla, 
-						dederas promissa parenti&quot;. 
+						Aeneae o Aenea, Pallas Pallantis o Palla', ut "non haec, o Palla, 
+						dederas promissa parenti". 
 					</p>
 				</div2>
 				
@@ -1959,8 +1958,8 @@
 						quentia indicant, ubi dicit 'cum faciam vitula frugibus', id est cum 
 						pro frugibus sacrificare coepero, tu tantum venito. sane 'natalis' 
 						apud maiores plenum fuit, licet posteritas 'natalis dies' coeperit: 
-						nam cum Horatius dixerit &quot;natalis grate numeras&quot;, Iuvenalis ait 
-						&quot;natali, Corvine, die mihi dulcior haec lux&quot;. 
+						nam cum Horatius dixerit "natalis grate numeras", Iuvenalis ait 
+						"natali, Corvine, die mihi dulcior haec lux". 
 					</p>
 				</div2>
 				
@@ -1968,10 +1967,10 @@
 					
 					<p><hi rend="caps">cum faciam vitula pro frugibus ipse venito</hi> cum sa-
 						crificavero. et figurate 'faciam vitula' ait, ut 'faciam ture', 'faciam 
-						agna': Horatius &quot;seu poscat agna sive malit haedo&quot;. dicitur 
+						agna': Horatius "seu poscat agna sive malit haedo". dicitur 
 						autem hoc sacrificium ambarvale, quod arva ambiat victima: hinc 
-						ipse in georgicis &quot;terque novas circum felix eat hostia 
-						fruges&quot;: sicut amburbale vel amburbium dicitur sacrificium, quod 
+						ipse in georgicis "terque novas circum felix eat hostia 
+						fruges": sicut amburbale vel amburbium dicitur sacrificium, quod 
 						urbem circuit et ambit victima. 
 					</p>
 				</div2>
@@ -1982,9 +1981,9 @@
 						mina, nam supra eum Menalcam dixit: aut certe Iollam eum quasi 
 						pastorem optimum appellavit a quodam pastore nobilissimo, sicut 
 						virum fortem plerumque Achillem, adulterum Parim vocamus. sane 
-						'longum vale' ita ait, ut &quot;torvum clamat&quot;: pro adverbio nomen 
+						'longum vale' ita ait, ut "torvum clamat": pro adverbio nomen 
 						posuit. 'vale vale inquit' 'le' corripit sequens vocalis, ut 
-						&quot;te Corydon o Alexi&quot;. <pb/> 
+						"te Corydon o Alexi". <pb/> 
 					</p>
 				</div2>
 				
@@ -1997,8 +1996,8 @@
 				<div2 type="commline" n="82">
 					
 					<p><hi rend="caps">dulce</hi> dulcis res. <hi rend="caps">satis</hi> segetibus. <hi rend="caps">depulsis</hi> a lacte 
-						prohibitis, ut &quot;depulsos a lacte domi quae clauderet 
-						agnos&quot;. 
+						prohibitis, ut "depulsos a lacte domi quae clauderet 
+						agnos". 
 					</p>
 				</div2>
 				
@@ -2007,9 +2006,9 @@
 					<p><hi rend="caps">pollio amat nostram quamvis sit r. m.</hi> blanditur iam 
 						Pollioni patrono, quem et tragoediarum et historiarum scriptorem 
 						Horatius fuisse testatur: nam in secundo carminum dicit de histo-
-						riis &quot;periculosae plenum opus aleae tractas et incedis 
-						per ignes suppositos cineri doloso&quot;, item paulo post &quot;pau-
-						lum severae musa tragoediae desit theatris&quot;. quem carmen 
+						riis "periculosae plenum opus aleae tractas et incedis 
+						per ignes suppositos cineri doloso", item paulo post "pau-
+						lum severae musa tragoediae desit theatris". quem carmen 
 						suum, licet rusticum, tamen amare confirmat. 
 					</p>
 				</div2>
@@ -2033,15 +2032,15 @@
 					
 					<p><hi rend="caps">quo te quoque gaudet</hi> subaudis venisse. pervenerat 
 						autem ad consulatum post triumphum Dalmaticum; nam vicerat 
-						Salonas, civitatem Dalmatiae: Horatius &quot;cui laurus aeternos ho-
-						nores Dalmatico peperit triumpho&quot;. 
+						Salonas, civitatem Dalmatiae: Horatius "cui laurus aeternos ho-
+						nores Dalmatico peperit triumpho". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="89">
 					
-					<p><hi rend="caps">amomum</hi> flos est Assyrius, (ut Lucanus &quot;vicinae) 
-						messis amomum&quot;. 
+					<p><hi rend="caps">amomum</hi> flos est Assyrius, (ut Lucanus "vicinae) 
+						messis amomum". 
 					</p>
 				</div2>
 				
@@ -2049,8 +2048,8 @@
 					
 					<p><hi rend="caps">qui bavium non odit</hi> pro poena ei contingat, ut diligat 
 						Maevium peiorem poetam: nam Maevius et Bavius pessimi fuerunt <pb/> 
-						poetae, inimici tam Horatio quam Vergilio: unde Horatius &quot;mala 
-						soluta navis exit alite ferens olentem Maevium&quot;. 
+						poetae, inimici tam Horatio quam Vergilio: unde Horatius "mala 
+						soluta navis exit alite ferens olentem Maevium". 
 					</p>
 				</div2>
 				
@@ -2081,7 +2080,7 @@
 						illud quod supra diximus, pertinens, quia post acceptos agros ab 
 						Arrio centurione paene est interemptus, nisi se praecipitasset in 
 						fluvium. <hi rend="caps">parcite</hi> autem prohibete, servate. <hi rend="caps">procedere</hi> id 
-						est servate, ne procedant, ut &quot;gnatis parce tuis&quot;. 
+						est servate, ne procedant, ut "gnatis parce tuis". 
 					</p>
 				</div2>
 				
@@ -2094,15 +2093,15 @@
 						amicos Caesaris agrum meruerat tamquam per rivulos quosdam; 
 						nunc autem Mantuanis beneficium dicit se ab ipso imperatore me-
 						riturum. <hi rend="caps">reice capellas</hi> 'reice ca' proceleumaticus est pro da-
-						ctylo; et sic est positus, ut &quot;genua labant&quot;, item &quot;arietat in 
-						portas&quot;. 
+						ctylo; et sic est positus, ut "genua labant", item "arietat in 
+						portas". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="98">
 					
-					<p><hi rend="caps">cogite oves</hi> in ovilia colligite, ut &quot;Tityre coge 
-						pecus&quot;. <hi rend="caps">praeceperit</hi> praeoccupaverit: nam naturale est, ut lac 
+					<p><hi rend="caps">cogite oves</hi> in ovilia colligite, ut "Tityre coge 
+						pecus". <hi rend="caps">praeceperit</hi> praeoccupaverit: nam naturale est, ut lac 
 						augeatur frigore, calore minuatur. 
 					</p>
 				</div2>
@@ -2158,11 +2157,11 @@
 						de Hyacinthi sanguine, postea de Aiacis, sicut etiam Ovidius docet. 
 						est autem rubrum quasi lilium, designans primam Hyacinthi lit- <pb/> 
 						teram. 'regum' autem 'nomina' non quoniam ipsi reges fuerunt, 
-						sed quia regum filii, ut &quot;magnum reginae sed enim miseratus 
-						amorem&quot;, cum de Ariadne diceret, Pasiphaae reginae filia. sane 
+						sed quia regum filii, ut "magnum reginae sed enim miseratus 
+						amorem", cum de Ariadne diceret, Pasiphaae reginae filia. sane 
 						multi volunt 'nomina regum' pro 'nomen regis' positum, ut sit 
-						quemadmodum illud in Terentio &quot;non perpeti meretricum con-
-						tumelias&quot;, cum de una loqueretur: nam flos iste Hyacinthi tantum, 
+						quemadmodum illud in Terentio "non perpeti meretricum con-
+						tumelias", cum de una loqueretur: nam flos iste Hyacinthi tantum, 
 						non et Aiacis nomen retinet. tamen sciendum aenigmata haec, 
 						sicut fere omnia, carere aperta solutione. 
 					</p>
@@ -2183,8 +2182,8 @@
 						quidam totum iungunt 'non nostrum inter vos tantas componere 
 						lites': nam non negat se facturum esse quod faciet; iudicaturus 
 						enim est, eos esse pares, dicens 'et vitula tu dignus et hic'. 
-						<hi rend="caps">componere</hi> finire, ut &quot;ante diem clauso componet Vesper 
-						Olympo&quot;, id est finiet. 
+						<hi rend="caps">componere</hi> finire, ut "ante diem clauso componet Vesper 
+						Olympo", id est finiet. 
 					</p>
 				</div2>
 				
@@ -2265,9 +2264,9 @@
 				<div2 type="commline" n="5">
 					
 					<p><hi rend="caps">ab integro</hi> <hi rend="italics">vel</hi> denuo, <hi rend="italics">vel ab initio: Cato de suo consulatu 
-						&quot;omnia ab integro paranda erant&quot;</hi>. <hi rend="caps">saeclorum</hi> synaeresis pro 
+						"omnia ab integro paranda erant"</hi>. <hi rend="caps">saeclorum</hi> synaeresis pro 
 						'saeculorum'. <hi rend="italics">et saeculum quidam centum annorum definiunt, quidam 
-							centum decem: Horatius &quot;certus undenos decies per annos&quot;.</hi> 
+							centum decem: Horatius "certus undenos decies per annos".</hi> 
 					</p>
 				</div2>
 				
@@ -2288,7 +2287,7 @@
 						non ex mortalibus nati, sed ex numinibus, et quasi e caelo lapsi. 
 						et hinc conicit fore aurea saecula, quod Augustus imperat, <hi rend="italics">vel</hi> 
 						quod talis natus est puer, <hi rend="italics">vel</hi> quod consul est Pollio, <hi rend="italics">unde est 
-							&quot;te consule inibit&quot;</hi>. 
+							"te consule inibit"</hi>. 
 					</p>
 				</div2>
 				
@@ -2302,16 +2301,16 @@
 				<div2 type="commline" n="10">
 					
 					<p><hi rend="caps">casta fave lucina</hi> modo <hi rend="italics">Lucinam</hi> Dianam accipimus: sic 
-						Horatius &quot;sive te Lucinam probas vocari, <hi rend="italics">seu te penitus&quot; [iu-
-							nonem]</hi>. Terentius Iunonem Lucinam dicit, ut &quot;Iuno Lucina, fer <pb/> 
-						opem, s. m. o.&quot;: tamen ambae unum sunt. <hi rend="italics">sane hic Dianam Luci-
+						Horatius "sive te Lucinam probas vocari, <hi rend="italics">seu te penitus" [iu-
+							nonem]</hi>. Terentius Iunonem Lucinam dicit, ut "Iuno Lucina, fer <pb/> 
+						opem, s. m. o.": tamen ambae unum sunt. <hi rend="italics">sane hic Dianam Luci-
 							nam non inmerito designat; prior enim genita parturienti matri Apol-
-							linem tulisse auxilium dicitur. Nigidius de diis lib. <hi rend="caps">iv.</hi> &quot;quidam deos 
+							linem tulisse auxilium dicitur. Nigidius de diis lib. <hi rend="caps">iv.</hi> "quidam deos 
 							et eorum genera temporibus et aetatibus (dispescunt), inter 
 							quos et Orpheus primum regnum Saturni, deinde Iovis, tum 
 							Neptuni, inde Plutonis; nonnulli etiam, ut magi, aiunt, 
 							Apollinis fore regnum: in quo videndum est, ne ardorem, 
-							sive illa ecpyrosis appellanda est, dicant&quot;. quidam hoc loco 
+							sive illa ecpyrosis appellanda est, dicant". quidam hoc loco 
 							'casta fave Lucina, tuus iam regnat Apollo' Octaviam sororem Augusti 
 							significari adfirmant ipsumque Augustum Apollinem.</hi> <hi rend="caps">tuus iam regnat apollo</hi> ultimum saeculum ostendit, quod Sibylla Solis 
 						esse memoravit. et tangit Augustum, cui simulacrum factum est 
@@ -2345,9 +2344,9 @@
 						id est auctore. <hi rend="caps">sceleris vestigia n.</hi> bene nullum vult esse 
 						praesentium temporum vitium, sed reliquias dicit esse superioris 
 						aetatis. sic in georgicis cum laudaret Augustum et carpsisset tem-
-						pora, dicens &quot;vicinae ruptis inter se legibus urbes 
-						arma ferunt, saevit toto Mars inprobus orbe&quot;, intulit &quot;fertur <pb/> 
-						equis auriga neque audit currus habenas&quot;, ut ostenderet tan-
+						pora, dicens "vicinae ruptis inter se legibus urbes 
+						arma ferunt, saevit toto Mars inprobus orbe", intulit "fertur <pb/> 
+						equis auriga neque audit currus habenas", ut ostenderet tan-
 						tas esse reliquias praeteritorum malorum, ut ne ab optimo quidem 
 						rectore sedari posse viderentur. vestigia autem scelerum dicit bella 
 						civilia, quae gessit Augustus contra Antonium apud Mutinam, contra 
@@ -2404,17 +2403,17 @@
 					<p><hi rend="caps">errantes hederas p. c. b. t.</hi> passim vagantes: unde an-
 						tiqui lyrici dixerunt flexipedes hederas, quod hac atque illac vagan- <pb/> 
 						tur. mire autem puerum laudat ex ipsis muneribus: nam hederae 
-						indicant futurum poetam, ut &quot;pastores hedera crescen-
-						tem ornate poetam&quot;. baccar vero herba est quae fascinum pellit, 
-						ut &quot;baccare frontem cingite, ne vati noceat mala 
-						lingua futuro&quot;: per quod pulchrum indicat puerum. 
+						indicant futurum poetam, ut "pastores hedera crescen-
+						tem ornate poetam". baccar vero herba est quae fascinum pellit, 
+						ut "baccare frontem cingite, ne vati noceat mala 
+						lingua futuro": per quod pulchrum indicat puerum. 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="20">
 					
-					<p><hi rend="caps">ridenti acantho</hi> laeto, <hi rend="italics">suavi, iucundo, fulgenti, ut &quot;ridet 
-						argento domus&quot;: vel quod hians et patens nascitur</hi>. et est herba, 
+					<p><hi rend="caps">ridenti acantho</hi> laeto, <hi rend="italics">suavi, iucundo, fulgenti, ut "ridet 
+						argento domus": vel quod hians et patens nascitur</hi>. et est herba, 
 						quae in Aegypto nascitur. <hi rend="italics"><hi rend="caps">colocasia</hi> hanc herbam videri vult in 
 							honorem Augusti crevisse: quae Romae post devictam ab eo Aegyptum 
 							innotuit. et dicendo 'fundet' abundantiam floris ostendit.</hi> 
@@ -2448,7 +2447,7 @@
 					
 					<p><hi rend="caps">et fallax herba veneni</hi> non cicutam dicit, quae omni-
 						bus nota est, sed illam Sardoam, quae apiastri similis homines de-
-						cipit: vel aconita ut &quot;nec miseros fallunt aconita legentes&quot;. 
+						cipit: vel aconita ut "nec miseros fallunt aconita legentes". 
 						<hi rend="italics">ordo autem est herba veneni &dagger;alia qui. 'fallax' ergo aut fallens viden-
 							tes, aut fallentis veneni.</hi> 
 					</p>
@@ -2553,9 +2552,9 @@
 				<div2 type="commline" n="37">
 					
 					<p><hi rend="italics"><hi rend="caps">te fecerit aetas</hi> 'aetas' hoc loco modum annorum significat, 
-						ut &quot;aetas Lucinam iustosque pati hymenaeos&quot;, nam subdidit &quot;de-
-						sinit ante decem, post quattuor incipit annos&quot;; alias pro tem-
-						pore posita, ut &quot;veniet lustris labentibus aetas&quot;.</hi> 
+						ut "aetas Lucinam iustosque pati hymenaeos", nam subdidit "de-
+						sinit ante decem, post quattuor incipit annos"; alias pro tem-
+						pore posita, ut "veniet lustris labentibus aetas".</hi> 
 					</p>
 				</div2>
 				
@@ -2582,7 +2581,7 @@
 						si hoc animal miro et insolito colore fuerit infectum, omnium rerum 
 						felicitatem imperatori portendi. 'ipse' autem quod addidit, non vacat: 
 						nam sunt quaedam pronomina, quae addita nominibus faciunt digni-
-						tatem, ut &quot;ipse modo Aeneas&quot; et &quot;Turnus ego&quot;. sane in Numae le- <pb/> 
+						tatem, ut "ipse modo Aeneas" et "Turnus ego". sane in Numae le- <pb/> 
 						gibus cautum est, ut, siquis inprudens occidisset hominem, pro capite 
 						occisi agnatis eius in cautione offerret arietem. ergo hic bene videtur 
 						arieti dignitatem dare dicendo 'ipse', qui oblatus homicidam crimine 
@@ -2615,8 +2614,8 @@
 				<div2 type="commline" n="47">
 					
 					<p><hi rend="caps">concordes stabili f. n. p.</hi> nam et quod una dixerit, 
-						duae sequuntur, et fixa sunt statuta fatorum: Horatius &quot;quod semel 
-						dictum est stabilisque rerum terminus servet&quot;. 
+						duae sequuntur, et fixa sunt statuta fatorum: Horatius "quod semel 
+						dictum est stabilisque rerum terminus servet". 
 					</p>
 				</div2>
 				
@@ -2626,8 +2625,8 @@
 						bucolico congruit carmini. <hi rend="italics">sane Iovem merito puerorum dicunt in-
 							crementa curare, quia cum pueri togam virilem sumpserint, ad Capito-
 							lium eunt. nam et in <hi rend="caps">viiii.</hi> Ascanius in Numanum intendens 
-							sagittam, Iovem magis invocavit &quot;Iuppiter omnipotens, audacibus 
-							annue coeptis&quot;.</hi> <pb/> 
+							sagittam, Iovem magis invocavit "Iuppiter omnipotens, audacibus 
+							annue coeptis".</hi> <pb/> 
 					</p>
 				</div2>
 				
@@ -2666,7 +2665,7 @@
 				<div2 type="commline" n="57">
 					
 					<p><hi rend="caps">lino</hi> Linus cum nomen hominis dicimus, 'Li' brevis est: 
-						Statius &quot;medio Linus intertextus acantho&quot;; cum <hi rend="italics">autem</hi> linum 
+						Statius "medio Linus intertextus acantho"; cum <hi rend="italics">autem</hi> linum 
 						dicimus, filum significantes, 'li' longa est, cum producatur apud 
 						Graecos. <hi rend="italics">Linus Apollinis et Psamathes filius, qui theologiam scribit. 
 							<hi rend="caps">calliopea</hi> graeca declinatio. <hi rend="caps">adsint</hi> pro 'faveant'.</hi> 
@@ -2704,8 +2703,8 @@
 						spretus ab ea est: unde divinos honores non meruit, ad quos <hi rend="italics">aut</hi> 
 						per convivium numinum, aut per coniunctionem venitur dearum. 
 						hinc est, quod Iunoni agit in primo Aeolus gratias, quod per 
-						eius beneficia divinos honores meruit, ut &quot;tu das epulis accum-
-						bere divum&quot;. <hi rend="italics">alii dicunt, quod cum Vulcanus parentes suos diu quae-
+						eius beneficia divinos honores meruit, ut "tu das epulis accum-
+						bere divum". <hi rend="italics">alii dicunt, quod cum Vulcanus parentes suos diu quae-
 							reret nec inveniret, sedile fecit tale, ut in eo qui sedisset surgere non 
 							posset. in quo cum adsedisset Iuno nec posset exsurgere, Vulcanus ne-
 							gavit se soluturum omnino, nisi prius parentes suos sibi monstrasset: 
@@ -2734,8 +2733,8 @@
 					<p><hi rend="italics"><hi rend="caps">tu calamos inflare leves ego dicere versus</hi> aut 'calamos 
 						leves', aut 'leves versus', id est subtiles; sed melius est 'calamos leves'. 
 						'boni dicere' autem graecum est <foreign lang="greek">i(kano\s le/gein.</foreign> 'dicere' sane pro 'ca-
-						nere', ut &quot;Dianam tenerae dicite virgines&quot;: ponitur et pro 'nominare', 
-						ut &quot;Italiam dixisse ducis de nomine gentem&quot;.</hi> 
+						nere', ut "Dianam tenerae dicite virgines": ponitur et pro 'nominare', 
+						ut "Italiam dixisse ducis de nomine gentem".</hi> 
 					</p>
 				</div2>
 				
@@ -2764,10 +2763,10 @@
 						ipse etiam dicit 'zephyris motantibus <hi rend="italics">umbras</hi>'. <hi rend="italics">sane 'succedimus' et 
 							dativo et accusativo casibus, secutus tam veterem quam nostram con-
 							suetudinem suo more iungit 'sive umbras succedimus sive antro', cum 
-							alibi secutus tantum antiquos dativo tantum succedere iunxerit: &quot;ac no-
-							stris succede penatibus&quot; et &quot;successitque gemens stabulis&quot;. Sal-
+							alibi secutus tantum antiquos dativo tantum succedere iunxerit: "ac no-
+							stris succede penatibus" et "successitque gemens stabulis". Sal-
 							lustius tamen 'succedere' accusativo iunxit, sed ubi 'prope' significat: 
-							&quot;cum murum hostium successisset, poenas dederat&quot;, hoc est cum 
+							"cum murum hostium successisset, poenas dederat", hoc est cum 
 							prope murum accessisset. 'succedere' autem idem significat quod et 
 							'subire', id est penitus intrare.</hi> 
 					</p>
@@ -2792,7 +2791,7 @@
 					<p><hi rend="caps">quid si idem certet ph. s. c.</hi> offensus comparatione in- <pb/> 
 						ferioris hoc dixit, licet non amare Menalcas dixerit 'solus tibi cer-
 						tat Amyntas': quod tamen quia hic aspere accepit, ille paulo post 
-						curat, dicens &quot;lenta salix quantum pallenti cedit olivae&quot;. 
+						curat, dicens "lenta salix quantum pallenti cedit olivae". 
 					</p>
 				</div2>
 				
@@ -2841,9 +2840,9 @@
 						terna' autem varia, propter musicam, cuius sonus varius invenitur 
 						ex pedum dissimilitudine. significat autem cantaturum se epicedion 
 						et epitaphion: nam epicedion est, quod dicitur cadavere nondum 
-						sepulto, ut &quot;extinctum nymphae crudeli funere Daphnin&quot;; 
-						epitaphion autem post completam sepulturam dicitur, ut &quot;Da-
-						phnis ego in silvis hinc usque ad sidera notus&quot;. 
+						sepulto, ut "extinctum nymphae crudeli funere Daphnin"; 
+						epitaphion autem post completam sepulturam dicitur, ut "Da-
+						phnis ego in silvis hinc usque ad sidera notus". 
 					</p>
 				</div2>
 				
@@ -2870,8 +2869,8 @@
 				
 				<div2 type="commline" n="19">
 					
-					<p><hi rend="italics"><hi rend="caps">desine</hi> omitte, ut &quot;desine Maenalios&quot;. Sallustius 
-						&quot;bellum quibus posset condicionibus desineret&quot;.</hi> 
+					<p><hi rend="italics"><hi rend="caps">desine</hi> omitte, ut "desine Maenalios". Sallustius 
+						"bellum quibus posset condicionibus desineret".</hi> 
 					</p>
 				</div2>
 				
@@ -2894,8 +2893,8 @@
 							per matrem Venerem accipiunt, per leones et tigres populos quos sub-
 							egit, per thiasos sacra quae pontifex instituit, per formosum pecus po-
 							pulum Romanum.</hi> alii volunt Quintilium Varum significari, cogna-
-						tum Vergilii, de quo etiam Horatius &quot;ergo Quintilium perpetuus 
-						sopor urget&quot;. tamen 'crudeli funere' ad quemvis potest referri. 
+						tum Vergilii, de quo etiam Horatius "ergo Quintilium perpetuus 
+						sopor urget". tamen 'crudeli funere' ad quemvis potest referri. 
 					</p>
 				</div2>
 				
@@ -2912,8 +2911,8 @@
 						'testes flumina' non dicimus: quae enim in 'is' exeunt, neutrum in 
 						'e' mittunt, ut 'agilis agile', sed nec 'hoc teste' nec 'haec testia' 
 						possumus dicere. unde per definitionem debemus dicere: testes mihi 
-						sunt; quae res? coryli et flumina: sic Horatius &quot;testis Metaurum 
-						flumen&quot;, Propertius &quot;testes sunt sidera nobis&quot;. 
+						sunt; quae res? coryli et flumina: sic Horatius "testis Metaurum 
+						flumen", Propertius "testes sunt sidera nobis". 
 					</p>
 				</div2>
 				
@@ -2932,7 +2931,7 @@
 				<div2 type="commline" n="25">
 					
 					<p><hi rend="caps">nulla quadrupes</hi> 'hic' et 'haec quadrupes' dicimus, <hi rend="italics">ut 
-						ipse</hi> alibi &quot;saucius at quadrupes nota intra tecta refugit&quot;. 
+						ipse</hi> alibi "saucius at quadrupes nota intra tecta refugit". 
 					</p>
 				</div2>
 				
@@ -2984,8 +2983,8 @@
 					<p><hi rend="caps">grandia hordea</hi> usurpative metri causa dixit: nam 'tri-
 						ticum', 'hordeum', 'vinum', 'mel' numeri tantum singularis sunt, 
 						unde plurali in prosa uti non possumus; 'vina' tamen possumus 
-						dicere Ciceronis exemplo, qui ait in praetura &quot;vina cete-
-						raque, quae in Asia facile comparantur&quot;. 
+						dicere Ciceronis exemplo, qui ait in praetura "vina cete-
+						raque, quae in Asia facile comparantur". 
 					</p>
 				</div2>
 				
@@ -3014,20 +3013,20 @@
 				
 				<div2 type="commline" n="40">
 					
-					<p><hi rend="caps">spargite</hi> <hi rend="italics"><hi rend="caps">humum foliis</hi> id est</hi> implete, ut &quot;spargitur et 
-						tellus lacrimis, <hi rend="italics">sparguntur et arma&quot;</hi>. et dicit ornandum esse 
+					<p><hi rend="caps">spargite</hi> <hi rend="italics"><hi rend="caps">humum foliis</hi> id est</hi> implete, ut "spargitur et 
+						tellus lacrimis, <hi rend="italics">sparguntur et arma"</hi>. et dicit ornandum esse 
 						locum sepulchri ex voluntate defuncti. <hi rend="caps">inducite fontibus umbras</hi> facite nemora circa fontes: et hoc ideo, quia, ut diximus, he-
-						roum animae habitant vel in fontibus vel in nemoribus, ut &quot;lucis 
+						roum animae habitant vel in fontibus vel in nemoribus, ut "lucis 
 						habitamus opacis riparumque toros et prata recentia rivis 
-						incolimus&quot;. 
+						incolimus". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="42">
 					
 					<p><hi rend="caps">superaddite carmen</hi> duos versus carmen vocavit: nec 
-						mirum, cum etiam de uno carmen dixerit, ut &quot;et rem carmine 
-						signo: Aeneas haec de Danais victoribus arma&quot;. 
+						mirum, cum etiam de uno carmen dixerit, ut "et rem carmine 
+						signo: Aeneas haec de Danais victoribus arma". 
 					</p>
 				</div2>
 				
@@ -3054,8 +3053,8 @@
 				
 				<div2 type="commline" n="46">
 					
-					<p><hi rend="caps">quale sopor fessis</hi> qualis res, <hi rend="italics">ut &quot;dulce satis 
-						umor&quot;</hi>. 
+					<p><hi rend="caps">quale sopor fessis</hi> qualis res, <hi rend="italics">ut "dulce satis 
+						umor"</hi>. 
 					</p>
 				</div2>
 				
@@ -3112,9 +3111,9 @@
 					
 					<p><hi rend="caps">candidus</hi> id est deus, unde contra nigros mortuos dici-
 						mus. significat etiam benignos et bonos, sicut contra malos nigros 
-						dicimus: Horatius &quot;hic niger est, hunc tu Romane caveto&quot;. <hi rend="italics">saepe 
-							tamen candidum pro pulchro ponit, ut &quot;candida Dido&quot; et &quot;candida 
-							Maia&quot;. <hi rend="caps">insuetum miratur l. o.</hi> quasi novus deus. et quibusdam 
+						dicimus: Horatius "hic niger est, hunc tu Romane caveto". <hi rend="italics">saepe 
+							tamen candidum pro pulchro ponit, ut "candida Dido" et "candida 
+							Maia". <hi rend="caps">insuetum miratur l. o.</hi> quasi novus deus. et quibusdam 
 							videtur per allegoriam Caesarem dicere, qui primus divinos honores 
 							meruit et divus appellatus est.</hi> 
 					</p>
@@ -3133,12 +3132,12 @@
 				<div2 type="commline" n="58">
 					
 					<p><hi rend="caps">ergo alacris silvas</hi> omnia tenet voluptas, quae superius 
-						occupaverat maeror, ut &quot;ipsa Pales agros atque ipse re- <pb/> 
-						liquit Apollo&quot;. <hi rend="italics">antiqui autem 'ergo' pro 'merito' dicebant, sicut hic 
-							accipitur: Plautus in Persa &quot;satin tu usque valuisti? haud 
-							probe. ergo edepol palles&quot;, item in Milite &quot;hicine Achil-
+						occupaverat maeror, ut "ipsa Pales agros atque ipse re- <pb/> 
+						liquit Apollo". <hi rend="italics">antiqui autem 'ergo' pro 'merito' dicebant, sicut hic 
+							accipitur: Plautus in Persa "satin tu usque valuisti? haud 
+							probe. ergo edepol palles", item in Milite "hicine Achil-
 							les est, inquit mihi: immo eius frater, inquam, est. ergo me-
-							castor pulcher&quot;.</hi> 
+							castor pulcher".</hi> 
 					</p>
 				</div2>
 				
@@ -3176,8 +3175,8 @@
 					<p><hi rend="caps">sis bonus o felixque tuis</hi> pastoribus, si Daphnin acci-
 						pimus; si Caesarem, bene ait 'tuis': suis enim percussoribus nocen-
 						tissimus fuerat: nam Augustus, eius filius, omnes est persecutus. 
-						'felix' autem propitius, ut &quot;sis felix nostrumque leves, quae-
-						cumque, laborem&quot;, item econtra Iuno &quot;quae potui infelix&quot;, id 
+						'felix' autem propitius, ut "sis felix nostrumque leves, quae-
+						cumque, laborem", item econtra Iuno "quae potui infelix", id 
 						est irata: deos enim <hi rend="italics">vel</hi> felices vel infelices ex rebus, quas prae-
 						stant, vocamus. 
 					</p>
@@ -3193,7 +3192,7 @@
 						licet eum dixerit deum, tamen mortalem fuisse manifestum est. 
 						sane quaeritur, cur duo altaria Apollini se positurum dicat, cum <pb/> 
 						constet supernos deos impari gaudere numero, infernos vero pari, 
-						ut &quot;numero deus impare gaudet&quot;, quod etiam ponti-
+						ut "numero deus impare gaudet", quod etiam ponti-
 						ficales indicant libri. sed constat secundum Porphyrii librum, quem 
 						Solem appellavit, triplicem esse Apollinis potestatem, et eundem 
 						esse Solem apud superos, Liberum patrem in terris, Apollinem 
@@ -3202,13 +3201,13 @@
 						grypem, quae eum etiam terrenum numen ostendit; sagittas, quibus 
 						infernus deus et noxius indicatur, unde etiam Apollo dictus est 
 						<foreign lang="greek">a)po\ tou= a)pollu/ein.</foreign> hinc est quod et Homerus eundem tam pesti-
-						lentiae dicit quam salutis auctorem, et Horatius ait &quot;condito mi-
-						tis placidusque telo supplices audi pueros, Apollo&quot;: unde 
+						lentiae dicit quam salutis auctorem, et Horatius ait "condito mi-
+						tis placidusque telo supplices audi pueros, Apollo": unde 
 						Vergilius, rationis huius peritus, per altaria supernum numen 
 						ostendit, per parem numerum infernam indicat potestatem. <hi rend="italics">Varro 
 							diis superis altaria, terrestribus aras, inferis focos dicari adfirmat. alii 
-							'altaria' eminentia ararum et ipsa libamina, ut &quot;paterisque altaria 
-							libant&quot;.</hi> 
+							'altaria' eminentia ararum et ipsa libamina, ut "paterisque altaria 
+							libant".</hi> 
 					</p>
 				</div2>
 				
@@ -3221,8 +3220,8 @@
 				
 				<div2 type="commline" n="68">
 					
-					<p><hi rend="italics"><hi rend="caps">duo</hi> vetuste dixit, ut 'ambo': &quot;nam saepe senex 
-						spe carminis ambo luserat&quot;: nam hodie hoc significatu 'duos' et 
+					<p><hi rend="italics"><hi rend="caps">duo</hi> vetuste dixit, ut 'ambo': "nam saepe senex 
+						spe carminis ambo luserat": nam hodie hoc significatu 'duos' et 
 						'ambos' dicimus.</hi> <hi rend="caps">pingvis olivi</hi> quod Graeci <foreign lang="greek">lipe/laion</foreign> dicunt. <hi rend="italics">et 
 							'olivi' et 'olei', nam et 'olea' et 'oliva' dicitur.</hi> 
 					</p>
@@ -3250,13 +3249,13 @@
 						dulcedo. <hi rend="caps">ariusia</hi> autem Chia, a promuntorio Chii insulae Ariusio. 
 						<hi rend="italics">vel illud 'vina Ariusia, novum nectar, calathis fundam'. alii novum 
 							mustum intellegunt, vel merum, quale numquam habuerit, ut 
-							&quot;Pollio et ipse facit nova carmina&quot;.</hi> 
+							"Pollio et ipse facit nova carmina".</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="72">
 					
-					<p><hi rend="caps">lyctius aegon</hi> Cretensis, ut &quot;Lyctius Idomeneus&quot;. 
+					<p><hi rend="caps">lyctius aegon</hi> Cretensis, ut "Lyctius Idomeneus". 
 					</p>
 				</div2>
 				
@@ -3272,16 +3271,16 @@
 				
 				<div2 type="commline" n="75">
 					
-					<p><hi rend="caps">et cum lustrabimus agros</hi> sic supra &quot;cum fa-
-						ciam vitulam pro frugibus&quot;. <hi rend="italics">'lustrare' hic circuire: dicit enim 
+					<p><hi rend="caps">et cum lustrabimus agros</hi> sic supra "cum fa-
+						ciam vitulam pro frugibus". <hi rend="italics">'lustrare' hic circuire: dicit enim 
 							ambarvale sacrificium.</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="76">
 					
-					<p><hi rend="caps">dum iuga montis aper</hi> sicut in &quot;freta dum fluvii cur-
-						rent&quot;, (id est) semper: et futurum et praeteritum significat. 
+					<p><hi rend="caps">dum iuga montis aper</hi> sicut in "freta dum fluvii cur-
+						rent", (id est) semper: et futurum et praeteritum significat. 
 					</p>
 				</div2>
 				
@@ -3289,8 +3288,8 @@
 					
 					<p><hi rend="caps">ut baccho cererique</hi> haec enim duo sunt numina, quae 
 						et rustici maxime colunt et quorum munera communia sunt mor-
-						talibus cunctis: sic in georgicis &quot;vestro si munere tellus 
-						Chaoniam pingui glandem mutavit arista&quot;. 
+						talibus cunctis: sic in georgicis "vestro si munere tellus 
+						Chaoniam pingui glandem mutavit arista". 
 					</p>
 				</div2>
 				
@@ -3314,9 +3313,9 @@
 					
 					<p><hi rend="italics"><hi rend="caps">nam neque tantum</hi> quaedam per comparationem laudata ma-
 						iorem emphasin habent, si negatio activa a parte orationis incipiat, ut 
-						&quot;non sic aggeribus ruptis cum spumeus amnis exit&quot;, et &quot;nec sic <pb/> 
-						immissis aurigae undantia lora&quot;.</hi> <hi rend="caps">sibilus</hi> hic sibilus res ipsa: 
-						nam &quot;sibila ora&quot; participialiter dictum est pro 'sibilantia'. 
+						"non sic aggeribus ruptis cum spumeus amnis exit", et "nec sic <pb/> 
+						immissis aurigae undantia lora".</hi> <hi rend="caps">sibilus</hi> hic sibilus res ipsa: 
+						nam "sibila ora" participialiter dictum est pro 'sibilantia'. 
 					</p>
 				</div2>
 				
@@ -3324,7 +3323,7 @@
 					
 					<p><hi rend="caps">hac te nos fragili donabimus a. c.</hi> bene anticipat et 
 						offert munus, quod ille se facturum esse promiserat. <hi rend="italics"><hi rend="caps">cicuta</hi> fi-
-							stula, ut &quot;septem conpacta cicutis&quot;. et fistulae qualitatem 
+							stula, ut "septem conpacta cicutis". et fistulae qualitatem 
 							per principia eclogarum ostendit, ut 'haec nos, formosum Corydon arde-
 							bat Alexin'.</hi> 
 					</p>
@@ -3364,19 +3363,19 @@
 					<p><hi rend="italics"><hi rend="caps">prima syracosio</hi> character mixtus; nam et poeta praefatur et 
 						cantare Silenus inducitur. <hi rend="caps">syracosio</hi> quia Theocritum praecipue 
 						sequitur, quamvis multi alii bucolica scripserint. <hi rend="caps">ludere versv</hi> ut 
-						ipse ait &quot;carmina qui lusi pastorum&quot;.</hi> <hi rend="caps">prima syracosio dignata est l. v. nostra</hi> Romana, inquit, musa non erubuit se 
+						ipse ait "carmina qui lusi pastorum".</hi> <hi rend="caps">prima syracosio dignata est l. v. nostra</hi> Romana, inquit, musa non erubuit se 
 						silvis ante committere, id est imitari Theocritum Syracusanum et 
 						bucolica scribere. 'Syracosio' autem graece ait: nam latine 'Syra-
-						cusanus' dicimus. 'nostra', id est Romana, ut &quot;tu quoque litori- <pb/> 
-						bus nostris&quot;. et 'dignata est' sic dixit, quasi ex loco superiore. 
+						cusanus' dicimus. 'nostra', id est Romana, ut "tu quoque litori- <pb/> 
+						bus nostris". et 'dignata est' sic dixit, quasi ex loco superiore. 
 						<hi rend="italics">ostendit ergo se primum post Theocritum bucolica scripsisse.</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="2">
 					
-					<p><hi rend="caps">silvas habitare</hi> sicut &quot;atque humiles habitare 
-						casas&quot;. <hi rend="caps">thalia</hi> musa scilicet. et graece ait: nam latine 'Thalea' 
+					<p><hi rend="caps">silvas habitare</hi> sicut "atque humiles habitare 
+						casas". <hi rend="caps">thalia</hi> musa scilicet. et graece ait: nam latine 'Thalea' 
 						debuit dicere, sicut <foreign lang="greek">*kuqe/reia</foreign> Cytherea; sed propter euphoniam 
 						contempsit ius regulae et ideo in graecitate permansit. 
 					</p>
@@ -3389,7 +3388,7 @@
 						omisit nominum asperitate deterritus. <hi rend="italics">alii Scyllam eum scribere 
 							coepisse dicunt, in quo libro Nisi et Minois, regis Cretensium, bellum 
 							describebat; alii de bellis civilibus dicunt; alii de tragoedia Thyestis.</hi> 
-						<hi rend="caps">cynthius</hi> Apollo a Cyntho monte Deli, in quo natus est. <hi rend="caps">aurem vellit</hi> id est movit: alibi &quot;postesque a cardine vellit&quot;. 'aurem' 
+						<hi rend="caps">cynthius</hi> Apollo a Cyntho monte Deli, in quo natus est. <hi rend="caps">aurem vellit</hi> id est movit: alibi "postesque a cardine vellit". 'aurem' 
 						autem ideo, quia memoriae consecrate est, ut frons Genio, digiti 
 						Minervae, genua Misericordiae. 
 					</p>
@@ -3431,14 +3430,14 @@
 				<div2 type="commline" n="7">
 					
 					<p><hi rend="caps">tristia condere bella</hi> epitheton bellorum perpetuum. 
-						<hi rend="italics"><hi rend="caps">condere</hi> conponere, ut e contrario &quot;incondita&quot;.</hi> 
+						<hi rend="italics"><hi rend="caps">condere</hi> conponere, ut e contrario "incondita".</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="9">
 					
 					<p><hi rend="caps">non iniussa cano</hi> vel ab Apolline, vel ab Augusto, <hi rend="italics">vel a 
-						Maecenate, (ut) te &quot;sine nil altum mens inchoat&quot;. et hoc ideo, quia 
+						Maecenate, (ut) te "sine nil altum mens inchoat". et hoc ideo, quia 
 						dixerat 'aurem vellit'.</hi> <hi rend="caps">haec quoque</hi> videlicet vilia, sicut Theo-
 						criti. et hoc dicit: si quis, licet rustica, legere fuerit ista dignatus, 
 						tuas tamen in his laudes inveniet; nam per myricas et nemora bu-
@@ -3455,7 +3454,7 @@
 						eam postea Cytheris <hi rend="italics">meretrix</hi> cantasset in theatro, quam in fine 
 						Lycoridem vocat, stupefactus Cicero, cuius esset, requireret. et cum 
 						eum tandem aliquando vidisset, dixisse dicitur et ad suam et ad 
-						illius laudem &quot;magnae spes altera Romae&quot;: quod iste postea ad 
+						illius laudem "magnae spes altera Romae": quod iste postea ad 
 						Ascanium transtulit, sicut commentatores loquuntur. 
 					</p>
 				</div2>
@@ -3502,7 +3501,7 @@
 					
 					<p><hi rend="caps">serta procul</hi> modo 'prope', <hi rend="italics">id est iuxta</hi>: nam <hi rend="italics">ideo</hi> intu-
 						lit 'tantum capiti delapsa', ut ostenderet non longius provolutam 
-						coronam, <hi rend="italics">ut est &quot;procul aerea ramo dependet galea&quot;</hi>. 
+						coronam, <hi rend="italics">ut est "procul aerea ramo dependet galea"</hi>. 
 					</p>
 				</div2>
 				
@@ -3517,15 +3516,15 @@
 					
 					<p><hi rend="italics"><hi rend="caps">adgressi</hi> ordo est, Chromis et Mnasylus adgressi Silenum; 
 						nam luserat ambo spe carminis. et 'spe' pollicitatione. item alius ordo 
-						'adgressi spe carminis iniciunt ipsis ex vincula sertis'. <hi rend="caps">carminis ambo</hi> vetuste, ut alibi &quot;verum ubi ductores acie revocaveris ambo&quot; 
-						et &quot;eminus ambo Imbrasidas&quot;, ut &quot;craterasque duo sta-
-						tuam&quot;, cum hodie sub eadem significatione 'ambos' et 'duos' dicamus.</hi> 
+						'adgressi spe carminis iniciunt ipsis ex vincula sertis'. <hi rend="caps">carminis ambo</hi> vetuste, ut alibi "verum ubi ductores acie revocaveris ambo" 
+						et "eminus ambo Imbrasidas", ut "craterasque duo sta-
+						tuam", cum hodie sub eadem significatione 'ambos' et 'duos' dicamus.</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="19">
 					
-					<p><hi rend="caps">ipsis ex</hi> ex ipsis, ut &quot;transtra per et remos&quot;, id est per 
+					<p><hi rend="caps">ipsis ex</hi> ex ipsis, ut "transtra per et remos", id est per 
 						transtra. 
 					</p>
 				</div2>
@@ -3615,8 +3614,8 @@
 					<p><hi rend="caps">rhodope et ismarus</hi> montes Thraciae, in quibus Orpheus 
 						consueverat canere. et hoc dicit: non tantum isti montes gaudent 
 						cantante Apolline vel Orpheo, quantum cantante Sileno laetatus 
-						est mundus: namque etiam paulo post dicturus est &quot;et invito 
-						processit Vesper Olympo&quot;. 
+						est mundus: namque etiam paulo post dicturus est "et invito 
+						processit Vesper Olympo". 
 					</p>
 				</div2>
 				
@@ -3625,9 +3624,9 @@
 					<p><hi rend="caps">namque canebat uti magnum per inane coacta semina</hi> 
 						variae sunt philosophorum opiniones de rerum origine: nam alii 
 						dicunt omnia ex igne procreari, ut Anaxagoras; alii ex umore, ut 
-						Thales Milesius, unde est &quot;Oceanumque patrem&quot;; alii ex quattuor 
+						Thales Milesius, unde est "Oceanumque patrem"; alii ex quattuor 
 						elementis, ut Empedocles, secundum quem ait Lucretius 
-						&quot;ex imbri, terra atque anima nascuntur et igni&quot;. Epicurei 
+						"ex imbri, terra atque anima nascuntur et igni". Epicurei 
 						vero, quos nunc sequitur, nihil horum comprobant, sed dicunt duo 
 						esse rerum principia, corpus et inane: omne enim quod est, aut 
 						continet aut continetur. et corpus volunt esse atomos, id est quas-
@@ -3659,8 +3658,8 @@
 				<div2 type="commline" n="33">
 					
 					<p><hi rend="caps">et liqvidi simul ignis</hi> puri, id est aetheris, <hi rend="italics">quem Cicero 
-						&quot;ignitum liquorem&quot; dicit; Lucretius &quot;devolet in terram 
-						liquidi color aureus ignis&quot;</hi>. <hi rend="italics"><hi rend="caps">ut his exordia</hi> ex seminibus, hoc 
+						"ignitum liquorem" dicit; Lucretius "devolet in terram 
+						liquidi color aureus ignis"</hi>. <hi rend="italics"><hi rend="caps">ut his exordia</hi> ex seminibus, hoc 
 							est atomis. <hi rend="caps">primis</hi> pro 'principiis': quae enim Graeci <foreign lang="greek">stoixei=a,</foreign> nos 
 							principia appellamus.</hi> 
 					</p>
@@ -3706,8 +3705,8 @@
 					<p><hi rend="italics"><hi rend="caps">altius atque cadant s. n. i.</hi></hi> quemadmodum cadant imbres 
 						nubibus in altum levatis: naturale enim est, ut nubes cum coepe-
 						rint soli esse vicinae, eius calore solvantur in pluvias: unde et in <pb/> 
-						georgicis ait de signis serenitatis &quot;at nebulae magis ima 
-						petunt&quot;. bonum sane secutus est ordinem, ut post solis et pluvia-
+						georgicis ait de signis serenitatis "at nebulae magis ima 
+						petunt". bonum sane secutus est ordinem, ut post solis et pluvia-
 						rum commemorationem diceret, ortas silvas et animalia cuncta 
 						procreata. 
 					</p>
@@ -3727,7 +3726,7 @@
 						cuream, quae rebus seriis semper inserit voluptates; aut fabulis 
 						plenis admirationis puerorum corda mulceri: nam fabulae causa de-
 						lectationis inventae sunt, ut ipse etiam in georgicis docet dicens 
-						&quot;cetera quae vacuas tenuissent carmina mentes&quot;. 
+						"cetera quae vacuas tenuissent carmina mentes". 
 						<hi rend="italics">sane fabula talis est: Iuppiter cum perosum haberet propter feritatem 
 							gigantum genus humanum, scilicet quod ex illorum sanguine editi erant 
 							mortales, diluvio inundavit terras omnesque homines necavit, exceptis 
@@ -3758,8 +3757,8 @@
 						adhibita facula ad rotam Solis ignem furatus, quem hominibus in-
 						dicavit. ob quam causam irati dii duo mala inmiserunt terris, mu-
 						lieres et morbos, sicut et Sappho et Hesiodus memorant. quod 
-						tangit etiam Horatius dicens &quot;post ignem aetheria domo sub-
-						ductum macies et nova febrium terris incubuit cohors&quot;. 
+						tangit etiam Horatius dicens "post ignem aetheria domo sub-
+						ductum macies et nova febrium terris incubuit cohors". 
 						ipsum etiam Prometheum per Mercurium in monte Caucaso religa-
 						verunt ad saxum, et adhibita est aquila, quae eius cor exederet. 
 						haec autem omnia non sine ratione finguntur: nam Prometheus vir 
@@ -3828,7 +3827,7 @@
 						quod amat taurum, fortunae magis videatur esse, quam morum. 
 						virgo autem, ut diximus supra, a viridiore aetate; nam 
 						iam mater fuerat Phaedrae, Ariadnes <hi rend="italics">et</hi> Androgei. <hi rend="italics">Calvus in Io 
-							&quot;a virgo infelix, herbis pasceris amaris&quot;. quidam 'virgo' non 
+							"a virgo infelix, herbis pasceris amaris". quidam 'virgo' non 
 							quod virum illo tempore non haberet, sed quia talis ei poena iam vir-
 							gini destinata sit, intellegunt, ob iram scilicet Veneris, quae irata Soli, 
 							quod se, ut quidam volunt, Anchisae, ut alii, Marti coniunctam pro-
@@ -3864,7 +3863,7 @@
 				
 				<div2 type="commline" n="50">
 					
-					<p><hi rend="italics"><hi rend="caps">collo timvisset aratrum</hi> Terentius &quot;Syre tibi timuit&quot;.</hi> 
+					<p><hi rend="italics"><hi rend="caps">collo timvisset aratrum</hi> Terentius "Syre tibi timuit".</hi> 
 					</p>
 				</div2>
 				
@@ -3877,8 +3876,8 @@
 				<div2 type="commline" n="53">
 					
 					<p><hi rend="italics"><hi rend="caps">ille latus niveum</hi> quis eam amare non intellegat. <hi rend="caps">fultus hyacintho</hi> apud veteres unusquisque eo, super quod iacebat, 'ful-
-						tus' dicebatur: Lucilius in tertio &quot;et pulvino fultus&quot;, Vergilius &quot;atque 
-						harum effultus tergo stratisque iacebat velleribus&quot;.</hi> 
+						tus' dicebatur: Lucilius in tertio "et pulvino fultus", Vergilius "atque 
+						harum effultus tergo stratisque iacebat velleribus".</hi> 
 					</p>
 				</div2>
 				
@@ -3886,7 +3885,7 @@
 					
 					<p><hi rend="caps">ilice sub nigra</hi> vel umbrosa, vel re vera 'nigra': nam 
 						talis est. <hi rend="caps">pallentes ruminat herbas</hi> revomit et denuo consu-
-						mit: <hi rend="italics">&quot;atque iterum pasto pascitur ante cibo&quot;, sic Ovidius.</hi> rumi-
+						mit: <hi rend="italics">"atque iterum pasto pascitur ante cibo", sic Ovidius.</hi> rumi-
 						natio autem dicta est a rumine, eminente gutturis parte, per quam 
 						demissus cibus a certis revocatur animalibus. 'pallentis' autem vel 
 						aridas, vel quae ventris calore propria viriditate caruerunt. 
@@ -3899,8 +3898,8 @@
 						cam:</hi> ac si diceret, habes aliquid spei, siquidem novit amare, quem 
 						diligis. notandum autem 'gregem' eum de bubus dixisse, cum <hi rend="italics">pro-
 							prie</hi> armenta dicamus, licet grex sit quorumlibet animalium con-
-						gregatio: sic Cicero in Philippicis &quot;fudit apothecas&quot;, 
-						&quot;cecidit greges armentorum&quot;. <hi rend="caps">claudite nymphae</hi> melius hoc 
+						gregatio: sic Cicero in Philippicis "fudit apothecas", 
+						"cecidit greges armentorum". <hi rend="caps">claudite nymphae</hi> melius hoc 
 						a persona Pasiphaes dictum accipimus, ut dicat Silenus, hoc illam 
 						aliquando dixisse. <pb/> 
 					</p>
@@ -3925,10 +3924,10 @@
 					<p><hi rend="caps">errabunda bovis vestigia</hi> illud expressit, quod uno 
 						verbo Homerus ait <foreign lang="greek">ei)li/podas bou=s,</foreign> hoc est flexis pedibus inceden-
 						tes. <hi rend="italics">et est participium prope contra rationem figuratum: [vel] 'erra-
-							bunda' errantia, ut 'ludibundus' ludens: Cicero &quot;omnia ludibundus 
-							conficiens&quot;. <hi rend="caps">nostris</hi> et hic 'nostris', ut Terentius in heautontimo-
-							rumeno &quot;quomodo minimo periculo id demus adu-
-							lescentulo&quot;, id est des.</hi> 
+							bunda' errantia, ut 'ludibundus' ludens: Cicero "omnia ludibundus 
+							conficiens". <hi rend="caps">nostris</hi> et hic 'nostris', ut Terentius in heautontimo-
+							rumeno "quomodo minimo periculo id demus adu-
+							lescentulo", id est des.</hi> 
 					</p>
 				</div2>
 				
@@ -3966,7 +3965,7 @@
 				
 				<div2 type="commline" n="63">
 					
-					<p><hi rend="caps">amarae corticis</hi> alibi ait &quot;raptus de subere cortex&quot;: 
+					<p><hi rend="caps">amarae corticis</hi> alibi ait "raptus de subere cortex": 
 						quod magis sequi debemus, ut masculino utamur. <hi rend="italics">et est epitheton 
 							naturale.</hi> 
 					</p>
@@ -3993,8 +3992,8 @@
 				
 				<div2 type="commline" n="66">
 					
-					<p><hi rend="italics"><hi rend="caps">viro</hi> Gallo. <hi rend="caps">phoebi chorus</hi> id est musae.</hi> <hi rend="caps">adsurrexerit</hi> honorem praebuerit, ut &quot;Tmolius adsurgit quibus et rex 
-						ipse Phanaeus&quot;, id est cedit. 
+					<p><hi rend="italics"><hi rend="caps">viro</hi> Gallo. <hi rend="caps">phoebi chorus</hi> id est musae.</hi> <hi rend="caps">adsurrexerit</hi> honorem praebuerit, ut "Tmolius adsurgit quibus et rex 
+						ipse Phanaeus", id est cedit. 
 					</p>
 				</div2>
 				
@@ -4020,8 +4019,8 @@
 				
 				<div2 type="commline" n="69">
 					
-					<p><hi rend="italics"><hi rend="caps">calamos</hi> pro fistula, ut &quot;nec calamis solum aequi-
-						peras&quot;.</hi> 
+					<p><hi rend="italics"><hi rend="caps">calamos</hi> pro fistula, ut "nec calamis solum aequi-
+						peras".</hi> 
 					</p>
 				</div2>
 				
@@ -4061,8 +4060,8 @@
 						arboris cuiusdam contenderent numero, stetit gloria Mopso: cuius 
 						rei dolore Calchas interiit. hoc autem Euphorionis continent car-
 						mina, quae Gallus transtulit in sermonem latinum: unde est illud 
-						in fine, ubi Gallus loquitur &quot;ibo et Chalcidico quae sunt 
-						mihi condita versu carmina&quot;; nam Chalcis civitas est Euboeae, 
+						in fine, ubi Gallus loquitur "ibo et Chalcidico quae sunt 
+						mihi condita versu carmina"; nam Chalcis civitas est Euboeae, 
 						de qua fuerat Euphorion. <hi rend="italics"><hi rend="caps">dicatur</hi> laudetur.</hi> 
 					</p>
 				</div2>
@@ -4099,16 +4098,16 @@
 						est formam: quae aves hodie, ut ipse in georgicis docet, 
 						flagrant inter se magna discordia. modo ergo Vergilius aut poeta-
 						rum more miscuit fabulas et nomen posuit pro nomine, ut diceret 
-						'Scyllam Nisi' pro 'Phorci'&mdash;sicut alibi &quot;domitus Pollucis ha-
-						benis Cyllarus&quot;, cum Castor equorum domitor fuerit; item &quot;et 
-						manibus Procne pectus signata cruentis&quot;, cum Philomelae, 
+						'Scyllam Nisi' pro 'Phorci'&mdash;sicut alibi "domitus Pollucis ha-
+						benis Cyllarus", cum Castor equorum domitor fuerit; item "et 
+						manibus Procne pectus signata cruentis", cum Philomelae, 
 						non Procnes, abscisa sit lingua&mdash;: aut certe sit hysteroproteron, 
 						ut quasi utriusque fabulae videatur facere commemorationem, ut 
 						intellegamus 'quid loquar Scyllam Nisi, aut quam fama secuta est, <pb/> 
 						candida succinctam latrantibus inguina monstris, Dulichias vexasse 
 						rates': aut certe 'aut' bis accipiamus 'quid loquar aut Scyllam 
-						Nisi, aut quam fama secuta est', ut est illud in primo &quot;non 
-						ignara mali miseris succurrere disco&quot;. 
+						Nisi, aut quam fama secuta est', ut est illud in primo "non 
+						ignara mali miseris succurrere disco". 
 					</p>
 				</div2>
 				
@@ -4122,10 +4121,10 @@
 						tisse. <hi rend="italics">'vexasse' est enim vis quaedam alieni arbitrii, non enim sui 
 							potens est, qui vehitur. bene ergo inclinatum verbum est; nam qui 
 							fertur et raptatur et huc atque illuc distrahitur 'vexari' proprie dici-
-							tur: Cato in oratione de Achaeis &quot;cumque Hannibal terram Ita-
-							liam laceraret atque vexaret&quot;, Cicero in Verrinis 
-							&quot;sed ut a barbaris praedonibus vexata esset&quot;, item 
-							&quot;di ablati, fana vexata, direptae urbes reperiuntur&quot;.</hi> 
+							tur: Cato in oratione de Achaeis "cumque Hannibal terram Ita-
+							liam laceraret atque vexaret", Cicero in Verrinis 
+							"sed ut a barbaris praedonibus vexata esset", item 
+							"di ablati, fana vexata, direptae urbes reperiuntur".</hi> 
 					</p>
 				</div2>
 				
@@ -4139,7 +4138,7 @@
 				<div2 type="commline" n="78">
 					
 					<p><hi rend="caps">terei</hi> pro 'Terei+': nam per synaeresin dictum est, sicut 
-						supra &quot;furtumque Promethei&quot; pro 'Promethei+'. Tereus autem 
+						supra "furtumque Promethei" pro 'Promethei+'. Tereus autem 
 						rex Thracum fuit, qui cum <hi rend="italics">Atheniensibus tulisset auxilium ac</hi> Pan-
 						dionis, Athenarum regis, filiam, Procnen nomine, duxisset uxorem 
 						et post aliquantum tempus ab ea rogaretur, ut sibi Philomelam <pb/> 
@@ -4227,7 +4226,7 @@
 					<p><hi rend="caps">forte sub arguta c. i. d.</hi> ecloga haec paene tota Theo-
 						criti est: nam et ipsam transtulit et multa ad eam de aliis con-
 						gessit. 'arguta' autem modo canora, stridula: alibi 'argutum' breve 
-						significat, ut &quot;argutumque caput&quot;. <hi rend="caps">daphnis</hi> divinum hunc in-
+						significat, ut "argutumque caput". <hi rend="caps">daphnis</hi> divinum hunc in-
 						ducit, quippe filium Mercurii, ut diximus supra: nam hinc 
 						est quod paulo post dicturus est 'caper tibi salvus et haedi', 
 						quasi divinus. 
@@ -4238,7 +4237,7 @@
 					
 					<p><hi rend="caps">compulerantque g.</hi> compellere proprie est in unum locum 
 						vel diversa vel diversorum animalia cogere: <hi rend="italics">Cicero in Pisonem 
-							&quot;omni pecore compulso&quot;</hi>. 
+							"omni pecore compulso"</hi>. 
 					</p>
 				</div2>
 				
@@ -4246,18 +4245,18 @@
 					
 					<p><hi rend="italics"><hi rend="caps">florentes aetatibus</hi> hoc est aetate florente.</hi> <hi rend="caps">arcades ambo</hi> non re vera Arcades&mdash;nam apud Mantuam res agitur&mdash;, 
 						sed sic periti, ut eos Arcades putares: nam et paulo post dicturus 
-						est &quot;soli cantare periti Arcades&quot;. 
+						est "soli cantare periti Arcades". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="5">
 					
 					<p><hi rend="caps">et cantare pares et r. p.</hi> hoc est qui possent et con-
-						tinuum carmen dicere&mdash;nam hoc est cantare, ut &quot;ex-
-						tinctum nymphae crudeli funere Daphnim&quot;, vel &quot;candi-
-						dus insuetum miratur lumen Olympi&quot;&mdash;et amoebaeum re-
-						ferre, ut &quot;et me Phoebus amat, Phoebo sua semper 
-						apud me munera sunt lauri&quot;. <hi rend="italics">'cantare' autem 'parati' pro parati 
+						tinuum carmen dicere&mdash;nam hoc est cantare, ut "ex-
+						tinctum nymphae crudeli funere Daphnim", vel "candi-
+						dus insuetum miratur lumen Olympi"&mdash;et amoebaeum re-
+						ferre, ut "et me Phoebus amat, Phoebo sua semper 
+						apud me munera sunt lauri". <hi rend="italics">'cantare' autem 'parati' pro parati 
 							ut cantarent et responderent: vel 'pares parati' quasi pariter parati.</hi> 
 					</p>
 				</div2>
@@ -4278,7 +4277,7 @@
 				<div2 type="commline" n="7">
 					
 					<p><hi rend="caps">vir gregis</hi> abusive; nam tantum hominum est: sic alibi 
-						&quot;quem legere virum&quot;, item Horatius &quot;et olentis uxores mariti&quot;. 
+						"quem legere virum", item Horatius "et olentis uxores mariti". 
 						acyrologia est. 
 					</p>
 				</div2>
@@ -4286,7 +4285,7 @@
 				<div2 type="commline" n="9">
 					
 					<p><hi rend="italics"><hi rend="caps">ades</hi> alii pro imperativo accipiunt, cuius pronuntiatio similis 
-						est indicativo: Terentius &quot;ades dum; paucis te volo&quot;.</hi> <hi rend="caps">caper tibi salvus et haedi</hi> aut quia in capro est spes haedorum: aut intel-
+						est indicativo: Terentius "ades dum; paucis te volo".</hi> <hi rend="caps">caper tibi salvus et haedi</hi> aut quia in capro est spes haedorum: aut intel-
 						legimus istum etiam haedos perdidisse, sed nescire, quod tamen 
 						ille quasi divinus indicat. potest tamen etiam scire, sed levius 
 						damnum maioris contemplatione contemnere. 
@@ -4313,15 +4312,15 @@
 				
 				<div2 type="commline" n="12">
 					
-					<p><hi rend="italics"><hi rend="caps">praetexit</hi> praetegit, ut &quot;non tamen Anna novis prae-
-						texere funera sacris&quot;.</hi> 
+					<p><hi rend="italics"><hi rend="caps">praetexit</hi> praetegit, ut "non tamen Anna novis prae-
+						texere funera sacris".</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="13">
 					
-					<p><hi rend="caps">eque sacra</hi> et e sacra, ut &quot;aque chao densos divum 
-						numerabat amores&quot;, id est (et) a chao. <hi rend="italics">'sacra' autem 'quercus' 
+					<p><hi rend="caps">eque sacra</hi> et e sacra, ut "aque chao densos divum 
+						numerabat amores", id est (et) a chao. <hi rend="italics">'sacra' autem 'quercus' 
 							aut ipsam quam vult intellegit, aut universum genus, quod et Iovis et 
 							olim fatidica. <hi rend="caps">examina</hi> apium scilicet.</hi> 
 					</p>
@@ -4354,25 +4353,25 @@
 				<div2 type="commline" n="17">
 					
 					<p><hi rend="italics"><hi rend="caps">posthabvi</hi> postposui.</hi> <hi rend="caps">mea seria</hi> necessitatem capri in-
-						quirendi vel haedorum. <hi rend="caps">ludo</hi> cantilenae, ut &quot;ipsum lu-
-						dere quae vellem calamo permisit agresti&quot;. 
+						quirendi vel haedorum. <hi rend="caps">ludo</hi> cantilenae, ut "ipsum lu-
+						dere quae vellem calamo permisit agresti". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="18">
 					
-					<p><hi rend="caps">alternis igitur c. v.</hi> hoc est quod ait supra &quot;et re-
-						spondere parati&quot;. 
+					<p><hi rend="caps">alternis igitur c. v.</hi> hoc est quod ait supra "et re-
+						spondere parati". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="19">
 					
 					<p><hi rend="caps">alternos musae meminisse volebant</hi> si 'volebant', sen-
-						sus est, musae utriusque meminerant, ut &quot;amant alterna 
-						camenae&quot;. sed multi 'volebam' legunt, ut sit <hi rend="italics">sensus</hi>: optabam, o 
+						sus est, musae utriusque meminerant, ut "amant alterna 
+						camenae". sed multi 'volebam' legunt, ut sit <hi rend="italics">sensus</hi>: optabam, o 
 						musae, meminisse alternos, id est omnia quae dixerunt tenere; nam 
-						et in fine dicturus est &quot;haec memini&quot;. 
+						et in fine dicturus est "haec memini". 
 					</p>
 				</div2>
 				
@@ -4391,8 +4390,8 @@
 						filio, consecratum est.</hi> <hi rend="caps">nymphae noster a. libethrides</hi> Libe-
 						thros fons est, ubi coluntur musae, et sic ait 'Libethrides', ac si 
 						diceret Hippucrenides a fonte Hippucrene. ut autem poetae invo-
-						cent nymphas, sicut hoc loco, item in fine &quot;extremum 
-						hunc Arethusa mihi concede laborem&quot;, haec ratio est, quod 
+						cent nymphas, sicut hoc loco, item in fine "extremum 
+						hunc Arethusa mihi concede laborem", haec ratio est, quod 
 						secundum Varronem ipsae sunt nymphae quae et musae: <hi rend="italics">nam et in 
 							aqua consistere dicuntur, quae de fontibus manat, sicut existimaverunt 
 							qui camenis fontem consecrarunt; nam eis non vino, sed aqua et lacte 
@@ -4417,7 +4416,7 @@
 				<div2 type="commline" n="23">
 					
 					<p><hi rend="caps">si non possumus omnes</hi> secundum illud dixit 
-						&quot;non omnia possumus omnes&quot;: nam debuit dicere 'aut si ego non 
+						"non omnia possumus omnes": nam debuit dicere 'aut si ego non 
 						possum'. 
 					</p>
 				</div2>
@@ -4426,7 +4425,7 @@
 					
 					<p><hi rend="italics"><hi rend="caps">hic arguta</hi> iuxta quam frequenter canitur, ac per hoc lo-
 						quax, garrula.</hi> <hi rend="caps">sacra pinv</hi> matri deum consecrata: sic supra 
-						&quot;sacra quercu&quot;, scilicet Iovi dicata. <hi rend="italics">et apostropham fecit, tam-
+						"sacra quercu", scilicet Iovi dicata. <hi rend="italics">et apostropham fecit, tam-
 							quam eam consecret. et (est) intellectus 'pendebis fistula': malo catalysin 
 							facere, quam deterior esse.</hi> 
 					</p>
@@ -4439,8 +4438,8 @@
 						amoebaeum: nam cum Corydon petisset ut esset Codri similis, hic <pb/> 
 						se adeo Codrum superare dicit, ut in se eius invidiam possit mo-
 						vere. hedera autem coronantur poetae, vel quasi Libero consecrati, 
-						qui et ut Bacchae insaniunt: sic Horatius &quot;ut male sanos ad-
-						scripsit (Liber) satyris faunisque poetas&quot;: vel quod semper 
+						qui et ut Bacchae insaniunt: sic Horatius "ut male sanos ad-
+						scripsit (Liber) satyris faunisque poetas": vel quod semper 
 						virent hederae, sicut carmina aeternitatem merentur. 
 					</p>
 				</div2>
@@ -4449,9 +4448,9 @@
 					
 					<p><hi rend="caps">rumpantur ut ilia</hi> sicut etiam in Aeneide 
 						diximus, 'hoc ile' et 'haec ilia' facit, unde etiam Iuvenalis ait 
-						&quot;vis frater ab ipsis ilibus?&quot; nam Marullus mimogra-
+						"vis frater ab ipsis ilibus?" nam Marullus mimogra-
 						phus contempsit artem ad iocum movendum et parasito dixit tu 
-						&quot;ut Hector ab ilio numquam recedis&quot;. est autem hoc dictum per 
+						"ut Hector ab ilio numquam recedis". est autem hoc dictum per 
 						amaritudinem rusticam. 
 					</p>
 				</div2>
@@ -4473,15 +4472,15 @@
 				<div2 type="commline" n="29">
 					
 					<p><hi rend="italics"><hi rend="caps">saetosi caput</hi> (<hi rend="caps">hoc</hi>) <hi rend="caps">capri</hi> multi per duas 'c' scribi volunt 
-						propter metrum. sane deest 'consecrat', ut &quot;Aeneas haec de Danais 
-						victoribus arma&quot;. et si 'apri', tamquam venator; si 'capri', tamquam 
+						propter metrum. sane deest 'consecrat', ut "Aeneas haec de Danais 
+						victoribus arma". et si 'apri', tamquam venator; si 'capri', tamquam 
 						pastor. <hi rend="caps">parvus</hi> vel humilis, vel pauper, vel minor aetate.</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="30">
 					
-					<p><hi rend="italics"><hi rend="caps">ramosa cornva</hi> ut &quot;cornibus arboreis&quot;</hi>. <hi rend="caps">micon</hi> vel eius 
+					<p><hi rend="italics"><hi rend="caps">ramosa cornva</hi> ut "cornibus arboreis"</hi>. <hi rend="caps">micon</hi> vel eius 
 						filius, vel patronus. <hi rend="caps">vivacis cornva cervi</hi> ut enim Plinius dicit 
 						in naturali historia, cum se cervi gravatos aetate cognoverint <hi rend="italics">esse</hi>, 
 						serpentes requirunt et eos flatu ad se tractos cum comederint, re-
@@ -4493,11 +4492,11 @@
 					
 					<p><hi rend="caps">si proprium hoc fuerit</hi> quod supra petierat, scilicet ut <pb/> 
 						talia carmina faceret qualia Codrus effecerat. <hi rend="italics">'proprium' sane veteres 
-							perpetuum, stabile, firmum dicebant: Terentius &quot;ego deorum vitam ea 
+							perpetuum, stabile, firmum dicebant: Terentius "ego deorum vitam ea 
 							propter sempiternam esse arbitror, quod eorum voluptates 
-							propriae sunt&quot;, id est firmae et perpetuae; et in Phormione 
-							&quot;curavi propria ut potiretur&quot;; et ipse &quot;propriamque dicabo&quot;, et 
-							&quot;da propriam, Thymbraee, domum&quot;: sic et hic 'proprium'. alii hunc 
+							propriae sunt", id est firmae et perpetuae; et in Phormione 
+							"curavi propria ut potiretur"; et ipse "propriamque dicabo", et 
+							"da propriam, Thymbraee, domum": sic et hic 'proprium'. alii hunc 
 							Miconem alieni pecoris custodem volunt et sic dicere: interim hoc tibi 
 							caput Delia dedico; si proprium hoc meum pecus fuerit, plus dabo, id 
 							est simulacrum faciam. <hi rend="caps">levi</hi> polito.</hi> <hi rend="caps">levi de marmore tota</hi> 
@@ -4515,8 +4514,8 @@
 					
 					<p><hi rend="caps">suras evincta cothurno</hi> ideo singulari usus est numero, 
 						quia hoc genus calciamenti utrique aptum est pedi: sic in primo 
-						Aeneidis &quot;purpureoque alte suras aptare cothurno&quot;. 
-						<hi rend="italics"><hi rend="caps">evincta</hi> vel simpliciter, vel valde, ut &quot;eduramque pirum&quot;.</hi> 
+						Aeneidis "purpureoque alte suras aptare cothurno". 
+						<hi rend="italics"><hi rend="caps">evincta</hi> vel simpliciter, vel valde, ut "eduramque pirum".</hi> 
 					</p>
 				</div2>
 				
@@ -4524,10 +4523,10 @@
 					
 					<p><hi rend="caps">sinum lactis</hi> sinus genus est vasis: quod cum significa-
 						mus, 'si' producitur; cum vero gremium significamus, 'si' corripi-
-						mus. <hi rend="italics">Varro de vita populi Romani &quot;aut lepestam aut galeolam 
+						mus. <hi rend="italics">Varro de vita populi Romani "aut lepestam aut galeolam 
 							aut sinum dicebant: tria enim (haec similia sunt), pro qui-
-							bus nunc acratoforon dicitur&quot;: Atta in Megalensibus &quot;nempe ad <pb/> 
-							mensam ubi sermo de sinu solet suboriri&quot;.</hi> sane notandum, ha-
+							bus nunc acratoforon dicitur": Atta in Megalensibus "nempe ad <pb/> 
+							mensam ubi sermo de sinu solet suboriri".</hi> sane notandum, ha-
 						beri considerationem divinarum personarum. nam ille supra cum 
 						veneratione locutus est apud numen severum, contra hic iocatur, 
 						quia alloquitur numen, quod iocis gaudere manifestum est. Pria-
@@ -4571,7 +4570,7 @@
 				<div2 type="commline" n="38">
 					
 					<p><hi rend="caps">hedera formosior alba</hi> quia sunt et nigrae hederae, ut 
-						&quot;aut hederae pandunt vestigia nigrae&quot;. nigra autem vel alba 
+						"aut hederae pandunt vestigia nigrae". nigra autem vel alba 
 						hedera non ex filiis, sed ex ligno cognoscitur. 
 					</p>
 				</div2>
@@ -4584,8 +4583,8 @@
 				
 				<div2 type="commline" n="40">
 					
-					<p><hi rend="caps">tui corydonis</hi> plenum adfectu est, ut &quot;siquis Amatae 
-						tangit honos animum&quot;. 
+					<p><hi rend="caps">tui corydonis</hi> plenum adfectu est, ut "siquis Amatae 
+						tangit honos animum". 
 					</p>
 				</div2>
 				
@@ -4623,7 +4622,7 @@
 				
 				<div2 type="commline" n="45">
 					
-					<p><hi rend="caps">muscosi fontes</hi> lanugine viridiore cooperti. <hi rend="italics"><hi rend="caps">somno mollior</hi> Turpilius &quot;lectus&quot;.</hi> 
+					<p><hi rend="caps">muscosi fontes</hi> lanugine viridiore cooperti. <hi rend="italics"><hi rend="caps">somno mollior</hi> Turpilius "lectus".</hi> 
 					</p>
 				</div2>
 				
@@ -4636,10 +4635,10 @@
 				
 				<div2 type="commline" n="47">
 					
-					<p><hi rend="italics"><hi rend="caps">defendite</hi> prohibete, excludite: Horatius &quot;et igneam defen-
-						dit aestatem capellis usque meis&quot;. duo ergo significat: nam aliter 
-						patriam dicimus defendere, aliter hostes, ut &quot;hunc, oro, defende fu-
-						rorem&quot;.</hi> <hi rend="caps">iam venit aestas torrida</hi> iam advenit, iam adpropin-
+					<p><hi rend="italics"><hi rend="caps">defendite</hi> prohibete, excludite: Horatius "et igneam defen-
+						dit aestatem capellis usque meis". duo ergo significat: nam aliter 
+						patriam dicimus defendere, aliter hostes, ut "hunc, oro, defende fu-
+						rorem".</hi> <hi rend="caps">iam venit aestas torrida</hi> iam advenit, iam adpropin-
 						quat: non enim dicit aestatem esse, cum adhuc turgere gemmarum 
 						palmites dicat. et bene tarde frondere vites commemorat in Ve-
 						netia, quae est provincia frigidior. 
@@ -4669,7 +4668,7 @@
 					
 					<p><hi rend="italics"><hi rend="caps">hic tantum</hi> nonnulli 'hinc' legunt, ut sit intellectus: quia 
 						in domo sua semper ignis sit, ideo subiectum 'hinc tantum', ut est 
-						&quot;hinc omnis largo pubescit vinea fetu&quot;, hoc est ex hac causa. sane 
+						"hinc omnis largo pubescit vinea fetu", hoc est ex hac causa. sane 
 						'hinc' alii propterea, alii loci significationem accipiunt. <hi rend="caps">curamus</hi> 
 						quidam 'timemus' accipiunt.</hi> 
 					</p>
@@ -4686,8 +4685,8 @@
 				<div2 type="commline" n="53">
 					
 					<p><hi rend="caps">stant et iuniperi</hi> modo plenae sunt; alias horrent, ut 
-						&quot;stant lumina flamma&quot;; alias vere stant, ut &quot;stant manibus 
-						arae&quot;. <hi rend="italics">Verrius Flaccus iuniperum iuvenem pirum dicit. vere autem 
+						"stant lumina flamma"; alias vere stant, ut "stant manibus 
+						arae". <hi rend="italics">Verrius Flaccus iuniperum iuvenem pirum dicit. vere autem 
 							iuniperus est quasi aculeis praedita, bacas ad piperis speciem gerens.</hi> 
 						<hi rend="caps">castaneae hirsutae</hi> adhuc intra echinos suos locatae. 
 					</p>
@@ -4701,9 +4700,9 @@
 				
 				<div2 type="commline" n="55">
 					
-					<p><hi rend="caps">rident</hi> laeta sunt, ut &quot;mixtaque ridenti colo-
-						casia fundet acantho&quot;, Horatius &quot;ille terrarum mihi praeter 
-						omnes angulus ridet&quot;. 
+					<p><hi rend="caps">rident</hi> laeta sunt, ut "mixtaque ridenti colo-
+						casia fundet acantho", Horatius "ille terrarum mihi praeter 
+						omnes angulus ridet". 
 					</p>
 				</div2>
 				
@@ -4723,9 +4722,9 @@
 				
 				<div2 type="commline" n="58">
 					
-					<p><hi rend="caps">invidit collibus umbras</hi> ut &quot;tene, inquit, miserande 
-						puer, cum laeta veniret, invidit Fortuna mihi?&quot; nam 'in-
-						video tibi illam rem' dicimus, <hi rend="italics">ut &quot;invidet imperium&quot;</hi>. sane scien-
+					<p><hi rend="caps">invidit collibus umbras</hi> ut "tene, inquit, miserande 
+						puer, cum laeta veniret, invidit Fortuna mihi?" nam 'in-
+						video tibi illam rem' dicimus, <hi rend="italics">ut "invidet imperium"</hi>. sane scien-
 						dum, Vergilium pampinos numquam <hi rend="italics">cum genere</hi> dicere, sed Varro-
 						nem uti frequentius feminino. 
 					</p>
@@ -4733,8 +4732,8 @@
 				
 				<div2 type="commline" n="60">
 					
-					<p><hi rend="caps">iuppiter et laeto d. p. imbri</hi> sic alibi &quot;coniugis in 
-						gremium laetae descendit&quot;: aer enim in pluvias solvitur. <pb/> 
+					<p><hi rend="caps">iuppiter et laeto d. p. imbri</hi> sic alibi "coniugis in 
+						gremium laetae descendit": aer enim in pluvias solvitur. <pb/> 
 					</p>
 				</div2>
 				
@@ -4757,7 +4756,7 @@
 					<p><hi rend="italics"><hi rend="caps">formosae myrtus veneri</hi> myrtum ideo dicatam Veneri vo-
 						lunt, quia cum a mari exisset, latuit in myrto, ne nuda conspiceretur: 
 						vel quia fragilis est, ut amor inconstans: vel quia iucundi odoris, ut 
-						&quot;sic positae quoniam suaves miscetis odores&quot;.</hi> 
+						"sic positae quoniam suaves miscetis odores".</hi> 
 					</p>
 				</div2>
 				
@@ -4790,8 +4789,8 @@
 				<div2 type="commline" n="69">
 					
 					<p><hi rend="caps">haec memini</hi> et 'memini illam rem' dicimus et 'memini 
-						illius rei', ut &quot;nec veterum memini laetorve malorum&quot;, item 
-						&quot;numeros memini&quot;. 
+						illius rei', ut "nec veterum memini laetorve malorum", item 
+						"numeros memini". 
 					</p>
 				</div2>
 				
@@ -4822,8 +4821,8 @@
 					
 					<p><hi rend="caps">inmemor herbarum q. e. m. i.</hi> qui cantilenae suavitate co-
 						egerunt etiam ea animalia oblivisci pascuorum, quae sunt pascendi 
-						avidissima: nam supra ait &quot;ite domum pasti, siquis 
-						pudor, ite iuvenci&quot;. 
+						avidissima: nam supra ait "ite domum pasti, siquis 
+						pudor, ite iuvenci". 
 					</p>
 				</div2>
 				
@@ -4839,17 +4838,17 @@
 				<div2 type="commline" n="4">
 					
 					<p><hi rend="caps">reqvierunt flumina cursus</hi> cursus proprios retardarunt, 
-						quietos esse fecerunt: sic Sallustius &quot;paululum requietis <hi rend="italics">militi-
-							bus</hi>&quot;. quiesco enim <hi rend="italics">duplicem habet significationem et aliter dico 'quiesco</hi> 
-						ego'; aliter 'quiesco servum', id est quiescere facio: <hi rend="italics">Calvus in &quot;Io 
-							sol quoque perpetuos meminit requiescere cursus&quot;</hi>. 
+						quietos esse fecerunt: sic Sallustius "paululum requietis <hi rend="italics">militi-
+							bus</hi>". quiesco enim <hi rend="italics">duplicem habet significationem et aliter dico 'quiesco</hi> 
+						ego'; aliter 'quiesco servum', id est quiescere facio: <hi rend="italics">Calvus in "Io 
+							sol quoque perpetuos meminit requiescere cursus"</hi>. 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="5">
 					
 					<p><hi rend="italics"><hi rend="caps">damonis musam</hi> bene repetit, ne longum hyperbaton sensum 
-						confunderet, ut in georgicis repetit &quot;huc pater o Lenaee&quot;.</hi> <pb/> 
+						confunderet, ut in georgicis repetit "huc pater o Lenaee".</hi> <pb/> 
 					</p>
 				</div2>
 				
@@ -4884,9 +4883,9 @@
 				
 				<div2 type="commline" n="11">
 					
-					<p><hi rend="caps">a te principium tibi d.</hi> Horatius &quot;prima dicte mihi, 
-						summa dicende camena&quot;. <hi rend="caps">iussis carmina c. t.</hi> supra enim 
-						dixerat &quot;non iniussa cano&quot;. 
+					<p><hi rend="caps">a te principium tibi d.</hi> Horatius "prima dicte mihi, 
+						summa dicende camena". <hi rend="caps">iussis carmina c. t.</hi> supra enim 
+						dixerat "non iniussa cano". 
 					</p>
 				</div2>
 				
@@ -4926,8 +4925,8 @@
 				<div2 type="commline" n="15">
 					
 					<p><hi rend="caps">cum ros gratissimus</hi> masculini est generis, secundum 
-						quod <hi rend="italics">etiam</hi> in Aeneide ait &quot;spargit rapida ungula 
-						rores sanguineos&quot;. 
+						quod <hi rend="italics">etiam</hi> in Aeneide ait "spargit rapida ungula 
+						rores sanguineos". 
 					</p>
 				</div2>
 				
@@ -4943,19 +4942,19 @@
 					
 					<p><hi rend="italics"><hi rend="caps">nascere</hi> quia dixerat 'frigida vix caelo noctis decesserat um-
 						bra', id est priusquam nox occidit.</hi> <hi rend="caps">praeque diem veniens a. l. a.</hi> <hi rend="italics">ordo est 'nascere, lucifer,</hi> praeveniens<hi rend="italics">que</hi> age diem clarissimum': 
-						sic alibi &quot;ducebatque diem&quot;. et hoc dicit: nascere, dum queror 
+						sic alibi "ducebatque diem". et hoc dicit: nascere, dum queror 
 						coniugis Nisae indigno amore deceptus et moriens alloquor divos, 
 						quamquam nihil mihi profuerit, quod sum eos saepe testatus: quam 
-						rem secundum Epicureos ait, qui dicunt &quot;nec bene promeritis 
-						capitur nec tangitur ira&quot;. 
+						rem secundum Epicureos ait, qui dicunt "nec bene promeritis 
+						capitur nec tangitur ira". 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="18">
 					
 					<p><hi rend="caps">coniugis</hi> non quae erat, sed quae fore sperabatur: sic in 
-						quarto Aeneidis &quot;quos ego sim totiens iam dedignata 
-						maritos&quot;. <hi rend="italics">alii 'indigno deceptus amore' antique dictum accipiunt, 'in-
+						quarto Aeneidis "quos ego sim totiens iam dedignata 
+						maritos". <hi rend="italics">alii 'indigno deceptus amore' antique dictum accipiunt, 'in-
 							digno' pro magno. et 'deceptus' pro 'captus'. 'amore' aut in amore 
 							aut ab amore.</hi> <pb/> 
 					</p>
@@ -4971,8 +4970,8 @@
 				<div2 type="commline" n="20">
 					
 					<p><hi rend="caps">extrema moriens t. a. h.</hi> id est paulo post moriturus: 
-						sic in quarto &quot;incubuitque toro dixitque novissima 
-						verba&quot;. 
+						sic in quarto "incubuitque toro dixitque novissima 
+						verba". 
 					</p>
 				</div2>
 				
@@ -4991,11 +4990,11 @@
 				
 				<div2 type="commline" n="22">
 					
-					<p><hi rend="caps">argutumque nemus</hi> garrulum, stridulum, ut &quot;forte 
-						sub arguta consederat ilice Daphnis&quot;. <hi rend="caps">pinosque loquentes</hi> ideo hoc ausus est dicere, quia dicturus est 'semper pastorum 
-						ille audit amores'. sic etiam in prima ecloga &quot;formosam re-
-						sonare doces Amaryllida silvas&quot;, sic <hi rend="italics">et</hi> in Aeneide 
-						&quot;dant sonitum rauci per stagna loquacia cygni&quot;. <hi rend="italics">'amores' 
+					<p><hi rend="caps">argutumque nemus</hi> garrulum, stridulum, ut "forte 
+						sub arguta consederat ilice Daphnis". <hi rend="caps">pinosque loquentes</hi> ideo hoc ausus est dicere, quia dicturus est 'semper pastorum 
+						ille audit amores'. sic etiam in prima ecloga "formosam re-
+						sonare doces Amaryllida silvas", sic <hi rend="italics">et</hi> in Aeneide 
+						"dant sonitum rauci per stagna loquacia cygni". <hi rend="italics">'amores' 
 							vero cantica de amoribus.</hi> 
 					</p>
 				</div2>
@@ -5003,7 +5002,7 @@
 				<div2 type="commline" n="24">
 					
 					<p><hi rend="italics"><hi rend="caps">panaque qui primus c. n. p. i.</hi> Pan Arcadiae deus est, ut 
-						&quot;Pan deus Arcadiae venit&quot;, qui fistula canere primus inve-
+						"Pan deus Arcadiae venit", qui fistula canere primus inve-
 						nit, quia calamos in usum cantilenae adducens inertes esse non passus 
 						est, id est otiosos, sine arte. et 'non passus inertes' deest 'esse'.</hi> 
 					</p>
@@ -5012,8 +5011,8 @@
 				<div2 type="commline" n="26">
 					
 					<p><hi rend="caps">mopso nisa datur</hi> honesta turpissimo, pulchra deformi. 
-						<hi rend="italics"><hi rend="caps">quid non speremus a.</hi> 'speremus' pro 'timeamus', ut &quot;hunc ego si po-
-							tui tantum sperare dolorem&quot;: vel quid non speremus perversi acci-
+						<hi rend="italics"><hi rend="caps">quid non speremus a.</hi> 'speremus' pro 'timeamus', ut "hunc ego si po-
+							tui tantum sperare dolorem": vel quid non speremus perversi acci-
 							dere, cum hoc mihi acciderit.</hi> <pb/> 
 					</p>
 				</div2>
@@ -5027,10 +5026,10 @@
 						consecratae: <hi rend="italics">ideo 'iungentur iam grypes equis'</hi>. <hi rend="caps">aevoque sequenti</hi> 
 						id est accessu temporis non solum pulchrae deformibus nubent, sed 
 						etiam contrariae naturae animalia iungentur. <hi rend="italics">notandum sane 'aevum' 
-							hic pro tempore, ut ipse alibi &quot;tantum aevi longinqua valet mutare 
-							vetustas&quot;, Sallustius &quot;in quis longissimo aevo plura de bonis 
-							falsa in deterius composuit&quot;. alias 'aevum' pro annis, ut &quot;vos o 
-							quibus integer aevi sanguis&quot;.</hi> 
+							hic pro tempore, ut ipse alibi "tantum aevi longinqua valet mutare 
+							vetustas", Sallustius "in quis longissimo aevo plura de bonis 
+							falsa in deterius composuit". alias 'aevum' pro annis, ut "vos o 
+							quibus integer aevi sanguis".</hi> 
 					</p>
 				</div2>
 				
@@ -5038,9 +5037,9 @@
 					
 					<p><hi rend="caps">cum canibus timidi v. a. p. d.</hi> adludit ad personas: nam 
 						illum quasi canem vult, illam quasi dammam. et dammas mascu-
-						lino genere posuit: sic alibi &quot;timidi dammae cervique fugaces&quot;: 
-						Horatius feminino ait &quot;et superiecto pavidae natarunt aequore 
-						dammae&quot;. <hi rend="italics">et hic, ne homoeoteleuton faceret dicendo 'timidae dammae'.</hi> 
+						lino genere posuit: sic alibi "timidi dammae cervique fugaces": 
+						Horatius feminino ait "et superiecto pavidae natarunt aequore 
+						dammae". <hi rend="italics">et hic, ne homoeoteleuton faceret dicendo 'timidae dammae'.</hi> 
 					</p>
 				</div2>
 				
@@ -5098,8 +5097,8 @@
 					<p><hi rend="caps">tibi deserit h. oetam</hi> <hi rend="italics">Oeta mons Thessaliae, in quo Her-
 						cules exustus est volens, postquam se exuere non potuit tunica, Nessi 
 						centauri cruore tincta, et post in caelum receptus est. de hoc monte</hi> 
-						stellae videntur occidere, sicut de Ida nasci, ut &quot;iamque iugis 
-						summae surgebat lucifer Idae&quot;. et hoc dicit: 'tibi', id est 
+						stellae videntur occidere, sicut de Ida nasci, ut "iamque iugis 
+						summae surgebat lucifer Idae". et hoc dicit: 'tibi', id est 
 						propter te, nox advenit. <hi rend="italics">in eodem monte Hesperus coli dicitur, qui 
 							Hymenaeum, speciosum puerum, amasse dicitur: qui Hymenaeus fertur 
 							in nuptiis Ariadnes et Liberi patris vocem perdidisse cantando: ex 
@@ -5190,8 +5189,8 @@
 				<div2 type="commline" n="43">
 					
 					<p><hi rend="caps">nunc scio quid sit amor</hi> vel quasi iam iuvenis, vel quasi 
-						spretus: gravior enim amor fit ex desperatione: Terentius &quot;perii! 
-						quanto minus spei est, tanto magis amo&quot;. <pb/> 
+						spretus: gravior enim amor fit ex desperatione: Terentius "perii! 
+						quanto minus spei est, tanto magis amo". <pb/> 
 					</p>
 				</div2>
 				
@@ -5202,7 +5201,7 @@
 						origine, item a gestis, ut 'saevus Amor docuit': nam de exitu circa 
 						deum vituperatio non cadit. <hi rend="caps">extremi garamantes</hi> populi Afri-
 						cae. 'extremi' autem saevi, quasi a consortio humanitatis remoti, 
-						ut &quot;extremique hominum Morini Rhenusque bicornis&quot;. 
+						ut "extremique hominum Morini Rhenusque bicornis". 
 					</p>
 				</div2>
 				
@@ -5210,7 +5209,7 @@
 					
 					<p><hi rend="caps">nec generis nostri puerum nec s. e.</hi> id est nihil haben-
 						tem in se humanitatis: nam non dicit non mortalem. <hi rend="italics"><hi rend="caps">edunt</hi> pa-
-							riunt, ut in septimo &quot;sub luminis edidit oras&quot;.</hi> 
+							riunt, ut in septimo "sub luminis edidit oras".</hi> 
 					</p>
 				</div2>
 				
@@ -5285,7 +5284,7 @@
 				<div2 type="commline" n="56">
 					
 					<p><hi rend="caps">delphinas</hi> 'nas' ideo brevis est, quia graeca declinatio 
-						est, sicut &quot;Arcadas accensos monitu&quot;. nam omnia graeca no-
+						est, sicut "Arcadas accensos monitu". nam omnia graeca no-
 						mina, quae nominativo plurali 'es' terminantur, ut 'Arcades' 'del-
 						phines' 'naides', accusativum pluralem corripiunt. 
 					</p>
@@ -5311,8 +5310,8 @@
 				<div2 type="commline" n="60">
 					
 					<p><hi rend="caps">extremum hoc munus m. h.</hi> id est moriar in invidiam 
-						tuam: nam amare ait 'munus': sic Mezentius &quot;et haec tibi porto 
-						dona prius&quot;: <hi rend="italics">vel extremum hoc munus meum habeto, quod morior</hi>. 
+						tuam: nam amare ait 'munus': sic Mezentius "et haec tibi porto 
+						dona prius": <hi rend="italics">vel extremum hoc munus meum habeto, quod morior</hi>. 
 					</p>
 				</div2>
 				
@@ -5328,8 +5327,8 @@
 						superiora utcumque dicta sunt, sequentia non nisi a numinibus po-
 						terunt explanari. sane ita debemus accipere, pastores hos referre 
 						quod aliquando in Arcadia audierunt: unde et superius ait 
-						'incipe Maenalios mecum mea tibia versus'. <hi rend="caps">non omnia possumus omnes</hi> sic Cicero &quot;unum sustinere vix pauci possunt 
-						utrumque nemo&quot;. 
+						'incipe Maenalios mecum mea tibia versus'. <hi rend="caps">non omnia possumus omnes</hi> sic Cicero "unum sustinere vix pauci possunt 
+						utrumque nemo". 
 					</p>
 				</div2>
 				
@@ -5395,8 +5394,8 @@
 				
 				<div2 type="commline" n="69">
 					
-					<p><hi rend="caps">carmina vel caelo p. d. l.</hi> 'vel' id est etiam, ut &quot;vel 
-						Priamo miseranda manus&quot;. est autem argumentum a maiore ad 
+					<p><hi rend="caps">carmina vel caelo p. d. l.</hi> 'vel' id est etiam, ut "vel 
+						Priamo miseranda manus". est autem argumentum a maiore ad 
 						minus: si haec possunt facere carmina, cur non etiam facilia im-
 						pleant? quid enim facilius, quam ut Daphnis ex urbe rus redeat, 
 						ut civitatem deserat rusticus? <hi rend="italics">et bene potentiam carminum narrat, 
@@ -5406,15 +5405,15 @@
 				
 				<div2 type="commline" n="71">
 					
-					<p><hi rend="caps">frigidus</hi> nocens, ut &quot;frigida Saturni sese quo stella 
-						receptet&quot;. <hi rend="caps">cantando</hi> dum ei incantatur. nam gerundi modus 
+					<p><hi rend="caps">frigidus</hi> nocens, ut "frigida Saturni sese quo stella 
+						receptet". <hi rend="caps">cantando</hi> dum ei incantatur. nam gerundi modus 
 						ab omni verbo similiter procreatur: unde modo 'cantando' a pas-
-						sivo ait, cum supra ab activo dixerit, ut &quot;cantando tu 
-						illum?&quot; tale est illud in Sallustio &quot;cum ipse ad imperandum 
-						Tisidium vocaretur&quot;, id est ut ei imperaretur. <hi rend="italics">sane veteres 'can-
+						sivo ait, cum supra ab activo dixerit, ut "cantando tu 
+						illum?" tale est illud in Sallustio "cum ipse ad imperandum 
+						Tisidium vocaretur", id est ut ei imperaretur. <hi rend="italics">sane veteres 'can-
 							tare' de magico carmine dicebant, unde et 'excantare' est magicis car-
-							minibus obligare: Plautus in Bacchidibus &quot;nam tu quidem cui-
-							vis excantare cor facile potes&quot;.</hi> 
+							minibus obligare: Plautus in Bacchidibus "nam tu quidem cui-
+							vis excantare cor facile potes".</hi> 
 					</p>
 				</div2>
 				
@@ -5427,12 +5426,12 @@
 				
 				<div2 type="commline" n="75">
 					
-					<p><hi rend="caps">effigiem duco</hi> sic Dido &quot;effigiemque toro 
-						locat, haud ignara futuri&quot;. <hi rend="caps">numero deus impare gaudet</hi> <pb/> 
+					<p><hi rend="caps">effigiem duco</hi> sic Dido "effigiemque toro 
+						locat, haud ignara futuri". <hi rend="caps">numero deus impare gaudet</hi> <pb/> 
 						aut quicumque superorum, <hi rend="italics">iuxta Pythagoreos, qui ternarium nume-
 							rum perfectum summo deo adsignant, a quo initium et medium et finis 
 							est</hi>: aut <hi rend="italics">re vera</hi> Hecaten dicit, cuius triplex potestas esse perhibe-
-						tur, unde est &quot;tria virginis ora Dianae&quot;: <hi rend="italics">quamvis omnium prope 
+						tur, unde est "tria virginis ora Dianae": <hi rend="italics">quamvis omnium prope 
 							deorum potestas triplici signo ostendatur, ut Iovis trifidum fulmen, 
 							Neptuni tridens, Plutonis canis triceps. Apollo idem Sol, idem Liber. 
 							et quod omnia ternario numero continentur, ut parcae, furiae; Hercules 
@@ -5478,11 +5477,11 @@
 						molitum condunt. ex eo farre virgines ter in anno molam faciunt, 
 						Lupercalibus, Vestalibus, idibus septembribus, adiecto sale cocto et sale 
 						duro. igitur quod in sacris mola casta dicitur, ideo Vergilius in quinto 
-						Aeneidis &quot;farre pio&quot; enuntiavit: quid enim est pium nisi castum? 
+						Aeneidis "farre pio" enuntiavit: quid enim est pium nisi castum? 
 						quoniam 'piare' est propitiare, quod accidere non potest nisi caste in-
 						servitum erit rebus sacris. hic autem dicendo 'asperge molam' rem 
 						ipsam proprio nomine memoravit: unde in secundo Aeneidis et 
-						&quot;salsae fruges&quot; et in quarto &quot;ipsa mola&quot;</hi>. <hi rend="caps">incende bitumine l.</hi> id est lauros divino igne consume; nam bitumen ex ful-
+						"salsae fruges" et in quarto "ipsa mola"</hi>. <hi rend="caps">incende bitumine l.</hi> id est lauros divino igne consume; nam bitumen ex ful-
 						mine dicitur procreari: unde iuxta Babyloniam, quia frequentia ca-
 						dunt fulmina, hac re lacus redundant, adeo ut inde fabricent muros. 
 					</p>
@@ -5557,8 +5556,8 @@
 				<div2 type="commline" n="99">
 					
 					<p><hi rend="caps">atque satas alio vidi traducere messes</hi> magicis qui-
-						busdam artibus hoc fiebat: unde est in <hi rend="caps">xii.</hi> tabulis &quot;neve alienam 
-						segetem pellexeris&quot;: <hi rend="italics">quod et Varro et multi scriptores fieri depre-
+						busdam artibus hoc fiebat: unde est in <hi rend="caps">xii.</hi> tabulis "neve alienam 
+						segetem pellexeris": <hi rend="italics">quod et Varro et multi scriptores fieri depre-
 							hensum adfirmant</hi>. 
 					</p>
 				</div2>
@@ -5566,8 +5565,8 @@
 				<div2 type="commline" n="102">
 					
 					<p><hi rend="caps">ne respexeris</hi> nolunt enim se videri numina, nisi ex 
-						nimia necessitate: unde pro miraculo dictum est &quot;alma parens 
-						confessa deam&quot;, quod non faceret, nisi in periculo filii. 
+						nimia necessitate: unde pro miraculo dictum est "alma parens 
+						confessa deam", quod non faceret, nisi in periculo filii. 
 					</p>
 				</div2>
 				
@@ -5655,8 +5654,8 @@
 				<div2 type="commline" n="3">
 					
 					<p><hi rend="caps">quod numqvam veriti sumus</hi> quia inopinata graviora sunt 
-						mala: unde ait Dido &quot;hunc ego si potui tantum spe-
-						rare dolorem, et perferre, soror, potero&quot;. 
+						mala: unde ait Dido "hunc ego si potui tantum spe-
+						rare dolorem, et perferre, soror, potero". 
 					</p>
 				</div2>
 				
@@ -5679,8 +5678,8 @@
 						munus accipiat. tractum autem hoc est ab Hectore et Aiace: nam 
 						Hector dedit Aiaci gladium, quo se Aiax postea interemit; Hector 
 						vero balteum accepit ab Aiace, quo circa muros patriae tractus est 
-						postea. inde et illud comicum natum est &quot;di bene vertant, quod 
-						agas&quot;: plerumque enim bona in peius, mala mutantur in melius. 
+						postea. inde et illud comicum natum est "di bene vertant, quod 
+						agas": plerumque enim bona in peius, mala mutantur in melius. 
 					</p>
 				</div2>
 				
@@ -5698,8 +5697,8 @@
 						per naturam. alii agrum suum volunt descripsisse Vergilium, ut osten-
 						deret ex utraque parte esse clivosum, ut cum ab una parte ad cacumen 
 						ascenderis, ab alia usque ad aquam descendas. et quidam tales agros 
-						lapidosos dicunt, sicut ipse de suo ait &quot;et tibi magna satis 
-						quamvis lapis omnia nudus&quot;.</hi> 
+						lapidosos dicunt, sicut ipse de suo ait "et tibi magna satis 
+						quamvis lapis omnia nudus".</hi> 
 					</p>
 				</div2>
 				
@@ -5715,9 +5714,9 @@
 						tantum agrum, aut totius Mantuae esse descriptum, <hi rend="italics">quod alii dicunt 
 							Vergilium ostendere voluisse, quod Mantuanis per iniquitatem Alfeni 
 							Vari, qui agros divisit, praeter palustria nihil relictum sit, sicut ex 
-							oratione Cornelii in Alfenum ostenditur &quot;cum iussus tria milia pas-
+							oratione Cornelii in Alfenum ostenditur "cum iussus tria milia pas-
 							sus a muro in diversa relinquere, vix octingentos passus 
-							aquae, quae circumdata est, admetireris, reliquisti&quot;</hi>. <hi rend="caps">omnia carminibus v. s. m.</hi> id est vestrum Vergilium, <hi rend="italics">cuius causa agri 
+							aquae, quae circumdata est, admetireris, reliquisti"</hi>. <hi rend="caps">omnia carminibus v. s. m.</hi> id est vestrum Vergilium, <hi rend="italics">cuius causa agri 
 								Mantuanis redditi sunt</hi>. 
 					</p>
 				</div2>
@@ -5727,7 +5726,7 @@
 					<p><hi rend="caps">audieras et fama fuit</hi> benevolentiam quidem Augusti 
 						etiam fama vulgavit; sed eam belli Actiaci necessitas inpedivit. 
 						<hi rend="caps">sed carmina t. n. v. l. t. i. m.</hi> hoc etiam Cicero ait in Miloniana 
-						&quot;silent enim leges inter arma&quot;. <hi rend="italics">sensus tamen est: sed 
+						"silent enim leges inter arma". <hi rend="italics">sensus tamen est: sed 
 							videlicet hoc tempore, id est in hoc bello, poemata nostra non valde ad-
 							mittuntur. 'carmina' autem nonnulli quibus sibi Pollionem intercesso-
 							rem apud Augustum conciliaverat, accipiunt: quo fugato, rursus de 
@@ -5749,9 +5748,9 @@
 				<div2 type="commline" n="14">
 					
 					<p><hi rend="caps">quacumque</hi> quacumque ratione. et bene augurii peritiam 
-						dat ei, de quo supra ait &quot;his ego saepe lupum fieri 
+						dat ei, de quo supra ait "his ego saepe lupum fieri 
 						et se condere silvis Moerim, saepe animas imis excire se-
-						pulchris&quot;. <hi rend="caps">novas lites</hi> magnas, id est militaria iurgia. <hi rend="italics"><hi rend="caps">incidere</hi> pro 'decidere'.</hi> 
+						pulchris". <hi rend="caps">novas lites</hi> magnas, id est militaria iurgia. <hi rend="italics"><hi rend="caps">incidere</hi> pro 'decidere'.</hi> 
 					</p>
 				</div2>
 				
@@ -5801,9 +5800,9 @@
 				
 				<div2 type="commline" n="19">
 					
-					<p><hi rend="caps">quis humum f. h. s.</hi> sic est dictum, ut &quot;tunc 
+					<p><hi rend="caps">quis humum f. h. s.</hi> sic est dictum, ut "tunc 
 						Phaethontiadas musco circumdat amarae corticis atque 
-						solo proceras erigit alnos&quot;. 
+						solo proceras erigit alnos". 
 					</p>
 				</div2>
 				
@@ -5820,7 +5819,7 @@
 						se illorum carminum fingit, quae aliquando Vergilio, licet invito, 
 						Romam eunte, abstulerat: nam 'sublegi' est furatus sum. unde et 
 						sacrilegus dicitur, qui sacra legit, id est furatur: <hi rend="italics">Plautus in Milite 
-							&quot;quae etiam nostrum hunc sermonem sublegerat&quot;</hi>. 
+							"quae etiam nostrum hunc sermonem sublegerat"</hi>. 
 					</p>
 				</div2>
 				
@@ -5840,8 +5839,8 @@
 							lem suum Tityrum dicit. et bene dum promittunt se cantaturos, ni-
 							hilominus dicunt. sane quaeritur, utrum in his tribus versibus per-
 							fectum carmen sit, an initium alterius carminis inperfecti.</hi> <hi rend="caps">inter agendum</hi> dum agis. et honesta locutio est, si dicamus, inter ce-
-						nandum hoc sum locutus: <hi rend="italics">Afranius &quot;inter loquendum&quot;, Ennius &quot;in-
-							ter ponendum&quot;</hi>. 
+						nandum hoc sum locutus: <hi rend="italics">Afranius "inter loquendum", Ennius "in-
+							ter ponendum"</hi>. 
 					</p>
 				</div2>
 				
@@ -5864,7 +5863,7 @@
 					
 					<p><hi rend="caps">vare tuum nomen</hi> ordo est 'Vare tuum nomen sublime 
 						ferent ad sidera cantantes cycni', id est poetae: sic Horatius de 
-						Pindaro &quot;multa Dircaeum levat aura cycnum&quot;. <hi rend="italics">sane blanditur 
+						Pindaro "multa Dircaeum levat aura cycnum". <hi rend="italics">sane blanditur 
 							Alfeno Varo, qui, Pollione fugato, legatus transpadanis praepositus est 
 							ab Augusto.</hi> <hi rend="caps">superet modo mantva nobis</hi> supersit, reddatur. 
 						et hoc dicit: si nobis Mantua fuerit reddita, faciam ut te celebrent 
@@ -5919,9 +5918,9 @@
 				
 				<div2 type="commline" n="35">
 					
-					<p><hi rend="caps">vario videor</hi> Varius poeta fuit: de hoc Horatius &quot;Varius 
-						ducit molle atque facetum&quot;, item &quot;scriberis Vario fortis et 
-						hostium victor&quot;: nam Varus dux fuit, cui supra blanditur, <hi rend="italics">qui 
+					<p><hi rend="caps">vario videor</hi> Varius poeta fuit: de hoc Horatius "Varius 
+						ducit molle atque facetum", item "scriberis Vario fortis et 
+						hostium victor": nam Varus dux fuit, cui supra blanditur, <hi rend="italics">qui 
 							nulla carmina scripsit. nonnulli sane Alfenum Varum volunt, qui 
 							licet iuris consultus et successor Servii Sulpicii esset, etiam carmina 
 							aliqua composuisse dicitur; sed hoc teste Horatio falsum est, qui Va-
@@ -5934,10 +5933,10 @@
 				<div2 type="commline" n="36">
 					
 					<p><hi rend="caps">argutos inter strepere a. o.</hi> 'argutos' canoros, ut 
-						&quot;forte sub arguta consederat&quot;. et alludit ad Anserem 
+						"forte sub arguta consederat". et alludit ad Anserem 
 						quendam, Antonii poetam, qui eius laudes scribebat: quem ob hoc 
 						per transitum carpsit. de hoc etiam Cicero in Philippicis dicit 
-						&quot;ex agro Falerno anseres depellantur&quot;: ipsum 
+						"ex agro Falerno anseres depellantur": ipsum 
 						enim agrum ei donarat Antonius. <hi rend="italics">et bene illos poetas optimos cycnos 
 							dicit, se anserem rudem et levis ingenii, nec debere aut posse (se) illos 
 							imitari. <hi rend="caps">inter strepere</hi> sane et composite potest et separatim 
@@ -5956,8 +5955,8 @@
 					
 					<p><hi rend="caps">si valeam meminisse</hi> ut etiam in Aeneide dixi-
 						mus, ideo ista iunxit tempora, quia defectivum est verbum 'me-
-						mini'. <hi rend="italics">'(si) valeam' autem si possim, ut in Aeneide &quot;quae 
-							plurima fando enumerare vales&quot;.</hi> 
+						mini'. <hi rend="italics">'(si) valeam' autem si possim, ut in Aeneide "quae 
+							plurima fando enumerare vales".</hi> 
 					</p>
 				</div2>
 				
@@ -5977,15 +5976,15 @@
 				
 				<div2 type="commline" n="42">
 					
-					<p><hi rend="italics"><hi rend="caps">lentae</hi> flexibiles. <hi rend="caps">umbracula</hi> Cicero &quot;umbraculisque sil-
-						vestribus&quot;.</hi> 
+					<p><hi rend="italics"><hi rend="caps">lentae</hi> flexibiles. <hi rend="caps">umbracula</hi> Cicero "umbraculisque sil-
+						vestribus".</hi> 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="43">
 					
-					<p><hi rend="caps">insani fluctus</hi> id est magni, ut &quot;quid tantum insano 
-						iuvat indulgere dolori&quot;. 
+					<p><hi rend="caps">insani fluctus</hi> id est magni, ut "quid tantum insano 
+						iuvat indulgere dolori". 
 					</p>
 				</div2>
 				
@@ -6036,8 +6035,8 @@
 					<p><hi rend="italics"><hi rend="caps">insere daphni piros</hi> hoc in gratiam Augusti, per cuius bene-
 						ficium securus de agris suis est.</hi> <hi rend="caps">carpent tua poma nepotes</hi> ac 
 						si diceret, nihil est quod possis timere: nam illud respicit, quod 
-						supra invidiose ait &quot;insere nunc Meliboee piros, pone 
-						ordine vites&quot;. 
+						supra invidiose ait "insere nunc Meliboee piros, pone 
+						ordine vites". 
 					</p>
 				</div2>
 				
@@ -6050,8 +6049,8 @@
 				
 				<div2 type="commline" n="52">
 					
-					<p><hi rend="caps">longos soles c.</hi> <hi rend="italics">id est</hi> aestivos dies finire, ut &quot;tris adeo 
-						incertos caeca caligine soles&quot;. <hi rend="caps">condere</hi> finire, usque ad oc-
+					<p><hi rend="caps">longos soles c.</hi> <hi rend="italics">id est</hi> aestivos dies finire, ut "tris adeo 
+						incertos caeca caligine soles". <hi rend="caps">condere</hi> finire, usque ad oc-
 						casum ducere. 
 					</p>
 				</div2>
@@ -6105,7 +6104,7 @@
 				<div2 type="commline" n="60">
 					
 					<p><hi rend="caps">bianoris</hi> hic est, qui et Ocnus dictus est&mdash;de quo ait 
-						in decimo &quot;fatidicae Mantus et Tusci filius amnis&quot;&mdash;, 
+						in decimo "fatidicae Mantus et Tusci filius amnis"&mdash;, 
 						conditor Mantuae. dictus autem Bianor est, quasi animo et cor-
 						pore fortissimus, <foreign lang="greek">a)po\ th=s bi/as kai\ h)nore/hs.</foreign> 
 					</p>
@@ -6114,8 +6113,8 @@
 				<div2 type="commline" n="61">
 					
 					<p><hi rend="caps">stringunt frondes</hi> amputant, decutiunt: ipse in georgicis 
-						&quot;sed tamen et quernas glandes tunc stringere 
-						tempus&quot;. 
+						"sed tamen et quernas glandes tunc stringere 
+						tempus". 
 					</p>
 				</div2>
 				
@@ -6145,7 +6144,7 @@
 					
 					<p><hi rend="caps">hoc fasce levabo</hi> si cantantes ierimus, haedorum te 
 						onere ipse relevabo; nam fascem ait onus: sic in georgicis 
-						&quot;iniusto sub fasce viam dum carpit&quot;. 
+						"iniusto sub fasce viam dum carpit". 
 					</p>
 				</div2>
 				
@@ -6186,8 +6185,8 @@
 						patientia turpis amoris ostenditur, et aperte hic Antonius carpitur, 
 						inimicus Augusti, quem contra Romanum morem Cytheris est in castra 
 						comitata. 'extremum laborem' non quod mihi laboriosum est&mdash; 
-						nam scribere apud poetas ludus est, ut &quot;et ipsum ludere 
-						quae vellem&quot;&mdash;, sed rem tibi laboriosam, scilicet ut nympha, 
+						nam scribere apud poetas ludus est, ut "et ipsum ludere 
+						quae vellem"&mdash;, sed rem tibi laboriosam, scilicet ut nympha, 
 						virginitate gaudens, praestes de amoribus cantilenam. unde et ro-
 						gat, dicens 'concede', et verecunde 'pauca' postulat et eam adiurat 
 						etiam 'sic tibi cum fluctus subterlabere Sicanos'. per Arethusam 
@@ -6212,8 +6211,8 @@
 					
 					<p><hi rend="caps">sic tibi cum fluctus s. l. s.</hi> varia enim opinio est: nam 
 						alii dicunt, ad Arethusam, nympham Siciliae, Alpheum <hi rend="italics">de</hi> Elide 
-						venire per maria, secundum quos dixit &quot;Alpheum fama est huc 
-						Elidis amnem&quot;; alii dicunt ipsam Arethusam iam in fontem mu-
+						venire per maria, secundum quos dixit "Alpheum fama est huc 
+						Elidis amnem"; alii dicunt ipsam Arethusam iam in fontem mu-
 						tatam Alpheum fugere et de Elide ad Siciliam venire, quod nunc 
 						est secutus. <hi rend="italics">sane dicitur quodam tempore patera aurea in Arethusa 
 							inventa, quam olympionices in Alpheum miserat. et cum Olympiae 
@@ -6233,9 +6232,9 @@
 					
 					<p><hi rend="caps">sollicitos</hi> sollicitatos, plenos sollicitudinis post Cytheridis 
 						abscessum, quam Lycorin vocat. fuerunt autem uno tempore no-
-						biles meretrices tres, Cytheris, Origo, Arbuscula: Horatius &quot;explosa 
-						Arbuscula dixit&quot;, idem &quot;ut quondam Marsaeus, amator Ori-
-						ginis ille, qui patrium mimae donat fundumque laremque&quot;. 
+						biles meretrices tres, Cytheris, Origo, Arbuscula: Horatius "explosa 
+						Arbuscula dixit", idem "ut quondam Marsaeus, amator Ori-
+						ginis ille, qui patrium mimae donat fundumque laremque". 
 					</p>
 				</div2>
 				
@@ -6273,8 +6272,8 @@
 				
 				<div2 type="commline" n="10">
 					
-					<p><hi rend="caps">indigno</hi> vel meretricio vel magno: nam et Ennius ait &quot;in-
-						dignas turres&quot;, id est magnas. <hi rend="italics">alii 'indigno' non quia Cytheris 
+					<p><hi rend="caps">indigno</hi> vel meretricio vel magno: nam et Ennius ait "in-
+						dignas turres", id est magnas. <hi rend="italics">alii 'indigno' non quia Cytheris 
 							pulchra non fuerit, sed quia Gallus ab ea spretus sit.</hi> 
 					</p>
 				</div2>
@@ -6367,7 +6366,7 @@
 						'upilio'&mdash;nam 'opilio' dicimus&mdash;et graeco usus est schemate, 
 						sicut illi dicunt <foreign lang="greek">ou)/noma</foreign> pro eo quod est <foreign lang="greek">o)/noma</foreign> et <foreign lang="greek">ou)/rh</foreign> pro eo 
 						quod est <foreign lang="greek">o)/rh.</foreign> <hi rend="caps">tardi venere subulci</hi> <hi rend="italics">'tardi'</hi> id est stulti&mdash; 
-						Terentius in Heautontimorumeno &quot;tardus es&quot;, id est 
+						Terentius in Heautontimorumeno "tardus es", id est 
 						stultus&mdash;: nam porci cito ambulant. <hi rend="italics">alii pro 'fatigati' accipiunt. 
 							'subulci' autem pastores porcorum.</hi> 
 					</p>
@@ -6417,7 +6416,7 @@
 					
 					<p><hi rend="caps">quem vidimus ipsi</hi> <hi rend="italics">utrum, quia praesentia numina agrestium, 
 						et ipse et fauni: an quia</hi> solent numina plerumque se rusticis of-
-						ferre: unde est &quot;satis est potuisse videri&quot;. notandum 
+						ferre: unde est "satis est potuisse videri". notandum 
 						sane quod ea numina plerumque, quae amaverunt, dicit ad ama-
 						torem venire: nam Apollo amavit Daphnen, Pan Syringa, Silvanus 
 						Cupressum. 
@@ -6430,7 +6429,7 @@
 						mile. 'minio' autem ideo, quia</hi> facie rubra pingitur Pan propter 
 						aetheris similitudinem: aether autem est Iuppiter. unde etiam 
 						triumphantes, qui habent omnia Iovis insignia, sceptrum, palma-
-						tam&mdash;unde ait Iuvenalis &quot;in tunica Iovis&quot;&mdash;, faciem 
+						tam&mdash;unde ait Iuvenalis "in tunica Iovis"&mdash;, faciem 
 						quoque de rubrica inlinunt instar coloris aetherii. 
 					</p>
 				</div2>
@@ -6522,8 +6521,8 @@
 						tam longe obes, ut nolim credere, te tam longe abesse: vel certe:</hi> modo 
 						es tu procul tantum a civitate, quae soles urbibus frui. et per 
 						parenthesin dictum est 'nec sit mihi credere', id est quod utinam 
-						non credam: <hi rend="italics">Terentius in Heautontimorumeno &quot;miserum? 
-							quem minus credere est&quot;</hi>. hi autem omnes versus Galli sunt, de 
+						non credam: <hi rend="italics">Terentius in Heautontimorumeno "miserum? 
+							quem minus credere est"</hi>. hi autem omnes versus Galli sunt, de 
 						ipsius translati carminibus. 
 					</p>
 				</div2>
@@ -6537,7 +6536,7 @@
 				
 				<div2 type="commline" n="48">
 					
-					<p><hi rend="caps">me sine sola vides</hi> hinc est &quot;sola domo maeret vacua&quot;. <pb/> 
+					<p><hi rend="caps">me sine sola vides</hi> hinc est "sola domo maeret vacua". <pb/> 
 						<hi rend="italics"><hi rend="caps">me sine s. v.</hi> nam meretrix sola esse non potest. <hi rend="caps">a te ne frigora laedant</hi> inconstantem animum expressit, miserantem et optantem.</hi> 
 					</p>
 				</div2>
@@ -6596,7 +6595,7 @@
 				<div2 type="commline" n="60">
 					
 					<p><hi rend="caps">tamqvam haec sit n. m. f.</hi> iam quasi ad se recurrit et 
-						illud, quod supra audiit, respicit &quot;Amor non talia curat&quot;. 
+						illud, quod supra audiit, respicit "Amor non talia curat". 
 					</p>
 				</div2>
 				
@@ -6620,7 +6619,7 @@
 					
 					<p><hi rend="caps">ipsae rursus c. s.</hi> propter illud 'iam mihi per rupes 
 						videor lucosque sonantes ire'. <hi rend="italics">'concedite' vero hic 'abite', supra alite 
-							&quot;concede laborem&quot;.</hi> 
+							"concede laborem".</hi> 
 					</p>
 				</div2>
 				
@@ -6650,21 +6649,21 @@
 				<div2 type="commline" n="68">
 					
 					<p><hi rend="caps">versemus</hi> pascamus, <hi rend="italics">quoniam qui pascit, huc et illuc agit 
-						pecus, quod est versare, ut est in Aeneide &quot;tu currum de-
-						serto in gramine versas&quot;: aut exerceamus et tractemus, ut in un-
-						decimo &quot;consilio versare dolos ingressus&quot; et item 
-						&quot;seu versare dolos seu certae occumbere morti&quot;</hi>. 
+						pecus, quod est versare, ut est in Aeneide "tu currum de-
+						serto in gramine versas": aut exerceamus et tractemus, ut in un-
+						decimo "consilio versare dolos ingressus" et item 
+						"seu versare dolos seu certae occumbere morti"</hi>. 
 					</p>
 				</div2>
 				
 				<div2 type="commline" n="69">
 					
 					<p><hi rend="italics"><hi rend="caps">omnia vincit amor et nos cedamus amori</hi> cuivis enim fa-
-						cilius quam Amori repugnatur, quod eleganter Plautus explicuit &quot;qui 
+						cilius quam Amori repugnatur, quod eleganter Plautus explicuit "qui 
 						amans egens ingressus est princeps in Amoris viam, supera-
 						vit aerumnis in suis aerumnas Herculis: nam cum leone, <pb/> 
 						cum excetra, cum apro Aetolico, cum avibus Stymphalicis, 
-						cum Antaeo me deluctari malueram, quam cum Amore&quot;.</hi> 
+						cum Antaeo me deluctari malueram, quam cum Amore".</hi> 
 					</p>
 				</div2>
 				
@@ -6695,8 +6694,8 @@
 				<div2 type="commline" n="76">
 					
 					<p><hi rend="italics"><hi rend="caps">nocent</hi></hi> <hi rend="caps">et frugibus umbrae</hi> quanto magis hominibus? 
-						unde est in georgicis &quot;et ruris opaci falce premes 
-						umbram&quot;, et item alibi &quot;aut umbra nocet&quot;. 
+						unde est in georgicis "et ruris opaci falce premes 
+						umbram", et item alibi "aut umbra nocet". 
 					</p>
 				</div2>
 				
@@ -6708,9 +6707,9 @@
 						tiam, ultimum se voluit esse, non principem in scribendis bucoli-
 						cis: <hi rend="italics">quamvis alii dicant, ideo eum etiam capellarum se memorasse pa-
 							storem, quod apud nonnullos de capris propter abundantiam lactis vel 
-							fetuum maior fructus putetur, ut ipse ait &quot;densior hinc suboles, hinc 
-							largi copia lactis&quot;, et item &quot;quo minor est illis curae mortalis 
-							egestas&quot;</hi>. <pb/> </p>
+							fetuum maior fructus putetur, ut ipse ait "densior hinc suboles, hinc 
+							largi copia lactis", et item "quo minor est illis curae mortalis 
+							egestas"</hi>. <pb/> </p>
 				</div2>
 			</div1>
 		</body>

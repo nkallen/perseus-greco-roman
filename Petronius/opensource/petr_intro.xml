@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -137,16 +136,13 @@
 					from the modern world until the middle of the seventeenth century, and was first
 					printed in 1664.<note>See section on the text, <hi rend="italics">codex
 						Traguriensis.</hi></note></p>
-				<p>It is as difficult to grasp any structural outline in the <hi rend="italics"
-					>Satyricon</hi> as it is in <hi rend="italics">Tristram Shandy.</hi> Both
+				<p>It is as difficult to grasp any structural outline in the <hi rend="italics">Satyricon</hi> as it is in <hi rend="italics">Tristram Shandy.</hi> Both
 					alternate with flashing rapidity between exhibitions of pedantry, attacks on
 					pedants, and indecency, in which Sterne is the more successful because he is the
 					less obvious.</p>
 				<p>But Petronius, so far as his plan was not entirely original, was following as model
 					Varro's Menippean satires, and had before him the libel of Seneca on Claudius, the
-					<hi rend="italics">Apocolocyntosis.</hi> The traditional title of his work, <hi
-						rend="italics">Satyricon,</hi> is derived from the word <hi rend="italics"
-							>Satura, a medley,</hi> and means that he was free to pass at will from subject
+					<hi rend="italics">Apocolocyntosis.</hi> The traditional title of his work, <hi rend="italics">Satyricon,</hi> is derived from the word <hi rend="italics">Satura, a medley,</hi> and means that he was free to pass at will from subject
 					to subject, and from prose to verse and back: it is his achievement that the threads
 					of his story, broken as we hold them, yet show something of the colour and variety
 					of life itself. We call his book a novel, and so pay him a compliment which he alone
@@ -156,8 +152,7 @@
 					of the eighteenth century, making Observations on the Greek and Roman Classics in a
 					Series of Letters to a Young Nobleman,<note>Published in London, 1753.</note> is of
 					the opinion that: <quote>You will in no Writer, my dear Lord, meet with so much true
-						delicacy of thought, in none with purer language.</quote> This judgment is<pb
-							id="p.xi"/> meant for the age of Smollett and Fielding; but there is no question
+						delicacy of thought, in none with purer language.</quote> This judgment is<pb id="p.xi"/> meant for the age of Smollett and Fielding; but there is no question
 					of the justice of the later remark:<quote>You will be charmed with the ease, and you
 						will be surprised with the variety of his characters.</quote></p>
 				<p>These characters are one and all the product of a period in history when the primary
@@ -222,8 +217,7 @@
 					Scintilla, the wife of Trimalchio's friend Habinnas, a monumental mason, is more
 					drunken and unseemly, and leaves behind her a less sharp taste of character.</p>
 				<p>Trimalchio's dinner breaks up with a false alarm of fire, and the infamous heroes of
-					the story give Agamemnon the slip. Trimalchio vanishes, and with his loss<pb
-						id="p.xiv"/> the story becomes fragmentary once more, and declines in interest
+					the story give Agamemnon the slip. Trimalchio vanishes, and with his loss<pb id="p.xiv"/> the story becomes fragmentary once more, and declines in interest
 					almost as much as in decency. Its attraction lies in the verse and criticism put
 					into the mouth of Eumolpus, a debased poet whom Encolpius meets in a picture
 					gallery. With him the adventures of the trio continue. There is a lodging-house
@@ -246,15 +240,10 @@
 					proverbs with their misleading hints of modernity,<note>See especially c. 41 to 46,
 						57 to 59.</note> the debased syntax and abuse of gender, which fell from
 					common<pb id="p.xv"/> lips daily, but is reproduced here alone in its
-					fullness;<note>See e.g. the notes of Buecheler or Friedlaender on the verbs<hi
-						rend="italics">apoculamus</hi> (c. 62), <hi rend="italics">duxissenz</hi>
-						(c. 57), <hi rend="italics">plovebat</hi> (c. 44), <hi rend="italics"
-							>percolopabant</hi> (c. 44), the nouns <hi rend="italics">agaga</hi> (c.
-						69), <hi rend="italics">babaecalis</hi> (c. 37),<hi rend="italics"
-							>bacalusias</hi> (c. 41), <hi rend="italics">barcalae</hi> (c. 67), <hi
-								rend="italics">burdubasta</hi> (c. 45), <hi rend="italics">gingilipho</hi>
-						(c. 73), and such expressions as <hi rend="italics">caelus hic</hi> (c. 39), <hi
-							rend="italics">malus Fatzhs</hi> (c. 42), <hi rend="italics">olim
+					fullness;<note>See e.g. the notes of Buecheler or Friedlaender on the verbs<hi rend="italics">apoculamus</hi> (c. 62), <hi rend="italics">duxissenz</hi>
+						(c. 57), <hi rend="italics">plovebat</hi> (c. 44), <hi rend="italics">percolopabant</hi> (c. 44), the nouns <hi rend="italics">agaga</hi> (c.
+						69), <hi rend="italics">babaecalis</hi> (c. 37),<hi rend="italics">bacalusias</hi> (c. 41), <hi rend="italics">barcalae</hi> (c. 67), <hi rend="italics">burdubasta</hi> (c. 45), <hi rend="italics">gingilipho</hi>
+						(c. 73), and such expressions as <hi rend="italics">caelus hic</hi> (c. 39), <hi rend="italics">malus Fatzhs</hi> (c. 42), <hi rend="italics">olim
 								oliorum</hi> (c. 43), <hi rend="italics">nummorum Izzmmos</hi> (c. 37), and the
 						Graecisms <hi rend="italics">saplutus</hi> and <hi rend="italics">topanta</hi>
 						(c. 37).</note> and side by side with these mirrored vulgarisms the gravity of
@@ -288,8 +277,7 @@
 					of Latin: he is fortunate if he adds a few to those who know something of Petronius
 					beyond his name and the worst of his reputation.</p>
 				<p>The thanks of the editors and the translator are due to Messrs. Weidmann of Berlin,
-					who have generously placed at their disposal a copyright text of the<hi
-						rend="italics">Satyricon,</hi> the epoch-making work of the late Professor
+					who have generously placed at their disposal a copyright text of the<hi rend="italics">Satyricon,</hi> the epoch-making work of the late Professor
 					Buecheler.</p>
 				<p>Mr. H. E. Butler, Professor of Latin in the University of London, is responsible for
 					the selection of critical notes from Buecheler's <hi rend="italics">editio
@@ -316,8 +304,7 @@
 					which, save for a very few brief excerpts in L and O, is our sole authority for the
 					<hi rend="italics">cena Trimalchionis.</hi> This MS. was discovered in 1650 at
 					Trau in Dalmatia. It is known as H.</p>
-				<p>The text was not put on a scientific basis till the appearance of Buecheler's <hi
-					rend="italics">Editio maior</hi> in 1862.</p>
+				<p>The text was not put on a scientific basis till the appearance of Buecheler's <hi rend="italics">Editio maior</hi> in 1862.</p>
 				<p>In the Apparatus Criticus the source of the most important corrections is stated, and
 					followed by the reading given by Buecheler in his <hi rend="italics">editio
 						minor</hi> as the probable reading of the archetype or as the oldest reading

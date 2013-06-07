@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader>
@@ -1184,7 +1184,7 @@
 <lb type="displayNum" n="172"/>tempore iusto,
 <lb type="displayNum" n="173"/>octo tunc sanctos recolet decemque
 <lb type="displayNum" n="174"/>angelus coram Patre Filioque
-<lb type="displayNum" n="175"/>urbis unius regimen tenentes <note n="marg">175></note>
+<lb type="displayNum" n="175"/>urbis unius regimen tenentes <note n="marg">175&gt;</note>
 <lb type="displayNum" n="176"/>iure sepulcri.
 <lb type="displayNum" n="177"/>quin ad antiquum numerum trahetur
 <lb type="displayNum" n="178"/>viva post poenae specimen puella,

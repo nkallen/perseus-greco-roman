@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 &responsibility;
 &fund.NEH;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -2576,16 +2575,16 @@
 </p>
 <p>The definite powers of the Areiopagus were never at any time taken from it. But Ephialtes abolished almost wholly the indefinite powers. It is for the ievival of these &mdash; especially of (3) and (4) &mdash; that Isocrates is anxious. While it possessed these, the Areiopagus had been the strongest influence, though mainly a negative influence, in the State; it had been able to impress a conservative character upon the whole civic body. Deprived of these, it was merely a criminal court of narrow competence. Its connection with what was most venerable in the old religion, and the high standing of its individual members, still secured to it, indeed, a large measure of respect. Isocrates speaks of the good influence which, even in his own day, wrought on those who became members of the college. But politically the Areiopagus was now powerless. The plea of Isocrates for a restoration of its strength is strikingly illustrated by the protest of Aeschylus against its enfeeblement. It is not on any well-defined function, but rather on those prerogatives <pb n="342"/> which, being vague, were boundless, that orator and poet alike insist: &mdash; 
 </p>
-<p></p>
+<p/>
 <p>Here, on the Hill of Ares, Once seat and camp of Amazons who came In anger against Theseus, and defied From their new ramparts his acropolis, And poured blood unto Ares, where is now The hill, the rock of Ares &mdash; in this place Awe kin to dread shall hold the citizens From sinning in the darkness or the light, While their own voices do not change the laws.
 </p>
-<p></p>
+<p/>
 <p>&ast; &ast; &ast; &ast; &ast; &ast;
 </p>
-<p></p>
+<p/>
 <p>This Court, majestic, incorruptible, Instant in anger, over those who sleep The sleepless watcher of my land I set.
 </p>
-<p></p>
+<p/>
     <p><bibl n="Jebb Orators 16.2.3"><title>Attic Orators</title>, II. 202</bibl>: 211.
 </p>
 <div3 type="section" n="36">
@@ -2725,7 +2724,7 @@
 </p>
 <p><lemma lang="greek" targOrder="U">xoreu/ontas &mdash; xeima/zontas</lemma> A <foreign lang="greek">paronomasi/a</foreign>, like <foreign lang="greek">eu)fuei=s &mdash;  dustuxei=s</foreign>, &sect; 49. Antiphanes, the poet of the Middle Comedy (flor. about 380 &mdash; 330 B.C.), was exactly contemporary with Isocr.; and, in the passage quoted by Athenaeus III. 62, he thus describes the uncertainties of human life &mdash; 
 </p>
-<p></p>
+<p/>
 <p><lemma lang="greek" targOrder="U">o(/stis a)/nqrwpos de\ fu\s a)sfale/s ti kth=m'  u(pa/rxein tw=| bi/w| logi/zetai plei=ston h(ma/rthken. h)\ ga\r ei)sfora/ tis h(/rpake ta)/ndoqen pa/nt': h)\ di/kh| tis peripesw\n a)pw/leto: h)\ strathgh/sas prosw=flen: h)\ xorhgo\s ai(reqei/s, i(ma/tia xrusa= parasxw\n tw=| xorw=| r(a/kos forei=</lemma>.
 </p></div3>
 <div3 type="section" n="55">
@@ -2911,7 +2910,7 @@
 </p>
 <p>Ten years more elapsed (&sect; 35). Meanwhile the nephews of the testator had grown up. They now resolved to seek redress for their mothers and themselves. They began by bringing an action against one Lycon, who had been called by Dicaeogenes III. as a witness to the second will. Lycon was convicted of perjury.
 </p>
-<p>The state of things was now this: &mdash; Dicaeogenes III. had himself declared the first will &mdash; which gave him one-third &mdash; to be invalid. The judges of Lycon had declared the second will  &mdash; which gave him all &mdash; to be false. Accordingly, the nephews (with the exception of Menexenus II., who had deserted their cause) now sued Dicaeogenes III. for the <hi rend="ital">whole</hi> estate. One Leochares interposed a protest (<foreign lang="greek">diamarturi/a</foreign>) that their claim was inadmissible. They indicted Leochares for perjury. Leochares was certain to be convicted. Dicaeogenes III. therefore made a compromise. He was to keep his original onethird, and leave his adversaries in secure possession of the other two-thirds. Leochares and Mnesiptolemus became his sureties for the performance of this engagement. <pb n="364"/> <figure></figure></p><p>In &sect; 26 according to the vulgate, Dicaeogenes III. betroths to Protarchides <foreign lang="greek">th\n a)delfh\n th\n e(autou=</foreign>. The context favours the emendation of H. Weissenborn, adopted by Scheibe, <foreign lang="greek">th\n a)delfidh=n th\n e(autou=</foreign>: but this cannot have been the speaker's sister. &mdash; Reiske proposed <foreign lang="greek">th\n a)delfh\n th\n e)mautou=</foreign>: Sch&ouml;mann, <foreign lang="greek">th\n a)delfh\n th\n tou/tou</foreign> (Cephisodotus) or <foreign lang="greek">th\n tou=</foreign> &mdash; , supposing the brother's name lost. &mdash; For a complete table of the house of Menexenus I. see Sch&auml;fer, <title>Demosthenes und seine Zeit</title>, III. Part 2, p. 212. <pb n="365"/>
+<p>The state of things was now this: &mdash; Dicaeogenes III. had himself declared the first will &mdash; which gave him one-third &mdash; to be invalid. The judges of Lycon had declared the second will  &mdash; which gave him all &mdash; to be false. Accordingly, the nephews (with the exception of Menexenus II., who had deserted their cause) now sued Dicaeogenes III. for the <hi rend="ital">whole</hi> estate. One Leochares interposed a protest (<foreign lang="greek">diamarturi/a</foreign>) that their claim was inadmissible. They indicted Leochares for perjury. Leochares was certain to be convicted. Dicaeogenes III. therefore made a compromise. He was to keep his original onethird, and leave his adversaries in secure possession of the other two-thirds. Leochares and Mnesiptolemus became his sureties for the performance of this engagement. <pb n="364"/> <figure/></p><p>In &sect; 26 according to the vulgate, Dicaeogenes III. betroths to Protarchides <foreign lang="greek">th\n a)delfh\n th\n e(autou=</foreign>. The context favours the emendation of H. Weissenborn, adopted by Scheibe, <foreign lang="greek">th\n a)delfidh=n th\n e(autou=</foreign>: but this cannot have been the speaker's sister. &mdash; Reiske proposed <foreign lang="greek">th\n a)delfh\n th\n e)mautou=</foreign>: Sch&ouml;mann, <foreign lang="greek">th\n a)delfh\n th\n tou/tou</foreign> (Cephisodotus) or <foreign lang="greek">th\n tou=</foreign> &mdash; , supposing the brother's name lost. &mdash; For a complete table of the house of Menexenus I. see Sch&auml;fer, <title>Demosthenes und seine Zeit</title>, III. Part 2, p. 212. <pb n="365"/>
 </p>
     <p>Leochares is now sued (by an <foreign lang="greek">e)ggu/hs di/kh</foreign>) to discharge his liability as surety, since his principal Dicaeogenes III. has made default. The speaker, son of Polyaratus (&sect; 5), is one of the nephews of the testator, and is supported by his first-cousin Cephisodotus (&sect; 2). &mdash; <bibl n="Jebb Orators 21.7.1"><title>Attic Orators</title>, II. 349</bibl>.
 </p>
@@ -3069,7 +3068,7 @@
 </p>
 <p><lemma lang="greek" targOrder="U">e)n *puqi/ou</lemma> i.e. <foreign lang="greek">e)n tw=| *)apo/llwnos *puqi/ou i(erw=|</foreign>. In May, 1877, the site of the <foreign lang="greek">*pu/qion</foreign> was identified by the discovery of an inscribed altar-stone on the right bank of the Ilissus, N. W. of the temple of Zeus Olympius. This stone belonged to the altar erected by Peisistratus (grandson of the tyrant), and mentioned by Thuc. (VI. 54) as bearing in letters which even then were &lsquo;faint&rsquo;, <foreign lang="greek">a)mudroi=s gra/mmasi</foreign>, the couplet: &mdash; 
 </p>
-<p></p>
+<p/>
 <p><lemma lang="greek" targOrder="U">mnh=ma to/d'  h(=s a)rxh=s *peisi/stratos *(ippi/ou ui(o\s qh=ken *)apo/llwnos *puqi/ou e)n teme/nei</lemma>.
 </p></div3>
 <div3 type="section" n="42">
@@ -3114,7 +3113,7 @@
 </p>
 <p>Theopompus had already, under a legal decision, taken this estate away from Phylomach&egrave; II. (see the stemma), daughter of his own second cousin Eubulides II.
 </p>
-<p>The essential points are these: &mdash; (1) Theopompus and Hagnias were the sons of <foreign lang="greek">a)neyioi/</foreign>, first-cousins, and were therefore <hi rend="ital">second</hi>-cousins to each other: (2) Eubulides II., father of Phylomach&egrave; II., was <hi rend="ital">first</hi>-cousin of Hagnias. <pb n="380"/> <figure></figure> <pb n="381"/>
+<p>The essential points are these: &mdash; (1) Theopompus and Hagnias were the sons of <foreign lang="greek">a)neyioi/</foreign>, first-cousins, and were therefore <hi rend="ital">second</hi>-cousins to each other: (2) Eubulides II., father of Phylomach&egrave; II., was <hi rend="ital">first</hi>-cousin of Hagnias. <pb n="380"/> <figure/> <pb n="381"/>
 </p>
 <div3 type="section" n="1">
 
@@ -3246,7 +3245,7 @@
 </p>
 <p>The only indication of the date is that the speaker and his brother were born after the archonship of Eucleides, Ol. 94. 2, 403 B.C. (&sect; 43, <foreign lang="greek">met'  *eu)klei/dhn ga\r a)/rxonta gego/namen</foreign>). The speech cannot, then, be put before 383 B.C. On the other hand, the speaker's plea of &lsquo;utter inexperience&rsquo; (&sect; 5) implies youthfulness. Now, if he was a young man, the date cannot be much below 383, since otherwise it would have been superfluous for him to tell the judges that he was born after <pb n="389"/> 403. The date is probably about 375 B.C. &mdash; <bibl n="Jebb Orators 21.5.3"><title>Attic Orators</title>, II. 327</bibl> f.
 </p>
-<p>This speech exhibits the powers of Isaeus perhaps at their best, in its combination of the old plainness with the modern force, of artistic narrative with trenchant proof. It is here given in full, with the exception of four sections at the end (43 &mdash; 46). <figure></figure>
+<p>This speech exhibits the powers of Isaeus perhaps at their best, in its combination of the old plainness with the modern force, of artistic narrative with trenchant proof. It is here given in full, with the exception of four sections at the end (43 &mdash; 46). <figure/>
 </p>
 <div3 type="section" n="1">
 

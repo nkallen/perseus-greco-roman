@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -4781,7 +4780,7 @@
 			<p>Tyrrhenum mare, 114</p>
 			<p>UMBRI, 120</p>
 			<p>Utens, 120</p>
-			<p>VALERIUS POTITUS (<hi rend="italics">also surnamed</hi> Publicola), L., 2, 34, 44, 50, 52, 60, 88, 96, 108 (<hi rend="italics"></hi>b<hi rend="italics">is</hi>), 110, 162, 196, 210, 212, 224 (<hi rend="italics">ter</hi>), 268, 288; Valerius Maximus, M., 50, 82 (<hi rend="italics">bis);</hi> Valerius Potitus Publicola, P., 212, 214, 216, 218, 224, 254, 288, 304 (<hi rend="italics">bis</hi>), 318, 346; Valerius (<hi rend="italics">tr.</hi> <hi rend="italics">mil.</hi> <date value="-370">370 B.C.</date>), 318; Valerius Publicola, <hi rend="italics">M. (son of P., grandson of L., cos</hi> 355 <hi rend="italics">and</hi> <date value="-353">353 B.C.</date>), 394, 406, 414, 416, 420, 422; Valerius Publicola, , <hi rend="italics">P. (brother of</hi> Marcus, <hi rend="italics">praetor</hi> 350, <hi rend="italics">dictator</hi> <date value="-344">344 B.C.</date>), 426, 432, 454; Valerius Corvus (<hi rend="italics">or</hi> Corvinus), M., 442, 444, 446 (<hi rend="italics">bis</hi>), 448, 454, 468, 470, 490 (<hi rend="italics">bis</hi>), 502, 504, 512, 514. 516; Valeriani, 226</p>
+			<p>VALERIUS POTITUS (<hi rend="italics">also surnamed</hi> Publicola), L., 2, 34, 44, 50, 52, 60, 88, 96, 108 (<hi rend="italics"/>b<hi rend="italics">is</hi>), 110, 162, 196, 210, 212, 224 (<hi rend="italics">ter</hi>), 268, 288; Valerius Maximus, M., 50, 82 (<hi rend="italics">bis);</hi> Valerius Potitus Publicola, P., 212, 214, 216, 218, 224, 254, 288, 304 (<hi rend="italics">bis</hi>), 318, 346; Valerius (<hi rend="italics">tr.</hi> <hi rend="italics">mil.</hi> <date value="-370">370 B.C.</date>), 318; Valerius Publicola, <hi rend="italics">M. (son of P., grandson of L., cos</hi> 355 <hi rend="italics">and</hi> <date value="-353">353 B.C.</date>), 394, 406, 414, 416, 420, 422; Valerius Publicola, , <hi rend="italics">P. (brother of</hi> Marcus, <hi rend="italics">praetor</hi> 350, <hi rend="italics">dictator</hi> <date value="-344">344 B.C.</date>), 426, 432, 454; Valerius Corvus (<hi rend="italics">or</hi> Corvinus), M., 442, 444, 446 (<hi rend="italics">bis</hi>), 448, 454, 468, 470, 490 (<hi rend="italics">bis</hi>), 502, 504, 512, 514. 516; Valeriani, 226</p>
 			<p>Veii, 2 <hi rend="italics">et passim;</hi> Veientes, 2 <hi rend="italics">et</hi> <hi rend="italics">passim;</hi> Veiens ager, 150, 200, 242; hostis, 126, populus, 54, praeda, 70, bellum, 28, 56, 58, 108. 172, 176, 240; Veientanus ager. 82, 106; Veientana arx, 74, praeda, 88, 112</p>
 			<p>Velitrae, 234, 238, 254, 268, 270, 290, 298, 318, 320 (<hi rend="italics">bis</hi>), 346; Veliternae. 268, 406; Veliternus hostis, 272; Veliternum bellum, 332; Veliterni coloni, 318</p>
 			<p>Veneti, 116</p>

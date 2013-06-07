@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
 <teiHeader>
@@ -27,10 +26,8 @@
 
 <encodingDesc>
 <refsDecl>
-<step refunit="book" delim="."
-      from="DESCENDANT (1 DIV1 N %1)" to="DITTO" />
-<step refunit="line"
-      from="DESCENDANT (%2 L)" to="DITTO" />
+<step refunit="book" delim="." from="DESCENDANT (1 DIV1 N %1)" to="DITTO"/>
+<step refunit="line" from="DESCENDANT (%2 L)" to="DITTO"/>
 </refsDecl>
 </encodingDesc>
 
@@ -444,7 +441,7 @@ card breaks not yet aligned
 <l>dedicat et multo vacui minus intus habere.</l>
 <l>est igitur ni mirum id quod ratione sagaci</l>
 <l>quaerimus, admixtum rebus, quod inane vocamus.</l>
-<milestone unit="card" n="370" />
+<milestone unit="card" n="370"/>
 <l n="370">Illud in his rebus ne te deducere vero</l>
 <l>possit, quod quidam fingunt, praecurrere cogor.</l>
 <l>cedere squamigeris latices nitentibus aiunt</l>
@@ -626,7 +623,7 @@ card breaks not yet aligned
 <l>sunt igitur solida primordia simplicitate</l>
 <l>nec ratione queunt alia servata per aevom</l>
 <l n="550">ex infinito iam tempore res reparare.</l>
-<milestone unit="card" n="551" />
+<milestone unit="card" n="551"/>
 <l>denique si nullam finem natura parasset</l>
 <l>frangendis rebus, iam corpora materiai</l>
 <l>usque redacta forent aevo frangente priore,</l>
@@ -2484,7 +2481,7 @@ card breaks not yet aligned
 <l n="95">in quo consilium vitae regimenque locatum est,</l>
 <l>esse hominis partem nihilo minus ac manus et pes</l>
 <l>atque oculei partes animantis totius extant.</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>sensum animi certa non esse in parte locatum,</l>
 <l>verum habitum quendam vitalem corporis esse,</l>
 <l n="100">harmoniam Grai quam dicunt, quod faciat nos</l>
@@ -2935,7 +2932,7 @@ card breaks not yet aligned
 <l n="535">atque ideo cunctis sensum diducere membris,</l>
 <l>at locus ille tamen, quo copia tanta animai</l>
 <l>cogitur, in sensu debet maiore videri;</l>
-<l>qui quoniam nusquamst, ni mirum, ut diximus [ante>,</l>
+<l>qui quoniam nusquamst, ni mirum, ut diximus [ante&gt;,</l>
 <l>dilaniata foras dispargitur, interit ergo.</l>
 <l n="540">quin etiam si iam libeat concedere falsum</l>
 <l>et dare posse animam glomerari in corpore eorum,</l>
@@ -3229,7 +3226,7 @@ card breaks not yet aligned
 <l>aut quia non veniunt omnino aliena salutis,</l>
 <l> aut quia quae veniunt aliqua ratione recedunt</l>
 <l>pulsa prius quam quid noceant sentire queamus,</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>praeter enim quam quod morbis cum corporis aegret,</l>
 <l n="825">advenit id quod eam de rebus saepe futuris</l>
 <l>macerat inque metu male habet curisque fatigat,</l>
@@ -3474,7 +3471,7 @@ card breaks not yet aligned
 <l>quid sibi quisque velit nescire et quaerere semper,</l>
 <l>commutare locum, quasi onus deponere possit.</l>
 <l n="1060">exit saepe foras magnis ex aedibus ille,</l>
-<l>esse domi quem pertaesumst, subitoque [revertit>,</l>
+<l>esse domi quem pertaesumst, subitoque [revertit&gt;,</l>
 <l>quippe foris nihilo melius qui sentiat esse.</l>
 <l>currit agens mannos ad villam praecipitanter</l>
 <l>auxilium tectis quasi ferre ardentibus instans;</l>
@@ -3643,7 +3640,7 @@ card breaks not yet aligned
 <l>expirant acrem, panaces absinthia taetra</l>
 <l n="125">habrotonique graves et tristia centaurea,</l>
 <l>quorum unum quidvis leviter si forte duobus</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>quin potius noscas rerum simulacra vagari</l>
 <l>multa modis multis, nulla vi cassaque sensu?</l>
 <l>Sed ne forte putes ea demum sola vagari,</l>
@@ -3663,7 +3660,7 @@ card breaks not yet aligned
 <milestone unit="card" n="143"/>
 <l>Nunc ea quam facili et celeri ratione genantur</l>
 <l>perpetuoque fluant ab rebus lapsaque cedant</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l n="145">semper enim summum quicquid de rebus abundat,</l>
 <l>quod iaculentur. et hoc alias cum pervenit in res,</l>
 <l>transit, ut in primis vestem; sed ubi aspera saxa</l>
@@ -3814,7 +3811,7 @@ card breaks not yet aligned
 <l>et facit ut prius hunc quam se videamus, eoque</l>
 <l>distare ab speculo tantum semota videtur.</l>
 <l>quare etiam atque etiam minime mirarier est par</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l n="290">illis quae reddunt speculorum ex aequore visum,</l>
 <l>a&euml;ribus binis quoniam res confit utraque.</l>
 <l>Nunc ea quae nobis membrorum dextera pars est,</l>
@@ -4148,7 +4145,7 @@ card breaks not yet aligned
 <l>at simulacra viis derectis omnia tendunt,</l>
 <l n="610">ut sunt missa semel; qua propter cernere nemo</l>
 <l>saepe supra potis est, at voces accipere extra.</l>
-<l>et tamen ipsa quoque haec, dum transit clausa [domorum></l>
+<l>et tamen ipsa quoque haec, dum transit clausa [domorum&gt;</l>
 <l>vox optunditur atque auris confusa penetrat</l>
 <l>et sonitum potius quam verba audire videmur.</l>
 <milestone unit="card" n="615"/>
@@ -4536,7 +4533,7 @@ card breaks not yet aligned
 <l>quippe videbis equos fortis, cum membra iacebunt,</l>
 <l>in somnis sudare tamen spirareque semper</l>
 <l>et quasi de palma summas contendere viris</l>
-<l n="990">aut quasi carceribus patefactis [edere voces></l>
+<l n="990">aut quasi carceribus patefactis [edere voces&gt;</l>
 <l>venantumque canes in molli saepe quiete</l>
 <l>iactant crura tamen subito vocisque repente</l>
 <l>mittunt et crebro redducunt naribus auras.</l>
@@ -5893,7 +5890,7 @@ card breaks not yet aligned
 <milestone unit="card" n="1011"/>
 <l>Inde casas postquam ac pellis ignemque pararunt</l>
 <l>et mulier coniuncta viro concessit in unum</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>cognita sunt, prolemque ex se videre creatam,</l>
 <l>tum genus humanum primum mollescere coepit.</l>
 <l n="1015">ignis enim curavit, ut alsia corpora frigus</l>
@@ -6405,14 +6402,14 @@ card breaks not yet aligned
 <l n="45">et quae cumque in eo fiunt fierique necessest</l>
 <l>pleraque dissolui, qui restant percipe porro,</l>
 <l>quandoquidem semel insignem conscendere currum</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>tu mihi supremae praescripta ad candida callis</l>
 <l>currenti spatium praemonstra, callida musa</l>
 <l n="50">Calliope, requies hominum divomque voluptas,</l>
 <l>te duce ut insigni capiam cum laude coronam.</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l> ventorum existant, placentur [ut] omnia rursum</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>quae fuerint, sint placato conversa furore.</l>
 <l>cetera quae fieri in terris caeloque tuentur</l>
 <l n="55">mortales, pavidis cum pendent mentibus saepe</l>
@@ -6985,7 +6982,7 @@ card breaks not yet aligned
 <l n="605">ne pedibus raptim tellus subtracta feratur</l>
 <l>in barathrum rerumque sequatur prodita summa</l>
 <l>funditus et fiat mundi confusa ruina.</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <milestone unit="card" n="608"/>
 <l>Principio mare mirantur non reddere maius</l>
 <l>naturam, quo sit tantus decursus aquarum,</l>
@@ -7079,7 +7076,7 @@ card breaks not yet aligned
 <l n="695">radices frangit fluctus aestumque resolvit.</l>
 <l>ex hoc usque mari speluncae montis ad altas</l>
 <l>perveniunt subter fauces. hac ire fatendumst</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <l>et penetrare mari penitus res cogit aperto</l>
 <l>atque efflare foras ideoque extollere flammam</l>
 <l n="700">saxaque subiectare et arenae tollere nimbos.</l>
@@ -7226,7 +7223,7 @@ card breaks not yet aligned
 <l>scilicet in terram delabi pondere cogit</l>
 <l>natura, et vacuum prope iam per inane iacentes</l>
 <l>dispergunt animas per caulas corporis omnis.</l>
-<l><gap desc="*" /></l>
+<l><gap desc="*"/></l>
 <milestone unit="card" n="840"/>
 <l n="840">frigidior porro in puteis aestate fit umor,</l>
 <l>arescit quia terra calore et semina si qua</l>

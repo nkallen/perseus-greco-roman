@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -50,7 +49,7 @@
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -911,7 +910,7 @@
 <p><lemma>dirigenda</lemma> MSS., Edd. plerique; <hi rend="italics">derigenda</hi> Ed. </p>
 </div2>
 <div2 type="section" n="84">
-<p><lemma></lemma> <hi rend="italics">beni(e>)voli</hi> Stiirenbg.; <hi rend="italics">benivoli sunt</hi> c; <hi rend="italics">boni sunt</hi> B H a b.</p>
+<p><lemma/> <hi rend="italics">beni(e&gt;)voli</hi> Stiirenbg.; <hi rend="italics">benivoli sunt</hi> c; <hi rend="italics">boni sunt</hi> B H a b.</p>
 <p><lemma>Inc. Fab.,</lemma> Ribbeck2, 651.</p>
 </div2>
 <div2 type="section" n="86">
@@ -1027,4 +1026,3 @@
 </body>
 </text>
 </TEI.2>
-

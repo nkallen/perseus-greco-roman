@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -55,7 +54,7 @@
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -3172,7 +3171,7 @@ Dic mihi,<milestone unit="section" n="28"/> quaeso, <corr sic="Xentophonzis">Xen
 <corr sic="malls">malis</corr>? <reg>illud</reg>, inquit. <reg>quid</reg> si <corr sic="vested">uestem</corr> et ceterum
 ornatum muliebrem pretii maioris habeat, quam tu,
 tuumne an <corr sic="illins">illius</corr> malis? <reg>respondit</reg>, Illius vero. <reg>age</reg> sis,
-inquit, si virum illa meliorem habeat, quam tu> habes,
+inquit, si virum illa meliorem habeat, quam tu&gt; habes,
 utrumne tuum virium malis an illius?</hi><milestone unit="section" n="29"/> <reg>hic</reg> mulier
 erubuit, merito; male enim responderat se malle
 alienum aurum quam suum; nam est hoc improbum.

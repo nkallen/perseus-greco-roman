@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -49,7 +48,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 			<change><date>5/27/09</date><respStmt><name>RS</name><resp>(n/a)</resp></respStmt>
 				<item>
@@ -11813,7 +11812,7 @@ caeli temperie subverteret omnia, quae ex re sua struxere Romani.</p></div2></di
 
 <argument>
 
-<p>>Multi, etiam Senatores et Senatorii generis feninae, Romae veneficiorum, stuprorum et adulteriorum accusantur et supplicio afficiuntur.</p></argument>
+<p>&gt;Multi, etiam Senatores et Senatorii generis feninae, Romae veneficiorum, stuprorum et adulteriorum accusantur et supplicio afficiuntur.</p></argument>
 
 <p>
 
@@ -15131,7 +15130,7 @@ incensi malleoli, ad carraginem (quam ita ipsi appellant), aliti velocitate regr
 
 <milestone unit="section" n="8"/> Nihil post haec inter partes praeter indutias laxatum est breves. Reversis enim his quos necessitas evocarat,  <pb id="v3.p.430"/>  plebs omnis intra saeptorum ambitum etiam <corr sic="turn">tum</corr> contrusa, immaniter fremens, animisque concita truculentis, experiri postrema discrimina, nec principibus gentis, qui aderant, renuentibus, cupiditate raecipiti
 
-<note><hi rend="italics">cupiditate</hi> &lt;<hi rend="italics">praecipiti</hi>&gt; Her. c.c.; <hi rend="italics">cruditate</hi> &lt;<hi rend="italics">incohibili></hi>&gt; Nov&aacute;k; <hi rend="italics">concitate,</hi> Pet.; <hi rend="italics">cruditate,</hi> V.</note>
+<note><hi rend="italics">cupiditate</hi> &lt;<hi rend="italics">praecipiti</hi>&gt; Her. c.c.; <hi rend="italics">cruditate</hi> &lt;<hi rend="italics">incohibili&gt;</hi>&gt; Nov&aacute;k; <hi rend="italics">concitate,</hi> Pet.; <hi rend="italics">cruditate,</hi> V.</note>
 festinabat. Et quoniam haec sole <corr sic="ageantur">agebantur</corr> extremo, noxque adventans ad quietem invitos retinebat et maestos, capto per otium cibo, somni manserunt expertes.
 
 <milestone unit="section" n="9"/> Contra Romani, his cognitis, ipsi quoque exsomnes, verebantur hostes et male sanos eorum ductores, ut rabidas feras: eventum licet ancipitem, ut numero satis inferiores, prosperum tamen ob iustiorem sui causam, mentibus exspectantes impavidis.</p>
@@ -16539,4 +16538,4 @@ superponeret inquisivit.</p>
 </div1>
 </body>
 </text>
-</TEI.2> 
+</TEI.2>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -738,8 +737,8 @@ fama nec rumore, sed castris et armis tenemus: inventa
 <milestone n="4" unit="section"/>
 Britannia et subacta. equidem saepe in agmine, cum vos 
 paludes montesve et flumina fatigarent, fortissimi cuiusque 
-voces audiebam: &quot;quando dabitur hostis, quando in manus 
-veniet?&quot; veniunt, e latebris suis extrusi, et vota virtusque in 
+voces audiebam: "quando dabitur hostis, quando in manus 
+veniet?" veniunt, e latebris suis extrusi, et vota virtusque in 
 aperto, omniaque prona victoribus atque eadem victis adversa. 
 <milestone n="5" unit="section"/>
 nam ut superasse tantum itineris, evasisse silvas, 

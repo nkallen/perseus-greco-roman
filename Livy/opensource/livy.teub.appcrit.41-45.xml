@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -15,7 +14,7 @@
 	&fund.NEH;
       </titleStmt>
 	
-      <extent></extent>
+      <extent/>
       
 	&Perseus.publish;
       
@@ -52,8 +51,8 @@ Fragmenta. Index.</title>
     <encodingDesc>
 
       <refsDecl doctype="TEI.2">
-	<state delim="." unit="book" />
-	<state delim="." unit="chapter" n="chunk" />
+	<state delim="." unit="book"/>
+	<state delim="." unit="chapter" n="chunk"/>
 	<state unit="section"/>
       </refsDecl>
     </encodingDesc>
@@ -211,7 +210,7 @@ Fragmenta. Index.</title>
 <div3 type="section" n="2"><p>extemplo <hi rend="italics">seclusum</hi>] extemplo <hi rend="italics">V.</hi> </p></div3></div2>
 
 <div2 type="chapter" n="11">
-<div3 type="section" n="5"><p>(<hi rend="italics">fort.</hi> haec cum &lt;maxime&gt; volutantem). <hi rend="italics"></hi></p>
+<div3 type="section" n="5"><p>(<hi rend="italics">fort.</hi> haec cum &lt;maxime&gt; volutantem). <hi rend="italics"/></p>
 
 <p><lemma>hereditate</lemma>] hereditarium <hi rend="italics">V recte, cf. Vell. 2,39, 2 </hi> hereditaria relicta Asia <hi rend="italics">sim., Curt. 6, 8 (3), 12</hi> hereditarium accepit imperium, <hi rend="italics">Liv. 21, 3, 5 et 3, 18, 6; v. nunc de miro errore priorum Novak l. c. VII, 46. ib.</hi> </p></div3>
 
@@ -624,7 +623,7 @@ generaliter posito, velut Vict. Caes. 3, 9</hi> caesis primum paucioribus tamqua
 <div3 type="section" n="11"><p><lemma>accepti sint</lemma>]  accepissent <hi rend="italics">V.</hi> </p></div3></div2>
 
 <div2 type="chapter" n="27">
-<div3 type="section" n="1"><p><lemma>apparebat ibi</lemma>] apparebat <hi rend="italics">Florebellus,</hi> apparebat in <hi rend="italics">V, cf. Lex. Liv. F&uuml;gneri s. v.</hi> adpareo. <hi rend="italics"></hi></p>
+<div3 type="section" n="1"><p><lemma>apparebat ibi</lemma>] apparebat <hi rend="italics">Florebellus,</hi> apparebat in <hi rend="italics">V, cf. Lex. Liv. F&uuml;gneri s. v.</hi> adpareo. <hi rend="italics"/></p>
 
 <p><lemma>eum timere</lemma>] timeri <hi rend="italics">Vahlen,</hi> multitudinem (<hi rend="italics">ortum ex seq. vel ex c. 26, 13</hi>) timere <hi rend="italics">V.</hi> </p></div3></div2>
 
@@ -731,7 +730,7 @@ latet fort.</hi> tantum, <hi rend="italics">cf. 36, 7, 6.</hi> </p></div3></div2
 <div3 type="section" n="5"><p><lemma>et populorum</lemma>]  populorumque <hi rend="italics">H. J. M&uuml;ller Jhb. XXXIV, 83 coll. 24, 49, 2. 26, 43, 4. 37, 45, 8,</hi> populorum <hi rend="italics">V.</hi> </p></div3></div2>
 
 <div2 type="chapter" n="10">
-<div3 type="section" n="2"><p><lemma>ad Delum praesidio</lemma>] Deli in praesidio <hi rend="italics">scripsi, cf. 44, 13, 4; 36, 43, 2,</hi> delun praesidio <hi rend="italics">V</hi> (<hi rend="italics">de corruptela cf. c. 28, 9</hi> dieuter = diei iter). <hi rend="italics"></hi></p>
+<div3 type="section" n="2"><p><lemma>ad Delum praesidio</lemma>] Deli in praesidio <hi rend="italics">scripsi, cf. 44, 13, 4; 36, 43, 2,</hi> delun praesidio <hi rend="italics">V</hi> (<hi rend="italics">de corruptela cf. c. 28, 9</hi> dieuter = diei iter). <hi rend="italics"/></p>
 
 <p><lemma>Eumenis</lemma>] Attali <hi rend="italics">Luterbacher,</hi> adticis <hi rend="italics">V</hi> (<hi rend="italics">cf. 42, 55, 7</hi> adtalo <hi rend="italics">V</hi>). </p></div3></div2>
 
@@ -819,7 +818,7 @@ latet fort.</hi> tantum, <hi rend="italics">cf. 36, 7, 6.</hi> </p></div3></div2
 <div3 type="section" n="1"><p>(<hi rend="italics">cum in V sit</hi> datae adrexest, <hi rend="italics">non</hi> data adrexest, <hi rend="italics">fort.</hi> erexit <hi rend="italics">scribendum, praesertim cum arrigendi verbum etiam altero loco, quem lexicon Livianum</hi>
 <pb id="p.XVI"/>
 
-<hi rend="italics">F&uuml;gneri notavit, dubium sit: 8, 37, 2</hi> arrecti ad bellandum animi, <hi rend="italics">ubi</hi> erecti <hi rend="italics">dett.</hi>). <hi rend="italics"></hi></p>
+<hi rend="italics">F&uuml;gneri notavit, dubium sit: 8, 37, 2</hi> arrecti ad bellandum animi, <hi rend="italics">ubi</hi> erecti <hi rend="italics">dett.</hi>). <hi rend="italics"/></p>
 
 <p><lemma>sua videri lacerata</lemma>] ita videri lacerata &lt;Macedonia&gt; <hi rend="italics">Vahlen,</hi> ad videri laceratam <hi rend="italics">V hoc loco, at infra &scedil; 6 in repetitione horum verborum</hi> ita <hi rend="italics">pro</hi> ad. </p></div3></div2>
 
@@ -863,7 +862,7 @@ latet fort.</hi> tantum, <hi rend="italics">cf. 36, 7, 6.</hi> </p></div3></div2
 
 <div3 type="section" n="12"><p><lemma>traducendas in triumphum dicavit, alias alio abducentes mactate!</lemma>]  traducendo in triumpho vindicavit alias alios dente mactati <hi rend="italics">V corrupte.</hi> </p></div3>
 
-<div3 type="section" n="13"><p><lemma>quid tandem?</lemma>]  quid? <hi rend="italics">Kreyssig (cf. &sect; 6),</hi> quidem <hi rend="italics">V. In seq.</hi> quod <hi rend="italics">pro</hi> quae <hi rend="italics">V, unde conieci</hi> &lt;mitto&gt; quod. <hi rend="italics"></hi></p>
+<div3 type="section" n="13"><p><lemma>quid tandem?</lemma>]  quid? <hi rend="italics">Kreyssig (cf. &sect; 6),</hi> quidem <hi rend="italics">V. In seq.</hi> quod <hi rend="italics">pro</hi> quae <hi rend="italics">V, unde conieci</hi> &lt;mitto&gt; quod. <hi rend="italics"/></p>
 
 <p><lemma>deorum honoris fiunt? quae omnia auctore</lemma>] deorum <gap/> hominumque auctore <hi rend="italics">scripsi cum V, sed lacuna indicata, in qua fuisse putem:</hi> &lt;honoris fiunt? et haec omnia cum iniuria deorum&gt;. </p></div3>
 

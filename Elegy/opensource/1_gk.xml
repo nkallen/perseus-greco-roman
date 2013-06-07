@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PERSEUS.BIBLSTRUCT 'INCLUDE'>
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PERSEUS.BIBLSTRUCT "INCLUDE">
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -14,14 +14,14 @@
 	&responsibility;
 	&fund.NEH;&fund.Google;
       </titleStmt>
-      <extent></extent>
+      <extent/>
 	&Perseus.publish;    
       <sourceDesc>
 	<listBibl>
 	  <biblStruct>
-	    <analytic></analytic>
+	    <analytic/>
 	    <monogr>
-	      <author></author>
+	      <author/>
 	      <title>Elegy and Iambus</title>
 	      <respStmt><resp>with an English Translation by</resp>
 		<name>J. M. Edmonds</name>
@@ -126,7 +126,7 @@
 <l>ou) ga/r kws qa/nato/n ge fugei=n ei(marme/non e)sti\n</l>
 <l>a)/ndr', ou)d' ei) progo/nwn h)=| ge/nos a)qana/twn.</l>
 <l>polla/ki dhi+oth=ta fugw\n kai\ dou=pon a)ko/ntwn</l>
-<l n="15">>e)/rxetai, e)n d' oi)/kw| moi=ra ki/xen qana/tou:</l>
+<l n="15">&gt;e)/rxetai, e)n d' oi)/kw| moi=ra ki/xen qana/tou:</l>
 <l>a)ll' o( me\n ou)k e)/mphs dh/mw| fi/los ou)de\ poqeino/s,</l>
 <l>to\n d' o)li/gos stena/xei kai\ me/gas, h)/n ti pa/qh|:</l>
 <l>law=| ga\r su/mpanti po/qos kratero/fronos a)ndro\s</l>
@@ -260,7 +260,7 @@
 <l n="15"><gap/><add> </add>xai/ta&breve;0s u(pe\r kefalh=s</l>
 <l><gap/><add> </add>sunoi/somen o)cu\n *)/arha</l>
 <l><gap/><add> </add>qesi?n?  <gap/></l>
-<l><gap/><add></add>o<add> o</add>u)de\ logh/sei</l>
+<l><gap/><add/>o<add> o</add>u)de\ logh/sei</l>
 <l><gap/><add> </add>s? e)/xwn</l>
 <gap/><note>&lpar;col. 2 &lpar;4&rpar; of 17 ll. lost or much mutilated&rpar;</note>
 <gap/><note>&lpar;col. 3 &lpar;5&rpar; almost entirely lost&rpar;</note>
@@ -463,7 +463,7 @@
 <l>pa/ntes min timw=sin o(mw=s ne/oi h)de\ palaioi/,</l>
 <l>polla\ de\ terpna\ paqw\n e)/rxetai ei)s *)ai+/dhn:</l>
 <l>ghra/skwn d' a)stoi=si metapre/pei, ou)de/ tis au)to\n</l>
-<l n="40">>bla/ptein ou)/t' ai)dou=s ou)/te di/khs e)qe/lei,</l>
+<l n="40">&gt;bla/ptein ou)/t' ai)dou=s ou)/te di/khs e)qe/lei,</l>
 <l>pa/ntes d' e)n qw/koisin<!--note n="p.76.n.2"/--> o(mw=s ne/oi oi(/ te kat' au)to\n</l>
 <l>ei)/kous' e)k xw/rhs oi(/<!--note n="p.76.n.3"/--> te palaio/teroi.</l>
 <l>tau/ths nu=n tis a)nh\r a)reth=s ei)s a)/kron i(ke/sqai</l>
@@ -527,7 +527,7 @@
 </div3>
 
 
-<div3 type="biodata"><head><bibl><foreign lang="en">Phot. Bibl. 319b. 11.</foreign></bibl></head><p></p></div3>
+<div3 type="biodata"><head><bibl><foreign lang="en">Phot. Bibl. 319b. 11.</foreign></bibl></head><p/></div3>
 
 
 <div3 type="biodata">
@@ -1422,7 +1422,7 @@
 <div2 type="section"><!--fragments--><head>*/g *ia/mbwn</head>
 
 <div3 type="iambic" n="36,37">
-<cit id="tlg-0263.cit.88"><quote><add>>p. *so/lwnos:</add> <add>pa/lin</add> de\ kai\ peri\ th=s a)pokoph=s tw=n xrew=n kai\ tw=n douleuo/ntwn me\n pro/teron e)leuqerwqe/ntwn de\ dia\ th\n seisa/xqeian:
+<cit id="tlg-0263.cit.88"><quote><add>&gt;p. *so/lwnos:</add> <add>pa/lin</add> de\ kai\ peri\ th=s a)pokoph=s tw=n xrew=n kai\ tw=n douleuo/ntwn me\n pro/teron e)leuqerwqe/ntwn de\ dia\ th\n seisa/xqeian:
 <cit id="tlg-0263.cit.89"><quote>
 <l>e)gw\ de\ tw=n me\n ou(/neka cunh/gagon</l>
 <l>dh=mon, ti/ tou/twn pri\n tuxei=n e)pausa/mhn;</l>
@@ -1510,7 +1510,7 @@
 </quote> <bibl>Diogen 2.99</bibl></cit>
 </div3></div2>
 
-<div2 type="section"><!--fragments--><head><foreign  lang="en">unknown meters</foreign></head>
+<div2 type="section"><!--fragments--><head><foreign lang="en">unknown meters</foreign></head>
 
 <div3 type="unknown" n="42">
 <cit id="tlg-0263.cit.101"><quote>
@@ -1537,7 +1537,7 @@
 
 
 <div3 type="biodata">
-<cit id="tlg-1274.cit.2"><quote></quote> <bibl>Paus. 10. 24. 1</bibl></cit>
+<cit id="tlg-1274.cit.2"><quote/> <bibl>Paus. 10. 24. 1</bibl></cit>
 </div3>
 
 
@@ -1564,7 +1564,7 @@
 <div2 type="section"><!--fragments--><head>*)epi/gramma kai\ *ai)/nigma</head>
 
 <div3 type="hexameter" n="1,2">
-<cit id="tlg-1274.cit.7"><quote>*kleo/boulos *eu)ago/rou *li/ndios, w(s de\ *dou=ris, *ka/r: e)/nioi de\ ei)s *(hrakle/a a)nafe/rein to\ ge/nos au)to/n: r(w/mh| de\ kai\ ka/llei diafe/rein, metasxei=n de\ th=s e)n *ai)gu/ptw| filosofi/as. gene/sqai de\ au)tw=| qugate/ra *kleobouli/nhn, ai)nigma/twn e(came/trwn poih/trian, h(=s me/mnhtai kai\ *krati=nos e)n tw=| o(mwnu/mw| dra/mati, plhquntikw=s e)pigra/yas. a)lla\ kai\ to\ i(ero\n th=s *)aqhna=s a)nanew/sasqai au)to\n ktisqe\n u(po\ *danaou=. ou(=tos e)poi/hsen *)/aismata kai\ *gri/fous ei)s e)/ph trisxi/lia. >kai\ to\ *)epi/gramma/ tines to\ e)pi\ *mi/da| tou=to/n fasi poih=sai:
+<cit id="tlg-1274.cit.7"><quote>*kleo/boulos *eu)ago/rou *li/ndios, w(s de\ *dou=ris, *ka/r: e)/nioi de\ ei)s *(hrakle/a a)nafe/rein to\ ge/nos au)to/n: r(w/mh| de\ kai\ ka/llei diafe/rein, metasxei=n de\ th=s e)n *ai)gu/ptw| filosofi/as. gene/sqai de\ au)tw=| qugate/ra *kleobouli/nhn, ai)nigma/twn e(came/trwn poih/trian, h(=s me/mnhtai kai\ *krati=nos e)n tw=| o(mwnu/mw| dra/mati, plhquntikw=s e)pigra/yas. a)lla\ kai\ to\ i(ero\n th=s *)aqhna=s a)nanew/sasqai au)to\n ktisqe\n u(po\ *danaou=. ou(=tos e)poi/hsen *)/aismata kai\ *gri/fous ei)s e)/ph trisxi/lia. &gt;kai\ to\ *)epi/gramma/ tines to\ e)pi\ *mi/da| tou=to/n fasi poih=sai:
 <cit id="tlg-1274.cit.8"><quote>
 <l>*xalke/h parqe/nos ei)mi/, *mi/dew d' e)pi\ sh/mati kei=mai:</l>
 <l>e)/st' a)\n u(/dwr te na/h| kai\ de/ndrea makra\ teqh/lh|,</l>
@@ -1626,7 +1626,7 @@
 </div3>
 
 <div3 type="elegiac" n="2">
-<cit id="tlg-0244.cit.9"><quote><add>>p. dikai/ou kai\ a)di/kou:</add> e)pi\ de\ ta\s te/xnas tre/yomai kai\ ta\ tw=n poihtw=n. e)n ga\r tragw|dopoi+/a| kai\ zwgrafi/a| o(/stis &lt;ka&gt; plei=sta e)capath=| o(/moia toi=s a)lhqinoi=s poie/wn, ou(=tos a)/ristos. qe/lw de\ kai\ poihma/twn palaiote/rwn martu/rion e)pagage/sqai. *kleobouli/nhs:
+<cit id="tlg-0244.cit.9"><quote><add>&gt;p. dikai/ou kai\ a)di/kou:</add> e)pi\ de\ ta\s te/xnas tre/yomai kai\ ta\ tw=n poihtw=n. e)n ga\r tragw|dopoi+/a| kai\ zwgrafi/a| o(/stis &lt;ka&gt; plei=sta e)capath=| o(/moia toi=s a)lhqinoi=s poie/wn, ou(=tos a)/ristos. qe/lw de\ kai\ poihma/twn palaiote/rwn martu/rion e)pagage/sqai. *kleobouli/nhs:
 <cit id="tlg-0244.cit.10"><quote>
 <l>*)/andr' ei)=don kle/ptonta kai\ e)capatw=nta biai/ws,</l>
 <l>kai\ to\ bi/a| r(e/cai tou=to dikaio/taton.</l></quote> <bibl>CURFRAG.tlg-0244.2</bibl></cit>
@@ -1643,7 +1643,7 @@
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p></p></div2>
+<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>*)elegei/wn</head>
@@ -1667,7 +1667,7 @@
 <div2 type="section"><!--fragments--><head>*tetrame/trwn</head>
 
 <div3 type="TROCHAIC" n="3">
-<cit id="tlg-0245.cit.5"><quote><add>>p. *bi/antos:</add> le/getai de\ kai\ di/kas deino/tatos gegone/ni ei)pei=n. e)p' a)gaqw=| me/ntoi th=| tw=n lo/gwn i)sxu/i+ prosexrh=to. o(/qen kai\ *dhmo/dokos o( *le/rios<!--note n="p.166.n.4"/--> tou=to ai)ni/ttetai le/gwn:
+<cit id="tlg-0245.cit.5"><quote><add>&gt;p. *bi/antos:</add> le/getai de\ kai\ di/kas deino/tatos gegone/ni ei)pei=n. e)p' a)gaqw=| me/ntoi th=| tw=n lo/gwn i)sxu/i+ prosexrh=to. o(/qen kai\ *dhmo/dokos o( *le/rios<!--note n="p.166.n.4"/--> tou=to ai)ni/ttetai le/gwn:
 <cit id="tlg-0245.cit.6"><quote>
 <l>*)\hn tu/xh|s kri/nwn, dika/zeu th\n *prihni/hn di/khn.</l></quote> <bibl>CURFRAG.tlg-0245.3</bibl></cit>
 </quote> <bibl>Diog. L. i. 84</bibl></cit>
@@ -1693,7 +1693,7 @@
 
 
 <div3 type="biodata">
-<cit id="tlg-1604.cit.4"><quote></quote><bibl>Ath. 14. 620 c.</bibl></cit>
+<cit id="tlg-1604.cit.4"><quote/><bibl>Ath. 14. 620 c.</bibl></cit>
 </div3>
 
 
@@ -4701,7 +4701,7 @@
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p></p></div2>
+<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>*)elegei=on</head>
@@ -5018,7 +5018,7 @@ sunexro/nise de\ *pinda/rw|, gegonw\s kata\ th\n cg/ *)olumpia/da .... e)bi/wse 
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p></p></div2>
+<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>*)epigra/mmata</head>
@@ -5045,7 +5045,7 @@ sunexro/nise de\ *pinda/rw|, gegonw\s kata\ th\n cg/ *)olumpia/da .... e)bi/wse 
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p></p></div2>
+<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>*)epi/gramma</head>
@@ -5142,7 +5142,7 @@ sunexro/nise de\ *pinda/rw|, gegonw\s kata\ th\n cg/ *)olumpia/da .... e)bi/wse 
 
 <div3 type="UNKNOWN" n="0">
 
-<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p></p></div3></div2></div1>
+<head><bibl><foreign lang="en">NONE</foreign></bibl></head><p/></div3></div2></div1>
 <div1 type="text" id="tlg-1437"><head>*(/ippwnos</head>
 
 
@@ -5339,7 +5339,7 @@ sunexro/nise de\ *pinda/rw|, gegonw\s kata\ th\n cg/ *)olumpia/da .... e)bi/wse 
 
 
 <div3 type="biodata">
-<cit id="tlg-0251.cit.2"><quote></quote><bibl>Plat. Phaed. 60 d.</bibl></cit>
+<cit id="tlg-0251.cit.2"><quote/><bibl>Plat. Phaed. 60 d.</bibl></cit>
 </div3>
 
 
@@ -5358,7 +5358,7 @@ sunexro/nise de\ *pinda/rw|, gegonw\s kata\ th\n cg/ *)olumpia/da .... e)bi/wse 
 </div3>
 
 
-<div3 type="biodata"><head><bibl><foreign lang="en">Eus. Chron. Vers. Arm. Ol. 80. 1</foreign></bibl></head><p></p></div3>
+<div3 type="biodata"><head><bibl><foreign lang="en">Eus. Chron. Vers. Arm. Ol. 80. 1</foreign></bibl></head><p/></div3>
 
 
 <div3 type="biodata">
@@ -5553,7 +5553,7 @@ sunexro/nise de\ *pinda/rw|, gegonw\s kata\ th\n cg/ *)olumpia/da .... e)bi/wse 
 </div3>
 
 
-<div3 type="biodata"><head><bibl><foreign lang="en">Ael. V.H. 10. 13.</foreign></bibl></head><p></p></div3>
+<div3 type="biodata"><head><bibl><foreign lang="en">Ael. V.H. 10. 13.</foreign></bibl></head><p/></div3>
 
 
 <div3 type="biodata">

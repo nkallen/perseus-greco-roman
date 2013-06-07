@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:tufts="http://www.tufts.edu/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns:persq="http://www.perseus.org/meta/persq.rdfs#"
-         xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#"
-         xmlns:dctype="http://purl.org/dc/dcmitype/"
-         xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns="http://www.perseus.org/meta/perseus.rdfs#">
+<rdf:RDF xmlns:tufts="http://www.tufts.edu/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:persq="http://www.perseus.org/meta/persq.rdfs#" xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.perseus.org/meta/perseus.rdfs#">
    <rdf:Description rdf:about="Perseus:abo:oclc,685208">
 	     <dc:title xml:lang="en">Elegy and Iambus</dc:title>
 	  </rdf:Description>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -55,7 +54,7 @@
 <revisionDesc>
 <change><date>2006</date>
 <respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-<item></item>
+<item/>
 </change>
 
 </revisionDesc>
@@ -5771,7 +5770,7 @@ sum in aliud usus, sed in uno <foreign lang="greek">e)/mfasis</foreign> est<note
 fallis, <hi rend="italics">other MSS.</hi></note> geminatio. <foreign lang="greek">paronomasi/a|</foreign> contrarium est, quod eodem verbo
 <hi rend="italics">quasi falsum arguitur: Quae lex privatis <corr sic="homainibus">hominibus</corr>
 esse lex non <corr sic="videbaltur">uidebatur</corr>.</hi><milestone unit="section" n="68"/> <reg>cui</reg> confinis est <foreign lang="greek">a)ntana/klasis</foreign>
-eiusdem verbi contraria significatio. <reg>cum</reg> Proculeius>
+eiusdem verbi contraria significatio. <reg>cum</reg> Proculeius&gt;
 quereretur de filio, quod is mortem suam <hi rend="italics"><corr sic="erspectaret">expectaret</corr>,</hi>
 et ille dixisset, <hi rend="italics">se vero  non exspectare: Immo,</hi> inquit,
 <hi rend="italics">rogo exspectes.</hi> <reg>non</reg> ex eodem sed ex vicino diversum<note>vicino diversum, <hi rend="italics"><reg>sch</reg>&uuml;tz:</hi> diverso vicinum, <hi rend="italics">MSS.</hi></note> accipitur, cum <hi rend="italics"><corr sic="sulpptione">supplicio</corr></hi> adficiendum dicas,

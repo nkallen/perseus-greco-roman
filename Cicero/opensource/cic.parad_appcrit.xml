@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -14,7 +13,7 @@
 <editor role="editor">C. L. Kayser</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -48,7 +47,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.parad_appcrit.xml,v $
@@ -212,7 +211,7 @@ CT.</p>
 
 <p><lemma>eodemque feruntur</lemma> CT.</p>
 
-<p><lemma>>quidem</lemma> om. V et T.</p>
+<p><lemma>&gt;quidem</lemma> om. V et T.</p>
 
 <p><lemma>si ut</lemma> A1B1V: <quote>sicut</quote> A2B2T.  </p></div1>
 
@@ -304,4 +303,3 @@ CT.</p>
 </body>
 </text>
 </TEI.2>
-

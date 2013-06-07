@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -680,7 +679,7 @@ enim scientia cernitur virtus aut actione. Nam quae prudentia, quae calliditas q
 
 appellatur, haec scientia pollet una. Quae vero moderandis
 cupiditatibus regendisque animi motibus laudatur, eius est
-munus in agendo; cui<note>cui <hi rend="italics">vulg.</hi>: quo <hi rend="italics">P</hi>: <hi rend="italics">fortasse> legendum </hi>quoi</note> temperantiae nomen est. Atque
+munus in agendo; cui<note>cui <hi rend="italics">vulg.</hi>: quo <hi rend="italics">P</hi>: <hi rend="italics">fortasse&gt; legendum </hi>quoi</note> temperantiae nomen est. Atque
 illa prudentia in suis rebus domestica, in publicis civilis
 appellari solet. <milestone n="77" unit="section"/><reg>temperantia</reg> autem in suas itidem res et 
 in communes distributa est duobusque modis in rebus
@@ -1305,4 +1304,3 @@ quos si nobis<note>nobis <hi rend="italics">vulg.</hi>: his <hi rend="italics">P
 ipsa melius et multo maiora alia cognosces. <persName>C. Ego</persName> vero
 ac magno quidem studio, mi pater, multisque ex tuis praeclarissimis muneribus nullum maius exspecto.</p></body></text>
 </TEI.2>
-

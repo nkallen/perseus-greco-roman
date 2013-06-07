@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -398,7 +397,7 @@
 					<milestone unit="chapter" n="19"/>
 					<milestone unit="section" n="1"/>Many dreadful prodigies were both observed in Rome that year and reported from elsewhere.
 					<milestone unit="section" n="2"/> In the precinct of Vulcan and Concord<note>Cf. XXXIX. xlvi. 5; lvi. 6.</note> there was a shower of blood; and the pontiffs announced that the spears<note>They were probably the <hi rend="italics">hastae Martiae</hi> at Rome (Gellius IV. vi. 1-2). There were similar spears at Praeneste (XXIV. x. 10).</note> had been shaken, and the people of Lanuvium sent word that the image of Juno Sospita had shed tears.
-					<milestone unit="section" n="3"/> The pestilence was so severe in the country and in the villages and rural communities and in the City that Libitina<note>>7 The goddess of funerals.</note> could scarce take care of so many funerals.
+					<milestone unit="section" n="3"/> The pestilence was so severe in the country and in the villages and rural communities and in the City that Libitina<note>&gt;7 The goddess of funerals.</note> could scarce take care of so many funerals.
 					<milestone unit="section" n="4"/> Being disturbed by these prodigies and deaths, the Fathers decreed, both that the consuls should sacrifice full-grown victims to whatever gods it seemed proper, and that the decemvirs should consult the Books.<note>The Sibylline Books (XXXI. xii. 9 and the note).</note>
 					<milestone unit="section" n="5"/> According to their decree one day of prayer was proclaimed at all the banquet-tables of the gods<note>9 Cf. XXXI. viii, 2 and the note.</note> in Rome. On their suggestion also there was both a decree of the senate and an edict of the consuls that for three days <pb id="p.63"/>throughout Italy there should be a supplication and<note type="margin">B.C. 181</note> festival.
 					<milestone unit="section" n="6"/> The violence of the plague was so great that when, on account of a rising of the Corsicans and a revolt begun by the Ilienses in Sardinia, it was decided to enlist eight thousand infantry and three hundred cavalry among the allies of the Latin confederacy, whom Marcus Pinarius the praetor should take with him to Sardinia, the consuls reported that so

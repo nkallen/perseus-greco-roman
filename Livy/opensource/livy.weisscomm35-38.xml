@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -15,7 +14,7 @@
 	&fund.NEH;
       </titleStmt>
 	
-      <extent></extent>
+      <extent/>
       
 	&Perseus.publish;
       
@@ -9390,7 +9389,7 @@ waren die Kerntruppen u. s. w., vgl. <bibl n="Liv. 27.14.5">27.14.5</bibl>; <bib
 
 <p><lemma>perinde,</lemma>  dem entsprechend, dass sie die t&uuml;ctitigsten waren, s. <bibl n="Liv. 3.44.2">3.44.2</bibl>; <bibl n="Liv. 4.37.6">4.37.6</bibl>. <foreign lang="la">specie,</foreign> 22, 46, 5.</p>
 
-<p><lemma>i>turres,</lemma>  diese werden auch sonst erw&auml;hnt, s. Veget. 3, 24; App. sagt nur; <foreign lang="greek">h( d' o)/yis h)=n th=s me\n fa/laggos oi(=a tei/xous, tw=n d' e)lefa/ntwn oi(=on pu/rgwn</foreign>.</p>
+<p><lemma>i&gt;turres,</lemma>  diese werden auch sonst erw&auml;hnt, s. Veget. 3, 24; App. sagt nur; <foreign lang="greek">h( d' o)/yis h)=n th=s me\n fa/laggos oi(=a tei/xous, tw=n d' e)lefa/ntwn oi(=on pu/rgwn</foreign>.</p>
 
 <milestone unit="section" n="5-7"/>
 <p><foreign lang="la">Gallogr. pedites,</foreign> sowol hier als &sect; 10 haben die Hss. <foreign lang="la">pedites,</foreign> was gew&ouml;hnlich in <foreign lang="la">equites</foreign> ver&auml;ndert wird, weil App. sagt: <foreign lang="greek">*gala/tai kata/fraktoi</foreign>; allein, da er selbst die Galater und die <foreign lang="greek">kata/fraktos i(/ppos</foreign> unterscheidet, L. aber erst &sect; 13 <foreign lang="la">Gallograeci equites</foreign> nennt, die Zahl der Reiter, wean man die a. u. St. und &sect; 10 erw&auml;hnten hinzurechnet, gegen c. 37, 9, 14700 betragen w&uuml;rde, so ist cher bei Appian ein Fehler, bei L. aichts zu &auml;ndern, um so weniger, als sich so an die Phalanx Fusstruppen anschliessen, wie c. 42, 3 vorausgesetzt wird.</p>

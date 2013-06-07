@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -2792,7 +2791,7 @@ certain degree the meaning of the sentence.</p></note> And Thebes,
 
 <cit><quote><lg>
 <l>the city with an hundred gates,
-</l><l>Whence twenty thousand chariots rush to war.<note anchored="yes"><cit><quote></quote><bibl>Iliad ix. 383, et seq.</bibl></cit></note></l></lg></quote><bibl>Iliad ix. 383, et seq.</bibl></cit>
+</l><l>Whence twenty thousand chariots rush to war.<note anchored="yes"><cit><quote/><bibl>Iliad ix. 383, et seq.</bibl></cit></note></l></lg></quote><bibl>Iliad ix. 383, et seq.</bibl></cit>
 
 
 </p><p>Such information greatly enlarges our sphere of knowledge,
@@ -5967,8 +5966,8 @@ from our sea<note anchored="yes">The Mediterranean.</note> by a little less than
 <table>
 <row role="data"><cell cols="1" role="data" rows="1">From the sea to Heliopolis</cell><cell cols="1" role="data" rows="1"><date value="1500">1500</date> stadia</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Heliopolis to Thebes</cell><cell cols="1" role="data" rows="1">4860</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">6360</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">6360</cell></row>
 </table>
 
 
@@ -10314,15 +10313,15 @@ if we give a summary of them in figures.
 <row role="data"><cell cols="1" role="data" rows="1">Strabo supposes that Hipparchus, reckoning from the equator to the limits of the inhabited earth,</cell><cell cols="1" role="data" rows="1">8,800 stadia</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">should have fixed the southern extremity of India more to the north by</cell><cell cols="1" role="data" rows="1">4,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">and the northern extremity of India, according to the measures of Deimachus, still more to the north by</cell><cell cols="1" role="data" rows="1">30,000</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Total</cell><cell cols="1" role="data" rows="1">42,800</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Now, Strabo adds, following Hipparchus, the northern shores of Keltica and the mouth of the Dnieper, are distant from the equator</cell><cell cols="1" role="data" rows="1">34,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Ierne, in a climate almost uninhabitable, was, according to</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Strabo's own impression, situated to the north of Keltica</cell><cell cols="1" role="data" rows="1">5,000</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">39,000</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">39,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Then, according to Hipparchus, the habitable latitudes would extend still farther than Ierne by</cell><cell cols="1" role="data" rows="1">3,800</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Total</cell><cell cols="1" role="data" rows="1">42,800</cell></row>
 </table>
 
@@ -11190,7 +11189,7 @@ the poet alludes to in the expression,
 
 <cit><quote><lg>
 
-<l>Cutting them limb from limb;<note anchored="yes"><cit><quote></quote><bibl>Odyssey ix. 291; Iliad xxiv. 409</bibl></cit></note></l></lg></quote><bibl>Odyssey ix. 291; Iliad xxiv. 409</bibl></cit>
+<l>Cutting them limb from limb;<note anchored="yes"><cit><quote/><bibl>Odyssey ix. 291; Iliad xxiv. 409</bibl></cit></note></l></lg></quote><bibl>Odyssey ix. 291; Iliad xxiv. 409</bibl></cit>
 
 
 
@@ -13204,7 +13203,7 @@ Ethiopians, describes them as being separated into two divisions,
 
 <cit><quote><lg>
 
-<l>These eastward situate, those toward the west.<note anchored="yes"><cit><quote></quote><bibl>Odyssey i, 23.</bibl></cit></note></l></lg></quote><bibl>Odyssey i, 23.</bibl></cit>
+<l>These eastward situate, those toward the west.<note anchored="yes"><cit><quote/><bibl>Odyssey i, 23.</bibl></cit></note></l></lg></quote><bibl>Odyssey i, 23.</bibl></cit>
 
 
 
@@ -14101,7 +14100,7 @@ spheres, namely, the north; we cannot be in both:
 <cit><quote><lg>
 
 <l>Broad rivers roll, and awful floods between,
-</l><l>But chief the ocean.<note anchored="yes"><cit><quote></quote><bibl>Odyssey xi. 156, 157.</bibl></cit></note></l></lg></quote><bibl>Odyssey xi. 156, 157.</bibl></cit>
+</l><l>But chief the ocean.<note anchored="yes"><cit><quote/><bibl>Odyssey xi. 156, 157.</bibl></cit></note></l></lg></quote><bibl>Odyssey xi. 156, 157.</bibl></cit>
 
 
 
@@ -14376,7 +14375,7 @@ places in a tabular form.
 
 <table>
 <row role="data"><cell cols="1" role="data" rows="1">Names of places.</cell><cell cols="1" role="data" rows="1">Particular Distance.</cell><cell cols="1" role="data" rows="1">Total Distance.</cell><cell cols="1" role="data" rows="1">Latitudes.</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Stadia.</cell><cell cols="1" role="data" rows="1">Stadia.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Stadia.</cell><cell cols="1" role="data" rows="1">Stadia.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Equator</cell><cell cols="1" role="data" rows="1">0</cell><cell cols="1" role="data" rows="1">0</cell><cell cols="1" role="data" rows="1">0&deg; 0&prime; 0&Prime;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Limits of the habitable earth</cell><cell cols="1" role="data" rows="1">8800</cell><cell cols="1" role="data" rows="1">8800</cell><cell cols="1" role="data" rows="1">12&deg; 34&prime; 17&Prime;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Meroe</cell><cell cols="1" role="data" rows="1">3000</cell><cell cols="1" role="data" rows="1">11800</cell><cell cols="1" role="data" rows="1">16&deg; 51&prime; 25&Prime;</cell></row>
@@ -14541,7 +14540,7 @@ so in this instance they should be placed about the same number of stadia north 
 
 
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Stadia.</cell><cell cols="1" role="data" rows="1">Latitude.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Stadia.</cell><cell cols="1" role="data" rows="1">Latitude.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the equator to Alexandria</cell><cell cols="1" role="data" rows="1">21,800</cell><cell cols="1" role="data" rows="1">31&deg; 8&prime; 34&Prime;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Alexandria to Rhodes, he computes in this instance 3600 stadia</cell><cell cols="1" role="data" rows="1">25,400</cell><cell cols="1" role="data" rows="1">36 17&prime; 8&Prime;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the parallel of Rhodes to Marseilles, about 2300 stadia</cell><cell cols="1" role="data" rows="1">27,700</cell><cell cols="1" role="data" rows="1">39&deg; 34&prime; 17&Prime;</cell></row>
@@ -14594,13 +14593,13 @@ under 30,000 stadia.<note anchored="yes"><table>
 <row role="data"><cell cols="1" role="data" rows="1">Namely, 29,300.</cell><cell cols="1" role="data" rows="1">Stadia.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Rhodes to Byzantium Strabo estimated</cell><cell cols="1" role="data" rows="1">4900</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Byzantium to the Dnieper</cell><cell cols="1" role="data" rows="1">3800</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&ndash;</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">8700</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&ndash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">8700</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the Dnieper to the northern limits of the habitable earth</cell><cell cols="1" role="data" rows="1">4000</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">12,700</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">12,700</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Rhodes to the southern limits of the habitable earth</cell><cell cols="1" role="data" rows="1">16,600</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Total</cell><cell cols="1" role="data" rows="1">29,300</cell></row>
 </table></note> Its length from west to east is stated
 
@@ -38168,7 +38167,7 @@ sovereigns in Greece. Thus the poet speaks,
 
 <cit><quote><lg>
 
-<l>O great Pelasgic Dodon&aelig;an Jove;<note anchored="yes"><cit><quote></quote><bibl>Iliad, book xvi. 233.</bibl></cit></note></l></lg></quote><bibl>Iliad, book xvi. 233.</bibl></cit>
+<l>O great Pelasgic Dodon&aelig;an Jove;<note anchored="yes"><cit><quote/><bibl>Iliad, book xvi. 233.</bibl></cit></note></l></lg></quote><bibl>Iliad, book xvi. 233.</bibl></cit>
 
 
 
@@ -43040,7 +43039,7 @@ of the poet,
 
 <cit><quote><lg>
 
-<l>Where was Menelaus, was he not at Ach&aelig;an Argos?<note anchored="yes"><cit><quote></quote><bibl>Od. iii. 249, 251.</bibl></cit></note></l></lg></quote><bibl>Od. iii. 249, 251.</bibl></cit>
+<l>Where was Menelaus, was he not at Ach&aelig;an Argos?<note anchored="yes"><cit><quote/><bibl>Od. iii. 249, 251.</bibl></cit></note></l></lg></quote><bibl>Od. iii. 249, 251.</bibl></cit>
 
 
 
@@ -45390,7 +45389,7 @@ But when he says,
 <cit><quote><lg>
 
 <l>&AElig;g&aelig;, where his palace is in the depths of the sea,
-</l><l>There Neptune stopped his coursers,<note anchored="yes"><cit><quote></quote><bibl>Il. xiii. 21, 34.</bibl></cit></note></l></lg></quote><bibl>Il. xiii. 21, 34.</bibl></cit>
+</l><l>There Neptune stopped his coursers,<note anchored="yes"><cit><quote/><bibl>Il. xiii. 21, 34.</bibl></cit></note></l></lg></quote><bibl>Il. xiii. 21, 34.</bibl></cit>
 
 
 
@@ -55011,7 +55010,7 @@ ency, and was deprived of many of its customs and privi-
 
 leges. The superiority was transferred to Gortyna and Lyc-
 
-tus.<note anchored="yes"></note> But it afterwards recovered its ancient rank of the
+tus.<note anchored="yes"/> But it afterwards recovered its ancient rank of the
 
 capital city. Cnossus lies in a plain, with its ancient circum-
 
@@ -55019,27 +55018,27 @@ ference of 30 stadia, between the Lyctian and Gortynian
 
 territory; [distant] 200 stadia from Gortyna, and from Lyt-
 
-tus 120, which the poet<note anchored="yes"></note> calls Lyctus. Cnossus is at the dis-
+tus 120, which the poet<note anchored="yes"/> calls Lyctus. Cnossus is at the dis-
 
 tance of 25 stadia from the northern sea; Gortyna 90, and
 
 Lyctus 80, stadia from the African sea. Cnossus has a marine
 
-arsenal, Heracleium.<note anchored="yes"></note>
+arsenal, Heracleium.<note anchored="yes"/>
 
-8. Minos, it is said, used as an arsenal Amnisus,<note anchored="yes"></note> where is
+8. Minos, it is said, used as an arsenal Amnisus,<note anchored="yes"/> where is
 
 a temple of Eileithyia. Cnossus formerly had the name of
 
-C&aelig;ratus, which is the name of the river<note anchored="yes"></note> which runs beside it.
+C&aelig;ratus, which is the name of the river<note anchored="yes"/> which runs beside it.
 
-Minos<note anchored="yes"></note> is regarded as an excellent legislator, and the first
+Minos<note anchored="yes"/> is regarded as an excellent legislator, and the first
 
 who possessed the sovereignty of the sea. He divided the
 
 island into three portions, in each of which he built a city;
 
-Cnossus * * * * * *,<note anchored="yes"></note> opposite to Peloponnesus, which
+Cnossus * * * * * *,<note anchored="yes"/> opposite to Peloponnesus, which
 
 lies toward the north.
 </p><p>According to Ephorus, Minos was an imitator of Rhada-
@@ -56453,14 +56452,14 @@ assist the memory.
 <p>The Taurus has in many places a breadth of 3000
 
 stadia; its length equals that of Asia, namely 45,000 stadia,<note anchored="yes"><table><row role="data"><cell cols="1" role="data" rows="1">The following are the measurements of our author:</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Stadia.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Stadia.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Rhodes to Issus</cell><cell cols="1" role="data" rows="1">5,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Issus to the Caspian Gates</cell><cell cols="1" role="data" rows="1">10,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the Caspian Gates to the sources of the Indus</cell><cell cols="1" role="data" rows="1">14,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the Indus to the mouth of the Ganges</cell><cell cols="1" role="data" rows="1">13.500</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From thence to Thin</cell><cell cols="1" role="data" rows="1">2,500</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">45,000</cell></row></table></note>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">45,000</cell></row></table></note>
 
 
 
@@ -56609,7 +56608,7 @@ commands; to which he replied,
 
 <cit><quote><lg>
 
-<l>To stand the first in worth, as in command.<note anchored="yes"><cit><quote></quote><bibl>Il. vi. 208. <emph rend="ital">Pope.</emph></bibl></cit></note></l></lg></quote><bibl>Il. vi. 208. <emph rend="ital">Pope.</emph></bibl></cit>
+<l>To stand the first in worth, as in command.<note anchored="yes"><cit><quote/><bibl>Il. vi. 208. <emph rend="ital">Pope.</emph></bibl></cit></note></l></lg></quote><bibl>Il. vi. 208. <emph rend="ital">Pope.</emph></bibl></cit>
 
 
 
@@ -58903,15 +58902,15 @@ the Medes and Matiani below the Parachoathras.
 
 
 
-<table><row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Stadia.</cell></row>
+<table><row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Stadia.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the Caspian Sea to the Cyrus about</cell><cell cols="1" role="data" rows="1"><date value="1800">1800</date></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Thence to the Caspian Gates</cell><cell cols="1" role="data" rows="1">5600</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Thence to Alexandreia in the territory of the Arii</cell><cell cols="1" role="data" rows="1">6400</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Thence to the city Bactra, which is called also Zariaspa</cell><cell cols="1" role="data" rows="1">3870</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Thence to the river Iaxartes, which Alexander reached, about</cell><cell cols="1" role="data" rows="1">5000</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Making a total of</cell><cell cols="1" role="data" rows="1">22,670</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row></table>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row></table>
 
 
 </p><p>He also assigns the following distances from the Caspian
@@ -58920,7 +58919,7 @@ Gates to India.
 
 
 
-<table><row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">Stadia.</cell></row>
+<table><row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">Stadia.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">To Hecatompylos<note anchored="yes">There is great doubt where it was situated; the distances recorded by
 
 ancient writers not corresponding accurately with known ruins. It has
@@ -58937,7 +58936,7 @@ of a place now called <emph rend="ital">Jah Jirm. Smith,</emph> art. Hecatompylo
 <row role="data"><cell cols="1" role="data" rows="1">Thence to the city Arachoti<note anchored="yes">Ulan Rob&acirc;t, but see <emph rend="ital">Smith,</emph> art. Arachotus.</note></cell><cell cols="1" role="data" rows="1">4120</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Thence to Ortospana on the three roads from Bactra<note anchored="yes">Balkh. See <emph rend="ital">Smith.</emph></note></cell><cell cols="1" role="data" rows="1">2000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Thence to the confines of India</cell><cell cols="1" role="data" rows="1">1000</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">Which together amount to</cell><cell cols="1" role="data" rows="1">15,300<note anchored="yes">The sum total is 15,210 stadia, and not 15,300 stadia. This latter
 
 sum total is to be found again in b. xv. c. ii. &sect; 8, but the passage there
@@ -58947,7 +58946,7 @@ referred to has served to correct a still greater error in the reading of
 this chapter, viz. 15,500. Corrections of the text have been proposed, but
 
 their value is doubtful.</note></cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row></table>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">&mdash;&mdash;&mdash;</cell></row></table>
 
 
 
@@ -70011,7 +70010,7 @@ leaders, and their city;
 <cit><quote><lg>
 
 <l>He slew Mynes, and Epistrophus,
-</l><l>And destroyed the city of the divine Mynes.<note anchored="yes"><cit><quote></quote><bibl>Il. ii. 692; xix. 296.</bibl></cit></note></l></lg></quote><bibl>Il. ii. 692; xix. 296.</bibl></cit>
+</l><l>And destroyed the city of the divine Mynes.<note anchored="yes"><cit><quote/><bibl>Il. ii. 692; xix. 296.</bibl></cit></note></l></lg></quote><bibl>Il. ii. 692; xix. 296.</bibl></cit>
 
 
 
@@ -86375,12 +86374,12 @@ small windings, we have a total of <date value="1470">1470</date> minutes, which
 Setting out from Mero&euml;, the Nile runs,
 
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">days.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">days.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">1. 2700 stadia to the north</cell><cell cols="1" role="data" rows="1">12&cdot;8</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">2. 3700 to the S. and S. W.</cell><cell cols="1" role="data" rows="1">17&cdot;6</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">3. 5300 to the N. 1/4 E.</cell><cell cols="1" role="data" rows="1">25</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">4. <date value="1200">1200</date> to the N.</cell><cell cols="1" role="data" rows="1">5&cdot;7</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">61&cdot;1</cell></row></table>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">61&cdot;1</cell></row></table>
 
 which nearly corresponds with the account of Timosthenes. The number of days corresponds tolerably well with the distance given by the explorers sent by Nero for the discovery of Mero&euml;: they reported the distance to be 873 miles. If we divide this number by 60, we shall have for
 
@@ -86394,11 +86393,11 @@ course of the Nile through all its windings, and with the compass opened
 to 1000 metres, I find&mdash;
 
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">metres.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">metres.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From the middle of Syene to Luxor in the ancient territory of Thebes</cell><cell cols="1" role="data" rows="1">218,900</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Luxor to Becous situated at the point of the Delta</cell><cell cols="1" role="data" rows="1">727,500</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">From Becous following the Damietta branch to that city</cell><cell cols="1" role="data" rows="1">234,000</cell></row>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">1,180,400</cell></row></table>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">1,180,400</cell></row></table>
 
 This measure reduced to mean degrees of the earth equals 637&deg;25&prime;, and
 
@@ -88622,7 +88621,7 @@ as follow:&mdash;
 <p>The base and height being given, we find for the solid contents&mdash;
 
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">cubic yards.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">cubic yards.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">1. of the great pyramid</cell><cell cols="1" role="data" rows="1">2,864,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">2. of Chephren</cell><cell cols="1" role="data" rows="1">2,056,000</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">3. of Mycerinus</cell><cell cols="1" role="data" rows="1">211,000</cell></row></table>
@@ -88633,7 +88632,7 @@ ii thickness, were built with the materials of these pyramids, we should
 have a wall&mdash;
 
 <table>
-<row role="data"><cell cols="1" role="data" rows="1"></cell><cell cols="1" role="data" rows="1">miles.</cell></row>
+<row role="data"><cell cols="1" role="data" rows="1"/><cell cols="1" role="data" rows="1">miles.</cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">1. from the great pyramid in length</cell><cell cols="1" role="data" rows="1"><date value="1626">1626</date></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">2. from Chephren or Cheops</cell><cell cols="1" role="data" rows="1"><date value="1167">1167</date></cell></row>
 <row role="data"><cell cols="1" role="data" rows="1">3. from Mycerinus</cell><cell cols="1" role="data" rows="1">117</cell></row></table>

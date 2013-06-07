@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor" n="transl">George Long</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -5117,7 +5116,7 @@ Yes.&mdash;When then you are mounted on a horse and go into
 a plain, are you anxious at being matched against a man
 who is on foot, and anxious in a matter in which you are
 practised, and he is not?&mdash;Yes, but that person (to whom
-I am going to speak) has power to kill me.<note anchored="yes">The original is 'but that person (<note anchored="yes"></note>) has power to kill me.'
+I am going to speak) has power to kill me.<note anchored="yes">The original is 'but that person (<note anchored="yes"/>) has power to kill me.'
 That person' must be the person already mentioned, and Mrs. Carter
 has done right in adding this explanation.</note> Speak the
 truth then, unhappy man, and do not brag, nor claim to
@@ -15694,7 +15693,7 @@ not for every act alike.]
 <p>[Virtue then should be desired by all men more than
 wealth which is dangerous to the foolish; for the wickedness of men is increased by wealth. And the more a man
 is without sense, the more violent is he in excess, for he
-has the means of satisfying his mad desire for pleasures.<note anchored="yes"></note></p></div2>
+has the means of satisfying his mad desire for pleasures.<note anchored="yes"/></p></div2>
 <div2 type="chapter" n="100">
 <p>What we ought not to do, we should not even think of
 doing.</p></div2>

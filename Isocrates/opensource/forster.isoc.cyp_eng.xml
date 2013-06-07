@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -257,10 +256,10 @@
 </p>
 <p><lemma lang="greek" targOrder="U">mo/nou tou/tou kte(</lemma>, &lsquo;he was the only man of olden times at whose marriage the wedding hymn is said to have been sung by the gods&rsquo;; namely, by Apollo, to whom Hera says:&mdash;
 </p>
-<p></p>
+<p/>
 <p><foreign lang="greek">pa/ntes d'  a)ntia/asqe, qeoi/, ga/mou: e)n de\ su\ toi=si dai/nu) e)/xwn fo/rmigga, kakw=n e(/tar), ai)e\n a)/piste</foreign>.
 </p>
-<p></p>
+<p/>
 <p>(Hom. <title>Il.</title> xxiv. 62-3.)
 </p>
 <p>Plato, <title>Repub.</title> 383 B, quotes a passage from a lost play of Aeschylus in which Thetis complains that Apollo sang at her marriage and afterwards slew her son.

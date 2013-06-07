@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PERSEUS.BIBLSTRUCT 'INCLUDE'>
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PERSEUS.BIBLSTRUCT "INCLUDE">
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -14,14 +14,14 @@
 	&responsibility;
 	&fund.NEH;&fund.Google;
       </titleStmt>
-      <extent></extent>
+      <extent/>
 	&Perseus.publish;   
       <sourceDesc>
 	<listBibl>
 	  <biblStruct>
-	    <analytic></analytic>
+	    <analytic/>
 	    <monogr>
-	      <author></author>
+	      <author/>
 	      <title>Elegy and Iambus</title>
 	      <respStmt><resp>with an English Translation by</resp>
 		<name>J. M. Edmonds</name>
@@ -201,7 +201,7 @@
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Paus. 4. 16. 2-6, 18. 1-3, Ael. <title>V.H.</title> 12. 50, Plut. <hi>Ap. Lac. Paus. Cleombr.</hi> 230d, <hi>Vit. Cleom.</hi> 2, Dio Chr. <hi>Or.</hi> 36. 440, Themist. 15. 197d, Harp. <foreign lang="greek">*turtai=os,</foreign> Quint. 10. 1. 56, 12. 11. 27, Hor. <hi>A.P.</hi> 401 and Sch., Just. 3. 5. 9.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Paus. 4. 16. 2-6, 18. 1-3, Ael. <title>V.H.</title> 12. 50, Plut. <hi>Ap. Lac. Paus. Cleombr.</hi> 230d, <hi>Vit. Cleom.</hi> 2, Dio Chr. <hi>Or.</hi> 36. 440, Themist. 15. 197d, Harp. <foreign lang="greek">*turtai=os,</foreign> Quint. 10. 1. 56, 12. 11. 27, Hor. <hi>A.P.</hi> 401 and Sch., Just. 3. 5. 9.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>The Elegiac Poems of Tyrtaeus</head>
@@ -340,7 +340,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>Photius <title>Library</title> &lpar;see Callinus p. 44&rpar;.</bibl></head><p></p></div3>
+<div3 type="biodata"><head><bibl>Photius <title>Library</title> &lpar;see Callinus p. 44&rpar;.</bibl></head><p/></div3>
 
 
 <div3 type="biodata">
@@ -401,7 +401,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Ath. 13. 597a.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Ath. 13. 597a.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>The Elegies of Mimnermus</head>
@@ -570,7 +570,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 
 
 <div3 type="biodata">
-<cit id="tlg-0263.cit.6"><quote>When Solon had become master, he set the people free once and for all by forbidding loans on the security of the person, and made laws and cancelled debts both public and private, which cancellation is called the <hi>Seisachtheia</hi> or Disburdening. ... He established a constitution and made other laws, and all the ordinances of Dracon except those that dealt with homicide became null and void. The laws were inscribed on the &lsquo;pivot-boards&rsquo;<note>>remains of these were to be seen c. 80 A.D. in the Prytaneum at Athens, Plut. <hi>Sol.</hi> 25</note> and set up in the Royal Colonade, and all the citizens took an oath to observe them, while the Nine Archons made a formal promise upon oath at the altar in the marketplace that if they transgressed any of the laws they would dedicate a golden statue; which is why they take the oath in this way at the present day. Solon made the laws unalterable for a hundred years, and arranged the constitution as follows: He divided the people by assessment into four classes, etc.</quote> <bibl>Aristotle <title>Constitution of Athens</title></bibl></cit>
+<cit id="tlg-0263.cit.6"><quote>When Solon had become master, he set the people free once and for all by forbidding loans on the security of the person, and made laws and cancelled debts both public and private, which cancellation is called the <hi>Seisachtheia</hi> or Disburdening. ... He established a constitution and made other laws, and all the ordinances of Dracon except those that dealt with homicide became null and void. The laws were inscribed on the &lsquo;pivot-boards&rsquo;<note>&gt;remains of these were to be seen c. 80 A.D. in the Prytaneum at Athens, Plut. <hi>Sol.</hi> 25</note> and set up in the Royal Colonade, and all the citizens took an oath to observe them, while the Nine Archons made a formal promise upon oath at the altar in the marketplace that if they transgressed any of the laws they would dedicate a golden statue; which is why they take the oath in this way at the present day. Solon made the laws unalterable for a hundred years, and arranged the constitution as follows: He divided the people by assessment into four classes, etc.</quote> <bibl>Aristotle <title>Constitution of Athens</title></bibl></cit>
 </div3>
 
 
@@ -635,7 +635,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Ael. <title>V.H.</title> 8. 16, Diod. Sic. 9. 1 ff, Plut. <hi>Sol.</hi></bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Ael. <title>V.H.</title> 8. 16, Diod. Sic. 9. 1 ff, Plut. <hi>Sol.</hi></bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Solon</head>
@@ -648,7 +648,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 
 <head><title>Salamis</title></head>
 <cit id="tlg-0263.cit.17"><quote><note>cf. Justin. 2. 7, Philod. <hi>Mus.</hi> 20 K</note>Having waged a long and grievous war against Megara for the possession of the isle of Salamis, the Athenians of the city at last made an end of it and passed a law that none should prefer Athens' claim to Salamis in either speech or writing on pain of death. Scarcely able to bear the shame of this decision, and observing that many of the younger generation were desirous of a pretext<note> <hi>or more accurately, as we say</hi> , an opening; cf. Theophr. Char. 7. 3</note> for renewing the war but durst not take the first step themselves because of the new law, Solon feigned that he had lost his wits, word was put about from his house that he was beside himself, and after he had secretly written some elegiac verses and conned them till he could say them without book, he went quickly and suddenly out into the marketplace with a little cap upon his head.<note>caps were worn by the sick</note> A great crowd swarming about him, he now mounted the herald's stone and recited<note> <hi>or</hi> sang? <hi>lit.</hi> went through in song &lpar; <hi>or</hi> recitation&rpar;; but note the absence of any mention of a fluteplayer; the so-called singing was prob. formal recitation like that of a rhapsode &lpar;cf. <foreign lang="greek">tw=| le/gonti</foreign> below&rpar;</note> the <hi>Elegy</hi> which begins:
-<cit id="tlg-0263.cit.18"><quote><p>A herald am I from lovely Salamis, and have made me instead of a speech<note>>cf. Phot. <hi>Lex.</hi> Reitz. <foreign lang="greek">a)gora/: So/lwn de\ to\ pecw=| lo/gw| a)goreu/ein</foreign> </note> a song that is an ornament of words.</p></quote> <bibl>CURFRAG.tlg-0263.1</bibl></cit>
+<cit id="tlg-0263.cit.18"><quote><p>A herald am I from lovely Salamis, and have made me instead of a speech<note>&gt;cf. Phot. <hi>Lex.</hi> Reitz. <foreign lang="greek">a)gora/: So/lwn de\ to\ pecw=| lo/gw| a)goreu/ein</foreign> </note> a song that is an ornament of words.</p></quote> <bibl>CURFRAG.tlg-0263.1</bibl></cit>
 <p>This poem is entitled <hi>Salamis</hi> and contains a hundred lines; it is a very fine piece of work. When it ended, Solon's friends began to praise him, and not least Peisistratus, who pressed his fellow-countrymen so urgently to take the speaker's advice, that they repealed the law and renewed the struggle, putting Solon in command.</p></quote> <bibl>Plutarch <title>Life of Solon</title></bibl></cit>
 </div4>
 
@@ -965,7 +965,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also <foreign lang="greek">*kleobouli/nh</foreign> and <foreign lang="greek">*kleo/boulos</foreign> , <hi>Anth. Pal.</hi> 7. 81, 9. 366, Ael. <hi>V.H.</hi> 3. 17, Plut. <hi>Sept. Sap.</hi> , Dem. Phal. ap. Stob. <hi>Fl.</hi> 3. 79, <hi>Fl. Mon</hi> , <hi>ibid.</hi> app. 207, <hi>Dict. Sap. ibid.</hi> 3, Sch. Luc. <hi>Phal.</hi> i. 7. Ath. 10. 445 a, Themist. <hi>Or.</hi> 17 p. 215, 34 c. 3</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also <foreign lang="greek">*kleobouli/nh</foreign> and <foreign lang="greek">*kleo/boulos</foreign> , <hi>Anth. Pal.</hi> 7. 81, 9. 366, Ael. <hi>V.H.</hi> 3. 17, Plut. <hi>Sept. Sap.</hi> , Dem. Phal. ap. Stob. <hi>Fl.</hi> 3. 79, <hi>Fl. Mon</hi> , <hi>ibid.</hi> app. 207, <hi>Dict. Sap. ibid.</hi> 3, Sch. Luc. <hi>Phal.</hi> i. 7. Ath. 10. 445 a, Themist. <hi>Or.</hi> 17 p. 215, 34 c. 3</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Epitaph and Riddle</head>
@@ -1014,7 +1014,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Plut. Pyth. Orac. 14 and Cleobulus &lpar;above&rpar;.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Plut. Pyth. Orac. 14 and Cleobulus &lpar;above&rpar;.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>riddles</head>
@@ -1042,7 +1042,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl>None</bibl></head><p></p></div2>
+<head><bibl>None</bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>Elegiacs</head>
@@ -1109,7 +1109,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Dio Chrys. 36. 440, Steph. Byz. <foreign lang="greek">*mi/lhtos</foreign> ,  Eust. Dion. Per. 823, Sch. Nic. <hi>Al.</hi> 448, <hi>A.P.</hi> 10. 117, Cram. <hi>A. P.</hi> 4. 376. 3.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Dio Chrys. 36. 440, Steph. Byz. <foreign lang="greek">*mi/lhtos</foreign> ,  Eust. Dion. Per. 823, Sch. Nic. <hi>Al.</hi> 448, <hi>A.P.</hi> 10. 117, Cram. <hi>A. P.</hi> 4. 376. 3.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Elegiac Poems</head>
@@ -1311,7 +1311,7 @@ of trenches and the like &mdash;they all compel them; whereas a man should be br
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Suid. <foreign lang="greek">*cenofa/nhs</foreign> , Plut. <hi>Reg. Apoph.</hi> Hiero 4, <hi>Vit. Hom.</hi> 2. 93, Gal. <hi>Hist.</hi> 3, Str. 12. 550, Philo <hi>Prov.</hi> 2. 39, Ath. 14. 632 d &lpar; <hi>quoted</hi> p. 226&rpar;, Sext. Emp. <hi>Math.</hi> i. 257, Clem. Al. Str. 353 &lpar;301 e&rpar;, <hi>Theol. Arith.</hi> 40 Ast.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Suid. <foreign lang="greek">*cenofa/nhs</foreign> , Plut. <hi>Reg. Apoph.</hi> Hiero 4, <hi>Vit. Hom.</hi> 2. 93, Gal. <hi>Hist.</hi> 3, Str. 12. 550, Philo <hi>Prov.</hi> 2. 39, Ath. 14. 632 d &lpar; <hi>quoted</hi> p. 226&rpar;, Sext. Emp. <hi>Math.</hi> i. 257, Clem. Al. Str. 353 &lpar;301 e&rpar;, <hi>Theol. Arith.</hi> 40 Ast.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Elegiac Poems</head>
@@ -1694,7 +1694,7 @@ One of the &lsquo;Sillographers&rsquo; or writers of lampoons writes the first s
 <cit id="tlg-0002.cit.17">
 
 
-<quote><p>But nowadays people make a pretence of sacrificing to the Gods, and gathering their friends and intimates for the sacrifice, proceed to curse their children, abuse their wives, make their servants weep, and threaten all and sundry &mdash;you might almost say that they cried with Homer &lsquo;Now hie ye to your meal that we may battle join,&rsquo; taking to heart the words of the >author of the Cheiron, Pherecrates, Nicomachus the metrician, or whoever it was:
+<quote><p>But nowadays people make a pretence of sacrificing to the Gods, and gathering their friends and intimates for the sacrifice, proceed to curse their children, abuse their wives, make their servants weep, and threaten all and sundry &mdash;you might almost say that they cried with Homer &lsquo;Now hie ye to your meal that we may battle join,&rsquo; taking to heart the words of the &gt;author of the Cheiron, Pherecrates, Nicomachus the metrician, or whoever it was:
 <quote><lg><l>Nor you, when you invite a friend to dine, Be wroth when in he comes: that is ill-bred. Rather be glad and make glad at your ease.</l></lg></quote> Nowadays they do not remember the whole passage, but learn by heart the lines which follow and which are all a parody of the Great Eoiai ascribed to Hesiod:
 <quote><lg><l>But if we sacrifice and call in friends We are angered if one comes, neglect him there And wish him further. Somehow advised of this, He dons his shoes; whereat another guest Cries &lsquo;Off already? do drink just a drop; Take off his shoes again&rsquo;; and then the host, Wroth at the interruption, quotes the lines &lsquo;Stay none, Simonides, that will not bide, &lsquo;Nor wake the slumbering.&rsquo;<note>The quoter means &lsquo;any more than you would wake the slumbering,&rsquo; though that is not the meaning of the original</note> Are not we too prone To say such things when a friend's come to dine?</l></lg></quote></p></quote> <bibl>Athenaeus <title>Doctors at Dinner</title></bibl></cit>
 </div3>
@@ -1715,7 +1715,7 @@ One of the &lsquo;Sillographers&rsquo; or writers of lampoons writes the first s
 </div3>
 
 
-<div3 type="biodata"><head><bibl> <title>See also references to citations as they occur below,</title> Jul. ap. Cyr. <hi>c. Jul.</hi> 7. 224 Sp., <hi>and Com. Adesp.</hi> 461K.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl> <title>See also references to citations as they occur below,</title> Jul. ap. Cyr. <hi>c. Jul.</hi> 7. 224 Sp., <hi>and Com. Adesp.</hi> 461K.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>The Elegiac Poems of Theognis</head>
@@ -3220,7 +3220,7 @@ One of the &lsquo;Sillographers&rsquo; or writers of lampoons writes the first s
 </div3>
 
 
-<div3 type="biodata"><head><bibl> <title>See also</title> Diod. <hi>Sci.</hi> 10. 17, Hdt, 7. 6, Arist. <hi>Rhet.</hi> 1367b, Greg. Cypr. 3. 81, Apost. 17. 8, Harp. 86, 12.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl> <title>See also</title> Diod. <hi>Sci.</hi> 10. 17, Hdt, 7. 6, Arist. <hi>Rhet.</hi> 1367b, Greg. Cypr. 3. 81, Apost. 17. 8, Harp. 86, 12.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Inscriptions</head>
@@ -3241,7 +3241,7 @@ One of the &lsquo;Sillographers&rsquo; or writers of lampoons writes the first s
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl>None</bibl></head><p></p></div2>
+<head><bibl>None</bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>elegy</head>
@@ -3258,7 +3258,7 @@ One of the &lsquo;Sillographers&rsquo; or writers of lampoons writes the first s
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl>None</bibl></head><p></p></div2>
+<head><bibl>None</bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>Inscription</head>
@@ -3276,7 +3276,7 @@ One of the &lsquo;Sillographers&rsquo; or writers of lampoons writes the first s
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl>None</bibl></head><p></p></div2>
+<head><bibl>None</bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>Elegiac Poems</head>
@@ -3457,7 +3457,7 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 
 <div3 type="poem" n="2">
 <cit id="tlg-0308.cit.5"><quote>Compare Ion of Chios:
-<cit id="tlg-0308.cit.6"><quote><p>All hail to our King and Saviour and Sire! and let the wine-bearers mingle us a bowl and pour out into the cups of silver, while the gold be filled with the wine of the hands and wash them clean on to the floor,<note>the &lsquo;wine of the hands&rsquo; must be water for the customary washing of the hands between the dinner and the wine-drinking; but the reading is doubtful</note> and so making pure libation first unto Zeus and then unto Heracles and Alcmena, unto Procles and the children of Perseus,<note>the poem seems to have been written for a Eurypontid king of Sparta &lpar;Wil.&rpar;</note> let us drink, let us play, let song rise into the night, and someone dance a fling, and do thou begin good fellowship with a will. And whosoever hath a fair bedfellow awaiting him, let him drink more bravely<note> <hi>lit.</hi> more illustriously</note> than the rest.<note>>cf. Ath. 11. 496c &lpar;2-3&rpar;</note></p></quote> <bibl>CURFRAG.tlg-0308.2</bibl></cit>
+<cit id="tlg-0308.cit.6"><quote><p>All hail to our King and Saviour and Sire! and let the wine-bearers mingle us a bowl and pour out into the cups of silver, while the gold be filled with the wine of the hands and wash them clean on to the floor,<note>the &lsquo;wine of the hands&rsquo; must be water for the customary washing of the hands between the dinner and the wine-drinking; but the reading is doubtful</note> and so making pure libation first unto Zeus and then unto Heracles and Alcmena, unto Procles and the children of Perseus,<note>the poem seems to have been written for a Eurypontid king of Sparta &lpar;Wil.&rpar;</note> let us drink, let us play, let song rise into the night, and someone dance a fling, and do thou begin good fellowship with a will. And whosoever hath a fair bedfellow awaiting him, let him drink more bravely<note> <hi>lit.</hi> more illustriously</note> than the rest.<note>&gt;cf. Ath. 11. 496c &lpar;2-3&rpar;</note></p></quote> <bibl>CURFRAG.tlg-0308.2</bibl></cit>
 </quote> <bibl>Athenaeus <title>Doctors at Dinner</title></bibl></cit>
 </div3>
 
@@ -3497,7 +3497,7 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl>None</bibl></head><p></p></div2>
+<head><bibl>None</bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>Inscriptions</head>
@@ -3516,7 +3516,7 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 
 
 <div2 type="section"><!--testimonia-->
-<head><bibl>None</bibl></head><p></p></div2>
+<head><bibl>None</bibl></head><p/></div2>
 
 
 <div2 type="section"><!--fragments--><head>Inscription</head>
@@ -3594,14 +3594,14 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 
 <div3 type="poem" n="one">
 
-<quote></quote></div3></div2></div1>
+<quote/></div3></div2></div1>
 <div1 type="text" id="tlg-1437"><head>Hippon</head>
 
 
 <div2 type="section"><!--testimonia-->
 <cit id="tlg-1437.cit.1"><quote>Strepsiades and Pheidippides: S. D'ye see that little door and the cottage beyond? &mdash;P. Yes; what is it? Do tell me, father &mdash;S. That's the thinking-house of wise souls, where people live who try  to persuade us by their talk that the sky's an oven, all round us, and we're the coals. They teach, if you pay them for it, how to win an argument whether it be right or wrong.</quote> <bibl>Aristophanes  <title>Clouds</title></bibl></cit>
 <cit id="tlg-1437.cit.2"><quote>. . This was said before by Cratinus in the All-Seers, where the takes off the philosopher Hippon.</quote> <bibl>Scholiast  <title>on the passage</title></bibl></cit>
-<cit id="tlg-1437.cit.3"><quote>>Cratinus accuses Hippon, too, of impiety.</quote> <bibl>Scholiast on Clment of Alexandria</bibl></cit>
+<cit id="tlg-1437.cit.3"><quote>&gt;Cratinus accuses Hippon, too, of impiety.</quote> <bibl>Scholiast on Clment of Alexandria</bibl></cit>
 <cit id="tlg-1437.cit.4"><quote>Hippon of Rhegium declared the elements to be cold, that is water, and heat, that is fire, and held that the fire when produced by water conquered the powre of its parent and formed the world.</quote> <bibl>Hippolytus &lpar;Origen&rpar;  <title>Against the Heresies</title></bibl></cit>
 <cit id="tlg-1437.cit.5"><quote>Thus Hippon had a perfect right to immortalise his own death; for he gave instructions for the following couplet to be inscribed upon his tomb: &lsquo;This is,&rsquo; etc.</quote> <bibl>Clement of Alexandria  <title>Protrepticus</title></bibl></cit>
 <cit id="tlg-1437.cit.6"><quote>Owing to the feeble nature of his speculations Hippon can have no claim to be included among the philosophers who hold water to be an element or first principle.</quote> <bibl>Aristotle  <title>Metaphysics</title></bibl></cit>
@@ -3768,7 +3768,7 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 </div3>
 
 
-<div3 type="biodata"><head><bibl>Eusebius Chronicle &lpar;gives Euenus' <title>floruit</title> as 460 B.C.&rpar;.</bibl></head><p></p></div3>
+<div3 type="biodata"><head><bibl>Eusebius Chronicle &lpar;gives Euenus' <title>floruit</title> as 460 B.C.&rpar;.</bibl></head><p/></div3>
 
 
 <div3 type="biodata">
@@ -3960,7 +3960,7 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Arist. Rhet. 1375b 32, 1416b 26, Them. Or. 20. 239, 26. 328, Lycurg. 113, Plat. Criti. 108a, Charm. 317e, Tim. 19c, Prot. 316, Eryx. 392, Cic. De Or. 2. 23. 93, Phot. Bibl. 101b 4, Plut. Lyc. 9, Cim. 16, Vit. Or. i. 1, Sext. Emp. Dogm. 3. 54, Hypot. 3. 218, Philostr. Ep. 73.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Arist. Rhet. 1375b 32, 1416b 26, Them. Or. 20. 239, 26. 328, Lycurg. 113, Plat. Criti. 108a, Charm. 317e, Tim. 19c, Prot. 316, Eryx. 392, Cic. De Or. 2. 23. 93, Phot. Bibl. 101b 4, Plut. Lyc. 9, Cim. 16, Vit. Or. i. 1, Sext. Emp. Dogm. 3. 54, Hypot. 3. 218, Philostr. Ep. 73.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Elegiac Poems</head>
@@ -4168,7 +4168,7 @@ He was contemporary with Pindar, his birth falling in the 63rd Olympiad &lpar;52
 </div3>
 
 
-<div3 type="biodata"><head><bibl>See also Dio Cass. 69. 4, A.P. 12. 168 &lpar;quoted p. 86&rpar;, Spart. <title>Hadr.</title> 5, Plut. <hi>Vit. Hom.</hi> 2. 2, Suid. <foreign lang="greek">*panu/asis</foreign> , Procl. ad Plat. <hi>Tim.</hi> i. 28, Porphyr. <hi>Vit. Plot.</hi> 7. A large number of small fragments of A'.s <hi>Thebaid</hi> and other Epics are collected by Kinkel <hi>Epic. Graec.</hi> See also the edition of Wyss &lpar;1936&rpar;.</bibl></head><p></p></div3></div2>
+<div3 type="biodata"><head><bibl>See also Dio Cass. 69. 4, A.P. 12. 168 &lpar;quoted p. 86&rpar;, Spart. <title>Hadr.</title> 5, Plut. <hi>Vit. Hom.</hi> 2. 2, Suid. <foreign lang="greek">*panu/asis</foreign> , Procl. ad Plat. <hi>Tim.</hi> i. 28, Porphyr. <hi>Vit. Plot.</hi> 7. A large number of small fragments of A'.s <hi>Thebaid</hi> and other Epics are collected by Kinkel <hi>Epic. Graec.</hi> See also the edition of Wyss &lpar;1936&rpar;.</bibl></head><p/></div3></div2>
 
 
 <div2 type="section"><!--fragments--><head>Elegiacs</head>

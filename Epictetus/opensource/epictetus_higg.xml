@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor" n="transl">Thomas Wentworth Higginson</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 
 <sourceDesc>
@@ -844,7 +843,7 @@ know not where it lies save in dealing wisely with the
 phenomena of existence.</p></div2>
 <div2 type="chapter" n="9">
 <head>How from the doctrine of our relationship to god we are to deduce its consequences.</head>
-<p></p><p rend="left">If what philosophers say of the kinship between
+<p/><p rend="left">If what philosophers say of the kinship between
 God and men be true, what has any one to do
 but, like <placeName key="tgn,2674867">Socrates</placeName>, when he is Asked what countryman
 he is, never to say that he is a citizen of <placeName key="tgn,7001393">Athens</placeName>, or of
@@ -10661,7 +10660,7 @@ nevertheless be the most unfortunate and wretched,
 if they have not the principles they need?</p></div2>
 <div2 type="chapter" n="11">
 <head>Of purity.</head>
-<p></p><p rend="left">Some doubt whether the love of society be comprehended in the nature of man; and yet these
+<p/><p rend="left">Some doubt whether the love of society be comprehended in the nature of man; and yet these
 very persons do not seem to me to doubt but that
 purity is by all means comprehended in it; and that
 by this, if by anything, it is distinguished from brute
@@ -11991,7 +11990,7 @@ convinced; if inferior, to convince him; if equal, to
 agree with him; and thus you will never be led into
 the love of strife.</p></div2>
 <div2 type="chapter" n="34">
-<p></p><p rend="right">It is better, by yielding to truth, to conquer prejudice, than by yielding to principle to be defeated by
+<p/><p rend="right">It is better, by yielding to truth, to conquer prejudice, than by yielding to principle to be defeated by
 truth.</p></div2>
 <div2 type="chapter" n="35">
 <p>If you seek truth, you will not seek merely victory
@@ -12005,7 +12004,7 @@ to externals.</p></div2>
 be fearless and free, than to be a slave in company
 with many.</p></div2>
 <div2 type="chapter" n="38">
-<p></p><p rend="right">What you avoid suffering yourself, seek not to impose on others. You avoid slavery, for instance;
+<p/><p rend="right">What you avoid suffering yourself, seek not to impose on others. You avoid slavery, for instance;
 take care not to enslave. For if you can bear to
 <pb id="p.2257"/>
 exact slavery from others, you appear to have been
@@ -12045,7 +12044,7 @@ ornament to the house.</p></div2>
 <p>Instead of herds of oxen, endeavor to assemble
 flocks of friends about your house.</p></div2>
 <div2 type="chapter" n="43">
-<p></p><p rend="right">As a wolf resembles a dog, so much does a flatterer, an adulterer, a parasite, resemble a friend.
+<p/><p rend="right">As a wolf resembles a dog, so much does a flatterer, an adulterer, a parasite, resemble a friend.
 Take heed, therefore, that instead of guardian dogs,
 you do not inadvertently admit ravening wolves.</p></div2>
 <div2 type="chapter" n="44">

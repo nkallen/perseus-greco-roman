@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -197,7 +196,7 @@
 <p>8. <lemma lang="greek" targOrder="U">a)ne/dhn</lemma>, <gloss>loosely</gloss>, <gloss>without check</gloss>: cf. <foreign lang="greek">a)ni/hmi</foreign> and <foreign lang="greek">a)/nesis.&mdash;<lemma lang="greek" targOrder="U">a)\n</lemma>...<lemma lang="greek" targOrder="U">toutoisi\</lemma></foreign>: <gloss>if these</gloss> (judges) <gloss>shall wish to hear it.</gloss> See Thuc. VI. 46, <foreign lang="greek">tw=| *niki/a| prosdexome/nw| h)=n</foreign>, and other examples in <bibl n="Goodwin syntax 900">M.T. 900</bibl>. Whiston compares Liv. XXI. 50, quibusdam volentibus novas res fore.
 </p></div2>
 <div2 type="section" n="12-16">
-<p></p><p>&sect;&sect;12&mdash;16. After thus dismissing the private charges as unworthy of a reply, he comes to the charges against his conduct with regard to the Peace of Philocrates in 346 B.C. In this introduction he dwells on the outrage of bringing such grave charges against a statesman in a way which neither allows the accused a fair opportunity to defend himself, nor gives the state any adequate remedy against him if he is guilty, while it may entail grave consequences on an innocent person. <pb n="9"/>
+<p/><p>&sect;&sect;12&mdash;16. After thus dismissing the private charges as unworthy of a reply, he comes to the charges against his conduct with regard to the Peace of Philocrates in 346 B.C. In this introduction he dwells on the outrage of bringing such grave charges against a statesman in a way which neither allows the accused a fair opportunity to defend himself, nor gives the state any adequate remedy against him if he is guilty, while it may entail grave consequences on an innocent person. <pb n="9"/>
 </p></div2>
 <div2 type="section" n="12">
 <p>1. <lemma lang="greek" targOrder="U">peri\ w(=n e)ni/wn</lemma>, <gloss>about which in some cases</gloss>: <foreign lang="greek">e)ni/wn</foreign> qualifies <foreign lang="greek">w(=n</foreign> (West.). Cf. XXVII. 23, <foreign lang="greek">kai\ o(/sa e)/nia</foreign>.
@@ -533,7 +532,7 @@
 <p>10. <lemma lang="greek" targOrder="U">e)ch|tou/mhn</lemma>: Demosth. was among the eight or ten Attic orators who were <gloss>demanded</gloss> by Alexander <pb n="28"/> after his destruction of Thebes in 335 B.C.; Aeschines was not. See Grote XII. 59&mdash;62.
 </p></div2>
 <div2 type="section" n="42-49">
-<p></p><p>&sect;<bibl n="Dem. 18.42">&sect; 42</bibl>&mdash;49. After the digression in <bibl n="Dem. 18.41">&sect; 41</bibl>, the orator here speaks of the disastrous consequences which have come from the peace and from the corruption by which it was made, and of the miserable fate of most of the traitors in Greece who aided Philip in his schemes.
+<p/><p>&sect;<bibl n="Dem. 18.42">&sect; 42</bibl>&mdash;49. After the digression in <bibl n="Dem. 18.41">&sect; 41</bibl>, the orator here speaks of the disastrous consequences which have come from the peace and from the corruption by which it was made, and of the miserable fate of most of the traitors in Greece who aided Philip in his schemes.
 </p></div2>
 <div2 type="section" n="42">
 <p>5. <lemma lang="greek" targOrder="U">e)peidh\</lemma> here has three pluperfects, while commonly it has the less precise aorist, as in &sect;<bibl n="Dem. 18.25">&sect; 25</bibl>.1, 32.1 (<bibl n="Goodwin syntax 59">M.T. 59</bibl>). So in Latin <gloss>postquam venit</gloss> is more common than <gloss>postquam venerat.</gloss> Both <foreign lang="greek">e)peidh/</foreign> and <gloss>postquam</gloss> contain the idea of <gloss>after that</gloss>, which the plpf. only emphasizes.
@@ -616,7 +615,7 @@
 <p>7. <lemma lang="greek" targOrder="U">dia/...au)tou\s</lemma>, <gloss>if you were left to yourselves</gloss> (<bibl n="Goodwin syntax 472">M.T. 472</bibl>). The orator surprises his audience by this original reason why the Athenian traitors have been saved from the fate of traitors in other states, i.e. the honest citizens thwart their schemes and thus save them from the ruin of success. This brilliant attack is followed up sharply in what follows.
 </p></div2>
 <div2 type="section" n="50-52">
-<p></p><p>&sect;<bibl n="Dem. 18.50">&sect; 50</bibl>&mdash;52. the peroration to the argument on the Peace of Philocrates.
+<p/><p>&sect;<bibl n="Dem. 18.50">&sect; 50</bibl>&mdash;52. the peroration to the argument on the Peace of Philocrates.
 </p></div2>
 <div2 type="section" n="50">
 <p>1. <lemma lang="greek" targOrder="U">tw=n to/te praxqe/ntwn</lemma>, i.e. the transactions concerning the peace. This suggestion that he will drop the subject makes this sudden recurrence to the charge of venality all the more effective.
@@ -649,7 +648,7 @@
 <p>Having finished his reply to the charges foreign to the indictment, he now proceeds to the indictment itself. We have (1) an introduction (&sect;<bibl n="Dem. 18.53">&sect; 53</bibl>&mdash;59), (2) a discussion of his public life (&sect;<bibl n="Dem. 18.60">&sect; 60</bibl>&mdash;109), (3) a reply to the charge that the orator was <foreign lang="greek">u(peu/qunos</foreign> when it was proposed to crown him (&sect;<bibl n="Dem. 18.110">&sect; 110</bibl>&mdash;119), (4) a defence of the proposal to crown him in the theatre (&sect;<bibl n="Dem. 18.120">&sect; 120</bibl>, 121), and (5) a conclusion (&sect;<bibl n="Dem. 18.122">&sect; 122</bibl>&mdash;125).
 </p>
 <div2 type="section" n="53-59">
-<p></p><p>&sect;<bibl n="Dem. 18.53">&sect; 53</bibl>&mdash;59. Introduction, includ- ing the reading of the indictment. <pb n="34"/>
+<p/><p>&sect;<bibl n="Dem. 18.53">&sect; 53</bibl>&mdash;59. Introduction, includ- ing the reading of the indictment. <pb n="34"/>
 </p></div2>
 <div2 type="section" n="53">
 <p>4. <lemma lang="greek" targOrder="U">tw=n probebouleume/nwn</lemma> (pass.), strictly accurate for <gloss>the provisions of the</gloss> <foreign lang="greek">probou/leuma</foreign> of Ctesiphon, which had passed only the Senate. The corresponding phrase for the items of a <foreign lang="greek">yh/fisma</foreign> would be <foreign lang="greek">tw=n e)yhfisme/nwn</foreign>. Cf. <foreign lang="greek">tw=n gegramme/nwn</foreign>, <bibl n="Dem. 18.56">&sect; 56</bibl>.4.
@@ -657,7 +656,7 @@
 <p>5. <lemma lang="greek" targOrder="U">di/kaios ei)=nai</lemma>, <gloss>that I deserve</gloss>: personal use of <foreign lang="greek">di/kaios</foreign> (<bibl n="Goodwin syntax 762">M.T. 762</bibl>).
 </p></div2>
 <div2 type="section" n="54-55">
-<p></p><p>&sect;<bibl n="Dem. 18.54">&sect; 54</bibl>&mdash;55. This spurious docu- ment once passed for the &ldquo;single undoubtedly genuine Athenian indictment.&rdquo; Chaerondas was archon in 338&mdash;337 B.C.; but the indictment was brought in the spring of 336. The <foreign lang="greek">grafh\ parano/mwn</foreign> came before the <foreign lang="greek">qesmoqe/tai</foreign>, not before the Chief Archon.
+<p/><p>&sect;<bibl n="Dem. 18.54">&sect; 54</bibl>&mdash;55. This spurious docu- ment once passed for the &ldquo;single undoubtedly genuine Athenian indictment.&rdquo; Chaerondas was archon in 338&mdash;337 B.C.; but the indictment was brought in the spring of 336. The <foreign lang="greek">grafh\ parano/mwn</foreign> came before the <foreign lang="greek">qesmoqe/tai</foreign>, not before the Chief Archon.
 </p>
 <p>The expression <foreign lang="greek">tragw|doi=s kainoi=s</foreign>, <bibl n="Dem. 18.54">&sect; 54</bibl>.8, <gloss>on the day of the new tragedians</gloss>, i.e. when new tragedies were performed, is confirmed by <foreign lang="greek">toi=s tragw|doi=s</foreign>, Aesch. III. 45. In <bibl n="Dem. 18.55">&sect; 55</bibl>.6 <foreign lang="greek">tragw|dw=n th=| kainh=|</foreign> is probably corrupt.
 </p>
@@ -700,7 +699,7 @@
 <p>8. <lemma lang="greek" targOrder="U">proaire/sewn th=s politei/as</lemma>, <pb n="37"/> <gloss>departments of the government</gloss> (open to choice).
 </p></div2>
 <div2 type="section" n="60-109">
-<p></p><p>&sect;<bibl n="Dem. 18.60">&sect; 60</bibl>&mdash;109. In this general de- fence of his public policy, (1) he defends his fixed principle of opposition to Philip's aggressions (&sect;<bibl n="Dem. 18.60">&sect; 60</bibl>&mdash;72); (2) he speaks of the events which immediately preceded the outbreak of war with Philip in 340 B.C. (&sect;<bibl n="Dem. 18.73">&sect; 73</bibl>&mdash; 101), avoiding all mention of the later Amphissian war and the other events which led to the battle of Chaeronea; (3) he defends his trierarchic law (&sect;<bibl n="Dem. 18.102">&sect; 102</bibl>&mdash;109).
+<p/><p>&sect;<bibl n="Dem. 18.60">&sect; 60</bibl>&mdash;109. In this general de- fence of his public policy, (1) he defends his fixed principle of opposition to Philip's aggressions (&sect;<bibl n="Dem. 18.60">&sect; 60</bibl>&mdash;72); (2) he speaks of the events which immediately preceded the outbreak of war with Philip in 340 B.C. (&sect;<bibl n="Dem. 18.73">&sect; 73</bibl>&mdash; 101), avoiding all mention of the later Amphissian war and the other events which led to the battle of Chaeronea; (3) he defends his trierarchic law (&sect;<bibl n="Dem. 18.102">&sect; 102</bibl>&mdash;109).
 </p></div2>
 <div2 type="section" n="60">
 <p>1. <lemma lang="greek" targOrder="U">pro\ tou= politeu/esqai</lemma>: the public life of Demosth. properly began with his speech on the Symmories in 354 B.C. (Hist. <bibl n="Dem. 18.8">&sect; 8</bibl>); but his responsibility for the foreign policy of Athens began after the peace of 346 (<bibl n="Dem. 18.18">&sect; 18</bibl>.2). Still, his fixed policy of opposing Philip, though unsuccessful at first, goes back at least to the First Philippic in 351; and he is here (&sect;<bibl n="Dem. 18.60">&sect; 60</bibl>&mdash;72) defending his public life as a whole, seldom mentioning his special acts. He reserves these for a later part of his argument (&sect;<bibl n="Dem. 18.79">&sect; 79</bibl>&mdash;94, and after <bibl n="Dem. 18.159">&sect; 159</bibl>).
@@ -988,7 +987,7 @@
 <p>9. <lemma lang="greek" targOrder="U">su/mboulon...r(h/tora</lemma>: Phocion as general was probably one of the exceptions here implied.
 </p></div2>
 <div2 type="section" n="95-101">
-<p></p><p>&sect;<bibl n="Dem. 18.95">&sect; 95</bibl>&mdash;101. Historical parallels are cited to show that the considerate treatment of Euboea and Byzantium was in accordance with the traditional policy of Athens.
+<p/><p>&sect;<bibl n="Dem. 18.95">&sect; 95</bibl>&mdash;101. Historical parallels are cited to show that the considerate treatment of Euboea and Byzantium was in accordance with the traditional policy of Athens.
 </p></div2>
 <div2 type="section" n="95">
 <p>1. <lemma lang="greek" targOrder="U">ta\s blasfhmi/as</lemma> refers to the long tirade of Aeschines (III. 85&mdash;93) against the proceedings in Euboea in 341&mdash;340. There is nothing in the speech of Aesch., as it now stands, relating to the help sent to Byzantium.
@@ -1088,7 +1087,7 @@
 <p>13. <lemma lang="greek" targOrder="U">ou)x u(ph=rxon...ou(=toi</lemma>; <gloss>were not these men here ready to tell you this?</gloss> <foreign lang="greek">tau=ta</foreign> refers to <foreign lang="greek">mnhsikakei=n... prohso/meqa</foreign> (6&mdash;8).
 </p></div2>
 <div2 type="section" n="102-109">
-<p></p><p>&sect;<bibl n="Dem. 18.102">&sect; 102</bibl>&mdash;109. The orator de- fends his Trierarchic Law against the attacks of Aeschines. This important measure was enacted in 340 B.C., at about the time of the outbreak of the war with Philip (see <bibl n="Dem. 18.107">&sect; 107</bibl>.6). For an account of the trierarchy at Athens, see Boeckh's Staatsh. d. Athener, I. Book 4, ch. 11&mdash;16. <pb n="61"/>
+<p/><p>&sect;<bibl n="Dem. 18.102">&sect; 102</bibl>&mdash;109. The orator de- fends his Trierarchic Law against the attacks of Aeschines. This important measure was enacted in 340 B.C., at about the time of the outbreak of the war with Philip (see <bibl n="Dem. 18.107">&sect; 107</bibl>.6). For an account of the trierarchy at Athens, see Boeckh's Staatsh. d. Athener, I. Book 4, ch. 11&mdash;16. <pb n="61"/>
 </p></div2>
 <div2 type="section" n="102">
 <p>4. <lemma lang="greek" targOrder="U">kataluo/menon</lemma>, <gloss>break- ing up</gloss>: notice the following descriptive present participles.
@@ -1170,7 +1169,7 @@
 <p>6. <lemma lang="greek" targOrder="U">a)nti/</lemma>, <gloss>rather than</gloss>, like <foreign lang="greek">ma=llon h)/</foreign> (4).
 </p></div2>
 <div2 type="section" n="110-121">
-<p></p><p>&sect;<bibl n="Dem. 18.110">&sect; 110</bibl>&mdash;121. contain the reply to the first two arguments of Aeschines, that on the responsibility of Demosthenes as an <foreign lang="greek">a)/rxwn</foreign> at the time when Ctesiphon proposed his decree (&sect;<bibl n="Dem. 18.111">&sect; 111</bibl>&mdash;119), and that on the place of proclamation (&sect;<bibl n="Dem. 18.120">&sect; 120</bibl>, 121). <bibl n="Dem. 18.110">&sect; 110</bibl> is introductory. &sect;<bibl n="Dem. 18.122">&sect; 122</bibl>&mdash;125 are a peroration to the division of the argument beginning with <bibl n="Dem. 18.53">&sect; 53</bibl>.
+<p/><p>&sect;<bibl n="Dem. 18.110">&sect; 110</bibl>&mdash;121. contain the reply to the first two arguments of Aeschines, that on the responsibility of Demosthenes as an <foreign lang="greek">a)/rxwn</foreign> at the time when Ctesiphon proposed his decree (&sect;<bibl n="Dem. 18.111">&sect; 111</bibl>&mdash;119), and that on the place of proclamation (&sect;<bibl n="Dem. 18.120">&sect; 120</bibl>, 121). <bibl n="Dem. 18.110">&sect; 110</bibl> is introductory. &sect;<bibl n="Dem. 18.122">&sect; 122</bibl>&mdash;125 are a peroration to the division of the argument beginning with <bibl n="Dem. 18.53">&sect; 53</bibl>.
 </p></div2>
 <div2 type="section" n="110">
 <p>1. <lemma lang="greek" targOrder="U">peri\ tou= khru/gmatos</lemma>, i.e. <gloss>about the place of proclamation</gloss>, this being the only point in dispute under this head.
@@ -1291,7 +1290,7 @@
 <p>8. <lemma lang="greek" targOrder="U">toi=s ge o)mwmoko/si...yhfiei=sqai</lemma>: see Aesch. III. 6, <foreign lang="greek">o( nomoqe/ths tou=to prw=ton e)/tacen e)n tw=| tw=n dika/stw=n o(/rkw|, yhfiou=mai kata\ tou\s no/mous</foreign>.
 </p></div2>
 <div2 type="section" n="122-125">
-<p></p><p>&sect;<bibl n="Dem. 18.122">&sect; 122</bibl>&mdash;125. are a peroration to the division &sect;<bibl n="Dem. 18.53">&sect; 53</bibl>&mdash;125.
+<p/><p>&sect;<bibl n="Dem. 18.122">&sect; 122</bibl>&mdash;125. are a peroration to the division &sect;<bibl n="Dem. 18.53">&sect; 53</bibl>&mdash;125.
 </p></div2>
 <div2 type="section" n="122">
 <p>2. <lemma lang="greek" targOrder="U">po/sa</lemma>: Blass for <foreign lang="greek">prosa(\</foreign> (<foreign lang="greek">*s</foreign>).&mdash;<lemma lang="greek" targOrder="U">tw=| dhmotikw=|</lemma>: referring to Aesch. 168&mdash;170.&mdash;<lemma lang="greek" targOrder="U">w(/sper...suggrafh\n</lemma>: we find it convenient to translate, <gloss>as if you had put out a statue to be made by contract</gloss>; but the participle with <foreign lang="greek">w(/sper</foreign> (without <foreign lang="greek">a)/n</foreign> or <foreign lang="greek">a)\n ei)</foreign>) is not conditional, as appears by its having <foreign lang="greek">ou)</foreign> (not <foreign lang="greek">mh/</foreign>) for its negative, as in <bibl n="Dem. 18.323">&sect; 323</bibl>.7 (<bibl n="Goodwin syntax 867">M.T. 867</bibl>). <foreign lang="greek">w(/sper</foreign> is simply <gloss>as</gloss>, or <pb n="75"/> <gloss>as it were</gloss>, but we can seldom translate it with a participle without an <gloss>if.</gloss>
@@ -1427,7 +1426,7 @@
 <p>7. <lemma lang="greek" targOrder="U">e)a/sw</lemma>: &ldquo;Hier ist die <foreign lang="greek">pompei/a</foreign> aus, und der Redner wird ernst.&rdquo; (Blass.)
 </p></div2>
 <div2 type="section" n="132-138">
-<p></p><p>&sect;<bibl n="Dem. 18.132">&sect; 132</bibl>&mdash;138. Here the orator alludes briefly to some lesser offences of Aeschines, which preceded the outbreak of the war with Philip. In <bibl n="Dem. 18.139">&sect; 139</bibl> these are called slight matters compared with his conduct after the war began.
+<p/><p>&sect;<bibl n="Dem. 18.132">&sect; 132</bibl>&mdash;138. Here the orator alludes briefly to some lesser offences of Aeschines, which preceded the outbreak of the war with Philip. In <bibl n="Dem. 18.139">&sect; 139</bibl> these are called slight matters compared with his conduct after the war began.
 </p></div2>
 <div2 type="section" n="132">
 <p>1. <lemma lang="greek" targOrder="U">oi)=den</lemma>, <gloss>know of.</gloss>&mdash;<lemma lang="greek" targOrder="U">a)poyh- fisqe/nt)</lemma>, <gloss>rejected</gloss> from the list of citizens. In 346&mdash;5 B.C. a general revision of the lists of citizens was ordered at Athens; and the members of each deme went through its own list (the <foreign lang="greek">grammatei=on lhciarxiko/n</foreign>), voting on each name which was questioned. This process was called <foreign lang="greek">diayh/fisis</foreign> (<foreign lang="greek">diayhfi/zomai</foreign>), and the rejection of any person was called <foreign lang="greek">a)poyh/fisis</foreign> (<foreign lang="greek">a)poyhfi/zomai</foreign>). Demosthenes wrote his oration against Eubulides (LVII.) for a client who had been thus rejected and had appealed (as every such person might) to a Heliastic court. Antiphon was probably rejected at the same <foreign lang="greek">diayh/fisis</foreign> (see Dem. LVII. 2, <foreign lang="greek">pollw=n e)celhlame/nwn dikai/ws e)k pa/ntwn tw=n dh/mwn</foreign>), and afterwards offered his services to Philip.
@@ -1499,7 +1498,7 @@
 <p>12. <lemma lang="greek" targOrder="U">th\n...politeu/esqai</lemma> is <gloss>to serve the state as a patriot</gloss>, opposed to <foreign lang="greek">toi=s e)xqroi=s u(phretou=nta misqarnei=n</foreign>.
 </p></div2>
 <div2 type="section" n="139-159">
-<p></p><p>&sect;<bibl n="Dem. 18.139">&sect; 139</bibl>&mdash;159. Next follows the account of the conduct of Aeschines in stirring up the Amphissian war in 339 B.C. (See note on &sect;<bibl n="Dem. 18.126">&sect; 126</bibl>&mdash;226.) &sect;<bibl n="Dem. 18.139">&sect; 139</bibl>&mdash;144 are introductory, and &sect;<bibl n="Dem. 18.158">&sect; 158</bibl>, 159 are a peroration.
+<p/><p>&sect;<bibl n="Dem. 18.139">&sect; 139</bibl>&mdash;159. Next follows the account of the conduct of Aeschines in stirring up the Amphissian war in 339 B.C. (See note on &sect;<bibl n="Dem. 18.126">&sect; 126</bibl>&mdash;226.) &sect;<bibl n="Dem. 18.139">&sect; 139</bibl>&mdash;144 are introductory, and &sect;<bibl n="Dem. 18.158">&sect; 158</bibl>, 159 are a peroration.
 </p></div2>
 <div2 type="section" n="139">
 <p>The first sentence depre- ciates the acts already mentioned, done in time of nominal peace, to heighten the enormity of helping Philip in time of war: cf. <foreign lang="greek">do/te...au)tw=| tou=to</foreign> (3).
@@ -1716,7 +1715,7 @@
 <p>8. <lemma lang="greek" targOrder="U">pro\ th=s a)lhqei/as</lemma>: i.e. so as to conceal the truth from you.
 </p></div2>
 <div2 type="section" n="160-226">
-<p></p><p>&sect;<bibl n="Dem. 18.160">&sect; 160</bibl>&mdash;226. The orator now passes to his own agency in opposing the joint plot of Aeschines and Philip. See introductory note on &sect;<bibl n="Dem. 18.126">&sect; 126</bibl>&mdash;226. After speaking of the enmity between Athens and Thebes, which men like Aeschines had encouraged (&sect;<bibl n="Dem. 18.160">&sect; 160</bibl>&mdash; 163), he gives a graphic account of the panic excited at Athens by Philip's seizure of Elatea, and of the manner in which he took advantage of this emergency to bring Athens and Thebes to a better understanding and even to an alliance against the common enemy (&sect;<bibl n="Dem. 18.168">&sect; 168</bibl>&mdash;226). Into this account he introduces (&sect;<bibl n="Dem. 18.189">&sect; 189</bibl>&mdash;210) a most eloquent and earnest defence of the whole line of policy in opposition to Philip which Athens had followed chiefly by his advice. He pleads that Athens, with her glorious traditions, could have taken no other course, even if she had seen the fatal defeat at Chaeronea in advance. This is the most eloquent and impassioned passage in the oration; and it is addressed not merely to the court, but to the whole people and to future ages.
+<p/><p>&sect;<bibl n="Dem. 18.160">&sect; 160</bibl>&mdash;226. The orator now passes to his own agency in opposing the joint plot of Aeschines and Philip. See introductory note on &sect;<bibl n="Dem. 18.126">&sect; 126</bibl>&mdash;226. After speaking of the enmity between Athens and Thebes, which men like Aeschines had encouraged (&sect;<bibl n="Dem. 18.160">&sect; 160</bibl>&mdash; 163), he gives a graphic account of the panic excited at Athens by Philip's seizure of Elatea, and of the manner in which he took advantage of this emergency to bring Athens and Thebes to a better understanding and even to an alliance against the common enemy (&sect;<bibl n="Dem. 18.168">&sect; 168</bibl>&mdash;226). Into this account he introduces (&sect;<bibl n="Dem. 18.189">&sect; 189</bibl>&mdash;210) a most eloquent and earnest defence of the whole line of policy in opposition to Philip which Athens had followed chiefly by his advice. He pleads that Athens, with her glorious traditions, could have taken no other course, even if she had seen the fatal defeat at Chaeronea in advance. This is the most eloquent and impassioned passage in the oration; and it is addressed not merely to the court, but to the whole people and to future ages.
 </p></div2>
 <div2 type="section" n="160">
 <p>4. <lemma lang="greek" targOrder="U">a)kou/saite</lemma>: this read- ing, though it has slight MS. authority, is necessary here, with <foreign lang="greek">e(/nek'  a)/n</foreign> in <foreign lang="greek">*s</foreign> and L. <foreign lang="greek">*s</foreign> often has <foreign lang="greek">e</foreign> for <foreign lang="greek">ai</foreign> or <foreign lang="greek">ai</foreign> for <foreign lang="greek">e</foreign>, from their identity in later pronunciation.
@@ -1772,7 +1771,7 @@
 <p>7. <lemma lang="greek" targOrder="U">mikra\ a)nagkaio/tata</lemma> (so <foreign lang="greek">*s</foreign> and L.1): see <bibl n="Dem. 18.126">&sect; 126</bibl>.4 and note. Most MSS. give <foreign lang="greek">au)ta\ ta\ a)nagkaio/tata</foreign> here, perhaps correctly.
 </p></div2>
 <div2 type="section" n="169-180">
-<p></p><p>&sect;<bibl n="Dem. 18.169">&sect; 169</bibl>&mdash;180. Here follows the famous description of the panic in Athens when the news of the seizure of Elatea arrived, and of the meeting of the Assembly which was suddenly called to consider the alarming situation. This is a celebrated example of <foreign lang="greek">diatu/pwsis</foreign>, <gloss>vivid delineation.</gloss>
+<p/><p>&sect;<bibl n="Dem. 18.169">&sect; 169</bibl>&mdash;180. Here follows the famous description of the panic in Athens when the news of the seizure of Elatea arrived, and of the meeting of the Assembly which was suddenly called to consider the alarming situation. This is a celebrated example of <foreign lang="greek">diatu/pwsis</foreign>, <gloss>vivid delineation.</gloss>
 </p></div2>
 <div2 type="section" n="169">
 <p>1. The succession of tenses, <foreign lang="greek">h)=n, h(=ke</foreign> (<gloss>had come</gloss>), and <foreign lang="greek">katei/lhptai</foreign> (the direct form for the indirect), makes the narrative lively and picturesque at the outset. Much would have been lost if he had said <foreign lang="greek">h)=lqe d) a)gge/llwn tis w(s kateilhmme/nh ei)/h.&mdash;<lemma lang="greek" targOrder="U">w(s tou\s pruta/neis</lemma></foreign>: the message came to the Prytanes, the fifty senators of one of the ten tribes, who for their term of one-tenth of the year represented the authority of the state. Their office was the <foreign lang="greek">qo/los</foreign> or <foreign lang="greek">skia/s</foreign>, a round building with a cupola in the <foreign lang="greek">a)gora/</foreign>, adjoining the Senate-house and the <foreign lang="greek">mhtrw=|on</foreign> with its record-office. There the <foreign lang="greek">e)pista/ths</foreign> of the Prytanes was expected to spend his whole day and night of office, with a third of the Prytanes whom he had selected (Arist. Pol. Ath. 44.5), so as to be accessible in emergencies like the present; and there the state provided meals for all the Prytanes. The <foreign lang="greek">qo/los</foreign> is distinct from the ancient Prytaneum or City Hall, where certain privileged persons (<foreign lang="greek">a)ei/sitoi</foreign>) had their meals at a public table, to which ambassadors and other guests of the state were sometimes invited.
@@ -1911,7 +1910,7 @@
 <p>8. <lemma lang="greek" targOrder="U">*oi)noma/ou tou= *koqwki/dou</lemma>: Aes- chines was of the deme <foreign lang="greek">*koqwki/dai</foreign>.
 </p></div2>
 <div2 type="section" n="181-187">
-<p></p><p>&sect;<bibl n="Dem. 18.181">&sect; 181</bibl>&mdash;187. contain the spurious &ldquo;decree of Demosthenes.&rdquo; Its date, the 16th of Scirophorion (June or July), once brought hopeless confusion into the chronology of the campaign before Chaeronea. See Clinton, Fast. Hellen. II. under 338 B.C. The real decree was passed in the autumn or early winter of 339&mdash;338 B.C., the year of the Archon Lysimachides. The style of the document is a ridiculous parody of that of Demosthenes (see <bibl n="Dem. 18.182">&sect; 182</bibl>). Lord Brougham's remarks on this document, written of course in full faith in its genuineness, are now interesting. He says (p. 181): &ldquo;The style of this piece is full of dignity, and the diction perfectly simple as well as chaste, with the solemnity of a state paper, but without the wordiness or technicality.&rdquo; <pb n="115"/> <pb n="116"/>
+<p/><p>&sect;<bibl n="Dem. 18.181">&sect; 181</bibl>&mdash;187. contain the spurious &ldquo;decree of Demosthenes.&rdquo; Its date, the 16th of Scirophorion (June or July), once brought hopeless confusion into the chronology of the campaign before Chaeronea. See Clinton, Fast. Hellen. II. under 338 B.C. The real decree was passed in the autumn or early winter of 339&mdash;338 B.C., the year of the Archon Lysimachides. The style of the document is a ridiculous parody of that of Demosthenes (see <bibl n="Dem. 18.182">&sect; 182</bibl>). Lord Brougham's remarks on this document, written of course in full faith in its genuineness, are now interesting. He says (p. 181): &ldquo;The style of this piece is full of dignity, and the diction perfectly simple as well as chaste, with the solemnity of a state paper, but without the wordiness or technicality.&rdquo; <pb n="115"/> <pb n="116"/>
 </p></div2>
 <div2 type="section" n="188">
 <p>1. <lemma lang="greek" targOrder="U">au(/th...prw/th</lemma>, <gloss>this was the first step taken and the first settlement effected in our relations with Thebes</gloss>: <foreign lang="greek">e)gi/gneto</foreign> refers to the progress of the business in coming to a settlement. See Weil's note: &ldquo;<foreign lang="greek">kata/stasis</foreign> est ici le contraire de <foreign lang="greek">taraxh/</foreign>.&rdquo; Cf. XX. 11, <foreign lang="greek">e)peidh\ d'  h( po/lis ei)s e(\n h)=lqe kai\ ta\ pra/gmat) e)kei=na kate/sth</foreign> (after the rule of the Thirty), and Ar. Ran. 1003, <foreign lang="greek">h(ni/k'  a)\n to\ pneu=ma lei=on kai\ kaqesthko\s la/bh|s</foreign>.
@@ -2134,7 +2133,7 @@
 <p>10. <lemma lang="greek" targOrder="U">douleu/ousan</lemma>, <gloss>in a state of slavery</gloss>: see <bibl n="Goodwin syntax 885">M.T. 885</bibl>, <bibl n="Goodwin syntax 148">148</bibl>. With the pres. partic. cf. <foreign lang="greek">mh/ m'  i)dei=n qano/nq)</foreign>, <gloss>not to see me killed</gloss>, Eur. Orest. 746.
 </p></div2>
 <div2 type="section" n="206-310">
-<p></p><p>&sect;<bibl n="Dem. 18.206">&sect; 206</bibl>&mdash;310. conclude the digres- sion which begins in <bibl n="Dem. 18.188">&sect; 188</bibl>. The orator here appeals to the judges not to convict Ctesiphon, as this will be a condemnation of the people of Athens for maintaining the ancient glories of the state, the glories of Marathon and Salamis.
+<p/><p>&sect;<bibl n="Dem. 18.206">&sect; 206</bibl>&mdash;310. conclude the digres- sion which begins in <bibl n="Dem. 18.188">&sect; 188</bibl>. The orator here appeals to the judges not to convict Ctesiphon, as this will be a condemnation of the people of Athens for maintaining the ancient glories of the state, the glories of Marathon and Salamis.
 </p></div2>
 <div2 type="section" n="206">
 <p>1&mdash;3. <lemma lang="greek" targOrder="U">ei)...e)pexei/roun... e)pitimh/seie/ moi</lemma>: this combination of a present unreal condition, <gloss>if I were undertaking</gloss>, with a future conclusion, <gloss>everybody would justly censure me</gloss>, is rare, and perhaps strictly illogical (<bibl n="Goodwin syntax 504">M.T. 504</bibl>). We should expect an imperfect with <foreign lang="greek">a)/n</foreign> in the apodosis; and this is implied in the condensed form which we have. The real meaning is, <gloss>if I were</gloss> (now) <gloss>undertaking to tell you this</gloss>, the result would be (<foreign lang="greek">h)=n a)/n</foreign>) that <gloss>all would justly censure me.</gloss> <pb n="128"/>
@@ -2296,7 +2295,7 @@
 <p>10. <lemma lang="greek" targOrder="U">die/sure</lemma>: see the general ridi- cule of his decrees in Aesch. III. <pb n="137"/> 100.1-3. This remark may perhaps refer to the fierce criticism of the terms of the alliance with Thebes (III. 141&mdash;143).&mdash;<lemma lang="greek" targOrder="U">ti/ a)peirga/sato</lemma>: the position of <foreign lang="greek">ti/</foreign> is emphatic: cf. <foreign lang="greek">ske/yasqe pw=s</foreign>, <bibl n="Dem. 18.235">&sect; 235</bibl>.4. We should expect <foreign lang="greek">sune/xeia</foreign> etc. to be in the accus. by the usual attraction; but they are far more expressive as they stand.
 </p></div2>
 <div2 type="section" n="219-221">
-<p></p><p>&sect;<bibl n="Dem. 18.219">&sect; 219</bibl>&mdash;221. were spoken while the clerk was preparing to read the letters of Philip.
+<p/><p>&sect;<bibl n="Dem. 18.219">&sect; 219</bibl>&mdash;221. were spoken while the clerk was preparing to read the letters of Philip.
 </p></div2>
 <div2 type="section" n="219">
 <p>2. <lemma lang="greek" targOrder="U">*kalli/stratos</lemma>: the famous orator whose eloquence is said to have inspired Demosthenes (as a boy) to devote himself to oratory: see note on <bibl n="Dem. 18.99">&sect; 99</bibl>.8.
@@ -2376,7 +2375,7 @@
 <p>At <bibl n="Dem. 18.226">&sect; 226</bibl> the proper defence ends, with the account of the alliance with Thebes. The remainder of the speech, before the epilogue, is devoted to a reply to three arguments of Aeschines, one comparing this trial <pb n="141"/> to an investigation of an account (&sect;<bibl n="Dem. 18.227">&sect; 227</bibl>&mdash;251), a second charging Demosthenes with being ill-starred (&sect;<bibl n="Dem. 18.252">&sect; 252</bibl>&mdash;275), and a third charging him with being a crafty rhetorician (&sect;<bibl n="Dem. 18.276">&sect; 276</bibl>&mdash;296).
 </p>
 <div2 type="section" n="227-251">
-<p></p><p>In &sect;<bibl n="Dem. 18.227">&sect; 227</bibl>&mdash;251. the orator refers to the exhortation of Aeschines to the judges (59&mdash;61) to cast aside any prejudices in favour of Demosthenes which they may have, and to proceed as they would if they were examining a long account, prepared to accept any result which the reckoning may bring out. Aeschines refers here only to the facts concerning the peace of Philocrates; but Demosthenes chooses to apply the remarks to his whole political life. While Aeschines referred only to the debit side of the account, Demosthenes speaks of both sides, and especially of what stands on the credit side of his own account with the state, including credit for preventing calamities by his judicious policy. He ends (<bibl n="Dem. 18.251">&sect; 251</bibl>) by turning against Aeschines the case of Cephalus, which had been brought up against himself.
+<p/><p>In &sect;<bibl n="Dem. 18.227">&sect; 227</bibl>&mdash;251. the orator refers to the exhortation of Aeschines to the judges (59&mdash;61) to cast aside any prejudices in favour of Demosthenes which they may have, and to proceed as they would if they were examining a long account, prepared to accept any result which the reckoning may bring out. Aeschines refers here only to the facts concerning the peace of Philocrates; but Demosthenes chooses to apply the remarks to his whole political life. While Aeschines referred only to the debit side of the account, Demosthenes speaks of both sides, and especially of what stands on the credit side of his own account with the state, including credit for preventing calamities by his judicious policy. He ends (<bibl n="Dem. 18.251">&sect; 251</bibl>) by turning against Aeschines the case of Cephalus, which had been brought up against himself.
 </p></div2>
 <div2 type="section" n="227">
 <p>1. <lemma lang="greek" targOrder="U">ei)=ta sofi/zetai</lemma>, <gloss>then he puts on airs of wisdom</gloss>, or <gloss>becomes very subtle</gloss>, with the same sarcasm as in <foreign lang="greek">sofou= paradei/gmatos</foreign>, <bibl n="Dem. 18.228">&sect; 228</bibl>.2.
@@ -2434,7 +2433,7 @@
 <p>9. <lemma lang="greek" targOrder="U">kalw=s poiou=ntes</lemma>, <gloss>by the blessing of Heaven</gloss>: cf. 1. 28, <foreign lang="greek">w(=n kalw=s poiou=ntes e)/xousi</foreign>, and <foreign lang="greek">kalw=s poiou=si</foreign>, XXI. 212. This phrase sometimes means <gloss>fortunately</gloss> (as here), approaching in sense the more common <foreign lang="greek">eu)= pra/ssein</foreign>, <gloss>to be prosperous</gloss>: sometimes <gloss>doing as one should</gloss>, as in XXI. 2, <foreign lang="greek">kalw=s kai\ ta\ di/kaia poiw=n o( dh=mos ou(/tws w)rgi/sqh</foreign>, and LVII. 6, <foreign lang="greek">kalw=s poiou=ntes tou\s h)dikhme/nous ses w/kate</foreign>. To show the distinction between <foreign lang="greek">kalw=s poiw=n</foreign> and <foreign lang="greek">eu)= pra/sswn</foreign>, Dissen quotes XX. 110, <foreign lang="greek">o(/te d'  u(mei=s kalw=s poiou=ntes...a)/meinon e)kei/nwn pra/ttete</foreign>. The active expressions <foreign lang="greek">eu)= poiei=n</foreign> and <foreign lang="greek">kakw=s poiei=n</foreign> are entirely distinct from <foreign lang="greek">kalw=s poiei=n</foreign>.
 </p></div2>
 <div2 type="section" n="232-241">
-<p></p><p>&sect;<bibl n="Dem. 18.232">&sect; 232</bibl>&mdash;241. We have here an account of the power of Athens under the leadership of Demosthenes, compared with her earlier resources.
+<p/><p>&sect;<bibl n="Dem. 18.232">&sect; 232</bibl>&mdash;241. We have here an account of the power of Athens under the leadership of Demosthenes, compared with her earlier resources.
 </p></div2>
 <div2 type="section" n="232">
 <p>3. <lemma lang="greek" targOrder="U">toiau=ta</lemma>: cognate (sc. <foreign lang="greek">kathgorh/mata</foreign>).
@@ -2665,7 +2664,7 @@
 <p>8. <lemma lang="greek" targOrder="U">mhde\n ei)=nai</lemma>: see <bibl n="Goodwin syntax 685">M.T. 685</bibl>.
 </p></div2>
 <div2 type="section" n="252-275">
-<p></p><p>&sect;<bibl n="Dem. 18.252">&sect; 252</bibl>&mdash;275. Here Demosthenes replies at great length to scattered remarks of Aeschines about his &ldquo;bad fortune,&rdquo; which involved in calamity every person, state, or thing which he touched. Though Aeschines refers only to his general <gloss>fortune</gloss>, Demosthenes chooses to speak chiefly of his <gloss>fortunes</gloss> in life, which he compares with those of his opponent. He concludes (&sect;<bibl n="Dem. 18.270">&sect; 270</bibl>&mdash;275) with some forcible remarks on his <gloss>fortune</gloss> in the other sense.
+<p/><p>&sect;<bibl n="Dem. 18.252">&sect; 252</bibl>&mdash;275. Here Demosthenes replies at great length to scattered remarks of Aeschines about his &ldquo;bad fortune,&rdquo; which involved in calamity every person, state, or thing which he touched. Though Aeschines refers only to his general <gloss>fortune</gloss>, Demosthenes chooses to speak chiefly of his <gloss>fortunes</gloss> in life, which he compares with those of his opponent. He concludes (&sect;<bibl n="Dem. 18.270">&sect; 270</bibl>&mdash;275) with some forcible remarks on his <gloss>fortune</gloss> in the other sense.
 </p></div2>
 <div2 type="section" n="252">
 <p>1. <lemma lang="greek" targOrder="U">a)gnwmosu/nhn</lemma> (cf. &sect;<bibl n="Dem. 18.94">&sect; 94</bibl>.2, 207.7), <gloss>want of feeling.</gloss>
@@ -2855,7 +2854,7 @@
 </p>
 <p>4. <lemma lang="greek" targOrder="U">h(/kw...pu/las</lemma>: the <gloss>Hecuba</gloss> of Euripides begins
 </p>
-<p></p><p><foreign lang="greek">h(/kw nekrw=n keuqmw=na kai\ sko/tou pu/las lipw\n, i(/n'  *(/aidhs xwri\s w)/|kistai qew=n, *polu/dwros, *(eka/bhs pai=s</foreign>.
+<p/><p><foreign lang="greek">h(/kw nekrw=n keuqmw=na kai\ sko/tou pu/las lipw\n, i(/n'  *(/aidhs xwri\s w)/|kistai qew=n, *polu/dwros, *(eka/bhs pai=s</foreign>.
 </p>
 <p>All MSS. except <foreign lang="greek">*s</foreign> have <foreign lang="greek">lipw/n</foreign> for <foreign lang="greek">nekrw=n</foreign>, making the sense of the quotation complete. But such a change is unlikely in quoting so familiar a verse.
 </p>
@@ -2890,7 +2889,7 @@
 <p>9. <lemma lang="greek" targOrder="U">a)rkei= moi</lemma>: sc. <foreign lang="greek">ou(/tws u(peilh=fqai</foreign>.
 </p></div2>
 <div2 type="section" n="270-275">
-<p></p><p>&sect;<bibl n="Dem. 18.270">&sect; 270</bibl>&mdash;275. We have here a sort of peroration to the discourse on Fortune (&sect;&sect;252&mdash;275), in which the orator comes at last to the precise point of his opponent's remark, that Demosthenes has brought ill-luck upon every person or state with which he had to do (Aesch. III. 114). Hitherto Demosthenes has spoken <pb n="167"/> far more of his &ldquo;fortunes&rdquo; than of his &ldquo;fortune.&rdquo; See remarks before notes on <bibl n="Dem. 18.252">&sect; 252</bibl>.
+<p/><p>&sect;<bibl n="Dem. 18.270">&sect; 270</bibl>&mdash;275. We have here a sort of peroration to the discourse on Fortune (&sect;&sect;252&mdash;275), in which the orator comes at last to the precise point of his opponent's remark, that Demosthenes has brought ill-luck upon every person or state with which he had to do (Aesch. III. 114). Hitherto Demosthenes has spoken <pb n="167"/> far more of his &ldquo;fortunes&rdquo; than of his &ldquo;fortune.&rdquo; See remarks before notes on <bibl n="Dem. 18.252">&sect; 252</bibl>.
 </p></div2>
 <div2 type="section" n="270">
 <p>3. <lemma lang="greek" targOrder="U">u(po\ tou=ton to\n h(/lion</lemma>, as we say, <gloss>under the Sun</gloss> (poetic). See Il. v. 267, <foreign lang="greek">o(/ssoi e)/asin u(p'  h)w= t) h)e/lio/n te</foreign>: Od. XV. 349, <foreign lang="greek">zw/ousin u(p'  au)ga\s h)eli/oio</foreign>.
@@ -2944,16 +2943,16 @@
 </p>
 <p>3. <lemma lang="greek" targOrder="U">toi=s a)gra/fois nomi/mois</lemma>, <gloss>by the principles of unwritten law</gloss>, further explained by <foreign lang="greek">toi=s a)nqrwpi/nois h)/qesi</foreign>: cf. <bibl n="Dem. 18.114">&sect; 114</bibl>.2. The unwritten law is known as the law of Nature, the moral law, the divine law, or the higher law, the law which is not alia lex Romae, alia Athenis. Aristotle distinguishes two kinds of unwritten law, one the <foreign lang="greek">koino\s no/mos, o( kata\ fu/sin</foreign>, the universal law of Nature, the other a branch of the special law of particular States, by which the defects of the written law may be remedied, that is, <foreign lang="greek">to\ e)pieike/s</foreign>, <gloss>equity.</gloss> See Rhet. I. 13. As an example of the universal law he quotes Antig. 456, 457, <foreign lang="greek">ou) ga/r ti...e)c o(/tou f)a/nh</foreign>, and the verses of Empedocles:
 </p>
-<p></p><p><foreign lang="greek">a)lla\ to\ me\n pa/ntwn no/mimon dia/ t'  eu)rume/dontos</foreign>
+<p/><p><foreign lang="greek">a)lla\ to\ me\n pa/ntwn no/mimon dia/ t'  eu)rume/dontos</foreign>
 </p>
-<p></p><p><foreign lang="greek">ai)qe/ros h)neke/ws te/tatai dia/ t'  a)ple/- tou au)= gh=s</foreign>.
+<p/><p><foreign lang="greek">ai)qe/ros h)neke/ws te/tatai dia/ t'  a)ple/- tou au)= gh=s</foreign>.
 </p>
 <p>5. <lemma lang="greek" targOrder="U">w)mo/thti</lemma>: cf. <foreign lang="greek">w)mo/teros</foreign>, <bibl n="Dem. 18.212">&sect; 212</bibl>.9.
 </p>
 <p>6. <lemma lang="greek" targOrder="U">w(s a)tuxhma/twn</lemma>: see Aesch. III. 57, <foreign lang="greek">tw=n de\ a)tuxhma/twn a(pa/ntwn *dhmosqe/nhn ai)/tion gegenhme/non</foreign>.
 </p></div2>
 <div2 type="section" n="276-296">
-<p></p><p>&sect;<bibl n="Dem. 18.276">&sect; 276</bibl>&mdash;296. Here Demosthenes begins by alluding to the attempt of Aeschines to represent him as a skilful sophist and rhetorician, who will impose on the judges by his wily arts. He retorts by showing that his own oratorical power has always been exerted in behalf of Athens, while that of Aeschines has been used to help her enemies or to gratify personal malice. He refers to the testimony of the citizens in choosing him to deliver the eulogy on those who fell at Chaeronea, as a proof of his patriotism. Finally, he declares that the present calamities of Greece have been caused by men of the stamp of Aeschines in various Greek states; and he gives a black list of these traitors who have betrayed their countries to the common enemy.
+<p/><p>&sect;<bibl n="Dem. 18.276">&sect; 276</bibl>&mdash;296. Here Demosthenes begins by alluding to the attempt of Aeschines to represent him as a skilful sophist and rhetorician, who will impose on the judges by his wily arts. He retorts by showing that his own oratorical power has always been exerted in behalf of Athens, while that of Aeschines has been used to help her enemies or to gratify personal malice. He refers to the testimony of the citizens in choosing him to deliver the eulogy on those who fell at Chaeronea, as a proof of his patriotism. Finally, he declares that the present calamities of Greece have been caused by men of the stamp of Aeschines in various Greek states; and he gives a black list of these traitors who have betrayed their countries to the common enemy.
 </p></div2>
 <div2 type="section" n="276">
 <p>1. <lemma lang="greek" targOrder="U">w(/sper...ei)rhkw\s</lemma>, i.e. <gloss>posing as one who had always spoken his own thoughts honestly and loyally</gloss>: we generally translate (for con<pb n="170"/> venience) <gloss>as if he had spoken</gloss> (<gloss>quasi vero dixisset</gloss>, West.), though there is nothing conditional in the participle with <foreign lang="greek">w(/sper</foreign>, which merely expresses comparison (<bibl n="Goodwin syntax 867">M.T. 867</bibl>): <gloss>having</gloss>, <gloss>as it were</gloss>, <gloss>spoken</gloss>, would be more correct, though less clear. See <foreign lang="greek">w(/sper ou)x</foreign>, <bibl n="Dem. 18.323">&sect; 323</bibl>.7, and note on <foreign lang="greek">w(s</foreign> (5).
@@ -3114,13 +3113,13 @@
 </p>
 <p>EPIGRAM. This cannot be the real epitaph inscribed on the public monument of the heroes of Chaeronea. It has too little poetic merit and too slovenly a style to be accepted as genuine. It is not in the older MSS., and it appears in the Anthol. Graeca, IV. p. 249 (Jacobs). We can be sure of one genuine verse (9), which is quoted by Demosthenes in <bibl n="Dem. 18.290">&sect; 290</bibl>.1 (see note on this verse). A small fragment of an inscription has been found at Athens, cut (acc. to K&ouml;hler) between 350 and 300 B.C., <pb n="178"/> which contains parts of six words of an epigram in the Anthol. Pal. VII. 245: this epigram was evidently inscribed to the heroes of Chaeronea. The full epigram is as follows, the letters found in the inscription being printed in heavy type:&mdash;
 </p>
-<p></p><p><foreign lang="greek">*)=w *xro/ne, <lemma lang="greek" targOrder="U">pantoi/wn qnhto</lemma>i=s panepi/- skope dai=mon</foreign>,
+<p/><p><foreign lang="greek">*)=w *xro/ne, <lemma lang="greek" targOrder="U">pantoi/wn qnhto</lemma>i=s panepi/- skope dai=mon</foreign>,
 </p>
-<p></p><p><foreign lang="greek">*)/aggel<lemma lang="greek" targOrder="U">os h(mete/rwn pa=s</lemma>i genou= pa/- qewn</foreign>
+<p/><p><foreign lang="greek">*)/aggel<lemma lang="greek" targOrder="U">os h(mete/rwn pa=s</lemma>i genou= pa/- qewn</foreign>
 </p>
-<p></p><p><foreign lang="greek">*(ws i(era\n sw/|zein peirw/menoi *(ella/da xw/ran</foreign>
+<p/><p><foreign lang="greek">*(ws i(era\n sw/|zein peirw/menoi *(ella/da xw/ran</foreign>
 </p>
-<p></p><p><foreign lang="greek">*boiwtw=n kleinoi=s qnh/|skomen e)n dape/- dois</foreign>.
+<p/><p><foreign lang="greek">*boiwtw=n kleinoi=s qnh/|skomen e)n dape/- dois</foreign>.
 </p>
 <p>This, though genuine, cannot be the inscription quoted by Demosthenes, as it does not have the verse <foreign lang="greek">mhde\n... katorqou=n</foreign>; but there were undoubtedly many epigrams commemorating the men of Chaeronea.
 </p>
@@ -3138,9 +3137,9 @@
 </p>
 <p><gloss>vv.</gloss> 9, 10. <lemma lang="greek" targOrder="U">mhde\n...e)n bioth=|</lemma>, <gloss>it is the gift of the Gods</gloss> (for men) <gloss>never to fail and always to succeed in life</gloss>, i.e. this is a miraculous exception in mortal life; opposed to which is the <pb n="179"/> fixed rule that death is appointed for all, <foreign lang="greek">moi=ran...e)/poren</foreign> (sc. <foreign lang="greek">*zeu\s brotoi=s</foreign>). The two verses contain the <foreign lang="greek">e)k *dio\s kri/sis</foreign>; but the change of construction in <foreign lang="greek">moi=ran...e)/poren</foreign> is awkward, and <foreign lang="greek">e)n bioth=|</foreign> is an unnatural addition to <gloss>v.</gloss> 9. It is now known that <foreign lang="greek">mhde\n a(martei=n e)sti qeou=</foreign> (or <foreign lang="greek">qew=n</foreign>) <foreign lang="greek">kai\ pa/nta katorqou=n</foreign> is a verse of the epigram of Simonides on the heroes of Marathon, of which two other lines are preserved:
 </p>
-<p></p><p><foreign lang="greek">*(ellh/nwn promaxou=ntes *)aqhnai=oi *maraqw=ni</foreign>
+<p/><p><foreign lang="greek">*(ellh/nwn promaxou=ntes *)aqhnai=oi *maraqw=ni</foreign>
 </p>
-<p></p><p><foreign lang="greek">xrusofo/rwn *mh/dwn e)sto/resan du/na- min</foreign>.
+<p/><p><foreign lang="greek">xrusofo/rwn *mh/dwn e)sto/resan du/na- min</foreign>.
 </p>
 <p>Kirchhoff (Hermes VI. pp. 487&mdash; 489) quotes from a MS. scholium: <foreign lang="greek">le/gei de\ *simwni/dhs e)n e)pigra/mmati r(hqe/nti au)tw=| e)pi\ toi=s *maraqw=ni pesou=sin *)aqhnai/wn to\n sti/xon tou=ton, *mhde\n a(martei=n e)sti qeou= kai\ pa/nta katorqou=n</foreign>. See Bergk, Poet. Lyr., Simon. fr. 82, with the note. See Themist. Or. XXII. p. 276 B, <foreign lang="greek">e)pei\ de\ to\ mhde\n a(marta/nein e)/cw th=s fu/sews kei=tai th=s a)nqrwpi/nhs,...to\ e)pi/gramma a)lhqe/steron o(\ *)aqh/nhsin e)pige/graptai e)n tw=| ta/fw| tw=| dhmosi/w|: kai\ ga\r toi=s qeoi=s mo/nois to\ pa/nta katorqou=n a)pone/mei</foreign>. These two quotations refer to a verse in which &ldquo;never to fail and always to succeed&rdquo; is called a divine prerogative; while in the same words in the inscription quoted by Demosthenes these are called a privilege sometimes granted by the Gods to favoured mortals (see <bibl n="Dem. 18.290">&sect; 290</bibl>). The original verse of Simonides, <foreign lang="greek">mhde\n... katorqou=n</foreign> (without <foreign lang="greek">e)n bioth=|</foreign>), was probably used, as a well-known verse, in the genuine epigram on those who fell at Chaeronea (still without <foreign lang="greek">e)n bioth=|</foreign>), but with a different meaning; and in this new sense it was quoted by Demosthenes in <bibl n="Dem. 18.290">&sect; 290</bibl>. The writer of our epigram probably borrowed the genuine line (perhaps from the text of Demosthenes), and added the whole of <gloss>v.</gloss> 10. See notes of West. and Bl.
 </p></div2>
@@ -3183,7 +3182,7 @@
 <p>8. <lemma lang="greek" targOrder="U">e)/blapte kai\ die/ballen</lemma> (with <foreign lang="greek">a(/n</foreign>): conative.
 </p></div2>
 <div2 type="section" n="294-296">
-<p></p><p>In &sect;<bibl n="Dem. 18.294">&sect; 294</bibl>&mdash;296, Demosthenes gives a &ldquo;black list&rdquo; of the traitors who have helped Philip or Alexander in subjugating Greek states, and declares that Aeschines is the representative of this pestilent class in Athens. Saving his own country from the disgrace of joining or abetting this foul plot against liberty is the great service for which he claims the name of patriot.
+<p/><p>In &sect;<bibl n="Dem. 18.294">&sect; 294</bibl>&mdash;296, Demosthenes gives a &ldquo;black list&rdquo; of the traitors who have helped Philip or Alexander in subjugating Greek states, and declares that Aeschines is the representative of this pestilent class in Athens. Saving his own country from the disgrace of joining or abetting this foul plot against liberty is the great service for which he claims the name of patriot.
 </p></div2>
 <div2 type="section" n="294">
 <p>3. <lemma lang="greek" targOrder="U">e)mou= filippismo\n</lemma>: the pronoun is emphatic, <gloss>me</gloss>, <gloss>of all men.</gloss> The word Philippic in all languages is a standing answer to the charge of Aeschines.
@@ -3265,7 +3264,7 @@
 <p>7. <lemma lang="greek" targOrder="U">oi( tw=n summa/xwn strathgoi\</lemma>: of these we hear only of two Thebans, Proxenus and Theagenes: of these Dinarchus (I. 74) says, <foreign lang="greek">e)pi\ de\ toi=s ce/nois toi=s ei)s *)/amfissan sullegei=si *pro/cenos o( prodo/ths e)ge/neto: h(gemw\n de\ th=s fa/laggos</foreign> (at Chaeronea) <foreign lang="greek">kate/sth *qeage/nhs, a)/nqrwpos a)tuxh\s kai\ dwrodo/kos w(/sper ou(=tos</foreign> (Demosthenes). <pb n="186"/>
 </p></div2>
 <div2 type="section" n="301-313">
-<p></p><p>In &sect;<bibl n="Dem. 18.301">&sect; 301</bibl>&mdash;313, the orator re- capitulates his own chief services, with which he compares the public career of Aeschines.
+<p/><p>In &sect;<bibl n="Dem. 18.301">&sect; 301</bibl>&mdash;313, the orator re- capitulates his own chief services, with which he compares the public career of Aeschines.
 </p></div2>
 <div2 type="section" n="301">
 <p>1. <lemma lang="greek" targOrder="U">ti/ xrh=n k.t.l.</lemma>, i.e. <gloss>what was his duty?</gloss>&mdash;<lemma lang="greek" targOrder="U">poiei=n</lemma>, of a course of action, explained by several aorists, each of a special act. In the following series of questions, all introduced by <foreign lang="greek">xrh=n</foreign>, the orator states the various problems which faced the Athenian statesman of that day and the obvious solutions of them.
@@ -3429,7 +3428,7 @@
 <p>8. <lemma lang="greek" targOrder="U">tragiko\s *qeokri/nhs</lemma>: see Har- pocr., <foreign lang="greek">to\n gou=n pa/lai me\n u(pokrith\n tragiko\n u(/steron de\ sukofa/nthn ei)ko/tws w)no/mase tragiko\n *qeokri/nhn</foreign>, Theocrines is the one accused in Or. LVIII. Cf. <bibl n="Dem. 18.242">&sect; 242</bibl>.5. <pb n="193"/>
 </p></div2>
 <div2 type="section" n="314-323">
-<p></p><p>In &sect;<bibl n="Dem. 18.314">&sect; 314</bibl>&mdash;323, the orator com- plains of the unfairness of judging him, as Aeschines has done (178&mdash; 190), by comparison with the great men of ancient times. But he shrinks from no comparison with his contemporaries. In &sect;<bibl n="Dem. 18.321">&sect; 321</bibl>&mdash;323 he states two points, which he claims for himself, in the character of the <foreign lang="greek">me/trios poli/ths</foreign>.
+<p/><p>In &sect;<bibl n="Dem. 18.314">&sect; 314</bibl>&mdash;323, the orator com- plains of the unfairness of judging him, as Aeschines has done (178&mdash; 190), by comparison with the great men of ancient times. But he shrinks from no comparison with his contemporaries. In &sect;<bibl n="Dem. 18.321">&sect; 321</bibl>&mdash;323 he states two points, which he claims for himself, in the character of the <foreign lang="greek">me/trios poli/ths</foreign>.
 </p></div2>
 <div2 type="section" n="314">
 <p>1. <lemma lang="greek" targOrder="U">tw=n pro/teron gegenhme/- nwn</lemma>: in III. 181 Aeschines calls on the court directly to compare Demosthenes with Themistocles, Miltiades, the heroes of Phyle, and Aristides; and he does this very effectively.

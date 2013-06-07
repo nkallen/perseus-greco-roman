@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -70,8 +69,7 @@
                 style and tone of Petronius is considerable, and they are therefore given here. The
                 six poems which followed in this MS. are given by Baehrens (<hi rend="italics">P.L.M.</hi> iv. 103&ndash;8) to Petronius. But they have no particular
                 affinity with the work of Petronius, and as they have inserted among them in Binet's
-                book a number of poems which are admittedly by Luxorius (see Baehrens, <hi
-                    rend="italics">op. cit.</hi> App. Crit. on <hi rend="italics">P.L.M.</hi> iv.
+                book a number of poems which are admittedly by Luxorius (see Baehrens, <hi rend="italics">op. cit.</hi> App. Crit. on <hi rend="italics">P.L.M.</hi> iv.
                 104), they are not included here.</p>
             <pb id="p.341"/>
             <p>The remaining two poems are found in cod. Vossianus L.F. 111, a MS. of the 9th

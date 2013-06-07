@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -15,7 +14,7 @@
 	&fund.NEH;
 </titleStmt>
 	
-<extent></extent>
+<extent/>
 
 	&Perseus.publish;
 
@@ -4533,7 +4532,7 @@ tum procul in Gallia provincia aberat, ius fuisse
 dicendi dictatoris;  <milestone unit="section" n="10"/> quam moram quia expectare territa
 <hi rend="italics">tertia</hi> iam clade civitas non poterat, eo decursum esse,
 
-ut a populo crearetur,<hi rend="italics"></hi> qui pro dictatore esset;  <milestone unit="section" n="11"/> res
+ut a populo crearetur,<hi rend="italics"/> qui pro dictatore esset;  <milestone unit="section" n="11"/> res
 inde gestas gloriamque insignem ducis et augentis
 titulum imaginis posteros, ut, qui pro dictatore <hi rend="italics">creatus</hi>
 <hi rend="italics">erat, fuisse dictator</hi> crederetur, facile obtinuisse.</p>
@@ -5496,7 +5495,7 @@ teritur, interea cum ex maioribus castris, quibus satis
 virium  et animi fuit, ad quattuor milia hominum  et
 ducenti equites, alii agmine, alii palati passim per
 
-agros, quod <corr sic="baud">haud</corr> minus tutum erat, Canusium perfugissent, castra ipsa ab sauciis timidisque eadem condicione qua altera tradita hosti.  <milestone unit="section" n="5"/> praeda ingens parta est,<hi rend="italics"></hi>
+agros, quod <corr sic="baud">haud</corr> minus tutum erat, Canusium perfugissent, castra ipsa ab sauciis timidisque eadem condicione qua altera tradita hosti.  <milestone unit="section" n="5"/> praeda ingens parta est,<hi rend="italics"/>
 et praeter equos virosque et si quid argenti&mdash;quod <corr sic="plurinum">plurimum</corr> in phaleris equorum erat, nam ad vescendum facto
 perexiguo, utique militantes, utebantur&mdash;omnis cetera
 
@@ -9903,7 +9902,7 @@ potestate esse.
 <milestone unit="section" n="1"/>luce prima populus omnis, armatus inermisque, in Achradinam ad curiam convenit. ibi pro Concordiae ara, quae in eo sita loco erat, ex <corr sic="principibu">principibus</corr>
 unus nomine Polyaenus contionem et liberam et mod
 
-ratam habuit.  <milestone unit="section" n="2"/> servitutis formidines<hi rend="italics"></hi> indignitatesque homines expertos adversus notum  malum   inritatos esse
+ratam habuit.  <milestone unit="section" n="2"/> servitutis formidines<hi rend="italics"/> indignitatesque homines expertos adversus notum  malum   inritatos esse
 discordia civilis quas inportet clades, audisse magis
 
 <pb id="p.205"/>
@@ -12700,7 +12699,7 @@ traditae forent Syracusae, liberos eos ac suis legibus
 victuros esse.  <milestone unit="section" n="5"/> non erat conloquii copia, quia multorum animi suspecti omnium curam oculosque converterant, ne quid falleret tale admissum.  <milestone unit="section" n="6"/> servus unus
 exulum pro transfuga intromissus in urbem conventis
 paucis initium conloquendi de tali re fecit. deinde
-in<hi rend="italics"></hi> piscatoria quidam nave retibus operti circumvectique ita ad castra Romana conlocutique cum transfugis, et iidem saepius eodem modo et alii atque alii.
+in<hi rend="italics"/> piscatoria quidam nave retibus operti circumvectique ita ad castra Romana conlocutique cum transfugis, et iidem saepius eodem modo et alii atque alii.
 
 postremo ad octoginta facti.  <milestone unit="section" n="7"/> et cum iam composita
 omnia ad proditionem essent, indicio delato ad Epicyden per Attalum  quendam, indignantem  sibi rem
@@ -22422,7 +22421,7 @@ superbiam consules, quo terrarum velint, traiciant."</p>
 <milestone unit="chapter" n="43"/>
 <milestone unit="section" n="1"/>cum   oratione ad tempus parata Fabius
 tum auctoritate et inveterata prudentiae fama magnam
-partem  senatus et seniores maxime <hi rend="italics">cum</hi> <hi rend="italics"></hi> movisset,
+partem  senatus et seniores maxime <hi rend="italics">cum</hi> <hi rend="italics"/> movisset,
 pluresque consilium senis quam animum adulescentis
 
 ferocem laudarent, Scipio ita locutus fertur:  <milestone unit="section" n="2"/> ,,et ipse

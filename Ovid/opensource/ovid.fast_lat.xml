@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader>
@@ -4855,10 +4855,10 @@
 <lb type="displayNum" n="634"/>pontibus infirmos praecipitasse senes. 
 
 
-5.623"/> corpora post decies senos qui credidit annos <lb type="displayNum" n="623"/> corpora post decies senos qui credidit annos 
+5.623"/&gt; corpora post decies senos qui credidit annos <lb type="displayNum" n="623"/> corpora post decies senos qui credidit annos 
 
 
-5.624"/> missa neci, sceleris crimine damnat avos. <lb type="displayNum" n="624"/> missa neci, sceleris crimine damnat avos. 
+5.624"/&gt; missa neci, sceleris crimine damnat avos. <lb type="displayNum" n="624"/> missa neci, sceleris crimine damnat avos. 
 
 
 <lb type="displayNum" n="635"/> Thybri, doce verum, tua ripa vetustior urbe est,
@@ -6135,6 +6135,4 @@
 
 <lb type="displayNum" n="810"/> o decus, o sacra femina digna domo!</q>
 <lb type="displayNum" n="811"/>sic cecinit Clio, doctae assensere sorores;
-<lb type="displayNum" n="812"/>annuit Alcides increpuitque lyram. </p></div1></body></text></TEI.2> 
-
-
+<lb type="displayNum" n="812"/>annuit Alcides increpuitque lyram. </p></div1></body></text></TEI.2>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -1113,7 +1112,7 @@ diligenter locutum.</p>
 quorum neuter summi oratoris habuit laudem, et <hi rend="italics">est</hi><note>et est uterque <hi rend="italics">Stangl</hi>: et uterque <hi rend="italics">L</hi>: at uterque est
 <hi rend="italics">Martha</hi></note> uterque in multis causis versatus. Erat in quibusdam laudandis
 viris, etiam si maximi ingeni non essent, probabilis<note>erant ... laudandi viri et, vel si... probabiles
-<hi rend="italics">Stangl</hi>: <hi rend="italics"></hi>erat. In quibusdam laudandis viris etiamsi .. . probabiles <hi rend="italics">L</hi>: 
+<hi rend="italics">Stangl</hi>: <hi rend="italics"/>erat. In quibusdam laudandis viris etiamsi .. . probabiles <hi rend="italics">L</hi>: 
 Erat in quibusdam laudandis viris ... probabilis tamen industria
 <hi rend="italics">Peter</hi>: erat: in quibusdam laudandi viri ... probabiles <hi rend="italics">Orelli</hi></note> tamen
 industria; quamquam his quidem non omnino ingenium,

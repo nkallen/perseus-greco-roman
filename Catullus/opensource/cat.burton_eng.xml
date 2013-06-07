@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -823,7 +822,7 @@
 <l>Grins ever, everywhere. When placed a wight</l>
 <l>In dock, when pleader would draw tears, the while</l>
 <l>He grins. When pious son at funeral pile</l>
-<l></l><l><milestone n="5" unit="line"/>Mourns, or lone mother sobs for sole lost son,</l>
+<l/><l><milestone n="5" unit="line"/>Mourns, or lone mother sobs for sole lost son,</l>
 <l>He grins. Whate'er, whene'er, howe'er is done,</l>
 <l>Of deed he grins. Such be his malady,</l>
 <l>Nor kind, nor courteous-so beseemeth me&mdash;</l>
@@ -979,7 +978,7 @@
 <l>The kissing harvests our embraces grow.</l></div1>
 <div1 type="poem" n="49">
 <head>TO MARCUS TULLIUS CICERO</head>
-<l>Most eloquent 'mid race of <persName><surname>Romulus</surname></persName>></l>
+<l>Most eloquent 'mid race of <persName><surname>Romulus</surname></persName>&gt;</l>
 <l>That is or ever was (Marc Tullius!)</l>
 <l>Or in the coming years the light shall see,</l>
 <l>His thanks, the warmest, offers unto thee</l>
@@ -1085,7 +1084,7 @@
 <l>But, an it please thee, padlockt palate bear,</l>
 <l>So in your friendship I have partner-share.</l></div1>
 <div1 type="poem" n="56">
-<head>TO CATO, DESCRIBING A "BLACK JOKER."</head><head></head>
+<head>TO CATO, DESCRIBING A "BLACK JOKER."</head><head/>
 <l>O risible matter (<persName><surname>Cato</surname></persName>!) and jocose,</l>
 <l>Digne of thy hearing, of thy sneering digne.</l>
 <l>Laugh (Cato!) an thou love Catullus thine;</l>
@@ -1464,21 +1463,21 @@
 <head>Nuptial Song By Youths And Damsels</head>
 <head>Epithalamium</head>
 
-<p></p><sp><speaker>Youths</speaker>
+<p/><sp><speaker>Youths</speaker>
   <l><persName><surname>Vesper</surname></persName> is here, O youths, rise all; for Vesper Olympus</l>
 <l>Scales and in fine enfires what lights so long were expected!</l>
 <l>Time 'tis now to arise, now leave we tables rich laden,</l>
 <l>Now shall the Virgin come; now chaunt we the Hymenaeus.</l>
 <l>Hymen O Hymenaeus: Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Damsels</speaker>
+<p/></sp><sp><speaker>Damsels</speaker>
 <l>View ye the Youths, O Maids unwed? Then rise to withstand them:</l>
 <l>Doubtless the night-fraught Star displays his splendour Oetean.</l>
 <l>Sooth 'tis so; d'ye sight how Speedily sprang they to warfare?</l>
 <l>Nor for a naught up-sprang: they'll Sing what need we to conquer.</l>
 <l>Hymen O Hymenaeus: Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Youths</speaker>
+<p/></sp><sp><speaker>Youths</speaker>
 <l>Nowise easy the palm for us (Companions!) be proffer'd,</l>
 <l>Lo! now the maidens muse and meditate matter of forethought</l>
 <l>Nor meditate they in vain; they muse a humorous something.</l>
@@ -1489,7 +1488,7 @@
 <l>Soon shall begin their say whose countersay shall befit you.</l>
 <l>Hymen O Hymenaeus: Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Damsels</speaker>
+<p/></sp><sp><speaker>Damsels</speaker>
   <l><persName><surname>Hesperus</surname></persName>! say what flame more cruel in Heaven be fanned?</l>
 <l>Thou who the girl perforce canst tear from a mother's embraces,</l>
 <l>Tear from a parent's clasp her child despite of her clinging</l>
@@ -1497,7 +1496,7 @@
 <l>What shall the foeman deal more cruel to city becaptured?</l>
 <l>Hymen O Hymenaeus, Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Youths</speaker>
+<p/></sp><sp><speaker>Youths</speaker>
   <l><persName><surname>Hesperus</surname></persName>! say what flame more gladsome in Heavens be shining?</l>
 <l>Thou whose light makes sure long-pledged connubial promise</l>
 <l>Plighted erewhile by men and erstwhile plighted by parents.</l>
@@ -1505,11 +1504,11 @@
 <l>What better boon can the gods bestow than hour so desir&egrave;d?</l>
 <l>Hymen O Hymenaeus, Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Damsels</speaker>
+<p/></sp><sp><speaker>Damsels</speaker>
   <l><persName><surname>Hesperus</surname></persName>! one of ourselves (Companions!) carried elsewhither</l>
 <l><gap extent="4 lines"/>&gt;</l>
 <l>Hymen O Hymenaeus, Hymen here, O Hymenaeus!</l>
-<p></p></sp><sp><speaker>Youths</speaker>
+<p/></sp><sp><speaker>Youths</speaker>
 <l><gap extent="1 line"/></l>
 <l>For at thy coming in sight a guard is constantly watching.</l>
 <l>Hidden o'nights lurk thieves and these as oft as returnest,</l>
@@ -1517,7 +1516,7 @@
 <l>Pleases the bevy unwed with feigned complaints to accuse thee.</l>
 <l>What if assail they whom their souls in secrecy cherish?</l>
 <l>Hymen O Hymenaeus, Hymen here, O Hymenaeus!</l>
-<p></p></sp><sp><speaker>Damsels</speaker>
+<p/></sp><sp><speaker>Damsels</speaker>
 <l>E'en as a flow'ret born secluded in garden enclosed,</l>
 <l>Unto the flock unknown and ne'er uptorn by the ploughshare,</l>
 <l>Soothed by the zephyrs and strengthened by suns and nourish't by showers</l>
@@ -1530,7 +1529,7 @@
 <l>Neither to youths she is joy, nor a dearling she to the maidens.</l>
 <l>Hymen O Hymenaeus, Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Youths</speaker>
+<p/></sp><sp><speaker>Youths</speaker>
 <l>E'en as an unmated vine which born in field of the barest</l>
 <l>Never upraises head nor breeds the mellowy grape-bunch,</l>
 <l>But under weight prone-bowed that tender body a-bending</l>
@@ -1543,7 +1542,7 @@
 <l>More to her spouse she is dear and less she's irk to her parents.</l>
 <l>Hymen O Hymenaeus, Hymen here, O Hymenaeus!</l>
 
-<p></p></sp><sp><speaker>Youths and Damsels</speaker>
+<p/></sp><sp><speaker>Youths and Damsels</speaker>
 <l>But do thou cease to resist (O Maid!) such bridegroom opposing,</l>
 <l>Right it is not to resist whereto consigned thee a father,</l>
 <l>Father and mother of thee unto whom obedience is owing.</l>
@@ -1853,7 +1852,7 @@
 <l>Suffer you not the cause of grief and woe to evanish;</l>
 <l>But with the Will wherewith could Theseus leave me in loneness,</l>
 <l>Goddesses! bid that Will lead him, lead his, to destruction."</l>
-<p></p><l><milestone n="202" unit="line"/>E'en as she thus poured forth these words from anguish of bosom,</l>
+<p/><l><milestone n="202" unit="line"/>E'en as she thus poured forth these words from anguish of bosom,</l>
 <l>And for this cruel deed, distracted, sued she for vengeance,</l>
 <l>Nodded the Ruler of Gods Celestial, matchless of All-might,</l>
 <l>When at the gest earth-plain and horrid spaces of ocean</l>
@@ -1866,7 +1865,7 @@
 <l>For 'twas told of yore, when from walls of the Virginal Deess</l>
 <l>Aegeus speeding his son, to the care of breezes committed,</l>
 <l>Thus with a last embrace to the youth spoke words of commandment:</l>
-<p></p><l>"Son! far nearer my heart (you alone) than life of the longest,</l>
+<p/><l>"Son! far nearer my heart (you alone) than life of the longest,</l>
 <l>Son, I perforce dismiss to doubtful, dangerous chances,</l>
 <l>Lately restored to me when eld draws nearest his ending,</l>
 <l>Since such fortune in me, and in you such boiling of valour</l>
@@ -1890,7 +1889,7 @@
 <l>Wherewith splendid shall gleam the tallest spars of the top-mast,</l>
 <l>These seeing sans delay with joy exalting my spirit</l>
 <l>Well shall I wot boon Time sets you returning before me."</l>
-<p></p><l>Such were the mandates which stored at first in memory constant</l>
+<p/><l>Such were the mandates which stored at first in memory constant</l>
 <l>Faded from Theseus' mind like mists, compelled by the whirlwind,</l>
 <l>Fleet from aerial crests of mountains hoary with snow-drifts.</l>
 <l>But as the sire had sought the citadel's summit for outlook,</l>
@@ -1919,7 +1918,7 @@
 <l>Or from the polisht brass woke thin-toned tinkling music,</l>
 <l>While from the many there boomed and blared hoarse blast of the horn-trump,</l>
 <l>And with its horrid skirl loud shrilled the barbarous bag-pipe</l>
-<p></p><l>Showing such varied forms, that richly-decorated couch-cloth</l>                      
+<p/><l>Showing such varied forms, that richly-decorated couch-cloth</l>                      
 <l>Folded in strait embrace the bedding drapery-veiled.</l>
 <l>This when the Thessalan youths had eyed with eager inspection</l>
 <l>Fulfilled, place they began to provide for venerate Godheads,</l>
@@ -2201,7 +2200,7 @@
 <l>Neighbour to Hydrochois e'en let Oarion shine.</l></div1>
 <div1 type="poem" n="67">
 <head>DIALOGUE CONCERNING CATULLUS AT A HARLOT'S DOOR.</head>
-<p></p><sp><speaker>Quintus.</speaker>
+<p/><sp><speaker>Quintus.</speaker>
 <l>0 to the gentle spouse right dear, right dear to his parent,</l>
 <l>Hail, and with increase fair Jupiter lend thee his aid,</l>
 <l>Door, 'tis said wast fain kind service render to Balbus</l>
@@ -2210,21 +2209,21 @@
 <l>After the elder was stretched, thou being oped for a bride.</l>
 <l>Come, then, tell us the why in thee such change be reported</l>
 <l>That to thy lord hast abjured faithfulness owed of old?</l>
-<p></p></sp><sp><speaker>Door.</speaker>
+<p/></sp><sp><speaker>Door.</speaker>
 <l>Never (so chance I to please Caeci1ius owning me now-a-days!)</l>
 <l>Is it my own default, how so they say it be mine;</l>
 <l>Nor can any declare aught sin by me was committed.</l>
 <l>Yet it is so declared (Quintus!) by fable of folk;</l>
 <l>Who, whenever they find things done no better than should be,</l>
 <l>Come to me outcrying all:&mdash;"Door, the default is thine own!"</l>
-<p></p></sp><sp><speaker>Quintus.</speaker>
+<p/></sp><sp><speaker>Quintus.</speaker>
 <l>This be never enough for thee one-worded to utter,</l>
 <l>But in such way to deal, each and all sense it and see.</l>
-<p></p></sp><sp><speaker>Door.</speaker>
+<p/></sp><sp><speaker>Door.</speaker>
 <l>What shall I do? None asks, while nobody troubles to know.</l>
-<p></p></sp><sp><speaker>Quintus.</speaker>
+<p/></sp><sp><speaker>Quintus.</speaker>
 <l>Willing are we? unto us stay not thy saying to say.</l>
-<p></p></sp><sp><speaker>Door.</speaker>
+<p/></sp><sp><speaker>Door.</speaker>
 <l>First let me note that the maid to us committed (assert they)</l>
 <l>Was but a fraud: her mate never a touch of her had,</l>
 <l><gap extent="2 lines"/></l>
@@ -2234,22 +2233,22 @@
 <l>Or that his impotent son sprang from incapable seed.</l>
 <l>And to be sought was one with nerve more nervous endow&egrave;d,</l>
 <l>Who could better avail zone of the virgin to loose.</l>
-<p></p></sp><sp><speaker>Quintus.</speaker>
+<p/></sp><sp><speaker>Quintus.</speaker>
 <l>'Sooth, of egregious sire for piety wondrous, thou tellest,</l>
 <l>Who in the heart of his son lief was . . . !</l>
 <l>Yet professed herself not only this to be knowing, </l>
 <l>Brixia-town that lies under the Cycnean cliff,</l>
 <l>Traversed by Mella-stream's soft-flowing yellow-hued current,</l>
 <l>Brixia, V&eacute;rona's mother, I love for my home.</l>
-<p></p></sp><sp><speaker>Door.</speaker>
+<p/></sp><sp><speaker>Door.</speaker>
 <l>Eke of Posthumius' loves and Cornelius too there be tattle,</l>
 <l>With whom dared the dame evil advowtry commit.</l>
-<p></p></sp><sp><speaker>Quintus.</speaker>
+<p/></sp><sp><speaker>Quintus.</speaker>
 <l>Here might somebody ask :&mdash;" How, Door, hast mastered such matter?</l>
 <l>Thou that canst never avail threshold of owner to quit,</l>
 <l>Neither canst listen to folk since here fast fixt to the side-posts</l>
 <l>Only one office thou hast, shutting or opening the house."</l>
-<p></p></sp><sp><speaker>Door.</speaker>
+<p/></sp><sp><speaker>Door.</speaker>
 <l>Oft have I heard our dame in furtive murmurs o'er telling,</l>
 <l>When with her handmaids alone, these her flagitious deeds,</l>
 <l>Citing fore-cited names for that she never could fancy</l>

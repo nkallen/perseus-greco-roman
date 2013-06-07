@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -2601,7 +2600,7 @@
 					spiritus gerens. <reg>venientem</reg> Volsci benigne excepere
 					benigniusque in dies colebant, quo maior ira in suos
 					eminebat crebraeque nunc querellae, nunc minae
-					percipiebantur.<note>percipiebantur <hi rend="italics">ed. <reg>ald</reg>. (in Errata):</hi> praecipiebantur <foreign lang="greek">W.</foreign></note> <note></note> <reg>hospitio</reg> utebatur Atti Tulli. <reg>longe</reg> is tum princeps Volsci nominis erat Romanisque semper infestus. <reg>ita</reg> cum alterum vetus odium, alterum   <pb id="p.336"/>  ira recens stimularet, consilia conferunt de Romano<note type="margin">A.U.C. 263</note> <milestone unit="section" n="7"/> bello.<milestone unit="section" n="8"/> <reg>haud</reg> facile credebant plebem suam impelli posse ut totiens infeliciter temptata arma caperent: multis saepe bellis, pestilentia postremo amissa iuventute fractos spiritus esse; arte agendum in exoleto iam vetustate odio, ut recenti aliqua ira exacerbarentur animi.</p> 
+					percipiebantur.<note>percipiebantur <hi rend="italics">ed. <reg>ald</reg>. (in Errata):</hi> praecipiebantur <foreign lang="greek">W.</foreign></note> <note/> <reg>hospitio</reg> utebatur Atti Tulli. <reg>longe</reg> is tum princeps Volsci nominis erat Romanisque semper infestus. <reg>ita</reg> cum alterum vetus odium, alterum   <pb id="p.336"/>  ira recens stimularet, consilia conferunt de Romano<note type="margin">A.U.C. 263</note> <milestone unit="section" n="7"/> bello.<milestone unit="section" n="8"/> <reg>haud</reg> facile credebant plebem suam impelli posse ut totiens infeliciter temptata arma caperent: multis saepe bellis, pestilentia postremo amissa iuventute fractos spiritus esse; arte agendum in exoleto iam vetustate odio, ut recenti aliqua ira exacerbarentur animi.</p> 
 				<p><milestone unit="chapter" n="36"/><milestone unit="section" n="1"/> <reg>ludi</reg> forte ex instauratione magni Romae
 					parabantur. <reg>instaurandi</reg> haec causa fuerat. <reg>ludis</reg>
 					mane servum quidam pater familiae nondum commisso spectaculo sub furca caesum medio egerat

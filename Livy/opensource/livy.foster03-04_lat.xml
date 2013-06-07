@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -1181,7 +1180,7 @@
 					coerceret.<milestone unit="section" n="3"/> <quote><reg>proinde</reg> quiesse erit melius. I,</quote> inquit,<note>i, inquit <hi rend="italics">R</hi>2<hi rend="italics">D</hi>2: ii inquit <hi rend="italics">RDL:</hi> inquit (inquid <hi rend="italics">B</hi>) <foreign lang="greek">W.</foreign></note> <quote>lictor, submove turbam et da viam domino ad
 						<pb id="p.158"/>
 						prehendendum mancipium.</quote> <reg>cum</reg> haec intonuisset<note type="margin">A.U.C. 305</note> plenus irae, <corr sic="multitude">multitudo</corr> ipsa se sua sponte dimovit desertaque praeda iniuriae puella stabat.<milestone unit="section" n="4"/> <reg>tum</reg> Verginius ubi nihil usquam auxilii vidit, <quote><reg>quaeso</reg></quote>
-					inquit, <quote><name>Appi</name>, primum ignosce patrio dolori, si quo<note>si quo <hi rend="italics"><name>Weissenborn</name></hi> (<hi rend="italics">cf.</hi> IV. i. 5): si quod (q&#x0111; <hi rend="italics">H</hi>) <foreign lang="greek">W:</foreign> si quot <hi rend="italics">RDL:</hi> si quid <foreign lang="greek">s:</foreign>si <hi rend="italics"><name>Alschefski</name>.</hi></note> inclementius in te sum invectus; deinde sinas hic coram virgine nutricem percontari quid hoc rei sit, ut si falso pater dictus sum aequiore hinc animo
+					inquit, <quote><name>Appi</name>, primum ignosce patrio dolori, si quo<note>si quo <hi rend="italics"><name>Weissenborn</name></hi> (<hi rend="italics">cf.</hi> IV. i. 5): si quod (qđ <hi rend="italics">H</hi>) <foreign lang="greek">W:</foreign> si quot <hi rend="italics">RDL:</hi> si quid <foreign lang="greek">s:</foreign>si <hi rend="italics"><name>Alschefski</name>.</hi></note> inclementius in te sum invectus; deinde sinas hic coram virgine nutricem percontari quid hoc rei sit, ut si falso pater dictus sum aequiore hinc animo
 						discedam.</quote><milestone unit="section" n="5"/> <reg>data</reg> venia seducit filiam ac nutricem
 					prope Cloacinae ad tabernas quibus nunc novis est
 					nomen atque ibi ab lanio cultro arrepto, <quote><reg>hoc</reg> te uno
@@ -1989,7 +1988,7 @@
 					sibi imponi paterentur.<milestone unit="section" n="10"/> <reg>quia</reg> tum concessum sit
 					de tribunis,<milestone unit="section" n="11?"/> iterum concessum esse; fine non
 					<pb id="p.262"/>
-					fieri posse si in<note>posse si in <hi rend="italics"><name>Conway</name>:</hi> posse sin <hi rend="italics">F:</hi> posse i&iacute;n <hi rend="italics">M:</hi> posse in <foreign lang="greek">W.</foreign></note> eadem civitate tribuni<note>tribuni <hi rend="italics">PFBD:</hi> tribunos <hi rend="italics">F</hi>3<hi rend="italics">OH:</hi> tr_ <hi rend="italics">MILA.</hi></note> plebis<note type="margin">A.U.C. 309</note> et patres essent;<note>essent <hi rend="italics"><name>Conway</name>:</hi> &#x1EBD;&#x1EBD; <hi rend="italics">ML:</hi> esse <foreign lang="greek">W.</foreign></note> aut hunc ordinem aut illum magistratum tollendum esse, potiusque sero quam nunquam obviam eundum audaciae temeritatique.<milestone unit="section" n="12"/> <reg>illine</reg> ut impune primo discordias serentes concitent finitima bella, deinde adversus ea, quae concitaverint, armari civitatem defendique prohibeant, et cum hostes tantum non arcessierint, exercitus conscribi adversus hostes non patiantur, sed audeat Canuleius in senatu proloqui se,<milestone unit="section" n="13?"/> nisi suas leges tamquam victoris patres accipi sinant, dilectum haberi prohibiturum? <reg>quid</reg> esse aliud quam minari
+					fieri posse si in<note>posse si in <hi rend="italics"><name>Conway</name>:</hi> posse sin <hi rend="italics">F:</hi> posse i&iacute;n <hi rend="italics">M:</hi> posse in <foreign lang="greek">W.</foreign></note> eadem civitate tribuni<note>tribuni <hi rend="italics">PFBD:</hi> tribunos <hi rend="italics">F</hi>3<hi rend="italics">OH:</hi> tr_ <hi rend="italics">MILA.</hi></note> plebis<note type="margin">A.U.C. 309</note> et patres essent;<note>essent <hi rend="italics"><name>Conway</name>:</hi> ẽẽ <hi rend="italics">ML:</hi> esse <foreign lang="greek">W.</foreign></note> aut hunc ordinem aut illum magistratum tollendum esse, potiusque sero quam nunquam obviam eundum audaciae temeritatique.<milestone unit="section" n="12"/> <reg>illine</reg> ut impune primo discordias serentes concitent finitima bella, deinde adversus ea, quae concitaverint, armari civitatem defendique prohibeant, et cum hostes tantum non arcessierint, exercitus conscribi adversus hostes non patiantur, sed audeat Canuleius in senatu proloqui se,<milestone unit="section" n="13?"/> nisi suas leges tamquam victoris patres accipi sinant, dilectum haberi prohibiturum? <reg>quid</reg> esse aliud quam minari
 					se proditurum patriam, oppugnari atque capi passurum! <reg>quid</reg> <corr sic="earn">eam</corr> vocem animorum non plebi
 					Romanae, sed Volscis et Aequis et Veientibus allaturam!<milestone unit="section" n="14"/> <reg>nonne</reg> Canuleio duce se speraturos Capitolium atque arcem scandere posse? <reg>nisi</reg><note>nisi <hi rend="italics"><name>Luterbacher</name>:</hi> si <foreign lang="greek">W:</foreign> ni <hi rend="italics"><name>Madvig</name>.</hi></note> patribus tribuni cum iure ac maiestate adempta animos etiam eripuerint, consules paratos esse duces prius adversus scelus civium quam adversus hostium arma.</p> 
 				<p><milestone unit="chapter" n="3"/><milestone unit="section" n="1"/> <reg>cum</reg> maxime haec in senatu agerentur, Canuleius pro legibus suis et adversus consules ita

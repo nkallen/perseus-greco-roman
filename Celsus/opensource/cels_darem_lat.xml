@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader>
@@ -51,7 +50,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 		</revisionDesc>
 	</teiHeader>
@@ -1500,7 +1499,7 @@
 					</p>
 					<p><milestone unit="section" n="11"/>
 						<milestone unit="section" n="11a"/>Sunt autem quaedam emplastra, quibus utriusque rei  facultas est: quae, si singula habenda sunt, meliora sunt;    <pb id="p.174"/>    sed in copia <corr sic="rejicienda">reicienda</corr> sunt; iis potius adhibitis, quae proprie id quod eo tempore opus est, consequuntur. Exempli  causa duo proponam. Est igitur ad vulnera Attalum<note>Attalicum?  ==-cf. Gal. <hi rend="italics">S. G.</hi>I, 17</note>; quod habet squamae <corr sic="aerls">aeris</corr> p )- (.XVI.  turis fuliginis p. )-(. XV. ammoniaci tantumdem, resinat terebinthinae liquidae p. )-(. XXV. sevi taurini tantumdem, aceti  heminas tres, olei sextarium.
-						<milestone unit="section" n="11b"/>At inter ea, quae fracto capiti  accommodantur, habent quidam id, quod ad auctorem Judaeum refertur<note>cf. A&#x0115;tius, XV, 14</note>. Constat ex his: salis  p. )-(. IV. squamae aeris rubri, aeris combusti, singulorum  p. )-(. XII. ammoniaci thymiamatis, turis fuliginis, resinae  aridae, singulorum p. )-(. XVI. resinae colophoniacae, cerae, sevi vitulini curati, singulorum p. )-(. XX. aceti sesquicyathus, olei minus cyatho. Curata vocant, quum ex sevo,  puta, omnes membranulae diligenter exemptae sunt.
+						<milestone unit="section" n="11b"/>At inter ea, quae fracto capiti  accommodantur, habent quidam id, quod ad auctorem Judaeum refertur<note>cf. Aĕtius, XV, 14</note>. Constat ex his: salis  p. )-(. IV. squamae aeris rubri, aeris combusti, singulorum  p. )-(. XII. ammoniaci thymiamatis, turis fuliginis, resinae  aridae, singulorum p. )-(. XVI. resinae colophoniacae, cerae, sevi vitulini curati, singulorum p. )-(. XX. aceti sesquicyathus, olei minus cyatho. Curata vocant, quum ex sevo,  puta, omnes membranulae diligenter exemptae sunt.
 					</p>
 					<p>
 						<milestone unit="section" n="12"/> Sunt etiam quaedam emplastra nobilia ad extrahendum, quae ipsa quoque <foreign lang="greek">e)pispastixa/</foreign> nominantur<note>Gal. <hi rend="italics">S. G.</hi>  VI, 13</note>: quale est quod, quia lauri baccas habet, <foreign lang="greek">dia\ dafni/dwn</foreign> appellatur. In eo est, resinae terebinthinae p. )-(. X.  nitri, cerae, picis aridae, baccarum lauri, singulorum p.  )-(. XX. olei paulum. Quoties aut baccam, aut nucem, aut  simile aliquid posuero, scire oportebit, antequam expendatur, ei summam pelliculam esse demendam.
@@ -3141,7 +3140,7 @@
 						<milestone unit="section" n="7k"/>Puro jam ulcere, cibis hic quoque utendum est carnem producentibus. Si brevius adhuc membrum est, et ossa loco    <pb id="p.351"/>    suo non sunt, paxillus tenuis quam laevissimi generis inter  ea demitti debet sic, ut capite paulum supra ulcus emineat;  isque quotidie plenior adigendus est, done par id membrum  alteri fiat. Tum paxillus removendus; vulnus sanandum est;  cicatrix inducta fovenda frigida aqua est, in qua myrtus, hedera, aliaeve similes verbenae decoctae sint, illinendumque  medicamentum est, quod siccet: et magis etiam hic quiescendum, donec id membrum confirmetur.
 						<milestone unit="section" n="7l"/>Si quando vero  ossa non <corr sic="conferbuerunt">conferuverunt</corr>, quia saepe soluta, saepe mota sunt,  oin aperto deinde curatio est: possunt enim coire. Si vetustas occupavit, membrum extendendum est; ossa inter se  manu dividenda, ut concurrendo exasperentur, et si, quid  pingue est, eradatur, totumque id quasi recens fiat: magna  tamen cura habita, ne nervi musculive laedantur.
 						<milestone unit="section" n="7m"/>Tum vino  fovendum est, in quo malicorium decoctum sit; imponendumque id ipsum ovi albo mixtum: tertio die resolvendum, fovendumque aqua in qua verbenae, de quibus supra dixi<note>1. 6</note>,  <corr sic="decoetae">decoctae</corr> sint: quinto die idem faciendum, ferulaeque circumdandae: cetera, et ante, et post, eadem facienda, quae supra scripsi.
-						<milestone unit="section" n="7n"/>Solent tamen interdum transversa inter se ossa  confervere: eoque et brevius membrum, et indecorum fit;  et, si capita acutiora sunt, assiduae punctiones sentiuntur.  Ob quam causam frangi rursus ossa et dirigi debent. Id hoc  >modo fit. Calida aqua multa membrum id fovetur, et ex  cerato liquido perfricatur, intenditurque; inter haec medicus  pertractans ossa, ut adhuc tenero callo, manibus ea diducit,  compellitque id quod eminet in suam sedem: et, si parum valuit, ab ea parte, in quam os se inclinat, involutam lana regulam objicit; atque ita deligando, assuescere iterum vetustae sedi cogit. Nonnumquam autem recte quidem ossa coierunt, superincrevit vero nimius callus; ideoque locus is intumuit.
+						<milestone unit="section" n="7n"/>Solent tamen interdum transversa inter se ossa  confervere: eoque et brevius membrum, et indecorum fit;  et, si capita acutiora sunt, assiduae punctiones sentiuntur.  Ob quam causam frangi rursus ossa et dirigi debent. Id hoc  &gt;modo fit. Calida aqua multa membrum id fovetur, et ex  cerato liquido perfricatur, intenditurque; inter haec medicus  pertractans ossa, ut adhuc tenero callo, manibus ea diducit,  compellitque id quod eminet in suam sedem: et, si parum valuit, ab ea parte, in quam os se inclinat, involutam lana regulam objicit; atque ita deligando, assuescere iterum vetustae sedi cogit. Nonnumquam autem recte quidem ossa coierunt, superincrevit vero nimius callus; ideoque locus is intumuit.
 						<milestone unit="section" n="7o"/>Quod ubi incidit, diu leniterque id membrum perfricandum est ex oleo et sale et nitro; multaque aqua calida  salsa fovendum; et imponendum malagma, quod digerat; adstrictiusque alligandum; <corr sic="oleribusque">holeribusque</corr>, et praeterea vomitu  utendum: per quae cum carne callus quoque extenuatur.  Confertque aliquid sinapi cum ficu in alterum membrum impositum, done id paulum erodat, eoque evocet materiam.    <pb id="p.352"/>    Ubi is tumor extenuatus est, rursus ad ordinem vitae revertendum est.
 					</p>    
 				</div2>
@@ -3247,4 +3246,4 @@
 			</div1>
 		</body>
 	</text>    
-</TEI.2>  
+</TEI.2>

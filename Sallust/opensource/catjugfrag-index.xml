@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -53,10 +52,7 @@
 <body>
                         <head>Index Nominum</head>
                         <p>Magnis numeris capita, parvis paragraphi demonstrantur.</p>
-                        <p>C. = Catilinae coniuratio. I. = Bellum Iugurthinum. <hi rend="italics"
-                                >or. Lep.</hi> = Oratio Lepidi cons. ad populum Romanum. <hi
-                                rend="italics">or. Phil.</hi> = Oratio Philippi in senatu. <hi
-                                rend="italics">or. Cott.</hi> = Oratio C. Cottae ad populum Romanum.
+                        <p>C. = Catilinae coniuratio. I. = Bellum Iugurthinum. <hi rend="italics">or. Lep.</hi> = Oratio Lepidi cons. ad populum Romanum. <hi rend="italics">or. Phil.</hi> = Oratio Philippi in senatu. <hi rend="italics">or. Cott.</hi> = Oratio C. Cottae ad populum Romanum.
                                 <hi rend="italics">ep. Pomp.</hi> = Epistula Cn. Pompei ad senatum.
                                 <hi rend="italics">or. Macr.</hi> = Oratio Macri trib. pleb. ad
                             plebem. <hi rend="italics">ep. Mithr.</hi> = Epistula Mithridatis</p>
@@ -317,8 +313,7 @@
 <div1 type="entry" id="Baleares-funditores-ahlberg-1"><head>Baleares (funditores)</head>
 <p><bibl n="Sal. Jug. 105.2">Iug. 105.2</bibl></p></div1>
 
-<div1 type="entry" id="L.-Bellienus-ahlberg-1"><p>L. Bellienus (<hi rend="italics">an</hi> Bill.?) <bibl
-                                n="Sal. Jug. 104.1">Iug. 104.1</bibl></p></div1>
+<div1 type="entry" id="L.-Bellienus-ahlberg-1"><p>L. Bellienus (<hi rend="italics">an</hi> Bill.?) <bibl n="Sal. Jug. 104.1">Iug. 104.1</bibl></p></div1>
 
 <div1 type="entry" id="Bestia-ahlberg-1"><p>Bestia <hi rend="italics">v.</hi> Calpurnius</p></div1>
 
@@ -678,8 +673,7 @@
                             <bibl n="Sal. Cat. 58.4">58.4</bibl></p></div1>
 
 <div1 type="entry" id="P.-Cornelius-Scipio-AemilianusAfricanus-Numantinus-ahlberg-1"><head>P. Cornelius Scipio Aemilianus Africanus Numantinus</head>
-<p><bibl
-                                n="Sal. Jug. 7.4">Iug. 7.4</bibl>
+<p><bibl n="Sal. Jug. 7.4">Iug. 7.4</bibl>
                             <bibl n="Sal. Jug. 8.2">8.2</bibl>
                             <bibl n="Sal. Jug. 22.2">22.2</bibl></p></div1>
 
@@ -912,11 +906,8 @@
                             <bibl n="Sal. Cat. 58.4">58.4</bibl>
                             <bibl n="Sal. Cat. 58.6">6</bibl>
                             <bibl n="Sal. Hist. Pomp.5">ep Pomp. 5</bibl>
-                            <bibl n="Sal. Hist. Pomp.9">9</bibl> provincia Gallia <bibl
-                                n="Sal. Jug. 114.3">Iug. 114.3</bibl> Gallia citerior atque ulterior
-                                <bibl n="Sal. Cat. 42.1">Cat. 42.1</bibl> citerior (<hi
-                                rend="italics">immo</hi> ulterior) Gallia <bibl n="Sal. Cat. 42.3"
-                                >Cat. 42.3</bibl> Gallia Transalpina <bibl n="Sal. Cat. 57.1">Cat.
+                            <bibl n="Sal. Hist. Pomp.9">9</bibl> provincia Gallia <bibl n="Sal. Jug. 114.3">Iug. 114.3</bibl> Gallia citerior atque ulterior
+                                <bibl n="Sal. Cat. 42.1">Cat. 42.1</bibl> citerior (<hi rend="italics">immo</hi> ulterior) Gallia <bibl n="Sal. Cat. 42.3">Cat. 42.3</bibl> Gallia Transalpina <bibl n="Sal. Cat. 57.1">Cat.
                                 57.1</bibl></p></div1>
 
 <div1 type="entry" id="Gallica-gens-ahlberg-1"><head>Gallica (gens)</head>
@@ -994,8 +985,7 @@
 
 <div1 type="entry" id="Hispani-ahlberg-1"><head>Hispani</head>
 <p><bibl n="Sal. Cat. 19.5">Cat. 19.5</bibl>
-                            <bibl n="Sal. Jug. 18.5">Iug. 18.5</bibl> equites Hispani <bibl
-                                n="Sal. Cat. 19.3">Cat. 19.3</bibl></p></div1>
+                            <bibl n="Sal. Jug. 18.5">Iug. 18.5</bibl> equites Hispani <bibl n="Sal. Cat. 19.3">Cat. 19.3</bibl></p></div1>
 
 <div1 type="entry" id="Hispania-ahlberg-1"><head>Hispania</head>
 <p><bibl n="Sal. Jug. 7.2">Iug. 7.2</bibl>
@@ -1008,8 +998,7 @@
                             <bibl n="Sal. Hist. Pomp.10">10</bibl> Hispaniae <bibl n="Sal. Hist. Phil.8">or
                                 Phil. 8</bibl> duae Hispaniae <bibl n="Sal. Cat. 18.5">Cat.
                             18.5</bibl> Hispania citerior <bibl n="Sal. Cat. 21.3">Cat. 21.3</bibl>
-                            <bibl n="Sal. Hist. Pomp.9">ep Pomp. 9</bibl> citerior Hispania <bibl
-                                n="Sal. Cat. 19.1">Cat. 19.1</bibl></p></div1>
+                            <bibl n="Sal. Hist. Pomp.9">ep Pomp. 9</bibl> citerior Hispania <bibl n="Sal. Cat. 19.1">Cat. 19.1</bibl></p></div1>
 
 <div1 type="entry" id="Iacetania-ahlberg-1"><p>(Iacetania <hi rend="italics">v.</hi> Lac.)</p></div1>
 
@@ -1034,9 +1023,7 @@
 
 <div1 type="entry" id="Italici-ahlberg-1"><head>Italici</head>
 <p><bibl n="Sal. Jug. 26.1">Iug. 26.1</bibl>
-                            <bibl n="Sal. Jug. 67.3">67.3</bibl> socii Italici <bibl
-                                n="Sal. Jug. 40.2">Iug. 40.2</bibl> Italicum genus <bibl
-                                n="Sal. Jug. 47.1">Iug. 47.1</bibl></p></div1>
+                            <bibl n="Sal. Jug. 67.3">67.3</bibl> socii Italici <bibl n="Sal. Jug. 40.2">Iug. 40.2</bibl> Italicum genus <bibl n="Sal. Jug. 47.1">Iug. 47.1</bibl></p></div1>
 
 <div1 type="entry" id="Iugurtha-ahlberg-1"><head>Iugurtha</head>
 <p><bibl n="Sal. Jug. 5.1">Iug. 5.1</bibl>
@@ -1193,8 +1180,7 @@
 <div1 type="entry" id="Iugurthinum-bellum-ahlberg-1"><head>Iugurthinum bellum</head>
 <p><bibl n="Sal. Jug. 100.5">Iug. 100.5</bibl> bellum
                             Iugurthinum <bibl n="Sal. Jug. 19.7">Iug. 19.7</bibl>
-                            <bibl n="Sal. Jug. 77.2">77.2</bibl> milites Iugurthini <bibl
-                                n="Sal. Jug. 21.2">Iug. 21.2</bibl>
+                            <bibl n="Sal. Jug. 77.2">77.2</bibl> milites Iugurthini <bibl n="Sal. Jug. 21.2">Iug. 21.2</bibl>
                             <bibl n="Sal. Jug. 56.6">56.6</bibl></p></div1>
 
 <div1 type="entry" id="C.-Iulius-ahlberg-1"><head>C. Iulius</head>
@@ -1230,8 +1216,7 @@
 <p><bibl n="Sal. Jug. 43.1">Iug. 43.1</bibl></p></div1>
 
 <div1 type="entry" id="Iupiter-ahlberg-1"><head>Iupiter</head>
-<p><bibl n="Sal. Hist. Macr.15">or Macr. 15</bibl> Iupiter maxumus <bibl
-                                n="Sal. Jug. 107.2">Iug. 107.2</bibl></p></div1>
+<p><bibl n="Sal. Hist. Macr.15">or Macr. 15</bibl> Iupiter maxumus <bibl n="Sal. Jug. 107.2">Iug. 107.2</bibl></p></div1>
 
 <div1 type="entry" id="Lacedaemonii-ahlberg-1"><head>Lacedaemonii</head>
 <p><bibl n="Sal. Cat. 22.51">Cat. 22.51</bibl>
@@ -1249,10 +1234,8 @@
 <p><bibl n="Sal. Jug. 39.2">Iug. 39.2</bibl>
                             <bibl n="Sal. Jug. 40.2">40.2</bibl>
                             <bibl n="Sal. Jug. 42.1">42.1</bibl>
-                            <bibl n="Sal. Jug. 43.4">43.4</bibl> litterae Latinae <bibl
-                                n="Sal. Cat. 25.2">Cat. 25.2</bibl>
-                            <bibl n="Sal. Jug. 95.3">Iug. 95.3</bibl> Latine <bibl
-                                n="Sal. Jug. 101.6">Iug. 101.6</bibl></p></div1>
+                            <bibl n="Sal. Jug. 43.4">43.4</bibl> litterae Latinae <bibl n="Sal. Cat. 25.2">Cat. 25.2</bibl>
+                            <bibl n="Sal. Jug. 95.3">Iug. 95.3</bibl> Latine <bibl n="Sal. Jug. 101.6">Iug. 101.6</bibl></p></div1>
 
 <div1 type="entry" id="Latium-ahlberg-1"><head>Latium</head>
 <p><bibl n="Sal. Jug. 69.4">Iug. 69.4</bibl>
@@ -1277,8 +1260,7 @@
 <p><bibl n="Sal. Jug. 18.1">Iug. 18.1</bibl>
                             <bibl n="Sal. Jug. 18.9">18.9</bibl>
                             <bibl n="Sal. Jug. 18.10">18.10</bibl>
-                            <bibl n="Sal. Jug. 18.12">12</bibl> Hercules Libys <bibl
-                                n="Sal. Jug. 89.4">Iug. 89.4</bibl></p></div1>
+                            <bibl n="Sal. Jug. 18.12">12</bibl> Hercules Libys <bibl n="Sal. Jug. 89.4">Iug. 89.4</bibl></p></div1>
 
 <div1 type="entry" id="M.-Licinius-Crassus-ahlberg-1"><head>M. Licinius Crassus</head>
 <p><bibl n="Sal. Cat. 177.191">Cat. 177.191</bibl>
@@ -1364,8 +1346,7 @@
                             <bibl n="Sal. Jug. 2102.4">2102.4</bibl>
                             <bibl n="Sal. Jug. 2102.15">15</bibl></p></div1>
 
-<div1 type="entry" id="A.-ahlberg-1"><p>A. (<hi rend="italics">immo</hi> T.) Manlius Torquatus <bibl
-                                n="Sal. Cat. 52.30">Cat. 52.30</bibl></p></div1>
+<div1 type="entry" id="A.-ahlberg-1"><p>A. (<hi rend="italics">immo</hi> T.) Manlius Torquatus <bibl n="Sal. Cat. 52.30">Cat. 52.30</bibl></p></div1>
 
 <div1 type="entry" id="C.-Manlius-ahlberg-1"><head>C. Manlius</head>
 <p><bibl n="Sal. Cat. 24.2">Cat. 24.2</bibl>
@@ -1849,14 +1830,7 @@
 <p><bibl n="Sal. Cat. 31.4">Cat. 31.4</bibl></p></div1>
 
 <div1 type="entry" id="Poeni-ahlberg-1"><head>Poeni</head>
-<p><bibl n="Sal. Jug. 79.8">Iug. 79.8</bibl> Punicum (bellum) <bibl
-                                n="Sal. Jug. 42.1">Iug. 42.1</bibl> bellum Punicum <bibl
-                                n="Sal. Jug. 5.4">Iug. 5.4</bibl> bella Punica <bibl
-                                n="Sal. Cat. 51.6">Cat. 51.6</bibl> Punica fides <bibl
-                                n="Sal. Jug. 108.3">Iug. 108.3</bibl> libri Punici <bibl
-                                n="Sal. Jug. 17.7">Iug. 17.7</bibl> Punica (oppida) <bibl
-                                n="Sal. Jug. 19.7">Iug. 19.7</bibl> Punicae urbes <bibl
-                                n="Sal. Jug. 19.3">Iug. 19.3</bibl></p></div1>
+<p><bibl n="Sal. Jug. 79.8">Iug. 79.8</bibl> Punicum (bellum) <bibl n="Sal. Jug. 42.1">Iug. 42.1</bibl> bellum Punicum <bibl n="Sal. Jug. 5.4">Iug. 5.4</bibl> bella Punica <bibl n="Sal. Cat. 51.6">Cat. 51.6</bibl> Punica fides <bibl n="Sal. Jug. 108.3">Iug. 108.3</bibl> libri Punici <bibl n="Sal. Jug. 17.7">Iug. 17.7</bibl> Punica (oppida) <bibl n="Sal. Jug. 19.7">Iug. 19.7</bibl> Punicae urbes <bibl n="Sal. Jug. 19.3">Iug. 19.3</bibl></p></div1>
 
 <div1 type="entry" id="Cn.-Pompeius-Magnus-ahlberg-1"><head>Cn. Pompeius Magnus</head>
 <p><bibl n="Sal. Cat. 16.4">Cat. 16.4</bibl>
@@ -2121,25 +2095,15 @@
                             <bibl n="Sal. Hist. Mithr.5">5</bibl>
                             <bibl n="Sal. Hist. Mithr.15">15</bibl>
                             <bibl n="Sal. Hist. Mithr.17">17</bibl>
-                            <bibl n="Sal. Hist. Mithr.20">20</bibl> Romanus <bibl n="Sal. Jug. 108.3"
-                                >Iug. 108.3</bibl> Romanus dux <bibl n="Sal. Hist. Mithr.13">ep Mithr.
+                            <bibl n="Sal. Hist. Mithr.20">20</bibl> Romanus <bibl n="Sal. Jug. 108.3">Iug. 108.3</bibl> Romanus dux <bibl n="Sal. Hist. Mithr.13">ep Mithr.
                             13</bibl> equites Romani <bibl n="Sal. Cat. 49.4">Cat. 49.4</bibl>
                             <bibl n="Sal. Jug. 42.1">Iug. 42.1</bibl>
                             <bibl n="Sal. Jug. 65.2">65.2 bis</bibl>
-                            <bibl n="Sal. Jug. 65.4">4</bibl> Romanus imperator <bibl
-                                n="Sal. Jug. 56.1">Iug. 56.1</bibl> imperatores Romani <bibl
-                                n="Sal. Jug. 112.2">Iug. 112.2</bibl> imperium Romanum <bibl
-                                n="Sal. Cat. 10.1">Cat. 10.1</bibl> Romani milites <bibl
-                                n="Sal. Jug. 67.1">Iug. 67.1</bibl> milites Romani <bibl
-                                n="Sal. Jug. 38.5">Iug. 38.5</bibl> mos Romanus <bibl
-                                n="Sal. Cat. 29.3">Cat. 29.3</bibl> nomen Romanum <bibl
-                                n="Sal. Cat. 52.24">Cat. 52.24</bibl>
+                            <bibl n="Sal. Jug. 65.4">4</bibl> Romanus imperator <bibl n="Sal. Jug. 56.1">Iug. 56.1</bibl> imperatores Romani <bibl n="Sal. Jug. 112.2">Iug. 112.2</bibl> imperium Romanum <bibl n="Sal. Cat. 10.1">Cat. 10.1</bibl> Romani milites <bibl n="Sal. Jug. 67.1">Iug. 67.1</bibl> milites Romani <bibl n="Sal. Jug. 38.5">Iug. 38.5</bibl> mos Romanus <bibl n="Sal. Cat. 29.3">Cat. 29.3</bibl> nomen Romanum <bibl n="Sal. Cat. 52.24">Cat. 52.24</bibl>
                             <bibl n="Sal. Jug. 54.58">Iug. 54.58</bibl>
                             <bibl n="Sal. Jug. 54.3">54.3</bibl>
-                            <bibl n="Sal. Jug. 80.1">80.1</bibl> plebes Romana <bibl
-                                n="Sal. Cat. 31.7">Cat. 31.7</bibl>
-                            <bibl n="Sal. Cat. 33.2">33.2</bibl> populus Romanus <bibl
-                                n="Sal. Cat. 77.85">Cat. 77.85</bibl>
+                            <bibl n="Sal. Jug. 80.1">80.1</bibl> plebes Romana <bibl n="Sal. Cat. 31.7">Cat. 31.7</bibl>
+                            <bibl n="Sal. Cat. 33.2">33.2</bibl> populus Romanus <bibl n="Sal. Cat. 77.85">Cat. 77.85</bibl>
                             <bibl n="Sal. Cat. 77.11">77.11</bibl>
                             <bibl n="Sal. Cat. 77.6">77.6</bibl>
                             <bibl n="Sal. Cat. 77.34">77.34</bibl>
@@ -2205,10 +2169,8 @@
                             <bibl n="Sal. Hist. Lep.11">or Lep. 11</bibl>
                             <bibl n="Sal. Hist. Lep.24">24</bibl>
                             <bibl n="Sal. Hist. Phil.6">or Phil. 6</bibl>
-                            <bibl n="Sal. Hist. Pomp.2">ep Pomp. 2</bibl> populus et senatus Romaus <bibl
-                                n="Sal. Jug. 104.5">Iug. 104.5</bibl>
-                            <bibl n="Sal. Jug. 111.1">111.1</bibl> senatus populusque Romanus <bibl
-                                n="Sal. Jug. 21.4">Iug. 21.4</bibl></p>
+                            <bibl n="Sal. Hist. Pomp.2">ep Pomp. 2</bibl> populus et senatus Romaus <bibl n="Sal. Jug. 104.5">Iug. 104.5</bibl>
+                            <bibl n="Sal. Jug. 111.1">111.1</bibl> senatus populusque Romanus <bibl n="Sal. Jug. 21.4">Iug. 21.4</bibl></p>
                         <pb id="p.169"/></div1>
 
 <div1 type="entry" id="Romulus-ahlberg-1"><head>Romulus</head>
@@ -2384,9 +2346,7 @@
 
 <div1 type="entry" id="Sullanae-coloniae-ahlberg-1"><head>Sullanae coloniae</head>
 <p><bibl n="Sal. Cat. 28.4">Cat. 28.4</bibl> Sullani
-                            milites <bibl n="Sal. Cat. 16.4">Cat. 16.4</bibl> Sullana victoria <bibl
-                                n="Sal. Cat. 37.6">Cat. 37.6</bibl> victoria Sullana <bibl
-                                n="Sal. Cat. 21.4">Cat. 21.4</bibl></p></div1>
+                            milites <bibl n="Sal. Cat. 16.4">Cat. 16.4</bibl> Sullana victoria <bibl n="Sal. Cat. 37.6">Cat. 37.6</bibl> victoria Sullana <bibl n="Sal. Cat. 21.4">Cat. 21.4</bibl></p></div1>
 
 <div1 type="entry" id="P.-Sulpicius-Rufus-ahlberg-1"><head>P. Sulpicius Rufus</head>
 <p><bibl n="Sal. Hist. Phil.7">or Phil. 7</bibl></p></div1>
@@ -2579,4 +2539,3 @@
                 </body>
             </text>
  </TEI.2>
-

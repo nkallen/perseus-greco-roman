@@ -1,12 +1,9 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd" >
-%PersVerse;
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersVerse PUBLIC "-//Perseus P4//DTD Perseus Verse//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersVerse.dtd">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
-
 <TEI.2>
 <teiHeader type="text" status="new">
 
@@ -76,7 +73,7 @@
 <head>
 <title lang="en">Olympian 1</title>
 <persName type="winner">*i*e*r*w*n*i *s*u*r*a*k*o*u*s*i*w|</persName>
-<seg type="race">*k*e*l*h*t*i</seg><date></date></head>
+<seg type="race">*k*e*l*h*t*i</seg><date/></head>
 <milestone n="str. 1" unit="strophe"/>
 <l>a)/riston me\n u(/dwr, o( de\ xruso\s ai)qo/menon pu=r</l>
 <l>a(/te diapre/pei nukti\ mega/noros e)/coxa plou/tou:</l>
@@ -428,7 +425,7 @@
 <head>
 <title lang="en">Olympian 5</title>
 <persName type="winner">*y*a*u*m*i*d*i *k*a*m*a*r*i*n*a*i*w| *a*p*h*n*h</persName>
-<seg type="race"></seg><date> </date></head>
+<seg type="race"/><date> </date></head>
 <milestone n="str. 1" unit="strophe"/>
 <l>u(yhla=n a)reta=n kai\ stefa/nwn a)/wton gluku\n</l>
 <l>tw=n *ou)lumpi/a|, *)wkeanou= qu/gater, kardi/a| gelanei=</l>
@@ -1071,7 +1068,7 @@
 <head>
 <title lang="en">Olympian 11</title>
 <persName type="winner">*a*g*h*s*i*d*a*m*w| *l*o*k*r*w| *e*p*i*z*e*f*y*r*i*w| *p*a*i*d*i *p*u*k*t*h|</persName>
-<seg type="race"></seg><date> </date></head>
+<seg type="race"/><date> </date></head>
 <milestone n="str. 1" unit="strophe"/>
 <l>e)/stin a)nqrw/pois a)ne/mwn o(/te plei/sta</l>
 <l>xrh=sis, e)/stin d' ou)rani/wn u(da/twn,</l>

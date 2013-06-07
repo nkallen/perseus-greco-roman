@@ -1,10 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
-
 <TEI.2>
 	<teiHeader type="text" status="new">
 		<fileDesc>
@@ -3109,7 +3107,7 @@
 					the sophists do, he is related to himself as 'John Styles' is related
 					to 'good John Styles'<note anchored="yes" resp="Rackham">See <bibl n="Aristot. SE 175b.15">Sophistici Elenchi 175b
 						15ff.</bibl> 'Coriscus' is used for any imaginary person, cf.
-						<bibl n=">Aristot. Eud. Eth. 1220a.19">Aristot. Eud. Eth. 1220a 19 f.</bibl></note>;
+						<bibl n="&gt;Aristot. Eud. Eth. 1220a.19">Aristot. Eud. Eth. 1220a 19 f.</bibl></note>;
 					for it is clear that the same amount of 'John Styles' is good as of
 					'good John Styles')&mdash;because when men blame themselves they
 					are murdering their own personalities, whereas everybody seems to

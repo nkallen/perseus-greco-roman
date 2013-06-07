@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -15,7 +14,7 @@
 	&fund.NEH;
       </titleStmt>
 	
-      <extent></extent>
+      <extent/>
       
 	&Perseus.publish;
       
@@ -52,7 +51,7 @@ Fragmenta. Index.</title>
     <encodingDesc>
 
       <refsDecl doctype="TEI.2">
-	<state delim="." unit="book" />
+	<state delim="." unit="book"/>
       </refsDecl>
     </encodingDesc>
     
@@ -78,7 +77,7 @@ Fragmenta. Index.</title>
 <div1 type="introduction"><head>Periochae Librorum XLVI&mdash;CXLII.</head>
 <p>Scripturae ed. Rossbachianae (Lipsiae 1910) a nostra discrepantis index.</p>
 <p>Potiora tantum notavi. Ceterum, ut in serae latinitatis auctore, tradita quam maxime conservanda erant. Censuram memorabilem editionis Rossbachianae, qua tandem plus quinquaginta annis post O. Jahnii tumultuariam operam certum fundamentum structum est, egit H. J. M&uuml;ller, Jhb. XXXVII, 5 sqq.</p>
-<p></p></div1>
+<p/></div1>
 
 <div1 type="book" n="48">
 <p><milestone unit="line" n="6"/>decies &verbar; decus <hi rend="italics">libri praeter Boender makerianum, in quo</hi> decies <hi rend="italics">est. Retinui</hi> decus <hi rend="italics">i. e. decussem forma indeclinabili, de qua v. Thes. l. l. s. v. (similiter quattus, septus, octus dicebantur), cum</hi> decies <hi rend="italics">certe nimis magna summa sit.</hi> </p></div1>

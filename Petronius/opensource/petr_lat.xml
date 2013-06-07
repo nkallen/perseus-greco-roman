@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -98,8 +97,7 @@
                 mentem, non fraudabo te arte secreta. Nihil<note>nihil <hi rend="italics">added by
                         Buecheler.</hi></note> nimirum in his exercitationibus doctores peccant, qui
                 necesse habent cum insanientibus furere. Nam nisi dixerint quae adulescentuli
-                probent, ut ait Cicero, 'soli in scholis relinquentur.' Sicut [ficti]<note>ficti <hi
-                        rend="italics">bracketed by Buecheler.</hi></note> adulatores cum cenas
+                probent, ut ait Cicero, 'soli in scholis relinquentur.' Sicut [ficti]<note>ficti <hi rend="italics">bracketed by Buecheler.</hi></note> adulatores cum cenas
                 divitum captant, nihil prius meditantur quam id quod putant gratissi<pb id="p.6"/>
                 mum auditoribus fore: nec enim aliter impetrabunt quod petunt, nisi quasdam insidias
                 auribus fecerint: sic eloquentiae magister, nisi tanquam piscator eam imposuerit
@@ -127,10 +125,8 @@
                 <l>cliensve cenas impotentium captet,</l>
                 <l>nec perditis addictus obruat vino</l>
                 <pb id="p.8"/>
-                <l>mentis calorem, neve plausor in scaenam<note>scenam <hi rend="italics"
-                        >Heinsius:</hi> scena.</note></l>
-                <l>sedeat redemptus histrionis ad rictus.<note>histrionis ad rictus <hi
-                            rend="italics">O. Ribbeck:</hi> histrioni addictus.</note></l>
+                <l>mentis calorem, neve plausor in scaenam<note>scenam <hi rend="italics">Heinsius:</hi> scena.</note></l>
+                <l>sedeat redemptus histrionis ad rictus.<note>histrionis ad rictus <hi rend="italics">O. Ribbeck:</hi> histrioni addictus.</note></l>
                 <l>Sed sive armigerae rident Tritonidis arces,</l>
                 <l>seu Lacedaemonio tellus habitata colono</l>
                 <l>Sirenumve domus, det primos versibus annos</l>
@@ -183,8 +179,7 @@
                 </note> bibisse. . . iunctis viribus molestum contempsimus. . .<milestone unit="section" n="9"/>Quasi
                 per caliginem vidi Gitona in crepidine semitae<pb id="p.12"/> stantem et in eundem
                 locum me conieci. . . . . . Cum quaererem numquid nobis in prandium frater parasset,
-                consedit puer super lectum et manantes lacrimas pollice extersit.<note>extersit <hi
-                        rend="italics">Pithoeus:</hi> expressit.</note> Perturbatus ego habitu
+                consedit puer super lectum et manantes lacrimas pollice extersit.<note>extersit <hi rend="italics">Pithoeus:</hi> expressit.</note> Perturbatus ego habitu
                 fratris, quid accidisset, quaesivi. Et ille tarde quidem et invitus, sed postquam
                 precibus etiam iracundiam miscui,<quote>Tuus</quote> inquit <quote>iste frater seu
                     comes paulo ante in conductum accucurrit coepitque mihi velle pudorem
@@ -217,8 +212,7 @@
                     libet, et habitationem mihi prospiciam et aliquem fratrem.</quote>
                 <quote>Tardum est</quote> inquam <quote>differre quod placet.</quote> . . .</p>
             <p>Hanc tam praecipitem divisionem libido faciebat; iam dudum enim amoliri cupiebam
-                custodem molestum, ut veterem cum Gitone meo rationem reducerem.<note>reducerem <hi
-                        rend="italics">Buecheler:</hi> deducerem.</note>. . .</p>
+                custodem molestum, ut veterem cum Gitone meo rationem reducerem.<note>reducerem <hi rend="italics">Buecheler:</hi> deducerem.</note>. . .</p>
             <p><milestone unit="section" n="11"/>Postquam lustravi oculis totam urbem, in cellulam
                 redii, osculisque tandem bona fide exactis alligo artissimis complexibus puerum
                 fruorque votis usque ad invidiam felicibus. Nec adhuc quidem omnia erant facta, cum
@@ -243,8 +237,7 @@
                 emptor propius accessit detraxitque umeris laciniam et diligentius
                     temptavit.<note>tentavit <hi rend="italics">Burmann:</hi> ternuit.</note> O
                 lusum fortunae mirabilem.<milestone unit="section" n="13"/> Nam adhuc nec
-                    suturae<note>suturae <hi rend="italics">Pithoeus:</hi> futurae <hi
-                        rend="italics">and</hi> furtive.</note> quidem attulerat rusticus curiosas
+                    suturae<note>suturae <hi rend="italics">Pithoeus:</hi> futurae <hi rend="italics">and</hi> furtive.</note> quidem attulerat rusticus curiosas
                 manus, et<note>et <hi rend="italics">Buecheler:</hi> sed.</note> tanquam mendici
                 spolium etiam fastidiose venditabat. Ascyltos postquam depositum esse inviolatum
                 vidit et personam vendentis contemptam, seduxit me paululum a turba et
@@ -256,8 +249,7 @@
                 dimicandum, ut si nollent<note>nollent <hi rend="italics">Buecheler:</hi>
                 nollet.</note> alienam rem domino reddere, ad interdictum venirent.<note>venirent
                         <hi rend="italics">Buecheler:</hi> veniret. <hi rend="italics">After</hi>
-                    veniret <hi rend="italics">the MSS. place the poem</hi> quid faciant, etc. (<hi
-                        rend="italics">p.</hi> 18): <hi rend="italics">it is transposed to its
+                    veniret <hi rend="italics">the MSS. place the poem</hi> quid faciant, etc. (<hi rend="italics">p.</hi> 18): <hi rend="italics">it is transposed to its
                         present position by Buecheler.</hi></note></p>
             <pb id="p.18"/>
             <p><milestone unit="section" n="14"/>Contra Ascyltos leges timebat et Quis
@@ -270,10 +262,8 @@
                     <hi rend="italics">LO</hi>
                 </note>
                 <l part="M">aut ubi paupertas vincere nulla potest?</l>
-                <l part="I">Ipsi qui Cynica traducunt tempora pera,<note>pera <hi rend="italics"
-                            >Heinsius:</hi> cera.</note></l>
-                <l part="M">non nunquam nummis vendere vera solent.<note>vendere vera solent <hi
-                            rend="italics">cod. Vossianus</hi> (verba <hi rend="italics">L</hi>):
+                <l part="I">Ipsi qui Cynica traducunt tempora pera,<note>pera <hi rend="italics">Heinsius:</hi> cera.</note></l>
+                <l part="M">non nunquam nummis vendere vera solent.<note>vendere vera solent <hi rend="italics">cod. Vossianus</hi> (verba <hi rend="italics">L</hi>):
                         verba solent emere <hi rend="italics">other MSS.</hi></note></l>
                 <l part="I">Ergo iudicium nihil est nisi publica merces,</l>
                 <l part="I">atque eques in causa qui sedet, empta probat."</l>
@@ -283,11 +273,9 @@
                     </note> quibus destinaveramus <hi rend="italics">MSS.: corrected by Gronovius,
                         Buecheler and an unknown scholar mentioned by Boschius.</hi></note> quo
                 cicer lupinosque destinaveramus mercari, nihil ad manum erat. Itaque ne interim
-                praeda discederet, vel minoris pallium addicere placuit et<note>et <hi
-                        rend="italics">Buecheler:</hi> ut.</note> pretium maioris compendii leviorem
+                praeda discederet, vel minoris pallium addicere placuit et<note>et <hi rend="italics">Buecheler:</hi> ut.</note> pretium maioris compendii leviorem
                     facere<note>facere <hi rend="italics">Buecheler:</hi> faceret.</note> iacturam.
-                Cum primum ergo explicuimus mercem, mulier operto<note>operto <hi rend="italics"
-                        >Wouwer:</hi> aperto.</note> capite, quae cum rustico steterat, inspectis
+                Cum primum ergo explicuimus mercem, mulier operto<note>operto <hi rend="italics">Wouwer:</hi> aperto.</note> capite, quae cum rustico steterat, inspectis
                 diligentius signis iniecit utramque laciniae manum magnaque vociferatione
                     <quote>Latrones</quote> [tenere]<note>
                     <hi rend="italics">bracketedby Buecheler.</hi>
@@ -298,8 +286,7 @@
                 </note> et cociones<note>cociones qui <hi rend="italics">Salmasius:</hi> conciones
                     quae.</note> qui ad clamorem confluxerant, nostram scilicet de more ridebant
                 invidiam, quod pro illa parte vindicabant pretiosissimam vestem, pro<pb id="p.20"/>
-                hac pannuciam ne centonibus quidem bonis dignam.<milestone unit="section" n="15"
-                />Hinc Ascyltos bene risum discussit, qui silentio
+                hac pannuciam ne centonibus quidem bonis dignam.<milestone unit="section" n="15"/>Hinc Ascyltos bene risum discussit, qui silentio
                         facto <quote>Videmus</quote><note><hi rend="italics">videmus Jungermann:</hi>
                     videamus.</note> inquit <quote>suam cuique rem esse carissimam; reddant nobis
                     tunicam nostram et pallium suum recipiant.</quote> Etsi rustico mulierique
@@ -402,8 +389,7 @@
                 intervenire secretis . . . .</p>
             <p>Duas institas ancilla protulit de sinu alteraque pedes nostros alligavit, altera
                 manus . . . .</p>
-            <p>Ascyltos iam deficiente fabularum contextu <quote>Quid? ego</quote><note>ego <hi
-                        rend="italics">Goldast:</hi> ergo.</note> inquit <quote>non sum dignus qui
+            <p>Ascyltos iam deficiente fabularum contextu <quote>Quid? ego</quote><note>ego <hi rend="italics">Goldast:</hi> ergo.</note> inquit <quote>non sum dignus qui
                     bibam?</quote> Ancilla risu meo prodita complosit manus et <quote>Apposui quidem
                     . . . adulescens, solus tantum medicamentum ebibisti?</quote>
                 <quote>Itane est?</quote> inquit Quartilla <quote>quicquid saturei fuit, Encolpius
@@ -434,8 +420,7 @@
                     est, cum sciatis Priapi genio pervigilium deberi?</quote>. . .</p>
             <p><milestone unit="section" n="22"/>Cum Ascyltos gravatus tot malis in somnum
                 laberetur, illa quae iniuria depulsa fuerat ancilla totam faciem eius fuligine longa
-                perfricuit et non sentientis labra umerosque sopitionibus<note>sopitionibus, <hi
-                        rend="italics">probably corrupt:</hi> sopionibus <hi rend="italics">MSS. of
+                perfricuit et non sentientis labra umerosque sopitionibus<note>sopitionibus, <hi rend="italics">probably corrupt:</hi> sopionibus <hi rend="italics">MSS. of
                         Catullus</hi> 37, Io: ropionibus <hi rend="italics">Hertz.</hi></note>
                 pinxit. Iam ego etiam tot malis fatigatus minimum veluti gustum hauseram somni; idem
                 et tota intra forisque familia fecerat, atque alii circa pedes discumbentium sparsi
@@ -470,8 +455,7 @@
                 Non tenui ego diutius lacrimas, sed ad ultimam perductus tristitiam
                 <quote>Quaeso</quote> inquam <quote>domina, certe<pb id="p.34"/> embasicoetan
                     iusseras dari.</quote> Complosit illa tenerius manus et <quote>O</quote> inquit
-                    <quote>hominem acutum atque urbanitatis vernaculae<note>vernaculae <hi
-                            rend="italics">Scioppius:</hi> vernulae.</note> fontem. Quid? tu non
+                    <quote>hominem acutum atque urbanitatis vernaculae<note>vernaculae <hi rend="italics">Scioppius:</hi> vernulae.</note> fontem. Quid? tu non
                     intellexeras cinaedum embasicoetan vocari?</quote> Deinde ut contubernali meo
                 melius succederet, <quote>Per fidem</quote> inquam <quote>vestram, Ascyltos in hoc
                     triclinio solus ferias agit?</quote>
@@ -505,15 +489,13 @@
                 ne maiorem iniuriam in secreto frater acciperet, consurrexi ad officium
                     nuptiale.<milestone unit="section" n="26"/> Iam Psyche puellae caput involverat
                 flammeo, iam embasicoetas praeferebat facem, iam ebriae mulieres longum agmen
-                plaudentes fecerant thalamumque incesta exornaverant veste, cum<note>cum <hi
-                        rend="italics">Buecheler:</hi> tum.</note> Quartilla quoque iocantium
+                plaudentes fecerant thalamumque incesta exornaverant veste, cum<note>cum <hi rend="italics">Buecheler:</hi> tum.</note> Quartilla quoque iocantium
                 libidine accensa et ipsa surrexit correptumque Gitona in cubiculum traxit.</p>
             <p>Sine dubio non repugnaverat puer, ac ne puella quidem tristis expaverat nuptiarum
                 nomen. Itaque cum inclusi iacerent, consedimus ante limen thalami, et in primis
                 Quartilla per rimam improbe diductam applicuerat oculum curiosum lusumque puerilem
                 libidinosa speculabatur diligentia. Me quoque ad idem spectaculum lenta manu traxit,
-                et quia considerantium cohaeserant<note>cohaeserant <hi rend="italics"
-                    >Buecheler:</hi> haeserant.</note> vultus, quicquid a spectaculo vacabat,
+                et quia considerantium cohaeserant<note>cohaeserant <hi rend="italics">Buecheler:</hi> haeserant.</note> vultus, quicquid a spectaculo vacabat,
                 commovebat obiter labra et me tanquam furtivis subinde osculis verberabat . . . .</p>
             <pb id="p.38"/>
             <p>| Abiecti in lectis sine metu reliquam exegimus<note place="marg">
@@ -527,9 +509,7 @@
                     <quote>nescitis, hodie apud quem fiat? Trimalchio, lautissimus homo, horologium
                     in triclinio et bucinatorem habet subornatum, ut subinde sciat, quantum de vita
                     perdiderit.</quote> Amicimur ergo diligenter obliti omnium malorum, et Gitona
-                libentissime servile officium tuentem usque hoc iubemus in balnea<note>balnea <hi
-                        rend="italics">Jahn:</hi> balneo.</note> sequi.<milestone unit="section"
-                    n="27"/> Nos interim vestiti errare coepimus. . . immo iocari magis et circulis
+                libentissime servile officium tuentem usque hoc iubemus in balnea<note>balnea <hi rend="italics">Jahn:</hi> balneo.</note> sequi.<milestone unit="section" n="27"/> Nos interim vestiti errare coepimus. . . immo iocari magis et circulis
                     [ludentem]<note>ludentem <hi rend="italics">bracketed by Buecheler.</hi></note>
                 accedere, cum subito | videmus senem calvum, tunica vestitum<note place="marg">
                     <hi rend="italics">HL</hi>
@@ -542,8 +522,7 @@
                 vibrabant, sed eas quae in terram decidebant. Cum has ergo miraremur lautitias,
                 |accurrit Menelaus et <quote>Hic est</quote> inquit <quote>apud quem<note place="marg">
                         <hi rend="italics">H</hi>
-                    </note> cubitum ponetis, et quidem<note>quidem <hi rend="italics"
-                        >Buecheler:</hi> quid.</note> iam principium cenae videtis.</quote> Et iam
+                    </note> cubitum ponetis, et quidem<note>quidem <hi rend="italics">Buecheler:</hi> quid.</note> iam principium cenae videtis.</quote> Et iam
                 non loquebatur Menelaus cum<pb id="p.40"/> |Trimalchio digitos concrepuit, ad quod signum<note place="marg">
                     <hi rend="italics">HL</hi>
                 </note> matellam spado ludenti subiecit. Exonerata ille vesica aquam poposcit ad
@@ -573,8 +552,7 @@
                 resupinatus crura mea fregi. Ad sinistram enim intrantibus non longe ab ostiarii
                 cella canis ingens, catena vinctus, in pariete erat pictus superque quadrata littera
                     scriptum <quote>Cave canem.</quote> Et collegae quidem mei riserunt, ego autem
-                collecto spiritu non destiti totum parietem persequi. Erat autem venalicium <hi
-                    rend="italics">cum</hi> titulis pictum,<pb id="p.42"/> et ipse Trimalchio
+                collecto spiritu non destiti totum parietem persequi. Erat autem venalicium <hi rend="italics">cum</hi> titulis pictum,<pb id="p.42"/> et ipse Trimalchio
                 capillatus caduceum tenebat Minervaque ducente Romam intrabat. Hinc quemadmodum
                 ratiocinari didicisset, denique dispensator factus esset, omnia diligenter curiosus
                 pictor cum inscriptione reddiderat. In deficiente vero iam porticu levatum mento in
@@ -657,25 +635,21 @@
                     tamen, si adhuc sorbilia sunt.</quote> Accipimus nos cochlearia non minus
                 selibras pendentia ovaque ex farina pingui figurata pertundimus. Ego quidem paene
                 proieci partem meam, nam videbatur mihi iam in pullum coisse. Deinde ut audivi
-                veterem convivam: <quote>Hic nescio quid boni debet esse,</quote> perse<pb id="p.50"
-                /> cutus putamen manu pinguissimam ficedulam inveni piperato vitello circumdatam.</p>
+                veterem convivam: <quote>Hic nescio quid boni debet esse,</quote> perse<pb id="p.50"/> cutus putamen manu pinguissimam ficedulam inveni piperato vitello circumdatam.</p>
             <p><milestone unit="section" n="34"/>Iam Trimalchio eadem omnia lusu intermisso
                 poposcerat feceratque potestatem clara voce, si quis nostrum iterum vellet mulsum
                 sumere, cum subito signum symphonia datur et gustatoria pariter a choro cantante
                 rapiuntur. Ceterum inter tumultum cum forte paropsis excidisset et puer iacentem
                 sustulisset, animadvertit Trimalchio colaphisque obiurgari puerum ac proicere rursus
-                paropsidem iussit. Insecutus est lecticarius<note>supellecticarius <hi
-                        rend="italics">Dousa.</hi></note> argentumque inter reliqua purgamenta
+                paropsidem iussit. Insecutus est lecticarius<note>supellecticarius <hi rend="italics">Dousa.</hi></note> argentumque inter reliqua purgamenta
                 scopis coepit everrere. | Subinde intraverunt duo<note place="marg">
                     <hi rend="italics">H</hi>
                 </note> Aethiopes capillati cum pusillis utribus, quales solent esse qui harenam in
                 amphitheatro spargunt, vinumque dedere in manus; aquam enim nemo porrexit.</p>
             <p>| Laudatus propter elegantias dominus <quote>Aequum</quote><note place="marg">
                     <hi rend="italics">HL</hi>
-                </note> inquit <quote>Mars amat. Itaque iussi<note>iussi <hi rend="italics"
-                        >Burmann:</hi> iussit <hi rend="italics">MSS.</hi></note> suam cuique mensam
-                    assignari. Obiter et putidissimi<note>putidissimi Heinsius: pudissimi <hi
-                            rend="italics">or </hi>pdissimi.</note> servi minorem nobis aestum
+                </note> inquit <quote>Mars amat. Itaque iussi<note>iussi <hi rend="italics">Burmann:</hi> iussit <hi rend="italics">MSS.</hi></note> suam cuique mensam
+                    assignari. Obiter et putidissimi<note>putidissimi Heinsius: pudissimi <hi rend="italics">or </hi>pdissimi.</note> servi minorem nobis aestum
                     frequentia sua facient.</quote></p>
             <p>Statim allatae sunt amphorae vitreae diligenter gypsatae, quarum in cervicibus
                 pittacia erant affixa cum hoc titulo: <quote>Falernum Opimianum annorum
@@ -747,8 +721,7 @@
                 pica pulvinaris. Quem amat, amat; quem non amat, non amat. Ipse Trimalchio fundos
                 habet, qua milvi volant, nummorum nummos. Argentum in ostiarii illius cella plus
                 iacet, quam quisquam in fortunis habet. Familia vero babae babae,<note>Babae babae
-                        <hi rend="italics">is an exclamation ofsurprise. So</hi> babaecalis<hi
-                        rend="italics">in the next sentence is a person always agape with wonder, a
+                        <hi rend="italics">is an exclamation ofsurprise. So</hi> babaecalis<hi rend="italics">in the next sentence is a person always agape with wonder, a
                         lout.</hi></note> non mehercules puto decumam partem esse quae dominum suum
                     noverit.<milestone unit="section" n="38"/> Ad summam, quemvis ex istis
                 babaecalis in rutae folium coniciet. Nec est quod putes illum quicquam emere. Omnia
@@ -763,10 +736,8 @@
                 recumbit: hodie sua octingenta possidet. De nihilo crevit. Modo solebat collo suo
                 ligna portare. Sed quomodo dicunt&mdash;ego nihil scio, sed audivi&mdash;
                     quom<note>quom <hi rend="italics">Buecheler:</hi> quomodo.</note> Incuboni
-                pilleum rapuisset, [et] thesaurum invenit. Ego nemini invideo, si quid<note>quid <hi
-                        rend="italics">Buecheler:</hi> quo.</note> deus dedit. Est tamen sub alapa
-                et non vult sibi male. Itaque proxime casam<note>casam <hi rend="italics"
-                    >Buccheler:</hi> cum.</note> hoc titulo proscripsit: 'C. Pompeius Diogenes ex
+                pilleum rapuisset, [et] thesaurum invenit. Ego nemini invideo, si quid<note>quid <hi rend="italics">Buecheler:</hi> quo.</note> deus dedit. Est tamen sub alapa
+                et non vult sibi male. Itaque proxime casam<note>casam <hi rend="italics">Buccheler:</hi> cum.</note> hoc titulo proscripsit: 'C. Pompeius Diogenes ex
                 kalendis Iuliis cenaculum locat; ipse enim domum emit.' Quid ille qui libertini loco
                 iacet, quam bene se habuit. Non impropero illi. Sestertium suum vidit decies, sed
                 male vacillavit. Non puto illum<pb id="p.60"/> capillos liberos habere, nec
@@ -785,13 +756,10 @@
                     cena esse contentum, quam in theca repositorii videratis? 'Sic notus Vlixes?'
                     quid ergo est? Oportet etiam inter cenandum philologiam nosse. Patrono meo ossa
                     bene quiescant, qui me hominem inter homines voluit esse. Nam mihi nihil novi
-                    potest afferri, sicut ille fericulus iam<note>fericulus iam <hi rend="italics"
-                            >Buecheler:</hi> fericulusta mel.</note> habuit praxim. Caelus hic, in
+                    potest afferri, sicut ille fericulus iam<note>fericulus iam <hi rend="italics">Buecheler:</hi> fericulusta mel.</note> habuit praxim. Caelus hic, in
                     quo duodecim dii habitant, in totidem se figuras convertit, et modo fit aries.
-                    Itaque quisquis nascitur illo signo, multa pecora habet, multum lanae, caput<pb
-                        id="p.62"/> praeterea durum, frontem expudoratam, cornum acutum. Plurimi hoc
-                    signo scholastici nascuntur et arietilli.</quote><note>arietilli <hi
-                        rend="italics">Heinsius:</hi> arieti illi.</note> Laudamus urbanitatem
+                    Itaque quisquis nascitur illo signo, multa pecora habet, multum lanae, caput<pb id="p.62"/> praeterea durum, frontem expudoratam, cornum acutum. Plurimi hoc
+                    signo scholastici nascuntur et arietilli.</quote><note>arietilli <hi rend="italics">Heinsius:</hi> arieti illi.</note> Laudamus urbanitatem
                 mathematici; itaque adiecit: <quote>deinde totus caelus taurulus fit. Itaque tune
                     calcitrosi nascuntur et bubulci et qui se ipsi pascunt. In geminis autem
                     nascuntur bigae et boves et colei et qui utrosque parietes linunt. In cancro ego
@@ -830,8 +798,7 @@
                 omnis bacalusias consumpsi,<pb id="p.66"/> duravi interrogare illum interpretem
                 meum, quod<note>quod <hi rend="italics">Buecheler:</hi> quid.</note> me torqueret.
                 At ille: <quote>Plane etiam hoc servus tuus indicare potest; non enim aenigma est,
-                    sed res aperta. Hic aper, cum heri summa cena eum<note>cena eum <hi
-                            rend="italics">Buecheler:</hi> cenam.</note> vindicasset, a convivis
+                    sed res aperta. Hic aper, cum heri summa cena eum<note>cena eum <hi rend="italics">Buecheler:</hi> cenam.</note> vindicasset, a convivis
                     dimissus est; itaque hodie tanquam libertus in convivium revertitur.</quote>
                 Damnavi ego stuporem meum et nihil amplius interrogavi, ne viderer nunquam inter
                 honestos cenasse.</p>
@@ -843,8 +810,7 @@
                 me</quote> inquit <quote>habere Liberum patrem.</quote> Laudavimus dictum
                 Trimalchionis et circumeuntem puerum sane perbasiamus.</p>
             <p>Ab hoc ferculo Trimalchio ad lasanum surrexit. Nos libertatem sine tyranno nacti
-                coepimus invitare convivarum sermones. Dama<note>Damas <hi rend="italics"
-                    >Heinsius:</hi> clamat.</note> itaque primus cum pataracina poposcisset,
+                coepimus invitare convivarum sermones. Dama<note>Damas <hi rend="italics">Heinsius:</hi> clamat.</note> itaque primus cum pataracina poposcisset,
                     <quote>Diei</quote> inquit <quote>nihil est. Dum versas te, nox fit. Itaque
                     nihil est melius, quam de cubiculo recta in triclinium ire. Et mundum frigus
                     habuimus. Vix me balneus calfecit. Tamen calda potio vestiarius est. Staminatas
@@ -884,14 +850,12 @@
                     </note> autem recte faciet, qui cito credit, | utique homo<note place="marg">
                         <hi rend="italics">L</hi>
                     </note> negotians. Tamen verum quod frunitus est, quam diu vixit,. . .
-                            .<note><hi rend="italics">Some words such as</hi> bene vixit <hi
-                            rend="italics">have clearly dropped out.</hi></note> cui datum est, non
+                            .<note><hi rend="italics">Some words such as</hi> bene vixit <hi rend="italics">have clearly dropped out.</hi></note> cui datum est, non
                     cui destinatum. Plane Fortunae filius, in manu illius plumbum aurum fiebat.
                     Facile est autem, ubi omnia quadrata currunt. Et quot putas illum annos secum
                     tulisse? Septuaginta et supra. Sed corneolus fuit, aetatem bene ferebat, niger
                     tanquam corvus. Noveram hominem olim oliorum et adhuc salax erat. Non mehercules
-                    illum puto in domo canem reliquisse. Immo etiam pullarius<note>pullarius <hi
-                            rend="italics">Burmann:</hi> peullarius</note> erat, omnis minervae
+                    illum puto in domo canem reliquisse. Immo etiam pullarius<note>pullarius <hi rend="italics">Burmann:</hi> peullarius</note> erat, omnis minervae
                     homo. Nec improbo, hoc solum enim secum tulit.</quote></p>
             <p><milestone unit="section" n="44"/>Haec Phileros dixit, illa Ganymedes:
                     <quote>narratis quod nec ad caelum nec ad terram pertinet, cum interim nemo
@@ -906,8 +870,7 @@
                     memini Safinium: tunc habitabat ad arcum veterem, me puero, piper, non homo. Is
                     quacunque ibat, terram adurebat. Sed rectus, sed certus, amicus amico, cum quo
                     audacter posses intenebris micare. In curia autem quomoda singulos [vel] pilabat
-                    [tractabat], nec schemas loquebatur sed derectum.<note>derectum <hi
-                            rend="italics">Reiske:</hi> dilectum.</note> Cum ageret porro in foro,
+                    [tractabat], nec schemas loquebatur sed derectum.<note>derectum <hi rend="italics">Reiske:</hi> dilectum.</note> Cum ageret porro in foro,
                     sic illius vox crescebat tanquam tuba. Nec sudavit unquam nec expuit, puto
                         eum<note>eum <hi rend="italics">Tilebomenus:</hi> enim.</note> nescio quid
                     Asiadis habuisse. Et quam benignus resalutare, nomina omnium reddere, tanquam
@@ -944,8 +907,7 @@
                     delicati esse, ubique medius caelus est. Tu si aliubi fueris, dices hie porcos
                     coctos ambulare. Et ecce habituri sumus munus excellente in triduo die festa;
                     familia non lanisticia, sed plurimi liberti. Et Titus noster magnum animum habet
-                    et est ealdicerebrius: aut hoc aut illud erit, quid<note>quid <hi rend="italics"
-                            >Heinsius:</hi>quod.</note> utique.<pb id="p.76"/> Nam illi domesticus
+                    et est ealdicerebrius: aut hoc aut illud erit, quid<note>quid <hi rend="italics">Heinsius:</hi>quod.</note> utique.<pb id="p.76"/> Nam illi domesticus
                     sum, non est miscix. Ferrum optimum daturus est, sine fuga, carnarium in medio,
                     ut amphitheater videat. Et habet unde: relictum est illi sestertium tricenties,
                     decessit illius pater male. Ut quadringenta impendat, non sentiet patrimonium
@@ -970,8 +932,7 @@
                     'adhibete' acceperant, plane fugae merae. 'Munus tamen' inquit 'tibi dedi': et
                     ego tibi plodo. Computa, et tibi plus do quam accepi. Manus manum lavat. Videris
                     mihi, Agamemnon, dicere:<milestone unit="section" n="46"/> 'Quid iste argutat
-                    molestus?' quia tu, qui potes loquere, non loquis.<note>loquis <hi
-                            rend="italics">Burmann:</hi> loqui.</note> Non es nostrae fasciae, et
+                    molestus?' quia tu, qui potes loquere, non loquis.<note>loquis <hi rend="italics">Burmann:</hi> loqui.</note> Non es nostrae fasciae, et
                     ideo pauperorum verba derides. Scimus te prae litteras fatuum esse. Quid ergo
                     est? aliqua die te persuadeam, ut ad villam venias et videas casulas nostras?
                     Inveniemus quod manducemus, pullum, ova: belle erit, etiam si omnia hoc anno
@@ -981,15 +942,13 @@
                     Ingeniosus est et bono filo, etiam si in aves morbosus est. Ego illi iam tres
                     cardeles occidi, et dixi quod mustella comedit. Invenit tamen alias nenias, et
                     libentissime pingit. Ceterum iam Graeculis calcem impingit et Latinas coepit non
-                    male appetere, etiam si magister eius sibi placens fit<note>fit <hi
-                            rend="italics">Bueckeler:</hi> sit.</note> nec uno loco consistit, sed
+                    male appetere, etiam si magister eius sibi placens fit<note>fit <hi rend="italics">Bueckeler:</hi> sit.</note> nec uno loco consistit, sed
                         venit,<pb id="p.80"/> dem litteras, sed non vult laborare. Est et alter non
                     quidem doctus, sed curiosus, qui plus docet quam scit. Itaque feriatis diebus
                     solet domum venire, et quicquid dederis, contentus est. Emi ergo nunc puero
                     aliquot libra rubricata, quia volo illum ad domusionem aliquid de iure gustare.
                     Habet haec res panem. Nam litteris satis inquinatus est. Quod si resilient,
-                    destinavi illum artificii docere, aut tonstreinum<note>tonstrinum <hi
-                            rend="italics">Scheffer:</hi> constreinum.</note> aut praeconem aut
+                    destinavi illum artificii docere, aut tonstreinum<note>tonstrinum <hi rend="italics">Scheffer:</hi> constreinum.</note> aut praeconem aut
                     certe causidicum, quod illi auferre non possit nisi Orcus. Ideo illi cotidie
                     clamo: 'Primigeni, crede mihi, quicquid discis, tibi discis. Vides Phileronem
                     causidicum: si non didicisset, hodie famem a labris non abigeret. Modo, modo
@@ -998,12 +957,10 @@
             <p><milestone unit="section" n="47"/>Eiusmodi fabulae vibrabant, cum Trimalchio intravit
                 et detersa fronte unguento manus lavit spatioque minimo interposito <quote>Ignoscite
                     mihi</quote> inquit <quote>amici, multis iam diebus venter mihi non respondit.
-                    Nec medici se inveniunt. Profuit mihi tamen malicorium<note>malicorium <hi
-                            rend="italics">Scheffer.</hi> maleicorum.</note> et taeda ex aceto.
+                    Nec medici se inveniunt. Profuit mihi tamen malicorium<note>malicorium <hi rend="italics">Scheffer.</hi> maleicorum.</note> et taeda ex aceto.
                     Spero tamen, iamveterem<note>veterem <hi rend="italics">Heinsius:</hi>
                     ventrem.</note> pudorem sibi imponet. Alioquin circa stomachum mihi sonat, putes
-                    taurum. Itaque si quis vestrum voluerit sua re [causa]<note>causa <hi
-                            rend="italics">bracketed by Scheffer.</hi></note> facere, non est quod
+                    taurum. Itaque si quis vestrum voluerit sua re [causa]<note>causa <hi rend="italics">bracketed by Scheffer.</hi></note> facere, non est quod
                     ilium pudeatur. Nemo nostrum solide natus est. Ego nullum puto tam magnum
                     tormentum esse quam continere. Hoc so<pb id="p.82"/> lum vetare ne Iovis potest.
                     Rides, Fortunata, quae soles me nocte desomnem facere? Nec tamen in triclinio
@@ -1026,8 +983,7 @@
                 iussit occidi, et clara voce: <quote>Ex quota decuria es?</quote> Cum ille se ex
                 quadragesima respondisset, <quote>Empticius an</quote> inquit <quote>domi natus?</quote>
                 <quote>Neutrum</quote> inquit cocus <quote>sed testamento Pansae tibi relictus sum.</quote>
-                <quote><hi rend="italics">Vide</hi> ergo</quote> ait <quote>ut diligenter ponas;<pb
-                        id="p.84"/> si non, te iubebo in decuriam viatorum conici.</quote>
+                <quote><hi rend="italics">Vide</hi> ergo</quote> ait <quote>ut diligenter ponas;<pb id="p.84"/> si non, te iubebo in decuriam viatorum conici.</quote>
                     <milestone unit="section" n="48"/>Et cocum quidem potentiae admonitum in culinam obsonium duxit,
                 Trimalchio autem mihi ad nos vultu respexit et <quote>Vinum</quote> inquit <quote>si
                     non placet, mutabo; vos illud oportet bonum faciatis. Deorum beneficio non emo,
@@ -1080,8 +1036,7 @@
                     solus Corinthea vera possideam: quia scilicet aerarius, a quo emo, Corinthus
                     vocatur. Quid est autem Corintheum, nisi quis Corinthum habet? Et ne me putetis
                     nesapium csse, valde bene scio, unde primum Corinthea nata sint. Cum Ilium
-                    captum est, Hannibal, homo vafer et magnus stelio,<note>stelio <hi
-                            rend="italics">Heinsius:</hi> scelio.</note> omnes statuas aeneas et
+                    captum est, Hannibal, homo vafer et magnus stelio,<note>stelio <hi rend="italics">Heinsius:</hi> scelio.</note> omnes statuas aeneas et
                     aureas et argenteas in unum rogum congessit et eas incendit; factae sunt in unum
                     aera miscellanea. Ita ex hac massa fabri sustulerunt et fecerunt catilla et
                     paropsides et statuncula. Sic Corinthea nata sunt, ex omnibus in unum, nec hoc
@@ -1102,8 +1057,7 @@
                         sum.<milestone unit="section" n="52"/> Habeo scyphos urnales plus minus C:
                     quemadmodum Cassandra occidit filios suos, et pueri mortui iacent sic ut
                         vivere<note>sic ut vivere <hi rend="italics">Heinsius:</hi> sicuti
-                    vere.</note> putes. Habeo capides<note>capides M <hi rend="italics"
-                        >Buecheler:</hi> capidem.</note> M, quas reliquit patrono meo
+                    vere.</note> putes. Habeo capides<note>capides M <hi rend="italics">Buecheler:</hi> capidem.</note> M, quas reliquit patrono meo
                         Mummius,<note>patrono meo Mummius <hi rend="italics">Buecheler:</hi>
                         patronorum meus.</note> ubi Daedalus Niobam in equum Troianum includit. Nam
                     Hermerotis pugnas et Petraitis in poculis habeo, omnia ponderosa; meum enim
@@ -1148,14 +1102,12 @@
                 ardentes transilire<note>transilire <hi rend="italics">Heinsius:</hi>
                 transire.</note> et dentibus amphoram sustinere. Mirabatur haec solus Trimalchio
                 dicebatque ingratum artificium esse. Ceterum duo esse in rebus humanis, quae
-                libentissime spectaret, petauristarios et cornicines;<note>cornicines <hi
-                        rend="italics">Heinsius:</hi> cornices.</note> reliqua
+                libentissime spectaret, petauristarios et cornicines;<note>cornicines <hi rend="italics">Heinsius:</hi> cornices.</note> reliqua
                     [animalia]<note>animalia <hi rend="italics">bracketed by Buecheler.</hi></note>
                 acroamata tricas meras esse. <quote>Nam et comoedos</quote> inquit <quote>emeram,
                     sed malui illos Atellaniam<note>Atellaniam <hi rend="italics">Buecheler:</hi>
                         atellam.</note> facere, et choraulen meum iussi Latine cantare.</quote></p>
-            <p><milestone unit="section" n="54"/>Cum maxime haec dicente Gaio puer<note><hi
-                        rend="italics">Some words such as</hi> in brachium <hi rend="italics">have
+            <p><milestone unit="section" n="54"/>Cum maxime haec dicente Gaio puer<note><hi rend="italics">Some words such as</hi> in brachium <hi rend="italics">have
                         clearlyfallen out.</hi></note>. . . . Trimalchionis delapsus est.
                 Conclamavit familia, nec minus convivae, non propter hominem tam putidum, cuius et
                 cervices fractas libenter vidissent, sed propter malum exitum cenae, ne necesse
@@ -1171,8 +1123,7 @@
                 domini contusum alba potius quam conchyliata involverat lana. Nec longe aberravit
                 suspicio mea; in vicem enim poenae<note>poenae <hi rend="italics">Hadrianides:</hi>
                     cenae.</note> venit decretum Trimalchionis, quo puerum iussit liberum esse, ne
-                quis posset dicere, tantum virum esse a servo vulneratum.<note>vulneratum <hi
-                        rend="italics">Scheffer:</hi> liberatum.</note></p>
+                quis posset dicere, tantum virum esse a servo vulneratum.<note>vulneratum <hi rend="italics">Scheffer:</hi> liberatum.</note></p>
             <p><milestone unit="section" n="55"/> | Comprobamus nos factum | et quam in praecipiti<note place="marg">
                     <hi rend="italics">HLO/H</hi>
                 </note> res humanae essent, | vario sermone garrimus.|<note place="marg">
@@ -1183,8 +1134,7 @@
                     </note> sine inscriptione transire</quote> statimque codicillos poposcit et non
                 diu cogitatione distorta haec recitavit:</p>
             <quote rend="blockquote">
-                <l part="I">|"Quod non expectes, ex transverse fit . . . . <note><hi rend="italics"
-                            >Heinsius would supply</hi> ubique, nostra, <hi rend="italics">to fill
+                <l part="I">|"Quod non expectes, ex transverse fit . . . . <note><hi rend="italics">Heinsius would supply</hi> ubique, nostra, <hi rend="italics">to fill
                             the gap between</hi> fit <hi rend="italics">and</hi> et.</note></l>
                 <note place="marg">
                     <hi rend="italics">HL</hi>
@@ -1212,16 +1162,13 @@
                 <l>avis exul hiemis, titulus tepidi temporis,</l>
                 <l>nequitiae nidum in caccabo fecit modo.<note>modo <hi rend="italics">Jacobs:</hi>
                         meo.</note></l>
-                <l>Quo margarita cara tibi, bacam Indicam?<note>tibi, bacam Indicam. <hi
-                            rend="italics">Heinsius:</hi> tribaca Indica</note></l>
+                <l>Quo margarita cara tibi, bacam Indicam?<note>tibi, bacam Indicam. <hi rend="italics">Heinsius:</hi> tribaca Indica</note></l>
                 <l>An ut matrona ornataphaleris pelagiis</l>
                 <l>tollat pedes indomita in strato extraneo?</l>
                 <l>Zmaragdum ad quam rem viridem, pretiosum vitrum?</l>
                 <l>Quo Carchedonios optas ignes lapideos,</l>
                 <l>nisi ut scintillet probitas e carbunculis?<note><hi rend="italics">e cod.
-                            Bernensis:</hi> est <hi rend="italics">other MSS.</hi> carbunculis <hi
-                            rend="italics">Buecheler:</hi> carbunculus-o&ndash;s <hi
-                            rend="italics">or</hi>&mdash;as.</note></l>
+                            Bernensis:</hi> est <hi rend="italics">other MSS.</hi> carbunculis <hi rend="italics">Buecheler:</hi> carbunculus-o&ndash;s <hi rend="italics">or</hi>&mdash;as.</note></l>
                 <l>Aequum est induere nuptam ventum textilem,</l>
                 <l>palam prostare nudam in nebula linea?'</l>
             </quote>
@@ -1249,16 +1196,14 @@
                     <quote>passeres et muscarium</quote>: uvam passam et mel Atticum.
                     <quote>Cenatoria et forensia</quote>: offlam et tabulas accepit. <quote>Canale
                     et pedale</quote>: lepus et solea est allata. <quote>Muraena et littera</quote>:
-                murem cum rana alligata fascemque betae accepit.<note>accepit <hi rend="italics"
-                        >added by Buecheler.</hi></note> Diu risimus: sexcenta huiusmodi fuerunt,
+                murem cum rana alligata fascemque betae accepit.<note>accepit <hi rend="italics">added by Buecheler.</hi></note> Diu risimus: sexcenta huiusmodi fuerunt,
                 quae iam exciderunt memoriae meae.</p>
             <p><milestone unit="section" n="57"/>Ceterum Ascyltos, intemperantis licentiae, cum
                 omnia sublatis manibus eluderet et usque ad lacrimas rideret, unus ex conlibertis
                 Trimalchionis excanduit, is ipse qui supra me discumbebat, et <quote>Quid
                 rides</quote> inquit <quote>vervex? An tibi non placent lautitiae domini mei? Tu
                     enim beatior es et convivare melius soles. Ita tutelam huius loci habeam
-                    propitiam, ut ego si secundum illum discumberem, iam illi balatum duxis<pb
-                        id="p.102"/> sem. Bellum pomum, qui rideatur alios; larifuga nescio quis,
+                    propitiam, ut ego si secundum illum discumberem, iam illi balatum duxis<pb id="p.102"/> sem. Bellum pomum, qui rideatur alios; larifuga nescio quis,
                     nocturnus, qui non valet lotium suum. Ad summam, si circumminxero illum, nesciet
                     qua fugiat. Non mehercules soleo cito fervere, sed in molle carne vermes
                     nascuntur. Ridet. Quid habet quod rideat? Numquid pater fetum emit lamna? Eques
@@ -1293,10 +1238,8 @@
                 isti qui tibi non imperat. Ita satur pane fiam, ut ego istud conliberto meo dono;
                 alioquin iam tibi depraesentiarum reddidissem. Bene nos habemus, at isti
                     nugae,<note>nugae <hi rend="italics">Buecheler:</hi> geuge.</note> qui tibi non
-                imperant. Plane qualis dominus, talis et servus. Vix me teneo, nec<note>Nec <hi
-                        rend="italics">Jahn:</hi> et.</note> sum natura caldicerebrius,
-                    sed<note>caldicerebrius <hi rend="italics">Jahn:</hi> caldus cicer eius: sed <hi
-                        rend="italics">added by Buecheler.</hi></note> cum coepi, matrem meam
+                imperant. Plane qualis dominus, talis et servus. Vix me teneo, nec<note>Nec <hi rend="italics">Jahn:</hi> et.</note> sum natura caldicerebrius,
+                    sed<note>caldicerebrius <hi rend="italics">Jahn:</hi> caldus cicer eius: sed <hi rend="italics">added by Buecheler.</hi></note> cum coepi, matrem meam
                 dupundii non facio. Recte, videbo te in publicum, mus, immo terrae tuber: nec sursum
                 nec deorsum non cresco, nisi dominum tuum in rutae folium non conieci, nec tibi
                 parsero, licet mehercules Iovem<pb id="p.106"/> Olympium clames. Curabo, longe tibi
@@ -1307,11 +1250,9 @@
             <p>
                 <quote>Non didici geometrias, critica et alogias nenias, sed lapidarias litteras
                     scio, partes centum dico ad aes, ad pondus, ad nummum. Ad summam, si quid vis,
-                    ego et tu sponsiunculam: exi, defero lamnam.<note>lamnam <hi rend="italics"
-                            >Heinsius:</hi> lana.</note> Iam scies patrem tuum mercedes perdidisse,
+                    ego et tu sponsiunculam: exi, defero lamnam.<note>lamnam <hi rend="italics">Heinsius:</hi> lana.</note> Iam scies patrem tuum mercedes perdidisse,
                     quamvis et rhetoricam scis.<note>scis <hi rend="italics">Reiske:</hi>
-                    scio.</note> Ecce<quote rend="blockquote">'Qui de nobis<note>qui de nobis <hi
-                                rend="italics">Buecheler:</hi> quidem vobis.</note> longe venio,
+                    scio.</note> Ecce<quote rend="blockquote">'Qui de nobis<note>qui de nobis <hi rend="italics">Buecheler:</hi> quidem vobis.</note> longe venio,
                         late venio? solve me.'</quote> Dicam tibi, qui de nobis currit et de loco
                     non movetur; qui de nobis crescit et minor fit. Curris, stupes, satagis, tanquam
                     mus in matella. Ergo aut tace aut meliorem noli molestare, qui te natum non
@@ -1344,8 +1285,7 @@
                     inter se pugnent Troiani et Parentini. Vicit scilicet et Iphigeniam, filiam
                     suam, Achilli dedit uxorem. Ob eam rem Aiax insanit et static argumentum
                     explicabit.</quote> Haec ut dixit Trimalchio, clamorem Homeristae sustulerunt,
-                interque familiam discurrentem vitulus in lance donaria<note>donaria <hi
-                        rend="italics">Buecheler:</hi> dunaria.</note> elixus allatus est, et quidem
+                interque familiam discurrentem vitulus in lance donaria<note>donaria <hi rend="italics">Buecheler:</hi> dunaria.</note> elixus allatus est, et quidem
                 galeatus. Secutus est Aiax strictoque gladio, tanquam insaniret, concidit, ac modo
                 versa modo supina gesticulatus mucrone frusta collegit mirantibusque vitulum
                 partitus est.</p>
@@ -1360,18 +1300,15 @@
                 Priapus a pistore factus tenebat, gremioque satis amplo omnis generis poma et uvas
                 sustinebat more vulgato. Avidius ad pompam manus porreximus, et repente nova ludorum
                 remissio hilaritatem hic refecit. Omnes enim placentae omniaque poma etiam minima
-                vexatione contacta coeperunt effundere crocum, et usque ad os<note>os <hi
-                        rend="italics">Buecheler:</hi> nos.</note> molestus umor ac<pb id="p.112"/>
+                vexatione contacta coeperunt effundere crocum, et usque ad os<note>os <hi rend="italics">Buecheler:</hi> nos.</note> molestus umor ac<pb id="p.112"/>
                 cidere. Rati ergo sacrum esse fericulum tam religioso apparatu perfusum,
                 consurreximus altius et <quote>Augusto, patri patriae, feliciter</quote> diximus.
-                Quibusdam tamen etiam post hane venerationem poma rapientibus et ipsi<note>ipsi <hi
-                        rend="italics">Heinsius:</hi> ipsas.</note> mappas implevimus, ego
+                Quibusdam tamen etiam post hane venerationem poma rapientibus et ipsi<note>ipsi <hi rend="italics">Heinsius:</hi> ipsas.</note> mappas implevimus, ego
                 praecipue, qui nullo satis amplo munere putabam me onerare Gitonis sinum.</p>
             <p>Inter haec tres pueri candidas succincti tunicas intraverunt, quorum duo Lares
                 bullatos super mensam posuerunt, unus pateram vini circumferens <quote>dii
                 propitii</quote> clamabat.</p>
-            <p>Aiebat autem unum Cerdonem, alterum Felicionem, tertium Lucrionem<note>Lucrionem <hi
-                        rend="italics">Reinesius:</hi> lucronem.</note> vocari. Nos etiam veram
+            <p>Aiebat autem unum Cerdonem, alterum Felicionem, tertium Lucrionem<note>Lucrionem <hi rend="italics">Reinesius:</hi> lucronem.</note> vocari. Nos etiam veram
                 imaginem ipsius Trimalchionis, cum iam omnes basiarent, erubuimus praeterire.</p>
             <p><milestone unit="section" n="61"/>Postquam ergo omnes bonam mentem bonamque
                 valitudinem sibi optarunt, Trimalchio ad Nicerotem respexit et
@@ -1385,8 +1322,7 @@
                 <quote>Haec ubi dicta dedit,</quote> talem fabulam exorsus est:</p>
             <p>
                 <quote>Cum adhuc servirem, habitabamus in vico angusto; nune Gavillae domus est.
-                    Ibi, quomodo dii volunt, amare coepi uxorem Terentii coponis: noveratis Me<pb
-                        id="p.114"/> lissam Tarentinam, pulcherrimum bacciballum. Sed ego non
+                    Ibi, quomodo dii volunt, amare coepi uxorem Terentii coponis: noveratis Me<pb id="p.114"/> lissam Tarentinam, pulcherrimum bacciballum. Sed ego non
                     mehercules corporaliter illam<note>illam <hi rend="italics">Buecheler:</hi>
                         autem.</note> aut propter res venerias curavi, sed magis quod
                         benemoria<note>benemoria <hi rend="italics">Orelli:</hi> bene moriar.</note>
@@ -1398,8 +1334,7 @@
                     scruta scita expedienda. Nactus ego occasionem persuadeo hospitem nostrum, ut
                     mecum ad quintum miliarium veniat. Erat autem miles, fortis tanquam Orcus.
                     Apoculamus nos circa gallicinia, luna lucebat tanquam meridie. Venimus intra
-                    monimenta: homo meus coepit ad stelas facere, sedeo<note>sedeo <hi
-                            rend="italics">Scheffer:</hi> sed.</note> ego cantabundus et stelas
+                    monimenta: homo meus coepit ad stelas facere, sedeo<note>sedeo <hi rend="italics">Scheffer:</hi> sed.</note> ego cantabundus et stelas
                     numero. Deinde ut respexi ad comitem, ille exuit se et omnia vestimenta secundum
                     viam posuit. Mihi anima<note>anima <hi rend="italics">Muncker:</hi> in
                     animo.</note> in naso esse, stabam tanquam mortuus. At ille circumminxit
@@ -1407,10 +1342,8 @@
                     nullius patrimonium tanti facio. Sed, quod coeperam dicere, postquam lupus
                     factus est, ululare coepit et in silvas fugit. Ego primitus nesciebam ubi essem,
                     deinde accessi, ut vestimenta eius tollerem: illa autem lapidea facta sunt. Qui
-                    mori timore nisi ego? Gladium tamen strinxi et in tota via<note>in tota via <hi
-                            rend="italics">Scheffer:</hi> matavita tau.</note> umbras cecidi, done
-                        ad<pb id="p.116"/> villam amicae meae pervenirem. Ut larua<note>ut larua <hi
-                            rend="italics">Buecheler:</hi> in larvam.</note> intravi, paene animam
+                    mori timore nisi ego? Gladium tamen strinxi et in tota via<note>in tota via <hi rend="italics">Scheffer:</hi> matavita tau.</note> umbras cecidi, done
+                        ad<pb id="p.116"/> villam amicae meae pervenirem. Ut larua<note>ut larua <hi rend="italics">Buecheler:</hi> in larvam.</note> intravi, paene animam
                     ebullivi, sudor mihi per bifurcum volabat, oculi mortui, vix unquam refectus
                     sum. Melissa mea mirari coepit, quod tam sero ambularem, et 'Si ante' inquit
                     'venisses, saltem nobis adiutasses; lupus enim villam intravit et omnia pecora
@@ -1490,8 +1423,7 @@
                 comissator intravit. Ego maiestate conterritus praetorem putabam venisse. Itaque
                 temptavi assurgere et nudos pedes in terram deferre. Risit hanc trepidationem
                 Agamemnon et <quote>Contine te</quote> inquit <quote>homo stultissime. Habinnas sevir
-                    est idemque lapidarius, qui videtur<note>videtur <hi rend="italics"
-                        >Scheffer;</hi> videretur.</note> monumenta optime facere.</quote></p>
+                    est idemque lapidarius, qui videtur<note>videtur <hi rend="italics">Scheffer;</hi> videretur.</note> monumenta optime facere.</quote></p>
             <p>Recreatus hoc sermone reposui cubitum, Habinnamque intrantem cumadmiratione ingenti
                 spectabam. Ille autem iam ebrius uxoris suae umeris imposuerat manus, oneratusque
                 aliquot coronis et unguento per frontem in oculos fluente praetorio loco se posuit
@@ -1506,8 +1438,7 @@
                 <milestone unit="section" n="66"/><quote>Tamen</quote> inquit Trimalchio <quote>quid habuistis in cena?</quote>
                 <quote>Dicam</quote> inquit <quote>si potuero; nam tam bonae memoriae sum, ut
                     frequenter nomen meum obliviscar. Habuimus tamen in primo porcum poculo
-                    coronatum et circa saviunculum<note>saviunculum <hi rend="italics"
-                        >Hildebrand:</hi> saucunculum.</note> et gizeria optime facta et certe betam
+                    coronatum et circa saviunculum<note>saviunculum <hi rend="italics">Hildebrand:</hi> saucunculum.</note> et gizeria optime facta et certe betam
                     et panem autopyrum de suo sibi, quem ego malo quam candidum; et vires facit, et
                     cum mea re [causal<note>causa <hi rend="italics">bracketed by
                     Buecheler.</hi></note> facio, non ploro. Sequens ferculum fuit scriblita frigida
@@ -1524,8 +1455,7 @@
                     alveo circumlata sunt oxycomina, unde quidam etiam improbe ternos
                         pugnos<note>improbiter nos pugno <hi rend="italics">corrected by
                         Buecheler.</hi></note> sustulerunt. Nam pernae missionem dedimus. Sed narra
-                    mihi, Gai, rogo, Fortunata quare non recumbit?</quote><milestone unit="section"
-                    n="67"/>
+                    mihi, Gai, rogo, Fortunata quare non recumbit?</quote><milestone unit="section" n="67"/>
                 <quote>Quomodo nosti</quote> inquit <quote>illam</quote> Trimalchio <quote>nisi
                     argentum composuerit, nisi reliquias pueris diviserit, aquam in os suum non
                     coniciet.</quote>
@@ -1554,26 +1484,22 @@
                 diligentiam matris familiae iactat, altera delicias et indiligentiam viri. Dumque
                 sic cohaerent, Habinnas furtim consurrexit pedesque Fortunatae correptos super
                 lectum immisit.<quote>Au au</quote> illa proclamavit aberrante tunica super genua.
-                Composita ergo in gremio Scintillae incensissimam<note>incensissimam <hi
-                        rend="italics">Reinesius;</hi> indecens imam.</note> rubore faciem sudario
+                Composita ergo in gremio Scintillae incensissimam<note>incensissimam <hi rend="italics">Reinesius;</hi> indecens imam.</note> rubore faciem sudario
                 abscondit.</p>
             <p><milestone unit="section" n="68"/>Interposito deinde spatio cum secundas mensas
                 Trimalchio iussisset afferri, sustulerunt servi omnes mensas et alias attulerunt,
-                scobemque croco et minio tinctam sparserunt et, quod nunquam ante videram,<pb
-                    id="p.130"/> ex lapide speculari pulverem tritum. Statim Trimalchio
+                scobemque croco et minio tinctam sparserunt et, quod nunquam ante videram,<pb id="p.130"/> ex lapide speculari pulverem tritum. Statim Trimalchio
                     <quote>poteram quidem</quote> inquit <quote>hoc fericulo esse contentus;
                     secundas enim mensas habetis. Sed si quid belli habes, affer.</quote></p>
             <p>Interim puer Alexandrinus, qui caldam ministrabat, luscinias coepit imitari clamante
                 Trimalchione subinde:<quote>Muta.</quote> Ecce alius ludus. Servus qui ad pedes
-                Habinnae sedebat, iussus, credo, a domino suo proclamavit subito canora voce:<quote
-                    rend="blockquote">
+                Habinnae sedebat, iussus, credo, a domino suo proclamavit subito canora voce:<quote rend="blockquote">
                     <l>
                         <quote>Interea medium Aeneas iam classe tenebat.</quote>
                     </l>
                 </quote> Nullus sonus unquam acidior percussit aures meas; nam praeter errantis
                 barbariae aut adiectum aut deminutum clamorem miscebat Atellanicos versus, ut tune
-                primum me etiam Vergilius offenderit. Plausum<note>plausum <hi rend="italics"
-                        >Buecheler:</hi> lassus.</note> tamen, cum aliquando desisset,<note>desisset
+                primum me etiam Vergilius offenderit. Plausum<note>plausum <hi rend="italics">Buecheler:</hi> lassus.</note> tamen, cum aliquando desisset,<note>desisset
                         <hi rend="italics">Scheffer:</hi> dedisset.</note> adiecit Habinnas
                     et <quote>nunquam</quote><note>nunquam inquit <hi rend="italics">Buecheler;</hi>
                     nunquid.</note> inquit <quote>didicit, sed ego ad circulatores eum mittendo
@@ -1583,8 +1509,7 @@
                     desperatus.</note> valde ingeniosus est: idem sutor est, idem cocus idem pistor,
                     omnis musae mancipium. Duo tamen vitia habet, quae si non haberet, esset omnium
                     numerum: recutitus est et stertit. Nam quod strabonus est, non curo: sicut Venus
-                    spectat. Ideo nihil tacet, vix oculo mortuo unquam.<milestone unit="section"
-                        n="69"/> Illum emi trecentis denariis.</quote> Interpellavit loquentem
+                    spectat. Ideo nihil tacet, vix oculo mortuo unquam.<milestone unit="section" n="69"/> Illum emi trecentis denariis.</quote> Interpellavit loquentem
                 Scintilla et <quote>plane</quote> inquit <quote>non omnia artificia servi nequam
                     narras. Agaga est; at curabo, stigmam habeat.</quote> Risit Trimalchio et
                     <quote>adcognosco</quote> inquit <quote>Cappadocem: nihil<pb id="p.132"/> sibi
@@ -1640,8 +1565,7 @@
                 sponsione provocare <quote>si prasinus proximis circensibus primam palmam.</quote></p>
             <p><milestone unit="section" n="71"/>Diffusus hac contentione Trimalchio
                 <quote>amici</quote> inquit <quote>et servi homines sunt et aeque unum lactem
-                    biberunt, etiam si illos malus fatus oppressit.<note>oppressit <hi
-                            rend="italics">Buecheler:</hi> oppresserit.</note> Tamen me salvo cito
+                    biberunt, etiam si illos malus fatus oppressit.<note>oppressit <hi rend="italics">Buecheler:</hi> oppresserit.</note> Tamen me salvo cito
                     aquam liberam gustabunt. Ad summam, omnes illos in testamento meo manu mitto.
                     Philargyro etiam fundum lego et contubernalem suam, Carioni quoque insulam et
                     vicesimam et lectum stratum. Nam Fortunatam meam heredem facio, et commendo
@@ -1650,17 +1574,13 @@
                 domini, cum ille oblitus nugarum exemplar testamenti iussit afferri et totum a primo
                 ad ultimum ingemescente familia recitavit. Respiciens deinde Habinnam <quote>quid
                     dicis</quote> inquit "amice carissime? Aedificas monumentum meum, quemadmodum te
-                iussi? Valde te rogo, ut secundum pedes statuae meae catellam ponas<note>ponas <hi
-                        rend="italics">Buecheler:</hi> pingas.</note> et coronas et unguenta et
+                iussi? Valde te rogo, ut secundum pedes statuae meae catellam ponas<note>ponas <hi rend="italics">Buecheler:</hi> pingas.</note> et coronas et unguenta et
                 Petraitis omnes pugnas, ut<pb id="p.138"/> mihi contingat tuo beneficio post mortem
                 vivere; praeterea ut sint in fronte pedes centum, in agrum pedes ducenti. Omne genus
                 enim poma volo sint circa cineres meos, et vinearum largiter. Valde enim falsum est
                 vivo quidem domos cultas esse, non curari eas, ubi diutius nobis habitandum est. Et
-                ideo ante omnia adici volo: hoc monumentum heredem non sequitur.'<note>sequitur <hi
-                        rend="italics">Buecheler:</hi> sequatur. <hi rend="italics">The phrase,
-                    like</hi> in fronte<hi rend="italics">and</hi> in agrum <hi rend="italics"
-                        >above, is written with Horace Satires i,</hi> 8, 12&ndash;13,<hi
-                        rend="italics">in mind.</hi> H. M. H. N. S. <hi rend="italics">is a common
+                ideo ante omnia adici volo: hoc monumentum heredem non sequitur.'<note>sequitur <hi rend="italics">Buecheler:</hi> sequatur. <hi rend="italics">The phrase,
+                    like</hi> in fronte<hi rend="italics">and</hi> in agrum <hi rend="italics">above, is written with Horace Satires i,</hi> 8, 12&ndash;13,<hi rend="italics">in mind.</hi> H. M. H. N. S. <hi rend="italics">is a common
                         inscription on tombs.</hi></note> Ceterum erit mih icurae, ut testamento
                 caveam, ne mortuus iniuriam accipiam. Praeponam enim unum ex libertis sepulcro meo
                 custodiae causa, ne in monumentum meum populus cacatum currat. Te rogo, ut naves
@@ -1689,8 +1609,7 @@
                 subsequi coepit.</p>
             <p>Ego respiciens ad Ascylton <quote>Quid cogitas?</quote> inquam <quote>ego enim si
                     videro balneum, statim expirabo.</quote>
-                <quote>Assentemur</quote> ait ille <quote>et dum illi balneum petunt,<pb id="p.142"
-                    /> nos in turba exeamus.</quote> Cum haec placuissent, ducente per porticum
+                <quote>Assentemur</quote> ait ille <quote>et dum illi balneum petunt,<pb id="p.142"/> nos in turba exeamus.</quote> Cum haec placuissent, ducente per porticum
                 Gitone ad ianuam venimus, ubi canis catenarius tanto nos tumultu excepit, ut
                 Ascyltos etiam in piscinam ceciderit. Nec non ego quoque ebrius, qui etiam pictum
                 timueram canem, dum natanti opem fero, in eundem gurgitem tractus sum. Servavit nos
@@ -1705,8 +1624,7 @@
                 esse? Ultro ergo rogavimus, ut nos ad balneum duceret, proiectisque vestimentis,
                 quae Giton in aditu siccare coepit, balneum intravimus, angustum scilicet et
                 cisternae frigidariae simile, in quo Trimalchio rectus stabat. Ac ne sic quidem
-                putidissimam eius iactationem<note>eius iactationem <hi rend="italics"
-                    >Heinsius:</hi> ei actionem.</note> licuit effugere; nam nihil melius esse
+                putidissimam eius iactationem<note>eius iactationem <hi rend="italics">Heinsius:</hi> ei actionem.</note> licuit effugere; nam nihil melius esse
                 dicebat quam sine turba lavari, et eo ipso loco aliquando pistrinum fuisse. Deinde
                 ut lassatus consedit, invitatus balnei sono diduxit usque ad cameramos ebrium et
                 coepit Menecratis cantica lacerare, sicut illi dicebant, qui linguam<pb id="p.144"/>
@@ -1815,8 +1733,7 @@
                     iungere, satis vivus pervenero. Interim dum Mercurius vigilat, aedificavi hanc
                     domum. Ut scitis, casula<note>casula <hi rend="italics">Heinsius:</hi>
                     cusuc.</note> erat; nunc templum est. Habet quattuor cenationes, cubicula
-                    viginti, porticus marmoratos duos, susum cenationem,<note>cenationem <hi
-                            rend="italics">Scheffer:</hi> cellationem.</note> cubiculum in quo ipse
+                    viginti, porticus marmoratos duos, susum cenationem,<note>cenationem <hi rend="italics">Scheffer:</hi> cellationem.</note> cubiculum in quo ipse
                     dormio, viperae huius sessorium, ostiarii cel<pb id="p.154"/> lam perbonam;
                     hospitium hospites capit. Ad summam, Scaurus cum huc venit, nusquam mavoluit
                     hospitari, et habet ad mare paternum hospitium. Et multa alia sunt, quae statim
@@ -1848,8 +1765,7 @@
                         <hi rend="italics">Buecheler:</hi> obscura.</note> Itaque cum hora paene
                 tota per omnes scrupos gastrarumque eminentium fragmenta traxissemus cruentos pedes,
                 tandem expliciti acumine Gitonis sumus. Prudens enim [pridie], cum luce etiam clara
-                timeret errorem, omnes pilas columnasque notaverat creta, quae<note>creta, quae <hi
-                        rend="italics">Puteanus:</hi> certaque.</note> lineamenta evicerunt
+                timeret errorem, omnes pilas columnasque notaverat creta, quae<note>creta, quae <hi rend="italics">Puteanus:</hi> certaque.</note> lineamenta evicerunt
                 spississimam noctem et notabili candore ostenderunt errantibus viam. Quamvis non
                 minus sudoris habuimus etiam postquam ad stabulum pervenimus. Anus enim ipsa inter
                 deversitores diutius ingurgitata ne ignem quidem admotum sensisset. Et forsitan
@@ -1874,12 +1790,10 @@
                 autem truci intuens vultu <quote>quoniam</quote> inquam <quote>fidem scelere
                     violasti et communem amicitiam, res tuas ocius tolle et alium locum, quem
                     polluas, quaere.</quote></p>
-            <p>Non repugnavit ille, sed postquam optima fide partiti manubias sumus,<milestone
-                    unit="section" n="80"/> age <quote>inquit nunc et puerum dividamus.</quote>
+            <p>Non repugnavit ille, sed postquam optima fide partiti manubias sumus,<milestone unit="section" n="80"/> age <quote>inquit nunc et puerum dividamus.</quote>
                 Iocari putabam discedentem. At ille gladium parricidali manu strinxit et <quote>non
                     frueris</quote> inquit <quote>hac praeda, super quam solus incumbis. partem meam
-                    necesse est vel hoc gladio contemptus abscidam.</quote><note>contemptus <hi
-                        rend="italics">Burmann:</hi> contentus.</note> Idem ego ex altera parte feci
+                    necesse est vel hoc gladio contemptus abscidam.</quote><note>contemptus <hi rend="italics">Burmann:</hi> contentus.</note> Idem ego ex altera parte feci
                 et intorto circa brachium pallio composui ad proeliandum gradum. Inter hanc
                 miserorum dementiam infelicissimus puer tangebat utriusque genua cum fletu
                 petebatque suppliciter, ne Thebanum par humilis taberna spectaret, neve sanguine
@@ -1910,8 +1824,7 @@
                 <l part="I">Grex agit in scaena mimum: pater ille vocatur,</l>
                 <l part="M">filius hic, nomen divitis ille tenet.</l>
                 <l part="I">Mox ubi ridendas inclusit pagina partes,</l>
-                <l part="M">vera redit facies, dum simulata<note>dum simulata <hi rend="italics"
-                            >Buecheler:</hi> dissimulata.</note> perit. . .</l>
+                <l part="M">vera redit facies, dum simulata<note>dum simulata <hi rend="italics">Buecheler:</hi> dissimulata.</note> perit. . .</l>
             </quote>
             <p><milestone unit="section" n="81"/>Nec diu tamen lacrimis indulsi, sed veritus, ne
                 Menelaus etiam antescholanus inter cetera mala solum me in deversorio inveniret,
@@ -1927,8 +1840,7 @@
                     solitudinem imposuit? Adulescens omni libidine impurus et sua quoque confessione
                     dignus exilio, stupro liber, stupro ingenuus, cuius anni ad tesseram venierunt,
                     quem tanquam puellam conduxit etiam qui virum putavit. Quid ille alter? Qui
-                    [tanquam] die<note>alter die qui tanquam togae <hi rend="italics"
-                    >MSS.</hi></note> togae virilis stolam sumpsit, qui ne vir esset, a matre
+                    [tanquam] die<note>alter die qui tanquam togae <hi rend="italics">MSS.</hi></note> togae virilis stolam sumpsit, qui ne vir esset, a matre
                     persuasus est, qui opus muliebre in ergastulo fecit, qui postquam conturbavit et
                     libidinis suae solum vertit, reliquit veteris amicitiae nomen et, pro pudor,
                     tanquam mulier secutuleia unius noctis tactu omnia vendidit. Iacent nunc
@@ -1977,8 +1889,7 @@
                 speciosus, ut facile appareret eum <hi rend="italics">ex</hi> hac nota litteratum
                 esse, quos odisse divites solent. Is ergo ad latus constitit meum . . .</p>
             <p><quote>Ego</quote> inquit <quote>poeta sum et ut spero, non humillimi spiritus, si
-                    modo coronis aliquid credendum est, quas etiam ad immeritos<note>immeritos <hi
-                            rend="italics">Buecheler:</hi> imperitos.</note> deferre gratia solet.
+                    modo coronis aliquid credendum est, quas etiam ad immeritos<note>immeritos <hi rend="italics">Buecheler:</hi> imperitos.</note> deferre gratia solet.
                     'Quare ergo' inquis 'tam male vestitus es?' Propter hoc ipsum. Amor ingenii
                     neminem unquam divitem fecit.<quote rend="blockquote">
                         <l>| Qui pelago credit, magno se faenore tollit;</l>
@@ -1995,8 +1906,7 @@
                             Messaniensis:</hi> inspicere <hi rend="italics">other MSS.</hi></note>
                     primum propter morum differentiam odium habet; quis enim potest probare diversa?
                     Deinde qui solas extruere divitias<pb id="p.168"/> curant, nihil volunt inter
-                    homines melius credi, quam quod ipsi tenent. Insectantur<note>insectantur <hi
-                            rend="italics">Buecheler:</hi> iactantur.</note> itaque, quacunque
+                    homines melius credi, quam quod ipsi tenent. Insectantur<note>insectantur <hi rend="italics">Buecheler:</hi> iactantur.</note> itaque, quacunque
                     ratione possunt, litterarum amatores, ut videantur illi quoque infra pecuniam
                     positi</quote> . . .</p>
             <p>|<quote>Nescio quo modo bonae mentis soror est paupertas</quote>. . . .<note place="marg">
@@ -2019,8 +1929,7 @@
                 hunc puerum basiavero, ita ut ille non sentiat, cras illi par columbarum donabo.'
                 Audito voluptatis pretio puer stertere coepit. Itaque aggressus simulantem aliquot
                 basiolis invasi. Contentus hoc principio bene mane surrexi electumque par columbarum
-                attuli expectanti<pb id="p.170"/> ac me voto exsolvi.<milestone unit="section"
-                    n="86"/> Proxima nocte cum idem liceret, mutavi optionem et 'si hunc' inquam
+                attuli expectanti<pb id="p.170"/> ac me voto exsolvi.<milestone unit="section" n="86"/> Proxima nocte cum idem liceret, mutavi optionem et 'si hunc' inquam
                 'tractavero improba manu, et ille non senserit, gallos gallinaceos pugnacissimos
                 duos donabo patienti.' Ad hoc votum ephebus ultro se admovit et, puto, vereri
                 coepit, ne ego obdormiscerem. Indulsi ergo sollicito, totoque corpore citra summam
@@ -2071,8 +1980,7 @@
                 hominum ferarumque aere comprehenderat, non invenit heredem. At nos vino scortisque
                 demersi ne paratas quidem artes audemus cognoscere, sed accusatores antiquitatis
                 vitia tantum docemus et discimus. Ubi est dialectica? Ubi astronomia? Ubi sapientiae
-                    cultissima<note>cultissima <hi rend="italics">cod. Paris.</hi> 6842 <hi
-                        rend="italics">D:</hi> consultissima <hi rend="italics">other
+                    cultissima<note>cultissima <hi rend="italics">cod. Paris.</hi> 6842 <hi rend="italics">D:</hi> consultissima <hi rend="italics">other
                 MSS.</hi></note> via? Quis unquam venit in templum et votum fecit, si ad eloquentiam
                 pervenisset? Quis, si philosophiae fontem attigisset? Ac ne bonam quidem mentem aut
                 bonam valitudinem petunt, sed statim antequam limen Capitolii tangant, alius donum
@@ -2091,8 +1999,7 @@
             		<l>cum Delio profante caesi vertices</l>
             		<l>Idae trahuntur scissaque in molem cadunt</l>
             		<pb id="p.176"/>
-            		<l>robora, minacem quae figurarent<note>figurarent <hi rend="italics"
-            			>Pithoeus, Tomaesius:</hi> figurabat.</note> equum.</l>
+            		<l>robora, minacem quae figurarent<note>figurarent <hi rend="italics">Pithoeus, Tomaesius:</hi> figurabat.</note> equum.</l>
             		<l>Aperitur ingens antrum et obducti specus,</l>
             		<l>qui castra caperent. Huc decenni proelio</l>
             		<l>irata virtus abditur, stipant graves</l>
@@ -2103,8 +2010,7 @@
             			fata.</note> compositus Sinon</l>
             		<l>firmabat et mens semper<note>mens semper <hi rend="italics">cod.
             			Autissiodurensis:</hi> mendatium semper<hi rend="italics">cod.
-            				Paris.</hi> 6842 <hi rend="italics">D:</hi> mendacium <hi
-            					rend="italics">other MSS.</hi></note> in damnum potens.</l>
+            				Paris.</hi> 6842 <hi rend="italics">D:</hi> mendacium <hi rend="italics">other MSS.</hi></note> in damnum potens.</l>
             	</quote>
             	<quote rend="blockquote">
             		<l>Iam turba portis libera ac bello carens</l>
@@ -2196,8 +2102,7 @@
                 <quote>inquam</quote> indignum, quod amo te quamvis relictus, et in hoc pectore, cum
                 vulnus ingens fuerit, cicatrix non est. Quid dicis, peregrini amoris concessio?
                 Dignus hac iniuria fui?" Postquam se amari sensit, supercilium altius sustulit.</p>
-            <p><quote>Nec amoris arbitrium ad alium iudicem detuli.<note>detuli <hi rend="italics"
-                            >Buecheler:</hi> tuli <hi rend="italics">and</hi> tulit.</note> Sed
+            <p><quote>Nec amoris arbitrium ad alium iudicem detuli.<note>detuli <hi rend="italics">Buecheler:</hi> tuli <hi rend="italics">and</hi> tulit.</note> Sed
                     nillil iam queror, nihil iam memini, si bona fide paenitentiam emendas.</quote>
                 Haec cum inter gemitus lacrimasque fudissem, detersit ille pallio vultum et
                     <quote>Quaeso</quote> inquit <quote>Encolpi, fidem memoriae tuae appello: ego te
@@ -2232,9 +2137,7 @@
                 agnoscerem fabulam, tacui et cenae ordinem explicui. . .</p>
             <p>
                 <milestone unit="section" n="93"/>
-                <quote>Vile est, quod licet, et animus errori intentus<note>errori intentus <hi
-                            rend="italics">Buecheler:</hi> errore lentu.</note> iniurias diligit.<pb
-                        id="p.186"/>
+                <quote>Vile est, quod licet, et animus errori intentus<note>errori intentus <hi rend="italics">Buecheler:</hi> errore lentu.</note> iniurias diligit.<pb id="p.186"/>
                     <quote rend="blockquote">
                         <l>Ales Phasiacis petita Colchis</l>
                         <l>atque Afrae volucres placent palato,</l>
@@ -2276,8 +2179,7 @@
                 </note> iracundiae causam, sed continuo limen egressus adduxit repente ostium cellae
                 meque nihil tale expectantem inclusit, exemitque raptim clavem et ad Gitona
                 investigandum cucurrit.</p>
-            <p>Inclusus ego suspendio vitam finire constitui. Et iam semicinctio <hi rend="italics"
-                    >lecti</hi><note>lecti <hi rend="italics">added by Buecheler.</hi></note>
+            <p>Inclusus ego suspendio vitam finire constitui. Et iam semicinctio <hi rend="italics">lecti</hi><note>lecti <hi rend="italics">added by Buecheler.</hi></note>
                 stantis ad parietem spondam vinxeram cervicesque nodo condebam, cum reseratis
                 foribus intrat Eumolpus cum Gitone meque a fatali iam meta revocat ad lucem. Giton
                 praecipue ex dolore in rabiem efferatus tollit clamorem, me utraque manu impulsum
@@ -2288,8 +2190,7 @@
                 voluisti.</quote> Haeclocutus mercennario Eumolpi novaculam rapit et semel iterumque
                 cervice percussa ante pedes collabitur nostros. Exclamo ego attonitus, secutusque
                 labentem eodem ferramento ad mortem viam quaero. Sed neque Giton ulla erat
-                suspicione vulneris laesus, neque ego ullum sentiebam dolorem. Rudis enim<pb
-                    id="p.190"/> novacula et in hoc retusa, ut pueris discentibus audaciam tonsoris
+                suspicione vulneris laesus, neque ego ullum sentiebam dolorem. Rudis enim<pb id="p.190"/> novacula et in hoc retusa, ut pueris discentibus audaciam tonsoris
                 daret, instruxerat thecam. Ideoque nec mercennarius ad raptum ferramentum expaverat,
                 nec Eumolpus interpellaverat mimicam mortem.</p>
             <p><milestone unit="section" n="95"/>| Dum haec fabula inter amantes luditur, deversitor<note place="marg">
@@ -2336,8 +2237,7 @@
                 <pb id="p.194"/> Nec longe a praecone Ascyltos stabat amictus discoloria veste atque
                 in lance argentea indicium et fidem praeferebat. Imperavi Gitoni, ut raptim grabatum
                 subiret annecteretque pedes et manus institis, quibus sponda culcitam ferebat, ac
-                sic ut olim Vlixes Cyclopis arieti<note>Cyclopis arieti <hi rend="italics"
-                        >Buecheler:</hi> pro ariete.</note> adhaesisset, extentus infra grabatum
+                sic ut olim Vlixes Cyclopis arieti<note>Cyclopis arieti <hi rend="italics">Buecheler:</hi> pro ariete.</note> adhaesisset, extentus infra grabatum
                 scrutantium eluderet manus. Non est moratus Giton imperium momentoque temporis
                 inseruit vinculo manus et Vlixem astu simillimo vicit. Ego ne suspicioni relinquerem
                 locum, lectulum vestimentis implevi uniusque hominis vestigium ad corporis mei
@@ -2351,8 +2251,7 @@
                     attulisti? Itaque satia iracundiam tuam: praebeo ecce cervicem, funde sanguinem,
                     quem sub praetextu quaestionis petisti.</quote> Amolitur Ascyltos invidiam et se
                 vero nihil aliud quam fugitivum suum dixit quaerere, mortem nec hominis concupisse
-                nec supplicis, utique eius quem post fatalem rixam habuisset<note>habuisset <hi
-                        rend="italics">Buecheler:</hi> habuit.</note>
+                nec supplicis, utique eius quem post fatalem rixam habuisset<note>habuisset <hi rend="italics">Buecheler:</hi> habuit.</note>
                 <pb id="p.196"/> carissimum.<milestone unit="section" n="98"/> At non servus
                 publicus tam languide agit, sed raptam cauponi harundinem subter lectum mittit
                 omniaque etiam foramina parietum scrutatur. Subducebat Giton ab ictu corpus et
@@ -2373,8 +2272,7 @@
                     ausus es mihi verum dicere. Immo ni deus quidam humanarum rerum arbiter pendenti
                     puero excussisset indicium, elusus circa popinas errarem</quote> . . .</p>
             <p>Giton longe blandior quam ego, primum araneis oleo madentibus vulnus, quod in
-                supercilio factum erat, coartavit. Mox palliolo suo laceratam mutavit<pb id="p.198"
-                /> vestem, amplexusque iam mitigatum osculis tanquam fomentis aggressus est et
+                supercilio factum erat, coartavit. Mox palliolo suo laceratam mutavit<pb id="p.198"/> vestem, amplexusque iam mitigatum osculis tanquam fomentis aggressus est et
                     <quote>in tua</quote> inquit <quote>pater carissime, in tua sumus custodia. Si
                     Gitona tuum amas, incipe velle servare. Utinam me solum inimicus ignis hauriret
                     vel hibernum invaderet mare. Ego enim omnium scelerum materia, ego causa sum. Si
@@ -2410,8 +2308,7 @@
                 puppis congemuit: <quote>ergo me derisit?</quote> Et haec quidem virilis et paene
                 auribus meis familiaris animum palpitantem percussit. Ceterum eadem indignatione
                 mulierlacerata ulterius excanduit et <quote>Si quis deus manibus meis</quote> inquit
-                    <quote>Gitona imponeret, quambene exulem exciperem.</quote><note>exciperem <hi
-                        rend="italics">margin ed. of Tornaesius</hi> exciperet.</note> Uterque
+                    <quote>Gitona imponeret, quambene exulem exciperem.</quote><note>exciperem <hi rend="italics">margin ed. of Tornaesius</hi> exciperet.</note> Uterque
                 nostrum tam inexpectato ictus sono amiserat sanguinem. Ego praecipue quasi somnio
                 quodam turbulento circumactus diu vocem collegi tremebundisque manibus Eumolpi iam
                 in soporem labentis laciniam duxi et <quote>Per fidem</quote> inquam <quote>pater,
@@ -2419,8 +2316,7 @@
                 moleste tulit et <quote>Hoc erat</quote> inquit <quote>quod placuerat tibi, ut supra
                     constratum navis occuparemus secretissimum locum, ne nos patereris requiescere?
                     Quid porro ad rem pertinet, si dixero Licham<pb id="p.202"/> Tarentinum esse
-                    dominum huiusce navigii, qui Tryphaenam exulem Tarentum ferat?</quote><milestone
-                    unit="section" n="101"/> Intremui post hoc fulmen attonitus, iuguloque detecto
+                    dominum huiusce navigii, qui Tryphaenam exulem Tarentum ferat?</quote><milestone unit="section" n="101"/> Intremui post hoc fulmen attonitus, iuguloque detecto
                     <quote>aliquando</quote> inquam <quote>Totum me, Fortuna, vicisti.</quote> Nam
                 Giton quidem super pectus meum positus diu animam egit. Deinde ut effusus sudor
                 utriusque spiritum revocavit, comprehendi Eumolpi genua et <quote>Miserere</quote>
@@ -2460,8 +2356,7 @@
                     periculo imponere? Contentus sum, si nos descendentes adiuverit casus.</quote>
                 <quote>Non imprudens</quote> inquit <quote>consilium</quote> Eumolpos <quote>si
                     aditum haberet. Quis enim non euntes notabit? Utique gubernator, qui pervigil
-                    nocte siderum quoque motus custodit. Et utcunque imponi nihil<note>nihil <hi
-                            rend="italics">Buecheler:</hi> vel.</note> dormienti posset, si per
+                    nocte siderum quoque motus custodit. Et utcunque imponi nihil<note>nihil <hi rend="italics">Buecheler:</hi> vel.</note> dormienti posset, si per
                     aliam partem navis fuga quaereretur: nunc per puppim, per ipsa gubernacula
                     delabendum est, a quorum regione funis descendit, qui scaphae<pb id="p.206"/>
                     custodiam tenet. Praeterea illud miror, Encolpi, tibi non succurrisse, unum
@@ -2504,8 +2399,7 @@
                     succurrerit: praeligemus vestibus capita et nos in profundum mergamus.</quote>
                 <milestone unit="section" n="103"/><quote>Ne istud dii hominesque patiantur</quote> Eumolpus exclamat
                     <quote>ut vos tam turpi exitu vitam finiatis. Immo potius facite, quod iubeo.
-                    Mercennarius meus, ut ex novacula comperistis, tonsor est: hic continuo radat<pb
-                        id="p.210"/> utriusque non solum capita, sed etiam supercilia. Sequar ego
+                    Mercennarius meus, ut ex novacula comperistis, tonsor est: hic continuo radat<pb id="p.210"/> utriusque non solum capita, sed etiam supercilia. Sequar ego
                     frontes notans inscriptione sollerti, ut videamini stigmate esse puniti. Ita
                     eaedem litterae et suspicionem declinabunt quaerentium et vultus umbra supplicii
                     tegent.</quote></p>
@@ -2520,8 +2414,7 @@
             <p><milestone unit="section" n="104"/><quote>Videbatur mihi secundum quietem Priapus
                     dicere: 'Encolpion quod quaeris, scito a me in navem tuam esse
                 perductum.</quote> ' Exhorruit Tryphaena et <quote>Putes</quote> inquit <quote>una
-                    nos dormiisse; nam et mihi simulacrum Neptuni, quod Baiis <hi rend="italics"
-                    >in</hi> tetrastylo<note>Baiis in tetrastylo <hi rend="italics">Buecheler:</hi>
+                    nos dormiisse; nam et mihi simulacrum Neptuni, quod Baiis <hi rend="italics">in</hi> tetrastylo<note>Baiis in tetrastylo <hi rend="italics">Buecheler:</hi>
                         Baistor asylo.</note> notaveram, videbatur dicere: in nave Lichae Gitona
                     invenies.'</quote>
                 <quote>Hinc scies</quote> inquit Eumolpus <quote>Epicurum esse hominem divinum, qui
@@ -2533,13 +2426,11 @@
             <p>Is qui nocte miserorum furtum deprehenderat, Hesus nomine, subito proclamat:
                     <quote>Ergo illi qui sunt, qui nocte ad lunam radebantur pessimo medius fidius
                     exemplo? Audio enim non licere cuiquam mortalium in nave neque ungues neque
-                    capillos deponere, nisi cum pelago ventus irascitur.</quote><milestone
-                    unit="section" n="105"/> Excanduit Lichas hoc sermone turbatus et
+                    capillos deponere, nisi cum pelago ventus irascitur.</quote><milestone unit="section" n="105"/> Excanduit Lichas hoc sermone turbatus et
                 <quote>Itane</quote> inquit <quote>capillos aliquis in nave praecidit, et hoc nocte
                     intempesta? Attrahite ocius nocentes in medium, ut sciam, quorum capitibus
                     debeat navigium lustrari.</quote>
-                <quote>Ego</quote> inquit Eumolpus <quote>hoc iussi. Nec in<note>nec in <hi
-                            rend="italics">Buecheler:</hi> nec non.</note> eodem futurus navigio
+                <quote>Ego</quote> inquit Eumolpus <quote>hoc iussi. Nec in<note>nec in <hi rend="italics">Buecheler:</hi> nec non.</note> eodem futurus navigio
                     auspicium mihi feci, sed quia nocentes horridos longosque habebant capillos, ne
                     viderer de nave carcerem facere, iussi squalorem damnatis auferri; simul ut
                     notae quoque litterarum non adumbratae comarum praesidio totae ad oculos
@@ -2560,8 +2451,7 @@
                 nec faciem meam consideravit, sed continuo ad inguina mea luminibus deflexis movit
                 officiosam manum et <quote>Salve</quote> inquit <quote>Encolpi.</quote> Miretur nunc
                 aliquis Vlixis nutricem post vicesimum annum cicatricem invenisse originis indicem,
-                cum homo prudentissimus confusis omnibus corporis orisque<note>orisque <hi
-                        rend="italics">Buecheler:</hi> indiciorumque.</note> lineamentis ad unicum
+                cum homo prudentissimus confusis omnibus corporis orisque<note>orisque <hi rend="italics">Buecheler:</hi> indiciorumque.</note> lineamentis ad unicum
                 fugitivi argumentum tam docte pervenerit. Tryphaena lacrimas effudit decepta
                 supplicio&mdash;vera enim stigmata credebat captivorum frontibus
                 impressa&mdash;sciscitarique submissius coepit, quod ergastulum intercepisset
@@ -2647,8 +2537,7 @@
                     <hi rend="italics">LO</hi>
                 </note> futurum non tralaticium bellum, aegre expugnavit gubernator, ut caduceatoris
                 more Tryphaena indutias faceret. Data ergo acceptaque ex more patrio fide praetendit
-                ramum oleae a tutela navigii raptum, atque in colloquium venire ausa<quote
-                    rend="blockquote">
+                ramum oleae a tutela navigii raptum, atque in colloquium venire ausa<quote rend="blockquote">
                     <l><quote>Quis furor</quote> exclamat "pacem convertit in arma?</l>
                     <l>Quid nostrae meruere manus? Non Troius heros</l>
                     <l>hac in classe vehit decepti pignus Atridae,</l>
@@ -2690,8 +2579,7 @@
                     <l part="I">"Quod solum. formae decus est, cecidere capilli,</l>
                     <l part="M">vernantesque comas tristis abegit hiemps.</l>
                     <l part="I">Nunc umbra nudata sua iam tempora maerent,</l>
-                    <l part="M">areaque attritis ridet adulta<note>adulta <hi rend="italics"
-                                >Buecheler:</hi> adusta.</note> pilis.</l>
+                    <l part="M">areaque attritis ridet adulta<note>adulta <hi rend="italics">Buecheler:</hi> adusta.</note> pilis.</l>
                     <l part="I">O fallax natura deum: quae prima dedisti</l>
                     <l part="M">aetati nostrae gaudia, prima rapis."</l>
                     <l part="M">"'Infelix, modo crinibus nitebas</l>
@@ -2706,8 +2594,7 @@
                 praeteritis, cum ancilla Tryphaenae Gitona in partem navis inferiorem ducit
                 corymbioque dominae pueri adornat caput. Immo supercilia etiam profert de pyxide
                 sciteque iacturae lineamenta secuta totam illi formam suam reddidit. Agnovit
-                Tryphaena verum Gitona, lacrimisque turbata tune primum bona fide puero<pb
-                    id="p.228"/> basium dedit. | Ego etiam si repositum in pristinum<note place="marg">
+                Tryphaena verum Gitona, lacrimisque turbata tune primum bona fide puero<pb id="p.228"/> basium dedit. | Ego etiam si repositum in pristinum<note place="marg">
                     <hi rend="italics">L</hi>
                 </note> decorem puerum gaudebam, abscondebam tamen frequentius vultum
                 intellegebamque me non tralaticia deformitate esse insignitum, quem alloquio dignum
@@ -2758,8 +2645,7 @@
                 muliebri errore, quam diu licuerit, lucis commodis frui? Ipsum te iacentis corpus
                 admonere debet, ut vivas.' Nemo invitus audit, cum cogitur aut cibum sumere aut
                 vivere. Itaque mulier aliquot dierum abstinentia sicca passa est frangi pertinaciam
-                suam, nec minus avide replevit se cibo quam ancilla, quae prior victa est.<milestone
-                    unit="section" n="112"/> Ceterum scitis, quid plerumque soleat temptare humanam
+                suam, nec minus avide replevit se cibo quam ancilla, quae prior victa est.<milestone unit="section" n="112"/> Ceterum scitis, quid plerumque soleat temptare humanam
                 satietatem. Quibus blanditiis impetraverat miles, ut matrona vellet vivere, isdem
                 etiam pudicitiam eius aggressus est. Nec deformis aut infacundus iuvenis castae
                 videbatur, conciliante gratiam ancilla ac subinde dicente:<quote rend="blockquote">
@@ -2901,8 +2787,7 @@
                     propositum aliudque vitae praesidium quaerite. Sin autem urbanioris notae
                     homines sustinetis semper mentiri, recta ad lucrum curritis. In hac enimurbe non
                     litterarum studia celebrantur, non eloquentia locum habet, non frugalitas
-                    sanctique mores laudibus ad fructum perveniunt, sed quoscunque homines in<pb
-                        id="p.246"/> hac urbe videritis, scitote in duas partes esse divisos. Nam
+                    sanctique mores laudibus ad fructum perveniunt, sed quoscunque homines in<pb id="p.246"/> hac urbe videritis, scitote in duas partes esse divisos. Nam
                     aut captantur aut captant. In hac urbe nemo liberos tollit, quia quisquis suos
                     heredes habet, non ad cenas,<note>cenas <hi rend="italics">Bongarsius:</hi>
                         scenas.</note> non ad spectacula admittitur, sed omnibus prohibetur
@@ -2935,8 +2820,7 @@
                 sparsam, ut possit vel Carthaginem capere. Secundum hanc formulam imperamus Eumolpo,
                 ut plurimum tussiat, ut sit modo solutions stomachi cibosque omnes palam damnet;
                 loquatur aurum et argentum fundosque mendaces et perpetuam terrarum sterilitatem;
-                sedeat praeterea quotidie ad rationes tabulasque testamenti omnibus <hi
-                    rend="italics">mensibus</hi> renovet. Et ne quid scaenae deesset, quotiescunque
+                sedeat praeterea quotidie ad rationes tabulasque testamenti omnibus <hi rend="italics">mensibus</hi> renovet. Et ne quid scaenae deesset, quotiescunque
                 aliquem nostrum vocare temptasset, alium pro alio vocaret, ut facile appareret
                 dominum etiam eorum meminisse, qui praesentes non essent.</p>
             <p>His ita ordinatis, <quote>quod belle feliciterque eveniret</quote> precati deos viam
@@ -2956,19 +2840,14 @@
                     ad portum feliciorem<note>feliciorem <hi rend="italics">cod. Messaniensis:</hi>
                         faciliorem <hi rend="italics">other MSS.</hi></note> refugerunt, credentes
                     facilius poema exstrui posse, quam controversiam sententiolis vibrantibus
-                    pictam. Ceterum neque generosior spiritus vanitatem<note>vanitatem <hi
-                            rend="italics">cod. Messaniensis:</hi> sanitatem <hi rend="italics"
-                            >other MSS.</hi></note> amat, neque concipere<note>concipere <hi
-                            rend="italics">cod. Bernensis:</hi> conspicere <hi rend="italics"
-                        >L:</hi> conspici <hi rend="italics">O.</hi></note> aut edere partum mens
+                    pictam. Ceterum neque generosior spiritus vanitatem<note>vanitatem <hi rend="italics">cod. Messaniensis:</hi> sanitatem <hi rend="italics">other MSS.</hi></note> amat, neque concipere<note>concipere <hi rend="italics">cod. Bernensis:</hi> conspicere <hi rend="italics">L:</hi> conspici <hi rend="italics">O.</hi></note> aut edere partum mens
                     potest nisi ingenti flumine litterarum inundata. Refugiendum est ab omni
                     verborum, ut ita dicam, vilitate et sumendae voces a plebe semotae,<note>semotae
                             <hi rend="italics">Buecheler:</hi> summotae.</note> ut fiat 'odi
                     profanum vulgus et arceo.' Praeterea curandum est, ne sententiae emineant extra
                     corpus orationis expressae, sed intexto vestibus colore niteant. Homerus testis
                     et lyrici Romanusque Vergilius et Horatii curiosa felicitas. Ceteri enim aut non
-                    viderunt viam, qua iretur ad carmen, aut visam<note>visam <hi rend="italics"
-                            >Faber:</hi> versum.</note> timuerunt calcare. Ecce belli civilis ingens
+                    viderunt viam, qua iretur ad carmen, aut visam<note>visam <hi rend="italics">Faber:</hi> versum.</note> timuerunt calcare. Ecce belli civilis ingens
                         opus<pb id="p.252"/> quisquis attigerit, nisi plenus litteris, sub onere
                     labetur. Non enim res gestae versibus comprehendendae sunt, quod longe melius
                     historici faciunt, sed per ambages deorumque ministeria et fabulosum
@@ -3010,9 +2889,7 @@
                     <l>et laxi crines et tot nova nomina vestis,</l>
                     <l>quaeque virum quaerunt. Ecce Afris eruta terris</l>
                     <l>citrea mensa greges servorum ostrumque renidens,</l>
-                    <l>ponitur ac maculis imitatur vilius<note>vilius <hi rend="italics"
-                            >Gronovius:</hi> vilibus. <hi rend="italics">For</hi> imitatur <hi
-                                rend="italics">some MSS. give</hi> mutatur.</note> aurum</l>
+                    <l>ponitur ac maculis imitatur vilius<note>vilius <hi rend="italics">Gronovius:</hi> vilibus. <hi rend="italics">For</hi> imitatur <hi rend="italics">some MSS. give</hi> mutatur.</note> aurum</l>
                     <l>quae sensum trahat. Hoc sterile ac male nobile lignum</l>
                     <l>turba sepulta mero circum venit, omniaque orbis</l>
                     <l>praemia corruptis<note>corruptis <hi rend="italics">Buecheler:</hi>
@@ -3036,8 +2913,7 @@
                     <l>non homo pulsus erat, sed in uno victa potestas</l>
                     <l>Romanumque decus. Quare tam perdita Roma</l>
                     <l>ipsa sui merces erat et sine vindice praeda.</l>
-                    <l>Praeterea gemino deprensam gurgite plebem<note>plebem <hi rend="italics"
-                                >Crusius:</hi> praedam.</note></l>
+                    <l>Praeterea gemino deprensam gurgite plebem<note>plebem <hi rend="italics">Crusius:</hi> praedam.</note></l>
                     <l>faenoris illuvies ususque exederat aeris.</l>
                     <l>Nulla est certa domus, nullum sine pignore corpus,</l>
                     <l>sed veluti tabes tacitis concepta medullis</l>
@@ -3086,8 +2962,7 @@
                     <l>En etiam mea regna petunt. Perfossa dehiscit</l>
                     <l>molibus insanis tellus, iam montibus haustis</l>
                     <l>antra gemunt, et dum vanos<note>vanos <hi rend="italics">Delbenius:</hi>
-                            vanus <hi rend="italics">O:</hi> varios <hi rend="italics"
-                        >L.</hi></note> lapis invenit usus,</l>
+                            vanus <hi rend="italics">O:</hi> varios <hi rend="italics">L.</hi></note> lapis invenit usus,</l>
                     <l>inferni manes caelum sperare fatentur.</l>
                     <l>Quare age, Fors, muta pacatum in proelia vultum</l>
                     <l>Romanosque cie ac nostris da funera regnis.</l>
@@ -3157,9 +3032,7 @@
                     <pb id="p.264"/>
                     <l>est locus Herculeis aris sacer: hunc nive dura</l>
                     <l>claudit hiemps canoque ad sidera vertice tollit.</l>
-                    <l>caelum illinc cecidisse putes: non solis adulti<note>adulti <hi
-                                rend="italics">cod. Messaniensis:</hi> adusti <hi rend="italics"
-                                >other MSS.</hi></note></l>
+                    <l>caelum illinc cecidisse putes: non solis adulti<note>adulti <hi rend="italics">cod. Messaniensis:</hi> adusti <hi rend="italics">other MSS.</hi></note></l>
                     <l>mansuescit radiis, non verni temporis aura,</l>
                     <l>sedglacie concreta rigent hiemisque pruinis:</l>
                     <l>totum ferre potest umeris minitantibus orbem.</l>
@@ -3212,8 +3085,7 @@
                     <l>et pavidus quadrupes undarum vincula rupit,</l>
                     <l>incaluere nives. Mox flumina montibus altis</l>
                     <l>undabant modo nata, sed haec quoque&mdash;iussa putares&mdash;</l>
-                    <l>stabant,et vincta fluctus stupuere ruina,<note>ruina <hi rend="italics"
-                                >Reiske:</hi> pruina.</note></l>
+                    <l>stabant,et vincta fluctus stupuere ruina,<note>ruina <hi rend="italics">Reiske:</hi> pruina.</note></l>
                     <l>et paulo ante lues iam concidenda iacebat.</l>
                     <l>Tum vero male fida prius vestigia lusit</l>
                     <l>decepitque pedes; pariter turmaeque virique</l>
@@ -3278,8 +3150,7 @@
 				</quote>
 				<quote rend="blockquote">
                     <milestone unit="section" n="124"/>
-                    <l>Ergo tanta lues divum quoque numina vicit,<note>vicit <hi rend="italics"
-                                >Hermann:</hi> vidit.</note></l>
+                    <l>Ergo tanta lues divum quoque numina vicit,<note>vicit <hi rend="italics">Hermann:</hi> vidit.</note></l>
                     <l>consensitque fugae caeli timor. Ecce per orbem</l>
                     <l>mitis turba deum terras exosa furentes</l>
                     <l>deserit atque hominum damnatum avertitur agmen.</l>
@@ -3306,8 +3177,7 @@
                     <l>in partes diducta ruit. Primumque Dione</l>
                     <l>Caesaris acta sui ducit, comes additur illi</l>
                     <l>Pallas et ingentem quatiens Mavortius hastam.</l>
-                    <l>Magnum<note>Magnum <hi rend="italics">cod. Messaniensis:</hi> Magnaque <hi
-                                rend="italics">other MSS.</hi></note> cum Phoebo soror et Cyllenia
+                    <l>Magnum<note>Magnum <hi rend="italics">cod. Messaniensis:</hi> Magnaque <hi rend="italics">other MSS.</hi></note> cum Phoebo soror et Cyllenia
                         proles</l>
                     <l>excipit ac totis similis Tirynthius actis.</l>
 				</quote>
@@ -3315,8 +3185,7 @@
                     <l>Intremuere tubae ac scisso Discordia crine</l>
                     <l>extulit ad superos Stygium caput. Huius in ore</l>
                     <l>concretus sanguis, contusaque lumina flebant,</l>
-                    <l>stabant aerati<note>aerati <hi rend="italics">L:</hi> irati <hi
-                                rend="italics">O.</hi></note> scabra rubigine dentes,</l>
+                    <l>stabant aerati<note>aerati <hi rend="italics">L:</hi> irati <hi rend="italics">O.</hi></note> scabra rubigine dentes,</l>
                     <l>tabo lingua fluens, obsessa draconibus ora,</l>
                     <l>atque inter torto laceratam pectore vestem</l>
                     <l>sanguineam tremula quatiebat lampada dextra.</l>
@@ -3451,12 +3320,10 @@
             <p><milestone unit="section" n="128"/>| <quote>Quid est?</quote> inquit <quote>numquid
                     te osculum meum<note place="marg">
                         <hi rend="italics">L</hi>
-                    </note> offendit? Numquid spiritus ieiunio marcens?<note>marcenls <hi
-                            rend="italics">Buecheler:</hi> macer.</note> Numquid alarum negligens
+                    </note> offendit? Numquid spiritus ieiunio marcens?<note>marcenls <hi rend="italics">Buecheler:</hi> macer.</note> Numquid alarum negligens
                     sudor? Aut<note>Aut <hi rend="italics">Buecheler: puto.</hi></note> si haec non
                     sunt, numquid Gitona times?</quote> Perfusus ego rubore manifesto etiam si quid
-                habueram virium, perdidi, totoque corpore velut luxato<note>luxato <hi
-                        rend="italics">Jungermann:</hi> laxato.</note> quaeso <quote>inquam regina,
+                habueram virium, perdidi, totoque corpore velut luxato<note>luxato <hi rend="italics">Jungermann:</hi> laxato.</note> quaeso <quote>inquam regina,
                     noli suggillare miserias. Veneficio contactus sum</quote> . . .</p>
             <p><quote>Dic, Chrysis, sed verum: numquid indecens sum? Numquid incompta? Numquid ab
                     aliquo naturali vitio formam meam excaeco? Noli decipere dominam tuam. Nescio
@@ -3567,9 +3434,7 @@
                 manus omne genus amoris invenerant, iam alligata mutuo ambitu corpora animarum
                 quoque mixturam fecerant. . .</p>
             <p>Manifestis matronacontumeliis verberata tandem ad ultionem decurrit vocatque
-                cubicularios et me iubet catomidiari.<note>catomidiari <hi rend="italics"
-                    >Salmasius:</hi> catarogare.</note> Nec contenta mulier tam gravi iniuria<pb
-                    id="p.294"/> mea convocat omnes quasillarias familiaeque sordidissimam partem ac
+                cubicularios et me iubet catomidiari.<note>catomidiari <hi rend="italics">Salmasius:</hi> catarogare.</note> Nec contenta mulier tam gravi iniuria<pb id="p.294"/> mea convocat omnes quasillarias familiaeque sordidissimam partem ac
                 me conspui iubet. Oppono ego manus oculis meis, nullisque effusis precibus, quia
                 sciebam quid meruissem, verberibus sputisque<note><hi rend="italics">Buecheler would
                         insert</hi> obrutus.</note>. . . extra ianuam eiectus sum. Eicitur et
@@ -3628,8 +3493,7 @@
                 <l part="I">Ipse pater veri doctos Epicurus amare<note>doctos&mdash; &mdash;
                         amare <hi rend="italics">Dousa:</hi> doctus &mdash; &mdash; in
                     arte.</note></l>
-                <l part="M">iussit, et hoc vitam dixit habere <foreign lang="greek"
-                    >te/los</foreign>" . . .</l>
+                <l part="M">iussit, et hoc vitam dixit habere <foreign lang="greek">te/los</foreign>" . . .</l>
             </quote>
             <p>| <quote>Nihil est hominum inepta persuasione falsius nec<note place="marg">
                         <hi rend="italics">L</hi>
@@ -3645,9 +3509,7 @@
                 <l>"Nympharum Bacchique comes, quem pulchra Dione</l>
                 <l>divitibus silvis numen dedit, inclita paret</l>
                 <l>cui Lesbos viridisque Thasos, quem Lydus adorat</l>
-                <l>semper ovans<note>septifluus <hi rend="italics">most MSS.:</hi> semperflavius <hi
-                            rend="italics">cod. Bernensis</hi>: vestifluus <hi rend="italics"
-                            >Turnebus:</hi> semper ovans <hi rend="italics">Buecheler.</hi></note>
+                <l>semper ovans<note>septifluus <hi rend="italics">most MSS.:</hi> semperflavius <hi rend="italics">cod. Bernensis</hi>: vestifluus <hi rend="italics">Turnebus:</hi> semper ovans <hi rend="italics">Buecheler.</hi></note>
                     templumque suis<note>suis <hi rend="italics">Jungermann:</hi> tuis.</note>
                     imponit Hypaepis:</l>
                 <l>hue ades etBacchi tutor Dryadumque voluptas,</l>
@@ -3739,14 +3601,12 @@
                 imperio granaque sordidissimis putaminibus vestita curiosa manu segrego. At illa
                 inertiam meam accusans improba tollit, dentibusque folliculos pariter spoliat atque
                 in terram veluti muscarum imagines despuit. . .</p>
-            <p>Mirabar equidem paupertatis ingenium singularumque rerum quasdam artes:<quote
-                    rend="blockquote">
+            <p>Mirabar equidem paupertatis ingenium singularumque rerum quasdam artes:<quote rend="blockquote">
                     <l>Non Indum fulgebat ebur, quod inhaeserat auro,</l>
                     <l>nec iam calcato radiabat marmore terra</l>
                     <l>muneribus delusa suis, sed crate saligna</l>
                     <l>impositum Cereris vacuae nemus et nova terrae</l>
-                    <l>pocula, quae facili vilis rota finxerat actu.<note>actu <hi rend="italics"
-                                >margin of L:</hi> astu <hi rend="italics">or</hi> hastu.</note></l>
+                    <l>pocula, quae facili vilis rota finxerat actu.<note>actu <hi rend="italics">margin of L:</hi> astu <hi rend="italics">or</hi> hastu.</note></l>
                     <l>Hinc molli stillae lacus et de caudice lento</l>
                     <l>vimineae lances maculataque testa Lyaeo.</l>
                     <l>At paries circa palea satiatus inani</l>
@@ -3832,8 +3692,7 @@
                     Amoris est hoc argumentum, non malignitatis. Itaque dabimus operam, ne quis
                     sciat. Tu modo deos roga, ut illi facto tuo ignoscant.</quote></p>
             <quote rend="blockquote">
-                <l part="M">| Quisquis habet nummos, secura navigat<note>navigat <hi rend="italics"
-                            >Vincentius:</hi> naviget.</note> aura</l>
+                <l part="M">| Quisquis habet nummos, secura navigat<note>navigat <hi rend="italics">Vincentius:</hi> naviget.</note> aura</l>
                 <note place="marg">
                     <hi rend="italics">LO</hi>
                 </note>
@@ -3850,13 +3709,11 @@
             <p>Infra manus meas camellam vini posuit, et cum<note place="marg">
                     <hi rend="italics">L</hi>
                 </note> digitos pariter extensos porris apioque lustrasset, abellanas nuces cum
-                precatione mersit in vinum. Et sive in summum redierant, sive subsederant, ex hoc<pb
-                    id="p.312"/> coniecturam ducebat.<note>hoc <hi rend="italics">Goldast:</hi> hac
+                precatione mersit in vinum. Et sive in summum redierant, sive subsederant, ex hoc<pb id="p.312"/> coniecturam ducebat.<note>hoc <hi rend="italics">Goldast:</hi> hac
                     coniecturam ducebat <hi rend="italics">Dousa:</hi> coniectura dicebat.</note>
                 Nec me fallebat inanes scilicet ac sine medulla ventosas nuces in summo umore
                 consistere, graves autem et plenas integro fructu ad ima deferri.</p>
-            <p>Recluso pectore extraxit fartissimum<note>fartissimum <hi rend="italics"
-                    >Heinsius:</hi> fortissimum.</note> iecur et inde mihi futura praedixit.</p>
+            <p>Recluso pectore extraxit fartissimum<note>fartissimum <hi rend="italics">Heinsius:</hi> fortissimum.</note> iecur et inde mihi futura praedixit.</p>
             <p>Immo, ne quod vestigium sceleris superesset, totum anserem laceratum verubus confixit
                 epulasque etiam lautas paulo ante, ut ipsa dicebat, perituro paravit. . . .</p>
             <quote rend="blockquote">
@@ -3874,8 +3731,7 @@
             <p><quote>Chrysis, quae priorem fortunam tuam oderat, hanc vel cum periculo capitis
                     persequi destinat</quote> . . .</p>
             <p><quote>Quid huic formae aut Ariadne habuit aut Leda simile? Quid contra hanc Helene,
-                    quid Venus posset? Ipse Paris, dearum litigantium<note>litigantium <hi
-                            rend="italics">Dousa:</hi> libidinantium.</note> iudex, si hanc in
+                    quid Venus posset? Ipse Paris, dearum litigantium<note>litigantium <hi rend="italics">Dousa:</hi> libidinantium.</note> iudex, si hanc in
                         compa<pb id="p.314"/> ratione vidisset tam petulantibus oculis, et Helenen
                     huic donasset et deas. Saltem si permitteretur osculum capere, si illud caeleste
                     ac divinum pectus amplecti forsitan rediret hoc corpus ad vires et resipiscerent
@@ -3948,8 +3804,7 @@
             <pb id="p.320"/>
             <p><milestone unit="section" n="141"/>Ex Africa navis, ut promiseras, cum pecunia tua
                 familia non venit. Captatores iam exhausti liberalitatem imminuerunt. Itaque aut
-                fallor, aut fortuna communis coepit redire ad paenitentiam tuam"<note>tuam <hi
-                        rend="italics">Busch:</hi> suam.</note>. . .</p>
+                fallor, aut fortuna communis coepit redire ad paenitentiam tuam"<note>tuam <hi rend="italics">Busch:</hi> suam.</note>. . .</p>
             <p><quote>Omnes, qui in testamento meo legata habent, praeter libertos meos hac
                     condicione percipient, quae dedi, si corpus meum in partes conciderint et
                     astante populo comederint</quote> . . .</p>
@@ -4013,8 +3868,7 @@
             	</div2>
             <div2 type="section" n="5"><head>V</head>
             <p><hi rend="italics">Priscianus institutionum VIII</hi> 16 <hi rend="italics">p.</hi>
-                381 <hi rend="italics">et XI</hi> 29<hi rend="italics">p.</hi> 567 <hi
-                    rend="italics">Hertzii inter exempla quibus deponentium verborum participia
+                381 <hi rend="italics">et XI</hi> 29<hi rend="italics">p.</hi> 567 <hi rend="italics">Hertzii inter exempla quibus deponentium verborum participia
                     praeteriti temporis passivam significationem habere declarat:</hi> Petronius
                     <quote>animam nostro amplexam pectore</quote></p>
             	</div2>
@@ -4094,8 +3948,7 @@
         			</div2>
             <pb id="p.332"/>
             <div2 type="section" n="18"><head>XVIII<hi rend="super">*</hi></head>
-            <p><hi rend="italics">Nicotaus Perottus Cornu copiae p.</hi> 200, 26 <hi rend="italics"
-                    >editionis Aldinae anni</hi> 1513: Cosmus etiam excellens unguentarius fuit, a
+            <p><hi rend="italics">Nicotaus Perottus Cornu copiae p.</hi> 200, 26 <hi rend="italics">editionis Aldinae anni</hi> 1513: Cosmus etiam excellens unguentarius fuit, a
                 quo unguenta dicta sunt Cosmiana. idem [<hi rend="italics">luvenalis</hi> 8, 86]
                     <quote>Cet Cosmi toto mergatur aheno.</quote> Petronius <quote>affer nobis,
                     inquit, alabastrum Cosmiani</quote></p>
@@ -4171,8 +4024,7 @@
                 Petronius <quote>hic Quirites</quote></p>
             	</div2>
             <div2 type="section" n="23"><head>XXIII</head>
-            <p><hi rend="italics">grammaticus de dubiis nominibus p.</hi> 578,23 <hi rend="italics"
-                    >K:</hi> Fretum generis neutri et pluraliter freta, ut Petronius <quote>freta
+            <p><hi rend="italics">grammaticus de dubiis nominibus p.</hi> 578,23 <hi rend="italics">K:</hi> Fretum generis neutri et pluraliter freta, ut Petronius <quote>freta
                     Nereidum</quote></p>
             	</div2>
             <div2 type="section" n="24"><head>XXIV<hi rend="super">*</hi></head>
@@ -4211,9 +4063,7 @@
             <milestone unit="section" n="2"/>
         		<p><hi rend="italics">75 P.L.M.</hi>
             <quote rend="blockquote">
-                <l>Iam nunc algentes autumnus fecerat umbras<note>algentes. . . fecerat <hi
-                            rend="italics">Baehrens:</hi> ardentes. . . fregerat <hi rend="italics"
-                            >V.</hi></note></l>
+                <l>Iam nunc algentes autumnus fecerat umbras<note>algentes. . . fecerat <hi rend="italics">Baehrens:</hi> ardentes. . . fregerat <hi rend="italics">V.</hi></note></l>
                 <l>atque hiemem tepidis spectabat Phoebus habenis,</l>
                 <l>iam platanus iactare comas, iam coeperat uvas</l>
                 <l>adnumerare suas defecto palmite vitis:</l>
@@ -4224,21 +4074,16 @@
             <quote rend="blockquote">
                 <l>Primus in orbe deos fecit timor, ardua caelo</l>
                 <l>fulmina cum caderent discussaque moenia flammis</l>
-                <l>atque ictus flagraret Athos; mox Phoebus ab ortu<note>ab ortu <hi rend="italics"
-                            >Butler:</hi> ad ortus <hi rend="italics">V.</hi></note></l>
+                <l>atque ictus flagraret Athos; mox Phoebus ab ortu<note>ab ortu <hi rend="italics">Butler:</hi> ad ortus <hi rend="italics">V.</hi></note></l>
                 <l>lustrata deuectus humo, Lunaeque senectus</l>
                 <l>et reparatus honos; hinc signa effusa per orbem</l>
                 <l>et permutatis disiunctus mensibus annus.</l>
-                <l>Profecit<note>profecit <hi rend="italics">anon:</hi> proiecit <hi rend="italics"
-                            >V.</hi></note> vitium iamque error iussit inanis</l>
+                <l>Profecit<note>profecit <hi rend="italics">anon:</hi> proiecit <hi rend="italics">V.</hi></note> vitium iamque error iussit inanis</l>
                 <l>agricolas primos Cereri dare messis honores,</l>
                 <l>palmitibus plenis Bacchum vincire, Palemque</l>
-                <l>pastorum gaudere manu; natat obrutus omnis<note>natat obrutus <hi rend="italics"
-                            >probably corrupt:</hi> portus tenet <hi rend="italics"
-                    >Buecheler.</hi></note></l>
+                <l>pastorum gaudere manu; natat obrutus omnis<note>natat obrutus <hi rend="italics">probably corrupt:</hi> portus tenet <hi rend="italics">Buecheler.</hi></note></l>
                 <l>Neptunus demersus aqua; Pallasque tabernas</l>
-                <l>vindicat; et voti reus et qui vendidit orbem,<note>orbem <hi rend="italics"
-                            >perhaps corrupt: orbam</hi>
+                <l>vindicat; et voti reus et qui vendidit orbem,<note>orbem <hi rend="italics">perhaps corrupt: orbam</hi>
                         <hi rend="italics">Barth:</hi> urbem <hi rend="italics">Pithoeus</hi></note></l>
                 <l>iam sibi quisque deos avido certamine fingit.</l>
             </quote></p>
@@ -4247,8 +4092,7 @@
         		<p><hi rend="italics">77 P.L.M.</hi>
             <quote rend="blockquote">
                 <l>Nolo ego semper idem capiti suffundere costum</l>
-                <l part="M">nec noto<note>noto <hi rend="italics">Paulmier:</hi> toto <hi
-                            rend="italics">V.</hi></note> stomachum conciliare mero.</l>
+                <l part="M">nec noto<note>noto <hi rend="italics">Paulmier:</hi> toto <hi rend="italics">V.</hi></note> stomachum conciliare mero.</l>
                 <pb id="p.344"/>
                 <l>Taurus amat gramen mutata carpere valle</l>
                 <l part="M">et fera mutatis sustinet ora cibis.</l>
@@ -4259,8 +4103,7 @@
             <milestone unit="section" n="5"/>
         		<p><hi rend="italics">78 P.L.M.</hi>
             <quote rend="blockquote">
-                <l>Uxor, legis onus,<note>legis onus <hi rend="italics">Baehrens:</hi> inus <hi
-                            rend="italics">V.</hi></note> debet quasi census amari.</l>
+                <l>Uxor, legis onus,<note>legis onus <hi rend="italics">Baehrens:</hi> inus <hi rend="italics">V.</hi></note> debet quasi census amari.</l>
                 <l part="M">nec censum vellem semper amare meum.</l>
             </quote></p>
         		
@@ -4286,14 +4129,12 @@
                 <l>Sic rate demersa fulvum deponderat aurum,</l>
                 <l part="M">remorum levitas naufraga membra vehit.</l>
                 <l>Cum sonuere tubae, iugulo stat divite ferrum</l>
-                <l part="M">barbaricum: tenuis praebia pannus habet.<note>barbaricum <hi
-                            rend="italics">Baehrens:</hi> tenuis <hi rend="italics">Butler:</hi>
-                        praebia <hi rend="italics">Baehrens:</hi> barbara contempnit praelia <hi
-                            rend="italics">V., retaining which</hi> hebes <hi rend="italics">for
+                <l part="M">barbaricum: tenuis praebia pannus habet.<note>barbaricum <hi rend="italics">Baehrens:</hi> tenuis <hi rend="italics">Butler:</hi>
+                        praebia <hi rend="italics">Baehrens:</hi> barbara contempnit praelia <hi rend="italics">V., retaining which</hi> hebes <hi rend="italics">for
                             habet Scaliger.</hi></note></l>
             </quote></p>
                         
-        		<milestone unit="section" n="8" />
+        		<milestone unit="section" n="8"/>
 <pb id="p.346"/>
             <p><hi rend="italics">81 P.L.M.</hi>
             <quote rend="blockquote">
@@ -4319,11 +4160,8 @@
                 <l>Non satis est quod nos mergit<note>mergis <hi rend="italics">V. corr.
                         Buecheler.</hi></note> furiosa iuventus</l>
                 <l part="M">transversosque rapit fama sepulta probris?</l>
-                <l>En<note>en <hi rend="italics">L. M&uuml;ller:</hi> an <hi rend="italics"
-                        >V.</hi></note> etiamfamuli cognataque faece caterva<note>caterva <hi
-                            rend="italics">Baehrens:</hi> sepulti <hi rend="italics">V.</hi></note></l>
-                <l part="M">inter conrasas luxuriantur opes.<note>inter conrasas <hi rend="italics"
-                            >Baehrens:</hi> intesta merassas <hi rend="italics">V.</hi></note></l>
+                <l>En<note>en <hi rend="italics">L. M&uuml;ller:</hi> an <hi rend="italics">V.</hi></note> etiamfamuli cognataque faece caterva<note>caterva <hi rend="italics">Baehrens:</hi> sepulti <hi rend="italics">V.</hi></note></l>
+                <l part="M">inter conrasas luxuriantur opes.<note>inter conrasas <hi rend="italics">Baehrens:</hi> intesta merassas <hi rend="italics">V.</hi></note></l>
                 <l>Vilis servus habet regni bona, cellaque capti</l>
                 <l part="M">deridet Vestam Romuleamque casam.</l>
                 <l>Idcirco virtus medio iacet obruta caeno,</l>
@@ -4350,14 +4188,12 @@
                 <l part="M">cui licet ad terras ire subinde meas!</l>
                 <l>O formosa dies! hoc quondam rure solebam</l>
                 <l part="M">Naiadas<note>Naiadas <hi rend="italics">Lindenbrog:</hi> Iliadas V.
-                        alterna. . . manu <hi rend="italics">B</hi> armatas. . manus <hi
-                            rend="italics">V.</hi></note> alterna sollicitare manu!</l>
+                        alterna. . . manu <hi rend="italics">B</hi> armatas. . manus <hi rend="italics">V.</hi></note> alterna sollicitare manu!</l>
                 <l>Hic fontis lacus est, illic sinus egerit algas:</l>
                 <l part="M">haec statio est tacitis fida<note>fida <hi rend="italics">Pithoeus:</hi>
                         victa <hi rend="italics">V.</hi></note> cupidinibus.</l>
                 <l>Pervixi; neque enim fortuna malignior unquam</l>
-                <l part="M">eripiet nobis quod prior hora<note>prior hora <hi rend="italics"
-                            >Scaliger:</hi> priora <hi rend="italics">V.</hi></note> dedit.</l>
+                <l part="M">eripiet nobis quod prior hora<note>prior hora <hi rend="italics">Scaliger:</hi> priora <hi rend="italics">V.</hi></note> dedit.</l>
             </quote></p>
         		
             <milestone unit="section" n="12"/>
@@ -4381,12 +4217,10 @@
                 <l>Nec satis est vulgasse fidem. Cumulatius exit</l>
                 <l>proditionis opus famamque onerare laborat.</l>
                 <pb id="p.350"/>
-                <l>Sic commissa verens avidus reserare<note>verens reserare <hi rend="italics"
-                            >Fulgentius:</hi> ferens. . . seruare V.</note> minister</l>
+                <l>Sic commissa verens avidus reserare<note>verens reserare <hi rend="italics">Fulgentius:</hi> ferens. . . seruare V.</note> minister</l>
                 <l>fodit humum regisque latentes prodidit aures.</l>
                 <l>Concepit nam terra sonos calamique loquentes</l>
-                <l>incinuere<note>incinuere <hi rend="italics">Salmasius:</hi> inuenerem <hi
-                            rend="italics">V.</hi></note> Midam, qualem narraverat index.</l>
+                <l>incinuere<note>incinuere <hi rend="italics">Salmasius:</hi> inuenerem <hi rend="italics">V.</hi></note> Midam, qualem narraverat index.</l>
             </quote></p>
         		
             <milestone unit="section" n="14"/>
@@ -4394,15 +4228,13 @@
             <quote rend="blockquote">
                 <l>Illic alternis depugnat pontus et aer,</l>
                 <l part="M">hic rivo tenui pervia ridet humus.</l>
-                <l>Illic demersas<note>demersas <hi rend="italics">Baehrens:</hi> divisas <hi
-                            rend="italics">V.</hi></note> complorat navita puppes,</l>
+                <l>Illic demersas<note>demersas <hi rend="italics">Baehrens:</hi> divisas <hi rend="italics">V.</hi></note> complorat navita puppes,</l>
                 <l part="M">hic pastor miti perluit amne pecus.</l>
                 <l>Illic immanes mors obdita<note>obdita <hi rend="italics">Baehrens:</hi> oblita
                             <hi rend="italics">V.</hi></note> solvit hiatus,</l>
                 <l part="M">hic gaudet curva falce recisa Ceres.</l>
                 <l>Illic inter aquas urit sitis arida fauces,</l>
-                <l part="M">hic data periuro<note>data <hi rend="italics">Wernsdorf:</hi> da <hi
-                            rend="italics">V.</hi> periuro <hi rend="italics">probably corrupt:
+                <l part="M">hic data periuro<note>data <hi rend="italics">Wernsdorf:</hi> da <hi rend="italics">V.</hi> periuro <hi rend="italics">probably corrupt:
                             perhaps</hi> quaeque suo <hi rend="italics">Butler.</hi></note> basia
                     multa viro.</l>
                 <l>Naviget et fluctus lasset mendicus Vlixes,</l>
@@ -4412,8 +4244,7 @@
             <milestone unit="section" n="15"/>
         		<p><hi rend="italics">88 P.L.M.</hi>
             <quote rend="blockquote">
-                <l>Qui nolit properare<note>nolit <hi rend="italics">Oudendorp:</hi>moluit <hi
-                            rend="italics">V.</hi> properare <hi rend="italics">Tollius:</hi>
+                <l>Qui nolit properare<note>nolit <hi rend="italics">Oudendorp:</hi>moluit <hi rend="italics">V.</hi> properare <hi rend="italics">Tollius:</hi>
                         prepare <hi rend="italics">V.</hi></note> mori nec cogere fata</l>
                 <l part="M">mollia praecipiti rumpere fila manu,</l>
                 <l>hactenus irarum mare noverit. Ecce refuso</l>
@@ -4448,8 +4279,7 @@
                 <l part="M">corvus maturis frugibus ova refert.</l>
                 <l>Sic format lingua fetum cum protulit ursa</l>
                 <l part="M">et piscis nullo iunctus amore parit.</l>
-                <l>Sic Phoebea chelys nutu<note>nutu <hi rend="italics">Butler:</hi> victo <hi
-                            rend="italics">W:</hi> vinclo <hi rend="italics">Binetus.</hi></note>
+                <l>Sic Phoebea chelys nutu<note>nutu <hi rend="italics">Butler:</hi> victo <hi rend="italics">W:</hi> vinclo <hi rend="italics">Binetus.</hi></note>
                     resoluta parentis</l>
                 <l part="M">Lucinae tepidis naribus ova fovet.</l>
                 <l>Sic sine concubitu textis apis excita ceris</l>
@@ -4473,15 +4303,13 @@
 <hi rend="italics">92 P.L.M.</hi>
             <quote rend="blockquote">
                 <l>Naufragus eiecta nudus rate quaerit eodem</l>
-                <l part="M">percussum telo, cui sua fata fleat.<note>fleat <hi rend="italics"
-                            >Jacobs:</hi> legat <hi rend="italics">W.</hi></note></l>
+                <l part="M">percussum telo, cui sua fata fleat.<note>fleat <hi rend="italics">Jacobs:</hi> legat <hi rend="italics">W.</hi></note></l>
                 <l>Grandine qui segetes et totum perdidit annum,</l>
                 <l part="M">in simili deflet tristia fata sinu.</l>
                 <l>Funera conciliant miseros, orbique parentes</l>
                 <l part="M">coniungunt gemitus et facit hora pares.</l>
                 <l>Nos quoque confusis feriemus sidera verbis;</l>
-                <l part="M">fama est coniunctas<note>fama est coniunctas <hi rend="italics"
-                        >Butler:</hi> et fama est constans <hi rend="italics">W.</hi></note> fortius
+                <l part="M">fama est coniunctas<note>fama est coniunctas <hi rend="italics">Butler:</hi> et fama est constans <hi rend="italics">W.</hi></note> fortius
                     ire preces.</l>
             </quote></p>
 
@@ -4516,12 +4344,9 @@
         			<l>Omnia quae miseras possunt finire querellas,</l>
         			<l part="M">in promptu voluit candidus esse deus.</l>
         			<l>Vile holus et duris haerentia mora rubetis</l>
-        			<l part="M">pungentis<note>pungentis <hi rend="italics">Dousa:</hi> pugnantis <hi
-        				rend="italics">W.</hi></note> stomachi composuere famem.</l>
-        			<l>Flumine vicino stultus sitit, et riget<note>et riget <hi rend="italics"
-        				>Binet:</hi> effugit <hi rend="italics">W.</hi></note> euro</l>
-        			<l part="M">cum calidus tepido consonat igne focus<note>focus <hi rend="italics"
-        				>Buecheler:</hi> rogus <hi rend="italics">W.</hi></note>.</l>
+        			<l part="M">pungentis<note>pungentis <hi rend="italics">Dousa:</hi> pugnantis <hi rend="italics">W.</hi></note> stomachi composuere famem.</l>
+        			<l>Flumine vicino stultus sitit, et riget<note>et riget <hi rend="italics">Binet:</hi> effugit <hi rend="italics">W.</hi></note> euro</l>
+        			<l part="M">cum calidus tepido consonat igne focus<note>focus <hi rend="italics">Buecheler:</hi> rogus <hi rend="italics">W.</hi></note>.</l>
         			<l>Lex armata sedet circum fera limina nuptae:</l>
         			<l part="M">nil metuit licito fusa puella toro.</l>
         			<l>Quod satiare potest dives natura ministrat;</l>
@@ -4543,11 +4368,9 @@
         			<l part="M">et caeli summas advocet auriculas,</l>
         			<l>ni tamen et ferro succiderit inguinis oram</l>
         			<l part="M">et nisi nodatum solverit arte caput,</l>
-        			<l>exemptus populo sacra<note>sacra <hi rend="italics">Baehrens:</hi> graia <hi
-        				rend="italics">W.</hi></note> migrabit ab urbe</l>
+        			<l>exemptus populo sacra<note>sacra <hi rend="italics">Baehrens:</hi> graia <hi rend="italics">W.</hi></note> migrabit ab urbe</l>
         			<l part="M">et non ieiuna sabbata lege premet.<note>premet <hi rend="italics">W.,
-        				perhaps corrupt:</hi> tremet <hi rend="italics"
-        					>Buecheler.</hi></note></l>
+        				perhaps corrupt:</hi> tremet <hi rend="italics">Buecheler.</hi></note></l>
         		</quote></p>
         		
         		<milestone unit="section" n="25"/>
@@ -4584,8 +4407,7 @@
         		<quote rend="blockquote">
         			<l>Sit nox illa diu nobis dilecta, Nealce,</l>
         			<l part="M">quae te prima meo pectore composuit:</l>
-        			<l>sit torus et lecti genius secretaque lampas,<note>lampas <hi rend="italics"
-        				>Buecheler:</hi> longa <hi rend="italics">W.</hi></note></l>
+        			<l>sit torus et lecti genius secretaque lampas,<note>lampas <hi rend="italics">Buecheler:</hi> longa <hi rend="italics">W.</hi></note></l>
         			<l part="M">quis tenera in nostrum veneris arbitrium.</l>
         			<l>Ergo age duremus, quamvis adoleverit aetas,</l>
         			<l part="M">utamurque annis quos mora parva teret.</l>

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -1523,7 +1522,7 @@ partem<note>partem causae <hi rend="italics">Kraffert</hi></note> relinquo; sin 
 me nihil attinet, sed alii quoque plures laesos se<note>laesos se <hi rend="italics">scripsi</hi>: laesos se esse <hi rend="italics">codd.</hi> (<hi rend="italics">cf. Zielinski p.</hi> 192)</note> putent.  <reg>tametsi</reg> ita 
 se res habet ut mihi in communem causam sectorum dicendum nihil 
 magno opere videatur; haec enim causa nova profecto et singularis
-est.  <reg>bonorum</reg> <persName>Sex. Rosci</persName> emptor est <name>Chrysogonus</name><note>emptor est Chrysogonus <hi rend="italics">w</hi>: emptor&#x1ebd; Chrysogonus <foreign lang="greek">S</foreign>: emptorem Chrysogonum <hi rend="italics">cett.</hi></note>. 
+est.  <reg>bonorum</reg> <persName>Sex. Rosci</persName> emptor est <name>Chrysogonus</name><note>emptor est Chrysogonus <hi rend="italics">w</hi>: emptorẽ Chrysogonus <foreign lang="greek">S</foreign>: emptorem Chrysogonum <hi rend="italics">cett.</hi></note>. 
 
 <milestone n="125" unit="section"/><reg>primum</reg><note>primum <foreign lang="greek">S</foreign></note> hoc 
 videamus: eius hominis bona qua ratione venierunt aut quo modo 
@@ -7422,7 +7421,7 @@ adducitur: tenentur ei qui ad urbis incendium, ad vestram
 omnium caedem, ad <name>Catilinam</name> accipiendum <name>Romae</name> restiterunt, 
 tenentur litterae, signa, manus, denique unius 
 cuiusque confessio: sollicitantur <name>Allobroges</name>, servitia excitantur, 
-<name>Catilina</name> arcessitur, id est<note>id est <hi rend="italics">l</hi>: id&#x1ebd; <foreign lang="greek">ab</foreign><hi rend="italics">u</hi>: item <hi rend="italics">o: om.</hi> a: tale <hi rend="italics">h</hi></note> initum consilium ut 
+<name>Catilina</name> arcessitur, id est<note>id est <hi rend="italics">l</hi>: idẽ <foreign lang="greek">ab</foreign><hi rend="italics">u</hi>: item <hi rend="italics">o: om.</hi> a: tale <hi rend="italics">h</hi></note> initum consilium ut 
 interfectis omnibus nemo ne ad deplorandum quidem 
 populi <name>Romani</name> nomen atque ad lamentandam tanti imperi 
 calamitatem relinquatur.
@@ -10503,4 +10502,3 @@ capietis.  </p>
 
 </group>
 </text></TEI.2>
-

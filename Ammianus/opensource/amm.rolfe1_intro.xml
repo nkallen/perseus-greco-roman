@@ -1,8 +1,7 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 	<teiHeader type="text" status="new">
@@ -47,7 +46,7 @@
 		<revisionDesc>
 			<change><date>2006</date>
 				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
-				<item></item>
+				<item/>
 			</change>
 			<change><date>5/27/09</date><respStmt><name>RS</name><resp>(n/a)</resp></respStmt>
 				<item>
@@ -345,19 +344,19 @@
 							with the result that they have been found to be based upon accent and not upon quantity. The system which he uses was a simple one: between the last two accents of a phrase two or four unaccented syllables are placed, never one or three. Quantity makes no difference and final vowels are never elided; Greek words as a rule retain the Greek accent; <hi rend="italics">i</hi> and <hi rend="italics">u</hi> may be read either as vowels or as consonants. Of course it is possible that in some instances the arrangement of syllables may be accidental, but the number of <hi rend="italics">clausulae</hi> is too great to be other than designed. In spite of the simplicity of his system Ammianus has considerable variety in his endings, as is illustrated by Clark
 							
 							<note><hi rend="italics">l.c.,</hi> p. vii. For the value of the <hi rend="italics">clausulae</hi> for the interpretation of the text, see Preface.</note>
-							in the following scheme:</p>  <table><row><cell><hi rend="italics">Cursus planus:</hi></cell><cell>expediti&oacute;nis ev&eacute;ntus, xiv. 1, 1.</cell></row> <row><cell></cell><cell>Ill&uacute;c transit&uacute;rus, xiv. 6, 16.</cell></row> <row><cell></cell><cell>A&eacute;gyptum p&eacute;tens, xxii. 5, 5.
+							in the following scheme:</p>  <table><row><cell><hi rend="italics">Cursus planus:</hi></cell><cell>expediti&oacute;nis ev&eacute;ntus, xiv. 1, 1.</cell></row> <row><cell/><cell>Ill&uacute;c transit&uacute;rus, xiv. 6, 16.</cell></row> <row><cell/><cell>A&eacute;gyptum p&eacute;tens, xxii. 5, 5.
 								
 								<note>Greek accent retained.</note>
-							</cell></row> <row><cell></cell><cell>r&eacute;gna Pers&iacute;dis, xxiii. 5, 16.
+							</cell></row> <row><cell/><cell>r&eacute;gna Pers&iacute;dis, xxiii. 5, 16.
 								
 								<note>Greek accent retained.</note>
-							</cell></row> <row><cell><hi rend="italics">Cursus tardus:</hi></cell><cell>p&aacute;rtium &aacute;nimis, xiv. 1, 1.</cell></row> <row><cell></cell><cell>Instrum&eacute;nt non l&eacute;via, xiv. 6, 18.</cell></row></table>  <pb id="p.xxiii"/>  <table><row><cell><hi rend="italics">Cursus velox:</hi></cell><cell>fr&eacute;gerat et lab&oacute;rum, xiv. 1, 1.</cell></row> <row><cell></cell><cell>relat&uacute;iri quae aud&iacute;ret, xiv. 1, 6.
+							</cell></row> <row><cell><hi rend="italics">Cursus tardus:</hi></cell><cell>p&aacute;rtium &aacute;nimis, xiv. 1, 1.</cell></row> <row><cell/><cell>Instrum&eacute;nt non l&eacute;via, xiv. 6, 18.</cell></row></table>  <pb id="p.xxiii"/>  <table><row><cell><hi rend="italics">Cursus velox:</hi></cell><cell>fr&eacute;gerat et lab&oacute;rum, xiv. 1, 1.</cell></row> <row><cell/><cell>relat&uacute;iri quae aud&iacute;ret, xiv. 1, 6.
 								
 								<note><hi rend="italics">Quae</hi> read as dissyllabic.</note>
-							</cell></row> <row><cell></cell><cell>obi&eacute;cti sunt praeter m&oacute;rem, xiv. 2, 1.</cell></row> <row><cell></cell><cell>A&eacute;gypto trucid&aacute;tur, xiv. 11, 32.
+							</cell></row> <row><cell/><cell>obi&eacute;cti sunt praeter m&oacute;rem, xiv. 2, 1.</cell></row> <row><cell/><cell>A&eacute;gypto trucid&aacute;tur, xiv. 11, 32.
 								
-								<note></note>
-							</cell></row> <row><cell></cell><cell>gram&iacute;nea prope r&iacute;vum, xxiv. 8, 7.</cell></row> <row><cell></cell><cell>n&oacute;mine alloc&uacute;tus est, xv. 6, 3.</cell></row> <row><cell></cell><cell>inc&eacute;nsas et habit&aacute;cula, xviii. 2, 19</cell></row></table></div3>
+								<note/>
+							</cell></row> <row><cell/><cell>gram&iacute;nea prope r&iacute;vum, xxiv. 8, 7.</cell></row> <row><cell/><cell>n&oacute;mine alloc&uacute;tus est, xv. 6, 3.</cell></row> <row><cell/><cell>inc&eacute;nsas et habit&aacute;cula, xviii. 2, 19</cell></row></table></div3>
 					
 					<div3><head>Roman officials in the time of Ammianus.</head>
 						
@@ -638,7 +637,7 @@
 						<p><table><row><cell>A</cell><cell>= the edition of Accursius.
 							
 							<note>For a brief description of the principal manuscripts and editions see Introd., pp. xliv ff., and for a full description, Clark's <hi rend="italics">Text Tradition;</hi> see p. xliv, note 3.</note>
-						</cell></row> <row><cell>B</cell><cell>= the edition of Castellus.</cell></row> <row><cell><hi rend="italics">b</hi></cell><cell> = the edition of Erasmus.</cell></row> <row><cell>Boxh.</cell><cell>= the edition of Boxhorn, Leyden, 1632.</cell></row> <row><cell>c.c.</cell><cell>= <hi rend="italics">cursus causa,</hi> emendations made to correct rhythmical endings.</cell></row> <row><cell>D</cell><cell>= Codex Vaticanus, 1874 (ends at xxv. 3, 13).</cell></row> <row><cell>E</cell><cell>= Codex Vaticanus Lat. 2969.</cell></row> <row><cell>Eyssen.</cell><cell>= the edition of Eyssenhardt.</cell></row> <row><cell>G</cell><cell>= the edition of Gelenius.</cell></row> <row><cell>g</cell><cell>= the edition of Gelenius by R. Stephanus, Paris, 1544.</cell></row> <row><cell>Gardt.</cell><cell>= the edition of Gardthausen.</cell></row> <row><cell>H</cell><cell>= Codex Parisinus, Bibl. Nat. Lat. 5819.</cell></row> <row><cell>Her.</cell><cell>= W. Heraeus, who collaborated with Clark in his edition.</cell></row> <row><cell>lac.</cell><cell>= <hi rend="italics">lacuna.</hi></cell></row> <row><cell>Lind.</cell><cell>= the edition of Lindenbrog.</cell></row> <row><cell>M</cell><cell>= Codex Hersfeldensis.</cell></row> <row><cell>N</cell><cell>= Codex Neapolitanus, Paris, Bibl. Nat. Lat. 6120.</cell></row> <row><cell>P</cell><cell>= Codex Petrinus, Rome, Basil. S. Petri, E 27 (ends with Book xxvi.).</cell></row> <row><cell>Pet.</cell><cell>= M. Petschenig.</cell></row> <row><cell></cell><cell>T = Codex Tolosanus, Paris, Bibl. Nat. Lat. 5820.</cell></row> <row><cell>vulgo</cell><cell>= readings unknown to the Valesii, but found in the ed. of Gronov.</cell></row> <row><cell>V</cell><cell>= Codex Fuldensis, Rome, Vat. Lat. 1873.</cell></row> <row><cell>Val.</cell><cell>= the edition of Henricus Valesius.</cell></row> <row><cell>Hadr. Val.</cell><cell>= the edition of Hadrian Valesius.</cell></row> <row><cell>W</cell><cell>= Codex Venetus, Bibl. S. Marc. 388, Bess.</cell></row></table></p>
+						</cell></row> <row><cell>B</cell><cell>= the edition of Castellus.</cell></row> <row><cell><hi rend="italics">b</hi></cell><cell> = the edition of Erasmus.</cell></row> <row><cell>Boxh.</cell><cell>= the edition of Boxhorn, Leyden, 1632.</cell></row> <row><cell>c.c.</cell><cell>= <hi rend="italics">cursus causa,</hi> emendations made to correct rhythmical endings.</cell></row> <row><cell>D</cell><cell>= Codex Vaticanus, 1874 (ends at xxv. 3, 13).</cell></row> <row><cell>E</cell><cell>= Codex Vaticanus Lat. 2969.</cell></row> <row><cell>Eyssen.</cell><cell>= the edition of Eyssenhardt.</cell></row> <row><cell>G</cell><cell>= the edition of Gelenius.</cell></row> <row><cell>g</cell><cell>= the edition of Gelenius by R. Stephanus, Paris, 1544.</cell></row> <row><cell>Gardt.</cell><cell>= the edition of Gardthausen.</cell></row> <row><cell>H</cell><cell>= Codex Parisinus, Bibl. Nat. Lat. 5819.</cell></row> <row><cell>Her.</cell><cell>= W. Heraeus, who collaborated with Clark in his edition.</cell></row> <row><cell>lac.</cell><cell>= <hi rend="italics">lacuna.</hi></cell></row> <row><cell>Lind.</cell><cell>= the edition of Lindenbrog.</cell></row> <row><cell>M</cell><cell>= Codex Hersfeldensis.</cell></row> <row><cell>N</cell><cell>= Codex Neapolitanus, Paris, Bibl. Nat. Lat. 6120.</cell></row> <row><cell>P</cell><cell>= Codex Petrinus, Rome, Basil. S. Petri, E 27 (ends with Book xxvi.).</cell></row> <row><cell>Pet.</cell><cell>= M. Petschenig.</cell></row> <row><cell/><cell>T = Codex Tolosanus, Paris, Bibl. Nat. Lat. 5820.</cell></row> <row><cell>vulgo</cell><cell>= readings unknown to the Valesii, but found in the ed. of Gronov.</cell></row> <row><cell>V</cell><cell>= Codex Fuldensis, Rome, Vat. Lat. 1873.</cell></row> <row><cell>Val.</cell><cell>= the edition of Henricus Valesius.</cell></row> <row><cell>Hadr. Val.</cell><cell>= the edition of Hadrian Valesius.</cell></row> <row><cell>W</cell><cell>= Codex Venetus, Bibl. S. Marc. 388, Bess.</cell></row></table></p>
 					</div3>
 				</div2>
 			</div1>

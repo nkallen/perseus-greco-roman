@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
   <teiHeader type="text" status="new">
@@ -464,7 +463,7 @@ nullorum in me nefarie commissa praetereo. <reg>non</reg> est mei
 temporis iniurias meminisse, quas ego etiam si ulcisci possem, 
 tamen oblivisci mallem: alio transferenda mea tota vita est, 
 ut bene de me meritis referam gratiam, amicitias igni<note>amicitia segni <hi rend="italics">P2Bt</hi></note> perspectas 
-tuear<note>tuear <hi rend="italics"><foreign lang="greek">e</foreign>e</hi>: tuen <hi rend="italics">P</hi> (<hi rend="italics">corr.</hi> tunc): t&#x1EBD; <hi rend="italics">B</hi> (amicitias ... tuear <hi rend="italics">om. HGs</hi>)</note>, cum apertis hostibus bellum geram, timidis 
+tuear<note>tuear <hi rend="italics"><foreign lang="greek">e</foreign>e</hi>: tuen <hi rend="italics">P</hi> (<hi rend="italics">corr.</hi> tunc): tẽ <hi rend="italics">B</hi> (amicitias ... tuear <hi rend="italics">om. HGs</hi>)</note>, cum apertis hostibus bellum geram, timidis 
 amicis ignoscam, proditores indicem<note>indicem <hi rend="italics">scripsi</hi>: non indicem <hi rend="italics">codd.</hi>: non vindicem <hi rend="italics">ut Hotom. ita b</hi>: vindicem <hi rend="italics">Madv.</hi>: convincam <hi rend="italics">Muell.</hi></note>, dolorem profectionis 
 meae reditus dignitate consoler.
 
@@ -2652,7 +2651,7 @@ religione obligare?
 <milestone n="41" unit="chapter"/><milestone n="107" unit="section"/><reg>equidem</reg> sic accepi, pontifices, in religionibus 
 suscipiendis caput esse interpretari quae voluntas 
 deorum immortalium esse videatur; nec est ulla erga deos 
-pietas &lt;nisi sit&gt;<note>nisi sit <hi rend="italics">scripsi</hi>: si <hi rend="italics">codd.</hi> (nisi <hi rend="italics">bkt</hi>): si honesta deest (de&#x1EBD;) <hi rend="italics">Bait.</hi>: sine honesta ... opinione <hi rend="italics">Halm</hi></note> honesta de numine eorum ac mente opinio, ut 
+pietas &lt;nisi sit&gt;<note>nisi sit <hi rend="italics">scripsi</hi>: si <hi rend="italics">codd.</hi> (nisi <hi rend="italics">bkt</hi>): si honesta deest (deẽ) <hi rend="italics">Bait.</hi>: sine honesta ... opinione <hi rend="italics">Halm</hi></note> honesta de numine eorum ac mente opinio, ut 
 expeti nihil ab iis, quod sit iniustum atque inhonestum, 
 &lt;iustum aut honestum&gt; arbitrere<note>ut ... iustum aut honestum arbitrere <hi rend="italics">scripsi</hi> (<hi rend="italics">Cl. Qu.</hi> iv. 173): ut ... fas esse arbitrere <hi rend="italics">Muell.</hi>: cum ... arbitrare (-ere <hi rend="italics">b</hi>) <hi rend="italics">codd.</hi>: cum ... arbitramur oportere <hi rend="italics">Halm</hi></note>. <reg>hominem</reg> invenire ista 
 labes, tum cum omnia tenebat, neminem potuit cui meas 
@@ -3631,7 +3630,7 @@ esse dicunt? <name>Eos</name> quorum ipsi di immortales atque
 illa mater <name>Idaea</name><note>Idaea <hi rend="italics">Fa&euml;rnus</hi>: daea <hi rend="italics">P</hi>: dea <hi rend="italics">P</hi>: dea <hi rend="italics">B rell.</hi></note> te,&mdash;te, <persName>Cn. Lentule</persName>, cuius abavi manibus 
 esset accepta,&mdash;spectatorem esse voluit. <reg>quod</reg> ni tu <name>Megalesia</name> 
 illo die spectare voluisses, haud scio an vivere nobis atque 
-his de rebus iam queri &lt;non&gt;<note>non <hi rend="italics">deesse noluit G. Long, prob. Zielinsk.</hi> (&sect;&sect; 10, 14): qu&#x0119; reliceret <hi rend="italics">PB</hi></note> liceret. <reg>vis</reg> enim innumerabilis 
+his de rebus iam queri &lt;non&gt;<note>non <hi rend="italics">deesse noluit G. Long, prob. Zielinsk.</hi> (&sect;&sect; 10, 14): quę reliceret <hi rend="italics">PB</hi></note> liceret. <reg>vis</reg> enim innumerabilis 
 incitata ex omnibus vicis conlecta servorum ab hoc aedile<note>aedili <hi rend="italics">codd.</hi> (&sect; 24)</note> 
 religioso repente &lt;e&gt;<note>e <hi rend="italics">suppl. Bait.</hi></note> fornicibus ostiisque omnibus in scaenam 
 signo dato inmissa inrupit. <reg>tua</reg> tum, tua, <persName>Cn. Lentule</persName>,  
@@ -6077,7 +6076,7 @@ usque eo non fuit popularis ut bona solus comesset; deinde
 ex impuro adulescente et petulante, postea quam rem paternam 
 ab idiotarum divitiis ad philosophorum reculam<note>deliciis <hi rend="italics">Pantagathus</hi> reculam <hi rend="italics">Latendorf</hi>: regulam <hi rend="italics">codd.</hi>: tegulam <hi rend="italics">C. Fr. Hermann,</hi> pergulam <hi rend="italics">Bezzenberger,</hi> perulam <hi rend="italics">Scheibe</hi></note> perduxit, 
 <name>Graeculum</name> se atque otiosum putari voluit, studio 
-litterarum se subito dedidit. <reg>nihil</reg> sane &lt;<name>Actaei</name>&gt;<note>sane Actaei <hi rend="italics">scripsi,</hi> sane Attici <hi rend="italics">Madv.</hi>: sane att&#x0119; <hi rend="italics">codd.</hi> (iuvabant anangnostae <hi rend="italics">s. l. P2</hi>). <hi rend="italics">Locus varie emendatus</hi>: sane ad haec <hi rend="italics">Jeep,</hi> sane artes <hi rend="italics">Luterbacher,</hi> suavitates <hi rend="italics">Mueller,</hi> sanitatem <hi rend="italics">Paul,</hi> savia te <hi rend="italics">Hertz,</hi> ganeonem tamen <hi rend="italics">andgraf. Fort.</hi> Nihil sane attente: &lang; non&rang; iuv. anagn.</note> iuvabant  
+litterarum se subito dedidit. <reg>nihil</reg> sane &lt;<name>Actaei</name>&gt;<note>sane Actaei <hi rend="italics">scripsi,</hi> sane Attici <hi rend="italics">Madv.</hi>: sane attę <hi rend="italics">codd.</hi> (iuvabant anangnostae <hi rend="italics">s. l. P2</hi>). <hi rend="italics">Locus varie emendatus</hi>: sane ad haec <hi rend="italics">Jeep,</hi> sane artes <hi rend="italics">Luterbacher,</hi> suavitates <hi rend="italics">Mueller,</hi> sanitatem <hi rend="italics">Paul,</hi> savia te <hi rend="italics">Hertz,</hi> ganeonem tamen <hi rend="italics">andgraf. Fort.</hi> Nihil sane attente: &lang; non&rang; iuv. anagn.</note> iuvabant  
 anagnostae, libelli pro vino etiam saepe<note>pro vino etiam saepe <hi rend="italics">PBG</hi>: etiam pro vino saepe <hi rend="italics">ks</hi>: etiam saepe pro vino <hi rend="italics">w</hi></note> oppignerabantur; 
 manebat insaturabile abdomen, copiae deficiebant. <reg>itaque</reg> 
 semper versabatur in spe rerum novarum, otio et tranquillitate 
@@ -6238,7 +6237,7 @@ quod factum est in templo <reg>virtutis</reg> ad ludos scaenamque
 perlato, consessu maximo summus artifex et me hercule 
 semper partium in re publica<note>in re pub. <hi rend="italics">Naugerius</hi> (2): in .TR .PL. <hi rend="italics">P rell.</hi></note> tam quam in scaena optimarum, 
 flens<note>flens ex <hi rend="italics">Bake</hi></note> et recenti laetitia et mixto dolore ac desiderio mei, egit 
-apud<note>apud <hi rend="italics">G vulg.</hi> (&#x0103; <hi rend="italics">B</hi>: egita P. R. <hi rend="italics">PH</hi>): ad <hi rend="italics">Madv.</hi></note> populum <name>Romanum</name> multo gravioribus verbis meam 
+apud<note>apud <hi rend="italics">G vulg.</hi> (ă <hi rend="italics">B</hi>: egita P. R. <hi rend="italics">PH</hi>): ad <hi rend="italics">Madv.</hi></note> populum <name>Romanum</name> multo gravioribus verbis meam 
 causam quam egomet de me agere potuissem? <reg>summi</reg> enim 
 poetae ingenium non solum arte sua, sed etiam dolore exprimebat. 
 <reg>qua</reg> enim &lt;vi&gt;<note>vi <hi rend="italics">add. Koechly, Maehly, edd.</hi>: Quia enim ... demonstrabat, revocabatur <hi rend="italics">Klotz</hi>: quom enim ita (<hi rend="italics">aut</hi> sic) ... dem., revoc. <hi rend="italics">Reid</hi></note>: 

@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
 <!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd">
 ]>
 <TEI.2>
 <teiHeader type="text" status="new">
@@ -13,7 +12,7 @@
 <editor role="editor">C. F. W. M&uuml;ller</editor>
 &responsibility;
 </titleStmt>
-<extent></extent>
+<extent/>
 &Perseus.publish;
 <sourceDesc>
 <biblStruct>
@@ -42,7 +41,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change><date></date>
+<change><date/>
 <respStmt><name>cew</name><resp>ed.</resp></respStmt>
 <item>
 $Log: cic.fat_lat.xml,v $
@@ -459,7 +458,7 @@ prohibeant quicquam secus cadere, atque casurum sit;
 fortuitae sunt causae, quae efficiant, ut vere dicantur,
 quae ita dicentur: <quote>Veniet in senatum Cato</quote>, non inclusae in rerum natura atque mundo; et tamen tam
 est inmutabile venturum, cum est verum, quam venisse, nec ob eam causam fatum aut necessitas extimescenda est. Etenim erit confiteri necesse: <quote>Si hoc
-enuntiatum: &quot;Veniet in Tusculanum Hortensius&quot; verum non est, sequitur, ut falsum sit.</quote> Quorum isti
+enuntiatum: "Veniet in Tusculanum Hortensius" verum non est, sequitur, ut falsum sit.</quote> Quorum isti
 neutrum volunt; quod fieri non potest.</p>
 
 <p>Nec nos impediet illa ignava ratio, quae dicitur;
@@ -472,9 +471,9 @@ sive tu medicum adhibueris sive non adhibueris, convalesces;
 interrogationis ignavum atque iners nominatum est,
 quod eadem ratione omnis e vita tolletur actio. Licet
 etiam inmutare, ut fati nomen ne adiungas et eandem
-tamen teneas sententiam, hoc modo: <quote>Si ex aeternitate verum hoc fuit: &quot;Ex isto morbo convalesces&quot;,
+tamen teneas sententiam, hoc modo: <quote>Si ex aeternitate verum hoc fuit: "Ex isto morbo convalesces",
 sive adhibueris medicum sive non adhibueris, convalesces; itemque, si ex aeternitate falsum hoc fuit:
-&quot;Ex isto morbo convalesces&quot;, sive adhibueris medicum
+"Ex isto morbo convalesces", sive adhibueris medicum
 <pb id="p.263"/>
  sive non adhibueris, non convalesces</quote>; deinde cetera. Haec ratio a Chrysippo reprehenditur.
 
@@ -748,4 +747,3 @@ paucorum hominum est.'</quote></quote> <bibl>Macrobius Saturnalia 3.16.3</bibl><
 </body>
 </text>
 </TEI.2>
-
