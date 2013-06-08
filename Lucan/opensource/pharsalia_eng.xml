@@ -83,7 +83,7 @@
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">WARS worse than civil on Emathian <note anchored="yes">The great Emathian conqueror' (<placeName key="tgn,1030066">Milton</placeName>'s sonnet). <placeName key="tgn,7002718">Emathia</placeName> was apart of <placeName key="tgn,7006667">Macedonia</placeName>, but the word is used loosely for <placeName key="tgn,7001399">Thessaly</placeName> or <placeName key="tgn,7006667">Macedonia</placeName>.</note>  plains,</l>
+<p><l n="tr">WARS worse than civil on Emathian <note anchored="yes">The great Emathian conqueror' (<placeName key="tgn,1030066">Milton</placeName>'s sonnet). <placeName key="tgn,7002718">Emathia</placeName> was apart of <placeName key="tgn,7006667">Macedonia</placeName>, but the word is used loosely for <placeName key="tgn,7001399">Thessaly</placeName> or <placeName key="tgn,7006667">Macedonia</placeName>.</note>  plains,</l>
 <l n="tr">And crime let loose we sing: how <placeName key="perseus,Rome">Rome</placeName>'s high race</l>
 <l n="tr">Plunged in her vitals her victorious sword;</l>
 <l n="tr">Armies akin embattled, with the force</l>
@@ -697,9 +697,9 @@
 <l n="tr">And plunged the world in darkness, so that men</l>
 <l n="tr">Despaired of day-like as he veiled his light</l>
 <l n="tr">From that fell banquet<note anchored="yes">Compare Ben Jonson's ' Catiline,' I. 1:
-<quote lang="en"><sp><speaker>Lecca.</speaker> <l>The day goes back,</l>
-<l>Or else my senses.</l></sp>
-<sp><speaker>Cirius.</speaker> <l>As at Atreus' feast.</l></sp></quote></note>  which <placeName key="tgn,2533844">Mycenae</placeName> saw.</l>
+<quote lang="en"><sp><speaker>Lecca.</speaker> <p><l>The day goes back,</l>
+<l>Or else my senses.</l></p></sp>
+<sp><speaker>Cirius.</speaker> <p><l>As at Atreus' feast.</l></p></sp></quote></note>  which <placeName key="tgn,2533844">Mycenae</placeName> saw.</l>
 <l n="tr">The jaws of <placeName key="tgn,7003867">Etna</placeName> were agape with flame</l>
 <l n="tr">That rose not heavenwards, but headlong fell</l>
 <l n="tr">In smoking stream upon th' Italian flank.</l>
@@ -875,7 +875,7 @@
 <l n="tr">'Washed by the Pontic billows! for these eyes</l>
 <l n="tr">'Already once have seen <placeName key="tgn,7010789">Philippi</placeName>'s plains! '<note anchored="yes">The confusion between the site of the battle of <placeName key="tgn,7010789">Philippi</placeName> and that of the battle of Pharsalia is common among the Roman writers. (See the note to Merivale, chapter xxvi.)</note></l>
 <l n="tr">The frenzy left her and she speechless fell.
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="2"><!--
 <argument>
 <list>
@@ -900,7 +900,7 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">THUS was made plain the anger of the gods;</l>
+<p><l n="tr">THUS was made plain the anger of the gods;</l>
 <l n="tr">The world gave signs of war: Nature reversed</l>
 <l n="tr">In monstrous tumult fraught with prodigies</l>
 <l n="tr">Her laws, and prescient spake the coming guilt.</l>
@@ -1752,7 +1752,7 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 <l n="tr">'Twas Italy they spared, that far away</l>
 <l n="tr">Fortune on shores remote might hide her crime,</l>
 <l n="tr">And Roman soil be pure of Magnus' blood.
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="3"><!--
 <argument>
 <list>
@@ -1769,7 +1769,7 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">WITH canvas yielding to the southern wind</l>
+<p><l n="tr">WITH canvas yielding to the southern wind</l>
 <l n="tr">The navy sailed the deep, and every eye</l>
 <l n="tr">Gazed on Ionian billows. But the chief</l>
 <l n="tr">Turned not his vision from his native shore</l>
@@ -2626,7 +2626,7 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 <l n="tr">While wretched fathers by the blazing pyres</l>
 <l n="tr">Fought for the dead. But Brutus thus at sea</l>
 <l n="tr">First gained a triumph for great Caesar's arms.<note anchored="yes">It was Brutus who gained the naval victory over the Veneti some seven years before; the first naval fight, that we know of, fought in the <placeName key="tgn,7014206">Atlantic Ocean</placeName>.</note>
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="4"><!--
 <argument>
 <list>
@@ -2647,7 +2647,7 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">BUT in the distant regions of the earth</l>
+<p><l n="tr">BUT in the distant regions of the earth</l>
 <l n="tr">Fierce Caesar warring, though in fight he dealt</l>
 <l n="tr">No baneful slaughter, hastened on the doom</l>
 <l n="tr">To swift fulfilment.  There on Magnus' side</l>
@@ -3599,7 +3599,7 @@ lacrumas effusi, sortem civilium armorum misera latitia detestantes.'</quote></n
 <l n="tr">Of Caesar and of Caesar's house became</l>
 <l n="tr">Lords of our lives. But who had power like him?</l>
 <l n="tr">All others bought the state: he sold alone.<note anchored="yes">For the character and career of Curio, see Merivale's 'History of the Roman Empire,' chapter xvi. He was of profligate character, but a friend and pupil of Cicero;  at first a rabid partisan of the oligarchy, he had, about the period of his tribuneship (B.C. <dateRange from="-50" to="-49">50-49</dateRange>), become a supporter of Caesar.  How far Gaulish gold was the cause of this conversion we cannot tell. It is in allusion to this change that he was termed the prime mover of the civil war. His arrival in Caesar's camp is described in Book I., line 306.  He became Caesar's chief lieutenant in place of the deserter Labienus;  and, as described in Book III., was sent to <placeName key="tgn,7003121">Sardinia</placeName> and <placeName key="tgn,7003122">Sicily</placeName>, whence he expelled the senatorial forces. His final expedition to <placeName key="tgn,7001242">Africa</placeName>, defeat, and death, form the subject of the latter part of this book. Mommsen describes him as a man of talent, and finds a resemblance between him and Caesar.  (Vol. iv., p. 393.)</note>
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="5"><!--
 <argument>
 <list>
@@ -3619,7 +3619,7 @@ lacrumas effusi, sortem civilium armorum misera latitia detestantes.'</quote></n
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">THUS had the smiles of Fortune and her frowns</l>
+<p><l n="tr">THUS had the smiles of Fortune and her frowns</l>
 <l n="tr">Brought either chief to Macedonian shores</l>
 <l n="tr">Still equal to his foe. From cooler skies</l>
 <l n="tr">Sank Atlas'<note anchored="yes">The Pleiades, said to be daughters of Atlas.</note>  daughters down, and <placeName key="tgn,7011635">Haemus</placeName>' slopes</l>
@@ -4571,7 +4571,7 @@ lacrumas effusi, sortem civilium armorum misera latitia detestantes.'</quote></n
 <l n="tr">To her for ever. Nay! such happy lot</l>
 <l n="tr">The gods prepared not; for the hour drew near</l>
 <l n="tr">Which gave her Magnus to her arms again.
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="6"><!--
 <argument>
 <list>
@@ -4589,7 +4589,7 @@ lacrumas effusi, sortem civilium armorum misera latitia detestantes.'</quote></n
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">Now that the chiefs with minds intent on fight</l>
+<p><l n="tr">Now that the chiefs with minds intent on fight</l>
 <l n="tr">Had drawn their armies near upon the hills</l>
 <l n="tr">And all the gods beheld their chosen pair,</l>
 <l n="tr">Caesar, the Grecian towns despising, scorned</l>
@@ -5599,7 +5599,7 @@ But more probably the meaning is that the wolf's bite gave the flesh magical eff
 <l n="tr">Now streaked the heavens, by the hag's command</l>
 <l n="tr">The day was stayed till Sextus reached his tent,</l>
 <l n="tr">And mist and darkness veiled his safe return.
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="7"><!--
 <argument>
 <list>
@@ -5623,7 +5623,7 @@ But more probably the meaning is that the wolf's bite gave the flesh magical eff
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">NE'ER to the summons of the Eternal laws</l>
+<p><l n="tr">NE'ER to the summons of the Eternal laws</l>
 <l n="tr">More slowly Titan rose,<note anchored="yes"><cit><quote lang="en"><l>It is, methinks, a morning full of fate!</l>
 <l>It riseth slowly, as her sullen car</l>
 <l>Had all the weight of sleep and death hung at it!</l>
@@ -6686,7 +6686,7 @@ Book IX., 706.)</note></l>
 <l n="tr">'Twas thus that Munda's fight</l>
 <l n="tr">And blood of <placeName key="perseus,Mutina">Mutina</placeName>, and <placeName key="tgn,7002712">Leucas</placeName>' cape,</l>
 <l n="tr">And sad Pachynus,<note anchored="yes">Alluding to the naval war waged by Sextus Pompeius after Caesar's death. He took possession of <placeName key="tgn,7003122">Sicily</placeName>, and had command of the seas, but was ultimately defeated by the fleet of Octavius under Agrippa in B.C. <date value="-36">36</date>.  Pachynus was the S.E. promontory of the island, but is used in the sense of <placeName key="tgn,7003122">Sicily</placeName>, for this battle took place on the north coast.</note> made <placeName key="perseus,Philippi">Philippi</placeName> pure.
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="8"><!--
 <argument>
 <list>
@@ -6709,7 +6709,7 @@ Book IX., 706.)</note></l>
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">Now through Alcides'<note anchored="yes">Comp. Book VI., line 406.</note>  pass and <placeName key="tgn,7014367">Tempe</placeName>'s groves</l>
+<p><l n="tr">Now through Alcides'<note anchored="yes">Comp. Book VI., line 406.</note>  pass and <placeName key="tgn,7014367">Tempe</placeName>'s groves</l>
 <l n="tr">Pompeius, aiming for Haemonian glens</l>
 <l n="tr">And forests lone, urged on his wearied steed</l>
 <l n="tr">Scarce heeding now the spur; by devious tracks</l>
@@ -7765,7 +7765,7 @@ Book IX., 706.)</note></l>
 <l n="tr">And <placeName key="tgn,7016833">Egypt</placeName>'s fable, that she holds the grave</l>
 <l n="tr">Of great Pompeius, be believed no more</l>
 <l n="tr">Than <placeName key="tgn,7012056">Crete</placeName>'s which boasts the sepulchre of Jove.<note anchored="yes">The legend that Jove was buried in <placeName key="tgn,7012056">Crete</placeName> is also mentioned by Cicero:  'De Natura Deorum,' iii., 21.</note>
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="9"><!--
 <argument>
 <list>
@@ -7796,7 +7796,7 @@ Book IX., 706.)</note></l>
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">YET in those ashes on the Pharian shore,</l>
+<p><l n="tr">YET in those ashes on the Pharian shore,</l>
 <l n="tr">In that small heap of dust, was not confined</l>
 <l n="tr">So great a shade; but from th' ignoble pyre</l>
 <l n="tr">And limbs half burnt sprang forth<note anchored="yes">This was the Stoic theory. The perfect of men passed after death into a region between our hemisphere and the heavens, where they remained until the day of general conflagration (see Book VII., line 955), with their senses amplified and rendered akin to divine.</note>  and sought the sky</l>
@@ -8678,8 +8678,8 @@ Book IX., 706.)</note></l>
 <l n="tr">With sibilant terror all the subject swarm,</l>
 <l n="tr">Baneful ere darts his poison, Basilisk <note anchored="yes">The glance of the eye of the basilisk or cockatrice was supposed to be deadly.
 See <title>King Richard III</title>, Act i, Scene 2:
-<quote lang="en"><sp><speaker>Gloucester.</speaker> <l>Thine eyes, sweet lady, have infected mine.</l></sp>
-<sp><speaker>Anne.</speaker> <l>Would they were basilisks, to strike thee dead! </l></sp></quote>
+<quote lang="en"><sp><speaker>Gloucester.</speaker> <p><l>Thine eyes, sweet lady, have infected mine.</l></p></sp>
+<sp><speaker>Anne.</speaker> <p><l>Would they were basilisks, to strike thee dead! </l></p></sp></quote>
 The word is also used for a big cannon (' 1 King Henry IV.,' Act ii., Scent 3).</note></l>
 <l n="tr">In sands deserted king. Ye serpents too</l>
 <l n="tr">Who in all other regions harmless glide</l>
@@ -9159,7 +9159,7 @@ The word is also used for a big cannon (' 1 King Henry IV.,' Act ii., Scent 3).<
 <l n="tr">They hide their groans, and gaze with joyful front</l>
 <l n="tr">(O famous Freedom! ) on the deed of blood:</l>
 <l n="tr">And dare to laugh when mighty Caesar wept.
-</l></div1>
+</l></p></div1>
 <div1 type="book" n="10"><!--
 <argument>
 <list>
@@ -9175,7 +9175,7 @@ The word is also used for a big cannon (' 1 King Henry IV.,' Act ii., Scent 3).<
 </argument>
 -->
 <milestone n="1" unit="card"/>
-<l n="tr">WHEN Caesar, following those who bore the head,</l>
+<p><l n="tr">WHEN Caesar, following those who bore the head,</l>
 <l n="tr">First trod the shore accursed, with <placeName key="tgn,7016833">Egypt</placeName>'s fates</l>
 <l n="tr">His fortunes battled, whether <placeName key="perseus,Rome">Rome</placeName> should pass</l>
 <l n="tr">In crimson conquest o'er the guilty land,</l>
@@ -9850,7 +9850,7 @@ by Virgil, 'Eclogue' iii., 41.</note>  excel mine own.</l>
 <l n="tr">Brave Scaeva's image flashed, now vainly sought,</l>
 <l n="tr">Who on the wall by <placeName key="tgn,7010750">Epidamnus</placeName>' fields</l>
 <l n="tr">Earned fame immortal, and with single arm</l>
-<l n="tr">Drove back Pompeius as he trod the breach.</l></div1>
+<l n="tr">Drove back Pompeius as he trod the breach.</l></p></div1>
 </body>
 </text>
 </TEI.2>

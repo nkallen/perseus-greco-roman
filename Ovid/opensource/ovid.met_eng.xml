@@ -110,7 +110,7 @@ Added to repository. Passed SGML parse.
 <milestone n="1" unit="card"/>
 <milestone ed="Magnus" n="Invocatio." unit="tale"/>
 <milestone ed="More" n="INVOCATION" unit="tale"/>
-<l n="tr">My soul is wrought to sing of forms transformed</l>
+<p><l n="tr">My soul is wrought to sing of forms transformed</l>
 <l n="tr">to bodies new and strange! Immortal Gods</l>
 <l n="tr">inspire my heart, for ye have changed yourselves</l>
 <l n="tr">and all things you have changed! Oh lead my song</l>
@@ -1215,12 +1215,12 @@ Added to repository. Passed SGML parse.
 <l n="tr">and touch the skies. And so he passed his land</l>
 <l n="tr">of <placeName key="tgn,7000489">Ethiopia</placeName>, and the Indies, hot</l>
 <l n="tr">beneath the tawny sun, and there he turned</l>
-<l n="tr">his footsteps to his father's Land of Dawn.</l></div1>
+<l n="tr">his footsteps to his father's Land of Dawn.</l></p></div1>
 <div1 type="Book" n="2"><head>Book 2</head>
 <milestone n="1" unit="card"/>
 <milestone ed="More" n="PHAETHON AND PHOEBUS" unit="tale"/>
 
-<l n="tr">Glowing with gold, flaming with carbuncles</l>
+<p><l n="tr">Glowing with gold, flaming with carbuncles</l>
 <l n="tr">on stately columns raised, refulgent shone</l>
 <l n="tr">the palace of the Sun, with polished dome</l>
 <l n="tr">of ivory gleaming, and with portals twain</l>
@@ -2556,13 +2556,13 @@ Added to repository. Passed SGML parse.
 <l n="tr">with her right hand, and, steadied by the left,</l>
 <l n="tr">held on his ample back&mdash;and in the breeze</l>
 <l n="tr">her waving garments fluttered as they went.</l>
-</div1>
+</p></div1>
 <div1 type="BOOK" n="3"><head>Book 3</head>
 <milestone n="1" unit="card"/>
 <milestone ed="Magnus" n="Cadmus." unit="tale"/>
 <milestone ed="More" n="CADMUS AND THE DRAGONTHE HOUSE OF CADMUS" unit="tale"/>
 
-<l n="tr">Now <placeName key="tgn,1125260">Jupiter</placeName> had not revealed himself,</l>
+<p><l n="tr">Now <placeName key="tgn,1125260">Jupiter</placeName> had not revealed himself,</l>
 <l n="tr">nor laid aside the semblance of a bull,</l>
 <l n="tr">until they stood upon the plains of <placeName key="tgn,7012056">Crete</placeName>.</l>
 <milestone ed="P" unit="para"/><l n="tr">But not aware of this, her father bade</l>
@@ -3698,14 +3698,14 @@ Added to repository. Passed SGML parse.
 <l n="tr">the women of Ismenus celebrate</l>
 <l n="tr">the new Bacchantian rites; and they revere</l>
 <l n="tr">the sacred altars, heaped with frankincense.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="4"><head>Book 4</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Minyeides." unit="tale"/>
 <milestone ed="More" n="THE DAUGHTERS OF KING MINYAS TRANSFORMED TO BATS" unit="tale"/>
 
-<l n="tr">Alcithoe, daughter of King Minyas,</l>
+<p><l n="tr">Alcithoe, daughter of King Minyas,</l>
 <l n="tr">consents not to the orgies of the God;</l>
 <l n="tr">denies that Bacchus is the son of Jove,</l>
 <l n="tr">and her two sisters join her in that crime.</l>
@@ -4946,13 +4946,13 @@ Added to repository. Passed SGML parse.
 <l n="tr">to serpents horrible. And now to strike</l>
 <l n="tr">her foes with fear, she wears upon her breast</l>
 <l n="tr">those awful vipers&mdash;creatures of her rage.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="5"><head>Book 5</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="More" n="BATTLE OF THE WEDDING FEASTPERSEUS AND ANDROMEDA" unit="tale"/>
 
-<l n="tr">While Perseus, the brave son of <placeName key="tgn,1125260">Jupiter</placeName>,</l>
+<p><l n="tr">While Perseus, the brave son of <placeName key="tgn,1125260">Jupiter</placeName>,</l>
 <l n="tr">surrounded at the feast by Cepheus' lords,</l>
 <l n="tr">narrated this, a raging multitude</l>
 <l n="tr">with sudden outcry filled the royal courts&mdash;</l>
@@ -6026,14 +6026,14 @@ Added to repository. Passed SGML parse.
 <l n="tr">suspended in the air. And since that time</l>
 <l n="tr">their ancient eloquence, their screaming notes,</l>
 <l n="tr">their tiresome zeal of speech have all remained.&rdquo;</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="6"><head>Book 6</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Pallas et Arachne." unit="tale"/>
 <milestone ed="More" n="ARACHNE AND MINERVA" unit="tale"/>
 
-<l n="tr">All this Minerva heard; and she approved</l>
+<p><l n="tr">All this Minerva heard; and she approved</l>
 <l n="tr">their songs and their resentment; but her heart</l>
 <l n="tr">was brooding thus, &ldquo;It is an easy thing</l>
 <l n="tr">to praise another, I should do as they:</l>
@@ -7236,14 +7236,14 @@ Added to repository. Passed SGML parse.
 <l n="tr">they entered manhood, quick they were to join</l>
 <l n="tr">the Argonauts, who for the Golden Fleece,</l>
 <l n="tr">sought in that first ship, ventured on the sea.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="7"><head>Book 7</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Iason et Medea." unit="tale"/>
 <milestone ed="More" n="JASON AND MEDEA" unit="tale"/>
 
-<l n="tr">Over the storm-tossed waves, the Argonauts</l>
+<p><l n="tr">Over the storm-tossed waves, the Argonauts</l>
 <l n="tr">had sailed in Argo, their long ship to where</l>
 <l n="tr">King Phineus, needy in his old age, reigned&mdash;</l>
 <l n="tr">deprived of sight and feeble. When the sons</l>
@@ -8692,14 +8692,14 @@ Added to repository. Passed SGML parse.
 <l n="tr">in came the aged monarch, Aeacus,</l>
 <l n="tr">and with the monarch his two valiant sons,</l>
 <l n="tr">and troops, new-levied, trained to glorious arms.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="8"><head>Book 8</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Nisus et Scylla." unit="tale"/>
 <milestone ed="More" n="KING MINOS AND SCYLLA" unit="tale"/>
 
-<l n="tr">Now Lucifer unveiled the glorious day,</l>
+<p><l n="tr">Now Lucifer unveiled the glorious day,</l>
 <l n="tr">and as the session of the night dissolved,</l>
 <l n="tr">the cool east wind declined, and vapors wreathed</l>
 <l n="tr">the moistened valleys. Veering to the south</l>
@@ -10100,14 +10100,14 @@ And Nestor might</l>
 <l n="tr">in my two horns when I had two&mdash;but now</l>
 <l n="tr">my forehead, as you see, has lost one horn.</l>
 <l n="tr">And having ended with such words,&mdash;he groaned.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="9"><head>Book 9</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Achelous et Hercules." unit="tale"/>
 <milestone ed="More" n="HERCULES AND ACHELOUS" unit="tale"/>
 
-<l n="tr">To him the hero, who proclaimed himself</l>
+<p><l n="tr">To him the hero, who proclaimed himself</l>
 <l n="tr">a favored son of Neptune, answered now;</l>
 <l n="tr">&ldquo;Declare the reason of your heavy sighs,</l>
 <l n="tr">and how your horn was broken?&rdquo; And at once</l>
@@ -11407,14 +11407,14 @@ And Nestor might</l>
 <l n="tr">Venus, Juno and Hymen, all have met</l>
 <l n="tr">our happy lovers at the marriage fires; </l>
 <milestone ed="P" unit="para"/><l n="tr">and Iphis, a new man, gained his Ianthe.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="10"><head>Book 10</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Orpheus et Eurydice." unit="tale"/>
 <milestone ed="More" n="ORPHEUS AND EURYDICE" unit="tale"/>
 
-<l n="tr">Veiled in a saffron mantle, through the air</l>
+<p><l n="tr">Veiled in a saffron mantle, through the air</l>
 <l n="tr">unmeasured, after the strange wedding, Hymen</l>
 <l n="tr">departed swiftly for Ciconian land;</l>
 <l n="tr">regardless and not listening to the voice</l>
@@ -12622,13 +12622,13 @@ And Nestor might</l>
 <l n="tr">its name, Anemone, shake it right down,</l>
 <l n="tr">because its slender hold, always so weak,</l>
 <l n="tr">lets it fall to the ground from its frail stem.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="11"><head>Book 11</head>
 <milestone n="1" unit="card"/>
 <milestone ed="Magnus" n="Orphei mors." unit="tale"/>
 <milestone ed="More" n="DEATH OF ORPHEUS" unit="tale"/>
 
-<l n="tr">While with his songs, Orpheus, the bard of <placeName key="tgn,7002756">Thrace</placeName>,</l>
+<p><l n="tr">While with his songs, Orpheus, the bard of <placeName key="tgn,7002756">Thrace</placeName>,</l>
 <l n="tr">allured the trees, the savage animals,</l>
 <l n="tr">and even the insensate rocks, to follow him;</l>
 <l n="tr">Ciconian matrons, with their raving breasts</l>
@@ -13914,13 +13914,13 @@ And Nestor might</l>
 <l n="tr">so that his head is far away from his</l>
 <l n="tr">lean body. Still he hunts the sea</l>
 <l n="tr">and takes his name from diving in the waves.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="12"><head>Book 12</head>
 <milestone n="1" unit="card"/>
 <milestone ed="Magnus" n="Graeci Aulide. Fama." unit="tale"/>
 <milestone ed="More" n="EVENTS IN AULIS" unit="tale"/>
 
-<l n="tr">Sadly his father, Priam, mourned for him,</l>
+<p><l n="tr">Sadly his father, Priam, mourned for him,</l>
 <l n="tr">not knowing that young Aesacus had assumed</l>
 <l n="tr">wings on his shoulders, and was yet alive.</l>
 <l n="tr">Then also Hector with his brothers made</l>
@@ -14851,14 +14851,14 @@ And Nestor might</l>
 <l n="tr">He bade the Argolic chieftains take their seats</l>
 <l n="tr">within the camp and left to all of them</l>
 <l n="tr">the hearing and decision of the cause.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="13"><head>Book 13</head>
 <milestone n="1" unit="card"/>
 
 <milestone ed="Magnus" n="Armorum iudicium. Aiax." unit="tale"/>
 <milestone ed="More" n="AJAX AND ULYSSES" unit="tale"/>
 
-<l n="tr">The chiefs were seated, and the soldiers form</l>
+<p><l n="tr">The chiefs were seated, and the soldiers form</l>
 <l n="tr">a circle round them. Then Ajax, the approved</l>
 <l n="tr">lord of the seven-fold shield, arose and spoke.</l>
 <l n="tr">Impatient in his wrath, he looked with stern,</l>
@@ -16308,13 +16308,13 @@ And Nestor might</l>
 <l n="tr">and left the god. Provoked at his repulse&mdash;</l>
 <l n="tr">enraged, he hastened to the marvellous court</l>
 <l n="tr">of Circe, well known daughter of the Sun.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="14"><head>Book 14</head>
 <milestone n="1" unit="card"/>
 <milestone ed="Magnus" n="Scylla et Circe." unit="tale"/>
 <milestone ed="More" n="SCYLLA TRANSFORMED TO A ROCK" unit="tale"/>
 
-<l n="tr">Now the Euboean dweller in great waves,</l>
+<p><l n="tr">Now the Euboean dweller in great waves,</l>
 <l n="tr">Glaucus, had left behind the crest of <placeName key="tgn,7003867">Aetna</placeName>,</l>
 <l n="tr">raised upward from a giant's head; and left</l>
 <l n="tr">the <placeName key="tgn,2236678">Cyclops</placeName>' fields, that never had been torn</l>
@@ -17623,13 +17623,13 @@ And Nestor might</l>
 <l n="tr">her old time form and with the form her name.</l>
 <l n="tr">He called her Hora and let her become</l>
 <l n="tr">a goddess, now the mate of Quirinus.</l>
-</div1>
+</p></div1>
 <div1 type="Book" n="15"><head>Book 15</head>
 <milestone n="1" unit="card"/>
 <milestone ed="Magnus" n="Myscelus. Croton." unit="tale"/>
 <milestone ed="More" n="MYSCELUS BUILDS THE CITY OF CROTONA" unit="tale"/>
 
-<l n="tr">While this was happening, they began to seek</l>
+<p><l n="tr">While this was happening, they began to seek</l>
 <l n="tr">for one who could endure the weight of such</l>
 <l n="tr">a task and could succeed a king so great;</l>
 <l n="tr">and Fame, the harbinger of truth, destined</l>
@@ -18964,6 +18964,6 @@ Such was the prophesy</l>
 <l n="tr">by lips of men. If Poets' prophecies</l>
 <l n="tr">have any truth, through all the coming years</l>
 <l n="tr">of future ages, I shall live in fame.</l>
-</div1>
+</p></div1>
 </body></text>
 </TEI.2>

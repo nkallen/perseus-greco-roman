@@ -64,7 +64,7 @@ card breaks not yet aligned
 <div1 type="book" n="1">
 <head>Liber Primus</head>
 <milestone unit="card" n="1"/>
-<l>Aeneadum genetrix, hominum divomque voluptas,</l>
+<p><l>Aeneadum genetrix, hominum divomque voluptas,</l>
 <l>alma Venus, caeli subter labentia signa</l>
 <l>quae mare navigerum, quae terras frugiferentis</l>
 <l>concelebras, per te quoniam genus omne animantum</l>
@@ -1189,12 +1189,12 @@ card breaks not yet aligned
 <l n="1115">namque alid ex alio clarescet nec tibi caeca</l>
 <l>nox iter eripiet, quin ultima naturai</l>
 <l>pervideas: ita res accendent lumina rebus.</l>
-</div1>
+</p></div1>
 
 <div1 type="book" n="2">
 <head>Liber Secundus</head>
 <milestone unit="card" n="1"/>
-<l>Suave, mari magno turbantibus aequora ventis</l>
+<p><l>Suave, mari magno turbantibus aequora ventis</l>
 <l>e terra magnum alterius spectare laborem;</l>
 <l>non quia vexari quemquamst iucunda voluptas,</l>
 <l>sed quibus ipse malis careas quia cernere suavest.</l>
@@ -2377,11 +2377,11 @@ card breaks not yet aligned
 <l>cum minor esset agri multo modus ante viritim;</l>
 <l>nec tenet omnia paulatim tabescere et ire</l>
 <l>ad capulum spatio aetatis defessa vetusto.</l>
-</div1>
+</p></div1>
 <div1 type="book" n="3">
 <head>Liber Tertius</head>
 <milestone unit="card" n="1"/>
-<l>E tenebris tantis tam clarum extollere lumen</l>
+<p><l>E tenebris tantis tam clarum extollere lumen</l>
 <l>qui primus potuisti inlustrans commoda vitae,</l>
 <l>te sequor, o Graiae gentis decus, inque tuis nunc</l>
 <l>ficta pedum pono pressis vestigia signis,</l>
@@ -3506,11 +3506,11 @@ card breaks not yet aligned
 <l>nec minus ille diu iam non erit, ex hodierno</l>
 <l>lumine qui finem vitai fecit, et ille,</l>
 <l>mensibus atque annis qui multis occidit ante.</l>
-</div1>
+</p></div1>
 <div1 type="book" n="4">
 <head>Liber Quartus</head>
 <milestone unit="card" n="1"/>
-<l>Avia Pieridum peragro loca nullius ante</l>
+<p><l>Avia Pieridum peragro loca nullius ante</l>
 <l>trita solo. iuvat integros accedere fontis</l>
 <l>atque haurire, iuvatque novos decerpere flores</l>
 <l>insignemque meo capiti petere inde coronam,</l>
@@ -4840,11 +4840,11 @@ card breaks not yet aligned
 <l n="1285">vincitur in longo spatio tamen atque labascit.</l>
 <l>nonne vides etiam guttas in saxa cadentis</l>
 <l>umoris longo in spatio pertundere saxa?</l>
-</div1>
+</p></div1>
 <div1 type="book" n="5">
 <head>Liber Quintus</head>
 <milestone unit="card" n="1"/>
-<l>Quis potis est dignum pollenti pectore carmen</l>
+<p><l>Quis potis est dignum pollenti pectore carmen</l>
 <l>condere pro rerum maiestate hisque repertis?</l>
 <l>quisve valet verbis tantum, qui fingere laudes</l>
 <l>pro meritis eius possit, qui talia nobis</l>
@@ -6350,11 +6350,11 @@ card breaks not yet aligned
 <l n="1455">in medium ratioque in luminis erigit oras;</l>
 <l>namque alid ex alio clarescere corde videbant,</l>
 <l>artibus ad summum donec venere cacumen.</l>
-</div1>
+</p></div1>
 <div1 type="book" n="6">
 <head>Liber Sextus</head>
 <milestone unit="card" n="1"/>
-<l>Primae frugiparos fetus mortalibus aegris</l>
+<p><l>Primae frugiparos fetus mortalibus aegris</l>
 <l>dididerunt quondam praeclaro nomine Athenae</l>
 <l>et recreaverunt vitam legesque rogarunt</l>
 <l>et primae dederunt solacia dulcia vitae,</l>
@@ -7686,6 +7686,6 @@ card breaks not yet aligned
 <l>inde bonam partem in lectum maerore dabantur;</l>
 <l n="1285">nec poterat quisquam reperiri, quem neque morbus</l>
 <l>nec mors nec luctus temptaret tempore tali.</l>
-</div1>
+</p></div1>
 </body></text>
 </TEI.2>

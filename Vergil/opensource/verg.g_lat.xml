@@ -98,7 +98,7 @@ Changed names and redid headers.
 <body>
 <div1 type="Book" n="1">
 <milestone ed="p" n="1" unit="card"/>
-<l>Quid faciat laetas segetes, quo sidere terram</l>
+<p><l>Quid faciat laetas segetes, quo sidere terram</l>
 <l>vertere, Maecenas, ulmisque adiungere vitis</l>
 <l>conveniat, quae cura boum, qui cultus habendo</l>
 <l>sit pecori, apibus quanta experientia parcis,</l>
@@ -626,10 +626,10 @@ Changed names and redid headers.
 <l>arma ferunt; saevit toto Mars inpius orbe;</l>
 <l>ut cum carceribus sese effudere quadrigae,</l>
 <l>addunt in spatia et frustra retinacula tendens</l>
-<l>fertur equis auriga neque audit currus habenas.</l></div1>
+<l>fertur equis auriga neque audit currus habenas.</l></p></div1>
 <div1 type="Book" n="2">
 <milestone ed="p" n="1" unit="card"/>
-<l>Hactenus arvorum cultus et sidera caeli,</l>
+<p><l>Hactenus arvorum cultus et sidera caeli,</l>
 <l>nunc te, Bacche, canam, nec non silvestria tecum</l>
 <l>virgulta et prolem tarde crescentis olivae.</l>
 <l>Huc, pater o Lenaee&mdash;tuis hic omnia plena</l>
@@ -1194,10 +1194,10 @@ Changed names and redid headers.
 <l n="540">inpositos duris crepitare incudibus enses.</l>
 <milestone ed="p" n="541" unit="card"/>
 <l>Sed nos inmensum spatiis confecimus aequor,</l>
-<l>et iam tempus equum fumantia solvere colla.</l></div1>
+<l>et iam tempus equum fumantia solvere colla.</l></p></div1>
 <div1 type="Book" n="3">
 <milestone ed="p" n="1" unit="card"/>
-<l>Te quoque, magna Pales, et te memorande canemus</l>
+<p><l>Te quoque, magna Pales, et te memorande canemus</l>
 <l>pastor ab Amphryso, vos, silvae amnesque Lycaei.</l>
 <l>Cetera, quae vacuas tenuissent carmine mentes,</l>
 <l>omnia iam volgata: quis aut Eurysthea durum</l>
@@ -1782,10 +1782,10 @@ Changed names and redid headers.
 <l>verum etiam invisos si quis temptarat amictus,</l>
 <l>ardentes papulae atque immundus olentia sudor</l>
 <l n="565">membra sequebatur nec longo deinde moranti</l>
-<l>tempore contactos artus sacer ignis edebat.</l></div1>
+<l>tempore contactos artus sacer ignis edebat.</l></p></div1>
 <div1 type="Book" n="4">
 <milestone ed="p" n="1" unit="card"/>
-<l>Protinus aerii mellis caelestia dona</l>
+<p><l>Protinus aerii mellis caelestia dona</l>
 <l>exsequar: hanc etiam, Maecenas, adspice partem.</l>
 <l>Admiranda tibi levium spectacula rerum</l>
 <l>magnanimosque duces totiusque ordine gentis</l>
@@ -2371,5 +2371,5 @@ Changed names and redid headers.
 <l>Illo Vergilium me tempore dulcis alebat</l>
 <l>Parthenope studiis florentem ignobilis oti,</l>
 <l n="565">carmina qui lusi pastorum audaxque iuventa,</l>
-<l>Tityre, te patulae cecini sub tegmine fagi.</l></div1>
+<l>Tityre, te patulae cecini sub tegmine fagi.</l></p></div1>
 </body></text></TEI.2>
