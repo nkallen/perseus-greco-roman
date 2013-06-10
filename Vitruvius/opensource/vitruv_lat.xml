@@ -51,10 +51,10 @@
 <text lang="la">
 <body>
 <note anchored="yes" type="title" place="inline">DE ARCHITECTURA</note>
-<div1 type="book" n="1">
+<div type="book" n="1">
 <!-- 1,t,1,1 -->
 <head>LIBER PRIMUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Cum divina tua mens et numen, imperator Caesar, imperio potiretur orbis terrarum invictaque virtute cunctis
 hostibus stratis triumpho victoriaque tua cives gloriarentur
 et gentes omnes subactae tuum spectarent nutum populusque Romanus et senatus liberatus timore amplissimis tuis
@@ -87,8 +87,8 @@ ut posteris memoriae traderentur, curam habiturum. conscripsi praescriptiones te
 facta et futura qualia sint opera per te posses nota habere;
 namque his voluminibus aperui omnes disciplinae rationes.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Architecti est scientia pluribus disciplinis et variis
 eruditionibus ornata, cuius iudicio probantur omnia quae
 ab ceteris artibus perficiuntur opera. ea nascitur ex fabrica et ratiocinatione. fabrica est continuata ac trita
@@ -245,8 +245,8 @@ polliceor, uti spero, his voluminibus non modo aedificantibus
 sed etiam omnibus sapientibus cum maxima auctoritate
 me sine dubio praestaturum.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Architectura autem constat ex ordinatione, quae graece
 <foreign lang="greek">τάξις</foreign> dicitur, et ex dispositione, hanc autem Graeci <foreign lang="greek">διάθεσιν</foreign> vocitant, et eurythmia et symmetria et decore et
 distributione, quae graece <foreign lang="greek">οἰκονομία</foreign> dicitur.
@@ -323,8 +323,8 @@ et ad pecuniae copiam aut ad eloquentiae dignitatem aedificia apte disponentur. 
 et delicatis; potentibus vero, quorum cogitationibus respublica gubernatur, ad usum conlocabuntur; et omnino
 faciendae sunt aptae omnibus personis aedificiorum distributiones.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Partes ipsius architecturae sunt tres: aedificatio, gnomonice, machinatio. aedificatio autem divisa est bipertito,
 e quibus una est moenium et communium operum in publicis locis conlocatio, altera est privatorum aedificiorum
 explicatio. publicorum autem distributiones sunt tres, e
@@ -341,8 +341,8 @@ et commoda distributio; venustatis vero, cum fuerit operis
 species grata et elegans membrorumque commensus iustas
 habeat symmetriarum ratiocinationes.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>In ipsis vero moenibus ea erunt principia. primum electio loci saluberrimi. is autem erit excelsus et non nebulosus, non pruinosus regionesque caeli spectans neque
 aestuosas neque frigidas sed temperatas, deinde si vitabitur palustris vicinitas. cum enim aurae matutinae cum
 sole oriente ad oppidum pervenient et his ortae nebulae
@@ -452,8 +452,8 @@ ab senatuque populoque Romano pet&icirc;t, ut liceret transferre oppidum, consti
 confectis lacum aperuit in mare et portum e lacu municipio perfecit. itaque nunc Salpini quattuor milia passus
 progressi ab oppido veteri habitant in salubri loco.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Cum ergo his rationibus [erit] salubritatis [moenium
 conlocandorum explicatio] regiones[que] electae fuerint
 fructibus ad alendam civitatem copiosae, et viarum
@@ -524,8 +524,8 @@ factum habent murum, sic item possunt omnes regiones
 seu locorum proprietates habere tantas eiusdem generis
 utilitates, uti ex his comparationibus ad aeternitatem perfectus habeatur sine vitio murus.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Moenibus circumdatis sequuntur intra murum arearum
 divisiones platearumque et angiport&ucirc;m ad caeli regionem
 directiones. dirigentur haec autem recte, si exclusi erunt
@@ -663,8 +663,8 @@ inter aquilonem et solanum <hi rend="scp">L</hi>, inter solanum et eurum <hi ren
 ita his confectis inter angulos octagoni gnomon ponatur,
 et ita dirigantur angiportorum divisiones.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>Divisis angiportis et plateis constitutis arearum electio
 ad opportunitatem et usum communem civitatis est explicanda aedibus sacris, foro reliquisque locis communibus.
 et si erunt moenia secundum mare, area, ubi forum constituatur, eligenda proxime portum, sin autem mediterraneo,
@@ -694,12 +694,12 @@ quae in aedificiis sunt parandae, quibus sint virtutibus et
 quem habeant usum, exponere, &lt;deinde&gt; commensus aedificiorum et ordines et genera singula symmetriarum
 peragere et in singulis voluminibus explicare.
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="2">
+</div>
+</div>
+<div type="book" n="2">
 <!-- 2,t,1,1 -->
 <head>LIBER SECUNDUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 
 <div3 type="section" n="1"><p>Dinocrates architectus cogitationibus et sollertia fretus,
 cum Alexander rerum potiretur, profectus est e Macedonia
@@ -742,8 +742,8 @@ ingressus eorum, qui antiquitates rerum naturae et initia
 humanitatis et inventiones perquisitas scriptorum praeceptis dedicaverunt. itaque quemadmodum ab his sum
 institutus, exponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Homines vetere more ut ferae in silvis et speluncis et
 nemoribus nascebantur ciboque agresti vescendo vitam exigebant. interea quodam in loco ab tempestatibus et ventis
 densae crebritatibus arbores agitatae et inter se terentes
@@ -839,8 +839,8 @@ natura rerum praeceptis physicorum veras patitur habere
 explicationes, nisi causae, quae insunt in his rebus quemadmodum et quid ita sint, subtilibus rationibus habeant
 demonstrationes.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Thales primum aquam putavit omnium rerum esse principium; Heraclitus Ephesius, qui propter obscuritatem
 scriptorum a Graecis <foreign lang="greek">σκοτεινὸς</foreign> est appellatus, ignem; Democritus quique est eum secutus Epicurus atomos, quas nostri insecabilia corpora, nonnulli individua vocitaverunt;
 Pythagoreorum vero disciplina adiecit ad aquam et ignem
@@ -855,8 +855,8 @@ aedificiis qualitates exponere, uti, cum fuerint notae, non
 habeant qui aedificare cogitant errorem, sed aptas ad
 usum copias aedificiis comparent. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Itaque primum de lateribus, qua de terra duci eos oporteat, dicam. non enim de harenoso neque calculoso luto
 neque sabulone soluto sunt ducendi, quod, ex his generibus
 cum sint ducti, primum fiunt graves, deinde, cum ab imbribus in parietibus sparguntur, dilabuntur et dissolvuntur
@@ -901,8 +901,8 @@ ita cum est levis, aere solidata non recipit in se nec combibit liquorem. igitur
 quocumque pondere fuerit, cogitur ab rerum natura, quemadmodum pumex uti ab aqua sustineatur. sic autem magnas habent utilitates, quod neque in aedificationibus sunt
 onerosi et, cum non patiantur penetrare in corpus umidam potestatem, a tempestatibus non dissolvuntur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>In caementiciis autem structuris primum est de harena
 quaerendum, ut ea sit idonea ad materiem miscendam neque habeat terram commixtam. genera autem harenae fossiciae sunt haec: nigra, cana, rubra, carbunculus. ex his
 quae in manu confricata fecerit stridorem, erit optima;
@@ -926,8 +926,8 @@ sunt utiles, quod pinguitudini eius calx commixta propter
 vehementiam non potest sine rimis inarescere. fluviatica
 vero propter macritatem uti signinum liaculorum subactionibus in tectorio recipit soliditatem.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>De harenae copiis cum habeatur explicatum, tum etiam
 de calce diligentia est adhibenda, uti de albo saxo aut
 silice coquatur; et quae erit ex spisso et duriore, erit utilis
@@ -958,8 +958,8 @@ fervorem. igitur cum patent foramina eorum et raritates,
 harenae mixtionem in se corripiunt et ita cohaerescunt
 siccescendoque cum caementis coeunt et efficiunt structurarum soliditatem.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Est etiam genus pulveris, quod efficit naturaliter res
 admirandas. nascitur in regionibus Baianis in agris municipiorum, quae sunt circa Vesuvium montem. quod commixtum cum calce et caemento non modo ceteris aedificiis praestat firmitates, sed etiam moles cum struuntur
 in mari, sub aqua solidescunt. hoc autem fieri hac ratione
@@ -1017,8 +1017,8 @@ carbunculus. itaque uti Campania exusta terra cinis, sic
 in Etruria excocta materia efficitur carbunculus. utraque
 autem sunt egregia in structuris, sed alia in terrenis aedificiis, alia etiam in maritimis molibus habent virtutem.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>De calce et harena, quibus varietatibus sint et quas
 habeant virtutes, dixi. sequitur ordo de lapidicinis explicare, de quibus et quadrata saxa et caementorum ad
 aedificia eximuntur copiae et comparantur. haec autem
@@ -1060,8 +1060,8 @@ in fundamenta coiciantur; cetera, quae non erunt vitiata,
 ab natura rerum probata durare poterunt supra terram
 aedificata. nec solum ea in quadratis lapidibus sunt observanda, sed etiam in caementiciis structuris.
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>Structurarum genera sunt haec: reticulatum, quo nunc
 omnes utuntur, et antiquum, quod incertum dicitur. ex 
 his venustius est reticulatum, sed ad rimas faciendas ideo
@@ -1250,8 +1250,8 @@ fiunt; deinde subsidentia proclinantur et disrumpunt speciem tectoriorum.</p>
 quibus sint virtutibus et vitiis, quemadmodum potui, exposui; de contignationibus autem et copiis earum, quibus
 comparentur, ut ad vetustatem non sint infirmae, uti natura rerum monstrat, explicabo.
 </p></div3>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <div3 type="section" n="1"><p>Materies caedenda est a primo autumno ad id tempus,
 quod erit antequam flare incipiat favonius. vere enim
 omnes arbores fiunt praegnantes et omnes suae proprietatis virtutem efferunt in frondem anniversariosque fructus. cum ergo inanes et tumidae temporum necessitate
@@ -1393,8 +1393,8 @@ in urbe supernas dicitur abies, deterior est, quae infernas,
 egregios in aedificiis ad diuturnitatem praestat usus, et de
 his rebus, quemadmodum videantur e locorum proprietatibus habere vitia aut virtutes, uti ea sint considerantibus apertiora, exponere.
 </p></div3>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <div3 type="section" n="1"><p>Montis Appennini primae radices ab Tyrrenico mari inter Alpis et extremas Etruriae regiones
 oriuntur. eius vero montis iugum se circumagens et media
 curvatura prope tangens oras maris Hadriani pertingit circumitionibus contra fretum. itaque citerior eius curvatura,
@@ -1428,12 +1428,12 @@ explicatum, in ceteris voluminibus de ipsis aedificiis exponetur; et primum de d
 et de earum symmetriis et proportionibus, uti ordo postulat,
 insequenti perscribam.
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="3">
+</div>
+</div>
+<div type="book" n="3">
 <!-- 3,t,1,1 -->
 <head>LIBER TERTIUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Delphicus Apollo Socratem omnium sapientissimum
 Pythiae responsis est professus. is autem memoratur prudenter doctissimeque dixisse, oportuisse hominum pectora
 fenestrata et aperta esse, uti non occultos haberent sensus 
@@ -1492,8 +1492,8 @@ virtutibus e natura rerum est comparata, peregi. nunc in
 tertio de deorum inmortalium aedibus sacris dicam et, uti
 oportet, perscriptas exponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Aedium compositio constat ex symmetria, cuius rationem diligentissime architecti tenere debent. ea autem paritur a proportione, quae graece <foreign lang="greek">ἀναλογία</foreign> dicitur. proportio
 est ratae partis membrorum in omni opere totiusque commodulatio, ex qua ratio efficitur symmetriarum. namque
 non potest aedis ulla sine symmetria atque proportione rationem habere compositionis, nisi uti hominis bene figurati membrorum habuerit exactam rationem.
@@ -1569,8 +1569,8 @@ speciem ratae partis commensus fieri responsum, relinquitur, ut suspiciamus eos,
 proportionibus et symmetriis separatae atque universae
 convenientes efficerentur eorum distributiones.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Aedium autem principia sunt, e quibus constat figurarum aspectus, ea: primum in antis, quod graece <foreign lang="greek">ναὸς ἐν παραστάσιν</foreign> dicitur, deinde prostylos, amphiprostylos,
 peripteros, pseudodipteros, &lt;dipteros&gt;, hypaethros. horum exprimuntur formationes his rationibus.
 </p></div3>
@@ -1606,8 +1606,8 @@ valvarum ex utraque parte in pronao et postico. huius item
 exemplar Romae non est, sed Athenis octastylos ex templo
 Olympio.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Species autem aedium sunt quinque, quarum ea sunt
 vocabula: pycnostylos, id est crebris columnis, systylos paulo
 remissioribus, diastylos amplius quam oportet inter se diductis, araeostylos spatiis intercolumniorum patentibus rare, eustylos intervallorum iusta distributione.
@@ -1711,8 +1711,8 @@ mediis columnis, quae apud Graecos <foreign lang="greek">ἔντασις</foreig
 in extremo libro erit forma et ratio eius, quemadmodum
 mollis et conveniens efficiatur, subscripta.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Fundationes eorum operum fodiantur, si queat inveniri,
 ad solidum et in solido, quantum ex amplitudine operis pro
 ratione videbitur, extruaturque structura totum solum quam
@@ -1752,8 +1752,8 @@ libellam dirigetur, alveolatum oculo videbitur. hoc autem,
 ut scamilli ad id convenientes fiant, item in extremo libro
 forma et demonstratio erit descripta.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>His perfectis in suis locis spirae conlocentur, eaeque ad
 symmetriam sic perficiantur, uti crassitudo cum plintho
 sit columnae ex dimidia crassitudine proiecturamque, quam
@@ -1886,12 +1886,12 @@ ex ore.</p>
 hoc volumine scripsi; doricarum autem et corinthiarum quae
 sint proportiones, insequenti libro explicabo.
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="4">
+</div>
+</div>
+<div type="book" n="4">
 <!-- 4,t,1,1 -->
 <head>LIBER QUARTUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Cum animadvertissem, imperator, plures de architectura
 praecepta voluminaque commentariorum non ordinata sed
 incepta uti particulas errabundas reliquisse, dignam et utilissimam rem putavi tantae disciplinae corpus ad perfectam
@@ -1904,8 +1904,8 @@ autem de aedium sacrarum dispositionibus et de earum generum varietate quasque e
 volumine de doricis corinthiisque constitutis et omnibus
 dicam eorumque discrimina et proprietates explicabo.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Columnae corinthiae praeter capitula omnes symmetrias
 habent uti ionicae, sed capitulorum altitudines efficiunt
 eas pro rata excelsiores et graciliores, quod ionici capituli 
@@ -2003,8 +2003,8 @@ symmetriis corinthia capitula suas habebunt exactiones.</p>
 genera variis vocabulis nominata, quorum nec proprietates
 symmetriarum nec columnarum genus aliud nominare possumus, sed ipsorum vocabula traducta et commutata ex corinthiis et pulvinatis et doricis videmus, quorum symmetriae sunt in novarum scalpturarum translatae subtilitatem. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Quoniam autem de generibus columnarum origines et
 inventiones supra sunt scriptae, non alienum mihi videtur
 isdem rationibus de ornamentis eorum, quemadmodum sunt
@@ -2066,8 +2066,8 @@ veritatis. itaque ex eis originibus symmetrias et proportiones uniuscuiusque gen
 quorum ingressus persecutus de ionicis et corinthiis institutionibus supra dixi; nunc vero doricam rationem
 summamque eius speciem breviter exponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Nonnulli antiqui architecti negaverunt dorico genere
 aedes sacras oportere fieri, quod mendosae et disconvenientes in his symmetriae conficiebantur. itaque negavit
 Arcesius, item Pytheos, non minus Hermogenes. nam is
@@ -2143,8 +2143,8 @@ erit curvaturae inter rotundationem et quadratam descriptionem, tantum ad formam
 <p>Quoniam exterior species symmetriarum et corinthiorum et doricorum et ionicorum est perscripta, necesse
 est etiam interiores cellarum pronaique distributiones explicare.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Distribuitur autem longitudo aedis, uti latitudo
 sit longitudinis dimidiae partis, ipsaque cella parte quarta
 longior sit, quam est latitudo, cum pariete, qui paries 
@@ -2186,8 +2186,8 @@ omnis operis perfectionem. item circum coagmenta et
 cubilia eminentes expressiones graphicoteran efficient in
 aspectu delectationem.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Regiones autem, quas debent spectare aedes sacrae
 deorum inmortalium, sic erunt constituendae, uti, si
 nulla ratio inpedierit liberaque fuerit potestas, aedis signumque, quod erit in cella conlocatum, spectet ad vespertinam caeli regionem, uti, qui adierint ad aram immolantes aut sacrificia facientes, spectent ad partem caeli
@@ -2198,8 +2198,8 @@ et sacrificantes, quod aras omnes deorum necesse esse videatur ad orientem spect
 <div3 type="section" n="2"><p>Sin autem loci natura interpellaverit, tunc convertendae sunt earum regionum constitutiones, uti quam plurima pars moenium e templis
 earum conspiciatur. item si secundum flumina aedis sacra fiet, ita uti Aegypto circa Nilum, ad fluminis ripas videntur spectare debere. similiter si circum vias publicas erunt aedificia deorum, ita constituantur, uti praetereuntes possint respicere et in conspectu salutationes facere. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Ostiorum autem et eorum antepagmentorum in aedibus
 hae sunt rationes, uti primum constituatur, quot genera
 sint [futurae]. genera sunt enim thyromaton haec: doricum,
@@ -2258,8 +2258,8 @@ aperturas habent in exteriores partes.</p>
 potui attingere, veluti legitimis moribus exposui. nunc
 de tuscanicis dispositionibus, quemadmodum institui oporteat, dicam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>Locus, in quo aedis constituetur, cum habuerit in longitudine sex partes, una dempta reliquum quod
 erit, latitudini detur. longitudo autem dividatur bipertito,
 et quae pars erit interior, cellarum spatiis designetur, quae
@@ -2290,8 +2290,8 @@ tangunt et non spiramentum et perflatum venti recipiunt, concalefaciuntur et cel
 columnae proiciantur; item in eorum frontibus antepagmenta figantur. supraque &icirc;s tympanum fastigii structura seu de materia conlocetur. supraque e&ucirc;m fastigium, columen, cantherii, templa ita sunt conlocanda, ut
 stillicidium tecti absoluti tertiario respondeat.
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>Fiunt autem aedes rotundae, e quibus aliae monopteroe sine cella columnatae constituuntur, aliae peripteroe
 dicuntur. quae sine cella fiunt, tribunal habent et ascensum ex sua diametro tertiae partis. insuper stylobatam
 columnae constituuntur tam altae, quanta ab extremis
@@ -2335,8 +2335,8 @@ religionum habet effectus.
 <div3 type="section" n="7"><p>Omnes aedium sacrarum ratiocinationes, uti mihi traditae sunt, exposui ordinesque et symmetrias earum partitionibus distinxi, et quarum dispares sunt figurae et quibus discriminibus inter se sunt disparatae, quoad potui
 significare scriptis, exposui. nunc de aris deorum inmortalium, uti aptam constitutionem habeant ad sacrificiorum rationem, dicam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <div3 type="section" n="1"><p>Arae spectent ad orientem et semper inferiores sint conlocatae quam simulacra, quae fuerint
 in aede, uti suspicientes divinitatem, qui supplicant, et
 sacrificent. disparibus altitudinibus ad sui cuiusque dei
@@ -2346,12 +2346,12 @@ conlocentur. ita idoneae his institutionibus explicabuntur
 modulationibus ararum deformationes.</p>
 <p>Explicatis aedium sacrarum compositionibus in hoc libro, insequenti de communium operum reddemus distributionibus explicationes. 
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="5">
+</div>
+</div>
+<div type="book" n="5">
 <!-- 5,t,1,1 -->
 <head>LIBER QUINTUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Qui amplioribus voluminibus, imperator, ingenii cogitationes praeceptaque explicaverunt, maximas et egregias
 adiecerunt suis scriptis auctoritates. quod etiam velim
 nostris quoque studiis res pateretur, ut amplificationibus
@@ -2387,8 +2387,8 @@ quarto volumine aedium sacrarum rationes exposui, hoc
 libro publicorum locorum expediam dispositiones. primumque forum uti oporteat constitui, dicam, quod in eo et publicarum et privatarum rerum rationes per magistratus
 gubernantur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Graeci in quadrato amplissimis et duplicibus porticibus
 fora constituunt crebrisque columnis et lapideis aut marmoreis epistyliis adornant et supra ambulationes in contignationibus faciunt. Italiae vero urbibus non eadem est
 ratione faciendum, ideo quod a maioribus consuetudo tradita est gladiatoria munera in foro dari. 
@@ -2441,8 +2441,8 @@ altitudine perpetua sub trabes testudinis perductae et
 magnificentiam inpensae et auctoritatem operi adaugere
 videntur.]
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Aerarium, carcer, curia foro sunt coniungenda, sed ita
 uti magnitudo &lt;ac&gt; symmetriae eorum foro respondeant.
 maxime quidem curia in primis est facienda ad dignitatem municipii sive civitatis. et si quadrata erit, quantum habuerit latitudinis dimidia addita constituatur altitudo; sin autem oblonga fuerit, longitudo et latitudo
@@ -2453,8 +2453,8 @@ ad dimidiam partem altitudinis. quae si non erunt, vox
 ibi disputantium elata in altitudinem intellectui non poterit esse audientibus. cum autem coronis praecincti parietes erunt, vox ab imis morata, priusquam in aera elata
 dissipabitur, auribus erit intellecta.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Cum forum constitutum fuerit, tum deorum inmortalium
 diebus festis ludorum spectationibus eligendus est locus
 theatro quam saluberrimus, uti in primo libro de salubritatibus in moenium conlocationibus est scriptum. per
@@ -2490,8 +2490,8 @@ suavior ad spectatorum perveniret aures. uti enim organa aeneis lamminis aut cor
 sonit&ucirc;m claritatem perficiuntur, sic theatrorum per harmonicen ad augendam vocem ratiocinationes ab antiquis
 sunt constitutae.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Harmonice autem est musica litteratura obscura et
 difficilis, maxime quidem quibus graecae litterae non sunt
 notae. quam si volumus explicare, necesse est etiam
@@ -2567,8 +2567,8 @@ sonitus aut vocis cantus factus fuerit, nec inter tria aut
 sex aut septem possunt consonantiae fieri, sed, uti supra
 scriptum est, diatessaron et diapente et ex ordine ad disdiapason convenientiae ex natura vocis congruentis habent finitiones. [et ei concentus procreantur ex coniunctione sonituum, qui graece <foreign lang="greek">φθόγγοι</foreign> dicuntur.]
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Ita ex his indagationibus mathematicis rationibus fiant
 vasa aerea pro ratione magnitudinis theatri, eaque ita
 fabricentur, ut, cum tangantur, sonitum facere possint
@@ -2624,8 +2624,8 @@ theatro Corinthiorum ea aenea Romam deportavit et de
 manubiis ad aedem Lunae dedicavit. multi etiam sollertes architecti, qui in oppidis non magnis theatra constituerunt, propter inopiam fictilibus doliis ita sonantibus
 electis hac ratiocinatione compositis perfecerunt utilissimos effectus.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Ipsius autem theatri conformatio sic est facienda, uti,
 quam magna futura est perimetros imi, centro medio conlocato circumagatur linea rotundationis, in eaque quattuor
 scribantur trigona paribus lateribus, &lt;quae paribus&gt; intervallis extremam lineam circinationis tangant, quibus etiam
@@ -2699,8 +2699,8 @@ speciem prospectusque fenestris dispositos imitatione, communium aedificiorum ra
 arboribus, speluncis, montibus reliquisque agrestibus rebus
 in topeodis speciem deformati.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>In Graecorum theatris non omnia isdem rationibus
 sunt facienda, quod primum in ima circinatione, ut in
 latino trigonorum <hi rend="scp">IIII</hi>, in eo quadratorum trium anguli
@@ -2721,8 +2721,8 @@ separatim nominantur. eius logei altitudo non minus debet esse pedum <hi rend="s
 dirigantur ad primam praecinctionem, a praecinctione
 inter eas iterum mediae dirigantur, et ad summam quotiens praecinguntur, altero tanto semper amplificantur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>Cum haec omnia summa cura sollertiaque explicata
 sunt, tunc etiam diligentius est animadvertendum, uti sit
 electus locus, in quo leniter adplicet se vox neque repulsa
@@ -2747,8 +2747,8 @@ quae Graecorum habent usus, ex quadratis designentur,
 latina e paribus lateribus trigonorum. ita his praescriptionibus qui voluerit uti, emendatas efficiet theatrorum
 perfectiones.
 </p></div3>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <div3 type="section" n="1"><p>Post scaenam porticus sunt constituendae, uti, cum
 imbres repentini ludos interpellaverint, habeat populus,
 quo se recipiat ex theatro, choragiaque laxamentum habeant
@@ -2822,8 +2822,8 @@ theatri, sed etiam omnium deorum templis effectae magnas civitatibus praestare p
 <p>Quoniam haec nobis satis videntur esse exposita, nunc
 insequentur balinearum dispositionum demonstrationes.
 </p></div3>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <div3 type="section" n="1"><p>Primum eligendus locus est quam calidissimus, id est
 aversus ab septentrione et aquilone. ipsa autem caldaria
 tepidariaque lumen habeant ab occidente hiberno, si autem
@@ -2867,8 +2867,8 @@ pendeat, per cuius reductiones et demissiones perficietur
 sudationis temperatura. ipsumque ad circinum fieri oportere videtur, ut aequaliter a medio flammae vaporisque
 vis per curvaturae rotundationes pervagetur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <div3 type="section" n="1"><p>Nunc mihi videtur, tametsi non sint italicae consuetudinis palaestrarum aedificationes, traditae tamen, explicare et, quemadmodum apud Graecos constituantur, monstrare. in palaestris peristylia quadrata sive oblonga ita
 sunt facienda, uti duorum stadiorum habeant ambulationis circumitionem, quod Graeci vocant <foreign lang="greek">δίαυλον</foreign>, ex quibus
 tres porticus simplices disponantur, quarta, quae ad meridianas regiones est conversa, duplex, uti, cum tempestates
@@ -2907,8 +2907,8 @@ autem stadium ita figuratum, ut possint hominum copiae
 cum laxamento athletas certantes spectare.</p>
 <p>Quae in moenibus necessaria videbantur esse, ut apte disponantur, perscripsi.
 </p></div3>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <div3 type="section" n="1"><p>De opportunitate autem portuum non est praetermittendum sed, quibus rationibus tueantur
 naves in his ab tempestatibus, explicandum. hi autem naturaliter si sint bene positi habeantque acroteria sive
 promunturia procurrentia, ex quibus introrsus curvaturae
@@ -2972,12 +2972,12 @@ ibi conlocationem.</p>
 <p>Quae necessaria ad utilitatem in civitatibus publicorum
 locorum succurrere mihi potuerunt, quemadmodum constituantur et perficiantur, in hoc volumine scripsi; privatorum autem aedificiorum utilitates et eorum symmetrias
 insequenti volumine ratiocinabor.</p></div3>
-</div2>
-</div1>
-<div1 type="book" n="6">
+</div>
+</div>
+<div type="book" n="6">
 <!-- 6,t,1,1 -->
 <head>LIBER SEXTUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Aristippus philosophus Socraticus, naufragio cum eiectus
 ad Rhodiensium litus animadvertisset geometrica schemata descripta, exclamavisse ad comites ita dicitur: 'bene
 speremus! hominum enim vestigia video.' statimque in
@@ -3050,8 +3050,8 @@ in quinto de opportunitate communium operum perscripsi,
 in hoc volumine privatorum aedificiorum ratiocinationes
 et commensus symmetriarum explicabo.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Haec autem ita erunt recte disposita, si primo animadversum fuerit, quibus regionibus aut quibus inclinationibus
 mundi constituantur. namque aliter Aegypto, aliter Hispania, non eodem modo Ponto, dissimiliter Romae, item
 ceteris terrarum et regionum proprietatibus oportere videntur constitui genera aedificiorum, quod alia parte solis
@@ -3144,8 +3144,8 @@ natura rerum dispositas animadvertere, exposui et, quemadmodum ad solis cursum e
 dixi; itaque nunc singulorum generum in aedificiis commensus symmetriarum et universos et separatos breviter
 explicabo.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Nulla architecto maior cura esse debet, nisi uti proportionibus ratae partis habeant aedificia rationum exactiones. cum ergo constituta symmetriarum ratio fuerit
 et commensus ratiocinationibus explicati, tum etiam acuminis est proprium providere ad naturam loci aut usum
 aut speciem &lt;detractionibus aut&gt; adiectionibus temperaturas &lt;et&gt; efficere, cum de symmetria sit detractum
@@ -3177,8 +3177,8 @@ etiam ingeniorum acuminibus, non solum doctrinis efficiuntur.
 uti non sit considerantibus aspectus eurythmiae dubius.
 de qua, quibus rationibus efficiatur, est mihi pronuntiandum, primumque de cavis aedium, uti fieri debeant, dicam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Cava aedium quinque generibus sunt distincta, quorum
 ita figurae nominantur: tuscanicum, corinthium, tetrastylon,
 displuviatum, testudinatum. tuscanica sunt, in quibus trabes in atrii latitudine traiectae habeant interpensiva et
@@ -3270,8 +3270,8 @@ fieri poterunt, luminaque, parietum altitudinibus si non
 obscurabuntur, faciliter erunt explicata; sin autem inpedientur ab angustiis aut aliis necessitatibus, tunc erit
 ut ingenio et acumine de symmetriis detractiones aut adiectiones fiant, uti non dissimiles veris symmetriis perficiantur venustates.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Nunc explicabimus, quibus proprietatibus genera aedificiorum ad usum et caeli regiones aptas debeant spectare.
 hiberna triclinia et balnearia ad occidentem hibernum
 spectent, ideo quod vespertino lumine opus est uti, praeterea quod etiam sol occidens adversus habens splendorem,
@@ -3291,8 +3291,8 @@ in usu praestat. non minus pinacothecae et plumariorum
 textrina pictorumque officinae, uti colores eorum in opere
 propter constantiam luminis inmutata permaneant qualitate.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Cum ad regiones caeli ita ea fuerint disposita, tunc
 etiam animadvertendum est, quibus rationibus privatis
 aedificiis propria loca patribus familiarum et quemadmodum communia cum extraneis aedificari debeant.
@@ -3327,8 +3327,8 @@ tunc atria habentia circum porticus pavimentatas spectantes ad palaestras et amb
 <p>Quoad potui urbanas rationes aedificiorum summatim
 perscribere, proposui; nunc rusticorum expeditionum &lt;apparationes&gt;, ut sint ad usum commodae quibusque rationibus conlocare oporteat eas, dicam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Primum de salubritatibus, uti in primo volumine de
 moenibus conlocandis scriptum est, regiones aspiciantur
 et ita villae conlocentur. magnitudines earum ad modum
@@ -3397,8 +3397,8 @@ obviam venientes ferentes sarcinas solent incurrere.</p>
 <p>Quoad potui, distributiones operum nostratium, ut sint
 aedificatoribus non obscurae, explicui; nunc etiam, quemadmodum Graecorum consuetudinibus aedificia distribuantur, uti non sint ignota, summatim exponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>Atriis Graeci quia non utuntur, neque aedificant, sed
 ab ianua introeuntibus itinera faciunt latitudinibus non
 spatiosis, et ex una parte equilia, ex altera ostiariis cellas,
@@ -3458,8 +3458,8 @@ non sint ignota philologis, exponenda iudicavi.</p>
 singulorum generum proportiones perscripsi. ergo quoniam
 de venustate decoreque ante est conscriptum, nunc exponemus de firmitate, quemadmodum ea sine vitiis permanentia ad vetustatem conlocentur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>Aedificia quae plano pede instituuntur, si fundamenta
 eorum facta fuerint ita, ut in prioribus libris de muro et
 theatris a nobis est expositum, ad vetustatem ea erunt
@@ -3531,12 +3531,12 @@ definitum.</p>
 de expolitionibus autem eorum, uti sint elegantes et sine
 vitiis ad vetustatem, insequenti volumine exponam.
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="7">
+</div>
+</div>
+<div type="book" n="7">
 <!-- 7,t,1,1 -->
 <head>LIBER SEPTIMUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Maiores cum sapienter tum etiam utiliter instituerunt,
 per commentariorum relationes cogitata tradere posteris,
 ut ea non interirent, sed singulis aetatibus crescentia voluminibus edita gradatim pervenirent vetustatibus ad summam doctrinarum subtilitatem. itaque non mediocres sed
@@ -3677,8 +3677,8 @@ singulis exponere rebus. itaque, quoniam sexto volumine
 privatorum aedificiorum rationes perscripsi, in hoc, qui
 septimum tenet numerum, de expolitionibus, quibus rationibus et venustatem et firmitatem habere possint, exponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Primumque incipiam de ruderatione, quae principia
 tenet expolitionum, uti curiosius summaque providentia
 solidationis ratio habeatur. et si plano pede erit eruderandum, quaeratur, solum si sit perpetuo solidum, et ita
@@ -3745,8 +3745,8 @@ subigatur. supra autem sive ex tessera grandi sive ex
 spica testacea &lt;pavimenta&gt; struantur fastigiis, quibus est
 supra scriptum, et cum sic erunt facta, non cito vitiabuntur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Cum a pavimentorum cura discessum fuerit, tunc de
 albariis operibus est explicandum. id autem erit recte,
 si glaebae calcis optimae ante multo tempore, quam opus
@@ -3765,8 +3765,8 @@ indicabit eam evanidam et siticulosam; cum vero pinguis
 fuerit et recte macerata, circa id ferramentum uti glutinum haerens omni ratione probabit se esse temperatam.
 tunc autem machinis comparatis camerarum dispositiones
 in conclavibus expediantur, nisi lacunariis ea fuerint ornata.
-</p></div3></div2>
-<div2 type="chapter" n="3">
+</p></div3></div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Cum ergo camerarum postulabitur ratio, sic erit faciundum. asseres directi disponantur inter se ne plus spatium
 habentes pedes binos, et hi maxime cupressei, quod
 abiegnei ab carie et ab vetustate celeriter vitiantur. hique
@@ -3863,8 +3863,8 @@ figantur, et ita, uti supra scriptum est, harenatum et marmor et omne tectorium 
 in parietibus harundinibus transversis fixa perpetuitas nec
 segmina nec rimam ullam fieri patietur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Quibus rationibus siccis locis tectoria oporteat fieri,
 dixi; nunc, quemadmodum umidis locis politiones expediantur, ut permanere possint sine vitiis, exponam. et primum
 conclavibus, quae plano pede fuerint, in imo pavimento
@@ -3910,8 +3910,8 @@ et libellam summo libramento cote despumato redditur
 species nigri pavimenti. ita conviviis eorum et, quod poculis et pytismatis effunditur, simul cadit siccescitque, quique versantur ibi ministrantes, etsi nudis pedibus fuerint,
 non recipiunt frigus ab eius modi genere pavimenti. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Ceteris conclavibus, id est vernis, autumnalibus, aestivis,
 etiam atriis et peristylis, constitutae sunt ab antiquis ex
 certis rebus certae rationes picturarum. namque pictura
@@ -3988,8 +3988,8 @@ opere tectorio, satis exposui; nunc de apparitionibus, ut
 succurrere potuerit, dicam, et primum, quoniam de calce
 initio est dictum, nunc de marmore ponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Marmor non eodem genere omnibus regionibus procreatur, sed quibusdam locis glaebae ut salis micas perlucidas habentes nascuntur, quae contusae et molitae praestant operibus utilitatem. quibus autem locis eae copiae
 non sunt, caementa marmorea, sive assulae dicuntur, quae
 marmorarii ex operibus deiciunt, contunduntur et moluntur,
@@ -4000,8 +4000,8 @@ sed sic est subtilis, quemadmodum si qua est manu contusa
 et subcreta.</p>
 <p>Colores vero alii sunt, qui per se certis locis procreantur et inde fodiuntur, nonnulli ex aliis rebus tractationibus aut mixtionum temperaturis compositi perficiuntur, uti praestent eandem in operibus utilitatem.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>Primum autem exponemus, quae per se nascentia fodiuntur, uti sil,
 quod graece <foreign lang="greek">ὤχρα</foreign> dicitur. haec vero multis locis, ut etiam
 in Italia, invenitur; sed quae fuerat optima, attica, ideo
@@ -4019,8 +4019,8 @@ eadem ratione melinum, quod eius metallum in sola cycladi Melo dicitur esse.
 </p></div3>
 <div3 type="section" n="5"><p>Auripigmentum, quod <foreign lang="greek">ἀρσενικόν</foreign> graece dicitur, foditur Ponto. sandaraca item pluribus locis, sed optima Ponto proxime flumen Hypanim habet metallum.
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>Ingrediar nunc minii rationes explicare. id autem agris
 Ephesiorum Cilbianis primum esse memoratur inventum.
 cuius et res et ratio satis magnas habet admirationes.
@@ -4054,8 +4054,8 @@ manibus premitur, argentum per panni raritates propter
 liquorem extra labitur compressione coactum, aurum intra
 purum invenitur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <div3 type="section" n="1"><p>Revertar nunc ad minii temperaturam. ipsae enim
 glaebae, cum sunt aridae, contunduntur pilis ferreis, et
 lotionibus et cocturis crebris relictis stercoribus efficiuntur, ut adveniant, colores. cum ergo emissae sint ex minio
@@ -4095,8 +4095,8 @@ se esse vitiatum.
 qui sunt proximi aerariis metallis. armenium et indicum
 nominibus ipsis indicatur, quibus in locis procreatur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <div3 type="section" n="1"><p>Ingrediar nunc ad ea, quae ex aliis generibus tractationum temperaturis commutata recipiunt colorum proprietates. et primum exponam de atramento, cuius usus
 in operibus magnas habet necessitates, ut sint notae, quemadmodum praeparentur certis rationibus artificiorum, ad id temperaturae.
 </p></div3>
@@ -4116,8 +4116,8 @@ opere inducetur, atramenti suavitatis superque efficiet
 colorem; et quo magis ex meliore vino parabitur, non
 modo atramenti, sed etiam indici colorem dabit imitari.
 </p></div3>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <div3 type="section" n="1"><p>Caeruli temperationes Alexandriae primum sunt inventae, postea item Vestorius Puteolis instituit faciundum. 
 ratio autem eius, e quibus est inventa, satis habet admirationis. harena enim cum nitri flore conteritur adeo subtiliter, ut efficiatur quemadmodum farina; ea aes cyprum
 limis crassis uti scobis facta mixta conspargitur, ut conglomeretur; deinde pilae manibus versando efficiuntur et
@@ -4129,8 +4129,8 @@ viribus per ignis vehementiam confectis caeruleo rediguntur colore.
 </p></div3>
 <div3 type="section" n="2"><p>Usta vero, quae satis habet utilitatis in operibus tectoriis, sic temperatur. glaeba silis boni coquitur, ut sit in igni candens; ea autem aceto extinguitur et efficitur purpureo colore.
 </p></div3>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <div3 type="section" n="1"><p>De cerussa aerugineque, quam nostri aerucam vocitant,
 non est alienum, quemadmodum comparetur, dicere. Rhodo
 enim doliis sarmenta conlocantes aceto suffuso supra sarmenta conlocant plumbeas massas, deinde ea operculis
@@ -4140,8 +4140,8 @@ obturant, ne spiramento obturatum emittatur. post certum tempus aperientes inven
 efficitur sandaraca&mdash;id autem incendio facto ex casu didicerunt homines&mdash;et ea multo meliorem usum praestat,
 quam quae de metallis per se nata foditur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <div3 type="section" n="1"><p>Incipiam nunc de ostro dicere, quod et carissimam et
 excellentissimam habet praeter hos colores aspectus suavitatem. id autem excipitur e conchylio marino, e quo 
 purpura efficitur, cuius non minores sunt quam ceterarum
@@ -4157,8 +4157,8 @@ etiam insula creatur ceterisque eiusmodi regionibus, quae proximae sunt solis cu
 sanies, uti lacrima profluens, excussa in mortariis terendo
 comparatur. et quod ex concharum marinarum testis eximitur, ideo ostrum est vocitatum. id autem propter salsuginem cito fit siticulosum, nisi mel habeat circa fusum.
 </p></div3>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <div3 type="section" n="1"><p>Fiunt etiam purpurei colores infecta creta rubiae radice
 et hysgino, non minus et ex floribus alii colores. itaque
 tectores, cum volunt sil atticum imitari, violam aridam
@@ -4179,12 +4179,12 @@ autem de aqua, si quibus locis non fuerit, quemadmodum
 inveniatur et qua ratione ducatur quibusque rebus, si erit
 salubris et idonea, probetur, explicabo.</p>
 </div3>
-</div2>
-</div1>
-<div1 type="book" n="8">
+</div>
+</div>
+<div type="book" n="8">
 <!-- 8,t,1,1 -->
 <head>LIBER OCTAVUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>De septem sapientibus Thales Milesius omnium rerum
 principium aquam est professus, Heraclitus ignem, Magorum sacerdotes aquam et ignem, Euripides, auditor Anaxagorae, quem philosophum Athenienses scaenicum appellaverunt, aera et terram, eamque e caelestium imbrium
 conceptionibus inseminatam fetus gentium et omnium animalium in mundo procreavisse, et quae ex ea essent
@@ -4220,8 +4220,8 @@ putavi, quoniam in prioribus septem voluminibus rationes
 aedificiorum sunt expositae, in hoc oportere de inventionibus aquae, quasque habeat in locorum proprietatibus
 virtutes, quibusque rationibus ducatur, et quemadmodum ante probetur, scribere.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Est enim maxime necessaria et ad vitam et ad delectationes et ad usum cotidianum.</p>
 <p>Ea autem erit facilior, si erunt fontes aperti et fluentes.
 sin autem non profluent, quaerenda sub terra sunt capita
@@ -4305,8 +4305,8 @@ apparentes, ex his, quod est levissimum tenuissimumque
 et subtili salubritate, aer avocans dissipat in impetum caeli,
 quaeque gravissimae duraeque et insuaves sunt partes,  eae in fontibus campestribus relinquuntur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Itaque, quae ex imbribus aqua colligitur, salubriores habet virtutes,
 quod eligitur ex omnibus fontibus levissimis subtilibusque
 tenuitatibus, deinde per aeris exercitationem percolata
@@ -4379,8 +4379,8 @@ permanere, sed brevi spatio fit frigida. namque si naturaliter esset calida, non
 et odor et color eius non restituitur, quod intinctus et
 commixtus est propter naturae raritatem. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Sunt autem etiam nonnulli fontes calidi, ex quibus
 profluit aqua sapore optimo, quae in potione ita est suavis, uti nec fontalis ab Camenis nec Marcia saliens desideretur. haec autem ab natura perficiuntur his rationibus.
 cum in imo per alumen aut bitumen seu sulphur ignis
@@ -4658,8 +4658,8 @@ vero nec corpus animalium nec ulla cibi virtus potest
 nasci nec tueri nec parari. quare magna diligentia industriaque quaerendi sunt et eligendi fontes ad humanae
 vitae salubritatem.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Expertiones autem et probationes eorum sic sunt providendae. si erunt profluentes et aperti, antequam duci
 incipiantur, aspiciantur animoque advertantur, qua membratura sint qui circa eos fontes habitant homines; et
 si erunt corporibus valentibus, coloribus nitidis, cruribus
@@ -4675,8 +4675,8 @@ aliquo inquinamento is locus fuerit, sed puram habuerit
 speciem, in&lt;dica&gt;bitur his signis esse tenuis et summa
 salubritate.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Nunc de perductionibus ad habitationes moeniaque, ut
 fieri oporteat, explicabo. cuius ratio est prima perlibratio.
 libratur autem dioptris aut libris aquariis aut chorobate,
@@ -4707,8 +4707,8 @@ se librata esse. exemplar autem chorobati erit in extremo volumine descriptum. e
 facilior erit decursus aquae; sin autem intervalla erunt
 lacunosa, substructionibus erit succurrendum.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Ductus autem aquae fiunt generibus tribus: rivis per
 canales structiles, aut fistulis plumbeis, seu tubulis fictilibus. quorum hae sunt rationes. si canalibus, ut structura fiat quam solidissima, solumque rivi libramenta habeat
 fastigata ne minus in centenos pedes sicilico. eaeque structurae confornicentur, ut minime sol aquam tangat. cumque venerit ad moenia, efficiatur castellum et castello
@@ -4822,12 +4822,12 @@ extenuari.</p>
 utilitates quibusque rationibus ducatur et probetur, in
 hoc volumine posui; de gnomonicis vero rebus et horologiorum rationibus insequenti perscribam.
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="9">
+</div>
+</div>
+<div type="book" n="9">
 <!-- 9,t,1,1 -->
 <head>LIBER NONUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Nobilibus athletis, qui Olympia, Pythia, Isthmia, Nemea vicissent, Graecorum maiores ita magnos honores
 constituerunt, uti non modo in conventu stantes cum palma
 et corona ferant laudes, sed etiam, cum revertantur in
@@ -4979,8 +4979,8 @@ conscripsi, et prioribus septem de aedificiis, octavo de aquis,
 in hoc de gnomonicis rationibus, quemadmodum de radiis
 solis in mundo sunt per umbras gnomonis inventae quibusque rationibus dilatentur aut contrahantur, explicabo.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Ea autem sunt divina mente comparata habentque
 admirationem magnam considerantibus, quod umbra gnomonis aequinoctialis alia magnitudine est Athenis, alia
 Alexandriae, alia Romae, non eadem Placentiae ceterisque
@@ -5117,8 +5117,8 @@ opere ac cursu, quibus rationibus et numeris transeunt e
 signis in signa, et circumitum eorum, uti a praeceptoribus
 accepi, exposui; nunc de crescenti lumine lunae deminutioneque, uti traditum est nobis a maioribus, dicam. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Berosus, qui ab Chaldaeorum civitate sive natione progressus in Asia etiam disciplinam Chaldaicam patefecit,
 ita est professus: pilam esse ex dimidia parte candentem,
 reliqua habere caeruleo colore. cum autem cursum itineris sui peragens subierit sub orbem solis, tunc eam
@@ -5163,8 +5163,8 @@ habet lucidum reliquis obscura. item cotidie cursum faciendo circiter octavo et 
 solis, et ita menstruas perficit rationes.</p>
 <p>Nunc, ut in singulis mensibus sol signa pervadens auget et minuit dierum et horarum spatia, dicam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>Namque cum  arietis signum iniit et partem octavam pervagatur, perficit aequinoctium vernum. cum progreditur ad caudam
 tauri sidusque vergiliarum, e quibus eminet dimidia pars
 prior tauri, in maius spatium mundi quam dimidium procurrit procedens ad septentrionalem partem. e tauro cum
@@ -5196,8 +5196,8 @@ cursum. ita sol ea signa circum pervagando certis temporibus auget aut minuit di
 <p>Nunc de ceteris sideribus, quae sunt dextra ac sinistra
 zonam signorum meridiana septentrionalique parte mundi stellis disposita figurataque, dicam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Namque septentrio, quem Graeci nominant <foreign lang="greek">ἄρκτον</foreign> sive <foreign lang="greek">ἑλίκην</foreign>, habet post se
 conlocatum custodem. ab eo non longe conformata est
 virgo, cuius supra umerum dextrum lucidissima stella
@@ -5254,8 +5254,8 @@ et septentrionum sidera in caelo disposita, dixi [esse];
 nunc explicabo, quae ad sinistram orientis meridianisque
 partibus ab natura sunt distributa.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Primum sub capricorno subiectus piscis austrinus caudam prospiciens ceti. ab eo ad sagittarium locus est
 inanis. turibulum sub scorpionis aculeo. centauri priores
 partes proximae sunt librae et scorpioni. tenet in manibus
@@ -5291,8 +5291,8 @@ renuntiant autem negotiatores, qui ad extremas Aegypti
 regiones proximasque ultimis finibus terrae terminationes
 fuerunt.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>De mundi circa terram pervolitantia duodecimque signorum ex septentrionali meridianaque parte siderum 
 dispositione, ut sit perspecta, docui. namque ex ea mundi
 versatione et contrario solis per signa cursu gnomonumque aequinoctialibus umbris analemmatorum inveniuntur descriptiones.
@@ -5313,8 +5313,8 @@ quod tanta cura fuerunt, ut etiam videantur divina mente
 tempestatium significatus post futuros ante pronuntiare.
 quas ob res haec eorum curis studiisque sunt concedenda.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>Nobis autem ab his separandae sunt rationes et explicandae menstruae dierum brevitates itemque dilatationes. namque sol aequinoctiali tempore ariete libraque versando, quas e gnomone partes habet novem, eas umbrae
 facit <hi rend="scp">VIII</hi> in declinatione caeli, quae est Romae. itemque
 Athenis quam magnae sunt gnomonis partes quattuor,
@@ -5378,8 +5378,8 @@ invenire possum nec aliena pro meis praedicanda videntur.
 itaque quae nobis tradita sunt et a quibus sint inventa,
 dicam. 
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>Hemicyclium excavatum ex quadrato ad enclimaque
 succisum Berosus Chaldaeus dicitur invenisse; scaphen
 sive hemisphaerium Aristarchus Samius, idem etiam discum in planitia; arachnen Eudoxus astrologus, nonnulli
@@ -5506,12 +5506,12 @@ apparatus, ut sint ad usum expeditiores, quam apertissime
 potui, perscripsi. restat nunc de machinationibus et de 
 earum principiis ratiocinari. itaque de his, ut corpus emendatum architecturae perficiatur, insequenti volumine incipiam scribere.
 </p></div3>
-</div2>
-</div1>
-<div1 type="book" n="10">
+</div>
+</div>
+<div type="book" n="10">
 <!-- 10,t,1,1 -->
 <head>LIBER DECIMUS</head>
-<div2 type="chapter" n="preface">
+<div type="chapter" n="preface">
 <div3 type="section" n="1"><p>Nobili Graecorum et ampla civitate Ephesi lex vetusta
 dicitur a maioribus dura condicione sed iure esse non
 iniquo constituta. nam architectus, cum publicum opus
@@ -5551,8 +5551,8 @@ quoniam de aedificiis in prioribus voluminibus exposui,
 in hoc, quod finitionem summam corporis habet constitutam, quae sint principia machinarum, ordinata praeceptis
 explicare.
 </p></div3>
-</div2>
-<div2 type="chapter" n="1">
+</div>
+<div type="chapter" n="1">
 <div3 type="section" n="1"><p>Machina est continens e materia coniunctio maximas
 ad onerum motus habens virtutes. ea movetur ex arte
 circulorum rotundationibus, quam Graeci <foreign lang="greek">κυκλικην̀ κίνησιν</foreign>
@@ -5601,8 +5601,8 @@ raedae, cisia, torni ceteraque, quae communes ad usum
 consuetudinibus habent opportunitates.</p>
 <p>Itaque incipiemus de &icirc;s, quae raro veniunt ad manus, ut nota sint, explicare.
 </p></div3>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <div3 type="section" n="1"><p>Primumque instituemus de &icirc;s, quae
 aedibus sacris ad operumque publicorum perfectionem necessitate comparantur. quae fiunt ita. tigna duo ad onerum magnitudinem ratione expediuntur. a capite ea fibula
 coniuncta et in imo divaricata eriguntur, funibus in capitibus conlocatis et circa dispositis erecta retinentur. alligatur in summo troclea, quem etiam nonnulli rechamum
@@ -5739,8 +5739,8 @@ nomen mutaverunt: pro Pixodaro Euangelus nominaretur.
 hodieque quotmensibus magistratus in eum locum proficiscitur et ei sacrificium facit, et si non fecerit, poena
 tenetur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <div3 type="section" n="1"><p>De tractoriis rationibus quae necessaria putavi, breviter
 exposui. quorum motus et virtutes duae res diversae et inter
 se dissimiles &lt;efficiunt&gt;, ubi congruentes uti principia pariunt eos perfectus: una porrecti, quam Graeci <foreign lang="greek">εὐθεῖαν</foreign> vocitant, altera rotunditatis, quam Graeci <foreign lang="greek">κυκλωτην́</foreign> appellant.
@@ -5823,8 +5823,8 @@ cocleae, scorpiones, ballistae, prela ceteraeque machinae
 eisdem rationibus per porrectum centrum et rotationem
 circum versantem faciunt ad propositum effectus.
 </p></div3>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <div3 type="section" n="1"><p>Nunc de organis, quae ad hauriendam aquam inventa
 sunt, quemadmodum variis generibus comparentur, exponam. et primum dicam de tympano. id autem non
 alte tollit aquam, sed exhaurit expeditissime multitudinem
@@ -5850,8 +5850,8 @@ catena demissaque ad imum libramentum conlocabitur,
 habens situlos pendentes aereos congiales. ita versatio
 rotae catenam in axem involvendo efferet situlos in summum, qui &lt;cum&gt; super axem pervehuntur, cogentur inverti et infundere in castellum aquae quod extulerint.
 </p></div3>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <div3 type="section" n="1"><p>Fiunt etiam in fluminibus rotae eisdem rationibus, quibus supra scriptum est. circa earum frontes adfiguntur
 pinnae, quae, cum percutiuntur ab impetu fluminis, cogunt
 progredientes versari rotam, et ita modiolis haurientes et
@@ -5868,8 +5868,8 @@ dentes tympani plani cogunt fieri molarum circinationem.
 in qua machina inpendens infundibulum subministrat molis
 frumentum et eadem versatione subigitur farina.
 </p></div3>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <div3 type="section" n="1"><p>Est autem etiam cocleae ratio, quae magnam vim haurit
 aquae, sed non tam alte tollit quam rota. eius autem ratio
 sic expeditur. tignum sumitur, cuius tigni quanta paratur
@@ -5914,8 +5914,8 @@ forma descripta est in ipso tempore.</p>
 quibus rationibus perficiantur quibusque rebus motus recipientia praestent versationibus infinitas utilitates, ut essent notiora, quam apertissime potui, perscripta sunt in illo
 tempore.
 </p></div3>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <div3 type="section" n="1"><p>Insequitur nunc de Ctesibica machina, quae in
 altitudinem aquam educit, monstrare. ea fit ex aere. cuius
 in radicibus modioli fiunt gemelli paulum distantes, habentes fistulas furcillae figura similiter cohaerentes, in
@@ -5948,8 +5948,8 @@ in hoc de expressionibus aquae dicendum putavi. reliqua,
 quae non sunt ad necessitatem sed ad deliciarum voluptatem, qui cupidiores erunt eius subtilitatis, ex ipsius
 Ctesibii commentariis poterunt invenire.
 </p></div3>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <div3 type="section" n="1"><p>De hydraulis autem, quas habeant ratiocinationes, quam
 brevissime proximeque attingere potero et scriptura consequi, non praetermittam. de materia compacta basi, ara
 in ea ex aere fabricata conlocatur. supra basim eriguntur
@@ -5997,8 +5997,8 @@ ratio neque omnibus expedita ad intellegendum praeter
 eos, qui in his generibus habent exercitationem. quodsi
 qui parum intellexerit ex scriptis, cum ipsam rem cognoscet, profecto inveniet curiose et subtiliter omnia ordinata.
 </p></div3>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <div3 type="section" n="1"><p>Transfertur nunc cogitatio scripturae ad rationem non
 inutilem sed summa sollertia a maioribus traditam, qua
 in via raeda sedentes vel mari navigantes scire possimus,
@@ -6063,8 +6063,8 @@ spatia navigationis.</p>
 <p>Quae pacatis et sine metu temporibus ad utilitatem
 et delectationem paranda, quemadmodum debeant fieri, peregi [esse futurum].
 </p></div3>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <div3 type="section" n="1"><p>Nunc vero quae ad praesidia periculi et necessitatem salutis sunt inventa, id est scorpionum et ballistarum rationes, quibus symmetriis comparari possint, exponam.</p>
 <p>Omnes proportiones eorum organorum ratiocinandorum
 &lt;sumuntur&gt; ex proposita sagittae longitudine, quam id organum mittere debet, eiusque nonae partis fit foraminis in capitulis magnitudo, per quae tenduntur nervi torti, qui bracchia continere debent.
@@ -6116,8 +6116,8 @@ vectis, cum est longitudine pedum quinque, quod onus
 modo bracchia, quo longiora sunt, mollius, quo breviora,
 durius ducuntur.
 </p></div3>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <div3 type="section" n="1"><p>Catapultarum rationes, e quibus membris ex portionibus componantur, dixi. ballistarum autem rationes variae sunt et differentes unius effectus causa comparatae. aliae enim vectibus suculis, nonnullae polyspastis, aliae
 ergatis, quaedam etiam tympanorum torquentur rationibus.
 sed tamen nulla ballista perficitur nisi ad propositam
@@ -6179,8 +6179,8 @@ axis diametros aequaliter erit cheles, ad claviculas autem minus parte sexta dec
 <div3 type="section" n="9"><p>Anteridon longitudo foraminum &dagger;eius, latitudo in imo foraminis <note anchored="yes" place="foot" lang="en" resp="RFC">a symbol follows foraminis in the text; description: a macron over the letter gamma</note>, in summo crassitudo <note anchored="yes" place="foot" lang="en" resp="RFC">a symbol follows regulae in the text; description: a gamma, followed by followed by a K</note>. basis, quae appellatur <foreign lang="greek">ἐσχάρα</foreign>, longitudo foraminum <hi rend="scp">::::</hi>, antibasis foraminum <hi rend="scp">IIII</hi>, utriusque crassitudo et latitudo foraminis <note anchored="yes" place="foot" lang="en" resp="RFC">a symbol follows foraminis in the text; description: three dots above the three dot outline of a triangle</note>. compingitur autem dimidia altitudinis <hi rend="scp">K</hi>. columna, latitudo et crassitudo <hi rend="scp">IS</hi>. altitudo autem non habet foraminis proportionem, sed erit quod opus erit ad usum. bracchii longitudo foraminum <hi rend="scp">VI</hi>, crassitudo in radice foraminis, in extremis <hi rend="scp">F</hi>. </p>
 <p>De ballistis et catapultis symmetrias, quas maxime expeditas putavi, exposui. quemadmodum autem contentionibus eae temperentur e nervo capilloque tortis rudentibus, quantum comprehendere scriptis potuero, non praetermittam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <div3 type="section" n="1"><p>Sumuntur tigna amplissima longitudine; supra
 figuntur chelonia, in quibus includuntur suculae. per media
 autem spatia tignorum insecantur &lt;et&gt; exciduntur formae,
@@ -6200,8 +6200,8 @@ ita traiecti in alteram partem eadem ratione vectibus per
 suculas extenduntur, donec aequaliter sonent. ita cuneorum conclusionibus ad sonitum musicis auditionibus catapultae temperantur.</p>
 <p>De his rebus quae potui dixi. restat mihi de oppugnatoriis rebus, quemadmodum machinationibus et duces victores et civitates defensae esse possint.
 </p></div3>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <div3 type="section" n="1"><p>Primum ad oppugnationes aries sic inventus memoratur esse. Carthaginienses ad Gadis oppugnandas castra posuerunt. cum
 autem castellum ante cepissent, id demoliri sunt conati.
 posteaquam non habuerunt ad demolitionem ferramenta,
@@ -6262,8 +6262,8 @@ aditus habere posse scripsit, tantum pollicitum esse vehementer animadverti nequ
 <p>Quae sunt ab Diade de machinis scripta, quibus sint
 comparationibus, exposui. nunc quemadmodum a praeceptoribus accepi et utilia mihi videntur, exponam.
 </p></div3>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <div3 type="section" n="1"><p>Testudo, quae ad congestionem fossarum paratur (eaque
 etiam accessus ad murum potest habere), sic erit facienda.
 basis compingatur, quae graece <foreign lang="greek">ἐσχάρα</foreign> dicitur, quadrata
@@ -6285,8 +6285,8 @@ supra capreolos conlocetur quadratum tignum, quo capreoli coniungantur.
 </p></div3>
 <div3 type="section" n="3"><p>Ipsi autem laterariis circa fixis contineantur teganturque tabulis maxime palmeis, si non, ex cetera materia, quae maxime habere potest virtutem, praeter pinum aut alnum; haec enim sunt fragilia et faciliter recipiunt ignem. circum tabulata conlocentur crates ex tenuibus virgis creberrime textae maximeque recentibus. percrudis coriis duplicibus consutis, fartis alga aut paleis in aceto maceratis, circa tegatur machina tota. ita ab his reicientur plagae ballistarum et impetus incendiorum.
 </p></div3>
-</div2>
-<div2 type="chapter" n="15">
+</div>
+<div type="chapter" n="15">
 <div3 type="section" n="1"><p>Est autem et aliud genus testudinis, quod reliqua omnia
 habet, quemadmodum quae supra scripta sunt, praeter
 capreolos, sed habet circa pluteum et pinnas ex tabulis
@@ -6334,8 +6334,8 @@ crassitudine &lt;bi&gt;pedali, contracto capite in latitudine &dagger;pes, crass
 </p></div3>
 <div3 type="section" n="7"><p>Item habuerat proiectura eius ex tabulis arcam compactam et confixam, in qua <gap desc="* * *"/> rudentibus maioribus extentis, per quarum asperitates non labentibus pedibus faciliter ad murum perveniebatur. atque ea machina sex modis movebatur: progressu, &lt;regressu,&gt; item latere dextra et sinistra, porrectiones non minus in altitudinem extollebantur et in imum  inclinatione demittebantur. erigebatur autem machina in altitudinem ad disiciendum murum circiter pedes <hi rend="scp">C</hi>, item a latere dextra ac sinistra procurrendo praestringebat
 non minus pedes <hi rend="scp">C</hi>. gubernabant eam homines <hi rend="scp">C</hi> habentem pondus talent&ucirc;m quattuor milium, quod fit <hi rend="scp">CCCC</hi><note anchored="yes" place="foot" lang="en" resp="RFC">a symbol follows CCCC in the text; description: LXXX with a macro above&gt;;
-pondo.</note></p></div3></div2>
-<div2 type="chapter" n="16">
+pondo.</note></p></div3></div>
+<div type="chapter" n="16">
 <div3 type="section" n="1"><p>De scorpionibus et catapultis et ballistis etiamque testudinibus et turribus, quae maxime mihi videbantur idonea et a quibus essent inventa et quemadmodum fieri deberent, explicui. scalarum autem et carchesiorum et eorum, quorum rationes sunt inbecilliores, non necesse habui scribere. haec etiam milites per se solent facere. neque ea ipsa omnibus locis neque eisdem rationibus possunt utilia esse, quod differentes sunt munitiones munitionibus nationumque fortitudines. namque alia ratione ad audaces et temerarios, alia ad diligentes, aliter ad timidos machinationes debent comparari.
 </p></div3>
 <div3 type="section" n="2"><p>Itaque his praescriptionibus si qui attendere voluerit &lt;et&gt; ex varietate eorum eligendo
@@ -6439,8 +6439,8 @@ perfeci. in prioribus vero novem de singulis generibus et
 partibus comparavi, uti totum corpus omnia architecturae
 membra in decem voluminibus haberet explicata. 
 </p></div3>
-</div2>
-</div1>
+</div>
+</div>
 </body>
 </text>
 </TEI.2>

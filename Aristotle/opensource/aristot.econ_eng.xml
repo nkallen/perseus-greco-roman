@@ -90,7 +90,7 @@
 	<text>
 
 		<body>
-			<div1 type="Book" n="1">
+			<div type="book" n="1">
 				<p>
                     <milestone n="1343a" unit="section"/><milestone ed="Bekker" n="1" unit="line"/><milestone ed="P" unit="para"/><milestone ed="P" n="1.1" unit="Loeb chap"/> Between Housecraft (the art of governing a Household or Home) and Statecraft
                     (the art of governing a Nation) there are differences corresponding to those
@@ -283,8 +283,8 @@
                     may be ready for use, the Laconian practice should be followed. Each should be
                     kept in its own place; thus it will always be to hand, and not require
                 seeking.</p>
-			</div1>
-			<div1 type="Book" n="2">
+			</div>
+			<div type="book" n="2">
 				<p>
                     <milestone n="1345b" unit="section"/><milestone ed="Bekker" n="7" unit="line"/><milestone ed="P" unit="para"/><milestone ed="P" n="1.1" unit="Loeb chap"/>Right administration of a household demands in the first place familiarity
                     with the sphere of one's action<note resp="Loeb" anchored="yes">Or, "the
@@ -900,8 +900,8 @@
                     also stripped the images of their golden raiment and garlands, and declaring he
                     would give them lighter and more fragrant wear, arrayed them in robes of white
                     &lt;linen&gt; and garlands of white socks.</p>
-			</div1>
-			<div1 type="Book" n="3">
+			</div>
+			<div type="book" n="3">
 				<p>
                     <milestone n="1" unit="section"/><milestone ed="Rose" n="1" unit="line"/><milestone ed="P" unit="para"/>A good wife should be the mistress of her
                     home, having under her care all that is within it, according to the rules we
@@ -1193,7 +1193,7 @@
                     individually, and to all in common<note resp="Loeb" anchored="yes">Or "both as
                         individuals and as members of a community." </note>;<milestone ed="Rose" n="200" unit="line"/>and not least towards our own wives and children and
                     parents.</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

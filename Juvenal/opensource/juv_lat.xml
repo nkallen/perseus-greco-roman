@@ -78,8 +78,8 @@
 	</teiHeader>
 	<text lang="la">
 		<body>
-			<div1 type="book" n="1" org="uniform" sample="complete">
-				<div2 type="poem" n="1" met="hexameter" org="uniform" sample="complete">
+			<div type="book" n="1" org="uniform" sample="complete">
+				<div type="poem" n="1" met="hexameter" org="uniform" sample="complete">
 					<head>Satura I</head><p>
 					<lb/>Semper ego auditor tantum? numquamne reponam
 					<lb/>vexatus totiens rauci Theseide Cordi?
@@ -275,8 +275,8 @@
 					<lb/>haec animo ante tubas: galeatum sero duelli
 					<lb n="170"/>paenitet.</q> experiar quid concedatur in illos,
 					<lb/>quorum Flaminia tegitur cinis atque Latina.
-				</p></div2>
-				<div2 type="poem" n="2" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="2" met="hexameter" org="uniform" sample="complete">
 					<head>Satura II</head><p>
 					<lb/>ultra Sauromatas fugere hinc libet et glacialem
 					<lb/>Oceanum, quotiens aliquid de moribus audent
@@ -464,8 +464,8 @@
 						amator, 
 					<lb/>mittentur bracae cultelli frena flagellum;
 					<lb n="170"/>sic praetextatos referunt Artaxata mores.
-				</p></div2>
-				<div2 type="poem" n="3" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="3" met="hexameter" org="uniform" sample="complete">
 					<head>Satura III</head><p>
 					<lb/>Quamvis digressu veteris confusus amici
 					<lb/>laudo tamen, vacuis quod sedem figere Cumis
@@ -802,8 +802,8 @@
 							PVind. Büch. (1910): <hi rend="italics"><foreign lang="la">adiutor</foreign></hi>
 							<foreign lang="greek">Ψ</foreign>Büch. (1893).</note> gelidos veniam
 						caligatus in agros.</p></q> 
-				</p></div2>
-				<div2 type="poem" n="4" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="4" met="hexameter" org="uniform" sample="complete">
 					<head>Satura IV</head><p>
 					<lb/>Ecce iterum Crispinus, et est mihi saepe vocandus<note>Willis rejects 4.1-36, following Ribbeck</note>
 					<lb/>ad partes, monstrum nulla virtute redemptum
@@ -966,8 +966,8 @@
 					<lb/>inlustresque animas impune et vindice nullo,
 					<lb/>sed periit postquam cerdonibus esse timendus
 					<lb/>coeperat; hoc nocuit Lamiarum caede madenti.
-				</p></div2>
-				<div2 type="poem" n="5" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="5" met="hexameter" org="uniform" sample="complete">
 					<head>Satura V</head><p>
 					<lb/>Si te propositi nondum pudet atque eadem est mens,
 					<lb/>ut bona summa putes aliena vivere quadra;
@@ -1149,10 +1149,10 @@
 					<lb/>si potes, et debes, pulsandum vertice raso
 					<lb/>praebebis quandoque caput, nec dura timebis
 					<lb/>flagra pati, his epulis et tali dignus amico.
-				</p></div2>
-			</div1>
-			<div1 type="book" n="2" org="uniform" sample="complete">
-				<div2 type="poem" n="6" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+			</div>
+			<div type="book" n="2" org="uniform" sample="complete">
+				<div type="poem" n="6" met="hexameter" org="uniform" sample="complete">
 					<head>Satura VI</head><p>
 					<lb/>Credo Pudicitiam Saturno rege moratam
 					<lb/>in terris visamque diu, cum frigida parvas
@@ -1894,10 +1894,10 @@
 							<foreign lang="greek">Ψ</foreign>: <hi rend="italics"><foreign lang="la">praegustarit</foreign></hi> Markl. and Housman.</note>
 						Atrides
 					<lb/>Pontica ter victi cautus medicamina regis.
-				</p></div2>
-			</div1>
-			<div1 type="book" n="3" org="uniform" sample="complete">
-				<div2 type="poem" n="7" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+			</div>
+			<div type="book" n="3" org="uniform" sample="complete">
+				<div type="poem" n="7" met="hexameter" org="uniform" sample="complete">
 					<head>Satura VII</head><p>
 					<lb/>Et spes et ratio studiorum in Caesare tantum;
 					<lb/>solus enim tristes hac tempestate Camenas
@@ -2142,8 +2142,8 @@
 					<lb/>observare manus oculosque in fine trementis,
 					<lb/><q>haec,</q> inquit, <q>cura, sed<note><hi rend="italics"><foreign lang="la">cura sed</foreign></hi> G and one of Ruperti's MSS.: <hi rend="italics"><foreign lang="la">curas et</foreign></hi> P<foreign lang="greek">Ψ</foreign> and Büch. (1893): <hi rend="italics"><foreign lang="la">cures et</foreign></hi> Owen.</note> cum se verterit annus,
 					<lb/>accipe, victori populus quod postulat, aurum.</q>
-				</p></div2>
-				<div2 type="poem" n="8" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="8" met="hexameter" org="uniform" sample="complete">
 					<head>Satura VIII</head><p>
 					<lb/>Stemmata quid faciunt? quid prodest, Pontice, longo
 					<lb/>sanguine censeri, pictos ostendere vultus
@@ -2420,8 +2420,8 @@
 					<lb/>nomen, ab infami gentem deducis asylo:
 					<lb/>maiorum primus, quisquis fuit ille, tuorum
 					<lb n="275"/>aut pastor fuit aut illud quod dicere nolo.
-				</p></div2>
-				<div2 type="poem" n="9" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="9" met="hexameter" org="uniform" sample="complete">
 					<head>Satura IX</head><p>
 					<lb/>Scire velim, quare totiens mihi, Naevole, tristis
 					<lb/>occurras, fronte obducta ceu Marsya victus,
@@ -2574,10 +2574,10 @@
 					<lb/>his saltem; nam cum pro me Fortuna vocatur,
 					<lb/>adfixit ceras illa de nave petitas,
 					<lb n="150"/>quae Siculos cantus effugit remige surdo.</q>
-				</p></div2>
-			</div1>
-			<div1 type="book" n="4" org="uniform" sample="complete">
-				<div2 type="poem" n="10" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+			</div>
+			<div type="book" n="4" org="uniform" sample="complete">
+				<div type="poem" n="10" met="hexameter" org="uniform" sample="complete">
 					<head>Satura X</head><p>
 					<lb/>omnibus in terris, quae sunt a Gadibus usque
 					<lb/>Auroram et Gangen, pauci dinoscere possunt
@@ -2945,8 +2945,8 @@
 					<lb/>tranquillae per virtutem patet unica vitae.
 					<lb n="365"/>nullum numen habes, si sit prudentia: nos te,
 					<lb/>nos facimus. Fortuna, deam caeloque locamus.
-				</p></div2>
-				<div2 type="poem" n="11" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="11" met="hexameter" org="uniform" sample="complete">
 					<head>Satura XI</head><p>
 					<lb/>Atticus exinde si cenat, lautus habetur,
 					<lb/>si Rutilus, demens, quid enim maiore cachinno
@@ -3156,8 +3156,8 @@
 					<lb/>ad sextam, facere hoc non possis quinque diebus
 					<lb/>continuis, quia sunt talis quoque taedia vitae
 					<lb/>magna: voluptates commendat rarior usus.
-				</p></div2>
-				<div2 type="poem" n="12" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="12" met="hexameter" org="uniform" sample="complete">
 					<head>Satura XII</head><p>
 					<lb/>natali, Corvine, die mihi dulcior haec lux,,
 					<lb/>qua festus promissa deis animalia caespes
@@ -3289,10 +3289,10 @@
 					<lb/>vivat Pacuvius quaeso vel Nestora totum,
 					<lb/>possideat quantum rapuit Nero, montibus aurum
 					<lb n="130"/>exaequet, nec amet quemquam nec ametur ab ullo.
-				</p></div2>
-			</div1>
-			<div1 type="book" n="5" org="uniform" sample="complete">
-				<div2 type="poem" n="13" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+			</div>
+			<div type="book" n="5" org="uniform" sample="complete">
+				<div type="poem" n="13" met="hexameter" org="uniform" sample="complete">
 					<head>Satura XIII</head><p>
 					<lb/>exemplo quodcumque malo committitur, ipsi
 					<lb/>displicet auctori: prima est haec ultio, quod se
@@ -3543,8 +3543,8 @@
 					<lb/>exulibus magnis, poena gaudebis amara
 					<lb/>nominis invisi, tandemque fatebere laetus
 					<lb/>nec surdum nec Teresian quemquam esse deorum.
-				</p></div2>
-				<div2 type="poem" n="14" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="14" met="hexameter" org="uniform" sample="complete">
 					<head>Satura XIV</head><p>
 					<lb/>Plurima sunt, Fuscine, et fama digna sinistra
 					<lb n="1a"/><del>et quod maiorum vitia sequiturque minores</del><note>Büch. (1910) inserts within brackets this line found in <foreign lang="greek">Ψ</foreign> between 14.1 and 14.2: . AG read <hi rend="italics"><foreign lang="la">vitio</foreign></hi> for <hi rend="italics"><foreign lang="la">vitia</foreign></hi>.</note>
@@ -3878,8 +3878,8 @@
 					<lb/>sufficient animo nec divitiae Narcissi,
 					<lb n="330"/>indulsit Caesar cui Claudius omnia, cuius
 					<lb/>paruit imperiis uxorem occidere iussus.
-				</p></div2>
-				<div2 type="poem" n="15" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="15" met="hexameter" org="uniform" sample="complete">
 					<head>Satura XV</head><p>
 					<lb/>Quis nescit, Volusi Bithynice, qualia demens
 					<lb/>Aegyptos portenta colat? crocodilon adorat
@@ -4055,8 +4055,8 @@
 					<lb/>vel quo non fugeret, si nunc haec monstra videret
 					<lb/>Pythagoras, cunctis animalibus abstinuit qui
 					<lb/>tamquam homine et ventri indulsit non omne legumen?
-				</p></div2>
-				<div2 type="poem" n="16" met="hexameter" org="uniform" sample="complete">
+				</p></div>
+				<div type="poem" n="16" met="hexameter" org="uniform" sample="complete">
 					<head>Satura XVI</head><p>
 					<lb/>Quis numerare queat felicis praemia, Galli,
 					<lb/>militiae? nam si subeuntur prospera castra,
@@ -4118,8 +4118,8 @@
 					<lb/>ipsius certe ducis hoc referre videtur
 					<lb/>ut qui fortis erit, sit felicissimus idem,
 					<lb n="60"/>ut laeti phaleris omnes et torquibus, omnes<note>The <hi rend="italics"><foreign lang="la">Saturae</foreign></hi> are broken off at this point.</note>
-				</p></div2>
-			</div1>
+				</p></div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

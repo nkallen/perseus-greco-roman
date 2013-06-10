@@ -126,7 +126,7 @@ Added to repository. Passed SGML parse.
 <text>
 <body>
 
-<div1 type="book" n="6">
+<div type="book" n="6">
 <milestone unit="chapter" n="1"/><milestone unit="section" n="1"/><pb id="p.6001"/><p>quae ab condita urbe Roma ad captam eandem Romani sub regibus primum, consulibus deinde ac dictatoribus decemuirisque ac tribunis consularibus gessere, foris bella,
 
 <milestone unit="section" n="2"/>domi seditiones, quinque libris exposui, res cum uetustate nimia obscuras uelut quae magno ex interuallo loci uix cernuntur, tum quid rarae per eadem tempora litterae fuere, una custodia fidelis memoriae rerum gestarum, et quod, etiam si quae in commentariis pontificum aliisque publicis priuatisque erant monumentis, incensa urbe pleraeque interiere.
@@ -979,7 +979,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="13"/>recusantibus id munus aedilibus plebis, conclamatum a patriciis est iuuenibus se id honoris deum immortalium causa libenter facturos [ut aediles fierent].
 
-<milestone unit="section" n="14"/><pb id="p.6070" n="patribus dicta"/>quibus cum ab uniuersis gratiae actae essent, factum senatus consultum, ut, duumuiros aediles ex patribus dictator populum rogaret, patres auctores omnibus eius anni comitiis fierent.</p> </div1><div1 type="book" n="7">
+<milestone unit="section" n="14"/><pb id="p.6070" n="patribus dicta"/>quibus cum ab uniuersis gratiae actae essent, factum senatus consultum, ut, duumuiros aediles ex patribus dictator populum rogaret, patres auctores omnibus eius anni comitiis fierent.</p> </div><div type="book" n="7">
 
 <milestone unit="chapter" n="1"/><milestone unit="section" n="1"/><pb id="p.7001"/><p>annus hic erit insignis noui hominis consulatu, insignis nouis duobus magistratibus, praetura et curuli aedilitate; hos sibi patricii quaesiuere honores pro concesso plebi altero consulatu.
 
@@ -1883,7 +1883,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="7"/>adeo nihil praeterquam seditionem fuisse eamque compositam inter antiquos rerum auctores constat.
 
-<milestone unit="section" n="8"/>et huius fama seditionis et susceptum cum Samnitibus graue bellum aliquot populos ab Romana societate auertit, et praeter Latinorum infidum iam diu foedus Priuernates etiam Norbam atque Setiam, finitimas colonias Romanas, incursione subita depopulati sunt.</p> </div1><div1 type="book" n="8">
+<milestone unit="section" n="8"/>et huius fama seditionis et susceptum cum Samnitibus graue bellum aliquot populos ab Romana societate auertit, et praeter Latinorum infidum iam diu foedus Priuernates etiam Norbam atque Setiam, finitimas colonias Romanas, incursione subita depopulati sunt.</p> </div><div type="book" n="8">
 
 <milestone unit="chapter" n="1"/><milestone unit="section" n="1"/><pb id="p.8001"/><p>iam consules erant <persName n="2"><foreName>C.</foreName> <surname>Plautius</surname></persName> iterum <persName n="3"><foreName>L.</foreName> <surname>Aemilius</surname> <addName>Mamercus</addName></persName>, cum Setini Norbanique Romam nuntii defectionis Priuernatium cum querimoniis acceptae cladis uenerunt.
 
@@ -2875,7 +2875,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="4"/>uitiatam memoriam funebribus laudibus reor falsisque imaginum titulis, dum familiae ad se quaeque famam rerum gestarum honorumque fallente mendacio trahunt;
 
-<milestone unit="section" n="5"/>inde certe et singulorum gesta et publica monumenta rerum confusa. nec quisquam aequalis temporibus illis scriptor exstat quo satis certo auctore stetur.</p> </div1><div1 type="book" n="9">
+<milestone unit="section" n="5"/>inde certe et singulorum gesta et publica monumenta rerum confusa. nec quisquam aequalis temporibus illis scriptor exstat quo satis certo auctore stetur.</p> </div><div type="book" n="9">
 
 <milestone unit="chapter" n="1"/><milestone unit="section" n="1"/><pb id="p.9001"/><p>sequitur hunc annum nobilis clade Romana Caudina pax <persName n="3"><foreName>T.</foreName> <surname>Ueturio</surname> <addName>Caluino</addName></persName> <persName n="2"><foreName>Sp.</foreName> <surname>Postumio</surname></persName> consulibus.
 
@@ -4115,7 +4115,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="14"/><pb id="p.9088" n="in quattuor tr"/>donec <persName n="2"><foreName>Q.</foreName> <surname>Fabius</surname></persName> et <persName n="2"><foreName>P.</foreName> <surname>Decius</surname></persName> censores facti et Fabius simul concordiae causa, simul ne humillimorum in manu comitia essent, omnem forensem turbam excretam in quattuor tribus coniecit urbanasque eas appellauit.
 
-<milestone unit="section" n="15"/>adeoque eam rem acceptam gratis animis ferunt ut Maximi cognomen, quod tot uictoriis non pepererat hac ordinum temperatione pareret. ab eodem institutum dicitur ut equites idibus Quinctilibus transueherentur.</p> </div1><div1 type="book" n="10">
+<milestone unit="section" n="15"/>adeoque eam rem acceptam gratis animis ferunt ut Maximi cognomen, quod tot uictoriis non pepererat hac ordinum temperatione pareret. ab eodem institutum dicitur ut equites idibus Quinctilibus transueherentur.</p> </div><div type="book" n="10">
 
 <milestone unit="chapter" n="1"/><milestone unit="section" n="1"/><pb id="p.10001"/><p><persName n="2"><foreName>L.</foreName> <surname>Genucio</surname></persName> <persName n="2"><foreName>Ser.</foreName> <surname>Cornelio</surname></persName> consulibus ab externis ferme bellis otium fuit. Soram atque Albam coloniae deductae.
 
@@ -5310,5 +5310,5 @@ libris Aesculapium ab Epidauro Romam arcessendum; neque
 eo anno, quia bello occupati consules erant, quicquam
 de ea re actum praeterquam quod unum diem Aesculapio
 supplicatio habita est.</p>
-</div1>
+</div>
 </body></text></TEI.2>

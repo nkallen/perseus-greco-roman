@@ -73,7 +73,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 n="9" type="Book">
+            <div n="9" type="book">
                 <head>
                     <foreign lang="la">Fragmenta libri IX</foreign>
                 </head>
@@ -609,8 +609,8 @@
                     Πεισιστράτῳ διδόναι. ὁ δὲ δυνάστης ἀκούσας τὸν λόγον καὶ γελάσας
                     ἐποίησε τὸ χωρίον ἀτελές, καὶ ἐντεῦθεν ἡ παροιμία, καὶ σφάκελοι
                     ποιοῦσιν ἀτέλειαν. <bibl>Const. Exc. 4, pp. 291-293.</bibl></p>
-            </div1>
-            <div1 n="10" type="Book">
+            </div>
+            <div n="10" type="book">
                 <head>
                     <foreign lang="la">Fragmenta libri X</foreign>
                 </head>
@@ -1154,8 +1154,8 @@
                     ἄγειν αἰχμάλωτον, ἀλλὰ τὴν στρατηγίαν τῶν ἡγουμένων. <milestone n="13" unit="section"/><milestone ed="P" unit="para"/>πᾶσα γὰρ δύναμις
                     ὑπεραίρουσα τὴν συμμετρίαν ὑφ’ ἑαυτῆς βλάπτεται τὰ πλεῖστα. πρὶν ἢ
                     γὰρ ἀκοῦσαι τὴν φάλαγγα, φθάσομεν ἡμεῖς πράξαντες ἃ βουλόμεθα.<bibl>Const. Exc. 4, pp. 301-302.</bibl></p>
-            </div1>
-            <div1 n="10a" type="Book">
+            </div>
+            <div n="10a" type="book">
                 <head>
                     <foreign lang="la">Incerta</foreign>
                 </head>
@@ -1186,8 +1186,8 @@
                     <milestone n="5" unit="chapter"/><milestone n="1" unit="section"/><milestone n="FR10A.6" ed="P" unit="fragment"/><milestone ed="P" unit="para"/>καὶ
                     Διόδωρος ἄκραν τινὰ τῶν Ἄλπεων κορυφὴν τοῦ σύμπαντος ὄρους
                     δοκοῦσαν οὐρανοῦ ῥάχιν ἱστορεῖ παρὰ τῶν ἐγχωρίων καλεῖσθαι.<bibl>Eustathius, loc. cit. Book 1, p. 1390.</bibl></p>
-            </div1>
-            <div1 n="11" type="Book">
+            </div>
+            <div n="11" type="book">
                 <head><foreign lang="la">Book XI</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τάδε ἔνεστιν ἐν τῇ ἑνδεκάτῃ τῶν Διοδώρου
@@ -3762,8 +3762,8 @@
                     τὸν προηγούμενον ἐνιαυτὸν τῆς Ἀθηναίων στρατείας ἐπὶ Κύπρον
                     Κίμωνος ἡγουμένου, κατὰ τὴν ἐν ἀρχῇ πρόθεσιν αὐτοῦ περιγράφομεν
                     τήνδε τὴν βίβλον.</p>
-            </div1>
-            <div1 n="12" type="Book">
+            </div>
+            <div n="12" type="book">
                 <head><foreign lang="la">Book XII</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τάδε ἔνεστιν ἐν τῇ δωδεκάτῃ τῶν Διοδώρου
@@ -5842,8 +5842,8 @@
                     ἡμεῖς δὲ παρόντες ἐπὶ τὴν ἀρχὴν τοῦ πολέμου τοῦ συστάντος
                     Ἀθηναίοις καὶ Συρακοσίοις, κατὰ τὴν ἐν ἀρχῇ πρόθεσιν τὰς
                     ἑπομένας πράξεις εἰς τὴν ἐχομένην βίβλον κατατάξομεν.</p>
-            </div1>
-            <div1 n="13" type="Book">
+            </div>
+            <div n="13" type="book">
                 <head><foreign lang="la">Book XIII</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τάδ’ ἔνεστιν ἐν τῇ τρισκαιδεκάτῃ τῶν Διοδώρου
@@ -9222,8 +9222,8 @@
                     Σικελίαν τοῦ Καρχηδονίοις πρὸς Διονύσιον πρώτου συστάντος, ἡγούμεθα
                     δεῖν ἐπιτετελεσμένης τῆς προθέσεως τὰς ἑξῆς πράξεις εἰς τὴν
                     ἐχομένην βίβλον καταχωρίσαι.</p>
-            </div1>
-            <div1 n="14" type="Book">
+            </div>
+            <div n="14" type="book">
                 <head><foreign lang="la">Book XIV</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τάδε ἔνεστιν ἐν τῇ τεσσαρεσκαιδεκάτῃ τῶν Διοδώρου
@@ -12546,8 +12546,8 @@
                     δ’ ἐπεὶ πάρεσμεν ἐπὶ τὴν γενομένην τοῖς Ἕλλησιν εἰρήνην πρὸς
                     Ἀρταξέρξην καὶ τὸν τῆς rώμης ὑπὸ Γαλατῶν κίνδυνον, κατὰ τὴν ἐν
                     ἀρχῇ πρόθεσιν τοῦτο τέλος ποιησόμεθα τῆσδε τῆς βύβλου.</p>
-            </div1>
-            <div1 n="15" type="Book">
+            </div>
+            <div n="15" type="book">
                 <head><foreign lang="la">Book XV</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τάδε ἔνεστιν ἐν τῇ πεντεκαιδεκάτῃ τῶν Διοδώρου
@@ -15182,8 +15182,8 @@
                     τοῦ βασιλέως τούτου πράξεις μέχρι τῆς τελευτῆς, συμπεριλαμβάνοντες καὶ
                     τὰς ἄλλας τὰς γεγενημένας ἐν τοῖς γνωριζομένοις μέρεσι τῆς
                     οἰκουμένης.</p>
-            </div1>
-            <div1 n="16" type="Book">
+            </div>
+            <div n="16" type="book">
                 <head><foreign lang="la">Book XVI</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τάδε ἔνεστιν ἐν τῇ ἑκκαιδεκάτῃ τῶν Διοδώρου ἱστορικῶν
@@ -17909,8 +17909,8 @@
                     ἐν ἀρχῇ πρόθεσιν, τῆς δ’ ἐχομένης ἀρχὴν τὴν Ἀλεξάνδρου παράληψιν
                     τῆς βασιλείας ποιησάμενοι πειρασόμεθα περιλαβεῖν ἁπάσας αὐτοῦ τὰς
                     πράξεις ἐν μιᾷ βίβλῳ.</p>
-            </div1>
-            <div1 n="17" type="Book">
+            </div>
+            <div n="17" type="book">
                 <head><foreign lang="la">Book XVII</foreign></head>
                 <milestone unit="chapter" n="contents"/>
                 <head>τῶν Διοδώρου βύβλων τῆς ἑπτακαιδεκάτης εἰς δύο διῃρημένης ἡ
@@ -21352,7 +21352,7 @@
                     μέν, οὐκ ἀκλεῶς δὲ προεμένη τὸ ζῆν. <milestone n="4" unit="section"/>ἡμεῖς δὲ ἐπὶ τὴν Ἀλεξάνδρου τελευτὴν παρόντες κατὰ τὴν ἐν
                     ἀρχῇ τῆς βίβλου πρόθεσιν τὰς τῶν διαδεξαμένων πράξεις ἐν ταῖς
                     ἑπομέναις βίβλοις πειρασόμεθα διεξιέναι.</p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

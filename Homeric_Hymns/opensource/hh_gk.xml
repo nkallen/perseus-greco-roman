@@ -60,7 +60,7 @@ Homeric Hymns</title>
 
   </teiHeader>
 <text><body>
-<div1 type="Hymn" n="1">
+<div type="hymn" n="1">
 <head>Εἲς Διώνυσον</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><gap/>οἳ μὲν γὰρ Δρακάνῳ ς’, οἳ δ’ Ἰκάρῳ ἠνεμοέσσῃ</l>
@@ -84,8 +84,8 @@ Homeric Hymns</title>
 <l>σεῖ’ ἐπιληθομένῳ ἱερῆς μεμνῆσθαι ἀοιδῆς.</l>
 <l n="20">καὶ σὺ μὲν οὕτω χαῖρε,  Διώνυς’ εἰραφιῶτα,</l>
 <l>σὺν μητρὶ Σεμέλῃ, ἥν περ καλέουσι Θυώνην.</l>
-</p></div1>
-<div1 type="Hymn" n="2">
+</p></div>
+<div type="hymn" n="2">
 <head>Εἲς Δημήτραν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Δήμητρ’ ἠύκομον, σεμνὴν θεόν, ἄρχομ’ ἀείδειν,</l>
@@ -597,11 +597,11 @@ Homeric Hymns</title>
 <l>αὐτὴ καὶ κούρη περικαλλὴς Περσεφόνεια·</l>
 <l>πρόφρονες ἀντ’ ᾠδῆς βίοτον θυμήρε’ ὄπαζε.</l>
 <l n="495">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="3">
+</p></div>
+<div type="hymn" n="3">
 <head>Εἲς Ἀπόλλωνα [Δήλιον]</head>
 	<milestone ed="P" n="1" unit="card"/>
-<div2 type="part">
+<div type="part">
 <p><l><milestone ed="P" unit="Para"/>μνήσομαι οὐδὲ λάθωμαι Ἀπόλλωνος ἑκάτοιο,</l>
 <l>ὅντε θεοὶ κατὰ δῶμα Διὸς τρομέουσιν ἰόντα·</l>
 <l>καί ῥά τ’ ἀναί̈σσουσιν ἐπὶ σχεδὸν ἐρχομένοιο</l>
@@ -784,9 +784,9 @@ Homeric Hymns</title>
 <l>οἳ δ’ ἐπὶ δὴ πείσονται, ἐπεὶ καὶ ἐτήτυμόν ἐστιν.</l>
 <l>αὐτὰρ ἐγὼν οὐ λήξω ἑκηβόλον Ἀπόλλωνα</l>
 <l>ὑμνέων ἀργυρότοξον, ὃν ἠύκομος τέκε Λητώ.</l>
-</p></div2>
+</p></div>
 <milestone ed="P" n="179" unit="card"/>
-<div2 type="part">
+<div type="part">
 <head>[Εἲς Ἀπόλλωνα Πύθιον]</head>
 <p><l><milestone ed="P" unit="Para"/>ὦ ἄνα, καὶ Λυκίην καὶ Μῃονίην ἐρατεινὴν</l>
 <l n="180">καὶ Μίλητον ἔχεις,  ἔναλον πόλιν ἱμερόεσσαν,</l>
@@ -1169,8 +1169,8 @@ Homeric Hymns</title>
 <l>εἴρηταί τοι πάντα· σὺ δὲ φρεσὶ σῇσι φύλαξαι.</l>
 </p><p><l n="545"><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε,  Διὸς καὶ Λητοῦς υἱέ·</l>
 <l>αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div2></div1>
-<div1 type="Hymn" n="4">
+</p></div></div>
+<div type="hymn" n="4">
 <head>Εἲς Ἑρμῆν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἑρμῆν ὕμνει, Μοῦσα, Διὸς καὶ Μαιάδος υἱόν,</l>
@@ -1775,8 +1775,8 @@ Homeric Hymns</title>
 <l>νύκτα δι’ ὀρφναίην φῦλα θνητῶν ἀνθρώπων.</l>
 </p><p><l><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε, Διὸς καὶ Μαιάδος, υἱέ·</l>
 <l n="580">αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="5">
+</p></div>
+<div type="hymn" n="5">
 <head>Εἲς Ἀφροδίτην</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>μοῦσά μοι ἔννεπε ἔργα πολυχρύσου Ἀφροδίτης,</l>
@@ -2079,8 +2079,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>ὣς εἰποῦς’ ἤιξε πρὸς οὐρανὸν ἠνεμόεντα.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, θεά, Κύπροιο ἐυκτιμένης μεδέουσα·</l>
 <l>σεῦ δ’ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον.</l>
-</p></div1>
-<div1 type="Hymn" n="6">
+</p></div>
+<div type="hymn" n="6">
 <head>Εἲς Ἀφροδίτην</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>αἰδοίην, χρυσοστέφανον, καλὴν Ἀφροδίτην</l>
@@ -2104,8 +2104,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρ’ ἑλικοβλέφαρε, γλυκυμείλιχε· δὸς δ’ ἐν ἀγῶνι</l>
 <l n="20">νίκην τῷδε φέρεσθαι,  ἐμὴν δ’ ἔντυνον ἀοιδήν.</l>
 <l>αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="7">
+</p></div>
+<div type="hymn" n="7">
 <head>Εἲς Διώνυσον</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἀμφὶ Διώνυσον, Σεμέλης ἐρικυδέος υἱόν,</l>
@@ -2168,8 +2168,8 @@ Homeric Hymns</title>
 <l>Καδμηὶς Σεμέλη Διὸς ἐν φιλότητι μιγεῖσα.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, τέκος Σεμέλης εὐώπιδος· οὐδέ πη ἔστι</l>
 <l>σεῖό γε ληθόμενον γλυκερὴν κοσμῆσαι ἀοιδήν.</l>
-</p></div1>
-<div1 type="Hymn" n="8">
+</p></div>
+<div type="hymn" n="8">
 <head>Εἲς Ἄρεα</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἆρες ὑπερμενέτα, βρισάρματε, χρυσεοπήληξ,</l>
@@ -2189,8 +2189,8 @@ Homeric Hymns</title>
 <l n="15">φυλόπιδος κρυερῆς ἐπιβαινέμεν· ἀλλὰ σὺ θάρσος</l>
 <l>δός, μάκαρ, εἰρήνης τε μένειν ἐν ἀπήμοσι θεσμοῖς</l>
 <l>δυσμενέων προφυγόντα μόθον Κῆράς τε βιαίους.</l>
-</p></div1>
-<div1 type="Hymn" n="9">
+</p></div>
+<div type="hymn" n="9">
 <head>Εἲς Ἄρτεμιν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἄρτεμιν ὕμνει, Μοῦσα, κασιγνήτην Ἑκάτοιο.</l>
@@ -2202,8 +2202,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε θεαί θ’ ἅμα πᾶσαι ἀοιδῇ·</l>
 <l>αὐτὰρ ἐγώ σε πρῶτα καὶ ἐκ σέθεν ἄρχομ’ ἀείδειν,</l>
 <l>σεῦ δ’ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον.</l>
-</p></div1>
-<div1 type="Hymn" n="10">
+</p></div>
+<div type="hymn" n="10">
 <head>Εἲς Ἀφροδίτην</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>κυπρογενῆ Κυθέρειαν ἀείσομαι, ἥτε βροτοῖσι</l>
@@ -2212,8 +2212,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, θεά, Σαλαμῖνος ἐυκτιμένης μεδέουσα</l>
 <l n="5">εἰναλίης τε Κύπρου· δὸς δ’ ἱμερόεσσαν ἀοιδήν.</l>
 <l>αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="11">
+</p></div>
+<div type="hymn" n="11">
 <head>Εἲς Ἀθήναν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Παλλάδ’ Ἀθηναίην ἐρυσίπτολιν ἄρχομ’ ἀείδειν,</l>
@@ -2221,8 +2221,8 @@ Homeric Hymns</title>
 <l>περθόμεναί τε πόληες ἀϋτή τε πτόλεμοί τε,</l>
 <l>καί τ’ ἐρρύσατο λαὸν ἰόντα τε νισσόμενόν τε.</l>
 </p><p><l n="5"><milestone ed="P" unit="Para"/>χαῖρε,  θεά, δὸς δ’ ἄμμι τύχην εὐδαιμονίην τε.</l>
-</p></div1>
-<div1 type="Hymn" n="12">
+</p></div>
+<div type="hymn" n="12">
 <head>Εἲς Ἥραν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἥρην ἀείδω χρυσόθρονον, ἣν τέκε rείη,</l>
@@ -2230,15 +2230,15 @@ Homeric Hymns</title>
 <l>Ζηνὸς ἐριγδούποιο κασιγνήτην ἄλοχόν τε,</l>
 <l>κυδρήν, ἣν πάντες μάκαρες κατὰ μακρὸν Ὄλυμπον</l>
 <l n="5">ἁζόμενοι τίουσιν ὁμῶς Διὶ τερπικεραύνῳ.</l>
-</p></div1>
-<div1 type="Hymn" n="13">
+</p></div>
+<div type="hymn" n="13">
 <head>Εἲς Δημήτραν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Δημήτηρ’ ἠύκομον, σεμνὴν θεάν, ἄρχομ’ ἀείδειν,</l>
 <l>αὐτὴν καὶ κούρην, περικαλλέα Περσεφόνειαν.</l>
 </p><p><l n="3"><milestone ed="P" unit="Para"/>χαῖρε, θεά, καὶ τήνδε σάου πόλιν· ἄρχε δ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="14">
+</p></div>
+<div type="hymn" n="14">
 <head>Εἲς Μητέρα Θεῶν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>μητέρα μοι πάντων τε θεῶν πάντων τ’ ἀνθρώπων</l>
@@ -2247,8 +2247,8 @@ Homeric Hymns</title>
 <l>εὔαδεν ἠδὲ λύκων κλαγγὴ χαροπῶν τε λεόντων</l>
 <l n="5">οὔρεά τ’ ἠχήεντα καὶ ὑλήεντες ἔναυλοι.</l>
 </p><p><l><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε θεαί θ’ ἅμα πᾶσαι ἀοιδῇ.</l>
-</p></div1>
-<div1 type="Hymn" n="15">
+</p></div>
+<div type="hymn" n="15">
 <head>Εἲς Ἡρακλέα Λεοντόθυμον</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἡρακλέα, Διὸς υἱόν, ἀείσομαι, ὃν μέγ’ ἄριστον</l>
@@ -2260,8 +2260,8 @@ Homeric Hymns</title>
 <l>νῦν δ’ ἤδη κατὰ καλὸν ἕδος νιφόεντος Ὀλύμπου</l>
 <l>ναίει τερπόμενος καὶ ἔχει καλλίσφυρον Ἥβην.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, ἄναξ, Διὸς υἱέ· δίδου δ’ ἀρετήν τε καὶ ὄλβον.</l>
-</p></div1>
-<div1 type="Hymn" n="16">
+</p></div>
+<div type="hymn" n="16">
 <head>Εἲς Ἀσκληπιόν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἰητῆρα νόσων Ἀσκληπιὸν ἄρχομ’ ἀείδειν,</l>
@@ -2269,8 +2269,8 @@ Homeric Hymns</title>
 <l>Δωτίῳ ἐν πεδίῳ, κούρη Φλεγύου βασιλῆος,</l>
 <l>χάρμα μέγ’ ἀνθρώποισι, κακῶν θελκτῆρ’ ὀδυνάων.</l>
 </p><p><l n="5"><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ· λίτομαι δέ ς’ ἀοιδῇ.</l>
-</p></div1>
-<div1 type="Hymn" n="17">
+</p></div>
+<div type="hymn" n="17">
 <head>Εἲς Διοσκούρους</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Κάστορα καὶ Πολυδεύκἐ ἀείσεο, Μοῦσα λίγεια,</l>
@@ -2278,8 +2278,8 @@ Homeric Hymns</title>
 <l>τοὺς ὑπὸ Τηϋγέτου κορυφῇς τέκε πότνια Λήδη</l>
 <l>λάθρη ὑποδμηθεῖσα κελαινεφέι Κρονίωνι.</l>
 </p><p><l n="5"><milestone ed="P" unit="Para"/>χαίρετε,  Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων.</l>
-</p></div1>
-<div1 type="Hymn" n="18">
+</p></div>
+<div type="hymn" n="18">
 <head>Εἲς Ἑρμῆν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἑρμῆν ἀείδω Κυλλήνιον, Ἀργειφόντην,</l>
@@ -2294,8 +2294,8 @@ Homeric Hymns</title>
 </p><p><l n="10"><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε,  Διὸς καὶ Μαιάδος υἱέ·</l>
 <l>σεῦ δ’ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον.</l>
 <l>[χαῖρ’. Ἑρμῆ χαριδῶτα, διάκτορε, δῶτορ ἐάων.]</l>
-</p></div1>
-<div1 type="Hymn" n="19">
+</p></div>
+<div type="hymn" n="19">
 <head>Εἲς Πᾶνα</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἀμφί μοι Ἑρμείαο φίλον γόνον ἔννεπε, Μοῦσα,</l>
@@ -2347,8 +2347,8 @@ Homeric Hymns</title>
 <l>Πᾶνα δέ μιν καλέεσκον, ὅτι φρένα πᾶσιν ἔτερψε.</l>
 </p><p><l><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ, ἵλαμαι δέ ς’ ἀοιδῇ</l>
 <l>αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="20">
+</p></div>
+<div type="hymn" n="20">
 <head>Εἲς Ἥφαιστον</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἥφαιστον κλυτόμητιν ἀείσεο, Μοῦσα λίγεια,</l>
@@ -2359,8 +2359,8 @@ Homeric Hymns</title>
 <l>ῥηιδίως αἰῶνα τελεσφόρον εἰς ἐνιαυτὸν</l>
 <l>εὔκηλοι διάγουσιν ἐνὶ σφετέροισι δόμοισιν.</l>
 </p><p><l><milestone ed="P" unit="Para"/>ἀλλ’ ἵληθ’, Ἥφαιστε· δίδου δ’ ἀρετήν τε καὶ ὄλβον.</l>
-</p></div1>
-<div1 type="Hymn" n="21">
+</p></div>
+<div type="hymn" n="21">
 <head>Εἲς Ἀπόλλωνα</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>φοῖβε, σὲ μὲν καὶ κύκνος ὑπὸ πτερύγων λίγ’ ἀείδει,</l>
@@ -2368,8 +2368,8 @@ Homeric Hymns</title>
 <l>Πηνειόν· σὲ δ’ ἀοιδὸς ἔχων φόρμιγγα λίγειαν</l>
 <l>ἡδυεπὴς πρῶτόν τε καὶ ὕστατον αἰὲν ἀείδει.</l>
 </p><p><l n="5"><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε,  ἄναξ, ἵλαμαι δέ ς’ ἀοιδῇ.</l>
-</p></div1>
-<div1 type="Hymn" n="22">
+</p></div>
+<div type="hymn" n="22">
 <head>Εἲς Ποσειδῶνα</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἀμφὶ Ποσειδάωτα, μέγαν θεόν, ἄρχομ’ ἀείδειν,</l>
@@ -2379,16 +2379,16 @@ Homeric Hymns</title>
 <l n="5">ἵππων τε δμητῆρ’ ἔμεναι σωτῆρά τε νηῶν.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, Ποσείδαον γαιήοχε, κυανοχαῖτα,</l>
 <l>καί, μάκαρ, εὐμενὲς ἦτορ ἔχων πλώουσιν ἄρηγε.</l>
-</p></div1>
-<div1 type="Hymn" n="23">
+</p></div>
+<div type="hymn" n="23">
 <head>Εἲς Ὕπατον Κρονίδην</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ζῆνα θεῶν τὸν ἄριστον ἀείσομαι ἠδὲ μέγιστον,</l>
 <l>εὐρύοπα, κρείοντα, τελεσφόρον, ὅστε Θέμιστι</l>
 <l>ἐγκλιδὸν ἑζομένῃ πυκινοὺς ὀάρους ὀαρίζει.</l>
 </p><p><l n="4"><milestone ed="P" unit="Para"/>ἵληθ’, εὐρύοπα Κρονίδη, κύδιστε μέγιστε.</l>
-</p></div1>
-<div1 type="Hymn" n="24">
+</p></div>
+<div type="hymn" n="24">
 <head>Εἲς Ἑστίαν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἑστίη, ἥτε ἄνακτος Ἀπόλλωνος ἑκάτοιο</l>
@@ -2396,8 +2396,8 @@ Homeric Hymns</title>
 <l>αἰεὶ σῶν πλοκάμων ἀπολείβεται ὑγρὸν ἔλαιον·</l>
 <l>ἔρχεο τόνδ’ ἀνὰ οἶκον, ἕν’ ἔρχεο θυμὸν ἔχουσα</l>
 <l n="5">σὺν Διὶ μητιόεντι· χάριν δ’ ἅμ’ ὄπασσον ἀοιδῇ.</l>
-</p></div1>
-<div1 type="Hymn" n="25">
+</p></div>
+<div type="hymn" n="25">
 <head>Εἲς Μούσας Καὶ Ἀπόλλωνα</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>μουσάων ἄρχωμαι Ἀπόλλωνός τε Διός τε·</l>
@@ -2407,8 +2407,8 @@ Homeric Hymns</title>
 <l n="5">φίλωνται· γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαίρετε, τέκνα Διός, καὶ ἐμὴν τιμήσατ’ ἀοιδήν·</l>
 <l>αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="26">
+</p></div>
+<div type="hymn" n="26">
 <head>Εἲς Διόνυσον</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>κισσοκόμην Διόνυσον ἐρίβρομον ἄρχομ’ ἀείδειν,</l>
@@ -2424,8 +2424,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε, πολυστάφυλ’ ὦ Διόνυσε·</l>
 <l>δὸς δ’ ἡμᾶς χαίροντας ἐς ὥρας αὖτις ἱκέσθαι,</l>
 <l>ἐκ δ’ αὖθ’ ὡράων εἰς τοὺς πολλοὺς ἐνιαυτούς.</l>
-</p></div1>
-<div1 type="Hymn" n="27">
+</p></div>
+<div type="hymn" n="27">
 <head>Εἲς Ἄρτεμιν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Ἄρτεμιν ἀείδω χρυσηλάκατον, κελαδεινήν,</l>
@@ -2450,8 +2450,8 @@ Homeric Hymns</title>
 <l n="20">ἀθανάτων βουλῇ τε καὶ ἔργμασιν ἔξοχ’ ἀρίστους.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαίρετε, τέκνα Διὸς καὶ Λητοῦς ἠυκόμοιο·</l>
 <l>αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="28">
+</p></div>
+<div type="hymn" n="28">
 <head>Εἲς Ἀθήναν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>Παλλάδ’ Ἀθηναίην, κυδρὴν θεόν, ἄρχομ’ ἀείδειν</l>
@@ -2472,8 +2472,8 @@ Homeric Hymns</title>
 <l>Παλλὰς Ἀθηναίη· γήθησε δὲ μητίετα Ζεύς.</l>
 </p><p><l><milestone ed="P" unit="Para"/>καὶ σὺ μὲν οὕτω χαῖρε, Διὸς τέκος αἰγιόχοιο·</l>
 <l>αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="29">
+</p></div>
+<div type="hymn" n="29">
 <head>Εἲς Ἑστίαν</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἑστίη, ἣ πάντων ἐν δώμασιν ὑψηλοῖσιν</l>
@@ -2490,8 +2490,8 @@ Homeric Hymns</title>
 <l>εἰδότες ἔργματα καλὰ νόῳ θ’ ἕσπεσθε καὶ ἥβῃ.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, Κρόνου θύγατερ, σύ τε καὶ χρυσόρραπις Ἑρμῆς·</l>
 <l>αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="30">
+</p></div>
+<div type="hymn" n="30">
 <head>Εἲς Γῆν Μητέρα Πάντων</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>γαῖαν παμμήτειραν ἀείσομαι, ἠυθέμεθλον,</l>
@@ -2513,8 +2513,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, θεῶν μήτηρ, ἄλοχ’ Οὐρανοῦ ἀστερόεντος,</l>
 <l>πρόφρων δ’ ἀντ’ ᾠδῆς βίοτον θυμήρε’ ὄπαζε·</l>
 <l>αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1>
-<div1 type="Hymn" n="31">
+</p></div>
+<div type="hymn" n="31">
 <head>Εἲς Ἥλιον</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἥλιον ὑμνεῖν αὖτε Διὸς τέκος ἄρχεο Μοῦσα,</l>
@@ -2537,8 +2537,8 @@ Homeric Hymns</title>
 </p><p><l><milestone ed="P" unit="Para"/>χαῖρε, ἄναξ, πρόφρων δὲ βίον θυμήρε’ ὄπαζε.</l>
 <l>ἐκ σέο δ’ ἀρξάμενος κλῄσω μερόπων γένος ἀνδρῶν</l>
 <l>ἡμιθέων, ὧν ἔργα θεαὶ θνητοῖσιν ἔδειξαν.</l>
-</p></div1>
-<div1 type="Hymn" n="32">
+</p></div>
+<div type="hymn" n="32">
 <head>Εἲς Σελήνην</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>μήνην ἀείδειν τανυσίπτερον ἔσπετε, Μοῦσαι,</l>
@@ -2561,8 +2561,8 @@ Homeric Hymns</title>
 <l>πρόφρον, ἐυπλόκαμος· σέο δ’ ἀρχόμενος κλέα φωτῶν</l>
 <l>ᾄσομαι ἡμιθέων, ὧν κλείους’ ἔργματ’ ἀοιδοί,</l>
 <l n="20">Μουσάων θεράποντες, ἀπὸ στομάτων ἐροέντων.</l>
-</p></div1>
-<div1 type="Hymn" n="33">
+</p></div>
+<div type="hymn" n="33">
 <head>Εἲς Διοσκούρους</head>
 	<milestone ed="P" n="1" unit="card"/>
 <p><l><milestone ed="P" unit="Para"/>ἀμφὶ Διὸς κούρους, ἑλικώπιδες ἔσπετε Μοῦσαι,</l>
@@ -2584,5 +2584,5 @@ Homeric Hymns</title>
 <l>γήθησαν, παύσαντο δ’ ὀιζυροῖο πόνοιο.</l>
 </p><p><l><milestone ed="P" unit="Para"/>χαίρετε, Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων·</l>
 <l>αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.</l>
-</p></div1></body></text>
+</p></div></body></text>
 </TEI.2>

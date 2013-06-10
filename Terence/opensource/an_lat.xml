@@ -129,17 +129,17 @@ new additions
 <castItem type="role"><role>SOSIA</role><roleDesc>libertus.</roleDesc></castItem>
 </castList>
 
-<div1 type="act" n="introduction">
-<div2 type="scene" n="summary">
+<div type="act" n="introduction">
+<div type="scene" n="summary">
 <head>INTRODUCTION.</head>
 <p lang="en">THE Andria derives its name from Glycerium, the heroine of the play; who was from <placeName key="perseus,Andros City">Andros</placeName>. Upon her previous history turns the d&eacute;nouement of the plot. Chremes and Phania were brothers, two Athenian citizens. On occasion of a voyage to <placeName key="tgn,1000004">Asia</placeName> Chremes had left his only daughter Pasibula with Phania, who shortly afterwards followed his brother to Asia to escape from a war that was raging in <placeName key="tgn,1000074">Greece</placeName>. He was overtaken by a storm, and shipwrecked, together with Pasibula, upon the island <placeName key="perseus,Andros City">Andros</placeName>. He there attached himself as a client to a citizen, who entertained him liberally, and upon his death, which occurred shortly after, adopted Pasibula and brought her up with his own daughter Chrysis, having changed her name to Glycerium. Chrysis upon the death of her father went to <placeName key="perseus,Athens">Athens</placeName> with her reputed sister, and, after making shift for an honest livelihood, at last took up the profession of a courtezan. At her house many young men congregated, and among others Pamphilus, the son of Simo, who there saw and fell in love with Glycerium, and became her accepted lover, making her a promise of marriage, which was rendered more binding by the parting injunctions of Chrysis, who upon her deathbed commended Glycerium as a sacred trust to Pamphilus. Meanwhile Pamphilus has another affair on his hands. For Chremes has had another daughter since the loss of Pasibula, and is very anxious that she should be well married to such an excellent young man as Pamphilus, who, happily, while enjoying himself in his own way, has gained a character which is the admiration of every one. So Philumena and Pamphilus are betrothed by their parents, entirely without the knowledge of the bridegroom elect. All this time Simo has fully believed in his son's excellence; but is undeceived by an event which takes place at the funeral of Chrysis, where Pamphilus shows something more than an ordinary solicitude for a young woman whom Simo ascertains to be the sister of Chrysis. The matter takes wind, and reaches the ears of Chremes, with the additional circumstance of Pamphilus' connexion with her, upon which he breaks off the match. This brings us to the point at which the action of the play commences. Simo determines to tell Pamphilus that he is to be married to Philumena, hoping to place him in a dilemma; for if he refused, then he could take him severely to task; if he consented, then Chremes might be gained over, and after all the match might take place. Accordingly he tells Pamphilus by the way in the Forum that he is to be married that very day. Pamphilus returns home in amazement; but is met by Mysis, servant of Glycerium, who revives his old affection for her mistress. Davus meanwhile sifts the whole matter to the bottom; finds that the marriage is a pretence, and accordingly recommends Pamphilus to humour his father to the utmost, and express his entire readiness to marry as soon as he pleases. At the same time he is to keep up his intimacy with Glycerium, that Chremes may be as shy of his connexion as he is now. Meanwhile there is a by-plot at work. One Charinus, a friend of Pamphilus, who is in love with Philumena, hears with dismay that she is to be married to his friend, and urges him to do all in his power to defer the marriage if possible. So affairs stand when Glycerium is brought to bed of a son, Simo, who hears what is going on, imagining, and being confirmed by Davus in the belief, that this is merely an artifice of Glycerium and her friends to prevent Pamphilus' marriage. He accordingly again treats with Chremes on the subject of the marriage of Pamphilus and Philumena, and extorts a reluctant consent. This places Davus in a great strait; for Pamphilus now reproaches him with his untoward advice, which has got him into this mischief; and Charinus too is indignant to the last degree at the treachery of Pamphilus. As a last resource Davus places the child before Simo's door, and contrives that Chremes shall hear its history from Mysis. This causes a fresh rupture between Chremes and Simo. At this moment there arrives a native of <placeName key="perseus,Andros City">Andros</placeName>, Crito, next of kin to Chrysis, who has come to <placeName key="perseus,Athens">Athens</placeName> to claim her property. He clears up the previous history of Glycerium, who is joyfully recognized as Chremes' daughter, and all parties are made happy; Simo being with some difficulty gained over to forgive past offences, and to receive his son and Davus into favour again.
-</p></div2>
-<div2 type="scene" n="production">
+</p></div>
+<div type="scene" n="production">
 <p>ANDRIA.  ACTA LUDIS MEGALENSIB M. FULVIO ET M. GLABRIONE AEDILIB. CURULIB. EGERUNT L. AMBIVIUS TURPIO, L. ATTILIUS PRAENESTINUS. MODOS FECIT FLACCUS CLAUDII FILIUS, TIBIIS PARIBUS DEXTRIS ET SINISTRIS. ET EST TOTA GRAECA. EDITA M. MARCELLO, CN. SULPITIO COSS.
 
-</p></div2></div1>
-<div1 type="act" n="prologue">
-<div2 type="scene" n="0">
+</p></div></div>
+<div type="act" n="prologue">
+<div type="scene" n="0">
 <sp><speaker>Prologus</speaker>
 <lb ed="TLN" n="1"/><p><l>Poeta quum primum animum ad scribendum appulit,
 <lb ed="TLN" n="2"/></l><l>Id sibi negoti credidit solum dari
@@ -171,10 +171,10 @@ new additions
 <lb ed="TLN" n="25"/></l><l n="25">Ut pernoscatis, ecquid spei sit reliquum,
 <lb ed="TLN" n="26"/></l><l>Posthac quas faciet de integro comoedias,
 <lb ed="TLN" n="27"/></l><l>Spectandae an exigendae sint vobis prius.
-</l></p></sp></div2></div1>
-<div1 type="act" n="1">
+</l></p></sp></div></div>
+<div type="act" n="1">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>SIMO. SOSIA.</stage>
 <sp><speaker>Si.</speaker> <lb ed="TLN" n="28"/><p><l>Vos istaec intro auferte: abite. Sosia,
 <lb ed="TLN" n="29"/></l><l>Adesdum: paucis to volo. 
@@ -357,8 +357,8 @@ new additions
 <lb ed="TLN" n="171"/></l><l>Curabo: eamus nunc iam intro. 
    </l></p></sp><sp><speaker>Si.</speaker> <p><l part="Y"> I prae, sequar.
 
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>SIMO. DAVUS.</stage>
 <sp><speaker>Si.</speaker> <lb ed="TLN" n="172"/><p><l>Non dubium est quin uxorem nolit filius:
 <lb ed="TLN" n="173"/></l><l>Ita Davum modo timere sensi, ubi nuptias
@@ -414,8 +414,8 @@ new additions
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="204"/><p><l>Bona verba, quaeso. 
    </l></p></sp><sp><speaker>Si.</speaker> <p><l part="Y"> Irrides: nil me fallis. Edico tibi
 <lb ed="TLN" n="205"/></l><l>Ne temere facias: neque tu hoc dicas tibi non praedictum. Cave.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>DAVUS.</stage>
 <lb ed="TLN" n="206"/><p><l>Enimvero, Dave, nil loci est segnitiae neque socordiae,
 <lb ed="TLN" n="207"/></l><l>Quantum intellexi modo senis sententiam de nuptiis:
@@ -441,8 +441,8 @@ new additions
 <lb ed="TLN" n="225"/></l><l n="20">Mihi quidem hercle non fit verisimile; atque ipsis commentum placet.
 <lb ed="TLN" n="226"/></l><l>Sed Mysis ab ea egreditur: at ego hinc me ad forum ut
 <lb ed="TLN" n="227"/></l><l>Conveniam Pamphilum, ne de hac re pater imprudentem opprimat.
-</l></p></div2>
-<div2 type="scene" n="4">
+</l></p></div>
+<div type="scene" n="4">
 <stage>MYSIS.</stage>
 <lb ed="TLN" n="228"/><p><l>Audivi Archylis iamdudum: Lesbiam adduci iubes.
 <lb ed="TLN" n="229"/></l><l>Sane pol illa temulenta est mulier et temeraria,
@@ -453,8 +453,8 @@ new additions
 <lb ed="TLN" n="233"/></l><l>Huic pariundi, atque illi in aliis potius peccandi locum.
 <lb ed="TLN" n="234"/></l><l>Sed quidnam Pamphilum exanimatum video? Vereor quid siet.
 <lb ed="TLN" n="235"/></l><l>Opperiar ut sciam numquidnam haec turbae tristitia adferat.
-</l></p></div2>
-<div2 type="scene" n="5">
+</l></p></div>
+<div type="scene" n="5">
 <stage>PAMPHILUS. MYSIS.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="236"/><p><l>Hocine est humanum factum aut inceptum? hocine est officium patris?</l></p></sp>
 <sp><speaker>My.</speaker> <lb ed="TLN" n="237"/><p><l>Quid illud est? 
@@ -539,10 +539,10 @@ new additions
 <lb ed="TLN" n="300"/></l><l n="65">Verbum unum cave de nuptiis, ne ad morbum hoc etiam. 
    </l></p></sp><sp><speaker>My.</speaker> <p><l part="Y"> Teneo.
 
-</l></p></sp></div2></div1>
-<div1 type="act" n="2">
+</l></p></sp></div></div>
+<div type="act" n="2">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>CHARINUS. BYRRHIA. PAMPHILUS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="301"/><p><l>Quid ais Byrrhia? datume illa Pamphilo hodie nuptum? 
    </l></p></sp><sp><speaker>By.</speaker> <p><l part="Y"> Sic est.</l></p></sp>
@@ -617,8 +617,8 @@ new additions
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> At tu hercle haud quidquam mihi;
 <lb ed="TLN" n="337"/></l><l>Nisi ea quae nihil opus sunt sciri. Fugin' hinc 
    </l></p></sp><sp><speaker>By.</speaker> <p><l part="Y"> Ego vero ac libens.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>DAVUS. CHARINUS. PAMPHILUS.</stage>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="338"/><p><l>Di boni, boni quid porto! sed ubi inveniam Pamphilum,
 <lb ed="TLN" n="339"/></l><l>Ut metum in quo nunc est adimam, atque expleam animum gaudio?</l></p></sp>
@@ -687,8 +687,8 @@ new additions
 <lb ed="TLN" n="373"/></l><l>Nisi vides, nisi senis amicos oras, ambis. 
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> Bene mones.
 <lb ed="TLN" n="374"/></l><l>Ibo: etsi hercle saepe iam me spes haec frustrata est. Vale.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>PAMPHILUS. DAVUS.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="375"/><p><l>Quid igitur sibi vult pater? cur simulat? 
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> Ego dicam tibi.
@@ -740,8 +740,8 @@ new additions
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Hanc fidem
 <lb ed="TLN" n="402"/></l><l>Sibi me obsecravit qui se sciret non deserturum ut darem.</l></p></sp>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="403"/><p><l>Curabitur. Sed pater adest. Cave te esse tristem sentiat.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>SIMO. DAVUS. PAMPHILUS.</stage>
 <sp><speaker>Si.</speaker> <lb ed="TLN" n="404"/><p><l>Reviso quid agant aut quid captent consili.</l></p></sp>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="405"/><p><l>Hic nunc non dubitat quin te ducturum neges.
@@ -752,8 +752,8 @@ new additions
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> Crede inquam hoc mihi Pamphile,
 <lb ed="TLN" n="410"/></l><l>Numquam hodie tecum commutaturum patrem
 <lb ed="TLN" n="411"/></l><l>Unum esse verbum si te dices ducere.
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>BYRRHIA. SIMO. DAVUS. PAMPHILUS.</stage>
 <sp><speaker>By.</speaker> <lb ed="TLN" n="412"/><p><l>Herus me relictis rebus iussit Pamphilum
 <lb ed="TLN" n="413"/></l><l>Hodie observare, ut quid ageret de nuptiis
@@ -785,8 +785,8 @@ new additions
 <lb ed="TLN" n="429"/></l><l>Memini videre: quo aequior sum Pamphilo,
 <lb ed="TLN" n="430"/></l><l>Si se illam in somnis quam illum amplecti maluit.
 <lb ed="TLN" n="431"/></l><l n="20">Renuntiabo, ut pro hoc malo mihi det malum.
-</l></p></sp></div2>
-<div2 type="scene" n="6">
+</l></p></sp></div>
+<div type="scene" n="6">
 <stage>DAVUS. SIMO.</stage>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="432"/><p><l>Hic nunc me credit aliquam sibi fallaciam
 <lb ed="TLN" n="433"/></l><l>Portare, et ea me hic restitisse gratia.</l></p></sp>
@@ -830,10 +830,10 @@ new additions
 <lb ed="TLN" n="457"/></l><l>Quidnam hoc rei est? quid hic vult veterator sibi?
 <lb ed="TLN" n="458"/></l><l>Nam si hic mali est quicquam, hem illic est huic rei caput.
 
-</l></p></sp></div2></div1>
-<div1 type="act" n="3">
+</l></p></sp></div></div>
+<div type="act" n="3">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>MYSIS. SIMO. DAVUS. LESBIA. GLYCERIUM.</stage>
 <sp><speaker>My.</speaker> <lb ed="TLN" n="459"/><p><l>Ita pol quidem res est ut dixti Lesbia:
 <lb ed="TLN" n="460"/></l><l>Fidelem haud ferme mulieri invenias virum.</l></p></sp>
@@ -871,8 +871,8 @@ new additions
 <lb ed="TLN" n="479"/></l><l>Adortus esset quos mihi ludos redderet?
 <lb ed="TLN" n="480"/></l><l>Nunc huius periclo fit, ego in portu navigo.
 
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>LESBIA. SIMO. DAVUS.</stage>
 <sp><speaker>Le.</speaker> <lb ed="TLN" n="481"/><p><l>Adhuc Archylis quae assolent quaeque oportet
 <lb ed="TLN" n="482"/></l><l>Signa esse ad salutem omnia huic esse video.
@@ -939,8 +939,8 @@ new additions
 <lb ed="TLN" n="530"/></l><l n="50">Nam gnatus quod pollicitus est haud dubium est mihi
 <lb ed="TLN" n="531"/></l><l>Si nolit quin eum merito possim cogere.
 <lb ed="TLN" n="532"/></l><l>Atque adeo in ipso tempore eccum ipsum obviam.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>SIMO. CHREMES.</stage>
 <sp><speaker>Si.</speaker> <lb ed="TLN" n="533"/><p><l>Iubeo Chremetem. 
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> O, te ipsum quaerebam. 
@@ -1003,8 +1003,8 @@ new additions
 
 <lb ed="TLN" n="579"/></l><l>Tute adeo iam eius verba audies. Heus evocate huc Davum.
 <lb ed="TLN" n="580"/></l><l>Atque eccum : video ipsum foras exire.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>DAVUS. SIMO. CHREMES.</stage>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="581"/><p><l>Ad te ibam. 
    </l></p></sp><sp><speaker>Si.</speaker> <p><l part="Y"> Quidnam est?</l></p></sp>
@@ -1059,8 +1059,8 @@ new additions
 
 <lb ed="TLN" n="606"/></l><l>Sed eccum video ipsum: occidi.
 <lb ed="TLN" n="607"/></l><l>Utinam mihi esset aliquid hic quo me nunc praecipitem darem.
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>PAMPHILUS. DAVUS.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="608"/><p><l>Ubi illic est scelus qui me perdidit? 
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> Perii. 
@@ -1097,10 +1097,10 @@ new additions
 <lb ed="TLN" n="624"/></l><l>Cum non habeo spatium ut de te sumam supplicium ut volo:
 <lb ed="TLN" n="625"/></l><l>Namque hoc tempus praecavere mihi me haud te ulcisci sinit.
 
-</l></p></sp></div2></div1>
-<div1 type="act" n="4">
+</l></p></sp></div></div>
+<div type="act" n="4">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>CHARINUS. PAMPHILUS. DAVUS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="626"/><p><l>Hocine est credibile aut memorabile
 <lb ed="TLN" n="627"/></l><l>Tanta vecordia innata cuiquam ut siet
@@ -1186,8 +1186,8 @@ new additions
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Hem, nuncin demum? 
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> At iam hoc tibi inventum dabo.
 
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>MYSIS. PAMPHILUS. CHARINUS. DAVUS.</stage>
 <sp><speaker>My.</speaker> <lb ed="TLN" n="685"/><p><l>Iam ubi ubi erit inventum tibi curabo et mecum adductum
 <lb ed="TLN" n="686"/></l><l>Tuum Pamphilum: tu modo anime mi noli te macerare.</l></p></sp>
@@ -1253,8 +1253,8 @@ new additions
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> Ita facto est opus. 
    </l></p></sp><sp><speaker>My.</speaker> <p><l part="Y"> Matura. 
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> Iam inquam hic adero.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>MYSIS. DAVUS.</stage>
 <sp><speaker>My.</speaker> <lb ed="TLN" n="717"/><p><l>Nihilne esse proprium cuiquam? Di vestram fidem:
 <lb ed="TLN" n="718"/></l><l>Summum bonum esse herae putavi hunc Pamphilum,
@@ -1291,8 +1291,8 @@ new additions
 <lb ed="TLN" n="739"/></l><l>Quod mea opera opus sit vobis, aut tu plus vides,
 <lb ed="TLN" n="740"/></l><l>Manebo, ne quod vestrum remorer commodum.
 
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>CHREMES. MYSIS. DAVUS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="741"/><p><l>Revertor postquam quae opus fuere ad nuptias
 <lb ed="TLN" n="742"/></l><l>Gnatae paravi, ut iubeam arcessi. Sed quid hoc?
@@ -1389,8 +1389,8 @@ new additions
 </l></p></sp>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="795"/><p><l n="55">Paullum interesse censes ex animo omnia,
 <lb ed="TLN" n="796"/></l><l>Ut fert natura, facias an de industria?
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>CRITO. MYSIS. DAVUS.</stage>
 <sp><speaker>Cr.</speaker> <lb ed="TLN" n="797"/><p><l>In hac habitasse platea dictum est Chrysidem
 <lb ed="TLN" n="798"/></l><l>Quae sese inhoneste optavit parere hic divitias
@@ -1424,9 +1424,9 @@ new additions
 <sp><speaker>Cr.</speaker> <lb ed="TLN" n="819"/><p><l>Duc me ad eam, quando huc veni, ut videam. 
    </l></p></sp><sp><speaker>My.</speaker> <p><l part="Y"> Maxime.</l></p></sp>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="820"/><p><l>Sequar hos: nolo me in tempore hoc videat senex.
-</l></p></sp></div2></div1>
-<div1 type="act" n="5">
-<div2 type="scene" n="1">
+</l></p></sp></div></div>
+<div type="act" n="5">
+<div type="scene" n="1">
 <stage>CHREMES. SIMO.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="821"/><p><l>Satis iam satis Simo spectata erga te amicitia est mea:
 <lb ed="TLN" n="822"/></l><l>Satis pericli coepi adire: orandi iam finem face.
@@ -1454,8 +1454,8 @@ new additions
 <lb ed="TLN" n="840"/></l><l n="20">Vero vultu; quum ibi me adesse neuter tum praesenserat.</l></p></sp>
 <sp><speaker>Si.</speaker> <lb ed="TLN" n="841"/><p><l>Credo; et id facturas Davus dudum praedixit mihi:
 <lb ed="TLN" n="842"/></l><l>Et nescio qui tibi sum oblitus hodie ac volui dicere.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>DAVTS. CHREMES. SIMO. DROMO.</stage>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="843"/><p><l>Animo nunc iam otioso esse impero--
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> Hem Davum tibi.</l></p></sp>
@@ -1527,8 +1527,8 @@ new additions
 <lb ed="TLN" n="870"/></l><l>Pietatem gnati! nonne te miseret mei;
 <lb ed="TLN" n="871"/></l><l>Tantum laborem capere ob talem filium?
 <lb ed="TLN" n="872"/></l><l n="30">Age Pamphile, exi Pamphile: ecquid te pudet?
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>PAMIPHILUS. SIMO. CHREMES.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="873"/><p><l>Quis me vult? perii: pater est. 
    </l></p></sp><sp><speaker>Si.</speaker> <p><l part="Y"> Quid ais, omnium --? 
@@ -1577,8 +1577,8 @@ new additions
    </l></p></sp><sp><speaker>Si.</speaker> <p><l part="Y"> Sino.
 <lb ed="TLN" n="903"/></l><l>Quidvis cupio dum ne ab hoc me falli comperiar Chreme.</l></p></sp>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="904"/><p><l>Pro peccato magno paulum supplici satis est patri.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>CRITO. CHREMES. SIMO. PAMPHILLUS.</stage>
 <sp><speaker>Cr.</speaker> <lb ed="TLN" n="905"/><p><l>Mitte orare: una harum quaevis causa me ut facian monet;
 <lb ed="TLN" n="906"/></l><l>Vel tu, vel quod verum est, vel quod ipsi cupio Glycerio.</l></p></sp>
@@ -1698,8 +1698,8 @@ new additions
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> At matura. 
    </l></p></sp><sp><speaker>Si.</speaker> <p><l part="Y"> Eo intro. 
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> O faustum et felicem hunc diem!
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>CHARINUS. PAMPHILUS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="958"/><p><l>Proviso quid agat Pamphilus; atque eccum. 
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Aliquis forsan me putet
@@ -1712,8 +1712,8 @@ new additions
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Davum video: nemo est quem mallem omnium;
 <lb ed="TLN" n="965"/></l><l>Nam hunc scio mea solide solum gavisurum gaudia.
 
-</l></p></sp></div2>
-<div2 type="scene" n="6">
+</l></p></sp></div>
+<div type="scene" n="6">
 <stage>DAVUS. PAMPHILUS. CHARINUS.</stage>
 <sp><speaker>Da.</speaker> <lb ed="TLN" n="966"/><p><l>Pamphilus ubinam hic est? 
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Dave. 
@@ -1752,6 +1752,6 @@ new additions
    </l></p></sp><sp><speaker>Da.</speaker> <p><l part="Y"> Eo.
 <lb ed="TLN" n="981"/></l><l>Ne expectetis dum exeant huc: intus despondebitur;
 <lb ed="TLN" n="982"/></l><l>Intus transigetur si quid est quod restet. 
-   </l></p></sp><sp><speaker>Om.</speaker> <p><l part="Y">Plaudite.</l></p></sp></div2></div1>
+   </l></p></sp><sp><speaker>Om.</speaker> <p><l part="Y">Plaudite.</l></p></sp></div></div>
 </body></text>
 </TEI.2>

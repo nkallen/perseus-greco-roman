@@ -107,7 +107,7 @@
  <text lang="greek">
   <body>
    <!--<div0 type="">-->
-   <div1 type="Book" n="Matthew">
+   <div type="book" n="Matthew">
     <pb n="3"/>
     <head>ΚΑΤΑ ΜΑΘΘΑΙΟΝ</head>
     <p>
@@ -6139,8 +6139,8 @@ sune/tace/n moi *ku/rios.</quote>
 μεθ’ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ
 
 αἰῶνος.</p>
-   </div1>
-   <div1 type="Book" n="Mark">
+   </div>
+   <div type="book" n="Mark">
     <pb n="72"/>
     <head>ΚΑΤΑ ΜΑΡΚΟΝ</head>
     <p>
@@ -10002,7 +10002,7 @@ ta\s kefala\s</quote> αὐτῶν καὶ λέγοντες Οὐὰ ὁ κατ�
 πανταχοῦ, τοῦ κυρίου συνεργοῦντος καὶ τὸν λόγον
 
 βεβαιοῦντος διὰ τῶν ἐπακολουθούντων σημείων. &top;&rdsqb; <!-- note resp="ed" place="marg">*)amhn.</note --></p>
-    <div2>
+    <div>
      <head>ΑΛΛΩΣ</head>
      <p>
       <milestone unit="para"/>&ldsqb;Πάντα δὲ τὰ παρηγγελμένα τοῖς περὶ τὸν Πέτρον
@@ -10012,9 +10012,9 @@ ta\s kefala\s</quote> αὐτῶν καὶ λέγοντες Οὐὰ ὁ κατ�
 ἀπὸ ἀνατολῆς καὶ ἀχρὶ δύσεως ἐξαπέστειλεν δι’ αὐτῶν 
 
 τὸ ἱερὸν καὶ ἄφθαρτον κήρυγμα τῆς αἰωνίου σωτηρίας.&rdsqb;</p>
-    </div2>
-   </div1>
-   <div1 type="Book" n="Luke">
+    </div>
+   </div>
+   <div type="book" n="Luke">
     <pb n="114"/>
     <head>ΚΑΤΑ ΛΟΥΚΑΝ</head>
     <p>
@@ -16814,8 +16814,8 @@ a)rca/menoi a)po\ *)ierousalh\m u(mei=s</note -->σιν ἁμαρτιῶν εἰ
 <!-- note resp="ed" place="marg">&lpress;ai)nou=ntes&rpress;</note -->
 
  διὰ παντὸς ἐν τῷ ἱερῷ &ulcrop;εὐλογοῦντες&urcrop; τὸν θεόν.</p>
-   </div1>
-   <div1 type="Book" n="John">
+   </div>
+   <div type="book" n="John">
     <pb n="187"/>
     <head>ΚΑΤΑ ΙΩΑΝΗΝ</head>
     <p>
@@ -21918,8 +21918,8 @@ ei)s o(\n e)ceke/nthsan.</quote>
 ἐὰν γράφηται καθ’ ἕν, οὐδ’ αὐτὸν οἶμαι τὸν κόσμον χωρήσειν 
 
 τὰ γραφόμενα βιβλία.</p>
-   </div1>
-   <div1 type="Book" n="Acts">
+   </div>
+   <div type="book" n="Acts">
     <pb n="245"/>
     <head>πράξεις ἀποστόλων</head>
     <p>
@@ -28306,8 +28306,8 @@ th=s pa-rembolh=s &rpress;</note -->σοντι αὐτὸν στρατιώτῃ.
 <pb n="315"/><!--<div0 type="">
 
 <head>*e*p*i*s*t*o*l*a*i *k*a*q*o*l*i*k*a*i</head>--></p>
-   </div1>
-   <div1 type="Book" n="James">
+   </div>
+   <div type="book" n="James">
     <pb n="317"/>
     <head>ΙΑΚΩΒΟΥ</head>
     <p>
@@ -28922,8 +28922,8 @@ h(me/ra| sfagh=s.</quote>
 
 αὐτοῦ ἐκ θανάτου&urcrop; καὶ <quote>kalu/yei</quote> πλῆθος <quote>a(martiw=n.</quote>
      <!-- note resp="ed" place="marg">e)k qana)/tou au)tou=</note --></p>
-   </div1>
-   <div1 type="Book" n="I Peter">
+   </div>
+   <div type="book" n="I Peter">
     <pb n="324"/>
     <head>ΠΕΤΡΟΥ Α</head>
     <p>
@@ -29551,8 +29551,8 @@ e)p'</quote> αὐτόν, ὅτι αὐτῷ μέλει περὶ ὑμῶν. <m
 Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἀγάπης.
 
 <milestone unit="para"/>Εἰρήνη ὑμῖν πᾶσιν τοῖς ἐν Χριστῷ.</p>
-   </div1>
-   <div1 type="Book" n="II Peter">
+   </div>
+   <div type="book" n="II Peter">
     <pb n="331"/>
     <head>ΠΕΤΡΟΥ Β</head>
     <p>
@@ -29935,8 +29935,8 @@ e)p'</quote> αὐτόν, ὅτι αὐτῷ μέλει περὶ ὑμῶν. <m
 ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ. αὐτῷ ἡ δόξα καὶ
 
 νῦν καὶ εἰς ἡμέραν αἰῶνος.</p>
-   </div1>
-   <div1 type="Book" n="I John">
+   </div>
+   <div type="book" n="I John">
     <pb n="336"/>
     <head>ΙΩΑΝΟΥ Α</head>
     <p>
@@ -30618,8 +30618,8 @@ e)p'</quote> αὐτόν, ὅτι αὐτῷ μέλει περὶ ὑμῶν. <m
 οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος. <milestone n="21" unit="verse"/> Τεκνία,
 
 φυλάξατε ἑαυτὰ ἀπὸ τῶν εἰδώλων.</p>
-   </div1>
-   <div1 type="Book" n="II John">
+   </div>
+   <div type="book" n="II John">
     <pb n="344"/>
     <head>ΙΩΑΝΟΥ Β</head>
     <p>
@@ -30704,8 +30704,8 @@ e)p'</quote> αὐτόν, ὅτι αὐτῷ μέλει περὶ ὑμῶν. <m
 πεπληρωμένη ᾖ. Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς
 
 σου τῆς ἐκλεκτῆς.</p>
-   </div1>
-   <div1 type="Book" n="III John">
+   </div>
+   <div type="book" n="III John">
     <pb n="345"/>
     <head>ΙΩΑΝΟΥ Γ</head>
     <p>
@@ -30789,8 +30789,8 @@ e)p'</quote> αὐτόν, ὅτι αὐτῷ μέλει περὶ ὑμῶν. <m
 Εἰρήνη σοι. ἀσπάζονταί 
 
 σε οἱ φίλοι. ἀσπάζου τοὺς φίλους κατ’ ὄνομα.</p>
-   </div1>
-   <div1 type="Book" n="Jude">
+   </div>
+   <div type="book" n="Jude">
     <pb n="346"/>
     <head>ΙΟΥΔΑ</head>
     <p>
@@ -30963,8 +30963,8 @@ xitw=na.</quote>
 <pb n="349"/><!--<div0 type="">
 
 <head>*e*p*i*s*t*o*l*a*i *p*a*u*l*o*u</head>--></p>
-   </div1>
-   <div1 type="Book" n="Romans">
+   </div>
+   <div type="book" n="Romans">
     <pb n="351"/>
     <head>ΠΡΟΣ ΡΩΜΑΙΟΥΣ</head>
     <p>
@@ -33290,8 +33290,8 @@ tou= laou= au)tou=.</quote>
 μόνῳ σοφῷ θεῷ διὰ Ἰησοῦ Χριστοῦ [ᾧ] ἡ δόξα εἰς τοὺς
 
 αἰῶνας· ἀμήν.</p>
-   </div1>
-   <div1 type="Book" n="I Corinthians">
+   </div>
+   <div type="book" n="I Corinthians">
     <pb n="378"/>
     <head>ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α</head>
     <p>
@@ -35571,8 +35571,8 @@ qa/nate, to\ ke/ntron;</quote>
 <milestone n="23" unit="verse"/>
 
 ἡ χάρις τοῦ κυρίου Ἰησοῦ μεθ’ ὑμῶν. <milestone n="24" unit="verse"/> ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ Ἰησοῦ.</p>
-   </div1>
-   <div1 type="Book" n="II Corinthians">
+   </div>
+   <div type="book" n="II Corinthians">
     <pb n="403"/>
     <head>ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β</head>
     <p>
@@ -37086,8 +37086,8 @@ pa=n r(h=ma.</quote>
 τοῦ θεοῦ καὶ ἡ κοινωνία τοῦ ἁγίου πνεύματος μετὰ πάντων
 
 ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="Galatians">
+   </div>
+   <div type="book" n="Galatians">
     <pb n="420"/>
     <head>ΠΡΟΣ ΓΑΛΑΤΑΣ</head>
     <p>
@@ -37832,8 +37832,8 @@ seauto/n.</quote>
      <milestone unit="para"/>Ἡ χάρις τοῦ κυρίου [ἡμῶν] Ἰησοῦ Χριστοῦ μετὰ τοῦ
 
 πνεύματος ὑμῶν, ἀδελφοί· ἀμήν.</p>
-   </div1>
-   <div1 type="Book" n="Ephesians">
+   </div>
+   <div type="book" n="Ephesians">
     <pb n="429"/>
     <head>ΠΡΟΣ ΕΦΕΣΙΟΥΣ</head>
     <p>
@@ -38689,8 +38689,8 @@ tou= pneu/matos,</quote>
 πάντων τῶν ἀγαπώντων τὸν κύριον ἡμῶν Ἰησοῦν Χριστὸν
 
 ἐν ἀφθαρσίᾳ.</p>
-   </div1>
-   <div1 type="Book" n="Philippians">
+   </div>
+   <div type="book" n="Philippians">
     <pb n="438"/>
     <head>ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ</head>
     <p>
@@ -39245,8 +39245,8 @@ zwh=s.</quote>
      <milestone unit="para"/>Ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος
 
 ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="Colossians">
+   </div>
+   <div type="book" n="Colossians">
     <pb n="445"/>
     <head>ΠΡΟΣ ΚΟΛΑΣΣΑΕΙΣ</head>
     <p>
@@ -39815,8 +39815,8 @@ kaqh/menos:</quote>
      <milestone unit="para"/>Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου. μνημονεύετέ
 
 μου τῶν δεσμῶν. ἡ χάρις μεθ’ ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="I Thessalonians">
+   </div>
+   <div type="book" n="I Thessalonians">
     <pb n="452"/>
     <head>ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α</head>
     <p>
@@ -40325,8 +40325,8 @@ qeo\s h(ma=s</note --> falai/an</quote> ἐλπίδα <quote>swthri/as:</quote>
 ἐπιστολὴν πᾶσιν τοῖς &top; ἀδελφοῖς. <!-- note resp="ed" place="marg">a(gi/ois</note -->
      <milestone n="28" unit="verse"/>
      <milestone unit="para"/>Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθ’ ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="II Thessalonians">
+   </div>
+   <div type="book" n="II Thessalonians">
     <pb n="458"/>
     <head>ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β</head>
     <p>
@@ -40611,8 +40611,8 @@ qeou= kaqi/cai,</quote> ἀποδεικνύντα ἑαυτὸν ὅτι ἔστ
 ἡ χάρις τοῦ κυρίου
 
 ἡμῶν Ἰησοῦ Χριστοῦ μετα πάντων ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="Hebrews">
+   </div>
+   <div type="book" n="Hebrews">
     <pb n="462"/>
     <head>ΠΡΟΣ ΕΒΡΑΙΟΥΣ</head>
     <p>
@@ -42494,8 +42494,8 @@ kai/etai e)/cw th=s parembolh=s:</quote>
 
 <milestone n="25" unit="verse"/>
      <milestone unit="para"/>Ἡ χάρις μετὰ πάντων ὑμῶν.&top; <!-- note resp="ed" place="marg">a)mh\n.</note --></p>
-   </div1>
-   <div1 type="Book" n="I Timothy">
+   </div>
+   <div type="book" n="I Timothy">
     <pb n="484"/>
     <head>ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α</head>
     <p>
@@ -43131,8 +43131,8 @@ kai/etai e)/cw th=s parembolh=s:</quote>
 περὶ τὴν πίστιν ἠστόχησαν.
 
 <milestone unit="para"/>Ἡ χάρις μεθ’ ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="II Timothy">
+   </div>
+   <div type="book" n="II Timothy">
     <pb n="491"/>
     <head>ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β</head>
     <p>
@@ -43595,8 +43595,8 @@ to\ o)/noma *kuri/ou.</quote>
      <milestone unit="para"/>Ὁ κύριος &top; μετὰ τοῦ πνεύματός σου. ἡ χάρις μεθ’ <!-- note resp="ed" place="marg">*)ihsou=s</note -->
 
 ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="Titus">
+   </div>
+   <div type="book" n="Titus">
     <pb n="496"/>
     <head>ΠΡΟΣ ΤΙΤΟΝ</head>
     <p>
@@ -43860,8 +43860,8 @@ to\ o)/noma *kuri/ou.</quote>
 τοὺς φιλοῦντας ἡμᾶς ἐν πίστει.
 
 <milestone unit="para"/>Ἡ χάρις μετὰ πάντων ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="Philemon">
+   </div>
+   <div type="book" n="Philemon">
     <pb n="499"/>
     <head>ΠΡΟΣ ΦΙΛΗΜΟΝΑ</head>
     <p>
@@ -43985,8 +43985,8 @@ to\ o)/noma *kuri/ou.</quote>
      <milestone unit="para"/>Ἡ χάρις τοῦ κυρίου &top; Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος
 
 ὑμῶν.</p>
-   </div1>
-   <div1 type="Book" n="Revelation">
+   </div>
+   <div type="book" n="Revelation">
     <pb n="503"/>
     <head>ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΟΥ</head>
     <p>
@@ -47128,7 +47128,7 @@ e)n tw=| bibli/w| tou/tw|: <milestone n="19" unit="verse"/> kai\</quote> ἐάν
      <milestone unit="para"/>Ἡ χάρις τοῦ κυρίου Ἰησοῦ [Χριστοῦ] μετὰ τῶν
 
 ἁγίων.</p>
-   </div1>
+   </div>
   </body>
  </text>
 </TEI.2>

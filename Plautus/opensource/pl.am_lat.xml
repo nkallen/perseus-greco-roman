@@ -119,8 +119,8 @@ Added to repository.
 <body>
 
 
-<div1 type="act" n="1">
-<div2 type="scene" n="prol">
+<div type="act" n="1">
+<div type="scene" n="prol">
 
 <sp><speaker>Mercvrivs</speaker>
 <lb ed="TLN" n="1"/><p><l>Vt vos in vostris voltis mercimoniis</l>
@@ -274,9 +274,9 @@ Added to repository.
 <lb ed="TLN" n="149"/><l>a portu ill&iacute;c nunc cum lanterna &aacute;dvenit.</l>
 <lb ed="TLN" n="150"/><l n="150">abigam iam ego illum advenientem ab aedibus.</l>
 <lb ed="TLN" n="151"/><l>adeste: erit operae pretium h&iacute;c spectantibus</l>
-<lb ed="TLN" n="152"/><l>Iovem et Mercurium facere h&iacute;strioniam.</l></p></sp></div2>
+<lb ed="TLN" n="152"/><l>Iovem et Mercurium facere h&iacute;strioniam.</l></p></sp></div>
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <sp><speaker>Sosia</speaker>
 <lb ed="TLN" n="153"/><p><l>Qui me &aacute;lter est aud&aacute;cior homo a&uacute;t qui confid&eacute;ntior,</l>
 <lb ed="TLN" n="154"/><l>iuvent&uacute;tis mores qui sciam, qui hoc noctis solus ambulem?</l>
@@ -960,8 +960,8 @@ Added to repository.
 <lb ed="TLN" n="460"/><l>ibo ad portum atque haec uti sunt facta ero dicam meo;</l>
 <lb ed="TLN" n="461"/><l>nisi etiam is quoque me ignorabit: quod ille faxit Iuppiter,</l>
 <lb ed="TLN" n="462"/><l n="460">ut ego hodie r&aacute;so capite calvos capiam pilleum.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Merc.</speaker>
 <lb ed="TLN" n="463"/><p><l>Bene pr&oacute;spere hoc hodie operis processit mihi:</l>
@@ -1000,8 +1000,8 @@ Added to repository.
 <lb ed="TLN" n="496"/><l>orationem comprimam: crepuit foris.</l>
 <lb ed="TLN" n="497"/><l n="35">Amphitruo subditivos eccum exit foras</l>
 <lb ed="TLN" n="498"/><l>cum Alcumena uxore usuraria.</l></p></sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 
 <sp><speaker>Ivppiter</speaker>
 <lb ed="TLN" n="499"/><p><l>B&eacute;ne vale, Alcumena, cura rem communem, quod facis;</l>
@@ -1136,10 +1136,10 @@ Added to repository.
 <lb ed="TLN" n="548"/><l n="50">atque quanto, nox, fuisti longior hac proxuma,</l>
 <lb ed="TLN" n="549"/><l>tanto brevior dies ut fiat faciam, ut aeque disparet.</l>
 <lb ed="TLN" n="550"/><l>sed dies e nocte accedat. ibo et Mercurium sequar.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="2">
-<div2 type="scene" n="1">
+<div type="act" n="2">
+<div type="scene" n="1">
 
 <sp><speaker>Amphitrvo</speaker>
 <lb ed="TLN" n="551"/><p><l part="I">Age &iacute; tu sec&uacute;ndum.</l></p></sp>
@@ -1385,8 +1385,8 @@ Added to repository.
 
 <sp><speaker>Amph.</speaker>
 <lb ed="TLN" n="632"/><p><l>Vtinam di faxint, infecta dicta re eveniant tua.]</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Alcvmena</speaker>
 <lb ed="TLN" n="633"/><p><l>Sat&iacute;n parva r&eacute;s est vol&uacute;ptatum in v&iacute;ta atque in a&eacute;tate ag&uacute;nda</l>
@@ -2102,10 +2102,10 @@ Added to repository.
 <lb ed="TLN" n="858"/><p><l>Nimis ecastor facinus mirum est, qui illi conlibitum siet</l>
 <lb ed="TLN" n="859"/><l>meo viro sic me insimulare falso facinus tam malum.</l>
 <lb ed="TLN" n="860"/><l n="230">quidquid est, iam ex Naucrate cognato id cognoscam meo.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="3">
-<div2 type="scene" n="1">
+<div type="act" n="3">
+<div type="scene" n="1">
 
 <sp><speaker>Ivppiter</speaker>
 <lb ed="TLN" n="861"/><p><l>Ego sum ille Amphitruo, cui est servos Sosia,</l>
@@ -2129,8 +2129,8 @@ Added to repository.
 <lb ed="TLN" n="879"/><l>et me quod gravidast pariat sine doloribus.</l>
 <lb ed="TLN" n="880"/><l n="20">Mercurium iussi me continuo consequi,</l>
 <lb ed="TLN" n="881"/><l>si quid vellem imperare. nunc hanc adloquar.</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Alcvmena</speaker>
 <lb ed="TLN" n="882"/><p><l>Durare nequeo in aedibus. ita me probri,</l>
@@ -2270,8 +2270,8 @@ Added to repository.
 <sp><speaker>Alc.</speaker>
 <lb ed="TLN" n="954"/><p><l>Mirum quid solus secum secreto ille agat.</l>
 <lb ed="TLN" n="955"/><l>atque aperiuntur aedes. exit Sosia.</l></p></sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 
 <sp><speaker>Sosia</speaker>
 <lb ed="TLN" n="956"/><p><l>&Aacute;mphitruo, assum. s&iacute; quid opus est, impera, imperium &eacute;xequar.</l></p></sp>
@@ -2336,8 +2336,8 @@ Added to repository.
 <lb ed="TLN" n="981"/><l>uxore nunc mihi morigero. haec curata sint</l>
 <lb ed="TLN" n="982"/><l>fac sis, proinde adeo ut velle med intellegis,</l>
 <lb ed="TLN" n="983"/><l>atque ut ministres mihi, mihi cum sacruficem.</l></p></sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4">
 
 <sp><speaker>Mercvrivs</speaker>
 <lb ed="TLN" n="984"/><p><l>Conc&eacute;dite atque absc&eacute;dite omnes, d&eacute; via dec&eacute;dite,</l>
@@ -2365,10 +2365,10 @@ Added to repository.
 <lb ed="TLN" n="1006"/><l>siquid&eacute;m vos voltis auscultando operam dare.</l>
 <lb ed="TLN" n="1007"/><l>ibo intro, ornatum capiam qui potis decet;</l>
 <lb ed="TLN" n="1008"/><l n="25">dein susum ascendam in tectum, ut illum hinc prohibeam.</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="4">
-<div2 type="scene" n="1">
+<div type="act" n="4">
+<div type="scene" n="1">
 
 <sp><speaker>Amphitrvo</speaker>
 <lb ed="TLN" n="1009"/><p><l>Na&uacute;cratem quem c&oacute;nvenire v&oacute;lui, in navi n&oacute;n erat,</l>
@@ -2383,8 +2383,8 @@ Added to repository.
 <lb ed="TLN" n="1018"/><l n="10">mortuom satiust. sed aedis occluserunt. eugepae,</l>
 <lb ed="TLN" n="1019"/><l>pariter hoc fit atque ut alia facta sunt. feriam foris.</l>
 <lb ed="TLN" n="1020"/><l>aperite hoc. heus, ecquis hic est? ecquis hoc aperit ostium?</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Mercvrivs</speaker>
 <lb ed="TLN" n="1021"/><p><l part="I">Qu&iacute;s ad fores est?</l></p></sp>
@@ -2560,8 +2560,8 @@ Added to repository.
 <lb ed="TLN" n="1034v"/><p><l>Qui nequeas nostrorum uter sit Amphitruo decernere.</l></p></sp></quote>
 </cit>
 
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 <sp><speaker>(Bleph.)</speaker>
 <lb ed="TLN" n="1035"/><p><l>V&oacute;s inter vos partite; ego abeo, mihi negotium est;</l>
 <lb ed="TLN" n="1036"/><l>neque ego umquam usquam tanta mira me vidisse censeo.</l></p></sp>
@@ -2591,10 +2591,10 @@ Added to repository.
 <lb ed="TLN" n="1050"/><l>seu patrem sive &aacute;vom videbo, &oacute;btruncabo in aedibus.</l>
 <lb ed="TLN" n="1051"/><l>neque me Iuppiter neque di omnes id prohibebunt, si volent,</l>
 <lb ed="TLN" n="1052"/><l>quin sic faciam ut constitui. pergam in aedis nunciam.</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="5">
-<div2 type="scene" n="1">
+<div type="act" n="5">
+<div type="scene" n="1">
 
 <sp><speaker>Bromia</speaker>
 <lb ed="TLN" n="1053"/><p><l>Spes &aacute;tque opes vita&eacute; meae iac&eacute;nt sepultae in pectore,</l>
@@ -2769,8 +2769,8 @@ Added to repository.
 <lb ed="TLN" n="1128"/><l>ego Teresiam coniectorem &aacute;dvocabo et consulam</l>
 <lb ed="TLN" n="1129"/><l>quid faciundum censeat; simul hanc rem ut facta est eloquar.</l>
 <lb ed="TLN" n="1130"/><l>sed quid hoc? quam valide tonuit. di, obsecro vostram fidem.</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Ivppiter</speaker>
 <lb ed="TLN" n="1131"/><p><l>Bono &aacute;nimo es, adsum aux&iacute;lio, Amphitruo, t&iacute;bi et tuis:</l>
@@ -2791,7 +2791,7 @@ Added to repository.
 <lb ed="TLN" n="1144"/><p><l>F&aacute;ciam ita ut iub&eacute;s et te oro, pr&oacute;missa ut serv&eacute;s tua.</l>
 <lb ed="TLN" n="1145"/><l>ibo ad uxorem intro, missum facio Teresiam senem.</l>
 <lb ed="TLN" n="1146"/><l>nunc, spectatores, Iovis s&uacute;mmi causa clare plaudite.</l></p></sp>
-</div2></div1>
+</div></div>
 </body>
 </text>
 </TEI.2>

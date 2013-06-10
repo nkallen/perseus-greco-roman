@@ -88,8 +88,8 @@ translation to go with the Latin
 </teiHeader>
 <text lang="en">
 <body>
-<div1 type="book" n="1">
-<div2 type="poem" n="prologus">
+<div type="book" n="1">
+<div type="poem" n="prologus">
 <head>Prologue.</head>
 <p><l n="tr">WHAT from the founder <placeName key="tgn,2318967">Esop</placeName> fell,</l>
 <l n="tr">In neat familiar verse I tell:</l>
@@ -101,8 +101,8 @@ translation to go with the Latin
 <l n="tr">We're working neither sin nor shame;</l>
 <l n="tr">'Tis but a play to form the youth</l>
 <l n="tr">By fiction, in the cause of truth.
-</l></p></div2>
-<div2 type="poem" n="1">
+</l></p></div>
+<div type="poem" n="1">
 <head>The Wolf and the Lamb</head>
 
 <p><l n="tr">BY thirst incited; to the brook</l>
@@ -127,8 +127,8 @@ translation to go with the Latin
 <l n="tr">Who are determined to oppress,</l>
 <l n="tr">And trump up any false pretence,</l>
 <l n="tr">But they will injure innocence.
-</l></p></div2>
-<div2 type="poem" n="2">
+</l></p></div>
+<div type="poem" n="2">
 <head>The Frogs Desiring a King</head>
 
 <p><l n="tr">With equal laws when <placeName key="tgn,7001393">Athens</placeName> throve,</l>
@@ -175,8 +175,8 @@ translation to go with the Latin
 <l n="tr">Convinced to what impatience tends,</l>
 <l n="tr">Though slavery be no common curse,</l>
 <l n="tr">Be still, for fear of worse and worse.
-</l></p></div2>
-<div2 type="poem" n="3">
+</l></p></div>
+<div type="poem" n="3">
 <head>The Vain Jackdaw</head>
 
 <p><l n="tr">Lest any one himself should plume,</l>
@@ -199,8 +199,8 @@ translation to go with the Latin
 <l n="tr">You had not felt the peacock's bill;</l>
 <l n="tr">Nor 'mongst the birds of your own dress</l>
 <l n="tr">Had been deserted in distress."
-</l></p></div2>
-<div2 type="poem" n="4">
+</l></p></div>
+<div type="poem" n="4">
 <head>The Dog in the River.</head>
 <p><l n="tr">The churl that wants another's fare</l>
 <l n="tr">Deserves at least to lose his share.</l>
@@ -212,8 +212,8 @@ translation to go with the Latin
 <l n="tr">But mark the glutton's self-defeat,</l>
 <l n="tr">Miss'd both another's and his own,</l>
 <l n="tr">Both shade and substance, beef and bone.
-</l></p></div2>
-<div2 type="poem" n="5">
+</l></p></div>
+<div type="poem" n="5">
 <head>The Heifer, Goat, Sheep, and Lion.</head>
 <p><l n="tr">A partnership with men in power</l>
 <l n="tr">We cannot build upon an hour.</l>
@@ -233,8 +233,8 @@ translation to go with the Latin
 <l n="tr">For him that touches, I shall trounce."</l>
 <l n="tr">Thus rank unrighteousness and force</l>
 <l n="tr">Seized all the prey without remorse.
-</l></p></div2>
-<div2 type="poem" n="6">
+</l></p></div>
+<div type="poem" n="6">
 <head>The Frogs and Sun</head>
 
 <p><l n="tr">When <placeName key="tgn,2318967">Esop</placeName> saw, with inward grief,</l>
@@ -253,16 +253,16 @@ translation to go with the Latin
 <l n="tr">But oh, how dreadfully severe,</l>
 <l n="tr">Should he at length be made a sire,</l>
 <l n="tr">And propagate a race of fire !"
-</l></p></div2>
-<div2 type="poem" n="7">
+</l></p></div>
+<div type="poem" n="7">
 <head>The Fox and the Tragic Mask</head>
 
 <p><l n="tr">A Fox beheld a Mask- "0 rare</l>
 <l n="tr">The headpiece, if but brains were there !"</l>
 <l n="tr">This holds-whene'er the Fates dispense</l>
 <l n="tr">Pomp, pow'r, and everything but sense.
-</l></p></div2>
-<div2 type="poem" n="8">
+</l></p></div>
+<div type="poem" n="8">
 <head>The Wolf and Crane</head>
 
 <p><l n="tr">Who for his merit seeks a price</l>
@@ -285,8 +285,8 @@ translation to go with the Latin
 <l n="tr">"You base, ungrateful minx," says he,</l>
 <l n="tr">"Whom I so kind forbore to kill,</l>
 <l n="tr">And now, forsooth, you'd bring your bill!"
-</l></p></div2>
-<div2 type="poem" n="9">
+</l></p></div>
+<div type="poem" n="9">
 <head>The Hare and the Sparrow</head>
 <p><l n="tr">Still to give cautions, as a friend,</l>
 <l n="tr">And not one's own affairs attend,</l>
@@ -304,8 +304,8 @@ translation to go with the Latin
 <l n="tr">Thus said: " See comfort ev'n in death!</l>
 <l n="tr">She that derided my distress</l>
 <l n="tr">Must now deplore her own no less."
-</l></p></div2>
-<div2 type="poem" n="10">
+</l></p></div>
+<div type="poem" n="10">
 <head>The Wolf and Fox, with the Ape for Judge</head>
 <p><l n="tr">Whoe'er by practice indiscreet</l>
 <l n="tr">Has pass'd for a notorious cheat,</l>
@@ -321,8 +321,8 @@ translation to go with the Latin
 <l n="tr">That all your losses are a lie-</l>
 <l n="tr">And you, with negatives so stout,</l>
 <l n="tr">0 Fox! have stolen the goods no doubt."
-</l></p></div2>
-<div2 type="poem" n="11">
+</l></p></div>
+<div type="poem" n="11">
 <head>The Ass and the Lion Hunting</head>
 
 <p><l n="tr">A coward, full of pompous speech,</l>
@@ -349,8 +349,8 @@ translation to go with the Latin
 <l n="tr">"How did my music-piece go off?</l>
 <l n="tr">So well-were not thy courage known,</l>
 <l n="tr">Their terror had been all my own!"
-</l></p></div2>
-<div2 type="poem" n="12">
+</l></p></div>
+<div type="poem" n="12">
 <head>The Stag at the Fountain</head>
 
 <p><l n="tr">FULL often what you now despise</l>
@@ -371,8 +371,8 @@ translation to go with the Latin
 <l n="tr">"Unhappy me! and wise too late!</l>
 <l n="tr">How useful what I did disdain!</l>
 <l n="tr">How grievous that which made me vain!
-</l></p></div2>
-<div2 type="poem" n="13">
+</l></p></div>
+<div type="poem" n="13">
 <head>The Fox and the Crow</head>
 
 <p><l n="tr">His folly in repentance ends,</l>
@@ -395,8 +395,8 @@ translation to go with the Latin
 <l n="tr">Which Renard seized with greedy haste.</l>
 <l n="tr">The grudging dupe now sees at last</l>
 <l n="tr">That for her folly she must fast.
-</l></p></div2>
-<div2 type="poem" n="14">
+</l></p></div>
+<div type="poem" n="14">
 <head>The Cobbler Turned Doctor</head>
 
 <p><l n="tr">A bankrupt Cobbler, poor and lean,</l>
@@ -427,8 +427,8 @@ translation to go with the Latin
 <l n="tr">Where no one had his heels japann'd."--</l>
 <l n="tr">This story their attention craves</l>
 <l n="tr">Whose weakness is the prey of knaves.
-</l></p></div2>
-<div2 type="poem" n="15">
+</l></p></div>
+<div type="poem" n="15">
 <head>The Sapient Ass</head>
 
 <p><l n="tr">In all the changes of a state,</l>
@@ -447,8 +447,8 @@ translation to go with the Latin
 <l n="tr">"With double panniers load my back ?"</l>
 <l n="tr">"No," says the man. "If that's the thing,"</l>
 <l n="tr">Cries he, "I care not who is king."
-</l></p></div2>
-<div2 type="poem" n="16">
+</l></p></div>
+<div type="poem" n="16">
 <head>The Sheep, the Stag, and the Wolf</head>
 <p><l n="tr">When one rogue would another get</l>
 <l n="tr">For surety in a case of debt,</l>
@@ -462,8 +462,8 @@ translation to go with the Latin
 <l n="tr">And you are quickly out of sight;</l>
 <l n="tr">Where shall I find or him or you</l>
 <l n="tr">Upon the day the debt is due ?"
-</l></p></div2>
-<div2 type="poem" n="17">
+</l></p></div>
+<div type="poem" n="17">
 <head>The Sheep, the Dog, and the Wolf.</head>
 <p><l n="tr">Liars are liable to rue</l>
 <l n="tr">The mischief they 're so prone to do.</l>
@@ -479,12 +479,12 @@ translation to go with the Latin
 <l n="tr">Dead in a ditch the Wolf she view'd:</l>
 <l n="tr">"This, this," she cried, "is Heaven's decree</l>
 <l n="tr">Of justice on a wretch like thee."
-</l></p></div2>
-<div2 type="poem" n="18">
+</l></p></div>
+<div type="poem" n="18">
 <head>(mulier Parturiens)</head>
 <p>Not here translated.
-</p></div2>
-<div2 type="poem" n="19">
+</p></div>
+<div type="poem" n="19">
 <head>The Bitch and Her Puppies</head>
 
 <p><l n="tr">Bad men have speeches smooth and fair,</l>
@@ -503,8 +503,8 @@ translation to go with the Latin
 <l n="tr">The lender grew importunate,</l>
 <l n="tr">"The place," quoth she, " I will resign</l>
 <l n="tr">When you 're a match for me and mine.'
-</l></p></div2>
-<div2 type="poem" n="20">
+</l></p></div>
+<div type="poem" n="20">
 <head>The Hungry Dogs</head>
 <p><l n="tr">A stupid plan that fools project,</l>
 <l n="tr">Not only will not take effect,</l>
@@ -516,8 +516,8 @@ translation to go with the Latin
 <l n="tr">They strove to drink up all the flood;</l>
 <l n="tr">But bursten in the desp'rate deed,</l>
 <l n="tr">They perish'd, ere they could succeed.
-</l></p></div2>
-<div2 type="poem" n="21">
+</l></p></div>
+<div type="poem" n="21">
 <head>The Old Lion</head>
 
 <p><l n="tr">Whoever, to his honor's cost,</l>
@@ -540,8 +540,8 @@ translation to go with the Latin
 <l n="tr">Is Nature's last indignity;</l>
 <l n="tr">And thou, 0 despicable thing,</l>
 <l n="tr">Giv'st death at least a double sting."
-</l></p></div2>
-<div2 type="poem" n="22">
+</l></p></div>
+<div type="poem" n="22">
 <head>The Man and the Weasel</head>
 
 <p><l n="tr">A Weasel, by a person caught,</l>
@@ -562,8 +562,8 @@ translation to go with the Latin
 <l n="tr">Who, useful to themselves alone,</l>
 <l n="tr">And bustling for a private end,</l>
 <l n="tr">Would boast the merit of a friend.
-</l></p></div2>
-<div2 type="poem" n="23">
+</l></p></div>
+<div type="poem" n="23">
 <head>The Faithful House-dog</head>
 
 <p><l n="tr">A Man that's gen'rous all at once</l>
@@ -578,8 +578,8 @@ translation to go with the Latin
 <l n="tr">For this strange kindness is a spur,</l>
 <l n="tr">To make me double all my din,</l>
 <l n="tr">Lest such a scoundrel should come in."
-</l></p></div2>
-<div2 type="poem" n="24">
+</l></p></div>
+<div type="poem" n="24">
 <head>The Proud Frog</head>
 
 <p><l n="tr">When poor men to expenses run,</l>
@@ -596,8 +596,8 @@ translation to go with the Latin
 <l n="tr">The Ox is larger still, they say.</l>
 <l n="tr">At length, with more and more ado,</l>
 <l n="tr">She raged and puffed, and burst in two.
-</l></p></div2>
-<div2 type="poem" n="25">
+</l></p></div>
+<div type="poem" n="25">
 <head>The Dog and the Crocodile</head>
 
 <p><l n="tr">Who give bad precepts to the wise,</l>
@@ -616,8 +616,8 @@ translation to go with the Latin
 <l n="tr">With all my heart, and thank you too,</l>
 <l n="tr">But as you can on dog's flesh dine,</l>
 <l n="tr">You shall not taste a bit of mine."
-</l></p></div2>
-<div2 type="poem" n="26">
+</l></p></div>
+<div type="poem" n="26">
 <head>The Fox and the Stork</head>
 
 <p><l n="tr">One should do injury to none;</l>
@@ -640,8 +640,8 @@ translation to go with the Latin
 <l n="tr">The Stork was heard her guest to check,       -</l>
 <l n="tr">' That every one the fruits should bear</l>
 <l n="tr">Of their example, is but fair."
-</l></p></div2>
-<div2 type="poem" n="27">
+</l></p></div>
+<div type="poem" n="27">
 <head>The Dog, Treasure, and Vulture.</head>
 <p><l n="tr">A Dog, while scratching up the ground,</l>
 <l n="tr">'Mongst human bones a treasure found;</l>
@@ -659,8 +659,8 @@ translation to go with the Latin
 <l n="tr">Who in the highway wast conceived,</l>
 <l n="tr">And on a scurvy dunghill bred,</l>
 <l n="tr">Hadst royal riches in thy head."
-</l></p></div2>
-<div2 type="poem" n="28">
+</l></p></div>
+<div type="poem" n="28">
 <head>The Fox and Eagle</head>
 
 <p><l n="tr">Howe'er exalted in your sphere,</l>
@@ -681,12 +681,12 @@ translation to go with the Latin
 <l n="tr">Put her in terror for her brood.</l>
 <l n="tr">She therefore, lest her house should burn,</l>
 <l n="tr">Submissive did the cubs return.
-</l></p></div2>
-<div2 type="poem" n="29">
+</l></p></div>
+<div type="poem" n="29">
 <head>The Donkey and the Boar</head>
 <p>Not here translated
-</p></div2>
-<div2 type="poem" n="30">
+</p></div>
+<div type="poem" n="30">
 <head>The Frogs and Bulls</head>
 
 <p><l n="tr">Men of low life are in distress</l>
@@ -703,8 +703,8 @@ translation to go with the Latin
 <l n="tr">Will come into this lowland mire,</l>
 <l n="tr">And with his hoof dash out our brains</l>
 <l n="tr">Wherefore their rage to us pertains."
-</l></p></div2>
-<div2 type="poem" n="31">
+</l></p></div>
+<div type="poem" n="31">
 <head>The Kite and the Doves</head>
 
 <p><l n="tr">He that would have the wicked reign,</l>
@@ -723,9 +723,9 @@ translation to go with the Latin
 <l n="tr">And exercise tyrannic sway.</l>
 <l n="tr">"Justly," says one who yet remain'd,</l>
 <l n="tr">" We die the death ourselves ordained."
-</l></p></div2></div1>
-<div1 type="book" n="2">
-<div2 type="poem" n="prologus">
+</l></p></div></div>
+<div type="book" n="2">
+<div type="poem" n="prologus">
 <head>Prologue</head>
 <p><l n="tr">THE way of writing <placeName key="tgn,2318967">Esop</placeName> chose,</l>
 <l n="tr">Sound doctrine by example shows;</l>
@@ -751,8 +751,8 @@ translation to go with the Latin
 <l n="tr">Whose praises, lest they be too long,</l>
 <l n="tr">Attend, why you should stint the sneak,</l>
 <l n="tr">But give the modest, ere they seek.
-</l></p></div2>
-<div2 type="poem" n="1">
+</l></p></div>
+<div type="poem" n="1">
 <head>The Judicious Lion</head>
 
 <p><l n="tr">A Lion on the carcass stood</l>
@@ -775,8 +775,8 @@ translation to go with the Latin
 <l n="tr">But not much copied now-a-days!</l>
 <l n="tr">For churls have coffers that o'erflow,</l>
 <l n="tr">And sheepish worth is poor and low.
-</l></p></div2>
-<div2 type="poem" n="2">
+</l></p></div>
+<div type="poem" n="2">
 <head>The Bald-pate Dupe</head>
 
 <p><l n="tr">Fondling or fondled-any how-</l>
@@ -795,8 +795,8 @@ translation to go with the Latin
 <l n="tr">For the young strumpet, branch and root,</l>
 <l n="tr">Stripp'd of the hoary hairs his crown,</l>
 <l n="tr">E'en as th' old cat grubb'd up the brown.
-</l></p></div2>
-<div2 type="poem" n="3">
+</l></p></div>
+<div type="poem" n="3">
 <head>The Man and the Dog</head>
 
 <p><l n="tr">Torn by a Cur, a man was led</l>
@@ -809,8 +809,8 @@ translation to go with the Latin
 <l n="tr">When thus rewarded as they bite."</l>
 <l n="tr">One wicked miscreant's success</l>
 <l n="tr">Makes many more the trade profess.
-</l></p></div2>
-<div2 type="poem" n="4">
+</l></p></div>
+<div type="poem" n="4">
 <head>The Eagle, the Cat, and the Sow.</head>
 <p><l n="tr">An Eagle built upon an oak</l>
 <l n="tr">A Cat and kittens had bespoke</l>
@@ -848,8 +848,8 @@ translation to go with the Latin
 <l n="tr">And leave a prey for Puss to carve.</l>
 <l n="tr">Hence warn'd ye credulous and young,</l>
 <l n="tr">Be cautious of a double tongue.
-</l></p></div2>
-<div2 type="poem" n="5">
+</l></p></div>
+<div type="poem" n="5">
 <head>Caesar and His Slave</head>
 <p><l n="tr">There is in town a certain set</l>
 <l n="tr">Of mortals, ever in a sweat,</l>
@@ -891,8 +891,8 @@ translation to go with the Latin
 <l n="tr">Small is the premium you have won:</l>
 <l n="tr">The cuffs that make a servant free,</l>
 <l n="tr">Are for a better man than thee."
-</l></p></div2>
-<div2 type="poem" n="6">
+</l></p></div>
+<div type="poem" n="6">
 <head>The Eagle, Carrion Crow, and Tortoise.</head>
 <p><l n="tr">No soul can warrant life or right,</l>
 <l n="tr">Secure from men of lawless might;</l>
@@ -916,8 +916,8 @@ translation to go with the Latin
 <l n="tr">And safe against external wrong,</l>
 <l n="tr">No match for force, and its allies,</l>
 <l n="tr">To cruel death a victim dies.
-</l></p></div2>
-<div2 type="poem" n="7">
+</l></p></div>
+<div type="poem" n="7">
 <head>The Mules and Robbers</head>
 
 <p><l n="tr">Two laden Mules were on the road-</l>
@@ -940,8 +940,8 @@ translation to go with the Latin
 <l n="tr">Sustaining neither wound nor loss."</l>
 <l n="tr">The low estate's from peril clear,</l>
 <l n="tr">But wealthy men have much to fear.
-</l></p></div2>
-<div2 type="poem" n="8">
+</l></p></div>
+<div type="poem" n="8">
 <head>The Stag and the Oxen</head>
 
 <p><l n="tr">A Stag unharbour'd by the hounds</l>
@@ -988,8 +988,8 @@ translation to go with the Latin
 <l n="tr">He lays him breathless on the ground.</l>
 <l n="tr">The master, as the tale declares,</l>
 <l n="tr">Looks sharpest to his own affairs
-</l></p></div2>
-<div2 type="poem" n="epilogus">
+</l></p></div>
+<div type="poem" n="epilogus">
 <head>Epilogue</head>
 <p><l n="tr">A STATUE of great cost and fame</l>
 <l n="tr">Th' Athenians raised to <placeName key="tgn,2318967">Esop</placeName>'s name,</l>
@@ -1025,9 +1025,9 @@ translation to go with the Latin
 <l n="tr">With all its bitterness be borne,</l>
 <l n="tr">Till fortune be ashamed of days,</l>
 <l n="tr">When genius fails, and int'rest sways.
-</l></p></div2></div1>
-<div1 type="book" n="3">
-<div2 type="poem" n="prologus">
+</l></p></div></div>
+<div type="book" n="3">
+<div type="poem" n="prologus">
 <head>Prologue, To Eutychus.</head>
 <p><l n="tr">THE tales of Phaedrus would you read,</l>
 <l n="tr">O Eutychus, you must be freed</l>
@@ -1129,8 +1129,8 @@ translation to go with the Latin
 <l n="tr">I beg that you would be sincere,</l>
 <l n="tr">And in the poet's cause avow</l>
 <l n="tr">That candor, all the world allow.
-</l></p></div2>
-<div2 type="poem" n="1">
+</l></p></div>
+<div type="poem" n="1">
 <head>The Old Woman and Empty Cask</head>
 <p><l n="tr">An ancient dame a firkin sees,</l>
 <l n="tr">In which the rich Falernian lees</l>
@@ -1144,8 +1144,8 @@ translation to go with the Latin
 <l n="tr">When ev'n your dregs have such a zest !"</l>
 <l n="tr">They'll see the drift of this my rhyme,</l>
 <l n="tr">Who knew the author in his prime.
-</l></p></div2>
-<div2 type="poem" n="2">
+</l></p></div>
+<div type="poem" n="2">
 <head>The Panther and Shepherds</head>
 
 <p><l n="tr">Their scorn comes home to them again</l>
@@ -1174,12 +1174,12 @@ translation to go with the Latin
 <l n="tr">The stones, and well remember you</l>
 <l n="tr">Who gave me bread -- desist to fear,</l>
 <l n="tr">For 'twas the oppressor brought me here."
-</l></p></div2>
-<div2 type="poem" n="3">
+</l></p></div>
+<div type="poem" n="3">
 <head>Aesop and the Country Man</head>
 <p>Not here translated.
-</p></div2>
-<div2 type="poem" n="4">
+</p></div>
+<div type="poem" n="4">
 <head>The Ape's Head.</head>
 <p><l n="tr">A certain person, as he stood</l>
 <l n="tr">Within the shambles buying food,</l>
@@ -1193,8 +1193,8 @@ translation to go with the Latin
 <l n="tr">For I in life have often seen</l>
 <l n="tr">Good features with a wicked heart,</l>
 <l n="tr">And plainness acting virtue's part.
-</l></p></div2>
-<div2 type="poem" n="5">
+</l></p></div>
+<div type="poem" n="5">
 <head><placeName key="tgn,2318967">Esop</placeName> and the Insolent Fellow</head>
 
 <p><l n="tr">Fools from success perdition meet.</l>
@@ -1213,8 +1213,8 @@ translation to go with the Latin
 <l n="tr">But mark the downfall of the bold;</l>
 <l n="tr">His hopes are baulk'd, and, lo! he gains</l>
 <l n="tr">A rope and gibbet for his pains.'
-</l></p></div2>
-<div2 type="poem" n="6">
+</l></p></div>
+<div type="poem" n="6">
 <head>The Fly and the Mule</head>
 
 <p><l n="tr">A Fly that sat upon the beam</l>
@@ -1229,8 +1229,8 @@ translation to go with the Latin
 <l n="tr">When to give back, and when to go."</l>
 <l n="tr">This tale derides the talking crew,</l>
 <l n="tr">Whose empty threats are all they do.
-</l></p></div2>
-<div2 type="poem" n="7">
+</l></p></div>
+<div type="poem" n="7">
 <head>The Dog and the Wolf</head>
 
 <p><l n="tr">I will, as briefly as I may,</l>
@@ -1273,8 +1273,8 @@ translation to go with the Latin
 <l n="tr">"Then, Dog, enjoy your post again,</l>
 <l n="tr">For to remain this servile thing,</l>
 <l n="tr">Old Isgrim would not be a king."
-</l></p></div2>
-<div2 type="poem" n="8">
+</l></p></div>
+<div type="poem" n="8">
 <head>The Brother and Sister</head>
 
 <p><l n="tr">Warn'd by our council, oft beware,</l>
@@ -1301,8 +1301,8 @@ translation to go with the Latin
 <l n="tr">By doing things to your disgrace;</l>
 <l n="tr">You, by good conduct to correct</l>
 <l n="tr">Your form, and beautify defect."
-</l></p></div2>
-<div2 type="poem" n="9">
+</l></p></div>
+<div type="poem" n="9">
 <head>A Saying of Socrates</head>
 <p><l n="tr">Though common be the name of friend,</l>
 <l n="tr">Few can to faithfulness pretend,</l>
@@ -1318,8 +1318,8 @@ translation to go with the Latin
 <l n="tr">"I wish," says he, "with all my soul</l>
 <l n="tr">That this same little house I build</l>
 <l n="tr">Was with true friends completely fill'd."
-</l></p></div2>
-<div2 type="poem" n="10">
+</l></p></div>
+<div type="poem" n="10">
 <head>Of Doubt and Credulity</head>
 
 <p><l n="tr">'Tis frequently of bad event</l>
@@ -1416,12 +1416,12 @@ translation to go with the Latin
 <l n="tr">Whom by experience you have tried.</l>
 <l n="tr">Thus have I made a long amends</l>
 <l n="tr">For that brief style which some offends.
-</l></p></div2>
-<div2 type="poem" n="11">
+</l></p></div>
+<div type="poem" n="11">
 <head>(eunuchus Ad Improbum)</head>
 <p>Not here translated.
-</p></div2>
-<div2 type="poem" n="12">
+</p></div>
+<div type="poem" n="12">
 <head>The Cock and the Pearl</head>
 
 <p><l n="tr">A Cock, while scratching all around,</l>
@@ -1436,8 +1436,8 @@ translation to go with the Latin
 <l n="tr">From me to you, and you to me."</l>
 <l n="tr">I write this tale to them alone</l>
 <l n="tr">To whom in vain my pearls are thrown.
-</l></p></div2>
-<div2 type="poem" n="13">
+</l></p></div>
+<div type="poem" n="13">
 <head>The Bees and the Drone</head>
 
 <p><l n="tr">Up in a lofty oak the Bees</l>
@@ -1462,8 +1462,8 @@ translation to go with the Latin
 <l n="tr">So take, ye Bees, your combs again."</l>
 <l n="tr">This narrative had been suppress'd</l>
 <l n="tr">Had not the Drones refused the test.
-</l></p></div2>
-<div2 type="poem" n="14">
+</l></p></div>
+<div type="poem" n="14">
 <head><placeName key="tgn,2318967">Esop</placeName> Playing</head>
 
 <p><l n="tr">As Esop was with boys at play,</l>
@@ -1490,8 +1490,8 @@ translation to go with the Latin
 <l n="tr">Are good upon a holiday,</l>
 <l n="tr">And with more spirit they'll pursue</l>
 <l n="tr">The studies which they shall renew.
-</l></p></div2>
-<div2 type="poem" n="15">
+</l></p></div>
+<div type="poem" n="15">
 <head>The Dog and the Lamb</head>
 
 <p><l n="tr">A Dog bespoke a sucking Lamb,</l>
@@ -1522,8 +1522,8 @@ translation to go with the Latin
 <l n="tr">And has such sweet indulgence shown ?"</l>
 <l n="tr">Kind deeds parental love proclaim</l>
 <l n="tr">Not mere necessity and name.
-</l></p></div2>
-<div2 type="poem" n="16">
+</l></p></div>
+<div type="poem" n="16">
 <head><placeName key="tgn,2563571">The Owl</placeName> and the <placeName key="tgn,2099341">Grasshopper</placeName></head>
 
 <p><l n="tr">Those who will not the forms obey</l>
@@ -1558,8 +1558,8 @@ translation to go with the Latin
 <l n="tr">And quick the trembling vixen slew.</l>
 <l n="tr">Thus by her death she was adjudged</l>
 <l n="tr">To give what in her life she grudged.
-</l></p></div2>
-<div2 type="poem" n="17">
+</l></p></div>
+<div type="poem" n="17">
 <head>The Trees Protected</head>
 
 <p><l n="tr">The gods took certain trees (th' affair</l>
@@ -1584,8 +1584,8 @@ translation to go with the Latin
 <l n="tr">How vain is all pretence to praise !"</l>
 <l n="tr">Whate'er experiments you try,</l>
 <l n="tr">Have some advantage in your eye.
-</l></p></div2>
-<div2 type="poem" n="18">
+</l></p></div>
+<div type="poem" n="18">
 <head><placeName key="tgn,2075297">Juno</placeName> and the Peacock</head>
 
 <p><l n="tr">Her favorite bird to Juno came,</l>
@@ -1614,8 +1614,8 @@ translation to go with the Latin
 <l n="tr">Where Nature has not lent her aid;</l>
 <l n="tr">Nor to that flattering hope attend,</l>
 <l n="tr">Which must in disappointment end.
-</l></p></div2>
-<div2 type="poem" n="19">
+</l></p></div>
+<div type="poem" n="19">
 <head><placeName key="tgn,2318967">Esop</placeName> and the Importunate Fellow</head>
 
 <p><l n="tr"><placeName key="tgn,2318967">Esop</placeName> (no other slave at hand)</l>
@@ -1636,17 +1636,17 @@ translation to go with the Latin
 <l n="tr">The true intent of what was said,</l>
 <l n="tr">He'd found that <placeName key="tgn,2318967">Esop</placeName> had no sense</l>
 <l n="tr">Of manhood in impertinence.
-</l></p></div2>
-<div2 type="poem" n="epilogus">
+</l></p></div>
+<div type="poem" n="epilogus">
 <head>The Poet</head>
 <p>Not here translated
-</p></div2></div1>
-<div1 type="book" n="4">
-<div2 type="poem" n="prologus">
+</p></div></div>
+<div type="book" n="4">
+<div type="poem" n="prologus">
 <head>Prologue: To Particulo</head>
 <p>Not here translated
-</p></div2>
-<div2 type="poem" n="1">
+</p></div>
+<div type="poem" n="1">
 <head>The Ass and Priests of Cybele</head>
 
 <p><l n="tr">The luckless wretch that's born to woe</l>
@@ -1665,8 +1665,8 @@ translation to go with the Latin
 <l n="tr">In death, and that his toils would cease;</l>
 <l n="tr">But see his mis'ry knows no bounds,</l>
 <l n="tr">Still with our blows his back resounds."
-</l></p></div2>
-<div2 type="poem" n="2">
+</l></p></div>
+<div type="poem" n="2">
 <head>The Poet</head>
 <div3 type="section" n="a">
 <head>Prologue</head>
@@ -1706,8 +1706,8 @@ translation to go with the Latin
 <l n="tr">Thus to his crafty foe he said:-</l>
 <l n="tr">"So may'st thou prosper day and night,</l>
 <l n="tr">As thou art not an errant bite."
-</l></div3></div2>
-<div2 type="poem" n="3">
+</l></div3></div>
+<div type="poem" n="3">
 <head>The Fox and the Grapes</head>
 
 <p><l n="tr">An hungry Fox with fierce attack</l>
@@ -1720,8 +1720,8 @@ translation to go with the Latin
 <l n="tr">Than to torment them with the gripes."</l>
 <l n="tr">For those this tale is very pat</l>
 <l n="tr">Who lessen what they can't come at.
-</l></p></div2>
-<div2 type="poem" n="4">
+</l></p></div>
+<div type="poem" n="4">
 <head>The Horse and Boar</head>
 
 <p><l n="tr">A Wild-Boar wallow'd in the flood,</l>
@@ -1746,8 +1746,8 @@ translation to go with the Latin
 <l n="tr">To bear with any kind of scorn;</l>
 <l n="tr">And rather all complaint withdraw</l>
 <l n="tr">Than either go to war or law.
-</l></p></div2>
-<div2 type="poem" n="5">
+</l></p></div>
+<div type="poem" n="5">
 <head><placeName key="tgn,2318967">Esop</placeName> and the Will</head>
 
 <p><l n="tr">That one man sometimes is more shrewd</l>
@@ -1828,8 +1828,8 @@ translation to go with the Latin
 <l n="tr">Their mother shall be duly paid."</l>
 <l n="tr">Thus one man by his wit disclosed</l>
 <l n="tr">The point that had so many posed.
-</l></p></div2>
-<div2 type="poem" n="6">
+</l></p></div>
+<div type="poem" n="6">
 <head>The Battle of the Mice and Weasels</head>
 
 <p><l n="tr">The routed Mice upon a day</l>
@@ -1850,8 +1850,8 @@ translation to go with the Latin
 <l n="tr">Must chiefly mighty men oppress;</l>
 <l n="tr">While folks subordinate and poor</l>
 <l n="tr">Are by their littleness secure.
-</l></p></div2>
-<div2 type="poem" n="7">
+</l></p></div>
+<div type="poem" n="7">
 <head>Phaedrus To the Cavillers</head>
 
 <p><l n="tr">Thou that against my tales inveigh'st,</l>
@@ -1896,8 +1896,8 @@ translation to go with the Latin
 <l n="tr">At every thing of good esteem;</l>
 <l n="tr">And that they may to taste pretend,</l>
 <l n="tr">Ev'n heaven itself will discommend.
-</l></p></div2>
-<div2 type="poem" n="8">
+</l></p></div>
+<div type="poem" n="8">
 <head>The Viper and the File</head>
 
 <p><l n="tr">He that a greater biter bites,</l>
@@ -1912,8 +1912,8 @@ translation to go with the Latin
 <l n="tr">On me your usual meal to make,</l>
 <l n="tr">Who've sharper teeth than thine by far,</l>
 <l n="tr">And can corrode an iron bar ?"
-</l></p></div2>
-<div2 type="poem" n="9">
+</l></p></div>
+<div type="poem" n="9">
 <head>The Fox and the Goat</head>
 
 <p><l n="tr">A crafty knave will make escape,</l>
@@ -1934,8 +1934,8 @@ translation to go with the Latin
 <l n="tr">And by his horns the mound she scales,</l>
 <l n="tr">And leaves the Goat in all the mire,</l>
 <l n="tr">To gratify his heart's desire.
-</l></p></div2>
-<div2 type="poem" n="10">
+</l></p></div>
+<div type="poem" n="10">
 <head>The Two Bags</head>
 
 <p><l n="tr">Great Jove, in his paternal care,</l>
@@ -1948,8 +1948,8 @@ translation to go with the Latin
 <l n="tr">Relating to the Bag behind;</l>
 <l n="tr">But when our neighbours misdemean,</l>
 <l n="tr">Our censures are exceeding keen.
-</l></p></div2>
-<div2 type="poem" n="11">
+</l></p></div>
+<div type="poem" n="11">
 <head>The Sacrilegious Thief</head>
 
 <p><l n="tr">A villain to Jove's altar came</l>
@@ -1984,8 +1984,8 @@ translation to go with the Latin
 <l n="tr">Lastly, we're charg'd with all our pow'r,</l>
 <l n="tr">To keep ourselves, by care intense,</l>
 <l n="tr">From all connexions with offence.
-</l></p></div2>
-<div2 type="poem" n="12">
+</l></p></div>
+<div type="poem" n="12">
 <head>Hercules and Plutus</head>
 
 <p><l n="tr">Wealth by the brave is justly scorn'd,</l>
@@ -2002,20 +2002,20 @@ translation to go with the Latin
 <l n="tr">"I hate him, as he is unjust,</l>
 <l n="tr">To wicked men the most inclined,</l>
 <l n="tr">And grand corrupter of mankind."
-</l></p></div2>
-<div2 type="poem" n="13">
+</l></p></div>
+<div type="poem" n="13">
 <head>The Lion King</head>
 <p>Not here translated
-</p></div2>
-<div2 type="poem" n="14">
+</p></div>
+<div type="poem" n="14">
 <head>Prometheus</head>
 <p>Not here translated
-</p></div2>
-<div2 type="poem" n="15">
+</p></div>
+<div type="poem" n="15">
 <head>Prometheus</head>
 <p>Not here translated
-</p></div2>
-<div2 type="poem" n="16">
+</p></div>
+<div type="poem" n="16">
 <head>The He-goats and She-goats</head>
 
 <p><l n="tr">When the She-Goats from Jove obtain'd</l>
@@ -2030,8 +2030,8 @@ translation to go with the Latin
 <l n="tr">With men in gen'ral form'd like thee</l>
 <l n="tr">While you by virtue still exceed,</l>
 <l n="tr">And in the spirit take the lead.
-</l></p></div2>
-<div2 type="poem" n="17">
+</l></p></div>
+<div type="poem" n="17">
 <head>The Pilot and Sailors</head>
 
 <p><l n="tr">On hearing a poor man lament</l>
@@ -2050,12 +2050,12 @@ translation to go with the Latin
 <l n="tr">On joy, and to retard complaint,</l>
 <l n="tr">Because alternate hope and fright</l>
 <l n="tr">Make up our lives of black and white."
-</l></p></div2>
-<div2 type="poem" n="18">
+</l></p></div>
+<div type="poem" n="18">
 <head>The Dogs' Ambassador To Jove</head>
 <p>Not here translated
-</p></div2>
-<div2 type="poem" n="19">
+</p></div>
+<div type="poem" n="19">
 <head>The Man and the Adder</head>
 
 <p><l n="tr">He, that malicious men relieves,</l>
@@ -2070,8 +2070,8 @@ translation to go with the Latin
 <l n="tr">On asking why she was so base,</l>
 <l n="tr">Was told, " 'Tis others to dissuade</l>
 <l n="tr">From giving wickedness their aid."
-</l></p></div2>
-<div2 type="poem" n="20">
+</l></p></div>
+<div type="poem" n="20">
 <head>The Fox and the Dragon</head>
 
 <p><l n="tr">A Fox was throwing up the soil,</l>
@@ -2114,8 +2114,8 @@ translation to go with the Latin
 <l n="tr">To make thy heap a little higher,</l>
 <l n="tr">And, lest death thank thee, in thy will</l>
 <l n="tr">Hast tax'd the undertaker's bill.
-</l></p></div2>
-<div2 type="poem" n="21">
+</l></p></div>
+<div type="poem" n="21">
 <head>Phaedrus, On His Fables.</head>
 <p><l n="tr">What certain envious hearts intend</l>
 <l n="tr">I very clearly comprehend,</l>
@@ -2131,8 +2131,8 @@ translation to go with the Latin
 <l n="tr">This hand has to perfection brought;</l>
 <l n="tr">But waiving things to our distaste,</l>
 <l n="tr">Let's to the destined period haste.
-</l></p></div2>
-<div2 type="poem" n="22">
+</l></p></div>
+<div type="poem" n="22">
 <head>The Shipwreck of Simonides</head>
 
 <p><l n="tr">A man, whose learned worth is known,</l>
@@ -2179,8 +2179,8 @@ translation to go with the Latin
 <l n="tr">As for your chattels and your pelf.</l>
 <l n="tr">On which ye did so much depend,</l>
 <l n="tr">They're come to nothing in the end."
-</l></p></div2>
-<div2 type="poem" n="23">
+</l></p></div>
+<div type="poem" n="23">
 <head>The Mountain in Labor</head>
 
 <p><l n="tr">The Mountain labor'd, groaning loud,</l>
@@ -2191,8 +2191,8 @@ translation to go with the Latin
 <l n="tr">Whose threats, voluminous and vast,</l>
 <l n="tr">With all their verse and all their prose,</l>
 <l n="tr">Can make but little on 't, God knows.
-</l></p></div2>
-<div2 type="poem" n="24">
+</l></p></div>
+<div type="poem" n="24">
 <head>The Ant and the Fly</head>
 
 <p><l n="tr">An Ant and Fly had sharp dispute</l>
@@ -2233,8 +2233,8 @@ translation to go with the Latin
 <l n="tr">Two very diff'rent characters;</l>
 <l n="tr">Of men self-praised and falsely vain,</l>
 <l n="tr">And men of real worth in grain.
-</l></p></div2>
-<div2 type="poem" n="25">
+</l></p></div>
+<div type="poem" n="25">
 <head>The Escape of Simonides</head>
 
 <p><l n="tr">Th' attention letters can engage,</l>
@@ -2289,8 +2289,8 @@ translation to go with the Latin
 <l n="tr">They knew the gods that visit made,</l>
 <l n="tr">And saved the poet's life in lieu</l>
 <l n="tr">Of those two-thirds which yet were due.
-</l></p></div2>
-<div2 type="poem" n="epilogus">
+</l></p></div>
+<div type="poem" n="epilogus">
 <head>Epilogue To Eutychus.</head>
 <p><l n="tr">I yet have stock in hand to spare,</l>
 <l n="tr">And could write on-but will forbear-</l>
@@ -2348,9 +2348,9 @@ translation to go with the Latin
 <l n="tr">Too plain their grievances to show."</l>
 <l n="tr">This is advice I shall retain</l>
 <l n="tr">While life and sanity remain.
-</l></p></div2></div1>
-<div1 type="book" n="5">
-<div2 type="poem" n="prologus">
+</l></p></div></div>
+<div type="book" n="5">
+<div type="poem" n="prologus">
 <head>Prologue, To Particulo</head>
 <p><l n="tr">WHEN I resolved my hand to stay</l>
 <l n="tr">For this, that others might have play,</l>
@@ -2384,8 +2384,8 @@ translation to go with the Latin
 <l n="tr">As like to live of classic note.</l>
 <l n="tr">It is th' ambition of my pen</l>
 <l n="tr">To win th' applause of learned men.
-</l></p></div2>
-<div2 type="poem" n="1">
+</l></p></div>
+<div type="poem" n="1">
 <head>Demetrius and Menander</head>
 
 <p><l n="tr">If <placeName key="tgn,2318967">Esop</placeName>'s name at any time</l>
@@ -2434,8 +2434,8 @@ translation to go with the Latin
 <l n="tr">" It is Menander you behold."</l>
 <l n="tr">Then, changed at once from fierce to bland,</l>
 <l n="tr">He call'd, and took him by the hand.
-</l></p></div2>
-<div2 type="poem" n="2">
+</l></p></div>
+<div type="poem" n="2">
 <head>The Thief and the Travellrs</head>
 
 <p><l n="tr">Two men equipp'd were on their way;</l>
@@ -2468,8 +2468,8 @@ translation to go with the Latin
 <l n="tr">Who stand their ground when all is well;</l>
 <l n="tr">But in the hour of pressing need</l>
 <l n="tr">Abash'd, most shamefully recede.
-</l></p></div2>
-<div2 type="poem" n="3">
+</l></p></div>
+<div type="poem" n="3">
 <head>The Bald Man and the Fly</head>
 
 <p><l n="tr">As on his head she chanced to sit,</l>
@@ -2492,8 +2492,8 @@ translation to go with the Latin
 <l n="tr">Is-those who wrong not with intent</l>
 <l n="tr">Are venial; but to those that do</l>
 <l n="tr">Severity, I think, is due.
-</l></p></div2>
-<div2 type="poem" n="4">
+</l></p></div>
+<div type="poem" n="4">
 <head>The Man and the Ass</head>
 
 <p><l n="tr">A certain Man, when he had made</l>
@@ -2518,8 +2518,8 @@ translation to go with the Latin
 <l n="tr">Have been conducted in the cart:</l>
 <l n="tr">Temerity for some may do,</l>
 <l n="tr">But many more their rashness rue.
-</l></p></div2>
-<div2 type="poem" n="5">
+</l></p></div>
+<div type="poem" n="5">
 <head>The Buffoon and Country-fellow</head>
 
 <p><l n="tr">In ev'ry age, in each profession,</l>
@@ -2604,8 +2604,8 @@ translation to go with the Latin
 <l n="tr">Which may the more to praise aspire,</l>
 <l n="tr">The more our poets now-a-days</l>
 <l n="tr">Are tedious in their lifeless lays.
-</l></div3></p></div2>
-<div2 type="poem" n="6">
+</l></div3></p></div>
+<div type="poem" n="6">
 <head>The Two Bald Men</head>
 
 <p><l n="tr">As on his way a Bald-pate went,</l>
@@ -2620,8 +2620,8 @@ translation to go with the Latin
 <l n="tr">A hobnail, for a hundred pound."</l>
 <l n="tr">They by this tale may be relieved</l>
 <l n="tr">Whose sanguine hopes have been deceived.
-</l></p></div2>
-<div2 type="poem" n="7">
+</l></p></div>
+<div type="poem" n="7">
 <head>Prince the Piper</head>
 
 <p><l n="tr">A little, friv'lous, abject mind,</l>
@@ -2688,8 +2688,8 @@ translation to go with the Latin
 <l n="tr">And these high honours he received,</l>
 <l n="tr">With one unanimous huzza,</l>
 <l n="tr">Poor Prince was kick'd out of the play.
-</l></p></div2>
-<div2 type="poem" n="8">
+</l></p></div>
+<div type="poem" n="8">
 <head>Opportunity</head>
 
 <p><l n="tr">Bald, naked, of a human shape,</l>
@@ -2706,8 +2706,8 @@ translation to go with the Latin
 <l n="tr">That every one might use their prime;</l>
 <l n="tr">Nor e'er impede, by dull delay,</l>
 <l n="tr">Th' effectual business of to-day.
-</l></p></div2>
-<div2 type="poem" n="9">
+</l></p></div>
+<div type="poem" n="9">
 <head>The Bull and the Calf</head>
 
 <p><l n="tr">A Bull was struggling to secure</l>
@@ -2720,8 +2720,8 @@ translation to go with the Latin
 <l n="tr">Ere thou wert calved was known to me."</l>
 <l n="tr">He, that a wiser man by half</l>
 <l n="tr">Would teach, may think himself this Calf.
-</l></p></div2>
-<div2 type="poem" n="10">
+</l></p></div>
+<div type="poem" n="10">
 <head>The Old Dog and the Huntsman</head>
 
 <p><l n="tr">A Dog, that time and often tried,</l>
@@ -2741,7 +2741,7 @@ translation to go with the Latin
 <l n="tr">For what I am if I am chid,</l>
 <l n="tr">Praise what I was, and what I did."</l>
 <l n="tr">Philetus, you the drift perceive</l>
-<l n="tr">Of this, with which I take my leave.</l></p></div2></div1>
+<l n="tr">Of this, with which I take my leave.</l></p></div></div>
 </body>
 </text>
 </TEI.2>

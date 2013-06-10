@@ -109,8 +109,8 @@ Added to repository.
 <body>
 
 
-<div1 type="act" n="1">
-<div2 type="scene" n="1">
+<div type="act" n="1">
+<div type="scene" n="1">
 
 <sp><speaker>Selenivm</speaker>
 <lb ed="TLN" n="1"/><p><l>Cum ego &aacute;ntehac te am&aacute;vi et mi am&iacute;cam esse cr&eacute;vi,</l>
@@ -380,8 +380,8 @@ Added to repository.
 
 <sp><speaker>Gymn.</speaker>
 <p><l part="M">Vale.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Lena.</speaker>
 <lb ed="TLN" n="120"/><p><l>Idem m&iacute;hi magnae quod parti est vitium mulierum</l>
@@ -413,8 +413,8 @@ Added to repository.
 <lb ed="TLN" n="146"/><l>et illa quae a me accepit, praeter vos quidem.</l>
 <lb ed="TLN" n="147"/><l>haec sic res gesta est. si quid usus venerit,</l>
 <lb ed="TLN" n="148"/><l>meminisse ego hanc rem vos volo. ego abeo domum.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 
 <sp><speaker>Avxilivm</speaker>
 <lb ed="TLN" n="149"/><p><l>Vtrumque haec, et multiloqua et multibiba, est anus.</l>
@@ -471,10 +471,10 @@ Added to repository.
 <lb ed="TLN" n="200"/><l>augete auxilia vostra iustis legibus,</l>
 <lb ed="TLN" n="201"/><l>perdite perduelles, parite laudem et lauream,</l>
 <lb ed="TLN" n="202"/><l>ut vobis victi Poeni poenas sufferant.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="2">
-<div2 type="scene" n="1">
+<div type="act" n="2">
+<div type="scene" n="1">
 
 <sp><speaker>Alcesimarchvs</speaker>
 <lb ed="TLN" n="203"/><p><l>Credo &eacute;go Amorem primum &aacute;pud homines carn&iacute;ficinam comm&eacute;ntum.</l>
@@ -1057,8 +1057,8 @@ Added to repository.
 <lb ed="TLN" n="533"/><l>non licet, perdam operam potius quam carebo filia.</l>
 <lb ed="TLN" n="534"/><l>sed quis hic est qui recta platea cursum huc contendit suom?</l>
 <lb ed="TLN" n="535"/><l>et illud paveo et hoc formido, ita tota sum misera in metu.</l></p></sp>
-</p></div2>
-<div2 type="scene" n="2">
+</p></div>
+<div type="scene" n="2">
 
 <sp><speaker>Lampadio</speaker>
 <lb ed="TLN" n="536"/><p><l>Anum sectatus sum clamore per vias,</l>
@@ -1068,8 +1068,8 @@ Added to repository.
 <lb ed="TLN" n="540"/><l n="5">quot admoenivi fabricas, quot fallacias</l>
 <lb ed="TLN" n="541"/><l>in quaestione. vix exculpsi ut diceret,</l>
 <lb ed="TLN" n="542"/><l>quia ei promisi dolium vini dare.</l></p></sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 
 <sp><speaker>Phanostrata</speaker>
 <lb ed="TLN" n="543"/><p><l>Audire vocem visa sum ante aedis modo</l>
@@ -1295,10 +1295,10 @@ Added to repository.
 <lb ed="TLN" n="628"/><l>nunc egomet potius hanc inibo gratiam</l>
 <lb ed="TLN" n="629"/><l>ab illis, quam illaec me indicet. ibo domum,</l>
 <lb ed="TLN" n="630"/><l>atque ad parentes redducam Selenium.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="3">
-<div2 type="scene" n="1">
+<div type="act" n="3">
+<div type="scene" n="1">
 
 <sp><speaker>Melaenis</speaker>
 <lb ed="TLN" n="631"/><p><l>Rem &eacute;locuta sum tibi omnem; sequere hac me, Selenium,</l>
@@ -1351,10 +1351,10 @@ Added to repository.
 <p><l part="M">Abiit, abstulit</l>
 <lb ed="TLN" n="651"/><l n="20">mulierem. ibo, persequar iam illum intro, ut haec ex me sciat</l>
 <lb ed="TLN" n="652"/><l>&eacute;adem, si possum tranquillum facere ex irato mihi.</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="4">
-<div2 type="scene" n="1">
+<div type="act" n="4">
+<div type="scene" n="1">
 
 <sp><speaker>Lampadio</speaker>
 <lb ed="TLN" n="653"/><p><l>Nullam ego me vidisse credo magis anum excruciabilem</l>
@@ -1422,8 +1422,8 @@ Added to repository.
 
 <sp><speaker>Phan.</speaker>
 <p><l part="M">Spes mihi sancta subveni.</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Halisca</speaker>
 <lb ed="TLN" n="671"/><p><l>Nisi qu&iacute;d mi opis di dant, d&iacute;sperii, neque unde a&uacute;xilium expetam h&aacute;beo.</l>
@@ -1707,10 +1707,10 @@ Added to repository.
 
 <sp><speaker>Phan.</speaker>
 <p><l part="M">I prae, i&aacute;m ego te sequar.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="5">
-<div2 type="scene" n="1">
+<div type="act" n="5">
+<div type="scene" n="1">
 
 <sp><speaker>Demipho</speaker>
 <lb ed="TLN" n="774"/><p><l>Qu&iacute;d hoc negoti est, qu&oacute;d omnes homines fabulantur per vias</l>
@@ -1747,5 +1747,5 @@ Added to repository.
 <lb ed="TLN" n="785"/><l>qui deliquit vapulabit, qui non deliquit bibet.</l>
 <lb ed="TLN" n="786"/><l>nunc quod ad vos, spectatores, relicuom relinquitur,</l>
 <lb ed="TLN" n="787"/><l>more maiorum date plausum postrema in comoedia.</l></p></sp>
-</div2></div1>
+</div></div>
 </body></text></TEI.2>

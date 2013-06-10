@@ -52,8 +52,8 @@
 	<text>
 		<body>
 			<pb id="p.vii"/>
-			<div1 type="book" n="front">
-				<div2 type="chapter"><head>Translator's preface</head>
+			<div type="book" n="front">
+				<div type="chapter"><head>Translator's preface</head>
 					<p>THE Latin text of this volume has been set up
 						from that of the ninth edition (1908) of Book I.,
 						and the eighth edition (1894) of Book II., by Weissenborn and M&uuml;ller, except that the <hi rend="italics">Periochae</hi> have
@@ -99,8 +99,8 @@
 						<dateline>Stanford University, California.
 							<date>1919</date>.</dateline></closer>
 					<pb id="p.ix"/>
-				</div2>
-				<div2 type="chapter"><head>Introduction</head>
+				</div>
+				<div type="chapter"><head>Introduction</head>
 					<div3 type="section"><head>I</head>
 						<p>From entries in Jerome's re-working of the
 							<hi rend="italics">Chronicle</hi> of Eusebius we learn that Titus Livius the
@@ -658,8 +658,8 @@
 							Conway, Walters, Johnson, MacDonald, Oxford, still
 							in progress.</p></div3>
 					<pb id="p.xxxvi"/>
-				</div2>
-				<div2 type="chapter"><head>The Manuscripts</head>
+				</div>
+				<div type="chapter"><head>The Manuscripts</head>
 					<p><hi rend="italics">V</hi>=Veronensis, 4th century.</p>
 					<p><hi rend="italics">F</hi>=Floriacensis, 9th century.</p>
 					<p><hi rend="italics">P</hi>=Parisiensis, 10th century.</p>
@@ -681,8 +681,8 @@
 					<p><hi rend="italics">a</hi> = later part of <hi rend="italics">A,</hi> 14th century.</p>
 					<p><foreign lang="greek">ς</foreign>=one or more of the inferior MSS and early
 						editions.</p>
-				</div2>
-				<div2 type="chapter"><head>Abbreviations</head>
+				</div>
+				<div type="chapter"><head>Abbreviations</head>
 					<p>Ald. (or ed. Ald.) = the Aldine edition, Venice, 1518.</p>
 					<p>Cassiod. = Cassiodorius.</p>
 					<p><hi rend="italics">Class. Quart. = The Classical Quarterly,</hi> London, 1907 ff.</p>
@@ -691,10 +691,10 @@
 					<p>Diod. = Diodorus Siculus.</p>
 					<p>Dion. Hal. = Dionysius of Halicarnassus.</p>
 					<pb id="p.2"/>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb id="p.3"/>
-			<div1 type="book" n="1"><head>Livy from the Founding of the City: Book I</head>
+			<div type="book" n="1"><head>Livy from the Founding of the City: Book I</head>
 				<p><milestone unit="chapter" n="pr"/>
 					<milestone unit="section" n="1"/>Whether I am likely to accomplish anything worthy of the labour, if I record the achievements of the Roman people from the foundation of the city, I do not really know, nor if I knew would I dare to avouch it;
 					<milestone unit="section" n="2"/> perceiving as I do that the theme<note>Some scholars take <hi rend="italics">rem</hi> to mean <quote>the practice,</quote> <hi rend="italics">sc.</hi> of expressing confidence in one's ability.</note> is not only old but hackneyed, through the constant succession of new historians, who believe either that in their facts they can produce more authentic information, or that in their style they will prove better than the rude attempts of the ancients.
@@ -1471,8 +1471,8 @@
 				</p> 
 				<p><milestone unit="section" n="3"/>Lucius Tarquinius Superbus ruled for five and twenty years. The rule of the kings at Rome, from its foundation to its liberation, lasted two hundred and forty-four years. Two consuls were then chosen in the centuriate comitia, under the presidency of the Prefect of the City, in accordance with the commentaries of Servius Tullius.<note>The <quote>consuls,</quote> as they were called from the time of the Decemvirate, were originally designated <quote>praetors</quote>; Livy is anachronistic. The <quote>centuriate comitia</quote> was the assembly of the people by centuries, as classified by Servius, primarily for military ends. It is more likely that Lucretius presided over the election in the capacity of interrex (to which office Dion. iv. 84 says Lucretius was appointed by Brutus) than in that of prefect.</note> These were Lucius Junius Brutus and Lucius Tarquinius Collatinus.
 				</p> <pb id="p.211"/>
-			</div1>
-			<div1 type="book" n="1s"><head>Summary of book I</head>
+			</div>
+			<div type="book" n="1s"><head>Summary of book I</head>
 				<p><hi rend="italics">A.</hi> Arrival of Aeneas in Italy and his deeds. Reign of
 					Ascanius, and after him of the Silvii, at Alba. Romulus
 					and Remus born to Mars by the daughter of Numitor.
@@ -1556,8 +1556,8 @@
 					and Lucius Tarquinius Collatinus.
 				</p>
 				<pb id="p.219"/>
-			</div1>
-			<div1 type="book" n="2"><head>Book II</head>
+			</div>
+			<div type="book" n="2"><head>Book II</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>THE new liberty enjoyed by the Roman people,<note type="margin">B.C. 509</note> their achievements in peace and war, annual magistracies, and laws superior in authority to men will henceforth be my theme.
 					<milestone unit="section" n="2"/> This liberty was the more grateful as the last king had been so great a tyrant. For his predecessors so ruled that there is good reason to regard them all as successive founders of parts, at least, of the City, which they added to serve as new homes for the numbers they had themselves recruited.<note>This statement is too sweeping, for Livy nowhere attributes any enlargement of the City to Numa.</note>
@@ -2418,8 +2418,8 @@
 					<milestone unit="section" n="6"/> Running at full speed, and almost in one body, the pursued and the pursuers reached the Volscian camp, which was captured in the panic. Those of the Volsci who succeeded in escaping made for Antium, and to Antium marched the Roman army also.
 					<milestone unit="section" n="7"/> After a blockade of a few days the place surrendered; the besiegers had not delivered any new attack, but the Volsci had lost heart from the moment of their unsuccessful battle and the capture of their camp.
 				</p> <pb id="p.435"/>
-			</div1>
-			<div1 type="book" n="2s"><head>Summary of book II</head>
+			</div>
+			<div type="book" n="2s"><head>Summary of book II</head>
 				<p>BRUTUS bound the people with an oath to allow no one
 					to reign in Rome. Tarquinius Collatinus, his colleague,
 					who had incurred suspicion because of his relationship to
@@ -2490,8 +2490,8 @@
 					between the patricians and the plebs.
 				</p>
 				<pb id="p.443"/>
-			</div1>
-			<div1 type="book" n="index"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><head>Index of names</head>
 				<head>(The References are to Pages.)</head>
 				<p>ABORIGINES, 8, 10, 12</p>
 				<p>Achivi, 8</p>
@@ -2820,7 +2820,7 @@
 				<p>Volesus, 202, 204</p>
 				<p>Volsci, 182, <hi rend="italics">et passim;</hi> Volsci Antiates, 328; Volscum bellum. 414; Volscus ager, 418; Ecetrani Volsci, 298</p>
 				<p>Volumnia, 346</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

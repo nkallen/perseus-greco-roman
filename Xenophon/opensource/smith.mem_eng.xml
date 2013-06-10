@@ -64,8 +64,8 @@
 <body>
 <pb n="1"/>
 
-<div1 id="b1" type="book" n="1">
-<div2 id="b1c1" type="chapter" n="1">
+<div id="b1" type="book" n="1">
+<div id="b1c1" type="chapter" n="1">
 <p>Socrates reverenced the gods of the Athenian state, and introduced no new divinities.</p>
 <div3 id="b1c1s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">πολλάκις ἐθαύμασα</lemma>: with these words Isocrates begins his <title>Panegyricus</title>, and Theophrastus his <title>Characteres.</title></p>
@@ -243,8 +243,8 @@
 <div3 id="b1c1s20" type="section" n="20">
 <p><lemma lang="greek" targOrder="U">θαυμάζω οὖν</lemma> <foreign lang="greek">κτλ.</foreign>: repeats, in conclusion, the thought of 1.</p>
 <p><lemma lang="greek" targOrder="U">μὴ σωφρονεῖν</lemma>: <gloss>did not hold sound opinions.</gloss> For <foreign lang="greek">μή</foreign> instead of <foreign lang="greek">οὐ</foreign>, after <foreign lang="greek">οἶμαι</foreign>, cf. <bibl n="Xen. Mem. 1.2.41">i.2.41</bibl>; after <foreign lang="greek">ὑποπτεύειν</foreign>, <bibl n="Xen. Anab. 2.3.13"><title>An.</title> ii.3.13</bibl> GMT. 685 <title>fin.</title>; H. 1024.&mdash;<lemma lang="greek" targOrder="U">τὸν ἀσεβὲς</lemma> <foreign lang="greek">κτλ.</foreign>: the rest of the section is an expansion of the idea <foreign lang="greek">περὶ θεοὺς σωφρονεῖν</foreign>. Note the significant change in tense from <foreign lang="greek">εἰπόντα</foreign> and <foreign lang="greek">πράξαντα</foreign> to <foreign lang="greek">λέγοντα</foreign> and <foreign lang="greek">πράττοντα.</foreign></p>
-<p><lemma lang="greek" targOrder="U">οἷα</lemma>: obj. of <foreign lang="greek">λέγων</foreign> and <foreign lang="greek">πράττων</foreign>. For the cond. force of these participles, see <ref target="b1c1s5" targOrder="U">on i.1.5</ref>.</p></div3></div2>
-<div2 id="b1c2" type="chapter" n="2">
+<p><lemma lang="greek" targOrder="U">οἷα</lemma>: obj. of <foreign lang="greek">λέγων</foreign> and <foreign lang="greek">πράττων</foreign>. For the cond. force of these participles, see <ref target="b1c1s5" targOrder="U">on i.1.5</ref>.</p></div3></div>
+<div id="b1c2" type="chapter" n="2">
 <p>1-11. In refutation of the second charge against Socrates, that of corrupting the youth, Xenophon shows that he dissuaded young men from vice and impiety, and led them, by the example of his own life, to revere the laws and abhor violence.</p>
 <div3 id="b1c2s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">τὸ πεισθῆναι τινας</lemma>: <gloss>that any were persuaded</gloss> (by the arguments of the accusers). For the inf. with <foreign lang="greek">τό</foreign>, as subj., see G. 1555; H. 959.</p>
@@ -651,8 +651,8 @@
 <p><lemma lang="greek" targOrder="U">ὅ, αὐτόν</lemma>: for the double acc., see G. 1076; H. 725. Cf. <foreign lang="greek">οὐκ αἰτιῶμαι τάδε τὸν θεόν</foreign> <title>Cyr.</title> vii. 2. 22, <foreign lang="greek">τὸ γενόμενον τὸ θεῖον αἰτιᾶσθαι</foreign> <bibl n="Xen. Hell. 7.5.12"><title>Hell.</title> vii.5.12</bibl></p>
 <p><lemma lang="greek" targOrder="U">εὖ οἰκοῦσι</lemma>: <gloss>are prosperous.</gloss>  Cf. <pb n="42"/> <foreign lang="greek">ποῖαι δὲ πόλεις νομίμως ἂν οἰκήσειαν</foreign>; <title>Cyr.</title> viii. 1. 2. In Homer, the meaning of <foreign lang="greek">ναιετᾶν, ναίειν</foreign> is, in like manner, weakened to something like <foreign lang="greek">εἶναι.</foreign></p>
 <p><lemma lang="greek" targOrder="U">μεγάλης τιμῆς</lemma>: such as the reward suggested in Plato <bibl n="Plat. Apol. 36D"><title>Apol.</title> 36D</bibl>.</p>
-<p><lemma lang="greek" targOrder="U">ἄξιος τῇ πόλει</lemma>: as in i. 1. 1.</p></div3></div2>
-<div2 id="b1c3" type="chapter" n="3">
+<p><lemma lang="greek" targOrder="U">ἄξιος τῇ πόλει</lemma>: as in i. 1. 1.</p></div3></div>
+<div id="b1c3" type="chapter" n="3">
 <p><title>In the two preceding chapters it was shown that Socrates did not influence his followers to their injury</title> (negative proof); <gloss>in what follows, it is shown in detail that he understood how to encourage them in all that is good, by word and example</gloss> (positive proof). <hi rend="italic">His piety is first depicted, and especially the manner in which he would have the gods honored; afterwards, his temperance in all bodily pleasures is described.</hi></p>
 <div3 id="b1c3s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ὡς, δή</lemma>: (to show) <gloss>that, really.</gloss></p>
@@ -751,8 +751,8 @@
 <div3 id="b1c3s15" type="section" n="15">
 <p><lemma lang="greek" targOrder="U">οὕτω παρεσκευασμένος ἦν</lemma>: sic paratam sententiam habebat.</p>
 <p><lemma lang="greek" targOrder="U">ἂν ἥδεσθαι</lemma>: see on <foreign lang="greek">ἂν κινηθῆναι</foreign> i. 1. 14.</p>
-<p><lemma lang="greek" targOrder="U">λυπεῖσθαι</lemma>: sc. <foreign lang="greek">ἄν</foreign>.</p></div3></div2>
-<div2 id="b1c4" type="chapter" n="4">
+<p><lemma lang="greek" targOrder="U">λυπεῖσθαι</lemma>: sc. <foreign lang="greek">ἄν</foreign>.</p></div3></div>
+<div id="b1c4" type="chapter" n="4">
 <p>In a conversation with Aristodemus, Socrates shows that there are gods: they have given to man powers of mind and body admirably adapted to his needs: and they will care for his welfare, if he will only honor them. Whoever is thoroughly convinced of this is lastingly won to virtue. So Socrates understood not only <foreign lang="greek">τὸ προτρέπειν</foreign>, <gloss>but also</gloss> <foreign lang="greek">τὸ προάγειν ἐπ’  ἀρετήν</foreign>. <pb n="49"/></p>
 <div3 id="b1c4s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">τεκμαιρόμενοι</lemma>: &ldquo;conjecturing, on superficial observation,&rdquo; without obj., as in <title>Cyr.</title> i. 3. 5.</p>
@@ -905,8 +905,8 @@
 <p><lemma lang="greek" targOrder="U">ἐμοὶ μὲν οὖν</lemma> <foreign lang="greek">κτλ.</foreign>: sums up the chapter, as in i. 1. 20, 2. 62, <gloss>et al.</gloss></p>
 <p><lemma lang="greek" targOrder="U">οὐ μόνον</lemma>: belongs to <foreign lang="greek">ὁπότε ὁρῶντο</foreign>. See on <foreign lang="greek">μόνον</foreign> 13.</p>
 <p><lemma lang="greek" targOrder="U">ἀπέχεσθαι</lemma>: depends on <foreign lang="greek">ποιεῖν.</foreign></p>
-<p><lemma lang="greek" targOrder="U">ἐπείπερ ἡγήσαιντο</lemma>: <title>since</title> (as we have seen) <gloss>they had come to believe.</gloss> For the opt. in causal sents., see GMT. 714; H. 925 b. For the thought, cf. the injunctions of Christ against ostentatious almsgiving and praying &lsquo;to be seen of men,&rsquo; <title>Matt.</title> vi. 1-18.</p></div3></div2>
-<div2 id="b1c5" type="chapter" n="5">
+<p><lemma lang="greek" targOrder="U">ἐπείπερ ἡγήσαιντο</lemma>: <title>since</title> (as we have seen) <gloss>they had come to believe.</gloss> For the opt. in causal sents., see GMT. 714; H. 925 b. For the thought, cf. the injunctions of Christ against ostentatious almsgiving and praying &lsquo;to be seen of men,&rsquo; <title>Matt.</title> vi. 1-18.</p></div3></div>
+<div id="b1c5" type="chapter" n="5">
 <p>Self-control is the foundation of every virtue recommended and practiced by Socrates.</p>
 <div3 id="b1c5s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">εἰ δή</lemma>: si iam, introduces a settled and recognized fact.</p>
@@ -944,8 +944,8 @@
 <div3 id="b1c5s6" type="section" n="6">
 <p><lemma lang="greek" targOrder="U">τοιαῦτα δὲ λέγων</lemma> <foreign lang="greek">κτλ.</foreign>: &ldquo;his practice was even better than his preaching.&rdquo;</p>
 <p><lemma lang="greek" targOrder="U">τῶν διὰ τοῦ σώματος ἡδέων</lemma>: cf. <foreign lang="greek">τῶν διὰ στόματος ἡδέων</foreign> i. 4. 5.</p>
-<p><lemma lang="greek" targOrder="U">παρὰ τοῦ τυχόντος</lemma>: <gloss>from any one who happened along.</gloss>  Cf. i. 2. 6, and see <ref target="b1c1s14" targOrder="U">on i.1.14</ref>.&mdash;<lemma lang="greek" targOrder="U">δεσπότην ἑαυτοῦ</lemma> <foreign lang="greek">κτλ.</foreign>: <hi rend="italic">was establishing a master over himself; and entering upon a slavery than which none is more shameful.</hi> For the special form of &lsquo;litotes&rsquo; involved in <foreign lang="greek">οὐδεμιᾶς ἧττον αἰσχρόν</foreign>, cf. <bibl n="Xen. Mem. 4.2.12">iv.2.12</bibl>. Cf. also <foreign lang="greek">οὐδαμῶν εἰσι κακίονες ἀνδρῶν</foreign> Hdt. vii. 104. Kr. <title>Spr.</title> 47. 27. 3.</p></div3></div2>
-<div2 id="b1c6" type="chapter" n="6">
+<p><lemma lang="greek" targOrder="U">παρὰ τοῦ τυχόντος</lemma>: <gloss>from any one who happened along.</gloss>  Cf. i. 2. 6, and see <ref target="b1c1s14" targOrder="U">on i.1.14</ref>.&mdash;<lemma lang="greek" targOrder="U">δεσπότην ἑαυτοῦ</lemma> <foreign lang="greek">κτλ.</foreign>: <hi rend="italic">was establishing a master over himself; and entering upon a slavery than which none is more shameful.</hi> For the special form of &lsquo;litotes&rsquo; involved in <foreign lang="greek">οὐδεμιᾶς ἧττον αἰσχρόν</foreign>, cf. <bibl n="Xen. Mem. 4.2.12">iv.2.12</bibl>. Cf. also <foreign lang="greek">οὐδαμῶν εἰσι κακίονες ἀνδρῶν</foreign> Hdt. vii. 104. Kr. <title>Spr.</title> 47. 27. 3.</p></div3></div>
+<div id="b1c6" type="chapter" n="6">
 <p>1-10. <hi rend="italic">In a conversation with Antiphon, Socrates defends himself against the charge that his simple mode of life makes him and those who imitate him unhappy rather than happy.</hi></p>
 <div3 id="b1c6s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">αὐτοῦ</lemma>: depends on <foreign lang="greek">ἃ διελέχθη</foreign> &ldquo;those conversations of his.&rdquo; H. 733.</p>
@@ -1050,8 +1050,8 @@
 <p><lemma lang="greek" targOrder="U">αὐτὸς δέ</lemma>: <gloss>while he himself.</gloss></p>
 <p><lemma lang="greek" targOrder="U">εἴπερ</lemma>: <gloss>if indeed</gloss> (as Antiphon doubted).</p>
 <p><lemma lang="greek" targOrder="U">ποτέρως</lemma>: <gloss>in which way</gloss>, introduces the double question <foreign lang="greek">εἰ ... ἢ εἰ</foreign>, hence does not correspond to <foreign lang="greek">ἤ</foreign>, and should not be confused with <foreign lang="greek">πότερον</foreign> or <foreign lang="greek">πότερα</foreign>. Cf. <bibl n="Xen. Mem. 2.7.8">ii.7.8</bibl>.</p>
-<p><lemma lang="greek" targOrder="U">τοῦ εἶναι</lemma>: for the gen. of the articular inf. with verbs, see G. 1547; H. 959.</p></div3></div2>
-<div2 id="b1c7" type="chapter" n="7">
+<p><lemma lang="greek" targOrder="U">τοῦ εἶναι</lemma>: for the gen. of the articular inf. with verbs, see G. 1547; H. 959.</p></div3></div>
+<div id="b1c7" type="chapter" n="7">
 <p><gloss>Socrates dissuades his friends from boastful pretense, which not only brings ridicule and misfortune upon the pretender, but also injures others.</gloss></p>
 <div3 id="b1c7s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ἀλαζονείας</lemma>: Cf. Xenophon's own explanation of the term, <foreign lang="greek">ὁ μὲν γὰρ ἀλαζὼν ἔμοιγε δοκεῖ ὄνομα κεῖσθαι ἐπὶ τοῖς προσποιουμένοις καὶ πλουσιωτέροις εἶναι ἤ εἰσι καὶ ἀνδρειοτέροις καὶ ποιήσειν ἃ μὴ ἱκανοί εἰσιν ὑπισχνουμένοις, καὶ ταῦτα φανεροῖς γιγνομένοις, ὅτι τοῦ λαβεῖν ἕνεκα καὶ κερδᾶναι ποιοῦσι</foreign> <title>Cyr.</title> ii. 2. 12. See also Theophrastus <title>Char.</title> c. 23.</p>
@@ -1085,9 +1085,9 @@
 <p><lemma lang="greek" targOrder="U">ὅστις</lemma>: instead of <foreign lang="greek">εἴ τις</foreign>. For the same variation, cf. <bibl n="Xen. Mem. 1.6.13">i.6.13</bibl>.</p>
 <p><lemma lang="greek" targOrder="U">ἐξηπατήκοι</lemma>: the pf. emphasizes the deception as an accomplished fact.&mdash;<lemma lang="greek" targOrder="U">ἐμοὶ μὲν</lemma> <foreign lang="greek">κτλ.</foreign>: Xenophon's conclusion. For <foreign lang="greek">μέν</foreign>, see <ref target="b1c1s1" targOrder="U">on i.1.1</ref>.</p>
 <p><lemma lang="greek" targOrder="U">τοιάδε</lemma>: instead of the more usual <foreign lang="greek">τοιαῦτα</foreign>, perhaps as bringing the whole conversation more vividly before the eye. See H. 696 a. <pb n="70"/>
-</p></div3></div2></div1>
-<div1 id="b2" type="book" n="2">
-<div2 id="b2c1" type="chapter" n="1">
+</p></div3></div></div>
+<div id="b2" type="book" n="2">
+<div id="b2c1" type="chapter" n="1">
 <p>No one can govern who does not govern himself. He who does not rule must serve: there is no middle path. To reach self-mastery, we must take pains. This thought is illustrated by the allegory (21-33) of Hercules at the parting of the ways.</p>
 <div3 id="b2c1s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">τοιαῦτα</lemma>: in the rare use of pointing forward. <title>Cf. An.</title> v. 8. 7. It has been conjectured that this pron. and <foreign lang="greek">τοιάδε</foreign> at the close of the preceding chap. have changed places.</p>
@@ -1337,8 +1337,8 @@
 <p><lemma lang="greek" targOrder="U">τὴν ὑπ’  Ἀρετῆς παίδευσιν</lemma>: for <foreign lang="greek">ὑπό</foreign> and the gen. with a verbal noun, see Kr. <title>Spr.</title> 68. 43. 2. Cf. <foreign lang="greek">ἥδεσθαι τῇ ὑπὸ πάντων τιμῇ</foreign> <title>Cyr.</title> iii. 3. 2.</p>
 <p><lemma lang="greek" targOrder="U">γνώμας</lemma>: <title>thoughts.</title></p>
 <p><lemma lang="greek" targOrder="U">ἐνθυμουμένῳ</lemma>: <gloss>giving heed.</gloss></p>
-<p><lemma lang="greek" targOrder="U">πειρᾶσθαί τι ... φροντίζειν</lemma>: <gloss>to strive to pay some attention to those things also</gloss> (<foreign lang="greek">καί</foreign>) <gloss>which belong to the later portion of your life.</gloss> <pb n="88"/></p></div3></div2>
-<div2 id="b2c2" type="chapter" n="2">
+<p><lemma lang="greek" targOrder="U">πειρᾶσθαί τι ... φροντίζειν</lemma>: <gloss>to strive to pay some attention to those things also</gloss> (<foreign lang="greek">καί</foreign>) <gloss>which belong to the later portion of your life.</gloss> <pb n="88"/></p></div3></div>
+<div id="b2c2" type="chapter" n="2">
 <p>Ingratitude is an offense, the more heinous in proportion to the benefits received. Ingratitude towards parents, therefore, is a very grave offense, punished with ignominy by the state and with contempt by all men. These thoughts are brought out in a conversation between Socrates and his son Lamprocles.</p>
 <div3 id="b2c2s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">τὸν πρεσβύτατον</lemma>: acc. to Suidas (<gloss>s.v.</gloss> <foreign lang="greek">Σωκράτης</foreign>), the two other sons of Socrates, Sophroniscus and Menexenus, were by Myrto, a second wife. But Plato (<title>Phaedo</title> 60 A), in the well-known prison- and deathscene, describes Xanthippe as sitting beside Socrates with their child (<foreign lang="greek">παιδίον</foreign>). Cf. also <title>ibid.</title> 116 B. Perhaps Myrto was his first wife; but there is no contemporary evidence for more than one, and that one Xanthippe. On the violent temper of Xanthippe, cf. <foreign lang="greek">χρῇ</foreign> (<gloss>you are provided with</gloss>) <foreign lang="greek">γυναικὶ τῶν οὐσῶν, οἶμαι δὲ καὶ τῶν γεγενημένων καὶ τῶν ἐσομένων, χαλεπωτάτῃ</foreign> <title>Sym.</title> ii. 10. They were an ill-assorted couple, and each had doubtless much to complain of.</p>
@@ -1415,8 +1415,8 @@
 <p><lemma lang="greek" targOrder="U">μὴ οὐκ ἐθελήσωσιν</lemma>: in Attic, the use of <foreign lang="greek">μὴ οὐ</foreign> with the subjv. is <pb n="94"/> generally confined to clauses after verbs of fearing. See GMT. 305, 306; H. 1033.</p>
 <p><lemma lang="greek" targOrder="U">εἶτα</lemma>: <gloss>and then</gloss>, without <foreign lang="greek">καί</foreign>, as often. Cf. <bibl n="Xen. Mem. 1.2.1">i.2.1</bibl>; iv. 5. 3, and <foreign lang="greek">καὶ αὐτοὶ πολλάκις ἐμὲ μιμοῦνται, εἶτα ἐπιχειροῦσιν ἄλλους ἐξετάζειν</foreign> Plato <bibl n="Plat. Apol. 23C"><title>Apol.</title> 23C</bibl>.</p>
 <p><lemma lang="greek" targOrder="U">ἐν ἐρημίᾳ φίλων</lemma>: without <foreign lang="greek">ὤν</foreign>. So after <foreign lang="greek">ὁρᾶν</foreign>, cf. <foreign lang="greek">ἐν εὐδίᾳ</foreign> (<title>security</title>) <foreign lang="greek">γὰρ ὁρῶ ὑμᾶς</foreign> <bibl n="Xen. Anab. 5.8.19"><title>An.</title> v.8.19</bibl>; and after <foreign lang="greek">καταλαμβάνειν</foreign>, cf. <foreign lang="greek">κατελαμβάνομεν τοὺς μὲν ἡμετέρους ἐν φόβῳ</foreign> Demosthenes <gloss>de Cor.</gloss> &sect; 211.</p>
-<p><lemma lang="greek" targOrder="U">γονεῖς</lemma>: this form of the acc. pl. of nouns in <foreign lang="greek">-εύς</foreign> is not rare in Xenophon. Cf. <foreign lang="greek">ἱππεῖς</foreign> iii. 5. 19, <foreign lang="greek">γναφεῖς, σκυτεῖς, χαλκεῖς</foreign> iii. 7. 6, <foreign lang="greek">δρομεῖς</foreign> iii. 10. 6.</p></div3></div2>
-<div2 id="b2c3" type="chapter" n="3">
+<p><lemma lang="greek" targOrder="U">γονεῖς</lemma>: this form of the acc. pl. of nouns in <foreign lang="greek">-εύς</foreign> is not rare in Xenophon. Cf. <foreign lang="greek">ἱππεῖς</foreign> iii. 5. 19, <foreign lang="greek">γναφεῖς, σκυτεῖς, χαλκεῖς</foreign> iii. 7. 6, <foreign lang="greek">δρομεῖς</foreign> iii. 10. 6.</p></div3></div>
+<div id="b2c3" type="chapter" n="3">
 <p>Of two brothers living in discord, the younger is reminded by Socrates that a brother is worth more than money and land. On him, as the younger, it is incumbent to win his brother by affection; the latter will be ashamed to remain alienated: and thus the two will work with combined energies, to which, indeed, they are, as brothers, summoned by nature.</p>
 <div3 id="b2c3s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Χαιρεφῶντα</lemma>: from early youth a follower and friend of Socrates, so that Aristophanes brackets him with the latter, <foreign lang="greek">τοὺς ὠχριῶντας</foreign> (<hi rend="italic">pale-faced</hi>), <foreign lang="greek">τοὺς ἀνυποδήτους λέγεις</foreign>, &verbar; <foreign lang="greek">ὧν ὁ κακοδαίμων Σωκράτης καὶ Χαιρεφῶν</foreign> <title>Clouds</title> 103, 104. He, too, it was who questioned the Pythia at Delphi as to whether any man was wiser than Socrates. The philosopher, when on trial, appealed to Chaerecrates to corroborate this, since Chaerephon was dead. Cf. Plato <bibl n="Plat. Apol. 21A"><title>Apol.</title> 21A</bibl>.</p>
@@ -1528,8 +1528,8 @@
 <p><lemma lang="greek" targOrder="U">ἅμα ποιῆσαι</lemma>: <gloss>to act together on.</gloss></p>
 <p><lemma lang="greek" targOrder="U">φίλω ὄντε</lemma>: conditional.</p>
 <p><lemma lang="greek" targOrder="U">διεστῶτε</lemma>: concessive.</p>
-<p><lemma lang="greek" targOrder="U">ἅμα πράττετον</lemma>: conveys the idea of &ldquo;with united efforts,&rdquo; while <foreign lang="greek">ἅμα καί</foreign> in the preceding clause is equivalent to simul ac.</p></div3></div2>
-<div2 id="b2c4" type="chapter" n="4">
+<p><lemma lang="greek" targOrder="U">ἅμα πράττετον</lemma>: conveys the idea of &ldquo;with united efforts,&rdquo; while <foreign lang="greek">ἅμα καί</foreign> in the preceding clause is equivalent to simul ac.</p></div3></div>
+<div id="b2c4" type="chapter" n="4">
 <p>Although everybody praises friendship, yet most men strive zealously after almost any other possession rather than a true friend; nevertheless, no other blessing is so well fitted as this to help and delight us in every situation of life.</p>
 <div3 id="b2c4s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">διαλεγομένου</lemma>: see <ref target="b1c1s11" targOrder="U">on i.1.11</ref>.</p>
@@ -1573,8 +1573,8 @@
 <p><lemma lang="greek" targOrder="U">εὐεργετῶν οὐδενὸς λείπεται</lemma>: <gloss>is behindhand in none with his good offices.</gloss> For the supplementary participle with <foreign lang="greek">λείπεται</foreign>, see G. 1580; H. 981. Cf. <foreign lang="greek">ἐλλείπεσθαι ποιῶν</foreign> ii. 6. 5.</p>
 <p><lemma lang="greek" targOrder="U">πολλάκις ἅ</lemma>: with conj. omitted, as often in an explanatory clause (&lsquo;explicative asyndeton&rsquo;). Kr. <title>Spr.</title> 59. 1. 5.</p>
 <p><lemma lang="greek" targOrder="U">πρὸ τοῦ φίλου</lemma>: sc. <foreign lang="greek">ἐξεργαζόμενος, ἰδών, ἀκούσας, διανύσας.</foreign></p>
-<p><lemma lang="greek" targOrder="U">μέν, δέ</lemma>: as in i. 4. 17.</p></div3></div2>
-<div2 id="b2c5" type="chapter" n="5">
+<p><lemma lang="greek" targOrder="U">μέν, δέ</lemma>: as in i. 4. 17.</p></div3></div>
+<div id="b2c5" type="chapter" n="5">
 <p>Friends are of various values. Men would not abandon a friend so readily as they do, if he strove more earnestly to be a valuable friend.</p>
 <div3 id="b2c5s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ἐδόκει μοι</lemma> <foreign lang="greek">κτλ.</foreign>: <gloss>seemed to me suited.</gloss></p>
@@ -1605,8 +1605,8 @@
 <p><lemma lang="greek" targOrder="U">πωλῇ</lemma>: <gloss>wants to sell.</gloss></p>
 <p><lemma lang="greek" targOrder="U">τοῦ εὑρόντος</lemma>: <gloss>for what he will bring.</gloss>  Cf. <foreign lang="greek">πόσον ἂν οἴει εὑρεῖν τὰ σὰ κτήματα πωλούμενα</foreign> <title>Oec.</title> ii. 3, and <foreign lang="greek">τοῦ εὑρίσκοντος</foreign> Aesch. <gloss>contra Timarch.</gloss> 96.</p>
 <p><lemma lang="greek" targOrder="U">ἐπαγωγόν</lemma>: <gloss>a temptation.</gloss></p>
-<p><lemma lang="greek" targOrder="U">πάνυ τι</lemma>: <gloss>at all</gloss>, when joined with a negation.</p></div3></div2>
-<div2 id="b2c6" type="chapter" n="6">
+<p><lemma lang="greek" targOrder="U">πάνυ τι</lemma>: <gloss>at all</gloss>, when joined with a negation.</p></div3></div>
+<div id="b2c6" type="chapter" n="6">
 <p>Before choosing a man as friend, we should find out what he is, and how he treated his former associates: and if we still desire his friendship, the approval of the gods should be sought. He is then to be won by kind words and deeds; and only good men, who can add something to friendship, win friends. And although jealousy and strife arise even among such, still the virtue common to them all helps to reconcile and re-unite them. Sensual motives should have no place in forming a friendship. Its best motive is found in our wish to further the noble aims of another, and to rejoice with him in their attainment. All pretense is of course to be eschewed; and we should strive to be just what we wish to seem to our friends.</p>
 <div3 id="b2c6s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">εἰς τὸ δοκιμάζειν</lemma>: <gloss>with regard to judging</gloss>, to be connected with <foreign lang="greek">φρενοῦν.</foreign></p>
@@ -1829,8 +1829,8 @@
 <p><lemma lang="greek" targOrder="U">συντομωτάτη</lemma> <foreign lang="greek">κτλ.</foreign>: cf. <cit><quote lang="la">quamquam praeclare Socrates hanc viam ad gloriam proximam et quasi compendiariam dicebat <pb n="119"/> esse, si quis id ageret, ut qualis haberi vellet talis esset</quote> <bibl n="Cic. Off. 2.12">Cic. <gloss>de Off.</gloss> ii. 12.</bibl></cit> Cf., also, i. 7. 1.</p>
 <p><lemma lang="greek" targOrder="U">ἐν ἀνθρώποις</lemma>: see <ref target="b3c6s2" targOrder="U">on iii.6.2</ref>.</p>
 <p><lemma lang="greek" targOrder="U">ἀρεταί</lemma>: <gloss>excellencies</gloss>, skill in different matters.</p>
-<p><lemma lang="greek" targOrder="U">οὕτως</lemma>: i.e. in the manner described by me.</p></div3></div2>
-<div2 id="b2c7" type="chapter" n="7">
+<p><lemma lang="greek" targOrder="U">οὕτως</lemma>: i.e. in the manner described by me.</p></div3></div>
+<div id="b2c7" type="chapter" n="7">
 <p>Socrates gives good counsel to Aristarchus, who complains of the difficulty of supporting a large family of dependent female relatives. After advising him to give to them some useful employment, Socrates shows that honest work is not beneath the dignity of a freeman. By this, we gain for the home prosperity, mutual appreciation, and happiness.</p>
 <div3 id="b2c7s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">τὰς ἀπορίας, τὰς μέν, τὰς δέ</lemma>: acc. of the whole, followed by its parts, in apposition. Cf. <bibl n="Xen. Mem. 1.2.60">i.2.60</bibl>.</p>
@@ -1910,8 +1910,8 @@
 <p><lemma lang="greek" targOrder="U">ναὶ μὰ Δία</lemma>, &ldquo;yes, of course he does.&rdquo;</p>
 <p><lemma lang="greek" targOrder="U">καὶ ὑμᾶς αὐτάς</lemma>: i.e. you too, as well as my master's other possessions.</p>
 <p><lemma lang="greek" targOrder="U">ἐπεί</lemma>: <title>for.</title>&mdash; <pb n="125"/> <lemma lang="greek" targOrder="U">μὴ ἀπόλησθε</lemma>: subjv. retained, to express vividly the object of fear. Cf. <foreign lang="greek">ὀκνοίην μὲν ἄν, μὴ ἡμᾶς καταδύσῃ</foreign> <bibl n="Xen. Anab. 1.3.17"><title>An.</title> i.3.17</bibl></p>
-<p><lemma lang="greek" targOrder="U">ἀντὶ κυνός</lemma>: <gloss>in place of</gloss> (&ldquo;as good as&rdquo;) <gloss>a dog.</gloss>  Cf. <foreign lang="greek">ἐγὼ γὰρ ἀντὶ τοῦ λέοντός εἰμί σοι</foreign> Ar. <title>Knights</title> 1043.</p></div3></div2>
-<div2 id="b2c8" type="chapter" n="8">
+<p><lemma lang="greek" targOrder="U">ἀντὶ κυνός</lemma>: <gloss>in place of</gloss> (&ldquo;as good as&rdquo;) <gloss>a dog.</gloss>  Cf. <foreign lang="greek">ἐγὼ γὰρ ἀντὶ τοῦ λέοντός εἰμί σοι</foreign> Ar. <title>Knights</title> 1043.</p></div3></div>
+<div id="b2c8" type="chapter" n="8">
 <p>Euth&emacr;rus, who has seen better days, is trying to support himself by the labor of his hands. Socrates advises him to seek a position as overseer of some estate, so as to secure a provision for his old age; and overrules his objections to assuming the position of a subordinate.</p>
 <div3 id="b2c8s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">διὰ χρόνου</lemma>: interiecto aliquo tempore.</p>
@@ -1946,8 +1946,8 @@
 <div3 id="b2c8s6" type="section" n="6">
 <p><lemma lang="greek" targOrder="U">διώκειν</lemma>: <gloss>to seek.</gloss>  Cf. <foreign lang="greek">σὲ μὲν διώξονται καὶ φιλήσουσιν</foreign> Plato <title>Theaet.</title> 168 A.</p>
 <p><lemma lang="greek" targOrder="U">ὑπομένειν</lemma>: <gloss>bear patiently.</gloss></p>
-<p><lemma lang="greek" targOrder="U">ἂν εἶναι</lemma>: the particle should be repeated with <foreign lang="greek">μάλιστα εὑρεῖν</foreign> and <foreign lang="greek">ῥᾷστα ζῆν</foreign>. See on i. 3. 15.</p></div3></div2>
-<div2 id="b2c9" type="chapter" n="9">
+<p><lemma lang="greek" targOrder="U">ἂν εἶναι</lemma>: the particle should be repeated with <foreign lang="greek">μάλιστα εὑρεῖν</foreign> and <foreign lang="greek">ῥᾷστα ζῆν</foreign>. See on i. 3. 15.</p></div3></div>
+<div id="b2c9" type="chapter" n="9">
 <p>Socrates recommends Crito, who complains of being pestered by sycophants, to secure against them the assistance of the poor but worthy Arched&emacr;mus. By his efficient services Arched&emacr;mus gains the gratitude and friendship, not only of Crito, but also of other prominent citizens.</p>
 <div3 id="b2c9s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Κρίτωνος</lemma>: a wealthy Athenian, and one of Socrates's best friends. After the philosopher's condemnation, Crito vainly tried to induce him to escape from prison (cf. Plato <title>Crito</title>). Like other rich citizens, he suffered from the vexatious calumnies and lawsuits fastened on him by malicious accusers (<foreign lang="greek">συκοφάνται</foreign>). This species of blackmail seems to have been viewed indulgently by the community, as affording a wholesome check to the rapacity of &lsquo;capital,&rsquo; and as conducing to the success of the democracy. See Becker, <title>Charicles</title>, pp. 55, 56, and the passages there cited.</p>
@@ -1995,8 +1995,8 @@
 <p><lemma lang="greek" targOrder="U">εἰ ὀνειδίζοι, ἔφη</lemma>: like <foreign lang="greek">ὁπότε θύοι, ἐκάλει</foreign> in 4.</p>
 <p><lemma lang="greek" targOrder="U">διαφέρεσθαι</lemma>: <gloss>to be at variance with.</gloss></p>
 <p><lemma lang="greek" targOrder="U">ἤ</lemma>: sc. <foreign lang="greek">αἰσχρόν ἐστιν. </foreign></p>
-<p><lemma lang="greek" targOrder="U">πειρᾶσθαι φίλους ποιεῖσθαι</lemma>: Xenophon seems to imply that true friendship among rascals is impossible.</p></div3></div2>
-<div2 id="b2c10" type="chapter" n="10">
+<p><lemma lang="greek" targOrder="U">πειρᾶσθαι φίλους ποιεῖσθαι</lemma>: Xenophon seems to imply that true friendship among rascals is impossible.</p></div3></div>
+<div id="b2c10" type="chapter" n="10">
 <p>Socrates persuades Diod&omacr;rus to extend aid to Hermogenes, a poor but worthy acquaintance, and thereby to win his friendship; and points out that it is well worth while to gain friends so easily.</p>
 <div3 id="b2c10s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Διοδώρῳ</lemma>: otherwise unknown.</p>
@@ -2021,9 +2021,9 @@
 <p><lemma lang="greek" targOrder="U">οὐ πολὺ τελέσας</lemma>: <gloss>without much outlay.</gloss>  Cf. <foreign lang="greek">ἀργύριον τελέσαι</foreign> ii. 9. 1.</p>
 <p><lemma lang="greek" targOrder="U">ἔργον εἶχε</lemma>: <gloss>made it his task.</gloss>  Cf. <foreign lang="greek">ἀεὶ δὲ τιθεὶς τὰ τῶν φίλων ἀσφαλῶς ἀεὶ ἀμαυροῦν</foreign> (<gloss>to impair</gloss>) <foreign lang="greek">τὰ τῶν πολεμίων ἔργον εἶχε</foreign> <title>Ages.</title> xi. 12.</p>
 <p><lemma lang="greek" targOrder="U">ὅ τι</lemma>: const. with both participles. <pb n="132"/>
-</p></div3></div2></div1>
-<div1 id="b3" type="book" n="3">
-<div2 id="b3c1" type="chapter" n="1">
+</p></div3></div></div>
+<div id="b3" type="book" n="3">
+<div id="b3c1" type="chapter" n="1">
 <p>The man who aspires to the commandership of an army must understand the art of war, if he would not bring disaster upon the state which he serves. Good generalship necessarily includes other qualifications besides an acquaintance with tactics. A good commander must above all know how to secure the best disposition of his forces. In order to do this, he should be able accurately to estimate the good or bad qualities of his troops, so as to make the best use of each division when occasion demands.</p>
 <div3 id="b3c1s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ὅτι</lemma>: instead of the more usual <foreign lang="greek">ὡς</foreign> <title>how.</title> So <foreign lang="greek">ἐντεθύμησαι ὅτι</foreign> iii. 3. 11. Cf. <foreign lang="greek">ὅτι δὲ ἐπεμελεῖτο, νῦν τοῦτο λέξω</foreign> iv. 7. 1.</p>
@@ -2079,8 +2079,8 @@
 <p><lemma lang="greek" targOrder="U">πολλά</lemma> <pb n="136"/> <lemma lang="greek" targOrder="U">πρὸς ἅ</lemma>: &ldquo;many occasions, where.&rdquo;</p>
 <p><lemma lang="greek" targOrder="U">ὡσαύτως</lemma>: <gloss>in the same way</gloss>, sc. as on others.</p>
 <p><lemma lang="greek" targOrder="U">ἐνδεᾶ</lemma>: the missing gen. can readily be supplied.</p>
-<p><lemma lang="greek" targOrder="U">ἀποπέμψασθαι</lemma>: for the inf. with <foreign lang="greek">αἰσχύνομαι</foreign>, instead of the supplementary participle, see G. 1581; H. 986.</p></div3></div2>
-<div2 id="b3c2" type="chapter" n="2">
+<p><lemma lang="greek" targOrder="U">ἀποπέμψασθαι</lemma>: for the inf. with <foreign lang="greek">αἰσχύνομαι</foreign>, instead of the supplementary participle, see G. 1581; H. 986.</p></div3></div>
+<div id="b3c2" type="chapter" n="2">
 <p><title>A general should make it his chief care to secure the welfare of his troops.</title></p>
 <div3 id="b3c2s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Ὅμηρον</lemma>: in <foreign lang="greek">Β</foreign> 243.</p>
@@ -2099,8 +2099,8 @@
 <div3 id="b3c2s4" type="section" n="4">
 <p><lemma lang="greek" targOrder="U">στρατηγόν</lemma>: is not redundant, but refers with emphasis to <foreign lang="greek">τὸν στρατηγοῦντα.</foreign></p>
 <p><lemma lang="greek" targOrder="U">κάλλιον, αἴσχιον</lemma>: const. with <foreign lang="greek">ἄλλο</foreign>, the obj. of <foreign lang="greek">εὑρεῖν. </foreign></p>
-<p><lemma lang="greek" targOrder="U">τὰ μὲν ἄλλα περιῄρει</lemma> <foreign lang="greek">κτλ.</foreign>: &ldquo;dismissing consideration of all other qualities, he emphasized only this, that a general must provide for the welfare of those under him.&rdquo; On <foreign lang="greek">περιῄρει, κατέλιπε</foreign>, cf. <foreign lang="greek">τῶν πολεμικῶν περιελὼν καὶ τὸ τόξῳ μελετᾶν καὶ ἀκοντίῳ κατέλιπε τοῦτο μόνον αὐτοῖς τὸ σὺν μαχαίρᾳ μάχεσθαι</foreign> <title>Cyr.</title> ii. 1. 21.</p></div3></div2>
-<div2 id="b3c3" type="chapter" n="3">
+<p><lemma lang="greek" targOrder="U">τὰ μὲν ἄλλα περιῄρει</lemma> <foreign lang="greek">κτλ.</foreign>: &ldquo;dismissing consideration of all other qualities, he emphasized only this, that a general must provide for the welfare of those under him.&rdquo; On <foreign lang="greek">περιῄρει, κατέλιπε</foreign>, cf. <foreign lang="greek">τῶν πολεμικῶν περιελὼν καὶ τὸ τόξῳ μελετᾶν καὶ ἀκοντίῳ κατέλιπε τοῦτο μόνον αὐτοῖς τὸ σὺν μαχαίρᾳ μάχεσθαι</foreign> <title>Cyr.</title> ii. 1. 21.</p></div3></div>
+<div id="b3c3" type="chapter" n="3">
 <p>The commander of cavalry must himself see that his horses are in good condition. His men must be trained in riding and in prompt obedience. The leader must above all be able to do anything he requires of his men; and must know how to stimulate by words the ambition of his subordinates.</p>
 <div3 id="b3c3s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ἱππαρχεῖν</lemma>: in Athens, two commanders of cavalry (<foreign lang="greek">ἵππαρχοι</foreign>) were chosen in addition to the ten generals of infantry. Xenophon has left us a special treatise (<foreign lang="greek">Ἱππαρχικός</foreign>) on the duties of the hipparchs.</p>
@@ -2162,8 +2162,8 @@
 <div3 id="b3c3s15" type="section" n="15">
 <p><lemma lang="greek" targOrder="U">ὄκνει</lemma>: <title>delay.</title></p>
 <p><lemma lang="greek" targOrder="U">ὠφελήσῃ</lemma>: fut. mid. for passive. Cf. <bibl n="Xen. Mem. 2.7.8">ii.7.8</bibl>.</p>
-<p><lemma lang="greek" targOrder="U">ἀλλὰ νὴ Δία</lemma>: see <ref target="b2c7s11" targOrder="U">on ii.7.11</ref>. <pb n="142"/></p></div3></div2>
-<div2 id="b3c4" type="chapter" n="4">
+<p><lemma lang="greek" targOrder="U">ἀλλὰ νὴ Δία</lemma>: see <ref target="b2c7s11" targOrder="U">on ii.7.11</ref>. <pb n="142"/></p></div3></div>
+<div id="b3c4" type="chapter" n="4">
 <p>Nicomachides complains that in the election of generals the Athenians have ignored him, an experienced officer, and have chosen a man who has no knowledge of war. But Socrates urges that a man who can successfully equip and train a chorus, and especially a man who can successfully manage his own house, must possess qualities which will render him a useful general; for the demands on ability are essentially the same in all these positions.</p>
 <div3 id="b3c4s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">στρατηγοί</lemma>: predicate.</p>
@@ -2229,8 +2229,8 @@
 <p><lemma lang="greek" targOrder="U">φυλάξεται συνάπτειν</lemma>: for the inf., see on <foreign lang="greek">προιέναι</foreign> ii. 6. 23.</p></div3>
 <div3 id="b3c4s12" type="section" n="12">
 <p><lemma lang="greek" targOrder="U">τὸ δὲ μέγιστον</lemma>: <gloss>the fact of greatest significance.</gloss> For neuter words in apposition with a sent., see H. 626 b.</p>
-<p><lemma lang="greek" targOrder="U">οὐδετέρα</lemma>: <gloss>neither sphere of action.</gloss> The whole section shows that Socrates regarded a wellmanaged household as differing only in degree from a well-managed state. <pb n="146"/> Xenophon elaborated his own views on household management (putting them into the mouth of Socrates) in a special treatise, the <title>Oeconomicus.</title></p></div3></div2>
-<div2 id="b3c5" type="chapter" n="5">
+<p><lemma lang="greek" targOrder="U">οὐδετέρα</lemma>: <gloss>neither sphere of action.</gloss> The whole section shows that Socrates regarded a wellmanaged household as differing only in degree from a well-managed state. <pb n="146"/> Xenophon elaborated his own views on household management (putting them into the mouth of Socrates) in a special treatise, the <title>Oeconomicus.</title></p></div3></div>
+<div id="b3c5" type="chapter" n="5">
 <p>Socrates sets before the younger Pericles the best way to recall the Athenians to their pristine courage and energy. The successive reverses which the Athenians have suffered at the hands of the Thebans have demoralized their public spirit and obscured the undoubted fact of their natural superiority. Delium and Lebad&emacr;a (Coron&emacr;a) were severe lessons, but should be made profitable. The citizens should, above all, be reminded of the lofty fame of their ancestors; and if that is not enough, they should be urged to imitate the steady and effective discipline of the Lacedaemonians. Then, too, their generals should be chosen with greater care than at present. Finally, Socrates expresses the hope that Pericles, who has been elected as one of the generals, has qualified himself for the position; and suggests that it would be well to employ the younger citizen soldiery in an effective defense of the Attic frontier.</p>
 <div3 id="b3c5s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Περικλεῖ</lemma>: third son of the great Pericles. His mother was of foreign birth, the beautiful and accomplished Aspasia of Miletus, and he was consequently not entitled to Athenian citizenship; but after the death of his two brothers he was legitimated by the Athenians and accepted as a citizen, for his father's sake. He was one of the six generals who were executed for their failure to rescue the shipwrecked crews after the battle of the Arginusae. See on i. 1. 18, and cf. Plutarch <title>Pericles</title> 37.</p>
@@ -2376,8 +2376,8 @@
 <p><lemma lang="greek" targOrder="U">ὡπλισμένους, κατέχοντας</lemma>: equivalent to <foreign lang="greek">εἰ ὡπλισμένοι εἶεν, εἰ κατέχοιεν</foreign>, serving as prots. to <foreign lang="greek">ἂν</foreign> (before <foreign lang="greek">οἴει</foreign>) <foreign lang="greek">εἶναι, κατεσκευάσθαι</foreign>. For the circumstantial participle of cond., see on <foreign lang="greek">πιστεύων</foreign> i. 1. 5.</p>
 <p><lemma lang="greek" targOrder="U">προβολὴν κατεσκευάσθαι</lemma>: <gloss>form a rampart.</gloss></p></div3>
 <div3 id="b3c5s28" type="section" n="28">
-<p><lemma lang="greek" targOrder="U">ὅ τι μὲν ἄν, ἐὰν δέ τι</lemma>: for a similar change of const., cf. <bibl n="Xen. Mem. 1.7.5">i.7.5</bibl>.</p></div3></div2>
-<div2 id="b3c6" type="chapter" n="6">
+<p><lemma lang="greek" targOrder="U">ὅ τι μὲν ἄν, ἐὰν δέ τι</lemma>: for a similar change of const., cf. <bibl n="Xen. Mem. 1.7.5">i.7.5</bibl>.</p></div3></div>
+<div id="b3c6" type="chapter" n="6">
 <p>Glauco, a brother of Plato, a youth of less than twenty years, is eager to take a leading part in public affairs. Socrates shows him that he is unacquainted with any of the details of government, and earnestly warns him against taking up, for public speech or action, matters on which he has not first informed himself thoroughly.</p>
 <p>In this and the succeeding chapter, we have a pair of contrasted pictures: first, of the conceited stripling, whose zeal is without knowledge; and second, of the modest man of abilities, who withholds his valuable services from the state. Socrates performs a public duty in showing each of these men his mistake. <pb n="157"/></p>
 <div3 id="b3c6s1" type="section" n="1">
@@ -2472,8 +2472,8 @@
 <div3 id="b3c6s18" type="section" n="18">
 <p><lemma lang="greek" targOrder="U">τῶν ἄλλων</lemma>: i.e. your fellowcitizens.</p>
 <p><lemma lang="greek" targOrder="U">οὐκ ἂν θαυμάσαιμι</lemma>: apod. to <foreign lang="greek">εἰ τύχοις.</foreign></p>
-<p><lemma lang="greek" targOrder="U">εἰ τύχοις</lemma>: a true fut. cond. of the &lsquo;less vivid&rsquo; form, not (as freq. after <foreign lang="greek">θαυμάζω</foreign>) causal. <pb n="163"/></p></div3></div2>
-<div2 id="b3c7" type="chapter" n="7">
+<p><lemma lang="greek" targOrder="U">εἰ τύχοις</lemma>: a true fut. cond. of the &lsquo;less vivid&rsquo; form, not (as freq. after <foreign lang="greek">θαυμάζω</foreign>) causal. <pb n="163"/></p></div3></div>
+<div id="b3c7" type="chapter" n="7">
 <p>Charmides, a man who is thoroughly acquainted with public affairs, but has yet, by reason of excessive modesty, never ventured to speak in public, is urged by Socrates no longer to withhold his services from the state. As he has not hesitated in private to give advice which was accepted by the most experienced statesmen, he will be able to speak in the presence of the less intelligent multitude in a manner which will redound to his own credit and the welfare of the commonwealth.</p>
 <div3 id="b3c7s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Χαρμίδην</lemma>: brother-in-law of Aristo, who had married his sister Perictione, and hence uncle of Plato and the younger Glauco. (See on iii. 6. 1.) His kinsman and guardian Critias had introduced him to Socrates after the siege of Potidaea (432 B.C.); cf. Plato <title>Charm.</title> 154. Together with Critias he fought on the side of the oligarchy, and fell in the fight at the Piraeus (403 B.C.). <title>Cf. Hell.</title> ii. 4. 19.</p>
@@ -2515,8 +2515,8 @@
 <div3 id="b3c7s9" type="section" n="9">
 <p><lemma lang="greek" targOrder="U">μὴ ἀγνόει σεαυτόν</lemma>: <gloss>do not underestimate your own powers.</gloss>  Cf. cessator esse noli (<foreign lang="greek">μὴ ἀπορρᾳθύμει</foreign>) et illud <foreign lang="greek">γνῶθι σεαυτόν</foreign> noli putare ad arrogantiam minuendam solum esse dictum, verum etiam, ut bona nostra norimus Cic. <title>Ep. ad Quint.</title> iii. 6. <pb n="166"/></p>
 <p><lemma lang="greek" targOrder="U">τούτου</lemma>: gen. of separation with <foreign lang="greek">ἀπορρᾳθύμει.</foreign></p>
-<p><lemma lang="greek" targOrder="U">ὠφελήσῃ</lemma>: middle as passive, as in i. 6. 14; iii. 3. 15.</p></div3></div2>
-<div2 id="b3c8" type="chapter" n="8">
+<p><lemma lang="greek" targOrder="U">ὠφελήσῃ</lemma>: middle as passive, as in i. 6. 14; iii. 3. 15.</p></div3></div>
+<div id="b3c8" type="chapter" n="8">
 <p>&lsquo;<title>Good</title>&rsquo; <title>and</title> &lsquo;<title>beautiful</title>&rsquo; <gloss>are relative terms. The same thing can be good or bad, beautiful or ugly, according as it answers its purpose. Houses, temples, and altars are most beautiful when they best serve the end for which they were constructed.</gloss></p>
 <div3 id="b3c8s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Ἀριστίππου</lemma>: see <ref target="b1c2s60" targOrder="U">on i.2.60</ref>, and ii. 1. 1.</p>
@@ -2567,8 +2567,8 @@
 <p><lemma lang="greek" targOrder="U">οὖσα</lemma>: concessive.</p>
 <p><lemma lang="greek" targOrder="U">ἀστιβεστάτη</lemma>: lit. <gloss>most untrodden</gloss>, &lsquo;far from the madding crowd.&rsquo;</p>
 <p><lemma lang="greek" targOrder="U">ἰδόντας</lemma>: sc. from a distance.</p>
-<p><lemma lang="greek" targOrder="U">ἁγνῶς ἔχοντας προσιέναι</lemma>: helps to explain <foreign lang="greek">ἀστιβεστάτη</foreign>, &ldquo;to approach it unsullied&rdquo; sc. by contact with the throng.</p></div3></div2>
-<div2 id="b3c9" type="chapter" n="9">
+<p><lemma lang="greek" targOrder="U">ἁγνῶς ἔχοντας προσιέναι</lemma>: helps to explain <foreign lang="greek">ἀστιβεστάτη</foreign>, &ldquo;to approach it unsullied&rdquo; sc. by contact with the throng.</p></div3></div>
+<div id="b3c9" type="chapter" n="9">
 <p><gloss>Socrates discusses and defines the terms</gloss> <foreign lang="greek">ἀνδρεία</foreign> (<title>courage</title>), <foreign lang="greek">σοφία</foreign> (<title>wisdom</title>), <foreign lang="greek">φθόνος</foreign> (<title>envy</title>), <foreign lang="greek">σχολή</foreign> (<title>leisure</title>), <foreign lang="greek">βασιλεύς</foreign> <title>and</title> <foreign lang="greek">ἄρχων</foreign> (<gloss>king and commander</gloss>), <foreign lang="greek">εὐπραξία</foreign> (<gloss>good conduct</gloss>), <title>and</title> <foreign lang="greek">εὐτυχία</foreign> (<gloss>good fortune</gloss>). See Introd. &sect;&sect; 20, 22. <pb n="170"/></p>
 <div3 id="b3c9s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ἡ ἀνδρεία πότερον</lemma>: for the same order, see ii. 7. 8. Cf. <bibl n="Xen. Mem. 4.6.10">iv.6.10</bibl>, 11, and i. 1. 16, where Xenophon speaks of Socrates as discussing just such themes as these in this chapter.</p>
@@ -2647,8 +2647,8 @@
 <p><lemma lang="greek" targOrder="U">τὸ ἐπιτυχεῖν</lemma>: sc. <foreign lang="greek">τινά</foreign> as subj., easily supplied from <foreign lang="greek">ζητοῦντα.</foreign></p>
 <p><lemma lang="greek" targOrder="U">εὖ ποιεῖν</lemma>: <gloss>to do well.</gloss></p></div3>
 <div3 id="b3c9s15" type="section" n="15">
-<p><lemma lang="greek" targOrder="U">θεοφιλεστάτους</lemma>: <gloss>most beloved by the gods.</gloss> Distinguish this compound from <foreign lang="greek">φιλόθεος</foreign> <gloss>loving the gods.</gloss></p></div3></div2>
-<div2 id="b3c10" type="chapter" n="10">
+<p><lemma lang="greek" targOrder="U">θεοφιλεστάτους</lemma>: <gloss>most beloved by the gods.</gloss> Distinguish this compound from <foreign lang="greek">φιλόθεος</foreign> <gloss>loving the gods.</gloss></p></div3></div>
+<div id="b3c10" type="chapter" n="10">
 <p>The subject of the painter's art is whatever falls under his eye. He attains his ideal form by combining the best features of the actual, and can even represent mental characteristics, so far as these express themselves outwardly. In like manner, sculpture expresses not only the outward form of the body, but also the varying moods of the soul. The artisan, on the other hand, has only the actual and material to keep in mind: his work must fulfill its <pb n="176"/> design.  Every coat of mail that fits, finds in that its true harmony.</p>
 <div3 id="b3c10s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ἐχόντων</lemma>: <gloss>devoted to.</gloss> See on <foreign lang="greek">ἔχῃ</foreign> i. 6. 13.</p>
@@ -2730,8 +2730,8 @@
 <p><lemma lang="greek" targOrder="U">μὴ μένοντος</lemma>: <gloss>does not remain</gloss> (long in one position).</p>
 <p><lemma lang="greek" targOrder="U">ἀκριβεῖς</lemma>: <gloss>accurately fitted.</gloss></p>
 <p><lemma lang="greek" targOrder="U">αὐτὸς λέγεις</lemma>: ita est. Cf. the emphatic <foreign lang="greek">σὺ εἶπας</foreign> of <title>Matt.</title> xxvi. 25.</p>
-<p><lemma lang="greek" targOrder="U">πάνυ ὀρθῶς ἀποδέχῃ</lemma>: <gloss>you have the idea exactly.</gloss> <pb n="181"/></p></div3></div2>
-<div2 id="b3c11" type="chapter" n="11">
+<p><lemma lang="greek" targOrder="U">πάνυ ὀρθῶς ἀποδέχῃ</lemma>: <gloss>you have the idea exactly.</gloss> <pb n="181"/></p></div3></div>
+<div id="b3c11" type="chapter" n="11">
 <p>Socrates holds a conversation with Theodota, a courtesan famed for her beauty, on the best method of winning and keeping friends. Beauty alone cannot accomplish this: there must be added good nature and moderation in the bestowal of favors. Theodota expresses a willingness to learn from Socratesthe art of winning lovers.</p>
 <div3 id="b3c11s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Θεοδότη</lemma>: afterward the mistress of Alcibiades, whom she is said to have buried after he was slain in Phrygia. Cf. Cornelius Nep. <title>Alc.</title> 10. 6. Plutarch (<title>Alc.</title> 39) says it was Timandra who buried him.</p>
@@ -2828,8 +2828,8 @@
 <p><lemma lang="greek" targOrder="U">χρῆσόν μοι</lemma>: <gloss>lend me.</gloss></p>
 <p><lemma lang="greek" targOrder="U">ἐπὶ σοὶ ἕλκω</lemma>: <gloss>set it spinning for you</gloss>, the usual phrase for putting the <foreign lang="greek">ἴυγξ</foreign> in motion. For <foreign lang="greek">ἐπὶ σοί</foreign>, see on <foreign lang="greek">ἐφ’  οἷς σπουδάσειεν</foreign> i. 3. 11.</p>
 <p><lemma lang="greek" targOrder="U">φιλωτέρα</lemma>: see on <foreign lang="greek">φίλαι</foreign> 16. For various forms of the comp. of <foreign lang="greek">φίλος</foreign>, see L. &amp; S.  <gloss>s.v.</gloss></p>
-<p><lemma lang="greek" targOrder="U">ἐὰν ... ἔνδον ᾖ</lemma>: wittily said, for the usual excuse of the <foreign lang="greek">ἑταῖραι</foreign> in shutting out a would-be visitor was <foreign lang="greek">ἔνδον ἕτερος</foreign>. Cf. <foreign lang="greek">ἀπέκλεισα ἐλθόντα, Ἔνδον ἕτερος εἰποῦσα</foreign> Lucian <title>Dial. Meretr.</title> xii. 310. The whole conversation is inconceivable from a modern standpoint, remembering who and what the speakers were; but it throws a strong side light on one phase of Greek society. <pb n="187"/></p></div3></div2>
-<div2 id="b3c12" type="chapter" n="12">
+<p><lemma lang="greek" targOrder="U">ἐὰν ... ἔνδον ᾖ</lemma>: wittily said, for the usual excuse of the <foreign lang="greek">ἑταῖραι</foreign> in shutting out a would-be visitor was <foreign lang="greek">ἔνδον ἕτερος</foreign>. Cf. <foreign lang="greek">ἀπέκλεισα ἐλθόντα, Ἔνδον ἕτερος εἰποῦσα</foreign> Lucian <title>Dial. Meretr.</title> xii. 310. The whole conversation is inconceivable from a modern standpoint, remembering who and what the speakers were; but it throws a strong side light on one phase of Greek society. <pb n="187"/></p></div3></div>
+<div id="b3c12" type="chapter" n="12">
 <p>Physical exercise strengthens the body, and renders a man not only fit for the pursuits of war, but also better equipped for any line of work. Best of all, it assists mental action.</p>
 <div3 id="b3c12s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Ἐπιγένην</lemma>: son of Antiphon, of the deme Cephisia. Cf. Plato <bibl n="Plat. Apol. 33E"><title>Apol.</title> 33E</bibl>, <title>Phaedo</title> 59 B.</p>
@@ -2877,8 +2877,8 @@
 <div3 id="b3c12s8" type="section" n="8">
 <p><lemma lang="greek" targOrder="U">ἰδεῖν ἑαυτόν, ποῖος</lemma>: for the &lsquo;prolepsis,&rsquo; see <ref target="b1c2s13" targOrder="U">on i.2.13</ref>.</p>
 <p><lemma lang="greek" targOrder="U">ταῦτα</lemma>: <gloss>these qualities.</gloss></p>
-<p><lemma lang="greek" targOrder="U">ἐθέλει</lemma>: <gloss>are wont.</gloss>  Cf. <foreign lang="greek">ὅσα ἡ γῆ φύειν θέλει</foreign> <title>Oec.</title> 4. 13.</p></div3></div2>
-<div2 id="b3c13" type="chapter" n="13">
+<p><lemma lang="greek" targOrder="U">ἐθέλει</lemma>: <gloss>are wont.</gloss>  Cf. <foreign lang="greek">ὅσα ἡ γῆ φύειν θέλει</foreign> <title>Oec.</title> 4. 13.</p></div3></div>
+<div id="b3c13" type="chapter" n="13">
 <p><gloss>Several brief sayings of Socrates, giving sensible advice on various matters of everyday life.</gloss></p>
 <div3 id="b3c13s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ὅτι</lemma>: <title>because.</title></p>
@@ -2925,8 +2925,8 @@
 <p><lemma lang="greek" targOrder="U">ἀπήλλαχεν ἐκ</lemma>: <gloss>come off from</gloss> (i.e. stand) the trip.</p>
 <p><lemma lang="greek" targOrder="U">ἂν διατεθῆναι</lemma>: <gloss>would have fared.</gloss></p>
 <p><lemma lang="greek" targOrder="U">τοῦ παιδός</lemma>: <gloss>the slave.</gloss>  Cf. the old Eng. use of &lsquo;knave&rsquo; (Ger. <title>Knabe</title>) equivalent to &lsquo;servant,&rsquo; and the former use of the word &lsquo;boy&rsquo; for &lsquo;slave&rsquo; in our Southern States. Slaves were excluded from the exercises of the <title>palaestra</title>, and hence were <foreign lang="greek">οὐκ ἠσκημένοι.</foreign></p>
-<p><lemma lang="greek" targOrder="U">ἠσκημένου ἀνδρός</lemma>: cf. <bibl n="Xen. Mem. 3.12.1">iii.12.1</bibl>, 5.</p></div3></div2>
-<div2 id="b3c14" type="chapter" n="14">
+<p><lemma lang="greek" targOrder="U">ἠσκημένου ἀνδρός</lemma>: cf. <bibl n="Xen. Mem. 3.12.1">iii.12.1</bibl>, 5.</p></div3></div>
+<div id="b3c14" type="chapter" n="14">
 <p><gloss>Some table talk of Socrates in praise of moderation in eating.</gloss></p>
 <div3 id="b3c14s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">συνιόντων ἐπὶ δεῖπνον</lemma>: the feast seems to have been what was known as <foreign lang="greek">ἔρανος</foreign> (a picnic or &lsquo;basket party&rsquo;), to which each guest brought his own share of the food.</p>
@@ -2972,9 +2972,9 @@
 <p><lemma lang="greek" targOrder="U">τὸεὖ</lemma>: <title>the</title> adverb <foreign lang="greek">εὖ.</foreign></p>
 <p><lemma lang="greek" targOrder="U">ἐπὶ τῷ ἐσθίειν</lemma>: &ldquo;to express the eating.&rdquo;</p>
 <p><lemma lang="greek" targOrder="U">ἀνετίθει</lemma>: <gloss>he used to apply.</gloss> &lsquo;Good cheer&rsquo; comes only when we eat wholesome viands and in moderation. <pb n="195"/>
-</p></div3></div2></div1>
-<div1 id="b4" type="book" n="4">
-<div2 id="b4c1" type="chapter" n="1">
+</p></div3></div></div>
+<div id="b4" type="book" n="4">
+<div id="b4c1" type="chapter" n="1">
 <p>Socrates loved the companionship of young men, but of those only in whom he discerned natural abilities and an enthusiasm for what was noble. These, he held, stood especially in need of instruction; for enthusiasm and force, when misdirected, may lead to the most disastrous consequences. On the other hand, those who thought themselves able to dispense with instruction because they were rich, he regarded as the greatest of fools.</p>
 <div3 id="b4c1s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">καὶ μετρίως αἰσθανομένῳ</lemma>: concessive, <gloss>even of moderate discernment.</gloss> For <foreign lang="greek">αἰσθάνομαι</foreign> in the sense of general intelligence, cf. <foreign lang="greek">οὐδὲ πρὸς ἀνθρώπων τῶν αἰσθανομένων</foreign> Thuc. i. 71.</p>
@@ -3010,8 +3010,8 @@
 <p><lemma lang="greek" targOrder="U">εἴ τις οἴεται</lemma>: for the indic. in subord. clauses of indirect discourse, see G. 1497, 2; H. 933.</p>
 <p><lemma lang="greek" targOrder="U">τά τε, καὶ τά, διαγνώσεσθαι</lemma>: for <foreign lang="greek">τέ</foreign> and <foreign lang="greek">καί</foreign> with words of discrimination, see <ref target="b3c4s3" targOrder="U">on iii.4.3</ref>.</p>
 <p><lemma lang="greek" targOrder="U">πράττειν εὖ τε πράττειν</lemma>: for a similar play on words, cf. <bibl n="Xen. Mem. 1.6.8">i.6.8</bibl>.</p>
-<p><lemma lang="greek" targOrder="U">εὐδοκιμήσειν</lemma>: <gloss>will win esteem.</gloss></p></div3></div2>
-<div2 id="b4c2" type="chapter" n="2">
+<p><lemma lang="greek" targOrder="U">εὐδοκιμήσειν</lemma>: <gloss>will win esteem.</gloss></p></div3></div>
+<div id="b4c2" type="chapter" n="2">
 <p>1-20. <hi rend="italic">How well Socrates knew how to bring to their senses young men who were filled with conceit of their fancied wisdom, is illustrated in his talks with Euthyd&emacr;mus. This youth wished to become a statesman</hi>, <pb n="198"/> <gloss>but had no idea of going through any preliminary course of study or training. Socrates shows him that he needs this, since he has no clear ideas even about what is just and unjust, which surely a statesman must understand.</gloss></p>
 <div3 id="b4c2s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">Εὐθύδημον</lemma>: cf. <bibl n="Xen. Mem. 1.2.29">i.2.29</bibl>.</p>
@@ -3243,8 +3243,8 @@
 <p><lemma lang="greek" targOrder="U">ὅτι μάλιστα</lemma>: quam frequentissime.</p>
 <p><lemma lang="greek" targOrder="U">διετάραττεν</lemma>: sc. <foreign lang="greek">ἐλέγχων</foreign>, as, e.g., in 20, 33, 39.</p>
 <p><lemma lang="greek" targOrder="U">ἁπλούστατα</lemma>: <gloss>quite simply</gloss>, without irony.</p>
-<p><lemma lang="greek" targOrder="U">ἅ τε ἐνόμιζεν</lemma>: we should expect the <foreign lang="greek">τέ</foreign> after <foreign lang="greek">εἰδέναι</foreign>. Its position is due to the condensed form of the sent., which, in full, would read <foreign lang="greek">ἐξηγεῖτο ἅ τε ἐνόμιζεν εἰδέναι δεῖν καὶ ἃ ἐνόμιζεν ἐπιτηδεύειν κράτιστα εἶναι</foreign>.</p></div3></div2>
-<div2 id="b4c3" type="chapter" n="3">
+<p><lemma lang="greek" targOrder="U">ἅ τε ἐνόμιζεν</lemma>: we should expect the <foreign lang="greek">τέ</foreign> after <foreign lang="greek">εἰδέναι</foreign>. Its position is due to the condensed form of the sent., which, in full, would read <foreign lang="greek">ἐξηγεῖτο ἅ τε ἐνόμιζεν εἰδέναι δεῖν καὶ ἃ ἐνόμιζεν ἐπιτηδεύειν κράτιστα εἶναι</foreign>.</p></div3></div>
+<div id="b4c3" type="chapter" n="3">
 <p><gloss>Socrates impresses on his followers the necessity of</gloss> <foreign lang="greek">σωφροσύνη</foreign> <gloss>in our relations with the gods as well as with men. He convinces Euthydemus that the gods, who have given to mortals all that they have, exercise over them a constant providential care. All other creatures are subject to man, who enjoys the immense advantages of reason and speech. The gods are visible, not in their persons but in their works. Moreover, man can ascertain from the gods what is best for him, if he will only reverence, honor, and trust them.</gloss> See Introd. &sect; 20.</p>
 <p>This chapter forms the sequel to i. 4, and serves to refute a charge against Socrates which was only touched in i. 2. 17 (<foreign lang="greek">οὐκ ἀντιλέγω</foreign>). <pb n="215"/></p>
 <div3 id="b4c3s1" type="section" n="1">
@@ -3361,8 +3361,8 @@
 <div3 id="b4c3s17" type="section" n="17">
 <p><lemma lang="greek" targOrder="U">τῆς μὲν δυνάμεως ὑφίεσθαι</lemma>: for <foreign lang="greek">μέν</foreign>, see <ref target="b1c1s1" targOrder="U">on i.1.1</ref>. The implied opposite is &ldquo;we may well, however, fall behind the offerings of our richer neighbors.&rdquo;&mdash;<lemma lang="greek" targOrder="U">χρὴ οὖν μηδὲν ἐλλείποντα</lemma> <foreign lang="greek">κτλ.</foreign>: the sense of the passage is simply &ldquo;fear and honor God with all your might, and then be of good courage.&rdquo;</p>
 <p><lemma lang="greek" targOrder="U">οὐ γὰρ ἂν ἐλπίζων</lemma> (equivalent to <foreign lang="greek">εἴ τις ἐλπίζοι</foreign>) <lemma lang="greek" targOrder="U">σωφρονοίη</lemma>: &ldquo;for no one could reasonably expect.&rdquo;</p>
-<p><lemma lang="greek" targOrder="U">οὐδ’  ἂν ἄλλως μᾶλλον</lemma>: sc. <foreign lang="greek">ἐλπίζων σωφρονοίη</foreign>.</p></div3></div2>
-<div2 id="b4c4" type="chapter" n="4">
+<p><lemma lang="greek" targOrder="U">οὐδ’  ἂν ἄλλως μᾶλλον</lemma>: sc. <foreign lang="greek">ἐλπίζων σωφρονοίη</foreign>.</p></div3></div>
+<div id="b4c4" type="chapter" n="4">
 <p><title>What Socrates thought of integrity</title> (<foreign lang="greek">σωφροσύνη περὶ ἀνθρώπους</foreign>) <hi rend="italic">was sufficiently shown in his life, both private and public. We are here, however, more immediately concerned with his treatment of the subject in his discourses: and this may be learned from a conversation which he once held with the sophist Hippias. He there defines uprightness as obedience: on the one hand, to the laws of the state, on which rest all good order, all prosperity, and all security; on the other, to the unwritten divine laws, which are everywhere a necessary condition of man's social life, and whose violation nature herself punishes.</hi></p>
 <div3 id="b4c4s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">οὐκ ἀπεκρύπτετο γνώμην</lemma>: directed at the criticism uttered by Hippias in 9. For the attraction of the antec. into the rel. clause, see <ref target="b1c2s22" targOrder="U">on i.2.22</ref>.</p>
@@ -3482,8 +3482,8 @@
 <div3 id="b4c4s25" type="section" n="25">
 <p><lemma lang="greek" targOrder="U">ἄλλα τῶν δικαίων</lemma>: &ldquo;something different from righteousness.&rdquo; For the gen. of distinction, see on <foreign lang="greek">ὁδοῦ</foreign> ii. 3. 16.</p>
 <p><lemma lang="greek" targOrder="U">σχολῇ</lemma>: as in iii. 14. 3.&mdash;<lemma lang="greek" targOrder="U">καὶ τοῖς θεοῖς</lemma> <foreign lang="greek">κτλ.</foreign>: correlative to the thought of 18, which is here taken up and extended. In 18, men agree that <foreign lang="greek">τὸ αὐτὸ νόμιμόν τε καὶ δίκαιόν ἐστι</foreign>, and here the gods too hold the same opinion.</p>
-<p><lemma lang="greek" targOrder="U">τοὺς πλησιάζοντας</lemma>: i.e. not only Hippias, but the circle of Socrates's friends, who eagerly listened to this and similar discussions.</p></div3></div2>
-<div2 id="b4c5" type="chapter" n="5">
+<p><lemma lang="greek" targOrder="U">τοὺς πλησιάζοντας</lemma>: i.e. not only Hippias, but the circle of Socrates's friends, who eagerly listened to this and similar discussions.</p></div3></div>
+<div id="b4c5" type="chapter" n="5">
 <p><title>Closely connected with</title> <foreign lang="greek">εὐσέβεια</foreign> <title>and</title> <foreign lang="greek">δικαιοσύνη</foreign>, <gloss>which should form the foundations of human training, is</gloss> <foreign lang="greek">ἐγκράτεια</foreign> (self-mastery), <hi rend="italic">which alone enables a man to keep a practical grasp of life. Self-mastery enables a man not only to work successfully but also to enjoy thoroughly all true pleasures.</hi></p>
 <div3 id="b4c5s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ἐγκράτειαν ὑπάρχειν ἀγαθὸν εἶναι</lemma>: <hi rend="italic">it was a good thing for self-control to belong to.</hi> <foreign lang="greek">ἐγκράτειαν ὑπάρχειν</foreign> <pb n="233"/> is subj. of <foreign lang="greek">εἶναι.</foreign></p>
@@ -3548,8 +3548,8 @@
 <p><lemma lang="greek" targOrder="U">ἀλλά</lemma>: atqui.</p></div3>
 <div3 id="b4c5s12" type="section" n="12">
 <p><lemma lang="greek" targOrder="U">οὕτως</lemma>: i.e. by self-control, and that discretion which carefully distinguishes the good from the bad, and cherishes it.</p>
-<p><lemma lang="greek" targOrder="U">διαλέγεσθαι</lemma>, <pb n="237"/> <lemma lang="greek" targOrder="U">διαλέγοντας</lemma>: in the act. form, this verb means <hi rend="italic">to pick out, select;</hi> <foreign lang="greek">διαλέγεσθαι</foreign> is <gloss>to converse</gloss>, then, specifically, &ldquo;to arrive at truth by discussion.&rdquo; For the lofty estimate placed on &lsquo;dialectic&rsquo; by Plato, cf. <foreign lang="greek">ἆρ’  οὖν δοκεῖ σοι, ἔφην ἐγώ, ὥσπερ θριγκὸς</foreign> (<gloss>a coping stone</gloss>) <foreign lang="greek">τοῖς μαθήμασιν ἡ διαλεκτικὴ ἡμῖν ἐπάνω κεῖσθαι, καὶ οὐκέτ’  ἄλλο τούτου μάθημα ἀνωτέρω ὀρθῶς ἂν ἐπιτίθεσθαι, ἀλλ̓ ἔχειν ἤδη τέλος τὰ τῶν μαθημάτων; Ἔμοιγ̓, ἔφη</foreign> <title>Rep.</title> 534 E.</p></div3></div2>
-<div2 id="b4c6" type="chapter" n="6">
+<p><lemma lang="greek" targOrder="U">διαλέγεσθαι</lemma>, <pb n="237"/> <lemma lang="greek" targOrder="U">διαλέγοντας</lemma>: in the act. form, this verb means <hi rend="italic">to pick out, select;</hi> <foreign lang="greek">διαλέγεσθαι</foreign> is <gloss>to converse</gloss>, then, specifically, &ldquo;to arrive at truth by discussion.&rdquo; For the lofty estimate placed on &lsquo;dialectic&rsquo; by Plato, cf. <foreign lang="greek">ἆρ’  οὖν δοκεῖ σοι, ἔφην ἐγώ, ὥσπερ θριγκὸς</foreign> (<gloss>a coping stone</gloss>) <foreign lang="greek">τοῖς μαθήμασιν ἡ διαλεκτικὴ ἡμῖν ἐπάνω κεῖσθαι, καὶ οὐκέτ’  ἄλλο τούτου μάθημα ἀνωτέρω ὀρθῶς ἂν ἐπιτίθεσθαι, ἀλλ̓ ἔχειν ἤδη τέλος τὰ τῶν μαθημάτων; Ἔμοιγ̓, ἔφη</foreign> <title>Rep.</title> 534 E.</p></div3></div>
+<div id="b4c6" type="chapter" n="6">
 <p>An exposition of the Socratic method of discussion, the aim of which was always to arrive at the real essence of things through an accurate analysis of concepts. Xenophon gives his definition of the following: <foreign lang="greek">εὐσέβεια</foreign> (<gloss>piety</gloss>), <foreign lang="greek">δικαιοσύνη</foreign> (<gloss>righteousness</gloss>), <foreign lang="greek">σοφία</foreign> (<gloss>wisdom</gloss>), <foreign lang="greek">τὸ ἀγαθόν</foreign> and <foreign lang="greek">τὸ καλόν</foreign> (<gloss>the good and the beautiful</gloss>), <foreign lang="greek">ἀνδρεία</foreign> (<gloss>manliness</gloss>), <foreign lang="greek">βασιλεία</foreign> (<gloss>royalty</gloss>), <foreign lang="greek">τυραννίς</foreign> (<gloss>autocracy</gloss>), <foreign lang="greek">ἀριστοκρατία</foreign> (<gloss>aristocracy</gloss>), <foreign lang="greek">πλουτοκρατία</foreign> (<gloss>plutocracy</gloss>), <foreign lang="greek">δημοκρατία</foreign> (<gloss>democracy</gloss>).  In case of contradiction, Socrates knew how to bring the question back to the fundamental conception of the point at issue; and based his discussion on generally recognized truths.</p>
 <div3 id="b4c6s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">διαλεκτικωτέρους</lemma>: see <ref target="b4c5s12" targOrder="U">on iv.5.12</ref>.</p>
@@ -3626,8 +3626,8 @@
 <p><lemma lang="greek" targOrder="U">Ὅμηρον</lemma>: cf. Hom. <foreign lang="greek">θ</foreign> 171, where Odysseus, apparently describing himself, says <foreign lang="greek">ὁ δ’  ἀσφαλέως ἀγορεύει</foreign>. Cf., also, <foreign lang="greek">καὶ Ὅμηρος δ’  εἶπε· ὁ δ̓ ἀσφαλέως ἀγορεύει· τῇ ἀποδείξει τῶν ὁμολογουμένων ἀμφισβητούμενον λύειν δυνάμενος</foreign> (<gloss>being able to solve a vexed problem by his luminous statement of generally admitted propositions</gloss>). <foreign lang="greek">τοῦτο καὶ Ξενοφῶν καὶ Πλάτων λέγουσι περὶ Σωκράτους, ὅτι διὰ τῶν ὁμολογουμένων ἐπορεύετο, ἐπεὶ διδάσκειν ἐβούλετο</foreign> Dionys. Hal. <gloss>de Arte Rhet.</gloss> xi. 8.</p>
 <p><lemma lang="greek" targOrder="U">ἀναθεῖναι τὸ εἶναι</lemma>: &ldquo;conferred the title.&rdquo;</p>
 <p><lemma lang="greek" targOrder="U">ὡς ἱκανὸν ὄντα</lemma>: we might expect <foreign lang="greek">ἱκανῷ ὄντι</foreign>, to agree with <foreign lang="greek">Ὀδυσσεῖ</foreign>. The acc. is due to the attraction of the nearer <foreign lang="greek">ῥήτορα.</foreign></p>
-<p><lemma lang="greek" targOrder="U">διὰ τῶν δοκούντων τοῖς ἀνθρώποις</lemma>: repeats <foreign lang="greek">διὰ τῶν ὁμολογουμένων</foreign> above.</p></div3></div2>
-<div2 id="b4c7" type="chapter" n="7">
+<p><lemma lang="greek" targOrder="U">διὰ τῶν δοκούντων τοῖς ἀνθρώποις</lemma>: repeats <foreign lang="greek">διὰ τῶν ὁμολογουμένων</foreign> above.</p></div3></div>
+<div id="b4c7" type="chapter" n="7">
 <p>Socrates also desired for his friends an acquaintance with certain branches of practical knowledge; but urged them to observe moderation even in these. Geometry, astronomy, and arithmetic are to be studied only so far as they will subserve some useful purpose in life; and we should not be diverted by them from other more needful things. Health should always be carefully conserved. Whatever cannot be solved by human insight should be referred to the gods for advice.</p>
 <p>This chapter forms a sequel to i. 1. 6-9. <pb n="244"/></p>
 <div3 id="b4c7s1" type="section" n="1">
@@ -3680,8 +3680,8 @@
 <p><lemma lang="greek" targOrder="U">ἐνδέχοιτο</lemma>: <gloss>was possible.</gloss></p>
 <p><lemma lang="greek" targOrder="U">ἑαυτῷ ἕκαστον προσέχοντα</lemma>: <gloss>each individual by observing his own case.</gloss>&mdash;<lemma lang="greek" targOrder="U">τί βρῶμα</lemma> <foreign lang="greek">κτλ.</foreign>: objs. of <foreign lang="greek">μανθάνοντα</foreign> understood.&mdash;<lemma lang="greek" targOrder="U">τοῦ γὰρ οὕτω</lemma> <foreign lang="greek">κτλ.</foreign>: <gloss>for he said that it would be a difficult matter to find a physician who could tell better than a man that had thus attended to himself what was conducive to his health.</gloss> <foreign lang="greek">τοῦ προσέχοντος</foreign> is gen. of comparison with <foreign lang="greek">μᾶλλον</foreign>, and is placed at the beginning as involving the main question. For the thought, cf. Tiberius solitus erat eludere medicorum artes, atque eos qui post tricesimum aetatis annum ad internoscenda corpori suo utilia vel noxia alieni consilii indigerent (<gloss>availed themselves of</gloss>) Tacitus <title>Ann.</title> vi. 46.</p></div3>
 <div3 id="b4c7s10" type="section" n="10">
-<p><lemma lang="greek" targOrder="U">σημαίνουσι</lemma>: as in i. 1. 9. The thought serves as an introduction to the concluding chapter.</p></div3></div2>
-<div2 id="b4c8" type="chapter" n="8">
+<p><lemma lang="greek" targOrder="U">σημαίνουσι</lemma>: as in i. 1. 9. The thought serves as an introduction to the concluding chapter.</p></div3></div>
+<div id="b4c8" type="chapter" n="8">
 <p>Those who think that, because Socrates suffered the death penalty, his utterances as to the <foreign lang="greek">δαιμόνιον</foreign> are thereby discredited, are in error. For Socrates did not, like them, regard death as an evil. With tranquillity and even cheerfulness he died a noble and happy death. That he himself was assured of this is shown in his conversation with Hermogenes. He refused to adopt the usual form of defense, regarding his life as his best defense; and moreover his <foreign lang="greek">δαιμόνιον</foreign> warned him against an elaborate speech. He died at the right time, before age had impaired his powers of mind and body; and the reproach of his taking-off lies not on him, but on those who condemned him. All who knew him mourned him sorely; for in Socrates died the noblest and happiest of men.  <pb n="248"/></p>
 <div3 id="b4c8s1" type="section" n="1">
 <p><lemma lang="greek" targOrder="U">ὅτι φάσκοντος αὐτοῦ, κατεγνώσθη θάνατος</lemma>: &ldquo;because he asserted, and then was condemned to death.&rdquo;</p>
@@ -3736,7 +3736,7 @@
 <p><lemma lang="greek" targOrder="U">τοὺς χρωμένους αὐτῷ</lemma>: <gloss>those who associated with him.</gloss></p>
 <p><lemma lang="greek" targOrder="U">ταῦτα</lemma>:  "this my description
 of the character of Socrates."</p>
-<p><lemma lang="greek" targOrder="U">πρός</lemma>: as in 7.</p></div3></div2></div1>
+<p><lemma lang="greek" targOrder="U">πρός</lemma>: as in 7.</p></div3></div></div>
 </body>
 </text>
 </TEI.2>

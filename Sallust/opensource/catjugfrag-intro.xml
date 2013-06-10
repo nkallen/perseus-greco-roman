@@ -51,9 +51,9 @@
     </teiHeader>
     <text>
                 <body>
-                    <div1 type="chapter" n="1">
+                    <div type="chapter" n="1">
                         <head>Praefatio</head>
-                        <div2 type="section" n="1">
+                        <div type="section" n="1">
                             <head>1. <hi rend="italics">Codices,</hi> quibus Catilina et Iugurtha
                                 Sallustii tradita sunt, in duo genera discedunt.</head>
                             <div3 type="subsection" n="1">
@@ -185,8 +185,8 @@
                                         Prolegomenis p. 104&ndash;117 egi.</bibl>
                                 </listBibl>
                             </div3>
-                        </div2>
-                        <div2 type="section" n="2">
+                        </div>
+                        <div type="section" n="2">
                             <head>2. <hi rend="italics">Testimonia</hi>
                             </head>
                             <p>Testimonia veterum scriptorum permulta sunt: inde ab primo p. Chr. n.
@@ -382,13 +382,13 @@
                                     ingenu<hi rend="italics">o</hi>s, qu<hi rend="italics">o</hi>ius, qu<hi rend="italics">o</hi>m; l<hi rend="italics">u</hi>bet, max<hi rend="italics">u</hi>mus, man<hi rend="italics">u</hi>festus, ger<hi rend="italics">u</hi>ndus cet.; cuius
                                 scribendi rationis vestigia in codicibus antiquissimis passim
                                 inveniuntur.</p>
-                        </div2>
+                        </div>
                         <closer>
                             <dateline>Norrcopiae mense Oct. 1918.</dateline>
                         </closer>
-                    </div1>
+                    </div>
                     <pb id="p.IX"/>
-                    <div1 type="chapter" n="2">
+                    <div type="chapter" n="2">
                         <head>Conspectus Notarum</head>
                         <table>
                             <row>
@@ -550,7 +550,7 @@
                             Sallustianos significat.</p>
                         <p><hi rend="italics">Ag</hi> = Prolegomena in Sallustium scripsit Axel W.
                             Ahlberg (Gotoburgi 1911).</p>
-                    </div1>
+                    </div>
                 </body>
             </text>
 </TEI.2>

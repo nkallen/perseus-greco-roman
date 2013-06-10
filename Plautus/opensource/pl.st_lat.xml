@@ -117,8 +117,8 @@ Added to repository.
 <body>
 
 
-<div1 type="act" n="1">
-<div2 type="scene" n="1">
+<div type="act" n="1">
+<div type="scene" n="1">
 
 <sp><speaker>Panegyris</speaker>
 <lb ed="TLN" n="1"/><p><l>Cr&eacute;do eg&oacute; miser&aacute;m</l>
@@ -220,8 +220,8 @@ Added to repository.
 
 <sp><speaker>Pan.</speaker>
 <lb ed="TLN" n="57"/><p><l>Igitur quaeramus, nobis quid facto usus sit.]</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Antipho</speaker>
 <lb ed="TLN" n="58"/><p><l>Qu&iacute; manet ut moneatur semper servos homo officium suom</l>
@@ -457,8 +457,8 @@ Added to repository.
 <lb ed="TLN" n="152"/><l n="95">si quae forte ex Asia navis heri aut hodie venerit.</l>
 <lb ed="TLN" n="153"/><l>nam dies totos apud p&oacute;rtum servos unus assidet;</l>
 <lb ed="TLN" n="154"/><l>sed tamen volo intervisi. propera atque actutum redi.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 
 <sp><speaker>Gelasimvs</speaker>
 <lb ed="TLN" n="155"/><p><l>Famem ego fuisse suspicor matrem mihi,</l>
@@ -657,10 +657,10 @@ Added to repository.
 <lb ed="TLN" n="271"/><l n="115">satin ut facete, &lt;aeque&gt; atque ex pictura, astitit?</l>
 <lb ed="TLN" n="272"/><l>ne iste edepol vinum poculo pauxillulo</l>
 <lb ed="TLN" n="273"/><l>saepe exanclavit submerum scitissume.</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="2">
-<div2 type="scene" n="1">
+<div type="act" n="2">
+<div type="scene" n="1">
 
 <sp><speaker>Pinacivm</speaker>
 <lb ed="TLN" n="274"/><p><l>Merc&uacute;rius, Iovis qui n&uacute;ntius perhib&eacute;tur, numquam aequ&eacute; patri</l>
@@ -747,8 +747,8 @@ Added to repository.
 
 <sp><speaker>Pin.</speaker>
 <lb ed="TLN" n="324-325"/><p><l>Potes: h&oacute;die non cen&aacute;bis.</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Panegyris</speaker>
 <lb ed="TLN" n="326"/><p><l>Quisnam, &oacute;psecro, has frangit f&oacute;res? ubi est?</l>
@@ -1041,10 +1041,10 @@ Added to repository.
 <lb ed="TLN" n="399"/><l n="75">si neque ille adest neque hic, qui venit, quicquam subvenit.</l>
 <lb ed="TLN" n="400"/><l>ibo intro ad libros et discam de dictis melioribus;</l>
 <lb ed="TLN" n="401"/><l>nam ni illos homines expello, ego occidi planissume.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="3">
-<div2 type="scene" n="1">
+<div type="act" n="3">
+<div type="scene" n="1">
 
 <sp><speaker>Epignomvs</speaker>
 <lb ed="TLN" n="402"/><p><l>Quom bene re gesta salvos convortor domum,</l>
@@ -1131,8 +1131,8 @@ Added to repository.
 <lb ed="TLN" n="451"/><l>ea ibo opsonatum, eadem referam opsonium:</l>
 <lb ed="TLN" n="452"/><l>per hortum utroque commeatus continet.</l>
 <lb ed="TLN" n="453"/><l>ite hac secundum vos me. ego hunc lacero diem.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Gelasimvs</speaker>
 <lb ed="TLN" n="454"/><p><l>Libros inspexi; tam confido quam potis,</l>
@@ -1261,10 +1261,10 @@ Added to repository.
 <lb ed="TLN" n="502"/><l>ea ego auspicavi &iacute;n re capitali mea?</l>
 <lb ed="TLN" n="503"/><l>certumst amicos convocare, ut consulam</l>
 <lb ed="TLN" n="504"/><l n="50">qua lege nunc med essurire oporteat.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="4">
-<div2 type="scene" n="1">
+<div type="act" n="4">
+<div type="scene" n="1">
 
 <sp><speaker>Antipho</speaker>
 <lb ed="TLN" n="505"/><p><l>&Iacute;ta me di bene am&eacute;nt measque mihi [bene] servassint filias,</l>
@@ -1442,8 +1442,8 @@ Added to repository.
 
 <sp><speaker>Epig.</speaker>
 <p><l part="M">Capti consili memorem mones.</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Gelasimvs</speaker>
 <lb ed="TLN" n="579"/><p><l>Sed ita ut occepi narrare vobis: quom hic non adfui,</l>
@@ -1660,10 +1660,10 @@ Added to repository.
 <lb ed="TLN" n="635"/><l>numquam edepol me vivom quisquam in crastinum inspiciet diem;</l>
 <lb ed="TLN" n="636"/><l>nam mihi iam intus potione iuncea onerabo gulam,</l>
 <lb ed="TLN" n="637-640"/><l>neque ego hoc committam, ut me esse homines mortuom dicant fame.&mdash;</l></p></sp>
-</div2></div1>
+</div></div>
 
-<div1 type="act" n="5">
-<div2 type="scene" n="1">
+<div type="act" n="5">
+<div type="scene" n="1">
 
 <sp><speaker>Stichvs</speaker>
 <lb ed="TLN" n="641"/><p><l>More hoc fit, atque stulte mea sententia:</l>
@@ -1674,8 +1674,8 @@ Added to repository.
 <lb ed="TLN" n="646"/><l>iam hercle ego decumbam solus, si ille huc non venit.</l>
 <lb ed="TLN" n="647"/><l>cadum modo hinc a me huc cum vino transferam,</l>
 <lb ed="TLN" n="648"/><l>postidea accumbam. quasi nix tabescit dies.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2">
 
 <sp><speaker>Sangarinvs</speaker>
 <lb ed="TLN" n="649"/><p><l>Salvete, Athenae, quae nutrices Graeciae,</l>
@@ -1734,8 +1734,8 @@ Added to repository.
 <sp><speaker>Sang.</speaker>
 <lb ed="TLN" n="671"/><p><l>Sequor, et domum redeunti principium placet.</l>
 <lb ed="TLN" n="672"/><l>bona scaeva strenaque obviam occessit mihi.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3">
 
 <sp><speaker>Stephanivm</speaker>
 <lb ed="TLN" n="673"/><p><l>Mir&uacute;m videri n&eacute;mini vestr&uacute;m volo, spectat&oacute;res,</l>
@@ -1747,8 +1747,8 @@ Added to repository.
 <lb ed="TLN" n="680"/><l>Sticho et conservo Sagarino meo, cena cocta ut esset.</l>
 <lb ed="TLN" n="681"/><l>Stichus obsonatust, ceterum ego operam do: is adlegavit.</l>
 <lb ed="TLN" n="682"/><l>nunc ibo hinc et amicos meos curabo hic advenientes.&mdash;</l></p></sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4">
 
 <sp><speaker>Sangarinvs</speaker>
 <lb ed="TLN" n="683"/><p><l>&Aacute;gite ite foras: f&eacute;rte pompam. c&aacute;do te praefici&oacute;, Stiche.</l>
@@ -1885,8 +1885,8 @@ Added to repository.
 <sp><speaker>Sang.</speaker>
 <lb ed="TLN" n="739-740"/><p><l>Peregre advenientes te expetimus, Stephaniscidium, mel meum,</l>
 <lb ed="TLN" n="741"/><l>s&iacute; amabilitas tibi nostr&aacute; placet, si tibi ambo &aacute;ccepti sumus.</l></p></sp>
-</div2>
-<div2 type="scene" n="5">
+</div>
+<div type="scene" n="5">
 
 <sp><speaker>Stephanivm</speaker>
 <lb ed="TLN" n="742"/><p><l>M&oacute;rem vobis geram, mea&eacute; deliciae. nam &iacute;ta me Venus amo&eacute;na amet,</l>
@@ -1962,8 +1962,8 @@ Added to repository.
 <lb ed="TLN" n="759"/><l>si hoc eduxeris, proinde ut <abbr expan="consuetus es">consuetu's</abbr> antehac, celeriter</l>
 <lb ed="TLN" n="760"/><l>lepidam et suavem cantionem aliquam occupito cinaedicam,</l>
 <lb ed="TLN" n="761"/><l n="20">ubi perpruriscamus usque ex unguiculis. inde huc aquam.</l></p></sp>
-</div2>
-<div2 type="scene" n="6">
+</div>
+<div type="scene" n="6">
 <lb ed="TLN" n="762"/><p><l>tene tu h&oacute;c, educe. dudum placuit potio:</l>
 <lb ed="TLN" n="763"/><l>nunc minus gravate iam accipit. tene tu. interim,</l>
 <lb ed="TLN" n="764"/><l>meus oculus, da mihi savium, dum illic bibit.</l>
@@ -1975,8 +1975,8 @@ Added to repository.
 <sp><speaker>Sang.</speaker>
 <lb ed="TLN" n="767"/><p><l>Age, iam infla buccas, nunciam aliquid suaviter.</l>
 <lb ed="TLN" n="768"/><l>redde c&aacute;ntionem veteri pro vino novam.</l></p></sp>
-</p></div2>
-<div2 type="scene" n="7">
+</p></div>
+<div type="scene" n="7">
 <lb ed="TLN" n="769"/><p><l>qui I&oacute;nicus aut cina&eacute;dicust, qui hoc t&aacute;le facere p&oacute;ssiet?</l>
 
 <sp><speaker>Stich.</speaker>
@@ -2007,5 +2007,5 @@ Added to repository.
 <sp><speaker>Stich.</speaker>
 <lb ed="TLN" n="774"/><p><l>Intro h&iacute;nc abeamus nunciam: salt&aacute;tum satis pro vinost.</l>
 <lb ed="TLN" n="775"/><l>vos, spectatores, plaudite atque ite ad vos comissatum.</l></p></sp>
-</p></div2></div1>
+</p></div></div>
 </body></text></TEI.2>

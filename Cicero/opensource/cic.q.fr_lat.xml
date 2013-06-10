@@ -78,10 +78,10 @@ Added encodingDesc and revisionDesc.
   </teiHeader>
 
 <text><body>
-<div1 type="Book" n="1">
+<div type="book" n="1">
 <head>LIBER PRIMVS</head>
 
-<div2 type="letter" n="1">
+<div type="letter" n="1">
 <opener>
 
 <dateline>Scr. Romae ex. a. <date value="-60">694 (60)</date> aut in. a. 695 (59).</dateline>
@@ -354,9 +354,9 @@ invidisse videaris.
 <milestone n="46" unit="section"/>
 <reg>illud</reg> te ad extremum et oro et hortor ut, tamquam poetae boni et actores industrii solent, sic tu in extrema parte et conclusione muneris ac negoti tui diligentissimus sis ut hic tertius annus imperi tui tamquam tertius &lt;actus&gt; perfectissimus atque ornatissimus fuisse videatur.  <reg>id</reg> facillime facies, si me cui semper uni magis quam universis placere voluisti tecum semper esse putabis et omnibus iis rebus quas dices et facies interesse.  <reg>reliquum</reg> est ut te orem ut valetudini tuae, si me et tuos omnis valere vis, diligentissime servias.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="2">
+<div type="letter" n="2">
 <opener>
 
 <dateline>Scr. Romae inter va<date>vi K. Nov.</date> et <date>iv Id. Dec.</date> a. 695 (59).</dateline>
@@ -471,9 +471,9 @@ appellavit.  <reg>propius</reg> nihil est factum quam ut occideretur. <reg>ex</r
 spe, superiores fore nos, animo, ut in hac re publica ne casum quidem ullum pertimescam  <reg>sed</reg> tamen se res sic habet.: <reg>si</reg> diem nobis dixerit, tota <name>Italia</name> concurret, ut multiplicata gloria discedamus ; sin autem vi agere conabitur,
 spero fore studiis non solum amicorum sed etiam alienorum ut vi resistamus.  <reg>omnes</reg> et se et suos amicos, clientis libertos, servos, pecunias denique suas pollicentur.  <reg>nostra</reg> antiqua manus bonorum ardet studio nostri atque amore. <reg>si</reg> qui antea aut alieniores fuerant aut languidiores, nunc horum regum odio se cum bonis coniungunt.  <name>Pompeius</name> omnia pollicetur et <name>Caesar</name> ; quibus ego ita credo ut nihil de mea comparatione deminuam.  <reg>tribuni</reg> pl. designati sunt nobis amici ; consules se optime ostendunt ; praetores habemus amicissimos et acerrimos civis, <name>Domitium</name>, <name>Nigidium</name>, <name>Memmium</name>, <name>Lentulum</name> ; bonos etiam alios singularis. <reg>qua</reg> re magnum fac animum habeas et spem bonam  <reg>de</reg> singulis tamen rebus quae cotidie gerantur faciam te crebro certiorem.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="3">
+<div type="letter" n="3">
 <opener>
 
 <dateline>Scr. Thessalonicae Id. Iun. 0.<date value="-58">696 (58)</date>.	</dateline>
@@ -522,9 +522,9 @@ puto.  <reg>sed</reg> haec utinam &lt;ne&gt; experiare!  <reg>quod</reg> precare
 <reg>filiam</reg> meam et tuam <name>Ciceronemque</name> nostrum quid ego, mi frater tibi commendem?  <reg>quin</reg> illud maereo quod tibi non minorem dolorem illorum orbitas adferet quam mihi. <reg>sed</reg> te incolumi orbi non erunt.  <reg>reliqua</reg>, ita mihi salus
 aliqua detur potestasque in patria moriendi, ut me lacrimae non sinunt scribere   <reg>etiam</reg> <name>Terentiam</name> velim tueare mihique de omnibus &lt;rebus&gt; rescribas ; sis fortis quoad rei natura patiatur.  <name>Idibus</name> <name>Iuniis</name> <name>Thessalonicae</name>
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="4">
+<div type="letter" n="4">
 <opener>
 
 <dateline>Scr. Thessalonicae mense Sext. circ. Non. a. <date value="-58">696 (58)</date>.</dateline>
@@ -552,13 +552,13 @@ incredibile quiddam adsequeris ; sin plane occidimus, me miserum! ego omnibus me
 <reg>sed</reg> tu, ut ante ad te scripsi, perspice rem et pertempta et ad me, ut tempora nostra non ut amor tuus fert, vere perscribe.  <reg>ego</reg> vitam quoad putabo tua interesse
 aut ad spem servandam esse retinebo.  <reg>tu</reg> nobis amicissimum <name>Sestium</name> cognosces ; credo tua causa velle <name>Lentulum</name>, qui erit consul.  <reg>quamquam</reg> sunt facta verbis difficiliora <reg>tu</reg> et quid opus sit et quid sit videbis.  <reg>omnino</reg> si tuam
 solitudinem communemque calamitatem nemo despexerit, aut per te aliquid confici aut nullo modo poterit ; sin te quoque inimici vexare coeperint, ne cessaris ; non enim gladiis tecum sed litibus agetur. <reg>verum</reg> haec absint velim. <reg>te</reg> oro ut ad me de omnibus &lt;rebus&gt; rescribas et in me animi aut potius consili minus putes esse quam antea, amoris vero et offici non minus.</p>
-</div2>
-</div1>
+</div>
+</div>
 
-<div1 type="Book" n="2">
+<div type="book" n="2">
 <head>LIBER SECVNDVS</head>
 
-<div2 type="letter" n="1">
+<div type="letter" n="1">
 <opener>
 
 <dateline>Scr. Romae m. Dec. a. <date value="-57">697 (57)</date>.</dateline>
@@ -585,9 +585,9 @@ ille se senatum negavit tenere.
 <milestone unit="para"/>
 <reg>habes</reg> acta unius diei ; reliqua, ut arbitror, in mensem <name>Ianuarium</name> reicientur.  <reg>de</reg> tribunis pl. longe optimum <name>Racilium</name> habemus.  <reg>videtur</reg> etiam <name>Antistius</name> amicus nobis fore ; nam <name>Plancius</name> totus noster est.  <reg>fac</reg>, si me amas, ut considerate diligenterque naviges de mense <name>Decembri</name>.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="2">
+<div type="letter" n="2">
 <opener>
 
 <dateline>Scr. Romae xiv K Febr. a. <date value="-56">698 (56)</date>.</dateline>
@@ -617,9 +617,9 @@ sit latrocinio tribunorum non divino, sed tamen suspicor per vim rogationem <nam
 <milestone n="4" unit="section"/>
 <reg>tu</reg>, si ita expedit, velim quam primum bona et certa tempestate conscendas ad meque venias ; innumerabiles enim res sunt in quibus te cotidie in omni genere desiderem. <reg>tui</reg> nostrique valent.  x<date>iiii K. Februarias.</date>
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="3">
+<div type="letter" n="3">
 <opener>
 
 <dateline>Scr. Romae <date>prid. Id. Febr.</date> et <date>xv K. Mart.</date> a. 698 (56).</dateline>
@@ -662,9 +662,9 @@ rebus nostris huius modi, &dagger;ut&dagger; tu mihi fere diffidenti praedicabas
 <name>Quintilis</name> in tuam commigrabis.  <reg>tuam</reg> in <name>Carinis</name> mundi habitatores <name>Lamiae</name> conduxerunt. A te post illam <name>Olbiensem</name> epistulam nullas litteras accepi. <reg>quid</reg> agas et ut te oblectes scire cupio maximeque te ipsum videre quam primum. <reg>cura</reg>, mi frater, ut valeas et, quamquam est hiems, tamen
 <name>Sardiniam</name> istam esse cogites.  <date>xv K. Martias.</date>
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="4">
+<div type="letter" n="4">
 <opener>
 
 <dateline>Scr. Romae mense Martio a. <date value="-56">698 (56)</date>.</dateline>
@@ -708,9 +708,9 @@ quibus me perlibente <name>Sevius</name> adlisus est, ceteri conciduntur. <persN
 <milestone n="7" unit="section"/>
 <reg>tuas</reg> mirifice litteras exspecto ; atqui adhuc clausum mare fuisse scio, sed quosdam venisse tamen <name>Olbia</name> dicebant qui te unice laudarent plurimique in provincia fieri dicerent <reg>eosdem</reg> aiebant nuntiare te prima navigatione transmissurum.  <reg>id</reg> cupio et, quamquam te ipsum scilicet maxime, tamen etiam litteras tuas ante exspecto.  <reg>mi</reg> frater, vale.   
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="5">
+<div type="letter" n="5">
 <opener>
 
 <dateline>Scr. proficiscens in Anagninum a. d. <date>vi Idus Apr.</date> a. 698 (56).</dateline>
@@ -738,9 +738,9 @@ convenire non potueram quod afuerat; videre autem volebam quod eram postridie <n
 <name>Anagnino</name> manerem, postridie autem in <name>Laterio</name> cogitabam, inde, cum in <name>Arpinati</name> qumque dies fuissem, ire in <name>Pompeianum</name>, rediens aspicere <name>Cumanum</name> ut, quoniam in <name>Nonas</name> <name>Maias</name> <name>Miloni</name> dies prodicta est, pridie <name>Nonas</name> <name>Romae</name> essem teque, mi carissime et suavissime frater, ad eam diem, ut
 sperabam, viderem.  <reg>aedificationem</reg> <name>Arcani</name> ad tuum adventum sustentari placebat.  <reg>fac</reg>, mi frater, ut valeas quam primuinque venias.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="6">
+<div type="letter" n="6">
 <opener>
 
 <dateline>Scr. Romae mense Maio paulo post Idus a. <date value="-56">698 (56)</date>.</dateline>
@@ -753,9 +753,9 @@ sperabam, viderem.  <reg>aedificationem</reg> <name>Arcani</name> ad tuum advent
 actum iri non est actum.  <reg>in</reg> hac causa mihi aqua haeret. <reg>sed</reg> plura quam constitueram ; coram enim. <reg>vale</reg>, mi optime et optatissime frater, et advola.  <reg>idem</reg> te pueri nostri rogant.  <reg>illud</reg> scilicet, cenabis cum veneris.
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="7">
+<div type="letter" n="7">
 <opener>
 
 <dateline>Scr. Romae mense Februado a. <date value="-55">699 (55)</date>.</dateline>
@@ -777,9 +777,9 @@ A. d. <date>iii Idus Febr.</date> senatus consultum est factum de a ambitu in <n
 dies sexaginta privati essent.  <reg>eo</reg> die <name>Catonem</name> plane repudiarunt.  <reg>quid</reg> multa? tenent omnia idque ita omnis intellegere volunt.
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="8">
+<div type="letter" n="8">
 <opener>
 
 <dateline>Scr. mense Maio a. <date value="-55">699 (55)</date>.</dateline>
@@ -804,9 +804,9 @@ est et natura imbecillior.
 <reg>de</reg> re publica nimium te laborare doleo et meliorem civem esse quam <name>Philoctetam</name>, qui accepta iniuria ea spectacula quaerebat quae tibi acerba esse video.  <reg>amabo</reg> te, advola (consolabor te et omnem abstergebo dolorem) et adduc, si me amas, <name>Marium</name> ; sed adproperate.  <reg>hortus</reg>
 domi est.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="9">
+<div type="letter" n="9">
 <opener>
 
 <dateline>Scr. ineunte mense Februanto a. <date value="-54">700 (54)</date>.</dateline>
@@ -825,9 +825,9 @@ defenderet.  <reg>de</reg> te a <name>Magnetibus</name> ab <name>Sipylo</name> m
 <name>Lucreti</name> poemata, ut scribis, ita sunt, multis luminibus ingeni, inultae tamen artis.  <reg>sed</reg> cum veneris.  <reg>virum</reg> te
 putabo si <name>Sallusti</name> <name>Empedoclea</name> legeris, hominem non putabo.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="10">
+<div type="letter" n="10">
 <opener>
 
 <dateline>Scr. Romae Idibus Februariis a. <date value="-54">700 (54)</date>.</dateline>
@@ -856,9 +856,9 @@ te scribere ; video enim quas tu litteras exspectaris.  <reg>sed</reg> ille scri
 egestate ne sis aspernatus.  <reg>ad</reg> quem ego rescripsi nihil esse quod posthac arcae nostrae fiducia conturbaret lusique in eo genere et familiariter et cum dignitate.  <reg>amor</reg> autem eius erga nos perfertur omnium nuntiis singularis.
 <name>Litterae</name> quidem ad id quod exspectas fere cum tuo reditu iungentur.  <reg>reliqua</reg> singulorum dierum scribemus ad te, si modo tabellarios tu praebebis. <reg>quamquam</reg> eius modi frigus impendebat ut summum periculum esset ne <name>Appio</name> suae aedes urerentur.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="11">
+<div type="letter" n="11">
 <opener>
 
 <dateline>Scr. Romae a. d. <date>xvi K. Martias</date> a. 700 (54).</dateline>
@@ -888,9 +888,9 @@ qui <name>Quirinalia</name> sequuntur <name>Appius</name> interpretatur non impe
 <milestone n="4" unit="section"/>
 <reg>itaque</reg> ad <name>Callisthenem</name> et ad <name>Philistum</name> redeo, in quibus te video volutatum. <name>Callisthenes</name> quidem vulgare et notum negotium, quem ad modum aliquot <name>Graeci</name> locuti sunt, <name>Siculus</name> ille capitalis, creber, acutus, brevis, paene pusillus <name>Thucydides</name> ; sed utros eius habueris libros (duo enim sunt corpora) an utrosque nescio.  <reg>me</reg> magis de <name>Dionysio</name> delectat ; ipse est enim veterator magnus et perfamiliaris <name>Philisto</name> <name>Dionysius</name>.  <reg>sed</reg>, quod ea scribis, adgrederisne ad historiam?  <reg>me</reg> auctore potes et, quoniam tabellarios subministras, hodierni diei res gestas <name>Lupercalibus</name> habebis.  <reg>oblecta</reg> te cum <name>Cicerone</name> nostro quani bellissime.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="12">
+<div type="letter" n="12">
 <opener>
 
 <dateline>Scr. in Cumano vel Pompriano m. Mai. a. <date value="-54">700 (54)</date>.</dateline>
@@ -912,9 +912,9 @@ otio <name>Cicerone</name> nostro minore producendo.
 te non dem.  <reg>his</reg> diebus (ignosces) cui darem fuit nemo ante hunc <persName>M. Orfium</persName>, equitem <name>Romanum</name>, nostrum et per se necessarium et quod est ex municipio <name>Atellano</name>, quod scis esse in fide nostra.  <reg>itaque</reg> eum tibi commendo in maiorem modum, hominem domi splendidum, gratiosum
 etiam extra domum ; quem fac ut tua liberalitate tibi obliges.  <reg>est</reg> tribunus militum in exercitu vestro.  <reg>gratum</reg> hominem observantemque cognosces.  <name>Trebatium</name> ut valde ames vehementer te rogo.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="13">
+<div type="letter" n="13">
 <opener>
 
 <dateline>Scr. Romae in. m. Iun. a. <date value="-54">700 (54)</date>.</dateline>
@@ -942,9 +942,9 @@ sententia autem nostra in senatu eius modi magis ut alii nobis adsentiantur quam
 
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="14">
+<div type="letter" n="14">
 <opener>
 
 <dateline>Scr. Romae fort. a. d. <date>vi K. Sext</date> a. 700 (54).</dateline>
@@ -971,9 +971,9 @@ Idib. Quint. faenus fuit bessibus ex triente coitione <name>Memmi</name> et cons
 cum <name>Domitio</name> ; hanc <name>Scaurus</name> &dagger;unum vincere&dagger;.  <name>Messala</name> flaccet <reg>non</reg> dico <foreign lang="greek">ὑπερβολάς</foreign>, vel HS centiens constituunt in praerogativa pronuntiare.  <reg>res</reg> ardet invidia.  <reg>tribunicii</reg> candidati compromiserunt HS quingenis in singulos apud <persName>M. Catonem</persName> depositis petere eius arbitratu, ut qui contra fecisset ab eo condemnaretur.  <reg>quae</reg> quidem comitia si gratuita fuerint, ut putantur, plus unus <name>Cato</name> potuerit quam omnes leges omnesque iudices.
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="15">
+<div type="letter" n="15">
 <opener>
 
 <dateline>Scr. Romae ex. m. Sext a. <date value="-54">700 (54)</date>.</dateline>
@@ -997,13 +997,13 @@ vehementer et colamur et amemur.
 
 <milestone n="5" unit="section"/>
 <reg>sed</reg> heus tu! celari videor a te. <reg>quomodonam</reg>, mi frater, de nostris versibus <name>Caesar</name>? <reg>nam</reg> primum librum se legisse scripsit ad me ante et prima sic ut neget se ne <name>Graeca</name> quidem meliora legisse ; reliqua ad quendam locum <foreign lang="greek">ῥᾳθυμότερα</foreign>; hoc enim utitur verbo.  <reg>dic</reg> mihi verum, num aut res eum aut <foreign lang="greek">χαρακτὴρ</foreign> non delectat? NihIl est quod vereare ; ego enim ne pilo quidem minus me amabo.  <reg>hac</reg> de re <foreign lang="greek">φιλαληθῶς</foreign> et, ut soles scribere, fraterne.</p>
-</div2>
-</div1>
+</div>
+</div>
 
-<div1 type="Book" n="3">
+<div type="book" n="3">
 <head>LIBER TERTIVS</head>
 
-<div2 type="letter" n="1">
+<div type="letter" n="1">
 <opener>
 
 <dateline>Scr. m. Sept. a. <date value="-54">700 (54)</date>.</dateline>
@@ -1150,9 +1150,9 @@ meorum temporum includere, dicentem <name>Apollinem</name> in concilio deorum, q
 scribit se sine' te fuisse cum ad mare accesserit <reg>ad</reg> eas ego ei litteras nihil rescripsi ne gratulandi quidem causa propter eius luctum. <reg>te</reg> oro etiam atque etiam, mi frater, ut valeas.
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="2">
+<div type="letter" n="2">
 <opener>
 
 <dateline>Scr. Romae a. d. <date>v Idus Octobris</date> a. 700 (54).</dateline>
@@ -1173,9 +1173,9 @@ habemus.  <foreign lang="greek">Ἀπότευγμα</foreign> formido, addo etia
 quod paene praeterii, fuit in <name>Gabinium</name> ; accusavit maiestatis ; nomina data, cum ille verbum nullum.  <reg>habes</reg> forensia. <reg>domi</reg> recte est; ipsa domus a redemptoribus tractatur non indiligenter.
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="3">
+<div type="letter" n="3">
 <opener>
 
 <dateline>Scr. Romae a. d. xit K. Nov. <date value="-54">700 (54)</date>.</dateline>
@@ -1202,9 +1202,9 @@ de maiestate triduo  <reg>quo</reg> quidem in iudicio odio premitur omnium gener
 illam disciplinam volo et ipse puer magis illo declamatorio genere duci et delectari videtur.  <reg>in</reg> quo quoniam ipsi quoque fuimus, patiamur illum ire nostris itineribus ; eodem enim perventurum esse confidimus.  <reg>sed</reg> tamen, si nobiscum
 eum rus aliquo eduxerimus, in hanc nostram rationem consuetudinemque inducemus. <name>Magna</name> enim nobis a te proposita merces est, quam certe nostra culpa numquam minus adsequemur.  <reg>quibus</reg> in locis et qua spe hiematurus sis ad me quam diligentissime scribas velim.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="4">
+<div type="letter" n="4">
 <opener>
 
 <dateline>Scr. Romae a. d. <date>ix K. Nov.</date> a. 700 (54).</dateline>
@@ -1240,9 +1240,9 @@ diligentem non possunt.  <name>Chrysippo</name> tamen imperabo et cum <name>Tyra
 Novembr. volebam adesse.  <reg>etenim</reg> erit nescio quid negotioli ; nam <name>Cato</name> et <name>Servilius</name> praetores prohibituros se minantur nec quid possint scio (ille enim et <name>Appium</name> consulem secum habebit et praetores et tribunos pl.), sed minantur tamen in primisque <foreign lang="greek">Ἄρη πνέων</foreign> <persName>Q. Scaevola</persName>.  <reg>cura</reg>,
 mi suavissime et carissime frater, ut valeas.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="5/6">
+<div type="letter" n="5/6">
 <opener>
 
 <dateline>Scr. in Tusculano ex. m. Oct aut in. Nov. a. <date value="-54">700 (54)</date>.</dateline>
@@ -1293,9 +1293,9 @@ ipse qui in summo studio nihil adsequor.  <reg>de</reg> <name>Latinis</name> ver
 <milestone n="7" unit="section"/>
 <reg>quattuor</reg> tragoedias sedecim diebus absolvisse cum scribas, tu quicquam ab alio mutuaris? et <foreign lang="greek">πάθος</foreign> quaeris, cum <name>Electram</name> et <name>Troilum</name> scripseris?  <reg>cessator</reg> esse noli et illud '<foreign lang="greek">γνῶθι σεαυτόν</foreign>' noli putare ad adrogantiam minuendam solum esse dictum verum etiam ut bona nostra norimus ;  sed et istas et <name>Erigonam</name> mihi velim mittas.  <reg>habes</reg> &lt;ad&gt; duas epistulas proximas.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="7">
+<div type="letter" n="7">
 <opener>
 
 <dateline>Scr. in Tusculano ex. m. Oct. aut in. m. Nov. a. <date value="-54">700 (54)</date>.</dateline>
@@ -1319,9 +1319,9 @@ magna vis aquae usque ad piscinam publicam. <reg>viget</reg> illud
 <milestone n="2" unit="section"/>
 <reg>sed</reg> haec non curare decrevi.  <name>Romam</name> cum venero, quae perspexero scribam ad te et maxime de dictatura, et ad <name>Labienum</name> et ad <reg>ligurium</reg> litteras dabo.  <reg>hanc</reg> scripsi ante &lt;lucem&gt; ad lychnuchum ligneolum, qui mihi erat periucundus, quod eum te aiebant, cum esses <name>Sami</name>, curasse faciendum. <reg>vale</reg>, mi suavissime et optime frater.
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="8">
+<div type="letter" n="8">
 <opener>
 
 <dateline>Scr. Romae ex. m. Nov. a. <date value="-54">700 (54)</date>.</dateline>
@@ -1356,9 +1356,9 @@ nihil loquebantur ; agebatur quidem certe nihil.
 facultates non erant [vel quia magister] vel quia potuerat magistrum se non aedilem putare.  <reg>omnia</reg> fere scripsi. <reg>cura</reg>, mi carissime frater, ut valeas.
 
 </p>
-</div2>
+</div>
 
-<div2 type="letter" n="9">
+<div type="letter" n="9">
 <opener>
 
 <dateline>Scr. Romae m. Dec. a. <date value="-54">700 (54)</date>.</dateline>
@@ -1403,5 +1403,5 @@ ipsi ea adibimus et mittemus et mandabimus.
 <reg>de</reg> <reg>felicis</reg>
 testamento tum magis querare, si scias.  <reg>quas</reg> enim tabulas se putavit obsignare, in quibus &dagger;in unciis firmissimum tenes&dagger; vero lapsus est per errorem et suum et <reg>sicurae</reg> servi non obsignavit; quas noluit eas obsignavit.
 <foreign lang="greek">Ἀλλ’ οἰμωζέτω·</foreign>  nos modo valeamus.  <name>Ciceronem</name> et ut rogas amo et ut meretur et debeo ; dimitto autem a me et ut a magistris ne abducam et quod mater &dagger;<name>Porcia</name>&dagger; non discedit, sine qua edacitatem pueri pertimesco.  <reg>sed</reg> sumus una tamen valde multum.  <reg>rescripsi</reg> ad omnia.  <reg>mi</reg> suavissime et optime frater, vale.</p>
-</div2></div1>
+</div></div>
 </body></text></TEI.2>

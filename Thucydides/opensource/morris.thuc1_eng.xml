@@ -36,9 +36,9 @@
   </teiHeader>
   <text lang="en">
     <body>
-      <div1 type="book" n="1">
+      <div type="book" n="1">
         <pb n="1"/>
-        <div2 type="chapter" n="intro">
+        <div type="chapter" n="intro">
           <head>Introduction</head>
           <p>THOUGH we have several ancient biographies of Thucydides,<note anchored="yes" n="1">One
               compiled of three distinct portions, passing under the name of
@@ -1746,8 +1746,8 @@
             ordinary editions. The passages named above contain in Bekker's stereotype edition about
             1700, 440, and 85 lines respectively. <pb n="55"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="1">
+        </div>
+        <div type="chapter" n="1">
           <head>Introduction. Chaps. 1-23.</head>
           <p>The Peloponnesian war exceeded in importance all the preceding events of Greek history.</p>
           <p>
@@ -1883,8 +1883,8 @@
             Peloponnesian war. For this analysis, which at the end differs from that of Cl., see
             Herbst, Philol. vol. 38, p. 534 ff. <pb n="58"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="2">
+        </div>
+        <div type="chapter" n="2">
           <p>It was long before the Greek clans attained even fixity of settlement.</p>
           <p>
             <lemma lang="greek" targOrder="U">φαίνεται</lemma>: <hi rend="italic">it is plain</hi>,
@@ -2050,8 +2050,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἐξέπεμψαν</lemma>
             <foreign lang="greek"/>: sc. <foreign lang="greek">οἱ Ἀθηναῖοι</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="3">
+        </div>
+        <div type="chapter" n="3">
           <p>It was long before there was any bond of union or even a common name.</p>
           <p>
             <lemma lang="greek" targOrder="U">τῶν παλαιῶν</lemma>: neut. Cf. c. 11. 16; 20.
@@ -2172,8 +2172,8 @@
             <foreign lang="greek">στρατείαν</foreign> is construed as in c. 15. 8. See App.</p>
           <p>Before proceeding to treat of the Trojan war, c. 8. 16, the mention of the sea here
             leads Thuc. to discuss the slow development of maritime enterprise among the Greeks.</p>
-        </div2>
-        <div2 type="chapter" n="4">
+        </div>
+        <div type="chapter" n="4">
           <p>The first naval power was established by Minos, who endeavoured to clear the sea of
             pirates.</p>
           <p>
@@ -2216,8 +2216,8 @@
             K&uuml;hn. <title>Lat. Gram.</title> II. 132, note 3 c. For the dat. with <foreign lang="greek">ἰέναι, ἐλθεῖν</foreign>, see on c. 13. 12. The form <foreign lang="greek">αὐτῷ</foreign> shows that the remark is a suggestion made by Thuc.
             himself in accordance with <foreign lang="greek">εἰκός</foreign>, whereas <foreign lang="greek">αὑτῷ</foreign> would have represented the purpose as conceived by
             Minos.</p>
-        </div2>
-        <div2 type="chapter" n="5">
+        </div>
+        <div type="chapter" n="5">
           <p>Previously piracy was general, and was not looked upon as disgraceful.</p>
           <p>
             <lemma lang="greek" targOrder="U">οἱ γὰρ Ἕλληνες</lemma>
@@ -2332,8 +2332,8 @@
               οἱ Ἕλληνες</foreign>. But the verb is more probably here in the pass. used impers.
             (see on c. 46. 1), <hi rend="italic">the practice of bearing arms.</hi>
           </p>
-        </div2>
-        <div2 type="chapter" n="6">
+        </div>
+        <div type="chapter" n="6">
           <p>Wherefore in early times the habit of bearing arms was general in Greece, which the
             Athenians first abandoned for a more luxurious, the Lacedaemonians for a simpler gear.</p>
           <p>
@@ -2453,8 +2453,8 @@
               <foreign lang="greek">ὁμοιότροπα</foreign> as its pred. adj., with adv. meaning. Cf.
               <bibl n="Thuc. 7.77.9">vii.77.9</bibl>. <pb n="69"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="7">
+        </div>
+        <div type="chapter" n="7">
           <p>The practice also of settling in towns at a distance from the coast was general.</p>
           <p>
             <lemma lang="greek" targOrder="U">πλοϊμωτέρων ὄντων</lemma>: the gen. abs. of neut.
@@ -2493,8 +2493,8 @@
             <lemma lang="greek" targOrder="U">ἀνῳκισμέναι</lemma>
             <foreign lang="greek"/>: = <foreign lang="greek">ἄνω ᾠκισμέναι</foreign>. Cf. c.
             58. 13; <bibl n="Thuc. 8.31.8">viii.31.8</bibl>. See App.</p>
-        </div2>
-        <div2 type="chapter" n="8">
+        </div>
+        <div type="chapter" n="8">
           <p>It was only with the gradual suppression of piracy that the Greek states increased in
             stability and magnitude.</p>
           <p>
@@ -2576,8 +2576,8 @@
             placed first, c. 64. 8; 100. 6; <bibl n="Thuc. 4.81.9">iv.81.9</bibl>; <bibl n="Thuc. 5.5.14">v.5.14</bibl>; here it indicates the point in the gradual progress of
             society at which external action became possible; and so the subject of the Trojan war
             is resumed from c. 3. 22. The following c. 9-11 establish the <foreign lang="greek">τεκμήριον</foreign> (c. 1. 12) of the lack of naval power in early times.</p>
-        </div2>
-        <div2 type="chapter" n="9">
+        </div>
+        <div type="chapter" n="9">
           <p>The Trojan war is to be attributed to the predominance of Agamemnon, and his possession
             of some maritime power.</p>
           <p>
@@ -2712,8 +2712,8 @@
             judgment; elsewhere with <foreign lang="greek">ἐκ, ἀπό</foreign>. Cf. c. 10. 15;
               <bibl n="Thuc. 3.20.21">iii.20.21</bibl>; <bibl n="Thuc. 4.126.14">iv.126.14</bibl>;
               <bibl n="Thuc. 8.46.27">viii.46.27</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="10">
+        </div>
+        <div type="chapter" n="10">
           <p>The statements of Homer do not lead us to attribute to the Trojan war any great
             importance, considered as an undertaking of collective Hellas.</p>
           <p>
@@ -2880,8 +2880,8 @@
             not the same notion of &lsquo;detachment&rsquo; as our
             &lsquo;send.&rsquo;&rdquo; Gildersleeve, Pind. <title>Ol.</title> 11.
           23.</p>
-        </div2>
-        <div2 type="chapter" n="11">
+        </div>
+        <div type="chapter" n="11">
           <p>For there was still a great lack of means and appliances for war.</p>
           <p>
             <lemma lang="greek" targOrder="U">αἴτιον</lemma>: often used as a pred. subst. without
@@ -2975,8 +2975,8 @@
             <lemma lang="greek" targOrder="U">κατεσχηκότος</lemma>: Thuc. often places an attrib.
             partic. after a noun which is attended by other modifiers. Cf. c. 90. 7; 96. 8; <bibl n="Thuc. 3.54.18">iii.54.18</bibl>; 56. 5; 67. 11. So Dem. xx. 76, <foreign lang="greek">ταῦτα ἐλάττω φανῆναι τῆς ἐν ἑκάστῳ νῦν περὶ αὐτοῦ δόξης
               ὑπαρχούσης</foreign>. XVIII. 126.</p>
-        </div2>
-        <div2 type="chapter" n="12">
+        </div>
+        <div type="chapter" n="12">
           <p>Even the Trojan war was followed by movements of population in Greece, and then by
             systematic colonization.</p>
           <p>
@@ -3058,8 +3058,8 @@
             <lemma lang="greek" targOrder="U">πάντα δὲ ταῦτα</lemma>
             <foreign lang="greek"> κτἑ.</foreign>: these words refer to the settlements made after
             the migrations above mentioned had ceased.</p>
-        </div2>
-        <div2 type="chapter" n="13">
+        </div>
+        <div type="chapter" n="13">
           <p>Advance is now made in maritime skill, particularly by Corinth, and, among the Ionians,
             by Samos and Phocuea.</p>
           <p>
@@ -3213,8 +3213,8 @@
             to found a settlement on the Gallic coast. Antiochus of Syracuse may have been his
             authority for this statement. Even if the dates did not conflict, the tense <foreign lang="greek">ἐνίκων</foreign>, which denotes the victory and its enduring results
             (cf. c. 49. 24; 100. 3; 116. 10; <bibl n="Thuc. 3.108.10">iii.108.10</bibl>, <hi rend="italic">etc.</hi>) could hardly be used to denote the <foreign lang="greek">Καδμείη νίκη</foreign> of the Phocaeans. See App.</p>
-        </div2>
-        <div2 type="chapter" n="14">
+        </div>
+        <div type="chapter" n="14">
           <p>Still it was only slowly and by degrees that progress was made.</p>
           <p>
             <lemma lang="greek" targOrder="U">δυνατώτατα γὰρ</lemma>
@@ -3290,8 +3290,8 @@
             word is to be supplied. Cf. <foreign lang="greek">ἀπὸ τῆς ἴσης</foreign>, c. 15.
             11; <foreign lang="greek">ἐπὶ τῇ ἴσῃ καὶ ὁμοίᾳ</foreign>, c. 27. 3; <foreign lang="greek">ἀπὸ πρώτης</foreign>, c. 77. 11; with art., <bibl n="Thuc. 7.43.35">vii.43.35</bibl>; <foreign lang="greek">διὰ κενῆς</foreign>, <bibl n="Thuc. 4.126.22">iv.126.22</bibl>. <pb n="86"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="15">
+        </div>
+        <div type="chapter" n="15">
           <p>Of still less importance were the wars waged in early times on land.</p>
           <p>
             <lemma lang="greek" targOrder="U">τοιαῦτα</lemma>: i.e. of small importance as compared
@@ -3355,8 +3355,8 @@
             <lemma lang="greek" targOrder="U">Ἐρετριῶν</lemma>: on the spelling, see App.</p>
           <p>
             <lemma lang="greek" targOrder="U">διέστη</lemma>: cf. c. 1. 6; 18. 28.</p>
-        </div2>
-        <div2 type="chapter" n="16">
+        </div>
+        <div type="chapter" n="16">
           <p>The Ionians especially were hindered in their progress by the extension of the Persian
             power.</p>
           <p>
@@ -3402,8 +3402,8 @@
             <foreign lang="greek"> κτἑ.</foreign>: acc. to Hdt. i. 169, the Ionians, <foreign lang="greek">οἱ τὰς νήσους ἔχοντες</foreign>, i.e. the Chians and Samians (c.
             142), had surrendered to Cyrus. But Thuc. is probably right in placing their subjugation
             after the battle of Lade (B.C. 494?). Cf. Hdt. vi. 7-17.</p>
-        </div2>
-        <div2 type="chapter" n="17">
+        </div>
+        <div type="chapter" n="17">
           <p>The tyrants also in the Greek states employed their power in no important wars.</p>
           <p>
             <lemma lang="greek" targOrder="U">τύραννοι δὲ</lemma>
@@ -3450,8 +3450,8 @@
             H. 1029. The second clause, <foreign lang="greek">κατὰ πόλεις . . . εἶναι</foreign>,
             contains the neg. in <foreign lang="greek">ἀτολμοτέρα</foreign>, = <foreign lang="greek">μήτε κατὰ πόλεις τολμηρότερόν τι πράσσειν. φανερόν</foreign> here
             = <foreign lang="greek">ἐπιφανές, ἀξιόλογον</foreign>. Cf. <bibl n="Xen. Cyrop. 7.5.58">Xen. <title>Cyr.</title> vii.5.58</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="18">
+        </div>
+        <div type="chapter" n="18">
           <p>Soon after came the Persian wars. Athens and Sparta, after a brief alliance, fell into
             hostility, and each strove to augment her own power.</p>
           <p>Chaps. 18 and 19 show that even the recent occurrences (<foreign lang="greek">τὰ πρὸ
@@ -3585,8 +3585,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἀφισταμένοις</lemma>: = <foreign lang="greek">ὁπότε ἀφισταῖντο</foreign>. GMT. 109, 6; H. 902. Cf. c. 99. 13, and the whole of
             c. 89-118, where are the proofs of the brief statements here made.</p>
-        </div2>
-        <div2 type="chapter" n="19">
+        </div>
+        <div type="chapter" n="19">
           <p>The hegemony of the Lacedaemonians differed from that of the Athenians.</p>
           <p>
             <lemma lang="greek" targOrder="U">ὑποτελεῖς φόρου</lemma>: so c. 56. 7; 66. 6; 80.
@@ -3619,8 +3619,8 @@
             2; <foreign lang="greek">τὰ πλείω</foreign>, c. 13. 17; <foreign lang="greek">τὰ
               τελευταῖα</foreign>, c. 24. 12. The position of <foreign lang="greek">ἀκραιφνοῦς</foreign> gives it the effect of a temporal sentence. The word occurs in
             c. 52. 8; not elsewhere in Att. prose.</p>
-        </div2>
-        <div2 type="chapter" n="20">
+        </div>
+        <div type="chapter" n="20">
           <p>But men often judge of past events without thorough inquiry.</p>
           <p>
             <lemma lang="greek" targOrder="U">ηὗρον</lemma>: see on c. 1. 11.&mdash;<lemma lang="greek" targOrder="U">χαλεπὰ...πιστεῦσαι</lemma>
@@ -3699,8 +3699,8 @@
           <p>
             <lemma lang="greek" targOrder="U">τὰ ἑτοῖμα</lemma>: what lies nearest at hand, taken
             without scrutiny, and therefore having no guarantee of accuracy.</p>
-        </div2>
-        <div2 type="chapter" n="21">
+        </div>
+        <div type="chapter" n="21">
           <p>An unprejudiced examination of the proofs adduced must result in a conviction of the
             superior importance of the Peloponnesian war.</p>
           <p>
@@ -3767,8 +3767,8 @@
               <foreign lang="greek">δηλώσει</foreign> = <foreign lang="greek">δῆλος
             ἔσται</foreign>, cf. <bibl n="Thuc. 2.50.4">ii.50.4</bibl>; <bibl n="Soph. Ant. 20">Soph. <title>Ant.</title> 20</bibl>, 471. Kr. <title>Spr.</title> 56, 7, 5;
             K&uuml;hn. 482, 2.</p>
-        </div2>
-        <div2 type="chapter" n="22">
+        </div>
+        <div type="chapter" n="22">
           <p>The writer has taken pains to set forth a true account of what was said as well as of
             what was done during the war, without aiming at mere entertainment.</p>
           <p>
@@ -3874,8 +3874,8 @@
             merely, as Cl. says.</p>
           <p>
             <lemma lang="greek" targOrder="U">ξύγκειται</lemma>: = the pf. pass. of <foreign lang="greek">ξυντιθέναι</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="23">
+        </div>
+        <div type="chapter" n="23">
           <p>The Peloponnesian war surpassed the Persian war in duration and in the many calamities
             by which it was attended. A general statement of its cause.</p>
           <p>
@@ -4015,8 +4015,8 @@
             the Athenian power, which is thus, in Greek fashion, placed after ostensible ones. The
             remaining chapters, 119145, contain the concluding consultations and decisions at Sparta
             and Athens.</p>
-        </div2>
-        <div2 type="chapter" n="24">
+        </div>
+        <div type="chapter" n="24">
           <head>The dispute between Corinth and Corcyra. Chaps. 24-55.</head>
           <p>Origin and early history of Epidamnus. The commons appeal in vain to Corcyra for help
             against the attacks of the banished aristocrats.</p>
@@ -4094,8 +4094,8 @@
           <p>
             <lemma lang="greek" targOrder="U">Ἥραιον</lemma>: rather than <foreign lang="greek">Ἡραῖον</foreign>, acc. to Vat. Ms. and Arcadius. See Chandler, &sect; 357 and
             360.</p>
-        </div2>
-        <div2 type="chapter" n="25">
+        </div>
+        <div type="chapter" n="25">
           <p>The Corinthians are ready to lend the Epidamnians the aid they ask for.</p>
           <p>
             <lemma lang="greek" targOrder="U">τιμωρίαν</lemma>: in Hdt. (<bibl n="Thuc. 3.148.14">iii.148.14</bibl>; <pb n="103"/>
@@ -4212,8 +4212,8 @@
             <lemma lang="greek" targOrder="U">καὶ ἦσαν</lemma>: et erant, <hi rend="italic">and
               they actually were.</hi>
           </p>
-        </div2>
-        <div2 type="chapter" n="26">
+        </div>
+        <div type="chapter" n="26">
           <p>The Corinthians send a garrison to Epidamnus. After fruitless negotiations, the
             Corcyraeans besiege the place with forty ships.</p>
           <p>
@@ -4304,8 +4304,8 @@
             <lemma lang="greek" targOrder="U">ἰσθμός</lemma>: a remark inserted to show the ease
             of the operation.&mdash;<lemma lang="greek" targOrder="U">ἐπολιόρκουν</lemma>:
             obsidere coeperunt.</p>
-        </div2>
-        <div2 type="chapter" n="27">
+        </div>
+        <div type="chapter" n="27">
           <p>The Corinthians make preparations to support the Epidamnians and appeal to their
             allies.</p>
           <p>
@@ -4369,8 +4369,8 @@
               <bibl n="Thuc. 3.98.19">iii.98.19</bibl>; <bibl n="Thuc. 6.30.6">vi.30.6</bibl>; 31.
             12), by which the absence of alien elements is indicated. Kr. <title>Spr.</title> 50,
             11, 14.</p>
-        </div2>
-        <div2 type="chapter" n="28">
+        </div>
+        <div type="chapter" n="28">
           <p>The Corcyraeans once more require the Corinthians to abstain from protecting the
             Epidamnians.</p>
           <p>
@@ -4454,8 +4454,8 @@
               settlement.</hi> Cf. <bibl n="Thuc. 5.41.10">v.41.10</bibl>. <foreign lang="greek">ὥστε</foreign>, <hi rend="italic">on condition that</hi> (cf. c. 29. 22; <bibl n="Thuc. 3.28.4">iii.28.4</bibl>; <bibl n="Thuc. 4.65.3">iv.65.3</bibl>; <bibl n="Thuc. 7.83.8">vii.83.8</bibl>), introduces both <foreign lang="greek">μένειν</foreign> and <foreign lang="greek">ποιήσασθαι</foreign>, the latter being
             aor. to mark the new step which would then be taken. <foreign lang="greek">κατὰ
             χώραν</foreign>, <hi rend="italic">as they were.</hi> See App.</p>
-        </div2>
-        <div2 type="chapter" n="29">
+        </div>
+        <div type="chapter" n="29">
           <p>The Corinthians are defeated in a sea-fight off Actium, and Epidamnus surrenders to the
             Corcyraeans.</p>
           <p>
@@ -4526,8 +4526,8 @@
             the larger part of the <foreign lang="greek">φρουροί</foreign>, c. 26.
               4.&mdash;<lemma lang="greek" targOrder="U">δήσαντας ἔχειν</lemma>: = <foreign lang="greek">ἐν δεσμοῖς ἔχειν</foreign>. Cf. c. 30. 4; 52. 9; <bibl n="Thuc. 2.5.23">ii.5.23</bibl>; 6. 8; <bibl n="Thuc. 3.32.11">iii.32.11</bibl>; 34.
             16; <bibl n="Thuc. 4.21.5">iv.21.5</bibl>; <bibl n="Thuc. 5.42.10">v.42.10</bibl>, <hi rend="italic">etc.</hi> See on c. 38. 15.</p>
-        </div2>
-        <div2 type="chapter" n="30">
+        </div>
+        <div type="chapter" n="30">
           <p>Further hostilities on the part of the Corcyraeans; new preparations of the
             Corinthians.</p>
           <p>
@@ -4578,8 +4578,8 @@
               <foreign lang="greek">νυκτὸς ἤδη</foreign>, <bibl n="Thuc. 3.106.12">iii.106.12</bibl>; <foreign lang="greek">πρὸς τὸ ἔαρ ἤδη</foreign>, <bibl n="Thuc. 5.17.7">v.17.7</bibl>; <foreign lang="greek">ἡμέρας ἤδη</foreign>, <bibl n="Thuc. 5.59.2">v.59.2</bibl>; similarly, <foreign lang="greek">ἔτι
             νύκτα</foreign>, <bibl n="Thuc. 2.3.16">ii.3.16</bibl>; <foreign lang="greek">ἔτι ἐν
               τῇ εἰρήνῃ</foreign>, <bibl n="Thuc. 3.13.5">iii.13.5</bibl>. Cf. c. 103. 8.</p>
-        </div2>
-        <div2 type="chapter" n="31">
+        </div>
+        <div type="chapter" n="31">
           <p>The Corcyraeans and the Corinthians betake themselves to Athens.</p>
           <p>
             <lemma lang="greek" targOrder="U">τὸν δ̓ ἐνιαυτὸν...ὕστερον</lemma>
@@ -4635,8 +4635,8 @@
             <lemma lang="greek" targOrder="U">ἦλθον</lemma>: sc. <foreign lang="greek">ἑκάτεροι</foreign>, to which here <foreign lang="greek">οἱ Κερκυραῖοι</foreign>,
             and in c. 36. 22 <foreign lang="greek">οἱ Κορίνθιοι</foreign>, are in part. appos. On
             these speeches see Grote, V. c. 47, p. 321.</p>
-        </div2>
-        <div2 type="chapter" n="32">
+        </div>
+        <div type="chapter" n="32">
           <head>Speech of the Corcyraean ambassadors at Athens. Chaps. 32-36.</head>
           <p>&sect; 1, 2. <hi rend="italic">Whoever asks for aid without being able to appeal to
               obligation, should show that the granting of his request will be attended with
@@ -4759,8 +4759,8 @@
             <lemma lang="greek" targOrder="U">τολμῶμεν</lemma>: <hi rend="italic">we venture,
               decide.</hi> The thing to be encountered is not a danger but an unfavourable
           judgment.</p>
-        </div2>
-        <div2 type="chapter" n="33">
+        </div>
+        <div type="chapter" n="33">
           <p>The proof we offer consists in the fact that, in return for your support which will
             bind us to eternal gratitude, we bring you our fleet, second only to your own, and that
             too at a time when the Peloponnesians have already resolved upon war with you, and wish
@@ -4876,8 +4876,8 @@
             pres. partic., whereas the decisive <foreign lang="greek">δεξαμένων</foreign> is in the
             aor.</p>
           <p>Note the paronomasia, as often in Thuc. Cf. c. 37. 16; <bibl n="Thuc. 2.62.27">ii.62.27</bibl>; <bibl n="Thuc. 3.39.10">iii.39.10</bibl>; 82. 31; <bibl n="Thuc. 4.62.10">iv.62.10</bibl>; <bibl n="Thuc. 6.76.7">vi.76.7</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="34">
+        </div>
+        <div type="chapter" n="34">
           <p>You need feel no scruple on the ground of interference with the traditional relations
             of colony and mothercity; for the Corinthians have already trespassed on these. And you
             will do well to be on your guard against their hostile purposes.</p>
@@ -4918,8 +4918,8 @@
           <p>
             <lemma lang="greek" targOrder="U">διατελοίη</lemma>: with adj. without <foreign lang="greek">ὤν</foreign>, as <bibl n="Thuc. 6.89.6">vi.89.6</bibl>. See on c. 32.
             9.</p>
-        </div2>
-        <div2 type="chapter" n="35">
+        </div>
+        <div type="chapter" n="35">
           <p>&sect; 1-4. <hi rend="italic">Your admitting us will be no violation of your
               obligations to the Lacedaemonians: we claim no more than is permitted by the
             treaty.</hi>
@@ -5040,8 +5040,8 @@
           <p>
             <lemma lang="greek" targOrder="U">τοῦτον φίλον ἔχειν</lemma>
             <foreign lang="greek"/>: cf. <bibl n="Thuc. 4.86.5">iv.86.5</bibl>. <foreign lang="greek">ἔχειν</foreign> expresses a fixed relation better than <foreign lang="greek">χρῆσθαι</foreign> would do.</p>
-        </div2>
-        <div2 type="chapter" n="36">
+        </div>
+        <div type="chapter" n="36">
           <p>&sect; 1-3. <hi rend="italic">Do not, therefore, allow any timidity to delay you;
               but, in view of the great advantages of our position, attach us to yourselves, and so
               gain the preponderance over the Peloponnesians, instead of letting us fall into the
@@ -5154,8 +5154,8 @@
             difference with <foreign lang="greek">πλείοσι</foreign>, <hi rend="italic">with a naval
               force augmented by our fleet.</hi>
           </p>
-        </div2>
-        <div2 type="chapter" n="37">
+        </div>
+        <div type="chapter" n="37">
           <head>Speech of the Corinthian ambassadors. Chaps. 37-43.</head>
           <p>The Corcyraeans have misrepresented their position as well as ours. They have hitherto
             maintained their isolation that they might have no check on their wrong-doing.</p>
@@ -5280,8 +5280,8 @@
             &sect; 2 ff., as <foreign lang="greek">δίκαια</foreign>, as is stated in c. 39; and
             probably the art. is used with <foreign lang="greek">δίκαια</foreign> to denote the
             behaviour which is actually required by justice.</p>
-        </div2>
-        <div2 type="chapter" n="38">
+        </div>
+        <div type="chapter" n="38">
           <p>They have behaved to us, their mother-city, in the most reckless way in many former
             instances, and recently in the case of Epidamnus.</p>
           <p>
@@ -5355,8 +5355,8 @@
             attained; in Thuc. only in <bibl n="Thuc. 6.39.10">vi.39.10</bibl>; 76. 11; frequent in
             the tragic poets, particularly Soph.; as <title>Aj.</title> 22; <title>O. T.</title>
             577, 699; <title>Antig.</title> 1058, 1068. GMT. 112, 2, N. 7; H. 981 a.</p>
-        </div2>
-        <div2 type="chapter" n="39">
+        </div>
+        <div type="chapter" n="39">
           <p>For it was not till after they had begun their wrong-doing that they professed to be
             ready to submit to arbitration; and they allege this to entangle you in their guilt.</p>
           <p>
@@ -5439,8 +5439,8 @@
             ἔχειν</foreign>, it here has the acc. obj. <foreign lang="greek">δύναμιν</foreign> in
             contrast with <foreign lang="greek">τὰ ἀποβαίνοντα</foreign> (cf. c. 83. 7; <bibl n="Thuc. 2.11.37">ii.11.37</bibl>; <bibl n="Thuc. 8.89.26">viii.89.26</bibl>); <hi rend="italic">and only if both parties had before shared their power, ought they now
               to have the results of their policy in common.</hi> See App.</p>
-        </div2>
-        <div2 type="chapter" n="40">
+        </div>
+        <div type="chapter" n="40">
           <p>By receiving them you will break your obligations under the treaty, since you will be
             plainly acting to the prejudice of us, to whom you are bound by it.</p>
           <p>
@@ -5525,8 +5525,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἐφ’ ὑμῖν</lemma>: in a hostile sense. Cf. c. 102.
             19; 124. 16.</p>
-        </div2>
-        <div2 type="chapter" n="41">
+        </div>
+        <div type="chapter" n="41">
           <p>On the contrary, we have a claim on your gratitude for services rendered you in former
             times.</p>
           <p>
@@ -5570,8 +5570,8 @@
             G.). </p>
           <p>
             <lemma lang="greek" targOrder="U">τῆς αὐτίκα</lemma>: on the order, cf. 11, <foreign lang="greek">τοὺς σφετέρους</foreign>, and see on c. 1. 6.</p>
-        </div2>
-        <div2 type="chapter" n="42">
+        </div>
+        <div type="chapter" n="42">
           <p>And you will thus at the same time best consult your own interests.</p>
           <p>
             <lemma lang="greek" targOrder="U">ὧν</lemma>: on the rel. in this position, see on c.
@@ -5633,8 +5633,8 @@
             art. in this phrase (cf. c. 37. 18; 76. 15; <bibl n="Thuc. 3.43.12">iii.43.12</bibl>;
               <bibl n="Thuc. 8.99.12">viii.99.12</bibl>), he proposes to read <foreign lang="greek">τι πλέον</foreign>, as in <bibl n="Thuc. 4.59.7">iv.59.7</bibl>; <bibl n="Thuc. 7.36.6">vii.36.6</bibl>; <bibl n="Thuc. 8.99.12">viii.99.12</bibl>. This v.
             H. adopts.</p>
-        </div2>
-        <div2 type="chapter" n="43">
+        </div>
+        <div type="chapter" n="43">
           <p>Do not then take up their cause, since it has no basis of justice.</p>
           <p>
             <lemma lang="greek" targOrder="U">περιπεπτωκότες</lemma>: chiefly used of unfortunate
@@ -5675,8 +5675,8 @@
           <p>
             <lemma lang="greek" targOrder="U">βουλεύσεσθε</lemma>: with acc. of a neut. pron. or
             adj. only. Cf. c. 85. 11; <bibl n="Thuc. 6.23.9">vi.23.9</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="44">
+        </div>
+        <div type="chapter" n="44">
           <p>The Athenians conclude a defensive alliance with the Corcyraeans.</p>
           <p>
             <lemma lang="greek" targOrder="U">τοιαῦτα δέ</lemma>: resumptive from c. 36. 22, as in
@@ -5746,8 +5746,8 @@
             <lemma lang="greek" targOrder="U">τῆς τε Ἰταλίας</lemma>
             <foreign lang="greek"> κτἑ.</foreign>: depending on <foreign lang="greek">ἐν
             παράπλῳ</foreign>. Cf. c. 36. 10.</p>
-        </div2>
-        <div2 type="chapter" n="45">
+        </div>
+        <div type="chapter" n="45">
           <p>And send them ten ships to protect them against attack on the part of the Corinthians.</p>
           <p>
             <lemma lang="greek" targOrder="U">οὐ πολὺ ὕστερον</lemma>: so c. 136. 11; and often
@@ -5785,8 +5785,8 @@
             οὖν</foreign> (c. 46. 17), and <foreign lang="greek">μέν</foreign> alone (c. 54. 19;
             58. 17) serving to sum up what precedes, while <foreign lang="greek">δέ</foreign>
             introduces the new statement.</p>
-        </div2>
-        <div2 type="chapter" n="46">
+        </div>
+        <div type="chapter" n="46">
           <p>
             <title>The Corinthians with a fleet of</title> 150 <hi rend="italic">ships anchor in the
               harbour of Chimerium on the Thesprotian coast.</hi>
@@ -5839,8 +5839,8 @@
             <lemma lang="greek" targOrder="U">τῆς ἠπείρου</lemma>
             <foreign lang="greek"/>: part. gen. with the local adv. <foreign lang="greek">ἐνταῦθα</foreign>, as with <foreign lang="greek">ἐς τοῦτο</foreign>, c. 49. 31;
               <bibl n="Thuc. 3.57.12">iii.57.12</bibl>. G. 168; H. 757.</p>
-        </div2>
-        <div2 type="chapter" n="47">
+        </div>
+        <div type="chapter" n="47">
           <p>
             <title>The Corcyraeans with</title> 110 <hi rend="italic">ships take their station at
               one of the Sybota islands, and the</hi> 10 <title>Attic ships with them.</title>
@@ -5880,8 +5880,8 @@
               Λευκίμμῃ. 9. ἀεί ποτε
             </foreign>: expresses forcibly the continual existence of a state of things. See on c.
             13. 16; <bibl n="Thuc. 2.102.10">ii.102.10</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="48">
+        </div>
+        <div type="chapter" n="48">
           <p>The putting to sea and arrangement of the two fleets.</p>
           <p>
             <lemma lang="greek" targOrder="U">τριῶν ἡμερῶν</lemma>: gen. of description, which in
@@ -5924,8 +5924,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ὡς ἕκαστοι</lemma>: singuli deinceps, there being
             no need of a precise statement of order. See on c. 3. 19; 67. 13.</p>
-        </div2>
-        <div2 type="chapter" n="49">
+        </div>
+        <div type="chapter" n="49">
           <p>
             <hi rend="italic">In the battle near Sybota the Corcyraeans conquer on their left wing;
               on their right and in the centre, where they are being beaten, the 10
@@ -6049,8 +6049,8 @@
             d; <foreign lang="greek">εἰς τοῦθ’ ὕβρεως</foreign>, Dem. IV. 37; XXII.
               16.&mdash;<lemma lang="greek" targOrder="U">ἐπιχειρῆσαι</lemma>: with dat. in
             proper sense; cf. <bibl n="Thuc. 3.94.23">iii.94.23</bibl>; <bibl n="Thuc. 6.48.12">vi.48.12</bibl>;=<foreign lang="greek">ἐς χεῖρας ἐλθεῖν</foreign>, c. 52. 13.</p>
-        </div2>
-        <div2 type="chapter" n="50">
+        </div>
+        <div type="chapter" n="50">
           <p>
             <hi rend="italic">The Corinthians improve their victory, but abstain from a second
               engagement, since</hi> 20 <hi rend="italic">additional Attic ships come up.</hi>
@@ -6153,8 +6153,8 @@
               <foreign lang="greek">ἐλάσσονες ἢ ἀμύνειν</foreign>. The latter expresses
             disbelief, the former, misgiving.&rdquo; Sh. Cf. <foreign lang="greek">ταπεινὴ
               ἐγκαρτερεῖν</foreign>, <bibl n="Thuc. 2.61.12">ii.61.12</bibl>; <foreign lang="greek">φύσεις χαλεπαὶ ἄρξαι</foreign>, <bibl n="Thuc. 7.14.6">vii.14.6</bibl>; <foreign lang="greek">βραχέα περιγίγνεσθαι</foreign>, <bibl n="Thuc. 5.111.8">v.111.8</bibl>. GMT. 93, 1; H. 952.</p>
-        </div2>
-        <div2 type="chapter" n="51">
+        </div>
+        <div type="chapter" n="51">
           <p>The Corcyraeans return to the harbour of Leucimme, into which the Attic ships also
             sail.</p>
           <p>
@@ -6219,8 +6219,8 @@
             <lemma lang="greek" targOrder="U">Ἀνδοκίδης</lemma>: this cannot be the orator, who
             was born about B.C. 440. It might possibly have been his grandfather of the same name.
             See App.</p>
-        </div2>
-        <div2 type="chapter" n="52">
+        </div>
+        <div type="chapter" n="52">
           <p>The Corinthians decide to withdraw without further fighting.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἀναγαγόμεναι</lemma>: see on c. 29. 18. </p>
@@ -6270,8 +6270,8 @@
             <foreign lang="greek"/>: <foreign lang="greek">τὰς τριακοντούτεις</foreign>, c. 23.
             19; 35. 1; 40. 11, 15. &mdash;<lemma lang="greek" targOrder="U">οὐκ ἐῶσι</lemma>:
             see on c. 28. 9.</p>
-        </div2>
-        <div2 type="chapter" n="53">
+        </div>
+        <div type="chapter" n="53">
           <p>The Athenians do not interfere with their departure.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἔδοξεν οὖν</lemma>: the result of <foreign lang="greek">διεσκόπουν</foreign>, c. 52. 11.&mdash;<lemma lang="greek" targOrder="U">ἐσβιβάσαντας</lemma>: acc. though following <foreign lang="greek">αὐτοῖς</foreign>. See on c. 31. 10.</p>
@@ -6321,8 +6321,8 @@
             <foreign lang="greek"/>: see on c. 45. 8.</p>
           <p>
             <lemma lang="greek" targOrder="U">κατὰ τὸ δυνατόν</lemma>: pro viribus. Cf. <bibl n="Thuc. 2.89.39">ii.89.39</bibl>; <bibl n="Thuc. 5.23.5">v.23.5</bibl>; <bibl n="Thuc. 7.36.23">vii.36.23</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="54">
+        </div>
+        <div type="chapter" n="54">
           <p>The Corinthians as well as the Corcyraeans erect a trophy.</p>
           <p>
             <lemma lang="greek" targOrder="U">παρεσκευάζοντο</lemma>: impf. of the time which
@@ -6383,8 +6383,8 @@
             <lemma lang="greek" targOrder="U">νικᾶν</lemma>: inf. of the impf. <foreign lang="greek">ἐνίκων</foreign>. See on c. 13. 32. For this use of <foreign lang="greek">νικᾶν</foreign>, <hi rend="italic">be victorious, cf.</hi>
             <bibl n="Thuc. 3.8.5">iii.8.5</bibl>; <bibl n="Thuc. 7.34.24">vii.34.24</bibl>. Kr.
               <title>Spr.</title> 53, 1, 3.</p>
-        </div2>
-        <div2 type="chapter" n="55">
+        </div>
+        <div type="chapter" n="55">
           <p>The Corinthians and the Athenians return home.</p>
           <p>
             <lemma lang="greek" targOrder="U">Ἀνακτόριον</lemma>: a little to the south of
@@ -6444,8 +6444,8 @@
               <foreign lang="greek">σπονδαί</foreign>.&rdquo; B. L. G.</p>
           <p>THE HOSTILITIES BETWEEN THE CORINTHIANS AND THE ATHENIANS ON ACCOUNT OF POTIDAEA.
             Chaps. 56-66.</p>
-        </div2>
-        <div2 type="chapter" n="56">
+        </div>
+        <div type="chapter" n="56">
           <p>The Athenians take measures to prevent the intended revolt of Potidaea, and to
             counteract the hostile designs of Perdiccas.</p>
           <p>
@@ -6490,8 +6490,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ξυναποστήσωσι</lemma>: refers to the intr. <foreign lang="greek">ἀποστῶσι</foreign>, but indicates not a common activity (as the
             compound in c. 37. 16; 39. 9), but a similar result.</p>
-        </div2>
-        <div2 type="chapter" n="57">
+        </div>
+        <div type="chapter" n="57">
           <p>
             <title>The Athenians send</title> 30 <hi rend="italic">triremes to secure their
               possessions in Thrace.</hi>
@@ -6573,8 +6573,8 @@
             <lemma lang="greek" targOrder="U">φυλακὴν ἔχειν</lemma>: cf. c. 143. 24; <bibl n="Thuc. 2.69.3">ii.69.3</bibl>; <bibl n="Thuc. 8.13.5">viii.13.5</bibl>; also
               <foreign lang="greek">ποιεῖσθαι</foreign>, <bibl n="Thuc. 2.94.21">ii.94.21</bibl>;
               <bibl n="Thuc. 7.17.18">vii.17.18</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="58">
+        </div>
+        <div type="chapter" n="58">
           <p>Potidaea, in concert with the Chalcidians and Bottiaeans, breaks off from Athenian
             control.</p>
           <p>
@@ -6627,8 +6627,8 @@
             <lemma lang="greek" targOrder="U">Μυγδονίας</lemma>
             <foreign lang="greek"/>: the eastern portion of Macedonia above Therma, separated by the
             Axius from Emathia. See <bibl n="Thuc. 2.99.14">ii.99.14</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="59">
+        </div>
+        <div type="chapter" n="59">
           <p>
             <title>The</title> 30 <title>Attic ships proceed first to the Macedonian coast.</title>
           </p>
@@ -6663,8 +6663,8 @@
             interior. Cf. <bibl n="Thuc. 2.99.16">ii.99.16</bibl>; 102. 14; <bibl n="Thuc. 3.115.3">iii.115.3</bibl>.&mdash;<lemma lang="greek" targOrder="U">ἐσβεβληκότων</lemma>:
             the pf. partic. implies that the invasion was independent of any previous concert with
             the Athenians.</p>
-        </div2>
-        <div2 type="chapter" n="60">
+        </div>
+        <div type="chapter" n="60">
           <p>
             <title>The Corinthians send Aristeus with</title> 2000 <hi rend="italic">men to the help
               of the Potidaeans.</hi>
@@ -6713,8 +6713,8 @@
               προτεραίᾳ ὅτε ταῦτ’ ἔλεγεν</foreign>), shows that the comparative particle
               <foreign lang="greek">ἤ</foreign> might in such carelessly condensed expressions be
             easily omitted, but hardly the rel. pron. In Antiphon, VI. 37, the Mss. have <foreign lang="greek">εὐθὺς τῇ ὑστεραίᾳ ᾗ ὁ παῖς ἐθάπτετο</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="61">
+        </div>
+        <div type="chapter" n="61">
           <p>
             <title>Thereupon the Athenians send</title> 40 <hi rend="italic">additional ships
             and</hi> 2000 <hi rend="italic">hoplites to Macedonia and Thrace.</hi>
@@ -6778,8 +6778,8 @@
           <p>
             <lemma lang="greek" targOrder="U">νῆες ἑβδομήκοντα</lemma>
             <foreign lang="greek"/>: 30 in c. 57. 16; 59. 1; to which 40 are added in c. 61. 4.</p>
-        </div2>
-        <div2 type="chapter" n="62">
+        </div>
+        <div type="chapter" n="62">
           <p>An engagement takes place between the two armies before Potidaea, not far from
             Olynthus.</p>
           <p>
@@ -6860,8 +6860,8 @@
             near Potidaea, which acc. to ii. 2, 7 must be placed in Sept., 432, was the one in which
             Socrates saved the life of the young Alcibiades. Cf. Plat. <title>Symp.</title> 220 d,
             e.</p>
-        </div2>
-        <div2 type="chapter" n="63">
+        </div>
+        <div type="chapter" n="63">
           <p>Aristeus forces his way through to Potidaea.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἡσσημένον</lemma>: see on c. 30. 5.</p>
@@ -6933,8 +6933,8 @@
             slain Athenians in the Ceramicus is still extant with the greater part of the
             inscription, and is now in the British Museum. See Kirchhoff, <title>C. I. A.</title>
             442; Hicks, <title>Inscr.</title> no. 42.</p>
-        </div2>
-        <div2 type="chapter" n="64">
+        </div>
+        <div type="chapter" n="64">
           <p>The Athenians shut in Potidaea on all sides.</p>
           <p>
             <lemma lang="greek" targOrder="U">τὸ δ’ ἐκ τοῦ ἰσθμοῦ</lemma>: the narrative is
@@ -6992,8 +6992,8 @@
             λαμβάνειν</foreign>. Cf. c. 118. 21; <bibl n="Thuc. 2.54.14">ii.54.14</bibl>; <bibl n="Thuc. 3.18.20">iii.18.20</bibl>; 103. 3; <bibl n="Thuc. 4.23.10">iv.23.10</bibl>;
             131. 4; <bibl n="Thuc. 5.116.10">v.116.10</bibl>; <bibl n="Thuc. 6.91.39">vi.91.39</bibl>; <bibl n="Thuc. 7.41.1">vii.41.1</bibl>; <bibl n="Thuc. 8.1.20">viii.1.20</bibl>; 64. 15; 70. 9. <pb n="163"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="65">
+        </div>
+        <div type="chapter" n="65">
           <p>Aristeus secretly leaves Potidaea, in order to procure aid from without.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἀποτειχισθείσης αὐτῆς καὶ ἔχων</lemma>: see on
@@ -7057,8 +7057,8 @@
             3,000 men, c. 61. 15, continued the siege of Potidaea. Its further course and result (in
             the winter of 430-429) are told in ii. 58 and 70. For the cost of this long siege, see
             iii. 17. &sect; 3.</p>
-        </div2>
-        <div2 type="chapter" n="66">
+        </div>
+        <div type="chapter" n="66">
           <p>Review of the quarrel on account of Potidaea.</p>
           <p>
             <lemma lang="greek" targOrder="U">αἰτίαι</lemma>: as the following exposition shows,
@@ -7086,8 +7086,8 @@
             <lemma lang="greek" targOrder="U">ἰδίᾳ</lemma>: <hi rend="italic">on their own
               account</hi>, without the instigation of others. Here <foreign lang="greek">ἔπραξαν</foreign> must be rendered as plpf.; cf. c. 128. 16, 17.</p>
           <p>NEGOTIATIONS AND RESOLUTIONS IN THE LACEDAEMONIAN POPULAR ASSEMBLY. Chaps. 67-87.</p>
-        </div2>
-        <div2 type="chapter" n="67">
+        </div>
+        <div type="chapter" n="67">
           <p>
             <hi rend="italic">The Corinthians, in concert with other allies, go to Sparta with
               complaints against the Athenians.</hi>
@@ -7170,8 +7170,8 @@
             <lemma lang="greek" targOrder="U">ἐπεῖπον</lemma>: i.e. they made the following speech
             in confirmation of what was urged by the other allies.</p>
           <p>SPEECH OF THE CORINTHIAN ENVOYS IN THE SPARTAN ASSEMBLY. Chaps. 68-71.</p>
-        </div2>
-        <div2 type="chapter" n="68">
+        </div>
+        <div type="chapter" n="68">
           <p>You have too long disregarded our warnings as to the hostile purposes of the Athenians.
             They can now be seen clearly manifested in their dealings with Corcyra and Potidaea.</p>
           <p>
@@ -7280,8 +7280,8 @@
             situated for profitable use of it (sc. <foreign lang="greek">τῷ χωρίῳ</foreign>) in
             relation to the Thracian coast.&rdquo;&mdash; 21. <lemma lang="greek" targOrder="U">τοῖς</lemma>: before <foreign lang="greek">Πελοποννησίοις</foreign>
             is from the Vat. Ms.</p>
-        </div2>
-        <div2 type="chapter" n="69">
+        </div>
+        <div type="chapter" n="69">
           <p>&sect; 1-6. <hi rend="italic">You have yourselves encouraged their encroachments by
               looking quietly on as they increased their power, and you will have to bear the
               consequences.</hi>
@@ -7447,8 +7447,8 @@
             not <foreign lang="greek">κατηγορία</foreign> but <foreign lang="greek">αἰτία</foreign>, for we regard you as <foreign lang="greek">φίλοι
             ἀμαρτάνοντες</foreign>, not as <foreign lang="greek">ἐχθροὶ
           ἀδικήσαντες</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="70">
+        </div>
+        <div type="chapter" n="70">
           <p>The Athenians, by their activity and decision, have great advantage over you with your
             sluggish and dilatory policy.</p>
           <p>
@@ -7647,8 +7647,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἐᾶν</lemma>: with this <foreign lang="greek">ἔχειν
               ἡσυχίαν</foreign> must be supplied, as must a corresponding partic. with <foreign lang="greek">ὁρᾶν</foreign>, c. 78. 10; 80. 2.</p>
-        </div2>
-        <div2 type="chapter" n="71">
+        </div>
+        <div type="chapter" n="71">
           <p>You have now an excellent opportunity for changing your policy. Nothing short of an
             invasion of Attica will help us and keep us in your alliance.</p>
           <p>
@@ -7783,8 +7783,8 @@
               6.&mdash;<lemma lang="greek" targOrder="U">μὴ ἐλάσσω</lemma>: expresses the
             result of <foreign lang="greek">ἐξηγεῖσθαι</foreign>, proleptic pred. K&uuml;hn.
             405, 3.</p>
-        </div2>
-        <div2 type="chapter" n="72">
+        </div>
+        <div type="chapter" n="72">
           <p>Ambassadors of the Athenians, who were accidentally at Sparta, seek to withhold the
             Lacedaemonians from an over-hasty decision.</p>
           <p>
@@ -7847,8 +7847,8 @@
             specifically of coming forward to speak.&mdash;<lemma lang="greek" targOrder="U">ἔλεγον</lemma>: on the tense, see GMT. &sect; 11, N. 5; H. 831. But
             &ldquo;the impf. has only to do with the vision of the narrator.&rdquo; B. L.
             G., Am. J. of Ph. IV. 160.</p>
-        </div2>
-        <div2 type="chapter" n="73">
+        </div>
+        <div type="chapter" n="73">
           <head>Speech of the Athenian envoys. Chaps. 73-78.</head>
           <p>That you may rightly judge of the complaints made against us, we must remind you of the
             services of Athens in the first and second Persian wars.</p>
@@ -7968,8 +7968,8 @@
             <lemma lang="greek" targOrder="U">τῷ πλέονι</lemma>: i.e. except what was left with
             Mardonius, Hdt. viii. 113. <pb n="182"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="74">
+        </div>
+        <div type="chapter" n="74">
           <p>We supplied the largest number of ships, the ablest commander, and the most
             disinterested zeal.</p>
           <p>
@@ -8092,8 +8092,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ᾗ ἐβούλετο</lemma>: assimilated to the mood of
             the unreal apodosis. G. 235, 2; H. 919; K&uuml;hn. 399, 6 a.</p>
-        </div2>
-        <div2 type="chapter" n="75">
+        </div>
+        <div type="chapter" n="75">
           <p>No one should regard us with disfarour on account of our hegemony. Circumstances
             compelled us to assume it, and strong measures are necessary to maintain it.</p>
           <p>
@@ -8179,8 +8179,8 @@
             the preceding word, as c. 72. 5; (3) when the clause is abs. or has only a loose
             connexion with its sentence, as here and c. 10. 25; 23. 12. Herbst, Philol. 16, p. 278.
             These dangers are sufficiently indicated by <foreign lang="greek">κινδυνεύειν</foreign>, 13, with its parenthetical exposition <foreign lang="greek">καὶ γὰρ ἂν κτἑ</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="76">
+        </div>
+        <div type="chapter" n="76">
           <p>You would find yourselves as unpopular as we are if you were in our position.</p>
           <p>
             <lemma lang="greek" targOrder="U">γοῦν</lemma>: adduces a proof for a particular case;
@@ -8274,8 +8274,8 @@
             <lemma lang="greek" targOrder="U">περιέστη</lemma>
             <foreign lang="greek"/>: <hi rend="italic">turned out at last.</hi> See on c. 32. 15;
             with dat. also, <bibl n="Thuc. 6.24.6">vi.24.6</bibl>; <bibl n="Thuc. 7.70.37">vii.70.37</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="77">
+        </div>
+        <div type="chapter" n="77">
           <p>The forbearance we have shown in our dealings with our allies has so spoiled them, that
             they break out into complaints if they are thwarted in any way.</p>
           <p>
@@ -8403,8 +8403,8 @@
             <foreign lang="greek"/>: dat. as with <foreign lang="greek">χρῆσθαι</foreign>. Cf.
               <bibl n="Thuc. 2.38.3">ii.38.3</bibl>; <bibl n="Thuc. 3.82.65">iii.82.65</bibl>; Hdt.
               <bibl n="Thuc. 2.50.14">ii.50.14</bibl>. K&uuml;hn. 425, 5.</p>
-        </div2>
-        <div2 type="chapter" n="78">
+        </div>
+        <div type="chapter" n="78">
           <p>Deliberate well, therefore, before you engage in war at the instigation of others. We
             are still ready for a friendly arrangement, but shall know how to repel any attack.</p>
           <p>
@@ -8477,8 +8477,8 @@
             <lemma lang="greek" targOrder="U">ἄρχοντας</lemma>: <foreign lang="greek">ὑμᾶς</foreign> seems here purposely avoided, to maintain as long as possible the
             attitude of generality. Only in <foreign lang="greek">ὑφηγῆσθε</foreign> the present
             case is referred to.</p>
-        </div2>
-        <div2 type="chapter" n="79">
+        </div>
+        <div type="chapter" n="79">
           <p>In the Lacedaemonian assembly the majority is inclined to war. Archidamus comes forward
             in opposition.</p>
           <p>
@@ -8507,8 +8507,8 @@
               <hi rend="italic">etc.</hi>&mdash;<lemma lang="greek" targOrder="U">Ἀρχίδαμος</lemma>; son of Zeuxidamus, succeeded his grandfather Leotychides in Ol.
             77. 4 (B.C. 469); led the early invasions into Attica; and died Ol. 88. 2 (B.C.
           427).</p>
-        </div2>
-        <div2 type="chapter" n="80">
+        </div>
+        <div type="chapter" n="80">
           <head>Speech of King Archidamus. Chaps. 80-85.</head>
           <p>Do not fancy that a war with the Athenians will be without danger; for in ships and
             money they are superior to you.</p>
@@ -8611,8 +8611,8 @@
           <p>
             <lemma lang="greek" targOrder="U">φέρομεν</lemma>: regularly used of taxes. Cf. c. 19.
             6; 83. 3.</p>
-        </div2>
-        <div2 type="chapter" n="81">
+        </div>
+        <div type="chapter" n="81">
           <p>And the means we have are not adapted for successful operations against them.</p>
           <p>
             <lemma lang="greek" targOrder="U">τάχ̓ ἄν τις</lemma>
@@ -8674,8 +8674,8 @@
             Rem. 1; <title>Adv.</title> I. p. 156-177.&mdash; 14. <lemma lang="greek" targOrder="U">φρονήματι</lemma>: in Thuc. always <hi rend="italic">selfconfidence,
               spirit.</hi> Cf. <bibl n="Thuc. 2.43.28">ii.43.28</bibl>; 61. 13; 62. 27; <bibl n="Thuc. 3.45.17">iii.45.17</bibl>; <bibl n="Thuc. 4.80.15">iv.80.15</bibl>; <bibl n="Thuc. 5.40.16">v.40.16</bibl>; 43. 7; <bibl n="Thuc. 6.18.22">vi.18.22</bibl>. In
             Hdt. only &lsquo;sentiment,&rsquo; &lsquo;disposition.&rsquo;</p>
-        </div2>
-        <div2 type="chapter" n="82">
+        </div>
+        <div type="chapter" n="82">
           <p>We should employ some years on our preparations, and then make war upon them, if they
             do not listen to our reasonable demands.</p>
           <p>
@@ -8799,8 +8799,8 @@
             <lemma lang="greek" targOrder="U">θέσθαι</lemma>: answers to <foreign lang="greek">ἐγκλήματα καταλῦσαι</foreign>, 24, <hi rend="italic">bring the war to an end with
               honour.</hi> Cf. c. 31. 15; <bibl n="Thuc. 8.84.19">viii.84.19</bibl>. See on c. 25.
             2.</p>
-        </div2>
-        <div2 type="chapter" n="83">
+        </div>
+        <div type="chapter" n="83">
           <p>But most of all should we take thought for ways and means.</p>
           <p>
             <lemma lang="greek" targOrder="U">ταχύ</lemma>: used as adv. ten times by Thuc., who
@@ -8854,8 +8854,8 @@
             <lemma lang="greek" targOrder="U">τι αὐτῶν</lemma>: sc. <foreign lang="greek">τῶν
               ἀποβαινόντων</foreign>: a litotes in which the <foreign lang="greek">τι</foreign>,
             apparently insignificant (see on c. 34. 8), implies something considerable.</p>
-        </div2>
-        <div2 type="chapter" n="84">
+        </div>
+        <div type="chapter" n="84">
           <p>The circumspection with which we are reproached has so far been useful to us; we should
             adhere to it still, and not underrate our opponents.</p>
           <p>
@@ -8985,8 +8985,8 @@
             <bibl n="Thuc. 2.64.9">ii.64.9</bibl>, <foreign lang="greek">φέρειν χρὴ τὰ δαιμόνια
               ἀναγκαίως</foreign>: i.e. with submission to the inevitable. Cf. c. 70, 71. See
           App.</p>
-        </div2>
-        <div2 type="chapter" n="85">
+        </div>
+        <div type="chapter" n="85">
           <p>Try, therefore, first to gain redress of grievances from the Athenians by peaceful
             means; but let us not neglect meanwhile to prepare for war.</p>
           <p>
@@ -9034,8 +9034,8 @@
             ἀνθρώποις</foreign>). Kr. and v. H. bracket the words. On the character and connexion
             of the speech of Archidamus, see App. <pb n="203"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="86">
+        </div>
+        <div type="chapter" n="86">
           <head>Speech of the ephor Sthenelaidas. Chap. 86.</head>
           <p>In view of the evident wrong of the Athenians, further discussion would be out of
             place, and war should immediately be decided on.</p>
@@ -9086,8 +9086,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἐπίωμεν πρός</lemma>: see on c. 83. 2. But Cobet
             reads <foreign lang="greek">ἐπί</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="87">
+        </div>
+        <div type="chapter" n="87">
           <p>The Lacedaemonian assembly votes against the Athenians. The decree of the allies is
             adjourned to a later meeting.</p>
           <p>
@@ -9188,8 +9188,8 @@
           <p>
             <lemma lang="greek" targOrder="U">αἳ ἐγένοντο</lemma>
             <foreign lang="greek"> κτἑ.</foreign>: see c. 23. 20; 115. &sect; 1.</p>
-        </div2>
-        <div2 type="chapter" n="88">
+        </div>
+        <div type="chapter" n="88">
           <p>The real reason of the war was the fear the Lacedaemonians felt of the growing power of
             the Athenians.</p>
           <p>
@@ -9214,8 +9214,8 @@
             BEGINNING OF THE PELOPONNESIAN WAR, B.C. 479-431. Chaps. 89118.</p>
           <p>This period is called by the Greek grammarians <foreign lang="greek">ἡ
             πεντηκονταετία</foreign> or <foreign lang="greek">ἡ πεντηκονταετηρίς</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="89">
+        </div>
+        <div type="chapter" n="89">
           <p>Capture of Sestos. The rebuilding of Athens begun.</p>
           <p>
             <lemma lang="greek" targOrder="U">οἱ γὰρ Ἀθηναῖοι</lemma>
@@ -9445,8 +9445,8 @@
             <lemma lang="greek" targOrder="U">θαυμάζειν ὡς</lemma>: Cobet and v. H. read <foreign lang="greek">πῶς</foreign>, as in <bibl n="Xen. Cyrop. 2.4.9">Xen. <title>Cyr.</title>
               ii.4.9</bibl>. Usually const. with <foreign lang="greek">εἰ</foreign> = <foreign lang="greek">ὅτι</foreign>. But with <foreign lang="greek">ὅπως</foreign> in Dem.
             XVIII. 159; &ldquo;Isocr. III. 3; Xen. <title>Apol.</title> 25. <foreign lang="greek">ὡς</foreign> is perhaps exclamatory.&rdquo; B. L. G.</p>
-        </div2>
-        <div2 type="chapter" n="91">
+        </div>
+        <div type="chapter" n="91">
           <p>
             <lemma lang="greek" targOrder="U">φιλίαν</lemma>: of favour in public relations. Cf. c.
             60. 7; 137. 31; <bibl n="Thuc. 2.100.13">ii.100.13</bibl>; <bibl n="Thuc. 3.95.7">iii.95.7</bibl>; <bibl n="Thuc. 5.95.2">v.95.2</bibl>. For the fact, see c. 74.
@@ -9559,8 +9559,8 @@
           <p>
             <lemma lang="greek" targOrder="U">τάδε</lemma>: &ldquo;what has now
             happened.&rdquo;</p>
-        </div2>
-        <div2 type="chapter" n="92">
+        </div>
+        <div type="chapter" n="92">
           <p>The Lacedaemonians are secretly displeased but make no open protest.</p>
           <p>
             <lemma lang="greek" targOrder="U">ὀργὴν...ἐποιοῦντο</lemma>
@@ -9591,8 +9591,8 @@
             <lemma lang="greek" targOrder="U">ἀνεπικλήτως</lemma>: since the appearance of a good
             understanding was maintained, they refrained from mutual recrimination. Cf. the use of
               <foreign lang="greek">ἐπικαλεῖν</foreign>, c. 139. 10; <bibl n="Thuc. 2.27.3">ii.27.3</bibl>; <bibl n="Thuc. 3.36.8">iii.36.8</bibl>; <bibl n="Thuc. 4.23.8">iv.23.8</bibl>; 133. 2; <bibl n="Thuc. 5.56.4">v.56.4</bibl>; 59. 25; 83. 15.</p>
-        </div2>
-        <div2 type="chapter" n="93">
+        </div>
+        <div type="chapter" n="93">
           <p>After the hasty completion of the city walls, at the instance of Themistocles the
             fortifications of the Piraeus also were built.</p>
           <p>
@@ -9733,8 +9733,8 @@
             houses, during which the following occurrences took place. This relation is expressed by
               <foreign lang="greek">Ἀθηναῖοι μὲν οὖν . . . Παυσανίας δὲ κτἑ.</foreign>
           </p>
-        </div2>
-        <div2 type="chapter" n="94">
+        </div>
+        <div type="chapter" n="94">
           <p>Pausanias carries on the war against the Persians.</p>
           <p>
             <lemma lang="greek" targOrder="U">Παυσανίας</lemma>: as guardian of his first cousin
@@ -9758,8 +9758,8 @@
             Pausanias still held the command; so in c. 128. 17 the capture of Byzantium is ascribed
             to him immediately after the Cyprian expedition. In <bibl n="Thuc. 7.15.11">vii.15.11</bibl>
             <foreign lang="greek">ἐν</foreign> temporal is used with the same noun. See App.</p>
-        </div2>
-        <div2 type="chapter" n="95">
+        </div>
+        <div type="chapter" n="95">
           <p>The Lacedaemonians recall Pausanias, and soon cease to take part in the war against the
             Persians.</p>
           <p>
@@ -9833,8 +9833,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἐπιτηδείους</lemma>
             <foreign lang="greek"/>:= <foreign lang="greek">προσφιλεῖς</foreign>, c. 92. 4.</p>
-        </div2>
-        <div2 type="chapter" n="96">
+        </div>
+        <div type="chapter" n="96">
           <p>The Athenians accept the hegemony, and arrange the contributions of their allies in
             money and ships.</p>
           <p>
@@ -9884,8 +9884,8 @@
               ἐγίγνοντο</lemma>:=<foreign lang="greek">τὰς ξυνόδους
               ἐποιοῦντο</foreign>=<foreign lang="greek">ξυνῄεσαν</foreign> (see on c. 73. 1),
             and so the const. <foreign lang="greek">ἐς τὸ ἱερον</foreign>, as in <bibl n="Thuc. 3.104.15">iii.104.15</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="97">
+        </div>
+        <div type="chapter" n="97">
           <p>Reasons why the following brief narrative of exents between the Persian and
             Peloponnesian wars is inserted.</p>
           <p>
@@ -9959,8 +9959,8 @@
             c. 140. 27; <bibl n="Thuc. 2.61.9">ii.61.9</bibl>; 87. 3; <bibl n="Thuc. 3.53.12">iii.53.12</bibl>; <bibl n="Thuc. 4.95.3">iv.95.3</bibl>; 126. 17, 23. For <foreign lang="greek">ἀπόδειξιν</foreign>, cf. Hdt. i. 11.&mdash; <lemma lang="greek" targOrder="U">τῆς ἀρχῆς...ἐν οἵῳ τρόπῳ κατέστη</lemma>
             <foreign lang="greek"/>: see on c. 23. 27. For <foreign lang="greek">ἐν</foreign>, cf.
             c. 77. 2; 130. 5; <bibl n="Thuc. 7.67.15">vii.67.15</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="98">
+        </div>
+        <div type="chapter" n="98">
           <p>Expeditions of the Athenians against E&iuml;on, Scyros, Carystus, and Naxos, which
             was the first of the allies to lose its independence.</p>
           <p>On the chronology of this period, see App.</p>
@@ -10002,8 +10002,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ὡς ἑκάστῃ ξυνέβη</lemma>: indicates the varying
             circumstances under which the same fate befell different places.</p>
-        </div2>
-        <div2 type="chapter" n="99">
+        </div>
+        <div type="chapter" n="99">
           <p>In consequence of these encroachments, the hegemony of the Athenians became more and
             more disliked.</p>
           <p>
@@ -10081,8 +10081,8 @@
               <lemma lang="greek" targOrder="U">ξυμφέροιεν</lemma>: iterative opt., of what
             occurred every year. Cf. c. 50. 2. GMT. 62; H. 914 B. <pb n="224"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="100">
+        </div>
+        <div type="chapter" n="100">
           <p>Battle on the Eurymedon; conflicts with the Thasians; serious defeat of the Athenians
             in Thrace.</p>
           <p>
@@ -10149,8 +10149,8 @@
             VIII. 65; <title>Pyth.</title> XI. 22; Aesch. <title>Pers.</title> 727; Thuc. <bibl n="Thuc. 1.6.5">i.6.5</bibl>; 23. 24; <bibl n="Thuc. 2.49.16">ii.49.16</bibl>; <bibl n="Thuc. 6.3.11">vi.3.11</bibl>; Dem. XVIII. 32, 57; <bibl n="Lys. 3.13">Lys. III
             13</bibl>. The addition, <foreign lang="greek">αἱ Ἐννέα ὁδοί</foreign>, already
             twice named, is rightly rejected as a gloss by Cobet.</p>
-        </div2>
-        <div2 type="chapter" n="101">
+        </div>
+        <div type="chapter" n="101">
           <p>The Thasians reduced by the Athenians; the Lacedaemonians prevented from helping them
             by the revolt of the Messenians.</p>
           <p>
@@ -10203,8 +10203,8 @@
           <p>
             <lemma lang="greek" targOrder="U">τήν τε ἤπειρον</lemma>
             <foreign lang="greek"> κτἑ.</foreign>: see c. 100. &sect; 2.</p>
-        </div2>
-        <div2 type="chapter" n="102">
+        </div>
+        <div type="chapter" n="102">
           <p>The Athenians are summoned by the Lacedaemonians to their aid, but are soon mistrusted
             and dismissed. In displeasure they make an alliance with the Argives and Thessalians.</p>
           <p>
@@ -10290,8 +10290,8 @@
             noun. Cf. <bibl n="Thuc. 5.22.14">v.22.14</bibl>. A further consequence of the
             displeasure of the Athenians was the banishment of Cimon (Plut. <title>Cim.</title> 17.
             5) and the increased influence of Pericles and Ephialtes.</p>
-        </div2>
-        <div2 type="chapter" n="103">
+        </div>
+        <div type="chapter" n="103">
           <p>The Messenians allowed to depart from Ithome, and placed by the Athenians in Naupactus.
             Megara joins the Athenians to the indignation of the Corinthians.</p>
           <p>
@@ -10347,8 +10347,8 @@
               2.&mdash;<lemma lang="greek" targOrder="U">ἤρξατο πρῶτον</lemma>: so often
             joined to emphasize the moment of beginning. Cf. <bibl n="Thuc. 2.36.1">ii.36.1</bibl>;
             47. 8; 68. 5; <bibl n="Thuc. 3.86.7">iii.86.7</bibl>; <bibl n="Thuc. 6.46.6">vi.46.6</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="104">
+        </div>
+        <div type="chapter" n="104">
           <p>
             <title>The Athenians support the revolt of the Egyptians against the Persians
             with</title> 200 <hi rend="italic">ships.</hi>
@@ -10384,8 +10384,8 @@
             <foreign lang="greek"/>: i.e. of three. See on c. 74. 6.</p>
           <p>
             <lemma lang="greek" targOrder="U">οἱ μὴ ξυναποστάντες</lemma>: i.e. <foreign lang="greek">εἴ τινες μὴ ξυναπέστησαν</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="105">
+        </div>
+        <div type="chapter" n="105">
           <p>. <title>Battles of the Athenians with the Corinthians and the Aeginetans.</title>
           </p>
           <p>
@@ -10468,8 +10468,8 @@
           <p>
             <lemma lang="greek" targOrder="U">τοῖς ἄλλοις</lemma>: i.e. those who meanwhile had
             come to aid their friends.</p>
-        </div2>
-        <div2 type="chapter" n="106">
+        </div>
+        <div type="chapter" n="106">
           <p>The Athenians cut off a detachment of the Corinthians.</p>
           <p>
             <lemma lang="greek" targOrder="U">νικώμενοι</lemma>: partic. pres. corresponding to
@@ -10526,8 +10526,8 @@
             affair, nor the <title>Inscr.</title> the action off Cecryphaleia. B&ouml;ckh
             assumes for these events the civil year, Ol. 80. 3, B.C. 458-7; Kr. <title>Stud.</title>
             I. p. 162, B.C. 460, from spring to autumn; Ol. 79. 4-80. 1.</p>
-        </div2>
-        <div2 type="chapter" n="107">
+        </div>
+        <div type="chapter" n="107">
           <p>The long walls at Athens begun; the Lacedaemonians, who had gone to support the
             Dorians, hindered on their return by the Athenians.</p>
           <p>
@@ -10611,8 +10611,8 @@
             7; <bibl n="Thuc. 4.61.15">iv.61.15</bibl>; <bibl n="Thuc. 5.6.6">v.6.6</bibl>; <hi rend="italic">etc.</hi>&mdash;<lemma lang="greek" targOrder="U">οἳ
             μετέστησαν</lemma>: rel. clause with adversative force; <hi rend="italic">but these
               passed over.</hi> See on c. 35. 15.</p>
-        </div2>
-        <div2 type="chapter" n="108">
+        </div>
+        <div type="chapter" n="108">
           <p>The Athenians are defeated by the Lacedaemonians at Tanagra; as two months later the
             Boeotians are by the Athenians at Oenophyta.</p>
           <p>
@@ -10676,8 +10676,8 @@
             rarely, when the connexion clearly implies this (<bibl n="Thuc. 2.39.18">ii.39.18</bibl>; <bibl n="Thuc. 3.99.3">iii.99.3</bibl>); otherwise always with the
             gen.; for in <bibl n="Thuc. 8.25.23">viii.25.23</bibl>, <foreign lang="greek">ἐν τῇ
               μάχῃ</foreign> belongs to <foreign lang="greek">ξυνέβη</foreign>; and in <bibl n="Thuc. 8.62.7">viii.62.7</bibl> the gen. is to be regarded rather as abs.</p>
-        </div2>
-        <div2 type="chapter" n="109">
+        </div>
+        <div type="chapter" n="109">
           <p>Final defeat of the Athenians in Egypt.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἐπέμενον, καὶ...κατέστησαν</lemma>
@@ -10734,8 +10734,8 @@
             <lemma lang="greek" targOrder="U">καί</lemma>: introduces the result of what precedes;
               <hi rend="italic">and so.</hi> Cf. c. 99. 12. <pb n="238"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="110">
+        </div>
+        <div type="chapter" n="110">
           <p>An auxiliary force sent later by the Athenians is almost annihilated, and Egypt comes
             again under the dominion of the Persian King.</p>
           <p>
@@ -10783,8 +10783,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ἐς Αἴγυπτον</lemma>: belongs to <foreign lang="greek">στρατείαν</foreign>, though placed after the subst. without repetition
             of the art. Cf. c. 11. 19; 18. 12.&mdash;<lemma lang="greek" targOrder="U">ἐτελεύτησεν</lemma>: of a series of events; cf. c. 138. 33; <bibl n="Thuc. 3.68.32">iii.68.32</bibl>; <bibl n="Thuc. 5.26.21">v.26.21</bibl>; <bibl n="Thuc. 8.2.21">viii.2.21</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="111">
+        </div>
+        <div type="chapter" n="111">
           <p>Fruitless expedition of the Athenians into Thessaly to restore Orestes; attempts on the
             coast of Peloponnesus and Acarnania.</p>
           <p>
@@ -10833,8 +10833,8 @@
             <lemma lang="greek" targOrder="U">τῆς Ἀκαρνανίας</lemma>: dependent on <foreign lang="greek">Οἰνιάδας</foreign>, as in 4. Oeniadae, at the mouth of the Achelous,
             used as name of the town (<bibl n="Thuc. 2.102.15">ii.102.15</bibl>; <bibl n="Thuc. 3.7.10">iii.7.10</bibl>; 114. 12) and of the inhabitants (<bibl n="Thuc. 4.77.9">iv.77.9</bibl>). On this expedition of Pericles, see Plut.
               <title>Per.</title> 19. 2-4, who gives him 100 triremes.</p>
-        </div2>
-        <div2 type="chapter" n="112">
+        </div>
+        <div type="chapter" n="112">
           <p>Truce between Athens and Sparta; successful battles in Cyprus and on the coast; hostile
             action of Athens and Sparta about Delphi.</p>
           <p>
@@ -10897,8 +10897,8 @@
             afterwards (acc. to Philochorus, Schol. on Ar. <title>Av.</title> 556, <foreign lang="greek">ὕστερον τρίτῳ ἔτει τοῦ προτέρου πολέμου</foreign>) the Athenians
             reinstated the Phocians, being, acc. to Plut. <title>Per.</title> 21. 2, under the
             command <pb n="242"/> of Pericles. See Grote, XI. c. 87, p. 49.</p>
-        </div2>
-        <div2 type="chapter" n="113">
+        </div>
+        <div type="chapter" n="113">
           <p>In the battle of Coronea the Bocotians and Locrians of the antidemocratic party defeat
             the Athenians, who lose their supremacy in Boeotia.</p>
           <p>
@@ -10967,8 +10967,8 @@
             <foreign lang="greek"/>: i.e. who had come under Athenian control (c. 108. &sect;
             3), the rest of the Boeotians, the Opuntian Locrians, and the Phocians (so Arn., Grote,
             V. c. 45, p. 203, and B.); and it is chiefly in view of these that the pred. <foreign lang="greek">αὐτόνομοι πάλιν ἐγένοντο</foreign> is chosen. For <foreign lang="greek">οἱ φεύγοντες Βοιωτῶν</foreign> a more general one, as <foreign lang="greek">πάλιν ἐπολίτευον</foreign>, would be more appropriate.</p>
-        </div2>
-        <div2 type="chapter" n="114">
+        </div>
+        <div type="chapter" n="114">
           <p>Euboea and Megara fall away from Athens, and the Lacedaemonians at the same time invade
             Attica. Pericles makes vigorous resistance at all points.</p>
           <p>
@@ -11028,8 +11028,8 @@
             crew of an Attic ship. Plut. also represents that Pericles dispossessed the <foreign lang="greek">ἱπποβόται</foreign> of Chalcis, who had been driven out long before;
             Hdt. <bibl n="Thuc. 5.77.11">v.77.11</bibl>. See Am. J. Ph. III. p. 456 ff.;
             M&uuml;llerStr&uuml;bing, <title>Arist.</title> p. 86.</p>
-        </div2>
-        <div2 type="chapter" n="115">
+        </div>
+        <div type="chapter" n="115">
           <p>
             <hi rend="italic">Conclusion of the thirty years'</hi>
             <pb n="245"/>
@@ -11121,8 +11121,8 @@
               παρῆν αὐτοῖς φύλαξ τοῦ χωρίου</foreign>) were established among the dependent
             allies. B&ouml;ckh, <title>Pub. Econ.</title> p. 525. Stahl, <title>De sociorum
               Atheniensium iudiciis</title>, p. 4.</p>
-        </div2>
-        <div2 type="chapter" n="116">
+        </div>
+        <div type="chapter" n="116">
           <p>Pericles defeats the fleet of the Samians, and besieges their city.</p>
           <p>
             <lemma lang="greek" targOrder="U">ὡς ᾔσθοντο</lemma>: see on c. 95. 21.</p>
@@ -11183,8 +11183,8 @@
             <lemma lang="greek" targOrder="U">Στησαγόρας</lemma>: not else<pb n="248"/> where
               named.&mdash;<lemma lang="greek" targOrder="U">ἐπὶ τὰς Φοινίσσας</lemma>: <hi rend="italic">to bring up, fetch, the Phoenician ships.</hi>
           </p>
-        </div2>
-        <div2 type="chapter" n="117">
+        </div>
+        <div type="chapter" n="117">
           <p>After a short suspension of the rigour of the blockade, Pericles brings the siege of
             Samos to an end.</p>
           <p>
@@ -11246,8 +11246,8 @@
             <lemma lang="greek" targOrder="U">ὥσπερ καὶ πρότερον</lemma>: see on c. 74.
               25.&mdash;<lemma lang="greek" targOrder="U">εἶναι</lemma>: after <foreign lang="greek">ξυμβαίνειν</foreign> without <foreign lang="greek">ὥστε</foreign>. Cf.
               <bibl n="Thuc. 2.4.31">ii.4.31</bibl>; <bibl n="Thuc. 4.54.10">iv.54.10</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="118">
+        </div>
+        <div type="chapter" n="118">
           <p>Connexion with the earlier narrative. The Lacedaemonians consult the Delphian oracle.</p>
           <p>
             <lemma lang="greek" targOrder="U">οὐ πολλοῖς ἔτεσιν</lemma>: only three years; for
@@ -11339,8 +11339,8 @@
           <p>LAST DEBATES AND NEGOTIATIONS AT SPARTA AND ATHENS BEFORE THE OUTBREAK OF THE WAR,
             Chaps. 119-146; WITH THE EPISODES OF THE END OF PAUSANIAS AND OF THEMISTOCLES, Chaps.
             128-138.</p>
-        </div2>
-        <div2 type="chapter" n="119">
+        </div>
+        <div type="chapter" n="119">
           <p>Deliberation of the Peloponnesian allies at Sparta on the question of war.</p>
           <p>
             <lemma lang="greek" targOrder="U">αὖθις...παρακαλέσαντες</lemma>
@@ -11372,8 +11372,8 @@
             to the assembly to further their object. <foreign lang="greek">παρόντες</foreign> =
               <foreign lang="greek">παραγενόμενοι</foreign>. Cf. <bibl n="Thuc. 3.3.19">iii.3.19</bibl>; 69. 11; <bibl n="Thuc. 4.107.13">iv.107.13</bibl>; 124. 26; <bibl n="Thuc. 7.1.11">vii.1.11</bibl>; <bibl n="Thuc. 8.17.14">viii.17.14</bibl>. Ullrich,
               <title>Kr. Beitr.</title> III. 5 ff., proposes <foreign lang="greek">παριόντες</foreign>, but the sense would rather require <foreign lang="greek">παρελθόντες</foreign>; cf. c. 67. 16; 139. 23. In <bibl n="Thuc. 6.15.1">vi.15.1</bibl>; <bibl n="Thuc. 8.68.7">viii.68.7</bibl>, <foreign lang="greek">παριών</foreign> stands in definite relation to an impf. &mdash;<lemma lang="greek" targOrder="U">τελευταῖοι</lemma>: so also c. 67. 16.&mdash; <lemma lang="greek" targOrder="U">ἐπελθόντες</lemma>: see on c. 72. 15.</p>
-        </div2>
-        <div2 type="chapter" n="120">
+        </div>
+        <div type="chapter" n="120">
           <head>Speech of the Corinthian envoys. Chaps. 120-124.</head>
           <p>After the example of the Lacedaemonians, we ought all to declare for war without
             further hesitation, free equally from cowardly desire of repose and from excessive
@@ -11543,8 +11543,8 @@
             <lemma lang="greek" targOrder="U">δοξάζομεν</lemma>: takes the place of <foreign lang="greek">ἐνθυμεῖσθαι</foreign> in an unfavourable sense, <hi rend="italic">we
               form fallacious notions</hi>, just as <foreign lang="greek">ἐν τῷ ἔργῳ
               ἐλλείπομεν</foreign> repeats what precedes with greater distinctness.</p>
-        </div2>
-        <div2 type="chapter" n="121">
+        </div>
+        <div type="chapter" n="121">
           <p>We have excellent reasons in our numbers and warlike experience to hope for success;
             and we shall be able to meet the Athenians at sea, if we resolutely use the pecuniary
             means at our disposal.</p>
@@ -11679,8 +11679,8 @@
             reverse order.&mdash; 23. <lemma lang="greek" targOrder="U">αὐτά</lemma>: and
               <foreign lang="greek">αὐτοῖς τούτοις</foreign> refer to <foreign lang="greek">χρήματα</foreign>; &ldquo;that our property may not be used to our own
             ruin.&rdquo;</p>
-        </div2>
-        <div2 type="chapter" n="122">
+        </div>
+        <div type="chapter" n="122">
           <p>The war itself may suggest other methods of assailing them. Anyhow, shame should
             prevent us from ever yielding to them.</p>
           <p>
@@ -11810,8 +11810,8 @@
           <p>
             <lemma lang="greek" targOrder="U">μετωνόμασται</lemma>: <hi rend="italic">has had its
               name changed, i.e.</hi> by those who judge rightly of the matter.</p>
-        </div2>
-        <div2 type="chapter" n="123">
+        </div>
+        <div type="chapter" n="123">
           <p>Our confidence is naturally increased by the favourable answer of the oracle.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἐς ὅσον</lemma>:=<foreign lang="greek">ἐς
@@ -11871,8 +11871,8 @@
             will vindicate its insulted majesty.&rdquo; This clause is introduced
             parenthetically by way of encouragement, the following <foreign lang="greek">λύουσι
               γὰρ κτἑ.</foreign> giving the reason of what precedes.</p>
-        </div2>
-        <div2 type="chapter" n="124">
+        </div>
+        <div type="chapter" n="124">
           <p>Everything, therefore, forces us to the resolution to break down the dangerous power of
             Athens in Greece, by courageously entering on the war.</p>
           <p>
@@ -11952,8 +11952,8 @@
             <lemma lang="greek" targOrder="U">παραστησώμεθα</lemma>: see on c. 29.
               22.&mdash;<lemma lang="greek" targOrder="U">τε</lemma>: after <foreign lang="greek">αὐτοί</foreign>, though only in inferior Mss., is necessary, since the
             two subjvs. <foreign lang="greek">οἰκῶμεν</foreign> and <foreign lang="greek">ἐλευθερώσωμεν</foreign> are closely connected as the result of <foreign lang="greek">παραστησώμεθα</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="125">
+        </div>
+        <div type="chapter" n="125">
           <p>War is decided on, and the preparations are begun.</p>
           <p>
             <lemma lang="greek" targOrder="U">τοιαῦτα...εἶπον</lemma>
@@ -12000,8 +12000,8 @@
             <foreign lang="greek"/>: in distinction from the partial breach of the truce by the
             Thebans in the attack on Plataea, which took place 80 days before (ii. 19. &sect;
             1). See V&ouml;mel, Frankf. Herbstpr. 1845, p. 8.</p>
-        </div2>
-        <div2 type="chapter" n="126">
+        </div>
+        <div type="chapter" n="126">
           <p>Meanwhile the Spartans demand the banishment of the descendants of those who had
             incurred pollution in the matter of Cylon's attempted usurpation. Narration of this
             event.</p>
@@ -12182,8 +12182,8 @@
             <foreign lang="greek"/>: see on c. 113. 14.&mdash;<lemma lang="greek" targOrder="U">ὕστερον</lemma>: probably in the same year, B.C. 508, in consequence of the
             adherence of the <foreign lang="greek">βουλή</foreign> to the constitution. Hdt. v. 72;
             Grote, IV. chap. 31, p. 92.</p>
-        </div2>
-        <div2 type="chapter" n="127">
+        </div>
+        <div type="chapter" n="127">
           <p>This demand was specially directed against Pericles.</p>
           <p>
             <lemma lang="greek" targOrder="U">δή</lemma>: so <foreign lang="greek">οὖν</foreign>
@@ -12245,8 +12245,8 @@
           <p>
             <lemma lang="greek" targOrder="U">οὐκ εἴα</lemma>: cf. c. 28. 9; 52. 13; 133. 13;
               <bibl n="Thuc. 6.72.7">vi.72.7</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="128">
+        </div>
+        <div type="chapter" n="128">
           <p>
             <hi rend="italic">Counter-demands of the Athenians. The plans and last fortunes of
               Pausanias.</hi> Chaps. 128-134.</p>
@@ -12343,8 +12343,8 @@
                 <title>Aj.</title> 584</bibl>); with dat., c. 38. 8; <bibl n="Thuc. 4.113.3">iv.113.3</bibl>; 121. 3; <bibl n="Thuc. 5.37.13">v.37.13</bibl>; <bibl n="Thuc. 6.24.16">vi.24.16</bibl>; <bibl n="Thuc. 7.49.18">vii.49.18</bibl>; <bibl n="Thuc. 8.43.11">viii.43.11</bibl>; 48. 20.&mdash; 32. <lemma lang="greek" targOrder="U">ἐπὶ θάλασσαν</lemma>: an oriental designation of the coast of Asia
             Minor inhabited by the Greeks. <pb n="271"/>
           </p>
-        </div2>
-        <div2 type="chapter" n="129">
+        </div>
+        <div type="chapter" n="129">
           <p>
             <lemma lang="greek" targOrder="U">Ἀρτάβαζον</lemma>: the well-known general of
             Xerxes. Cf. Hdt. vii. 66; viii. 126 ff.</p>
@@ -12405,8 +12405,8 @@
             <lemma lang="greek" targOrder="U">ἔπεμψα</lemma>: the past from the point of view of
             the reader. Cf. c. 23. 21. GMT. 17, 2, N. 5; H. 838; Kr. <title>Spr.</title> 53, 10,
           1.</p>
-        </div2>
-        <div2 type="chapter" n="130">
+        </div>
+        <div type="chapter" n="130">
           <p>
             <lemma lang="greek" targOrder="U">τὰ γράμματα</lemma>:=<foreign lang="greek">τὴν
               ἐπιστολήν</foreign>, which is used with it in <bibl n="Thuc. 7.8.12">vii.8.12</bibl>, 15. Cf. also c. 133. 1; 137. 20.</p>
@@ -12471,8 +12471,8 @@
             <lemma lang="greek" targOrder="U">ἡ ξυμμαχία μετέστη</lemma>
             <foreign lang="greek"/>: see c. 95. &sect; 4, <foreign lang="greek">τοὺς ξυμμάχους
               μετατάξασθαι</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="131">
+        </div>
+        <div type="chapter" n="131">
           <p>
             <lemma lang="greek" targOrder="U">αἰσθόμενοι</lemma>: see on c. 95.
               21.&mdash;<lemma lang="greek" targOrder="U">τό τε πρῶτον</lemma>: <hi rend="italic">not only the first time</hi>; c. 95. 9.</p>
@@ -12539,8 +12539,8 @@
             sing. Cf. c. 26. 3, 20; <bibl n="Thuc. 2.34.10">ii.34.10</bibl>; <bibl n="Thuc. 3.66.2">iii.66.2</bibl>; <bibl n="Thuc. 4.26.15">iv.26.15</bibl>. </p>
           <p>
             <lemma lang="greek" targOrder="U">περὶ αὐτόν</lemma>: as in c. 135. 6, <foreign lang="greek">τῶν περὶ Παυσανίαν ἐλέγχων</foreign>.</p>
-        </div2>
-        <div2 type="chapter" n="132">
+        </div>
+        <div type="chapter" n="132">
           <p>
             <lemma lang="greek" targOrder="U">ὅτῳ ἂν</lemma>
             <foreign lang="greek"> κτἑ.</foreign>: <foreign lang="greek">ἄν</foreign> belongs to
@@ -12697,8 +12697,8 @@
               <foreign lang="greek">αὑτόν</foreign>, for <foreign lang="greek">κτείνειν</foreign>= interficiendum. Cf. <foreign lang="greek">παρέχω ἐμαυτὸν
               ἐρωτᾶν</foreign>, praebeo me interrogandum. K&uuml;hn. 473, 7; Kr.
             <title>Spr.</title> 55, 3, 14, 20.</p>
-        </div2>
-        <div2 type="chapter" n="133">
+        </div>
+        <div type="chapter" n="133">
           <p>
             <lemma lang="greek" targOrder="U">τότε δή</lemma>: so with Vat. better than <foreign lang="greek">δέ</foreign>, pointing back to c. 132. 28, <foreign lang="greek">πρίν
               γε δὴ . . . γίγνεται.</foreign>
@@ -12768,8 +12768,8 @@
             strange <foreign lang="greek">ἱκετεία. 15. τὰ πρασσόμενα
             </foreign>: i.e. <foreign lang="greek">πρὸς βασιλέα</foreign> (c. 131. 6), not
               <foreign lang="greek">ἐς τοὺς Εἵλωτας</foreign> (c. 132. 21).</p>
-        </div2>
-        <div2 type="chapter" n="134">
+        </div>
+        <div type="chapter" n="134">
           <p>
             <lemma lang="greek" targOrder="U">βεβαίως</lemma>: i.e. with sure grounds of proof,
             which were wanting in c. 132. 1.</p>
@@ -12866,8 +12866,8 @@
               to be made.</hi> See on c. 130. 8.&mdash;<lemma lang="greek" targOrder="U">ἀνδριάντας δύο</lemma>: i.e. <foreign lang="greek">δύο εἰκόνας
             Παυσανίου</foreign>, as Pausanias, <bibl n="Thuc. 3.17.7">iii.17.7</bibl>, saw them by
             the altar of Athena Chalcioecus.</p>
-        </div2>
-        <div2 type="chapter" n="135">
+        </div>
+        <div type="chapter" n="135">
           <p>
             <title>The last fortunes of Themistocles.</title> Chaps. 135-138.</p>
           <p>
@@ -12895,8 +12895,8 @@
             <foreign lang="greek">νος</foreign>, <hi rend="italic">living, abiding.</hi> Cf. <bibl n="Thuc. 2.14.7">ii.14.7</bibl>; 52. 5.</p>
           <p>
             <lemma lang="greek" targOrder="U">εἴρητο</lemma>: cf. c. 129. 10; <bibl n="Thuc. 3.52.6">iii.52.6</bibl>; <bibl n="Thuc. 5.58.20">v.58.20</bibl>; <bibl n="Thuc. 6.30.4">vi.30.4</bibl>.&mdash;<lemma lang="greek" targOrder="U">ἄγειν</lemma>:= <foreign lang="greek">λαβόντας ἄγειν</foreign>, to which <foreign lang="greek">ὅπου κτἑ.</foreign> is naturally joined. Cf. <bibl n="Thuc. 4.39.12">iv.39.12</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="136">
+        </div>
+        <div type="chapter" n="136">
           <p>
             <lemma lang="greek" targOrder="U">αὐτῶν</lemma>: sc. <foreign lang="greek">τῶν
               Κερκυραίων</foreign>. Cf. c. 24. 9; 34. 5.&mdash;<lemma lang="greek" targOrder="U">εὐεργέτης</lemma>: either because he took their part in a strife with
@@ -12966,8 +12966,8 @@
           <p>
             <lemma lang="greek" targOrder="U">εἰπών</lemma>: inserted as <foreign lang="greek">δείξας</foreign>, c. 87. 8.&mdash;<lemma lang="greek" targOrder="U">ἐφ’
             ᾧ</lemma>: see on c. 134. 5.&mdash; <lemma lang="greek" targOrder="U">ἄν</lemma>: repeated after the parenthesis. Cf. c. 36. 15; 76. 19.</p>
-        </div2>
-        <div2 type="chapter" n="137">
+        </div>
+        <div type="chapter" n="137">
           <p>
             <lemma lang="greek" targOrder="U">ἀνίστησι</lemma>: see on c. 126. 33. </p>
           <p>
@@ -13087,8 +13087,8 @@
           <p>
             <lemma lang="greek" targOrder="U">τὴν σὴν φιλίαν</lemma>: objective, <hi rend="italic">on account of my friendship to you.</hi> Cf. c. 33. 19, 21; 69. 30; 77.
             21.</p>
-        </div2>
-        <div2 type="chapter" n="138">
+        </div>
+        <div type="chapter" n="138">
           <p>
             <lemma lang="greek" targOrder="U">αὐτοῦ</lemma>: see on c. 30. 14. &mdash;<lemma lang="greek" targOrder="U">τὴν διάνοιαν</lemma>: power of mind directed to definite
             objects (cf. c. 130. 9; 132. 20; <bibl n="Thuc. 2.20.19">ii.20.19</bibl>; <bibl n="Thuc. 4.52.10">iv.52.10</bibl>), indications of which were in his letter. To these,
@@ -13240,8 +13240,8 @@
             <lemma lang="greek" targOrder="U">τὰ κατά</lemma>
             <foreign lang="greek"/>: with acc. of person or thing to express the connected
             occurrences. Cf. c. 110. 15; <bibl n="Thuc. 3.68.7">iii.68.7</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="139">
+        </div>
+        <div type="chapter" n="139">
           <p>New demands of the Lacedaemonians on the Athenians, who call an assembly for final
             deliberation.</p>
           <p>
@@ -13330,8 +13330,8 @@
           <p>
             <lemma lang="greek" targOrder="U">παρῄνει</lemma>: introduces a direct speech, also
               <bibl n="Thuc. 6.8.23">vi.8.23</bibl>; 15. 21; 32. 22.</p>
-        </div2>
-        <div2 type="chapter" n="140">
+        </div>
+        <div type="chapter" n="140">
           <head>Speech of Pericles. Chaps. 140-144.</head>
           <p>
             <hi rend="italic">I am now, as always, against yielding to the Peloponnesians, and
@@ -13469,8 +13469,8 @@
             <foreign lang="greek"/>: <hi rend="italic">as equal to equal.</hi> Cf. c. 99.
               7.&mdash;<lemma lang="greek" targOrder="U">προσφέρεσθαι</lemma>: with dat., <bibl n="Thuc. 5.111.23">v.111.23</bibl>; with <foreign lang="greek">πρός τινα</foreign>,
               <bibl n="Thuc. 5.105.17">v.105.17</bibl>.</p>
-        </div2>
-        <div2 type="chapter" n="141">
+        </div>
+        <div type="chapter" n="141">
           <p>
             <title>Therefore a quick decision should be taken.</title> &sect; 1. <hi rend="italic">If war comes, as I hold it to be advisable, it will be found that we
               have the advantage of the Peloponnesians in means, in varied adaptation to events, and
@@ -13652,8 +13652,8 @@
           <p>
             <lemma lang="greek" targOrder="U">ὑπὸ ἁπάντων ἰδίᾳ</lemma>: joined with <foreign lang="greek">δοξάσματι</foreign> as with a pass. partic. See on c. 95. 16; 130.
           3.</p>
-        </div2>
-        <div2 type="chapter" n="142">
+        </div>
+        <div type="chapter" n="142">
           <p>The attempt to establish themselves in our country will not help them; and at sea, in
             spite of all their efforts, they can never match us.</p>
           <p>
@@ -13773,8 +13773,8 @@
           <p>
             <lemma lang="greek" targOrder="U">μηδὲν...γίγνεσθαι</lemma>
             <foreign lang="greek"/>: sc. <foreign lang="greek">δεῖ</foreign> from <foreign lang="greek">ἐνδέχεται</foreign>. See on c. 141. 28.</p>
-        </div2>
-        <div2 type="chapter" n="143">
+        </div>
+        <div type="chapter" n="143">
           <p>
             <hi rend="italic">Nor will they be able to seduce our sailors by moneg, for the best of
               them are Athenian citizens.</hi> &sect; 1, 2. <title>Our superiority at sea will
@@ -13917,8 +13917,8 @@
             </foreign>. The same thought in <bibl n="Thuc. 7.77.39">vii.77.39</bibl>.</p>
           <p>
             <lemma lang="greek" targOrder="U">αὐτά</lemma>: referring to <foreign lang="greek">γῆν καὶ οἰκίας</foreign>. See on 23.</p>
-        </div2>
-        <div2 type="chapter" n="144">
+        </div>
+        <div type="chapter" n="144">
           <p>
             <hi rend="italic">We must not, however, undertake conquests while the war lasts.</hi>
             &sect; 1. <hi rend="italic">We should reject decisively all their demands, convinced
@@ -14027,8 +14027,8 @@
             αὐτά</foreign>. On <foreign lang="greek">αὐτά</foreign> here and in 27, see on c. 1.
             10.&mdash; <lemma lang="greek" targOrder="U">ὧν</lemma>: see on c. 35. 15; 69. 20;
             95. 21.</p>
-        </div2>
-        <div2 type="chapter" n="145">
+        </div>
+        <div type="chapter" n="145">
           <p>The assembly decides to answer in accordance with the advice of Pericles.</p>
           <p>
             <lemma lang="greek" targOrder="U">ἄριστα</lemma>: adj., not adv. Cf. c. 124. 11. Often
@@ -14044,8 +14044,8 @@
           <p>
             <lemma lang="greek" targOrder="U">διαλύεσθαι</lemma>: only here with <foreign lang="greek">περί</foreign> and gen. Usually with acc. Cf. c. 140. 17; <bibl n="Thuc. 5.80.2">v.80.2</bibl>.&mdash; <lemma lang="greek" targOrder="U">ἐπὶ
               ἴσῃ καὶ ὁμοίᾳ</lemma>: see on c. 27. 3.</p>
-        </div2>
-        <div2 type="chapter" n="146">
+        </div>
+        <div type="chapter" n="146">
           <p>War is not formally proclaimed, but is imminent.</p>
           <p>
             <lemma lang="greek" targOrder="U">αἰτίαι δὲ αὗται</lemma>
@@ -14066,8 +14066,8 @@
             <lemma lang="greek" targOrder="U">ἀκηρύκτως</lemma>: (in <bibl n="Thuc. 2.1.3">ii.1.3</bibl>, <foreign lang="greek">ἀκηρυκτεί</foreign>) still without the
             formalities which are indispensable after war is declared.&mdash; 5. <lemma lang="greek" targOrder="U">σπονδῶν ξύγχυσις</lemma>: an actual disruption of the
             truce, though war had not yet broken out. Cf. <bibl n="Thuc. 5.26.30">v.26.30</bibl>.</p>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI.2>

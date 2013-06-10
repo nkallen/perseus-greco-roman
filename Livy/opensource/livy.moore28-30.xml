@@ -54,8 +54,8 @@
 	<text>
 		<body>
 			<pb n="vii"/>
-			<div1 type="book" n="front">
-				<div2 type="chapter"><head>Translator's Preface</head>
+			<div type="book" n="front">
+				<div type="chapter"><head>Translator's Preface</head>
 					<p>THE completion of this VIIIth volume closes a longstanding gap between the early years of the Second
 						Punic War and the beginning of the Fourth Decade
 						in Vol. IX, published in 1935. Events narrated in
@@ -111,8 +111,8 @@
 						Classics, Harmondsworth 1965), is a translation of
 						Books 21-30.</p>
 					<pb n="ix"/>
-				</div2>
-				<div2 type="chapter"><head>The Manuscripts</head>
+				</div>
+				<div type="chapter"><head>The Manuscripts</head>
 					<p><hi rend="italics">P</hi> = codex Puteanus, Paris, Biblioth&eacute;que
 						Nationale 5730, 5th century, our principal source for the text of XXI-XXX.
 						But as it is defective at the beginning, so
@@ -190,10 +190,10 @@
 							<item>For details the Oxford text of Conway and Johnson, Vol. IV, should be consulted.</item></list></p>
 					<pb/>
 					<pb id="p.2"/>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb id="p.3"/>
-			<div1 type="book" n="28"><head>Book XXVIII</head>
+			<div type="book" n="28"><head>Book XXVIII</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>WHILE the passage of Hasdrubal,<note>Hasdrubal's attempt to aid his brother Hannibal by a second invasion of Italy had ended in disaster at the Metaurus; XXVII. xlvii. ff. The narrative now reverts to Spain, where a third brother, Mago, was in command of an army.</note> by shifting<note type="margin">B.C. 207</note> the war to Italy, was felt to have lightened in proportion the burden for Spain, suddenly a war as dangerous as the former broke out again in that country.
 					<milestone unit="section" n="2"/> Spanish territory was at that time occupied by Romans and Carthaginians as follows:
@@ -972,9 +972,9 @@
 				<p><milestone unit="section" n="14"/>Just at that time about eighty Carthaginian transports were captured off Sardinia by Gnaeus Octavius, who was in command of that province. Coelius states that they were laden with grain sent to Hannibal and with provisions, Valerius<note>Antias; cf. Vol. VI. p. 492, n. 2; VII. pp. 24, n. 1 and 187. For Coelius cf. VI. p. 183, n. 2; VII. pp. 41, 323.</note> that they were captured while carrying Etruscan booty and captive Ligurians and Montani to Carthage. In the land of the Bruttians virtually nothing notable was done that year.
 					<milestone unit="section" n="15"/> An epidemic, equally disastrous to both, had attacked Romans and Carthaginians, with this difference that in addition to disease hunger also weakened the Carthaginian army.
 					<milestone unit="section" n="16"/> Hannibal spent the summer near the temple of Juno Lacinia,<note>Cf. Vol. VI. pp. 115, n., 182 f., notes (especially in reference to the inscription); VII. p. 315. The promontory took its name from <foreign lang="greek">ναός,</foreign> temple, and is still Capo Nao (or delle Colonne).</note> and there he erected an altar and dedicated it together with a great record of his achievements in a Punic and Greek inscription.</p>
-			</div1>
+			</div>
 			<pb id="p.201"/>
-			<div1 type="book" n="28s"><head>Summary of Book XXVIII</head>
+			<div type="book" n="28s"><head>Summary of Book XXVIII</head>
 				<p>Successes gained in Spain against the Carthaginians
 					by Silanus, Scipio's lieutenant, and by his brother Lucius
 					Scipio are narrated, and those gained by Publius Sulpicius as
@@ -1014,9 +1014,9 @@
 					of the state. Mago son of Hamilcar crossed over to Italy
 					from the smaller of the Balearic Islands, where he had
 					wintered.</p>
-			</div1>
+			</div>
 			<pb id="p.207"/>
-			<div1 type="book" n="29"><head>Book XXIX</head>
+			<div type="book" n="29"><head>Book XXIX</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>Scipio, now that he had reached Sicily, assigned<note type="margin">B.C. 205</note> his volunteers to their ranks and centuries.
 					<milestone unit="section" n="2"/> Three hundred of them, young men in the bloom of their youth and conspicuous for their physical strength, he kept about him unarmed and ignorant of the purpose for which they were being reserved without being organized in centuries or furnished with arms.
@@ -1606,9 +1606,9 @@
 					<milestone unit="section" n="6"/> Tiberius Veturius Philo,<note type="margin">B.C. 204</note> elected and installed flamen of Mars in place of Marcus Aemilius Regillus, who had died in the preceding year;<note>Immediately correcting the opening words of the paragraph. Cf. xi. 14 for Regillus' death in <date value="-205">205 B.C.</date></note>
 					<milestone unit="section" n="7"/> in succession to Marcus Pomponius Matho, augur and decemvir,<note>Pomponius, probably praetor in <date value="-216">216 B.C.</date>, had held two priesthoods concurrently, as did Otacilius in XXVII. vi. 15.</note> were elected Marcus Aurelius Cotta as decemvir, Tiberius Sempronius Gracchus as augur, being a mere youth, which was then a very unusual thing in the assignment of priesthoods.
 					<milestone unit="section" n="8"/> A gilded four-horse chariot was set up in that year on the Capitol by the curule aediles Gaius Livius and Marcus Servilius Geminus. And the Roman Games were repeated for two days, as were the Plebeian Games also for two days by the aediles Publius Aelius and Publius Villius; and on account of the festival there was a banquet for Jupiter.</p>
-			</div1>
+			</div>
 			<pb id="p.361"/>
-			<div1 type="book" n="29s"><head>Summary of Book XXIX</head>
+			<div type="book" n="29s"><head>Summary of Book XXIX</head>
 				<p>GAIUS LAELIUS, having been sent by Scipio from Sicily
 					to Africa, brought back immense booty and delivered to
 					Scipio Masinissa's messages, complaining because he had
@@ -1673,9 +1673,9 @@
 					though innocent, and had later made him consul and censor.
 					The rite of purification was completed by the censors.
 					The number of citizens listed was 214,000.</p>
-			</div1>
+			</div>
 			<pb id="p.367"/>
-			<div1 type="book" n="30"><head>Book XXX</head>
+			<div type="book" n="30"><head>Book XXX</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>GNAEUS SERVILIUS and Gaius Servilius,<note>Omission of cognomina at the beginning of a new book would be striking if their full names had not just been given in XXIX. xxxviii. 3; cf. below, &sect; 8 (cognomina only).</note> the<note type="margin">B.C. 203</note> consuls, whose year was the sixteenth of the Punic war, having laid before the senate the condition of the state and the war and the assignments, the senators voted that the consuls
 					<milestone unit="section" n="2??"/> should arrange between them, or determine by lot, which of them should have as his assignment the land of the Bruttii, confronting Hannibal, and which of them Etruria and Liguria;<note>This addition to Etruria as one consul's province (and for the first time) was in view of Mago's activity on the Ligurian coast; cf. &sect; 10; XXIX. v.</note>
@@ -2344,9 +2344,9 @@
 					<milestone unit="section" n="5"/> Following Scipio as he triumphed was Quintus Terentius Culleo<note>Cf. p. 533 and n. 2.</note> wearing the liberty cap; and for all the rest of his life, as was fitting, he honoured in Scipio the giver of his freedom.
 					<milestone unit="section" n="6"/> As for the surname Africanus, whether his popularity among the soldiers, or fickle favour of the people first gave it currency I am unable to state, or whether it began with the flattery of his intimates, as did the surname Felix for Sulla and Magnus for Pompey in the time of our fathers.
 					<milestone unit="section" n="7"/> What is certain is that he was the first general to be distinguished by the name of a nation conquered by him. Later, following his example men who were by no means his equals in their victories gained outstanding inscriptions for their masks<note>In wall-cases (<hi rend="italics">armaria</hi>) usually, each mask provided with its own titulus.</note> and glorious surnames for their families.</p>
-			</div1>
+			</div>
 			<pb id="p.541"/>
-			<div1 type="book" n="30s"><head>Summary of Book XXX</head>  
+			<div type="book" n="30s"><head>Summary of Book XXX</head>  
 				<p>Scipio in Africa defeated the Carthaginians and the
 					same Syphax, King of Numidia, and Hasdrubal in a
 					number of battles with the aid of Masinissa. He took by
@@ -2377,10 +2377,10 @@
 					war in which he had come in conflict with Romans in the
 					land of the Insubrians, and while returning to Africa,
 					having been recalled by envoys, he died of his wound.</p>
-			</div1>
+			</div>
 			<pb id="p.543"/>
-			<div1 type="book" n="back">
-				<div2 type="chapter"><head>Appendix:
+			<div type="book" n="back">
+				<div type="chapter"><head>Appendix:
 					the Zama Problem</head>
 					<p>THE so-called battle of Zama is unique in that
 						efforts to localize its field have ranged between two
@@ -2742,8 +2742,8 @@
 						(Cf., for example, De Sanctis 598 ff.; Cavaignac,
 						<hi rend="italics">Klio</hi> XIV. 41; Piganiol, <hi rend="italics">Hist. de Rome</hi> 102).</p>
 					<pb id="p.555"/>
-				</div2>
-				<div2 type="chapter"><head>Index of names</head>
+				</div>
+				<div type="chapter"><head>Index of names</head>
 					<p>(<hi rend="italics">The References are to Pages</hi>)</p>
 					<p>ACARNANES, 16, 30, 252, 254</p>
 					<p>Achaei, 16, 30, 32 (<hi rend="italics">bis</hi>), 34, 254</p>
@@ -3205,8 +3205,8 @@
 					<p>Volcanus, 384</p>
 					<p>XANTHIPPUS, 182</p>
 					<p>ZAMA, 468; appendix on, 543</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

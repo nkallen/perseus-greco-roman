@@ -122,7 +122,7 @@
 
 	<text lang="en">
 		<body>
-			<div1 n="1" type="book">
+			<div n="1" type="book">
 				<pb ed="Bekker" n="1354a"/>
 				<lb ed="Bekker" n="1"/>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/>Rhetoric is a
@@ -2541,8 +2541,8 @@
 					&ldquo;They demand that you abide by your oath as judges, while they
 					themselves do not abide by theirs.&rdquo; Further, we should employ all
 					means of amplification. Let this suffice for the inartificial proofs.</p>
-			</div1>
-			<div1 n="2" type="book">
+			</div>
+			<div n="2" type="book">
 				<pb ed="Bekker" n="1377b"/>
 				<lb ed="Bekker" n="16"/>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/>Such then are
@@ -5258,8 +5258,8 @@
 							6</bibl>, where the text is speaking of the <foreign lang="greek">διάνοια</foreign> of the actors in a play&rpar;.</note> generally; <pb ed="Bekker" n="1403b"/><lb ed="Bekker" n="1"/>for the sources of a supply of
 					arguments and the means of refuting them. It only remains to speak of style and
 					arrangement.</p>
-			</div1>
-			<div1 n="3" type="book">
+			</div>
+			<div n="3" type="book">
 				<lb ed="Bekker" n="6"/>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/>There are three
 					things which require special attention in regard to speech: first, the sources
@@ -7508,7 +7508,7 @@
 					heard; you know the facts; now give your decision.&rdquo;<note resp="Freese" anchored="yes">It is generally supposed that this example of a suitable
 						peroration is an echo of the conclusion of the speech of Lysias
 						<title>Against Eratosthenes</title>.</note></p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

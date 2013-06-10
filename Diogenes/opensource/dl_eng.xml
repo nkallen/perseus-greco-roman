@@ -88,9 +88,9 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 	<text lang="en">
 		<body>
 			<pb n="3"/>
-			<div1 n="1" type="book">
+			<div n="1" type="book">
 				<head>BOOK I</head>
-				<div2 n="prologue" type="chapter">
+				<div n="prologue" type="chapter">
 					<head>Prologue</head>
 					<milestone unit="section" n="1"/>
 					<p>There are some who say that the study of philosophy had its beginning among the barbarians.
@@ -549,8 +549,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						advantages of body and environment being indispensable to its attainment.</p>
 					<p>It remains to speak of the philosophers themselves,
 						and in the first place of Thales.</p>
-				</div2>
-				<div2 n="1" type="chapter">
+				</div>
+				<div n="1" type="chapter">
 					<head>Chapter 1. THALES (floruit circa 585 B.C.,
 						the date of the eclipse)</head>
 					<p>
@@ -1039,8 +1039,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						of your friends. Bias wrote inviting you to Priene;
 						and if you prefer the town of Priene for a residence,
 						I myself will come and live with you."</p>
-				</div2>
-				<div2 n="2" type="chapter">
+				</div>
+				<div n="2" type="chapter">
 					<head>Chapter 2. SOLON (archon 594 B.C.)</head>
 					<milestone unit="section" n="45"/>
 					<p>Solon, the son of Execestides, was born at Salamis.
@@ -1472,8 +1472,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						to live in a place where all have equal rights is
 						more to my liking. However, I will come and see
 						you, for I am eager to make your acquaintance."</p>
-				</div2>
-				<div2 n="3" type="chapter">
+				</div>
+				<div n="3" type="chapter">
 					<head>Chapter 3. CHILON (c. 560B.C.)</head>
 					<milestone unit="section" n="68"/>
 					<p>Chilon, son of Damagetas, was a Lacedaemonian.
@@ -1596,8 +1596,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						In my opinion affairs at home are not too safe for
 						an absolute ruler; and I deem the tyrant happy
 						who dies a natural death in his own house."</p>
-				</div2>
-				<div2 n="4" type="chapter">
+				</div>
+				<div n="4" type="chapter">
 					<head>Chapter 4. PITTACUS (c. 600B.C.)</head>
 					<milestone unit="section" n="74"/>
 					<p>Pittacus was the son of Hyrrhadius and a native
@@ -1758,8 +1758,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						possessions are sufficient for my friends as well as
 						myself. Nevertheless, I will come, to be entertained
 						by you and to make your acquaintance."</p>
-				</div2>
-				<div2 n="5" type="chapter">
+				</div>
+				<div n="5" type="chapter">
 					<head>Chapter 5. BIAS (c. 570 B.C.)</head>
 					<milestone unit="section" n="82"/>
 					<p>Bias, the son of Teutames, was born at Priene, and
@@ -1885,8 +1885,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						lived Bias, son of Teutames, a man of more consideration than any." And the people of Priene dedicated
 						a precinct to him, which is called the Teutameum.
 						His apophthegm is: Most men are bad.</p>
-				</div2>
-				<div2 n="6" type="chapter">
+				</div>
+				<div n="6" type="chapter">
 					<head>Chapter 6 CLEOBULUS (c 600 B.C.)</head>
 					<milestone unit="section" n="89"/>
 					<p>Cleobulus, the son of Euagoras, was born at Lindus,
@@ -1984,8 +1984,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						island lies on the high seas, and one who lives here
 						has nothing to fear from Pisistratus. And friends
 						from all parts will come to visit you."</p>
-				</div2>
-				<div2 n="7" type="chapter">
+				</div>
+				<div n="7" type="chapter">
 					<head>Chapter 7. PERIANDER (tyrant 625-585 B.C.)</head>
 					<milestone unit="section" n="94"/>
 					<p>Periander, the son of Cypselus, was born at Corinth,
@@ -2142,8 +2142,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						are pre-eminent, whether they are hostile to you or
 						not. For to an absolute ruler even a friend is an
 						object of suspicion."</p>
-				</div2>
-				<div2 n="8" type="chapter">
+				</div>
+				<div n="8" type="chapter">
 					<head>Chapter 8. ANACHARSIS</head>
 					<milestone unit="section" n="101"/>
 					<p>Anacharsis the Scythian was the son of Gnurus
@@ -2251,8 +2251,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						am well content to return to Scythia a better man.
 						At all events here I am in Sardis, being greatly
 						desirous of making your acquaintance."</p>
-				</div2>
-				<div2 n="9" type="chapter">
+				</div>
+				<div n="9" type="chapter">
 					<head>Chapter 9. MYSON (c. 600 B.C.)</head>
 					<milestone unit="section" n="106"/>
 					<p>Myson was the son of Strymon, according to
@@ -2311,9 +2311,9 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						of facts; for the facts were not put together to fit
 						the arguments, but the arguments to fit the facts.</p>
 					<p>He died at the age of ninety-seven.</p>
-				</div2>
+				</div>
 				<pb n="115"/>
-				<div2 n="10" type="chapter">
+				<div n="10" type="chapter">
 					<head>Chapter 10. EPIMENIDES (c. 600 B.C.)</head>
 					<milestone unit="section" n="109"/>
 					<p>Epimenides, according to Theopompus and many
@@ -2463,8 +2463,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>There have been two other men named Epimenides,
 						namely, the genealogist and another who wrote in
 						Doric Greek about Rhodes.</p>
-				</div2>
-				<div2 n="11" type="chapter">
+				</div>
+				<div n="11" type="chapter">
 					<head>Chapter 11. PHERECYDES (flor. c. 540 B.C.)</head>
 					<milestone unit="section" n="116"/>
 					<p>Pherecydes, the son of Babys, and a native of
@@ -2610,12 +2610,12 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						I must now proceed to the philosophers and start
 						with the philosophy of Ionia. Its founder was
 						Thales, and Anaximander was his pupil.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="131"/>
-			<div1 n="2" type="book">
+			<div n="2" type="book">
 				<head>BOOK II</head>
-				<div2 n="1" type="chapter">
+				<div n="1" type="chapter">
 					<head>Chapter 1. ANAXIMANDER<note n="a">With this Life Diels
 						(<hi rend="ital">Dox. Gr.</hi> p. 133) compares Hippolytus (<hi rend="ital">Ref. Haer.</hi> i. 6), Plutarch (<hi rend="ital">Strom.</hi> 2), A&euml;tius, i. 3. 3;
 						iii. 11. 1; iii. 10. 2; ii. 11. 5; ii. 20. 1; ii. 24. 2; ii. 29. 1;
@@ -2665,8 +2665,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						to please the boys I must improve my singing."</p>
 					<p>There is another Anaximander, also of Miletus, a
 						historian who wrote in the Ionic dialect.</p>
-				</div2>
-				<div2 n="2" type="chapter">
+				</div>
+				<div n="2" type="chapter">
 					<head>Chapter 2. ANAXIMENES<note n="c">Diels (<hi rend="ital">op. cit.</hi> p. 135) compares Hippolytus,
 						<hi rend="ital">Ref. Haer.</hi>
 						i. 7. 1; Plutarch,
@@ -2720,8 +2720,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						when threatened with destruction or slavery? Meanwhile you find favour with the people of Croton and
 						with the other Greeks in Italy; and pupils come to
 						you even from Sicily."</p>
-				</div2>
-				<div2 n="3" type="chapter">
+				</div>
+				<div n="3" type="chapter">
 					<head>Chapter 3. ANAXAGORAS<note n="a">Diels (<hi rend="ital">Dox. Gr.</hi> p. 137) compares Hippolytus,
 						<hi rend="ital">Ref.
 							Haer.</hi> i. 8. 1-11; A&euml;tius, i. 3. 5; iv. 1. 3; ii. 20. 6; ii. 21. 3;
@@ -2970,8 +2970,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						school of Isocrates; the second a sculptor, mentioned
 						by Antigonus; the third a grammarian, pupil of
 						Zenodotus.</p>
-				</div2>
-				<div2 n="4" type="chapter">
+				</div>
+				<div n="4" type="chapter">
 					<head>Chapter 4. ARCHELAUS<note n="d">Diels (<hi rend="ital">Dox. Gr.</hi> p. 139) compares Hippolytus,
 						<hi rend="ital">Ref. Haer.</hi>
 						i. 9. 1-5; A&euml;tius, i. 3. 6; Theophrastus,
@@ -3024,8 +3024,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<pb n="149"/>
 					of a treatise on Natural Curiosities; and lastly a
 						rhetorician who wrote a handbook on his art.</p>
-				</div2>
-				<div2 n="5" type="chapter">
+				</div>
+				<div n="5" type="chapter">
 					<head>Chapter 5. SOCRATES (469-399 B.C.)</head>
 					<milestone unit="section" n="18"/>
 					<p>Socrates was the son of Sophroniscus, a sculptor,
@@ -3637,8 +3637,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						Bithynia; a third, a poet who wrote epigrams;
 						lastly, Socrates of Cos, who wrote on the names of
 						the gods.</p>
-				</div2>
-				<div2 n="6" type="chapter">
+				</div>
+				<div n="6" type="chapter">
 					<head>Chapter 6. XENOPHON (426?-354 B.C.)</head>
 					<milestone unit="section" n="48"/>
 					<p>Xenophon, the son of Gryllus, was a citizen of
@@ -3873,8 +3873,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						the fifth an authority on legendary marvels; the
 						sixth a sculptor, of Paros; the seventh a poet of the
 						Old Comedy.</p>
-				</div2>
-				<div2 n="7" type="chapter">
+				</div>
+				<div n="7" type="chapter">
 					<head>Chapter 7. AESCHINES (c. 400 B.C.)</head>
 					<milestone unit="section" n="60"/>
 					<p>Aeschines was the son of Charinus the sausagemaker, but others make his father's name Lysanias.
@@ -3963,9 +3963,9 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						philosopher, a pupil and favourite of Melanthius of
 						Rhodes; (7) a Milesian who wrote upon politics;
 						(8) a sculptor.</p>
-				</div2>
+				</div>
 				<pb n="195"/>
-				<div2 n="8" type="chapter">
+				<div n="8" type="chapter">
 					<head>Chapter 8. ARISTIPPUS (c. 435-350 B.C.)</head>
 					<milestone unit="section" n="65"/>
 					<p>Aristippus was by birth a citizen of Cyrene and,
@@ -4716,8 +4716,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						pupil of Athenaeus. (18) A Stoic philosopher of
 						Chios. (19) A Milesian, also a Stoic philosopher
 						(20) A tragic poet.</p>
-				</div2>
-				<div2 n="9" type="chapter">
+				</div>
+				<div n="9" type="chapter">
 					<head>Chapter 9. PHAEDO</head>
 					<milestone unit="section" n="105"/>
 					<p>Phaedo was a native of Elis, of noble family, who
@@ -4751,8 +4751,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						Elis, but from Menedemus onward it was called the
 						Eretrian school. Of Menedemus we shall have to
 						speak hereafter, because he too started a new school.</p>
-				</div2>
-				<div2 n="10" type="chapter">
+				</div>
+				<div n="10" type="chapter">
 					<head>Chapter 10. EUCLIDES</head>
 					<milestone unit="section" n="106"/>
 					<p>Euclides was a native of Megara on the Isthmus,<note n="a">So called
@@ -4879,8 +4879,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						propositions, predications and the like; and Stilpo of
 						Megara, a most distinguished philosopher, of whom
 						we have now to treat.</p>
-				</div2>
-				<div2 n="11" type="chapter">
+				</div>
+				<div n="11" type="chapter">
 					<head>Chapter 11. STILPO</head>
 					<milestone unit="section" n="113"/>
 					<p>Stilpo, a citizen of Megara in Greece, was a pupil
@@ -5033,8 +5033,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 							<hi rend="ital">s.v.</hi>
 							Diphilus.</note>:</p>
 					<p>What Charinus says is just Stilpo's stoppers.</p>
-				</div2>
-				<div2 n="12" type="chapter">
+				</div>
+				<div n="12" type="chapter">
 					<head>Chapter 12. CRITO</head>
 					<milestone unit="section" n="121"/>
 					<p>Crito was a citizen of Athens. He was most
@@ -5061,8 +5061,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>Of Learning.</p>
 					<p>On Knowing, or On Science.</p>
 					<p>What is Knowledge.</p>
-				</div2>
-				<div2 n="13" type="chapter">
+				</div>
+				<div n="13" type="chapter">
 					<head>Chapter 13. SIMON</head>
 					<milestone unit="section" n="122"/>
 					<p>Simon was a citizen of Athens and a cobbler.
@@ -5115,9 +5115,9 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						<hi rend="ital">On
 							Rhetoric</hi>; another, a physician, in the time of Seleucus
 						Nicanor; and a third who was a sculptor.</p>
-				</div2>
+				</div>
 				<pb n="255"/>
-				<div2 n="14" type="chapter">
+				<div n="14" type="chapter">
 					<head>Chapter 14. GLAUCON</head>
 					<p>Glaucon was a citizen of Athens. Nine dialogues
 						of his are extant in a single volume:</p>
@@ -5132,8 +5132,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>Menexenus.</p>
 					<p>There are also extant thirty-two others, which are
 						considered spurious.</p>
-				</div2>
-				<div2 n="15" type="chapter">
+				</div>
+				<div n="15" type="chapter">
 					<head>Chapter 15. SIMMIAS</head>
 					<p>Simmias was a citizen of Thebes. Twenty-three
 						dialogues of his are extant in a single volume:</p>
@@ -5161,8 +5161,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>What is the beautiful.</p>
 					<p>On Diligence.</p>
 					<p>On Love.</p>
-				</div2>
-				<div2 n="16" type="chapter">
+				</div>
+				<div n="16" type="chapter">
 					<head>Chapter 16. CEBES</head>
 					<milestone unit="section" n="125"/>
 					<p>Cebes was a citizen of Thebes. Three dialogues
@@ -5170,8 +5170,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>The Tablet.</p>
 					<p>The Seventh Day.</p>
 					<p>Phrynichus.</p>
-				</div2>
-				<div2 n="17" type="chapter">
+				</div>
+				<div n="17" type="chapter">
 					<head>Chapter 17. MENEDEMUS</head>
 					<p>Menedemus belonged to Phaedo's school; he was
 						the son of Clisthenes, a member of the clan called
@@ -5515,12 +5515,12 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						immediate successors. We must now pass to Plato,
 						the founder of the Academy, and his successors, so
 						far as they were men of reputation.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="277"/>
-			<div1 n="3" type="book">
+			<div n="3" type="book">
 				<head>BOOK III</head>
-				<div2 n="1" type="chapter">
+				<div n="1" type="chapter">
 					<head>PLATO (427-347 B.C.)</head>
 					<milestone unit="section" n="1"/>
 					<p>Plato was the son of Ariston and a citizen of Athens.
@@ -7633,12 +7633,12 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						<hi rend="ital">On Philosophy</hi>; another a Peripatetic and pupil of
 						Aristotle; and another who was a pupil of Praxiphanes; and lastly, there was Plato, the poet of the
 						Old Comedy.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="375"/>
-			<div1 n="4" type="book">
+			<div n="4" type="book">
 				<head>BOOK IV</head>
-				<div2 n="1" type="chapter">
+				<div n="1" type="chapter">
 					<head>Chapter 1. SPEUSIPPUS (circa 407-339 B.C.)
 					(Head of the Academy, 347-339 B.C.)</head>
 					<milestone unit="section" n="1"/>
@@ -7762,8 +7762,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						talents.</p>
 					<p>There was another Speusippus, a physician of
 						Alexandria, of the school of Herophilus.</p>
-				</div2>
-				<div2 n="2" type="chapter">
+				</div>
+				<div n="2" type="chapter">
 					<head>Chapter 2. XENOCRATES (396-314 B.C.)
 					(Head of the Academy 339-314 B.C.)</head>
 					<milestone unit="section" n="6"/>
@@ -7992,8 +7992,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						come to grief; whereby it is clear that the one is a
 						gift of nature and the other of art; (5) a sculptor;
 						(6) a writer of songs mentioned by Aristoxenus.</p>
-				</div2>
-				<div2 n="3" type="chapter">
+				</div>
+				<div n="3" type="chapter">
 					<head>Chapter 3. POLEMO
 					(Head of the Academy from 314 to c. 276 B.C.)</head>
 					<milestone unit="section" n="16"/>
@@ -8097,8 +8097,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<pb n="399"/>
 					but merely his body, which on his way to the stars he left
 						to moulder in the ground.</p>
-				</div2>
-				<div2 n="4" type="chapter">
+				</div>
+				<div n="4" type="chapter">
 					<head>Chapter 4. CRATES (of Athens)
 					(Head of the Academy in third century B.C.)</head>
 					<milestone unit="section" n="21"/>
@@ -8156,8 +8156,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						above; (7) a grammarian of Malos; (8) the author of
 						a geometrical work; (9) a composer of epigrams;
 						(10) an Academic philosopher of Tarsus.</p>
-				</div2>
-				<div2 n="5" type="chapter">
+				</div>
+				<div n="5" type="chapter">
 					<head>Chapter 5. CRANTOR
 					(Perhaps about 340-290 B.C.)</head>
 					<milestone unit="section" n="24"/>
@@ -8236,8 +8236,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						thus did you descend the black abyss of Pluto. While you
 						fare well even in the world below, the Academy and your
 						country of Soli are bereft of your discourses.</p>
-				</div2>
-				<div2 n="6" type="chapter">
+				</div>
+				<div n="6" type="chapter">
 					<head>Chapter 6. ARCESILAUS (c. 318-242 B.C.)</head>
 					<milestone unit="section" n="28"/>
 					<p>Arcesilaus, the son of Seuthes, according to Apollodorus in the third book of his
@@ -8620,8 +8620,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						<hi rend="ital">Chronology</hi>, the
 						philosopher described in the foregoing flourished
 						about the 120th Olympiad.<note n="c">300-296 b.c.</note></p>
-				</div2>
-				<div2 n="7" type="chapter">
+				</div>
+				<div n="7" type="chapter">
 					<head>Chapter 7. BION (third century B.C.)</head>
 					<milestone unit="section" n="46"/>
 					<p>Bion was by birth a citizen of Borysthenes [Olbia];
@@ -8853,8 +8853,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						one of the poets of Tarsus, as they are called; (10)
 						a sculptor of Clazomenae or Chios, mentioned by
 						Hipponax.</p>
-				</div2>
-				<div2 n="8" type="chapter">
+				</div>
+				<div n="8" type="chapter">
 					<head>Chapter 8. LACYDES
 					(Head of the Academy c. 242-216 B.C.)</head>
 					<milestone unit="section" n="59"/>
@@ -8904,8 +8904,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						Nay, was it not clear that when the wine-god comes in force
 						into the frame, he loosens our limbs? Perhaps this is why
 						he gets his name of the Loosener.</p>
-				</div2>
-				<div2 n="9" type="chapter">
+				</div>
+				<div n="9" type="chapter">
 					<head>Chapter 9. CARNEADES (c. 213-129 B C.)</head>
 					<milestone unit="section" n="62"/>
 					<p>Carneades, the son of Epicomus or (according
@@ -8999,8 +8999,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>He had many other disciples, but the most illustrious of them all was Clitomachus, of whom we have
 						next to speak.</p>
 					<p>There was another Carneades, a frigid elegiac poet.</p>
-				</div2>
-				<div2 n="10" type="chapter">
+				</div>
+				<div n="10" type="chapter">
 					<head>Chapter 10. CLITOMACHUS
 					(Head of the Academy from 129 B.C.)</head>
 					<milestone unit="section" n="67"/>
@@ -9024,12 +9024,12 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>Having thus reviewed the Academics who derived
 						from Plato, we will now pass on to the Peripatetics, who
 						also derived from Plato. They begin with Aristotle.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="445"/>
-			<div1 n="5" type="book">
+			<div n="5" type="book">
 				<head>BOOK V</head>
-				<div2 n="1" type="chapter">
+				<div n="1" type="chapter">
 					<head>Chapter 1. ARISTOTLE (384-322 B.C.)</head>
 					<milestone unit="section" n="1"/>
 					<p>Aristotle, son of Nicomachus and Phaestis, was
@@ -9820,8 +9820,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>Aristotle of Stagira had many disciples; the most
 						distinguished was Theophrastus, of whom we have
 						next to speak.</p>
-				</div2>
-				<div2 n="2" type="chapter">
+				</div>
+				<div n="2" type="chapter">
 					<head>Chapter 2. THEOPHRASTUS (c. 370-286 B.C.)
 					(Head of the School from 323 B.C.)</head>
 					<milestone unit="section" n="36"/>
@@ -10344,8 +10344,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<p>There are some who say that Erasistratus the
 						physician was also a pupil of his, and it is not
 						improbable.</p>
-				</div2>
-				<div2 n="3" type="chapter">
+				</div>
+				<div n="3" type="chapter">
 					<head>Chapter 3. STRATO
 					(Head of the School 286-268 B.C.)</head>
 					<milestone unit="section" n="58"/>
@@ -10503,8 +10503,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 					<pb n="519"/>
 					"physics," a branch of philosophy more ancient and
 						important than the others.</p>
-				</div2>
-				<div2 n="4" type="chapter">
+				</div>
+				<div n="4" type="chapter">
 					<head>Chapter 4. LYCO (299-225 B.C.)</head>
 					<milestone unit="section" n="65"/>
 					<p>Strato's successor was Lyco, the son of Astyanax of
@@ -10672,8 +10672,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						his will is no less remarkable for carefulness and wise
 						management, so that in this respect also he is to be
 						admired</p>
-				</div2>
-				<div2 n="5" type="chapter">
+				</div>
+				<div n="5" type="chapter">
 					<head>Chapter 5. DEMETRIUS (perhaps 350-280 B.C.;
 					supreme in Athens 318-307 B.C.)</head>
 					<milestone unit="section" n="75"/>
@@ -10915,8 +10915,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						sculptor mentioned by Polemo; the sixth, of
 						Erythrae, a versatile man, who also wrote historical
 						and rhetorical works.</p>
-				</div2>
-				<div2 n="6" type="chapter">
+				</div>
+				<div n="6" type="chapter">
 					<head>Chapter 6. HERACLIDES (floruit 360 B.C.)</head>
 					<milestone unit="section" n="86"/>
 					<p>Heraclides, son of Euthyphro, born at Heraclea in
@@ -11103,11 +11103,11 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						Ligurian poet, author of epigrams; (13) Heraclides
 						of Magnesia, who wrote a history of Mithradates;
 						(14) the compiler of an Astronomy.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="3"/> 
-			<div1 n="6" type="book"><head>BOOK VI</head> 
-				<div2 n="1" type="chapter"><head>Chapter 1.
+			<div n="6" type="book"><head>BOOK VI</head> 
+				<div n="1" type="chapter"><head>Chapter 1.
 					ANTISTHENES (c. 446-366 B.C.)</head> 
 					<milestone unit="section" n="1"/>
 					<p>Antisthenes,<note n="a"><hi rend="ital">Cf.</hi> Clem. Alex. <hi rend="ital">Strom.</hi> i.
@@ -11589,8 +11589,8 @@ beta code versions of diogenes, greek and english.  also combined the two volume
 						Aristippus and of Phaedo, we will now append an account of the
 						Cynics and Stoics who derive from Antisthenes. And let it be in the
 						following order.
-					</p></div2> 
-				<div2 n="2" type="chapter"><head>Chapter 2. DIOGENES (404-323
+					</p></div> 
+				<div n="2" type="chapter"><head>Chapter 2. DIOGENES (404-323
 B.C.)</head> 
 					
 					<milestone unit="section" n="20"/>
@@ -12835,8 +12835,8 @@ B.C.)</head>
 						to his use of unguents.<note n="a"><hi rend="ital">Cf.</hi> Epictet.
 							iii. 22. 88 <foreign lang="greek">ὡς Διογέν ης ἐποίει· στίλβω ν γὰρ
 								περιήρχ ετο καὶ αὐτὸ τὸ σῶμα ἐπέστρε φε τοὺς πολλούς.</foreign></note>
-					</p></div2> 
-				<div2 n="3" type="chapter"><head>Chapter 3. MONIMUS (fourth
+					</p></div> 
+				<div n="3" type="chapter"><head>Chapter 3. MONIMUS (fourth
 				century B.C.)</head> 
 					
 					<milestone unit="section" n="82"/>
@@ -12892,9 +12892,9 @@ B.C.)</head>
 					<p>He has left us, besides some trifles blended with
 						covert earnestness, two books, <hi rend="ital">On Impulses</hi> and
 						an <hi rend="ital">Exhortation to Philosophy.</hi>
-					</p></div2>
+					</p></div>
 				
-				<div2 n="4" type="chapter"><head>Chapter 4. ONESICRITUS (flor. 330 B.C.)</head>
+				<div n="4" type="chapter"><head>Chapter 4. ONESICRITUS (flor. 330 B.C.)</head>
 					<milestone unit="section" n="84"/>
 					<p>Onesicritus some report to have been an Aeginetan, but Demetrius
 						of Magnesia says that he was a native of Astypalaea. He too was one
@@ -12913,8 +12913,8 @@ B.C.)</head>
 					admirer of Homer ; Hegesias of Sinope,
 						nicknamed "Dog-collar" ; and Philiscus of Aegina mentioned
 						above.
-					</p></div2> 
-				<div2 n="5" type="chapter"><head>Chapter 5. CRATES (of Thebes, flor.
+					</p></div> 
+				<div n="5" type="chapter"><head>Chapter 5. CRATES (of Thebes, flor.
 				326 B.C.)</head> 
 					
 					<milestone unit="section" n="85"/>
@@ -13131,8 +13131,8 @@ B.C.)</head>
 					</p> 
 					<p>We
 						come now to his pupils.
-					</p></div2> 
-				<div2 n="6" type="chapter"><head>Chapter 6. METROCLES
+					</p></div> 
+				<div n="6" type="chapter"><head>Chapter 6. METROCLES
 				(c. 300 B.C.)</head> 
 					
 					<milestone unit="section" n="94"/>
@@ -13184,8 +13184,8 @@ B.C.)</head>
 						lectures were attended by Menedemus, of whom we shall speak
 						presently. Menippus of Sinope also became renowned amongst
 						them.
-					</p></div2> 
-				<div2 n="7" type="chapter"><head>Chapter 7. HIPPARCHIA (c. 300
+					</p></div> 
+				<div n="7" type="chapter"><head>Chapter 7. HIPPARCHIA (c. 300
 B.C				.)</head> 
 					
 					<milestone unit="section" n="96"/>
@@ -13257,8 +13257,8 @@ B.C				.)</head>
 					</p> 
 					<p>He died in old age, and was buried in
 						Boeotia.
-					</p></div2> 
-				<div2 n="8" type="chapter"><head>Chapter 8. MENIPPUS</head>
+					</p></div> 
+				<div n="8" type="chapter"><head>Chapter 8. MENIPPUS</head>
 					<milestone unit="section" n="99"/>
 					<p>Menippus,<note n="b">"Menippus ille, nobilis quidem canis," Varro
 						<hi rend="ital">apud</hi> Nonium 333. <hi rend="ital">Cf.</hi>
@@ -13343,9 +13343,9 @@ B.C				.)</head>
 						the twentieth day.
 					</p> 
 					<p>Besides other works.
-					</p></div2>
+					</p></div>
 				
-				<div2 n="9" type="chapter"><head>Chapter 9. MENEDEMUS</head> 
+				<div n="9" type="chapter"><head>Chapter 9. MENEDEMUS</head> 
 					
 					<milestone unit="section" n="102"/>
 					<p>Menedemus was a pupil of
@@ -13426,12 +13426,12 @@ B.C				.)</head>
 						on to the Stoics, whose founder was Zeno, a disciple of
 						Crates.
 					</p>
-				</div2>
-			</div1> 
+				</div>
+			</div> 
 			<pb n="111"/> 
-			<div1 n="7" type="book"><head>BOOK VII</head>
+			<div n="7" type="book"><head>BOOK VII</head>
 				
-				<div2 n="1" type="chapter"><head>Chapter 1. ZENO (333-261 B.C.)</head> 
+				<div n="1" type="chapter"><head>Chapter 1. ZENO (333-261 B.C.)</head> 
 					
 					<milestone unit="section" n="1"/>
 					<p>Zeno, the son
@@ -16557,8 +16557,8 @@ B.C				.)</head>
 						preserve a due proportion in my work. But the points on which
 						certain of the Stoics differed from the rest are the
 						following.
-					</p></div2> 
-				<div2 n="2" type="chapter"><head>Chapter 2. ARISTON (c. 320-250
+					</p></div> 
+				<div n="2" type="chapter"><head>Chapter 2. ARISTON (c. 320-250
 					b.c.)</head> 
 					<p>Ariston the Bald, of Chios, who was also called the
 						Siren, declared the end of action to be a life of perfect
@@ -16675,9 +16675,9 @@ B.C				.)</head>
 							iv. 15.</note> ; a third, a musician of Athens ; a fourth, a tragic
 						poet ; a fifth, of Halae, author of treatises on rhetoric ; a sixth,
 						a Peripatetic philosopher of Alexandria.
-					</p></div2>
+					</p></div>
 				
-				<div2 n="3" type="chapter"><head>Chapter 3. HERILLUS (flor. c. 260 b.c.)</head>
+				<div n="3" type="chapter"><head>Chapter 3. HERILLUS (flor. c. 260 b.c.)</head>
 					<milestone unit="section" n="165"/>
 					<p>Herillus of Carthage declared the end of action to be Knowledge,
 						that is, so to live always as to make the scientific life the
@@ -16731,8 +16731,8 @@ B.C				.)</head>
 					<p>Dialogues.
 					</p> 
 					<p>Ethical Themes.
-					</p></div2> 
-				<div2 n="4" type="chapter"><head>Chapter
+					</p></div> 
+				<div n="4" type="chapter"><head>Chapter
 					4. DIONYSIUS (c. 330-250 b.c.)</head> 
 					<p>Dionysius, the
 						Renegade,<note n="a"><hi rend="ital">Cf.</hi> &sect; 37.</note> declared
@@ -16787,10 +16787,10 @@ B.C				.)</head>
 					<p>These three, then, are the heterodox Stoics. The
 						legitimate successor to Zeno, however, was Cleanthes : of whom we
 						have now to speak.
-					</p></div2> 
+					</p></div> 
 				
 				<milestone unit="section" n="168"/>
-				<div2 n="5" type="chapter"><head>Chapter 5. CLEANTHES
+				<div n="5" type="chapter"><head>Chapter 5. CLEANTHES
 				(331-232 b.c.)</head> 
 					<p>Cleanthes, son of Phanias, was a native of
 						Assos. This man, says Antisthenes in his <hi rend="ital">Successions
@@ -17088,9 +17088,9 @@ B.C				.)</head>
 						dead,
 					</p> 
 					<p>Who'd drawn such load of water while alive.
-					</p></div2>
+					</p></div>
 				
-				<div2 n="6" type="chapter"><head>Chapter 6. SPHAERUS (flor. c. 220 B.C.)</head>
+				<div n="6" type="chapter"><head>Chapter 6. SPHAERUS (flor. c. 220 B.C.)</head>
 					<milestone unit="section" n="177"/>
 					<p>Amongst those who after the death of Zeno became pupils of
 						Cleanthes was Sphaerus of Bosporus, as already mentioned.<note n="a"> &sect; 37.</note> After making considerable progress in his studies,
@@ -17185,8 +17185,8 @@ B.C				.)</head>
 						Ambiguous Terms.
 					</p> 
 					<p>Letters.
-					</p></div2> 
-				<div2 n="7" type="chapter"><head>Chapter 7.
+					</p></div> 
+				<div n="7" type="chapter"><head>Chapter 7.
 				CHRYSIPPUS (c. 282-206 B.C.)</head> 
 					
 					<milestone unit="section" n="179"/>
@@ -18024,12 +18024,12 @@ B.C				.)</head>
 					<p>Of the
 						Arguments commonly used on Behalf of [Pleasure].
 					</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="321"/> 
-			<div1 n="8" type="book"><head>BOOK VIII</head> 
+			<div n="8" type="book"><head>BOOK VIII</head> 
 				
-				<div2 n="1" type="chapter"><head>Chapter 1.
+				<div n="1" type="chapter"><head>Chapter 1.
 				PYTHAGORAS (c. 582-500 B.C.)</head> 
 					
 					<milestone unit="section" n="1"/>
@@ -19042,8 +19042,8 @@ B.C				.)</head>
 						way that we promised. We have already treated of Theano and Telauges
 						: so now we have first to speak of Empedocles, for some say he was a
 						pupil of Pythagoras.
-					</p></div2> 
-				<div2 n="2" type="chapter"><head>Chapter 2. EMPEDOCLES
+					</p></div> 
+				<div n="2" type="chapter"><head>Chapter 2. EMPEDOCLES
 (484-424 B.C.)</head> 
 					
 					<milestone unit="section" n="51"/>
@@ -19545,8 +19545,8 @@ B.C				.)</head>
 					</p> 
 					<p>His poems <hi rend="ital">On Nature</hi> and <hi rend="ital">Purifications</hi> run to 5000 lines, his <hi rend="ital">Discourse on Medicine</hi> to 600. Of the tragedies we
 						have spoken above.
-					</p></div2> 
-				<div2 n="3" type="chapter"><head>Chapter 3. EPICHARMUS (c.
+					</p></div> 
+				<div n="3" type="chapter"><head>Chapter 3. EPICHARMUS (c.
 				550-460 B.C.)</head> 
 					
 					<milestone unit="section" n="78"/>
@@ -19571,8 +19571,8 @@ B.C				.)</head>
 						doctrines, and he has made marginal notes in most of the memoirs,
 						which clearly show that they were written by him. He died at the age
 						of ninety.
-					</p></div2> 
-				<div2 n="4" type="chapter"><head>Chapter 4. ARCHYTAS (fourth
+					</p></div> 
+				<div n="4" type="chapter"><head>Chapter 4. ARCHYTAS (fourth
 century B.C.)</head> 
 					
 					<milestone unit="section" n="79"/>
@@ -19651,8 +19651,8 @@ century B.C.)</head>
 							L. Heath, <hi rend="ital">History of Greek Mathematics,</hi> i.
 							246-249.</note> In geometry, too, he was the first to discover the
 						cube, as Plato says in the <hi rend="ital">Republic.</hi><note n="b">528 b.</note>
-					</p></div2> 
-				<div2 n="5" type="chapter"><head>Chapter 5.
+					</p></div> 
+				<div n="5" type="chapter"><head>Chapter 5.
 					ALCMAEON</head> 
 					<p>Alcmaeon of Croton, another disciple of
 						Pythagoras, wrote chiefly on medicine, but now and again he touches
@@ -19670,8 +19670,8 @@ century B.C.)</head>
 						as men, only inference from evidence is possible,' and so on." He
 						held also that the soul is immortal and that it is continuously in
 						motion like the sun.
-					</p></div2> 
-				<div2 n="6" type="chapter"><head>Chapter 6. HIPPASUS
+					</p></div> 
+				<div n="6" type="chapter"><head>Chapter 6. HIPPASUS
 				(fourth century B.C.)</head> 
 					
 					<milestone unit="section" n="84"/>
@@ -19688,8 +19688,8 @@ century B.C.)</head>
 						subject, and the other a man who wrote <hi rend="ital">The Laconian
 							Constitution</hi> in five books ; and he himself was a
 						Lacedaemonian.
-					</p></div2> 
-				<div2 n="7" type="chapter"><head>Chapter 7. PHILOLAUS (Perhaps
+					</p></div> 
+				<div n="7" type="chapter"><head>Chapter 7. PHILOLAUS (Perhaps
 					late fifth century)</head> 
 					<p>Philolaus of Croton was a Pythagorean,
 						and it was from him that Plato requests Dion to buy the Pythagorean
@@ -19737,9 +19737,9 @@ century B.C.)</head>
 						publish the Pythagorean treatises, to which he gave the title <hi rend="ital">On Nature</hi>, beginning as follows : "Nature in the
 						ordered universe was composed of unlimited and limiting elements,
 						and so was the whole universe and all that is therein."
-					</p></div2>
+					</p></div>
 				
-				<div2 n="8" type="chapter"><head>Chapter 8. EUDOXUS (c. 407-357 B.C.)</head> 
+				<div n="8" type="chapter"><head>Chapter 8. EUDOXUS (c. 407-357 B.C.)</head> 
 					
 					<milestone unit="section" n="86"/>
 					<p>Eudoxus
@@ -19860,12 +19860,12 @@ century B.C.)</head>
 						"sporadic" philosophers. And first we must speak of
 						Heraclitus.
 					</p>
-				</div2>
-			</div1> 
+				</div>
+			</div> 
 			<pb n="409"/> 
-			<div1 n="9" type="book"><head>BOOK
+			<div n="9" type="book"><head>BOOK
 				IX</head> 
-				<div2 n="1" type="chapter"><head>Chapter 1. HERACLITUS</head> 
+				<div n="1" type="chapter"><head>Chapter 1. HERACLITUS</head> 
 					
 					<milestone unit="section" n="1"/>
 					<p>Heraclitus,
@@ -20216,9 +20216,9 @@ century B.C.)</head>
 					</p> 
 					<p>(5) a jester who adopted
 						this profession after having been a musician.
-					</p></div2>
+					</p></div>
 				
-				<div2 n="2" type="chapter"><head>Chapter 2. XENOPHANES<note n="c">Diels (<hi rend="ital">Dox. Gr.</hi> p. 140) compares Hippolytus, <hi rend="ital">Ref. Haer.</hi> i. 14. 1 ; Plutarch, <hi rend="ital">Strom.</hi> 4 ; A&euml;tius, i. 3. 12, ii. 4. 11, ii. 20. 3,
+				<div n="2" type="chapter"><head>Chapter 2. XENOPHANES<note n="c">Diels (<hi rend="ital">Dox. Gr.</hi> p. 140) compares Hippolytus, <hi rend="ital">Ref. Haer.</hi> i. 14. 1 ; Plutarch, <hi rend="ital">Strom.</hi> 4 ; A&euml;tius, i. 3. 12, ii. 4. 11, ii. 20. 3,
 					iii. 9. 4, ii. 24. 9, i. 3. 12, iii. 16. 5, ultimately from
 					Theophrastus, <hi rend="ital">Phys. Opin.</hi> Fr. 5, Fr. 16.</note>
 					(570-478 B.C.)</head> 
@@ -20306,8 +20306,8 @@ century B.C.)</head>
 					</p> 
 					<p>Such were the "sporadic"
 						philosophers.
-					</p></div2> 
-				<div2 n="3" type="chapter"><head>Chapter 3. PARMENIDES<note n="d">Diels (<hi rend="ital">op. cit.</hi> p. 141) compares
+					</p></div> 
+				<div n="3" type="chapter"><head>Chapter 3. PARMENIDES<note n="d">Diels (<hi rend="ital">op. cit.</hi> p. 141) compares
 					Hippolytus, <hi rend="ital">Ref. Haer.</hi> i. 11. 1, 2 ; Plutarch,
 					<hi rend="ital">Strom.</hi> 5 ; A&euml;tius, i. 3. 14, iv. 9. 1, iv. 5.
 					12, iii. 15. 7 ; ultimately from Theophrastus, <hi rend="ital">Phys.
@@ -20390,8 +20390,8 @@ century B.C.)</head>
 					<p>There was also
 						another Parmenides, a rhetorician who wrote a treatise on his
 						art.
-					</p></div2> 
-				<div2 n="4" type="chapter"><head>Chapter 4. MELISSUS</head> 
+					</p></div> 
+				<div n="4" type="chapter"><head>Chapter 4. MELISSUS</head> 
 					
 					<milestone unit="section" n="24"/>
 					<p>Melissus,
@@ -20415,9 +20415,9 @@ century B.C.)</head>
 					</p> 
 					<p>According to Apollodorus, he flourished in
 						the 84th Olympiad.<note n="a">444-440 b.c.</note>
-					</p></div2>
+					</p></div>
 				
-				<div2 n="5" type="chapter"><head>Chapter 5. ZENO OF ELEA</head> 
+				<div n="5" type="chapter"><head>Chapter 5. ZENO OF ELEA</head> 
 					
 					<milestone unit="section" n="25"/>
 					<p>Zeno was a citizen of
@@ -20527,8 +20527,8 @@ century B.C.)</head>
 						Zeno of Citium.<note n="b">vii. 35.</note> Our philosopher
 						flourished in the 79th Olympiad.<note n="c">464-460
 							b.c.</note>
-					</p></div2> 
-				<div2 n="6" type="chapter"><head>Chapter 6. LEUCIPPUS<note n="d">With the account of Leucippus and Democritus Diels (<hi rend="ital">op. cit.</hi> p. 142) compares Hippolytus, <hi rend="ital">Ref. Haeres.</hi> i. 12. 1-2 and i. 13. 1 ; A&euml;tius i. 3.
+					</p></div> 
+				<div n="6" type="chapter"><head>Chapter 6. LEUCIPPUS<note n="d">With the account of Leucippus and Democritus Diels (<hi rend="ital">op. cit.</hi> p. 142) compares Hippolytus, <hi rend="ital">Ref. Haeres.</hi> i. 12. 1-2 and i. 13. 1 ; A&euml;tius i. 3.
 					15, i. 18. 3, ii. 1. 4, ii. 2. 2, ii. 7. 2, i. 3. 16 ; ultimately
 					from Theophrastus, <hi rend="ital">Phys. Opin.</hi> Fr.
 8.</note></head> 
@@ -20600,8 +20600,8 @@ century B.C.)</head>
 						are unequal. As the world is born, so, too, it grows, decays and
 						perishes, in virtue of some necessity, the nature of which he does
 						[not] specify.
-					</p></div2> 
-				<div2 n="7" type="chapter"><head>Chapter 7. DEMOCRITUS(? 460-357
+					</p></div> 
+				<div n="7" type="chapter"><head>Chapter 7. DEMOCRITUS(? 460-357
 				B.C.)</head> 
 					
 					<milestone unit="section" n="34"/>
@@ -21082,8 +21082,8 @@ century B.C.)</head>
 						Samothrace ; (5) an epigrammatist whose style is lucid and ornate ;
 						(6) a native of Pergamum who made his mark by rhetorical
 						speeches.
-					</p></div2> 
-				<div2 n="8" type="chapter"><head>Chapter 8. PROTAGORAS (481-411
+					</p></div> 
+				<div n="8" type="chapter"><head>Chapter 8. PROTAGORAS (481-411
 				b.c.)</head> 
 					
 					<milestone unit="section" n="50"/>
@@ -21248,8 +21248,8 @@ century B.C.)</head>
 					<p>There was another Protagoras, an astronomer, for whom
 						Euphorion wrote a dirge ; and a third who was a Stoic
 						philosopher.
-					</p></div2> 
-				<div2 n="9" type="chapter"><head>Chapter 9. DIOGENES OF APOLLONIA
+					</p></div> 
+				<div n="9" type="chapter"><head>Chapter 9. DIOGENES OF APOLLONIA
 					<note n="c">We naturally feel surprise when this early philosopher
 						is interpolated between Protagoras and Anaxarchus, both assumed to
 						be pupils of Democritus. The only explanation suggested is a severe
@@ -21285,8 +21285,8 @@ century B.C.)</head>
 						every discourse I consider that one ought to make the starting-point
 						unmistakably clear and the exposition simple and
 						dignified."
-					</p></div2> 
-				<div2 n="10" type="chapter"><head>Chapter 10. ANAXARCHUS</head>
+					</p></div> 
+				<div n="10" type="chapter"><head>Chapter 10. ANAXARCHUS</head>
 					<milestone unit="section" n="58"/>
 					<p>Anaxarchus, a native of Abdera, studied under Diogenes of
 						Smyrna,<note n="c">Here a Diogenes is mentioned as a link between
@@ -21347,8 +21347,8 @@ century B.C.)</head>
 					
 					<p>One of the gods shall fall by the stroke of mortal man.<note n="d">Euripides, <hi rend="ital">Orestes</hi>,
 						271.</note>
-					</p></div2> <pb n="475"/> 
-				<div2 n="11" type="chapter"><head>Chapter 11. PYRRHO
+					</p></div> <pb n="475"/> 
+				<div n="11" type="chapter"><head>Chapter 11. PYRRHO
 				(c. 360-270 b.c.)</head> 
 					
 					<milestone unit="section" n="61"/>
@@ -22299,8 +22299,8 @@ century B.C.)</head>
 						according to others, gentleness.<note n="b"><hi rend="ital">i.e.</hi> a calm, the opposite of an excitable,
 							temperament : <hi rend="ital">cf.</hi> Plato, <hi rend="ital">Lys</hi> 211 e <foreign lang="greek">πρᾄως
 									ἔχω.</foreign></note>
-					</p></div2> 
-				<div2 n="12" type="chapter"><head>Chapter 12. TIMON (c.
+					</p></div> 
+				<div n="12" type="chapter"><head>Chapter 12. TIMON (c.
 320-2			30 B.C.)</head> 
 					
 					<milestone unit="section" n="109"/>
@@ -22478,12 +22478,12 @@ century B.C.)</head>
 							under the cosmopolitan empire of the Severi.</note> another
 						empiricist.
 					</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb n="529"/> 
-			<div1 n="10" type="book"><head>BOOK
+			<div n="10" type="book"><head>BOOK
 				X</head> 
-				<div2 n="1" type="chapter"><head>EPICURUS (341-271 B.C.)</head> 
+				<div n="1" type="chapter"><head>EPICURUS (341-271 B.C.)</head> 
 					
 					<milestone unit="section" n="1"/>
 					<p>Epicurus, son
@@ -25620,8 +25620,8 @@ century B.C.)</head>
 						the survivors did not lament his death as if it called for
 						commiseration.
 					</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

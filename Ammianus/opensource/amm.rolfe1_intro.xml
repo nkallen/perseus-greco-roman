@@ -61,8 +61,8 @@
 	<text>
 		<body>  
 			<pb id="p.vii"/>
-			<div1 type="book">
-				<div2><head>Preface</head>
+			<div type="book">
+				<div><head>Preface</head>
 					
 					<p>SOME of the reviews of my previous contributions to the <hi rend="italics">L.C.L.</hi> make it advisable to say that this is a translation and not a critical edition. Every serious student of the text must use the standard edition of C. U. Clark (Berlin, vol. i, 1910; vol. ii, part I, 1915). The translator has, however, attempted to examine all the available critical material, and has deviated in a number of instances from Clark's text, always with hesitation, except in the way of filling out lacunae. To shorten and simplify the critical notes (which are perhaps still too numerous) all instances have been omitted in which the earlier editions have made corrections of Codex V which are generally accepted.</p>
 					
@@ -71,10 +71,10 @@
 					<p>My obligations to Professor Clark are not confined to the use of his edition. He generously placed at  <pb id="p.viii"/>  my disposal the first draft of his translation of Books xiv&ndash;xvii, 11, 4, which has been of great service. My translation, however, must not be supposed to reflect his final version. He also lent me his copy of the somewhat rare translation of Holland.</p>
 					
 					<p>Anyone who is at all familiar with the constant problems presented by the text of Ammianus, and by his Latinity, will view with indulgence an attempt to render him into English and to retain so far as possible something of the flavour of the original.</p> <closer><signed>John C. Rolfe.</signed> <dateline>PHILADELPHIA, June, 1935.</dateline></closer>
-				</div2>  
+				</div>  
 				<pb id="p.ix"/>
 				
-				<div2><head>Introduction The life of Ammianus</head>
+				<div><head>Introduction The life of Ammianus</head>
 					
 					<p>Our knowledge of Ammianus is derived almost wholly from his own writings. He was born about A.D. 330 in Syrian Antioch, of a good Greek family,
 						
@@ -639,8 +639,8 @@
 							<note>For a brief description of the principal manuscripts and editions see Introd., pp. xliv ff., and for a full description, Clark's <hi rend="italics">Text Tradition;</hi> see p. xliv, note 3.</note>
 						</cell></row> <row><cell>B</cell><cell>= the edition of Castellus.</cell></row> <row><cell><hi rend="italics">b</hi></cell><cell> = the edition of Erasmus.</cell></row> <row><cell>Boxh.</cell><cell>= the edition of Boxhorn, Leyden, 1632.</cell></row> <row><cell>c.c.</cell><cell>= <hi rend="italics">cursus causa,</hi> emendations made to correct rhythmical endings.</cell></row> <row><cell>D</cell><cell>= Codex Vaticanus, 1874 (ends at xxv. 3, 13).</cell></row> <row><cell>E</cell><cell>= Codex Vaticanus Lat. 2969.</cell></row> <row><cell>Eyssen.</cell><cell>= the edition of Eyssenhardt.</cell></row> <row><cell>G</cell><cell>= the edition of Gelenius.</cell></row> <row><cell>g</cell><cell>= the edition of Gelenius by R. Stephanus, Paris, 1544.</cell></row> <row><cell>Gardt.</cell><cell>= the edition of Gardthausen.</cell></row> <row><cell>H</cell><cell>= Codex Parisinus, Bibl. Nat. Lat. 5819.</cell></row> <row><cell>Her.</cell><cell>= W. Heraeus, who collaborated with Clark in his edition.</cell></row> <row><cell>lac.</cell><cell>= <hi rend="italics">lacuna.</hi></cell></row> <row><cell>Lind.</cell><cell>= the edition of Lindenbrog.</cell></row> <row><cell>M</cell><cell>= Codex Hersfeldensis.</cell></row> <row><cell>N</cell><cell>= Codex Neapolitanus, Paris, Bibl. Nat. Lat. 6120.</cell></row> <row><cell>P</cell><cell>= Codex Petrinus, Rome, Basil. S. Petri, E 27 (ends with Book xxvi.).</cell></row> <row><cell>Pet.</cell><cell>= M. Petschenig.</cell></row> <row><cell/><cell>T = Codex Tolosanus, Paris, Bibl. Nat. Lat. 5820.</cell></row> <row><cell>vulgo</cell><cell>= readings unknown to the Valesii, but found in the ed. of Gronov.</cell></row> <row><cell>V</cell><cell>= Codex Fuldensis, Rome, Vat. Lat. 1873.</cell></row> <row><cell>Val.</cell><cell>= the edition of Henricus Valesius.</cell></row> <row><cell>Hadr. Val.</cell><cell>= the edition of Hadrian Valesius.</cell></row> <row><cell>W</cell><cell>= Codex Venetus, Bibl. S. Marc. 388, Bess.</cell></row></table></p>
 					</div3>
-				</div2>
-			</div1>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

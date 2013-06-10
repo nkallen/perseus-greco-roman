@@ -78,7 +78,7 @@ correct CVS keyword in change description
 </revisionDesc>
 </teiHeader>
 <text><body>
-<div1 type="book" n="praefatio">
+<div type="book" n="praefatio">
 <p><milestone n="1 a." unit="folio page"/>GLORIOSISSIMO REGI CEOLUULFO BAEDA FAMULUS CHRISTI ET PRESBYTER</p>
 <p>HISTORIAM gentis Anglorum ecclesiasticam, quam <note lang="en" anchored="yes" place="marg">Dedication
 to Ceolwulf,
@@ -216,10 +216,10 @@ digna atque incolis grata credideram, diligenter
 adnotare curaui, apud omnes fructum piae intercessionis
 inueniam.
 <pb/></p>
-</div1>
-<div1 type="book" n="1">
+</div>
+<div type="book" n="1">
 <head>LIBER PRIMUS.</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CAP. I.</head>
 <argument><p>De situ Brittaniae uel Hiberniae, et priscis earum incolis.</p></argument>
 <p><milestone n="3 a." unit="folio page"/> <hi rend="ital">Brittania</hi> Oceani <hi rend="ital">insula,</hi> cui quondam <hi rend="ital">Albion nomen</hi> <note lang="en" anchored="yes" place="marg">Description
@@ -389,8 +389,8 @@ gentem Brettonum a Pictis secernebat, qui ab occidente
 in terras longo spatio erumpit, ubi est ciuitas Brettonum
 munitissima usque hodie, quae uocatur Alcluith; ad
 cuius uidelicet sinus partem septentrionalem Scotti,
-quos diximus, aduenientes sibi locum patriae fecerunt.</p></div2>
-<div2 type="chapter" n="2">
+quos diximus, aduenientes sibi locum patriae fecerunt.</p></div>
+<div type="chapter" n="2">
 <head>CAP. II.</head>
 <argument><p>Ut Brittaniam primus Romanorum Gaius Iulius adierit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Tertull.
@@ -446,8 +446,8 @@ a Brittanis reuersus in Galliam, postquam legiones in
 hiberna misit, repentinis bellorum tumultibus undique</hi> <note lang="en" anchored="yes" place="marg">Orosius,
 vi. 10.</note>
 <hi rend="ital">circumuentus et conflictatus est.</hi>
-<pb n="15"/></p></div2>
-<div2 type="chapter" n="3">
+<pb n="15"/></p></div>
+<div type="chapter" n="3">
 <head>CAP. III.</head>
 <argument><p>Ut eandem secundus Romanorum Claudius adiens, Orcadas etiam
 insulas Romano adiecerit imperio; sed et Uespasianus ab eo missus
@@ -495,8 +495,8 @@ in re militari ausus</hi> est. Unde inter alia Romani regni
 detrimenta innumera, <hi rend="ital">Brittaniam pene amisit; nam
 duo sub</hi> eo <hi rend="ital">nobilissima oppida illic capta atque subuersa
 sunt.</hi>
-<pb n="16"/></p></div2>
-<div2 type="chapter" n="4">
+<pb n="16"/></p></div>
+<div type="chapter" n="4">
 <head>CAP. IV.</head>
 <argument><p>Ut Lucius Brittanorum rex, missis ad Eleutherum papam litteris,
 Christianum se fieri petierit.</p></argument>
@@ -518,8 +518,8 @@ i. 136.</note>
 efficeretur;</hi> et mox effectum piae postulationis consecutus
 est; susceptamque fidem Brittani usque in
 tempora Diocletiani principis inuiolatam integramque
-quieta in pace seruabant.</p></div2>
-<div2 type="chapter" n="5">
+quieta in pace seruabant.</p></div>
+<div type="chapter" n="5">
 <head>CAP. V.</head>
 <argument><p>Ut Seuerus receptam Brittaniae partem uallo a cetera distinxerit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Severus in
@@ -547,8 +547,8 @@ firmissimumque uallum, crebris insuper turribus conmunitum,
 a mari ad mare duxit. Ibique apud Eboracum
 oppidum morbo obiit. Reliquit duos filios, Bassianum et
 Getam; quorum Geta hostis puplicus iudicatus interiit,
-Bassianus, Antonio cognomine adsumpto, regno potitus est.</hi></p></div2>
-<div2 type="chapter" n="6">
+Bassianus, Antonio cognomine adsumpto, regno potitus est.</hi></p></div>
+<div type="chapter" n="6">
 <head>CAP. VI.</head>
 <argument><p>De imperio Diocletiani, et ut Christianos persecutus sit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg"><placeName key="tgn,1022266">Oros</placeName>.
@@ -585,8 +585,8 @@ fuit; nam per X annos incendiis ecclesiarum, proscriptionibus
 innocentum, caedibus martyrum incessabiliter</hi> <note lang="en" anchored="yes" place="marg">cf. Gildas,
 &sect; 9.</note>
 <hi rend="ital">acta est.</hi> Denique etiam Brittaniam tum plurima
-confessionis Deo deuotae gloria sublimauit.</p></div2>
-<div2 type="chapter" n="7">
+confessionis Deo deuotae gloria sublimauit.</p></div>
+<div type="chapter" n="7">
 <head>CAP. VII.</head>
 <argument><p>Passio sancti Albani et sociorum eius, qui eodem tempore pro
 Domino sanguinem fuderunt.</p></argument>
@@ -730,8 +730,8 @@ urbis ciues,</hi> aliique <hi rend="ital">utriusque sexus diuersis in locis</hi>
 10, 11.</note>
 perplures, qui <hi rend="ital">diuersis cruciatibus torti, et inaudita
 membrorum discerptione lacerati,</hi> animas ad supernae
-ciuitatis gaudia perfecto agone miserunt.</p></p></div2>
-<div2 type="chapter" n="8">
+ciuitatis gaudia perfecto agone miserunt.</p></p></div>
+<div type="chapter" n="8">
 <head>CAP. VIII.</head>
 <argument><p>Ut, hac cessante persecutione, ecclesia in Brittaniis aliquantulam,
 usque
@@ -776,8 +776,8 @@ heresis exorta, et in Nicena synodo detecta atque
 damnata, nihilominus exitiabile perfidiae suae uirus,
 ut diximus, non solum orbis totius, sed et insularum
 ecclesiis aspersit.
-<pb n="23"/></p></div2>
-<div2 type="chapter" n="9">
+<pb n="23"/></p></div>
+<div type="chapter" n="9">
 <head>CAP. IX.</head>
 <argument><p>Ut, regnante Gratiano, Maximus in Brittania imperator creatus, cum
 magno exercitu Galliam redierit.</p></argument>
@@ -804,8 +804,8 @@ in orientem refugiens, a Theodosio paterna pietate</hi>
 <note lang="en" anchored="yes" place="marg">ib vii. 35.</note>
 <hi rend="ital">susceptus, mox etiam imperio restitutus est; clau</hi>so uidelicet
 intra muros <hi rend="ital">Aquileiae, cap</hi>to atque <hi rend="ital">occi</hi>so ab eis
-<hi rend="ital">Maxim</hi>o <hi rend="ital">tyrann</hi>o.</p></div2>
-<div2 type="chapter" n="10">
+<hi rend="ital">Maxim</hi>o <hi rend="ital">tyrann</hi>o.</p></div>
+<div type="chapter" n="10">
 <head>CAP. X.</head>
 <argument><p>Ut, Arcadio regnante, Pelagius Bretto contra gratiam Dei superba
 bella susceperit.</p></argument>
@@ -836,8 +836,8 @@ Scriptor, quem dudum liuor adurit edax.</l>
 <p/><l>Quis caput obscuris contectum utcumque cauernis
 Tollere humo miserum propulit anguiculum?</l>
 <p/><l>Aut hunc fruge sua aequorei pauere Britanni,
-Aut hic Campano gramine corda tumet.&rsquo;</l></p></div2>
-<div2 type="chapter" n="11">
+Aut hic Campano gramine corda tumet.&rsquo;</l></p></div>
+<div type="chapter" n="11">
 <head>CAP. XI.</head>
 <argument><p>Ut, regnante Honorio, Gratianus et Constantinus in Brittania tyranni
 creati; et mox prior in Brittania, secundus in Gallia sint interemti.</p></argument>
@@ -881,8 +881,8 @@ trans insulam fecisse commemorauimus, ad plagam
 meridianam, quod ciuitates, farus, pontes, et stratae
 ibidem factae usque hodie testantur; ceterum ulteriores
 Brittaniae partes, uel eas etiam, quae ultra Brittaniam
-sunt, insulas iure dominandi possidebant.</p></div2>
-<div2 type="chapter" n="12">
+sunt, insulas iure dominandi possidebant.</p></div>
+<div type="chapter" n="12">
 <head>CAP. XII.</head>
 <argument><p>Ut Brettones a Scottis uastati Pictisque, Romanorum auxilia quaesierint,
 qui secundo uenientes murum trans insulam fecerint; sed hoc confestim a
@@ -1003,8 +1003,8 @@ possessiunculis suis eiecti, inminens sibi famis periculum
 <hi rend="ital">latrocini</hi>o ac rapacitate mutua temperabant,
 <hi rend="ital">auge</hi>ntes <hi rend="ital">ext</hi>ernas <hi rend="ital">domesticis motibus clades,</hi> donec
 <hi rend="ital">omnis regio totius cibi</hi> sustentaculo, <hi rend="ital">excepto uena</hi>ndi
-<hi rend="ital">solacio, uacuaretur.</hi></p></div2>
-<div2 type="chapter" n="13">
+<hi rend="ital">solacio, uacuaretur.</hi></p></div>
+<div type="chapter" n="13">
 <head>CAP. XIII.</head>
 <argument><p>Ut, regnante Theodosio minore, cuius tempore Palladius ad Scottos in
 Christum credentes missus est, Brettones ab Aetio consule auxilium flagitantes
@@ -1046,8 +1046,8 @@ et hisdem temporibus <hi rend="ital">fames Constantinopolim inuas</hi>it;
 nec mora <hi rend="ital">pestis secuta</hi> est; sed et <hi rend="ital">plurimi</hi> eiusdem
 <hi rend="ital">urbis muri cum LVII turribus conruerunt;</hi> multis
 quoque <hi rend="ital">ciuitatibus conlapsis, fames et aerum pestifer
-odor</hi> plura <hi rend="ital">hominum milia iumentorumque deleuit.</hi></p></div2>
-<div2 type="chapter" n="14">
+odor</hi> plura <hi rend="ital">hominum milia iumentorumque deleuit.</hi></p></div>
+<div type="chapter" n="14">
 <head>CAP. XIV.</head>
 <argument><p>Ut Brettones fame famosa coacti, barbaros suis e finibus pepulerint; nec
 mora, frugum copia, luxuria, pestilentia, et exterminium gentis secutum
@@ -1106,8 +1106,8 @@ tam feras tam</hi>que <hi rend="ital">creb</hi>errimas <hi rend="ital">gentium</
 Uur<hi rend="ital">tigerno,</hi> ut<hi rend="ital">Saxon</hi>um gentem de transmarinis partibus
 in auxilium uocarent; quod Domini nutu dispositum
 esse constat, ut ueniret contra improbos malum, sicut
-euidentius rerum exitus probauit.</p></div2>
-<div2 type="chapter" n="15">
+euidentius rerum exitus probauit.</p></div>
+<div type="chapter" n="15">
 <head>CAP. XV.</head>
 <argument><p>Ut inuitata Brittaniam gens Anglorum, primo quidem adversarios longius
 eiecerit; sed non multo post, iuncto cum his foedere, in socios arma
@@ -1198,8 +1198,8 @@ trucidarentur; alii transmarinas regiones</hi> dolentes <hi rend="ital">petebant
 <pb n="33"/>
 alii persta</hi>ntes <hi rend="ital">in patria trepidi</hi> pauperem <hi rend="ital">uitam in
 monti</hi>bus, siluis, uel <hi rend="ital">rupibus</hi> arduis <hi rend="ital">suspecta semper
-mente</hi> agebant.</p></div2>
-<div2 type="chapter" n="16">
+mente</hi> agebant.</p></div>
+<div type="chapter" n="16">
 <head>CAP. XVI.</head>
 <argument><p>Ut Brettones primam de gente Anglorum uictoriam duce Ambrosio,
 Romano homine, sumserint.</p></argument>
@@ -1224,8 +1224,8 @@ suscipiunt. <hi rend="ital">Et ex eo temporc nunc ciues, nunc hostes
 uincebant, usque ad annum obsessionis Badonici montis,</hi>
 quando <hi rend="ital">non minimas</hi> eisdem hostibus <hi rend="ital">strages</hi> dabant,
 <hi rend="ital">XL</hi><hi rend="super"><hi rend="ital">m</hi>o</hi> circiter et <hi rend="ital">IIII</hi><hi rend="super">o</hi> <hi rend="ital">anno</hi> aduentus eorum in Brittaniam.
-Sed haec postmodum.</p></div2>
-<div2 type="chapter" n="17">
+Sed haec postmodum.</p></div>
+<div type="chapter" n="17">
 <head>CAP. XVII.</head>
 <argument><p>Ut Germanus episcopus cum Lupo Brittaniam nauigans, et primo maris,
 et postmodum Pelagianorum tempestatem diuina uirtute sedauerit.</p></argument>
@@ -1324,8 +1324,8 @@ uanitas, perfidia confutatur; ita ut ad singulas uerborum
 obiectiones</hi> errare <hi rend="ital">se, dum respondere nequ</hi>iit, <hi rend="ital">fateretur;
 <pb n="36"/>
 populus arbiter uix manus continet, iudicium</hi> tamen <hi rend="ital">clamore
-testatur.</hi></p></div2>
-<div2 type="chapter" n="18">
+testatur.</hi></p></div>
+<div type="chapter" n="18">
 <head>CAP. XVIII.</head>
 <argument><p>Ut idem filiam tribuni caecam inluminauerit, ac deinde ad sanctum
 Albanum perueniens, reliquias ibidem et ipsius acceperit, et beatorum
@@ -1373,8 +1373,8 @@ loco ipso, ubi beati martyris effusus erat sanguis, massam
 pulueris secum portaturus abstulit, in qua apparebat, cruore
 seruato, rub</hi>uisse <hi rend="ital">martyrum aedem, persecutore pallente.
 Quibus ita gestis, innumera hominum eodem die ad Dominum
-turba conuersa est.</hi></p></div2>
-<div2 type="chapter" n="19">
+turba conuersa est.</hi></p></div>
+<div type="chapter" n="19">
 <head>CAP. XIX.</head>
 <argument><p>Ut idem causa infirmitatis ibidem detentus, et incendia domorum orando
 restinxerit, et ipse per uisionem a suo sit langore curatus.</p></argument>
@@ -1411,8 +1411,8 @@ uestibus uidit sibi adesse personam, quae manu extensa
 iacentem uideretur adtollere, eumque consistere firmis
 uestigiis imperabat. Post quam horam ita, fugatis doloribus,
 recepit pristinam sanitatem, ut, die reddito, itineris
-laborem subiret intrepidus.</hi></p></div2>
-<div2 type="chapter" n="20">
+laborem subiret intrepidus.</hi></p></div>
+<div type="chapter" n="20">
 <head>CAP. XX.</head>
 <argument><p>Ut idem episcopi Brettonibus in pugna auxilium caeleste tulerint, sicque
 domum reuersi sint.</p></argument>
@@ -1481,8 +1481,8 @@ hostibus uel</hi> inuisibilibus, <hi rend="ital">uel carne conspicuis, reditum
 moliuntur</hi> pontifices. Quibus <hi rend="ital">tranquillam nauigationem</hi>
 et <hi rend="ital">merita propria et intercessio</hi> beati <hi rend="ital">martyris Albani
 parauerunt, quietosque</hi> eos <hi rend="ital">suorum desideriis felix carina
-restituit.</hi></p></div2>
-<div2 type="chapter" n="21">
+restituit.</hi></p></div>
+<div type="chapter" n="21">
 <head>CAP. XXI.</head>
 <argument><p>Ut, renascentibus uirgultis Pelagianae pestis, Germanus cum Seuero Brittaniam
 reuersus, prius claudo iuueni incessum, deinde et populo Dei,
@@ -1556,8 +1556,8 @@ Christum. Cuius corpus honorifico agmine, comitantibus
 uirtutum operibus, suam defertur ad urbem. Nec
 multo post Ualentinianus ab Aetii patricii, quem occiderat,
 satellitibus interimitur, anno imperii Marciani
-VI<hi rend="super">o</hi>, cum quo simul Hesperium concidit regnum.</p></div2>
-<div2 type="chapter" n="22">
+VI<hi rend="super">o</hi>, cum quo simul Hesperium concidit regnum.</p></div>
+<div type="chapter" n="22">
 <head>CAP. XXII.</head>
 <argument><p>Ut Brettones, quiescentibus ad tempus exteris, ciuilibus sese bellis
 contriuerint, simul et maioribus flagitiis submerserint.</p></argument>
@@ -1586,8 +1586,8 @@ secum Brittaniam incolenti, uerbum fidei
 praedicando committerent. Sed non tamen diuina <note lang="en" anchored="yes" place="marg">Rom xi. 2.</note>
 pietas plebem suam, quam praesciuit, deseruit, quin
 multo digniores genti memoratae praecones ueritatis,
-per quos crederet, destinauit.</p></div2>
-<div2 type="chapter" n="23">
+per quos crederet, destinauit.</p></div>
+<div type="chapter" n="23">
 <head>CAP. XXIII.</head>
 <argument><p>Ut sanctus papa Gregorius Augustinum cum monachis ad praedicandum
 genti Anglorum mittens, epistula quoque illos exhortatoria, ne a laborando
@@ -1651,8 +1651,8 @@ dilectissimi filii.</hi></p>
 <p><hi rend="ital">Data die X Kalendarum Augustarum, imperante domino
 nostro Mauricio Tiberio piissimo Augusto anno
 XIIII, post consulatum eiusdem domini nostri anno XIII,
-indictione XIIII.</hi></p></div2>
-<div2 type="chapter" n="24">
+indictione XIIII.</hi></p></div>
+<div type="chapter" n="24">
 <head>CAP. XXIV.</head>
 <argument><p>Ut Arelatensi episcopo epistulam pro eorum susceptione miserit.</p></argument>
 <p>MISIT etiam tunc isdem uenerandus pontifex ad
@@ -1686,8 +1686,8 @@ frater.</hi></p>
 <p><hi rend="ital">Data die X Kalendarum Augustarum, imperante
 domino nostro Mauricio Tiberio piissimo Augusto, anno
 XIIII, post consulatum eiusdem domini nostri anno XIII,
-indictione XIIII.</hi></p></div2>
-<div2 type="chapter" n="25">
+indictione XIIII.</hi></p></div>
+<div type="chapter" n="25">
 <head>CAP. XXV.</head>
 <argument><p>Ut ueniens Brittaniam Augustinus primo in insula Tanato regi
 Cantuariorum
@@ -1768,8 +1768,8 @@ Iesu Christi hanc laetaniam consona uoce modularentur:
 &lsquo;Deprecamur te, Domine, in omni misericordia
 tua, ut auferatur furor tuus et ira tua a ciuitate
 ista, et de domo sancta tua, quoniam peccauimus.
-Alleluia.&rsquo;</p></div2>
-<div2 type="chapter" n="26">
+Alleluia.&rsquo;</p></div>
+<div type="chapter" n="26">
 <head>CAP. XXVI.</head>
 <argument><p>Ut idem in Cantia primitiuae ecclesiae et doctrinam sit imitatus, et
 uitam,
@@ -1815,8 +1815,8 @@ coacticium esse debere. Nec distulit, quin etiam ipsis
 doctoribus suis locum sedis eorum gradui congruum
 in Doruuerni metropoli sua donaret, simul et necessarias
 in diuersis speciebus possessiones conferret.
-<pb n="48"/></p></div2>
-<div2 type="chapter" n="27">
+<pb n="48"/></p></div>
+<div type="chapter" n="27">
 <head>CAP. XXVII.</head>
 <argument><p>Ut idem episcopus factus Gregorio papae, quae sint Brittaniae gesta
 mandarit, simul et necessariis eius responsa petens acceperit.</p></argument>
@@ -2378,8 +2378,8 @@ cui lex, quae in membris est, repugnabat. Si autem
 pugnabat, captiuus non erat. Ecce itaque homo est, ut
 <pb n="62"/>
 ita dixerim, captiuus et liber; liber ex iustitia, quam diligit,
-captiuus ex delectatione, quam portat inuitus.</hi></p></div2>
-<div2 type="chapter" n="28">
+captiuus ex delectatione, quam portat inuitus.</hi></p></div>
+<div type="chapter" n="28">
 <head>CAP. XXVIII.</head>
 <argument><p>Ut papa Gregorius epistulam Arelatensi episcopo, pro adiuuando in opere
 Dei Augustino, miserit.</p></argument>
@@ -2414,8 +2414,8 @@ reuerentissime frater.</hi></p>
 <p><hi rend="ital">Data die X Kalendarum Iuliarum, imperante domino
 nostro Mauricio Tiberio piissimo Augusto anno XIX, post
 consulatum eiusdem domini anno XVIII, indictione IIII.</hi>&rsquo;
-<pb n="63"/></p></div2>
-<div2 type="chapter" n="29">
+<pb n="63"/></p></div>
+<div type="chapter" n="29">
 <head>CAP. XXIX.</head>
 <argument><p>Ut idem Augustino pallium et epistulam et plures uerbi ministros miserit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg"><persName><surname>Matt</surname></persName>. ix.
@@ -2486,8 +2486,8 @@ custodiat, reuerentissime frater.</hi></p>
 <p><hi rend="ital">Data die X. Kalendarum Iuliarum, imperante domino
 nostro Mauricio Tiberio piissimo Augusto anno XVIIII,
 post consulatum eiusdem domini anno XVIII, indictione
-IIII.</hi></p></div2>
-<div2 type="chapter" n="30">
+IIII.</hi></p></div>
+<div type="chapter" n="30">
 <head>CAP. XXX.</head>
 <argument><p>Exemplar epistulae, quam Mellito abbati Brittaniam pergenti misit.</p></argument>
 <p>ABEUNTIBUS autem praefatis legatariis, misit post
@@ -2545,8 +2545,8 @@ te incolumem custodiat, dilectissime fili.</hi></p>
 <p><hi rend="ital">Data die XV. Kalendarum Iuliarum, imperante domino
 nostro Mauricio Tiberio piissimo Augusto anno XIX,
 post consulatum eiusdem domini anno XVIII, indictione
-IIII.</hi></p></div2>
-<div2 type="chapter" n="31">
+IIII.</hi></p></div>
+<div type="chapter" n="31">
 <head>CAP. XXXI.</head>
 <argument><p>Ut Augustinum per litteras, ne de uirtutibus suis gloriaretur, hortatus
 sit.</p></argument>
@@ -2592,8 +2592,8 @@ nostro seu per linguam, siue per operam reminisceris
 deliquisse, semper haec ad memoriam reuoces, ut surgentem
 cordis gloriam memoria reatus premat. Et quicquid de
 faciendis signis acceperis, uel accepisti, haec non tibi, sed
-illis deputes donata, pro quorum tibi salute collata sunt.</hi></p></div2>
-<div2 type="chapter" n="32">
+illis deputes donata, pro quorum tibi salute collata sunt.</hi></p></div>
+<div type="chapter" n="32">
 <head>CAP. XXXII.</head>
 <argument><p>Ut &AElig;dilbercto regi litteras et dona miserit.</p></argument>
 <p>MISIT idem beatus papa Gregorius eodem tempore
@@ -2694,8 +2694,8 @@ domine fili.</hi></p>
 <p><hi rend="ital">Data die X. Kalendarum Iuliarum, imperante domino
 nostro Mauricio Tiberio piissimo Augusto anno XVIIII,
 post consulatum eiusdem domini anno XVIII, indictione
-IIII.</hi></p></div2>
-<div2 type="chapter" n="33">
+IIII.</hi></p></div>
+<div type="chapter" n="33">
 <head>CAP. XXXIII.</head>
 <argument><p>Ut Augustinus ecclesiam Saluatoris instaurauerit, et monasterium beati
 Petri apostoli fecerit; et de primo eius abbate Petro.</p></argument>
@@ -2741,8 +2741,8 @@ animaduertentes uicini, qui uidebant, sanctum fuisse
 uirum, qui ibi esset sepultus, et inuestigantes, unde
 uel quis esset, abstulerunt corpus, et in Bononia ciuitate
 iuxta honorem tanto uiro congruum in ecclesia
-posuerunt.</p></div2>
-<div2 type="chapter" n="34">
+posuerunt.</p></div>
+<div type="chapter" n="34">
 <head>CAP. XXXIV.</head>
 <argument><p>Ut Aedilfrid rex Nordanhymbrorum Scottorum gentes proelio conterens
 ab Anglorum finibus expulerit.</p></argument>
@@ -2785,10 +2785,10 @@ porro anno Focatis, qui tum Romani regni apicem
 tenebat, primo. Neque ex eo tempore quisquam regum
 Scottorum in Brittania aduersus gentem Anglorum
 usque ad hanc diem in proelium uenire audebat.
-<pb/></p></div2></div1>
-<div1 type="book" n="2">
+<pb/></p></div></div>
+<div type="book" n="2">
 <head>LIBER SECUNDUS.</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CAP. I.</head>
 <argument><p>De obitu beati papae Gregorii.</p></argument>
 <p>HIS temporibus, id est anno dominicae incarnationis <note lang="en" anchored="yes" place="marg">Death of
@@ -3111,8 +3111,8 @@ mittens, sed ipse praedicationem ut fructificaret,
 suis exhortationibus ac precibus adiuuans.
 Haec iuxta opinionem, quam ab antiquis accepimus,
 historiae nostrae ecclesiasticae inserere oportunum
-duximus.</p></p></div2>
-<div2 type="chapter" n="2">
+duximus.</p></p></div>
+<div type="chapter" n="2">
 <head>CAP. II.</head>
 <argument><p>Ut Augustinus Brettonum episcopos pro pace catholica, etiam miraculo
 caelesti coram eis facto, monuerit; quaeue illos spernentes ultio
@@ -3266,8 +3266,8 @@ quamuis ipso iam multo ante tempore ad caelestia
 regna sublato, ut etiam temporalis interitus ultione
 <pb n="85"/>
 sentirent perfidi, quod oblata sibi perpetuae salutis
-consilia spreuerant.</p></div2>
-<div2 type="chapter" n="3">
+consilia spreuerant.</p></div>
+<div type="chapter" n="3">
 <head>CAP. III.</head>
 <argument><p>Ut idem Mellitum ac Iustum episcopos fecerit; et de obitu ipsius.</p></argument>
 <p>ANNO dominicae incarnationis DCIIII<hi rend="super">mo</hi>, Augustinus <note lang="en" anchored="yes" place="marg"><persName><surname>Augustine</surname></persName>
@@ -3329,8 +3329,8 @@ suffultus, Aedilbertcum regem ac gentem illius ab
 idolorum cultu ad Christi fidem perduxit, et conpletis <note lang="en" anchored="yes" place="marg">cf. Lnc i.
 23.</note>
 in pace diebus officii sui, defunctus est VII Kalendas
-Iunias, eodem rege regnante.&rsquo;</p></div2>
-<div2 type="chapter" n="4">
+Iunias, eodem rege regnante.&rsquo;</p></div>
+<div type="chapter" n="4">
 <head>CAP. IV.</head>
 <argument><p>Ut Laurentius cum coepiscopis suis Scottos unitatem sanctae ecclesiae
 maxime in pascha obseruando sequi monuerit, et ut Mellitus Romam
@@ -3421,8 +3421,8 @@ omni spurcitia, fecit ecclesiam sanctae Dei genetricis
 atque omnium martyrum Christi; ut, exclusa
 multitudine daemonum, multitudo ibi sanctorum memoriam
 haberet.
-<pb n="89"/></p></div2>
-<div2 type="chapter" n="5">
+<pb n="89"/></p></div>
+<div type="chapter" n="5">
 <head>CAP. V.</head>
 <argument><p>Ut defunctis Aedilbercto et Sabercto regibus successores eorum idolatriam
 resuscitarint, ob quod et Mellitus ac Iustus a Brittania
@@ -3551,8 +3551,8 @@ omnes pariter cum sua militia corruerunt; nec, licet
 auctoribus perditis, excitatum ad scelera uulgus potuit
 recorrigi, atque ad simplicitatem fidei et caritatis, quae <note lang="en" anchored="yes" place="marg">2 Cor. xi.
 3.</note>
-est in Christo, reuocari.</p></div2>
-<div2 type="chapter" n="6">
+est in Christo, reuocari.</p></div>
+<div type="chapter" n="6">
 <head>CAP. VI.</head>
 <argument><p>Ut correptus ab apostolo Petro Laurentius Aeodbaldum regem ad Christum
 conuerterit, qui mox Mellitum et Iustum ad praedicandum i euocauerit.</p></argument>
@@ -3612,8 +3612,8 @@ Uerumtamen ipse cum sua gente, ex quo ad Dominum
 conuersus est, diuinis se studuit mancipare praeceptis.
 Denique et in monasterio beatissimi apostolorum
 principis ecclesiam sanctae Dei genetricis fecit, quam
-consecrauit archiepiscopus Mellitus.</p></div2>
-<div2 type="chapter" n="7">
+consecrauit archiepiscopus Mellitus.</p></div>
+<div type="chapter" n="7">
 <head>CAP. VII.</head>
 <argument><p>Ut Mellitus episcopus flammas ardentis suae ciuitatis orando restinxerit.</p></argument>
 <p>HOC enim regnante rege beatus archiepiscopus <note lang="en" anchored="yes" place="marg">Death of
@@ -3677,8 +3677,8 @@ xiv. 20.</note>
 est cum patribus suis in saepe dicto monasterio et
 ecclesia beatissimi apostolorum principis, anno ab incarnatione
 Domini DCXXIIII, die VIII Kalendarum
-Maiarum.</p></div2>
-<div2 type="chapter" n="8">
+Maiarum.</p></div>
+<div type="chapter" n="8">
 <head>CAP. VIII.</head>
 <argument><p>Ut Bonifatius papa Iusto successori eius pallium et epistulam
 miserit.</p></argument>
@@ -3764,8 +3764,8 @@ ut indulti muneris praemia non cum reatitudine, sed cum
 <pb n="97"/>
 commodis animarum ante tribunal summi et uenturi Iudicis
 repraesentes.</hi></p>
-<p><hi rend="ital">Deus te incolumem custodiat, dilectissime frater.</hi></p></div2>
-<div2 type="chapter" n="9">
+<p><hi rend="ital">Deus te incolumem custodiat, dilectissime frater.</hi></p></div>
+<div type="chapter" n="9">
 <head>CAP. IX.</head>
 <argument><p>De imperio regis Aeduini, et ut ueniens ad euangelizandum ei Paulinus
 primo filiam eius cum aliis fidei Christianae sacramentis inbuerit.</p></argument>
@@ -3902,8 +3902,8 @@ his agendum arbitrarentur. Sed et ipse, cum esset
 uir natura sagacissimus, saepe diu solus residens ore
 quidem tacito, sed in intimis cordis multa secum
 conloquens, quid sibi esset faciendum, quae religio
-seruanda tractabat.</p></div2>
-<div2 type="chapter" n="10">
+seruanda tractabat.</p></div>
+<div type="chapter" n="10">
 <head>CAP. X.</head>
 <argument><p>Ut papa Bonifatius eundem regem missis litteris sit hortatus ad fidem.</p></argument>
 <p>QUO tempore exhortatorias ad fidem litteras a pontifice
@@ -4031,8 +4031,8 @@ munificentia ualeatis.</hi>
 apostolorum principis uobis direximus, id est camisia cum
 ornatura in auro una, et lena Anciriana una; quod
 petimus, ut eo benignitatis animo gloria uestra suscipiat,
-quo a nobis noscitur destinatum.</hi></p></div2>
-<div2 type="chapter" n="11">
+quo a nobis noscitur destinatum.</hi></p></div>
+<div type="chapter" n="11">
 <head>CAP. XI.</head>
 <argument><p>Ut coniugem ipsius, per epistulam, salutis illius sedulam agere
 curam monuerit.</p></argument>
@@ -4136,8 +4136,8 @@ exsoluamus.</hi></p>
 apostolorum principis uobis direximus, id est speculum
 argenteum, et pectinem eboreum inauratum; quod
 petimus, ut eo benignitatis animo gloria uestra suscipiat,
-quo a nobis noscitur destinatum.</hi></p></div2>
-<div2 type="chapter" n="12">
+quo a nobis noscitur destinatum.</hi></p></div>
+<div type="chapter" n="12">
 <head>CAP. XII.</head>
 <argument><p>Ut Aeduini per uisionem quondam sibi exuli ostensam sit ad
 credendum prouocatus.</p></argument>
@@ -4303,8 +4303,8 @@ aduersis eripiens, temporalis regni honore sublimauit;
 et si deinceps uoluntati eius, quam per me
 tibi praedicat, obsecundare uolueris, etiam a perpetuis
 malorum tormentis te liberans, aeterni secum regni in
-caelis faciet esse participem.&rsquo;</p></div2>
-<div2 type="chapter" n="13">
+caelis faciet esse participem.&rsquo;</p></div>
+<div type="chapter" n="13">
 <head>CAP. XIII.</head>
 <argument><p>Quale consilium idem cum primatibus suis de percipienda fide Christi
 habuerit; et ut pontifex eius suas aras profanauerit.</p></argument>
@@ -4405,8 +4405,8 @@ ultra amnem Doruuentionem, et uocatur hodie Godmunddingaham,
 Aen. ii.
 502.</note>
 ubi pontifex ipse, inspirante Deo uero,
-polluit ac destruxit eas, quas ipse sacrauerat, aras.</p></div2>
-<div2 type="chapter" n="14">
+polluit ac destruxit eas, quas ipse sacrauerat, aras.</p></div>
+<div type="chapter" n="14">
 <head>CAP. XIV.</head>
 <argument><p>Ut idem Aeduini cum sua gente fidelis sit factus; et ubi Paulinus
 baptizauerit.</p></argument>
@@ -4475,8 +4475,8 @@ eadem uilla succenderunt; pro qua reges posteriores
 fecere sibi uillam in regione, quae uocatur Loidis.
 <milestone n="40 a." unit="folio page"/> Euasit autem ignem altare, quia lapideum erat; et
 seruatur adhuc in monasterio reuerentissimi abbatis et
-presbyteri Thryduulfi, quod est in silua Elmete.</p></div2>
-<div2 type="chapter" n="15">
+presbyteri Thryduulfi, quod est in silua Elmete.</p></div>
+<div type="chapter" n="15">
 <head>CAP. XV.</head>
 <argument><p>Ut prouincia Orientalium Anglorum fidem Christi susceperit.</p></argument>
 <p>TANTUM autem deuotionis &AElig;duini erga cultum <note lang="en" anchored="yes" place="marg">Conversion
@@ -4543,8 +4543,8 @@ ac perpetuae felicitatis dona perduxit, accepitque sedem
 <pb n="117"/>
 episcopatus in ciuitate Domnoc; et cum X ac VII
 annos eidem prouinciae pontificali regimine praeesset,
-ibidem in pace uitam finiuit.</p></div2>
-<div2 type="chapter" n="16">
+ibidem in pace uitam finiuit.</p></div>
+<div type="chapter" n="16">
 <head>CAP. XVI.</head>
 <argument><p>Ut Paulinus in prouincia Lindissi praedicauerit, et de qualitate
 regni Aeduini.</p></argument>
@@ -4602,8 +4602,8 @@ inter ciuitates siue uillas aut prouincias suas cum
 ministris, semper antecedere signifer consuesset; nec
 non et incedente illo ubilibet per plateas, illud genus
 uexilli, quod Romani tufam, Angli appellant thuuf,
-ante eum ferri solebat.</p></div2>
-<div2 type="chapter" n="17">
+ante eum ferri solebat.</p></div>
+<div type="chapter" n="17">
 <head>CAP. XVII.</head>
 <argument><p>Ut idem ab Honorio papa exhortatorias litteras acceperit, qui etiam
 Paulino pallium miserit.</p></argument>
@@ -4661,8 +4661,8 @@ quam pro tantarum prouinciarum spatiis, quae inter nos
 et uos esse noscuntur, sumus inuitati concedere, ut in
 omnibus deuotioni uestrae nostrum concursum, et iuxta
 uestra desideria praeberemus.</hi></p>
-<p><hi rend="ital">Incolumem excellentiam uestram gratia superna custodiat.</hi></p></div2>
-<div2 type="chapter" n="18">
+<p><hi rend="ital">Incolumem excellentiam uestram gratia superna custodiat.</hi></p></div>
+<div type="chapter" n="18">
 <head>CAP. XVIII.</head>
 <argument><p>Ut Honorius, qui Iusto in episcopatum Dorouernensis ecclesiae successit,
 ab eodem papa Honorio pallium et litteras acceperit.</p></argument>
@@ -4744,8 +4744,8 @@ eiusdem anno XX</hi><hi rend="super">o</hi><hi rend="ital">III</hi><hi rend="sup
 anno uicesimo tertio, et consulatus eius anno III</hi><hi rend="super">o</hi>; <hi rend="ital">sed et
 Heraclio felicissimo Caesare id est filio eius anno III,
 indictione VII, id est anno dominicae incarnationis
-DCXXXIIII.</hi></p></div2>
-<div2 type="chapter" n="19">
+DCXXXIIII.</hi></p></div>
+<div type="chapter" n="19">
 <head>CAP. XIX.</head>
 <argument><p>Ut primo idem Honorius et post Iohannes litteras genti Scottorum pro
 pascha simul et pro Pelagiana heresi miserit.</p></argument>
@@ -4823,8 +4823,8 @@ nascentes testimonium praeuaricationis Adae, etiam sine
 actuali peccato existentes, portare noscuntur, secundum
 prophetam dicentem:</hi> &lsquo;<hi rend="ital">Ecce enim in iniquitatibus conceptus</hi>
 <note lang="en" anchored="yes" place="marg">Ps. l. 7.</note>
-<hi rend="ital">sum, et in peccatis peperit me mater mea.</hi>&rsquo;</p></div2>
-<div2 type="chapter" n="20">
+<hi rend="ital">sum, et in peccatis peperit me mater mea.</hi>&rsquo;</p></div>
+<div type="chapter" n="20">
 <head>CAP. XX.</head>
 <argument><p>Ut occiso Aeduine Paulinus Cantiam rediens Hrofensis ecclosiae
 praesulatum susceperit.</p></argument>
@@ -4928,10 +4928,10 @@ morem Romanorum siue Cantuariorum multis coepit
 existere; et ipse senex ac plenus dierum, iuxta <note lang="en" anchored="yes" place="marg">Iob xlii.
 16.</note>
 scripturas, patrum uiam secutus est.
-<pb/></p></div2></div1>
-<div1 type="book" n="3">
+<pb/></p></div></div>
+<div type="book" n="3">
 <head>LIBER TERTIUS.</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CAP. I.</head>
 <argument><p>Ut primi successores &AElig;duini regis et fidem suae gentis prodiderint, et
 regnum porro Osuald christianissimus rex utrumque restaurauerit.</p></argument>
@@ -4988,8 +4988,8 @@ superueniente cum paruo exercitu, sed fide
 Christi munito, infandus Brettonum dux cum inmensis
 illis copiis, quibus nihil resistere posse <milestone n="45 a." unit="folio page"/> iactabat, interemtus
 est in loco, qui lingua Anglorum Denisesburna,
-id est riuus Denisi, uocatur.</p></div2>
-<div2 type="chapter" n="2">
+id est riuus Denisi, uocatur.</p></div>
+<div type="chapter" n="2">
 <head>CAP. II.</head>
 <argument><p>Ut de ligno crucis, quod idem rex contra barbaros pugnaturus erexerat,
 inter innumera sanitatum miracula, quidam a dolentis brachii sit
@@ -5073,8 +5073,8 @@ tempore, cum euigilaret, sensit nescio quid frigidi suo
 lateri adiacere, admotaque manu requirere quid esset,
 <pb n="131"/>
 ita sanum brachium manumque repperit, ac si nihil
-umquam tanti langoris habuisset.</p></div2>
-<div2 type="chapter" n="3">
+umquam tanti langoris habuisset.</p></div>
+<div type="chapter" n="3">
 <head>CAP. III.</head>
 <argument><p>Ut idem rex postulans de gente Scottorum antistitem acceperit Aidanum,
 eidemque in insula Lindisfarnensi sedem episcopatus donauerit.</p></argument>
@@ -5150,8 +5150,8 @@ magno ab ea freto discreta, sed donatione Pictorum,
 qui illas Brittaniae plagas incolunt, iamdudum monachis
 <pb n="133"/>
 Scottorum tradita, eo quod illis praedicantibus
-fidem Christi perceperint.</p></div2>
-<div2 type="chapter" n="4">
+fidem Christi perceperint.</p></div>
+<div type="chapter" n="4">
 <head>CAP. IV.</head>
 <argument><p>Quando gens Pictorum fidem Christi perceperit.</p></argument>
 <p>SIQUIDEM anno incarnationis dominicae D<hi rend="super">o</hi>LX<hi rend="super">o</hi>V<hi rend="super">o</hi>, <note lang="en" anchored="yes" place="marg">Mission of
@@ -5251,8 +5251,8 @@ notitiam ad perfectum percipere meruerunt, iuxta
 15.</note>
 promissum apostoli dicentis: &lsquo;Et siquid aliter sapitis,
 et hoc quoque uobis Deus reuelabit.&rsquo; De quo plenius
-in sequentibus suo loco dicendum est.</p></div2>
-<div2 type="chapter" n="5">
+in sequentibus suo loco dicendum est.</p></div>
+<div type="chapter" n="5">
 <head>CAP. V.</head>
 <argument><p>De uita Aidani episcopi.</p></argument>
 <p>AB hac ergo insula, ab horum collegio monachorum, <note lang="en" anchored="yes" place="marg">Character
@@ -5336,8 +5336,8 @@ uirtutum mater est, ante omnia probabatur inbutus;
 sicque illum ordinantes ad praedicandum miserunt.
 Qui ubi tempus accepit, sicut prius moderamine discretionis,
 ita postmodum et ceteris uirtutibus ornatus
-apparuit.</p></div2>
-<div2 type="chapter" n="6">
+apparuit.</p></div>
+<div type="chapter" n="6">
 <head>CAP. VI.</head>
 <argument><p>De religione ac pietate miranda Osualdi regis.</p></argument>
 <p>HUIUS igitur antistitis doctrina rex Osuald cum ea, <note lang="en" anchored="yes" place="marg">Power of
@@ -5388,8 +5388,8 @@ unam sunt pacem, <milestone n="48 b." unit="folio page"/> et uelut unum conpagin
 populum. Erat autem nepos Aeduini regis ex sorore
 Acha, dignumque fuit, ut tantus praecessor talem
 haberet de sua consanguinitate et religionis heredem
-et regni.</p></div2>
-<div2 type="chapter" n="7">
+et regni.</p></div>
+<div type="chapter" n="7">
 <head>CAP. VII.</head>
 <argument><p>Ut prouincia Occidentalium Saxonum uerbum Dei, praedicante Birino,
 susceperit; et de successoribus eius Agilbercto et Leutherio.</p></argument>
@@ -5504,8 +5504,8 @@ ipsum sibi antistitem consecrari; qui consecratus
 in ipsa ciuitate, multis annis episcopatum
 Geuissorum ex synodica sanctione solus sedulo moderamine
 gessit.
-<pb n="142"/></p></div2>
-<div2 type="chapter" n="8">
+<pb n="142"/></p></div>
+<div type="chapter" n="8">
 <head>CAP. VIII.</head>
 <argument><p>Ut rex Cantuariorum Earconberct idola destrui praeceperit; et de filia
 eius Ercongota et propinqua Aedilbergae, sacratis Deo uirginibus.</p></argument>
@@ -5607,8 +5607,8 @@ a corruptione <milestone n="50 b." unit="folio page"/> concupiscentiae carnalis 
 et ita denuo lotum, atque aliis uestibus indutum
 transtulerunt illud in ecclesiam beati Stephani martyris.
 Cuius uidelicet natalis ibi solet in magna gloria
-celebrari die Nonarum Iuliarum.</p></div2>
-<div2 type="chapter" n="9">
+celebrari die Nonarum Iuliarum.</p></div>
+<div type="chapter" n="9">
 <head>CAP. IX.</head>
 <argument><p>Ut in loco, in quo occisus est rex Osuald, crebra sanitatum miracula
 facta; utque ibi primo iumentum cuiusdam uiantis ac deinde puclla
@@ -5679,8 +5679,8 @@ deposuerunt. At illa posita in loco obdormiuit parumper;
 et ubi euigilauit, sanatam se ab illa corporis
 dissolutione sentiens, postulata aqua, ipsa lauit faciem,
 crines conposuit, caput linteo cooperuit, et cum his,
-qui se adduxerant, sana pedibus incedendo reuersa est.</p></div2>
-<div2 type="chapter" n="10">
+qui se adduxerant, sana pedibus incedendo reuersa est.</p></div>
+<div type="chapter" n="10">
 <head>CAP. X.</head>
 <argument><p>Ut puluis loci illius contra ignem ualuerit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Another
@@ -5714,8 +5714,8 @@ subtilius, inuenerunt, quia de illo loco adsumptus
 erat puluis, ubi regis Osualdi sanguis fuerat
 effusus. Quibus patefactis ac diffamatis longe lateque
 miraculis, multi per dies locum frequentare illum, et
-sanitatum ibi gratiam capere sibi suisque coeperunt.</p></div2>
-<div2 type="chapter" n="11">
+sanitatum ibi gratiam capere sibi suisque coeperunt.</p></div>
+<div type="chapter" n="11">
 <head>CAP. XI.</head>
 <argument><p>Ut super reliquias eius lux caelestis tota nocte steterit, et ut per eas sint
 daemoniaci curati.</p></argument>
@@ -5819,8 +5819,8 @@ nusquam conparuerunt.&rsquo; Tunc dedit ei abbatissa
 portiunculam de puluere illo, et sic data oratione a
 presbytero, noctein illam quietissimam duxit; neque
 aliquid ex eo tempore nocturni timoris aut uexationis
-ab antiquo hoste pertulit.</p></p></div2>
-<div2 type="chapter" n="12">
+ab antiquo hoste pertulit.</p></p></div>
+<div type="chapter" n="12">
 <head>CAP. XII.</head>
 <argument><p>Ut ad tumbam eius sit puerulus a febre curatus.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">A boy
@@ -5873,8 +5873,8 @@ a corpore praecisas iussit rex, qui occiderat, in stipitibus
 suspendi. Quo post annum deueniens cum exercitu
 successor regni eius Osuiu abstulit ea, et caput quidem
 in cymiterio Lindisfarnensis ecclesiae, in regia uero
-ciuitate manus cum brachiis condidit.</p></div2>
-<div2 type="chapter" n="13">
+ciuitate manus cum brachiis condidit.</p></div>
+<div type="chapter" n="13">
 <head>CAP. XIII.</head>
 <argument><p>Ut in Hibernia sit quidam per reliquias eius a mortis articulo
 reuocatus.</p></argument>
@@ -5946,8 +5946,8 @@ deinceps tempore uixit; totoque ad Deum corde et
 opere conuersus, omnibus, ubicumque perueniebat,
 <pb n="154"/>
 clementiam pii Conditoris et fidelis eius famuli gloriam
-praedicabat.&rsquo;</p></div2>
-<div2 type="chapter" n="14">
+praedicabat.&rsquo;</p></div>
+<div type="chapter" n="14">
 <head>CAP. XIV.</head>
 <argument><p>Ut, defuncto Paulino, Ithamar pro eo Hrofensis ecclesiae praesulatum
 susceperit; et de humilitate mirabili regis Osuini, qui ab Osuiu
@@ -6082,8 +6082,8 @@ Aidan,
 Aug. 31, 651.</note>
 occisionem regis, quem amabat, die, id est pridie
 Kalendas Septembres, de saeculo ablatus, perpetua
-laborum suorum a Domino praemia recepit.</p></div2>
-<div2 type="chapter" n="15">
+laborum suorum a Domino praemia recepit.</p></div>
+<div type="chapter" n="15">
 <head>CAP. XV.</head>
 <argument><p>Ut episcopus Aidan nautis et tempestatem futuram praedixerit, et oleum
 sanctum, quo hanc sedarent, dederit.</p></argument>
@@ -6124,8 +6124,8 @@ corporaliter absens, sopiuerit. Cuius ordinem miraculi
 non quilibet dubius relator, sed fidelissimus mihi
 nostrae ecclesiae presbyter, Cynimund uocabulo, narrauit,
 qui se hoc ab ipso Utta presbytero, in quo et
-per quem conpletum est, audisse perhibebat.</p></div2>
-<div2 type="chapter" n="16">
+per quem conpletum est, audisse perhibebat.</p></div>
+<div type="chapter" n="16">
 <head>CAP. XVI.</head>
 <argument><p>Ut idem admotum ab hostibus urbi regiae ignem orando amouerit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Another
@@ -6157,8 +6157,8 @@ ad caelum oculis manibusque cum lacrimis dixisse:
 statim mutati ab urbe uenti in eos, qui accenderant,
 flammarum incendia retorserunt, ita ut aliquot laesi,
 omnes territi, inpugnare ultra urbem cessarent, quam
-diuinitus iuuari cognouerant.</p></div2>
-<div2 type="chapter" n="17">
+diuinitus iuuari cognouerant.</p></div>
+<div type="chapter" n="17">
 <head>CAP. XVII.</head>
 <argument><p>Ut apposta ecclesiae, cui idem adcumbens obicrat, ardente cetera domu,
 flammis absumi nequiuerit; et de interna uita eius.</p></argument>
@@ -6260,8 +6260,8 @@ semper agebat, a luna XIIII<hi rend="super">a</hi> usque ad XX<hi rend="super">a
 fidem uidelicet dominicae resurrectionis, quam una
 sabbati factam, propterque spem nostrae resurrectionis,
 quam eadem una sabbati, quae nunc dominica dies
-dicitur, ueraciter futuram cum sancta ecclesia credebat.</p></div2>
-<div2 type="chapter" n="18">
+dicitur, ueraciter futuram cum sancta ecclesia credebat.</p></div>
+<div type="chapter" n="18">
 <head>CAP. XVIII.</head>
 <argument><p>De uita uel morte religiosi regis Sigbercti.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Sigbert,
@@ -6306,8 +6306,8 @@ filius Eni <milestone n="57 a." unit="folio page"/> de regio genere, uir optimus
 genitor sobolis, de quibus in sequentibus suo tempore
 dicendum est; qui et ipse postea ab eodem pagano
 Merciorum duce, a quo et prodecessores eius, occisus
-est.</p></div2>
-<div2 type="chapter" n="19">
+est.</p></div>
+<div type="chapter" n="19">
 <head>CAP. XIX.</head>
 <argument><p>Ut Furseus apud Orientales Anglos monasterium fecerit; et de uisionibus
 uel sanctitate eius, cui etiam caro post mortem incorrupta
@@ -6535,8 +6535,8 @@ notius existeret. <milestone n="59 a." unit="folio page"/> Quae cuncta in libell
 sufficientius,
 sed et de aliis conmilitonibus ipsius, quisque
 legerit, inueniet.
-<pb n="169"/></p></div2>
-<div2 type="chapter" n="20">
+<pb n="169"/></p></div>
+<div type="chapter" n="20">
 <head>CAP. XX.</head>
 <argument><p>Ut, defuncto Honorio, pontificatu sit functus Deusdedit; et qui tempore
 illo Orientalium Anglorum, qui Hrofensis ecclesiae fuerint antistites.</p></argument>
@@ -6560,8 +6560,8 @@ antistes ecclesiae Hrofensis. Ordinatus est autem die
 VII<hi rend="super">mo</hi> Kalendarum Aprilium, et rexit ecclesiam annos
 VIIII, menses IIII et duos dies; et ipse, defuncto
 Ithamar, consecrauit pro eo Damianum, qui de genere
-Australium Saxonum erat oriundus.</p></div2>
-<div2 type="chapter" n="21">
+Australium Saxonum erat oriundus.</p></div>
+<div type="chapter" n="21">
 <head>CAP. XXI.</head>
 <argument><p>Ut prouincia Mediterraneorum Anglorum sub rege Peada christiana
 sit facta.</p></argument>
@@ -6630,8 +6630,8 @@ caput et arcem Scotti habuere coenobiorum; succedente
 illi in episcopatum Trumheri, uiro religioso et monachica
 uita instituto, natione quidem Anglorum, sed
 a Scottis ordinato episcopo. Quod temporibus Uulfheri
-regis, de quo in sequentibus dicemus, factum est.</p></div2>
-<div2 type="chapter" n="22">
+regis, de quo in sequentibus dicemus, factum est.</p></div>
+<div type="chapter" n="22">
 <head>CAP. XXII.</head>
 <argument><p>Ut Orientales Saxones fidem, quam dudum abiecerant, sub rege
 Sigbercto, praedicante Ceddo, receperint.</p></argument>
@@ -6745,8 +6745,8 @@ prouincia Orientalium Anglorum, in uico regio, qui
 dicitur Rendl&aelig;sham, id est mansio Rendili; suscepitque
 eum ascendentem de fonto sancto Aediluald rex
 ipsius gentis Orientalium Anglorum, frater Anna
-regis eorundem.</p></div2>
-<div2 type="chapter" n="23">
+regis eorundem.</p></div>
+<div type="chapter" n="23">
 <head>CAP. XXIII.</head>
 <argument><p>Ut idem episcopus Cedd locum monasterii construendi ab Oidilualdo
 rege accipiens orationibus et ieiuniis Domino consecrauerit; et de
@@ -6851,8 +6851,8 @@ quin intercessionibus, ut dixi, sui patris, ad cuius
 corpus dilectionis ipsius gratia uenerat, sit ab articulo
 mortis retentus, ut et ipse sic mortem euaderet aeternam,
 et aliis quoque fratribus ministerium uitae ac
-salutis docendo exhiberet.</p></div2>
-<div2 type="chapter" n="24">
+salutis docendo exhiberet.</p></div>
+<div type="chapter" n="24">
 <head>CAP. XXIV.</head>
 <argument><p>Ut prouincia Merciorum, occiso rege Penda, fidem Christi susceperit; et
 Osuiu, pro adepta uictoria, possessiones et territoria Deo ad
@@ -6994,8 +6994,8 @@ diximus, secundum Iaruman, tertium Ceaddan, quartum
 Uynfridum. Omnes hi per ordinem sibimet
 succedentes sub rege Uulfhere, gentis Merciorum
 episcopatu sunt functi.
-<pb n="181"/></p></div2>
-<div2 type="chapter" n="25">
+<pb n="181"/></p></div>
+<div type="chapter" n="25">
 <head>CAP. XXV.</head>
 <argument><p>Ut quaestio sit mota de tempore paschae aduersus eos, qui de Scottia
 uenerant.</p></argument>
@@ -7314,8 +7314,8 @@ auerso illo, qui claues tenere probatur.&rsquo;</p>
 <p>Haec dicente rege, fauerunt adsidentes quique siue
 adstantes maiores una cum mediocribus, et abdicata
 minus perfecta institutione, ad ea, quae meliora cognouerant,
-sese transferre festinabant.</p></div2>
-<div2 type="chapter" n="26">
+sese transferre festinabant.</p></div>
+<div type="chapter" n="26">
 <head>CAP. XXVI.</head>
 <argument><p>Ut Colman uictus domum redierit; et Tuda pro illo episcopatu sit functus;
 qualisque illis doctoribus fuerit habitus ecclesiae.</p></argument>
@@ -7406,8 +7406,8 @@ castigati, ut nemo territoria ac possessiones ad construenda
 monasteria, nisi a potestatibus saeculi coactus,
 acciperet. Quae consuetudo per omnia aliquanto post
 haec tempore in ecclesiis Nordanhymbrorum seruata
-est. Sed de his satis dictum.</p></div2>
-<div2 type="chapter" n="27">
+est. Sed de his satis dictum.</p></div>
+<div type="chapter" n="27">
 <head>CAP. XXVII.</head>
 <argument><p>Ut Ecgberct, uir sanctus de natione Anglorum, monachicam in Hibernia
 uitam duxerit.</p></argument>
@@ -7506,8 +7506,8 @@ crassiore, ipse residuum cum modico, ut diximus, pane
 bibebat. Cuius modum continentiae etiam XL diebus
 ante natale Domini, totidem quoque post peracta
 sollemnia pentecostes, hoc est L<hi rend="super">mae</hi>, semper obseruare
-curabat.</p></div2>
-<div2 type="chapter" n="28">
+curabat.</p></div>
+<div type="chapter" n="28">
 <head>CAP. XXVIII.</head>
 <argument><p>Ut defuncto Tuda, Uilfrid in Gallia, Ceadda apud Occidentales Saxones,
 in prouinciam Nordanhymbrorum sint ordinati episcopi.</p></argument>
@@ -7563,8 +7563,8 @@ Anglorum sua doctrina contulit. Unde factum est,
 ut, crescente per dies institutione catholica, Scotti
 omnes, qui inter Anglos morabantur, aut his manus
 darent, aut suam redirent ad patriam.
-<pb n="196"/></p></div2>
-<div2 type="chapter" n="29">
+<pb n="196"/></p></div>
+<div type="chapter" n="29">
 <head>CAP. XXIX.</head>
 <argument><p>Ut Uighard presbyter ordinandus in archiepiscopum Romam de Brittania
 sit missus; quem remissa mox scripta papae apostolici ibidem
@@ -7690,8 +7690,8 @@ auxiliari dignetur, ut cum Christo in futuro regnetis
 saeculo. Incolumem excellentiam uestram gratia superna
 custodiat.</hi>&rsquo;</p>
 <p>Quis sane pro Uighardo reppertus ac dedicatus sit
-antistes, libro sequente oportunius dicetur.</p></div2>
-<div2 type="chapter" n="30">
+antistes, libro sequente oportunius dicetur.</p></div>
+<div type="chapter" n="30">
 <head>CAP. XXX.</head>
 <argument><p>Ut Orientales Saxones tempore mortalitatis ad idolatriam reuersi, sed per
 instantiam Iarumanni episcopi mox sint ab errore correcti.</p></argument>
@@ -7730,10 +7730,10 @@ gauderent, magis cum fide resurrectionis in
 illo mori, quam in perfidiae sordibus inter idola
 uiuere cupientes. Quibus ita gestis, et ipsi sacerdotes
 doctoresque eorum domum rediere laetantes.
-<pb/></p></div2></div1>
-<div1 type="book" n="4">
+<pb/></p></div></div>
+<div type="book" n="4">
 <head>LIBER QUARTUS.</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CAP. I.</head>
 <argument><p>Ut defuncto Deusdedit, Uighard ad suscipiendum episcopatum Romam
 sit missus; sed illo ibidem defuncto, Theodorus archiepiscopus ordinatus,
@@ -7853,8 +7853,8 @@ ei monasterium beati Petri apostoli, ubi archiepiscopi
 Cantiae sepeliri, ut praefatus sum, solent. Praeceperat
 enim Theodoro abeunti domnus apostolicus,
 ut in diocesi sua prouideret, et daret ei locum, in quo
-cum suis apte degere potuisset.</p></div2>
-<div2 type="chapter" n="2">
+cum suis apte degere potuisset.</p></div>
+<div type="chapter" n="2">
 <head>CAP. II.</head>
 <argument><p>Ut Theodoro cuncta peragrante, Anglorum ecclesiae cum catholica ueritate,
 litterarum quoque sanctarum coeperint studiis inbui; et ut Putta pro
@@ -7941,8 +7941,8 @@ Rochester.</note>
 rebus strenuum cui nomen erat Putta; maxime
 autem modulandi in ecclesia more <milestone n="72 b" unit="folio page"/> Romanorum,
 quem a discipulis beati papae Gregorii didicerat,
-peritum.</p></div2>
-<div2 type="chapter" n="3">
+peritum.</p></div>
+<div type="chapter" n="3">
 <head>CAP. III.</head>
 <argument><p>Ut Ceadda, de quo supra dictum est, prouinciae Merciorum sit episcopus
 datus, et de uita et obitu et sepultura eius.</p></argument>
@@ -8196,8 +8196,8 @@ in quibus cunctis Uulfheri, qui adhuc supererat,
 sceptrum regni tenebat. Erat autem Uynfrid de
 clero eius, cui ipse successerat, antistitis, et diaconatus
 officio sub eo non pauco tempore fungebatur.
-<pb n="213"/></p></div2>
-<div2 type="chapter" n="4">
+<pb n="213"/></p></div>
+<div type="chapter" n="4">
 <head>CAP. IV.</head>
 <argument><p>Ut Colman episcopus, relicta Brittania, duo monasteria in Scottia, unum
 Scottis, alterum Anglis, quos secum adduxerat, fecerit.</p></argument>
@@ -8241,8 +8241,8 @@ iamdudum ad meliora instituta omnibus, egregium
 examen continet monachorum, qui de prouincia Anglorum
 ibidem collecti, ad exemplum uenerabilium
 patrum sub regula et abbate canonico in magna continentia
-et sinceritate proprio labore manuum uiuant.</p></div2>
-<div2 type="chapter" n="5">
+et sinceritate proprio labore manuum uiuant.</p></div>
+<div type="chapter" n="5">
 <head>CAP. V.</head>
 <argument><p>De morte Osuiu et Ecgbercti regum, et de synodo facta ad locum Herutforda,
 cui praesidebat archiepiscopus Theodorus.</p></argument>
@@ -8384,8 +8384,8 @@ sed grauissima infirmitate ab administrando episcopatu
 prohibito, duo sunt pro illo, Aecci et Baduuini, electi
 et consecrati episcopi; ex quo usque hodie prouincia
 illa duos habere solet episcopos.
-<pb n="218"/></p></div2>
-<div2 type="chapter" n="6">
+<pb n="218"/></p></div>
+<div type="chapter" n="6">
 <head>CAP. VI.</head>
 <argument><p>Ut deposito Uynfrido, S&aelig;xuulf episcopatum eius acceperit, et
 Earconuald
@@ -8440,8 +8440,8 @@ mater ac nutrix posset existere feminarum. Quae
 suscepto monasterii regimine, condignam se in omnibus
 episcopo fratre, et ipsa recte uiuendo, et subiectis
 regulariter ac pie consulendo praebuit; ut etiam
-caelestia indicio fuere miracula.</p></div2>
-<div2 type="chapter" n="7">
+caelestia indicio fuere miracula.</p></div>
+<div type="chapter" n="7">
 <head>CAP. VII.</head>
 <argument><p>Ut in monasterio Bericinensi, ubi corpora sanctimonialium feminarum
 poni deberent, caelesti sit luce monstratum.</p></argument>
@@ -8486,8 +8486,8 @@ radius lucis tantus extitit, ut quidam de fratribus
 senior, qui ipsa hora in oratorio eorum cum alio iuniore
 positus fuerat, referret mane, quod ingressi per
 rimas ostiorum uel fenestrarum radii lucis, omnem
-diurni luminis uiderentur superare fulgorem.</p></div2>
-<div2 type="chapter" n="8">
+diurni luminis uiderentur superare fulgorem.</p></div>
+<div type="chapter" n="8">
 <head>CAP. VIII.</head>
 <argument><p>Ut in eodem monasterio puerulus moriens uirginem, quae se erat secutura,
 clamauerit; utque alia de corpore egressura, iam particulam
@@ -8526,8 +8526,8 @@ narrare, quia apparuerit sibi quidam uir Dei, qui
 eodem anno fuerat defunctus, dicens, quod adueniente
 diluculo perennem esset exitura ad lucem. Cuius
 ueritas uisionis cita circa exortum diei puellae morte
-probata est.</p></div2>
-<div2 type="chapter" n="9">
+probata est.</p></div>
+<div type="chapter" n="9">
 <head>CAP. IX.</head>
 <argument><p>Quae sint ostensa caelitus signa, cum et ipsa mater congregationis illius
 e mundo transiret.</p></argument>
@@ -8614,8 +8614,8 @@ Aedilburge.&rsquo; Ex quo intellexere, quod ipsa ei tempus
 suae transmigrationis proximum nuntiare uenisset.
 Nam et ita, ut rogabat, transacta una die et nocte,
 soluta carnis simul et infirmitatis uinculis ad aeternae
-gaudia salutis intrauit.</p></div2>
-<div2 type="chapter" n="10">
+gaudia salutis intrauit.</p></div>
+<div type="chapter" n="10">
 <head>CAP. X.</head>
 <argument><p>Ut ad cymiterium eiusdem monasterii orans caeca lucem receperit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Further
@@ -8657,8 +8657,8 @@ quae famularum manibus adducta fuerat, ipsa libero
 pedum incessu domum laeta reuersa est; quasi ad hoc
 solummodo lucem amitteret temporalem, ut, quanta
 sanctos Christi lux in caelis, quae gratia uirtutis possideret,
-sua sanatione demonstraret.</p></div2>
-<div2 type="chapter" n="11">
+sua sanatione demonstraret.</p></div>
+<div type="chapter" n="11">
 <head>CAP. XI.</head>
 <argument><p>Ut rex eiusdem prouinciae Sebbi in monachicha uitam conuersations
 finierit.</p></argument>
@@ -8738,8 +8738,8 @@ corporis, adeo ut a parte capitis etiam ceruical posset
 interponi; a parte uero pedum mensura IIII digitorum
 in sarcofago corpus excederet. Conditus est
 autem in ecclesia beati doctoris gentium, cuius edoctus
-monitis caelestia sperare didicerat.</p></div2>
-<div2 type="chapter" n="12">
+monitis caelestia sperare didicerat.</p></div>
+<div type="chapter" n="12">
 <head>CAP. XII.</head>
 <argument><p>Ut episcopatum Occidentalium Saxonum pro Leutherio Haeddi, episcopatum
 Hrofensis ecclesiae pro Putta Cuichelm, et pro ipso Gefmund
@@ -8830,8 +8830,8 @@ et Trumuini ad prouinciam Pictorum, quae tunc temporis
 Anglorum erat imperio subiecta. Eadhaedum
 de Lindissi reuersum, eo quod Aedilred prouinciam
 recepisset, Hrypensi ecclesiae praefecit.
-<pb n="230"/></p></div2>
-<div2 type="chapter" n="13">
+<pb n="230"/></p></div>
+<div type="chapter" n="13">
 <head>CAP. XIII.</head>
 <argument><p>Ut Uilfrid episcopus prouinciam Australium Saxonum ad Christum
 conuerterit.</p></argument>
@@ -8939,8 +8939,8 @@ omnes fide Christi institutos, unda baptismatis
 abluit; inter quos, seruos et ancillas ducentos quinquaginta;
 quos omnes ut baptizando a seruitute daemonica
 saluauit, etiam libertate donando humanae
-iugo seruitutis absoluit.</p></div2>
-<div2 type="chapter" n="14">
+iugo seruitutis absoluit.</p></div>
+<div type="chapter" n="14">
 <head>[CAP. XIV.</head>
 <argument><p>Ut intercessione Osualdi regis pestifera mortalitas sit sublata.]</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Miracle at
@@ -9047,8 +9047,8 @@ clementiam, et ad salutaria ieiuniorum remedia
 subeunda sunt mirabiliter accensi; et ex eo tempore
 non solum in eodem monasterio, sed et in plerisque
 locis aliis, coepit annuatim eiusdem regis ac militis
-Christi natalicius dies missarum celebratione uenerari.</p></div2>
-<div2 type="chapter" n="15">
+Christi natalicius dies missarum celebratione uenerari.</p></div>
+<div type="chapter" n="15">
 <head>[CAP. XV.</head>
 <argument><p>Ut Caedualla rex Geuissorum, interfecto rege Aedilualch, prouinciam
 illam saeua caede ac depopulatione attriuerit.]</p></argument>
@@ -9070,8 +9070,8 @@ Quare factum est, ut toto illo tempore episcopum proprium
 habere nequiret; sed reuocato domum Uilfrido
 primo suo antistite, ipsi episcopo Geuissorum, id est
 Occidentalium Saxonum, qui essent in Uenta ciuitate,
-subiacerent.</p></div2>
-<div2 type="chapter" n="14">
+subiacerent.</p></div>
+<div type="chapter" n="14">
 <head>CAP. XIV [XVI].</head>
 <argument><p>Ut Uecta insula christianos incolas susceperit, cuius regii duo pueri
 statim post acceptum baptisma sint interemti.</p></argument>
@@ -9138,8 +9138,8 @@ inuicem cotidie conpugnantes occurrunt ultra
 ostium fluminis Homelea, quod per terras Iutorum,
 quae ad regionem Geuissorum pertinent, praefatum
 pelagus intrat; finitoque conflictu in oceanum refusi,
-unde uenerant, redeunt.</p></div2>
-<div2 type="chapter" n="15">
+unde uenerant, redeunt.</p></div>
+<div type="chapter" n="15">
 <head>CAP. XV [XVII].</head>
 <argument><p>De synodo facta in campo H&oelig;thfelda, praesidente archiepiscopo
 Theodoro.</p></argument>
@@ -9212,8 +9212,8 @@ et Spiritum Sanctum procedentem ex Patre et Filio inenarrabiliter,
 sicut praedicauerunt hi, quos memorauimus
 supra, sancti apostoli, et prophetae, et doctores.</hi> <milestone n="84 b." unit="folio page"/> <hi rend="ital">Et nos
 omnes subscribimus, qui cum Theodoro archiepiscopo
-fidem catholicam exposuimus.</hi></p></div2>
-<div2 type="chapter" n="16">
+fidem catholicam exposuimus.</hi></p></div>
+<div type="chapter" n="16">
 <head>CAP. XVI [XVIII].</head>
 <argument><p>De Iohanne cantatore sedis apostolicae, qui propter docendum Brittaniam
 uenerit.</p></argument>
@@ -9295,8 +9295,8 @@ operis accepit. Qui etsi in itinere defunctus est,
 nihilominus exemplum catholicae fidei Anglorum
 Romam perlatum est, atque ab apostolico papa omnibusque,
 qui audiere uel legere, gratantissime susceptum.
-<pb n="243"/></p></div2>
-<div2 type="chapter" n="17">
+<pb n="243"/></p></div>
+<div type="chapter" n="17">
 <head>CAP. XVII [XIX].</head>
 <argument><p>Ut Edilthryd regina uirgo perpetua permanserit, cuius nec corpus in
 monumento corrumpi potuerit.</p></argument>
@@ -9453,8 +9453,8 @@ paludibus capiuntur, nomen accepit; ubi monasterium
 habere desiderauit memorata Christi famula, quoniam
 de prouincia eorundem Orientalium Anglorum ipsa,
 ut praefati sumus, carnis originem duxerat.
-<pb n="247"/></p></div2>
-<div2 type="chapter" n="18">
+<pb n="247"/></p></div>
+<div type="chapter" n="18">
 <head>CAP. XVIII [XX].</head>
 <argument><p>Hymnus de illa.</p></argument>
 <p>UIDETUR oportunum huic historiae etiam hymnum
@@ -9521,8 +9521,8 @@ Ecce uenit sponsus, munera laeta capis.</l>
 Sponsa hymno exultas et noua dulcisono.</l>
 <p/><l>Nullus ab altithroni comitatu segregat agni,
 Quam affectu tulerat nullus ab altithroni.
-<pb n="249"/></l></p></div2>
-<div2 type="chapter" n="19">
+<pb n="249"/></l></p></div>
+<div type="chapter" n="19">
 <head>CAP. XIX [XXI].</head>
 <argument><p>Ut Theodorus episcopus inter Ecgfridum et Aedilredum reges
 pacem fecerit.</p></argument>
@@ -9547,8 +9547,8 @@ regibus ac populis, nullius anima hominis pro
 interfecto regis fratre, sed debita solummodo multa
 pecuniae regi ultori daretur. Cuius foedera pacis
 multo exinde tempore inter eosdem reges eorumque
-regna durarunt.</p></div2>
-<div2 type="chapter" n="20">
+regna durarunt.</p></div>
+<div type="chapter" n="20">
 <head>CAP. XX [XXII].</head>
 <argument><p>Ut uincula cuiusdam captiui, cum pro eo missae cantarentur,
 soluta sint.</p></argument>
@@ -9644,8 +9644,8 @@ et animae et corporis sempiternam.</p>
 <p>Hanc mihi historiam etiam quidam eorum, qui ab
 ipso uiro, in quo facta est, audiere, narrarunt; unde
 eam, quia liquido conperi, indubitanter historiae
-nostrae ecclesiasticae inserendam credidi.</p></div2>
-<div2 type="chapter" n="21">
+nostrae ecclesiasticae inserendam credidi.</p></div>
+<div type="chapter" n="21">
 <head>CAP. XXI [XXIII].</head>
 <argument><p>De uita et obitu Hildae abbatissae.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Death of
@@ -9876,8 +9876,8 @@ Erat enim haec ipsa hora cum aliis nonnullis
 Christi ancellis in extremis monasterii locis seorsum
 posita, ubi nuper uenientes ad conuersationem feminae
 solebant probari, donec regulariter institutae in societatem
-congregationis susciperentur.</p></div2>
-<div2 type="chapter" n="22">
+congregationis susciperentur.</p></div>
+<div type="chapter" n="22">
 <head>CAP. XXII [XXIV].</head>
 <argument><p>Quod in monasterio eius fuerit frater, cui donum canendi sit
 diuinitus concessum.</p></argument>
@@ -10023,8 +10023,8 @@ salutaria uerba in laudem Conditoris conposuerat,
 ultima quoque uerba in laudem ipsius, signando
 sese, et spiritum suum in manus eius commendando
 clauderet; qui etiam praescius sui obitus extitisse ex
-his, quae narrauimus, uidetur.</p></div2>
-<div2 type="chapter" n="23">
+his, quae narrauimus, uidetur.</p></div>
+<div type="chapter" n="23">
 <head>CAP. XXIII [XXV].</head>
 <argument><p>Qualis uisio cuidam uiro Dei apparuerit, priusquam monasterium
 Coludanae urbis esset incendio consumtum.</p></argument>
@@ -10184,8 +10184,8 @@ ne forte nos tempore aliquo carnis inlecebris seruientes,
 minusque Dei iudicium formidantes, repentina eius
 ira corripiat, et uel temporalibus damnis iuste saeuiens
 affligat, uel ad perpetuam perditionem districtius examinans
-tollat.</p></div2>
-<div2 type="chapter" n="24">
+tollat.</p></div>
+<div type="chapter" n="24">
 <head>CAP. XXIV [XXVI].</head>
 <argument><p>De morte Ecgfridi et Hlotheri regum.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Egfrid
@@ -10279,8 +10279,8 @@ quo defuncto, regnum illud aliquod temporis
 spatium reges dubii uel externi disperdiderunt; donec
 legitimus rex Uictred, id est filius Ecgbercti, confortatus
 in regno, religione simul et industria gentem
-suam ab extranea inuasione liberaret.</p></div2>
-<div2 type="chapter" n="25">
+suam ab extranea inuasione liberaret.</p></div>
+<div type="chapter" n="25">
 <head>CAP. XXV [XXVII].</head>
 <argument><p>Ut uir Domini Cudberct sit episcopus factus; utque in monachica adhuc
 uita positus uixerit uel docuerit.</p></argument>
@@ -10385,8 +10385,8 @@ ii. 44, 45.</note>
 <hi rend="ital">ecclesiae fuit patribus nostris; in quibus nullus eorum ex
 <pb n="271"/>
 his, quae possidebant, aliquid suum esse dicebat, sed
-erant eis omnia communia.</hi>&rsquo;</p></div2>
-<div2 type="chapter" n="26">
+erant eis omnia communia.</hi>&rsquo;</p></div>
+<div type="chapter" n="26">
 <head>CAP. XXVI [XXVIII].</head>
 <argument><p>Ut idem in uita anchoretica et fontem de arente terra orando produxerit,
 et segetem de labore manuum ultra tempus serendi acceperit.</p></argument>
@@ -10510,8 +10510,8 @@ semper ad <hi rend="ital">caelesti</hi>a suspensus. Denique cum
 sacrificium Deo uictimae salutaris offerret, non eleuata
 in altum <hi rend="ital">uoce,</hi> sed <hi rend="ital">profu</hi>sis ex imo pectore <hi rend="ital">lacrim</hi>is,
 Domino sua uota commendabat.
-<pb n="274"/></p></div2>
-<div2 type="chapter" n="27">
+<pb n="274"/></p></div>
+<div type="chapter" n="27">
 <head>CAP. XXVII [XXIX].</head>
 <argument><p>Ut idem iam episcopus obitum suum proxime futurum Heribercto
 anchoritae praedixerit.</p></argument>
@@ -10602,8 +10602,8 @@ obseruantia, ac <hi rend="ital">maxime elimosynarum oper</hi>atione
 insignis; ita ut iuxta legem omnibus annis decimam
 non solum quadrupedum, uerum etiam frugum omnium,
 atque pomorum, nec non et uestimentorum
-partem pauperibus daret.</p></div2>
-<div2 type="chapter" n="28">
+partem pauperibus daret.</p></div>
+<div type="chapter" n="28">
 <head>CAP. XXVIII [XXX].</head>
 <argument><p>Ut corpus illius post XI annos sepulturae sit corruptionis inmune
 reppertum;
@@ -10677,8 +10677,8 @@ ferunt, e quibus aliqua in libro uitae illius
 olim memoriae mandauimus. Sed et in hac historia
 quaedam, quae nos nuper audisse contigit, superadicere
 commodum duximus.
-<pb n="278"/></p></div2>
-<div2 type="chapter" n="29">
+<pb n="278"/></p></div>
+<div type="chapter" n="29">
 <head>CAP. XXIX [XXXI].</head>
 <argument><p>Ut quidam ad tumbam eius sit a paralysi sanatus.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">A miracle.</note>
@@ -10731,8 +10731,8 @@ c. 45.</note>
 <hi rend="ital">uel uiuum</hi> antea, <hi rend="ital">uel</hi> postea defunctum <hi rend="ital">uestierant,</hi>
 etiam ipsa <hi rend="ital">a gratia curandi non uaca</hi>runt, sicut in
 uolumine uitae et uirtutum eius quisque legerit,
-inueniet.</p></div2>
-<div2 type="chapter" n="30">
+inueniet.</p></div>
+<div type="chapter" n="30">
 <head>CAP. XXX [XXXII].</head>
 <argument><p>Ut alter ad reliquias eius nuper fuerit ab oculi langore curatus.</p></argument>
 <p>NEC silentio praetereundum, quod ante triennium <note lang="en" anchored="yes" place="marg">Another
@@ -10779,10 +10779,10 @@ dies illa exigebat, cogitaret et faceret, inminente hora
 ipsius diei sexta, repente contingens oculum ita sanum
 cum palpebra inuenit, ac si nil umquam in eo deformitatis
 ac tumoris apparuisset.
-<pb/></p></div2></div1>
-<div1 type="book" n="5">
+<pb/></p></div></div>
+<div type="book" n="5">
 <head>LIBER QUINTUS.</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CAP. I.</head>
 <argument><p>Ut Oidiluald successor Cudbercti in anachoretica uita, laborantibus in
 mari fratribus, tempestatem orando sedauerit.</p></argument>
@@ -10842,8 +10842,8 @@ iuxta praefatorum corpora episcoporum in
 ecclesia beati apostoli Petri sepultus est. Gesta uero
 sunt haec temporibus Aldfridi regis, qui post fratrem
 suum Ecgfridum genti Nordanhymbrorum X et VIIII
-annis praefuit.</p></div2>
-<div2 type="chapter" n="2">
+annis praefuit.</p></div>
+<div type="chapter" n="2">
 <head>CAP. II.</head>
 <argument><p>Ut episcopus Iohannes mutum benedicendo curauerit.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">John,
@@ -10918,8 +10918,8 @@ qui ante fuerat deformis, pauper, et mutus. Sicque
 de percepta laetatus sospitate, offerente etiam ei episcopo,
 ut in sua familia manendi locum acciperet,
 magis domum reuersus est.
-<pb n="285"/></p></div2>
-<div2 type="chapter" n="3">
+<pb n="285"/></p></div>
+<div type="chapter" n="3">
 <head>CAP. III.</head>
 <argument><p>Ut puellam languentem orando sanauerit.</p></argument>
 <p>NARRAUIT idem Bercthun et aliud de praefato <note lang="en" anchored="yes" place="marg">Further
@@ -10980,8 +10980,8 @@ Abeuntibus autem nobis inde, continuo fugatum
 dolorem membrorum fuga quoque tumoris horrendi
 secuta est; et erepta morti ac doloribus uirgo, laudes
 Domino Saluatori una cum ceteris, qui ibi erant,
-seruis illius referebat.&rsquo;</p></div2>
-<div2 type="chapter" n="4">
+seruis illius referebat.&rsquo;</p></div>
+<div type="chapter" n="4">
 <head>CAP. IV.</head>
 <argument><p>Ut coniugem comitis infirmam aqua benedicta curauerit.</p></argument>
 <p>ALIUD quoque non multum huic dissimile miraculum
@@ -11024,8 +11024,8 @@ conpletum non omisit; imitata socrum beati Petri,
 quae cum febrium fuisset ardoribus fatigata, ad tactum
 manus dominicae surrexit, et sanitate simul ac uirtute
 recepta ministrabat eis.&rsquo;
-<pb n="288"/></p></div2>
-<div2 type="chapter" n="5">
+<pb n="288"/></p></div>
+<div type="chapter" n="5">
 <head>CAP. V.</head>
 <argument><p>Ut item puerum comitis orando a morte reuocauerit.</p></argument>
 <p>ALIO item tempore uocatus ad dedicandam ecclesiam
@@ -11061,8 +11061,8 @@ in eadem, quam acceperat, salute permansit. Hoc
 <pb n="289"/>
 autem miraculum memoratus abbas non se <milestone n="102 b." unit="folio page"/> praesente
 factum, sed ab his, qui praesentes fuere, sibi perhibet
-esse relatum.</p></div2>
-<div2 type="chapter" n="6">
+esse relatum.</p></div>
+<div type="chapter" n="6">
 <head>CAP. VI.</head>
 <argument><p>Ut clericum suum cadendo contritum, aeque orando ac benedicendo
 a morte reuocaucrit.</p></argument>
@@ -11169,8 +11169,8 @@ Nam cum prae maiore senectute minus episcopatui
 administrando sufficeret, ordinato in episcopatum
 Eboracensis ecclesiae Uilfrido presbytero suo, secessit
 ad monasterium praefatum, ibique uitam in Deo digna
-conuersatione conpleuit.</p></div2>
-<div2 type="chapter" n="7">
+conuersatione conpleuit.</p></div>
+<div type="chapter" n="7">
 <head>CAP. VII.</head>
 <argument><p>Ut Caedualla rex Occidentalium Saxonum baptizandus Romam uenerit;
 sed et successor eius Ini eadem beatorum apostolorum limina deuotus
@@ -11254,8 +11254,8 @@ est, cupiens in uicinia sanctorum locorum ad tempus
 peregrinari in terris, quo familiarius a sanctis recipi
 mereretur in caelis; quod his temporibus plures de
 gente Anglorum, nobiles, ignobiles, laici, clerici, uiri
-ac feminae certatim facere consuerunt.</p></p></div2>
-<div2 type="chapter" n="8">
+ac feminae certatim facere consuerunt.</p></p></div>
+<div type="chapter" n="8">
 <head>CAP. VIII.</head>
 <argument><p>Ut Theodoro defuncto archiepiscopatus gradum Berctuald susceperit; et
 inter plurimos, quos ordinauit, etiam Tobiam uirum doctissimum Hrofensi
@@ -11315,8 +11315,8 @@ multos, quos ordinauit antistites, etiam Gebmundo
 Hrofensis ecclesiae praesule defuncto, Tobiam pro illo
 <pb n="296"/>
 consecrauit, uirum Latina, Greca, et Saxonica lingua
-atque eruditione multipliciter instructum.</p></p></div2>
-<div2 type="chapter" n="9">
+atque eruditione multipliciter instructum.</p></p></div>
+<div type="chapter" n="9">
 <head>CAP. IX.</head>
 <argument><p>Ut Ecgberct uir sanctus ad praedicandum in Germaniam uenire uoluerit,
 nec ualuerit; porro Uictberct aduenerit quidem, sed quia nec ipse
@@ -11417,8 +11417,8 @@ apud barbaros inuenit auditores. Tum reuersus ad
 dilectae locum peregrinationis, solito in silentio uacare
 Domino coepit; et quoniam externis prodesse ad fidem
 non poterat, suis amplius ex uirtutum exemplis prodesse
-curabat.</p></div2>
-<div2 type="chapter" n="10">
+curabat.</p></div>
+<div type="chapter" n="10">
 <head>CAP. X.</head>
 <argument><p>Ut Uilbrord in Fresia praedicans multos ad Christum conuerterit;
 et ut socii eius Heuualdi sint martyrium passi.</p></argument>
@@ -11515,8 +11515,8 @@ Pippin, ubi haec conperiit, misit, et adducta ad se
 eorum corpora condidit cum multa gloria in ecclesia
 Coloniae ciuitatis iuxta Rhenum. Fertur autem, quia
 in loco, quo occisi sunt, fons ebullierit, qui in eodem
-loco usque hodie copiosa fluenti sui dona profundat.</p></div2>
-<div2 type="chapter" n="11">
+loco usque hodie copiosa fluenti sui dona profundat.</p></div>
+<div type="chapter" n="11">
 <head>CAP. XI.</head>
 <argument><p>Ut uiri uenerabiles Suidberct in Britaniis, Uilbrord Romae sint in
 Fresiam ordinati episcopi.</p></argument>
@@ -11602,8 +11602,8 @@ Clemens, adhuc superest, longa iam uenerabilis
 aetate, utpote tricesimum et sextum in episcopatu
 habens annum, et post multiplices militiae caelestis
 agones ad praemia remunerationis supernae tota mente
-suspirans.</p></div2>
-<div2 type="chapter" n="12">
+suspirans.</p></div>
+<div type="chapter" n="12">
 <head>CAP. XII.</head>
 <argument><p>Ut quidam in prouincia Nordanhymbrorum a mortuis resurgens multa et
 tremenda et desideranda, quae uiderat, narrauerit.</p></argument>
@@ -11865,8 +11865,8 @@ uidi.&rsquo; Sicque usque ad diem suae uocationis infatigabili
 caelestium bonorum desiderio corpus senile inter
 cotidiana ieiunia domabat, multisque et uerbo et conuersatione
 saluti fuit.
-<pb n="311"/></p></div2>
-<div2 type="chapter" n="13">
+<pb n="311"/></p></div>
+<div type="chapter" n="13">
 <head>CAP. XIII.</head>
 <argument><p>Ut econtra alter ad mortem ueniens oblatum sibi a daemonibus codicem
 suorum uiderit peccatorum.</p></argument>
@@ -11961,8 +11961,8 @@ numero sociari, de quibus ait psalmus: &lsquo;Beati, quorum
 remissae sunt iniquitates, et quorum tecta sunt peccata.&rsquo;
 Hanc historiam, sicut a uenerabili antistite Pecthelmo
 didici, simpliciter ob salutem legentium siue audientium
-narrandam esse putaui.</p></div2>
-<div2 type="chapter" n="14">
+narrandam esse putaui.</p></div>
+<div type="chapter" n="14">
 <head>CAP. XIV.</head>
 <argument><p>Ut item alius moriturus deputatum sibi apud inferos locum
 poenarum uiderit.</p></argument>
@@ -12019,8 +12019,8 @@ Factum est hoc nuper in prouincia Berniciorum; ac
 longe lateque diffamatum, multos ad agendam et non
 differendam scelerum suorum paenitudinem prouocauit.
 Quod utinam exhinc etiam nostrarum lectione litterarum
-fiat!</p></div2>
-<div2 type="chapter" n="15">
+fiat!</p></div>
+<div type="chapter" n="15">
 <head>CAP. XV.</head>
 <argument><p>Ut plurimas Scottorum ecclesiae, instante Adamnano, catholicum pascha
 susceperint; utque idem librum de locis sanctis scripserit.</p></argument>
@@ -12103,8 +12103,8 @@ etiam minoribus ad legendum contraditus. Scriptor
 quoque ipse multis ab ea muneribus donatus patriam
 remissus est. De cuius scriptis aliqua decerpere, ac
 nostrae huic historiae inserere commodum fore
-legentibus reor.</p></div2>
-<div2 type="chapter" n="16">
+legentibus reor.</p></div>
+<div type="chapter" n="16">
 <head>CAP. XVI.</head>
 <argument><p>Quae in eodem libro de loco dominicae natiuitatis, passionis, et resurrectionis
 commemorauerit.</p></argument>
@@ -12170,8 +12170,8 @@ quadratum altare ante ostium</hi> nihilominus eiusdem <hi rend="ital">monumenti 
 <hi rend="ital">maior uero in orientali eiusdem ecclesiae loco quadrangulum</hi> aliud
 <hi rend="ital">altare sub linteaminibus exstat. Color</hi> autem <hi rend="ital">eiusdsm monumenti et
 sepulchri alb</hi>o <hi rend="ital">et rub</hi>icundo <hi rend="ital">permixt</hi>us
-<hi rend="ital">uidetur.</hi></p></quote></p></div2>
-<div2 type="chapter" n="17">
+<hi rend="ital">uidetur.</hi></p></quote></p></div>
+<div type="chapter" n="17">
 <head>CAP. XVII.</head>
 <argument><p>Quae item de loco ascensionis dominicae et sepulchris patriarcharum.</p></argument>
 <p>DE loco quoque ascensionis dominicae praefatus <note lang="en" anchored="yes" place="marg">Bede, c. 6;
@@ -12225,8 +12225,8 @@ legentium historiis indere placuit. Plura uoluminis
 illius, siqui scire delectat, uel in ipso illo uolumine,
 uel in eo, quod de illo dudum strictim excerpsimus,
 epitomate requirat.
-<pb n="320"/></p></div2>
-<div2 type="chapter" n="18">
+<pb n="320"/></p></div>
+<div type="chapter" n="18">
 <head>CAP. XVIII.</head>
 <argument><p>Ut Australes Saxones episcopos acceperint Eadberctum et Eallan,
 Occidentales Danihelem et Aldhelmum; et de scriptis eiusdem
@@ -12304,8 +12304,8 @@ abbas monasterii beatae memoriae Uilfridi episcopi,
 quod dicitur Sel&aelig;seu; quo defuncto, Eolla suscepit
 officium pontificatus. Ipso autem ante aliquot
 annos ex hac luce subtracto, episcopatus usque hodie
-cessauit.</p></div2>
-<div2 type="chapter" n="19">
+cessauit.</p></div>
+<div type="chapter" n="19">
 <head>CAP. XIX.</head>
 <argument><p>Ut Coinred Merciorum et Offa Orientalium Saxonum rex in monachico
 habitu Romae uitam finierint; et de uita uel obitu Uilfridi episcopi.</p></argument>
@@ -12690,8 +12690,8 @@ scriptum:</p>
 <p/><l><hi rend="ital">Iactatus nimium per tempora longa periclis,</hi></l>
 <p/><l><hi rend="ital">Quindecies ternos postquam egit episcopus annos,</hi></l>
 <p/><l><hi rend="ital">Transiit, et gaudens caelestia regna petiuit.</hi></l>
-<p/><l><hi rend="ital">Dona, Iesu, ut grex pastoris calle sequatur.</hi></l></p></div2>
-<div2 type="chapter" n="20">
+<p/><l><hi rend="ital">Dona, Iesu, ut grex pastoris calle sequatur.</hi></l></p></div>
+<div type="chapter" n="20">
 <head>CAP. XX.</head>
 <argument><p>Ut religioso abbati Hadriano Albinus, Uilfrido in episcopatum Acca
 successerit.</p></argument>
@@ -12751,8 +12751,8 @@ est; deinde ad Uilfridum episcopum spe melioris
 propositi adueniens, omnem in eius obsequio usque
 ad obitum illius expleuit aetatem; cum quo etiam
 Romam ueniens multa illic, quae in patria nequiuerat,
-ecclesiae sanctae institutis utilia didicit.</p></div2>
-<div2 type="chapter" n="21">
+ecclesiae sanctae institutis utilia didicit.</p></div>
+<div type="chapter" n="21">
 <head>CAP. XXI.</head>
 <argument><p>Ut Ceolfrid abbas regi Pictorum architectos ecclesiae, simul et epistulam
 de catholico pascha uel de tonsura miserit.</p></argument>
@@ -13280,8 +13280,8 @@ et IIII annorum circulis. Adtondebantur omnes in
 coronam ministri altaris ac monachi; et quasi nouo
 se discipulatui beatissimi apostolorum principis Petri
 subditam, eiusque tutandam patrocinio gens correcta
-gaudebat.</p></div2>
-<div2 type="chapter" n="22">
+gaudebat.</p></div>
+<div type="chapter" n="22">
 <head>CAP. XXII.</head>
 <argument><p>Ut Hiienses monachi cum subiectis sibi monasteriis canonicum praedicante
 Ecgbercto celebrare pascha coeperint.</p></argument>
@@ -13360,8 +13360,8 @@ diem suos auditores, quem semper antea uitabant,
 suscipere ac secum agere uideret. Sicque certus de
 illorum correctione reuerentissimus pater exsultauit, <note lang="en" anchored="yes" place="marg">Ioh. viii.
 56.</note>
-ut uideret diem Domini; uidit et gauisus est.</p></div2>
-<div2 type="chapter" n="23">
+ut uideret diem Domini; uidit et gauisus est.</p></div>
+<div type="chapter" n="23">
 <head>CAP. XXIII.</head>
 <argument><p>Qui sit in praesenti status gentis Anglorum uel Brittaniae totius.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Death of
@@ -13506,8 +13506,8 @@ exsultet terra, et congratulante in fide eius Brittania,
 4.</note>
 laetentur insulae multae, et confiteantur memoriae
 sanctitatis eius.
-<pb n="352"/></p></div2>
-<div2 type="chapter" n="24">
+<pb n="352"/></p></div>
+<div type="chapter" n="24">
 <head>CAP. XXIV.</head>
 <argument><p>Recapitulatio chronica totius operis; et de persona auctoris.</p></argument>
 <p><note lang="en" anchored="yes" place="marg">Chronological
@@ -13793,8 +13793,8 @@ Teque deprecor, bone Iesu, ut cui propitius donasti
 uerba tuae scientiae dulciter haurire, dones etiam
 benignus aliquando ad te fontem omnis sapientiae
 peruenire, et parere semper ante faciem tuam.
-<pb/></p></div2></div1>
-<div1 type="book" n="Continuation">
+<pb/></p></div></div>
+<div type="book" n="Continuation">
 <head>[BAEDAE CONTINUATIO.]</head>
 <p>ANNO DCCXXXI, Ceoluulf rex captus, et adtonsus,
 et remissus in regnum; Acca episcopus de sua sede
@@ -13874,5 +13874,5 @@ carnifex; et Osuini occisus est.</p>
 <p>Anno DCCLXVI, Ecgberctus archiepiscopus prosapia regali
 ditatus, ac diuina scientia imbutus, et Frithubertus, uere
 fideles episcopi, ad Dominum migrauerunt.]
-<pb/></p></div1>
+<pb/></p></div>
 </body></text></TEI.2>

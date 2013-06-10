@@ -104,7 +104,7 @@ added cvs log keyword
 	</teiHeader>
 	<text>
 		<body>
-			<div1 n="1" type="Book">
+			<div n="1" type="book">
 				<p><milestone n="1252a" unit="section"/><milestone n="1" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/>Every state is as we see a sort of partnership,<note anchored="yes" resp="Rackham">The Greek word had not acquired a specially political
 						connotation as the English word &lsquo;community&rsquo; has.</note>
 					and every partnership is formed with a view to some good &lpar;since all the
@@ -937,8 +937,8 @@ added cvs log keyword
 					relinquish the present subjects as completed, and make a fresh start in our
 					discourse, and first let us consider those thinkers who have advanced views
 					about the Ideal State.</p>
-			</div1>
-			<div1 n="2" type="Book">
+			</div>
+			<div n="2" type="book">
 				<p><milestone n="1260b" unit="section"/><milestone n="27" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/>And since we take for our special consideration the study of the form of
 					political community that is the best of all the forms for a people able to
 					pursue the most ideal mode of life, we must also examine the other constitutions
@@ -2240,8 +2240,8 @@ added cvs log keyword
 					peculiar to him.<milestone ed="P" unit="para"/>Let such be our examination of
 					the constitutional schemes actually in force and of those that have been
 					proposed by certain persons.</p>
-			</div1>
-			<div1 n="3" type="Book">
+			</div>
+			<div n="3" type="book">
 				<p><milestone n="1274b" unit="section"/><milestone n="32" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/>For the student of government, and of nature and characteristics of the
 					various forms of constitution, almost the first question to consider is in
 					regard to the state: what exactly is the essential nature of a state? As it is,
@@ -3551,8 +3551,8 @@ added cvs log keyword
 						transfer Books 7 and 8 here and put Books 4, 5 and 6 after them; opinions
 						vary as to the proper order of Books 4, 5. and 6 among
 					themselves.</note></p>
-			</div1>
-			<div1 n="4" type="Book">
+			</div>
+			<div n="4" type="book">
 				<p><milestone n="1288b" unit="section"/><milestone n="10" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/><note anchored="yes" resp="Rackham">Transposed as Book 6 by some editors;
 						see Book 3 fin., note.</note>In all the arts and the sciences that are not
 					merely sectional but that in relation to some one class of subject are complete,
@@ -4725,8 +4725,8 @@ added cvs log keyword
 					drawn from a certain class to deal with all cases, are oligarchic, and the
 					third, drawn partly from all and partly from a certain class, are suited to an
 					aristocracy and to a constitutional government.</p>
-			</div1>
-			<div1 n="5" type="Book">
+			</div>
+			<div n="5" type="book">
 				<p><milestone n="1301a" unit="section"/><milestone n="19" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/><note anchored="yes" resp="Rackham">Book 5 is placed as Book 7 by some
 						editors, as Book 8 by others, see Book 3 fin., note.</note>Almost all the
 					other subjects which we intended to treat<milestone n="20" ed="Bekker" unit="line"/>have now been discussed. There must follow the consideration of
@@ -6194,8 +6194,8 @@ added cvs log keyword
 					the cause of which he states to be excessive liberty. And although there are
 					several forms of oligarchy and of democracy, Socrates speaks of the revolutions
 					that occur in them as though there were only one form of each.</p>
-			</div1>
-			<div1 n="6" type="Book">
+			</div>
+			<div n="6" type="book">
 				<p><milestone n="1316b" unit="section"/><milestone n="31" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/><note anchored="yes" resp="Rackham">Book 7 in some editions, Book 8 in
 						others.</note>We have already discussed<note anchored="yes" resp="Rackham">Book 4, 1297b 35 ff.</note> how many and what are the varieties of the
 					deliberative body or sovereign power in the state, and of the system of
@@ -6773,8 +6773,8 @@ added cvs log keyword
 					Council; of these the Guardians of the Laws are an aristocratic institution, the
 					Preliminary Councillors oligarchic, and a Council democratic.<milestone ed="P" unit="para"/>We have now therefore spoken in outline about almost all the
 					offices of state.</p>
-			</div1>
-			<div1 n="7" type="Book">
+			</div>
+			<div n="7" type="book">
 				<p><milestone n="1323a" unit="section"/><milestone n="14" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/><note anchored="yes" resp="Rackham">Book 4 in some editions.</note>The
 					student who is going to make a suitable investigation of the best form of
 					constitution must necessarily decide first of all what is the most desirable
@@ -8041,8 +8041,8 @@ added cvs log keyword
 					whether it is advantageous for their supervision to be conducted on a public
 					footing or in a private manner as is done at present in most states, and thirdly
 					of what particular nature this supervision ought to be.</p>
-			</div1>
-			<div1 n="8" type="Book">
+			</div>
+			<div n="8" type="book">
 				<p><milestone n="1337a" unit="section"/><milestone n="11" ed="Bekker" unit="line"/><milestone n="1.1" ed="P" unit="Loeb chap"/><milestone ed="P" unit="para"/><note anchored="yes" resp="Rackham">Book 5 in some editions.</note>Now
 					nobody would dispute that the education of the young requires the special
 					attention of the lawgiver. Indeed the neglect of this in states is injurious to
@@ -8584,7 +8584,7 @@ added cvs log keyword
 					educative, which seems to be the nature of the Lydian mode most of all the
 					harmonies. It is clear therefore that we should lay down these three canons to
 					guide education, moderation, possibility and suitability.</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

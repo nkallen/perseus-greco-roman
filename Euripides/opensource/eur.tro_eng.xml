@@ -103,7 +103,7 @@ comes within a speech, and moving milestones out of speeches
 <castItem type="role"><role>Helen</role></castItem>
 </castList>
 
-<div1 type="episode">
+<div type="episode">
 <milestone ed="p" n="1" unit="card"/>
 <sp>
 <speaker>Poseidon</speaker>
@@ -168,8 +168,8 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Poseidon</speaker>
 <p>So shall it be, for this favor needs only a few words. I will vex the broad <placeName key="tgn,7002675">Aegean</placeName> sea; and the beach of Myconos and the reefs round <placeName key="perseus,Delos">Delos</placeName>, <milestone ed="p" n="90" unit="line"/> Scyros and <placeName key="tgn,7011173">Lemnos</placeName> too, and the cliffs of Caphareus shall be strewn with many a corpse. You go to <placeName key="tgn,7011019">Olympus</placeName>, and taking from your father's hand his lightning bolts, keep careful watch against the hour when <placeName key="perseus,Argos">Argos</placeName>' army lets slip its cables. <milestone ed="p" n="95" unit="line"/> A fool is he who sacks the towns of men, with shrines and tombs, the dead man's hallowed home, for at the last he makes a desert round himself and dies.<milestone ed="p" n="98" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
+</div>
+<div type="choral">
 <sp n="Hecuba">
 <speaker>Hecuba</speaker>
 <p>Lift your head, unhappy one, from the ground; raise up your neck; this is <placeName key="perseus,Troy">Troy</placeName> no more, <milestone ed="p" n="100" unit="line"/> no longer am I queen in <placeName key="tgn,7002329">Ilium</placeName>. Though fortune change, endure your lot; sail with the stream, and follow fortune's tack, do not steer your ship of life against the tide, since chance must guide your course. <milestone ed="p" n="105" unit="line"/> Ah me! ah me! What else but tears is now my hapless lot, whose country, children, husband, all are lost? Ah! the high-blown pride of ancestors, humbled! how brought to nothing after all! <milestone ed="p" n="110" unit="line"/> What woe must I suppress, or what declare? &lsqb;What plaintive dirge shall I awake?&rsqb; Ah, woe is me! the anguish I suffer lying here stretched upon this hard pallet! <milestone ed="p" n="115" unit="line"/> O my head, my temples, my side! How I long to turn over, and lie now on this, now on that, to rest my back and spine, while ceaselessly my tearful wail ascends. <milestone ed="p" n="120" unit="line"/> For even this is music to the wretched, to chant their cheerless dirge of sorrow.</p>
@@ -177,7 +177,7 @@ comes within a speech, and moving milestones out of speeches
 <p>You swift-prowed ships, rowed to sacred <placeName key="tgn,7002329">Ilium</placeName> over the deep dark sea, <milestone ed="p" n="125" unit="line"/> past the fair havens of <placeName key="tgn,1000074">Hellas</placeName>, to the flute's ill-omened music and the dulcet voice of pipes, <milestone ed="p" n="130" unit="line"/> to the bays of <placeName key="perseus,Troy">Troy</placeName>, alas! where you tied your hawsers, twisted handiwork from <placeName key="tgn,7016833">Egypt</placeName>, in quest of that hateful wife of Menelaus, who brought disgrace on Castor, and on Eurotas foul reproach; who murdered <milestone ed="p" n="135" unit="line"/> Priam, the father of fifty children; the cause why I, the unhappy Hecuba, have wrecked my life upon this disastrous strand. Oh that I should sit here, over against the tent of Agamemnon! <milestone ed="p" n="140" unit="line"/> As a slave I am led away from my home, an old woman, while from my head the hair is piteously shorn for grief. Ah! unhappy wives of those armored sons of <placeName key="perseus,Troy">Troy</placeName>! Ah! poor maidens, luckless brides, <milestone ed="p" n="145" unit="line"/> come weep, for <placeName key="tgn,7002329">Ilium</placeName> is now a smouldering ruin; and I, like some mother-bird that over her fledgelings screams, will begin the strain; not the same as that <milestone ed="p" n="150" unit="line"/> I once sang to the gods, as I leaned on Priam's staff and beat with my foot in Phrygian time to lead the dance!
 </p></sp>
 <milestone ed="p" n="153" unit="card"/>
-<div2 type="strophe" n="1">
+<div type="strophe" n="1">
 <sp><speaker>First Semi-Chorus</speaker>
 <p>O Hecuba! why these cries, these piercing shrieks? What do your words mean? For I heard your piteous wail <milestone ed="p" n="155" unit="line"/> echo through the building, and a pang of terror shoots through each captive Trojan's breast, as within these walls they mourn their slavish lot.</p></sp>
 <sp><speaker>Hecuba</speaker>
@@ -190,8 +190,8 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>First Semi-Chorus</speaker>
 <p>O misery! <milestone ed="p" n="165" unit="line"/> woe to us Trojan women, soon to hear of our troubles: &ldquo;Come out of the house, the Argives are preparing to return&rdquo;.</p></sp>
 <sp><speaker>Hecuba</speaker>
-<p>Oh! please do not bid the <milestone ed="p" n="170" unit="line"/> wild Cassandra leave her chamber, the frantic prophetess, for Argives to insult, nor to my griefs add yet another. Woe to you, ill-fated <placeName key="perseus,Troy">Troy</placeName>, <placeName key="perseus,Troy">Troy</placeName>, your sun is set; and woe to your unhappy children, living and dead alike, <milestone ed="p" n="175" unit="line"/> who are leaving you behind!<milestone ed="p" n="176" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Oh! please do not bid the <milestone ed="p" n="170" unit="line"/> wild Cassandra leave her chamber, the frantic prophetess, for Argives to insult, nor to my griefs add yet another. Woe to you, ill-fated <placeName key="perseus,Troy">Troy</placeName>, <placeName key="perseus,Troy">Troy</placeName>, your sun is set; and woe to your unhappy children, living and dead alike, <milestone ed="p" n="175" unit="line"/> who are leaving you behind!<milestone ed="p" n="176" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Second Semi-Chorus</speaker>
 <p>With trembling step, alas! I leave this tent of Agamemnon to learn of you, my royal mistress, whether the Argives have resolved to take my wretched life, or <milestone ed="p" n="180" unit="line"/> whether the sailors at the prow are making ready to ply their oars.</p></sp>
 <sp><speaker>Hecuba</speaker>
@@ -203,16 +203,16 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>Second Semi-Chorus</speaker>
 <p>Alas! What man of <placeName key="perseus,Argos">Argos</placeName> or <placeName key="perseus,Phthia">Phthia</placeName> will bear me in sorrow far from <placeName key="perseus,Troy">Troy</placeName>, to his home, or to some island fastness?</p></sp>
 <sp><speaker>Hecuba</speaker>
-<p><milestone ed="p" n="190" unit="line"/> Ah! ah! Whose slave shall I become in my old age? in what land? a poor old drone, the wretched copy of a corpse, alas! set to keep the gate <milestone ed="p" n="195" unit="line"/> or tend their children, I who once held royal rank in <placeName key="perseus,Troy">Troy</placeName>.<milestone ed="p" n="197" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p><milestone ed="p" n="190" unit="line"/> Ah! ah! Whose slave shall I become in my old age? in what land? a poor old drone, the wretched copy of a corpse, alas! set to keep the gate <milestone ed="p" n="195" unit="line"/> or tend their children, I who once held royal rank in <placeName key="perseus,Troy">Troy</placeName>.<milestone ed="p" n="197" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>Alas, alas! What piteous dirge will you devise to mourn the outrage done you? No more through Ida's looms <milestone ed="p" n="200" unit="line"/> shall I ply the shuttle to and fro. I look my last on my children's bodies, my last; I shall endure surpassing misery, it may be as the unwilling bride of some Hellene &lpar;perish the night and fortune that brings me to this!&rpar;; <milestone ed="p" n="205" unit="line"/> it may be as a wretched slave from Peirene's sacred fount I shall draw their store of water. Oh! may it be ours to come to Theseus' famous realm, a land of joy. <milestone ed="p" n="210" unit="line"/> Never, never let me see Eurotas' swirling tide, hateful home of Helen, there to meet and be the slave of Menelaus, whose hand laid <placeName key="perseus,Troy">Troy</placeName> waste!<milestone ed="p" n="214" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Alas, alas! What piteous dirge will you devise to mourn the outrage done you? No more through Ida's looms <milestone ed="p" n="200" unit="line"/> shall I ply the shuttle to and fro. I look my last on my children's bodies, my last; I shall endure surpassing misery, it may be as the unwilling bride of some Hellene &lpar;perish the night and fortune that brings me to this!&rpar;; <milestone ed="p" n="205" unit="line"/> it may be as a wretched slave from Peirene's sacred fount I shall draw their store of water. Oh! may it be ours to come to Theseus' famous realm, a land of joy. <milestone ed="p" n="210" unit="line"/> Never, never let me see Eurotas' swirling tide, hateful home of Helen, there to meet and be the slave of Menelaus, whose hand laid <placeName key="perseus,Troy">Troy</placeName> waste!<milestone ed="p" n="214" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>That holy land by Peneus fed, <milestone ed="p" n="215" unit="line"/> nestling in all its beauty at <placeName key="tgn,7011019">Olympus</placeName>' foot, is said, so have I heard, to be a very granary of wealth and teeming fruitfulness; next to the sacred soil of Theseus, I could wish to reach that land. <milestone ed="p" n="220" unit="line"/> They tell me too Hephaestus' home, beneath the shadow of <placeName key="tgn,7003867">Aetna</placeName>, fronting <placeName key="tgn,6004687">Phoenicia</placeName>, the mother of Sicilian hills, is famous for the crowns it gives to valor. Or may I find a home on that shore which lies very near</p>
-<p><milestone ed="p" n="225" unit="line"/> <placeName key="tgn,6002765">Ionia</placeName>'s sea, a land watered by Crathis, lovely stream, that dyes the hair an auburn tint, feeding with its holy waves and making glad the home of heroes.<milestone ed="p" n="230" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p><milestone ed="p" n="225" unit="line"/> <placeName key="tgn,6002765">Ionia</placeName>'s sea, a land watered by Crathis, lovely stream, that dyes the hair an auburn tint, feeding with its holy waves and making glad the home of heroes.<milestone ed="p" n="230" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus Leader</speaker>
 <p><milestone ed="p" n="230" unit="line"/> But see! a herald from the army of Danaids, with a store of fresh proclamations, comes hastening here. What is his errand? What does he say? For we are indeed slaves now to Dorian lords.</p></sp>
@@ -345,23 +345,23 @@ comes within a speech, and moving milestones out of speeches
 <speaker>Hecuba</speaker>
 <p>Leave me, my maidens&mdash;unwelcome service does not grow welcome&mdash;lying where I fell; my sufferings now, my troubles past, afflictions yet to come, all claim this lowly posture. Gods of heaven! small help I find in calling such allies, <milestone ed="p" n="470" unit="line"/> yet is there something in the form of invoking heaven, whenever we fall on evil days. First I will sing of my former blessings; so shall I inspire the greater pity for my present woes.</p>
 <p>Born to royal estate and wedded to a royal lord, <milestone ed="p" n="475" unit="line"/> I was the mother of a race of gallant sons; no mere ciphers they, but <placeName key="tgn,7002613">Phrygia</placeName>'s chiefest pride, children such as no Trojan or Hellenic or barbarian mother ever had to boast. All these have I seen slain by the spear of <placeName key="tgn,1000074">Hellas</placeName>, <milestone ed="p" n="480" unit="line"/> and at their tombs have I shorn off my hair; with these my eyes I saw their father, Priam, butchered on his own hearth, and my city captured, nor did others bring this bitter news to me. The maidens I brought up <milestone ed="p" n="485" unit="line"/> to see chosen for some marriage high, for strangers have I reared them, and seen them snatched away. Nevermore can I hope to be seen by them, nor shall my eyes behold them ever in the days to come. And last, to crown my misery, <milestone ed="p" n="490" unit="line"/> I shall be brought to <placeName key="tgn,1000074">Hellas</placeName>, a slave in my old age. And there the tasks that least befit the evening of my life will they impose on me, Hector's mother, to watch their gates and keep the keys, or bake their bread, and on the ground instead of my royal bed <milestone ed="p" n="495" unit="line"/> lay down my shrunken limbs, with tattered rags about my wasted frame, a shameful garb for those who once were prosperous. Ah, woe is me! and this is what I bear and am to bear for one woman's marriage! <milestone ed="p" n="500" unit="line"/> O my daughter, O Cassandra! whom gods have summoned to their frenzied train, how cruel the lot that ends your virgin days! And you, Polyxena! my child of sorrow, where, oh! where are you? None of all the many sons and daughters I have born comes to aid a wretched mother. <milestone ed="p" n="505" unit="line"/> Why then raise me up? What hope is left us? Guide me, who before trod so daintily the streets of <placeName key="perseus,Troy">Troy</placeName>, but now am a slave, to a bed upon the ground, near some rocky ridge, that from there I may cast myself down and perish, after I have wasted my body with weeping. <milestone ed="p" n="510" unit="line"/> Of all the prosperous crowd, count none a happy man before he die.<milestone ed="p" n="511" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe">
+</div>
+<div type="choral">
+<div type="strophe">
 <sp><speaker>Chorus</speaker>
-<p>Sing me, Muse, a tale of <placeName key="perseus,Troy">Troy</placeName>, a funeral dirge in strains unheard as yet, with tears; <milestone ed="p" n="515" unit="line"/> for now I will uplift for <placeName key="perseus,Troy">Troy</placeName> a piteous chant, telling how I met my doom and fell a wretched captive to the Argives by reason of a four-footed beast that moved on wheels, when <placeName key="tgn,7002733">Achaea</placeName>'s sons left at our.gates that horse, <milestone ed="p" n="520" unit="line"/> loud rumbling to the sky, with its trappings of gold and its freight of warriors; and our people cried out as they stood upon the rocky citadel, &ldquo;Up now, you whose toil is over, <milestone ed="p" n="525" unit="line"/> and drag this sacred image to the shrine of the Zeus-born maiden, goddess of our <placeName key="tgn,7002329">Ilium</placeName>!&rdquo; Forth from his house came every youth and every grey-head too; and with songs of joy <milestone ed="p" n="530" unit="line"/> they took the fatal snare within.<milestone ed="p" n="531" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p>Sing me, Muse, a tale of <placeName key="perseus,Troy">Troy</placeName>, a funeral dirge in strains unheard as yet, with tears; <milestone ed="p" n="515" unit="line"/> for now I will uplift for <placeName key="perseus,Troy">Troy</placeName> a piteous chant, telling how I met my doom and fell a wretched captive to the Argives by reason of a four-footed beast that moved on wheels, when <placeName key="tgn,7002733">Achaea</placeName>'s sons left at our.gates that horse, <milestone ed="p" n="520" unit="line"/> loud rumbling to the sky, with its trappings of gold and its freight of warriors; and our people cried out as they stood upon the rocky citadel, &ldquo;Up now, you whose toil is over, <milestone ed="p" n="525" unit="line"/> and drag this sacred image to the shrine of the Zeus-born maiden, goddess of our <placeName key="tgn,7002329">Ilium</placeName>!&rdquo; Forth from his house came every youth and every grey-head too; and with songs of joy <milestone ed="p" n="530" unit="line"/> they took the fatal snare within.<milestone ed="p" n="531" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Chorus</speaker>
-<p>Then hastened all the race of <placeName key="tgn,7002613">Phrygia</placeName> to the gates, to make the goddess a present of an <placeName key="tgn,5001993">Argive</placeName> band ambushed in the polished mountain-pine, <milestone ed="p" n="535" unit="line"/> Dardania's ruin, a welcome gift to be to her, the virgin queen of deathless steeds; and with nooses of cord they dragged it, as it had been a ship's dark hull, to the stone-built <milestone ed="p" n="540" unit="line"/> temple of the goddess Pallas, and set it on that floor so soon to drink our country's blood. But, as they labored and made merry, came on the pitchy night; loud the Libyan flute was sounding, <milestone ed="p" n="545" unit="line"/> and Phrygian songs awoke, while maidens beat the ground with airy foot, uplifting their glad song; and in the halls a blaze of torchlight shed its flickering shadows <milestone ed="p" n="550" unit="line"/> on sleeping eyes.<milestone ed="p" n="551" unit="card"/></p></sp></div2>
-<div2 type="epode">
+<p>Then hastened all the race of <placeName key="tgn,7002613">Phrygia</placeName> to the gates, to make the goddess a present of an <placeName key="tgn,5001993">Argive</placeName> band ambushed in the polished mountain-pine, <milestone ed="p" n="535" unit="line"/> Dardania's ruin, a welcome gift to be to her, the virgin queen of deathless steeds; and with nooses of cord they dragged it, as it had been a ship's dark hull, to the stone-built <milestone ed="p" n="540" unit="line"/> temple of the goddess Pallas, and set it on that floor so soon to drink our country's blood. But, as they labored and made merry, came on the pitchy night; loud the Libyan flute was sounding, <milestone ed="p" n="545" unit="line"/> and Phrygian songs awoke, while maidens beat the ground with airy foot, uplifting their glad song; and in the halls a blaze of torchlight shed its flickering shadows <milestone ed="p" n="550" unit="line"/> on sleeping eyes.<milestone ed="p" n="551" unit="card"/></p></sp></div>
+<div type="epode">
 <sp><speaker>Chorus</speaker>
-<p>In that hour around the house I was singing as I danced to that maiden of the hills, the child of Zeus; <milestone ed="p" n="555" unit="line"/> when there rang along the town a cry of death which filled the homes of <placeName key="perseus,Troy">Troy</placeName>, and babies in terror clung about their mothers' skirts, <milestone ed="p" n="560" unit="line"/> as forth from their ambush came the warrior-band, the handiwork of maiden Pallas. Soon the altars ran with Phrygian blood, and desolation reigned over every bed where young men lay beheaded, <milestone ed="p" n="565" unit="line"/> a glorious crown for <placeName key="tgn,1000074">Hellas</placeName> won, for her, the nurse of youth, but for our Phrygian fatherland a bitter grief.<milestone ed="p" n="568" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>In that hour around the house I was singing as I danced to that maiden of the hills, the child of Zeus; <milestone ed="p" n="555" unit="line"/> when there rang along the town a cry of death which filled the homes of <placeName key="perseus,Troy">Troy</placeName>, and babies in terror clung about their mothers' skirts, <milestone ed="p" n="560" unit="line"/> as forth from their ambush came the warrior-band, the handiwork of maiden Pallas. Soon the altars ran with Phrygian blood, and desolation reigned over every bed where young men lay beheaded, <milestone ed="p" n="565" unit="line"/> a glorious crown for <placeName key="tgn,1000074">Hellas</placeName> won, for her, the nurse of youth, but for our Phrygian fatherland a bitter grief.<milestone ed="p" n="568" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus Leader</speaker>
 <p>Hecuba, do you see Andromache advancing here on a foreign chariot? <milestone ed="p" n="570" unit="line"/> and with her, clasped to her throbbing breast, is her dear Astyanax, Hector's child. Where are you being carried, unhappy wife, mounted on that chariot, side by side with Hector's brazen arms and Phrygian spoils of war, <milestone ed="p" n="575" unit="line"/> with which Achilles' son will deck the shrines of Phthia on his return from <placeName key="tgn,7014164">Troy</placeName>?<milestone ed="p" n="577" unit="card"/></p></sp>
-<div2 type="strophe" n="1">
+<div type="strophe" n="1">
 <sp><speaker>Andromache</speaker>
 <p>My Achaean masters are leading me away.</p></sp>
 <sp><speaker>Hecuba</speaker>
@@ -379,8 +379,8 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>Hecuba</speaker>
 <p>O my children!</p></sp>
 <sp><speaker>Andromache</speaker>
-<p>Our day is past.<milestone ed="p" n="582" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Our day is past.<milestone ed="p" n="582" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Hecuba</speaker>
 <p>Joy is gone, <placeName key="tgn,7014164">Troy</placeName> is gone.</p></sp>
 <sp><speaker>Andromache</speaker>
@@ -398,18 +398,18 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>Andromache</speaker>
 <p>Of our city,</p></sp>
 <sp><speaker>Hecuba</speaker>
-<p>Smouldering in the smoke.<milestone ed="p" n="587" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Smouldering in the smoke.<milestone ed="p" n="587" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Andromache</speaker>
 <p>Come to me, my husband, c!</p></sp>
 <sp><speaker>Hecuba</speaker>
 <p>Ah, hapless wife! you call on my son who lies in the tomb.</p></sp>
 <sp><speaker>Andromache</speaker>
-<p><milestone ed="p" n="590" unit="line"/> Your wife's defender!<milestone ed="p" n="591" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p><milestone ed="p" n="590" unit="line"/> Your wife's defender!<milestone ed="p" n="591" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Hecuba</speaker>
-<p>Oh, you, who before made the Achaeans grieve, eldest of the sons I bore to Priam, take me to your rest in Hades' halls!<milestone ed="p" n="595" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="3">
+<p>Oh, you, who before made the Achaeans grieve, eldest of the sons I bore to Priam, take me to your rest in Hades' halls!<milestone ed="p" n="595" unit="card"/></p></sp></div>
+<div type="strophe" n="3">
 <sp><speaker>Andromache</speaker>
 <p><milestone ed="p" n="595" unit="line"/>These great griefs&mdash;</p></sp>
 <sp><speaker>Hecuba</speaker>
@@ -419,8 +419,8 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>Hecuba</speaker>
 <p>And sorrow to sorrow added.</p></sp>
 <sp><speaker>Andromache</speaker>
-<p>Through the will of angry heaven, since the day that son <note anchored="yes" resp="Coleridge">i.e., Paris, who had been exposed to die on account of an oracle foretelling the misery he would cause if he grew to man's estate; but shepherds had found him on the hills and reared him.</note> of yours escaped death, he that for a hated bride brought destruction on the Trojan citadel. There lie the gory corpses of the slain by the shrine of <placeName key="tgn,2565867">Pallas</placeName> for vultures to carry off; <milestone ed="p" n="600" unit="line"/> and <placeName key="tgn,7014164">Troy</placeName> has come to slavery's yoke.<milestone ed="p" n="601" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="3">
+<p>Through the will of angry heaven, since the day that son <note anchored="yes" resp="Coleridge">i.e., Paris, who had been exposed to die on account of an oracle foretelling the misery he would cause if he grew to man's estate; but shepherds had found him on the hills and reared him.</note> of yours escaped death, he that for a hated bride brought destruction on the Trojan citadel. There lie the gory corpses of the slain by the shrine of <placeName key="tgn,2565867">Pallas</placeName> for vultures to carry off; <milestone ed="p" n="600" unit="line"/> and <placeName key="tgn,7014164">Troy</placeName> has come to slavery's yoke.<milestone ed="p" n="601" unit="card"/></p></sp></div>
+<div type="antistrophe" n="3">
 <sp><speaker>Hecuba</speaker>
 <p>O my country, O unhappy land&mdash;</p></sp>
 <sp><speaker>Andromache</speaker>
@@ -539,23 +539,23 @@ comes within a speech, and moving milestones out of speeches
 </sp>
 <sp>
 <speaker>Hecuba</speaker>
-<p><milestone ed="p" n="790" unit="line"/> O child, son of my hapless boy, an unjust fate robs me and your mother of your life. How is it with me? What can I do for you, luckless one? For you I strike upon my head and beat my breast, my only gift; <milestone ed="p" n="795" unit="line"/> for that is in my power. Woe for my city! woe for you! What sorrow do we not have? What is wanting now to our utter and immediate ruin?<milestone ed="p" n="799" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+<p><milestone ed="p" n="790" unit="line"/> O child, son of my hapless boy, an unjust fate robs me and your mother of your life. How is it with me? What can I do for you, luckless one? For you I strike upon my head and beat my breast, my only gift; <milestone ed="p" n="795" unit="line"/> for that is in my power. Woe for my city! woe for you! What sorrow do we not have? What is wanting now to our utter and immediate ruin?<milestone ed="p" n="799" unit="card"/></p></sp></div>
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>O Telamon, King of <placeName key="tgn,7002340">Salamis</placeName>, the feeding-ground of bees, <milestone ed="p" n="800" unit="line"/> who have your home in a seagirt isle that lies near the holy hills where first Athena made the grey olive branch to appear, a crown for heavenly heads and a glory to happy <placeName key="perseus,Athens">Athens</placeName>, you came, you came in knightly brotherhood <milestone ed="p" n="805" unit="line"/> with that great archer, Alcmena's son, to sack our city <placeName key="tgn,7002329">Ilium</placeName>, in days gone by, &lsqb;on your advent from <placeName key="tgn,1000074">Hellas</placeName>&rsqb;;<milestone ed="p" n="809" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>O Telamon, King of <placeName key="tgn,7002340">Salamis</placeName>, the feeding-ground of bees, <milestone ed="p" n="800" unit="line"/> who have your home in a seagirt isle that lies near the holy hills where first Athena made the grey olive branch to appear, a crown for heavenly heads and a glory to happy <placeName key="perseus,Athens">Athens</placeName>, you came, you came in knightly brotherhood <milestone ed="p" n="805" unit="line"/> with that great archer, Alcmena's son, to sack our city <placeName key="tgn,7002329">Ilium</placeName>, in days gone by, &lsqb;on your advent from <placeName key="tgn,1000074">Hellas</placeName>&rsqb;;<milestone ed="p" n="809" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>When he led the chosen flower of <placeName key="tgn,1000074">Hellas</placeName>, vexed <milestone ed="p" n="810" unit="line"/> for the steeds, <note anchored="yes" resp="Coleridge">Heracles had destroyed a sea-monster for Laomedon on condition of receiving a gift of horses for his trouble, and, on Laomedon repudiating the promise, sacked <placeName key="perseus,Troy">Troy</placeName>.</note> and at the fair stream of Simois he stayed his sea-borne ship and fastened cables to the stern, and forth from the ship he took the bow his hand could deftly shoot, to be the doom of Laomedon; and with the ruddy breath of fire <milestone ed="p" n="815" unit="line"/> he wasted the masonry squared by Phoebus' line and chisel, and sacked the land of <placeName key="perseus,Troy">Troy</placeName>; so twice in two attacks has the blood-stained spear destroyed Dardania's walls.<milestone ed="p" n="820" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>When he led the chosen flower of <placeName key="tgn,1000074">Hellas</placeName>, vexed <milestone ed="p" n="810" unit="line"/> for the steeds, <note anchored="yes" resp="Coleridge">Heracles had destroyed a sea-monster for Laomedon on condition of receiving a gift of horses for his trouble, and, on Laomedon repudiating the promise, sacked <placeName key="perseus,Troy">Troy</placeName>.</note> and at the fair stream of Simois he stayed his sea-borne ship and fastened cables to the stern, and forth from the ship he took the bow his hand could deftly shoot, to be the doom of Laomedon; and with the ruddy breath of fire <milestone ed="p" n="815" unit="line"/> he wasted the masonry squared by Phoebus' line and chisel, and sacked the land of <placeName key="perseus,Troy">Troy</placeName>; so twice in two attacks has the blood-stained spear destroyed Dardania's walls.<milestone ed="p" n="820" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="820" unit="line"/> In vain, it seems, you Phrygian boy <note anchored="yes" resp="Coleridge">Ganymede, a son of Tros.</note> pacing with dainty step among your golden chalices, do you fill high the cup of Zeus, a lovely service; <milestone ed="p" n="825" unit="line"/> the land of your birth is being consumed by fire. The shore re-echoes to our cries; and, as a bird bewails its young, <milestone ed="p" n="830" unit="line"/> so we bewail our husbands or our children, or our old mothers. The dew-fed springs where you bathed, the course where you trained, <milestone ed="p" n="835" unit="line"/> are now no more; but you beside the throne of Zeus are sitting with a calm, sweet smile upon your fair young face, while the spear of <placeName key="tgn,1000074">Hellas</placeName> has destroyed the land of Priam.<milestone ed="p" n="840" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p><milestone ed="p" n="820" unit="line"/> In vain, it seems, you Phrygian boy <note anchored="yes" resp="Coleridge">Ganymede, a son of Tros.</note> pacing with dainty step among your golden chalices, do you fill high the cup of Zeus, a lovely service; <milestone ed="p" n="825" unit="line"/> the land of your birth is being consumed by fire. The shore re-echoes to our cries; and, as a bird bewails its young, <milestone ed="p" n="830" unit="line"/> so we bewail our husbands or our children, or our old mothers. The dew-fed springs where you bathed, the course where you trained, <milestone ed="p" n="835" unit="line"/> are now no more; but you beside the throne of Zeus are sitting with a calm, sweet smile upon your fair young face, while the spear of <placeName key="tgn,1000074">Hellas</placeName> has destroyed the land of Priam.<milestone ed="p" n="840" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="840" unit="line"/>Ah! Love, Love, who once sought these Dardanian halls, deep-seated in the hearts of heavenly gods, how high you made <placeName key="perseus,Troy">Troy</placeName> to tower in those days, <milestone ed="p" n="845" unit="line"/> allying her with deities! But I will cease to urge reproaches against Zeus; for white-winged dawn, whose light is dear to man, <milestone ed="p" n="850" unit="line"/> turned a baleful eye upon our land and watched the ruin of our citadel, though she had within her bridal bower a husband to give her children, <note anchored="yes" resp="Coleridge">Referring to he union of Aurora and Tithonus</note> from this land, <milestone ed="p" n="855" unit="line"/> whom once a chariot of gold spangled stars caught up and carried there, great source of hope to his native country ; but all the love the gods once had for <placeName key="perseus,Troy">Troy</placeName> is passed away.<milestone ed="p" n="860" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p><milestone ed="p" n="840" unit="line"/>Ah! Love, Love, who once sought these Dardanian halls, deep-seated in the hearts of heavenly gods, how high you made <placeName key="perseus,Troy">Troy</placeName> to tower in those days, <milestone ed="p" n="845" unit="line"/> allying her with deities! But I will cease to urge reproaches against Zeus; for white-winged dawn, whose light is dear to man, <milestone ed="p" n="850" unit="line"/> turned a baleful eye upon our land and watched the ruin of our citadel, though she had within her bridal bower a husband to give her children, <note anchored="yes" resp="Coleridge">Referring to he union of Aurora and Tithonus</note> from this land, <milestone ed="p" n="855" unit="line"/> whom once a chariot of gold spangled stars caught up and carried there, great source of hope to his native country ; but all the love the gods once had for <placeName key="perseus,Troy">Troy</placeName> is passed away.<milestone ed="p" n="860" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Menelaus</speaker>
 <p><milestone ed="p" n="860" unit="line"/> Hail! you radiant flare of the sun, by whose fair light I now shall capture her that was my wife, Helen; for I am that Menelaus, who has toiled so hard, I and <placeName key="tgn,7002733">Achaea</placeName>'s army. I came to <placeName key="perseus,Troy">Troy</placeName>, not so much as men suppose <milestone ed="p" n="865" unit="line"/> for, the sake of a woman, but to punish the man who from my house stole my wife, traitor to my hospitality. But he, by the gods' will, has paid the penalty, ruined, and his country too, by the spear of <placeName key="tgn,1000074">Hellas</placeName>. And I have come to bear that wretched woman away&mdash;wife I have no mind <milestone ed="p" n="870" unit="line"/> to call her, though she once was mine&mdash;for now she is one among the other Trojan women who share these tents as captives. For they, the very men who who toiled to take her with the spear, have granted to me to slay her, <milestone ed="p" n="875" unit="line"/> or, if I will, to spare and carry back with me to <placeName key="perseus,Argos">Argos</placeName>. Now my purpose is not to put her to death in <placeName key="perseus,Troy">Troy</placeName>, but to carry her to <placeName key="tgn,1000074">Hellas</placeName> in my sea-borne ship, and then surrender her to death, a recompense to all whose friends were slain in <placeName key="tgn,7002329">Ilium</placeName>. <milestone ed="p" n="880" unit="line"/> Ho! my servants, enter the tent, and drag her out to me by her hair foul with murder; and when a favoring breeze shall blow, to <placeName key="tgn,1000074">Hellas</placeName> will we convey her.</p></sp>
@@ -629,22 +629,22 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Menelaus</speaker>
 <p>Why, that depends how those we love are minded. But your wish shall be granted; she shall not set foot upon the same ship with me; for your advice is surely sound; <milestone ed="p" n="1055" unit="line"/> and when she comes to <placeName key="perseus,Argos">Argos</placeName> she shall die a shameful death as is her due, and impress the need of chastity on all women. No easy task; yet shall her fate strike their foolish hearts with terror, even though they are more lost to shame than she.<stage>Exit Menelaus, dragging Helen with him.</stage><milestone ed="p" n="1060" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="1060" unit="line"/> So then you have delivered into <placeName key="tgn,7002733">Achaea</placeName>'s hand, O Zeus, your shrine in <placeName key="tgn,7002329">Ilium</placeName> and your fragrant altar, the offerings of burnt sacrifice with smoke of myrrh to heaven uprising, <milestone ed="p" n="1065" unit="line"/> and holy <placeName key="tgn,7016140">Pergamos</placeName>, and glens of Ida tangled with the ivy's growth, where rills of melting snow pour down their flood, a holy sun-lit land that bounds the world <milestone ed="p" n="1070" unit="line"/> and takes the god's first rays!<milestone ed="p" n="1071" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p><milestone ed="p" n="1060" unit="line"/> So then you have delivered into <placeName key="tgn,7002733">Achaea</placeName>'s hand, O Zeus, your shrine in <placeName key="tgn,7002329">Ilium</placeName> and your fragrant altar, the offerings of burnt sacrifice with smoke of myrrh to heaven uprising, <milestone ed="p" n="1065" unit="line"/> and holy <placeName key="tgn,7016140">Pergamos</placeName>, and glens of Ida tangled with the ivy's growth, where rills of melting snow pour down their flood, a holy sun-lit land that bounds the world <milestone ed="p" n="1070" unit="line"/> and takes the god's first rays!<milestone ed="p" n="1071" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Gone are your sacrifices! gone the dancer's cheerful shout! gone the vigils of the gods as night closed in! your images of carven gold are now no more; <milestone ed="p" n="1075" unit="line"/> and <placeName key="tgn,7002613">Phrygia</placeName>'s holy festivals, twelve times a year, at each full moon, are ended now. It is this, it is this that fills me with anxious thought whether you, lord, seated on the sky, your heavenly throne, care at all that my city is destroyed, <milestone ed="p" n="1080" unit="line"/> a prey to the furious fiery blast.<milestone ed="p" n="1081" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Gone are your sacrifices! gone the dancer's cheerful shout! gone the vigils of the gods as night closed in! your images of carven gold are now no more; <milestone ed="p" n="1075" unit="line"/> and <placeName key="tgn,7002613">Phrygia</placeName>'s holy festivals, twelve times a year, at each full moon, are ended now. It is this, it is this that fills me with anxious thought whether you, lord, seated on the sky, your heavenly throne, care at all that my city is destroyed, <milestone ed="p" n="1080" unit="line"/> a prey to the furious fiery blast.<milestone ed="p" n="1081" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>Ah! my loved husband, you are a wandering spectre; <milestone ed="p" n="1085" unit="line"/> unwashed, unburied lies your corpse, while over the sea the ship sped by wings will carry me to <placeName key="perseus,Argos">Argos</placeName>, land of steeds, where stand Cyclopian walls of stone reaching to heaven. There in the gate the children gather, <milestone ed="p" n="1090" unit="line"/> and weep their piteous lamentation; they cry, they cry: Mother, alas! torn from your sight, the Achaeans bear me away from you to their dark ship <milestone ed="p" n="1095" unit="line"/> to row me over the deep to sacred <placeName key="tgn,7002340">Salamis</placeName> or to the hill on the Isthmus, that overlooks two seas, the seat that holds the gates of Pelops.<milestone ed="p" n="1100" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Ah! my loved husband, you are a wandering spectre; <milestone ed="p" n="1085" unit="line"/> unwashed, unburied lies your corpse, while over the sea the ship sped by wings will carry me to <placeName key="perseus,Argos">Argos</placeName>, land of steeds, where stand Cyclopian walls of stone reaching to heaven. There in the gate the children gather, <milestone ed="p" n="1090" unit="line"/> and weep their piteous lamentation; they cry, they cry: Mother, alas! torn from your sight, the Achaeans bear me away from you to their dark ship <milestone ed="p" n="1095" unit="line"/> to row me over the deep to sacred <placeName key="tgn,7002340">Salamis</placeName> or to the hill on the Isthmus, that overlooks two seas, the seat that holds the gates of Pelops.<milestone ed="p" n="1100" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="1100" unit="line"/> Oh may the sacred blazing thunderbolt of the <placeName key="tgn,7002675">Aegean</placeName>, hurled in might, smite the ship of Menelaus full in the middle, on its way in mid-sea, <milestone ed="p" n="1105" unit="line"/> since he is carrying me away in bitter sorrow from the shores of <placeName key="tgn,7002329">Ilium</placeName> to be a slave in <placeName key="tgn,1000074">Hellas</placeName>, while the daughter of Zeus still keeps her golden mirrors, delight of maidens' hearts. <milestone ed="p" n="1110" unit="line"/> Never may he reach his home in <placeName key="tgn,7002745">Laconia</placeName> or his father's hearth and home, nor come to the town of <placeName key="perseus,Pitane">Pitane</placeName> <note anchored="yes" resp="Coleridge">Part of <placeName key="perseus,Sparta">Sparta</placeName> was so called.</note> or the temple of the goddess <note anchored="yes" resp="Coleridge">Athena of &ldquo;the Brazen House,&rdquo; a temple on the acropolis.</note> with the gates of bronze, having taken as his captive the one whose marriage brought disgrace on <placeName key="tgn,1000074">Hellas</placeName> through its length and breadth and woful anguish <milestone ed="p" n="1115" unit="line"/> on the streams of Simois!<milestone ed="p" n="1118" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p><milestone ed="p" n="1100" unit="line"/> Oh may the sacred blazing thunderbolt of the <placeName key="tgn,7002675">Aegean</placeName>, hurled in might, smite the ship of Menelaus full in the middle, on its way in mid-sea, <milestone ed="p" n="1105" unit="line"/> since he is carrying me away in bitter sorrow from the shores of <placeName key="tgn,7002329">Ilium</placeName> to be a slave in <placeName key="tgn,1000074">Hellas</placeName>, while the daughter of Zeus still keeps her golden mirrors, delight of maidens' hearts. <milestone ed="p" n="1110" unit="line"/> Never may he reach his home in <placeName key="tgn,7002745">Laconia</placeName> or his father's hearth and home, nor come to the town of <placeName key="perseus,Pitane">Pitane</placeName> <note anchored="yes" resp="Coleridge">Part of <placeName key="perseus,Sparta">Sparta</placeName> was so called.</note> or the temple of the goddess <note anchored="yes" resp="Coleridge">Athena of &ldquo;the Brazen House,&rdquo; a temple on the acropolis.</note> with the gates of bronze, having taken as his captive the one whose marriage brought disgrace on <placeName key="tgn,1000074">Hellas</placeName> through its length and breadth and woful anguish <milestone ed="p" n="1115" unit="line"/> on the streams of Simois!<milestone ed="p" n="1118" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enter Talthybius and attendants, bearing the corpse of Astyanax on Hector's shield.</stage>
 <sp>
 <speaker>Chorus Leader</speaker>
@@ -725,7 +725,7 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Chorus</speaker>
 <p>As the smoke soars on wings to heaven, so sinks our city to the ground before the spear. <milestone ed="p" n="1300" unit="line"/> With furious haste both fire and enemy spear devour each house.<milestone ed="p" n="1302" unit="card"/></p></sp>
-<div2 type="strophe">
+<div type="strophe">
 <sp><speaker>Hecuba</speaker>
 <p>Oh, earth, nourisher of my children!</p></sp>
 <sp><speaker>Chorus</speaker>
@@ -749,8 +749,8 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>Hecuba</speaker>
 <p>Woe is me! O Priam, Priam, slain, unburied, left without a friend, nothing do you know of my cruel fate.</p></sp>
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="1315" unit="line"/> No, for over his eyes black death has drawn his pall, a pure man slain by the impure.<milestone ed="p" n="1317" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p><milestone ed="p" n="1315" unit="line"/> No, for over his eyes black death has drawn his pall, a pure man slain by the impure.<milestone ed="p" n="1317" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Hecuba</speaker>
 <p>Woe for the temples of the gods and for our dear city!</p></sp>
 <sp><speaker>Chorus</speaker>
@@ -774,6 +774,6 @@ comes within a speech, and moving milestones out of speeches
 <sp><speaker>Hecuba</speaker>
 <p>O woe is me! trembling, quaking limbs, support my footsteps! away! to face <milestone ed="p" n="1330" unit="line"/> the day that begins your slavery.</p></sp>
 <sp><speaker>Chorus</speaker>
-<p>Woe for our unhappy town! And yet let us advance to the Achaean fleet.</p></sp></div2>
-</div1></body>
+<p>Woe for our unhappy town! And yet let us advance to the Achaean fleet.</p></sp></div>
+</div></body>
 </text></TEI.2>

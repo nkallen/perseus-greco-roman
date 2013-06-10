@@ -68,9 +68,9 @@
 </teiHeader>
 <text lang="en">
 <body>
-<div1 id="cp" type="chapter" n="preface">
+<div id="cp" type="chapter" n="preface">
 <head>Preface</head>
-<div2 id="cps1" type="paragraph" n="1">
+<div id="cps1" type="paragraph" n="1">
 <p>These chapters, expanded from a recent course of
 Oxford lectures, will, I hope, do something to supply
 what I believe to be a real want. Textual emendation
@@ -141,10 +141,10 @@ of this manual.</p>
 <dateline>Jesus College, Oxford
 September 1896.</dateline>
 </closer>
-<pb/></div2></div1>
-<div1 id="cbib" type="chapter" n="bibliography">
+<pb/></div></div>
+<div id="cbib" type="chapter" n="bibliography">
 <head>Bibliography</head>
-<div2 id="cbibs1" type="paragraph" n="1">
+<div id="cbibs1" type="paragraph" n="1">
 <p>To gain a knowledge of the method, aim, necessity, etc., of Textual
 Emendation the best books to read are:
 <listBibl>
@@ -182,10 +182,10 @@ Selbstunterricht,</title> Berlin 1874 (9 s.) (photolithograph).</bibl></p>
 Montepessulanus,&rdquo; etc., the student may find useful:
 <bibl>Graesse <title lang="la">Orbis Latinus,</title> Dresden 1861 (with the Latin names of
 modern towns).</bibl>
-<pb/></p></div2></div1>
-<div1 id="ci" type="chapter" n="introduction">
+<pb/></p></div></div>
+<div id="ci" type="chapter" n="introduction">
 <head>Introduction</head>
-<div2 id="cis1" type="paragraph" n="1">
+<div id="cis1" type="paragraph" n="1">
 <head>The Text of Plautus&mdash;its special value for the study of Textual Emendation</head>
 <p>There is no Latin author the study of whose text has
 at once such interest and such value for students of
@@ -216,8 +216,8 @@ Plautus has thus all the fascination of a problem which
 sooner or later must, be solved. Even an untrained
 student may at any moment by an ingenious conjecture
 remove a difficulty, and thereby open the way to the
-resolution of a score of similar problems.</p></div2>
-<div2 id="cis2" type="paragraph" n="2">
+resolution of a score of similar problems.</p></div>
+<div id="cis2" type="paragraph" n="2">
 <head>Valuable minuscule manuscript of Plautus</head>
 <p>And the text of Plautus offers peculiarly useful
 material to the student of textual criticism from the
@@ -297,8 +297,8 @@ course of the corruption. And yet it is a palmary rule
 of textual criticism that until we can indicate how and
 why a proposed reading was altered to the reading of
 the MSS., our emendation cannot be satisfactory or
-convincing.</p></p></div2>
-<div2 id="cis3" type="paragraph" n="3">
+convincing.</p></p></div>
+<div id="cis3" type="paragraph" n="3">
 <head>Ambrosian Palimpsest in capitals</head>
 <p>There is still another feature of the Plautine text
 which makes a study of it peculiarly valuable training
@@ -345,8 +345,8 @@ convenient illustration from the MSS. of Plautus; for
 the agreement of a mere pair&mdash;namely, the Ambrosian
 with any one of the others&mdash;is of far more importance
 than the agreement of all the minuscule codices that
-we possess.</p></div2>
-<div2 id="cis4" type="paragraph" n="4">
+we possess.</p></div>
+<div id="cis4" type="paragraph" n="4">
 <head>The manuscripts of Plautus</head>
 <p>Here is a list of our MSS.<note anchored="yes">A full account of them will be found in Ritschl's <foreign lang="la">Prolegomena,</foreign>
 and in the Introductions to the several plays in the large Teubner
@@ -447,8 +447,8 @@ so that our authorities for the text of Plautus resolve themselves
 into two ancient MSS. in capitals&mdash;one preserved,
 though in a fragmentary condition, viz. the Ambrosian
 Palimpsest; the other lost, viz. the original from which <title>P</title>
-was copied.</p></div2>
-<div2 id="cis5" type="paragraph" n="5">
+was copied.</p></div>
+<div id="cis5" type="paragraph" n="5">
 <head>Using the manuscripts to establish the text</head>
 <p>Where we have the evidence of <title>A,</title> the Ambrosian
 Palimpsest (in capital script), as well as of <title>P,</title> the archetype
@@ -505,8 +505,8 @@ the portion where we have the evidence of <title>A</title> to check
 the evidence of <title>P</title> we must discover what are the besetting
 sins of the <title>P</title>-scribe; for the probability is that
 corruptions in the <title>P</title>-text in the remaining portion also
-of the plays are due to the same mistakes.</p></div2>
-<div2 id="cis6" type="paragraph" n="6">
+of the plays are due to the same mistakes.</p></div>
+<div id="cis6" type="paragraph" n="6">
 <head>Classification of the prevalent errors in manuscripts</head>
 <p>These prevalent mistakes of the minuscule MSS. of
 Plautus we shall find to be the prevalent mistakes of
@@ -532,10 +532,10 @@ Plautus, and finally, by way of supplementing theory
 with practice, to indicate certain passages of Plautus,
 not yet satisfactorily emended, which seem to me to
 exhibit the corruption in question.
-<pb/></p></div2></div1>
-<div1 id="c1" type="chapter" n="1">
+<pb/></p></div></div>
+<div id="c1" type="chapter" n="1">
 <head>Errors of Emendation</head>
-<div2 id="c1s1" type="paragraph" n="1">
+<div id="c1s1" type="paragraph" n="1">
 <head>Deliberate emendation a feature of Renaissance MSS, not early minuscule MSS</head>
 <p>It is in the MSS. of the fifteenth century, the
 period of the Renaissance of classical studies, that
@@ -579,8 +579,8 @@ have only the <foreign lang="la">&ldquo;editio princeps&rdquo;</foreign> (Milan,
 Bobbio in N. Italy. Pliny's Letters to Trajan are not quite in this
 category, now that jottings from the lost Paris MS. have been discovered
 by Mr. E. G. Hardy in the margin of an early edition in the Bodleian
-Library (see <foreign lang="la">Journal of Philology</foreign> xvii. 95).</note></p></div2>
-<div2 id="c1s2" type="paragraph" n="2">
+Library (see <foreign lang="la">Journal of Philology</foreign> xvii. 95).</note></p></div>
+<div id="c1s2" type="paragraph" n="2">
 <head>The Carolingian copyists</head>
 <p>The period of Charlemagne and his successors
 was another period of revival of learning. But, as a
@@ -594,8 +594,8 @@ even there they are to be regarded more as marginal
 jottings of additional examples of a word or fresh
 illustrations of a grammatical rule, which accidentally
 found their way in subsequent copies out of the margin
-into the text.</p></div2>
-<div2 id="c1s3" type="paragraph" n="3">
+into the text.</p></div>
+<div id="c1s3" type="paragraph" n="3">
 <head>Wrong correction of spelling</head>
 <p>The first duty of a Carolingian monk-copyist
 was to correct the barbarous spelling of his original.
@@ -636,8 +636,8 @@ wrongly supposed <foreign lang="la">malo</foreign> to be the same late Latin mis
 of <foreign lang="la">malum</foreign> as <foreign lang="la">vino</foreign> etc. (Ital. <foreign lang="it">vino</foreign>), of <foreign lang="la">vinum.</foreign>
 Similarly the common Plautine adverb <foreign lang="la">fac&emacr;te</foreign> has
 <pb n="14"/>been altered to <foreign lang="la">facite</foreign> (2nd plural imperative) in <bibl n="Pl. Mil. 4.4">Mil. 1141</bibl>,
-<bibl n="Pl. Mil. 4.4">1161</bibl> etc.</p></div2>
-<div2 id="c1s4" type="paragraph" n="4">
+<bibl n="Pl. Mil. 4.4">1161</bibl> etc.</p></div>
+<div id="c1s4" type="paragraph" n="4">
 <head>Wrong separation of words</head>
 <p>Besides correcting the spelling of his original, a
 Carolingian scribe had to attend to the proper separation
@@ -687,8 +687,8 @@ class of Horace MSS. in <cit><bibl n="Hor. Carm. 3.11">C. iii. 11. 50:</bibl>
 <l>omine,</l></lg></quote></cit>
 by the supposition that <mentioned>i</mentioned> was written with a point before and
 after it, <mentioned>.i.</mentioned>, and that these points were mistaken for <foreign lang="la">puncta
-delentia</foreign> (<ref target="c4s1" targOrder="U">ch. iv. &sect; 1</ref>, below).</p></div2>
-<div2 id="c1s5" type="paragraph" n="5">
+delentia</foreign> (<ref target="c4s1" targOrder="U">ch. iv. &sect; 1</ref>, below).</p></div>
+<div id="c1s5" type="paragraph" n="5">
 <head>Erroneous emendations</head>
 <p>The wrong separation of words in MSS. can
 sometimes be remedied by a stroke of the pen.
@@ -725,8 +725,8 @@ could it be otherwise? &mdash; to <foreign lang="la">qui aspexi equidem</foreign
 curious instance is found in <bibl n="Pl. Men. 2.2">v. 288</bibl> of the <title>Menaechmi,</title>
 where <foreign lang="la">opsonatu redeo,</foreign> &ldquo;I come back from catering for
 dinner,&rdquo; appeared first as <foreign lang="la">opso nature deo,</foreign> then as <foreign lang="la">ipso
-naturae deo.</foreign></p></div2>
-<div2 id="c1s6" type="paragraph" n="6">
+naturae deo.</foreign></p></div>
+<div id="c1s6" type="paragraph" n="6">
 <head>&ldquo;Ghost words.&rdquo;</head>
 <p>The point to notice about all these wrong emendations of the text, or rather wrong corrections of
 what seemed to be misspellings, is the extreme facility with which they were produced. A Carolingian copyist,
@@ -766,8 +766,8 @@ the common confusion of <mentioned>i</mentioned> with <mentioned>l</mentioned> (
 miswriting <foreign lang="la">baliolus</foreign> has found its way into a good many
 Latin dictionaries, and has been provided not only with
 more than one meaning, but also with more than one
-etymology!</p></div2>
-<div2 id="c1s7" type="paragraph" n="7">
+etymology!</p></div>
+<div id="c1s7" type="paragraph" n="7">
 <head>Modernising of archaic forms</head>
 <p>The text of Plautus, with its numerous archaic
 forms and constructions, has unfortunately suffered
@@ -938,8 +938,8 @@ made by a contemporary hand.</note></item>
 close of the Republic, e.g. <foreign lang="la">maxumus (-imus), vicensumus (-cesimus).</foreign></item>
 <item><mentioned rend="bold">-undus</mentioned> for <mentioned rend="bold">-endus</mentioned> in gerundive.</item>
 <item><mentioned rend="bold">-rier</mentioned> for <mentioned rend="bold">-ri</mentioned> in inf. pass., e.g. <bibl n="Pl. Mos. 1.2">Most. 117</bibl>.</item>
-</list></p></div2>
-<div2 id="c1s8" type="paragraph" n="8">
+</list></p></div>
+<div id="c1s8" type="paragraph" n="8">
 <head>Change of unfamiliar to familiar word</head>
 <p>Not only an archaic form but any unfamiliar
 word was liable to be changed by a scribe. Taking
@@ -974,8 +974,8 @@ scribe supposing that ECTOR with over-line was a contraction of <foreign lang="l
 The confusion of <foreign lang="la">Ilium</foreign> with <foreign lang="la">illum, Ilio</foreign> with <foreign lang="la">illo,</foreign> etc., is of
 frequent occurrence in MSS. (cf. <ref target="c6s1" targOrder="U">ch. vi. &sect; 1</ref>; <ref target="c5s12" targOrder="U">ch. v. &sect; 12</ref>).
 Examples of this and other confusions of proper names
-are given by Madvig in his <title lang="la">Adversaria Critica</title> i. pp. 71, 125 <foreign lang="la">sqq.</foreign></p></div2>
-<div2 id="c1s9" type="paragraph" n="9">
+are given by Madvig in his <title lang="la">Adversaria Critica</title> i. pp. 71, 125 <foreign lang="la">sqq.</foreign></p></div>
+<div id="c1s9" type="paragraph" n="9">
 <head>Grammatical corrections</head>
 <p>Sometimes it is the grammatical construction of the sentence which has been altered through being
 unintelligible to the scribe. The use of the ablative
@@ -985,8 +985,8 @@ have changed <foreign lang="la">vitula</foreign> to <foreign lang="la">vitulam.<
 use of the adverb was not recognised in <bibl n="Pl. As. 4.1">Asin. 807</bibl>,
 where <foreign lang="la">quot pure habuerit</foreign> has been altered to <foreign lang="la">quot puras
 habuerit,</foreign> with <foreign lang="la">puras</foreign> made to agree with the word in
-the previous part of the line, <foreign lang="la">noctes.</foreign></p></div2>
-<div2 id="c1s10" type="paragraph" n="10">
+the previous part of the line, <foreign lang="la">noctes.</foreign></p></div>
+<div id="c1s10" type="paragraph" n="10">
 <head>Assimilation of ending</head>
 <p>We may include under the head of grammatical corrections the assimilation of one ending to another.
 For instance, <bibl n="Pl. Mil. 3.1">Mil. 631</bibl> <foreign lang="la">albicapillus,</foreign> written in the
@@ -995,13 +995,13 @@ this is often a mere clerical error. Thus <cit><bibl n="Pl. Mil. 3.1">Mil. 630</
 <quote lang="la">clare oculis video</quote></cit> was wrongly written <foreign lang="la">claris oculis video,</foreign>
 evidently because the writer's mind wandered to the termination of the neighbouring word, and not because
 he thought <foreign lang="la">clare</foreign> to be a miswriting of <foreign lang="la">claris.</foreign>
-<pb n="24"/></p></div2>
-<div2 id="c1s11" type="paragraph" n="11">
+<pb n="24"/></p></div>
+<div id="c1s11" type="paragraph" n="11">
 <head>Change of objectionable words</head>
 <p>An error of deliberate emendation, not exemplified, I believe, in the MSS. of Plautus, is the change
 of objectionable words. Many examples of this are found in a ninth-century Paris MS. containing extracts
-from Martial; on which see the preface to Schneidewin's edition of Martial p. lxxxv.</p></div2>
-<div2 id="c1s12" type="paragraph" n="12">
+from Martial; on which see the preface to Schneidewin's edition of Martial p. lxxxv.</p></div>
+<div id="c1s12" type="paragraph" n="12">
 <head>Metrical emendations</head>
 <p>As instance of a metrical emendation we may take
 <cit><bibl n="Juv. 8.148">Juvenal viii. 148:</bibl> <quote lang="la"><l>ipse rotam adstringit sufflamine mulio consul.</l></quote></cit>
@@ -1009,8 +1009,8 @@ The word <foreign lang="la">mulio</foreign> having been miswritten <foreign lang
 &sect; 1</ref>), the line was emended in our MSS. to <foreign lang="la">multo sufflamine
 consul</foreign> to save the metre. Such emendations are rare in Plautus MSS., and where they do occur, cannot
 be referred to mediaeval scribes; for these were ignorant of Plautine metre. They belong rather to ancient
-editions or recensions of the plays.</p></div2>
-<div2 id="c1s13" type="paragraph" n="13">
+editions or recensions of the plays.</p></div>
+<div id="c1s13" type="paragraph" n="13">
 <head>Completion of a quotation</head>
 <p>Nor can we exemplify from Plautus MSS. a not infrequent case of interpolation&mdash;namely, the
 addition of words for the purpose of completing a quotation. For instance, a passage of Virgil (<bibl n="Verg. A. 6.577"><title>A.</title> vi.
@@ -1023,8 +1023,8 @@ in the ninth-century Leyden MS. of Nonius. But in the Laurentian MS., belonging 
 the beginning of the tenth century&mdash;a MS. which seems to be a direct copy of the Leyden codex&mdash;the second
 line is completed with the letters <foreign lang="la">t. q. s. a.,</foreign> standing for
 <foreign lang="la">tenditque sub auras.</foreign><note anchored="yes">The reading <foreign lang="la">auras</foreign> for <foreign lang="la">umbras</foreign>
-in this line is found in MSS. of Virgil.</note></p></div2>
-<div2 id="c1s14" type="paragraph" n="14">
+in this line is found in MSS. of Virgil.</note></p></div>
+<div id="c1s14" type="paragraph" n="14">
 <head>Adaptation to parallel passage</head>
 <p>Very similar to this is another error&mdash;namely,
 <pb n="25"/>the adaptation of a passage of an author to a parallel passage found in the same or another author. St.
@@ -1042,8 +1042,8 @@ et in ceteris reliquorum, quae aliis propria sunt, inveniantur.</quote>
 The error has often arisen through the practice of transcribing parallel passages on the margin,
 whence the divergent reading has found its way into the text. Often too it is a mere slip of memory on the
 part of the scribe, who in transcribing one passage had let his thoughts wander to the diction of a similar
-passage. On this form of error see <ref target="c5s5" targOrder="U">ch. v. &sect; 5</ref>.</p></div2>
-<div2 id="c1s15" type="paragraph" n="15">
+passage. On this form of error see <ref target="c5s5" targOrder="U">ch. v. &sect; 5</ref>.</p></div>
+<div id="c1s15" type="paragraph" n="15">
 <head>Completion of argument or construction</head>
 <p>Of additions to complete the argument, or to
 complete the construction of the sentence, a passage of
@@ -1077,8 +1077,8 @@ mendae</quote> to the <quote lang="la">mendae repertae</quote>; e.g. in
 &ldquo;bravo! I would not give a talent for Thales of Miletus,&rdquo;
 the first two words, written in his original <foreign lang="la">euge potalem</foreign> (a
 corruption of <foreign lang="la">euge petalem</foreign> of <title>BD</title>), have been corrected by him
-to <foreign lang="la">euge ob talem.</foreign></p></div2>
-<div2 id="c1s16" type="paragraph" n="16">
+to <foreign lang="la">euge ob talem.</foreign></p></div>
+<div id="c1s16" type="paragraph" n="16">
 <head>List of Examples</head>
 <p>Here is a fuller list of examples from Plautus MSS. of
 the various errors of emendation:&mdash;
@@ -1225,10 +1225,10 @@ to me in <cit><bibl n="Pl. Mil. 3.3">Mil. 894,</bibl>
 where <title>P</title> seems to have had <foreign lang="la">mala milla merest.</foreign> Translate:
 &ldquo;you deserve a thousand punishments. Hush! don't alarm
 yourself; they (sc. the punishments) befit worse women than me.&rdquo;
-<pb n="31"/></p></div2></div1>
-<div1 id="c2" type="chapter" n="2">
+<pb n="31"/></p></div></div>
+<div id="c2" type="chapter" n="2">
 <head>Errors of Transposition</head>
-<div2 id="c2s1" type="paragraph" n="1">
+<div id="c2s1" type="paragraph" n="1">
 <head>Transposition of words a very frequent error</head>
 <p>Transposition of words is perhaps the commonest error of MSS., so that a change in the order of the
 words is usually the least violent remedy that an editor can apply to an unmetrical line. As an instance from
@@ -1243,8 +1243,8 @@ but in <title>C</title> and <title>D</title> we have <foreign lang="la">perdas m
 perdas,</foreign> and <foreign lang="la">bono animo es</foreign> for <foreign lang="la">animo bono es.</foreign> Nor is the scribe of <title>A</title>
 exempt from the same mistake. In <bibl n="Pl. Per. 4.4">Pers. 620</bibl> <title>P</title> seems
 to be right in ending the line with <foreign lang="la">mi homo,</foreign> and <title>A</title> to
-be wrong with its <foreign lang="la">homo mi.</foreign></p></div2>
-<div2 id="c2s2" type="paragraph" n="2">
+be wrong with its <foreign lang="la">homo mi.</foreign></p></div>
+<div id="c2s2" type="paragraph" n="2">
 <head>Causes of transposition errors</head>
 <p>The great frequency of this error is, no doubt, due to the readiness of the eye of a copyist to pass on
 to a word in front of the word that should be written.  The error, once made, might be left without indication,
@@ -1260,8 +1260,8 @@ has been generally erased by the scribe or the corrector (see Goetz, Preface to 
 <p>Leo in his <title lang="de">Plautinische Forschungen</title> p. 7 mentions as a common corruption of Latin texts, especially such as are
 based on a single archetype, a similar error &mdash; namely, the repetition of a word immediately before the word it governs,
 although it has been already written in its proper place. He cites for this latter error <cit><bibl n="Catul. 76">Catullus lxxvi. 23,</bibl>
-<quote lang="la">non jam illud quaero contra me ut &lsqb;me&rsqb; diligat illa</quote></cit>.</p></div2>
-<div2 id="c2s3" type="paragraph" n="3">
+<quote lang="la">non jam illud quaero contra me ut &lsqb;me&rsqb; diligat illa</quote></cit>.</p></div>
+<div id="c2s3" type="paragraph" n="3">
 <head>Method of correcting transposition in MSS</head>
 <p>The usual way of correcting a transposition in a MS. was by drawing faint sloping lines like accent strokes
 above the two transposed words. The transposition of <foreign lang="la">frater</foreign> and <foreign lang="la">dare</foreign>
@@ -1275,8 +1275,8 @@ no sign, so that in the original of <title>EJ</title> these marks had been negle
 but the scribe of the Harleian MS., which is a direct copy of the
 <pb n="33"/>Laurentian, curiously mistook them for marks of deletion,
 and has written <foreign lang="la">laum.</foreign> If we had not the original from
-which the Harleian MS. was copied, how difficult it would have been to account for this corruption!</p></div2>
-<div2 id="c2s4" type="paragraph" n="4">
+which the Harleian MS. was copied, how difficult it would have been to account for this corruption!</p></div>
+<div id="c2s4" type="paragraph" n="4">
 <head>Words in margin of original often transposed in copy</head>
 <p>Transposition is often the result of a word having been written in the margin of an original MS.
 Unless there was clear indication of the place where the marginal word was to be inserted, it might easily
@@ -1292,8 +1292,8 @@ hora prima usque ad tertiam</quote>, the Moore MS. omits <foreign lang="la">soli
 adds it in the margin at the end of the line, that is to say after the word <foreign lang="la">tertiam.</foreign> The Harleian copy has <quote lang="la">eclipsis &hellip;
 ab hora prima usque ad tertiam solis</quote> (see Plummer's edition of Bede, Introd. p. xcix), the scribe having taken the word <foreign lang="la">solis</foreign>
 to be the last word in the line&mdash;a word crowded out into the margin through want of space. Thus the place where a
-transposed word is inserted may often indicate to us where the line ended in an archetype.</p></div2>
-<div2 id="c2s5" type="paragraph" n="5">
+transposed word is inserted may often indicate to us where the line ended in an archetype.</p></div>
+<div id="c2s5" type="paragraph" n="5">
 <head>Transposition of &ldquo;overflow&rdquo; word at the end of a line</head>
 <p>One other cause of the transposition of a word must be mentioned; for it is not uncommon in MSS. of Plautus and of any Latin poet who uses long
 <pb n="34"/>metres. Where a verse was too long to be conveniently included in one line of the page, the &ldquo;overflow&rdquo;
@@ -1313,8 +1313,8 @@ words of <bibl n="Pl. Epid. 3.3">v. 402</bibl>, were written in the original MS.
 end of a line, the Irish scribe, wishing to economise his vellum, has regularly filled up the blank space with the continuation
 of the following line. This practice has received from the Irish Grammarians the picturesque name of
 &ldquo;head-under-wing,&rdquo; the long line with its end or &ldquo;head&rdquo; folded
-back into the preceding line being compared to a bird sleeping with its head tucked under its wing.</p></div2>
-<div2 id="c2s6" type="paragraph" n="6">
+back into the preceding line being compared to a bird sleeping with its head tucked under its wing.</p></div>
+<div id="c2s6" type="paragraph" n="6">
 <head>Transposition of a line</head>
 <p>Not merely words but whole lines may be transposed.  Usually the error is due to the scribe having
 omitted a line and then having inserted it at the point
@@ -1346,8 +1346,8 @@ in &ldquo;quaternions,&rdquo; i.e. gatherings of four broadsheets which were lai
 eight leaves or sixteen pages. Each leaf of the <title>Poenulus</title> in
 the original we know to have contained some 66 or 68 lines of the play (see <ref target="cas1" targOrder="U">Appendix A</ref>). The second broadsheet of the
 quaternion (that is the second and seventh leaves), containing on leaf ii vv. 218-284 and on leaf vii vv. 547-608, was
-put after, instead of before, the third broadsheet. This third broadsheet (the third and sixth leaves) had on leaf iii vv. 285-352 and on leaf vi vv. 480-546.</p></div2>
-<div2 id="c2s7" type="paragraph" n="7">
+put after, instead of before, the third broadsheet. This third broadsheet (the third and sixth leaves) had on leaf iii vv. 285-352 and on leaf vi vv. 480-546.</p></div>
+<div id="c2s7" type="paragraph" n="7">
 <head>Transposition of syllables and letters</head>
 <p>The transposition of syllables and of letters is usually an indication of an uneducated copyist. In
 <bibl n="Pl. Epid. 2.2">Epid. 285</bibl>, for example, <foreign lang="la">te nolo</foreign> was written <foreign lang="la">te lono.</foreign>
@@ -1364,8 +1364,8 @@ instead of after the letter above which it stood. In a Bodleian fifteenth-centur
 written in Italy, the word <foreign lang="la">Daphnim</foreign> in <bibl n="Verg. Ecl. 5"><title>Ecl.</title> v. 20</bibl> was first
 miscopied as <foreign lang="la">dahpnim,</foreign> then corrected; and it is clear from various indications that in the original
 the <mentioned>h</mentioned> was expressed by this suprascript sign.
-<pb n="37"/></p></div2>
-<div2 id="c2s8" type="paragraph" n="8">
+<pb n="37"/></p></div>
+<div id="c2s8" type="paragraph" n="8">
 <head>List of Examples</head>
 <p>Additional examples of the transposition of words:&mdash;
 <list type="simple">
@@ -1431,10 +1431,10 @@ with the unintelligible word <foreign lang="la">futatim.</foreign> Here I would 
 <foreign lang="la">interatim</foreign> (an old form of <foreign lang="la">interim</foreign> mentioned by Paulus
 Diaconus) had been miswritten <foreign lang="la">interim</foreign> and the omitted syllable <foreign lang="la">at</foreign> had been added in the margin, whence it found
 its way not to the right word but to the neighbouring and similarly-ending adverb.
-<pb n="39"/></p></div2></div1>
-<div1 id="c3" type="chapter" n="3">
+<pb n="39"/></p></div></div>
+<div id="c3" type="chapter" n="3">
 <head>Errors of Omission</head>
-<div2 id="c3s1" type="paragraph" n="1">
+<div id="c3s1" type="paragraph" n="1">
 <head>Haplography</head>
 <p>The commonest kind of omission is that known as Haplography, by which one only of two identical or
 similar words is written and the other is left out. In
@@ -1446,8 +1446,8 @@ up phrases like <foreign lang="la">hic hinc huc transit,</foreign> and affects a
 like <foreign lang="la">male malus, suavi suavitate.</foreign> So prone are scribes to this error that I believe that in fifty per cent.
 of the lines of Plautus, where the same word is repeated or two almost identical words stand side by side, some
 MS. or other will be found to omit one of the pair.  There is therefore every justification for an editor who
-emends the defective metre of a line by the insertion of a word before or after a word of similar appearance.</p></div2>
-<div2 id="c3s2" type="paragraph" n="2">
+emends the defective metre of a line by the insertion of a word before or after a word of similar appearance.</p></div>
+<div id="c3s2" type="paragraph" n="2">
 <head>Omission of name of speaker in dialogue</head>
 <p>A not infrequent case of this error in the plays of Plautus is when in a dialogue the remark of one speaker
 ends with the name of the other speaker in the vocative case. Here in the original the voc. would be immediately
@@ -1459,8 +1459,8 @@ replies <foreign lang="la">em istuc rectius.</foreign> The line seems to be pres
 <quote lang="la">f&aacute;bulata's. M&iacute;ra memoras, P&eacute;riphane. Em istue r&eacute;ctius</quote>;
 but the minuscule MSS. omit <foreign lang="la">Periphane,</foreign> the word being regarded
 as a &ldquo;nota personae&rdquo; and not as a part of the line. Many defective lines in Plautus which are divided between
-two speakers have been successfully emended on this principle.</p></div2>
-<div2 id="c3s3" type="paragraph" n="3">
+two speakers have been successfully emended on this principle.</p></div>
+<div id="c3s3" type="paragraph" n="3">
 <head>Omission of a syllable or a letter</head>
 <p>Sometimes it is not a whole word that is omitted through haplography, but a repeated syllable or even
 letter. For example, <bibl n="Pl. Mil. 1.1">Mil. 54</bibl> is rightly written in <title>A</title> thus:
@@ -1487,8 +1487,8 @@ of the pronoun.</p>
 <p>A particularly common case is the omission of the final letter of a word when the following word begins
 with the same letter. Thus the words <foreign lang="la">sic cogis,</foreign> written
 <foreign lang="la">siccogis,</foreign> would run great danger of being miscopied <foreign lang="la">sicogis
-(si cogis), me experti</foreign> would become <foreign lang="la">mexperti,</foreign> and so on.</p></div2>
-<div2 id="c3s4" type="paragraph" n="4">
+(si cogis), me experti</foreign> would become <foreign lang="la">mexperti,</foreign> and so on.</p></div>
+<div id="c3s4" type="paragraph" n="4">
 <head>Omission of unintelligible word,</head>
 <p>The omission of a word, when due to haplography, is not hard to rectify. But omission is often
 due to other causes. Sometimes a scribe would deliberately omit a word which he did not understand or
@@ -1513,14 +1513,14 @@ sometimes remain (e.g. <bibl n="Pl. Cas. prologue.0">Cas. 64</bibl>, <bibl n="Pl
 omission of <foreign lang="la">his cerebrum uritur</foreign> (<bibl n="Pl. Poen. 3.5">Poen. 770</bibl>) in <title>B</title> is perhaps
 to be explained in this way; for the fact that <title>CD</title>
 have the words (in the corrupt form <foreign lang="la">hisce Crebro auritur</foreign>) shows us that they stood in the archetype.
-<pb n="42"/></p></div2>
-<div2 id="c3s5" type="paragraph" n="5">
+<pb n="42"/></p></div>
+<div id="c3s5" type="paragraph" n="5">
 <head>Omission of Greek word</head>
 <p>Many mediaeval scribes were ignorant of the Greek alphabet; and when a Greek word occurred in
 their original, written in Greek and not Roman letters, they left it for the corrector to supply. Hence the
 blanks in a twelfth-century Leyden MS. of Aulus Gellius, which are usually accompanied by a marginal
-note <foreign lang="la">gr&lsqb;aeca&rsqb;</foreign> (see Hertz's Introduction p. lviii).</p></div2>
-<div2 id="c3s6" type="paragraph" n="6">
+note <foreign lang="la">gr&lsqb;aeca&rsqb;</foreign> (see Hertz's Introduction p. lviii).</p></div>
+<div id="c3s6" type="paragraph" n="6">
 <head>Omission of small word not necessary to sentence</head>
 <p>A common case of omission in MSS. of Latin authors is the omission of small, unimportant words,
 pronouns, particles, and the like, which are not necessary for the apprehension of the sense of the
@@ -1539,8 +1539,8 @@ leaving the metre (anapaestic) defective. Ritschl restored the metre by insertin
 <quote lang="la">sine me h&oacute;c exorare &aacute;bs te</quote>. The liability of small words such
 <pb n="43"/>as pronouns and prepositions to be omitted, through the practice of joining them in writing with longer
 neighbouring words, has been already mentioned in <ref target="c1s4" targOrder="U">ch. i. &sect; 4</ref>: so that editors are justified in resorting to
-the insertion of words of this kind to remove a hiatus or to supplement the defective number of syllables in a line.</p></div2>
-<div2 id="c3s7" type="paragraph" n="7">
+the insertion of words of this kind to remove a hiatus or to supplement the defective number of syllables in a line.</p></div>
+<div id="c3s7" type="paragraph" n="7">
 <head>Omission of word due to stain on page of archetype</head>
 <p>Another cause of the omission of a word or several words or merely part of a word was the fact
 that it was illegible in the archetype owing to the presence of a stain on the page. The omission of the
@@ -1550,8 +1550,8 @@ of Epictetus,&rdquo; where a large portion of the centre of a page (fol. 25 r.) 
 apparently by the pressure of some heavy weight, the leg of a chair perhaps. All other existing MSS. of the
 &ldquo;Dissertations&rdquo; are copied, ultimately or immediately, from this archetype, and omit either the illegible words
 alone or the whole passage, some with indication that there is a lacuna, others without any indication of the
-kind. A photograph of the page in question is appended to the Teubner edition of the &ldquo;Dissertations&rdquo; (Leipzig 1894).</p></div2>
-<div2 id="c3s8" type="paragraph" n="8">
+kind. A photograph of the page in question is appended to the Teubner edition of the &ldquo;Dissertations&rdquo; (Leipzig 1894).</p></div>
+<div id="c3s8" type="paragraph" n="8">
 <head>Omission due to hole in leaf of archetype</head>
 <p>In the <title>Casina</title> we find in all or some of our minuscule MSS. blank spaces left at regular intervals,
 indicating the omission of words. At the same intervals we find lines in which no lacuna is indicated
@@ -1565,8 +1565,8 @@ of a lacuna vanish in the transmission of a text, we may be disposed to believe 
 capitals (p. 8) from which <title>P</title> was directly copied. It had from nineteen
 to twenty-one lines on a page (<title>A</title> has nineteen lines on a page);
 and it is not impossible that its gappy condition was due to its being a papyrus and not a vellum MS. (For details of these lacunae see
-Schoell's Introduction to the <title>Casina</title> pp. x <foreign lang="la">sqq.</foreign>)</note></p></div2>
-<div2 id="c3s9" type="paragraph" n="9">
+Schoell's Introduction to the <title>Casina</title> pp. x <foreign lang="la">sqq.</foreign>)</note></p></div>
+<div id="c3s9" type="paragraph" n="9">
 <head>Causeless omission of a word</head>
 <p>Where the omission of a word is not due to a blot on the page or a hole in the leaf of the archetype,
 the omitted word may in the great majority of cases be supposed to be either (1) a word similar to a neighbouring
@@ -1579,8 +1579,8 @@ of <foreign lang="la">juris</foreign> in the original of <title>CD</title> in <c
 <quote lang="la">h&oacute;die juris c&oacute;ctiores n&oacute;n sunt, qui lit&eacute;s creant</quote></cit>,
 does not come under any of the classes which have been mentioned, and is probably a quite inexcusable
 piece of negligence on the part of the writer. So in a passage of Nonius (21. 18) the scribe of the Laurentian
-MS. has passed over the word <foreign lang="la">genus,</foreign> though it is written plainly in his original, the Leyden MS.</p></div2>
-<div2 id="c3s10" type="paragraph" n="10">
+MS. has passed over the word <foreign lang="la">genus,</foreign> though it is written plainly in his original, the Leyden MS.</p></div>
+<div id="c3s10" type="paragraph" n="10">
 <head>Confusion with similar words</head>
 <p>The omission also of a syllable or a letter, though usually due to haplography (<ref target="c3s3" targOrder="U">&sect; 3</ref>) or to the
 confusion of one word with another of similar appearance,
@@ -1591,8 +1591,8 @@ merely a case of illiterate copying. In Virg. <bibl n="Verg. A. 4.491"><title>A.
 <pb n="45"/>for example, MSS. offer <foreign lang="la">descere</foreign> for <foreign lang="la">descendere;</foreign>
 in <bibl n="Verg. G. 3.4"><title>G.</title> iii. 4</bibl> <foreign lang="la">im</foreign> for <foreign lang="la">jam</foreign>;
 in <bibl n="Verg. G. 3.154"><title>G.</title> iii. 154</bibl> <foreign lang="la">arior</foreign> for <foreign lang="la">acrior;</foreign>
-in <bibl n="Verg. A. 6.708"><title>A.</title> vi. 708</bibl> <foreign lang="la">indunt</foreign> for <foreign lang="la">insidunt.</foreign></p></div2>
-<div2 id="c3s11" type="paragraph" n="11">
+in <bibl n="Verg. A. 6.708"><title>A.</title> vi. 708</bibl> <foreign lang="la">indunt</foreign> for <foreign lang="la">insidunt.</foreign></p></div>
+<div id="c3s11" type="paragraph" n="11">
 <head>Omission of a line or passage</head>
 <p>The omission of a word like <foreign lang="la">malus</foreign> or <foreign lang="la">magis</foreign> in
 the examples <foreign lang="la">male</foreign> &lt;<foreign lang="la">malus</foreign>&gt;, &lt;<foreign lang="la">magis</foreign>&gt; <foreign lang="la">magis,</foreign> may have
@@ -1639,8 +1639,8 @@ of Aulus Gellius i. 4. 8 offer <foreign lang="la">enutabatque</foreign> for
 <foreign lang="la">enodabat dijudicabatque.</foreign> And in <cit><bibl n="Hor. Carm. 4.6">Hor. <title>C.</title> iv. 6. 17:</bibl>
 <quote lang="la"><l>sed palam <emph>captis</emph> <emph>gravis</emph>, heu nefas heu</l></quote></cit>,
 the repetition of the syllable <foreign lang="la">-is</foreign> has caused the omission
-of <foreign lang="la">captis</foreign> in some MSS.</p></div2>
-<div2 id="c3s12" type="paragraph" n="12">
+of <foreign lang="la">captis</foreign> in some MSS.</p></div>
+<div id="c3s12" type="paragraph" n="12">
 <head>Other causes for omissions</head>
 <p>Of the causeless omission of a line, like the causeless omission of the word <foreign lang="la">juris</foreign> in the passage
 quoted above (<ref target="c3s9" targOrder="U">&sect; 9</ref>), an example will be found in
@@ -1655,8 +1655,8 @@ the omission in <foreign lang="la">EJ</foreign> of the preceding lines (four in 
 due to the fact that one of the copyists of the original laid down his pen too soon, before he had quite reached the end of the portion allotted to him.</p>
 <p>Some editors have attempted to reconstruct the archetype of MSS. of authors on the supposition that accidentally-omitted
 lines would naturally be the top or bottom lines of a page, lines occupying this position being liable to be over-looked
-by a scribe, or to become stained and illegible, or to be cut off by a binder. But the correctness of this supposition is doubtful.</p></div2>
-<div2 id="c3s13" type="paragraph" n="13">
+by a scribe, or to become stained and illegible, or to be cut off by a binder. But the correctness of this supposition is doubtful.</p></div>
+<div id="c3s13" type="paragraph" n="13">
 <head>Omission of initial letter</head>
 <p>The initial letter of a verse or chapter was
 usually painted, and would be left by the scribe for the
@@ -1676,8 +1676,8 @@ find in MSS. of <bibl n="Hor. Carm. 1.19">Hor. <title>C.</title> i. 19. 11</bibl
 <foreign lang="la">versis</foreign>; <bibl n="Hor. Carm. 1.18"><title>C.</title> i. 18. 15</bibl>
 <foreign lang="la">Attollens</foreign> for <foreign lang="la">Et tollens</foreign>;
 <bibl n="Hor. Carm. 4.5"><title>C.</title> iv. 5. 7</bibl> <foreign lang="la">Effulsit</foreign> for <foreign lang="la">Affulsit.</foreign>
-<pb n="48"/></p></div2>
-<div2 id="c3s14" type="paragraph" n="14">
+<pb n="48"/></p></div>
+<div id="c3s14" type="paragraph" n="14">
 <head>List of Examples</head>
 <p>Additional examples of omission:&mdash;</p>
 <p>(1) of word by Haplography:
@@ -1887,10 +1887,10 @@ I fancy it was <foreign lang="la">Attatae,</foreign> written with a common missp
 <foreign lang="la">Aptatae</foreign> (cf. <ref target="c5s9" targOrder="U">p. 71</ref>) in the archetype, which in the original of
 our MSS. appeared as <foreign lang="la">ptatae</foreign> or <foreign lang="la">ptati</foreign> (the latter a grammatical
 correction, <ref target="c1s9" targOrder="U">ch. i. &sect; 9</ref>), with the initial letter left unsupplied by the &ldquo;rubricator.&rdquo;
-<pb n="54"/></p></div2></div1>
-<div1 id="c4" type="chapter" n="4">
+<pb n="54"/></p></div></div>
+<div id="c4" type="chapter" n="4">
 <head>Errors of Insertion</head>
-<div2 id="c4s1" type="paragraph" n="1">
+<div id="c4s1" type="paragraph" n="1">
 <head>Insertion of a gloss</head>
 <p>The sense of the text was in MSS. often elucidated by writing an explanatory word, called
 a gloss,<note anchored="yes"><foreign lang="la">Glossa</foreign> (Gk. <foreign lang="greek">γλῶσσα</foreign>), sometimes <foreign lang="la">glosa,</foreign> properly meant &ldquo;a
@@ -1929,8 +1929,8 @@ These lines are in the minuscule MSS. followed by an unmetrical line which most 
 where the minuscule MSS. insert between <foreign lang="la">possent</foreign> and
 <foreign lang="la">cordis copiam</foreign> the words <foreign lang="la">cor sapientiae</foreign> (a corruption of
 <foreign lang="la">cor sapientia est;</foreign> see <ref target="c7s5" targOrder="U">ch. vii. &sect; 5</ref>), <foreign lang="la">igitur perspicere ut
-possint.</foreign></p></div2>
-<div2 id="c4s2" type="paragraph" n="2">
+possint.</foreign></p></div>
+<div id="c4s2" type="paragraph" n="2">
 <head>Glosses in the form of small explanatory words written between the lines</head>
 <p>The insertion of interlinear glosses is especially common. The minuscule MSS. have over and over
 again inserted in the text small words like <foreign lang="la">ego, tu, ut</foreign>
@@ -1969,8 +1969,8 @@ words <foreign lang="greek">οἷον ὀδύνη ὀδύνην παύει</fore
 interjection <foreign lang="la">o,</foreign> which was commonly written above a
 vocative as a mere indication of the case. This interjection, usually written with an accent-stroke to
 indicate the length of the vowel, is the origin of our
-<pb n="57"/>sign of exclamation (!). It occurs in <title>B</title> at <bibl n="Pl. Cist. 4.2">Cist. 727</bibl>, etc.</p></div2>
-<div2 id="c4s3" type="paragraph" n="3">
+<pb n="57"/>sign of exclamation (!). It occurs in <title>B</title> at <bibl n="Pl. Cist. 4.2">Cist. 727</bibl>, etc.</p></div>
+<div id="c4s3" type="paragraph" n="3">
 <head>Miswriting left uncorrected</head>
 <p>Another common cause of insertion is that a word or syllable was wrongly written by a copyist, who then
 left his miswriting uncorrected (cf. <ref target="c2s2" targOrder="U">ch. ii. &sect; 2</ref>). When a scribe wrote a word wrongly, he would, unless he
@@ -2029,8 +2029,8 @@ was not corrected, but was left to stand side by side with the true reading. Unf
 <pb n="59"/>decipher the whole line in <title>A</title>, but its beginning is plain:
 <quote lang="la"><l>QVIDDOMINOQVIDSOMNIA,</l></quote>
 and there is little doubt that the true form of the line is:
-<quote lang="la">qu&iacute;d? domino? quid s&oacute;mniatis? m&eacute;a quidem haec habeo &oacute;mnia.</quote></p></div2>
-<div2 id="c4s4" type="paragraph" n="4">
+<quote lang="la">qu&iacute;d? domino? quid s&oacute;mniatis? m&eacute;a quidem haec habeo &oacute;mnia.</quote></p></div>
+<div id="c4s4" type="paragraph" n="4">
 <head>Dittography</head>
 <p>A special phase of this error is known as Dittography, where the mistake which has been left uncorrected
 consisted in the writing of a word twice.
@@ -2050,8 +2050,8 @@ the original, at the end of one page, and the other <foreign lang="la">in</forei
 beginning of the next (see Goetz <foreign lang="la">Lib. Gl.</foreign> p. 223). Dittography
 of a letter is also a common occurrence in the transition from one line to another,
 e.g. <foreign lang="la">Corneliaana</foreign> for <foreign lang="la">Corneliana</foreign>
-in the Leyden MS. of Nonius (188 M. 24), where the three last letters stand at the beginning of a new line.</p></div2>
-<div2 id="c4s5" type="paragraph" n="5">
+in the Leyden MS. of Nonius (188 M. 24), where the three last letters stand at the beginning of a new line.</p></div>
+<div id="c4s5" type="paragraph" n="5">
 <head>Insertion of any marginal jotting</head>
 <p>Finally, it should be noticed that not merely a gloss but any jotting in the margin (or elsewhere) may
 find its way into the text. Thus the words <foreign lang="la">huc usque,</foreign>
@@ -2103,8 +2103,8 @@ original. The <foreign lang="la">quae</foreign> inserted curiously into sentence
 107. 27 <quote lang="la">incideret <emph>quae</emph> in mortis malum</quote>; 114. 25 <quote lang="la">Cicero
 Tusculanarum <emph>quae</emph> lib. v</quote>) in the copy is nothing but a misreading of this contraction (cf. <ref target="c7s5" targOrder="U">p. 96</ref> below).</p>
 <p>On the insertion of a syllable in cases of substitution
-like <foreign lang="la">considero</foreign> for <foreign lang="la">consido,</foreign> see <ref target="c5s8" targOrder="U">ch. v. &sect; 8.</ref></p></div2>
-<div2 id="c4s6" type="paragraph" n="6">
+like <foreign lang="la">considero</foreign> for <foreign lang="la">consido,</foreign> see <ref target="c5s8" targOrder="U">ch. v. &sect; 8.</ref></p></div>
+<div id="c4s6" type="paragraph" n="6">
 <head>List of Examples</head>
 <p>Additional examples of insertion:&mdash;</p>
 <p>(1) Of gloss:
@@ -2168,10 +2168,10 @@ miswriting of the following <foreign lang="la">qui:</foreign>
 <quote lang="la"><l>n&aacute;tus nemo in a&eacute;dibus</l>
 <l>serv&aacute;t, neque qui recl&uacute;dat, <emph>&lsqb;neque&rsqb;</emph> qui resp&oacute;ndeat.</l></quote></item>
 </list>
-<pb n="63"/></p></div2></div1>
-<div1 id="c5" type="chapter" n="5">
+<pb n="63"/></p></div></div>
+<div id="c5" type="chapter" n="5">
 <head>Errors of Substitution</head>
-<div2 id="c5s1" type="paragraph" n="1">
+<div id="c5s1" type="paragraph" n="1">
 <head>Substitution of a gloss for the word it explains</head>
 <p>We have seen in the last chapter that a gloss, or explanatory word, written in the original MS. over a
 difficult word, has often in the copy been inserted in the text. In many cases it has been substituted for
@@ -2238,8 +2238,8 @@ where <title>P</title> begins the line rightly with <foreign lang="la">bonum aeq
 but <title>A</title> destroys the metre with <foreign lang="la">bonum aequomque rogas.</foreign> The
 same gloss appears in <title>P</title> in <bibl n="Pl. Per. 2.5">Pers. 321</bibl>, a line which in <title>A</title>
 ends with <foreign lang="la">quod mecum dudum orasti,</foreign> but in <title>P</title> with <foreign lang="la">quod me
-dudum rogasti.</foreign></p></div2>
-<div2 id="c5s2" type="paragraph" n="2">
+dudum rogasti.</foreign></p></div>
+<div id="c5s2" type="paragraph" n="2">
 <head>Substitution of classical for archaic form</head>
 <p>The substitution of the classical for an archaic
 form, discussed in <ref target="c1s7" targOrder="U">chap. i</ref>, e.g. <foreign lang="la">&iacute;llic</foreign> for <foreign lang="la">illi</foreign> adv., may
@@ -2248,8 +2248,8 @@ often be really the substitution of a suprascript or marginal gloss. Thus in <bi
 <foreign lang="la">s&ibreve;m&imacr;tu,</foreign> &ldquo;together,&rdquo; in the text explained by
 <foreign lang="la">simul</foreign> in the margin. This <foreign lang="la">simitu</foreign> is retained by <title>E,</title> but <foreign lang="la">simul</foreign>
 is substituted for it in <title>J,</title> while the scribe of <title>D</title> wrote
-first <foreign lang="la">simitu,</foreign> then changed it to <foreign lang="la">simul.</foreign></p></div2>
-<div2 id="c5s3" type="paragraph" n="3">
+first <foreign lang="la">simitu,</foreign> then changed it to <foreign lang="la">simul.</foreign></p></div>
+<div id="c5s3" type="paragraph" n="3">
 <head>Wrong treatment of correction in original:  good evidence that one MS is derived from another</head>
 <p>This is the best place for mentioning a common cause of corruption in MSS., namely the wrong treatment
 by the copyist of a correction which he found in his original. In <bibl n="Pl. Am. 5.1">Amph. 1083</bibl> the original of <title>BDEJ</title>
@@ -2266,8 +2266,8 @@ correction in the Laurentian, <foreign lang="la">bretere;<hi rend="over">a</hi><
 <pb n="66"/>in 103 M. 25 is explained by the <foreign lang="la">mata<hi rend="over">ul</hi></foreign> of the older
 codex; its <foreign lang="la">laum</foreign> (for <foreign lang="la">lanitium</foreign>) in 212 M. 20 is due to a
 mistaking of the transposition signs for deleting signs in the
-<foreign lang="la">lacinium</foreign> corrected to <foreign lang="la">lanicium</foreign> of its original (cf. <ref target="c2s3" targOrder="U">p. 32</ref>).</p></div2>
-<div2 id="c5s4" type="paragraph" n="4">
+<foreign lang="la">lacinium</foreign> corrected to <foreign lang="la">lanicium</foreign> of its original (cf. <ref target="c2s3" targOrder="U">p. 32</ref>).</p></div>
+<div id="c5s4" type="paragraph" n="4">
 <head>Substitution of word from context</head>
 <p>A scribe often substituted for the true word a word from the immediate context, in a temporary
 aberration of mind. In <bibl n="Cic. Orat. 98">Cicero <title>Orator</title> &sect; 98</bibl>, for example,
@@ -2275,8 +2275,8 @@ aberration of mind. In <bibl n="Cic. Orat. 98">Cicero <title>Orator</title> &sec
 <foreign lang="la">acuteque</foreign> has been substituted for <foreign lang="la">arguteque;</foreign> and if we
 seek for the cause, we find it in the previous occurrence
 of the word <foreign lang="la">acuto</foreign> in the sentence: <quote lang="la">qui in illo subtili
-et <emph>acuto</emph> elaboravit, ut callide <emph>arguteque</emph> diceret.</quote></p></div2>
-<div2 id="c5s5" type="paragraph" n="5">
+et <emph>acuto</emph> elaboravit, ut callide <emph>arguteque</emph> diceret.</quote></p></div>
+<div id="c5s5" type="paragraph" n="5">
 <head>Substitution of word from parallel passage</head>
 <p>Often the substituted word comes from a parallel passage, which was in the mind of the scribe as he was
 writing. In <cit><bibl n="Prop. 2.1">Propertius ii. 1. 58:</bibl>
@@ -2284,8 +2284,8 @@ writing. In <cit><bibl n="Prop. 2.1">Propertius ii. 1. 58:</bibl>
 has been written <foreign lang="la">non amat artificem,</foreign> through a reminiscence
 of <cit><bibl n="Prop. 1.2">i. 2. 8:</bibl>
 <quote lang="la">nudus amor formae non amat artificem.</quote></cit>
-(On this error see also <ref target="c1s14" targOrder="U">ch. i. &sect; 14.</ref>)</p></div2>
-<div2 id="c5s6" type="paragraph" n="6">
+(On this error see also <ref target="c1s14" targOrder="U">ch. i. &sect; 14.</ref>)</p></div>
+<div id="c5s6" type="paragraph" n="6">
 <head>Substitution of ecclesiastical or biblical words</head>
 <p>The mediaeval scribes were monks; so it is not surprising that the parallel passage that occurred to
 their minds was often a passage from the Bible. A
@@ -2296,8 +2296,8 @@ where a whole class of MSS. substitutes <foreign lang="la">pardus</foreign> for
 <foreign lang="la">pagus,</foreign> the scribe of their common original having
 allowed his thoughts to revert to the passage of <cit><bibl n="Isaiah 11.6">Isaiah
 (xi. 6):</bibl>  <quote lang="la">habitabit lupus cum agno et pardus cum haedo
-accubabit.</quote></cit> Other substitutions that tell of monk-copyists are mentioned below.</p></div2>
-<div2 id="c5s7" type="paragraph" n="7">
+accubabit.</quote></cit> Other substitutions that tell of monk-copyists are mentioned below.</p></div>
+<div id="c5s7" type="paragraph" n="7">
 <head>Confusion of similar words</head>
 <p>But the most widely extended error of substitution is the confusion of words that are similar in
 appearance. Many cases of this confusion really
@@ -2323,8 +2323,8 @@ word of similar appearance; e.g. <foreign lang="la">fuant</foreign> (<title>B</t
 Lat. <foreign lang="la">fuo</foreign> (whence <foreign lang="la">fui</foreign>), has become <foreign lang="la">fiant</foreign> in
 <bibl n="Pl. Ps. 4.3">Pseud. 1029</bibl> <title>(CD).</title>
 Such substitution, however, is rather a case of deliberate
-emendation, and belongs to chap. i.</p></div2>
-<div2 id="c5s8" type="paragraph" n="8">
+emendation, and belongs to chap. i.</p></div>
+<div id="c5s8" type="paragraph" n="8">
 <head>Substitution through insertion or omission of syllable</head>
 <p>Very commonly the substituted word differs from the genuine word in the insertion of a syllable.
 Thus <foreign lang="la">infamia</foreign> becomes <foreign lang="la">in familia</foreign> (e.g. in MSS. of <bibl n="Liv. 45.38.10">Livy
@@ -2343,8 +2343,8 @@ with the simple word; e.g. <foreign lang="la">servolus</foreign> becomes <foreig
 <foreign lang="la">sacculum</foreign> (<bibl n="Pl. Capt. 1.1">Capt. 90</bibl>). Similarly frequentatives with
 simple verbs, e.g. <foreign lang="la">clamito</foreign> and <foreign lang="la">clamo</foreign> (cf. <bibl n="Pl. Mos. 1.1">Most. 6</bibl>); and
 2nd singular with 2nd plural imperative, e.g. <foreign lang="la">intercludite</foreign> for <foreign lang="la">interclude</foreign>
-(<bibl n="Pl. Mil. 2.2">Mil. 223</bibl>; see Leo's note).</p></div2>
-<div2 id="c5s9" type="paragraph" n="9">
+(<bibl n="Pl. Mil. 2.2">Mil. 223</bibl>; see Leo's note).</p></div>
+<div id="c5s9" type="paragraph" n="9">
 <head>Substitution due to Late Latin pronunciation</head>
 <p>Special attention must be called to one cause of the confusion of words, namely Late Latin pronunciation.
 In Late Latin, for example, <foreign lang="la">sci</foreign> and <foreign lang="la">si</foreign> had a
@@ -2467,8 +2467,8 @@ Another spelling was <mentioned>cx,</mentioned> e.g. <foreign lang="la">ucxor.</
 <p>(19) <hi rend="bold">i and y.</hi>&mdash;(For exx. in <title>A</title> see Studemund's Index.)</p>
 <p>(20) <hi rend="bold">Double letter for single</hi> and vice versa. &mdash; This leads
 to confusions of words like <foreign lang="la">callidus</foreign> and <foreign lang="la">calidus, errat</foreign> and
-<foreign lang="la">erat, reddit</foreign> and <foreign lang="la">redit.</foreign></p></div2>
-<div2 id="c5s10" type="paragraph" n="10">
+<foreign lang="la">erat, reddit</foreign> and <foreign lang="la">redit.</foreign></p></div>
+<div id="c5s10" type="paragraph" n="10">
 <head>A clue to home of archetype</head>
 <p>Misspellings and confusions of words often give us a clue to the home of the archetype of a MS.
 Thus the use of a double consonant for a single is perhaps especially frequent in MSS. written by Irish
@@ -2488,8 +2488,8 @@ in words like <foreign lang="la">vindigare</foreign> for <foreign lang="la">vind
 <foreign lang="la">tenire, invinire</foreign> are called &ldquo;Frankish&rdquo; (see Hauler in <title lang="de">Sitzber. Wien. Akad.</title> 1888, p. 2 n.)</p>
 <p>(On &ldquo;Spanish&rdquo; misspellings see Mu&ntilde;oz y Rivero <title lang="es">Palegrafia
 Visigoda</title> 1881 p. 104; and on &ldquo;Irish&rdquo; misspellings
-Zimmer <title lang="la">Glossae Hibernicae</title> prolegg. p. xi.)</p></div2>
-<div2 id="c5s11" type="paragraph" n="11">
+Zimmer <title lang="la">Glossae Hibernicae</title> prolegg. p. xi.)</p></div>
+<div id="c5s11" type="paragraph" n="11">
 <head>Mediaeval MSS. not written to dictation</head>
 <p>Substitutions of this kind, it should be noticed, do not imply that the scribe wrote to dictation.
 Dictation of MSS. was practised in ancient times, and came again into use when the book-trade revived. But
@@ -2514,8 +2514,8 @@ A monk who wished to be supplied with a pagan work scratched his ear like a dog;
 the omission of a final vowel in elision in poetry as a
 proof that a manuscript has been written to dictation; e.g. <bibl n="Verg. A. 11.396">Virg. A.
 xi. 396</bibl> <foreign lang="la">mexperti</foreign> for <foreign lang="la">me experti.</foreign> But the error here is rather the error
-of haplography (<ref target="c3s3" targOrder="U">ch. iii. &sect; 3</ref>), and other cases admit of other explanations.</note></p></div2>
-<div2 id="c5s12" type="paragraph" n="12">
+of haplography (<ref target="c3s3" targOrder="U">ch. iii. &sect; 3</ref>), and other cases admit of other explanations.</note></p></div>
+<div id="c5s12" type="paragraph" n="12">
 <head>List of Similar Words</head>
 <p>Here is a list of words commonly confused in the MSS. of Plautus and other Latin authors:</p>
 <p><foreign lang="la">ab</foreign> and <foreign lang="la">ob,</foreign> e.g. <bibl n="Pl. Mil. 4.4">Mil. 1178</bibl>.</p>
@@ -2853,8 +2853,8 @@ freq., e.g. <bibl n="Pl. Mil. 4.2">Mil. 1066</bibl>.</p>
 <p><foreign lang="la">voltus</foreign> and <foreign lang="la">volutus,</foreign> e.g. <bibl n="Pl. Capt. 1.1">Capt. 106</bibl>.</p>
 <p><foreign lang="la">voluntas</foreign> and <foreign lang="la">voluptas,</foreign> very freq.,
 e.g. <bibl n="Pl. Truc. 2.4">Truc. 353</bibl>.</p>
-<p><foreign lang="la">vos quam</foreign> (see <foreign lang="la">usquam</foreign>).</p></div2>
-<div2 id="c5s13" type="paragraph" n="13">
+<p><foreign lang="la">vos quam</foreign> (see <foreign lang="la">usquam</foreign>).</p></div>
+<div id="c5s13" type="paragraph" n="13">
 <head>List of terminations commonly confused</head>
 <p><mentioned>-ae</mentioned> and <mentioned>-e,</mentioned> e.g. <foreign lang="la">fere</foreign> (<foreign lang="la">ferre</foreign> <title>DJ</title>)
 for <foreign lang="la">ferac</foreign>, <bibl n="Pl. Capt. 1.2">Capt. 123.</bibl></p>
@@ -2893,8 +2893,8 @@ for <foreign lang="la">possunt,</foreign> Lucr. i. 104;
 same contraction is in early minuscule sometimes used for
 both. Uncial (and capital) <mentioned>-um, -un</mentioned> are also hardly distinguishable
 from <mentioned>-im, -in</mentioned> (<ref target="c6s2" targOrder="U">ch. vi. &sect; 2</ref>), e.g. <foreign lang="la">terrarim</foreign> for
-<foreign lang="la">terrarum</foreign>, <bibl n="Pl. Am. 1.1">Amph. 336.</bibl></p></div2>
-<div2 id="c5s14" type="paragraph" n="14">
+<foreign lang="la">terrarum</foreign>, <bibl n="Pl. Am. 1.1">Amph. 336.</bibl></p></div>
+<div id="c5s14" type="paragraph" n="14">
 <head>List of Examples</head>
 <p>Additional examples of the substitution of words:&mdash;</p>
 <p>(1) Of a gloss:</p>
@@ -3010,10 +3010,10 @@ will be the substitution of <foreign lang="la">unda.</foreign> Read:
 <p>The unmetrical <foreign lang="la">adhaeresceret</foreign> (AP) of <bibl n="Pl. Poen. 2.1">Poen. 479</bibl> may be a
 gloss on some O. Lat. verb, say <foreign lang="la">ambhaeresceret:</foreign>
 <quote lang="la">Quoi re&iacute;? Ne ad fundas v&iacute;seus ambhaer&eacute;sceret.</quote>
-<pb/></p></div2></div1>
-<div1 id="c6" type="chapter" n="6">
+<pb/></p></div></div>
+<div id="c6" type="chapter" n="6">
 <head>Confusion of Letters</head>
-<div2 id="c6s1" type="paragraph" n="1">
+<div id="c6s1" type="paragraph" n="1">
 <head>Letters confused in (1) capitals, (2) Caroline minuscules</head>
 <p>The possibility of confusion of letters varies according to the character of writing in which a text has been
 copied. In capital writing it is limited to certain letters, and in uncial to the same with a few exceptions
@@ -3255,8 +3255,8 @@ though the loss of the final <mentioned>-re</mentioned> before <foreign lang="la
 <pb n="88"/>the frequent substitution of <mentioned>or</mentioned> for <mentioned>ort,</mentioned> e.g. <foreign lang="la">oporet</foreign> (<title>B1 D</title>) for
 <foreign lang="la">oportet</foreign> in <bibl n="Pl. Am. 1.1">Amph. 268</bibl>, <bibl n="Pl. Am. 1.1">318</bibl>, <bibl n="Pl. Am. 3.4">992</bibl>.
 The ligature <mentioned>ae</mentioned> is often hardly distinguishable from <mentioned>e,</mentioned> so that in addition to the
-similarity of the pronunciation of these letters (<ref target="c5s9" targOrder="U">ch. v. &sect; 9</ref>) there was also a similarity of form.</p></div2>
-<div2 id="c6s2" type="paragraph" n="2">
+similarity of the pronunciation of these letters (<ref target="c5s9" targOrder="U">ch. v. &sect; 9</ref>) there was also a similarity of form.</p></div>
+<div id="c6s2" type="paragraph" n="2">
 <head>Letters confused in uncials</head>
 <p>In uncial writing the same confusions are usually possible as in capital script. The letters whose uncial
 and capital forms differ are <mentioned>a, d, c, h, m, q, u.</mentioned> Uncial
@@ -3280,8 +3280,8 @@ e.g. <foreign lang="la">quod</foreign> and <foreign lang="la">quos; quid</foreig
 <foreign lang="la">satis; deditio</foreign> and <foreign lang="la">seditio; sede</foreign> and <foreign lang="la">sesc.</foreign></p>
 <p><mentioned rend="bold">U</mentioned> with <mentioned rend="bold">CI, TI, LI</mentioned> (see <ref target="c6s1" targOrder="U">p. 87</ref>),
 e.g. <foreign lang="la">suam</foreign> and <foreign lang="la">sciam; aves</foreign> and <foreign lang="la">acies;
-uvis</foreign> and <foreign lang="la">civis; ubi</foreign> and <foreign lang="la">tibi; parum</foreign> and <foreign lang="la">partim.</foreign></p></div2>
-<div2 id="c6s3" type="paragraph" n="3">
+uvis</foreign> and <foreign lang="la">civis; ubi</foreign> and <foreign lang="la">tibi; parum</foreign> and <foreign lang="la">partim.</foreign></p></div>
+<div id="c6s3" type="paragraph" n="3">
 <head>Letters confused in other scripts</head>
 <p>In Irish or Anglo-Saxon script the most readily confused letters are <mentioned>r, n, s.</mentioned> The <mentioned>g</mentioned> is often mistaken
 by copyists for <mentioned>z.</mentioned> Subscript <mentioned>i</mentioned> (see above) is particularly
@@ -3297,8 +3297,8 @@ of <mentioned>t</mentioned> closely resembles <mentioned>a.</mentioned></p>
 confusion are very numerous, as numerous almost as in the early Roman cursive hand which we find in the
 <foreign lang="it">graffiti</foreign> of Pompeii. There is a great temptation for an
 editor, puzzled with the variety of mistakes in the MSS. of a classical author, to solve the difficulty by
-the hypothesis that the archetype, if a mediaeval MS., was in Merovingian script, or, if of much earlier date, was in early Roman cursive.</p></div2>
-<div2 id="c6s4" type="paragraph" n="4">
+the hypothesis that the archetype, if a mediaeval MS., was in Merovingian script, or, if of much earlier date, was in early Roman cursive.</p></div>
+<div id="c6s4" type="paragraph" n="4">
 <head>Inference of script of archetype</head>
 <p>A word of caution must be added against overhasty inference about the script of an archetype from one or two
 instances of the confusion of letters in a MS. What seems at first sight the confusion of one letter with another may
@@ -3315,10 +3315,10 @@ copied from an original in which <mentioned>s</mentioned> had habitually or freq
 miswritings which are due to Late Latin pronunciation, e.g. <mentioned>sci</mentioned> and <mentioned>si</mentioned> (see <ref target="c5s9" targOrder="U">p. 68</ref> above),
 from those which arise from the similarity of one letter to another. The want of this
 distinction is a fault in Hagen's <title lang="la">Gradus ad Criticen.</title>
-<pb n="90"/></p></div2></div1>
-<div1 id="c7" type="chapter" n="7">
+<pb n="90"/></p></div></div>
+<div id="c7" type="chapter" n="7">
 <head>Confusion of Contractions</head>
-<div2 id="c7s1" type="paragraph" n="1">
+<div id="c7s1" type="paragraph" n="1">
 <head>Few contractions in capital and uncial MSS</head>
 <p>In the capital and uncial MSS. preserved to us a very sparing use is made of contractions. In the Ambrosian
 Palimpsest, for example, we find only <mentioned>B.</mentioned> for
@@ -3367,8 +3367,8 @@ the word <foreign lang="la">post.</foreign> Hence it is that <title>B</title> re
 <bibl n="Pl. Men. 5.9">Men. 1117</bibl>, while <title>CD</title> have rightly <foreign lang="la">post.</foreign></note>;
 other strokes represented the syllables <mentioned>er, ur, en, is</mentioned> etc.  If these shorthand strokes were accidentally omitted,
 or made with a dry pen by the scribe of an original, or overlooked by the scribe of a copy, a corrupt reading was the result. Thus
-<foreign lang="la">periratus</foreign> has become <foreign lang="la">piratus</foreign> in <bibl n="Pl. Truc. 3.1">Truc. 656</bibl>.</p></div2>
-<div2 id="c7s2" type="paragraph" n="2">
+<foreign lang="la">periratus</foreign> has become <foreign lang="la">piratus</foreign> in <bibl n="Pl. Truc. 3.1">Truc. 656</bibl>.</p></div>
+<div id="c7s2" type="paragraph" n="2">
 <head>Great number of contractions in sixth and seventh centuries</head>
 <p>In the sixth and seventh centuries a host of
 <pb n="92"/>contractions were in use in various scripts, and in many cases the same sign was capable of signifying
@@ -3401,8 +3401,8 @@ contraction. (For examples in <title>A</title> see Studemund's Index.)</note></p
 for <foreign lang="la">modo</foreign>, <mentioned>p<hi rend="over">i</hi></mentioned> for the
 syllable <foreign lang="la">pri</foreign>, <mentioned>p<hi rend="over">a</hi></mentioned> for the syllable <foreign lang="la">pra,</foreign> and so on. And
 the <mentioned>u</mentioned> of the relative and other words was often suprascript
-in a more or less conventional form (cf. <ref target="c2s7" targOrder="U">ch. ii. &sect; 7</ref>).</p></div2>
-<div2 id="c7s3" type="paragraph" n="3">
+in a more or less conventional form (cf. <ref target="c2s7" targOrder="U">ch. ii. &sect; 7</ref>).</p></div>
+<div id="c7s3" type="paragraph" n="3">
 <head>Contractions give clues to history of text</head>
 <p>A knowledge of the contractions used in Latin MSS. is of immense importance to every one who concerns himself
 with the emendation of Latin texts. For a fuller account of them than can be given here the student may consult
@@ -3426,8 +3426,8 @@ variety of Irish writing known as Anglo-Saxon, is illustrated by a ninth-century
 <pb n="94"/>(Laur. Ashb. 60 c. 55). This MS. is written in the Irish hand, but a subsequent hand has added over each peculiarly
 Irish contraction its interpretation in the usual Caroline script; e.g. above <mentioned>h'</mentioned> is written <foreign lang="la">a&umacr;t</foreign>
 or <foreign lang="la">a&umacr;</foreign> to represent <foreign lang="la">autem,</foreign>
-and so on. (A photograph of a page of this MS. is given in the <title lang="it">Collezione Fiorentina</title> No. 40.)</p></div2>
-<div2 id="c7s4" type="paragraph" n="4">
+and so on. (A photograph of a page of this MS. is given in the <title lang="it">Collezione Fiorentina</title> No. 40.)</p></div>
+<div id="c7s4" type="paragraph" n="4">
 <head>Errors arising from contractions</head>
 <p>Besides the other possibilities of error arising from the use of contractions, the contraction-stroke may on
 occasion have been mistaken for a stroke of deletion. At any rate this is Keller's explanation of corruptions in MSS.
@@ -3444,8 +3444,8 @@ length, especially in monosyllables such as <foreign lang="la">o</foreign> (e.g.
 mistaken for the contraction-sign: e.g. <foreign lang="la">furtis est</foreign> for <foreign lang="la">furti se</foreign>
 in <bibl n="Pl. Poen. 3.4">Poen. 737</bibl>; <foreign lang="la">mendato</foreign> for <foreign lang="la">me dato</foreign>
 in <bibl n="Pl. Poen. 1.1">Poen. 159</bibl>; <foreign lang="la">unam</foreign> for
-<foreign lang="la">una</foreign> adv. in <bibl n="Pl. Am. 2.1">Amph. 600</bibl>.</p></div2>
-<div2 id="c7s5" type="paragraph" n="5">
+<foreign lang="la">una</foreign> adv. in <bibl n="Pl. Am. 2.1">Amph. 600</bibl>.</p></div>
+<div id="c7s5" type="paragraph" n="5">
 <head>List of Contractions</head>
 <p>Here is a list of the commoner contractions found in minuscule MSS. of the eighth to the twelfth centuries. In
 each case, unless otherwise stated, a horizontal stroke would be written above the letter in MSS. Some examples of
@@ -3616,8 +3616,8 @@ general this verbal ending &ldquo;<foreign lang="la">-it</foreign>&rdquo; is oft
 e.g. <mentioned>u</mentioned> with a horizontal stroke above it means &ldquo;<foreign lang="la">-vit,</foreign>&rdquo;
 as well as &ldquo;<foreign lang="la">ut,</foreign>&rdquo; &ldquo;<foreign lang="la">vero,</foreign>&rdquo; &ldquo;<foreign lang="la">vel,</foreign>&rdquo;
 &ldquo;<foreign lang="la">ver,</foreign>&rdquo; etc., as mentioned above.)</p>
-<p><mentioned rend="bold">b</mentioned> followed by colon, &ldquo;<foreign lang="la">-bus.</foreign>&rdquo;</p></div2>
-<div2 id="c7s6" type="paragraph" n="6">
+<p><mentioned rend="bold">b</mentioned> followed by colon, &ldquo;<foreign lang="la">-bus.</foreign>&rdquo;</p></div>
+<div id="c7s6" type="paragraph" n="6">
 <head>Signs for Numerals</head>
 <p>The signs for Numerals<note anchored="yes">That is, the Roman numeral signs. The Arabic ciphers are unknown
 in all except the later MSS.</note> have been productive
@@ -3681,10 +3681,10 @@ the original of <title>CD</title>) was, I take it, a contraction of <foreign lan
 <quote lang="la"><l>(res perit) <emph>intercepta</emph> in aedibus lenonis (lenoniis)</l></quote>,
 just as in <bibl n="Pl. Truc. 2.7">v. 583</bibl> <foreign lang="la">accepta</foreign> was represented in the archetype by
 the contraction <foreign lang="la">aca</foreign> (so <title>B</title>) or <foreign lang="la">acca.</foreign>
-<pb n="100"/></p></div2></div1>
-<div1 id="ca" type="chapter" n="A">
+<pb n="100"/></p></div></div>
+<div id="ca" type="chapter" n="A">
 <head>Appendix A:  The Archetype of the Palatine MSS. of Plautus</head>
-<div2 id="cas1" type="paragraph" n="1">
+<div id="cas1" type="paragraph" n="1">
 <head>Page size can be determined from MS B:  33 lines per page</head>
 <p>If the account given on p. 7 of the mutual relationship of the Palatine or minuscule MSS. is correct, we may expect
 to find in the last twelve plays in the Codex Vetus (<title>B</title>) the best evidence about the form and writing of the immediate
@@ -3710,8 +3710,8 @@ plays, the <title>Asinaria,</title> by the transposition of <bibl n="Pl. As. 1.1
 <bibl n="Pl. As. 1.1">v. 83</bibl>, if the true account of the transposition be that the
 first line of the page, having been accidentally omitted, was
 afterwards added in the bottom margin.<note anchored="yes">Notice that v. 40 came in the archetype between v. 55 and v. 56,
-so that this page would have 33 lines of the play.</note></p></div2>
-<div2 id="cas2" type="paragraph" n="2">
+so that this page would have 33 lines of the play.</note></p></div>
+<div id="cas2" type="paragraph" n="2">
 <head>Several copyists</head>
 <p>That the archetype was the work of more than one copyist<note anchored="yes">To determine where one copyist of an archetype ended and where
 another began, is seldom possible. Where it is possible, it is certainly worth doing; so great a difference of quality often exists between the
@@ -3736,8 +3736,8 @@ great difficulty to the scribes of <title>B, C,</title> and <title>D</title> (e.
 <foreign lang="la">confutaver</foreign> <title>CD</title> with line above <mentioned>r</mentioned>;
 <bibl n="Pl. Mil. 2.6">Mil. 543</bibl> <foreign lang="la">demum</foreign> <title>A</title>, <foreign lang="la">dem</foreign> <title>C D1</title>,
 <foreign lang="la">idem</foreign> <title>B1</title>)--are probably the result of copyists having had to force an inconveniently
-large number of lines into the vellum allotted to them.</p></div2>
-<div2 id="cas3" type="paragraph" n="3">
+large number of lines into the vellum allotted to them.</p></div>
+<div id="cas3" type="paragraph" n="3">
 <head>Where pages began</head>
 <p>We may infer from the presence of marginal additions or corrections (see above, p. 35) that various pages of the
 archetype (or its original) began at <bibl n="Pl. Mos. 2.1">Most. 412</bibl>, <bibl n="Pl. Mil. 4.6">Mil. 1273</bibl> (or
@@ -3748,8 +3748,8 @@ page, for the opening lines had been lost), <bibl n="Pl. Mos. 3.1">Most. 550</bi
 (? <bibl n="Pl. Poen. 5.7">1382</bibl>), <bibl n="Pl. Trin. 3.2">Trin. 706</bibl>; and either of the archetype or its
 copy at <bibl n="Pl. Am. 1.1">Amph. 161</bibl>, <bibl n="Pl. Capt. 1.2">Capt. 126</bibl>. Apparently <bibl n="Pl. Ps. 4.7">Pseud. 1162</bibl>-1204
 (42 verses, for <bibl n="Pl. Ps. 4.7">vv. 1189-90</bibl> make only one verse)
-occupied one leaf of the proto-archetype (see <ref target="c3s8" targOrder="U">p. 44</ref>).</p></div2>
-<div2 id="cas4" type="paragraph" n="4">
+occupied one leaf of the proto-archetype (see <ref target="c3s8" targOrder="U">p. 44</ref>).</p></div>
+<div id="cas4" type="paragraph" n="4">
 <head>Archetype written in early Caroline minuscules</head>
 <p>If we look at the letters commonly confused in what were probably the three direct copies of the archetype: (1) <title>B</title>
 (last twelve plays); (2) the original of <title>CD</title> (last twelve plays); (3) the original of <title>BD</title> (first eight plays), we find some reason
@@ -3772,8 +3772,8 @@ Another feature of early minuscule, the ligature <mentioned>ex,</mentioned> has 
 over and over again mistaken by the copyists of the archetype
 for <foreign lang="la">et,</foreign> e.g. <bibl n="Pl. Aul. 4.10">Aul. 766</bibl>, <bibl n="Pl. Capt. 5.1">Capt. 924</bibl>. The ligature for <mentioned>-nt</mentioned>
 may conceivably have stood in <bibl n="Pl. Mer. 4.3">Merc. 716</bibl> <foreign lang="la">delinquont</foreign> (<foreign lang="la">delinquon</foreign>
-<title>B</title>, <foreign lang="la">delinqunt</foreign> <title>C</title>, <foreign lang="la">delinquunt</foreign> <title>D</title>).</p></div2>
-<div2 id="cas5" type="paragraph" n="5">
+<title>B</title>, <foreign lang="la">delinqunt</foreign> <title>C</title>, <foreign lang="la">delinquunt</foreign> <title>D</title>).</p></div>
+<div id="cas5" type="paragraph" n="5">
 <head>Contractions in the archetype</head>
 <p>Here is a list of some noteworthy contractions used in this early minuscule archetype, including a few more or less doubtful cases:</p>
 <p><foreign lang="la">animus</foreign> <mentioned>ami</mentioned> <foreign lang="la">&ldquo;animi&rdquo;</foreign>;
@@ -3902,8 +3902,8 @@ confusion may, however, have been the archaic form <foreign lang="la">quom.</for
 <p><foreign lang="la">usus</foreign> <mentioned>uui</mentioned> <foreign lang="la">&ldquo;usui&rdquo;</foreign>:
 <cit><bibl n="Pl. Mil. 3.1">Mil. 724</bibl> <quote lang="la">usui est</quote></cit> <foreign lang="la">(uule <title>D</title>, om. <title>B1</title>,
 uult <title>B2 C</title>)</foreign>. The
-<foreign lang="la">uule</foreign> of <title>D</title> is in the Renaissance copy <title>F</title> emended to <foreign lang="la">volupe</foreign>).</p></div2>
-<div2 id="cas6" type="paragraph" n="6">
+<foreign lang="la">uule</foreign> of <title>D</title> is in the Renaissance copy <title>F</title> emended to <foreign lang="la">volupe</foreign>).</p></div>
+<div id="cas6" type="paragraph" n="6">
 <head>Shorthand signs for whole syllables</head>
 <p>Of shorthand signs for syllables may be noticed:</p>
 <p><mentioned>er</mentioned>: <mentioned>p</mentioned> with cross-stroke below, &ldquo;per&rdquo;:
@@ -3914,8 +3914,8 @@ uult <title>B2 C</title>)</foreign>. The
 <foreign lang="la">terno</foreign> for <foreign lang="la">Tranio.</foreign></p>
 <p><mentioned>-unt</mentioned>: <mentioned>r</mentioned> with tail intersected by stroke, <mentioned>-runt</mentioned>: <bibl n="Pl. Per. 3.3">Pers. 437</bibl>
 (<title>BCD</title>).
-<pb n="106"/></p></div2>
-<div2 id="cas7" type="paragraph" n="7">
+<pb n="106"/></p></div>
+<div id="cas7" type="paragraph" n="7">
 <head>Contractions by suspension</head>
 <p>And of contractions by &ldquo;suspension&rdquo;:
 <list type="simple">
@@ -3952,8 +3952,8 @@ ventre <title>C2</title>, venire <title>D</title>).</foreign></item>
 <foreign lang="la">facta</foreign> <title>C</title>) (cf. <bibl n="Pl. Truc. 4.4">Truc. 854</bibl> <foreign lang="la">sap &ldquo;sapit&rdquo;</foreign>
 <title>B</title>, with line above <mentioned>p</mentioned>).</item>
 </list></p>
-<p>They are, as has been seen, especially frequent in the <title>Miles</title> and <title>Truculentus</title> (<ref target="cas2" targOrder="U">p. 102</ref> above).</p></div2>
-<div2 id="cas8" type="paragraph" n="8">
+<p>They are, as has been seen, especially frequent in the <title>Miles</title> and <title>Truculentus</title> (<ref target="cas2" targOrder="U">p. 102</ref> above).</p></div>
+<div id="cas8" type="paragraph" n="8">
 <head>Other physical features of the archetype</head>
 <p>Other features of the writing of the archetype may have been these:--</p>
 <p>Marginal glosses were possibly indicated in the archetype (or the proto-archetype?) by a line above the glossed
@@ -3979,8 +3979,8 @@ where the archetype seems to have had <foreign lang="la">furti s&eacute;</foreig
 <foreign lang="la">furtis e</foreign> <title>C2 D2</title>, <foreign lang="la">furtis &emacr;</foreign> <title>D1</title>). In  <bibl n="Pl. Poen. 1.1">Poen. 159</bibl>
 <foreign lang="la">m&eacute; dato</foreign> of the archetype has become <foreign lang="la">mendato.</foreign></p>
 <p>Of the absence of proper separation of words and of the attachment of prepositions and other small words to
-neighbouring words, examples have been given on <ref target="cis2" targOrder="U">pp. 3</ref>, <ref target="c1s5" targOrder="U">16.</ref></p></div2>
-<div2 id="cas9" type="paragraph" n="9">
+neighbouring words, examples have been given on <ref target="cis2" targOrder="U">pp. 3</ref>, <ref target="c1s5" targOrder="U">16.</ref></p></div>
+<div id="cas9" type="paragraph" n="9">
 <head>Archaic forms in the archetype</head>
 <p>It is more important to determine another feature of the archetype, namely its retention of archaic words and forms.
 We may safely infer on <foreign lang="la">a priori</foreign> grounds that a great number of archaisms existed in the archetype which have been
@@ -4044,8 +4044,8 @@ and this <mentioned>oe</mentioned> was corrected by the copyists to <mentioned>u
 <foreign lang="la">unum factum</foreign> <title>B</title>, <foreign lang="la">unam factam</foreign> <title>D</title>), a correction doubtless made in many other
 <pb n="109"/>lines where all means of detecting the older spelling are lost (cf. <bibl n="Pl. Truc. 1.2">Truc. 103</bibl> <foreign lang="la">oenus</foreign> <title>B</title>,
 <foreign lang="la">unus</foreign> <title>CD</title>; and with <mentioned>o</mentioned> for <mentioned>oe</mentioned> <bibl n="Pl. Truc. 2.2">Truc. 310</bibl>
-<foreign lang="la">rem cogi</foreign> for <foreign lang="la">rem coegit, moniendis</foreign> for <foreign lang="la">moeniendis</foreign>).</p></div2>
-<div2 id="cas10" type="paragraph" n="10">
+<foreign lang="la">rem cogi</foreign> for <foreign lang="la">rem coegit, moniendis</foreign> for <foreign lang="la">moeniendis</foreign>).</p></div>
+<div id="cas10" type="paragraph" n="10">
 <head>Corrections in the archetype</head>
 <p>Of Corrections and Variae Lectiones in the archetype we have traces like the following:</p>
 <p><bibl n="Pl. Poen. 4.2">Poen. 897</bibl> (the words <foreign lang="la">Quanti? Duodeviginti minis</foreign> seem to
@@ -4077,10 +4077,10 @@ haud <title>B mg.,</title> haud <title>CD</title>)</foreign>.</p>
 (meo<hi rend="over">in</hi> <title>B,</title> min <title>CD</title>)</foreign>.</p>
 <p><foreign lang="la">audin</foreign>: <bibl n="Pl. Mil. 4.8">Mil. 1313</bibl> <foreign lang="la">audistis<hi rend="over">in</hi></foreign>
 (<foreign lang="la">audistis in</foreign> <title>B,</title> <foreign lang="la">audistin</foreign> <title>CD</title>).
-<pb/></p></div2></div1>
-<div1 id="cb" type="chapter" n="B">
+<pb/></p></div></div>
+<div id="cb" type="chapter" n="B">
 <head>Appendix B:  Specimen of Critical Apparatus with Remarks</head>
-<div2 id="cbs1" type="paragraph" n="1">
+<div id="cbs1" type="paragraph" n="1">
 <p>
 <table>
 <row role="data"><cell cols="1" role="data" rows="1"/>
@@ -4288,10 +4288,10 @@ common (<ref target="c5s12" targOrder="U">ch. v. &sect; 12</ref>), and the inter
 a universal practice in mediaeval as well as in early MSS. (<ref target="c5s9" targOrder="U">ch. v. &sect; 9</ref>).</cell>
 </row>
 </table>
-<pb/></p></div2></div1>
-<div1 id="cc" type="chapter" n="C">
+<pb/></p></div></div>
+<div id="cc" type="chapter" n="C">
 <head>Appendix C:   How to Collate a Latin MS</head>
-<div2 id="ccs1" type="paragraph" n="1">
+<div id="ccs1" type="paragraph" n="1">
 <head>What collation is</head>
 <p>By &ldquo;collating&rdquo; a MS. we mean comparing it with the
 received text of an author and taking note of the points in
@@ -4383,8 +4383,8 @@ they are written by the writer of the MS., or by some one
 who revised it afterwards, or by some one into whose hands
 it came at a much later time; and this is a thing of the
 utmost importance, and indeed is what makes the chief
-difficulty in collating a MS. accurately.</p></div2>
-<div2 id="ccs2" type="paragraph" n="2">
+difficulty in collating a MS. accurately.</p></div>
+<div id="ccs2" type="paragraph" n="2">
 <head>Dealing with corrections in the MS</head>
 <p>Our first object in collating a MS. is to take note of what
 was actually written by the writer of the MS. But in
@@ -4481,8 +4481,8 @@ hand, we shall say <foreign lang="la">rec. in ras.</foreign></p>
 <foreign lang="la">manus prima</foreign> (shorter <foreign lang="la">m.</foreign><hi rend="sup">1</hi>) for the work of the scribe himself,
 <foreign lang="la">manus secunda</foreign> (<foreign lang="la">m.</foreign><hi rend="sup">2</hi>), <foreign lang="la">manus tertia</foreign> (<foreign lang="la">m.</foreign><hi rend="sup">3</hi>), and so on for the
 several correctors; but it is not always possible, nor indeed
-always necessary, to make these distinctions.</p></div2>
-<div2 id="ccs3" type="paragraph" n="3">
+always necessary, to make these distinctions.</p></div>
+<div id="ccs3" type="paragraph" n="3">
 <head>Which differences are significant</head>
 <p>What sort then of divergences from the received text
 should be noticed? Are we in a Latin MS., e.g., to notice
@@ -4537,8 +4537,8 @@ Then an account of its contents:  <foreign lang="la">continet Martialis
 Epigrammatum libros i-x, xii - xiv; desunt lib. xi et
 Spectacula</foreign>. So much is absolutely necessary, and we may
 add any details about the MS. that we think should be
-mentioned.</p></div2>
-<div2 id="ccs4" type="paragraph" n="4">
+mentioned.</p></div>
+<div id="ccs4" type="paragraph" n="4">
 <head>Goal is the reconstruction of the original</head>
 <p>The thing to be remembered in our description of the MS. and in all our collation is that our aim must be to find out
 the readings and the character of the original MS. from which our MS. was copied. The textual emendation of an author
@@ -4559,7 +4559,7 @@ corrected it to <foreign lang="la">et</foreign> (p. 122 above) may, for example,
 indicate some peculiarity of his original, whether that the
 form of its <foreign lang="la">a</foreign> was like an <foreign lang="la">e,</foreign> or that it had <foreign lang="la">at</foreign> corrected in the
 margin or elsewhere to <foreign lang="la">et,</foreign> or that its reading was <foreign lang="la">at,</foreign> while <foreign lang="la">et</foreign>
-is an emendation due to the scribe of the copy. It may equally be due to a mere clerical error that has no such significance.</p></div2></div1>
+is an emendation due to the scribe of the copy. It may equally be due to a mere clerical error that has no such significance.</p></div></div>
 </body>
 </text>
 </TEI.2>

@@ -4005,9 +4005,9 @@ Added to repository. Passes TEI parsing.
       </text>
       <text n="Ver.">
         <body>
-          <div0 type="actio" n="1">
+          <div type="actio" n="1">
             <head>The first oration against Verres.</head>
-            <div1 type="book" n="1">
+            <div type="book" n="1">
               <argument>
                 <head>The Argument</head>
                 <p>After the last oration it was decided that Cicero was to conduct the prosecution
@@ -4671,10 +4671,10 @@ Added to repository. Passes TEI parsing.
                 witnesses, by private documents, and by public records that you shall decide that,
                 even if we had abundant space and leisure days for making a long speech without any
                 inconvenience, still there was no need at all of a long speech in this matter.</p>
-            </div1>
-          </div0>
-          <div0 type="actio" n="2">
-            <div1 type="Book" n="1">
+            </div>
+          </div>
+          <div type="actio" n="2">
+            <div type="book" n="1">
               <head>THE FIRST BOOK OF THE SECOND PLEADING AGAINST CAIUS VERRES.</head>
               <head>RESPECTING HIS CONDUCT IN THE CITY PRAETORSHIP.</head>
               <argument>
@@ -6683,8 +6683,8 @@ Added to repository. Passes TEI parsing.
                 should be rendered as extensive an possible, while he was substituting others for
                 them without any reason, and placing on the bench those whom Verres had approved.
                   <gap desc="[The rest of this oration is lost.]"/></p>
-            </div1>
-            <div1 type="Book" n="2">
+            </div>
+            <div type="book" n="2">
               <head>THE SECOND BOOK OF THE SECOND PLEADING AGAINST CAIUS VERRES.</head>
               <head>CONCERNING HIS MANNER OF DECIDING CAUSES AS JUDGE WHILE IN SICILY.</head>
               <argument>
@@ -9078,8 +9078,8 @@ Added to repository. Passes TEI parsing.
                 they come to plead causes free and unshackled, so as not, if they did not choose to
                 act shamelessly in defending people, to be thought ungrateful for abandoning
                 them.</p>
-            </div1>
-            <div1 type="Book" n="3">
+            </div>
+            <div type="book" n="3">
               <head>THE THIRD BOOK OF THE SECOND PLEADING IN THE ACCUSATION AGAINST CAIUS
                 VERRES.</head>
               <head>ON THE COURT RELATING TO CORN.</head>
@@ -12288,8 +12288,8 @@ Added to repository. Passes TEI parsing.
                 settlers, and the cultivators of the soil, owing to your strictness and your care,
                 may return to their farms and to their homes under my guidance and through my
                 instrumentality.</p>
-            </div1>
-            <div1 type="Book" n="4">
+            </div>
+            <div type="book" n="4">
               <head>THE FOURTH BOOK OF THE SECOND PLEADING IN THE PROSECUTION OF VERRES.</head>
               <head>ABOUT THE STATUES</head>
               <argument>
@@ -14476,8 +14476,8 @@ Added to repository. Passes TEI parsing.
                 the sacred festivals which they had ever observed, and had lost their national
                 deities, and that they might take away the festival days in honour of that family by
                 whose means they had recovered all their other festivals.</p>
-            </div1>
-            <div1 type="Book" n="5">
+            </div>
+            <div type="book" n="5">
               <head>The Fifth Book of the Second Pleading in the Prosecution against Verres.</head>
               <head>The Speech on the Punishments.</head>
               <argument>
@@ -16860,8 +16860,8 @@ Added to repository. Passes TEI parsing.
                 and my own duty to it, may be content with my undertaking this one prosecution, and
                 that I may be allowed for the future to defend the good, instead of being compelled
                 to prosecute the infamous.</p>
-            </div1>
-          </div0>
+            </div>
+          </div>
         </body>
       </text>
     </group>

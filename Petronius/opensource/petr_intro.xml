@@ -63,8 +63,8 @@
 			</div1>-->
 			
 			<pb id="p.vii"/>
-			<div1 type="text" n="front">
-			<div2 type="chapter" n="intro"><head>INTRODUCTION</head>
+			<div type="text" n="front">
+			<div type="chapter" n="intro"><head>INTRODUCTION</head>
 				<p>THE author of the <hi rend="italics">Satyricon</hi> is identified by the large
 					majority of scholars with Gaius Petronius,<note>He is called Titus Petronius by
 						Plutarch (De Adulatore et Amico, 27).</note> the courtier of Nero. There is a
@@ -288,11 +288,11 @@
 				<closer>
 					<signed>MICHAEL HESELTINE.</signed>
 				</closer>
-			</div2>
+			</div>
 			
 			<pb id="p.xvii"/>
 			
-			<div2 type="chapter" n="text"><head>THE TEXT OF PETRONIUS</head>
+			<div type="chapter" n="text"><head>THE TEXT OF PETRONIUS</head>
 				<p>The sources for the text of Petronius fall into three groups.</p>
 				<p>(1) The <hi rend="italics">codex Leidensis</hi> (Q61) written by Scaliger and the
 					editions of the de Tournes (Tornaesius) 1575 and Pithou (Pithoeus) 1577. These are
@@ -319,11 +319,11 @@
 					Trimalchionis.</hi></p>
 				<p>NOTE. A great number of minor corrections and alternative readings are, owing to the
 					demands of space, omitted from the critical notes.</p>
-			</div2>
+			</div>
         	
             <pb id="p.xix"/>
            
-			<div2 type="chapter" n="biblio">
+			<div type="chapter" n="biblio">
 				<head>BIBLIOGRAPHY</head>
 				<div3 type="section" n="1">
 					<head>MOST IMPORTANT EDITIONS: I. PREVIOUS TO DISCOVERY OF <hi rend="italics">Cena
@@ -346,7 +346,7 @@
 				</div3>
 				<div3 type="section" n="2">
 					<head>II. SUBSEQUENT TO DISCOVERY OF <hi rend="italics">Cena Trimalchionis.</hi></head>
-					<div4 type="subsection" n="1">
+					<div type="subsection" n="1">
 						<head>i. Editions of <hi rend="italics">Cena.</hi></head>
 						<p>1664 <hi rend="italics">Petronii Fragmentum Traguriense.</hi> Padua (P. Frambotti).</p>
 						<p>1664 <foreign lang="greek">ANEKDOTON</foreign>
@@ -357,8 +357,8 @@
 							(Henr. Curio).</p>
 						<p>1666 <hi rend="italics">Petronii Fragmentum</hi> ed. Th. Reinesius. Leipzig (Chr.
 							Michael for Sigism. Coerner).</p>
-					</div4>
-					<div4 type="subsection" n="2">
+					</div>
+					<div type="subsection" n="2">
 						<head>ii. Complete Editions.</head>
 						<p>1669 The edition of M. Hadrianides. Amsterdam (J. Blaeu).</p>
 						<p>1709 The edition of P. Burmann with copious notes. Utrecht (Guil. van de Water). This
@@ -366,8 +366,8 @@
 						<p>1862 The <hi rend="italics">editio maior</hi> of F. Buecheler. Berlin (Weidmann).</p>
 						<p>1862 The <hi rend="italics">editio minor</hi> of the same: 4th edition on which this
 							text is based 1904: 5th edition revised by W. Heraeus 1911.</p>
-					</div4>
-					<div4 type="subsection" n="3">
+					</div>
+					<div type="subsection" n="3">
 						<head>iii. Modern Editions <hi rend="italics">of Cena.</hi></head>
 						<p>1891 <hi rend="italics">Cena Trimalchionis</hi> with German notes and translations by
 							L. Friedlaender. Leipzig (Hirzel). Second edition 1906.</p>
@@ -377,11 +377,11 @@
 							W. D. Lowe. Cambridge (Deighton Bell).</p>
 						<p>1905 <hi rend="italics">Cena Trimalchionis</hi> with English notes and translation by
 							M. J. Ryan. London (Walter Scott Publishing Co.).</p>
-					</div4>
-					<div4 type="subsection" n="4"><head>iv. The <hi rend="italics">Bellum Civile.</hi></head>
+					</div>
+					<div type="subsection" n="4"><head>iv. The <hi rend="italics">Bellum Civile.</hi></head>
 						<p>1911 The <hi rend="italics">Bellum Civile</hi> of Petronius, with English notes and
 							translation by Florence T. Baldwin. New York (Columbia University Press).</p>
-					</div4>
+					</div>
 				</div3>
 				<pb id="p.xxi"/>
 				<div3 type="section" n="3">
@@ -390,18 +390,18 @@
 					<p>1736 The Works of Petronius by Mr. Addison. London (J. Watts).</p>
 					<p>1854 and 1880 Petronius by W. K. Kelly. London (Bohn and G. Bell &amp; Sons).</p>
 					<p>1898 Trimalchio's Dinner. H. T. Peck. New York (Dodd, Mead and Co.).</p>
-					<div4 type="subsection" n="1">
+					<div type="subsection" n="1">
 						<head>THE POEMS ATTRIBUTED TO PETRONIUS.</head>
 						<p><hi rend="italics">Poetae Latini Minores,</hi> vol. 4. Baehrens (Teubner Series).</p>
 						<p><hi rend="italics">Editio minor</hi> of Buecheler.</p>
-					</div4>
-					<div4 type="subsection" n="2">
+					</div>
+					<div type="subsection" n="2">
 						<head>THE MSS. OF PETRONIUS.</head>
 						<p>1863 The MSS. of the Satyricon of Petronius Arbiter described and collated by Charles
 							Beck. Cambridge MSS. (Riverside Press).</p>
 						<p><hi rend="italics">Editio maior</hi> of Buecheler.</p>
-					</div4>
-					<div4 type="subsection" n="3">
+					</div>
+					<div type="subsection" n="3">
 						<head>CRITICISMS AND APPRECIATIONS OF PETRONIUS.</head>
 						<p>1856 The Age of Petronius by Charles Beck. Cambridge, Mass. (Metcalf).</p>
 						<p>1875 L'Opposition sous les C&eacute;sars by Gaston Boissier (Un Roman de moeurs
@@ -415,21 +415,21 @@
 						<p>1905 Life and Principate of the Emperor Nero by B. Henderson (pp. 291&ndash;4).
 							London (Methuen).</p>
 						<p>1909 Post-Augustan Poetry by H. E. Butler (p. 125). Oxford (Clarendon Press).</p>
-					</div4>
-					<div4 type="subsection" n="4"><head>BIBLIOGRAPHY.</head>
+					</div>
+					<div type="subsection" n="4"><head>BIBLIOGRAPHY.</head>
 						<p>1910 The Bibliography of Petronius by S. GaseleeLondon (East and Blades).<note>The
 							present bibliography is based entirelyon this erudite bibliographical
-							work.</note></p></div4>
-					<div4 type="subsection" n="5"><head>FORGED FRAGMENTS.</head>
+							work.</note></p></div>
+					<div type="subsection" n="5"><head>FORGED FRAGMENTS.</head>
 						<p>In 1692, fragments, forged by a Frenchman named Nodot, were printed in the edition
 							published by Leers, at Rotterdam.</p>
 						<p>In 1800 another forgery appeared. The author was a Spaniard named Joseph Marchena.
 							<hi rend="italics">Fragmentum Petronii ex bibl. Sti. Gall. gallice vertit ac
 								notis perpetuis illustravit Lallemandus, S. Theologiae Doctor,</hi> 1800.</p>
-					</div4>
+					</div>
 				</div3>
-			</div2>
-            </div1>
+			</div>
+            </div>
         </body>
     </text>
 </TEI.2>

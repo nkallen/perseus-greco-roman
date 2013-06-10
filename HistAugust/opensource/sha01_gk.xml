@@ -42,11 +42,11 @@
     </teiHeader>
     <text>
 <body>
-<div1 n="1" type="work">
+<div n="1" type="work">
 <pb n="p.2"/>
 <docAuthor>Aelius Spartianus</docAuthor>
 <head>de vita Hadriani</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Origo imperatoris Hadriani vetustiora Picentibus, posterior ab Hispaniensibus manat; si quidem Hadria ortos maiores suos apud Italicam Scipionum temporibus resedisse in libris vitae suae Hadrianus ipse
@@ -64,8 +64,8 @@ et Tito quinquies consulibus, ac decimo aetatis anno patre orbatus Ulpium Traian
 consobrinum suum, qui postea imperium tenuit, et Caelium Attianum equitem Romanum tutores habuit.
 <milestone unit="section" n="5"/>
 imbutusque impensius Graecis studiis, ingenio eius sic ad ea declinante ut a nonnullis Graeculus </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 diceretur, quintodecimo anno ad patriam rediit ac statim militiam iniit, venandi
@@ -106,8 +106,8 @@ libris suis indidit. denique statim suffragante Sura ad amicitiam Traiani plenio
 <note id="n1.6.1">Lacuna suggested by Gemoll; diligebat Gallo fauente defuit P. </note>
 <pb n="p.8"/>
 sororem Traiani uxore accepta favente Plotina, Traiano leviter, ut Marius Maximus dicit, volente. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Quaesturam gessit Traiano quater et Articuleio consulibus, in qua cum orationem imperatoris in senatu agrestius pronuntians risus esset, usque ad summam peritiam et facundiam Latinis operam dedit.
@@ -143,8 +143,8 @@ ac neglegi, et defuncto
 quidem Sura Traiani ei familiaritas crevit,
 <note target="n1.10.6"/>
 causa praecipue orationum quas </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 pro imperatore dictaverat. usus Plotinae quoque favore, cuius studio etiam legatus expeditionis
@@ -193,8 +193,8 @@ sore moreretur, multi ad senatum eum orationem voluisse mittere petiturum, ut, s
 senatus eligeret, nec desunt qui factione Plotinae mortuo iam Traiano Hadrianum in adoptionem adscitum esse prodiderint, supposito qui pro Traiano fessa voce loquebatur.
 <note target="n1.14.1"/>
 </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Adeptus imperium ad priscum se statim morem instituit et tenendae per orbem terrarum paci operam
@@ -233,8 +233,8 @@ Post haec Antiochia digressus est ad inspiciendas
 reliquias Traiani, quas Attianus, Plotina et Matidia
 <milestone unit="section" n="10"/>
 deferebant, quibus exceptis et navi Romam dimissis ipse Antiochiam regressus praepositoque Syriae Catilio Severo per Illyricum Romam venit. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Traiano divinos honores datis ad senatum et quidem accuratissimis litteris postulavit et cunctis volentibus meruit, ita ut senatus multa, quae Hadrianus non postulaverat, in honorem Traiani sponte decerneret.
@@ -261,8 +261,8 @@ praemissis exercitibus Moesiam petiit. Marcium Turbonem post Mauretaniam
 praefecturae infulis ornatum Pannoniae Daciaeque ad tempus praefecit.
 <milestone unit="section" n="8"/>
 cum rege Roxolanorum, qui de inminutis stipendiis querebatur, cognito negotio pacem composuit. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Nigrini insidias, quas ille sacrificanti Hadriano conscio sibi Lusio et multis aliis paraverat, cum etiam successorem Hadrianus sibimet destinasset, evasit.
@@ -301,8 +301,8 @@ ad honores explendos non solum amicis, sed etiam passim aliquantis multa
 largitus est. feminas nonnullas ad sustentandam
 <milestone unit="section" n="12"/>
 vitam sumptibus iuvit, gladiatorium munus per sex dies continuos exhibuit et mille feras natali suo edidit. </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Optimos quosque de senatu in contubernium
@@ -331,8 +331,8 @@ nec secum iudicare permisit, erat enim tunc mos ut, cum princeps causas agnoscer
 ex omnium deliberatione proferret. exsecratus est denique principes qui minus senatoribus detulissent.
 <milestone unit="section" n="11"/>
 Serviano sororis viro, cui tantum detulit ut ei venienti de cubiculo semper occurrerit, tertium consulatum, nec secum tamen, cum ille bis ante Hadrianum fuisset, ne esset secundae sententiae, non petenti ac sine precatione concessit. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Inter haec tamen et multas provincias a Traiano adquisitas reliquit et theatrum, quod ille in Campo
@@ -363,8 +363,8 @@ amicitiis suis iungens. Romae vero praetorum et consulum officia frequentavit, c
 siliis sublevavit, conviviis suis semper adhibuit, omnia
 <milestone unit="section" n="9"/>
 denique ad privati hominis modum fecit, socrui suae honores praecipuos impendit ludis gladiatoriis ceterisque officiis. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Post haec profectus in Gallias omnes civitates
@@ -386,8 +386,8 @@ eburneo spatham clauderet, aegros milites in hospitiis suis videret, locum castr
 tribunatus robor impleret, nec pateretur quicquam tribunum a milite accipere, delicata omnia undique summoveret, arma postremo eorum supellectilemque
 <milestone unit="section" n="8"/>
 corrigeret. de militum etiam aetatibus iudicabat, ne quis aut minor quam virtus posceret, aut maior quam pateretur humanitas, in castris contra morem veterem versaretur, agebatque, ut sibi semper noti essent, et </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 eorum numerus sciretur. laborabat praeterea, ut condita militaria diligenter agnosceret, reditus quoque provinciales sollerter explorans, ut, si
@@ -419,8 +419,8 @@ detentus et lavacris ad se redire nollet, atque hoc Hadrianus per frumentarios c
 <milestone unit="section" n="7"/>
 mihi, scripsit?</q>
 et hoc quidem vitiosissimum putant atque huic adiungunt quae de adultorum amore ac nuptarum adulteriis, quibus Hadrianus laborasse dicitur, adserunt, iungentes quod ne amicis quidem servaverit fidem. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Compositis in Britannia rebus transgressus in Galliam Alexandrina seditione turbatus, quae nata est ob Apidem, qui, cum repertus esset post multos annos, turbas inter populos creavit, apud quem
@@ -442,8 +442,8 @@ Per ea tempora et alias frequenter in plurimis locis, in quibus barbari non flum
 Germanis regem constituit, motus Maurorum compressit
 <milestone unit="section" n="8"/>
 et a senatu supplicationes emeruit. bellum Parthorum per idem tempus in motu tantum fuit, idque Hadriani conloquio repressum est. </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 Post haec per Asiam et insulas ad Achaiam
@@ -473,8 +473,8 @@ toparchas et reges ad amicitiam invitavit, invitato etiam Osdroe rege Parthorum 
 itidem capta fuerat, cumque ad eum quidam reges venissent, ita cum his egit ut eos paeniteret, qui venire noluerunt, causa speciatim Pharasmanis qui
 <milestone unit="section" n="10"/>
 eius invitationem superbe neglexerit. et circumiens quidem provincias procuratores et praesides pro factis supplicio adfecit, ita severe ut accusatores per se </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 crederetur immittere. Antiochenses inter haec ita odio habuit ut Syriam a Phoenice separare voluerit, ne tot civitatum metropolis Antiochia diceretur.
@@ -506,8 +506,8 @@ scientissimus, gladiatoria quoque arma tractavit. idem severus comis, gravis las
 tenax liberalis, simulator simplex,
 <note target="n1.46.3"/>
 saevus clemens, et semper in omnibus varius. </p>
-</div2>
-<div2 type="chapter" n="15">
+</div>
+<div type="chapter" n="15">
 <p>
 <milestone unit="section" n="1"/>
 Amicos ditavit et quidem non petentes, cum
@@ -541,8 +541,8 @@ et Favorinus quidem, cum verbum eius quondam ab Hadriano reprehensum esset, atqu
 iucundissimum movit. ait enim:
 <q>Non recte suadetis, familiares, qui non patimini me illum doctiorem omnibus credere, qui habet triginta legiones .</q>
 </p>
-</div2>
-<div2 type="chapter" n="16">
+</div>
+<div type="chapter" n="16">
 <p>
 <milestone unit="section" n="1"/>
 Famae celebris Hadrianus tam cupidus fuit ut libros vitae suae scriptos a se libertis suis litteratis dederit, iubens ut eos suis nominibus publicarent. nam et Phlegontis libri Hadriani esse dicuntur.
@@ -577,8 +577,8 @@ in summa familiaritate Epictetum et Heliodorum philosophos et, ne nominatim de o
 <pb n="p.52"/>
 <milestone unit="section" n="11"/>
 eminente Favorino. doctores, qui professioni suae inhabiles videbantur, ditatos honoratosque a professione dimisit. </p>
-</div2>
-<div2 type="chapter" n="17">
+</div>
+<div type="chapter" n="17">
 <p>
 <milestone unit="section" n="1"/>
 Quos in privata vita inimicos habuit, imperator tantum neglexit, ita ut uni, quem capitalem habuerat,
@@ -617,8 +617,8 @@ nonnullis contemptus est; multis ingentia dedit munera, sed nulli maiora quam Hi
 magnifica dedit dona. cum a Pharasmane ipse quoque ingentia dona
 <note target="n1.54.2"/>
 accepisset atque inter haec auratas quoque chlamydes, trecentos noxios eum auratis chlamydibus in arenam misit ad eius munera deridenda. </p>
-</div2>
-<div2 type="chapter" n="18">
+</div>
+<div type="chapter" n="18">
 <p>
 <milestone unit="section" n="1"/>
 Cum iudicaret, in consilio habuit non amicos suos aut comites solum sed iuris consultos et praecipue Iuventium
@@ -659,8 +659,8 @@ vel ancillam vendi vetuit causa non praestita. decoctores bonorum suorum, si sua
 servorum et liberorum tulit, lavacra pro sexibus
 <milestone unit="section" n="11"/>
 separavit, si dominus in domo interemptus esset, non de omnibus servis quaestionem haberi sed de iis qui per vicinitatem poterant sentire praecepit. </p>
-</div2>
-<div2 type="chapter" n="19">
+</div>
+<div type="chapter" n="19">
 <p>
 <milestone unit="section" n="1"/>
 In Etruria praeturam imperator egit. per
@@ -694,8 +694,8 @@ nominibus consecravit, fecit et sui nominis pontem et sepulchrum iuxta Tiberim e
 transtulit et Colossum stantem atque suspensum per Decrianum architectum de eo loco in quo nunc Templum Urbis est, ingenti molimine, ita ut operi etiam
 <milestone unit="section" n="13"/>
 elephantos viginti quattuor exhiberet, et cum hoc simulacrum post Neronis vultum, cui antea dicatum fuerat, Soli consecrasset, aliud tale Apollodoro architecto auctore facere Lunae molitus est. </p>
-</div2>
-<div2 type="chapter" n="20">
+</div>
+<div type="chapter" n="20">
 <p>
 <milestone unit="section" n="1"/>
 In conloquiis etiam humillimorum civilissimus fuit, detestans eos qui sibi hanc voluptatem humanitatis quasi servantes
@@ -740,8 +740,8 @@ equos et canes
 <pb n="p.64"/>
 <milestone unit="section" n="13"/>
 sic amavit ut iis sepulchra constitueret, oppidum Hadrianotheras in quodam loco, quod illic et feliciter esset venatus et ursam occidisset aliquando, constituit. </p>
-</div2>
-<div2 type="chapter" n="21">
+</div>
+<div type="chapter" n="21">
 <p>
 <milestone unit="section" n="1"/>
 De iudicibus omnibus semper cuncta scrutando tamdiu requisivit quamdiu verum inveniret.
@@ -784,8 +784,8 @@ non exegit tributum, quod Traianus imposuit.
 Albanos et Hiberos amicissimos habuit, quod reges eorum largitionibus prosecutus est, cum ad
 <milestone unit="section" n="14"/>
 illum venire contempsissent. reges Bactrianorum legatos ad eum amicitiae petendae causa supplices miserunt. </p>
-</div2>
-<div2 type="chapter" n="22">
+</div>
+<div type="chapter" n="22">
 <p>
 <milestone unit="section" n="1"/>
 Tutores saepissime dedit, disciplinam civilem
@@ -821,8 +821,8 @@ atque praetoribus et optimis senatoribus. Fucinum
 lacum emisit, quattuor consulares per omnem Italiam
 <milestone unit="section" n="14"/>
 iudices constituit, quando in Africam venit, ad adventum eius post quinquennium pluit, atque ideo ab Africanis dilectus est. </p>
-</div2>
-<div2 type="chapter" n="23">
+</div>
+<div type="chapter" n="23">
 <p>
 <milestone unit="section" n="1"/>
 Peragratis sane omnibus orbis partibus capite nudo et in summis plerumque imbribus atque
@@ -868,8 +868,8 @@ pro adoptione Commodi dedimus.</q>
 Commodus autem prae valetudine nec gratias quidem in senatu
 <milestone unit="section" n="16"/>
 agere potuit Hadriano de adoptione, denique accepto largius antidoto ingravescente valetudine per somnum periit ipsis kalendis Ianuariis, quare ab Hadriano votorum causa lugeri est vetitus. </p>
-</div2>
-<div2 type="chapter" n="24">
+</div>
+<div type="chapter" n="24">
 <p>
 <milestone unit="section" n="1"/>
 Et 3 mortuo Helio Vero Caesare Hadrianus ingruente tristissima valetudine adoptavit Arrium Antoninum, qui postea Pius dictus est, et ea quidem
@@ -916,8 +916,8 @@ publicae praetermisit. et post testamentum quidem iterum se conatus
 occidere subtracto pugione saevior
 <milestone unit="section" n="13"/>
 factus est. petiit et venenum a medico, qui se ipse, ne daret, occidit. </p>
-</div2>
-<div2 type="chapter" n="25">
+</div>
+<div type="chapter" n="25">
 <p>
 <milestone unit="section" n="1"/>
 Ea tempestate supervenit quaedam mulier, quae diceret somnio se monitam ut insinuaret Hadriano, ne se occideret, quod esset bene valiturus; quod cum non fecisset, esse caecatam. iussam tamen iterum Hadriano eadem dicere atque genua eius osculare,
@@ -961,8 +961,8 @@ Vixit annis LXII,
 mensibus V, diebus XVII. imperavit annis XX,
 <note target="n1.78.3"/>
 mensibus XI. </p>
-</div2>
-<div2 type="chapter" n="26">
+</div>
+<div type="chapter" n="26">
 <p>
 <milestone unit="section" n="1"/>
 Statura fuit procerus, forma comptus, flexo ad pectinem capillo, promissa barba, ut vulnera, quae in facie naturalia erant, tegeret, habitudine robusta.
@@ -991,8 +991,8 @@ loqueretur, cum eius verba nullus agnosceret. idem cum vellet in senatu dicere
 <milestone unit="section" n="10"/>
 <q> post meam</q>
 dixit, somniavit praeterea se a patre potionem soporiferam impetrasse, item somniavit a leone se oppressum esse. </p>
-</div2>
-<div2 type="chapter" n="27">
+</div>
+<div type="chapter" n="27">
 <p>
 <milestone unit="section" n="1"/>
 In mortuum eum a multis multa sunt
@@ -1006,14 +1006,14 @@ templum denique ei pro sepulchro apud Puteolos constituit et quinquennale certam
 pertinerent. qua re, ut supra dictum est, multi putant Antoninum Pium dictum.
 <note id="n1.80.1">est P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="2" type="work">
+</div>
+</div>
+<div n="2" type="work">
 <pb n="p.82"/>
 <docAuthor>Aelius Spartianus</docAuthor>
 <head>Helius</head>
 <opener>Diocletiano Augusto Aelius Spartianus suus sal.</opener>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 In animo mihi est, Diocletiane Auguste, tot principum maxime, non solum eos qui principum locum in hac statione quam temperas retentarunt, ut usque ad divum Hadrianum feci, sed illos etiam qui vel Caesarum nomine appellati sunt nec principes aut Augusti fuerunt vel quolibet alio genere aut in famam aut in spem principatus venerunt, cognitioni numinis
@@ -1023,8 +1023,8 @@ tui sternere, quorum praecipue de Helio Vero dicendum est, qui primus tantum Cae
 et quoniam nimis pauca dicenda sunt, nec debet prologus inormior
 <note target="n2.82.1"/>
 esse quam fabula, de ipso iam loquar. </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Ceionius Commodus, qui et Helius Verus appel-
@@ -1061,8 +1061,8 @@ multi Annium prodiderunt. maiores omnes nobilissimi, quorum origo pleraque ex Et
 Faventia. et de huius quidem familia plenius in vita Lucii Aurelii Ceionii Commodi Veri Antonini, filii huiusce, quem sibi adoptare Antoninus iussus
 <milestone unit="section" n="10"/>
 est, disseremus. is enim liber debet omnia quae ad stemma generis pertinent continere, qui habet principem de quo plura dicenda sunt. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Adoptatus autem Helius Verus ab Hadriano eo tempore quo iam, ut superius diximus, parum vigebat
@@ -1091,8 +1091,8 @@ cogitaret, si forte vixisset.
 fertur denique ab iis qui Hadriani vitam diligentius in litteras rettulerunt Hadrianum Veri scisse genituram et eum, quem non multum ad rem publicam regendam probarat, ob hoc tantum adoptasse ut suae satisfaceret voluptati et, ut quidam dicunt, iuri iurando, quod intercessisse inter ipsum ac Verum secretis condicionibus ferebatur.
 <milestone unit="section" n="9"/>
 fuisse enim Hadrianum peritum matheseos Marius Maximus usque adeo demonstrat ut eum dicat cuncta de se scisse, sic ut omnium dierum usque ad </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 horam mortis futuros actus ante perscripserit. satis praeterea constat eum de
@@ -1132,8 +1132,8 @@ unde apparet eum habuisse in animo alium deligere atque hunc ultimo vitae suae t
 sed eius consiliis iuvit eventus, nam cum de provincia Helius redisset atque orationem pulcherrimam, quae hodieque legitur, sive per se seu per scriniorum aut dicendi magistros parasset, qua kalendis Ianuariis Hadriano patri gratias ageret, accepta potione, qua se aestimaret iuvari, kalendis ipsis Ianuariis periit.
 <milestone unit="section" n="8"/>
 iussusque ab Hadriano, quia vota interveniebant, non lugeri. </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Fuit hic vitae laetissimae, eruditus in litteris, Hadriano, ut malevoli loquuntur, acceptior forma
@@ -1185,8 +1185,8 @@ praescribuntur ut dicantur non
 duo Antonini sed
 <note target="n2.94.2"/>
 duo Augusti. tantumque huius rei et novitas et dignitas valuit ut fasti consulares nonnulli ab his sumerent ordinem consulum. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Pro eius adoptione infinitam pecuniam populo et militibus Hadrianus dedit,
@@ -1219,8 +1219,8 @@ ex quo ostendit
 aut iudicium suum aut scientiam futurorum. post hunc denique Hadrianus diu anceps quid faceret, Antoninum adoptavit Pium cognomine appellatum, cui condicionem addidit, ut ipse sibi Marcum et Verum Antoninus adoptaret filiamque suam Vero, non Marco
 <milestone unit="section" n="10"/>
 daret, nec diutius vixit gravatus languore ac diverso genere morborum, saepe dicens sanum principem mori debere non debilem. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Statuas sane Helio Vero per totum orbem colossas poni iussit, templa etiam in nonnullis urbibus
@@ -1238,13 +1238,13 @@ quod quidem contrarium iis quae de adoptionis paenitentia per auctores plurimos 
 Haec sunt quae de Vero Caesare mandanda litteris
 <milestone unit="section" n="5"/>
 fuerunt, de quo idcirco non tacui, quia mihi propositum fuit omnes, qui post Caesarem dictatorem, hoc est divum Iulium, vel Caesares vel Augusti vel principes appellati sunt, quique in adoptationem venerunt, vel imperatorum filii aut parentes Caesarum nomine consecrati sunt, singulis libris exponere, meae satisfaciens conscientiae, etiamsi multis nulla sit necessitas talia requirendi. </p>
-</div2>
-</div1>
-<div1 n="3" type="work">
+</div>
+</div>
+<div n="3" type="work">
 <pb n="p.100"/>
 <docAuthor>Iulius Capitolinus</docAuthor>
 <head>Antoninus Pius</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Tito Aurelio Fulvo Boionio Antonino Pio pater num genus e Gallia Transalpina, Nemausense scilicet,
@@ -1271,8 +1271,8 @@ socer Annius Verus, uxor Annia Faustina, filii mares duo, duae feminae, gener pe
 Ipse Antoninus Pius natus est XIII. kal. Oct. Flavio Domitiano XII. et Cornelio Dolabella consulibus in villa Lanuvina. educatus Lorii in Aurelia, ubi postea palatium exstruxit, cuius hodieque reliquiae
 <milestone unit="section" n="9"/>
 manent, pueritiam egit cum avo paterno, mox eum materno, omnes suos religiose colens, atque adeo et consobrinorum et vitrici et multorum adfinium hereditate ditatus est. </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Fuit vir forma conspicuus, ingenio 1 clarus, moribus clemens, nobilis vultu, placidus ingenio, singularis
@@ -1310,8 +1310,8 @@ cum Catilio Severo, hic in omni privata vita
 in agris frequentissime vixit, sed clarus in locis omnibus
 <milestone unit="section" n="11"/>
 fuit. ab Hadriano inter quattuor consulares, quibus Italia committebatur, electus est ad eam partem Italiae regendam in qua plurimum possidebat, ut Hadrianus viri talis et honori consuleret et quieti. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Huic, cum Italiam regeret, imperii omen est factum, nam cum tribunal ascendisset, inter alias adclamationes dictum est 'Auguste, dii te servent'.
@@ -1341,8 +1341,8 @@ amisit, de huius uxore multa dicta sunt ob nimiam libertatem et vivendi facilita
 animi dolore compressit. post proconsulatum in consiliis Hadriani Romae frequens vixit, de omnibus, de
 <note target="n3.106.3"/>
 quibus Hadrianus consulebat, mitiorem sententiam semper ostendens. </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Genus sane adoptionis tale fertur: mortuo Helio Vero, quem sibi Hadrianus adoptaverat et Caesarem
@@ -1382,8 +1382,8 @@ de proprio dedit et ea quae pater promiserat, et ad opera Hadriani plurimum cont
 <note id="n3.108.2">militibus, before populo in P, deleted, by Jordan; militibus ac populo vulg. </note>
 <pb n="p.110"/>
 </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Et patri, cum advixit,1 religiosissime paruit, sed Hadriano apud Baias mortuo reliquias eius Romam pervexit sancte ac reverenter atque in hortis Domitiae conlocavit, etiam repugnantibus cunctis inter divos
@@ -1398,8 +1398,8 @@ praesides detineret. per legatos suos plurima bella gessit, nam et Britannos per
 Germanos et Dacos et multas gentes atque Iudaeos
 <milestone unit="section" n="5"/>
 rebellantes contudit per praesides ac legatos, in Achaia etiam atque Aegypto rebelliones repressit. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Alanos molientis saepe refrenavit. procuratores suos et modeste suscipere tributa iussit et excedentes
@@ -1429,8 +1429,8 @@ petente senatu creavit. Annium Verum, qui postea dictus est Antoninus, ante temp
 neque de provinciis neque de ullis actibus quicquam constituit, nisi quod prius ad amicos rettulit,
 <milestone unit="section" n="12"/>
 atque ex eorum sententia formas composuit, visus est sane ab amicis et cum privatis vestibus et domestica quaedam gerens. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Tanta sane diligentia subiectos sibi populos rexit ut omnia et omnes, quasi sua essent, curaret.
@@ -1461,8 +1461,8 @@ et tamen ingenti auctoritate apud omnes gentes fuit, cum in urbe propterea seder
 <note id="n3.116.1">al' anticipare P corr. </note>
 <pb n="p.118"/>
 </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Congiarium populo dedit, militibus donativum addidit, puellas alimentarias in honorem Faustinae
@@ -1493,8 +1493,8 @@ ad praefecturam venisset, usque adeo sub eo nullus percussus est senator, ut eti
 legibus non licebat. vini olei et tritici penuriam per aerarii sui damnum
 <note target="n3.120.3"/>
 emendo et gratis populo dando sedavit. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Adversa eius temporibus haec provenerunt; fames, de qua diximus, Circi ruina, terrae motus, quo Rhodiorum et Asiae oppida conciderunt, quae omnia mirifice instauravit, et Romae incendium, quod trecentas
@@ -1528,8 +1528,8 @@ ad dandos Olbiopolitis obsides vicit, tantum sane
 <note id="n3.122.2">Eupatorem Cary, Hist, des Rois du Bosphore, p. 64 (ed. Berol.). </note>
 <pb n="p.124"/>
 auctoritatis apud exteras gentes nemo habuit, cum semper amaverit pacem, eo usque ut Scipionis sententiam frequentarit, qua ille dicebat malle se unum civem servare quam mille hostes occidere. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Mensem Septembrem atque Octobrem Antoninum atque Faustinum appellandos decrevit senatus,
@@ -1566,8 +1566,8 @@ ad indulgentias pronissimus fuit.
 edita munera, in quibus elephantos et corocottas et tigrides et rhinocerotes, crocodillos etiam atque hippopotamos et omnia ex toto orbe terrarum exhibuit, centum etiam leones eum tigridibus
 <note target="n3.126.1"/>
 una missione edidit. </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 Amicis suis in imperio suo non aliter usus est quam privatus, quia et ipsi numquam de eo cum libertis per fumum aliquid vendiderunt; si quidem
@@ -1590,8 +1590,8 @@ et ipse amicorum suorum convivia, inter
 alia etiam hoc civilitatis eius praecipuum argumentum est quod, cum domum Homulli visens miransque columnas porphyreticas requisisset, unde eas haberet, atque Homullus ei dixisset,
 <q>cum in domum alienam veneris, et mutus et surdus esto,</q>
 patienter tulit, cuius Homulli multa loca semper patienter accepit. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Multa de iure sanxit ususque est iuris peritis Vindio Vero, Salvio Valente, Volusio Maeciano, Ulpio
@@ -1617,8 +1617,8 @@ tribuno aequanimitatis dedit atque ita conversus quasi dormiret, spiritum reddid
 alienatus in febri nihil aliud quam de re publica et de
 <milestone unit="section" n="8"/>
 iis regibus quibus irascebatur locutus est. privatum patrimonium filiae reliquit, testamento autem omnes suos legatis idoneis prosecutus est. </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 Fuit statura elevata decorus, sed cum esset longus et senex incurvareturque, tiliaciis tabulis in
@@ -1633,13 +1633,13 @@ civili sanguine et hostili, quantum ad se ipsum pertinet, vixit et qui rite comp
 <note id="n3.130.1">signum Novak (so Peter 1); signatum P; signum tum Peter</note>
 <note id="n3.130.2">with Petschenig. line omitted in P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="4" type="work">
+</div>
+</div>
+<div n="4" type="work">
 <pb n="p.132"/>
 <docAuthor>Iulius Capitolinus</docAuthor>
 <head>Marcus Antoninus Philosophus</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Marco Antonino, in omni vita philosophanti viro et qui sanctitate vitae omnibus principibus antecellit,
@@ -1676,8 +1676,8 @@ Anniam Faustinam, consobrinam suam. Marcus Antoninus principio aevi sui nomen ha
 Catilii
 <milestone unit="section" n="10"/>
 Severi, materni proavi, post excessum vero patris ab Hadriano Annius Verissimus vocatus est, post virilem autem togam Annius Verus, patre mortuo ab avo paterno adoptatus et educatus est. </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Fuit a prima infantia gravis, at ubi egressus est annos qui nutricum foventur auxilio, magnis praeceptoribus traditus ad philosophiae scita pervenit.
@@ -1711,8 +1711,8 @@ usus est etiam Commodi
 magistro, cuius ei adfinitas fuerat destinata,
 <note target="n4.136.6"/>
 Apollonio Chalcedonio Stoico philosopho. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 tantum autem studium in eo philosophiae fuit ut adscitus iam in
@@ -1750,8 +1750,8 @@ Longum et Calenum, in quos maxime liberalis fuit, et ita quidem ut quos non poss
 <note id="n4.138.2">om. by P 1; ex P corr. </note>
 <pb n="p.140"/>
 </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Educatus est 1 in Hadriani gremio, qui illum, ut supra diximus, Verissimum nominabat et qui ei
@@ -1783,8 +1783,8 @@ operam praeterea pingendo sub magistro Diogneto
 dedit. amavit pugilatum luctamina et cursum et
 <milestone unit="section" n="10"/>
 aucupatus et pila lusit adprime et venatus est. sed ab omnibus his intentionibus studium eum philosophiae abduxit seriumque et gravem reddidit, non tamen prorsus abolita in eo comitate, quam praecipue suis, mox amicis atque etiam minus notis exhibebat, cum frugi esset sine contumacia, verecundus sine ignavia, sine tristitia gravis. </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 His ita se habentibus eum post obitum Lucii Caesaris Hadrianus successorem imperii quaereret, nec idoneus, utpote decem et octo annos agens, Marcus haberetur, amitae Marci virum Antoninum Pium Hadrianus ea lege in adoptationem legit ut sibi Marcum Pius adoptaret, ita tamen ut et Marcus
@@ -1804,8 +1804,8 @@ transisset, octavo decimo ergo aetatis anno adoptatus in secundo consulatu Anton
 adoptatus in aulicam domum omnibus parentibus suis
 <milestone unit="section" n="8"/>
 tantam reverentiam quantam privatus exhibuit, eratque haud secus rei suae quam in privata domo parens ac diligens, pro instituto patris volens agere dicere cogitare. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Hadriano Baiis absumpto cum Pius ad advehendas eius reliquias esset profectus, relictus Romae avo iusta implevit et gladiatorium quasi privatus quaestor
@@ -1843,8 +1843,8 @@ matrem Marci in viridiario venerantem simulacrum Apollinis vidisset, insusurravi
 quod omnino
 <milestone unit="section" n="10"/>
 apud Pium nihil valuit; tanta erat Marci probitas et </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 tanta in imperatorio participatu1 modestia. existimationis autem tantam curam habuit ut et procuratores suos puer semper moneret, ne quid arrogantius facerent, et heredidates delatas reddens proximis
@@ -1875,8 +1875,8 @@ frumentariae perceptioni adscribi praeceperunt, actis igitur quae agenda fuerant
 ceteris pro rata. Hadriani autem sepulchro corpus patris intulerunt magnifico exsequiarum officio, mox iustitio secuto publice quoque funeris expeditus est
 <milestone unit="section" n="11"/>
 ordo. et laudavere uterque pro rostris patrem flaminemque ei ex adfinibus et sodales ex amicissimis Aurelianos creavere. </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Adepti imperium ita civiliter se ambo egerunt ut lenitatem Pii nemo desideraret, cum eos Manilius, sui temporis mimographus, cavillando impune perstringeret,
@@ -1917,8 +1917,8 @@ cum Marcus horis omnibus rei publicae actibus incubaret patienterque delicias fr
 nolens
 <note target="n4.154.1"/>
 ferret, denique omnia quae ad bellum erant necessaria Romae positus et disposuit Marcus et ordinavit. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Gestae sunt res in Armenia prospere per Statium Priscum Artaxatis captis, delatumque Armeniacum nomen utrique principum, quod Marcus per verecundiam
@@ -1943,8 +1943,8 @@ Inter haec liberales causas ita munivit ut primus iuberet apud praefectos aerari
 nomine imposito, per provincias tabulariorum publicorum usum instituit, apud quos idem de originibus fieret quod Romae apud praefectos aerarii, ut, si forte aliquis in provincia natus causam liberalem diceret,
 <milestone unit="section" n="9"/>
 testationes inde ferret, atque hanc totam legem de adsertionibus firmavit aliasque de mensariis et auctionibus tulit. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Senatum multis cognitionibus et maxime ad se pertinentibus iudicem dedit. de statu etiam defunctorum
@@ -1994,8 +1994,8 @@ senatoribus Peter 2, incorrectly (cf. Mommsen, RSt. II 3, p. 941, 2).</note>
 <note id="n4.158.3">Plattoria Jordan (cf. Savigny, Opp. Misc. II, 330); Laetoria P, Peter. </note>
 <pb n="p.160"/>
 vel propter dementiam darentur, ita statuit ut omnes adulti curatores acciperent non redditis causis. </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 Cavit et sumptibus publicis et calumniis quadruplatorum intercessit adposita falsis delatoribus nota.
@@ -2031,8 +2031,8 @@ etiam addidit de vicensima hereditatum, de tutelis libertorum, de bonis maternis
 quartam partem in Italia possiderent, dedit praeterea curatoribus regionum ac viarum potestatem, ut vel punirent vel ad praefectum urbi puniendos remitterent eos qui ultra vectigalia quicquam ab aliquo
 <milestone unit="section" n="10"/>
 exegissent. ius autem magis vetus restituit quam novum fecit, habuit secum praefectos, quorum et auctoritate et periculo semper iura dictavit. usus autem est Scaevola praecipue iuris perito. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Cum populo autem non aliter egit quam est
@@ -2071,8 +2071,8 @@ Dum Parthicum bellum geritur, natum est Marcomannicum, quod diu eorum qui aderan
 <pb n="p.166"/>
 <milestone unit="section" n="14"/>
 mannicum agi posset, et cum famis tempore populo insinuasset de bello, fratre post quinquennium reverso in senatu egit, ambos necessarios dicens bello </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 Germanico imperatores, tantus autem terror belli Marcomannici fuit
@@ -2100,8 +2100,8 @@ et vano cuidam, qui diripiendae urbis occasionem cum quibusdam consciis requiren
 <note id="n4.166.4"> efferi Jordan; et eo ferri P 1; ferri et eo ferri P 1 corr. </note>
 <pb n="p.168"/>
 finemque mundi affore diceret, si ipse lapsus ex arbore in ciconiam verteretur, cum statuto tempore decidisset atque ex sinu ciconiam emisisset, perducto ad se atque confesso veniam daret. </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 Profecti tamen sunt paludati ambo imperatores et Victualis et Marcomannis cuncta turbantibus, aliis etiam gentibus, quae pulsae a superioribus barbaris fugerant, nisi reciperentur, bellum inferentibus.
@@ -2125,8 +2125,8 @@ placuit autem urgente Lucio, ut prae-
 missis ad senatum litteris Lucius Romam rediret.
 <milestone unit="section" n="8"/>
 via quoque 1, postquam iter ingressi sunt, sedens cum fratre in vehiculo Lucius apoplexi arreptus periit. </p>
-</div2>
-<div2 type="chapter" n="15">
+</div>
+<div type="chapter" n="15">
 <p>
 <milestone unit="section" n="1"/>
 Fuit autem consuetudo Marco ut in circensium spectaculo legeret audiretque ac subscriberet, ex quo quidem saepe iocis popularibus dicitur lacessitus.
@@ -2154,8 +2154,8 @@ desciuit probably from margin of c. xxiv. 5. </note>
 <note id="n4.170.1">In 169 at Altinum in Venetia; see Ver., ix. 10-11. </note>
 <pb n="p.172"/>
 </p>
-</div2>
-<div2 type="chapter" n="16">
+</div>
+<div type="chapter" n="16">
 <p>
 <milestone unit="section" n="1"/>
 Iam in suos tanta fuit benignitate Marcus ut cum in omnes propinquos cuncta honorum ornamenta contulerit, tum in filium et quidem
@@ -2182,8 +2182,8 @@ obstitisset. quod quidem apparet ex eo quod generum Pio hunc eundem delegit, ut 
 <note id="n4.172.3">So Peter; simulatis callidae seueritatis P. </note>
 <pb n="p.174"/>
 </p>
-</div2>
-<div2 type="chapter" n="17">
+</div>
+<div type="chapter" n="17">
 <p>
 <milestone unit="section" n="1"/>
 Ergo provincias post haec ingenti moderatione ac benignitate tractavit. contra Germanos res
@@ -2207,8 +2207,8 @@ convivia exhiberent, in munere autem publico tam magnanimus fuit ut centum leone
 simul exhiberet et sagittis interfectos.
 <note target="n4.176.2"/>
 </p>
-</div2>
-<div2 type="chapter" n="18">
+</div>
+<div type="chapter" n="18">
 <p>
 <milestone unit="section" n="1"/>
 Cum igitur in amore omnium imperasset atque ab aliis modo frater, modo pater, modo filius, ut cuiusque aetas sinebat, et diceretur et amaretur, octavo decimo anno imperii sui, sexagensimo et primo vitae,
@@ -2234,8 +2234,8 @@ nec defuerunt homines qui somniis eum multa prae-
 dixisse augurantes futura et vera concinuerunt. unde etiam templum ei constitutum, dati sacerdotes Antoniniani et sodales et flamines et omnia quae aede sacrata
 <note target="n4.178.1"/>
 decrevit antiquitas. </p>
-</div2>
-<div2 type="chapter" n="19">
+</div>
+<div type="chapter" n="19">
 <p>
 <milestone unit="section" n="1"/>
 Aiunt quidam, quod et veri simile videtur, Commodum Antoninum, successorem illius ac filium, non
@@ -2275,8 +2275,8 @@ decoloret invidia, denique Antonino, cum suos mores semper teneret neque alicuiu
 deusque etiam nunc habetur, ut vobis ipsis, sacratissime imperator Diocletiane, et semper visum est et videtur, qui eum inter numina vestra non ut ceteros sed specialiter veneramini ac saepe dicitis, vos vita et clementia tales esse cupere qualis fuit Marcus, etiamsi philosophia nec Plato esse possit, si revertatur in vitam.
 <note target="n4.180.2"/>
 et quidem haec breviter et congeste. </p>
-</div2>
-<div2 type="chapter" n="20">
+</div>
+<div type="chapter" n="20">
 <p>
 <milestone unit="section" n="1"/>
 Sed Marco Antonino haec sunt gesta post fratrem: primum corpus eius Romam devectum est
@@ -2298,8 +2298,8 @@ Verus excessisset vita. omnibus deinde sororibus et adfinibus et libertis iuris 
 Proficiscens ad bellum Germanicum filiam suam non decurso luctus tempore grandaevo equitis Romani filio Claudio Pompeiano dedit genere Antiochensi
 <milestone unit="section" n="7"/>
 nec satis nobili (quem postea bis consulem fecit), cum filia eius Augusta esset et Augustae filia, sed has nuptias et Faustina et ipsa quae dabatur invitae habuerunt. </p>
-</div2>
-<div2 type="chapter" n="21">
+</div>
+<div type="chapter" n="21">
 <p>
 <milestone unit="section" n="1"/>
 Cum Mauri Hispanias prope omnes vastarent,
@@ -2335,8 +2335,8 @@ cum tabulis magnorum artificum vendidit. Marcomannos in ipso transitu Danuvii de
 <note id="n4.184.7">These new legions were named Legio II Pia and Legio </note>
 <pb n="p.186"/>
 </p>
-</div2>
-<div2 type="chapter" n="22">
+</div>
+<div type="chapter" n="22">
 <p>
 <milestone unit="section" n="1"/>
 provincialibus reddidit. gentes omnes ab Illyrici limite usque in Galliam conspiraverant, ut Marcomanni Varistae Hermunduri et Quadi Suebi Sarmatae Lacringes et Buri hi aliique
@@ -2379,8 +2379,8 @@ compositae res et in
 Hispania, quae per Lusitaniam
 <milestone unit="section" n="12"/>
 turbatae erant, filio Commodo accersito ad limitem togam virilem dedit, quare congiarium populo divisit et eum ante tempus consulem designavit. </p>
-</div2>
-<div2 type="chapter" n="23">
+</div>
+<div type="chapter" n="23">
 <p>
 <milestone unit="section" n="1"/>
 Si quis umquam proscriptus est a praefecto
@@ -2407,8 +2407,8 @@ idem Marcus sederi in civitatibus vetuit in equis sive vehiculis, lavacra mixta 
 summovit.
 <milestone unit="section" n="9"/>
 fama fuit sane, quod sub philosophorum specie quidam rem publicam vexarent et privatos, quod ille purgavit. </p>
-</div2>
-<div2 type="chapter" n="24">
+</div>
+<div type="chapter" n="24">
 <p>
 <milestone unit="section" n="1"/>
 Erat mos iste Antonino ut omnia crimina minore supplicio quam legibus plecti solent puniret, quamvis nonnumquam contra manifestos et gravium
@@ -2436,8 +2436,8 @@ appellasse, cum divum Marcum appellasset. et Antoninus quidem non est satis motu
 Cassii nec in eius affectus saevit.
 <note target="n4.192.2"/>
 sed per senatum hostis est iudicatus bonaque eius proscripta per </p>
-</div2>
-<div2 type="chapter" n="25">
+</div>
+<div type="chapter" n="25">
 <p>
 <milestone unit="section" n="1"/>
 aerarium publicum, relicto3 ergo Sarmatico Marcomannicoque bello contra Cassium profectus est.
@@ -2477,8 +2477,8 @@ usus est apud amicos, denique noluit Antiochiam
 videre cum Syriam peteret, nam nec Cyrrhum voluit videre, ex qua erat Cassius, postea tamen Antiochiam vidit, fuit Alexandriae clementer cum his agens.
 <note target="n4.194.4"/>
 </p>
-</div2>
-<div2 type="chapter" n="26">
+</div>
+<div type="chapter" n="26">
 <p>
 <milestone unit="section" n="1"/>
 Multa egit cum regibus et pacem confirmavit, sibi occurrentibus cunctis regibus et legatis Persarum.
@@ -2522,8 +2522,8 @@ filii autem Cassii et amplius media parte acceperunt paterni patrimonii et auro 
 potestatem haberent commendati amitae marito.
 <milestone unit="section" n="13"/>
 doluit denique Cassium exstinctum, dicens voluisse se sine senatorio sanguine imperium transigere. </p>
-</div2>
-<div2 type="chapter" n="27">
+</div>
+<div type="chapter" n="27">
 <p>
 <milestone unit="section" n="1"/>
 Orientalibus rebus ordinatis Athenis fuit et initia
@@ -2566,8 +2566,8 @@ se aegre ferre filium superstitem relinquentem.
 <note target="n4.200.3"/>
 <milestone unit="section" n="12"/>
 nam iam Commodus turpem se et cruentum ostentabat. </p>
-</div2>
-<div2 type="chapter" n="28">
+</div>
+<div type="chapter" n="28">
 <p>
 <milestone unit="section" n="1"/>
 Mors autem talis fuit: cum aegrotare coepisset, filium advocavit atque ab eo primum petiit ut belli reliquias non contemneret, ne videretur rem publicam
@@ -2612,8 +2612,8 @@ quia illum unice amarunt, septimo die gravatus est et solum filium admisit, quem
 eum morbus transiret, dimisso filio caput operuit
 <milestone unit="section" n="10"/>
 quasi volens dormire, sed nocte animam efflavit. fertur filium mori voluisse, cum eum talem videret futurum qualis exstitit post eius mortem, ne, ut ipse dicebat, similis Neroni Caligulae et Domitiano esset. </p>
-</div2>
-<div2 type="chapter" n="29">
+</div>
+<div type="chapter" n="29">
 <p>
 <milestone unit="section" n="1"/>
 Crimini ei datum est quod adulteros uxoris promoverit, Tertullum et Tutilium
@@ -2648,13 +2648,13 @@ Suffragatoribus non cito credidit, sed semper diu quaesivit quod erat verum.
 Enisa est Fabia ut Faustina mortua in eius matrimonium coiret. sed ille concubinam sibi adscivit procuratoris uxoris suae filiam, ne tot liberis superduceret novercam.
 <note id="n4.204.1">fictus Novak; ei uictus P; effictus Peter with Erasmus. </note>
 </p>
-</div2>
-</div1>
-<div1 n="5" type="work">
+</div>
+</div>
+<div n="5" type="work">
 <pb n="p.206"/>
 <docAuthor>Iulius Capitolinus</docAuthor>
 <head>Verus</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Scio plerosque ita vitam Marci ac Veri litteris atque historiae dedicasse ut priorem Verum intimandum legentibus darent, non imperandi secutos
@@ -2685,8 +2685,8 @@ eadem statione constitutus periit, avi ac proavi et
 item maiores plurimi consulares, natus est Lucius Romae in praetura patris sui XVIII kal. Ianuariarum
 <milestone unit="section" n="9"/>
 die quo et Nero, qui rerum potitus est. origo eius paterna pleraque ex Etruria fuit, materna ex Faventia. </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Hac prosapia genitus patre ab Hadriano adoptato in familiam Aeliam devenit mortuoque patre Caesare
@@ -2722,8 +2722,8 @@ et nimis laetus et omnibus deliciis ludis iocis
 decenter aptissimus. post septimum annum in familiam Aureliam traductus Marci moribus et auctoritate formatus est. amavit venatus palaestras et omnia
 <milestone unit="section" n="11"/>
 exercitia iuventutis, fuitque privatus in domo imperatoria viginti et tribus annis. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Qua die togam virilem Verus accepit, Antoninus Pius ea occasione qua patris templum dedicabat
@@ -2755,8 +2755,8 @@ videtur, fidem exhibuit, non amorem, amavit tamen Antoninus Pius simplicitatem i
 vivendi hortatusque est ut imitaretur et
 <milestone unit="section" n="8"/>
 fratrem, defuncto Pio Marcus in eum omnia contulit, participatu etiam imperatoriae potestatis indulto, sibique consortem fecit, cum illi soli senatus detulisset imperium. </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Dato igitur imperio et indulta tribunicia potestate, post consulatus
@@ -2812,8 +2812,8 @@ in cubiculum perferretur. somni fuit permodici, digestionis facillimae.
 Sed Marcus haec omnia bene sciens
 <note target="n5.216.1"/>
 dissimulabat </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 pudore 2 illo ne reprehendere fratrem. et notissimum eius quidem fertur tale convivium, in quo primum duodecim accubuisse dicitur, cum sit notissimum dictum de numero convivarum
@@ -2843,8 +2843,8 @@ doluisse publicum fatum, post convivium lusum
 est tesseris usque ad lucem, et haec quidem post Parthicum bellum, ad quod eum misisse dicitur Marcus, ne vel in urbe ante oculos omnium peccaret, vel ut parsimoniam peregrinatione addisceret, vel ut timore bellico emendatior rediret, vel ut se imperatorem
 <milestone unit="section" n="9"/>
 esse cognosceret. sed quantum profecerit, cum alia vita tum haec quam narravimus cena monstravit. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Circensium tantam curam habuit ut frequenter e provincia
@@ -2871,8 +2871,8 @@ visendum frater contendit.
 multa in eius vita ignava et sordida etiam belli tempore
 <milestone unit="section" n="9"/>
 deteguntur. nam cum interfecto legato, caesis legionibus. Syris defectionem cogitantibus, oriens vastaretur, ille in Apulia venabatur et apud Corinthum et Athenas inter symphonias et cantica navigabat et per singulas maritimas civitates Asiae Pamphyliae </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Ciliciaeque clariores voluptatibus immorabatur. Antiochiam posteaquam venit, ipse quidem se luxuriae dedidit, duces autem confecerunt Parthicum bellum, Statius Priscus et Avidius Cassius et Martius Verus per quadriennium, ita ut Babylonem et Mediam pervenirent
@@ -2904,8 +2904,8 @@ confecto sane bello regna regibus, provincias
 vero comitibus suis regendas dedit. Romam inde ad triumphum invitus, quod Syriam quasi regnum suum relinqueret, rediit et pariter cum fratre triumphavit, susceptis a senatu nominibus quae in exercitu
 <milestone unit="section" n="10"/>
 acceperat, fertur praeterea ad amicae vulgaris arbitrium in Syria posuisse barbam; unde in eum a Syris multa sunt dicta. </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Fuit eius fati ut in eas provincias per quas rediit Romam usque luem secum deferre videretur.
@@ -2941,8 +2941,8 @@ adduxerat, quem Apolaustum nominavit, adduxerat secum et fidicinas et tibicines 
 <note id="n5.224.2">praesentiae nulla Novak; praesentia ulla P; in praesentia nulla Peter. </note>
 <pb n="p.226"/>
 </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Et hanc vitae diversitatem 1 atque alia multa inter Marcum et Verum simultates fecisse, non aperta veritas indicabat, sed occultus rumor inseverat.
@@ -2993,8 +2993,8 @@ urbanas desiderabat Lucius
 voluptates in urbem festinatum
 <note target="n5.228.6"/>
 est. sed non longe ab Altino subito in vehiculo morbo, quem apoplexin vocant, correptus Lucius depositus e vehiculo detracto sanguine Altinum perductus, cum triduo mutus vixisset, apud Altinum periit. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Fuit sermo quod et socrum Faustinam incestasset. et dicitur Faustinae socrus dolo aspersis ostreis veneno exstinctus esse, idcirco quod consuetudinem
@@ -3034,8 +3034,8 @@ lingua impeditior fuit, aleae cupidissimus, vitae semper luxuriosae atque in plu
 crudelitatem et ludibria, habuit inter alium luxuriae apparatum calicem crystallinum nomine Volucrem ex eius equi nomine quem dilexit, humanae potionis
 <note target="n5.230.3"/>
 modum supergressum. </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 Vixit annis quadraginta duobus, imperavit cum fratre annis undecim, inlatumque eius corpus est Hadriani sepulchro, in quo et Caesar pater eius naturalis sepultus est.
@@ -3052,15 +3052,15 @@ cogitata et facta mereantur. quod nos non in medio relinquemus sed totum purgatu
 <note id="n5.230.3">petitionis P.</note>
 <note id="n5.230.4">se ad hoc P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="6" type="work">
+</div>
+</div>
+<div n="6" type="work">
 <pb n="p.232"/>
 <docAuthor>Vulcacius Gallicanus V.C.</docAuthor>
 <head>Avidius Cassius
 <note>In P the 9th Vita, i.e. following Pertinax.</note>
 </head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Avidius Cassius, ut quidam volunt, ex familia Cassiorum fuisse dicitur, per matrem tamen; homine novo
@@ -3099,8 +3099,8 @@ vide quid agendum sit. ego hominem non odi, sed vide ne tibi et liberis tuis non
 <note target="n6.234.3"/>
 cum talem inter praecinctos habeas qualem milites libenter audiunt, libenter vident.</q>
 </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 rescriptum Marci de Avidio Cassio:
@@ -3131,8 +3131,8 @@ tantum auctoritatis quantum debent. sibi ergo habeat suos mores, maxime cum bonu
 <milestone unit="section" n="8"/>
 severus et fortis et rei publicae necessarius, nam quod dicis, liberis meis cavendum esse morte illius; plane liberi mei pereant, si magis amari merebitur Avidius quam illi, et si rei publicae expediet, Cassium vivere quam liberos Marci.</q>
 haec de Cassio Verus, haec Marcus. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Sed nos hominis naturam et mores breviter explicabimus. neque enim plura de his sciri possunt, quorum vitam et inlustrare nullus audet eorum causa
@@ -3158,8 +3158,8 @@ ederet, nec ille timuit, sed per ordinem paraeneseos
 <note target="n6.238.1"/>
 <milestone unit="section" n="8"/>
 per triduum disputavit, fuit praeterea disciplinae militaris Avidius Cassius tenax et qui se Marium dici vellet. </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Quoniam de severitate illius dicere coepimus, multa exstant crudelitatis potius quam severitatis eius
@@ -3194,8 +3194,8 @@ tunc conquiescentibus
 cunctis meruit timeri, quia ipse
 <note target="n6.240.3"/>
 non timuit, quae res tantum disciplinae Romanis addidit, tantum terroris barbaris iniecit, ut pacem annorum centum ab Antonino absente peterent; si quidem viderant damnatos Romani ducis iudicio etiam eos qui contra fas vicerant. </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 De hoc multa gravia contra militum licentiam facta inveniuntur apud Aemilium Parthenianum, qui adfectatores tyrannidis iam inde a veteribus historiae
@@ -3231,8 +3231,8 @@ militibus, ille sane omnes excaldationes, omnes
 <milestone unit="section" n="12"/>
 flores de capite collo et sinu militi excutiet. annona militaris omnis parata est, neque quicquam deest sub bono duce; non enim multum aut quaeritur aut impenditur.</q>
 </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 nec fefellit de se iudicium habitum.
@@ -3255,8 +3255,8 @@ Maximus in vita divi Marci, nam et cum
 Bucolici milites per Aegyptum gravia multa facerent, ab hoc retunsi sunt, ut item
 <note target="n6.244.2"/>
 Marius Maximus refert in eo libro quem secundum de vita Marci Antonini edidit. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Hic imperatorem se in oriente appellavit, ut
@@ -3285,8 +3285,8 @@ quidam Avidium Cassium dicerent absente Antonino, qui nisi a voluptariis unice a
 proscriptis. et amor Antonini hoc maxime enituit, quod consensu omnium praeter Antiochenses Avidius
 <milestone unit="section" n="9"/>
 interemptus est; quem quidem occidi non iussit sed passus est, cum apud cunctos clarum esset, si potestatis </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 suae fuisset, parsurum 1 illi fuisse, caput eius ad Antoninum cum delatum esset, ille non exsultauit, non elatus est, sed etiam doluit ereptam sibi esse occasionem misericordiae, cum diceret se vivum illum voluisse capere, ut illi exprobraret beneficia
@@ -3314,8 +3314,8 @@ denique non Augustum, non Traianum, non Hadrianum, non patrem suum a rebellibus 
 insciis exstincta ipse autem Antoninus a senatu petiit ne graviter in conscios defectionis animadverteretur, eo ipso tempore quo rogavit ne quis senator temporibus suis capitali supplicio adficeretur, quod illi
 <milestone unit="section" n="8"/>
 maximum amorem conciliavit. denique paucissimis centurionibus punitis deportatos revocari iussit. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Antiochensibus,3 qui 4 Avidio Cassio consenserant, et his
@@ -3365,8 +3365,8 @@ istos rebelliones acerrime persequaris. male enim assueverunt duces et milites,
 <note target="n6.252.4"/>
 qui nisi opprimuntur, oppriment.</q>
 </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 item alia epistula eiusdem Faustinae ad Marcum:
@@ -3403,8 +3403,8 @@ mihi litteras Calpurnius dedit; ad quas rescribam, si tardavero, per Caecilium s
 <milestone unit="section" n="10"/>
 spadonem, hominem, ut scis, fidelem, cui verbo mandabo, quid uxor Avidii Cassii et filii et gener de te iactare dicantur.</q>
 </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 Ex his litteris intellegitur Cassio Faustinam consciam non fuisse, quin etiam supplicium eius graviter exegisse, si quidem Antoninum quiescentem et clementiora cogitantem ad vindictae necessitatem
@@ -3431,8 +3431,8 @@ ornavit, denique si ex mea sententia de bello iudicatum
 <milestone unit="section" n="8"/>
 esset, nec Avidius esset occisus, esto igitur secura; ' di me tuentur, dis pietas mea — — cordi est'. Pompeianum nostrum in annum sequentem consulem dixi.</q>
 haec Antoninus ad coniugem. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Ad senatum autem qualem orationem miserit,
@@ -3464,8 +3464,8 @@ liberis et coniugibus dari. ego vero a vobis peto, ut conscios senatorii ordinis
 <milestone unit="section" n="10"/>
 ut in causa tyrannidis qui in tumultu cecidit probetur occisus.</q>
 </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 Hanc eius clementiam senatus his adclamationibus
@@ -3492,8 +3492,8 @@ Haec sunt quae de Cassio Avidio comperimus.
 cuius ipsius mores, ut supra diximus, varii semper fuerunt sed ad censuram crudelitatemque propensiores.
 <milestone unit="section" n="10"/>
 qui, si optinuisset imperium, fuisset non clemens et </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 bonus, 1 sed utilis et optimus imperator, nam exstat epistula eius ad generum suum iam imperatoris huiusmodi:
@@ -3531,13 +3531,13 @@ haec epistula eius indicat, quam severus et quam tristis futurus fuerit imperato
 <note id="n6.262.2">patribus P.</note>
 <note id="n6.262.3">reddant P; reddent Casaubon, Peter. </note>
 </p>
-</div2>
-</div1>
-<div1 n="7" type="work">
+</div>
+</div>
+<div n="7" type="work">
 <pb n="p.264"/>
 <docAuthor>Aelius Lampridius</docAuthor>
 <head>Commodus Antoninus</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 De Commodi Antonini parentibus in vita Marci
@@ -3566,8 +3566,8 @@ perfectum ostenderet, auspicium crudelitatis apud Centumcellas dedit anno aetati
 Appellatus est autem Caesar puer cum fratre suo Vero.
 <note target="n7.266.2"/>
 quarto decimo aetatis anno in collegium </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 sacerdotum 3 adscitus est. cooptatus est inter trossulos
@@ -3606,8 +3606,8 @@ est propolas circumforanos. equos currules sibi comparavit. aurigae habitu curru
 gessit ut lenonum minister, ut probris natum magis quam ei loco eum crederes,
 <note target="n7.268.3"/>
 ad quem fortuna provexit. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Patris ministeria seniora summovit, amicos senes
@@ -3638,8 +3638,8 @@ lupanaria volitavit. misit homines ad provincias regendas vel criminum socios ve
 in senatus odium ita venit
 <note target="n7.270.3"/>
 ut et ipse crudeliter in tanti ordinis perniciem saeviret fieretque e contempto crudelis. </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Vita Commodi Quadratum et Lucillam compulit ad eius interfectionem consilia inire, non sine prae-
@@ -3677,8 +3677,8 @@ filius specie mortis ad defectionem
 diceretur evasisse, interfecta et Vitrasia Faustina et
 <milestone unit="section" n="11"/>
 Velius Rufus et Egnatius Capito consularis, in exsilium autem acti sunt Aemilius Iuncus et Atilius Severus consules, et in multos alios varie saevitum est. </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Post haec Commodus numquam facile in publicum processit neque quicquam sibi nuntiari passus est nisi
@@ -3727,8 +3727,8 @@ Commodum heredem.
 <note id="n7.276.3">noluissent Casaubon, Baehrens; uoluissent P, Peter. </note>
 <pb n="p.278"/>
 </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Eo tempore in Sarmatia res bene gestas per
@@ -3762,8 +3762,8 @@ defendebant, pariter interemptis. praefectus etiam Aebutianus inter hos est inte
 praefectus est factus, tuncque primum tres praefecti praetorio fuere, inter quos libertinus,
 <note target="n7.280.2"/>
 qui a pugione appellatus est. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Sed et Cleandro dignus tandem vitae finis impositus, nam cum insidiis illius Arrius Antoninus fictis
@@ -3795,8 +3795,8 @@ Romani imperii sustinere non possent.
 <note id="n7.282.2">uires Ursinus; iuriis P 1; iniuriis P corr. </note>
 <pb n="p.284"/>
 </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Inter haec Commodus senatu semet inridente, 1 cum adulterum matris consulem designasset, appellatus est Pius; cum occidisset Perennem, appellatus est Felix, inter plurimas caedes multorum
@@ -3827,8 +3827,8 @@ dicitur ei inter delenimenta Marciae iniectus, voluit
 etiam in Circo quadrigas agitare, dalmaticatus in publico processit atque ita signum quadrigis emittendis
 <milestone unit="section" n="9"/>
 dedit, et eo quidem tempore quo ad senatum rettulit de Commodiana facienda Roma, non solum senatus hoc libenter accepit per inrisionem, quantum intellegitur, sed etiam se ipsum Commodianum vocavit, Commodum Herculem et deum appellans. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Simulavit se et in Africam iturum, ut sumptum itinerarium exigeret, et exegit eumque in convivia
@@ -3854,8 +3854,8 @@ de pannis et linteis quasi dracones tegerentur,
 eosdemque sagittis confecit. sacra Mithriaca homicidio vero polluit, cum illic
 <note target="n7.288.3"/>
 aliquid ad speciem timoris vel dici vel fingi soleat. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Etiam puer et gulosus et impudicus fuit. adulescens omne genus hominum infamavit quod erat
@@ -3891,8 +3891,8 @@ alios, quia nobiles et speciosi erant, habuit in deliciis homines appellatos nom
 sexus, quos libentius suis osculis
 <note target="n7.290.3"/>
 applicabat. habuit et hominem pene prominente ultra modum animalium, quem Onon appellabat, sibi carissimum, quem et ditavit et sacerdotio Herculis rustici praeposuit. </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 dicitur saepe pretiosissimis cibis humana stercora miscuisse nec abstinuisse gustum aliis, ut putabat,
@@ -3944,8 +3944,8 @@ consulibus, appellatus Germanicus idibus Hercu-
 <note id="n7.292.3">semper P, Lenze; saepe Casaubon, Peter. </note>
 <pb n="p.294"/>
 </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 leis Maximo et Orfito consulibus, adsumptus est in omnia collegia sacerdotalia sacerdos XIII kal. Invictas
@@ -3975,8 +3975,8 @@ quinquies.
 item postea tantum palmarum gladiatoriarum confecisse vel victis retiariis vel occisis, ut
 <milestone unit="section" n="12"/>
 mille contingeret. ferarum autem diversarum manu sua occidit, ita ut elephantos occideret, multa milia. et haec fecit spectante saepe populo Romano. </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 Fuit autem validus ad haec, alias debilis et infirmus, vitio etiam inter inguina prominenti, ita ut
@@ -4002,8 +4002,8 @@ eius recusantibus provincialibus, quae omnia
 ista per duces sedata sunt. ipse Commodus in subscribendo tardus et neglegens, ita ut libellis una forma multis subscriberet, in epistulis autem plurimis
 <milestone unit="section" n="8"/>
 ' Vale ' tantum scriberet, agebanturque omnia per alios, qui etiam condemnationes in sinum vertisse </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 dicuntur, per hanc autem neglegentiam, cum et annonam vastarent ii qui tunc rem publicam gerebant,
@@ -4027,8 +4027,8 @@ alios pro aliis occidit, vendidit etiam provincias et administrationes, cum ii p
 acciperent, partem vero Commodus. vendidit nonnullis et inimicorum suorum caedes, vendiderunt
 <milestone unit="section" n="8"/>
 sub eo etiam eventus litium liberti. praefectos Paternum et Perennem non diu tulit, ita tamen ut etiam de iis praefectis quos ipse fecerat triennium nullus impleret, quorum plurimos interfecit vel veneno vel gladio, et praefectos urbi eadem facilitate mutavit. </p>
-</div2>
-<div2 type="chapter" n="15">
+</div>
+<div type="chapter" n="15">
 <p>
 <milestone unit="section" n="1"/>
 cubicularios suos libenter occidit, cum omnia ex nutu
@@ -4054,8 +4054,8 @@ praesente gladiator pugnavit, sane cum illi saepe pugnanti ut deo populus faviss
 urbem incendi iusserat, utpote coloniam suam. quod factum esset, nisi Laetus praefectus
 <milestone unit="section" n="8"/>
 praetorii Commodum deterruisset. appellatus est sane inter cetera triumphalia nomina etiam sescenties vicies Palus Primus Secutorum. </p>
-</div2>
-<div2 type="chapter" n="16">
+</div>
+<div type="chapter" n="16">
 <p>
 <milestone unit="section" n="1"/>
 Prodigia eius imperio et publice et privatim
@@ -4079,8 +4079,8 @@ Congiarium dedit populo singulis denarios septingenos vicenos quinos, circa alio
 <pb n="p.304"/>
 <milestone unit="section" n="9"/>
 circenses multos addidit ex libidine potius quam religione et ut dominos factionum ditaret. </p>
-</div2>
-<div2 type="chapter" n="17">
+</div>
+<div type="chapter" n="17">
 <p>
 <milestone unit="section" n="1"/>
 His incitati, licet nimis sero, Quintus Aemilius Laetus praefectus et Marcia concubina eius
@@ -4115,8 +4115,8 @@ non praetermitteret. hunc tamen Severus, imperator gravis et vir nominis sui, od
 videtur, senatus inter deos rettulit, flamine addito, quem ipse vivus sibi paraverat, Herculaneo Commodiano.
 <milestone unit="section" n="12"/>
 Sorores tres superstites reliquit, ut natalis eius celebraretur. Severus instituit. </p>
-</div2>
-<div2 type="chapter" n="18">
+</div>
+<div type="chapter" n="18">
 <p>
 <milestone unit="section" n="1"/>
 Adclamationes senatus post mortem Commodi
@@ -4164,8 +4164,8 @@ leonem, te imperante delatoribus fustem.
 <pb n="p.310"/>
 </q>
 </p>
-</div2>
-<div2 type="chapter" n="19">
+</div>
+<div type="chapter" n="19">
 <p>
 <q>
 <milestone unit="section" n="1"/>
@@ -4191,8 +4191,8 @@ imperante! de parricida refer, refer, perroga.
 <milestone unit="section" n="9"/>
 praesentiam tuam rogamus, innocentes sepulti non sunt. parricidae cadaver trahatur, parricida sepultos eruit; parricidae cadaver trahatur.</q>
 </p>
-</div2>
-<div2 type="chapter" n="20">
+</div>
+<div type="chapter" n="20">
 <p>
 <milestone unit="section" n="1"/>
 Et cum iussu Pertinacis Livius Laurensis, procurator patrimonii, Fabio Ciloni consuli designato dedisset, per noctem Commodi cadaver sepultum est.
@@ -4217,13 +4217,13 @@ quae undique sunt abolendae, nomenque ex omnibus privatis publicisque monumentis
 <note id="n7.312.3">laeta Peter 1; laetam P; laeta iam Baehrens, Peter 2. </note>
 <note id="n7.312.4">quae P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="8" type="work">
+</div>
+</div>
+<div n="8" type="work">
 <pb n="p.314"/>
 <docAuthor>Iulius Capitolinus</docAuthor>
 <head>Helvius Pertinax</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Publio Helvio Pertinaci pater libertinus Helvius Successus fuit, qui filio nomen ex continuatione lignariae negotiationis, quod pertinaciter eam rem
@@ -4245,8 +4245,8 @@ ducendi ordinis dignitatem petiit, dein prae-
 <note id="n8.314.2">stirpem P; stipem Peter. </note>
 <pb n="p.316"/>
 fectus cohortis in Syriam profectus Tito Aurelio imperatore, a praeside Syriae, quod sine diplomatibus cursum usurpaverat, pedibus ab Antiochia ad legartionem </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 suam iter facere coactus est. bello Parthico industria sua promeritus in Britanniam translatus est
@@ -4280,8 +4280,8 @@ praefectus
 praetorii fieri a se non posset. Cassiano motu composito e Syria ad Danuvii tutelam profectus est atque
 <milestone unit="section" n="11"/>
 inde Moesiae utriusque, mox Daciae regimen accepit, bene gestis his provinciis Syriam meruit. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Integre se usque ad Syriae regimen Pertinax tenuit, post excessum vero Marci pecuniae studuit;
@@ -4314,8 +4314,8 @@ verum ingens periculum adiit seditione legionis paene occisus,
 certe inter occisos relictus, quam quidem rem idem
 <milestone unit="section" n="10"/>
 Pertinax acerrime vindicavit, denique postea veniam legationis petiit, dicens sibi ob defensam disciplinam </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 infestas esse legiones, accepto successore alimentorum ei cura mandata est. dein pro consule Africae
@@ -4368,8 +4368,8 @@ videbat, statim ergo omnes magistratus cum consule ad curiam venerunt ingressumq
 <note id="n8.322.5">commodo P. </note>
 <pb n="p.324"/>
 </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 imperatorem appellaverunt. ipse autem Pertinax post laudes suas a consulibus dictas et post vituperationem Commodi adclamationibus senatus ostensam egit gratias senatui et praecipue Laeto, praefecto praetorii, quo auctore et Commodus interemptus et ipse imperator est factus.
@@ -4407,8 +4407,8 @@ exprobrans utique segnitiem temporum superiorum, quod quidem etiam ante in omnib
 <note id="n8.324.4">omnis P 1. </note>
 <pb n="p.326"/>
 </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 dederat, exprobrationem autem istam milites non tulerunt statimque de imperatore mutando cogitarunt.
@@ -4443,8 +4443,8 @@ et cum Commodus adlectionibus innumeris praetorias miscuisset, senatus consultum
 eos, qui praeturas non gessissent sed adlectione accepissent, post eos esse qui vere praetores fuissent.
 <milestone unit="section" n="11"/>
 sed hinc quoque grande odium sibi multorum commovit. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 census retractari iussit, delatores convictos 1 graviter puniri iussit et tamen mollius quam priores imperatores, unicuique dignitati, si delationis crimen
@@ -4484,8 +4484,8 @@ senatorium dignitatem pervenerunt, scurras turpissimorum nominum dedecora praefe
 proscripsit
 <milestone unit="section" n="11"/>
 ac vendidit. cuius nundinationis pecuniam, quae </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 ingens fuit, militibus donativo dedit, a libertis etiam ea exegit quibus Commodo vendente ditati fuerant.
@@ -4526,8 +4526,8 @@ sumptus etiam omnes Commodi recidit.
 exemplo autem imperatoris, cum ille parcius se ageret, ex
 <milestone unit="section" n="11"/>
 omnium continentia vilitas nata est. nam imperatorium sumptum pulsis non necessariis ad soliti dimidium </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 detraxit. praemia militantibus posuit. aes alienum, quod primo imperii tempore contraxerat,
@@ -4564,8 +4564,8 @@ Commodus ademerat, sed non sine pretio, senatui legitimo semper interfuit ac sem
 eos qui calumniis adpetiti per servos fuerant damnatis severius
 <note target="n8.334.1"/>
 delatoribus liberavit, in crucem sublatis talibus servis; aliquos etiam mortuos vindicavit. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Insidias paravit ei Falco consul, qui 2 questus est
@@ -4611,8 +4611,8 @@ Sed Pertinaci factio praeparata est per Laetum praefectum praetorii et eos quos 
 offenderat. Laetum enim paenituerat quod imperatorem fecerat Pertinacem, idcirco quia eum velut stultum intimatorem nonnullarum rerum
 <milestone unit="section" n="10"/>
 reprehendebat. grave praeterea militibus visum, quod in causa Falconis multos milites ad unius servi </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 testimonium occidi praeceperat. trecenti igitur de castris armati ad imperatorias aedes
@@ -4653,8 +4653,8 @@ quidem confossis duobus cum eodem periit;
 reliqui autem cubicularii palatini (nam suos statim, ut imperator iactus est, filiis emancipatis dederat) diffugerunt,
 <milestone unit="section" n="13"/>
 multi sane dicunt, etiam cubiculum milites inrupisse atque illic circa lectum fugientem Pertinacem occidisse. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Fuit autem senex venerabilis, inmissa barba, reflexo capillo, habitudine corporis pinguiore, ventre prominulo, statura imperatoria, eloquentia mediocri, et magis blandus quam benignus nec umquam creditus
@@ -4686,8 +4686,8 @@ fabulas litteratas
 haberet.
 <milestone unit="section" n="8"/>
 Sane nullum ex iis quos Commodus rebus gerendis imposuerat mutavit, exspectans urbis natalem, quod eum diem rerum principium volebat esse, atque ideo etiam in balneis ei Commodiani ministri necem parasse </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 dicuntur, imperium et omnia imperialia sic horruit, ut sibi semper ostenderet displicere, denique non
@@ -4717,8 +4717,8 @@ uxorem, Flavii Sulpiciani filiam, quem praefectum urbi loco
 suo fecerat, circa uxoris pudicitiam minus curiosus fuit, cum palam citharoedum illa diligeret, ipse praeterea
 <milestone unit="section" n="9"/>
 Cornificiam infamissime dicitur dilexisse. libertos aulicos vehementissime compressit, unde grande quoque odium contraxit. </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 Signa interitus haec fuerunt: ipse ante triduum quam occideretur in piscina sibi visus est videre
@@ -4750,8 +4750,8 @@ reliquiae eius recuperato capite in sepulchro
 avi uxoris locatae sunt. et Iulianus, successor illius, corpus eius quanto potuit honore funeratus est,
 <milestone unit="section" n="10"/>
 cum id in Palatio repperisset. qui numquam eius ullam mentionem vel apud populum vel apud senatum publice fecit, sed cum ipse quoque a militibus desertus iam esset, per senatum et populum Pertinax </p>
-</div2>
-<div2 type="chapter" n="15">
+</div>
+<div type="chapter" n="15">
 <p>
 <milestone unit="section" n="1"/>
 in deos relatos est. sub Severo autem imperatore cum senatus ingens testimonium habuisset Pertinax,
@@ -4784,13 +4784,13 @@ ob nimiam longitudinem nolui.
 <note id="n8.346.2">Bibulo P. </note>
 <note id="n8.346.3">inserere Puteanus; inseri P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="9" type="work">
+</div>
+</div>
+<div n="9" type="work">
 <pb n="p.348"/>
 <docAuthor>Aelius Spartianus</docAuthor>
 <head>Didius Iulianus</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Didio Iuliano, qui post Pertinacem imperium adeptus est, proavus fuit Salvius
@@ -4814,8 +4814,8 @@ Germania vicensimae secundae Primigeniae. inde Belgicam sancte ac diu rexit, ibi
 restitit tumultuariis auxiliis provincialium, ob quae consulatum meruit testimonio imperatoris. Chattos
 <milestone unit="section" n="9"/>
 etiam debellavit, inde Dalmatiam regendam accepit eamque a confinibus hostibus vindicavit, post Germaniam </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 inferiorem rexit, post hoc curam alimentorum in Italiam meruit, tunc factus est reus per quendam Severum Clarissimum militem coniurationis cum Salvio contra Commodum, sed a Commodo, quia multos iam senatores occiderat et quidem nobiles ac potentes in causis maiestatis, ne tristius gravaretur,
@@ -4849,8 +4849,8 @@ Sulpiciano praefecto urbi, socero Pertinacis, contionante sibique imperium vindi
 restituturum. atque ita est admissus et
 <note target="n9.352.5"/>
 imperator appellatus, rogantibus praetorianis ne Sulpiciano aliquid noceret, quod imperator esse voluisset. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Tunc Iulianus Flavium Genialem et Tullium Crispinum suffragio praetorianorum praefectos praetorii fecit stipatusque est caterva imperatoria per Maurentium,
@@ -4888,8 +4888,8 @@ ut per triduum porcellum, per triduum leporem divideret, si quis ei
 forte misisset, saepe autem nulla exsistente religione holeribus leguminibusque
 <milestone unit="section" n="10"/>
 contentus sine carne cenaverit. deinde neque cenavit priusquam sepultus esset Pertinax, et tristissimus cibum ob eius necem sumpsit et primam noctem vigiliis continuavit, de tanta necessitate sollicitus. </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Ubi vero primum inluxit, senatum et equestrem ordinem in Palatium venientem admisit atque unumquemque, ut erat aetas, vel fratrem
@@ -4926,8 +4926,8 @@ populi restituit, de ipso Pertinace neque male neque bene quicquam egit, quod gr
 est. constitit autem propter metum militum de honore Pertinacis tacitum esse.
 <note target="n9.358.2"/>
 </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Et Iulianus quidem neque Britannicos exercitus neque Illyricos timebat, Nigrum vero misso primipilario occidi praeceperat, timens praecipue Syriacos
@@ -4959,8 +4959,8 @@ missus est successor Severo Valerius Catullinus, quasi posset ei succedi, qui mi
 tenebat, missus praeterea Aquilius centurio, notus
 <milestone unit="section" n="9"/>
 caedibus senatoriis, qui Severum occideret. ipse autem Iulianus praetorianos in campum deduci iubet, muniri turres, sed milites desides et urbana luxuria dissolutos invitissimos ad exercitium militare produxit, ita ut vicarios operis, quod unicuique praescribebatur, mercede conducerent. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Et Severus quidem ad urbem infesto agmine veniebat, sed Didius Iulianus nihil cum exercitu praetoriano proficiebat, quem cotidie populus et magis
@@ -4988,8 +4988,8 @@ eum qui armis adversario non posset resistere, cui multi senatores consenserunt,
 cogerent aut obtruncarent. sed id consilium displicuit, neque enim decebat, ut, cum senatus hostem Severum Iuliani causa iudicasset, eundem Iulianum
 <milestone unit="section" n="9"/>
 pateretur infestum. quare meliore consilio ad senatum venit petiitque, ut fieret senatus consultum de participatione imperii, quod statim factum est. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Tunc omen quod sibi Iulianus, cum imperium
@@ -5037,8 +5037,8 @@ Iulianus fecit, tuncque puer vidisse dicitur et adventum Severi et Iuliani deces
 <note id="n9.364.5">ducunt P. </note>
 <pb n="p.366"/>
 </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Et Crispinus quidem, cum occurrisset praecursoribus Severi, Iulio Laeto auctore a Severo interemptus
@@ -5065,8 +5065,8 @@ Caesaris implorans, hoc est Severi. filiam suam potitus imperio dato patrimonio 
 quod ei cum Augustae nomine statim sublatum est.
 <milestone unit="section" n="10"/>
 corpus eius a Severo uxori Manliae Scantillae ac filiae ad sepulturam est redditum et in proavi monumenta translatum miliario quinto Via Labicana. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Obiecta sane sunt Iuliano haec: quod gulosus fuisset, quod aleator, quod armis gladiatoriis exercitus esset, eaque omnia senex fecerit, cum antea numquam adulescens his esset vitiis infamatus. obiecta est etiam superbia, cum ille etiam in imperio
@@ -5074,13 +5074,13 @@ Obiecta sane sunt Iuliano haec: quod gulosus fuisset, quod aleator, quod armis g
 fuisset humillimus, fuit autem contra humanissimus ad convivia, benignissimus ad subcriptiones, moderatissimus ad libertatem.
 <milestone unit="section" n="3"/>
 Vixit annis quinquaginta sex mensibus quattuor, imperavit mensibus duobus diebus quinque, reprehensum in eo praecipue, quod eos, quos regere auctoritate sua debuerat, regendae rei publicae sibi praesules ipse fecisset. </p>
-</div2>
-</div1>
-<div1 n="10" type="work">
+</div>
+</div>
+<div n="10" type="work">
 <pb n="p.370"/>
 <docAuthor>Aelius Spartianus</docAuthor>
 <head>Severus</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Interfecto Didio Iuliano Severus Africa oriundus
@@ -5119,8 +5119,8 @@ Remum inhaerere vel Romulum, sedit et in sella imperatoria temere a ministro pos
 non liceret, dormienti etiam in stabulo serpens caput cinxit et sine noxa expergefactis et adclamantibus familiaribus, abiit.
 <note target="n10.372.1"/>
 </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Iuventam plenam furorum, nonnumquam et criminum
@@ -5152,8 +5152,8 @@ qui ante pedibus ambulabant. tunc in quadam civitate Africana, cum sollicitus ma
 <q>Tuam non alienam pone genituram.</q>
 <milestone unit="section" n="9"/>
 cumque Severus iurasset suam esse, omnia ei dixit quae postea facta sunt. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Tribunatum plebis Marco imperatore decernente promeruit eumque severissime exsertissimeque
@@ -5179,8 +5179,8 @@ circa Massiliam. post hoc Athenas petiit studiorum sacrorumque causa et operum a
 imperator se ultus est. dein Lugdunensem provinciam
 <milestone unit="section" n="9"/>
 legatus accepit, cum amissa uxore aliam vellet ducere, genituras sponsarum requirebat, ipse quoque matheseos peritissimus, et cum audisset esse in Syria quandam quae id geniturae haberet ut regi iungeretur, eandem uxorem petiit, Iuliam scilicet, et accepit interventu amicorum, ex qua statim pater factus </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 est. a Gallis ob severitatem et honorificentiam et abstinentiam tantum quantum nemo dilectus est.
@@ -5213,8 +5213,8 @@ iam ante cumularet.
 <note id="n10.378.4">nobilitatem P. </note>
 <pb n="p.380"/>
 </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Et hactenus rem militarem privatus egit. dehinc a Germanicis legionibus, ubi auditum est Commodum occisum, Iulianum autem cum odio cunctorum imperare, multis hortantibus repugnans imperator est
@@ -5254,8 +5254,8 @@ susceperat auctoribus Syriacis exercitibus, verum Severus evitatis eorum manibus
 statimque auditus est. nam et Iulianus occisus est
 <milestone unit="section" n="11"/>
 in Palatio, et Severus Romam invitatus, ita, quod nulli umquam contigit, nutu tantum Severus victor est factus armatusque Romam contendit. </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Occiso Iuliano cum Severus in castris et tentoriis quasi per hosticum veniens adhuc maneret, centum senatores legatos ad eum senatus misit ad gratulandum
@@ -5289,8 +5289,8 @@ quibus recte iudicabat,
 Heraclitum ad obtinendas Britannias, Plautianum ad occupandos
 <milestone unit="section" n="11"/>
 Nigri liberos misit, cum Romam Severus venisset, praetorianos cum subarmalibus inermes sibi iussit occurrere, eosdem sic ad tribunal vocavit armatis undique circumdatis. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Ingressus deinde Romam armatus cum armatis militibus Capitolium ascendit, inde in
@@ -5322,8 +5322,8 @@ Helvianis, qui Marciani fuerant, se quoque
 Pertinacem vocari iussit, quamvis postea id nomen aboleri voluerit quasi
 <note target="n10.388.1"/>
 omen. </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Amicorum dehinc aes alienum2 dissolvit, filias suas dotatas maritis Probo et Aetio dedit, et cum Probo genero suo praefecturam urbi obtulisset, ille recusavit dixitque minus sibi videri praefectum
@@ -5368,8 +5368,8 @@ vocaret, contemptus est. promisit sane Nigro tutum exsilium, si vellet, Aemilian
 Aemilianus dehinc victus in Hellesponto a Severi ducibus Cyzicum primum confugit atque inde in aliam civitatem, in qua eorum iussu occisus est.
 <milestone unit="section" n="17"/>
 fusae sunt item copiae ab iisdem ducibus etiam Nigri. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 his auditis ad senatum Severus quasi confectis rebus litteras misit, dein conflixit eum Nigro eumque apud Cyzicum interemit caputque eius pilo circumtulit.
@@ -5401,8 +5401,8 @@ Deinde circa Arabiam plura gessit, Parthis etiam in dicionem redactis nec non et
 quidem omnes cum Pescennio senserant, atque ob hoc reversus triumpho delato appellatus est Arabicus
 <milestone unit="section" n="11"/>
 Adiabenicus Parthicus. sed triumphum respuit, ne videretur de civili triumphare victoria, excusavit et Parthicum nomen, ne Parthos lacesseret. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Redeunti sane Romam post bellum civile Nigri
@@ -5432,8 +5432,8 @@ vero nec in potestatem venturum neque evasurum sed
 iuxta aquam esse periturum.
 <note target="n10.396.1"/>
 multi statim amici Albini deserentes venere, multi duces capti sunt, in </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 quos Severus animadvertit, multis interim varie gestis in Gallia primo apud Tinurtium contra Albinum
@@ -5461,8 +5461,8 @@ Reliquum autem cadaver eius ante domum propriam
 exponi ac diu videri iussit, equum praeterea ipse residens supra cadaver Albini egit expavescentemque admonuit et effrenatum ut audacter protereret.
 <milestone unit="section" n="9"/>
 addunt alii quod idem cadaver in Rhodanum abici praecepit, simul etiam uxoris liberorumque eius. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Interfectis innumeris Albini partium viris, inter quos multi principes civitatis, multae feminae inlustres fuerunt, omnium bona publicata sunt aerariumque auxerunt; tum et Hispanorum et Gallorum proceres
@@ -5486,8 +5486,8 @@ Romam et populo et senatoribus venit. Commodum in senatu et contione laudavit, d
 <pb n="p.400"/>
 <milestone unit="section" n="9"/>
 tissime furere, post hoc de sua clementia disseruit, cum crudelissimus fuerit et senatores infra scriptos </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 occiderit, occidit autem sine causae dictione hos nobiles: Mummium Secundinum, Asellium Claudianum,
@@ -5513,8 +5513,8 @@ Arabianum, Marcium
 Asellionem. horum igitur tantorum ac tam inlustrium virorum, nam multi in his consulares, multi praetorii, omnes certe summi viri
 <milestone unit="section" n="9"/>
 fuere, interfector ab Afris ut deus habetur. Cincium Severum calumniatus est quod se veneno adpetisset, </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 atque ita interfecit. Narcissum dein, Commodi strangulatorem, leonibus obiecit, multos praeterea
@@ -5556,8 +5556,8 @@ gladiatorio munere et congiario populo dato. multos inter haec causis vel veris 
 damnabantur autem plerique, cur iocati essent, alii, cur tacuissent, alii, cur pleraque figurata dixissent, ut
 <q>ecce imperator vere nominis sui, vere Pertinax, vere Severus .</q>
 </p>
-</div2>
-<div2 type="chapter" n="15">
+</div>
+<div type="chapter" n="15">
 <p>
 <milestone unit="section" n="1"/>
 Erat sane in sermone vulgari Parthicum bellum adfectare Septimium Severum, gloriae cupiditate
@@ -5576,8 +5576,8 @@ interemit, praecipue suspectans unumquemque idoneum imperio, cum ipse parvulos a
 qui sibi augurabantur imperium, denique cum occisi essent nonnulli. Severus se excusabat et post eorum mortem negabat fieri iussisse quod factum est. quod
 <milestone unit="section" n="7"/>
 de Laeto praecipue Marius Maximus dicit, cum soror sua Leptitana ad eum venisset vix Latine loquens, ac de illa multum imperator erubesceret, dato filio eius lato clavo atque ipsi multis muneribus redire mulierem in patriam praecepit, et quidem cum filio, qui brevi vita defunctus est. </p>
-</div2>
-<div2 type="chapter" n="16">
+</div>
+<div type="chapter" n="16">
 <p>
 <milestone unit="section" n="1"/>
 Aestate igitur iam exeunte Parthiam ingressus Ctesiphontem pulso rege pervenit et cepit hiemali prope tempore, quod in illis regionibus melius per hiemem bella tractantur, cum herbarum
@@ -5607,8 +5607,8 @@ non posset, filio sane concessit, ut triumpharet; cui senatus Iudaicum triumphum
 Dein cum Antiochiam transisset, data virili toga filio maiori secum eum consulem designavit, et statim
 <milestone unit="section" n="9"/>
 in Syria consulatum inierunt, post hoc dato stipendio </p>
-</div2>
-<div2 type="chapter" n="17">
+</div>
+<div type="chapter" n="17">
 <p>
 <milestone unit="section" n="1"/>
 cumulatiore militibus Alexandriam petiit, in itinere Palaestinis plurima iura fundavit. Iudaeos fieri sub gravi poena vetuit, idem etiam de Christianis sanxit.
@@ -5643,8 +5643,8 @@ emollitus
 tam prudente dicto interfici eum iussit.
 <milestone unit="section" n="8"/>
 fuit praeterea delendarum cupidus factionum. prope </p>
-</div2>
-<div2 type="chapter" n="18">
+</div>
+<div type="chapter" n="18">
 <p>
 <milestone unit="section" n="1"/>
 a nullo congressu digressus nisi victor. Persarum regem Abgarum subegit. Arabas in dicionem accepit.
@@ -5681,8 +5681,8 @@ huius dictum est, cum eum ex humili per litterarum et militiae officia ad imperi
 inquit,
 <q>fui et nihil expedit.</q>
 </p>
-</div2>
-<div2 type="chapter" n="19">
+</div>
+<div type="chapter" n="19">
 <p>
 <milestone unit="section" n="1"/>
 Periit Eboraci in Britannia, subactis gentibus quae Britanniae videbantur infestae, anno imperii
@@ -5716,8 +5716,8 @@ umeros velaret. cibi parcissimus, leguminis patrii avidus, vini aliquando cupidu
 ignarus, ipse decorus, ingens, promissa barba, cano capite et crispo, vultu reverend us, canorus voce, sed
 <milestone unit="section" n="10"/>
 Atrum quiddam usque ad senectutem sonans, ac multum post mortem amatus vel invidia deposita vel crudelitatis metu. </p>
-</div2>
-<div2 type="chapter" n="20">
+</div>
+<div type="chapter" n="20">
 <p>
 <milestone unit="section" n="1"/>
 Legisse me apud Aelium 3 Maurum Phlegontis Hadriani libertum memini Septimium Severum inmoderatissime, cum moreretur, laetatum, quod duos Antoninos pari imperio rei publicae relinqueret, exemplo Pii, qui Verum et Marcum Antoninos per
@@ -5738,8 +5738,8 @@ Salmasius. </note>
 magnorum virorum optimum et utilem filium reliquisse
 <milestone unit="section" n="5"/>
 satis daret, denique aut sine liberis veris interierunt aut tales habuerunt plerique, ut melius fuerit de </p>
-</div2>
-<div2 type="chapter" n="21">
+</div>
+<div type="chapter" n="21">
 <p>
 <milestone unit="section" n="1"/>
 rebus humanis sine posteritate discedere. et ut ordiamur a Romulo, hic nihil liberorum reliquit, nihil Numa Pompilius, quod utile posset esse rei publicae, quid Camillus? num sui similes liberos habuit? quid Scipio? quid Catones qui magni
@@ -5777,8 +5777,8 @@ et hominem
 tantum valitudine. vixit denique in odio populi diu Antoninus, nomenque illud sanctum diu minus amatum est, quamvis et vestimenta populo dederit, unde Caracallus est dictus, et thermas magnificentissimas
 <milestone unit="section" n="12"/>
 fecerit, exstat sane Romae Severi porticus gesta eius exprimens a filio, quantum plurimi docent, structa. </p>
-</div2>
-<div2 type="chapter" n="22">
+</div>
+<div type="chapter" n="22">
 <p>
 <milestone unit="section" n="1"/>
 Signa mortis eius haec fuerunt: ipse somniavit quattuor aquilis et gemmato curru praevolante nescio qua ingenti humana specie ad caelum esse raptum; cumque raperetur, octoginta et novem numeros explicuisse, ultra quot annos ne unum quidem annum
@@ -5811,8 +5811,8 @@ et in civitatem veniens eum rem divinam vellet facere, primum ad Bellonae templu
 <pb n="p.426"/>
 <milestone unit="section" n="7"/>
 hostiae furvae sunt adplicitae. quod cum esset aspernatus atque ad Palatium se reciperet, neglegentia ministrorum nigrae hostiae et usque ad limen domus Palatinae imperatorem secutae sunt. </p>
-</div2>
-<div2 type="chapter" n="23">
+</div>
+<div type="chapter" n="23">
 <p>
 <milestone unit="section" n="1"/>
 Sunt per plurimas civitates opera eius insignia, magnum vero illud in vita eius, quod Romae omnes aedes publicas, quae vitio temporum labebantur, instauravit nusquam prope suo nomine adscripto,
@@ -5838,8 +5838,8 @@ simulacrum utrique relinqueret filiorum; sed cum videret se perurgueri sub hora 
 ut alternis diebus apud filios imperatores in cubiculis
 <milestone unit="section" n="7"/>
 Fortuna poneretur, quod Bassianus prius contempsit quam faceret parricidium. </p>
-</div2>
-<div2 type="chapter" n="24">
+</div>
+<div type="chapter" n="24">
 <p>
 <milestone unit="section" n="1"/>
 Corpus eius a Britannia Romam usque cum
@@ -5858,13 +5858,13 @@ quod etiam post Alexander cum vellet facere, ab haruspicibus dicitur esse prohib
 <note id="n10.428.1">septizodium P, Peter 2.</note>
 <note id="n10.428.2">absente opere P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="11" type="work">
+</div>
+</div>
+<div n="11" type="work">
 <pb n="p.430"/>
 <docAuthor>Aelius Spartianus</docAuthor>
 <head>Pescennius Niger</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Rarum atque difficile est ut, quos tyrannos aliorum victoria fecerit, bene mittantur in litteras, atque ideo vix omnia de his plene in monumentis atque annalibus
@@ -5885,8 +5885,8 @@ libidinis effrenatae ad omne genus cupiditatum. or-
 <note id="n11.430.3">Litteris Peter from Σ; om. in P. </note>
 <pb n="p.432"/>
 dines diu duxit multisque ducatibus pervenit, ut exercitus Syriacos iussu Commodi regeret, suffragio maxime athletae qui Commodum strangulavit, ut omnia tunc fiebant. </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Is postquam comperit occisum Commodum, Iulianum imperatorem appellatum eundemque iussu Severi et senatus occisum, Albinum etiam in Gallia sumpsisse nomen et ius imperatoris, ab exercitibus Syriacis, quos regebat, appellatus est imperator, ut quidam dicunt, magis in Iuliani odium quam in aemulationem
@@ -5908,8 +5908,8 @@ posset occidi, eadem autem dementia etiam Severo
 iam principi Iulianus successorem miserat, denique etiam Aquilium centurionem notum caedibus ducum miserat, quasi imperator tantus a centurione posset
 <milestone unit="section" n="7"/>
 occidi, par denique insania fuit, quod cum Severo ex interdicto de imperio egisse fertur, ut iure videretur principatum praevenisse. </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 Et de Pescennio Nigro iudicium populi ex eo apparuit, quod, cum ludos circenses Iulianus Romae daret, et indiscrete subsellia Circi Maximi repleta essent, ingentique iniuria populi adfectus esset, per omnes uno consensu Pescennius Niger ad tutelam urbis est expetitus, odio, ut diximus, Iuliani et amore
@@ -5951,8 +5951,8 @@ paternae disciplinae viveret, fierent? emenda igitur primum tribunos, deinde mil
 <milestone unit="section" n="12"/>
 sed scias idque de Nigro, militem timere non posse, nisi integri fuerint tribuni et duces militum.</q>
 </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 haec de Pescennio Severus Augustus. De hoc
@@ -5989,8 +5989,8 @@ A Commodo denique Pescennius consul declaratus Severo praepositus est, et quidem
 in vita sua Severus dicit se, priusquam filii sui id aetatis haberent ut imperare possent, aegrotantem id in animo habuisse, ut, si quid forte sibi accidisset, Niger Pescennius eodem et Clodius Albinus succederent, qui ambo Severo gravissimi hostes exstiterunt.
 <milestone unit="section" n="8"/>
 unde apparet, quod etiam Severi de Pescennio iudicium </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 fuerit, si Severo credimus, fuit gloriae cupidus Niger, vita fictus, moribus turpis, aetatis provectae, eum in imperium invasit, ex quo cupiditates eius
@@ -6015,8 +6015,8 @@ est. et cum illi tutum exsilium promitteret, si ab armis recederet, persistens i
 <note id="n11.440.2">uidebatur Peter; et uidebatur P. </note>
 <pb n="p.442"/>
 </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 mortuus, huius caput circumlatum pilo Romam missum, filii occisi, necata uxor, patrimonium publicatum,
@@ -6043,8 +6043,8 @@ Isidis ferentem; quibus Commodus adeo deditus fuit, ut et caput raderet et Anubi
 <pb n="p.444"/>
 <milestone unit="section" n="10"/>
 Fuit ergo miles optimus, tribunus singularis, dux praecipuus, legatus severissimus, consul insignis, vir domi forisque conspicuus, imperator infelix; usui denique rei publicae sub Severo, homine tetrico, esse </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 potuisset, si cum eo esse voluisset, sed deceptus est consiliis scaevis
@@ -6076,8 +6076,8 @@ inquit,
 idem Palaestinis rogantibus ut eorum censitio levaretur idcirco quod esset gravata respondit:
 <q>Vos terras vestras levari censitione vultis; ego vero etiam aerem vestrum censere vellem.</q>
 </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Denique Delphici Apollinis vates in motu rei publicae maximo, cum nuntiaretur tres esse imperatores, Severum Septimium, Pescennium Nigrum, Clodium Albinum, consultus quem expediret rei publicae imperare, versum Graecum huiusmodi fudisse dicitur:
@@ -6098,8 +6098,8 @@ quod omnino intellectum non est nisi cum Bassianus Antonini, quod verum signum P
 item cum quaereretur quamdiu imperaturus esset, respondisse Graece dicitur:
 <q> Bis denis Italum conscendit navibus aequor, si tamen una ratis transiliet pelagus.</q>
 ex quo intellectum Severum viginti annos expleturum. </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 Haec sunt, Diocletiane maxime Augustorum, quae de Pescennio didicimus ex pluribus libris, non enim facile, ut in principio libri diximus, quisquam
@@ -6116,8 +6116,8 @@ satis clara exstant, quia eadem fortuna illius fuit quae Pescennii, etiamsi vita
 Ac ne quid ex iis quae ad Pescennium pertinent praeterisse videamur, licet aliis libris cognosci possint, de hoc Septimio Severo vates dixerunt quod neque vivus neque mortuus in potestatem Severi venturus
 <milestone unit="section" n="6"/>
 esset, sed iuxta aquas illi pereundum esset, quod quidam dicunt ipsum Severum de mathesi, qua callebat, dixisse, nec abfuit responsis veritas, cum ille inventus sit iuxta paludem semivivus. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 Hic tantae fuit severitatis, ut, cum milites quosdam in cauco argenteo expeditionis tempore
@@ -6150,8 +6150,8 @@ denique etiamsi nemo fuit, qui suis temporibus dux severior videretur, ad pernic
 illi magis vivo
 <note target="n11.454.8"/>
 quam mortuo, ubi et invidia et odium deposita erant, talia exempla valuerunt. </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 Idem in omni expeditione ante omnes militarem cibum sumpsit ante papilionem, nec sibi umquam vel contra solem vel contra imbres quaesivit tecti
@@ -6191,8 +6191,8 @@ alius Peter 1. </note>
 <pb n="p.456"/>
 laudare inrisio est, maxime imperatores, a quibus speratur, qui timentur, qui praestare publice possunt, qui possunt necare, qui proscribere.</q>
 se autem vivum placere velle, mortuum etiam laudari. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 Amavit de principibus Augustum, Vespasianum, Titum, Traianum, Pium, Marcum, reliquos faeneos vel venenatos vocans; maxime tamen in historiis Marium et Camillum et Quinctium et Marcium
@@ -6225,13 +6225,13 @@ addens:
 <note id="n11.458.1">om. in P.</note>
 <note id="n11.458.2">nigram P. </note>
 </p>
-</div2>
-</div1>
-<div1 n="12" type="work">
+</div>
+</div>
+<div n="12" type="work">
 <pb n="p.460"/>
 <docAuthor>Iulius Capitolinus</docAuthor>
 <head>Vita Clodii Albini</head>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <p>
 <milestone unit="section" n="1"/>
 Uno eodemque prope tempore post Pertinacem, qui auctore Albino interemptus est, Iulianus a senatu Romae, Septimius Severus ab exercitu in Illyrico, Pescennius Niger in Oriente, Clodius Albinus
@@ -6259,8 +6259,8 @@ se trahebat, nolens intellegi
 quod eodem versu continebatur quo et Severi laus et
 <milestone unit="section" n="5"/>
 adprobatio Nigri Pescennii. sed priusquam vel de vita eius vel de morte dissero, etiam hoc dicendum est quod eum nobilem fecit. </p>
-</div2>
-<div2 type="chapter" n="2">
+</div>
+<div type="chapter" n="2">
 <p>
 <milestone unit="section" n="1"/>
 Nam ad hunc eundem quondam Commodus tum cum successorem Albino daret, litteras dederat, quibus iusserat ut Caesar esset, exemplum indidi:
@@ -6286,8 +6286,8 @@ et ad me,
 <pb n="p.464"/>
 et cum mecum fueris, habiturus et purpuram sed sine auro, quia ita et proavus meus Verus, qui puer vita functus est, ab Hadriano, qui eum adoptavit, accepit.</q>
 </p>
-</div2>
-<div2 type="chapter" n="3">
+</div>
+<div type="chapter" n="3">
 <p>
 <milestone unit="section" n="1"/>
 His litteris acceptis omnino facere id quod iubebat noluit, videns
@@ -6324,8 +6324,8 @@ Albinum sibi substitueret. sed postea et filiis iam
 maiusculis studens et Albini amori invidens sententiam mutasse atque illorum utrumque bello oppressisse,
 <milestone unit="section" n="6"/>
 maxime precibus uxoris adductus. denique Severus eum et consulem designavit, quod utique nisi de optimo viro non fecisset, homo in legendis magistratibus diligens. </p>
-</div2>
-<div2 type="chapter" n="4">
+</div>
+<div type="chapter" n="4">
 <p>
 <milestone unit="section" n="1"/>
 Sed ut ad eum redeam, fuit, ut dixi, Albinus Hadrumetinus oriundo, sed nobilis apud suos et originem a Romanis familiis trahens, Postumiorum
@@ -6362,8 +6362,8 @@ exceptus
 <milestone unit="section" n="7"/>
 est, vinceret, quare susceptum eum Albanorum familiae, quae mihi tecum communis est, dedi Albini nomine imposito, fac ut rem publicam et te et nos, ut facis, diligas.</q>
 </p>
-</div2>
-<div2 type="chapter" n="5">
+</div>
+<div type="chapter" n="5">
 <p>
 <milestone unit="section" n="1"/>
 Hic ergo omnem pueritiam in Africa transegit, eruditus litteris Graecis ac Latinis mediocriter, quod
@@ -6430,8 +6430,8 @@ Porphyrii nomen inditum est. haec atque alia signa imperii futuri fuere, quae qu
 <note id="n12.470.6">inlitus P 1. </note>
 <pb n="p.472"/>
 </p>
-</div2>
-<div2 type="chapter" n="6">
+</div>
+<div type="chapter" n="6">
 <p>
 <milestone unit="section" n="1"/>
 Adulescens igitur statim se ad militiam contulit atque Antoninis per Lollium Serenum et Baebium Maecianum et Ceionium Postumianum suos adfines
@@ -6453,8 +6453,8 @@ mitteretur, dein praeturam egit sub Commodo famosissimam. nam eiusdem ludis Comm
 theatro pugnas exhibuisse perhibetur. consul a Severo declaratus est eo tempore quo illum sibi paraverat cum
 <note target="n12.472.4"/>
 Pescennio subrogare. </p>
-</div2>
-<div2 type="chapter" n="7">
+</div>
+<div type="chapter" n="7">
 <p>
 <milestone unit="section" n="1"/>
 Ad imperium venit natu5 iam grandior et maior Pescennio Nigro, ut Severus ipse in vita sua loquitur
@@ -6480,8 +6480,8 @@ Bassianus et Geta te salutant. Iulia nostra et te et sororem salutat. infantulo 
 <milestone unit="section" n="6"/>
 munera digna suo loco tuoque mittemus. tu velim exercitus rei publicae ac nobis retentes, mi unanime, mi carissime, mi amantissime.</q>
 </p>
-</div2>
-<div2 type="chapter" n="8">
+</div>
+<div type="chapter" n="8">
 <p>
 <milestone unit="section" n="1"/>
 Et has quidem litteras missis stipatoribus fidelissimis dedit, quibus praecepit, ut epistulam publice darent, postea vero dicerent se velle pleraque occulte suggerere, quae ad res bellicas pertinerent et ad secreta castrorum atque aulicam fidem; ubi vero in secretum venissent quasi mandata dicturi, quinque validissimi eum interimerent gladiolis infra vestem
@@ -6494,8 +6494,8 @@ qua lecta cum dicerent quaedam secretius suggerenda et locum semotum ab omnibus 
 denique indulgens suspicionibus eos tormentis dedit, qui diu primo pernegarunt sed postea victi necessitate confessi sunt ea quae Severus iisdem praeceperat.
 <milestone unit="section" n="4"/>
 Tunc iam proditis rebus et apertis insidiis, ea quae suspicabatur Albinus clara esse intellegens exercitu ingenti collecto contra Severum atque eius duces </p>
-</div2>
-<div2 type="chapter" n="9">
+</div>
+<div type="chapter" n="9">
 <p>
 <milestone unit="section" n="1"/>
 venit, et primo quidem conflictu habito contra duces Severi potior fuit, post autem Severus ipse, cum id egisset apud senatum, ut hostis iudicaretur Albinus, contra eum profectus acerrime fortissimeque pugnavit
@@ -6516,8 +6516,8 @@ Maximus dicit, duo. quibus primum veniam dedit, postea vero eos cum matre percus
 abici iussit, caput eius excisum pilo circumtulit Romamque misit, litteris ad senatum datis quibus insultavit, quod Albinum tantopere dilexissent ut eius adfines et fratrem praecipue ingenti honore
 <milestone unit="section" n="7"/>
 cumularent. iacuisse ante praetorium Severi Albini corpus per dies plurimos dicitur usque ad fetorem, laniatumque a canibus in profluentem abiectum est. </p>
-</div2>
-<div2 type="chapter" n="10">
+</div>
+<div type="chapter" n="10">
 <p>
 <milestone unit="section" n="1"/>
 De moribus eius varia dicuntur, et Severus quidem ipse haec de eodem loquitur, ut eum dicat turpem malitiosum improbum inhonestum cupidum luxuriosum.
@@ -6560,8 +6560,8 @@ fecissent, habemus igitur virum dignum consulatu, quem sufficiam in locum Cassii
 <milestone unit="section" n="12"/>
 prope iam nuntiatus est. quod interim a te publicari nolo, ne aut ad ipsum Papirium aut ad eius adfectus perveniat, nosque videamur in locum viventis consulem subrogasse.</q>
 </p>
-</div2>
-<div2 type="chapter" n="11">
+</div>
+<div type="chapter" n="11">
 <p>
 <milestone unit="section" n="1"/>
 et istae igitur epistulae constantem 4 virum Albinum fuisse
@@ -6593,8 +6593,8 @@ propter morum acrimoniam. uxori odiosissimus fuit, servis iniustus, atrox circa 
 neque umquam delictis pepercit, in vestitu nitidissimus fuit, in convivio sordidissimus et soli studens copiae, mulierarius inter primos amatores, aversae Veneris semper ignarus et talium persecutor, agri colendi peritissimus, ita ut etiam Georgica scripserit,
 <milestone unit="section" n="8"/>
 Milesias nonnulli eiusdem esse dicunt, quarum fama non ignobilis habetur, quamvis mediocriter scriptae sint. </p>
-</div2>
-<div2 type="chapter" n="12">
+</div>
+<div type="chapter" n="12">
 <p>
 <milestone unit="section" n="1"/>
 A senatu tantum amatus est quantum nemo principum, in odium speciatim Severi, quem vehemen-
@@ -6631,8 +6631,8 @@ consenesceret.</q>
 hinc apparet quanta severitate factionem vel Pescennianam vel Clodianam vindicaverit.
 <milestone unit="section" n="14"/>
 quae quidem omnia in vita eius posita sunt. quae qui diligentius scire velit, legat Marium Maximum de Latinis scriptoribus, de Graecis scriptoribus Herodianum, qui ad fidem pleraque dixerunt. </p>
-</div2>
-<div2 type="chapter" n="13">
+</div>
+<div type="chapter" n="13">
 <p>
 <milestone unit="section" n="1"/>
 Fuit statura procerus, capillo renodi et crispo, fronte lata et
@@ -6685,8 +6685,8 @@ di faxint ut ne alii quidem velint, senatus imperet, provincias dividat, senatus
 <note target="n12.490.2"/>
 dico senatus? vos ipsi et patres vestri; eritis enim ipsi senatores.</q>
 </p>
-</div2>
-<div2 type="chapter" n="14">
+</div>
+<div type="chapter" n="14">
 <p>
 <milestone unit="section" n="1"/>
 Haec contio vivo adhuc Commodo Romam delata est. quae Commodum in Albinum exasperavit, statimquesuccessoremmisit Iunium Severum, unum ex
@@ -6725,8 +6725,8 @@ quare Albinus occidendi Pertinacis Iuliano auctor fuit.
 <note id="n12.492.1">publicasse tu id P. </note>
 <pb n="p.494"/>
 </p>
-</div2>
-</div1>
+</div>
+</div>
 </body>
 
     </text>

@@ -60,7 +60,7 @@
 <text lang="en">
 <body>
 
-<div1 type="book" n="1"><!-- remove the arguments until we get a chance to fix up the line numbers, which are those of the translation, not the Latin
+<div type="book" n="1"><!-- remove the arguments until we get a chance to fix up the line numbers, which are those of the translation, not the Latin
 <argument>
 <list>
 <item>Introduction, <bibl n="Luc. 1.1">1-50</bibl>
@@ -875,8 +875,8 @@
 <l n="tr">'Washed by the Pontic billows! for these eyes</l>
 <l n="tr">'Already once have seen <placeName key="tgn,7010789">Philippi</placeName>'s plains! '<note anchored="yes">The confusion between the site of the battle of <placeName key="tgn,7010789">Philippi</placeName> and that of the battle of Pharsalia is common among the Roman writers. (See the note to Merivale, chapter xxvi.)</note></l>
 <l n="tr">The frenzy left her and she speechless fell.
-</l></p></div1>
-<div1 type="book" n="2"><!--
+</l></p></div>
+<div type="book" n="2"><!--
 <argument>
 <list>
 <item>Remonstrance with the gods for allowing the future to be foretold, lines  <bibl n="Luc. 2.1">1-18</bibl>
@@ -1752,8 +1752,8 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 <l n="tr">'Twas Italy they spared, that far away</l>
 <l n="tr">Fortune on shores remote might hide her crime,</l>
 <l n="tr">And Roman soil be pure of Magnus' blood.
-</l></p></div1>
-<div1 type="book" n="3"><!--
+</l></p></div>
+<div type="book" n="3"><!--
 <argument>
 <list>
 <item>Julia appears to Pompeius in a vision, lines  <bibl n="Luc. 3.1">1-45</bibl>
@@ -2626,8 +2626,8 @@ trated by Marius and Sulla,  <bibl n="Luc. 2.76">76-261</bibl>
 <l n="tr">While wretched fathers by the blazing pyres</l>
 <l n="tr">Fought for the dead. But Brutus thus at sea</l>
 <l n="tr">First gained a triumph for great Caesar's arms.<note anchored="yes">It was Brutus who gained the naval victory over the Veneti some seven years before; the first naval fight, that we know of, fought in the <placeName key="tgn,7014206">Atlantic Ocean</placeName>.</note>
-</l></p></div1>
-<div1 type="book" n="4"><!--
+</l></p></div>
+<div type="book" n="4"><!--
 <argument>
 <list>
 <item>War in Spain;  battle at Ilerda between Caesar and Pompeius' generals, Afranius and Petreius, lines  <bibl n="Luc. 4.1">1-53</bibl>
@@ -3599,8 +3599,8 @@ lacrumas effusi, sortem civilium armorum misera latitia detestantes.'</quote></n
 <l n="tr">Of Caesar and of Caesar's house became</l>
 <l n="tr">Lords of our lives. But who had power like him?</l>
 <l n="tr">All others bought the state: he sold alone.<note anchored="yes">For the character and career of Curio, see Merivale's 'History of the Roman Empire,' chapter xvi. He was of profligate character, but a friend and pupil of Cicero;  at first a rabid partisan of the oligarchy, he had, about the period of his tribuneship (B.C. <dateRange from="-50" to="-49">50-49</dateRange>), become a supporter of Caesar.  How far Gaulish gold was the cause of this conversion we cannot tell. It is in allusion to this change that he was termed the prime mover of the civil war. His arrival in Caesar's camp is described in Book I., line 306.  He became Caesar's chief lieutenant in place of the deserter Labienus;  and, as described in Book III., was sent to <placeName key="tgn,7003121">Sardinia</placeName> and <placeName key="tgn,7003122">Sicily</placeName>, whence he expelled the senatorial forces. His final expedition to <placeName key="tgn,7001242">Africa</placeName>, defeat, and death, form the subject of the latter part of this book. Mommsen describes him as a man of talent, and finds a resemblance between him and Caesar.  (Vol. iv., p. 393.)</note>
-</l></p></div1>
-<div1 type="book" n="5"><!--
+</l></p></div>
+<div type="book" n="5"><!--
 <argument>
 <list>
 <item>Meeting of the Senate in Epirus, lines  <bibl n="Luc. 5.1">1-74</bibl>
@@ -4571,8 +4571,8 @@ lacrumas effusi, sortem civilium armorum misera latitia detestantes.'</quote></n
 <l n="tr">To her for ever. Nay! such happy lot</l>
 <l n="tr">The gods prepared not; for the hour drew near</l>
 <l n="tr">Which gave her Magnus to her arms again.
-</l></p></div1>
-<div1 type="book" n="6"><!--
+</l></p></div>
+<div type="book" n="6"><!--
 <argument>
 <list>
 <item>Description of Dyrrhachium, which Caesar attempts to capture,  <bibl n="Luc. 6.1">1-34</bibl>
@@ -5599,8 +5599,8 @@ But more probably the meaning is that the wolf's bite gave the flesh magical eff
 <l n="tr">Now streaked the heavens, by the hag's command</l>
 <l n="tr">The day was stayed till Sextus reached his tent,</l>
 <l n="tr">And mist and darkness veiled his safe return.
-</l></p></div1>
-<div1 type="book" n="7"><!--
+</l></p></div>
+<div type="book" n="7"><!--
 <argument>
 <list>
 <item>The eve of the battle of Pharsalia and the dream of Pompeius, lines  <bibl n="Luc. 7.1">1-53</bibl>
@@ -6686,8 +6686,8 @@ Book IX., 706.)</note></l>
 <l n="tr">'Twas thus that Munda's fight</l>
 <l n="tr">And blood of <placeName key="perseus,Mutina">Mutina</placeName>, and <placeName key="tgn,7002712">Leucas</placeName>' cape,</l>
 <l n="tr">And sad Pachynus,<note anchored="yes">Alluding to the naval war waged by Sextus Pompeius after Caesar's death. He took possession of <placeName key="tgn,7003122">Sicily</placeName>, and had command of the seas, but was ultimately defeated by the fleet of Octavius under Agrippa in B.C. <date value="-36">36</date>.  Pachynus was the S.E. promontory of the island, but is used in the sense of <placeName key="tgn,7003122">Sicily</placeName>, for this battle took place on the north coast.</note> made <placeName key="perseus,Philippi">Philippi</placeName> pure.
-</l></p></div1>
-<div1 type="book" n="8"><!--
+</l></p></div>
+<div type="book" n="8"><!--
 <argument>
 <list>
 <item>Pompeius flies to Lesbos, <bibl n="Luc. 8.1">lines 1=74</bibl>
@@ -7765,8 +7765,8 @@ Book IX., 706.)</note></l>
 <l n="tr">And <placeName key="tgn,7016833">Egypt</placeName>'s fable, that she holds the grave</l>
 <l n="tr">Of great Pompeius, be believed no more</l>
 <l n="tr">Than <placeName key="tgn,7012056">Crete</placeName>'s which boasts the sepulchre of Jove.<note anchored="yes">The legend that Jove was buried in <placeName key="tgn,7012056">Crete</placeName> is also mentioned by Cicero:  'De Natura Deorum,' iii., 21.</note>
-</l></p></div1>
-<div1 type="book" n="9"><!--
+</l></p></div>
+<div type="book" n="9"><!--
 <argument>
 <list>
 <item>Apotheosis of Pompeius, lines  <bibl n="Luc. 9.1">1-26</bibl>
@@ -9159,8 +9159,8 @@ The word is also used for a big cannon (' 1 King Henry IV.,' Act ii., Scent 3).<
 <l n="tr">They hide their groans, and gaze with joyful front</l>
 <l n="tr">(O famous Freedom! ) on the deed of blood:</l>
 <l n="tr">And dare to laugh when mighty Caesar wept.
-</l></p></div1>
-<div1 type="book" n="10"><!--
+</l></p></div>
+<div type="book" n="10"><!--
 <argument>
 <list>
 <item>Caesar visits the tomb of Alexander,  <bibl n="Luc. 10.1">1-60</bibl>
@@ -9850,7 +9850,7 @@ by Virgil, 'Eclogue' iii., 41.</note>  excel mine own.</l>
 <l n="tr">Brave Scaeva's image flashed, now vainly sought,</l>
 <l n="tr">Who on the wall by <placeName key="tgn,7010750">Epidamnus</placeName>' fields</l>
 <l n="tr">Earned fame immortal, and with single arm</l>
-<l n="tr">Drove back Pompeius as he trod the breach.</l></p></div1>
+<l n="tr">Drove back Pompeius as he trod the breach.</l></p></div>
 </body>
 </text>
 </TEI.2>

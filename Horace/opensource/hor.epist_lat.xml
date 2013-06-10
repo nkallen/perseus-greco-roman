@@ -48,8 +48,8 @@
 
 
 
-<text><body><div1 type="book" n="1">
-<div2 type="poem" n="1"><p>
+<text><body><div type="book" n="1">
+<div type="poem" n="1"><p>
 <lb type="displayNum" n="1"/>Prima dicte mihi, summa dicende Camena,
 <lb type="displayNum" n="2"/>spectatum satis et donatum iam rude quaeris,
 <lb type="displayNum" n="3"/>Maecenas, iterum antiquo me includere ludo.
@@ -164,9 +164,9 @@
 <lb type="displayNum" n="107"/>liber, honoratus, pulcher, rex denique regum,
 <lb type="displayNum" n="108"/>praecipue sanus, nisi cum pituita molesta est.
 <pb id="p.260"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="2"><p>
+<div type="poem" n="2"><p>
 <lb type="displayNum" n="1"/>Troiam belli scriptorem. Maxime Lolli,
 <lb type="displayNum" n="2"/>dum tu declamas Romae, Praeneste relegi;
 <lb type="displayNum" n="3"/>qui quid sit pulchrum, quid turpe, quid utile, quid non,
@@ -241,9 +241,9 @@
 <lb type="displayNum" n="70"/>testa diu. quod si cessas aut strenuus anteis, 
 <lb type="displayNum" n="71"/>nec tardum opperior nec praecedentibus insto.
 <pb id="p.268"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="3"><p>
+<div type="poem" n="3"><p>
 <lb type="displayNum" n="1"/>Iuli Flore, quibus terrarum militet oris
 <lb type="displayNum" n="2"/>Claudius Augusti privignus, scire laboro.
 <lb type="displayNum" n="3"/>Thracane <note n="1"/> vos Hebrusque nivali compede vinctus,
@@ -282,8 +282,8 @@
 <lb type="displayNum" n="35"/>vivitis, indigni fraternum rumpere foedus, 
 <lb type="displayNum" n="36"/>pascitur in vestrum reditum votiva iuvenca.
 <pb id="p.274"/>
-</p></div2>
-<div2 type="poem" n="4"><p>
+</p></div>
+<div type="poem" n="4"><p>
 <lb type="displayNum" n="1"/>Albi, nostrorum sermonum candide iudex,
 <lb type="displayNum" n="2"/>quid nunc te dicam facere in regione Pedana?
 <lb type="displayNum" n="3"/>scribere quod Cassi Parmensis opuscula vincat,
@@ -300,9 +300,9 @@
 <lb type="displayNum" n="14"/>grata superveniet, quae non sperabitur hora.
 <lb type="displayNum" n="15"/>me pinguem et nitidum bene curata cute vises, 
 <lb type="displayNum" n="16"/>cum ridere voles, Epicuri de <note n="6"/> grege porcum.
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="5"><p>
+<div type="poem" n="5"><p>
 <lb type="displayNum" n="1"/>Si potes Archiacis conviva recumbere lectis
 <lb type="displayNum" n="2"/>nec modica cenare times holus omne patella,
 <lb type="displayNum" n="3"/>supremo te sole domi, Torquate, manebo,
@@ -336,9 +336,9 @@
 <lb type="displayNum" n="29"/>sed nimis arta premunt olidae convivia caprae,
 <lb type="displayNum" n="30"/>tu quotus esse velis rescribe et rebus omissis 
 <lb type="displayNum" n="31"/>atria servantem postico falle clientem.
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="6"><p>
+<div type="poem" n="6"><p>
 <lb type="displayNum" n="1"/>Nil admirari prope res est una, Numici,
 <lb type="displayNum" n="2"/>solaque quae possit facere et servare beatum,
 <lb type="displayNum" n="3"/>hunc solem et stellas et decedentia certis
@@ -409,9 +409,9 @@
 <lb type="displayNum" n="67"/>Vive, vale! si quid novisti rectius istis,
 <lb type="displayNum" n="68"/>candidus imperti; si nil,<note n="9"/> his utere mecum.
 <pb id="p.292"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="7"><p>
+<div type="poem" n="7"><p>
 <lb type="displayNum" n="1"/>Quinque dies tibi pollicitus me rure futurum,
 <lb type="displayNum" n="2"/>Sextilem totum mendax desideror. atque <note n="1"/>
 <lb type="displayNum" n="3"/>si me vivere vis sanum recteque valentem,
@@ -516,9 +516,9 @@
 <lb type="displayNum" n="97"/>praestent, mature redeat repetatque relicta.
 <lb type="displayNum" n="98"/>metiri se quemque suo modulo ae pede verum est.
 <pb id="p.304"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="8"><p>
+<div type="poem" n="8"><p>
 <lb type="displayNum" n="1"/>Celso gaudere et bene rem gerere Albinovano
 <lb type="displayNum" n="2"/>Musa rogata refer, comiti scribaeque Neronis,
 <lb type="displayNum" n="3"/>si quaeret <note n="1"/> quid agam, dic multa et pulchra minantem
@@ -537,8 +537,8 @@
 <lb type="displayNum" n="16"/>praeceptum auriculis hoc instillare memento:
 <lb type="displayNum" n="17"/><q>ut tu fortunam, sic nos te, Celse, feremus.</q>
 <pb id="p.308"/>
-</p></div2>
-<div2 type="poem" n="9"><p>
+</p></div>
+<div type="poem" n="9"><p>
 <lb type="displayNum" n="1"/>Septimius, Claudi, nimirum intellegit unus,
 <lb type="displayNum" n="2"/>quanti me facias, nam cum rogat et prece cogit
 <lb type="displayNum" n="3"/>scilicet ut tibi se laudare et tradere coner,
@@ -553,9 +553,9 @@
 <lb type="displayNum" n="12"/>depositum laudas ob amici iussa pudorem,
 <lb type="displayNum" n="13"/>scribe tui gregis hunc et fortem crede bonumque.
 <pb id="p.312"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="10"><p>
+<div type="poem" n="10"><p>
 <lb type="displayNum" n="1"/>Urbis amatorem Fuscum salvere iubemus
 <lb type="displayNum" n="2"/>ruris amatores, hac in re scilicet una
 <lb type="displayNum" n="3"/>multum dissimiles, at <note n="1"/> cetera paene gemelli
@@ -610,9 +610,9 @@
 <lb type="displayNum" n="49"/>Haec tibi dictabam post fanum putre Vacunae,
 <lb type="displayNum" n="50"/>excepto quod non simul esses, cetera laetus. 
 <pb id="p.320"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="11"><p>
+<div type="poem" n="11"><p>
 <lb type="displayNum" n="1"/>Quid tibi visa Chios, Bullati, notaque Lesbos,
 <lb type="displayNum" n="2"/>quid concinna Samos, quid Croesi regia Sardis,
 <lb type="displayNum" n="3"/>Zmyrna quid et Colophon? maiora minorave <note n="1"/> fama,
@@ -646,9 +646,9 @@
 <lb type="displayNum" n="29"/>quadrigis petimus bene vivere, quod petis hic est,
 <lb type="displayNum" n="30"/>est Ulubris, animus si te non deficit aequus. 
 <pb id="p.326"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="12"><p>
+<div type="poem" n="12"><p>
 <lb type="displayNum" n="1"/>Fructibus Agrippae Siculis, quos colligis, Ieci,
 <lb type="displayNum" n="2"/>si recte frueris, non est ut copia maior
 <lb type="displayNum" n="3"/>ab Iove donari possit tibi. tolle querellas:
@@ -681,9 +681,9 @@
 <lb type="displayNum" n="28"/>Caesaris accepit genibus minor; aurea fruges
 <lb type="displayNum" n="29"/>Italiae pleno defudit <note n="1"/> Copia cornu.
 <pb id="p.332"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="13"><p>
+<div type="poem" n="13"><p>
 <lb type="displayNum" n="1"/>Ut proficiscentem docui te saepe diuque,
 <lb type="displayNum" n="2"/>Augusto reddes signata volumina, Vini,<note n="1"/>
 <lb type="displayNum" n="3"/>si validus, si laetus erit, si denique poscet;
@@ -704,9 +704,9 @@
 <lb type="displayNum" n="18"/>Caesaris, oratus multa prece, nitere porro,
 <lb type="displayNum" n="19"/>vade; vale; cave ne titubes mandataque frangas.
 <pb id="p.336"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="14"><p>
+<div type="poem" n="14"><p>
 <lb type="displayNum" n="1"/>Vilice silvarum et milli me reddentis agelli,
 <lb type="displayNum" n="2"/>quem tu fastidis, habitatum quinque focis et
 <lb type="displayNum" n="3"/>quinque bonos solitum Variam dimittere patres,
@@ -754,8 +754,8 @@
 <lb type="displayNum" n="43"/>optat ephippia bos, piger optat arare caballus.
 <lb type="displayNum" n="44"/>quam scit uterque libens censebo exerceat artem.
 <pb id="p.342"/>
-</p></div2>
-<div2 type="poem" n="15"><p>
+</p></div>
+<div type="poem" n="15"><p>
 <lb type="displayNum" n="1"/>Quae sit hiems Veliae, quod caelum, Vala, Salerni,
 <lb type="displayNum" n="2"/>quorum hominum regio et qualis via (nam mihi Baias
 <lb type="displayNum" n="3"/>Musa supervacuas Antonius, et tamen illis
@@ -805,9 +805,9 @@
 <lb type="displayNum" n="45"/>vos sapere et solos aio <note n="8"/> bene vivere, quorum 
 <lb type="displayNum" n="46"/>conspicitur nitidis fundata pecunia villis. <note n="9"/>
 <pb id="p.348"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="16"><p>
+<div type="poem" n="16"><p>
 <lb type="displayNum" n="1"/>Ne perconteris, fundus meus, optime Quincti,
 <lb type="displayNum" n="2"/>arvo pascat erum an bacis opulentet olivae,
 <lb type="displayNum" n="3"/>pomisne an pratis <note n="1"/> an amicta <note n="2"/> vitibus ulmo,
@@ -892,9 +892,9 @@
 <lb type="displayNum" n="78"/><q>Ipse deus, simul atque volam, me solvet.</q> opinor,
 <lb type="displayNum" n="79"/>hoc sentit <q>moriar.</q> mors ultima linea rerum est.<note n="1"/>
 <pb id="p.358"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="17"><p>
+<div type="poem" n="17"><p>
 <lb type="displayNum" n="1"/>Quamvis, Scaeva, satis per te tibi consulis et scis,
 <lb type="displayNum" n="2"/>quo tandem pacto deceat maioribus uti,
 <lb type="displayNum" n="3"/>disce, docendus adhuc quae censet amiculus, ut si
@@ -960,9 +960,9 @@
 <lb type="displayNum" n="61"/><q>credite, non ludo; crudeles, tollite claudum! </q>
 <lb type="displayNum" n="62"/><q>quaere peregrinum,</q> vicinia rauca reclamat.
 <pb id="p.366"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="18"><p>
+<div type="poem" n="18"><p>
 <lb type="displayNum" n="1"/>Si bene te novi, metues, liberrime Lolli,
 <lb type="displayNum" n="2"/>scurrantis speciem praebere, professus amicum
 <lb type="displayNum" n="3"/>ut matrona meretrici dispar erit atque
@@ -1080,9 +1080,9 @@
 <lb type="displayNum" n="111"/>Sed satis est orare Iovem, qui <note n="5"/> ponit <note n="6"/> et aufert,
 <lb type="displayNum" n="112"/>det vitam, det opes; aequum mi animum ipse parabo.
 <pb id="p.378"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="19"><p>
+<div type="poem" n="19"><p>
 <lb type="displayNum" n="1"/>Prisco si credis, Maecenas docte, Cratino,
 <lb type="displayNum" n="2"/>nulla placere diu nec vivere carmina possunt,
 <lb type="displayNum" n="3"/>quae scribuntur aquae potoribus. <note n="1"/> ut male sanos
@@ -1136,9 +1136,9 @@
 <lb type="displayNum" n="48"/>ludus enim genuit trepidum certamen et iram,
 <lb type="displayNum" n="49"/>ira truces inimicitias et funebre bellum.
 <pb id="p.386"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="20"><p>
+<div type="poem" n="20"><p>
 <lb type="displayNum" n="1"/>Vertumnum Ianumque, liber, spectare videris,
 <lb type="displayNum" n="2"/>scilicet ut <note n="1"/> prostes Sosiorum pumice mundus.<note n="2"/>
 <lb type="displayNum" n="3"/>odisti clavis et grata sigilla pudico;
@@ -1169,10 +1169,10 @@
 <lb type="displayNum" n="27"/>me quater undenos sciat implevisse Decembris,
 <lb type="displayNum" n="28"/>collegam Lepidum quo duxit <note n="2"/> Lollius anno.
 <pb id="p.392"/>
-</p></div2></div1>
+</p></div></div>
 
-<div1 type="book" n="2">
-<div2 type="poem" n="1"><p>
+<div type="book" n="2">
+<div type="poem" n="1"><p>
 <lb type="displayNum" n="1"/>Cum tot sustineas et tanta negotia solus,
 <lb type="displayNum" n="2"/>res Italas armis tuteris, moribus ornes,
 <lb type="displayNum" n="3"/>legibus emendes, in publica commoda peccem,
@@ -1455,9 +1455,9 @@
 <lb type="displayNum" n="269"/>deferar in vicum vendentem tus et odores et piper
 <lb type="displayNum" n="270"/>et quidquid chartis amicitur ineptis.<note n="4"/> 
 <pb id="p.420"/>
-</p></div2>
+</p></div>
 
-<div2 type="poem" n="2"><p>
+<div type="poem" n="2"><p>
 <lb type="displayNum" n="1"/>Flore, bono claraque fidelis amice Neroni,
 <lb type="displayNum" n="2"/>si quis forte velit puerum tibi vendere natum
 <lb type="displayNum" n="3"/>Tibure vel Gabiis, et tecum sic agat: <q>hic et
@@ -1682,6 +1682,6 @@
 <lb type="displayNum" n="214"/>lusisti satis, edisti satis atque bibisti:
 <lb type="displayNum" n="215"/>tempus abire tibi est, ne potum largius aequo 
 <lb type="displayNum" n="216"/>rideat et pulset lasciva decentius <note n="6"/> aetas.
-</p></div2></div1>
+</p></div></div>
 <pb id="p.442"/>
 </body></text></TEI.2>

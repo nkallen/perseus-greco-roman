@@ -58,7 +58,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="speech" n="1">
+            <div type="speech" n="1">
                 <head>On the Twelve Years</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>The laws have
@@ -287,7 +287,7 @@
                     all principle, nor that an accusation based on stories should be held stronger
                     than a defence grounded on facts. <milestone n="65" unit="section"/><milestone unit="para" ed="P"/><placeName key="tgn,1000074">Greece</placeName> has lost
                     an eye in the destruction of the Thebans' city.</p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

@@ -65,8 +65,8 @@
 	</teiHeader>
 	
 	<text><body>
-		<div1 n="Ep" type="Book"><head lang="en">Eπινιξιανς</head>
-			<div2 n="1" type="poem">
+		<div n="Ep" type="book"><head lang="en">Eπινιξιανς</head>
+			<div n="1" type="poem">
 				<head>
 					<title lang="en">Ode 1</title>
 					<persName type="winner">&lt;*)argei=w| *kei=w|</persName>
@@ -216,10 +216,10 @@
 				<l> μάν· ἀρετὰ δ’ ἐπίμοχθος</l>
 				<l>μέν, τε]λευταθεῖσα δ’ ὀρθῶς</l>
 				<l>ἀνδρὶ κ]αὶ εὖτε θάνῃ λεί-</l>
-				<l> πει πο]λυζήλωτον εὐκλείας ἄγαλμα.</l></p></div2>
+				<l> πει πο]λυζήλωτον εὐκλείας ἄγαλμα.</l></p></div>
 			
 			
-			<div2 n="2" type="poem">
+			<div n="2" type="poem">
 				<head>
 					<title lang="en">Ode 2</title>
 					<persName type="winner">*tw=| *au)tw=|</persName>
@@ -242,10 +242,10 @@
 				<l>καλεῖ δὲ Μοῦς’ αὐθιγενὴς</l>
 				<l> γλυκεῖαν αὐλῶν καναχάν,</l>
 				<l> γεραίρους’ ἐπινικίοις</l>
-				<l> Πανθείδα φίλον υἱόν.</l></p></div2>
+				<l> Πανθείδα φίλον υἱόν.</l></p></div>
 			
 			
-			<div2 n="3" type="poem">
+			<div n="3" type="poem">
 				<head>
 					<title lang="en">Ode 3</title>
 					<persName type="winner">*(ie/rwni *surakosi/w|</persName>
@@ -393,10 +393,10 @@
 				<l n="95">οὐ φέρει κόσμον σιω-</l>
 				<l> πά· σὺν δ’ ἀλαθείᾳ καλῶν</l>
 				<l>καὶ μελιγλώσσου τις ὑμνήσει χάριν</l>
-				<l> Κηί̈ας ἀηδόνος.</l></p></div2>
+				<l> Κηί̈ας ἀηδόνος.</l></p></div>
 			
 			
-			<div2 n="4" type="poem">
+			<div n="4" type="poem">
 				<head>
 					<title lang="en">Ode 4</title>
 					<persName type="winner">*tw=| *au)tw=|</persName>
@@ -425,10 +425,10 @@
 				<l>δύο τ’ Ὀλυμπιονίκας</l>
 				<l>ἀείδειν. τί φέρτερον ἢ θεοῖσιν</l>
 				<l>φίλον ἐόντα παντο[δα]πῶν</l>
-				<l n="20">λαγχάνειν ἄπο μοῖρα[ν ἐς]θλῶν;</l></p></div2>
+				<l n="20">λαγχάνειν ἄπο μοῖρα[ν ἐς]θλῶν;</l></p></div>
 			
 			
-			<div2 n="5" type="poem">
+			<div n="5" type="poem">
 				<head>
 					<title lang="en">Ode 5</title>
 					<persName type="winner">&lt;*tw=| *au)tw=|</persName>
@@ -668,10 +668,10 @@
 				<l>πέμπειν Ἱέρωνι· τόθεν γὰρ</l>
 				<l> πυθμένες θάλλουσιν ἐσθλ[ῶν,</l>
 				<l> τοὺς ὁ μεγιστοπάτωρ</l>
-				<l n="200">Ζεὺς ἀκινήτους ἐν εἰρήν[ᾳ φυλάσσοι.</l></p></div2>
+				<l n="200">Ζεὺς ἀκινήτους ἐν εἰρήν[ᾳ φυλάσσοι.</l></p></div>
 			
 			
-			<div2 n="6" type="poem">
+			<div n="6" type="poem">
 				<head>
 					<title lang="en">Ode 6</title>
 					<persName type="winner">*la/xwni *kei=w|</persName>
@@ -695,10 +695,10 @@
 				<l> ὦ ποδάνεμον τέκος,</l>
 				<l>γεραίρει προδόμοις ἀοι-</l>
 				<l n="15">δαῖς, ὅτι στάδιον κρατή-</l>
-				<l> σας Κέον εὐκλέϊξας.</l></p></div2>
+				<l> σας Κέον εὐκλέϊξας.</l></p></div>
 			
 			
-			<div2 n="7" type="poem">
+			<div n="7" type="poem">
 				<head>
 					<title lang="en">Ode 7</title>
 					<persName type="winner">*tw=| *au)tw=|</persName>
@@ -717,8 +717,8 @@
 				<l n="10">ται καὶ πολυζήλωτος. Ἀρ[ιστομένει]ον</l>
 				<l>νῦν γ]’ ἐκόσμη[σας στε]φάν[οισι Λάχω]να</l>
 				
-				<note lang="en" resp="P" type="Text" anchored="yes">The rest is fragmentary.</note></p></div2>
-			<div2 n="8" type="poem">
+				<note lang="en" resp="P" type="Text" anchored="yes">The rest is fragmentary.</note></p></div>
+			<div n="8" type="poem">
 				<head>
 					<title lang="en">Ode 8</title>
 					<persName type="winner">&lsqb;*lipari/wni *kei=w|&rsqb; </persName>
@@ -741,10 +741,10 @@
 				<l> γλαυκὸν Αἰτωλίδος</l>
 				<l n="30">ἄνδημ’ ἐλαίας</l>
 				<l>ἐν Πέλοπος Φρυγίου</l>
-				<l> κλεινοῖς ἀέθλοις.</l></p></div2>
+				<l> κλεινοῖς ἀέθλοις.</l></p></div>
 			
 			
-			<div2 n="9" type="poem">
+			<div n="9" type="poem">
 				<head>
 					<title lang="en">Ode 9</title>
 					<persName type="winner">*)automh/dei *fleia/siw|</persName>
@@ -879,10 +879,10 @@
 				<l>ὅς] τι καλὸν φέ[ρεται,</l>
 				<l> πᾶς αἰ]νέοι· Τιμοξ[ένου</l>
 				<l>πα]ιδὶ σὺν κώ[μοις ἁμαρ-</l>
-				<l> τ[έ]ο]ιτε πεντ[άθλου ϝέκατι.</l></p></div2>
+				<l> τ[έ]ο]ιτε πεντ[άθλου ϝέκατι.</l></p></div>
 			
 			
-			<div2 n="10" type="poem">
+			<div n="10" type="poem">
 				<head>
 					<title lang="en">Ode 10</title>
 					<persName type="winner">&lt;*)aglaw=| &lpar;&quest;&rpar; *)aqhnai/w|</persName>
@@ -956,10 +956,10 @@
 				<note lang="en" resp="P" type="Papyr" anchored="yes">Column 19</note>
 				<l>αὐλῶν [δὲ &breve;&macr;&breve;&breve;&macr;&macr;</l>
 				<l n="55">μειγν?[υτ&macr;&macr;&breve;&macr;&macr;</l>
-				<l>χρή τιν[&macr;&macr;&macr;&breve;&macr;&macr;</l></p></div2>
+				<l>χρή τιν[&macr;&macr;&macr;&breve;&macr;&macr;</l></p></div>
 			
 			
-			<div2 n="11" type="poem">
+			<div n="11" type="poem">
 				<head>
 					<title lang="en">Ode 11</title>
 					<persName type="winner">*)alexida/mw| *metapontinw=|</persName>
@@ -1110,10 +1110,10 @@
 				<l>χαλκοθωράκων μετ’ Ἀτρειδᾶν. δικαίας</l>
 				<l>ὅστις ἔχει φρένας, εὑ-</l>
 				<l n="125">ρήσει σὺν ἅπαντι χρόνῳ</l>
-				<l> μυρίας ἀλκὰς Ἀχαιῶν.</l></p></div2>
+				<l> μυρίας ἀλκὰς Ἀχαιῶν.</l></p></div>
 			
 			
-			<div2 n="12" type="poem">
+			<div n="12" type="poem">
 				<head>
 					<title lang="en">Ode 12</title>
 					<persName type="winner">*teisi/a| *)aiginh/th|i</persName>
@@ -1146,9 +1146,9 @@
 				<l>Ζηνὸς Νεμ<seg type="sling">eai/</seg>ου·</l>
 				<l>!!!&lpar;!!!&rpar;] ταύτας? καὶ ἐπ’ ἀργυροδίνα</l>
 				
-				<note lang="en" resp="P" type="Text" anchored="yes">The rest is lost.</note></p></div2>
+				<note lang="en" resp="P" type="Text" anchored="yes">The rest is lost.</note></p></div>
 			
-			<div2 n="13" type="poem">
+			<div n="13" type="poem">
 				<head>
 					<title lang="en">Ode 13</title>
 					<persName type="winner">&lt;*puqe/a| *aiginh/th|</persName>
@@ -1379,10 +1379,10 @@
 				<l><milestone n="195" ed="alternate" unit="line"/>τὰν εἴ γ’ ἐτύμως ἄρα Κλειὼ</l>
 				<l> πανθαλὴς ἐμαῖς ἐνέσταξ[εν φρασίν,</l>
 				<l n="230">τερψιεπεῖς νιν ἀοιδαὶ</l>
-				<l> παντὶ καρύξοντι λαῷ.</l></p></div2>
+				<l> παντὶ καρύξοντι λαῷ.</l></p></div>
 			
 			
-			<div2 n="14" type="poem">
+			<div n="14" type="poem">
 				<head>
 					<title lang="en">Ode 14</title>
 					<persName type="winner">*kleoptole/mw| *qessalw=|</persName>
@@ -1419,9 +1419,9 @@
 				<milestone n="str. 2" unit="strophe"/>
 				<l>ὃς φιλοξείνου τε καὶ ὀρθοδ[ίκου</l>
 				
-				<note lang="en" resp="P" type="Text" anchored="yes">The rest of the text is lost.&gt;</note></p></div2>
+				<note lang="en" resp="P" type="Text" anchored="yes">The rest of the text is lost.&gt;</note></p></div>
 			
-			<div2 n="14b" type="poem">
+			<div n="14b" type="poem">
 				<head>
 					<title lang="en">Ode 14b</title>
 					<persName type="winner">*)aristotelei *larisai/w|</persName>
@@ -1439,11 +1439,11 @@
 				<l>δὶς στεφανώσατο Λα-</l>
 				<l n="10">ρίσα[ς ἀναξίππου χάριν [</l>
 				
-				<note lang="en" resp="P" type="Text" anchored="yes">The rest of the ode is lost.</note></p></div2>
-		</div1>
+				<note lang="en" resp="P" type="Text" anchored="yes">The rest of the ode is lost.</note></p></div>
+		</div>
 		
-		<div1 n="Dith" type="Book"><head lang="en">Dιτηψραμβς</head>
-			<div2 n="15" type="poem">
+		<div n="Dith" type="book"><head lang="en">Dιτηψραμβς</head>
+			<div n="15" type="poem">
 				<head>
 					<title lang="en">Ode 15</title>
 					<title>*)an]thnori/dai [h)\ *(ele/nh]s *)apai/thsis</title>
@@ -1507,10 +1507,10 @@
 				<l n="60">ἀλλότριον ὤπασεν, αὖτις</l>
 				<l>δ’ ἐς βαθὺν πέμπει φθόρον,</l>
 				<l> κείνα καὶ ὑπερφιάλους</l>
-				<l>Γᾶς παῖδας ὤλεσσεν Γίγαντας.</l></p></div2>
+				<l>Γᾶς παῖδας ὤλεσσεν Γίγαντας.</l></p></div>
 			
 			
-			<div2 n="16" type="poem">
+			<div n="16" type="poem">
 				<head>
 					<title lang="en">Ode 16</title>
 					<title>[*(hraklh=s]</title>
@@ -1555,10 +1555,10 @@
 				<l>δνόφεόν τε κάλυμμα τῶν</l>
 				<l>ὕστερον ἐρχομένων,</l>
 				<l> ὅτ’ ἐπὶ ῥοδόεντι Λυκόρμᾳ</l>
-				<l n="35">δέξατο Νέσσου πάρα δαιμόνιον τέρ[ας.</l></p></div2>
+				<l n="35">δέξατο Νέσσου πάρα δαιμόνιον τέρ[ας.</l></p></div>
 			
 			
-			<div2 n="17" type="poem">
+			<div n="17" type="poem">
 				<head>
 					<title lang="en">Ode 17</title>
 					<title>*hi/qeoi [h)\] *qhseu/s</title>
@@ -1709,10 +1709,10 @@
 				<l>νέοι παιάνιξαν ἐρατᾷ ϝοπί.</l>
 				<l n="130">Δάλιε, χοροῖσι Κηί̈ων</l>
 				<l> φρένα ἰανθεὶς</l>
-				<l>ὄπαζε θ<seg type="sling">eo/</seg>πομπον ἐσθλῶν τύχαν.</l></p></div2>
+				<l>ὄπαζε θ<seg type="sling">eo/</seg>πομπον ἐσθλῶν τύχαν.</l></p></div>
 			
 			
-			<div2 n="18" type="poem">
+			<div n="18" type="poem">
 				<head>
 					<title lang="en">Ode 18</title>
 					<title>*qhseu/s</title>
@@ -1789,10 +1789,10 @@
 					<l> πρώθηβον, ἀρηί̈ων δ’ ἀθυρμάτων</l>
 					<l>μεμνᾶσθαι πολέμου τε καὶ</l>
 					<l> χαλκεοκτύπου μάχας·</l>
-					<l n="60">δίζησθαι δὲ φιλαγλάους Ἀθάνας.</l></p></sp></div2>
+					<l n="60">δίζησθαι δὲ φιλαγλάους Ἀθάνας.</l></p></sp></div>
 			
 			
-			<div2 n="19" type="poem">
+			<div n="19" type="poem">
 				<head>
 					<title lang="en">Ode 19</title>
 					<title>*iw/ *)aqhnai/ois</title>
@@ -1853,10 +1853,10 @@
 				<l>Κάδμος Σεμέλ[αν φύτευσεν,</l>
 				<l>ἃ τὸν ὀρσιβάκχαν</l>
 				<l n="50">τίκτεν Διόνυσον, [!!!!</l>
-				<l>καὶ χορῶν στεφα[νοφόρων ἄνακτα.</l></p></div2>
+				<l>καὶ χορῶν στεφα[νοφόρων ἄνακτα.</l></p></div>
 			
 			
-			<div2 n="20" type="poem">
+			<div n="20" type="poem">
 				<head>
 					<title lang="en">Ode 20</title>
 					<title>*)/idas *lakedaimoni/ois</title>
@@ -1876,7 +1876,7 @@
 				<l n="10">Πλευρῶν’ ἐς ἐϋκτ[ιμέναν</l>
 				<l>χρυσάσπιδος υἱὸ[ν Ἄρηος</l>
 				
-				<note lang="en" resp="P" type="Text" anchored="yes">The rest is lost.</note></p></div2>
+				<note lang="en" resp="P" type="Text" anchored="yes">The rest is lost.</note></p></div>
 			
-		</div1>
+		</div>
 	</body></text></TEI.2>

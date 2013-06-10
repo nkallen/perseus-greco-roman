@@ -71,7 +71,7 @@ cvs log keyword
 	<text lang="en">
 		<body>
 
-			<div1 type="book" n="1">
+			<div type="book" n="1">
 				<head>THE CIVIL WARS</head>
 				<!--
 					<head>THE ROMAN HISTORY OF APPIAN OF ALEXANDRIA</head>
@@ -91,7 +91,7 @@ cvs log keyword
 					</cit></epigraph>
 				-->
 
-				<div2 type="chapter" n="0" id="b1c0">
+				<div type="chapter" n="0" id="b1c0">
 					<head>INTRODUCTION</head>
 					<milestone n="1" unit="section"/>
 					<p>THE plebeians<note anchored="yes" resp="HW" place="foot">
@@ -239,8 +239,8 @@ cvs log keyword
 						and the greatest achievement, the battle of <placeName key="perseus,Actium,Acarnania">Actium</placeName>, fought by Octavius C&aelig;sar against Antony
 						and Cleopatra together, which will be the beginning of the Egyptian
 						history.</p>
-				</div2>
-				<div2 type="chapter" n="1" id="b1c1">
+				</div>
+				<div type="chapter" n="1" id="b1c1">
 					<head>CHAPTER I</head>
 					<argument>
 						<p>The Roman Public Domain -- The Licinian Law--The Agrarian Law of Tiberius
@@ -455,8 +455,8 @@ cvs log keyword
 						saying that as soon as Gracchus should become a private citizen he would be
 						sorry that he had done despite to the sacred and inviolable office of
 						tribune, and had opened such a fountain of discord in <placeName key="tgn,1000080">Italy</placeName>.</p>
-				</div2>
-				<div2 type="chapter" n="2" id="b1c2">
+				</div>
+				<div type="chapter" n="2" id="b1c2">
 					<head>CHAPTER II</head>
 					<argument>
 						<p>New Election of Tribunes -- Riot on the <placeName key="tgn,7006963">Capitoline Hill</placeName>--Death of Gracchus</p>
@@ -544,8 +544,8 @@ cvs log keyword
 						considered that everything had turned out for them exactly as they wished.
 						These things took place at the time when Aristonicus was contending with the
 						Romans for the government of <placeName key="tgn,1000004">Asia</placeName>.</p>
-				</div2>
-				<div2 type="chapter" n="3" id="b1c3">
+				</div>
+				<div type="chapter" n="3" id="b1c3">
 					<head>CHAPTER III</head>
 					<argument>
 						<p>Litigation under the Law of Gracchus--Scipio &AElig;milianus employed
@@ -792,8 +792,8 @@ cvs log keyword
 						death. After this a lustration was performed in behalf of the city for the
 						bloodshed, and the Senate ordered the building of a temple to Concord in the
 						forum.</p>
-				</div2>
-				<div2 type="chapter" n="4" id="b1c4">
+				</div>
+				<div type="chapter" n="4" id="b1c4">
 					<head>CHAPTER IV</head>
 					<argument>
 						<p>Failure of the Agrarian Law--The Killing of Nonius--Division of Gallic
@@ -958,8 +958,8 @@ cvs log keyword
 						him at the city gates. Such was the third civil strife (that of Saturninus)
 						which succeeded those of the two Gracchi, and such results it brought to the
 						Romans.</p>
-				</div2>
-				<div2 type="chapter" n="5" id="b1c5">
+				</div>
+				<div type="chapter" n="5" id="b1c5">
 					<head>CHAPTER V</head>
 					<argument>
 						<p>Origin of the Social War--Measures of Livius Drusus--Murder of Drusus --
@@ -1181,8 +1181,8 @@ cvs log keyword
 						fell, lest others should be deterred by the spectacle from entering the
 						army. When the enemy heard of this they made a similar decree for
 						themselves.</p>
-				</div2>
-				<div2 type="chapter" n="6" id="b1c6">
+				</div>
+				<div type="chapter" n="6" id="b1c6">
 					<head>CHAPTER VI</head>
 					<argument>
 						<p>Defeat and Death of Q. C&aelig;pio--Defeat of Sextus
@@ -1393,8 +1393,8 @@ cvs log keyword
 						accomplice, who should give testimony leading to the conviction of the
 						murderers of Asellio, but nobody gave any information. The money-lenders
 						covered up everything.</p>
-				</div2>
-				<div2 type="chapter" n="7" id="b1c7">
+				</div>
+				<div type="chapter" n="7" id="b1c7">
 					<head>CHAPTER VII</head>
 					<argument>
 						<p>The Civil Wars of Marius and Sulla--The Command against
@@ -1605,8 +1605,8 @@ cvs log keyword
 							Gn&aelig;us Pompeius the proconsul procured the murder of Quintus
 							Pompeius the consul, when the latter came to supersede him.</note>
 					</p>
-				</div2>
-				<div2 type="chapter" n="8" id="b1c8">
+				</div>
+				<div type="chapter" n="8" id="b1c8">
 					<head>CHAPTER VIII</head>
 					<argument>
 						<p>Attempted Revolution of Cinna--Cinna expelled from the City--Raises an
@@ -1866,8 +1866,8 @@ cvs log keyword
 						all sorts of terrible designs against Sulla. Cinna caused Valerius Flaccus
 						to be chosen in his place and sent him to Asia, and when Flaccus lost his
 						life Cinna chose Carbo as his successor.</p>
-				</div2>
-				<div2 type="chapter" n="9" id="b1c9">
+				</div>
+				<div type="chapter" n="9" id="b1c9">
 					<head>CHAPTER IX</head>
 					<argument>
 						<p>Sulla ends the Mithridatic War--Prepares to return to Rome--Death of
@@ -2050,8 +2050,8 @@ cvs log keyword
 						Metellus fought a battle against Norbanus at Canusium and killed 6000 of his
 						men, while Sulla's loss was seventy, but many of his men were wounded.
 						Norbanus retreated to Capua.</p>
-				</div2>
-				<div2 type="chapter" n="10" id="b1c10">
+				</div>
+				<div type="chapter" n="10" id="b1c10">
 					<head>CHAPTER X</head>
 					<argument>
 						<p>Desertions to Sulla--Sertorius goes to Spain--Success of Sulla's
@@ -2296,8 +2296,8 @@ cvs log keyword
 						town. A strong wind fanned the flames, which so far consumed the place that
 						no plunder was left in it. In this way did these stout-hearted men
 						perish.</p>
-				</div2>
-				<div2 type="chapter" n="11" id="b1c11">
+				</div>
+				<div type="chapter" n="11" id="b1c11">
 					<head>CHAPTER XI</head>
 					<argument>
 						<p>Proscription and Massacre by Sulla--Confiscation and Murder in the
@@ -2535,8 +2535,8 @@ cvs log keyword
 						reign, dragged him from the palace to the gymnasium and put him to death; so
 						little fear had they of foreigners, either by reason of the magnitude of
 						their own government or their inexperience as yet of external dangers.</p>
-				</div2>
-				<div2 type="chapter" n="12" id="b1c12">
+				</div>
+				<div type="chapter" n="12" id="b1c12">
 					<head>CHAPTER XII</head>
 					<argument>
 						<p>Sulla's Abdication--Character of Sulla--His Death, and Funeral</p>
@@ -2654,8 +2654,8 @@ cvs log keyword
 						young. Then strong men of the senators took up the litter and carried it to
 						the Campus Martius, where only kings were buried, and the knights and the
 						army coursed around the funeral pile. And this was the last of Sulla.</p>
-				</div2>
-				<div2 type="chapter" n="13" id="b1c13">
+				</div>
+				<div type="chapter" n="13" id="b1c13">
 					<head>CHAPTER XIII</head>
 					<argument>
 						<p>New Dissensions in Rome--The War with Sertorius--Pompey sent against
@@ -2869,8 +2869,8 @@ cvs log keyword
 							of the conspirators against Sertorius who fell into Pompey's hands were
 							put to death by his orders. (<title>Life of Sertorius,</title>
 							27.)</note></p>
-				</div2>
-				<div2 type="chapter" n="14" id="b1c14">
+				</div>
+				<div type="chapter" n="14" id="b1c14">
 					<head>CHAPTER XIV</head>
 					<argument>
 						<p>The War with Spartacus--He defeats the Romans in Several
@@ -3014,11 +3014,11 @@ cvs log keyword
 							<figDesc>Visconti's <title>Rom. Icon.</title> (Duruy)</figDesc>
 						</figure>
 					</p>
-				</div2>
-			</div1>
-			<div1 type="book" n="2">
+				</div>
+			</div>
+			<div type="book" n="2">
 				<head>BOOK II</head>
-				<div2 type="chapter" n="1" id="b2c1">
+				<div type="chapter" n="1" id="b2c1">
 					<head>CHAPTER I</head>
 					<argument>
 						<p>The Conspiracy of Catiline -- Discovered by Cicero -- The Conspirators
@@ -3161,8 +3161,8 @@ cvs log keyword
 						immediately upon their accession, but is decreed to them in the progress of
 						time, not as a matter of course, but as a final testimonial of the greatest
 						services.</p>
-				</div2>
-				<div2 type="chapter" n="2" id="b2c2">
+				</div>
+				<div type="chapter" n="2" id="b2c2">
 					<head>CHAPTER II</head>
 					<argument>
 						<p>C&aelig;sar in Spain--The Triumvirate of C&aelig;sar, Pompey, and
@@ -3335,8 +3335,8 @@ cvs log keyword
 						one enemy in order to revenge himself on another. It appears, however, that
 						Clodius had previously requited C&aelig;sar by helping him to secure the
 						governorship of Gaul. </p>
-				</div2>
-				<div2 type="chapter" n="3" id="b2c3">
+				</div>
+				<div type="chapter" n="3" id="b2c3">
 					<head>CHAPTER III</head>
 					<argument>
 						<p>Clodius prosecutes Cicero for putting Citizens to Death without Trial --
@@ -3548,8 +3548,8 @@ cvs log keyword
 						own second consulship was embraced in the period, and that he had reached
 						back a considerable time in order to effect a complete cure of the evils
 						from which the republic had been so long wasting away.</p>
-				</div2>
-				<div2 type="chapter" n="4" id="b2c4">
+				</div>
+				<div type="chapter" n="4" id="b2c4">
 					<head>CHAPTER IV</head>
 					<argument>
 						<p>Prosecutions for Bribery -- C&aelig;sar authorized to stand for the
@@ -3784,8 +3784,8 @@ cvs log keyword
 						as tribune was about expiring, and he feared for his safety and despaired of
 						being able to render any further assistance to C&aelig;sar, he hastily
 						departed to join the latter. </p>
-				</div2>
-				<div2 type="chapter" n="5" id="b2c5">
+				</div>
+				<div type="chapter" n="5" id="b2c5">
 					<head>CHAPTER V</head>
 					<argument>
 						<p>C&aelig;sar offers to lay down his Arms at the Same Time with
@@ -3933,8 +3933,8 @@ cvs log keyword
 						Capua, and the consuls followed him. The other senators remained undecided a
 						long time and passed the night together in the senate-house. At daybreak,
 						however, most of them departed and hastened after Pompey.</p>
-				</div2>
-				<div2 type="chapter" n="6" id="b2c6">
+				</div>
+				<div type="chapter" n="6" id="b2c6">
 					<head>CHAPTER VI</head>
 					<argument>
 						<p>C&aelig;sar captures Corfinium and L. Domitius--The Consuls cross
@@ -4130,8 +4130,8 @@ cvs log keyword
 							is given by C&aelig;sar himself (i. 37-87), showing how he
 							man&oelig;uvred the enemy into a surrender without coming to a
 							general engagement.</note></p>
-				</div2>
-				<div2 type="chapter" n="7" id="b2c7">
+				</div>
+				<div type="chapter" n="7" id="b2c7">
 					<head>CHAPTER VII</head>
 					<argument>
 						<p>Campaign of Curio in Africa -- He is defeated and killed -- Mutiny in
@@ -4267,8 +4267,8 @@ cvs log keyword
 						with Pompey, for it was evident that whichever of them should conquer would
 						wield sovereign power. C&aelig;sar departed on his journey and travelled
 						with all possible speed.</p>
-				</div2>
-				<div2 type="chapter" n="8" id="b2c8">
+				</div>
+				<div type="chapter" n="8" id="b2c8">
 					<head>CHAPTER VIII</head>
 					<argument>
 						<p>Pompey's Forces -- Pompey's Speech to his Army -- C&aelig;sar at
@@ -4470,8 +4470,8 @@ cvs log keyword
 						concealed his intention and sent three servants to the river, a distance of
 						twelve stades, to procure a fast-sailing vessel and a first rate pilot as
 						for a messenger sent by C&aelig;sar. </p>
-				</div2>
-				<div2 type="chapter" n="9" id="b2c9">
+				</div>
+				<div type="chapter" n="9" id="b2c9">
 					<head>CHAPTER IX</head>
 					<argument>
 						<p>C&aelig;sar attempts to cross the Adriatic in a Small Boat--Sends for
@@ -4671,8 +4671,8 @@ cvs log keyword
 							of these operations and of the fighting around Dyrrachium, as well as of
 							the battle of Pharsalus, are given in the military history of
 							C&aelig;sar by Col. Theodore Ayrault Dodge.</note></p>
-				</div2>
-				<div2 type="chapter" n="10" id="b2c10">
+				</div>
+				<div type="chapter" n="10" id="b2c10">
 					<head>CHAPTER X</head>
 					<argument>
 						<p>C&aelig;sar encourages his Men -- Marches to Thessaly -- Pompey
@@ -4978,8 +4978,8 @@ cvs log keyword
 						insubordinate to its own commander, and hurried into action without previous
 						experience in war. But this was the ordering of divine Providence to bring
 						in the imperial power which now embraces everything.</p>
-				</div2>
-				<div2 type="chapter" n="11" id="b2c11">
+				</div>
+				<div type="chapter" n="11" id="b2c11">
 					<head>CHAPTER XI</head>
 					<argument>
 						<p>Speeches of the Commanders -- Preparations for Battle -- Battle of
@@ -5335,8 +5335,8 @@ cvs log keyword
 							author who took them from Pollio. (See Vollgraff's <title>Greek Writers
 								of Roman History,</title> Leyden, <date value="1880">1880</date>.)</note>
 					</p>
-				</div2>
-				<div2 type="chapter" n="12" id="b2c12">
+				</div>
+				<div type="chapter" n="12" id="b2c12">
 					<head>CHAPTER XII</head>
 					<argument>
 						<p>Pompey sails for Egypt -- Is assassinated there -- Retreat of the
@@ -5472,8 +5472,8 @@ cvs log keyword
 						collected and drilled a large army there. Thus two armies of considerable
 						magnitude were brought together against C&aelig;sar, one in Africa and
 						the other in Spain. </p>
-				</div2>
-				<div2 type="chapter" n="13" id="b2c13">
+				</div>
+				<div type="chapter" n="13" id="b2c13">
 					<head>CHAPTER XIII</head>
 					<argument>
 						<p>C&aelig;sar pursues Pompey -- Passes through Asia Minor -- The
@@ -5679,8 +5679,8 @@ cvs log keyword
 						put them to death. But C&aelig;sar, seeing that there was no need of
 						stimulating them any further when they had repented so bitterly, became
 						reconciled to all, and departed straightway for the war in Africa.</p>
-				</div2>
-				<div2 type="chapter" n="14" id="b2c14">
+				</div>
+				<div type="chapter" n="14" id="b2c14">
 					<head>CHAPTER XIV</head>
 					<argument>
 						<p>C&aelig;sar sails for Africa -- The Forces arrayed against him --
@@ -5860,8 +5860,8 @@ cvs log keyword
 						general-in-chief, was overtaken by a storm, and met a hostile fleet and bore
 						himself bravely until he was overpowered, when he stabbed himself and leaped
 						into the sea. This was the end of C&aelig;sar's war in Africa.</p>
-				</div2>
-				<div2 type="chapter" n="15" id="b2c15">
+				</div>
+				<div type="chapter" n="15" id="b2c15">
 					<head>CHAPTER XV</head>
 					<argument>
 						<p>C&aelig;sar's Four Triumphs -- C&aelig;sar marches against Young
@@ -6016,8 +6016,8 @@ cvs log keyword
 						named Pompeius but called by his first name, Sextus, collected those who
 						escaped from this fight; but as yet he kept moving about in concealment and
 						lived by robbery. </p>
-				</div2>
-				<div2 type="chapter" n="16" id="b2c16">
+				</div>
+				<div type="chapter" n="16" id="b2c16">
 					<head>CHAPTER XVI</head>
 					<argument>
 						<p>Unexampled Honors bestowed on C&aelig;sar -- He dismisses his
@@ -6414,8 +6414,8 @@ cvs log keyword
 							according to the physician Antistius, there was only one that was
 							mortal, and that was the second one, which he had received in the
 							breast."</note></p>
-				</div2>
-				<div2 type="chapter" n="17" id="b2c17">
+				</div>
+				<div type="chapter" n="17" id="b2c17">
 					<head>CHAPTER XVII</head>
 					<argument>
 						<p>Panic in the City -- The Murderers take possession of the Capitol --
@@ -6617,8 +6617,8 @@ cvs log keyword
 						much divided in opinion. That same night C&aelig;sar's money and his
 						official papers were transferred to Antony's house, either because Calpurnia
 						thought that they would be safer there or because Antony ordered it.</p>
-				</div2>
-				<div2 type="chapter" n="18" id="b2c18">
+				</div>
+				<div type="chapter" n="18" id="b2c18">
 					<head>CHAPTER XVIII</head>
 					<argument>
 						<p>Antony summons the Senate -- Debate on the Killing of C&aelig;sar --
@@ -6862,8 +6862,8 @@ cvs log keyword
 						threatened him with a public prosecution for defrauding the people of such
 						an amount of wealth which ought to go into the public treasury; thus giving
 						new signs that they were suspicious of a tyranny.</p>
-				</div2>
-				<div2 type="chapter" n="19" id="b2c19">
+				</div>
+				<div type="chapter" n="19" id="b2c19">
 					<head>CHAPTER XIX</head>
 					<argument>
 						<p>Piso calls for the Reading of C&aelig;sar's Will -- Brutus addresses
@@ -7028,8 +7028,8 @@ cvs log keyword
 						done. The minds of the consuls were much disturbed by fear and envy lest the
 						conspirators should get the upper hand of them in other political
 						matters.</p>
-				</div2>
-				<div2 type="chapter" n="20" id="b2c20">
+				</div>
+				<div type="chapter" n="20" id="b2c20">
 					<head>CHAPTER XX</head>
 					<argument>
 						<p>The Reading of C&aelig;sar's Will -- Antony's Funeral Oration -- The
@@ -7204,8 +7204,8 @@ cvs log keyword
 						his death if he has not reigned in a tyrannical manner or made himself
 						odious, although at first they could not bear to call them kings while
 						living.</p>
-				</div2>
-				<div2 type="chapter" n="21" id="b2c21">
+				</div>
+				<div type="chapter" n="21" id="b2c21">
 					<head>CHAPTER XXI</head>
 					<argument>
 						<p>Comparison of C&aelig;sar with Alexander</p>
@@ -7389,11 +7389,11 @@ cvs log keyword
 							<figDesc>In the Vatican Museum, Rome</figDesc>
 						</figure>
 					</p>
-				</div2>
-			</div1>
-			<div1 type="book" n="3">
+				</div>
+			</div>
+			<div type="book" n="3">
 				<head>BOOK III</head>
-				<div2 type="chapter" n="1" id="b3c1">
+				<div type="chapter" n="1" id="b3c1">
 					<head>CHAPTER I</head>
 					<argument>
 						<p>The City after C&aelig;sar's Funeral -- Antony puts the False Marius
@@ -7631,8 +7631,8 @@ cvs log keyword
 						provinces for Brutus and Cassius. They assigned to them Cyrenaica and Crete;
 						or, as some say, both of these to Cassius and Bithynia to Brutus. Such was
 						the state of affairs at Rome.</p>
-				</div2>
-				<div2 type="chapter" n="2" id="b3c2">
+				</div>
+				<div type="chapter" n="2" id="b3c2">
 					<head>CHAPTER II</head>
 					<argument>
 						<p>The Young Octavius in Apollonia -- He comes to Italy -- C&aelig;sar's
@@ -7966,8 +7966,8 @@ cvs log keyword
 						have been lately pursuing, are as unstable as the waves of the sea, now
 						advancing, now retreating. In like manner, among us also, the people are
 						forever exalting their favorites, and casting them down again."</p>
-				</div2>
-				<div2 type="chapter" n="3" id="b3c3">
+				</div>
+				<div type="chapter" n="3" id="b3c3">
 					<head>CHAPTER III</head>
 					<argument>
 						<p>Disagreement between Antony and Octavius -- Litigation over
@@ -8162,8 +8162,8 @@ cvs log keyword
 							days. After cutting his head from his shoulders he commanded that it be
 							carried on a pike. The rest of his body was dragged about, mangled, and
 							cast into the sea." (<title>Phil.</title> xi. 2.)</note></p>
-				</div2>
-				<div2 type="chapter" n="4" id="b3c4">
+				</div>
+				<div type="chapter" n="4" id="b3c4">
 					<head>CHAPTER IV</head>
 					<argument>
 						<p>Antony brings the Macedonian Army to Italy -- Growing Rivalry between
@@ -8276,8 +8276,8 @@ cvs log keyword
 						assistance from Antony in return. The tribunes had been corrupted with money
 						by Antony and remained silent. So the law was passed and Antony now with
 						plausible reason brought his army across the Adriatic.</p>
-				</div2>
-				<div2 type="chapter" n="5" id="b3c5">
+				</div>
+				<div type="chapter" n="5" id="b3c5">
 					<head>CHAPTER V</head>
 					<argument>
 						<p>Antony again opposes Octavius -- The Tribunes intervene again-- Antony
@@ -8484,8 +8484,8 @@ cvs log keyword
 							this speech was composed by Appian and put in the mouth of Antony there
 							is little room to doubt. It contains errors as to dates and as to the
 							order of events which Antony could not have made.</note></p>
-				</div2>
-				<div2 type="chapter" n="6" id="b3c6">
+				</div>
+				<div type="chapter" n="6" id="b3c6">
 					<head>CHAPTER VI</head>
 					<argument>
 						<p>Octavius accused of attempting to assassinate Antony -- He denies the
@@ -8636,8 +8636,8 @@ cvs log keyword
 						went back to him. Octavius had already proceeded with new supplies of money
 						to Ravenna and the neighboring parts, enlisting new forces continually and
 						sending them all to Arretium.</p>
-				</div2>
-				<div2 type="chapter" n="7" id="b3c7">
+				</div>
+				<div type="chapter" n="7" id="b3c7">
 					<head>CHAPTER VII</head>
 					<argument>
 						<p>Mutiny among Antony's Troops -- He punishes them-- Octavius excites
@@ -8820,8 +8820,8 @@ cvs log keyword
 						drachmas each if they were victorious. Thus, by means of lavish gifts, did
 						Octavius bind these mercenaries to himself. Such was the course of events in
 						Italy. </p>
-				</div2>
-				<div2 type="chapter" n="8" id="b3c8">
+				</div>
+				<div type="chapter" n="8" id="b3c8">
 					<head>CHAPTER VIII</head>
 					<argument>
 						<p>Antony orders Decimus Brutus to withdraw from Cisalpine Gaul -- Decimus
@@ -9234,8 +9234,8 @@ cvs log keyword
 						Syria and that he should make war against Dolabella, and that all other
 						commanders of Roman provinces and soldiers between the Adriatic sea and the
 						Orient should obey the orders of Cassius and Brutus in all things. </p>
-				</div2>
-				<div2 type="chapter" n="9" id="b3c9">
+				</div>
+				<div type="chapter" n="9" id="b3c9">
 					<head>CHAPTER IX</head>
 					<argument>
 						<p>Octavius alarmed by the Action of the Senate -- Octavius, Hirtius, and
@@ -9428,8 +9428,8 @@ cvs log keyword
 								Fam.</title> x. 30.) In the fourteenth Philippic (14) Cicero says
 							that Hirtius did not lose a man in the second engagement.</note>
 					</p>
-				</div2>
-				<div2 type="chapter" n="10" id="b3c10">
+				</div>
+				<div type="chapter" n="10" id="b3c10">
 					<head>CHAPTER X</head>
 					<argument>
 						<p>Octavius and Hirtius defeat Antony at Mutina -- Death of Hirtius --
@@ -9630,8 +9630,8 @@ cvs log keyword
 							of the death-bed interview with Pansa may have been invented during the
 							reign of Augustus, to avert the suspicion of foul play against
 							Pansa.</note></p>
-				</div2>
-				<div2 type="chapter" n="11" id="b3c11">
+				</div>
+				<div type="chapter" n="11" id="b3c11">
 					<head>CHAPTER XI</head>
 					<argument>
 						<p>Cassius raises an Army -- State of Affairs in Syria--Brutus captures
@@ -9867,8 +9867,8 @@ cvs log keyword
 							story is incongruous with known facts. The Epitome of Livy makes no
 							mention of it.</note>
 					</p>
-				</div2>
-				<div2 type="chapter" n="12" id="b3c12">
+				</div>
+				<div type="chapter" n="12" id="b3c12">
 					<head>CHAPTER XII</head>
 					<argument>
 						<p>Antony encamps near Lepidus -- They unite their Forces and Ventidius
@@ -10009,8 +10009,8 @@ cvs log keyword
 						Octavius feared the effect it might have on his mercenaries. So he secretly
 						sent forward a force to scare away the convoy, and they took to flight with
 						the money.</p>
-				</div2>
-				<div2 type="chapter" n="13" id="b3c13">
+				</div>
+				<div type="chapter" n="13" id="b3c13">
 					<head>CHAPTER XIII</head>
 					<argument>
 						<p>Alarm in the City -- Mutual Criminations in the Senate -- Vacillating
@@ -10183,8 +10183,8 @@ cvs log keyword
 							effected by him with Antony through Marcus Lepidus, he came to Rome with
 							his army, struck terror into those who had treated him unjustly, and was
 							created consul when he was nineteen years of age."</note></p>
-				</div2>
-				<div2 type="chapter" n="14" id="b3c14">
+				</div>
+				<div type="chapter" n="14" id="b3c14">
 					<head>CHAPTER XIV</head>
 					<argument>
 						<p>Indictment and Trial of C&aelig;sar's Murderers -- The Senate
@@ -10301,8 +10301,8 @@ cvs log keyword
 						a year and a half of the assassination. About the same time Minucius
 						Basilus, another of C&aelig;sar's murderers, was killed by his slaves,
 						some of whom he was castrating by way of punishment. </p>
-				</div2>
-				<div2 type="chapter" n="appendix">
+				</div>
+				<div type="chapter" n="appendix">
 					<head>Antony to Hirtius and Octavius</head>
 					<quote>WHEN I heard of the death of Trebonius I was both glad and sorry. It
 						rejoiced me to know-that a wretch had paid the penalty due to the ashes and
@@ -10377,12 +10377,12 @@ cvs log keyword
 					<note anchored="yes" resp="HW" place="foot">Cicero said that the only answer
 						made by Hirtius and Octavius to this letter was to move nearer to Antony's
 						works. (<title>Phil.</title> xiii, 20.)</note>
-				</div2>
-			</div1>
+				</div>
+			</div>
 
-			<div1 type="book" n="4">
+			<div type="book" n="4">
 				<head>BOOK IV</head>
-				<div2 type="chapter" n="1" id="b4c1">
+				<div type="chapter" n="1" id="b4c1">
 					<head>CHAPTER I</head>
 					<argument>
 						<p>Reconciliation of Octavius and Antony -- The New Triumvirate of Octavius,
@@ -10467,8 +10467,8 @@ cvs log keyword
 						Etruria. The oldest of them said that the kingly rule of former times was
 						coming back, and that they would all be slaves except himself, whereupon he
 						closed his mouth and held his breath till he was dead.</p>
-				</div2>
-				<div2 type="chapter" n="2" id="b4c2">
+				</div>
+				<div type="chapter" n="2" id="b4c2">
 					<head>CHAPTER II</head>
 					<argument>
 						<p>Proscription decreed by the Triumvirs -- First Massacre -- The Triumvirs
@@ -10620,8 +10620,8 @@ cvs log keyword
 						rendered from Latin into Greek.<note anchored="yes" resp="HW" place="foot">This is the only copy of this hideous instrument that has come down to
 							us. The text corresponds with all that we glean from other authorities
 							concerning it.</note></p>
-				</div2>
-				<div2 type="chapter" n="3" id="b4c3">
+				</div>
+				<div type="chapter" n="3" id="b4c3">
 					<head>CHAPTER III</head>
 					<argument>
 						<p>The Triumvirs put some of their Own Near Relatives on the List of the
@@ -10733,8 +10733,8 @@ cvs log keyword
 						historians successively. By way of summary, and to shorten my narrative, I
 						shall record a few of each kind in order to confirm the truth of each and to
 						illustrate the happiness of the present time.</p>
-				</div2>
-				<div2 type="chapter" n="4" id="b4c4">
+				</div>
+				<div type="chapter" n="4" id="b4c4">
 					<head>CHAPTER IV</head>
 					<argument>
 						<p>The Tribune Salvius slain at a Banquet -- Annalis and Thoranius betrayed
@@ -11080,8 +11080,8 @@ cvs log keyword
 						with silent tears till the people became exasperated, and the triumvirs made
 						him again the slave of the sons of the proscript, for doing more than was
 						needful. Such were the evils that befell the men.</p>
-				</div2>
-				<div2 type="chapter" n="5" id="b4c5">
+				</div>
+				<div type="chapter" n="5" id="b4c5">
 					<head>CHAPTER V</head>
 					<argument>
 						<p>Children Proscribed for their Wealth -- Sales of Confiscated Property --
@@ -11204,8 +11204,8 @@ cvs log keyword
 						he should excite their rage against himself, but he seized and crucified
 						certain slaves who were masquerading as soldiers and committing outrages in
 						company with them. </p>
-				</div2>
-				<div2 type="chapter" n="6" id="b4c6">
+				</div>
+				<div type="chapter" n="6" id="b4c6">
 					<head>CHAPTER VI</head>
 					<argument>
 						<p>Examples of the Proscribed who escaped -- The Brother of Lepidus and the
@@ -11604,8 +11604,8 @@ cvs log keyword
 						images of Brutus, and Octavius praised him for doing so. Such were some of
 						the most remarkable cases where the proscribed were lost or saved. Many
 						others I have omitted.</p>
-				</div2>
-				<div2 type="chapter" n="7" id="b4c7">
+				</div>
+				<div type="chapter" n="7" id="b4c7">
 					<head>CHAPTER VII</head>
 					<argument>
 						<p>The War in the Provinces -- Cornificius and Sextius in Africa -- The
@@ -11703,8 +11703,8 @@ cvs log keyword
 						the cities into allegiance to Octavius and granted pardon to all. This was
 						the end of the war in Africa between Sextius and Cornificius, which seemed
 						inconsiderable by reason of the rapidity with which it was prosecuted.</p>
-				</div2>
-				<div2 type="chapter" n="8" id="b4c8">
+				</div>
+				<div type="chapter" n="8" id="b4c8">
 					<head>CHAPTER VIII</head>
 					<argument>
 						<p>Brutus and Cassius -- How Cassius raised an Army in Syria -- He gains
@@ -11880,8 +11880,8 @@ cvs log keyword
 						from Syria, took pity on their sufferings and released them from the
 						remainder of the contribution. Such were the calamities that befell Tarsus
 						and Laodicea.</p>
-				</div2>
-				<div2 type="chapter" n="9" id="b4c9">
+				</div>
+				<div type="chapter" n="9" id="b4c9">
 					<head>CHAPTER IX</head>
 					<argument>
 						<p>Cassius summons Rhodes to surrender -- The Rhodians resolve to fight --
@@ -12102,8 +12102,8 @@ cvs log keyword
 						decked ships, to the Peloponnesus, to lie in wait in the neighborhood of
 						T&aelig;narum and to collect what booty they could from that country.
 					</p>
-				</div2>
-				<div2 type="chapter" n="10" id="b4c10">
+				</div>
+				<div type="chapter" n="10" id="b4c10">
 					<head>CHAPTER X</head>
 					<argument>
 						<p>Brutus in Macedonia -- He marches against Xanthus -- Desperate Defence of
@@ -12278,8 +12278,8 @@ cvs log keyword
 						they might not be captured by Murcus. As he fared badly he called for help
 						from Octavius, who was contending on the water with Sextus Pompeius along
 						the coast of Sicily for possession of that island.</p>
-				</div2>
-				<div2 type="chapter" n="11" id="b4c11">
+				</div>
+				<div type="chapter" n="11" id="b4c11">
 					<head>CHAPTER XI</head>
 					<argument>
 						<p>Doings of Sextus Pompeius in Spain -- He sails to Sicily -- Sea-fight
@@ -12436,8 +12436,8 @@ cvs log keyword
 						and 4000 mounted bowmen, Arabs, Medes, and Parthians. The allied kings and
 						tetrarchs of the Galatians in Asia followed him, leading a large additional
 						force of foot-soldiers and about 5000 horse.</p>
-				</div2>
-				<div2 type="chapter" n="12" id="b4c12">
+				</div>
+				<div type="chapter" n="12" id="b4c12">
 					<head>CHAPTER XII</head>
 					<argument>
 						<p>Brutus and Cassius arrive at the Gulf of Melas -- Speech of Cassius to
@@ -12697,8 +12697,8 @@ cvs log keyword
 							Mount Serrium are mentioned in Pliny's <title>Natural History</title>
 							(iv. 18).</note>
 					</p>
-				</div2>
-				<div2 type="chapter" n="13" id="b4c13">
+				</div>
+				<div type="chapter" n="13" id="b4c13">
 					<head>CHAPTER XIII</head>
 					<argument>
 						<p>Tillius Cimber flanks the Enemy with his Fleet -- Brutus and Cassius
@@ -12820,8 +12820,8 @@ cvs log keyword
 						Thasos, 100 stades distant. Their triremes were anchored at Neapolis, at a
 						distance of seventy stades. Brutus and Cassius were satisfied with the
 						position and they proceeded to fortify their camps.</p>
-				</div2>
-				<div2 type="chapter" n="14" id="b4c14">
+				</div>
+				<div type="chapter" n="14" id="b4c14">
 					<head>CHAPTER XIV</head>
 					<argument>
 						<p>Antony arrives at Amphipolis -- Advances boldly to Philippi -- The Forces
@@ -12980,8 +12980,8 @@ cvs log keyword
 							casualties of battles in ancient times. (<title>Life of Brutus,</title>
 							45.)</note>
 					</p>
-				</div2>
-				<div2 type="chapter" n="15" id="b4c15">
+				</div>
+				<div type="chapter" n="15" id="b4c15">
 					<head>CHAPTER XV</head>
 					<argument>
 						<p>Cassius commits Suicide -- Brutus weeps over his Body -- Naval Engagement
@@ -13067,8 +13067,8 @@ cvs log keyword
 						that the battle of Philippi was fought, whether it be more fitly called a
 						shipwreck or a naval engagement. The coincidence of the two battles caused
 						amazement when it became known later.</p>
-				</div2>
-				<div2 type="chapter" n="16" id="b4c16">
+				</div>
+				<div type="chapter" n="16" id="b4c16">
 					<head>CHAPTER XVI</head>
 					<argument>
 						<p>Brutus addresses his Army -- Speech of Antony to his Soldiers -- He
@@ -13370,8 +13370,8 @@ cvs log keyword
 						better than you think -- as much better as a friend is than an enemy." Then
 						he committed Lucilius to the care of one of his friends, and later took him
 						into his own service and employed him in a confidential capacity.</p>
-				</div2>
-				<div2 type="chapter" n="17" id="b4c17">
+				</div>
+				<div type="chapter" n="17" id="b4c17">
 					<head>CHAPTER XVII</head>
 					<argument>
 						<p>Brutus escapes to the Mountains -- His Officers decline to fight again --
@@ -13621,8 +13621,8 @@ cvs log keyword
 						were not to be compared to the former in daring or in the devotion of men,
 						cities, and armies to their leaders; nor did any of the nobility, nor the
 						Senate, nor the same glory, attend them as attended Brutus and Cassius. </p>
-				</div2>
-				<div2 type="chapter" n="appendix">
+				</div>
+				<div type="chapter" n="appendix">
 					<head>BY THE TRANSLATOR</head>
 					<head>The Death of Cicero</head>
 					<p>"Just before the arrival of the triumvirs Marcus Cicero left the city,
@@ -13795,11 +13795,11 @@ cvs log keyword
 						mouth, drew out the tongue, and pierced it with pins that she used in
 						dressing her hair, all the time heaping disgusting epithets upon it."
 							(<title>Dion,</title> xlvii. 8.) </p>
-				</div2>
-			</div1>
-			<div1 type="book" n="5">
+				</div>
+			</div>
+			<div type="book" n="5">
 				<head>BOOK V</head>
-				<div2 type="chapter" n="1" id="b5c1">
+				<div type="chapter" n="1" id="b5c1">
 					<head>CHAPTER I</head>
 					<argument>
 						<p>The Scattered Republican forces -- How they were reassembled -- Octavius
@@ -14058,8 +14058,8 @@ cvs log keyword
 						the schools, and the discussions of the learned, and spent his time with
 						Greeks, out of deference to Cleopatra, to whom his sojourn in Alexandria was
 						wholly devoted. Such was the state of affairs with Antony.</p>
-				</div2>
-				<div2 type="chapter" n="2" id="b5c2">
+				</div>
+				<div type="chapter" n="2" id="b5c2">
 					<head>CHAPTER II</head>
 					<argument>
 						<p>Octavius returns to Rome -- Consternation among the Italians --
@@ -14236,8 +14236,8 @@ cvs log keyword
 						armies depended on donatives rather than on law. Thus, everything was torn
 						in factions, and the armies indulged in insubordination toward the leaders
 						of the factions.</p>
-				</div2>
-				<div2 type="chapter" n="3" id="b5c3">
+				</div>
+				<div type="chapter" n="3" id="b5c3">
 					<head>CHAPTER III</head>
 					<argument>
 						<p>Famine in Rome -- Lucius Antonius espouses the Cause of the Citizens
@@ -14489,8 +14489,8 @@ cvs log keyword
 						broke out and Octavius set forth to take part in it, leaving Lepidus with
 						two legions to guard Rome. Most of the optimates then showed, by joining
 						Lucius, that they were not pleased with the rule of the triumvirs. </p>
-				</div2>
-				<div2 type="chapter" n="4" id="b5c4">
+				</div>
+				<div type="chapter" n="4" id="b5c4">
 					<head>CHAPTER IV</head>
 					<argument>
 						<p>War begun -- Lucius declares his Intention to restore the Republic --
@@ -14694,8 +14694,8 @@ cvs log keyword
 						their own safety still restrained him. But as Octavius was observed to treat
 						the deserters kindly, and the desire for peace increased among all, Lucius
 						began to fear lest, if he refused, he should be delivered up. </p>
-				</div2>
-				<div2 type="chapter" n="5" id="b5c5">
+				</div>
+				<div type="chapter" n="5" id="b5c5">
 					<head>CHAPTER V</head>
 					<argument>
 						<p>Lucius addresses his Soldiers on the Subject of Surrender -- Sends Envoys
@@ -14954,8 +14954,8 @@ cvs log keyword
 							fortune and at the mutability of human affairs?" Tiberius Nero had been
 							a suitor for the hand of Cicero's daughter Tullia at the time when
 							Dolabella obtained it. (<title>Ad Att.</title> vi. 6.)</note></p>
-				</div2>
-				<div2 type="chapter" n="6" id="b5c6">
+				</div>
+				<div type="chapter" n="6" id="b5c6">
 					<head>CHAPTER VI</head>
 					<argument>
 						<p>The Armies of Asinius, Plancus, and Ventidius -- Octavius gains
@@ -15207,8 +15207,8 @@ cvs log keyword
 						seemed extremely fortunate to both of the parties who were rid of her.
 						Nevertheless, Antony was much saddened by this event because he considered
 						himself in some sense the cause of it. </p>
-				</div2>
-				<div2 type="chapter" n="7" id="b5c7">
+				</div>
+				<div type="chapter" n="7" id="b5c7">
 					<head>CHAPTER VII</head>
 					<argument>
 						<p>The Mediation of Lucius Cocceius between Antony and Octavius -- Interview
@@ -15392,8 +15392,8 @@ cvs log keyword
 						send him back to the army. When he came Octavius confronted him with proofs
 						of his treachery and put him to death, and gave his army to Antony, as he
 						considered it untrustworthy.</p>
-				</div2>
-				<div2 type="chapter" n="8" id="b5c8">
+				</div>
+				<div type="chapter" n="8" id="b5c8">
 					<head>CHAPTER VIII</head>
 					<argument>
 						<p>Sextus Pompeius cuts off the Supply of Corn -- Famine in Rome -- Riot in
@@ -15649,8 +15649,8 @@ cvs log keyword
 						Embassies were received which had previously been kept waiting by his
 						orders, lawsuits were decided, ships were launched, and all other
 						preparations for the campaign were put in motion.</p>
-				</div2>
-				<div2 type="chapter" n="9" id="b5c9">
+				</div>
+				<div type="chapter" n="9" id="b5c9">
 					<head>CHAPTER IX</head>
 					<argument>
 						<p>Peace broken between Sextus and Octavius -- Antony returns to Brundusium
@@ -15887,8 +15887,8 @@ cvs log keyword
 						learned that Calvisius had arrived with the vanguard of his fleet; and, in
 						view of these two helpful and unexpected events, he allowed himself some
 						rest.</p>
-				</div2>
-				<div2 type="chapter" n="10" id="b5c10">
+				</div>
+				<div type="chapter" n="10" id="b5c10">
 					<head>CHAPTER X</head>
 					<argument>
 						<p>Terrible Storm in the Straits of Sicily -- Destruction of Octavius' Fleet
@@ -16081,8 +16081,8 @@ cvs log keyword
 						part of them into the sea, and put the remainder on the altars and burned
 						them, while the multitude chanted in unison. In this way the Romans perform
 						lustrations of the fleet. </p>
-				</div2>
-				<div2 type="chapter" n="11" id="b5c11">
+				</div>
+				<div type="chapter" n="11" id="b5c11">
 					<head>CHAPTER XI</head>
 					<argument>
 						<p>New Expedition against Sextus Pompeius -- Lepidus brings a Fleet from
@@ -16318,8 +16318,8 @@ cvs log keyword
 						straits on account of the current. He said also that he would make some
 						addition to the height of his ships. Such was the result of the naval battle
 						at Myl&aelig; between Agrippa and Papias. </p>
-				</div2>
-				<div2 type="chapter" n="12" id="b5c12">
+				</div>
+				<div type="chapter" n="12" id="b5c12">
 					<head>CHAPTER XII</head>
 					<argument>
 						<p>Octavius crosses the Straits and demands the Surrender of Tauromenium --
@@ -16632,8 +16632,8 @@ cvs log keyword
 						safety, and now, finding unexpected gain in addition, they plundered Messana
 						the whole night, in conjunction with the soldiers of Lepidus, and then
 						ranged themselves under his standards. </p>
-				</div2>
-				<div2 type="chapter" n="13" id="b5c13">
+				</div>
+				<div type="chapter" n="13" id="b5c13">
 					<head>CHAPTER XIII</head>
 					<argument>
 						<p>Lepidus lays Claim to Sicily -- Octavius tampers with his Troops --
@@ -16854,8 +16854,8 @@ cvs log keyword
 						with Octavius. He sent governors to take charge of his provinces in like
 						manner as Octavius had done, and he had thoughts of joining the latter in
 						his expedition against the Illyrians.</p>
-				</div2>
-				<div2 type="chapter" n="14" id="b5c14">
+				</div>
+				<div type="chapter" n="14" id="b5c14">
 					<head>CHAPTER XIV</head>
 					<argument>
 						<p>Sextus Pompeius flees to Antony -- Forms Plans to assist Antony or
@@ -17119,14 +17119,14 @@ cvs log keyword
 						(beginning with the time when Illyria was acquired by the Romans and
 						bringing them down to the end), and added them to the history of the
 						neighboring Macedonia. </p>
-				</div2>
-			</div1>
-			<div1 type="book" n="fragments">
+				</div>
+			</div>
+			<div type="book" n="fragments">
 				<head>FRAGMENTA</head>
 				<p>[At the end of Mendelssohn's edition of Appian are twenty-four
 						<foreign>fragmenta,</foreign> only two of which are of sufficient length to
 					be worth translating. They are the following:--] </p>
-				<div2 type="chapter" n="1">
+				<div type="chapter" n="1">
 					<head>CONCERNING REMUS AND ROMULUS<note anchored="yes" resp="HW" place="foot">This is a transcript, with slight variations, of the first of the
 							Excerpta "Concerning the Kings."</note></head>
 					<head>FROM THE COLLECTION OF MAX. TREU (<date value="1880">1880</date>)</head>
@@ -17183,8 +17183,8 @@ cvs log keyword
 						grown up; and they named it Rome. It was previously called the Tetragon,
 						because its perimeter was sixteen stades, having four stades on each side.
 					</p>
-				</div2>
-				<div2 type="chapter" n="2">
+				</div>
+				<div type="chapter" n="2">
 					<head>CONCERNING THE DIVINATION OF THE ARABS</head>
 					<head>FROM THE SAME<note anchored="yes" resp="HW" place="foot">This fragment was
 							first published in the <title>Revue Arch&aelig;ologique,</title> in
@@ -17221,8 +17221,8 @@ cvs log keyword
 						like themselves devoted to religion, practising divination, and not
 						inexperienced in drugs and astrology, they were pleased to abide there as
 						among people of like habits with themselves. </p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

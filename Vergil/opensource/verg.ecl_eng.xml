@@ -100,7 +100,7 @@ Changed names and redid headers.
 </teiHeader>
 <text>
 <body>
-<div1 type="Poem" n="1">
+<div type="poem" n="1">
 <head>MELIBOEUS TITYRUS</head>
 <sp><speaker>MELIBOEUS</speaker>
 <p><l n="tr">You, Tityrus, 'neath a broad beech-canopy</l>
@@ -214,8 +214,8 @@ Changed names and redid headers.
 <l n="tr">on green leaves pillowed: apples ripe have I,</l>
 <l n="tr">soft chestnuts, and of curdled milk enow.</l>
 <l n="tr">And, see, the farm-roof chimneys smoke afar,</l>
-<l n="tr">and from the hills the shadows lengthening fall!</l></p></sp></div1>
-<div1 type="Poem" n="2">
+<l n="tr">and from the hills the shadows lengthening fall!</l></p></sp></div>
+<div type="poem" n="2">
 <head>ALEXIS</head>
 <p><l n="tr">the shepherd Corydon with love was fired</l>
 <l n="tr">for fair Alexis, his own master's joy:</l>
@@ -305,8 +305,8 @@ Changed names and redid headers.
 <l n="tr">Your vine half-pruned hangs on the leafy elm;</l>
 <l n="tr">why haste you not to weave what need requires</l>
 <l n="tr">of pliant rush or osier? Scorned by this,</l>
-<l n="tr">elsewhere some new Alexis you will find.&rdquo;</l></p></div1>
-<div1 type="Poem" n="3">
+<l n="tr">elsewhere some new Alexis you will find.&rdquo;</l></p></div>
+<div type="poem" n="3">
 <head>MENALCAS   DAMOETAS   PALAEMON</head>
 <sp><speaker>MENALCAS</speaker>
 <p><l n="tr">Who owns the flock, Damoetas? Meliboeus?</l></p></sp>
@@ -494,8 +494,8 @@ Changed names and redid headers.
 <l n="tr">you well deserve the heifer, so does he,</l>
 <l n="tr">with all who either fear the sweets of love,</l>
 <l n="tr">or taste its bitterness. Now, boys, shut off</l>
-<l n="tr">the sluices, for the fields have drunk their fill.</l></p></sp></div1>
-<div1 type="Poem" n="4">
+<l n="tr">the sluices, for the fields have drunk their fill.</l></p></sp></div>
+<div type="poem" n="4">
 <head>POLLIO</head>
 <lg type="stanza"><l n="tr">muses of <placeName key="tgn,7003122">Sicily</placeName>, essay we now</l>
 <l n="tr">a somewhat loftier task! Not all men love</l>
@@ -575,8 +575,8 @@ Changed names and redid headers.
 <l n="tr">o baby-boy! ten months of weariness</l>
 <l n="tr">for thee she bore: O baby-boy, begin!</l>
 <l n="tr">For him, on whom his parents have not smiled,</l>
-<l n="tr">gods deem not worthy of their board or bed.</l></lg></lg></div1>
-<div1 type="Poem" n="5">
+<l n="tr">gods deem not worthy of their board or bed.</l></lg></lg></div>
+<div type="poem" n="5">
 <head>MENALCAS   MOPSUS</head>
 <sp><speaker>MENALCAS</speaker>
 <p><l n="tr">Why, Mopsus, being both together met,</l>
@@ -707,8 +707,8 @@ Changed names and redid headers.
 <l n="tr">this shepherd's crook, which, howso hard he begged,</l>
 <l n="tr">antigenes, then worthy to be loved,</l>
 <l n="tr">prevailed not to obtain&mdash;with brass, you see,</l>
-<l n="tr">and equal knots, Menalcas, fashioned fair!</l></p></sp></div1>
-<div1 type="Poem" n="6">
+<l n="tr">and equal knots, Menalcas, fashioned fair!</l></p></sp></div>
+<div type="poem" n="6">
 <head>TO VARUS</head>
 <p><l n="tr">first my Thalia stooped in sportive mood</l>
 <l n="tr">to Syracusan strains, nor blushed within</l>
@@ -818,8 +818,8 @@ Changed names and redid headers.
 <l n="tr">and bade his laurels learn, Silenus sang;</l>
 <l n="tr">till from <placeName key="perseus,Olympos,Lycia">Olympus</placeName>, loth at his approach,</l>
 <l n="tr">vesper, advancing, bade the shepherds tell</l>
-<l n="tr">their tale of sheep, and pen them in the fold.</l></lg></p></div1>
-<div1 type="Poem" n="7">
+<l n="tr">their tale of sheep, and pen them in the fold.</l></lg></p></div>
+<div type="poem" n="7">
 <head>MELIBOEUS   CORYDON   THYRSIS</head>
 <p><l n="tr">daphnis beneath a rustling ilex-tree</l>
 <l n="tr">had sat him down; Thyrsis and Corydon</l>
@@ -923,8 +923,8 @@ Changed names and redid headers.
 <sp><speaker>MELIBOEUS</speaker>
 <p><l n="tr">These I remember, and how Thyrsis strove</l>
 <l n="tr">for victory in vain. From that time forth</l>
-<l n="tr">is Corydon still Corydon with us.</l></p></sp></p></div1>
-<div1 type="Poem" n="8">
+<l n="tr">is Corydon still Corydon with us.</l></p></sp></p></div>
+<div type="poem" n="8">
 <head>TO POLLIO.   DAMON   ALPHESIBOEUS</head>
 <p><l n="tr">of Damon and Alphesiboeus now,</l>
 <l n="tr">those shepherd-singers at whose rival strains</l>
@@ -1073,8 +1073,8 @@ Changed names and redid headers.
 <l n="tr">May we believe it, or are lovers still</l>
 <l n="tr">by their own fancies fooled?</l>
 <lg><l n="tr">Give o'er, my songs,</l>
-<l n="tr">daphnis is coming from the town, give o'er.&rdquo;</l></lg></p></sp></p></div1>
-<div1 type="Poem" n="9">
+<l n="tr">daphnis is coming from the town, give o'er.&rdquo;</l></lg></p></sp></p></div>
+<div type="poem" n="9">
 <head>LYCIDAS   MOERIS</head>
 <sp><speaker>LYCIDAS</speaker>
 <p><l n="tr">Say whither, Moeris?&mdash;Make you for the town,</l>
@@ -1173,8 +1173,8 @@ Changed names and redid headers.
 <l n="tr">go singing, I will case you of this load.</l></p></sp>
 <sp><speaker>MOERIS</speaker>
 <p><l n="tr">Cease, boy, and get we to the work in hand:</l>
-<l n="tr">we shall sing better when himself is come.</l></p></sp></div1>
-<div1 type="Poem" n="10">
+<l n="tr">we shall sing better when himself is come.</l></p></sp></div>
+<div type="poem" n="10">
 <head>GALLUS</head>
 <p><l n="tr">This now, the very latest of my toils,</l>
 <l n="tr">vouchsafe me, Arethusa! needs must I</l>
@@ -1272,5 +1272,5 @@ Changed names and redid headers.
 <l n="tr">baneful to singers; baneful is the shade</l>
 <l n="tr">cast by the juniper, crops sicken too</l>
 <l n="tr">in shade. Now homeward, having fed your fill&mdash;</l>
-<l n="tr">eve's star is rising&mdash;go, my she-goats, go.</l></lg></p></div1>
+<l n="tr">eve's star is rising&mdash;go, my she-goats, go.</l></lg></p></div>
 </body></text></TEI.2>

@@ -57,10 +57,10 @@
   </teiHeader>
   <text>
     <body>
-      <div0 type="volume" n="2">
-      <div1 type="text" id="tlg-0059">       
+      <div type="volume" n="2">
+      <div type="text" id="tlg-0059">       
           <head>Πλάτωνος</head>
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <div3 type="biodata">
               <cit id="tlg-0059.cit.1">
                 <quote>*pla/twn: *)ari/stwnos tou= *)aristokle/ous kai\ *periktio/nhs . . to\ ge/nos
@@ -79,10 +79,10 @@
                 <bibl>Suid.</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπιγραμμάτων</head>
 
             <div3 type="ELEGIAC" n="1-9">
@@ -317,16 +317,16 @@
                 <bibl>Thom. Mag. Vit. Ar. 160 W</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
+      </div>
 
-      <div1 type="text" id="tlg-1673">
+      <div type="text" id="tlg-1673">
         
           <head>Σιμμίου Θηβαίου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1673.cit.1">
               <quote>*simmi/as *qhbai=os: filo/sofos, maqhth\s *swkra/tous: e)/graye *peri\ *sofi/as
                 . . *peri\ *mousikh=s . . kai\ a)/lla filo/sofa.</quote>
@@ -346,10 +346,10 @@
                 r(hqh=nai.</quote>
               <bibl>Plat. Phaedr. 242a</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπιγράμματα</head>
 
             <div3 type="ELEGIES" n="1">
@@ -406,12 +406,12 @@
                 <bibl>Anth. Pal. 7. 60</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1633">
+      </div>
+      <div type="text" id="tlg-1633">
           <head>Πραξιτέλους</head>
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1633.cit.1">
               <quote lang="la">Olympiade ciii floruere Praxiteles, Euphranor . .</quote>
               <bibl>Plin. N.H. 34.8 &lpar;19&rpar;.50</bibl>
@@ -427,10 +427,10 @@
                 nh/pion: te/xnh de/ e)sti *pracitelou=s.</quote>
               <bibl>Paus. 5. 17. 1</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -450,15 +450,15 @@
                 <bibl>Ath. 13. 591 a</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1567">
+      </div>
+      <div type="text" id="tlg-1567">
         
           <head>Παρρασίου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1567.cit.1">
               <quote lang="la"><add>de pictoribus</add>: Post Zeuxis atque Parrhasius non
                 multum aetate distantes circa Peloponnesiaca ambo tempora &lpar;nam cum
@@ -479,11 +479,11 @@
                 maximi pictoris.</quote>
               <bibl>Plin. N.H. 35. 60</bibl>
             </cit>
-          </div2>
+          </div>
 
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπιγράμματα</head>
 
             <div3 type="ELEGIAC" n="1-3">
@@ -535,15 +535,15 @@
                 <bibl>Ath. 12. 543 c</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="smith-zeuxis-bio-6">
+      </div>
+      <div type="text" id="smith-zeuxis-bio-6">
         
           <head>Ζεύξιδος</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="smith-zeuxis-bio-6.cit.1">
               <quote>
                 <sp>
@@ -570,10 +570,10 @@
                 etiam in feminis placet.</quote>
               <bibl>*quint. 12. 10. 4 <add>de pictoribus</add></bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπιγράμματα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -609,15 +609,15 @@
                 <bibl>Plin. N.H. 35. 9. 62</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0003">
+      </div>
+      <div type="text" id="tlg-0003">
         
           <head>ὡς Θουκυδίδου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0003.cit.1">
               <quote>*qoukudi/dhs *)aqhnai=os *)olo/rou h)=n pai=s, *qra/|kion de\ au)tw=| to\
                 ge/nos: kai\ ga\r o( path\r au)tw=| *)/oloros e)k *qra/|khs ei)=xe tou)/noma ..
@@ -630,10 +630,10 @@
                 *)aqh/nhsin e)ta/fh plhsi/on tw=n *meliti/dwn pulw=n.</quote>
               <bibl>Vit. Thuc.</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -657,23 +657,23 @@
                 <bibl>Vit. Eurip. 135W</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="smith-apollodorus-bio-29">
+      </div>
+      <div type="text" id="smith-apollodorus-bio-29">
         
           <head>Ἀπολλοδώρου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <head>
               <bibl><foreign lang="en">NONE</foreign></bibl>
             </head>
             <p/>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -689,15 +689,15 @@
                 <bibl>Plin. N.H. 35. 9. 62 <add>de Zeuxide</add>&colon;</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0247">
+      </div>
+      <div type="text" id="tlg-0247">
         
           <head>Διονυσίου του Νεωτέρου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
 
             <div3 type="biodata">
               <cit id="tlg-0247.cit.1">
@@ -788,10 +788,10 @@
                 <bibl>Plut. Dion. 18. 18</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -806,9 +806,9 @@
                 <bibl>Plut. Alex. Virt. 2. 5</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Παιανῶν</head>
 
             <div3 type="ELEGIAC" n="2">
@@ -851,15 +851,15 @@
                 <bibl>Tim. ap. Ath. 6. 250c</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1476">
+      </div>
+      <div type="text" id="tlg-1476">
         
           <head>Μαμέρκου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1476.cit.1">
               <quote>kai\ ga\r po/leis eu)qu\s e)pipresbeuo/menai proseti/qento tw=| Timole/onti,
                 kai\ *ma/merkos o( *kata/nhs tu/rannos, polemisth\s a)nh\r kai\ xrh/masin
@@ -878,10 +878,10 @@
                 e)capathqh=nai.</q></quote>
               <bibl>Polyaen. 5. 12. 2</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -900,15 +900,15 @@
                 <bibl>Plut. Vit. Timol. 31</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0325">
+      </div>
+      <div type="text" id="tlg-0325">
         
           <head>Ἀστυδάμαντος</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0325.cit.1">
               <quote>*)astuda/mas o( presbu/ths: ui(o\s *morsi/mou tou= *filokle/ous, tragikw=n
                 a)mfote/rwn, *)aqhnai=os, tragiko/s. e)/graye tragw|di/as sm/, e)ni/khse ie/,
@@ -930,10 +930,10 @@
                 *)aqhnai=oi) ei)ko/ni xalkh=|.</quote>
               <bibl>Diog. L. 2. 43</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -954,15 +954,15 @@
                 <bibl>Phot. Lex. 502. 21</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0257">
+      </div>
+      <div type="text" id="tlg-0257">
         
           <head>Φιλίσκου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0257.cit.1">
               <quote>*fili/skos: *milh/sios, r(h/twr, *)isokra/tous a)kousth\s tou= r(h/toros:
                 e)ge/neto de\ pro/teron au)lhth\s paradoco/tatos. dio\ kai\ *au)lotru/phn
@@ -976,10 +976,10 @@
                 *milhsi/ou .. e)/grayen *)italika\ kai\ *sikelika\ e)n bibli/ois h/, ktl.</quote>
               <bibl>Suid.</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1006,15 +1006,15 @@
                 <bibl>Plut. Vit. X. Orat. Lys. 3</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1150">
+      </div>
+      <div type="text" id="tlg-1150">
         
           <head>Ἀφαρέως</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1150.cit.1">
               <quote>*)afareu/s: *)aqhnai=os, r(h/twr, ui(o\s tou= sofistou= *)ippi/ou kai\
                 *plaqa/nhs, pro/gonos de\ *)isokra/tous tou= r(h/toros, a)kma/sas kata\ th\n
@@ -1030,10 +1030,10 @@
                 *lhnai+ka/s.</quote>
               <bibl>Plut. Vit. X. Orat. Isocr. 839 c</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1052,15 +1052,15 @@
                 <bibl>Plut. Vit. X. Orat. 839 b</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1692">
+      </div>
+      <div type="text" id="tlg-1692">
         
           <head>σπευσίππου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1692.cit.1">
               <quote>*speu/sippos: *eu)rume/dontos, a)delfidou=s *pla/twnos tou= filoso/fou ..
                 a)kousth\s au)tou= tou= *pla/twnos kai\ dia/doxos geno/menos th=s *)akadhmei/as
@@ -1080,10 +1080,10 @@
                 ..</quote>
               <bibl>Diog. L. 4. 4</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1099,15 +1099,15 @@
                 <bibl>Anth. Plan 31</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0086">
+      </div>
+      <div type="text" id="tlg-0086">
         
           <head>Ἀριστοτέλους</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0086.cit.1">
               <quote>*)aristote/lhs: ui(o\s *nikoma/xou kai\ *faistia/dos . . e)k *stagei/rwn,
                 po/lews th=s *qra/|khs, filo/sofos, maqhth\s *pla/twnos . . h)=rce de\ e)th ig/ th=s
@@ -1119,10 +1119,10 @@
                 o/.</quote>
               <bibl>Suid.</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἔπη και Ἐλεγεῖα</head>
 
             <div3 type="HEXAMETER" n="1,2">
@@ -1188,15 +1188,15 @@
                 <bibl>Diog. L. 5. 5</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0336">
+      </div>
+      <div type="text" id="tlg-0336">
         
           <head>Κράτητος</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
 
             <div3 type="biodata">
               <cit id="tlg-0336.cit.1">
@@ -1253,10 +1253,10 @@
                 <bibl>Apostol. 10. 5</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ά Ἐλεγειῶν</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1303,9 +1303,9 @@
                 <bibl>Jul. Or. 6. 199c</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Β́ Ἐπῶν</head>
 
             <div3 type="HEXAMETER" n="3">
@@ -1488,9 +1488,9 @@
                 <bibl>Diog. L. 6. 90.</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>
               <bibl><foreign lang="en">UNKNOWN</foreign></bibl>
             </head>
@@ -1522,9 +1522,9 @@
                 <bibl>Stob. Fl. 14. 16</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἰάμβων</head>
 
             <div3 type="IAMBIC" n="15">
@@ -1681,9 +1681,9 @@
                 <bibl>Jul. Mis. 369 b</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Τραγωιδιῶν</head>
 
             <div3 type="IAMBIC" n="23">
@@ -1703,23 +1703,23 @@
                 <bibl>Diog. L. 6.98</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0382">
+      </div>
+      <div type="text" id="tlg-0382">
         
           <head>Καστορίωνος</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <head>
               <bibl><foreign lang="en">NONE</foreign></bibl>
             </head>
             <p/>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἰάμβων</head>
 
             <div3 type="IAMBIC" n="1">
@@ -1784,23 +1784,23 @@
                 <bibl>Ath. 12. 542 e</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1273">
+      </div>
+      <div type="text" id="tlg-1273">
         
           <head>Κλέωνος</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <head>
               <bibl><foreign lang="en">NONE</foreign></bibl>
             </head>
             <p/>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐλεγειῶν</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1818,15 +1818,15 @@
                 <bibl>Et. Mag. 389. 24</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-1714">
+      </div>
+      <div type="text" id="tlg-1714">
         
           <head>Θεοκρίτου του Χίου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-1714.cit.1">
               <quote>*qeo/kritos: *xi=os, r(h/twr, maqhth\s *mhtrodw/rou tou= *)isokratikou=.
                 e)/graye *xrei/as. a)ntepoliteu/sato de\ *qeopo/mpw| tw=| i(storikw=|. fe/retai
@@ -1888,10 +1888,10 @@
                 a)reth\n e)pekth/sato: *qeokri/tou.</quote>
               <bibl>Apost. 8. 91 k</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπίγραμμα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1921,15 +1921,15 @@
                 <bibl>Plut. Exil. 10</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0541">
+      </div>
+      <div type="text" id="tlg-0541">
         
           <head>Μενάνδρου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0541.cit.1">
               <quote>a)f' ou(= *ka/ssandros ei)s *makedoni/an kath=lqen ... e)/th
                 <num>ZZZ*i*i</num>, a)/rxontos *)aqh/nhsi *dhmoklei/dou: e)ni/ka de\ kai\
@@ -1941,10 +1941,10 @@
                 e)mimh/sato;</quote>
               <bibl>Ar. Byz. ap. Sch. Hermog. Rh. Gr. 4. 101 W</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπιγράμματα</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -1975,23 +1975,23 @@
                 <bibl>Aus. Ep. 145 ex Menandro&colon;</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0256">
+      </div>
+      <div type="text" id="tlg-0256">
         
           <head>Πανάρκους</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <head>
               <bibl><foreign lang="en">NONE</foreign></bibl>
             </head>
             <p/>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Γρῖφος</head>
 
             <div3 type="IAMBIC" n="1">
@@ -2021,15 +2021,15 @@
                 <bibl>Sch. ad loc.</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0232">
+      </div>
+      <div type="text" id="tlg-0232">
         
           <head>Ἀρχιλόχου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
 
             <div3 type="biodata">
               <cit id="tlg-0232.cit.1">
@@ -2513,10 +2513,10 @@
                 <bibl>A.P. 7. 71</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐλεγειῶν</head>
 
             <div3 type="ELEGIAC" n="1">
@@ -2801,9 +2801,9 @@
                 <bibl>Ath. 13. 594c</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἐπιγραμμάτων</head>
 
             <div3 type="ELEGIAC" n="18">
@@ -2833,16 +2833,16 @@
                 <bibl>Anth. Pal. 6. 133</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἰάμβων</head>
 
             <div3 type="book">
               <head><add>*/a</add> Τριμέτρων</head>
 
 
-              <div4 type="IAMBIC" n="20">
+              <div type="iambic" n="20">
                 <cit id="tlg-0232.cit.80">
                   <quote><add>p. *magnh/twn</add>: *)arxi/loxos de\ h)/dh fai/netai
                     gnwri/zwn th\n genome/nhn au)toi=s sumfora/n: <cit id="tlg-0232.cit.81">
@@ -2854,9 +2854,9 @@
                   </quote>
                   <bibl>Str. 14. 647</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="21">
+              <div type="iambic" n="21">
                 <cit id="tlg-0232.cit.82">
                   <quote>kaqa/per *)arxi/loxos th=s *qa/sou ta\ karpofo/ra kai\ oi)no/peda parorw=n
                     dia\ to\ traxu\ kai\ a)nw/malon die/bale th\n nh=son ei)pw/n: <cit id="tlg-0232.cit.83">
@@ -2871,9 +2871,9 @@
                   </quote>
                   <bibl>Plut. Exil. 12</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="21A">
+              <div type="iambic" n="21A">
                 <cit id="tlg-0232.cit.84">
                   <quote>kai\ *)arxi/loxos d' o( poihth\s u(perteqau/make th\n xw/ran tw=n *siritw=n
                     dia\ th\n eu)daimoni/an: peri\ gou=n th=s *qa/sou le/gwn w(s h(/ssono/s fhsin:
@@ -2887,9 +2887,9 @@
                   </quote>
                   <bibl>Ath. 12. 523b</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="ELEGIAC" n="22">
+              <div type="elegiac" n="22">
                 <cit id="tlg-0232.cit.86">
                   <quote>kai\ to/te kai\ braxu/xronos ei)=nai tw=| bi/w| me/llwn | poiei= o(/per
                     kai\ u(/steron *)arxi/loxos e)kei=nos: | sfh=s a)delfh=s ga\r su/zugon pnige/nta
@@ -2905,9 +2905,9 @@
                   </quote>
                   <bibl>Tzetz. ap. Matr. An. 216</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="23">
+              <div type="iambic" n="23">
                 <cit id="tlg-0232.cit.88">
                   <quote><add>kuma/twn e)n a)gka/lais</add>: *di/dumo/s fhsi para\ tw=|
                     *ai)sxu/lw|, e)/sti de\ o)/ntws para\ *)arxilo/xw|: <cit id="tlg-0232.cit.89">
@@ -2919,9 +2919,9 @@
                   </quote>
                   <bibl>Sch. Ar. Ran. 704</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="24">
+              <div type="iambic" n="24">
                 <cit id="tlg-0232.cit.90">
                   <quote>[skopei=n xrh\ mh\ ou)k e)n tw=| *kari\ u(mi=n o( ki/ndunos
                     kinduneu/htai, a)ll' e)n toi=s u(e/si|: e)pi\ tw=n e)pisfale/steron kai\ e)n
@@ -2935,9 +2935,9 @@
                   </quote>
                   <bibl>Sch. Plat. Lach. 187 b</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="25">
+              <div type="iambic" n="25">
                 <cit id="tlg-0232.cit.92">
                   <quote>ei)s de\ to\ h)=qos, e)pei\ e)/nia peri\ au(tou= le/gein h)\ e)pi/fqonon
                     h)\ makrologi/an h)\ a)ntilogi/an e)/xei, kai\ peri\ a)/llou h)\ loidori/an h)\
@@ -2956,9 +2956,9 @@
                   </quote>
                   <bibl>Arist. Rh. 1418.42b</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="26">
+              <div type="iambic" n="26">
                 <cit id="tlg-0232.cit.94">
                   <quote>karterei=n: a)nti\ tou= kratei=n kai\ a)nte/xein: kai\ to\n e)gkrath=
                     le/gousi kartero/n: *)arxi/loxos: <cit id="tlg-0232.cit.95">
@@ -2970,9 +2970,9 @@
                   </quote>
                   <bibl>Sch. Eur. Med. 708</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="27">
+              <div type="iambic" n="27">
                 <cit id="tlg-0232.cit.96">
                   <quote lang="la">Alii cognominatum Apollinem putant <foreign lang="greek">ὡς
                       ἀπολλύντα τὰ ζῷα</foreign> &colon; exanimat enim et perimit animantes
@@ -2986,9 +2986,9 @@
                   </quote>
                   <bibl>Macr. Sat. i. 17</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="28">
+              <div type="iambic" n="28">
                 <cit id="tlg-0232.cit.98">
                   <quote>h( diplh= o(/ti *)arxi/loxos u(perte/ran th\n newte/ran e)de/cato: <cit id="tlg-0232.cit.99">
                       <quote>
@@ -2999,9 +2999,9 @@
                   </quote>
                   <bibl>Sch. Il. 11. 786</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="29">
+              <div type="iambic" n="29">
                 <cit id="tlg-0232.cit.100">
                   <quote>kai\ o( ka/llistos poihtw=n *)arxi/loxos e)paine/sas au)th\n &lpar;th\n
                     ko/mhn&rpar; e)painei= me\n ou)=san e)n e(tai/ras sw/mati, le/gei de\
@@ -3021,9 +3021,9 @@
                     a)/nqos, r(odwnia\ de\ o( to/pos, r(odh= de\ to\ futo/n. *)arxi/loxos:</quote>
                   <bibl>Ammon. 123</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="30">
+              <div type="iambic" n="30">
                 <cit id="tlg-0232.cit.103">
                   <quote><add>p. mu/rou</add>: kai\ a)llaxou= d'
                     &lpar;*)arxi/loxos&rpar; e)/fh: <cit id="tlg-0232.cit.104">
@@ -3036,9 +3036,9 @@
                   </quote>
                   <bibl>Ath. 15. 688c</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="31">
+              <div type="iambic" n="31">
                 <cit id="tlg-0232.cit.105">
                   <quote>o( de\ *periklh=s katastreya/menos th\n *sa/mon w(s e)panh=lqen ei=s ta\s
                     *)aqh/nas, tafa/s te tw=n a)poqano/ntwn kata\ to\n po/lemon e)ndo/cous e)poi/hse
@@ -3059,9 +3059,9 @@
                   </quote>
                   <bibl>Plut. Vit. Pericl. 28</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="32">
+              <div type="iambic" n="32">
                 <cit id="tlg-0232.cit.107">
                   <quote>to\n de\ kri/qinon oi)=non kai\ bru=to/n tines kalou=sin . . *)arxi/loxos:
                       <cit id="tlg-0232.cit.108">
@@ -3075,9 +3075,9 @@
                   </quote>
                   <bibl>Ath. 10.447b</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="33">
+              <div type="iambic" n="33">
                 <cit id="tlg-0232.cit.109">
                   <quote>ba/bac o( la/los: *)arxi/loxos: <cit id="tlg-0232.cit.110">
                       <quote>
@@ -3088,9 +3088,9 @@
                   </quote>
                   <bibl>Orion 37.4</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="34">
+              <div type="iambic" n="34">
                 <cit id="tlg-0232.cit.111">
                   <quote>pali/nskion: . . *)arxi/loxos *trime/trois: <cit id="tlg-0232.cit.112">
                       <quote>
@@ -3102,9 +3102,9 @@
                   </quote>
                   <bibl>Harp. 143.7</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="35">
+              <div type="iambic" n="35">
                 <cit id="tlg-0232.cit.113">
                   <quote>ku/yai: a)nti\ tou= a)pa/gcasqai: *)arxi/loxos <cit id="tlg-0232.cit.114">
                       <quote>
@@ -3115,9 +3115,9 @@
                   </quote>
                   <bibl>Phot. Lex. 193.22</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="36">
+              <div type="iambic" n="36">
                 <cit id="tlg-0232.cit.115">
                   <quote>*)arxilo/xou te o(moi/ws ei)rhko/tos: <cit id="tlg-0232.cit.116">
                       <quote>
@@ -3129,9 +3129,9 @@
                   </quote>
                   <bibl>Clem. Al. Str. 6. 739</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="37">
+              <div type="iambic" n="37">
                 <cit id="tlg-0232.cit.117">
                   <quote>e)gkuti/: e)pi/rrhma shmai=non to\ e)n xrw=|: *)arxi/loxos: <cit id="tlg-0232.cit.118">
                       <quote>
@@ -3143,9 +3143,9 @@
                   </quote>
                   <bibl>Et. Mag. 311. 40</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="38">
+              <div type="iambic" n="38">
                 <cit id="tlg-0232.cit.119">
                   <quote>ai)hne/s: to\ deino\n kai\ polu/stonon: *)arxi/loxos: <cit id="tlg-0232.cit.120">
                       <quote>
@@ -3156,9 +3156,9 @@
                   </quote>
                   <bibl>Et. Mag. 32. 26</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="39">
+              <div type="iambic" n="39">
                 <cit id="tlg-0232.cit.121">
                   <quote>korwno/s: o( gau=ros kai\ u(yauxenw=n . . *)arxi/loxos: <cit id="tlg-0232.cit.122">
                       <quote>
@@ -3170,9 +3170,9 @@
                   </quote>
                   <bibl>Et. Mag. 530. 27</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="40">
+              <div type="iambic" n="40">
                 <cit id="tlg-0232.cit.123">
                   <quote>to\ periqei=n tou=to dhloi= &lpar;perie/xein pantaxo/qen&rpar;:
                     oi(=on kai\ *)arxi/loxos dhloi= poih/sas: <cit id="tlg-0232.cit.124">
@@ -3184,9 +3184,9 @@
                   </quote>
                   <bibl>Sch. Il. 9. 476</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="41">
+              <div type="iambic" n="41">
                 <cit id="tlg-0232.cit.125">
                   <quote><add>p. tw=n ei)s i lhgo/ntwn e)pirrhma/twn</add>: to\ gou=n
                     *)arxilo/xeion sunesta/lh: <cit id="tlg-0232.cit.126">
@@ -3198,9 +3198,9 @@
                   </quote>
                   <bibl>Apoll. Dysc. Adv. Gram. Gr. 2. 1. 1. 161</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="42">
+              <div type="iambic" n="42">
                 <cit id="tlg-0232.cit.127">
                   <quote><add>i(ppomane/s</add>: . . le/gei ga\r kai\ *)arxi/loxos to\
                     fu=ma futo/n: <cit id="tlg-0232.cit.128">
@@ -3213,9 +3213,9 @@
                   </quote>
                   <bibl>Sch. Theocr. 2. 48</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="43">
+              <div type="iambic" n="43">
                 <cit id="tlg-0232.cit.129">
                   <quote>o( de\ *(/omhros pw=s; e(\n ga\r a)po\ pollw=n lege/sqw: <q> . .
                     trome/ousi de/ te fre/na nau=tai | deidio/tes: tutqo\n ga\r u(pe\k qana/toio
@@ -3239,9 +3239,9 @@
                   <quote>h(/kh: h( o)cu/ths tou= sidh/rou: *)arxi/loxos:</quote>
                   <bibl>Et. Mag. 424. 18</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="44">
+              <div type="iambic" n="44">
                 <cit id="tlg-0232.cit.132">
                   <quote>sumbo/lous de\ le/gomen ptarmou\s h)\ fh/mas h)\ a)panth/seis: w(s
                     *)arxi/loxos: <cit id="tlg-0232.cit.133">
@@ -3253,9 +3253,9 @@
                   </quote>
                   <bibl>Sch. Pind. Ol. 12.10</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="45">
+              <div type="iambic" n="45">
                 <cit id="tlg-0232.cit.134">
                   <quote>e)peidh\ ga\r e)kei=noi sofo\n w)no/mazon to\n h(ntinou=n e)pio/nta
                     te/xnhn, w(=n ei(=s h)=n kai\ *)arxi/loxos le/gwn: <cit id="tlg-0232.cit.135">
@@ -3267,9 +3267,9 @@
                   </quote>
                   <bibl>Ammon. in Porph. Isag. Proem. 9. 8</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="46">
+              <div type="iambic" n="46">
                 <cit id="tlg-0232.cit.136">
                   <quote>fhlh/tou<!--note n="p.120.n.3"/--> de\ tou= ei)rhme/nou xrh=sis me\n para/ te
                     *(hsio/dw| kai\ para\ *)arxilo/xw| e)n tw=|: <cit id="tlg-0232.cit.137">
@@ -3282,9 +3282,9 @@
                   </quote>
                   <bibl>Eust. Od. 1889. 1</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="47">
+              <div type="iambic" n="47">
                 <cit id="tlg-0232.cit.138">
                   <quote>p. kli/s. o)nom. 2. 679. 5 mu/khs: . . shmai/nei de\ kai\ to\ ai)/doion tou
                     anqrw/pou, o(/per i)sosu/llabws e)/klinen *)arxi/loxos: <cit id="tlg-0232.cit.139">
@@ -3297,9 +3297,9 @@
                   </quote>
                   <bibl>Hdn.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="48">
+              <div type="iambic" n="48">
                 <cit id="tlg-0232.cit.140">
                   <quote>kli/netai de\ kai\ w(s spondeiako/n, *)/arhs, *)/arou, o(/qen kat' *)ia/da
                     dia/lekton e)pektei/nas *)arxi/loxos e)/fh e)n toi=s *trime/trois: <cit id="tlg-0232.cit.141">
@@ -3311,9 +3311,9 @@
                   </quote>
                   <bibl>Eust. ll. 518.28</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="48A">
+              <div type="iambic" n="48A">
                 <cit id="tlg-0232.cit.142">
                   <quote>.. presbeutikh=|s .. h(liki/as, h(=|tini sumfe/rein th\n a)pragmosu/nhn
                     *)arxi/loxos o( poihth\s a)pefh/nato. <cit id="tlg-0232.cit.143">
@@ -3332,9 +3332,9 @@
                   <quote>makkoa=n: diale/gesqai .. oi(=on:</quote>
                   <bibl>Et. Magn. Vet.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="49">
+              <div type="iambic" n="49">
                 <cit id="tlg-0232.cit.145">
                   <quote>
                     <cit id="tlg-0232.cit.146">
@@ -3347,14 +3347,14 @@
                   </quote>
                   <bibl>Paus. 7. 10. 6</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
 
             <div3 type="book">
               <head><add>*b/</add> Τετραμέτρων</head>
 
 
-              <div4 type="IAMBIC" n="50">
+              <div type="iambic" n="50">
                 <cit id="tlg-0232.cit.147">
                   <quote><add>w)= sofw/tatoi gewrgoi/, ta)ma\ dh\ cuni/ete |
                     r(h/mata</add>: pro\s tau=ta kai\ *krati=nos e)n *puti/nh| pepoi/hken:
@@ -3368,9 +3368,9 @@
                   </quote>
                   <bibl>Sch. Ar. Pac. 603</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="51">
+              <div type="iambic" n="51">
                 <cit id="tlg-0232.cit.149">
                   <quote>tw=n d' e)n *pa/rw| th=| nh/sw| &lpar;su/kwn&rpar; .. *)arxi/loxos
                     mnhmoneu/ei, le/gwn ou(/tws: <cit id="tlg-0232.cit.150">
@@ -3382,9 +3382,9 @@
                   </quote>
                   <bibl>Ath. 3. 76b</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="52">
+              <div type="iambic" n="52">
                 <cit id="tlg-0232.cit.151">
                   <quote>*(hsi/odon me/ntoi kai\ *)arxi/loxon h)/dh ei)de/nai &lpar;fhsi\n
                     *)apollo/dwros&rpar; kai\ *(/ellhnas legome/nous tou\s su/mpantas kai\
@@ -3398,9 +3398,9 @@
                   </quote>
                   <bibl>Str. 8. 370</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="53">
+              <div type="iambic" n="53">
                 <cit id="tlg-0232.cit.153">
                   <quote>*)alkai=os kai\ *)alkma\n li/qon fasi\n e)paiwrei=sqai tw=| *tanta/lw|: ..
                     e)poi/hse de\ kai\ *)arxi/loxos: <cit id="tlg-0232.cit.154">
@@ -3413,9 +3413,9 @@
                   </quote>
                   <bibl>Sch. Pind. Ol. i. 97 ..</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="54">
+              <div type="iambic" n="54">
                 <cit id="tlg-0232.cit.155">
                   <quote>... kaqa/per *)arxi/loxos me\n toi=s *qrakikoi=s a)peilhmme/nos deinoi=s
                     to\n po/lemon ei)ka/zei qalatti/w| klu/dwni, le/gwn w(=de/ pws: <cit id="tlg-0232.cit.156">
@@ -3431,9 +3431,9 @@
                   </quote>
                   <bibl>Heracl. All. Hom. 5</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="55">
+              <div type="iambic" n="55">
                 <cit id="tlg-0232.cit.157">
                   <quote><add>p. *)arxilo/xou</add>: e)/ti ka)kei=no metafra/zwn
                     <q>*ni/khs a)nqrw/poisi qew=n e)k pei/rata kei=tai</q> dia\
@@ -3447,9 +3447,9 @@
                   </quote>
                   <bibl>Clem. Al. Str. 6. 739</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="56">
+              <div type="iambic" n="56">
                 <cit id="tlg-0232.cit.159">
                   <quote><add>o(/ti a)be/baios h( tw=n a)nqrw/pwn eu)praci/a metapiptou/shs
                     r(a|di/ws th=s tu/xhs</add>: *)arxilo/xou: <cit id="tlg-0232.cit.160">
@@ -3467,9 +3467,9 @@
                   </quote>
                   <bibl>Stob. Fl. 105. 24</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="57">
+              <div type="iambic" n="57">
                 <cit id="tlg-0232.cit.161">
                   <quote>oi( new/teroi ke/ras th\n sumplokh\n tw=n trixw=n o(moi/an ke/rati: <cit id="tlg-0232.cit.162">
                       <quote>
@@ -3486,9 +3486,9 @@
                     ko/mhn kai\ kallwpisth/n.</quote>
                   <bibl>Plut. Soll. An. 24</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="58">
+              <div type="iambic" n="58">
                 <cit id="tlg-0232.cit.164">
                   <quote>o( de\ *)arxi/loxos .. peri\ strathgou= le/gwn ou(/tw fhsi/n: <cit id="tlg-0232.cit.165">
                       <quote>
@@ -3503,9 +3503,9 @@
                   </quote>
                   <bibl>Dio Chrys. 2. 456</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="59">
+              <div type="iambic" n="59">
                 <cit id="tlg-0232.cit.166">
                   <quote>a)lla\ ga\r kai\ tou/tou th\n kefalh\n a)potemo/ntes kai\ *la/kwnos
                     e)ko/misan pro\s to\n *)/oqwna dwrea\s ai)tou=ntes. w(s de/ fhsin *)arxi/loxos:
@@ -3522,9 +3522,9 @@
                   </quote>
                   <bibl>Plut. Vit. Galb. 27</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="60">
+              <div type="iambic" n="60">
                 <cit id="tlg-0232.cit.168">
                   <quote>o( de\ troxai=os &lpar;e)klh/qh&rpar; o(/ti troxalo\n e)/xei to\n
                     r(uqmo/n: kai\ ga\r *)arxi/loxos e)pi\ tw=n qermw=n u(poqe/sewn au)tw=|
@@ -3537,9 +3537,9 @@
                   </quote>
                   <bibl>Anecd. Var. Schoell i. 206. 3</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="61">
+              <div type="iambic" n="61">
                 <cit id="tlg-0232.cit.170">
                   <quote><add>p. sh=yin kre/wn</add>: .. to\n de\ h(/lion a)narpa/zein
                     ma=llon e)k tw=n swma/twn to\ notero\n dia\ th\n pu/rwsin: pro\s o(\ kai\ to\n
@@ -3553,9 +3553,9 @@
                   </quote>
                   <bibl>Plut. Quaest. Conv. 3. 10. 2</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="62">
+              <div type="iambic" n="62">
                 <cit id="tlg-0232.cit.172">
                   <quote>.. kaqa/per a)me/lei ka)kei=no to\ e)/pos<bibl>&lpar;Il. 18.
                       309&rpar;</bibl><q>cuno\s *)enna/lios kai/ te ktane/onta
@@ -3570,9 +3570,9 @@
                   </quote>
                   <bibl>Clem. Al. Str. 6. 739</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="63">
+              <div type="iambic" n="63">
                 <cit id="tlg-0232.cit.174">
                   <quote><add>o(/ti tw=n plei/stwn meta\ qa/naton h( mnh/mh diarrei=
                     taxe/ws</add>: *)arxilo/xou: <cit id="tlg-0232.cit.175">
@@ -3587,9 +3587,9 @@
                   </quote>
                   <bibl>Stob. Fl. 126. 4</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="64">
+              <div type="iambic" n="64">
                 <cit id="tlg-0232.cit.176">
                   <quote><add>o(/ti ou) xrh\ paroinei=n ei)s tou\s teteleuthko/tas</add>:
                     *)arxilo/xou: <cit id="tlg-0232.cit.177">
@@ -3601,9 +3601,9 @@
                   </quote>
                   <bibl>Stob. Fl. 125. 5</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="65">
+              <div type="iambic" n="65">
                 <cit id="tlg-0232.cit.178">
                   <quote><add>o(/ti oi( ta\ a)/dika pra/ssontes me/llousin
                     kola/zesqai</add>: o(moi/ws kai\ *)arxi/loxos: <cit id="tlg-0232.cit.179">
@@ -3616,9 +3616,9 @@
                   </quote>
                   <bibl>Theophil. Autol. 2. 37. 377</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="66">
+              <div type="iambic" n="66">
                 <cit id="tlg-0232.cit.180">
                   <quote><add>p. o)rgh=s</add>: <cit id="tlg-0232.cit.181">
                       <quote>
@@ -3637,9 +3637,9 @@
                   </quote>
                   <bibl>Stob. Fl. 20. 28</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="67">
+              <div type="iambic" n="67">
                 <cit id="tlg-0232.cit.182">
                   <quote>pro\s ga\r tou\s sunh/qeis kai\ fi/lous o( qumo\s ai)/retai ma=llon h)\
                     pro\s tou\s a)gnw=tas o)ligwrei=sqai nomi/sas: dio\ kai\ *)arxi/loxos
@@ -3652,9 +3652,9 @@
                   </quote>
                   <bibl>Arist. Pol. 7. 1328 a. 1</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="68">
+              <div type="iambic" n="68">
                 <cit id="tlg-0232.cit.184">
                   <quote><add>p. di/yhs metaforikw=s</add>: th=s de\ di/yhs ou)de/n e)sti
                     polupoqhto/teron. dio/per kai\ to\ *)/argos poludi/yion o( poihth\s e)/fh, to\
@@ -3669,9 +3669,9 @@
                   </quote>
                   <bibl>Ath. 10. 433e</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="69">
+              <div type="iambic" n="69">
                 <cit id="tlg-0232.cit.186">
                   <quote><add>p. tou= poluptw/tou</add>: e)/sti de\ to\ toiou=ton sxh=ma
                     kai\ para/ tisi tw=n poihtw=n, w(s para\ *)arxilo/xw|: <cit id="tlg-0232.cit.187">
@@ -3684,9 +3684,9 @@
                   </quote>
                   <bibl>Hdn. <foreign lang="greek">π. σχημ. 57. 2</foreign></bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="70">
+              <div type="iambic" n="70">
                 <cit id="tlg-0232.cit.188">
                   <quote>*(/omhron metafra/zwn, o(/te fhsi/: <q>toi=os ga\r no/os e)sti\n
                     e)pixqoni/wn a)nqrw/pwn, | oi(=on e)p' h)=mar a)/gh|si path\r a)ndrw=n te qew=n
@@ -3703,9 +3703,9 @@
                   </quote>
                   <bibl>Theon Prog. i. 153 W</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="71">
+              <div type="iambic" n="71">
                 <cit id="tlg-0232.cit.190">
                   <quote><q>ei( ga\r w)/felon</q> fhsi\n e(/kastos tw=n eu)xome/nwn,
                     kai\ *)arxi/loxos: <cit id="tlg-0232.cit.191">
@@ -3718,9 +3718,9 @@
                   </quote>
                   <bibl>Plut. de E 5</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="72">
+              <div type="iambic" n="72">
                 <cit id="tlg-0232.cit.192">
                   <quote>a)sko\n toi/nun le/gei to\n peri\ th\n gaste/ra to/pon: *)arxi/loxos: <cit id="tlg-0232.cit.193">
                       <quote>
@@ -3732,9 +3732,9 @@
                   </quote>
                   <bibl>Sch. Eur. Med. 679</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="73">
+              <div type="iambic" n="73">
                 <cit id="tlg-0232.cit.194">
                   <quote>au)=qi/s te o( *)arxi/loxos to\ *(omhriko\n e)kei=no
                       metafe/rwn<bibl>&lpar;Il. 9. 116&rpar;</bibl>: <q>a)asa/mhn
@@ -3747,9 +3747,9 @@
                   </quote>
                   <bibl>Clem. Al. Str. 6. 739</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="74">
+              <div type="iambic" n="74">
                 <cit id="tlg-0232.cit.196">
                   <quote>. . kai\ w(s *)arxi/loxos ye/gei: poiei= ga\r to\n pate/ra le/gonta peri\
                     th=s qugatro\s e)n tw=| i)a/mbw|: <cit id="tlg-0232.cit.197">
@@ -3773,9 +3773,9 @@
                   </quote>
                   <bibl>Arist. Rhet. 3. 1418 b. 28</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="75">
+              <div type="iambic" n="75">
                 <cit id="tlg-0232.cit.198">
                   <quote>. . oi(=on eu)qu\s o( *)arxi/loxos o(/tan me\n eu)xo/menos le/gh|: <cit id="tlg-0232.cit.199">
                       <quote>
@@ -3788,9 +3788,9 @@
                   </quote>
                   <bibl>Plut. Aud. Poet. 6</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="76">
+              <div type="iambic" n="76">
                 <cit id="tlg-0232.cit.200">
                   <quote>to\ ga\r e)ca/rxein th=s fo/rmiggos i)/dion: dio/per o( me\n *)hsi/odo/s
                     fhsin . . kai\ o( *)arxi/loxos: <cit id="tlg-0232.cit.201">
@@ -3802,9 +3802,9 @@
                   </quote>
                   <bibl>Ath. 4. &lpar;5&rpar; 180 e, p. 414 Kaib.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="77">
+              <div type="iambic" n="77">
                 <cit id="tlg-0232.cit.202">
                   <quote>*filo/xoros de/ fhsin w(s oi( palaioi\ spe/ndontes ou)k a)ei\
                     diqurambou=sin, a)ll' o(/tan spe/ndwsi, to\n me\n *dio/nuson e)n oi)/nw| kai\
@@ -3819,9 +3819,9 @@
                   </quote>
                   <bibl>Ath. 14. 628 a</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="78">
+              <div type="iambic" n="78">
                 <cit id="tlg-0232.cit.204">
                   <quote>peri\ *perikle/ous fhsi\n *)arxi/loxos .. w(s a)klh/tou e)peispai/ontos
                     ei)s ta\ sumpo/sia *mukoni/wn di/khn:<!--note n="p.136.n.2"/-->. . <cit id="tlg-0232.cit.205">
@@ -3840,14 +3840,14 @@
                   </quote>
                   <bibl>Ath. i. 7 f</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
 
             <div3 type="book">
               <head><add>*g'</add> Τετραμέτρων Ἀσυναρτητῶν</head>
 
 
-              <div4 type="IAMBIC" n="79, 80, 81, 82">
+              <div type="iambic" n="79, 80, 81, 82">
                 <cit id="tlg-0232.cit.206">
                   <quote><add>p. a)sunarth/twn</add>: prw=tos de\ kai\ tou/tois
                     *)arxi/loxos ke/xrhtai: ph=| me\n ga\r e)poi/hsen e)/k te a)napaistikou=
@@ -3890,18 +3890,18 @@
                     i)/ambon e)/xei to\n prw=ton po/da.</quote>
                   <bibl>Heph. 8. 7. p. 27</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="82A">
+              <div type="iambic" n="82A">
                 <cit id="tlg-0232.cit.210">
                   <quote>peri\ de\ *quo\s tou= *paflago/nwn basile/ws o(/ti kai\ au)to\s h)=n
                     polufa/gos proeirh/kamen &lpar;4. 144 f&rpar; . . *)arxi/loxos d' e)n
                     *tetrame/trois *xari/lan ei)s ta\ o(/moia diabe/blhken.</quote>
                   <bibl>Ath. 10. 415 d</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="IAMBIC" n="83">
+              <div type="iambic" n="83">
                 <cit id="tlg-0232.cit.211">
                   <quote>. . ta\ para\ th=| grafh=| diaforou/mena: ei)si\ tau=ta . . ei)/kelos
                     a)steroph=| kai\ to\ i)/kelos . . bakxei/a<!--note n="p.140.n.1"/--> kai\ <cit id="tlg-0232.cit.212">
@@ -3914,14 +3914,14 @@
                   </quote>
                   <bibl>Gram. ap. Welcker Opusc. 4. 50</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
 
             <div3 type="book">
               <head>Ἐπῳδῶν</head>
 
 
-              <div4 type="LYRIC" n="84">
+              <div type="lyric" n="84">
                 <cit id="tlg-0232.cit.213">
                   <quote><add>yo/gos *)afrodi/ths: kai\ o(/ti fau=lon o( e)/rws kai\ po/swn
                     ei)/h kakw=n gegonw\s ai)/tios</add>: *)arxilo/xou: <cit id="tlg-0232.cit.214">
@@ -3935,9 +3935,9 @@
                   </quote>
                   <bibl>Stob. Fl. 64. 12.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="85">
+              <div type="lyric" n="85">
                 <cit id="tlg-0232.cit.215">
                   <quote>tri/ton de/ e)sti para\ *)arxilo/xw| a)suna/rthton e)k daktulikou=
                     penqhmimerou=s kai\ i)ambikou= dime/trou a)katalh/ktou: <cit id="tlg-0232.cit.216">
@@ -3950,9 +3950,9 @@
                   </quote>
                   <bibl>Heph. 15. 9. p. 50 Cons.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="86">
+              <div type="lyric" n="86">
                 <cit id="tlg-0232.cit.217">
                   <quote>ai)=nos kai\ paroimi/a: o( me\n ga\r ai)=no/s e)sti lo/gos kata\
                     a)napo/lhsin muqikh\n a)po\ a)lo/gwn zw/|wn h)\ futw=n pro\s a)nqrw/pous
@@ -3968,9 +3968,9 @@
                   </quote>
                   <bibl>Ammon. 6. Valck. Words Alike but Different&colon;</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="87">
+              <div type="lyric" n="87">
                 <cit id="tlg-0232.cit.219">
                   <quote>
                     <cit id="tlg-0232.cit.220">
@@ -4007,9 +4007,9 @@
                   </quote>
                   <bibl>Atticus ap. Euseb. Praep. Ev. 15. 795 a</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="88">
+              <div type="lyric" n="88">
                 <cit id="tlg-0232.cit.222">
                   <quote><add>p. di/khs para\ tou= qeou= tetagme/nhs e)popteu/ein ta\ e)pi\
                     gh=s gigno/mena u(po\ tw=n a)nqrw/pwn, timwron ou)=san tw=n
@@ -4026,9 +4026,9 @@
                   </quote>
                   <bibl><!--note n="p.142.n.5"/--> Stob. Ecl. Phys. i. 3. 34</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="89">
+              <div type="lyric" n="89">
                 <cit id="tlg-0232.cit.224">
                   <quote><add>p. *)arxilo/xou</add>: . . kai\ pa/lin o(/tan le/gh|: <cit id="tlg-0232.cit.225">
                       <quote>
@@ -4044,9 +4044,9 @@
                   </quote>
                   <bibl><!--note n="p.144.n.2"/--> Ammon. 6 Valck.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="90">
+              <div type="lyric" n="90">
                 <cit id="tlg-0232.cit.226">
                   <quote>skanda/lhqron: to\ pe/tauron tw=n pagi/dwn . . e)/sti de\ to\ e)n th=|
                     pagi/di kampu/lon cu/lon w(=| e)rei/detai. *)arxi/loxos de\ r(o/ptron e)/fh,
@@ -4059,9 +4059,9 @@
                   </quote>
                   <bibl>Et. Magn. 715. 44</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="91">
+              <div type="lyric" n="91">
                 <cit id="tlg-0232.cit.228">
                   <quote><add>toio/nde d', w)= pi/qhke, to\n pw/gwn e)/xwn | eu)nou=xos h(mi=n
                     h)=lqes e)skeuasme/nos;</add>: kai\ tou=to parw/|dhken e)k tw=n *)arxilo/xou
@@ -4076,9 +4076,9 @@
                   </quote>
                   <bibl>Sch. Ar. Ach. 120</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="92">
+              <div type="lyric" n="92">
                 <cit id="tlg-0232.cit.230">
                   <quote>kataproi+/casqai: a)po\ tou= proiko/s, h(\n diairou=ntes oi( *)/iwnes
                     pro/i+ka le/gousin, w(/sper h( proi+/c: &lt;ou&gt; dwrea\n di/dotai,
@@ -4098,9 +4098,9 @@
                     w(s *)arxi/loxos:</quote>
                   <bibl>Et. Magn. 689. 1</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="93">
+              <div type="lyric" n="93">
                 <cit id="tlg-0232.cit.233">
                   <quote>ou) mh\n a)lla\ h( *tu/xh, kaqa/per h( par' *)arxilo/xw| gunh/: <cit id="tlg-0232.cit.234">
                       <quote>
@@ -4115,9 +4115,9 @@
                   </quote>
                   <bibl>Plut. Vit. Demetr. 35</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="94">
+              <div type="lyric" n="94">
                 <cit id="tlg-0232.cit.235">
                   <quote>ei)si\ de\ e)n toi=s poih/masi kai\ oi( a)rrenikw=s ou(/tw kalou/menoi
                     e)pw|doi/, o(/tan mega/lw| sti/xw| e)/latto/n<!--note n="p.146.n.2"/--> ti
@@ -4133,9 +4133,9 @@
                   </quote>
                   <bibl>Heph. <foreign lang="greek">π. ποιημ.</foreign> &gt;7.2. p.71 Cons.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="94A">
+              <div type="lyric" n="94A">
                 <cit id="tlg-0232.cit.237">
                   <quote>
                     <cit id="tlg-0232.cit.238">
@@ -4148,9 +4148,9 @@
                   </quote>
                   <bibl>Hesych.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="95">
+              <div type="lyric" n="95">
                 <cit id="tlg-0232.cit.239">
                   <quote><add>p. to\ te/o a)nti\ tou= ti/nos</add>: tou=to to\ te/w
                     teto/lmhtai kai\ te/ou oi(=on <cit id="tlg-0232.cit.240">
@@ -4162,9 +4162,9 @@
                   </quote>
                   <bibl>Et. Magn. 752. 15n</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="96">
+              <div type="lyric" n="96">
                 <cit id="tlg-0232.cit.241">
                   <quote>ti/s ga\r ou)k oi(=den o(/ti polloi\ koinwnh/santes a(lw=n kai\ trape/chs
                     e)pebou/leusan toi=s sunesti/ois; kai\ plh/rhs e)sti\n h( *(ellh/nwn kai\
@@ -4185,9 +4185,9 @@
                     o(mologi/an tw=n ga/mwn, w(/s fhsin au)to/s.</quote>
                   <bibl>Dio Chrys. 74. 16</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="97">
+              <div type="lyric" n="97">
                 <cit id="tlg-0232.cit.244">
                   <quote>kh/lwn me\n pepoi/htai a)po\ tw=n o)xeutw=n o)/nwn: *)arxi/loxos:
                     <q>w(/st' o)/nou</q> ktl. <cit id="tlg-0232.cit.245">
@@ -4211,9 +4211,9 @@
                   <quote>*)arxi/loxos:</quote>
                   <bibl>Et. Sorb. ap. Gaisf. p. 166. 21 n.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="97A">
+              <div type="lyric" n="97A">
                 <cit id="tlg-0232.cit.248">
                   <quote>
                     <cit id="tlg-0232.cit.249">
@@ -4240,9 +4240,9 @@
                   </quote>
                   <bibl>Pap. Argentorat. Sitz. b. Berl. Akad. 1899. 857<!--note n="p.150.n.1"/--></bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="97B">
+              <div type="lyric" n="97B">
                 <cit id="tlg-0232.cit.250">
                   <quote>
                     <l>Ἡ χλαῖν<add>a dhloi= s</add>χετλίη, <add>s'
@@ -4261,9 +4261,9 @@
                   </quote>
                   <bibl>Pap. Argentorat. Sitz. b. Berl. Akad. 1899. 857<!--note n="p.150.n.6"/--></bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="98">
+              <div type="lyric" n="98">
                 <cit id="tlg-0232.cit.251">
                   <quote>to\ tetra/metron &lpar;daktuliko\n&rpar; ei)s disu/llabon
                     katalhktiko/n, w(=| prw=tos me\n e)xrh/sato *)arxi/loxos e)n *)epw|doi=s: <cit id="tlg-0232.cit.252">
@@ -4275,9 +4275,9 @@
                   </quote>
                   <bibl>Heph. 7. 2. p. 21 Cons.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="98A">
+              <div type="lyric" n="98A">
                 <cit id="tlg-0232.cit.253">
                   <quote>to\ me/los kai\ <add>sta/sewn k</add>ai\ taraxw=n
                     ei(=<add>nai k</add>atapaustiko/n . . dio\ kai\ to\n *)arxi/loxon
@@ -4291,9 +4291,9 @@
                   </quote>
                   <bibl>Philod. Mus. 20 K . .</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="99">
+              <div type="lyric" n="99">
                 <cit id="tlg-0232.cit.255">
                   <quote>tri/metron de\ katalhktiko\n &lpar;troxai+ko/n&rpar;, oi(=o/n e)sti
                     to\ *)arxilo/xou, o(/ tines a)ke/falon i)ambiko\n kalou=si: <cit id="tlg-0232.cit.256">
@@ -4305,9 +4305,9 @@
                   </quote>
                   <bibl>Heph. 6. 2. p. 18</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="100">
+              <div type="lyric" n="100">
                 <cit id="tlg-0232.cit.257">
                   <quote>e)/sti de\ e)n au)tw=| &lpar;tw=| troxai+kw=|&rpar; e)pi/shmon ka
                     to\ di/metron braxukata/lhkton, to\ kalou/menon i)qufalliko/n: w(=| prw=tos me\n
@@ -4320,9 +4320,9 @@
                   </quote>
                   <bibl>Heph. 6. 3. p. 19</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="101">
+              <div type="lyric" n="101">
                 <cit id="tlg-0232.cit.259">
                   <quote>*(omh/rou ei)po/ntos<bibl>&lpar;Il. 21.
                     353&rpar;</bibl><q>tei/ront' e)gxe/lue/s te kai\ i)xqu/es</q>
@@ -4335,9 +4335,9 @@
                   </quote>
                   <bibl>Ath. 7. 299a . .</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="102">
+              <div type="lyric" n="102">
                 <cit id="tlg-0232.cit.261">
                   <quote>to\ ga\r a)pteru/ontai oi(onei\ ta\ ptera\ xala/santes a)nti\ tou=
                     diasei/ousi ta\s pre/rugas u(postre/yantes: diakinou=si ga\r ta\s pte/rugas
@@ -4353,9 +4353,9 @@
                   </quote>
                   <bibl>Sch. Arat. 1009</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="103">
+              <div type="lyric" n="103">
                 <cit id="tlg-0232.cit.263">
                   <quote><add>yo/gos *)afrodi/ths: kai\ o(/ti fau=lon o( e)/rws kai\ po/swn
                     ei)/h kakw=n gegonw\s ai)/tios</add>: *)arxilo/xou: <cit id="tlg-0232.cit.264">
@@ -4369,9 +4369,9 @@
                   </quote>
                   <bibl>Stob. Fl. 64. 11</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="104">
+              <div type="lyric" n="104">
                 <cit id="tlg-0232.cit.265">
                   <quote>kai\ e)/ti <q>eu)=te pro\s</q> ktl. <cit id="tlg-0232.cit.266">
                       <quote>
@@ -4391,9 +4391,9 @@
                     e)ntau=qa ga\r h( dhs sullabh\ a)nti\ trisulla/bou kei=tai.</quote>
                   <bibl>Heph. Ench. 4. 2. p. 13 Cons.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="104A">
+              <div type="lyric" n="104A">
                 <cit id="tlg-0232.cit.268">
                   <quote>
                     <cit id="tlg-0232.cit.269">
@@ -4406,9 +4406,9 @@
                   </quote>
                   <bibl>Hesych.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="104B">
+              <div type="lyric" n="104B">
                 <cit id="tlg-0232.cit.270">
                   <quote>pro/keitai ta\ pra/gmat' au)toi=s &lpar;toi=s qeoi=s&rpar; w(/sper
                     e)n o)fqalmoi=s. dia\ tou=to <q>*zeu\s e)n qeoi=si</q> ktl., kai\
@@ -4423,9 +4423,9 @@
                   </quote>
                   <bibl>Aristid. Or. 2. 51</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="105">
+              <div type="lyric" n="105">
                 <cit id="tlg-0232.cit.272">
                   <quote lang="la"><add>de pentametro iambico catalecto</add>: Hoc potest
                     dividi in dimetrum acatalectum Archilochium, de quo supra docui, <cit id="tlg-0232.cit.273">
@@ -4437,9 +4437,9 @@
                   </quote>
                   <bibl>Mar. Plot. Gr. Lat. 6. 2. 527 K</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="106">
+              <div type="lyric" n="106">
                 <cit id="tlg-0232.cit.274">
                   <quote><add>p. perdi/kwn</add>: tou= de\ o)no/matos au)tw=n e)/nioi
                     suste/llousi th\n me/shn sullabh/n, w(s *)arxi/loxos: <cit id="tlg-0232.cit.275">
@@ -4451,9 +4451,9 @@
                   </quote>
                   <bibl>Ath. 9. 388 f</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="107">
+              <div type="lyric" n="107">
                 <cit id="tlg-0232.cit.276">
                   <quote>gennai=a le/gei ta\ eu)genh= o( filo/sofos, w(s kai\ *)arxi/loxos: <cit id="tlg-0232.cit.277">
                       <quote>
@@ -4464,9 +4464,9 @@
                   </quote>
                   <bibl>Ath. 14. 653 d</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="108">
+              <div type="lyric" n="108">
                 <cit id="tlg-0232.cit.278">
                   <quote>
                     <cit id="tlg-0232.cit.279">
@@ -4479,9 +4479,9 @@
                   </quote>
                   <bibl>Suid.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="109">
+              <div type="lyric" n="109">
                 <cit id="tlg-0232.cit.280">
                   <quote>qw|h/: . . e)/xei de\ to\ <term>i</term> e)k parado/sews, e)peidh\
                     eu(/rhtai qwi+h/, w(s par' *)arxilo/xw|: <cit id="tlg-0232.cit.281">
@@ -4493,9 +4493,9 @@
                   </quote>
                   <bibl>Et. Magn. 26. 23</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="110">
+              <div type="lyric" n="110">
                 <cit id="tlg-0232.cit.282">
                   <quote>ei)/wqe kai\ o( *)arxi/loxos mela/mpugon tou=ton &lpar;to\n
                     a)eto\n&rpar; kalei=n: <cit id="tlg-0232.cit.283">
@@ -4507,9 +4507,9 @@
                   </quote>
                   <bibl>Sch. Il. 24. 315</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="111">
+              <div type="lyric" n="111">
                 <cit id="tlg-0232.cit.284">
                   <quote>e)mpela/dhn, si/neggus, h)/, w(s e)/nioi, xwri/s: kai\ *)arxi/loxos e)pi
                     tou= xwri/s: <cit id="tlg-0232.cit.285">
@@ -4521,9 +4521,9 @@
                   </quote>
                   <bibl>Apoll. Soph. 67</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="112">
+              <div type="lyric" n="112">
                 <cit id="tlg-0232.cit.286">
                   <quote>lewko/rhtos: o( e)cwloqreume/nos: to\ ga\r le/ws e)sti\ tele/ws:
                     *)arxi/loxos: <cit id="tlg-0232.cit.287">
@@ -4535,9 +4535,9 @@
                   </quote>
                   <bibl>Phot. Lex.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="113">
+              <div type="lyric" n="113">
                 <cit id="tlg-0232.cit.288">
                   <quote>*qargh/lia: *)apo/llwnos e(orth\ kai\ o(/los o( mh\n iero\s tou= qeou=: e)n
                     de\ toi=s *qarghli/ois ta\s a)parxa\s tw=n fuome/nwn<!--note n="p.159.n.4"/-->
@@ -4552,13 +4552,13 @@
                   </quote>
                   <bibl>Hesych.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="114(1)-(14)">
+              <div type="lyric" n="114(1)-(14)">
 
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.290">
                     <quote>*koi/ranos o( *milh/sios i)dw\n a(lie/as tw=| diktu/w| labo/ntas delfi=na
                       kai\ me/llontas katako/ptein, a)rgu/rion dou\s kai\ paraithsa/menos a)fh=ken
@@ -4571,11 +4571,11 @@
                       a)/nqrwpon.</quote>
                     <bibl>Phylarch. ap. Ath. 13. 606d</bibl>
                   </cit>
-                </div5>
+                </div>
 
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.291">
                     <quote>*koi/ranos o)/noma, to\ ge/nos e)k *parou, delfi/nwn tinw=n e)n
                       *buzanti/w| bo/lw| peripeso/ntwn kai\ e(alwko/twn, dou\s a)rgu/rion oi(onei\
@@ -4594,10 +4594,10 @@
                       a)penh/canto.</quote>
                     <bibl>Ael. N.A. 8.3</bibl>
                   </cit>
-                </div5>
+                </div>
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.292">
                     <quote>*koi/ranos . . . *pa/rios ga\r w)\n to\ ge/nos e)n *buzanti/w| delfi/nwn
                       bo/lon, e)nsxeqe/ntwn sagh/nh| kai\ kinduneuo/ntwn katakoph=nai, pria/menos
@@ -4614,10 +4614,10 @@
                       a)/xri ou(= sunetele/sqhsan.</quote>
                     <bibl>Plut. Soll. An. 36</bibl>
                   </cit>
-                </div5>
+                </div>
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.293">
                     <quote><add>su</add>nge/grafen o( *dhme/as ou) mo/non peri\
                       th\<add>n a)/llwn do/-</add><lb/><add>c</add>an a)lla\ kai\
@@ -4659,10 +4659,10 @@
                         inch high; B transcript of stone now lost, said to have been of Macedonian
                         or Roman times</note><!--note n="p.162.n.1"/-->, A Col. 1</bibl>
                   </cit>
-                </div5>
+                </div>
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.295">
                     <quote>........xruso\n de\ te/mn<add>ontas h)\</add><lb/>fe/rontas
                       tou\s *qra=kas a)\n sterw=sin *pa/rioi, pa/nt<add>a
@@ -4703,10 +4703,10 @@
                     </quote>
                     <bibl>Col. 4.<!--note n="p.166.n.5"/--></bibl>
                   </cit>
-                </div5>
+                </div>
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.298">
                     <quote><add>w(/s fhsin o(</add><lb/>*dhme/as, a)lla\
                       <add>e)ni/khsan: o(/ti d' a)lhqh= le/gei</add><lb/>dhloi= o( poihth\s
@@ -4884,10 +4884,10 @@
                     </quote>
                     <bibl>Col. 4</bibl>
                   </cit>
-                </div5>
+                </div>
 
 
-                <div5>
+                <div>
                   <cit id="tlg-0232.cit.310">
                     <quote>. . . <add>*)apol</add>lw/nio<add><gap/> <lb/>. . . . . . . . . . . . . . . th=s</add><lb/>mhtro\s
                       au)th=s<add> . . . . . . . . . . . .. </add><gap extent="2 lines lost"/><lb/>kai\ me<add>ta\&quest; . . . . . . . .
@@ -4918,14 +4918,14 @@
                     </quote>
                     <bibl>B Col. 4</bibl>
                   </cit>
-                </div5>
-              </div4>
+                </div>
+              </div>
 
 
 
 
 
-              <div4 type="LYRIC" n="115">
+              <div type="lyric" n="115">
                 <cit id="tlg-0232.cit.312">
                   <quote><add>p. a)sunarth/twn</add>: gi/netai de\ o( teleutai=os th=s
                     tetrapodi/as dia\ th\n e)pi\ te/lous a)dia/foron kai\ krhtiko/s: <cit id="tlg-0232.cit.313">
@@ -4938,9 +4938,9 @@
                   </quote>
                   <bibl>Heph. 15. 8. p. 50 Cons.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="116">
+              <div type="lyric" n="116">
                 <cit id="tlg-0232.cit.314">
                   <quote><add>p. i)ambikou= katalhktikou=</add>: tri/metron de\ oi(=on to\
                     *)arxilo/xou: <cit id="tlg-0232.cit.315">
@@ -4952,9 +4952,9 @@
                   </quote>
                   <bibl>Heph. 5.3. p. 16</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="117">
+              <div type="lyric" n="117">
                 <cit id="tlg-0232.cit.316">
                   <quote>*pa/ros: nh=sos, h(\n kai\ <cit id="tlg-0232.cit.317">
                       <quote>
@@ -4966,9 +4966,9 @@
                   </quote>
                   <bibl>Steph. Byz.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="118">
+              <div type="lyric" n="118">
                 <cit id="tlg-0232.cit.318">
                   <quote>
                     <cit id="tlg-0232.cit.319">
@@ -4982,14 +4982,14 @@
                   </quote>
                   <bibl>Zenob. 5. 68</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
 
             <div3 type="book">
               <head>Ὕμνων</head>
 
 
-              <div4 type="LYRIC" n="119">
+              <div type="lyric" n="119">
 
                 <head>
                   <title>u(/mnos ei)s *(hrakle/a</title>
@@ -5057,14 +5057,14 @@
                     to\n *dh/mhtros u(/mnon e(autw=| tou=ton e)pipefwnhke/nai.</quote>
                   <bibl>Sch. Ar. Au. 1764</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
 
             <div3 type="book">
               <head>Ἰοβάκχων</head>
 
 
-              <div4 type="LYRIC" n="120">
+              <div type="lyric" n="120">
                 <cit id="tlg-0232.cit.325">
                   <quote>a)/llo a)suna/rthton o(moi/ws kata\ th\n prw/thn a)ntipa/qeian e)c
                     i)ambikou= dime/trou a)katalh/ktou kai\ troxai+kou e(fqhmimerou=s, tou=
@@ -5078,9 +5078,9 @@
                   </quote>
                   <bibl>Heph. 15. 16. p. 52 Cons.</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4 type="LYRIC" n="121">
+              <div type="lyric" n="121">
                 <cit id="tlg-0232.cit.327">
                   <quote>*be/xeir . . <cit id="tlg-0232.cit.328">
                       <quote>
@@ -5093,11 +5093,11 @@
                   </quote>
                   <bibl>Steph. Byz.</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>
               <bibl><foreign lang="en">UNKNOWN</foreign></bibl>
             </head>
@@ -6340,15 +6340,15 @@
                 <bibl>O.P. 8. 1087. ii. 38</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0260">
+      </div>
+      <div type="text" id="tlg-0260">
         
           <head>Σημωνίδου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
 
             <div3 type="biodata">
               <cit id="tlg-0260.cit.1">
@@ -6408,10 +6408,10 @@
                 <bibl>Cyril. c. Jul. i. p. 12</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἰάμβων.Α καὶ Β</head>
 
             <div3 type="iambic" n="1">
@@ -7182,15 +7182,15 @@
                 <bibl>Cod. Athen. 1083. ap. Crus. Paroem.</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0252">
+      </div>
+      <div type="text" id="tlg-0252">
         
           <head>Ἑρμίππου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0252.cit.1">
               <quote>*(/ermippos: *)aqhnai=os, kwmiko\s th=s a)rxai/as kwmw|di/as, e(tero/fqalmos,
                 a)delfo\s de\ *murti/lou tou= kwmikou=: dra/mata dida/cas m/.</quote>
@@ -7214,10 +7214,10 @@
                 poihth/s.</quote>
               <bibl>Polemon ap. Ath. 15. 699a</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Τριμέτρων</head>
 
             <div3 type="iambic" n="1">
@@ -7263,9 +7263,9 @@
                 <bibl>Suid.</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Τετραμέτρων</head>
 
             <div3 type="iambic" n="4">
@@ -7344,15 +7344,15 @@
                 <bibl>Ath. 15.700 d</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="tlg-0259">
+      </div>
+      <div type="text" id="tlg-0259">
         
           <head>Σκυθίνου</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <cit id="tlg-0259.cit.1">
               <quote>*te/ws: po/lis *)iwni/as .. a)f' ou(= *prwtago/ras *th/i+os kai\ *skuqi=nos o(
                 i)a/mbwn poihth\s *th/i+os.</quote>
@@ -7372,10 +7372,10 @@
                 e)dei/mato *(hra/kleian th\n *trhxini/an kaleome/nhn.</q></quote>
               <bibl>Ath. 11. 461 f</bibl>
             </cit>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>Ἰάμβων</head>
 
             <div3 type="iambic" n="1, 2">
@@ -7384,7 +7384,7 @@
                 <title>*peri\ *fu/sews</title>
               </head>
 
-              <div4>
+              <div>
                 <cit id="tlg-0259.cit.4">
                   <quote>u(/steron me/ntoi &lpar;oi( *megarei=s&rpar; plh=ktron a)ne/qhkan
                     tw=| qew=| xrusou=n, e)pisth/santes, w(s e)/oike, *skuqinw=| le/gonti peri\ th=s
@@ -7400,9 +7400,9 @@
                   </quote>
                   <bibl>Plut. Pyth. Or. 16</bibl>
                 </cit>
-              </div4>
+              </div>
 
-              <div4>
+              <div>
                 <cit id="tlg-0259.cit.6">
                   <quote><add>p. xro/nou ou)si/as</add>: e)k tou= *skuqi/nou
                     *peri\*fu/sews: <cit id="tlg-0259.cit.7">
@@ -7420,25 +7420,25 @@
                   </quote>
                   <bibl>Stob. Ecl. i. 8. 43</bibl>
                 </cit>
-              </div4>
+              </div>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="adespota-001">
+      </div>
+      <div type="text" id="adespota-001">
         
           <head>Ἐπιγραμμάτων Ἀδεσπότων Ἐκλογή</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <head>
               <bibl><foreign lang="en">NONE</foreign></bibl>
             </head>
             <p/>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>
               <bibl><foreign lang="en">Mixed Meters</foreign></bibl>
             </head>
@@ -8421,23 +8421,23 @@
                 <bibl>Kaibel 70, Cougny i. 73</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
         
-      </div1>
-      <div1 type="text" id="adespota-002">
+      </div>
+      <div type="text" id="adespota-002">
         
           <head>Ἀλλὰ Ἀδέσποτα</head>
 
 
-          <div2 type="section"><!--testimonia-->
+          <div type="section"><!--testimonia-->
             <head>
               <bibl><foreign lang="en">NONE</foreign></bibl>
             </head>
             <p/>
-          </div2>
+          </div>
 
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>/α Ἐλεγεῖα καὶ Ἔπη</head>
 
             <div3 type="elegiac" n="1">
@@ -9141,9 +9141,9 @@
                 <bibl>Arist. Eth. Nic. 1157 b. 13</bibl>
               </cit>
             </div3>
-          </div2>
+          </div>
 
-          <div2 type="section"><!--fragments-->
+          <div type="section"><!--fragments-->
             <head>/β Ἰαμβικά</head>
 
             <div3 type="iambic" n="42">
@@ -9547,9 +9547,9 @@
                 <bibl>Anon. Vit. Arist. Buhle p. 67</bibl>
               </cit>
             </div3>
-          </div2>        
-        </div1>
-      </div0>
+          </div>        
+        </div>
+      </div>
     </body>
   </text>
 </TEI.2>

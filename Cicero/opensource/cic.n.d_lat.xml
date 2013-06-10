@@ -73,7 +73,7 @@ added to repository
 </teiHeader>
 <text lang="la"><body>
 <head>De Natura Deorum</head>
-<div1 type="book" n="1"><head>LIBER PRIMUS</head>
+<div type="book" n="1"><head>LIBER PRIMUS</head>
 	<pb id="p.1"/>
 <p><milestone unit="section" n="1"/>
 Cum multae res in philosophia nequaquam satis
@@ -1437,9 +1437,9 @@ potest, idque videns Epicurus re tollit oratione relinquit deos;
 dicam "propitius sit"; esse enim propitius potest nemini,
 quoniam ut dicitis omnis in inbecillitate est et gratia
 et caritas.'</p>
-</div1> 
+</div> 
 	<pb id="p.49"/>
-<div1 type="book" n="2"><head>LIBER SECUNDUS</head>
+<div type="book" n="2"><head>LIBER SECUNDUS</head>
 <p><milestone unit="section" n="1"/>
 Quae cum Cotta dixisset, tum Velleius <quote>Ne ego</quote>
 inquit <quote>incautus, qui cum Academico et eodem rhetore
@@ -3374,9 +3374,9 @@ putarem de natura deorum. tu autem Cotta si me
 audias eandem causam agas teque et principem civem
 et pontificem esse cogites et, quoniam in utramque
 partem vobis licet disputare, hanc potius sumas eamque facultatem disserendi, quam tibi a rhetoricis exercitationibus acceptam amplificavit Academia, potius
-huc conferas. mala enim et impia consuetudo est contra deos disputandi, sive ex animo id fit sive simulate.</p></quote></p></div1>
+huc conferas. mala enim et impia consuetudo est contra deos disputandi, sive ex animo id fit sive simulate.</p></quote></p></div>
 <pb id="p.118"/>
-<div1 type="book" n="3"><head>LIBER TERTIUS</head>
+<div type="book" n="3"><head>LIBER TERTIUS</head>
 <p><milestone unit="section" n="1"/>
 Quae cum Balbus dixisset, tum adridens Cotta
 <quote>Sero</quote> inquit <quote>mihi Balbe praecipis quid defendam. ego
@@ -4586,7 +4586,7 @@ quam est Stoicorum de natura deorum oratio.</quote></p>
 <p>Haec cum essent dicta, ita discessimus, ut Velleio
 Cottae disputatio verior, mihi Balbi ad veritatis similitudinem videretur esse propensior.
 </p>
-</div1>
+</div>
 </body>
 </text>
 </TEI.2>

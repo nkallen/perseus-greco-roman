@@ -225,9 +225,9 @@ new texts
 
 			<p>Scene.--<placeName key="perseus,Athens">Athens</placeName>; before the houses of
                 LACHES and THAIS. </p>
-			<div1 type="act" n="introduction">
+			<div type="act" n="introduction">
 				<head>Introduction</head>
-				<div2 type="scene" n="subject">
+				<div type="scene" n="subject">
 					<head>THE SUBJECT.</head>
 
 					<p>A CERTAIN citizen of <placeName key="perseus,Athens">Athens</placeName> had a
@@ -263,8 +263,8 @@ new texts
                         her brother Chremes, and is promised in marriage to Chaerea; while Thraso
                         becomes reconciled to Phaedria, through the mediation of Gnatho, his
                         Parasite. </p>
-				</div2>
-				<div2 type="scene" n="production">
+				</div>
+				<div type="scene" n="production">
 					<head>THE
 						TITLE<note anchored="yes">Colman has the following remark on this
                             Play: "This seems to lave been the most popular of all the Comedies of
@@ -288,8 +288,8 @@ new texts
                             M. Valerius Messala and C. Fannius Strabo were Consuls in the year from
                             the building of the City 591, or B.C. <date value="-162">162</date>.</note>
                     </p>
-				</div2>
-				<div2 type="scene" n="summary">
+				</div>
+				<div type="scene" n="summary">
 					<head>THE SUMMARY OF C. SULPITIUS APOLLINARIS.</head>
 					<p>THE Captain, Thraso, being ignorant of the same, has brought from abroad a
                         girl who used wrongly to be called the sister of Thais, and presents her to
@@ -301,10 +301,10 @@ new texts
                         prompts him; he goes in; he ravishes the maiden; but at length her brother
                         being discovered, a citizen of <placeName key="tgn,7002681">Attica</placeName>, betroths her who has been ravished, to the youth,
                         and Thraso prevails upon Phaedria by his entreaties. </p>
-				</div2>
-			</div1>
-			<div1 type="act" n="prologue">
-				<div2 type="scene" n="0">
+				</div>
+			</div>
+			<div type="act" n="prologue">
+				<div type="scene" n="0">
 					<milestone n="1" unit="line"/>
 					<milestone n="1" unit="TLN line"/>
 					<sp>
@@ -470,10 +470,10 @@ new texts
                             to do. Grant me your attention, and give heed in silence, that you may
                             understand what the Eunuch means. </p>
 					</sp>
-				</div2>
-			</div1>
-			<div1 type="act" n="1">
-				<div2 type="scene" n="1">
+				</div>
+			</div>
+			<div type="act" n="1">
+				<div type="scene" n="1">
 					<milestone n="1" unit="line"/>
 					<milestone n="46" unit="TLN line"/>
 					<stage>Enter PHAEDRIA and PARMENO.</stage>
@@ -546,8 +546,8 @@ new texts
                                 blades and standing corn."</note>--for that which we ought ourselves
                             to enjoy she intercepts.</p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="2">
+				</div>
+				<div type="scene" n="2">
 					<milestone n="1" unit="line"/>
 					<milestone n="81" unit="TLN line"/>
 					<stage>Enter THAIS from her house.</stage>
@@ -896,10 +896,10 @@ new texts
                             and wait until he comes. <stage>She goes into her house.</stage>
                         </p>
 					</sp>
-				</div2>
-			</div1>
-			<div1 type="act" n="2">
-				<div2 type="scene" n="1">
+				</div>
+			</div>
+			<div type="act" n="2">
+				<div type="scene" n="1">
 					<milestone n="1" unit="line"/>
 					<milestone n="207" unit="TLN line"/>
 					<stage>Enter PHAEDRIA and PARMENO.</stage>
@@ -1027,8 +1027,8 @@ new texts
                             Eunuch of mine. She surpasses Thais herself. <stage>Stands
                                 aside.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="2">
+				</div>
+				<div type="scene" n="2">
 					<milestone n="1" unit="line"/>
 					<milestone n="232" unit="TLN line"/>
 					<stage>Enter GNATHO at a distance, leading PAMPHILA.</stage>
@@ -1305,8 +1305,8 @@ new texts
                             nothing; he's coming in a hurry, too; I can't imagine why he's looking
                             around in all directions.</p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="3">
+				</div>
+				<div type="scene" n="3">
 					<milestone n="1" unit="line"/>
 					<milestone n="292" unit="TLN line"/>
 					<stage>Enter CHAEREA on the other side of the stage, in haste.</stage>
@@ -1866,10 +1866,10 @@ new texts
                                 LACHES.</stage>
                         </p>
 					</sp>
-				</div2>
-			</div1>
-			<div1 type="act" n="3">
-				<div2 type="scene" n="1">
+				</div>
+			</div>
+			<div type="act" n="3">
+				<div type="scene" n="1">
 					<milestone n="1" unit="line"/>
 					<milestone n="390" unit="TLN line"/>
 					<stage>Enter THRASO and GNATHO.</stage>
@@ -2178,8 +2178,8 @@ new texts
 						<p> Nonsense. You never thought about it; else how much more readily would
                             you yourself have hit upon it, Thraso!</p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="2">
+				</div>
+				<div type="scene" n="2">
 					<milestone n="1" unit="line"/>
 					<milestone n="453" unit="TLN line"/>
 					<stage>Enter THAIS from her house, attended by PYTHIAS.</stage>
@@ -2429,8 +2429,8 @@ new texts
                                 THRASO, followed by the Attendants. PYTHIAS goes into the
                                 house.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="3">
+				</div>
+				<div type="scene" n="3">
 					<milestone n="1" unit="line"/>
 					<milestone n="506" unit="TLN line"/>
 					<stage>Enter CHREMES.</stage>
@@ -2527,8 +2527,8 @@ new texts
                                 <stage>(Exit CHREMES with DORIAS, PYTHIAS goes into the
                                 house.)</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="4">
+				</div>
+				<div type="scene" n="4">
 					<milestone n="1" unit="line"/>
 					<milestone n="538" unit="TLN line"/>
 					<stage>Enter ANTIPHO.</stage>
@@ -2555,8 +2555,8 @@ new texts
                             like first at a distance to try and find out. <stage>He stands
                                 apart.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="5">
+				</div>
+				<div type="scene" n="5">
 					<milestone n="1" unit="line"/>
 					<milestone n="548" unit="TLN line"/>
 					<stage>Enter CHAEREA from the house of Thais, in the EUNUCH'S dress.</stage>
@@ -2856,10 +2856,10 @@ new texts
 						<p> Very well. <stage>(Exeunt.)</stage>
                         </p>
 					</sp>
-				</div2>
-			</div1>
-			<div1 type="act" n="4">
-				<div2 type="scene" n="1">
+				</div>
+			</div>
+			<div type="act" n="4">
+				<div type="scene" n="1">
 					<milestone n="1" unit="line"/>
 					<milestone n="614" unit="TLN line"/>
 					<stage>Enter DORIAS, with a casket in her hand.</stage>
@@ -2896,8 +2896,8 @@ new texts
                                 house.</stage>
                         </p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="2">
+				</div>
+				<div type="scene" n="2">
 					<milestone n="1" unit="line"/>
 					<milestone n="628" unit="TLN line"/>
 					<stage>Enter PHAEDRIA.</stage>
@@ -2935,8 +2935,8 @@ new texts
                             purposely passed the house. But how's this, that Pythias is suddenly
                             hurrying out in such a fright? <stage>Stands apart.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="3">
+				</div>
+				<div type="scene" n="3">
 					<milestone n="1" unit="line"/>
 					<milestone n="642" unit="TLN line"/>
 					<stage>Enter PYTHIAS and DORIAS in haste from the house of THAIS.</stage>
@@ -3050,8 +3050,8 @@ new texts
                             otherwise I should have shut him up somewhere, and not have intrusted
                             the girl to him.</p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="4">
+				</div>
+				<div type="scene" n="4">
 					<milestone n="1" unit="line"/>
 					<milestone n="667" unit="TLN line"/>
 					<stage>Enter PHAEDRIA from the house of LACHES, with DORUS in CHAEREA'S clothes.</stage>
@@ -3398,8 +3398,8 @@ new texts
 						<p> Take in these golden trinkets; I shall learn from him what's the matter.
                                 <stage>DORIAS takes the casket into the house.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="5">
+				</div>
+				<div type="scene" n="5">
 					<milestone n="1" unit="line"/>
 					<milestone n="726" unit="TLN line"/>
 					<stage>Enter CHREMES, somewhat drunk.</stage>
@@ -3458,8 +3458,8 @@ new texts
                             of the house. But look, here she is; I wonder how it was I got here
                             before her.</p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="6">
+				</div>
+				<div type="scene" n="6">
 					<milestone n="1" unit="line"/>
 					<milestone n="738" unit="TLN line"/>
 					<stage>Enter THAIS.</stage>
@@ -3640,8 +3640,8 @@ new texts
                             I've provided as a champion, wants one himself. <stage>They all go into
                                 the house.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="7">
+				</div>
+				<div type="scene" n="7">
 					<milestone n="1" unit="line"/>
 					<milestone n="770" unit="TLN line"/>
 					<stage>Enter THRASO, followed by GNATHO, SANGA, and other Attendants.</stage>
@@ -3986,10 +3986,10 @@ new texts
                                 <stage>(Exeunt omnes.)</stage>
                         </p>
 					</sp>
-				</div2>
-			</div1>
-			<div1 type="act" n="5">
-				<div2 type="scene" n="1">
+				</div>
+			</div>
+			<div type="act" n="5">
+				<div type="scene" n="1">
 					<milestone n="1" unit="line"/>
 					<milestone n="816" unit="TLN line"/>
 					<stage>Enter THAIS from her house, followed by PYTHIAS.</stage>
@@ -4100,8 +4100,8 @@ new texts
 						<speaker>PYTHIAS</speaker>
 						<p> Besides, what effrontery he has.</p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="2">
+				</div>
+				<div type="scene" n="2">
 					<milestone n="1" unit="line"/>
 					<milestone n="839" unit="TLN line"/>
 					<stage>Enter CHAEREA, in the EUNUCH'S dress, on the other side of the stage.</stage>
@@ -4366,8 +4366,8 @@ new texts
 						<p> Go first; I'll follow. You stay here, Pythias, that you may show Chremes
                             in. <stage>THAIS and CHAEREA go into the house.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="3">
+				</div>
+				<div type="scene" n="3">
 					<milestone n="1" unit="line"/>
 					<milestone n="909" unit="TLN line"/>
 					<stage>Enter CHREMES and SOPHRONA.</stage>
@@ -4419,8 +4419,8 @@ new texts
                             know for certain about the discovery; afterward I'll come out, and give
                             this villain a terrible fright. <stage>Goes into the house.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="4">
+				</div>
+				<div type="scene" n="4">
 					<milestone n="1" unit="line"/>
 					<milestone n="922" unit="TLN line"/>
 					<stage>Enter PAIMENO.</stage>
@@ -4581,8 +4581,8 @@ new texts
 						<p> You are wise. I'm going in-doors; do you relate to him every thing
                             exactly as it happened. <stage>Goes into the house.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="5">
+				</div>
+				<div type="scene" n="5">
 					<milestone n="1" unit="line"/>
 					<milestone n="970" unit="TLN line"/>
 					<stage>Enter LACHES.</stage>
@@ -4723,8 +4723,8 @@ new texts
                                 corrupted Phaedria.</note> to do them a bad turn; at last he has
                             found it. </p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="6">
+				</div>
+				<div type="scene" n="6">
 					<milestone n="1" unit="line"/>
 					<milestone n="1001" unit="TLN line"/>
 					<stage>Enter PYTHIAS from the house of THAIS, laughing.</stage>
@@ -4845,8 +4845,8 @@ new texts
                                     betrayal of myself</lemma>: Which betrays itself by its own
                                 squeaking.</note></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="7">
+				</div>
+				<div type="scene" n="7">
 					<milestone n="1" unit="line"/>
 					<milestone n="1024" unit="TLN line"/>
 					<stage>Enter THRASO and GNATHO.</stage>
@@ -4898,8 +4898,8 @@ new texts
                             why, I wonder, is he rushing out in such a hurry? <stage>They stand
                                 aside.</stage></p>
 					</sp>
-				</div2>
-				<div2 type="scene" n="8">
+				</div>
+				<div type="scene" n="8">
 					<milestone n="1" unit="line"/>
 					<milestone n="1030" unit="TLN line"/>
 					<stage>Enter CHAEREA from the house of THAIS, on the other side of the stage.</stage>
@@ -5273,8 +5273,8 @@ new texts
                                 house.</stage> Walk this way. <stage>To the AUDIENCE.</stage> Fare
                             you well, and grant us your applause. </p>
 					</sp>
-				</div2>
-			</div1>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

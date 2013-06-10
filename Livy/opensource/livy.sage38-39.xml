@@ -54,8 +54,8 @@
 	<text>
 		<body>
 			<pb n="vii"/>
-			<div1 type="book" n="front">
-				<div2 type="chapter"><head>Editors' note</head>
+			<div type="book" n="front">
+				<div type="chapter"><head>Editors' note</head>
 					<p>Professor Evan T. Sage, the editor of this and the
 						two preceding volumes of the Loeb edition of Livy,
 						died in the Barnes Hospital, Saint Louis, after a
@@ -92,8 +92,8 @@
 					<closer><signed>The Editors.</signed>
 						<dateline>September 21, 1936.</dateline></closer>
 					<pb n="ix"/>
-				</div2>
-				<div2 type="chapter"><head>Translator's Preface</head>
+				</div>
+				<div type="chapter"><head>Translator's Preface</head>
 					<p>THIS preface should be brief. The Books contained
 						in Volume XI deal with minor matters, and Livy
 						feels himself more at leisure, so that he can include
@@ -151,8 +151,8 @@
 								name).</item></list>
 					</p>
 					<pb n="xi"/>
-				</div2>
-				<div2 type="chapter"><head>Introductory Note</head>
+				</div>
+				<div type="chapter"><head>Introductory Note</head>
 					<p>BY the year <date value="-189">189 B.C.</date> a Roman optimist (if such an
 						one existed) might well have said that Rome's eastern
 						difficulties were over: Philip had been reduced to
@@ -235,10 +235,10 @@
 						problems. Little tasks are performed by little
 						men, who strive through partisan politics to make
 						themselves and their achievements seem great.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb id="p.3"/>
-			<div1 type="book" n="38"><head>Book XXXVIII</head>
+			<div type="book" n="38"><head>Book XXXVIII</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>While the war in Asia was in progress, there was<note type="margin">B.C. 189</note> no peace in Aetolia either,<note>The events here described belong to the previous year.</note> the trouble having been begun by the Athamanian people.
 					<milestone unit="section" n="2"/> Athamania at that time, after the expulsion of Amynander,<note>Cf. XXXVI. xiv. 9.</note> was held by royal garrisons under the prefects of Philip, and they, by their arrogant and lawless administration, had created a longing for Amynander.
@@ -1074,9 +1074,9 @@
 					<milestone unit="section" n="8"/> Not only was there no trace of the king's wealth discovered, but by no means was there as much property found as would equal the amount of the fine.
 					<milestone unit="section" n="9"/> Such a sum was raised for Lucius Scipio by his relatives and friends and clients that if he had <pb id="p.211"/>received it he would have been a great deal richer<note type="margin">B.C. 187</note> than he had been before his downfall.
 					<milestone unit="section" n="10"/> He accepted none of it; what was necessary for a decent existence was redeemed for him by his nearest relatives; and the ill-will against the Scipios ended by recoiling upon the heads of the praetor and his advisers and the accusers.<note>It has seemed unwise to attempt any further reconstruction of these scenes in the drama of the Scipios. Livy is unusually conscious of the contradictions and difficulties of the story without being able to solve the problems they create. Excessive space would be required to discuss these problems adequately, and the results would be incommensurate with the effort required.</note></p>
-			</div1>
+			</div>
 			<pb id="p.213"/>
-			<div1 type="book" n="38s"><head>Summary of Book XXXVIII</head>
+			<div type="book" n="38s"><head>Summary of Book XXXVIII</head>
 				<p>The consul Marcus Fulvius besieged the Ambraciots
 					in Epirus and received their surrender, subdued Cephallania, and granted peace to the conquered Aetolians.
 					Gnaeus Manlius his colleague defeated the Gallogrecians,
@@ -1122,9 +1122,9 @@
 					A countless amount of money collected by his relatives
 					and friends he refused to accept; what was necessary
 					for a decent existence for him was redeemed.</p>
-			</div1>
+			</div>
 			<pb id="p.219"/>
-			<div1 type="book" n="39"><head>Book XXXIX</head>
+			<div type="book" n="39"><head>Book XXXIX</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>While these things were going on at Rome, if<note type="margin">B.C. 187</note> indeed they did happen that year,<note>The allusion is to the uncertainty as to the date of the trial of the Scipios: cf. XXXVIII. lvi. 2 above.</note> both consuls were waging war against the Ligurians.<note>The assignment of Liguria to the consuls was reported at XXXVIII. xliii. 8 above.</note>
 					<milestone unit="section" n="2"/> This enemy was born, as it were, to keep alive the military discipline of the Romans during the intervals between their great wars; nor did any province do more to put an edge to the soldier's courage.
@@ -1867,9 +1867,9 @@
 				<p>At the end of the year there was a period of prayer by reason of the prodigies, because the Romans were well persuaded
 					<milestone unit="section" n="6??"/> that there had been a shower of blood, lasting two days, in the precinct of Concord,<note>Cf. also xlvi. 5 above and the note and XL. xix. 2.</note> and because it was reported that not far from Sicily, a new island which had not been there before had <pb id="p.399"/>risen from the sea.
 					<milestone unit="section" n="7"/> Valerius Antias says that<note type="margin">B.C. 183</note> Hannibal died this year, ambassadors having been sent to Prusias for this purpose, namely, Lucius Scipio Asiaticus and Publius Scipio Nasica,<note>Again Livy appends an afterthought, inconsistent with his previous narrative.</note> in addition to Titus Quinctius Flamininus, whose name is best known in this connection.</p>
-			</div1>
+			</div>
 			<pb id="p.401"/>
-			<div1 type="book" n="39s"><head>Summary of Book XXXIX</head>
+			<div type="book" n="39s"><head>Summary of Book XXXIX</head>
 				<p>The consul Marcus Aemilius, having subdued the
 					Ligurians, built a road from Placentia to Ariminum to
 					connect with the Via Flaminia. The beginnings of
@@ -1908,8 +1908,8 @@
 					by the Romans and that he was compelled to withdraw
 					his garrisons from Thrace and elsewhere.</p>
 				<pb id="p.405"/>
-			</div1>
-			<div1 type="book" n="index"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><head>Index of names</head>
 				<head><hi rend="italics">The References are to Pages</hi>)</head>
 				<p>ABBASSIUS, 50</p>
 				<p>Abderitae, 140</p>
@@ -2432,7 +2432,7 @@
 				<p>Zmyrnaei, 132</p>
 				<p><hi rend="italics">Printed in Great Britain by Richard Clay (The Chaucer Press), Ltd.,
 					Bungay, Suffolk</hi></p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

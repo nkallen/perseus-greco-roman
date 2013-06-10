@@ -54,7 +54,7 @@
 	<text>
 		<body>
 			<pb id="p.2"/>
-			<div1 type="book" n="26"><head>Liber XXVI</head>
+			<div type="book" n="26"><head>Liber XXVI</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> CN. FULVIUS CENTUMALUS P. Sulpicius Galba<note type="margin">A.U.C. 543</note> consules cum idibus Martiis magistratum inissent,
 					senatu in Capitolium vocato, de re publica, de administratione belli, de provinciis exercitibusque patres
 					consuluerunt.<milestone unit="section" n="2"/> Q. Fulvio Ap. Claudio, prioris anni
@@ -1630,9 +1630,9 @@
 					in volgus iactabant, haudquaquam ipsi ignari
 					quantum sibi ad omnia virium Carthagine amissa
 					decessisset.</p>
-			</div1>
+			</div>
 			<pb id="p.198"/>
-			<div1 type="book" n="26s"><head>Libri XXVI Periocha</head>
+			<div type="book" n="26s"><head>Libri XXVI Periocha</head>
 				<p><name>Hannibal</name> ad tertium lapidem ab urbe Roma super Anienem castra posuit. <reg>ipse</reg> cum duobus milibus equitum
 					usque ad ipsam Capenam portam, ut situm urbis
 					exploraret, obequitavit. <reg>et</reg> cum per triduum in aciem
@@ -1653,9 +1653,9 @@
 					<reg>res</reg> praeterea gestas in Sicilia continet et amicitiam cum
 					Aetolis iunctam bellumque gestum adversus Acarnanas et
 					Philippum, Macedoniae regem.</p>
-			</div1>
+			</div>
 			<pb id="p.202"/>
-			<div1 type="book" n="27"><head>Liber XXVII</head>
+			<div type="book" n="27"><head>Liber XXVII</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> HIC status rerum in Hispania erat. <reg>in</reg> Italia<note type="margin">A.U.C. 544</note> consul Marcellus Salapia per proditionem recepta
 					Marmoreas et Meles de Samnitibus vi cepit.<milestone unit="section" n="2"/> <reg>ad</reg>
 					tria milia militum ibi Hannibalis, quae praesidii
@@ -3044,9 +3044,9 @@
 					Bruttios contraheret, et Metapontinos, civitatem
 					universam, excitos sedibus suis, et Lucanorum qui
 					suae dicionis erant in Bruttium agrum traduxit.</p>
-			</div1>
+			</div>
 			<pb id="p.414"/>
-			<div1 type="book" n="27s"><head>Libri XXVII Periocha</head>
+			<div type="book" n="27s"><head>Libri XXVII Periocha</head>
 				<p><name>Cn</name>. Fulvius proconsul cum exercitu ab Hannibale ad
 					Herdoneam caesus est. <reg>meliore</reg> eventu ab Claudio
 					Marcello consule adversus eundem ad Numistronem pugnatum est. <reg>inde</reg> Hannibal nocte recessit; Marcellus
@@ -3068,8 +3068,8 @@
 					praeterea feliciter a P. Scipione in Hispania et a P.
 					Sulpicio praetore adversus Philippum et Achaeos gestas
 					continet.</p>
-			</div1>
-			<div1 type="book" n="index"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><head>Index of names</head>
 				<p>(<hi rend="italics">The References are to Pages</hi>)</p>
 				<p>ACARNANIA, 92 (<hi rend="italics">bis</hi>), 96, 98; Acarnanes, 92, 94, 96, 98 (<hi rend="italics">bis</hi>), 108; Acarnanica coniuratio, 98</p>
 				<p>Acerrae, 212; Acerrani, 212 (<hi rend="italics">bis</hi>)</p>
@@ -3540,7 +3540,7 @@
 				<p>Voturia (tribe), 84 (<hi rend="italics">bis</hi>), 86 (<hi rend="italics">bis</hi>)</p>
 				<p>ZACYNTHUS, 94</p>
 				<p><hi rend="italics">Printed in Great Britain by Richard Clay (The Chaucer Press), Ltd., Bungay, Suffolk</hi></p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

@@ -106,7 +106,7 @@ comes within a speech, and moving milestones out of speeches
 <castItem type="role"><role>Muse</role></castItem>
 </castList>
 
-<div1 type="choral">
+<div type="choral">
 <milestone ed="p" n="1" unit="card"/>
 <stage>Enter the Chorus of Trojan guards.</stage>
 <sp>
@@ -133,23 +133,23 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Hector.&rsqb;</speaker>
 <p>Why do you desert your post and rouse the army, unless you have some tidings of the night? <milestone ed="p" n="20" unit="line"/> Are you not aware how near the <placeName key="tgn,5001993">Argive</placeName> army we take our night's repose clad in all our armor?<milestone ed="p" n="23" unit="card"/></p></sp>
-<div2 type="strophe">
+<div type="strophe">
 <sp><speaker>Chorus</speaker>
 <p>To arms! Hector, seek your allies' sleeping camp!<milestone ed="p" n="25" unit="line"/> Stir them up to wield the spear! Awake them!</p>
 <p>Despatch a friend to your own company, bridle the horses.</p>
 <p>Who will go to the son of Panthus? Who to Europa's son, captain of the Lycian band?</p>
 <p><milestone ed="p" n="30" unit="line"/> Where are they who should inspect the victims?</p>
 <p>Where are the leaders of the light-armed troops and the Phrygian archers?</p>
-<p>String your horn-tipped bows!<milestone ed="p" n="34" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>String your horn-tipped bows!<milestone ed="p" n="34" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Hector</speaker>
-<p>Your tidings inspire now fear, <milestone ed="p" n="35" unit="line"/> now confidence; nothing is plainly set forth. Can it be that you are smitten with wild fear by Pan, the son of Cronion? &lsqb;Leaving your watch you rouse the army.&rsqb; What does your noisy summons mean? What tidings can I say you bring? Your words are many, <milestone ed="p" n="40" unit="line"/> but no plain statement have you made.<milestone ed="p" n="41" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p>Your tidings inspire now fear, <milestone ed="p" n="35" unit="line"/> now confidence; nothing is plainly set forth. Can it be that you are smitten with wild fear by Pan, the son of Cronion? &lsqb;Leaving your watch you rouse the army.&rsqb; What does your noisy summons mean? What tidings can I say you bring? Your words are many, <milestone ed="p" n="40" unit="line"/> but no plain statement have you made.<milestone ed="p" n="41" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Chorus</speaker>
-<p>The long night through, Hector, the <placeName key="tgn,5001993">Argive</placeName> army has kindled fires, and bright with torches shines the anchored fleet. To Agamemnon's tent the whole army <milestone ed="p" n="45" unit="line"/> move clamorously by night, eager for fresh orders; for never before has the sea-faring company been so alarmed. And so I was suspicious of what might happen <milestone ed="p" n="50" unit="line"/> and came to tell you, so that you may have no cause to blame me hereafter.<milestone ed="p" n="52" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>The long night through, Hector, the <placeName key="tgn,5001993">Argive</placeName> army has kindled fires, and bright with torches shines the anchored fleet. To Agamemnon's tent the whole army <milestone ed="p" n="45" unit="line"/> move clamorously by night, eager for fresh orders; for never before has the sea-faring company been so alarmed. And so I was suspicious of what might happen <milestone ed="p" n="50" unit="line"/> and came to tell you, so that you may have no cause to blame me hereafter.<milestone ed="p" n="52" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Hector</speaker>
 <p>In good season you come, although your tidings are full of terror; for those men are bent on giving me the slip and stealing away from this land in their ships by night; <milestone ed="p" n="55" unit="line"/> their midnight signalling pleases me. Ah! Fortune, to rob me in my hour of triumph, a lion of his prey, before this spear had made an end of the whole <placeName key="tgn,5001993">Argive</placeName> army in one line! Yes, if the sun's bright lamp had not withheld <milestone ed="p" n="60" unit="line"/> his light, I would not have stayed my victor's spear, before I had fired their ships and made my way from tent to tent, drenching this hand in Achaean blood. I was eager to make a night attack and take advantage of the stroke of luck sent by heaven; <milestone ed="p" n="65" unit="line"/> but those wise seers of mine, who have heaven's will so pat, persuaded me to wait for dawn, and then leave not one Achaean in the land. But those others do not await the counsels of my soothsayers; darkness turns runaways to heroes. <milestone ed="p" n="70" unit="line"/> But we must now without delay pass this word to the army to take up arms and cease from slumber, so that many an Achaean, as he leaps aboard his ship, shall be smitten through the back and sprinkle the ladders with blood, and others shall be fast bound with cords <milestone ed="p" n="75" unit="line"/> and learn to till our Phrygian fields.</p></sp>
@@ -207,7 +207,7 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Aeneas</speaker>
 <p><milestone ed="p" n="105" unit="line"/> Would you were as sage as you are bold! But, to be sure, among mortals the same man is not dowered by nature with universal knowledge; each has his special gift appointed him, yours is battle, another's is sage counsel. You are excited to hear that the Achaeans are <milestone ed="p" n="110" unit="line"/> lighting blazing torches, and you would lead on our troops across the ditches in the calm still night. Now after crossing the deep yawning trench, supposing you should find the enemy are not flying from the land, but are awaiting your onset, <milestone ed="p" n="115" unit="line"/> beware lest you suffer defeat and so never reach this city again; for how will you pass the palisades in a rout? And how shall your charioteers cross the bridges without dashing the axles of their cars to pieces? And, if victorious, you have next the son of Peleus to engage; <milestone ed="p" n="120" unit="line"/> he will never allow you to cast the firebrand on the fleet or harry the Achaeans, as you believe. No, for that man is fierce as fire, a very tower of might. Let us rather then leave our men to sleep calmly under arms after the weariness of battle, <milestone ed="p" n="125" unit="line"/> while we send, as I advise, whoever will volunteer to spy upon the enemy; and if they really are preparing to fly, let us arise and fall upon the <placeName key="tgn,5001993">Argive</placeName> army, but if this signalling is a trap to catch us, we shall discover from the spy the enemy's designs <milestone ed="p" n="130" unit="line"/> and take counsel; such is my advice, lord.<milestone ed="p" n="131" unit="card"/></p></sp>
-<div2 type="strophe">
+<div type="strophe">
 <sp><speaker>Chorus</speaker>
 <p>It pleases me well; so change your mind and adopt this counsel. I do not love hazardous commands in generals. What is better than for a swift-footed spy to approach the ships <milestone ed="p" n="135" unit="line"/> and learn why our foes are lighting fires in front of their naval station?<milestone ed="p" n="137" unit="card"/></p></sp>
 <sp>
@@ -287,8 +287,8 @@ comes within a speech, and moving milestones out of speeches
 <p>Ah! but your desires clash with mine about those horses; <milestone ed="p" n="185" unit="line"/> for they are immortal and born from immortals, who bear the son of Peleus on his headlong course. Poseidon, lord of the ocean, broke them and gave them to Peleus, so runs the legend. Yet, for I urged you on, I will not break my word; I will give to you <milestone ed="p" n="190" unit="line"/> Achilles' team, a fair possession for your house.</p></sp>
 <sp>
 <speaker>Dolon</speaker>
-<p>I thank you; in receiving then, I assert that I am taking a fairer gift than any other Phrygian for my bravery. Yet you should not be envious; you have other things to gladden your heart, in your kingship over this land.<milestone ed="p" n="195" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p>I thank you; in receiving then, I assert that I am taking a fairer gift than any other Phrygian for my bravery. Yet you should not be envious; you have other things to gladden your heart, in your kingship over this land.<milestone ed="p" n="195" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Chorus</speaker>
 <p><milestone ed="p" n="195" unit="line"/> Great the enterprise, and great the reward you design to receive. Happy, yes, happy will you be, if you succeed; fair the fame your toil shall win. Yet it is a great thing to become the brother-in-law of princes. On the gods' decrees let Justice keep her eye! <milestone ed="p" n="200" unit="line"/> what man can give you have, it seems, in full.<milestone ed="p" n="201" unit="card"/></p></sp>
 <sp>
@@ -311,23 +311,23 @@ comes within a speech, and moving milestones out of speeches
 <p>May Hermes, <placeName key="tgn,1049816">Maia</placeName>'s child, escort you safely there and back, prince of tricksters as he is! You know what you have to do; good luck is all you need now.</p></sp>
 <sp>
 <speaker>Dolon</speaker>
-<p>I shall return in safety, and bring to you the head of Odysseus <milestone ed="p" n="220" unit="line"/> when I have slain him, or the son of Tydeus, and with this clear proof before you you shall assert that Dolon went to the <placeName key="tgn,5001993">Argive</placeName> fleet; for, before the dawn, I will come back home with bloodstained hand.<stage>Exit Dolon.</stage><milestone ed="p" n="224" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+<p>I shall return in safety, and bring to you the head of Odysseus <milestone ed="p" n="220" unit="line"/> when I have slain him, or the son of Tydeus, and with this clear proof before you you shall assert that Dolon went to the <placeName key="tgn,5001993">Argive</placeName> fleet; for, before the dawn, I will come back home with bloodstained hand.<stage>Exit Dolon.</stage><milestone ed="p" n="224" unit="card"/></p></sp></div>
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Lord of Thymbra and of Delos, who haunt <milestone ed="p" n="225" unit="line"/> your temple in <placeName key="tgn,7001294">Lycia</placeName>, Apollo, O divine head, come with all your archery, appear this night, and by your guidance save this man, <milestone ed="p" n="230" unit="line"/> and aid the Dardanians, O almighty god whose hands in days of old built the walls of <placeName key="perseus,Troy">Troy</placeName>.<milestone ed="p" n="233" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Lord of Thymbra and of Delos, who haunt <milestone ed="p" n="225" unit="line"/> your temple in <placeName key="tgn,7001294">Lycia</placeName>, Apollo, O divine head, come with all your archery, appear this night, and by your guidance save this man, <milestone ed="p" n="230" unit="line"/> and aid the Dardanians, O almighty god whose hands in days of old built the walls of <placeName key="perseus,Troy">Troy</placeName>.<milestone ed="p" n="233" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>May he come to the ships! May he reach the army of <placeName key="tgn,1000074">Hellas</placeName> and spy it out, then turn again and reach the altars of his father's <milestone ed="p" n="235" unit="line"/> home in <placeName key="tgn,7002329">Ilium</placeName>! May he mount the chariot drawn by <placeName key="perseus,Phthia">Phthia</placeName>'s horses, when our master has sacked <placeName key="tgn,7002733">Achaea</placeName>'s camp, <milestone ed="p" n="240" unit="line"/> those horses that the sea-god gave to Peleus, son of Aeacus.<milestone ed="p" n="242" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>May he come to the ships! May he reach the army of <placeName key="tgn,1000074">Hellas</placeName> and spy it out, then turn again and reach the altars of his father's <milestone ed="p" n="235" unit="line"/> home in <placeName key="tgn,7002329">Ilium</placeName>! May he mount the chariot drawn by <placeName key="perseus,Phthia">Phthia</placeName>'s horses, when our master has sacked <placeName key="tgn,7002733">Achaea</placeName>'s camp, <milestone ed="p" n="240" unit="line"/> those horses that the sea-god gave to Peleus, son of Aeacus.<milestone ed="p" n="242" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>For he alone had heart enough for home and country to go and spy on the naval station; I admire <milestone ed="p" n="245" unit="line"/> his spirit; how few stout hearts there are, when on the sea the sunlight dies and the city labors in the surge. <milestone ed="p" n="250" unit="line"/> <placeName key="tgn,7002613">Phrygia</placeName> yet has left a valiant few, and bold hearts in the battle's press; it is only <placeName key="tgn,7016748">Mysia</placeName>'s sons who scorn us as allies.<milestone ed="p" n="254" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>For he alone had heart enough for home and country to go and spy on the naval station; I admire <milestone ed="p" n="245" unit="line"/> his spirit; how few stout hearts there are, when on the sea the sunlight dies and the city labors in the surge. <milestone ed="p" n="250" unit="line"/> <placeName key="tgn,7002613">Phrygia</placeName> yet has left a valiant few, and bold hearts in the battle's press; it is only <placeName key="tgn,7016748">Mysia</placeName>'s sons who scorn us as allies.<milestone ed="p" n="254" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>Which of the Achaeans will the earth-treading murderer slay <milestone ed="p" n="255" unit="line"/> in their beds, as he pretends to be a four-footed beast on the ground? May he lay Menelaus low, slay Agamemnon and bring his head <milestone ed="p" n="260" unit="line"/> to Helen's hands, causing her to lament her evil kinsman, who has come against my city, against the land of <placeName key="perseus,Troy">Troy</placeName> with his army of a thousand ships.<milestone ed="p" n="264" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>Which of the Achaeans will the earth-treading murderer slay <milestone ed="p" n="255" unit="line"/> in their beds, as he pretends to be a four-footed beast on the ground? May he lay Menelaus low, slay Agamemnon and bring his head <milestone ed="p" n="260" unit="line"/> to Helen's hands, causing her to lament her evil kinsman, who has come against my city, against the land of <placeName key="perseus,Troy">Troy</placeName> with his army of a thousand ships.<milestone ed="p" n="264" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Messenger</speaker>
 <p>Lord, in days to come may it be mine <milestone ed="p" n="265" unit="line"/> to bring my masters such news as I am bearing to you now.</p></sp>
@@ -395,22 +395,22 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Hector</speaker>
 <p>You counsel rightly; you too take the proper view. <milestone ed="p" n="340" unit="line"/> Let Rhesus in his gilded armor join the allies of this land, thanks to the messenger's report.<stage>Exit the Messenger.</stage><milestone ed="p" n="342" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>May Nemesis, daughter of Zeus, check the word that may offend; for lo! I will utter all that it is dear <milestone ed="p" n="345" unit="line"/> to my soul to say. You have come, O son of the river god, you have come, welcome in your advent, to the halls of Friendship, since late in time your Pierian mother and Strymon, river with fair bridges, <milestone ed="p" n="350" unit="line"/> are sending you to us.<milestone ed="p" n="351" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>May Nemesis, daughter of Zeus, check the word that may offend; for lo! I will utter all that it is dear <milestone ed="p" n="345" unit="line"/> to my soul to say. You have come, O son of the river god, you have come, welcome in your advent, to the halls of Friendship, since late in time your Pierian mother and Strymon, river with fair bridges, <milestone ed="p" n="350" unit="line"/> are sending you to us.<milestone ed="p" n="351" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Strymon, who begot you, his strong young son, that day his swirling waters found a refuge in the tuneful Muse's virgin bosom. <milestone ed="p" n="355" unit="line"/> You are my Zeus, my god of light, as you come driving your dappled horses.  Now, O <placeName key="tgn,7002613">Phrygia</placeName>, O my country, now may you by God's grace address Zeus the Deliverer!<milestone ed="p" n="360" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Strymon, who begot you, his strong young son, that day his swirling waters found a refuge in the tuneful Muse's virgin bosom. <milestone ed="p" n="355" unit="line"/> You are my Zeus, my god of light, as you come driving your dappled horses.  Now, O <placeName key="tgn,7002613">Phrygia</placeName>, O my country, now may you by God's grace address Zeus the Deliverer!<milestone ed="p" n="360" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="360" unit="line"/> Shall old <placeName key="perseus,Troy">Troy</placeName> once more at last spend the whole day in drinking toasts and singing love's praise, while the bewildering wine-cup sends a capacious challenge round, <milestone ed="p" n="365" unit="line"/> as over the sea for <placeName key="perseus,Sparta">Sparta</placeName> the sons of Atreus quit the Ilian strand? O friend, with your arm and spear may you do me this service, then safe return.<milestone ed="p" n="370" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p><milestone ed="p" n="360" unit="line"/> Shall old <placeName key="perseus,Troy">Troy</placeName> once more at last spend the whole day in drinking toasts and singing love's praise, while the bewildering wine-cup sends a capacious challenge round, <milestone ed="p" n="365" unit="line"/> as over the sea for <placeName key="perseus,Sparta">Sparta</placeName> the sons of Atreus quit the Ilian strand? O friend, with your arm and spear may you do me this service, then safe return.<milestone ed="p" n="370" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="370" unit="line"/> Come, appear, brandish that shield of gold full in Achilles' face; raise it aslant along the chariot's branching rail, urging on your horses, and shaking your lance with double point. <milestone ed="p" n="375" unit="line"/> For none after facing you will ever join the dance on the plains of Argive Hera; no, but he shall die, slain by Thracians, and this land shall bear the burden of his corpse and be glad.<milestone ed="p" n="379" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p><milestone ed="p" n="370" unit="line"/> Come, appear, brandish that shield of gold full in Achilles' face; raise it aslant along the chariot's branching rail, urging on your horses, and shaking your lance with double point. <milestone ed="p" n="375" unit="line"/> For none after facing you will ever join the dance on the plains of Argive Hera; no, but he shall die, slain by Thracians, and this land shall bear the burden of his corpse and be glad.<milestone ed="p" n="379" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus</speaker>
 <p>Hail, all hail! O mighty prince! <milestone ed="p" n="380" unit="line"/> fair the cub you have bred, 0 <placeName key="tgn,7002756">Thrace</placeName>, a ruler in his every look. See his stalwart frame in golden corslet! Hark to the ringing bells that peal so proudly from his shield-handle. <milestone ed="p" n="385" unit="line"/> A god, O <placeName key="perseus,Troy">Troy</placeName>, a god, a very Ares, Strymon's colt and the tuneful Muse's, has come to breathe courage into you.<milestone ed="p" n="388" unit="card"/></p></sp>
@@ -423,7 +423,7 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Rhesus</speaker>
 <p>I too am just the same; straight to the point I cut my way; no shuffling nature is mine. My heart was wrung with sorer anguish than yours <milestone ed="p" n="425" unit="line"/> at my absence from this land; I fumed and chafed, but Scythian people, whose borders march with mine, made war on me on the very eve of my departure for <placeName key="tgn,7002329">Ilium</placeName>; I had reached the strand of the Euxine sea, there to transport my Thracian army. <milestone ed="p" n="430" unit="line"/> Then my spear poured out over <placeName key="tgn,6005315">Scythia</placeName>'s land great drops of bloody rain, and <placeName key="tgn,7002756">Thrace</placeName> too shared in the mingled slaughter. This then was what chanced to keep me from coming to the land of <placeName key="perseus,Troy">Troy</placeName> and joining your standard. But as soon as I had conquered these and taken their children as hostages <milestone ed="p" n="435" unit="line"/> and appointed the yearly tribute they should pay my house, I have come, sailing across the sea's mouth, and on foot traversing the other borders of your land&mdash;not as you in your jeers at those carousals of my countrymen hint, nor sleeping soft in gilded palaces, <milestone ed="p" n="440" unit="line"/> but amid the frozen hurricanes that vex the Thracian sea and the Paeonian shores, learning as I lay awake what suffering is, this soldier's cloak my only wrap. True my coming has tarried, but yet I am in time; ten years already have you been at the fray, <milestone ed="p" n="445" unit="line"/> and accomplished nothing yet; day in, day out, you fall, throwing the dice of war with Argives. But the light of one day will be enough for me to sack those towers and fall upon their anchored fleet and slay the Achaeans; and on the next day I will go <milestone ed="p" n="450" unit="line"/> home from <placeName key="tgn,7002329">Ilium</placeName> , at one stroke ending all your toil. Let none of you lay hand to spear to lift it, for I, for all my late arrival, will with my lance make utter havoc of those vaunting Achaeans.<milestone ed="p" n="454" unit="card"/></p></sp>
-<div2 type="strophe">
+<div type="strophe">
 <sp><speaker>Chorus</speaker>
 <p>Joy, joy! <milestone ed="p" n="455" unit="line"/> sweet champion sent by Zeus! Only may Zeus, throned on high, keep jealousy, resistless foe, from you for your words! That fleet of ships from <placeName key="perseus,Argos">Argos</placeName> never brought, <milestone ed="p" n="460" unit="line"/> neither formerly nor now, among all its warriors a braver than you. How I wonder will Achilles, how will Aias stand the onset of your spear? Oh! that I might see that day, my prince, <milestone ed="p" n="465" unit="line"/> on which you may wreak vengeance on them, gripping your lance in your death-dealing hand!<milestone ed="p" n="467" unit="card"/></p></sp>
 <sp>
@@ -473,10 +473,10 @@ comes within a speech, and moving milestones out of speeches
 <p><milestone ed="p" n="510" unit="line"/> No brave man thinks it right to kill his foe in secret, but to meet him face to face. If I can catch this fellow alive, who, as you say, sits in stealthy ambush and plots his mischief, I will impale him at the outlet of the gates <milestone ed="p" n="515" unit="line"/> and set him up for winged vultures to make their meal upon. This is the death he ought to die, pirate and temple-robber that he is.</p></sp>
 <sp>
 <speaker>Hector</speaker>
-<p>To your quarters now, for it is night. For you I will myself point out a spot where your army <milestone ed="p" n="520" unit="line"/> can watch this night apart from our array. Our password is &ldquo;Phoebus&rdquo;, if perhaps there should be need of it; hear and remember it, and tell it to the Thracian army. You must advance in front of our ranks and keep a watchful guard, and receive Dolon, <milestone ed="p" n="525" unit="line"/> who went to spy on the ships, for he, if he is safe, is even now approaching the camp of <placeName key="perseus,Troy">Troy</placeName>.<milestone ed="p" n="527" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="strophe">
+<p>To your quarters now, for it is night. For you I will myself point out a spot where your army <milestone ed="p" n="520" unit="line"/> can watch this night apart from our array. Our password is &ldquo;Phoebus&rdquo;, if perhaps there should be need of it; hear and remember it, and tell it to the Thracian army. You must advance in front of our ranks and keep a watchful guard, and receive Dolon, <milestone ed="p" n="525" unit="line"/> who went to spy on the ships, for he, if he is safe, is even now approaching the camp of <placeName key="perseus,Troy">Troy</placeName>.<milestone ed="p" n="527" unit="card"/></p></sp></div>
+</div>
+<div type="choral">
+<div type="strophe">
 <sp><speaker>Chorus</speaker>
 <p>Whose watch is it? who relieves me? night's earlier stars are on the wane, and the seven <milestone ed="p" n="530" unit="line"/> Pleiads mount the sky; in the middle of the heavens the eagle floats.</p>
 <p>Rouse yourselves, why delay? Up from your beds to the watch! Do you not see the moonlight?</p>
@@ -485,8 +485,8 @@ comes within a speech, and moving milestones out of speeches
 <p>The son of Mygdon, whom they call Coroebus.</p>
 <p><milestone ed="p" n="540" unit="line"/> Who after him?</p>
 <p>The Paeonian contingent roused the Cilicians, and the Mysians us.</p>
-<p>Is it not then high time we went and roused the Lycians for the fifth watch, <milestone ed="p" n="545" unit="line"/> as the lot decided?<milestone ed="p" n="546" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p>Is it not then high time we went and roused the Lycians for the fifth watch, <milestone ed="p" n="545" unit="line"/> as the lot decided?<milestone ed="p" n="546" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Chorus</speaker>
 <p>Hark! hark! a sound; sitting on her blood-stained nest by Simois, she sings with voice of many trills <milestone ed="p" n="550" unit="line"/> her piteous plaint, the nightingale that slew her child.</p>
 <p>Already on Ida they are pasturing the flocks, and over the night I catch the shrill pipe's note.</p>
@@ -495,9 +495,9 @@ comes within a speech, and moving milestones out of speeches
 <p>He is so long away, I have my fears.</p>
 <p><milestone ed="p" n="560" unit="line"/> Is it possible he has plunged into a hidden ambush and been slain?</p>
 <p>Perhaps. I am afraid.</p>
-<p>My counsel is we go and rouse the Lycians for the fifth watch, as the lot ordained. <stage>Exit Chorus</stage><milestone ed="p" n="565" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>My counsel is we go and rouse the Lycians for the fifth watch, as the lot ordained. <stage>Exit Chorus</stage><milestone ed="p" n="565" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enter Diomedes and Odysseus cautiously with drawn swords.</stage>
 <sp>
 <speaker>Odysseus</speaker>
@@ -656,9 +656,9 @@ comes within a speech, and moving milestones out of speeches
 <p><milestone ed="p" n="690" unit="line"/> Close on their track each man of you!</p>
 <p>Or should we shout for aid?</p>
 <p>No, it would be strange conduct to disturb our friends with wild alarms by night.<stage>Exeunt Odysseus and Diomedes.</stage><milestone ed="p" n="692" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe">
+</div>
+<div type="choral">
+<div type="strophe">
 <sp><speaker>Chorus</speaker>
 <p>Who was that man who slipped away? Who was he that will loudly boast his daring in escaping me? <milestone ed="p" n="695" unit="line"/> How shall I catch him now? To whom shall I liken him, the man who came by night with fearless step passing through our ranks and the guard we set? Is he a Thessalian or <milestone ed="p" n="700" unit="line"/> a dweller in some seacoast town of <placeName key="tgn,7010899">Locris</placeName>? Or does he make his living among the islands scattered in the sea? Who was he? Where from? What is his fatherland? What god does he avow as lord of all the rest?</p>
 <p>Whose work is this? is it the deed of Odysseus? <milestone ed="p" n="705" unit="line"/> If one may conjecture from his former acts, of course it is.</p>
@@ -667,8 +667,8 @@ comes within a speech, and moving milestones out of speeches
 <p>He is a bold foe for us.</p>
 <p>What strength? Whom are you praising?</p>
 <p>Odysseus.</p>
-<p>Do not praise the crafty weapons that a robber uses.<milestone ed="p" n="710" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p>Do not praise the crafty weapons that a robber uses.<milestone ed="p" n="710" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Chorus</speaker>
 <p><milestone ed="p" n="710" unit="line"/> Once before he came into this city, with swimming bleary eyes, clad in rags and tatters, his sword  hidden in his cloak. <milestone ed="p" n="715" unit="line"/> And like some vagrant menial he slunk about begging his living, his head rough and dirty; and he spoke bitterly of the royal house of the Atreidae&mdash;as though he were really opposed to those chiefs! <milestone ed="p" n="720" unit="line"/> Would, oh! would he had perished, as was his due, before he set foot on <placeName key="tgn,7002613">Phrygia</placeName>'s soil!</p>
 <p>Whether it was really Odysseus or not, I am afraid; for Hector will blame us sentinels.</p>
@@ -677,9 +677,9 @@ comes within a speech, and moving milestones out of speeches
 <p><milestone ed="p" n="725" unit="line"/> What have we done? Why are you afraid?</p>
 <p>They got past us&mdash;</p>
 <p>Well, who?</p>
-<p>The ones who came this night to the Phrygian army.<milestone ed="p" n="728" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>The ones who came this night to the Phrygian army.<milestone ed="p" n="728" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Charioteer</speaker>
 <p>Oh, oh! Cruel stroke of fate. Woe, woe!</p></sp>
@@ -722,7 +722,7 @@ comes within a speech, and moving milestones out of speeches
 <sp>
 <speaker>Hector</speaker>
 <p>You who have caused this great calamity, how did the enemy's spies come <milestone ed="p" n="810" unit="line"/> without your knowledge, to your shame, and spread destruction through the army, and you did not drive them away either as they entered or left the camp? Who but you shall pay the penalty for this? You, I say, were here to guard the army. But they are gone without a wound, with many a scoff <milestone ed="p" n="815" unit="line"/> at Phrygian cowardice, and at me their leader. Now mark you this&mdash;by father Zeus I swear&mdash;either the scourge or the headsman's axe awaits you for such conduct; or else consider  Hector to be nothing, a mere coward.<milestone ed="p" n="820" unit="card"/></p></sp>
-<div2 type="antistrophe">
+<div type="antistrophe">
 <sp><speaker>Chorus</speaker>
 <p><milestone ed="p" n="820" unit="line"/> Woe, woe! It was in quest of you, yes, you, great lord of my city, that I went, when I brought news to you that the <placeName key="tgn,5001993">Argive</placeName> army was kindling fires about the ships; <milestone ed="p" n="825" unit="line"/> for by the springs of Simois I vow my eye kept sleepless watch by night, nor did I slumber or sleep. Do not be angry with me, my lord; I am guiltless of all. <milestone ed="p" n="830" unit="line"/> Yet if hereafter you find that I in word or deed have done amiss, bury me alive beneath the earth; I ask no mercy.<milestone ed="p" n="833" unit="card"/></p></sp>
 <sp>
@@ -760,21 +760,21 @@ comes within a speech, and moving milestones out of speeches
 <p><milestone ed="p" n="875" unit="line"/> Curses on the doer of this deed! On you my tongue fixes no charge, as you complain; but Justice is over all.</p></sp>
 <sp>
 <speaker>Hector</speaker>
-<p>Take him away; carry him to my palace and tend him carefully, that he may have no fault to find. And you must go to those upon the walls, <milestone ed="p" n="880" unit="line"/> to Priam and his aged councillors, and tell them to give orders for the burial of the dead at the resting-place along the public road.<stage>The charioteer is carried off.</stage><milestone ed="p" n="882" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>Take him away; carry him to my palace and tend him carefully, that he may have no fault to find. And you must go to those upon the walls, <milestone ed="p" n="880" unit="line"/> to Priam and his aged councillors, and tell them to give orders for the burial of the dead at the resting-place along the public road.<stage>The charioteer is carried off.</stage><milestone ed="p" n="882" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Chorus</speaker>
 <p>Why does fate change and bring <placeName key="perseus,Troy">Troy</placeName> once again to mourning after her great good fortune, planting what seeds? <milestone ed="p" n="885" unit="line"/> Oh, oh! What deity above our heads, O king, bears in her hands as on a bier the newly slain corpse? I shudder at this sight of woe.<milestone ed="p" n="890" unit="card"/></p></sp>
 <sp>
 <speaker>Muse</speaker>
-<p><milestone ed="p" n="890" unit="line"/> Behold me,Trojans; for I, the Muse, one of the nine sisters, that have honor among the wise, I am here, having seen the piteous death his foes have dealt my darling son. Yet the crafty Odysseus, that slew him, one day hereafter shall pay a fitting penalty.<milestone ed="p" n="895" unit="card"/></p></sp></div2>
-<div2 type="strophe">
+<p><milestone ed="p" n="890" unit="line"/> Behold me,Trojans; for I, the Muse, one of the nine sisters, that have honor among the wise, I am here, having seen the piteous death his foes have dealt my darling son. Yet the crafty Odysseus, that slew him, one day hereafter shall pay a fitting penalty.<milestone ed="p" n="895" unit="card"/></p></sp></div>
+<div type="strophe">
 <sp><speaker>Muse</speaker>
 <p><milestone ed="p" n="895" unit="line"/> O my son, your mother's grief, I mourn for you in my native strains of woe! What a journey you made to <placeName key="perseus,Troy">Troy</placeName>, a very path of ill-fortune and sorrow! <milestone ed="p" n="900" unit="line"/> starting, in spite of all my warnings and your father's earnest prayers, in defiance of us. Woe to me for you, my dear, dear son! Ah, woe!<milestone ed="p" n="904" unit="card"/></p></sp>
 <sp>
 <speaker>Chorus Leader</speaker>
-<p>As far as one can who has no common tie of kin, <milestone ed="p" n="905" unit="line"/> I bewail and mourn your son.<milestone ed="p" n="906" unit="card"/></p></sp></div2>
-<div2 type="antistrophe">
+<p>As far as one can who has no common tie of kin, <milestone ed="p" n="905" unit="line"/> I bewail and mourn your son.<milestone ed="p" n="906" unit="card"/></p></sp></div>
+<div type="antistrophe">
 <sp><speaker>Muse</speaker>
 <p>Curses on the son of Oeneus! Curses on <placeName key="perseus,Laertes">Laertes</placeName>' child! who has bereft me of my fair son and left me childless! and on that woman, too, <milestone ed="p" n="910" unit="line"/> that left her home in <placeName key="tgn,1000074">Hellas</placeName>, and sailed here with her Phrygian lover, bringing death to you, my dearest, for the sake of <placeName key="perseus,Troy">Troy</placeName>, and emptying countless cities of their brave heroes.<milestone ed="p" n="915" unit="card"/></p></sp>
 <sp>
@@ -800,6 +800,6 @@ comes within a speech, and moving milestones out of speeches
 <p>Go, bid our allies arm at once and yoke the horses; torch in hand you must await the blast of the Etrurian trumpet; for I hope to pass beyond their army <milestone ed="p" n="990" unit="line"/> and walls and fire the ships of the Achaeans, bringing to the Trojans this approaching beam of the sun as the day of freedom.<milestone ed="p" n="993" unit="card"/></p></sp>
 <sp>
 <speaker>Chorus</speaker>
-<p>Obedience to our prince! let us go to array ourselves in armor and tell these orders <milestone ed="p" n="995" unit="line"/> to our allies; perhaps the god who is on our side may grant us victory.</p></sp></div2>
-</div1></body>
+<p>Obedience to our prince! let us go to array ourselves in armor and tell these orders <milestone ed="p" n="995" unit="line"/> to our allies; perhaps the god who is on our side may grant us victory.</p></sp></div>
+</div></body>
 </text></TEI.2>

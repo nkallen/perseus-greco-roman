@@ -53,8 +53,8 @@
 	
 	<text><body>
 		<pb id="p.vii"/>
-		<div1 type="book" n="front">
-			<div2 type="chapter"><head>Translator's Preface</head>
+		<div type="book" n="front">
+			<div type="chapter"><head>Translator's Preface</head>
 				<p>THE Latin text of Vols. II. to IV. (comprising
 					Books III.-X.) has been set up, like that of Vol. I.,
 					from the latest revisions of the Weissenborn-Mueller
@@ -95,9 +95,9 @@
 					have been adapted from Kromayer and Veith,
 					Schlachten-Atlas zur antiken Kriegsgeschichte,
 					published by Wagner and Debes, Leipzig.</p>
-				<closer><signed><name>B.O.F.</name></signed></closer></div2>
+				<closer><signed><name>B.O.F.</name></signed></closer></div>
 			<pb id="p.ix"/>
-			<div2 type="chapter"><head>The Manuscripts</head>
+			<div type="chapter"><head>The Manuscripts</head>
 				<p><hi rend="italics">V</hi> = Veronensis, 4th century.</p>
 				<p><hi rend="italics">F</hi> = Floriacensis, 9th century.</p>
 				<p><hi rend="italics">P</hi> = Parisiensis, 10th century.</p>
@@ -125,19 +125,19 @@
 					passage in question and are not otherwise
 					reported.</p>
 				<p><foreign lang="greek">ς</foreign> = one or more of the late MSS. or early
-					printed texts.</p></div2>
+					printed texts.</p></div>
 			<pb id="p.x"/>
-			<div2 type="chapter"><head>Abbreviations</head>
+			<div type="chapter"><head>Abbreviations</head>
 				<p>Ald. (or ed. Ald.) = the Aldine edition, Venice, 1518</p>
 				<p>Cassiod. = Cassiodorius.</p>
 				<p><hi rend="italics">Class. Quart.</hi> = <hi rend="italics">The Classical Quarterly,</hi> London, 1907 ff.</p>
 				<p><hi rend="italics">C. I. L.</hi> = <hi rend="italics">Corpus Inscriptionum Latinarum,</hi> vol. i.2
 					Berlin, 1893-5.</p>
 				<p>Diod. = Diodorus Siculus.</p>
-				<p>Dion. Hal. = Dionysius of Halicarnassus.</p></div2>
-		</div1>
+				<p>Dion. Hal. = Dionysius of Halicarnassus.</p></div>
+		</div>
 		<pb id="p.3"/>
-		<div1 type="book" n="5"><head>Book V</head>
+		<div type="book" n="5"><head>Book V</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>Peace was now established elsewhere, but<note type="marg">B.C. 403</note> Romans and Veientes were at war, and their rage and animosity were such that the end was clearly at hand for those that should be vanquished. Each people held an election very different from that of the other.
 				<milestone unit="section" n="2"/> The Romans enlarged the number of their military tribunes with consular authority, and elected eight,<note>Livy seems to have erred through including the names of the censors, Camillus and Albinus, in his list of tribunes, of whom there were at this time but six. See chap. x. &sect; 1 and chap. xiv. &sect; 5 and notes there.</note> a greater number than ever before, to wit, Manius Aemilius Mamercus (for the second time), Lucius Valerius Potitus (for the third), Appius Claudius Crassus, Marcus Quinctilius Varus, Lucius Julius lulus, Marcus Postumius, Marcus Furius Camillus, Marcus Postumius Albinus.
@@ -837,8 +837,8 @@
 				<milestone unit="section" n="2"/> Hearing this sentence the senators came out from the Curia and shouted their acceptance of the omen, and the commons gathering round them signified approval. The bill was then rejected, and people began in a random fashion to rebuild the City.
 				<milestone unit="section" n="3"/> The state supplied tiles, and granted everybody the right to quarry stone and to hew timber where he liked, after giving security for the completion of the structures within that year.
 				<milestone unit="section" n="4"/> In their haste men were careless about making straight the streets, and paying no attention to their own and others' rights, built on the vacant spaces.
-				<milestone unit="section" n="5"/> This is the reason that the ancient sewers, which were at first conducted through the public ways, at present frequently run under private dwellings, and the appearance of the City is like one where the ground has been appropriated rather than divided.</p></div1> <pb id="p.189"/>
-		<div1 type="book" n="5s"><head>Summary of Book V</head>
+				<milestone unit="section" n="5"/> This is the reason that the ancient sewers, which were at first conducted through the public ways, at present frequently run under private dwellings, and the appearance of the City is like one where the ground has been appropriated rather than divided.</p></div> <pb id="p.189"/>
+		<div type="book" n="5s"><head>Summary of Book V</head>
 			<p>AT the siege of Veii winter quarters were constructed
 				for the soldiers. This, being a new departure, stirred the
 				ire of the tribunes of the plebs, who complained that the
@@ -886,9 +886,9 @@
 				said to his company: <quote>Halt, soldiers, we shall do well to
 					stop here.</quote> A temple was erected to Jupiter Capitolinus,
 				because a voice had been heard before the capture of
-				the City, which declared that the Gauls were coming.</p></div1>
+				the City, which declared that the Gauls were coming.</p></div>
 		<pb id="p.195"/>
-		<div1 type="book" n="6"><head>Book VI.</head>
+		<div type="book" n="6"><head>Book VI.</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>THE history of the Romans from the founding<note type="marg">B. C. 389</note> of the City of Rome to the capture of the same &mdash;at first under kings and afterwards under consuls and dictators, decemvirs and consular tribunes &mdash;their
 				<milestone unit="section" n="2"/> foreign wars and their domestic dissensions, I have set forth in five books, dealing with matters which are obscure not only by reason of their great antiquity &mdash;like far-off objects which can hardly be descried &mdash;but also because in those days there was but slightly and scanty use of writing, the sole trustworthy guardian of the memory of past events, and because even such records as existed in the commentaries of the pontiffs and in other public and private documents, nearly all perished in the conflagration of the City.
@@ -1444,8 +1444,8 @@
 				<milestone unit="section" n="11"/> The patricians declared that they would not ratify the election, and the affair had almost led to a <pb id="p.351"/>secession of the plebs and threatened other terrible<note type="marg">B.C. 367</note> embroilments, when the dictator finally proposed a compromise which allayed the discord; the nobles gave way to the plebs in regard to the plebeian consul, and the plebs conceded to the nobles that they might elect from the patricians one praetor to administer justice in the City.<note>This step was made necessary by the growth of the City and the increasing burden laid upon the consuls; but, as Livy intimates, it also served as partial compensation to the patricians for the privileges they were now forced to share with the plebs-until, in <date value="-337">337 B.C.</date> (<hi rend="italics">cf.</hi> VIII. xv. 9), the praetorship, too, was thrown open to the plebs.</note>
 				<milestone unit="section" n="12"/> Thus after their long quarrel the orders were reconciled at last. The senate decided that this was a fitting occasion to honour the immortal gods &mdash;who deserved it then, if ever at any time &mdash;by celebrating the Great Games, and voted that one day should be added to the customary three;
 				<milestone unit="section" n="13"/> this burden the aediles of the plebs refused to shoulder, whereupon the young patricians called out that they would willingly do it for the sake of honouring the gods.
-				<milestone unit="section" n="14"/> The entire people united in thanks to them, and the senate decreed that the dictator should hold a popular election of two aediles<note>Later known as <hi rend="italics">aediles curules.</hi> The provision that only patricians might be chosen was modified in the following year (<hi rend="italics">cf.</hi> VII. i.).</note> to be chosen from the patricians, and that the Fathers should ratify all the elections of that year.</p></div1> <pb id="p.353"/>
-		<div1 type="book" n="6s"><head>Summary of Book VI</head>
+				<milestone unit="section" n="14"/> The entire people united in thanks to them, and the senate decreed that the dictator should hold a popular election of two aediles<note>Later known as <hi rend="italics">aediles curules.</hi> The provision that only patricians might be chosen was modified in the following year (<hi rend="italics">cf.</hi> VII. i.).</note> to be chosen from the patricians, and that the Fathers should ratify all the elections of that year.</p></div> <pb id="p.353"/>
+		<div type="book" n="6s"><head>Summary of Book VI</head>
 			<p>THE book contains the victorious campaigns against the
 				Volsci, the Aequi, and the Praenestini. Four tribes were
 				added, the Stellatina, the Tromentina, the Sabatina,
@@ -1460,9 +1460,9 @@
 				in a strenuous struggle against the opposition of the
 				patricians, carried their point, after these same tribunes
 				of the plebs had for five years been the only magistrates,<note><hi rend="italics"> Cf.</hi> Livy chap. xxxv. &sect; 10.</note> and Lucius Sextius was the first plebeian to be elected consul. Another law was also passed, that none might
-				hold above five hundred <hi rend="italics">iugera</hi> of land.</p></div1>
+				hold above five hundred <hi rend="italics">iugera</hi> of land.</p></div>
 		<pb id="p.357"/>
-		<div1 type="book" n="7"><head>Book VII</head>
+		<div type="book" n="7"><head>Book VII</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>This year will stand out as the one in which a<note type="marg">B.C. 366-365</note> <quote>new man</quote> held the consulship, and also for the establishment of two new magistracies, the praetorship and the curule aedileship. These dignities the patricians had devised for themselves, to compensate them for the second consulship, which they had granted to the commons.
 				<milestone unit="section" n="2"/> The plebs bestowed their consulship on Lucius Sextius, by whose law it had been won. The patricians, through their influence in the Campus Martius,<note>Where the voting took place.</note> obtained the praetorship for Spurius Furius Camillus, the son of Marcus, and the aedileship for Gnaeus Quinctius Capitolinus and Publius Cornelius Scipio, who belonged to their own houses.
@@ -2056,8 +2056,8 @@
 				<milestone unit="section" n="5"/> Nor was it the leaders who suggested a reconciliation, but suddenly, when the two armies had marched out in
 				<milestone unit="section" n="6??"/> battle array, salutations were exchanged, and the soldiers, mingling together, began tearfully to clasp hands and embrace each other, so that the consuls, seeing the men to be in no mood for fighting, had been compelled to lay proposals before the senate for the re-establishment of harmony.
 				<milestone unit="section" n="7"/> Thus in no single instance do the ancient authorities agree, except that there was a sedition, and that it was composed.</p> 
-			<p><milestone unit="section" n="8"/>The report of this sedition, in conjunction with the dangerous war entered upon with the Samnites, caused several nations to forsake their alliance with the Romans, and not only were the Latins unfaithful to the treaty &mdash;as they had been for some time &mdash;but the Privernates even, in a sudden raid, laid waste the neighbouring Roman colonies of Norba and Setia.</p></div1> <pb id="p.515"/>
-		<div1 type="book" n="7s"><head>Summary of Book VII</head>
+			<p><milestone unit="section" n="8"/>The report of this sedition, in conjunction with the dangerous war entered upon with the Samnites, caused several nations to forsake their alliance with the Romans, and not only were the Latins unfaithful to the treaty &mdash;as they had been for some time &mdash;but the Privernates even, in a sudden raid, laid waste the neighbouring Roman colonies of Norba and Setia.</p></div> <pb id="p.515"/>
+		<div type="book" n="7s"><head>Summary of Book VII</head>
 			<p>Two new magistracies were added, the praetorship and
 				the curule aedileship. The citizens were afflicted with a
 				pestilence, and this the death of Furius Camillus rendered
@@ -2111,9 +2111,9 @@
 				by his counsel had recalled them from their madness.
 				The book also comprises victorious campaigns against
 				the Hernici, Gauls, Tiburtes, Privernates, Tarquinienses,
-				Samnites, and Volsci.</p></div1>
+				Samnites, and Volsci.</p></div>
 		<pb id="p.519"/>
-		<div1 type="book" n="index"><head>Index of names</head>
+		<div type="book" n="index"><head>Index of names</head>
 			<p>(<hi rend="italics">The References are to Pages.</hi>)</p>
 			<p>ACUTIUS, M., 36</p>
 			<p>Adriaticum mare, 114</p>
@@ -2386,7 +2386,7 @@
 			<p>Volsinii, 366; Volsinienses, 108 (<hi rend="italics">bis),</hi> 110 (<hi rend="italics">bis</hi>), 112 (<hi rend="italics">bis);</hi> Volsiniensis ager, 110</p>
 			<p>Voltumna, 60, 198</p>
 			<p>Vulsci, <hi rend="italics">see</hi> Voisci</p>
-		</div1>
+		</div>
 	</body>
 	</text>
 </TEI.2>

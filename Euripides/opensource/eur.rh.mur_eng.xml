@@ -58,7 +58,7 @@
     </teiHeader>
     <text lang="en">
 	<front>
-	    <div1 type="preface">
+	    <div type="preface">
 		<head>INTRODUCTION</head>
 
 		<milestone ed="p" unit="card" n="0"/>
@@ -280,7 +280,7 @@
 		    multitudes of strong men, stormy and chivalrous, terrible in onset, who somehow in the end melted away
 		    before the skill and persistent courage of a civilised
 		    Greek city.</p>
-	    </div1>
+	    </div>
 	</front>
 	<body>
 	    <castList>
@@ -304,7 +304,7 @@
 		to Euripides.</p>
 	    <milestone ed="p" unit="card" n="1"/>
 
-	    <div1 type="choral">
+	    <div type="choral">
 		<stage><p>It is a cloudy but moonlight night on the plain before
 			<placeName key="perseus,Troy">Troy</placeName>. The Trojans and their allies have won a
 			decisive victory and are camping on the open field
@@ -367,7 +367,7 @@
 		</p></sp>
 
 		<milestone ed="p" unit="card" n="23"/>
-		<div2 type="strophe" n="1">
+		<div type="strophe" n="1">
 		    <sp>
 			<speaker>Chorus <stage>(various voices confusedly)</stage>.</speaker><!--   [Strophe. -->
 			<p><l n="tr">To arms! To arms, Lord Hector!-Send</l>
@@ -382,7 +382,7 @@
 			<l n="tr">Ho, Trojans of the horn&egrave;d bow!</l>
 			<l n="tr" rend="indent">String, string! For need is nigh.</l>
 		    </p></sp>
-		</div2>
+		</div>
 
 		<milestone ed="p" unit="card" n="34"/>
 		<sp><speaker>HECTOR.</speaker>
@@ -396,7 +396,7 @@
 		<milestone ed="p" unit="card" n="41"/>
 		<stage>[The turmoil subsides, the LEADER comes forward.</stage>
 
-		<div2 type="antistrophe">
+		<div type="antistrophe">
 		    <sp><speaker>LEADER.</speaker>              <!-- [Antistr. -->
 			<p><l n="tr">Great beacons in the <placeName key="tgn,5001993">Argive</placeName> line<note place="foot">  P. 5, 1. 41, Great beacons in the <placeName key="tgn,5001993">Argive</placeName> line.]- In the Iliad it is the Trojan watch-fires that are specially mentioned, especially VIII. 553-end. There is no great disturbance in the Greek camp in the Doloneia; there is a gathering of the principal chiefs, a visit to the Guards, and the despatch of the two spies, but no general tumult such as there is in Book II. One cannot help wondering whether our playwright found in his version of the Doloneia a description of fires in the Greek camp, such as our Eighth Book has of those in the Trojan camp. The object might be merely protection against a night attack, or it might be a wish to fly, as Hector thinks.  If so, presumably the Assembly changed its mind- much as it does in our Book II.-and determined to send spies.</note></l>
 			<l n="tr" rend="indent">Have burned, my chief, through half the night.</l>
@@ -410,11 +410,11 @@
 			<l n="tr">Was never seen. And we, in dread</l>
 			<l n="tr">What such things boded, turned and sped</l>
 			<l n="tr" rend="indent">Hither; dost blame us, Lord?</l></p></sp>
-		</div2>
+		</div>
 		<milestone ed="p" unit="card" n="52"/>
 
-	    </div1>
-	    <div1 type="episode">
+	    </div>
+	    <div type="episode">
 		<sp><speaker>HECTOR <stage>(after a moment of thought)</stage>.</speaker>
 		    <p><l n="tr">No! Welcome, friend, with all thy tale of fear!</l>
 		    <l n="tr">It shows they mean to fly: they mean to clear</l>
@@ -544,7 +544,7 @@
 
 
 		<milestone ed="p" unit="card" n="131"/>
-		<div2 type="strophe">
+		<div type="strophe">
 		    <sp><speaker>CHORUS.</speaker>              <!-- [Strophe. -->
 			<p><l n="tr">'Tis good! 'Tis wisdom! Prince, give heed</l>
 			<l n="tr">And change the word thy passion gave.</l>
@@ -553,7 +553,7 @@
 			<l n="tr">A spy is best: a spy, to learn</l>
 			<l n="tr">For what strange work those beacons burn</l>
 			<l n="tr">All night beside the guarded wave.</l></p></sp>
-		</div2>
+		</div>
 		<milestone ed="p" unit="card" n="137"/>
 		<sp><speaker>HECTOR.</speaker>
 		    <p><l n="tr">Ye all so wish it?-Well, ye conquer me.</l>
@@ -674,7 +674,7 @@
 		    <l n="tr">Guerdons abundant for a Prince like thee.</l></p></sp>
 		<stage>Exit HECTOR.</stage>
 		<milestone ed="p" unit="card" n="195"/>
-		<div2 type="antistrophe">
+		<div type="antistrophe">
 		    <sp><speaker>CHORUS.</speaker>              <!-- [Antistr. -->
 			<p><l n="tr">O peril strange, O fearful prize!</l>
 			<l n="tr">Yet win it and thy life hath wings:</l>
@@ -683,7 +683,7 @@
 			<l n="tr">If God but hearken to the right,</l>
 			<l n="tr">Thou drinkest to the full this night</l>
 			<l n="tr">The cup of man's imaginings.</l></p></sp>
-		</div2>
+		</div>
 
 		<milestone ed="p" unit="card" n="201"/>
 		<sp><speaker>DOLON.</speaker>
@@ -725,11 +725,11 @@
 		    <l n="tr">I shall be here, and blood upon my hand.</l></p></sp>
 		<stage>Exit DOLON.</stage>
 
-	    </div1>
-	    <div1 type="choral">
+	    </div>
+	    <div type="choral">
 		<milestone ed="p" unit="card" n="224"/>
 		<sp><speaker>CHORUS.<note place="foot">  P. 15, 11. 225-263, Chorus.]-Apollo is appealed to as a God of Thymbra in the Troad, of Delos the Ionian island, and of Lycia in the South of Asia Minor; the god of Asiatics and barbaroi, the enemy of the Achaeans. This is also to a great extent the conception of Apollo in the Iliad, where he fights for Troy and is Hector's special patron. The sudden ferocity towards Helen in the last strophe is quite in the manner of Euripides; cf. Trojan Women, 1107 ff. (p. 65), 766 ff. (p. 49), and often; also Iph. Taur.  438 ff. (p. 21), where her name comes somewhat as a surprise.  The stage directions here are of course conjectural: it does not seem likely that the playwright, having made Dolon describe his wolf's disguise in detail, would waste the opportunity of making him crawl off in it.  Cf. on 1. 594, p. 63, and at the end of the play.</note></speaker>
-		    <div2 type="strophe" n="1">
+		    <div type="strophe" n="1">
 			<p><l n="tr">Thymbraean, Delian, Birth divine, </l>
 			<l n="tr">That walkest Lycia's inmost shrine,</l>
 			<l n="tr" rend="indent">Come, strong to guard, to guide, to follow,</l>
@@ -738,9 +738,9 @@
 			<l n="tr">When stone by stone thy music rolled-</l>
 			<l n="tr" rend="indent">O conquering Strength, O Sire Apollo!-</l>
 			<l n="tr" rend="indent">Young <placeName key="tgn,7002329">Ilion</placeName> into towers of light.</l>
-		    </p></div2>
+		    </p></div>
 		    <milestone ed="p" unit="card" n="233"/>
-		    <div2 type="antistrophe" n="1">
+		    <div type="antistrophe" n="1">
 			<p><l n="tr">Grant that he reach the shipyard, creep</l>
 			<l n="tr">Keen-eyed through all that host asleep,</l>
 			<l n="tr" rend="indent">Then back to home and hearth, yet living,</l>
@@ -749,9 +749,9 @@
 			<l n="tr">Our wolf shall mount with scourge and rein</l>
 			<l n="tr" rend="indent">Those coursers of the sea-god's giving,</l>
 			<l n="tr" rend="indent">Whom Peleus drove in days foregone.</l>
-		    </p></div2>
+		    </p></div>
 		    <milestone ed="p" unit="card" n="242"/>
-		    <div2 type="strophe" n="2">
+		    <div type="strophe" n="2">
 			<p><l n="tr">Alone in those Greek ships to stake</l>
 			<l n="tr">His life, for home and country's sake:</l>
 			<l n="tr" rend="indent">'Tis wondrous! Few be hearts so true</l>
@@ -761,9 +761,9 @@
 			<l n="tr">The Phrygian spear flies fast and far!</l>
 			<l n="tr">Where shall ye find the fool to mock</l>
 			<l n="tr" rend="indent">Our works in war?</l>
-		    </p></div2>
+		    </p></div>
 		    <milestone ed="p" unit="card" n="254"/>
-		    <div2 type="antistrophe" n="2">
+		    <div type="antistrophe" n="2">
 			<p><l n="tr">Whom will he stab a-sleeping, whom,</l>
 			<l n="tr">The quick grey wolf, the crawling doom?</l>
 			<l n="tr" rend="indent">Grant that he slay the Spartan! Nay,</l>
@@ -773,11 +773,11 @@
 			<l n="tr">Her brother sworn, her King who came</l>
 			<l n="tr" rend="indent">To <placeName key="tgn,7002329">Ilion</placeName> with his thousand sail,</l>
 			<l n="tr" rend="indent">And swords, and flame!</l>
-		    </p></div2>
+		    </p></div>
 		</sp>
-	    </div1>
+	    </div>
 	    <milestone ed="p" unit="card" n="264"/>
-	    <div1 type="episode">
+	    <div type="episode">
 		<stage>As the song ends DOLON reappears, in the
 		    disguise of a wolf. The Guards gather
 		    round him, bidding him godspeed as he
@@ -930,12 +930,12 @@
 		    <l n="tr">Bid Rhesus welcome, as war-friend to Troy.</l></p></sp>
 		<stage>Exit SHEPHERD; HECTOR returns to his tent,
 		    amid the joy of the soldiers.</stage>
-	    </div1>
+	    </div>
 
 	    <milestone ed="p" unit="card" n="342"/>
-	    <div1 type="choral">
+	    <div type="choral">
 		<sp><speaker>CHORUS.</speaker>
-		    <div2 type="strophe" n="1">
+		    <div type="strophe" n="1">
 			<p><l n="tr" rend="indent">Now Adrasteia<note place="foot">  P. 20, l. 342, Adrasteia.]-She-from-whom-there-is-no-Running, is a goddess identified with Nemesis, a requiter of sin, especially the sin of pride or over-confidence. In spite of the opening apology this whole chorus, with its boundless exultation, is an offence against her.-It is interesting to notice that a town and a whole district in the north of the Troad was called by her name; the poet is using local colour in making his Trojans here, and Rhesus in l. 468, speak of her. There seems also to be something characteristically Thracian in the story of the Muse and the River, in the title "Zeus of the Dawn" given to Rhesus, in the revelry to be held when <placeName key="tgn,7002329">Ilion</placeName> is free, and in the conception of the king in his dazzling chariot, Sun-god-like.</note> be near and guard</l>
 			<l n="tr" rend="indent">Our lips from sin, lest the end be hard!</l>
 			<l n="tr">But he cometh, he cometh, the Child of the River!</l>
@@ -944,9 +944,9 @@
 			<l n="tr" rend="indent">In the Hall of thy lovers, O child of Song;</l>
 			<l n="tr">Thy mother the Muse and her fair-bridged River</l>
 			<l n="tr" rend="indent">They held thee from us so long, so long!</l>
-		    </p></div2>
+		    </p></div>
 		    <milestone ed="p" unit="card" n="351"/>
-		    <div2 type="antistrophe" n="1">
+		    <div type="antistrophe" n="1">
 
 			<p><l n="tr" rend="indent">By Strymon's torrent alone she sang,</l>
 			<l n="tr" rend="indent">And Strymon shivered and coiled and sprang;</l>
@@ -957,10 +957,10 @@
 			<l n="tr" rend="indent">Young Zeus of the Dawn, on thy starry steed!</l>
 			<l n="tr">O ancient City, O Ida's daughter,</l>
 			<l n="tr" rend="indent">Is God the Deliverer found indeed?</l>
-		    </p></div2>
+		    </p></div>
 
 		    <milestone ed="p" unit="card" n="360"/>
-		    <div2 type="strophe" n="2">
+		    <div type="strophe" n="2">
 			<p><l n="tr" rend="indent">And men shall tell of thee, <placeName key="tgn,7002329">Ilion</placeName> mine,</l>
 			<l n="tr" rend="indent">Once more a-harping at day's decline,</l>
 			<l n="tr">'Mid laughing of lovers and lays and dances</l>
@@ -971,9 +971,9 @@
 			<l n="tr">O mighty of hand, O leader of lances,</l>
 			<l n="tr" rend="indent">Smite him, and heaven be good to thee!</l>
 
-		    </p></div2>
+		    </p></div>
 		    <milestone ed="p" unit="card" n="370"/>
-		    <div2 type="antistrophe" n="2">
+		    <div type="antistrophe" n="2">
 			<p><l n="tr" rend="indent">Thou Rider golden and swift and sheer,</l>
 			<l n="tr" rend="indent">Achilles falters: appear! appear!</l>
 			<l n="tr">The car like flame where the red shield leapeth,</l>
@@ -984,10 +984,10 @@
 			<l n="tr">And the land shall laugh for the sheaves she reapeth,</l>
 			<l n="tr" rend="indent">Of spoilers dead by a sword from <placeName key="tgn,7002756">Thrace</placeName>.</l>
 
-		</p></div2></sp>
-	    </div1>
+		</p></div></sp>
+	    </div>
 	    <milestone ed="p" unit="card" n="379"/>
-	    <div1 type="episode">
+	    <div type="episode">
 		<stage>Enter RHESUS in dazzling white armour, followed by
 		    his CHARIOTEER and Attendants.   The CHARIOTEER carries his golden shield. The CHORUS
 		    break into a shout of "All Hail!"</stage>
@@ -1099,7 +1099,7 @@
 		    <l n="tr">And smite your Greeks, for all their bitter pride.</l></p></sp>
 
 		<milestone ed="p" unit="card" n="454"/>
-		<div2 type="strophe" n="1">
+		<div type="strophe" n="1">
 		    <sp><speaker>CHORUS.</speaker>
 			<stage>The Trojan soldiers, who have been listening with
 			    delight, here break out in irrepressible applause.<note place="foot">P. 25, 11. 454 ff. This little Chorus seems to represent-in due tragic convention-an irrepressible outburst of applause from the Trojans, interrupting Rhesus's speech. In spite of the words about possible "wrath" that may follow the Thracian's boasting, the applause excites him at once to a yet bolder gab.</note></stage>
@@ -1116,7 +1116,7 @@
 			<l n="tr" rend="indent">Watching to see him reel</l>
 			<l n="tr" rend="indent">Broken beneath thy steel,</l>
 			<l n="tr">And once in blood his many murders pay!</l></p></sp>
-		</div2>
+		</div>
 		<milestone ed="p" unit="card" n="467"/>
 
 		<sp><speaker>RHESUS.</speaker>
@@ -1215,15 +1215,15 @@
 		    <l n="tr">Distance, and stay on watch till Dolon come</l>
 		    <l n="tr">With word of the Argives' counsel. If his vow</l>
 		    <l n="tr">Prosper, he should be nearing us by now.<note place="foot">P. 28, l. 528. Rhesus shows the simple courage of a barbarian in his contempt for the ruses of Odysseus, the brutality of a barbarian in the methods of punishment he proposes.  Such proposals would disgust a Greek; it looks as if they displeased Hector. In any case his abruptness here, and his careful indication of the place where the Thracians are to sleep, far from the rest of the camp, have some dramatic value for the sequel.</note> </l></p></sp>
-	    </div1>
+	    </div>
 	    <milestone ed="p" unit="card" n="527"/>
-	    <div1 type="choral">
+	    <div type="choral">
 		<stage>Exeunt HECTOR and RHESUS and Attendants. The Guards, who have been below,
 		    come forward sleepily from the camp fire,
 		    and sit watching by HECTOR'S tent.</stage>
 
 
-		<div2 type="strophe" n="1">
+		<div type="strophe" n="1">
 		    <sp><speaker>CHORUS.<note place="foot"> <p>Pp. 28-30, 11. 527-564, Stars and Nightingale chorus.]-The beauty of these lines in the Greek is quite magical, but the stage management of the scene is difficult. Apparently Hector (1. 523) bids the Guards come forward from where they are and wait nearer the front for Dolon; obeying this they come up from the orchestra, we may suppose, to the stage. Then watching somewhere near Hector's tent they partly express, in the usual song, the lyrical emotion of the night, partly they chat about Dolon and the order of the watches. The scene is technically very interesting with its rather abrupt introduction of realism into the high convention of tragedy. Meantime the Trojans' time of watch is over and the Lycians, who ought to watch next, have not come. In a modern army it would of course be the duty of the new watch to come and relieve the old; in an ancient barbaric army-characteristically-the old watch had to go and wake the new. You could not, one must suppose, trust them to take their turn otherwise. At the end of the first strophe a Guard suggests that they should rouse the Lycians; at the end of the second the Leader definitely gives the word to do so. The Guards go, and so the stage (and orchestra) is left empty.</p>
 				<p>This is plain enough; but why were the Guards brought away from their original position-from the orchestra to the stage? Probably to allow the Greek spies to pass on towards the Thracian camp by a different and unoccupied way, not by the way which the Guards had just taken.</p>
 				<p>The story of the Nightingale is well known: she was Philom&ecirc;la, or in the older story Procn&ecirc;, an Athenian princess, wedded to the faithless Thracian king, T&ecirc;reus.  In a fury of vengeance on her husband she slew their only son, Itys or Itylus, and now laments him broken-hearted for ever.</p> </note></speaker>
@@ -1264,9 +1264,9 @@
 			<l n="tr">The fifth watch? 'Tis the Lycians' spell</l>
 			<l n="tr">By now; 'twas thus the portions fell.</l></p></sp>
 
-		</div2>
+		</div>
 		<milestone ed="p" unit="card" n="546"/>
-		<div2 type="antistrophe" n="1">
+		<div type="antistrophe" n="1">
 		    <sp><speaker>ANOTHER.</speaker>
 			<p><l n="tr">Nay, hearken! Again she is crying</l>
 			<l n="tr" rend="indent">Where death-laden Simois falls,</l>
@@ -1303,10 +1303,10 @@
 			<p><l n="tr">Our time is past! Up, men, and tell</l>
 			<l n="tr">The fifth watch. 'Tis the Lycians' spell</l>
 			<l n="tr">Now, as the portions fairly fell.</l></p></sp>
-		</div2>
-	    </div1>
+		</div>
+	    </div>
 	    <milestone ed="p" unit="card" n="565"/>
-	    <div1 type="episode">
+	    <div type="episode">
 		<stage>The Guards pass out to waken the Lycians.
 		    The stage is empty and dark except for
 		    the firelight, when a whisper is heard
@@ -1603,16 +1603,16 @@
 		    <p><l n="tr" rend="indent">No;</l>
 		    <l n="tr">To stir the allies in the night and make more panic!</l>
 		    <l n="tr">Let us go.</l></p></sp>
-	    </div1>
+	    </div>
 	    <milestone ed="p" unit="card" n="692"/>
-	    <div1 type="choral">
+	    <div type="choral">
 		<stage>The Thracians go off in pursuit. Meantime
 		    the original Guards who form the Chorus
 		    have hastened back. The two Greeks are
 		    presently seen crossing at the back in a
 		    different direction.</stage>
 
-		<div2 type="strophe" n="1">
+		<div type="strophe" n="1">
 		    <sp><speaker>CHORUS.</speaker>
 			<p><l n="tr">Who was the man that passed?</l>
 			<l n="tr" rend="indent">Who, that, so madly bold,</l>
@@ -1638,9 +1638,9 @@
 			<l n="tr" rend="indent">Whose prowess?   Say!-Odysseus.-Nay,</l>
 			<l n="tr">Praise not the secret stabbing of a thief!</l></p></sp>
 
-		</div2>
+		</div>
 		<milestone ed="p" unit="card" n="710"/>
-		<div2 type="antistrophe" n="1">
+		<div type="antistrophe" n="1">
 
 		    <sp><speaker>CHORUS.</speaker>
 			<p><l n="tr">He came once, of old,</l>
@@ -1668,10 +1668,10 @@
 			<l n="tr" rend="indent">'Twas we that left a passage clear.-</l>
 			<l n="tr" rend="indent">A passage?-Yea, for these men's way,</l>
 			<l n="tr">Who came by night into the lines unchecked.</l></p></sp>
-		</div2>
-	    </div1>
+		</div>
+	    </div>
 	    <milestone ed="p" unit="card" n="728"/>
-	    <div1 type="episode">
+	    <div type="episode">
 		<stage>A sound of moaning outside in the darkness,
 		    which has been heard during the last few
 		    lines, now grows into articulate words.</stage>
@@ -1822,7 +1822,7 @@
 		    <l n="tr">Awaits thee. Else, be Hector in your thought</l>
 		    <l n="tr">Writ down a babbler and a man of nought.</l></p></sp>
 		<milestone ed="p" unit="card" n="820"/>
-		<div2 type="antistrophe" n="1">
+		<div type="antistrophe" n="1">
 		    <sp><speaker>LEADER <stage>(grovelling before HECTOR)</stage>.<note place="foot"> P. 46, 1. 819. The Guard seems to think that the spies got past him when he came to Hector's tent at the beginning of the play. It was really later, when he made his men leave their post to wake the Lycians.  Perhaps he is lying.</note></speaker>
 			<p><l n="tr">Woe, woe! It was for thee, only for thee,</l>
 			<l n="tr">I must have gone, O Help and Majesty,</l>
@@ -1835,7 +1835,7 @@
 			<l n="tr">Thy heart; let Time be judge; and if in deed</l>
 			<l n="tr">Or word I have offended, let me bleed!</l>
 			<l n="tr">Bury me here alive! I ask no pardon.</l></p></sp>
-		</div2>
+		</div>
 		<milestone ed="p" unit="card" n="833"/>
 		<stage>HECTOR is standing over him ready to strike
 		    when the CHARIOTEER speaks.</stage>
@@ -1950,7 +1950,7 @@
 		    <l n="tr" rend="indent">lay.</l>
 
 		    <milestone ed="p" unit="card" n="895"/>
-		    <div2 type="strophe" n="1">
+		    <div type="strophe" n="1">
 			<p><l n="tr">With a dirge of the Thracian mountains,<note place="foot"> P. 50,1. 895 ff. and 1. 906 ff., A dirge of the Thracian mountains.]-Such dirges must have struck the Greeks as the fragments of Ossian struck the Lowlanders among us. I have found that the dirge here goes naturally into a sort of Ossianic rhythm.</note> </l>
 			<l n="tr" rend="indent">I mourn for thee, O my son.</l>
 			<l n="tr">For a mother's weeping, for a galley's launching, for</l>
@@ -1961,7 +1961,7 @@
 			<l n="tr" rend="indent">anger.</l>
 			<l n="tr">Ah, woe is me for thee, thou dear face,</l>
 			<l n="tr" rend="indent">My belov&egrave;d and my son!</l>
-		</p></div2></p></sp>
+		</p></div></p></sp>
 		<milestone ed="p" unit="card" n="904"/>
 		<sp><speaker>LEADER.</speaker>
 		    <p><l n="tr">Goddess, if tears for such as thee may run</l>
@@ -1969,7 +1969,7 @@
 
 		<milestone ed="p" unit="card" n="906"/>
 		<sp><speaker>MUSE.</speaker>
-		    <div2 type="antistrophe" n="1">
+		    <div type="antistrophe" n="1">
 			<p><l n="tr">I say to thee: Curse Odysseus,</l>
 			<l n="tr" rend="indent">And curs&egrave;d be Diomede!</l>
 			<l n="tr">For they made me childless, and forlorn for ever, of</l>
@@ -1981,7 +1981,7 @@
 			<l n="tr">Belov&egrave;d, and a thousand cities</l>
 			<l n="tr" rend="indent">She made empty of good men.</l>
 
-		    </p></div2>
+		    </p></div>
 		    <milestone ed="p" unit="card" n="915"/>
 		    <p><l n="tr">O conquered Thamyris, is this thy bane<note place="foot"> <p>P. 51, 1. 915. The speech of the Muse seems like the writing of a poet who is, for the moment, tired of mere drama, and wishes to get back into his own element.  Such passages are characteristic of Euripides.-The death of Rhesus seems to the Muse like an act of vengeance from the dead Thamyris, the Thracian bard who had blasphemied the Muses and challenged them to a contest of song. They conquered him and left him blind, but still a poet. The story in Homer is more terrible, though more civilised: "They in wrath made him a maimed man, they took away his heavenly song and made him forget his harping."</p>
 			    <p>Thamyris, the bard who defied Heaven; Orpheus, the bard, saint, lover, whose severed head still cried for his lost Eurydice; Musaeus, the bard of mystic wisdom and initiations-are the three great legendary figures of this Northern mountain minstrelsy.</p></note></l>
@@ -2112,7 +2112,7 @@
 		    <l n="tr" rend="indent">And men may conquer ere they die.</l></p></sp>
 		<stage>Exeunt.</stage>
 
-	    </div1>
+	    </div>
 	</body>
 	<back>
 	    <head>NOTES</head>

@@ -63,7 +63,7 @@
 
 <text lang="en">
 <front>
-<div1 type="book" n="notice">
+<div type="book" n="notice">
 <head>NOTICE.</head>
 
 <p>THE present translation of Strabo, the great Geographer
@@ -135,9 +135,9 @@ editions; also a complete index of the places mentioned
 in the text, accompanied, where possible, by the modern
 
 names.</p>
-<closer><name>H. G. B.</name></closer></div1>
+<closer><name>H. G. B.</name></closer></div>
 
-<div1 type="book" n="preface">
+<div type="book" n="preface">
 <head>PREFACE.</head>
 
 <p>STRABO, the author of this work, was born at <placeName key="tgn,7002337">Amasia</placeName>, or
@@ -1665,12 +1665,12 @@ Smith's Dictionary of Greek and Roman Geography.
 <lb/><seg>Rectory, Bushey, Herts.</seg>
 
 <lb/><date>September 1, <date value="1857-09-01">1857</date>.</date>
-</closer></div1>
+</closer></div>
 
 </front>
 <body><head>STRABO'S GEOGRAPHY.</head>
 
-<div1 type="book" n="1">
+<div type="book" n="1">
 <pb n="1"/>
 <head>BOOK I.</head>
 
@@ -1695,7 +1695,7 @@ probabilities and evident proofs that in many regions the land and sea have
 
 been shifted, and exchanged places with each other.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -3298,7 +3298,7 @@ man of business.
 of a philosopher.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -7372,7 +7372,7 @@ And again:
 golden bed by the shore of the ocean, which the noble Jason visited.</q></quote>
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -9104,7 +9104,7 @@ the way in which this writer completes the First Book of his
 Memoirs.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -9568,7 +9568,7 @@ pointed out.
 <pb n="105"/>
 
 
-</p></div2></div1><div1 type="book" n="2">
+</p></div></div><div type="book" n="2">
 <head>BOOK II.</head>
 
 <argument>
@@ -9580,7 +9580,7 @@ statements of Hipparchus, which he disproves, and finishes with a short
 
 exposition or synopsis of the whole subject, namely, geographical knowledge.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -12283,7 +12283,7 @@ quite enough.
 <pb n="143"/>
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -12473,7 +12473,7 @@ which are farther south having a more salubrious atmosphere,
 and being more fruitful and better supplied with water.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -13280,7 +13280,7 @@ avoid, simply because of the extreme darkness in which all
 <emph rend="ital">causes</emph> are enveloped.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -13854,7 +13854,7 @@ cause to undertake the present work.
 <pb n="165"/>
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -16529,12 +16529,12 @@ great circle [of the earth].
 <pb n="205"/>
 
 
-</p></div2></div1><div1 type="book" n="3">
+</p></div></div><div type="book" n="3">
 <head>BOOK III.</head>
 
 <head>SPAIN.</head>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -17007,7 +17007,7 @@ and from this latter place to Gadeira 70.
 <pb n="212"/>
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -18148,7 +18148,7 @@ their number are the Keltiberians, who formerly were regarded as the most uncivi
 these.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -18644,7 +18644,7 @@ legions in these parts, by which means he has not only preserved peace, but intr
 polity.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -19920,7 +19920,7 @@ emperor, men of the equestrian rank, who distribute the pay
 to the soldiers for their maintenance.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -20835,7 +20835,7 @@ Thus far concerning Iberia and the adjacent islands.
 <pb/>
 
 
-</p></div2></div1><div1 type="book" n="4">
+</p></div></div><div type="book" n="4">
 <head>BOOK IV.</head>
 
 <head>GAUL.</head>
@@ -20851,7 +20851,7 @@ certain islands in the ocean which are habitable, together with the country
 
 of the barbarians, and the nations dwelling beyond the Danube.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -22150,7 +22150,7 @@ that the Pyrenees separated the Iberians from the Kelts; while Diodorus
 Siculus fixed the position of the Kelts between the Alps and the Pyrenees.</note>
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -22372,7 +22372,7 @@ in a car, whilst he scattered gold and silver coin in every
 direction for those who followed him to gather up.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -22714,7 +22714,7 @@ the ocean. The most considerable, however, of all these nations are the Remi. Du
 populated, and is the residence of the Roman prefects.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <head>GAUL. THE BELG&AElig;.</head>
@@ -23156,7 +23156,7 @@ vii. c. 22.</note>
 </p><p>Such is our account of Keltica beyond the Alps.<note anchored="yes">Transalpine Gaul.</note>
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <head>BRITAIN.</head>
@@ -23425,7 +23425,7 @@ it in vast granaries, threshing-floors being useless on account
 of the rain and want of sun.
 
 
-</p></div2><div2 type="chapter" n="6">
+</p></div><div type="chapter" n="6">
 <head>CHAPTER VI.</head>
 
 <head>THE ALPS.</head>
@@ -24314,7 +24314,7 @@ Alpine mountains.
 <pb n="313"/>
 
 
-</p></div2></div1><div1 type="book" n="5">
+</p></div></div><div type="book" n="5">
 <head>BOOK V.</head>
 
 <head>ITALY.</head>
@@ -24330,7 +24330,7 @@ Lucania, Apulia, and the islands lying in the sea between Genoa and
 
 Sicily.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -25209,7 +25209,7 @@ Here we finish our description of the first part of Italy, and
 pass on to the second.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -26155,7 +26155,7 @@ said, beyond as far as the sea. We have now sufficiently
 described the Ombrici.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -27531,7 +27531,7 @@ a place of security, for lodging important prisoners.<note anchored="yes">It ser
 <pb n="357"/>
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -28875,7 +28875,7 @@ Silaro is 260 stadia.
 <pb n="375"/>
 
 
-</p></note></p></div2></div1><div1 type="book" n="6">
+</p></note></p></div></div><div type="book" n="6">
 <head>BOOK VI.</head>
 
 <head>ITALY.</head>
@@ -28893,7 +28893,7 @@ Sicily to the Ceraunian mountains, and on the other side as far as Carthage,
 
 and the small islands lying near to it.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -30822,7 +30822,7 @@ we feel justified in keeping to the same arrangement, and shall
 pass on to Sicily and the surrounding islands.
 
 
-</p></note></p></div2><div2 type="chapter" n="2">
+</p></note></p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -32452,7 +32452,7 @@ last given.<note anchored="yes">This M. Gossellin very satisfactorily proves to 
 Sicily and Africa. So much for the islands.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -33533,7 +33533,7 @@ of Buca have been before described.<note anchored="yes">Book v. chap. iv. &sect;
 <pb n="437"/>
 
 
-</p></note></p></div2><div2 type="chapter" n="4">
+</p></note></p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -33881,7 +33881,7 @@ him for their model.
 <pb n="442"/>
 
 
-</p></div2></div1><div1 type="book" n="7">
+</p></div></div><div type="book" n="7">
 <head>BOOK VII.</head>
 
 <head>GERMANY.&mdash;THE CIMBRI, GET&AElig;, DACI.&mdash;MOUTHS OF THE DANUBE.&mdash;THE
@@ -33900,7 +33900,7 @@ That on the east is the country beyond the Rhine, as far as the Don<note anchore
 
 Danube<note anchored="yes">The ancient Ister.</note> bounds, lying between the Adriatic and the left shores of the Euxine, as far as Greece and the Sea of Marmora,<note anchored="yes">The ancient Propontis.</note> including the whole of Macedonia.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -34320,7 +34320,7 @@ is likewise another great forest, named Gabreta, on this side
 the territory of the Suevi, while beyond them lies the Hercynian Wood, which also is in their possession.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -34576,7 +34576,7 @@ and Eratosthenes than by us.</note> or even whether they extend as far as
 that sea.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -36150,7 +36150,7 @@ called Taphrii. They likewise call the Gulf Carcinites the
 Gulf Tamyraca, the same as the headland.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -36679,7 +36679,7 @@ places destitute of water.
 Danube, lying between the Rhine and the Don, and extending as far as the Pontic Sea and the Palus M&aelig;otis.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -37280,7 +37280,7 @@ reducing, until they had made the country a desert, full of
 impassable forests, which extended several days' journey.
 
 
-</p></div2><div2 type="chapter" n="6">
+</p></div><div type="chapter" n="6">
 <head>CHAPTER VI.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -37506,7 +37506,7 @@ any other.
 made a settlement for criminals.
 
 
-</p></div2><div2 type="chapter" n="7">
+</p></div><div type="chapter" n="7">
 <head>CHAPTER VII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -38339,7 +38339,7 @@ is lost.]</quote>
 <pb n="504"/>
 
 
-</p></div2><div2 type="chapter" n="fragments">
+</p></div><div type="chapter" n="fragments">
 <head>FRAGMENTS.</head><note anchored="yes">The Fragments are collected from the Palatine (EPIT.) and Vatican
 
 (E.) Epitomes; and, in the opinion of Kramer, much is not lost. By
@@ -39558,7 +39558,7 @@ west. E.
 
 
 <pb/>
-</p></div2></div1><div1 type="book" n="8">
+</p></div></div><div type="book" n="8">
 <head>BOOK VIII.</head>
 
 <head>EUROPE CONTINUED.&mdash;GREECE.</head>
@@ -39578,7 +39578,7 @@ historians, and especially in the Catalogue and in many other parts of the
 
 Poem.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER 1.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -39846,7 +39846,7 @@ two great bodies, viz. that within and that without the Isthmus of Corinth.</not
 <pb n="5"/>
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -39990,7 +39990,7 @@ the gulf between both.
 </p><p>We shall next describe each country in particular, beginning with Elis.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -42403,7 +42403,7 @@ stadia.
 <pb n="35"/>
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -42788,7 +42788,7 @@ thirty; but, anciently, Laconia had the name of Hecatompolis,
 and that for this reason hecatombs were annually sacrificed.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -43380,7 +43380,7 @@ Nestor,) nor by itself in the Catalogue of Ships, as though it
 had no part in the expedition.
 
 
-</p></div2><div2 type="chapter" n="6">
+</p></div><div type="chapter" n="6">
 <head>CHAPTER VI.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -45018,7 +45018,7 @@ of their Kings named &AElig;gialeus.</note> [or the sea-coast,] as far as Dyme, 
 the borders of the Eleian territory, belong to the Ach&aelig;ans.
 
 
-</p></div2><div2 type="chapter" n="7">
+</p></div><div type="chapter" n="7">
 <head>CHAPTER VII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -45551,7 +45551,7 @@ The territory is occupied by the Dym&aelig;i. Next is Araxus,<note anchored="yes
 the promontory of the Eleian district, distant from the isthmus 1000 stadia.
 
 
-</p></div2><div2 type="chapter" n="8">
+</p></div><div type="chapter" n="8">
 <head>CHAPTER VIII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -45742,7 +45742,7 @@ Agr&aelig;us and Deiphontes, of the towns about Acte.
 <pb/>
 
 
-</p></div2></div1><div1 type="book" n="9">
+</p></div></div><div type="book" n="9">
 <head>BOOK IX.</head>
 
 <argument>
@@ -45752,7 +45752,7 @@ Agr&aelig;us and Deiphontes, of the towns about Acte.
 
 A description of B&oelig;otia and Thessaly, with the sea-coast.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -46821,7 +46821,7 @@ Agra, and the Lyceium, and the fountain celebrated by Plato
 in the Ph&aelig;drus. So much then respecting Attica.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -48634,7 +48634,7 @@ furnished us with these materials, and they have been followed, wherever they in
 design of this work.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -49470,7 +49470,7 @@ Opuntii from touching upon each other in any part. In aftertimes Daphnus was inc
 <pb n="125"/>
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -49914,7 +49914,7 @@ to mention what appears suited to our purpose.
 <pb n="131"/>
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -51351,7 +51351,7 @@ Thettalus.
 <pb/>
 
 
-</p></div2></div1><div1 type="book" n="10">
+</p></div></div><div type="book" n="10">
 <head>BOOK X.</head>
 
 <head>GREECE.</head>
@@ -51373,7 +51373,7 @@ Book contains an account of the numerous islands about Crete, including
 
 the Sporades and some of the Cyclades.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -51966,7 +51966,7 @@ which lie nearest to Greece, and are inhabited by Greeks,
 which we have not yet mentioned.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -53383,7 +53383,7 @@ of the &AElig;tolians as we proposed to add to our former account
 of this people.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -54742,7 +54742,7 @@ religious rites, and divination. Of such a nature, and connected in particular w
 were the Dionysiac and Orphic arts. But enough of this subject.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -55793,7 +55793,7 @@ the orders of the Romans, as is the case also in their other
 provinces.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -56394,7 +56394,7 @@ and rivals that of Attica; but the honey of these islands surpasses it, particul
 <pb n="215"/>
 
 
-</p></div2></div1><div1 type="book" n="11">
+</p></div></div><div type="book" n="11">
 <head>BOOK XI.</head>
 
 <head>ASIA.</head>
@@ -56420,7 +56420,7 @@ cities founded by them:&mdash;of Xerxes, Mithridates, and Alexander, son of
 
 Philip.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -56710,7 +56710,7 @@ as the nations which extend to the Persian Sea, the Arabian
 Gulf, and the Nile, and to the &AElig;gyptian and the Issic seas.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -57489,7 +57489,7 @@ being well peopled.
 <pb n="230"/>
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -57644,7 +57644,7 @@ governs, and is the steward of each.
 their country.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -57883,7 +57883,7 @@ and occupied the country as far as Calachene and Adiabene,
 and that he gave his own name to Armenia.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -58218,7 +58218,7 @@ on those of Achardeus, which rises in Caucasus, and dis-
 charges itself into the M&aelig;otis.
 
 
-</p></div2><div2 type="chapter" n="6">
+</p></div><div type="chapter" n="6">
 <head>CHAPTER VI.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -58338,7 +58338,7 @@ manner more likely to produce belief than preceding historians,
 for they had better opportunities of personal observation.
 
 
-</p></div2><div2 type="chapter" n="7">
+</p></div><div type="chapter" n="7">
 <head>CHAPTER VII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -58583,7 +58583,7 @@ side the sea and shore, the latter of which by the dew [and
 moisture of the falls] is rendered a grassy and flowery meadow.
 
 
-</p></div2><div2 type="chapter" n="8">
+</p></div><div type="chapter" n="8">
 <head>CHAPTER VIII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -58962,7 +58962,7 @@ Eastern Sea.
 </p><p>Thus much then respecting the Sac&aelig;.
 
 
-</p></div2><div2 type="chapter" n="9">
+</p></div><div type="chapter" n="9">
 <head>CHAPTER IX.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -59075,7 +59075,7 @@ and another of wise men and magi, by both of which kings
 are chosen.
 
 
-</p></div2><div2 type="chapter" n="10">
+</p></div><div type="chapter" n="10">
 <head>CHAPTER X.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -59130,7 +59130,7 @@ would require two men to girth it, and bunches of grapes
 two cubits in size.
 
 
-</p></div2><div2 type="chapter" n="11">
+</p></div><div type="chapter" n="11">
 <head>CHAPTER XI.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -59615,7 +59615,7 @@ these, ill-fated.
 <pb n="259"/>
 
 
-</p></div2><div2 type="chapter" n="12">
+</p></div><div type="chapter" n="12">
 <head>CHAPTER XII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -59826,7 +59826,7 @@ is no part of Armenia nor of Media towards the south on the
 other side of the Taurus.
 
 
-</p></div2><div2 type="chapter" n="13">
+</p></div><div type="chapter" n="13">
 <head>CHAPTER XIII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -60212,7 +60212,7 @@ of the Persians in consequence of the establishment of the
 Persian empire, I shall speak of them when I give an account of the latter nation.
 
 
-</p></div2><div2 type="chapter" n="14">
+</p></div><div type="chapter" n="14">
 <head>CHAPTER XIV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -60776,7 +60776,7 @@ prefer those of a rank equal to their own.
 <pb n="276"/>
 
 
-</p></div2></div1><div1 type="book" n="12">
+</p></div></div><div type="book" n="12">
 <head>BOOK XII.</head>
 
 <head>CAPPADOCIA</head>
@@ -60792,7 +60792,7 @@ Heracleia, and Amaseia, and likewise Isauria, Lycia, Pamphylia, and
 
 Cilicia, with the islands lying along the coast; the mountains and rivers.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -60930,7 +60930,7 @@ to Derbe, belonging to Antipater, the robber. Cilicia Trachea about El&aelig;uss
 country which served as the haunts of pirates.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -61455,7 +61455,7 @@ the Greater Cappadocia, it will be better to describe it when
 we give an account of the whole of Cilicia.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -63655,7 +63655,7 @@ for some order and division of this kind are suggested by the
 nature of the places.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -64022,7 +64022,7 @@ parts in the neighbourhood of these nations, and then proceed
 to a description of the places next in order.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -64183,7 +64183,7 @@ they immediately fall down in consequence of the concretion
 of the salt upon them, and are thus taken.
 
 
-</p></div2><div2 type="chapter" n="6">
+</p></div><div type="chapter" n="6">
 <head>CHAPTER VI.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -64346,7 +64346,7 @@ other tribes, their own being protected by mountains, which
 serve as a wall.
 
 
-</p></div2><div2 type="chapter" n="7">
+</p></div><div type="chapter" n="7">
 <head>CHAPTER VII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -64493,7 +64493,7 @@ kingdom of Amyntas.
 <pb n="326"/>
 
 
-</p></div2><div2 type="chapter" n="8">
+</p></div><div type="chapter" n="8">
 <head>CHAPTER VIII.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -65397,7 +65397,7 @@ herds and the bleating of sheep; all the plain re-echoes with their cries.</q></
 <pb n="338"/>
 
 
-</p></div2></div1><div1 type="book" n="13">
+</p></div></div><div type="book" n="13">
 <head>BOOK XIII.</head>
 
 <head>ASIA.</head>
@@ -65411,7 +65411,7 @@ of Marmara), the whole of the sea-coast, and the adjacent islands. The
 
 author dwells some time on Troy, though deserted, on account of its distinction, and the great renown it derived from the war.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -69696,7 +69696,7 @@ transferred the inhabitants of Gergitha in the Troad, after
 destroying their own stronghold.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -69963,7 +69963,7 @@ for <foreign lang="greek">λιμνάζον,</foreign> or ' marshy.'</q>
 from Tenedos, Lemnos, and Chios.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -70399,7 +70399,7 @@ ought next to notice cursorily the interior of the country as
 far as Mount Taurus, observing the same order.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -71324,8 +71324,8 @@ GEORGE BELL AND SONS<lb>
 
 
 <!-- <head>STRABO'S GEOGRAPHY.</head>
---></p></div2></div1>
-<div1 type="book" n="14">
+--></p></div></div>
+<div type="book" n="14">
 <head>BOOK XIV.</head>
 
 <argument>
@@ -71336,7 +71336,7 @@ region opposite to them, Pamphylia, Isauria, Lycia, Pisidia, Cilicia as far
 
 as Seleucia of Syria, and that part of Asia properly called Ionia.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 <milestone ed="P" n="1" unit="section"/>
 <p>THERE remain to be described Ionia, Caria, and the
@@ -73157,7 +73157,7 @@ children of Pompey at Rome, he was satisfied with teaching
 a school of grammar.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -74379,7 +74379,7 @@ Taurus, from the mountains of Cappadocia about Tomisa, he
 says is a distance of 450 stadia.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -74729,7 +74729,7 @@ the people Solymi who have now the name of Mily&aelig;, and
 whom we have mentioned before.
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -74807,7 +74807,7 @@ some of the people who, together with Mopsus, crossed the
 Taurus, remained in Pamphylia, and that others were scattered in Cilicia and Syria, and as far even as Ph&oelig;nicia.
 
 
-</p></div2><div2 type="chapter" n="5">
+</p></div><div type="chapter" n="5">
 <head>CHAPTER V.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -76040,7 +76040,7 @@ Xanthus speaks?
 Mysia and Phrygia, and shall here conclude the discussion.
 
 
-</p></div2><div2 type="chapter" n="6">
+</p></div><div type="chapter" n="6">
 <head>CHAPTER VI.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -76370,14 +76370,14 @@ upon his death all his arrangements were annulled.
 <pb n="73"/>
 
 
-</p></div2></div1><div1 type="book" n="15">
+</p></div></div><div type="book" n="15">
 <head>BOOK XV.</head>
 
 <argument>
 <p>SUMMARY.</p>
 <p>The Fifteenth Book contains India and Persia.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -79805,7 +79805,7 @@ HIMSELF ACCORDING TO THE CUSTOM OF HIS COUNTRY, HERE
 LIES.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 <head>ARIANA.</head>
 
@@ -80475,7 +80475,7 @@ Persians and Medes.
 occupy more than one day.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -81360,7 +81360,7 @@ former times, but now to those of Parthia.
 <pb n="142"/>
 
 
-</p></div2></div1><div1 type="book" n="16">
+</p></div></div><div type="book" n="16">
 <head>BOOK XVI.</head>
 
 <argument><p>SUMMARY.</p>
@@ -81374,7 +81374,7 @@ territory of the Saracens, called by our author Scenitis; and the whole
 
 country bordering the Dead and Red Seas.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -82577,7 +82577,7 @@ have continued to send ambassadors (to Rome), and to hold
 conferences (with the Roman prefects).
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -84178,7 +84178,7 @@ return<note anchored="yes">This refers to the journey of Philip and Antipas to R
 to him.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -84402,7 +84402,7 @@ seen driven on shore a whale fifty cubits in length.
 <pb n="189"/>
 
 
-</p></div2><div2 type="chapter" n="4">
+</p></div><div type="chapter" n="4">
 <head>CHAPTER IV.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -86272,14 +86272,14 @@ said in a former part of this work.
 <pb n="217"/>
 
 
-</p></div2></div1><div1 type="book" n="17">
+</p></div></div><div type="book" n="17">
 <head>BOOK XVII.</head>
 
 <argument>
 <p>SUMMARY.</p>
 <p>The Seventeenth Book contains the whole of Egypt and Africa.</p></argument>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>CHAPTER I.</head>
 
 <p>WHEN we were describing Arabia, we included in the
@@ -90109,7 +90109,7 @@ they desired, and C&aelig;sar even remitted the tribute which he
 had imposed.
 
 
-</p></div2><div2 type="chapter" n="2">
+</p></div><div type="chapter" n="2">
 <head>CHAPTER II.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -90461,7 +90461,7 @@ reason why the thrissa is found there.
 </p><p>So much then on the subject of Egypt.
 
 
-</p></div2><div2 type="chapter" n="3">
+</p></div><div type="chapter" n="3">
 <head>CHAPTER III.</head>
 
 <milestone ed="P" n="1" unit="section"/>
@@ -92172,9 +92172,9 @@ magistrates.
 <pb n="298"/>
 
 
-</p></div2></div1></body>
+</p></div></div></body>
 <back>
-<div1 type="index">
+<div type="index">
 <head>INDEX.</head>
 <p>AARASSUS, t. of Pisidia, ii. 324.
 </p><p>Aba, daughter of Zenophanes, iii.
@@ -106016,7 +106016,7 @@ i. 195; ii. 219, 224, 225; iii.
 
 296.
 </p><p>Zygopolis, city of Pontus, ii. 296.
-</p></div1></back><!--
+</p></div></back><!--
 
 <p>LONDON: PRINTED BY WILLIAM CLOWES AND SONS, LIMITED,
 

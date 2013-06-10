@@ -53,8 +53,8 @@
 	
 	<text><body>
 		<pb id="p.vii"/>
-		<div1 type="book" n="front">
-			<div2 type="chapter"><head>Translator's Preface</head>
+		<div type="book" n="front">
+			<div type="chapter"><head>Translator's Preface</head>
 				<p>AT the beginning of the Middle Ages there were
 					extant three copies of the Third Decade, though
 					two of these<note>The Spirensis and the Turin palimpsest. Something will be said of these two MSS. in the preface to Vol. VII (Books XXVI.-XXVII.).</note> contained only the second half, Books
@@ -211,8 +211,8 @@
 					Conway now says (p. vii.) that it can be shown that
 					<hi rend="italics">M</hi> was copied directly from <hi rend="italics">P.</hi></p>
 				<pb id="p.xiii"/>
-			</div2>
-			<div2 type="chapter"><head>Bibliography<note>See also Vol. I., Introd., p. xxxv, for a few titles not repeated here.</note> </head>
+			</div>
+			<div type="chapter"><head>Bibliography<note>See also Vol. I., Introd., p. xxxv, for a few titles not repeated here.</note> </head>
 				<p>I. GENERAL.&mdash;A. Klotz, (9), T. Livius, in Pauly-
 					Wissowa, Real-Encyclop&auml;die der classischen Altertumswissenschaft, 13.1, Stuttgart, 1926, 816-852
 					[<hi rend="italics">compact but comprehensive discussion of the various
@@ -445,8 +445,8 @@
 						theory and to showing how they are used in the portrayal
 						of character</hi>].</p>
 				<pb id="p.xx"/>
-			</div2>
-			<div2 type="chapter"><head>The Manuscripts</head>
+			</div>
+			<div type="chapter"><head>The Manuscripts</head>
 				<p><hi rend="italics">P</hi> = Parisinus 5730 = Puteanus, 5th century.</p>
 				<p><hi rend="italics">C</hi> = Parisinus 5731 = Colbertinus, 10th century.</p>
 				<p><hi rend="italics">M</hi> = Mediceus Laurentianus LXIII. 20 = M, 11th century.</p>
@@ -456,9 +456,9 @@
 				<p><foreign lang="greek">ς</foreign> = One or more of the inferior MSS. or early
 					printed editions.</p>
 				<p><hi rend="italics">edd.</hi> = the early editors.</p>
-				<p><hi rend="italics">vulg.</hi> = the correction commonly adopted.</p></div2></div1>
+				<p><hi rend="italics">vulg.</hi> = the correction commonly adopted.</p></div></div>
 		<pb id="p.3"/>
-		<div1 type="book" n="21"><head>Book XXI</head>
+		<div type="book" n="21"><head>Book XXI</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>IN this preface to a part of my history I may<note type="margin">B.C. 218-201</note> properly assert what many an historian has declared at the outset of his entire work,<note>Thucydides began his history as follows: <quote>Thucydides, an Athenian, wrote the history of the war which the Peloponnesians and Athenians waged against one another, beginning at its very outset, in the expectation that it would be a great war and more worthy of relation than any that had preceded it.</quote></note> to wit, that the war which I am going to describe was the most memorable of all wars ever waged &mdash;the war, that is, which, under the leadership of Hannibal, the Carthaginians waged with the Roman People.
 				<milestone unit="section" n="2"/> For neither have states or nations met in arms possessed of ampler resources, nor was their own might and power ever so great. Nor yet were they strangers to one another's modes of fighting, which the First Punic War had made them understand. And so variable were the fortunes of the war and so uncertain was its outcome that those who ultimately conquered had been nearer ruin.
@@ -1146,9 +1146,9 @@
 							<milestone unit="section" n="12"/> and his province. On this commission &mdash;for commissioners they resolved to dispatch &mdash;Quintus Terentius and Marcus Antistius set forth, but moved Flaminius no more than the letter sent him by the senate had moved him in
 							<milestone unit="section" n="13"/> his former consulship. A few days later he entered on his magistracy, and as he was offering up a calf, it escaped &mdash;after being struck &mdash;out of the hands of those who would have sacrificed it, and spattered many of the bystanders
 							<milestone unit="section" n="14"/> with its blood. The dismay and confusion <pb id="p.193"/>were even greater among those who stood farther B..217 off and knew not what was occasioning the panic. By most people it was regarded as an omen
-							<milestone unit="section" n="15"/> of great terror.<note>This dreadful omen is not mentioned by Polybius and looks like an invention of the aristocratic opponents of Flaminius. Livy perhaps found the story in Coelius.</note> After this the army comprising the two legions received from Sempronius, the consul of the year before, and the two taken over from Gaius Atilius the praetor, began its march into Etruria through the passes of the Apennines.</p></div1> 
+							<milestone unit="section" n="15"/> of great terror.<note>This dreadful omen is not mentioned by Polybius and looks like an invention of the aristocratic opponents of Flaminius. Livy perhaps found the story in Coelius.</note> After this the army comprising the two legions received from Sempronius, the consul of the year before, and the two taken over from Gaius Atilius the praetor, began its march into Etruria through the passes of the Apennines.</p></div> 
 		<pb id="p.195"/>
-		<div1 type="book" n="21s"><head>Summary of Book XXI</head>
+		<div type="book" n="21s"><head>Summary of Book XXI</head>
 			<p>IN this book is described the beginning of the Second
 				Punic War, and how Hannibal, the general of the
 				Phoenicians, crossed the river Ebro in violation of the
@@ -1169,10 +1169,10 @@
 				army was routed near the river Trebia. After this
 				Hannibal crossed the Apennines, with great distress to
 				his soldiers, because of violent storms. In Spain Gnaeus
-				Cornelius Scipio fought successfully against the Phoenicians and captured the enemy's general, Mago.<note>This name is a mistake (found also in Orosius, IV. xiv. 9) for Hanno (chap. Ix. &sect; 4).</note> </p></div1>
+				Cornelius Scipio fought successfully against the Phoenicians and captured the enemy's general, Mago.<note>This name is a mistake (found also in Orosius, IV. xiv. 9) for Hanno (chap. Ix. &sect; 4).</note> </p></div>
 		<pb id="p.197"/>
 		<pb id="p.199"/>
-		<div1 type="book" n="22"><head>Book XXII</head>
+		<div type="book" n="22"><head>Book XXII</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>SPRING was now drawing on, and accordingly<note type="margin">B.C. 217</note> Hannibal moved out of his winter encampment. He had tried before this to cross the Apennines, but had failed because of the intolerable cold.
 				<milestone unit="section" n="2"/> And the delay had been attended with the greatest danger and anxiety; for when the Gauls, whom the hope of spoil and pillage had excited to revolt, perceived that instead of harrying and plundering the fields of others, their own lands were the seat of war and were burdened with the winter quarters of both armies, they turned their hatred back again from the Romans upon Hannibal.
@@ -1936,8 +1936,8 @@
 					<milestone unit="section" n="12??"/> Samnites but the Pentri, all the Bruttii, the Lucanians, and besides these the Uzentini and almost all the Greeks on the coast, the Tarentines, the Metapontines, the Crotoniates and the Locri, together with all the Cisalpine Gauls.<note>This list includes all the peoples of Italy who revolted at one time or another during the war with Hannibal.</note>
 					<milestone unit="section" n="13"/> Yet these disasters and the falling away of the allies could not induce the Romans anywhere to mention peace, either before the consul came to Rome or after his coming had turned men's thoughts anew to the calamity which they had suffered.
 					<milestone unit="section" n="14"/> In that very hour there was such courage in the hearts of the citizens that when the consul was returning from that defeat for which he himself had been chiefly responsible, a crowd of all sorts and conditions went out to meet him on the way, and gave him thanks because he had not despaired of the state;
-					<milestone unit="section" n="15"/> whereas, had he been the commander of the Carthaginians, there was no punishment he would not have been compelled to suffer.<note>An allusion to the alleged Carthaginian custom of crucifying incompetent generals. See XXXVIII. xlviii. 13 and Valerius Maximus II. vii. <hi rend="italics">Ext.</hi> 1.</note></p> <pb id="p.411"/></div1> 
-		<div1 type="book" n="22s"><head>Summary of Book XXII</head>
+					<milestone unit="section" n="15"/> whereas, had he been the commander of the Carthaginians, there was no punishment he would not have been compelled to suffer.<note>An allusion to the alleged Carthaginian custom of crucifying incompetent generals. See XXXVIII. xlviii. 13 and Valerius Maximus II. vii. <hi rend="italics">Ext.</hi> 1.</note></p> <pb id="p.411"/></div> 
+		<div type="book" n="22s"><head>Summary of Book XXII</head>
 			<p>HANNIBAL, losing sleep continuously in the marshes,
 				went blind in one eye, and reached Etruria after marching
 				through the swamps for four days and three nights without repose. Gaius Flaminius the consul, a headstrong
@@ -2000,7 +2000,7 @@
 				unchastity. The people went out to meet Varro, and
 				thanked him because he had not despaired of the
 				Republic.</p>
-		</div1>
+		</div>
 	</body>
 	</text>
 </TEI.2>

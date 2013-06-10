@@ -64,7 +64,7 @@
 
       </item></change></revisionDesc></teiHeader>
 <text><front>
-<div1 type="intro"><head>Vorwort.</head>
+<div type="intro"><head>Vorwort.</head>
 <p>Die Neugestaltung des Kommentars und des Anhangs ist nach denselben Grunds&auml;tzen erfolgt wie in den fr&uuml;her von mir umgearbeiteten B&auml;nden; s. Vorw. zur siebenten Auflage des ersten Heftes vom ersten Bande (Buch 1).</p>
 <p>Im Text waren zahlreiche Druckfehler zu berichtigen (darunter sehr st&ouml;rende, wie <bibl n="Liv. 33.29.12">33, 29, 12</bibl> <foreign lang="la">iussique,</foreign> <bibl n="Liv. 34.62.17">34, 62, 17</bibl> <foreign lang="la">relinquit</foreign> u. a.); ebenso mufste die Orthographie und Interpunktion allerorten ge&auml;ndert werden (s. z. B.
 <bibl n="Liv. 34.56.12">34, 56, 12</bibl>); ganz neue Lesarten habe ich an folgenden Stellen aufgenommen:
@@ -201,9 +201,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <p>Im Text kursiv gedruckte W&ouml;rter fehlen in allen Codices.</p>
 <p>Ein dem Lemma oder einem einzelnen Worte beigef&uuml;gtes * bedeutet 'vgl. den Anhang.'</p>
 <closer><dateline>Berlin, im August 1883.</dateline>
-<name>Prof. Dr. Hermann Johannes M&uuml;ller.</name></closer></div1></front>
+<name>Prof. Dr. Hermann Johannes M&uuml;ller.</name></closer></div></front>
 <body>
-<div1 type="preface"><head>Sigla</head>
+<div type="preface"><head>Sigla</head>
 <p>
 <list>
 <item>Ald. = Aldus;</item>
@@ -228,11 +228,11 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <item>Rhen. = Wsbg. = Wesenberg.</item></list></p>
 <p>M = Moguntinus.</p>
 <p>B = Bambergensis; 11. Jahrhundert.</p>
-</div1>
+</div>
 
-<div1 type="book" n="33">
+<div type="book" n="33">
 <p>1, 1&mdash;17, 6 sind nur von B &uuml;berliefert.</p>
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <div3 type="section" n="1">
 <p><lemma lang="la">Boeotorum</lemma>] Gr.; <foreign lang="la">boeotiorum</foreign> B. Ebenso 1, 3 und 2, 1. Vgl. 28, 5, 5. 8; 29, 12, 14; 33, 1, 7. 9. 27, 5. 7. 8. 29. 1. 7. 8. 11. 12; 35, 47, 2. 50, 5; 36, 7, 4. 20, 4; 42, 12, 5. 38, 5. 40, 6. 43, 5. 7. 44, 1. 51, 9; Per. 52.</p>
 <p><lemma lang="la">facere cupiens</lemma>] R&ouml;mische Ausgabe 1616; <foreign lang="la">pace recupiens</foreign> B.</p>
@@ -255,9 +255,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="6">
 <p><lemma lang="la">non ante</lemma>] RA.; <foreign lang="la">nouante</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="2">
+<div type="chapter" n="2">
 <div3 type="section" n="1">
 <p><lemma lang="la">Boeotorum</lemma>] s. zu 1, 1.</p>
 </div3>
@@ -274,9 +274,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="9">
 <p><lemma lang="la">quoniam</lemma>] qu&otilde; B.</p>
 <pb id="p.7.1.186"/>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="3">
+<div type="chapter" n="3">
 <div3 type="section" n="5">
 <p><lemma lang="la">exercitu</lemma>] RA.; <foreign lang="la">exercito</foreign> B.</p>
 </div3>
@@ -301,9 +301,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="12">
 <p><lemma lang="la">ad ea quae</lemma>] Rand RA.; <foreign lang="la">de re</foreign> B.</p>
 <p><lemma lang="la">erigi</lemma> hinzugef&uuml;gt vom Rand RA.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="4">
+<div type="chapter" n="4">
 <div3 type="section" n="1">
 <p><lemma lang="la">Aoum</lemma>] Horrion (Paderborner Ausgabe 1617); <foreign lang="la">aouum</foreign> B.</p>
 <p><lemma lang="la">ter a</lemma>] Rand bei Horrion; <foreign lang="la">terra</foreign> B; M. M&uuml;ller vermutet <foreign lang="la">interea a.</foreign></p>
@@ -318,9 +318,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="6">
 <p><lemma lang="la">superabant</lemma>] Horrion; <foreign lang="la">superabat</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="5">
+<div type="chapter" n="5">
 <div3 type="section" n="1">
 <p><lemma lang="la">Thebas Phthioticas</lemma>] RA.; <foreign lang="la">athebas pthioticas</foreign> B.</p>
 </div3>
@@ -349,9 +349,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="12">
 <p><lemma lang="la">praebeant</lemma>] RA.; <foreign lang="la">praebent</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="6">
+<div type="chapter" n="6">
 <div3 type="section" n="3">
 <p><lemma lang="la">circa</lemma>] RA.; <foreign lang="la">cirts</foreign> B.</p>
 </div3>
@@ -373,9 +373,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="12">
 <p><lemma lang="la">nocti</lemma>] Kr.; <foreign lang="la">noctis</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="7">
+<div type="chapter" n="7">
 <div3 type="section" n="6">
 <p><lemma lang="la">tuentium</lemma>] Doujat; <foreign lang="la">tuentum</foreign> B.</p>
 <p><lemma lang="la">pulsos</lemma>] Rand RA.; <foreign lang="la">plilsis</foreign> B.</p>
@@ -393,9 +393,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="12">
 <p><lemma lang="la">non ante</lemma>] RA.; <foreign lang="la">nouante</foreign> B.</p>
 <p><lemma lang="la">restiterunt</lemma>] Rand RA.; <foreign lang="la">restituerunt</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="8">
+<div type="chapter" n="8">
 <div3 type="section" n="5">
 <p><lemma lang="la">in Eordaeam aditum</lemma>] Kr.; <foreign lang="la">in eod&emacr; aditu</foreign> B.</p>
 </div3>
@@ -410,9 +410,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="13">
 <p><lemma lang="la">caetratos et</lemma>] Rand RA.; <foreign lang="la">caetratas</foreign> B. Wfsb.2 bemerkt hierzu: &lsquo;Bei Liv. ist vielleicht nach <foreign lang="la">locat</foreign> noch etwas ausgefallen, da B <foreign lang="la">locatus</foreign> hat und <foreign lang="la">et</foreign> fehlt, etwa: <foreign lang="la">locat</foreign> &lt;<foreign lang="la">in sinistro</foreign>&gt; <foreign lang="la">caetratos; Macedonum..,</foreign> da auch das Folgende sich nur auf die macedonische Phalanx bezieht.&rsquo; HJM. vermutet; <foreign lang="la">caetratos</foreign> &lt;<foreign lang="la">in sinistro</foreign>&gt;; <foreign lang="la">Macedonum..</foreign></p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="9">
+<div type="chapter" n="9">
 <div3 type="section" n="8">
 <p><lemma lang="la">ex tempore</lemma>] Duk.; <foreign lang="la">extemplo</foreign> B.</p>
 <pb id="p.7.1.187"/>
@@ -425,9 +425,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="10">
 <p><lemma lang="la">hoc</lemma>] Rand RA.; <foreign lang="la">hos</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="10">
+<div type="chapter" n="10">
 <div3 type="section" n="1">
 <p><lemma lang="la">ut</lemma> hinzugef&uuml;gt nach RA.; L&uuml;cke in B.</p>
 </div3>
@@ -452,9 +452,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="8">
 <p><lemma lang="la">Valerio</lemma>] Rand Ra.; <foreign lang="la">uario</foreign> B.</p>
 <p><lemma lang="la">undequinquaginta</lemma>] Kr.; <foreign lang="la">XLV mi</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="11">
+<div type="chapter" n="11">
 <div3 type="section" n="1">
 <p><lemma lang="la">ex fuga</lemma>] RA.; <foreign lang="la">ea fuga</foreign> B.</p>
 </div3>
@@ -470,9 +470,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="8">
 <p><lemma lang="la">suscensebat</lemma>] Rand RA. <foreign lang="la">(succensebat); suscensebant</foreign> B.</p>
 <p><lemma lang="la">offendebat</lemma>] RA.; <foreign lang="la">offendebatur</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="12">
+<div type="chapter" n="12">
 <div3 type="section" n="2">
 <p><lemma lang="la">tuendae</lemma>] RA.; <foreign lang="la">tu dae</foreign> B.</p>
 </div3>
@@ -501,9 +501,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="13">
 <p><lemma lang="la">rex</lemma>] Jacobs; <foreign lang="la">pax</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="13">
+<div type="chapter" n="13">
 <div3 type="section" n="5">
 <p><lemma lang="la">Phaeneas</lemma>] Rand RA.; <foreign lang="la">phaneas</foreign> B. Ebenso 13, 9.</p>
 </div3>
@@ -519,9 +519,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="13">
 <p><lemma lang="la">in</lemma> hinzugef&uuml;gt nach Gr.</p>
 <p><lemma lang="la">causa</lemma>] Cr&eacute;v.; <foreign lang="la">causae</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="14">
+<div type="chapter" n="14">
 <div3 type="section" n="3">
 <p><lemma lang="la">quot. . fuerant</lemma>] Drak.; <foreign lang="la">quod. .fuerat</foreign> B.</p>
 </div3>
@@ -549,9 +549,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="12">
 <p><lemma lang="la">ex quibus * * armaturae. . dimissis. . opperiebatur</lemma>] J. Perizonius; <foreign lang="la">ex quibus armaturae. . dimissi. . opperiebantur</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="15">
+<div type="chapter" n="15">
 <div3 type="section" n="1">
 <p><lemma lang="la">et</lemma> hinzugef&uuml;gt nach RA.</p>
 </div3>
@@ -603,9 +603,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="16">
 <p><lemma lang="la">ceciderunt</lemma>] RA.; <foreign lang="la">cedut~</foreign> B1. <foreign lang="la">cedert~</foreign> B2.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="16">
+<div type="chapter" n="16">
 <div3 type="section" n="1">
 <p><lemma lang="la">societate</lemma>] RA.; <foreign lang="la">societatem</foreign> B.</p>
 </div3>
@@ -626,9 +626,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="6">
 <p><lemma lang="la">namque</lemma>] Rand RA.; <foreign lang="la">nam</foreign> B.</p>
 <p><lemma lang="la">cederent</lemma>] Rand RA.; <foreign lang="la">cederetur</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="17">
+<div type="chapter" n="17">
 <div3 type="section" n="2">
 <p><lemma lang="la">Flamininum</lemma>] Gr.; <foreign lang="la">flaminium</foreign> B.</p>
 <p><lemma lang="la">Leucadem</lemma>] Rand RA.; <foreign lang="la">leucadae</foreign> B.</p>
@@ -668,9 +668,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="15">
 <p><lemma lang="la">dicionem</lemma>] B; <foreign lang="la">deditionem</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="18">
+<div type="chapter" n="18">
 <div3 type="section" n="1">
 <p><lemma lang="la">continentis</lemma>] B; <foreign lang="la">continentem</foreign> Mog.</p>
 <p><lemma lang="la">Peraeam</lemma>] Fr. 2; <foreign lang="la">Pyrrhe&atilde;</foreign> Mog., <foreign lang="la">phirean</foreign> B. Ebenso &sect; 20.</p>
@@ -760,9 +760,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="22">
 <p><lemma lang="la">nec</lemma>] B; fehlt in Mog.</p>
 <p><lemma lang="la">Achaia</lemma>] <foreign lang="la">Achaeia</foreign> Mog., <foreign lang="la">macedonia</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="19">
+<div type="chapter" n="19">
 <div3 type="section" n="1">
 <p><lemma lang="la">concussi tum</lemma>] B; <foreign lang="la">concessit cum</foreign> Mog.</p>
 </div3>
@@ -780,9 +780,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="6">
 <p><lemma lang="la">ne</lemma>] Mog.; fehlt in B.</p>
 <p><lemma lang="la">ex Syria movente</lemma>] B; <foreign lang="la">in Syria moliente</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="20">
+<div type="chapter" n="20">
 <div3 type="section" n="1">
 <p><lemma lang="la">egregie</lemma>] B; <foreign lang="la">egregia</foreign> Mog.</p>
 </div3>
@@ -821,9 +821,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <p><lemma lang="la">ut</lemma>] Mog.; fehlt in B.</p>
 <p><lemma lang="la">sunt</lemma>] Mog.; fehlt in B.</p>
 <p><lemma lang="la">sufficiam</lemma>] Mog.; <foreign lang="la">sufficiant</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="21">
+<div type="chapter" n="21">
 <div3 type="section" n="3">
 <p><lemma lang="la">magnitudini</lemma>] Aldus; <foreign lang="la">magnitudine</foreign> Mog., <foreign lang="la">magnitudinis</foreign> B.</p>
 </div3>
@@ -856,9 +856,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="9">
 <p><lemma lang="la">erat</lemma>] Mog.; fehlt in B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="22">
+<div type="chapter" n="22">
 <div3 type="section" n="2">
 <p><lemma lang="la">Afranius</lemma>] B; <foreign lang="la">Ursanius</foreign> Mog.</p>
 </div3>
@@ -870,9 +870,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="8">
 <p><lemma lang="la">Cn. Ligurium legionis quartae</lemma>] B; <foreign lang="la">et C. Labeonem eius fratrem</foreign> Mog.</p>
 <p><lemma lang="la">adversa. . cecidisse</lemma>] B; <foreign lang="la">qui aduersa. . cecidissent</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="23">
+<div type="chapter" n="23">
 <div3 type="section" n="2">
 <p><lemma lang="la">sese</lemma>] B; <foreign lang="la">se esse</foreign> Mog.</p>
 <p><lemma lang="la">plerique</lemma>] B; <foreign lang="la">plerosque</foreign> Mog.</p>
@@ -904,9 +904,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="9">
 <p><lemma lang="la">prope par</lemma>] Mog.; <foreign lang="la">prope</foreign> B.</p>
 <p><lemma lang="la">tralata</lemma>] Bk.; <foreign lang="la">translata</foreign> Mog., <foreign lang="la">tralati</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="24">
+<div type="chapter" n="24">
 <div3 type="section" n="2">
 <p><lemma lang="la">Ti.</lemma>] Sig.; <foreign lang="la">t.</foreign> Mog. B.Ebenso 26, 2.</p>
 <p><lemma lang="la">M'.</lemma>] Sig.; <foreign lang="la">m.</foreign> Mog. B.</p>
@@ -942,9 +942,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <p><lemma lang="la">eo</lemma>] B; <foreign lang="la">eorum</foreign> Mog.</p>
 <p><lemma lang="la">P.</lemma>] B; <foreign lang="la">L.</foreign> Mog.</p>
 <p><lemma lang="la">et Ti. Sempronium</lemma>] J. Perizonius; <foreign lang="la">et T. Sempronium</foreign> Mog.; fehlt in B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="25">
+<div type="chapter" n="25">
 <div3 type="section" n="1">
 <p><lemma lang="la">in</lemma> und <foreign lang="la">curulibus</foreign>] Mog.; fehlt in B.</p>
 <p><lemma lang="la">P.</lemma>] B; fehlt in Mog.</p>
@@ -981,9 +981,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="11">
 <p><lemma lang="la">cum duabus legionibus</lemma> getilgt nach Cr&eacute;v.</p>
 <p><lemma lang="la">videri</lemma>] B; <foreign lang="la">diuidere</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="26">
+<div type="chapter" n="26">
 <div3 type="section" n="1">
 <p><lemma lang="la">M'.</lemma>] Sig.; <foreign lang="la">m.</foreign> Mog. B.</p>
 </div3>
@@ -1002,9 +1002,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="6">
 <p><lemma lang="la">aut hi</lemma>] Wfsb.; <foreign lang="la">et hi</foreign> B, <foreign lang="la">hi</foreign> Mog.</p>
 <p><lemma lang="la">sine ullo</lemma>] B; <foreign lang="la">nullo</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="27">
+<div type="chapter" n="27">
 <div3 type="section" n="1">
 <p><lemma lang="la">ovans</lemma>] B; <foreign lang="la">ovans quum</foreign> Mog.</p>
 </div3>
@@ -1035,9 +1035,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <p><lemma lang="la">aliisque</lemma>] Mog.; <foreign lang="la">aliis</foreign> B.</p>
 <p><lemma lang="la">fuerant</lemma>] B; <foreign lang="la">fuerunt</foreign> Mog.</p>
 <p><lemma lang="la">ceperunt</lemma>] Mog.; <foreign lang="la">fecerunt</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="28">
+<div type="chapter" n="28">
 <div3 type="section" n="1">
 <p><lemma lang="la">Brachyllem</lemma>] s. zu 27, 8.</p>
 </div3>
@@ -1082,9 +1082,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="14">
 <p><lemma lang="la">Anthedonem</lemma>] B; <foreign lang="la">Atenor&ecirc;</foreign> Mog.</p>
 <p><lemma lang="la">aliisque</lemma>] B; <foreign lang="la">aliquae</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="29">
+<div type="chapter" n="29">
 <div3 type="section" n="3">
 <p><lemma lang="la">deducti</lemma>] B; <foreign lang="la">devecti deductique</foreign> Mog.</p>
 </div3>
@@ -1112,9 +1112,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="10">
 <p><lemma lang="la">completa essent</lemma>] B; <foreign lang="la">c&omacr;plessent</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="30">
+<div type="chapter" n="30">
 <div3 type="section" n="3">
 <p><lemma lang="la">deduceret et</lemma>] Kr.; <foreign lang="la">duceret ut</foreign> B; in Mog. fehlt <foreign lang="la">vacuasque . . ex.</foreign></p>
 </div3>
@@ -1126,19 +1126,19 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="11">
 <p><lemma lang="la">Lemnum</lemma>] B; <foreign lang="la">Paron</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="31">
+<div type="chapter" n="31">
 <div3 type="section" n="11">
 <p><lemma lang="la">Acrocorintho</lemma>] Fr. 2; <foreign lang="la">agro corinthio</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="32">
+<div type="chapter" n="32">
 <div3 type="section" n="4">
 <p><lemma lang="la">aream</lemma>] B; <foreign lang="la">arenam</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="33">
+<div type="chapter" n="33">
 <div3 type="section" n="2">
 <p><lemma lang="la">lemniscosque</lemma>] Fr. 1; <foreign lang="la">liminis quosq;</foreign> Mog., <foreign lang="la">lemnis quosque</foreign> B.</p>
 <pb id="p.7.1.192"/>
@@ -1149,9 +1149,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="3">
 <p><lemma lang="la">ex tam</lemma>] Ald.; <foreign lang="la">et tam</foreign> Mog., <foreign lang="la">exta</foreign> B.</p>
 <p><lemma lang="la">suppeditabant</lemma>] Ald.; <foreign lang="la">suppeditabant~</foreign> Mog., <foreign lang="la">suppeditabat</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="34">
+<div type="chapter" n="34">
 <div3 type="section" n="3">
 <p><lemma lang="la">neu quam</lemma>] Mg.; <foreign lang="la">ne umquam</foreign> B, in Mog. gr&ouml;fsere L&uuml;cke.</p>
 </div3>
@@ -1167,9 +1167,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="10">
 <p><lemma lang="la">regi</lemma>] Mog.; <foreign lang="la">regis</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="35">
+<div type="chapter" n="35">
 <div3 type="section" n="2">
 <p><lemma lang="la">L. Stertinius</lemma>] Fr. 2; <foreign lang="la">L. Thermus</foreign> Mog., <foreign lang="la">p. stertinius</foreign> B.</p>
 </div3>
@@ -1189,9 +1189,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="12">
 <p><lemma lang="la">in altercationem</lemma>] Sig.; <foreign lang="la">altercationem</foreign> Mog., <foreign lang="la">in altercatione</foreign> B.</p>
 <p><lemma lang="la">excederet</lemma>] Mog.; <foreign lang="la">cresceret</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="36">
+<div type="chapter" n="36">
 <div3 type="section" n="3">
 <p>L&uuml;cke angenommen und <foreign lang="la">alios</foreign> eingef&uuml;gt nach Mg.</p>
 </div3>
@@ -1206,14 +1206,14 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="13">
 <p><lemma lang="la">octoginta</lemma>] Kr.; <foreign lang="la">octingenta</foreign> B, <foreign lang="la">et quingenta</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="37">
+<div type="chapter" n="37">
 <div3 type="section" n="7">
 <p><lemma lang="la">destinato</lemma>] B; <foreign lang="la">destinati</foreign> Mog., <foreign lang="la">destinatis</foreign> Fr. 2.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="38">
+<div type="chapter" n="38">
 <div3 type="section" n="3">
 <p><lemma lang="la">aliae</lemma>] Fr. 1; <foreign lang="la">aliquae</foreign> Mog. B.</p>
 </div3>
@@ -1233,14 +1233,14 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="12">
 <p><lemma lang="la">omni cura</lemma>] Mog.; <foreign lang="la">omnia</foreign> B.</p>
 <p><lemma lang="la">muros</lemma>] B; <foreign lang="la">murosque</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="39">
+<div type="chapter" n="39">
 <div3 type="section" n="7">
 <p><lemma lang="la">quid?</lemma>] B; streicht Mg. mit Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="40">
+<div type="chapter" n="40">
 <div3 type="section" n="4">
 <p><lemma lang="la">ne ex</lemma>] Bk.; <foreign lang="la">nec ex</foreign> Mog. B.</p>
 </div3>
@@ -1251,9 +1251,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="6">
 <p><lemma lang="la">Chersonesus</lemma>] Kr.; <foreign lang="la">chersonesum</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="41">
+<div type="chapter" n="41">
 <div3 type="section" n="6">
 <p><lemma lang="la">Cyprum</lemma>] MB; <foreign lang="la">Cypri</foreign> Mog.</p>
 <p><lemma lang="la">petens</lemma>] B; <foreign lang="la">tendens</foreign> M, fehlt in Mog.</p>
@@ -1262,9 +1262,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 <div3 type="section" n="7">
 <p><lemma lang="la">multae fractae, mullae naves eiectae</lemma>] HJM. nach Jacobs (<foreign lang="la">multae fractae, multae eiectae naves</foreign>); <foreign lang="la">multae naves eiectae</foreign> Mog., <foreign lang="la">multae fractae multae naues</foreign> B.</p>
 <p><lemma lang="la">enaverit</lemma>] Mog.; <foreign lang="la">enaret</foreign> B; <foreign lang="la">enarit</foreign> vermutet Kr.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="42">
+<div type="chapter" n="42">
 <div3 type="section" n="1">
 <p><lemma lang="la">tresviri</lemma>] <foreign lang="la">III uiri</foreign> B; <foreign lang="la">triumviri</foreign> Mog. und so Mg.</p>
 </div3>
@@ -1279,9 +1279,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 <div3 type="section" n="10">
 <p><lemma lang="la">maximus</lemma> getilgt nach Drak.; Wfsb.2 sagt dazu: &lsquo;curio maximus war damals wahrscheinlich noch C. Mamilius Atellus (s. 27, 8, 3); Scribonius wurde es erst sp&auml;ter; s. 41, 21 8&rsquo;.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="43">
+<div type="chapter" n="43">
 <div3 type="section" n="7">
 <p><lemma lang="la">peditum</lemma> hinzugef&uuml;gt nach Fr. 1.</p>
 </div3>
@@ -1292,9 +1292,9 @@ in der Sache selbst zu finden sein werden. Wie es f&uuml;r den Herausgeber nicht
 
 in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 3, 2), so sind die Worte nicht richtig&rsquo;.</p>
 <p><lemma lang="la">Ti.</lemma>] Wfsb.; <foreign lang="la">t.</foreign> B, fehlt in Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="44">
+<div type="chapter" n="44">
 <div3 type="section" n="1">
 <p><lemma lang="la">iussi facere</lemma>] Baumgarten-Crusius; <foreign lang="la">iussu fecere</foreign> Mog., <foreign lang="la">iussit facere</foreign> B.</p>
 </div3>
@@ -1305,9 +1305,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="4">
 <p><lemma lang="la">hominibus quod Hispania movisset bellum neglegi</lemma>] M (doch <foreign lang="la">negligi</foreign>); <foreign lang="la">Minutium quod cum Hispania movisset bellum negligere</foreign> Mog., <foreign lang="la">hominibus quod cum Hispania mouisset bellum neglegerent</foreign> B; Wfsb.2 bemerkt zu der von ihm beibehaltenen La. des B: &lsquo;<foreign lang="la">bellum</foreign> scheint sowohl zu <foreign lang="la">movisset</foreign> als zu <foreign lang="la">neglegerent</foreign> zu geh&ouml;ren, da <foreign lang="la">movere</foreign> wohl von dem Aufbrechen des Heeres (s. 21, 32, 1; 33, 6, 3 u. a.), aber sonst selten absolut gebraucht wird; vgl. 5, 25, 6; 21, 38, 3; 40, 59, 7&rsquo;.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="45">
+<div type="chapter" n="45">
 <div3 type="section" n="4">
 <p><lemma lang="la">non ita</lemma>] B; <foreign lang="la">non tam</foreign> M, <foreign lang="la">non</foreign> Mog.</p>
 </div3>
@@ -1318,24 +1318,24 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="7">
 <p><lemma lang="la">otio situque</lemma>] M (Fr. 2); <foreign lang="la">otio tum</foreign> Mog., <foreign lang="la">otii situ</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="46">
+<div type="chapter" n="46">
 <div3 type="section" n="7">
 <p><lemma lang="la">neu</lemma>] Duk.; <foreign lang="la">ne</foreign> Mog. B.</p>
 </div3>
 
 <div3 type="section" n="8">
 <p><lemma lang="la">quo</lemma>] D. Heinsius: <foreign lang="la">quod</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="47">
+<div type="chapter" n="47">
 <div3 type="section" n="3">
 <p><lemma lang="la">ii</lemma>] Bk.; <foreign lang="la">isti</foreign> Mog., <foreign lang="la">iis</foreign> B.</p>
 <p><lemma lang="la">manubiis</lemma>] Mg.; <foreign lang="la">manibus</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="48">
+<div type="chapter" n="48">
 <div3 type="section" n="1">
 <p><lemma lang="la">Acyllam</lemma>] B; <foreign lang="la">ancillam</foreign> Mog.</p>
 </div3>
@@ -1354,9 +1354,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="9">
 <p><lemma lang="la">et</lemma> getilgt nach Wfsb.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="49">
+<div type="chapter" n="49">
 <div3 type="section" n="2">
 <p><lemma lang="la">eum antequam bellum</lemma>] Kr.; <foreign lang="la">ante quam bellum</foreign> Mog., <foreign lang="la">eum quam bellum ante quam</foreign> B.</p>
 <p><lemma lang="la">concisset</lemma>] Fr. 1; <foreign lang="la">conscisset</foreign> Mog. B.</p>
@@ -1364,9 +1364,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="6">
 <p><lemma lang="la">in Asiam</lemma>] Kr.; <foreign lang="la">in asia</foreign> B, fehlt in Mog.</p>
-</div3></div2></div1>
-<div1 type="book" n="34">
-<div2 type="chapter" n="1">
+</div3></div></div>
+<div type="book" n="34">
+<div type="chapter" n="1">
 <div3 type="section" n="3">
 <p><lemma lang="la">C. Oppius</lemma>] M; <foreign lang="la">m. oppius</foreign> B; (<foreign lang="la">tulerant eam</foreign>) <foreign lang="la">M. Oppius et T. Romuleius</foreign> (<foreign lang="la">tribuni plebis</foreign>) Mog. und j&uuml;ng. Hss. Vgl. die Periocha, wo alle Hss. <foreign lang="la">cn. oppius</foreign> haben.</p>
 <p><lemma lang="la">Ti.</lemma>] Sig.; <foreign lang="la">t.</foreign> MB.</p>
@@ -1383,9 +1383,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="7">
 <p><lemma lang="la">abrogabatur</lemma>] M; <foreign lang="la">abrogatur</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="2">
+<div type="chapter" n="2">
 <div3 type="section" n="2">
 <p><lemma lang="la">non continuimus</lemma>] Htz.; <foreign lang="la">non potuimus</foreign> B, <foreign lang="la">sustinere non potuimus</foreign> Mog.</p>
 </div3>
@@ -1419,9 +1419,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 <div3 type="section" n="14">
 <p><lemma lang="la">facietis</lemma>] B; <foreign lang="la">feceritis</foreign> M.</p>
 <p><lemma lang="la">iniuncta</lemma>] Gr.; <foreign lang="la">iniunctum</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="3">
+<div type="chapter" n="3">
 <div3 type="section" n="1">
 <p><lemma lang="la">recensete omnia</lemma>] Mog., j&uuml;ng. Hss.; <foreign lang="la">recens et ea omnia</foreign> B.</p>
 <p><lemma lang="la">vestri</lemma>] B; <foreign lang="la">nostri</foreign> Mog., j&uuml;ng. Hss.</p>
@@ -1438,9 +1438,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="8">
 <p><lemma lang="la">a</lemma>] M; fehlt in B und j&uuml;ng. Hss.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="4">
+<div type="chapter" n="4">
 <div3 type="section" n="7">
 <p><lemma lang="la">nostris</lemma>] Mog,; <foreign lang="la">uestris</foreign> B.</p>
 <p><lemma lang="la">sanciundi</lemma>] M; <foreign lang="la">sanciendi</foreign> B.</p>
@@ -1457,9 +1457,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 <div3 type="section" n="19">
 <p><lemma lang="la">Quirites</lemma>] Mog.; fehlt in B; vgl. &sect; 15.</p>
 <p><lemma lang="la">irritata . . emissa</lemma>] Gr.; <foreign lang="la">irritatae . . emissae</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="5">
+<div type="chapter" n="5">
 <div3 type="section" n="2">
 <p><lemma lang="la">necesse</lemma>] B; <foreign lang="la">necessum</foreign> M; hierzu bemerkt Wfsb.2: &lsquo;<foreign lang="la">necesse est</foreign> schreibt Liv. immer; nur hier und vielleicht auch 39, 5, 9 (nach Gelenius; Mog. hat hier <foreign lang="la">necessarium</foreign>) hat M das altert&uuml;mliche <foreign lang="la">necessum,</foreign> vielleicht von einem Grammatiker ge&auml;ndert.&rsquo;</p>
 </div3>
@@ -1471,9 +1471,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="12">
 <p><lemma lang="la">feminas</lemma>] B; <foreign lang="la">feminasque</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="6">
+<div type="chapter" n="6">
 <div3 type="section" n="4">
 <p><lemma lang="la">nisi quam</lemma>] M; <foreign lang="la">nisi</foreign> B.</p>
 </div3>
@@ -1502,9 +1502,9 @@ in Verbindung gesetzt wird, nicht mit Etrurien, aufser in anderer Weise (s. 35, 
 
 <div3 type="section" n="17">
 <p><lemma lang="la">aut decrevit</lemma>] M; <foreign lang="la">decreuit</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="7">
+<div type="chapter" n="7">
 <div3 type="section" n="1">
 <p><lemma lang="la">nostras</lemma>] Mog.; <foreign lang="la">uestras</foreign> B.</p>
 </div3>
@@ -1533,9 +1533,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="9">
 <p><lemma lang="la">nostri</lemma>] Mog.; <foreign lang="la">uestri</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="8">
+<div type="chapter" n="8">
 <div3 type="section" n="2">
 <p><lemma lang="la">Brutorum</lemma>] B; <foreign lang="la">tribunorum</foreign> M.</p>
 <p><lemma lang="la">obsederunt</lemma>] <foreign lang="la">obsiderunt</foreign> B, wozu Wfsb.2 28, 12, 15: <foreign lang="la">considerunt</foreign> vergleicht.</p>
@@ -1545,24 +1545,24 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="6">
 <p><lemma lang="la">edixerat</lemma>] M; <foreign lang="la">dixerat</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="9">
+<div type="chapter" n="9">
 <div3 type="section" n="4">
 <p><lemma lang="la">fera et bellicosa gente obiectis</lemma>] Mog.; <foreign lang="la">fera et bellicos agenti esse obiectis</foreign> B; <foreign lang="la">ferae et bellicosae genti obiectos</foreign> Fr. 2, und so lesen Wfsb.2 und Mg.</p>
 </div3>
 
 <div3 type="section" n="5">
 <p><lemma lang="la">semper</lemma>] M; fehlt in B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="10">
+<div type="chapter" n="10">
 <div3 type="section" n="1">
 <p><lemma lang="la">M.</lemma>] M; fehlt in B.</p>
 <p><lemma lang="la">occurrunt</lemma>] j&uuml;ng. Hss.; <foreign lang="la">accurrunt</foreign> B, <foreign lang="la">occurrerunt</foreign> Mg.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="11">
+<div type="chapter" n="11">
 <div3 type="section" n="2">
 <p><lemma lang="la">praesidium Romanus misisset</lemma>] Bk.; <foreign lang="la">praesidium Romanis missis et</foreign> B, <foreign lang="la">praesidium Romani mississent</foreign> j&uuml;ng. Hss., <foreign lang="la">praesidio Romanus miles esset</foreign> M.</p>
 </div3>
@@ -1574,18 +1574,18 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 <div3 type="section" n="5">
 <p><lemma lang="la">audierunt</lemma>] M; <foreign lang="la">audiverunt</foreign> B.</p>
 <p><lemma lang="la">orant</lemma>] M; <foreign lang="la">orantes</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="12">
+<div type="chapter" n="12">
 <div3 type="section" n="5">
 <p><lemma lang="la">respondet</lemma>] Siesbye; <foreign lang="la">respondit</foreign> MB.</p>
 </div3>
 
 <div3 type="section" n="6">
 <p><lemma lang="la">iussit</lemma> getilgt nach J. Perizonius.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="13">
+<div type="chapter" n="13">
 <div3 type="section" n="4">
 <p><lemma lang="la">satis ad hune modum</lemma>] Duk.; <foreign lang="la">satis admodum</foreign> Mog., j&uuml;ng. Hss., <foreign lang="la">admodum</foreign> B. Hierzu bemerkt Wfsb.2: &lsquo;<foreign lang="la">satis admodum</foreign> findet sich sonst nicht leicht, &uuml;berdies fehlt <foreign lang="la">satis</foreign> in B und ist wohl nur Glossem zu <foreign lang="la">admodum</foreign> = &lsquo;gen&uuml;gend, schon ziemlich&rsquo;; s. 1, 10, 1; doch ist auch dieses hier nicht recht passend&rsquo;.</p>
 </div3>
@@ -1604,9 +1604,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 <pb id="p.7.1.196"/>
 
 <p><lemma lang="la">addi</lemma>] Mg.; <foreign lang="la">addere</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="14">
+<div type="chapter" n="14">
 <div3 type="section" n="2">
 <p><lemma lang="la">et</lemma> hinzugef&uuml;gt nach Duk.</p>
 </div3>
@@ -1625,9 +1625,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="10">
 <p><lemma lang="la">a tergo</lemma>] M; <foreign lang="la">tergo</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="15">
+<div type="chapter" n="15">
 <div3 type="section" n="3">
 <p><lemma lang="la">revehitur</lemma>] B; <foreign lang="la">equo revehitur</foreign> M.</p>
 <p><lemma lang="la">proferri</lemma>] Seyffert (<foreign lang="la">proferre</foreign>); <foreign lang="la">prae se ferri</foreign> Mog. B; Wfsb. 2. bemerkt zu der letzten La.: &rsquo;<foreign lang="la">prae se</foreign> ist auf Cato zu beziehen, so dafs er an der Spitze der Legionen folgt; gew&ouml;hnlich sagt Liv. <foreign lang="la">signa ferri</foreign> oder <foreign lang="la">inferri</foreign>; allein hier, wo &uuml;berall das Eingreifen des Konsuls hervorgehoben wird (vgl. Appian: <foreign lang="greek">προκινδυνεύων</foreign>), konnte er wohl auch <foreign lang="la">prae se</foreign> hinzuf&uuml;gen; vgl. 52, 2; 1, 7, 4: <foreign lang="la">prae se agens</foreign>; 28, 38, 5: <foreign lang="la">prae se tulit in acrarium&rsquo;</foreign>.</p>
@@ -1645,9 +1645,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 <div3 type="section" n="7">
 <p><lemma lang="la">ipsi castris exuti</lemma>] Mog.; <foreign lang="la">ipsis castris exuti</foreign> Fr. 2; <foreign lang="la">ipsi exsutis</foreign> B.</p>
 <p>16, 1&mdash;2 <foreign lang="la">tria . . iussit</foreign>] tilgt Wfsb.2 und bemerkt dazu: &rsquo;Die Worte finden sich nur in M; sie st&ouml;ren den Zusammenhang, da &sect; 3 noch zu der Schilderung des Tages geh&ouml;rt, sie wiederholen nur das, was schon in der Darstellung der Schlacht als das Bedeutende hervorgehoben ist, und enthalten in <foreign lang="la">procul navibus</foreign> eine bei Appian, aber nicht bei Livius, sich findende, in <foreign lang="la">ad portam</foreign> eine ungenaue Angabe, in <foreign lang="la">spem nisi</foreign> eine nicht lateinische Ausdrucksweise; s. Hand Turs. 4, 253. Schwerlich l&auml;fst sich annehmen, dafs die Stelle, welche wirklich lobenswerte Anordnungen des Konsuls enth&auml;lt, beweisen solle, dafs Cato <foreign lang="la">haud sane detrectator laudum suarum</foreign> sei, es h&auml;tte dann wenigstens bemerkt werden m&uuml;ssen, dafs er selbst dies lobend erw&auml;hnt habe; ebenso wenig, dafs Livius, wenn er, wie der Gegensatz zu Valerius Antias und der Gebrauch der seltenen Worte &sect; 4 und 14, 11 zeigt, die Schlacht aus den Origines des Cato entlehnt hat, zuletzt zuf&auml;llig in dieselben geblickt habe, um eine daher entlehnte Bemerkung an unpassendem Platze einzuschieben.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="16">
+<div type="chapter" n="16">
 <div3 type="section" n="1">
 <p><lemma lang="la">nusquam</lemma> hinzugef&uuml;gt nach Ussing.</p>
 </div3>
@@ -1668,9 +1668,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 <div3 type="section" n="9">
 <p><lemma lang="la">eos educto</lemma>] Gr.; <foreign lang="la">eo deducto</foreign> M, <foreign lang="la">eos deducto</foreign> B.</p>
 <p><lemma lang="la">redegit</lemma>] j&uuml;ng. Hss.; <foreign lang="la">redigit</foreign> M, <foreign lang="la">redegat</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="17">
+<div type="chapter" n="17">
 <div3 type="section" n="6">
 <p><lemma lang="la">genus</lemma>] M; <foreign lang="la">gens</foreign> B.</p>
 </div3>
@@ -1681,14 +1681,14 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="11">
 <p><lemma lang="la">omnium</lemma>] M; <foreign lang="la">omnibus</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="18">
+<div type="chapter" n="18">
 <div3 type="section" n="1">
 <p><lemma lang="la">primi venerant</lemma>] B; <foreign lang="la">primo uenerunt</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="19">
+<div type="chapter" n="19">
 <div3 type="section" n="2">
 <p><lemma lang="la">facere . . abire</lemma>] M; <foreign lang="la">faciebant . . abibant</foreign> B.</p>
 </div3>
@@ -1702,9 +1702,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 <p><lemma lang="la">regressus</lemma>] M; <foreign lang="la">progressus</foreign> B.</p>
 <pb id="p.7.1.197"/>
 
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="20">
+<div type="chapter" n="20">
 <div3 type="section" n="2">
 <p><lemma lang="la">esset</lemma>] Mg.; <foreign lang="la">est</foreign> MB.</p>
 </div3>
@@ -1715,9 +1715,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="7">
 <p><lemma lang="la">tulere</lemma>] M; <foreign lang="la">tulerunt</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="21">
+<div type="chapter" n="21">
 <div3 type="section" n="1">
 <p><lemma lang="la">Bergium</lemma>] Htz.; <foreign lang="la">uergium</foreign> MB.</p>
 </div3>
@@ -1732,9 +1732,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="8">
 <p><lemma lang="la">in Hispania</lemma>] M; fehlt in B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="22">
+<div type="chapter" n="22">
 <div3 type="section" n="1">
 <p><lemma lang="la">L.</lemma>] M; fehlt in B.</p>
 </div3>
@@ -1749,9 +1749,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="6">
 <p><lemma lang="la">uti ne</lemma>] Kr.; <foreign lang="la">ut in ea</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="23">
+<div type="chapter" n="23">
 <div3 type="section" n="2">
 <p><lemma lang="la">auxilium</lemma> getilgt nach J. H. Vofs.</p>
 </div3>
@@ -1762,15 +1762,15 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="8">
 <p><lemma lang="la">sint</lemma>] j&uuml;ng. Hss. (Mead. 2); <foreign lang="la">sunt</foreign> MB.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="24">
+<div type="chapter" n="24">
 <div3 type="section" n="4">
 <p><lemma lang="la">ut et ab</lemma>] Mog.; <foreign lang="la">et ab</foreign> B.</p>
 <p><lemma lang="la">pacata haec</lemma>] Mog.; <foreign lang="la">pacata</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="25">
+<div type="chapter" n="25">
 <div3 type="section" n="5">
 <p><lemma lang="la">aut opportuna</lemma>] M; <foreign lang="la">oportuna</foreign> B.</p>
 </div3>
@@ -1785,9 +1785,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="12">
 <p><lemma lang="la">multi</lemma> hinzugef&uuml;gt nach Ascensius.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="26">
+<div type="chapter" n="26">
 <div3 type="section" n="5">
 <p><lemma lang="la">ordiendum bellum</lemma>] Fr. 2; <foreign lang="la">ordiundi bellum</foreign> M, <foreign lang="la">ordiendi belli</foreign> B. Hierzu bemerkt Wfsb.2: &rsquo;Die La. ist unsicher; <foreign lang="la">ordiendi belli</foreign> k&ouml;nnte etwa als Epexegese zu dem in <foreign lang="la">eadem</foreign> angedeuteten Begriffe (vgl. 26, 19, 8; Cic. Br. 258; Vell. 2, 128, 1; Quint. 12, 9, 7; Tac. Ann. 2, 47; 3, 63; 4, 2) und deshalb als Gen. obi. genommen werden; s. Caes. BG. 7, 76, 2: <foreign lang="la">universae Galliae consensio libertatis vindicandae;</foreign> Tac. Ann. 15, 5: <foreign lang="la">Vologesi vetus et infixum erat Romana arma vitandi</foreign>; ebd. 21 u. a. Auch sonst finden sich Begriffe, die gew&ouml;hnlich absolut stehen, bisweilen mit einem Gen. obi., besonders des Gerundiums, verbunden; s. Cic. in Verr. 2, 167: <foreign lang="la">eripiunt tibi orationem contemnendorum Siculorum</foreign> = <foreign lang="la">de contemnendis Siculis</foreign>; p. Sest. 72: <foreign lang="la">dissensio reipublicae</foreign>; Liv. 8, 20, 12; 21, 56, 5; 31, 15, 4; vgl. 35, 49, 13.&rsquo;</p>
 </div3>
@@ -1803,9 +1803,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 
 <div3 type="section" n="14">
 <p><lemma lang="la">Lacedaemone</lemma>] B; <foreign lang="la">Lacedaemonium</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="27">
+<div type="chapter" n="27">
 <div3 type="section" n="1">
 <p><lemma lang="la">belli</lemma>] M; <foreign lang="la">bellum</foreign> B.</p>
 <p><lemma lang="la">vere vires . . aestimanti</lemma>] Wfsb.; <foreign lang="la">uere . . aestimanti uires</foreign> M, <foreign lang="la">uires . . aestimanti</foreign> (ohne <foreign lang="la">uere</foreign>) B.</p>
@@ -1824,9 +1824,9 @@ und den j&uuml;ng. Hss. Wfsb.2 tilgt die Worte nach Marquardt und bemerkt dazu: 
 <div3 type="section" n="8">
 <p><lemma lang="la">citari</lemma>] Mog.; fehlt in B.</p>
 <p><lemma lang="la">nocte . . interfecti</lemma>] B; <foreign lang="la">et nocte interfecit</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="28">
+<div type="chapter" n="28">
 <div3 type="section" n="3">
 <p><lemma lang="la">velut</lemma>] B; <foreign lang="la">ueluti</foreign> M.</p>
 </div3>
@@ -1848,9 +1848,9 @@ werden = <foreign lang="la">quae spem salutis fallit</foreign>, da das Wort in d
 
 <div3 type="section" n="12">
 <p><lemma lang="la">porta</lemma>] M; <foreign lang="la">port&amacr;</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="29">
+<div type="chapter" n="29">
 <div3 type="section" n="1">
 <p><lemma lang="la">eodem fere</lemma>] M; <foreign lang="la">eodem</foreign> B.</p>
 </div3>
@@ -1878,9 +1878,9 @@ werden = <foreign lang="la">quae spem salutis fallit</foreign>, da das Wort in d
 
 <div3 type="section" n="13">
 <p><lemma lang="la">tradidit</lemma>] M und j&uuml;ng. Hss.; <foreign lang="la">tradit</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="30">
+<div type="chapter" n="30">
 <div3 type="section" n="2">
 <p><lemma lang="la">et</lemma> hinzugef&uuml;gt nach Drak.</p>
 <p><lemma lang="la">hostilibus</lemma>] Gr.; <foreign lang="la">hostibus</foreign> Mog. B. Wfsb.2 bemerkt hierzu: &rsquo;<foreign lang="la">omnibus circa hostibus</foreign> w&auml;re sehr hart im Sinne von <foreign lang="la">quod omnes circa hostes erant</foreign> und ist, da &auml;hnliche Stellen (s. 2, 9, 6; 5, 34, 9) nicht minder zweifelhaft sind, wahrscheinlich l&uuml;ckenhaft. Vielleicht hat Liv. <foreign lang="la">esse, cum . . omnibus circa &lt;obsessis ab&gt; hostibus,</foreign> dann <foreign lang="la">a mari . . interclusum &lt;cernens&gt;, cedendum . . </foreign> geschrieben&rsquo;.</p>
@@ -1889,9 +1889,9 @@ werden = <foreign lang="la">quae spem salutis fallit</foreign>, da das Wort in d
 <div3 type="section" n="7">
 <p><lemma lang="la">Sosila</lemma>] ed. vet.; <foreign lang="la">sosiliao</foreign> M, <foreign lang="la">sosilia</foreign> B.</p>
 <p><lemma lang="la">Achaeorum praetore</lemma>] M; <foreign lang="la">achaeo</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="31">
+<div type="chapter" n="31">
 <div3 type="section" n="1">
 <p><lemma lang="la">ut</lemma> getilgt nach Duk.</p>
 </div3>
@@ -1940,9 +1940,9 @@ werden = <foreign lang="la">quae spem salutis fallit</foreign>, da das Wort in d
 <div3 type="section" n="19">
 <p><lemma lang="la">me ipse</lemma>] M; <foreign lang="la">met ipse</foreign> B.</p>
 <p><lemma lang="la">patria sermonis brevitate</lemma>] Mg.; <foreign lang="la">patriae sermone brevitatis</foreign> Mog., <foreign lang="la">patrio sermone brevitatis</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="32">
+<div type="chapter" n="32">
 <div3 type="section" n="3">
 <p><lemma lang="la">nos</lemma>] HJM; <foreign lang="la">eos</foreign> MB; Wfsb.2 sagt hierzu: &rsquo;Der &Uuml;bergang in die erste Person in dem Relativsatze (<foreign lang="la">gereremus</foreign>), der sich an die dritte (<foreign lang="la">eos</foreign>) anschliefst, ist ungew&ouml;hnlich; nur &auml;hnlich ist Cic. ad fam. 12, 14, 7: <foreign lang="la">omnia is feci, qui sodalis . . Dolabellae eram</foreign> oder Liv. 32, 21, 15: <foreign lang="la">Achaei . . sustinebimus</foreign> (wo <foreign lang="la">Achaei</foreign> nur Apposition zu dem im Pr&auml;dikate liegenden <foreign lang="la">nos</foreign> ist) u. a.; vgl. &sect; 13.&rsquo;</p>
 <p><lemma lang="la">tam saevo</lemma> hinzugef&uuml;gt nach HJM.</p>
@@ -1966,9 +1966,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="18">
 <p><lemma lang="la">ut</lemma> hinzugef&uuml;gt nach Duk.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="33">
+<div type="chapter" n="33">
 <div3 type="section" n="3">
 <p><lemma lang="la">redditurum</lemma>] Mog.; <foreign lang="la">reddit tria</foreign>  B.</p>
 </div3>
@@ -1995,9 +1995,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="14">
 <p><lemma lang="la">inchoata</lemma>] B; <foreign lang="la">inchoati</foreign>] Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="34">
+<div type="chapter" n="34">
 <div3 type="section" n="2">
 <p><lemma lang="la">illud modo ne fallat</lemma>] Mg.; <foreign lang="la">illud modo ne fallat caeterum</foreign> Mog., <foreign lang="la">ceterum</foreign> B; Wfsb.2 bemerkt hierzu: &rsquo;Schwerlich l&auml;fst sich bei der La. der Mog. mit Gr. <foreign lang="la">illud ceterum</foreign> verbinden, wie 1, 29, 3: <foreign lang="la">ultimum illud</foreign>; wahrscheinlich sind die Worte, die dem Sinne nach dasselbe sagen wie im folgenden <foreign lang="la">hoc ita . . animis</foreign>, unech.&rsquo;</p>
 </div3>
@@ -2013,9 +2013,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="9">
 <p><lemma lang="la">faceret</lemma>] B; <foreign lang="la">facere</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="35">
+<div type="chapter" n="35">
 <div3 type="section" n="2">
 <p><lemma lang="la">ex</lemma> getilgt mit Duk. nach zwei j&uuml;ng. Hss.</p>
 </div3>
@@ -2034,9 +2034,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="10">
 <p><lemma lang="la">quasque</lemma>] Bk.; <foreign lang="la">quasque et</foreign> Mog. B; <foreign lang="la">quas et</foreign> j&uuml;ng. Hss., <foreign lang="la">quas</foreign> Fr. 2.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="36">
+<div type="chapter" n="36">
 <div3 type="section" n="2">
 <p><lemma lang="la">offendebat</lemma>] B; <foreign lang="la">offenderat</foreign> M.</p>
 </div3>
@@ -2052,9 +2052,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 <div3 type="section" n="7">
 <p><lemma lang="la">nullum</lemma>] B; <foreign lang="la">nullum esse</foreign> Mog.</p>
 <p><lemma lang="la">tyrannis</lemma>[ M; <foreign lang="la">tyranno</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="37">
+<div type="chapter" n="37">
 <div3 type="section" n="1">
 <p><lemma lang="la">in circulis</lemma>] Mog.; <foreign lang="la">circulos</foreign> B.</p>
 </div3>
@@ -2065,9 +2065,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="6">
 <p><lemma lang="la">et Romanis</lemma>] j&uuml;ng. Hss.; <foreign lang="la">qui et Romanis</foreign> B, <foreign lang="la">Romanis</foreign> Ascensius Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="38">
+<div type="chapter" n="38">
 <div3 type="section" n="2">
 <p><lemma lang="la">planisque</lemma>] Mog.; <foreign lang="la">planis</foreign> B.</p>
 </div3>
@@ -2086,9 +2086,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="6">
 <p><lemma lang="la">laboraret</lemma>] M; <foreign lang="la">laborabat</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="39">
+<div type="chapter" n="39">
 <div3 type="section" n="7">
 <p><lemma lang="la">hostem</lemma>] M; <foreign lang="la">hostes</foreign> B.</p>
 </div3>
@@ -2099,9 +2099,9 @@ MB; Wfsb.2 bemerkt hierzu: &rsquo;Ungew&ouml;hnlich ist bei der La. <foreign lan
 
 <div3 type="section" n="9">
 <p><lemma lang="la">tum</lemma>] Mog.; <foreign lang="la">tunc</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="40">
+<div type="chapter" n="40">
 <div3 type="section" n="4">
 <p><lemma lang="la">proficeret</lemma>] Lov. 5; <foreign lang="la">proficerent</foreign> Mog. B; letzteres hat Wfsb.
 <pb id="p.7.1.200"/>
@@ -2116,9 +2116,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="7">
 <p><lemma lang="la">emiserunt</lemma>] Mog. B; <foreign lang="la">emiserant</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="41">
+<div type="chapter" n="41">
 <div3 type="section" n="4">
 <p><lemma lang="la">tyrannus</lemma>] B, Fr. 2; <foreign lang="la">tyranni</foreign> Mog.; <foreign lang="la">tyrannis</foreign> J. Perizonius.</p>
 <p><lemma lang="la">praebebant</lemma>] B, Fr. 2; <foreign lang="la">praebebat</foreign> Mog.</p>
@@ -2134,9 +2134,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="9">
 <p><lemma lang="la">quia</lemma>] B; <foreign lang="la">quum</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="42">
+<div type="chapter" n="42">
 <div3 type="section" n="3">
 <p><lemma lang="la">Ti.</lemma>] Sig.; <foreign lang="la">t.</foreign> MB. Ebenso 43, 1. 44, 3.</p>
 <p><lemma lang="la">fuerant</lemma>] B; <foreign lang="la">fuerunt</foreign> M.</p>
@@ -2144,9 +2144,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="4">
 <p><lemma lang="la">Thalna</lemma>] Sig.; <foreign lang="la">talua</foreign> M, <foreign lang="la">halna</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="43">
+<div type="chapter" n="43">
 <div3 type="section" n="5">
 <p><lemma lang="la">facturum</lemma>] B; <foreign lang="la">facturum esse</foreign> M.</p>
 <p><lemma lang="la">dubii</lemma>] Gr.; <foreign lang="la">dubie</foreign> Mog. B. Vgl. Wfsb. zu 2, 36, 6.</p>
@@ -2154,9 +2154,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="9">
 <p><lemma lang="la">censuisset</lemma>] M; <foreign lang="la">uoluisset</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="44">
+<div type="chapter" n="44">
 <div3 type="section" n="3">
 <p><lemma lang="la">pridie kal.</lemma>] M; <foreign lang="la">id.</foreign> B.</p>
 </div3>
@@ -2176,9 +2176,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="8">
 <p><lemma lang="la">consciorum</lemma>] j&uuml;ng. Hss.; <foreign lang="la">sociorum</foreign> M, <foreign lang="la">consociorum</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="45">
+<div type="chapter" n="45">
 <div3 type="section" n="4">
 <p><lemma lang="la">habebant</lemma>] B; <foreign lang="la">habuerunt</foreign> M.</p>
 </div3>
@@ -2189,9 +2189,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="7">
 <p><lemma lang="la">Nare amni</lemma>] J. Gr.; <foreign lang="la">narie &amacr;ni</foreign> oder <foreign lang="la">n&amacr;te amni</foreign> oder <foreign lang="la">narre amni</foreign> oder <foreign lang="la">narte amni</foreign> j&uuml;ng. Hss., <foreign lang="la">Interamne</foreign> Mog., <foreign lang="la">anni</foreign> mit L&uuml;cke davor B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="46">
+<div type="chapter" n="46">
 <div3 type="section" n="1">
 <p><lemma lang="la">Flaccus</lemma>] M; fehlt in B.</p>
 </div3>
@@ -2218,9 +2218,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="13">
 <p><lemma lang="la">eiecere</lemma>] Mog.; <foreign lang="la">eiecerunt</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="47">
+<div type="chapter" n="47">
 <div3 type="section" n="6">
 <p><lemma lang="la">perstitit ad vallum</lemma>] B; <foreign lang="la">circa uallum morata est</foreign> M.</p>
 </div3>
@@ -2228,9 +2228,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 <div3 type="section" n="7">
 <p><lemma lang="la">universi</lemma>] B; <foreign lang="la">diuersi</foreign> M.</p>
 <p><lemma lang="la">quae</lemma>] M; <foreign lang="la">qui</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="48">
+<div type="chapter" n="48">
 <div3 type="section" n="1">
 <p><lemma lang="la">Ligurumque</lemma>] M; fehlt in B.</p>
 </div3>
@@ -2243,9 +2243,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="6">
 <p><lemma lang="la">haerentem . . civitatis</lemma>] M; fehlt in B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="49">
+<div type="chapter" n="49">
 <div3 type="section" n="2">
 <p><lemma lang="la">gravissimae</lemma>] j&uuml;ng. Hss.; <foreign lang="la">gravissima</foreign> Mog. B.</p>
 </div3>
@@ -2267,9 +2267,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="11">
 <p><lemma lang="la">ac</lemma>] Mog.; <foreign lang="la">hinc</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="50">
+<div type="chapter" n="50">
 <div3 type="section" n="4">
 <p><lemma lang="la">tam necessario</lemma>] M, Harl.; <foreign lang="la">ac necessario</foreign> B.</p>
 </div3>
@@ -2281,18 +2281,18 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="8">
 <p><lemma lang="la">Acrocorintho</lemma>] Fr. 2; <foreign lang="la">agro corinthio</foreign> M, <foreign lang="la">corintho</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="51">
+<div type="chapter" n="51">
 <div3 type="section" n="2">
 <p><lemma lang="la">admonitosque</lemma>] B; <foreign lang="la">commonitosque</foreign> M.</p>
 </div3>
 
 <div3 type="section" n="5">
 <p><lemma lang="la">vitiis</lemma>] Ascensius; <foreign lang="la">diuitiis</foreign> Mog. B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="52">
+<div type="chapter" n="52">
 <div3 type="section" n="5">
 <p><lemma lang="la">quadraginta tria milia</lemma>] Mg. nach Plut. Flam. 14; <foreign lang="la">decem et octo</foreign> Mog., <foreign lang="la">X et octo</foreign> B.</p>
 </div3>
@@ -2304,9 +2304,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 <div3 type="section" n="10">
 <p><lemma lang="la">ut exercitu</lemma> Bk. nach Fr. 2; <foreign lang="la">exercitu</foreign> Mog.; <foreign lang="la">in exercitu</foreign> B.</p>
 <p><lemma lang="la">deportato</lemma>] M; <foreign lang="la">reportato</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="53">
+<div type="chapter" n="53">
 <div3 type="section" n="2">
 <p><lemma lang="la">Q. Aelius</lemma>] Sig.; <foreign lang="la">P. Aemylius</foreign> Mog., <foreign lang="la">p. aemilius</foreign> B, <foreign lang="la">P. Aelius</foreign> Fr. 2.</p>
 </div3>
@@ -2321,9 +2321,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="7">
 <p><lemma lang="la">acta</lemma>] M; fehlt in B; der ganze Ausdruck <foreign lang="la">haec . . acta</foreign> ist vielleicht zu tilgen nach v. Boltenstern.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="54">
+<div type="chapter" n="54">
 <div3 type="section" n="1">
 <p><lemma lang="la">venit</lemma>] M; <foreign lang="la">rediit</foreign> B; vgl. 38, 44, 1.</p>
 </div3>
@@ -2344,23 +2344,23 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 <p><lemma lang="la">quinquagesimum</lemma> hinzugef&uuml;gt nach Glar.</p>
 <p><lemma lang="la">in promiscuo</lemma>] M; <foreign lang="la">in promiscuum</foreign> Mog., fehlt in B.</p>
 <p><lemma lang="la">factum</lemma>] B; <foreign lang="la">factum sit</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="55">
+<div type="chapter" n="55">
 <div3 type="section" n="6">
 <p><lemma lang="la">sortiti</lemma>] B; <foreign lang="la">sortiti sunt</foreign> Mog.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="56">
+<div type="chapter" n="56">
 <div3 type="section" n="1">
 <p><lemma lang="la">is</lemma>] M; fehlt in B.</p>
 </div3>
 
 <div3 type="section" n="3">
 <p><lemma lang="la">senatus</lemma>] B; <foreign lang="la">patrum</foreign> M.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="57">
+<div type="chapter" n="57">
 <div3 type="section" n="5">
 <p><lemma lang="la">T.</lemma>] M; fehlt in B.</p>
 </div3>
@@ -2379,9 +2379,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="10">
 <p><lemma lang="la">quas</lemma>] Mog.; <foreign lang="la">quasdam</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="58">
+<div type="chapter" n="58">
 <div3 type="section" n="5">
 <p><lemma lang="la">cum</lemma> hinzugef&uuml;gt nach Mg.</p>
 <p><lemma lang="la">possessa partim</lemma>] M; <foreign lang="la">partim possessa</foreign> B.</p>
@@ -2394,18 +2394,18 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 
 <div3 type="section" n="12">
 <p><lemma lang="la">Asiae urbes, quae Graii nominis sint</lemma>] M; <foreign lang="la">Graecas Asiae urbes</foreign> Mog. B, <foreign lang="la">Graecas et Asiae urbes</foreign> j&uuml;ng. Hss.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="59">
+<div type="chapter" n="59">
 <div3 type="section" n="4">
 <p><lemma lang="la">quali</lemma>] B; <foreign lang="la">qualique</foreign> M.</p>
 </div3>
 
 <div3 type="section" n="5">
 <p><lemma lang="la">Europa</lemma>] ed. vet.; <foreign lang="la">ab europa</foreign> MB.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="61">
+<div type="chapter" n="61">
 <div3 type="section" n="2">
 <p><lemma lang="la">expertusque</lemma>] Fr. 2; <foreign lang="la">expertus</foreign> Mog., <foreign lang="la">exercitusque</foreign> B.</p>
 </div3>
@@ -2435,9 +2435,9 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 <div3 type="section" n="16">
 <p><lemma lang="la">et senatum</lemma>] B; <foreign lang="la">et ad senatum</foreign> M.</p>
 <p><lemma lang="la">deferrent</lemma>] M; <foreign lang="la">referrent</foreign> B.</p>
-</div3></div2>
+</div3></div>
 
-<div2 type="chapter" n="62">
+<div type="chapter" n="62">
 <div3 type="section" n="1">
 <p><lemma lang="la">sensit</lemma> hinzugef&uuml;gt nach Fr. 2.</p>
 <p><lemma lang="la">senatui</lemma>] B; <foreign lang="la">sensit</foreign> Mog.</p>
@@ -2459,5 +2459,5 @@ ind bemerkt dazu: &rsquo;<foreign lang="la">ea</foreign> der Inhalt der Rede, da
 </div3>
 
 <div3 type="section" n="16">
-<p><lemma lang="la">omnia suspensa</lemma>] Bk.; <foreign lang="la">suspensa omnia</foreign> Mog., <foreign lang="la">omnia ipensa</foreign> B.</p></div3></div2></div1>
+<p><lemma lang="la">omnia suspensa</lemma>] Bk.; <foreign lang="la">suspensa omnia</foreign> Mog., <foreign lang="la">omnia ipensa</foreign> B.</p></div3></div></div>
 </body></text></TEI.2>

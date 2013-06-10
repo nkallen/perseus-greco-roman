@@ -91,8 +91,8 @@ Added to repository.
 
 <text><body>
 
-<div1 type="Book" n="1">
-<div2 type="Poem" n="1" met="abba">
+<div type="book" n="1">
+<div type="poem" n="1" met="abba">
 <lg type="stanza"><l>Maecenas, born of monarch ancestors,</l>
 <l>The shield at once and glory of my life!</l>
 <l>There are who joy them in the Olympic strife</l>
@@ -128,8 +128,8 @@ Added to repository.
 <lg><l>Fail not the flute, nor Polyhymnia fly</l>
 <l>Averse from stringing new the Lesbian lyre.</l>
 <l>O, write my name among that minstrel choir,</l>
-<l>And my proud head shall strike upon the sky!</l></lg></div2>
-<div2 type="Poem" n="2" met="aaab">
+<l>And my proud head shall strike upon the sky!</l></lg></div>
+<div type="poem" n="2" met="aaab">
 <lg><l>Enough of snow and hail at last</l>
 <l>The sire has sent in vengeance down:</l>
 <l>His bolts, at his own temple cast,</l>
@@ -181,8 +181,8 @@ Added to repository.
 <lg><l>Here take our homage, Chief and Sire;</l>
 <l>Here wreathe with bay thy conquering brow,</l>
 <l>And bid the prancing <placeName key="tgn,1045322">Mede</placeName> retire,</l>
-<l>Our Caesar thou!</l></lg></div2>
-<div2 type="Poem" n="3" met="ab">
+<l>Our Caesar thou!</l></lg></div>
+<div type="poem" n="3" met="ab">
 <lg><l>Thus may <placeName key="tgn,1000112">Cyprus</placeName>' heavenly queen,</l>
 <l>Thus Helen's brethren, stars of brightest sheen,</l>
 <l>Guide thee!  May the sire of wind</l>
@@ -222,8 +222,8 @@ Added to repository.
 <l>Nought is there for man too high;</l>
 <l>Our impious folly e'en would climb the sky,</l>
 <l>Braves the dweller on the steep,</l>
-<l>Nor lets the bolts of heavenly vengeance sleep.</l></lg></div2>
-<div2 type="Poem" n="4" met="ab">
+<l>Nor lets the bolts of heavenly vengeance sleep.</l></lg></div>
+<div type="poem" n="4" met="ab">
 <lg><l>The touch of Zephyr and of Spring has loosen'd Winter's thrall;</l>
 <l>The well-dried keels are wheel'd again to sea:</l>
 <l>The ploughman cares not for his fire, nor cattle for their stall,</l>
@@ -243,8 +243,8 @@ Added to repository.
 <l>The void of the Plutonian hall, where soon as e'er you go,</l>
 <l>No more for you shall leap the auspicious die</l>
 <l>To seat you on the throne of wine; no more your breast shall glow</l>
-<l>For Lycidas, the star of every eye.</l></lg></div2>
-<div2 type="Poem" n="5" met="aaab">
+<l>For Lycidas, the star of every eye.</l></lg></div>
+<div type="poem" n="5" met="aaab">
 <lg><l>What slender youth, besprinkled with perfume,</l>
 <l>Courts you on roses in some grotto's shade?</l>
 <l>Fair <placeName key="perseus,Pyrrha">Pyrrha</placeName>, say, for whom</l>
@@ -260,8 +260,8 @@ Added to repository.
 <lg><l>Woe to the eyes you dazzle without cloud</l>
 <l>Untried! For me, they show in yonder fane</l>
 <l>My dripping garments, vow'd</l>
-<l>To Him who curbs the main.</l></lg></div2>
-<div2 type="Poem" n="6" met="aaab">
+<l>To Him who curbs the main.</l></lg></div>
+<div type="poem" n="6" met="aaab">
 <lg><l>Not I, but Varius:&mdash;he, of Homer's brood</l>
 <l>A tuneful swan, shall bear you on his wing,</l>
 <l>Your tale of trophies, won by field or flood,</l>
@@ -281,8 +281,8 @@ Added to repository.
 <lg><l>Feasts are my theme, my warriors maidens fair,</l>
 <l>Who with pared nails encounter youths in fight;</l>
 <l>Be Fancy free or caught in Cupid's snare,</l>
-<l>Her temper still is light.</l></lg></div2>
-<div2 type="Poem" n="7" met="ab">
+<l>Her temper still is light.</l></lg></div>
+<div type="poem" n="7" met="ab">
 <lg><l>Let others <placeName key="tgn,2616128">Rhodes</placeName> or <placeName key="tgn,7002672">Mytilene</placeName> sing,</l>
 <l>Or <placeName key="tgn,7002499">Ephesus</placeName>, or <placeName key="tgn,7010734">Corinth</placeName>, set between</l>
 <l>Two seas, or <placeName key="perseus,Thebes">Thebes</placeName>, or <placeName key="perseus,Delphi">Delphi</placeName>, for its king</l>
@@ -314,8 +314,8 @@ Added to repository.
 <l>Another <placeName key="tgn,7002340">Salamis</placeName> in kindlier air</l>
 <l>Shall yet arise.  Hearts, that have borne with me</l>
 <l>Worse buffets! drown today in wine your care;</l>
-<l>To-morrow we recross the wide, wide sea!&rdquo;</l></lg></div2>
-<div2 type="Poem" n="8" met="ab">
+<l>To-morrow we recross the wide, wide sea!&rdquo;</l></lg></div>
+<div type="poem" n="8" met="ab">
 <lg><l><placeName key="tgn,7016631">Lydia</placeName>, by all above,</l>
 <l>Why bear so hard on <placeName key="perseus,Sybaris">Sybaris</placeName>, to ruin him with love?</l>
 <l>What change has made him shun</l>
@@ -332,8 +332,8 @@ Added to repository.
 <l>Did Thetis' son before the dawn of <placeName key="tgn,7002329">Ilion</placeName>'s fatal day,</l>
 <l>For fear the manly dress</l>
 <l>Should fling him into danger's arms, amid the</l>
-<l>Lycian press?</l></lg></div2>
-<div2 type="Poem" n="9" met="ab">
+<l>Lycian press?</l></lg></div>
+<div type="poem" n="9" met="ab">
 <lg><l>See, how it stands, one pile of snow,</l>
 <l>Soracte! 'neath the pressure yield</l>
 <l>Its groaning woods; the torrents' flow</l>
@@ -357,8 +357,8 @@ Added to repository.
 <l>Sweet too the laugh, whose feign'd alarm</l>
 <l>The hiding-place of beauty tells,</l>
 <l>The token, ravish'd from the arm</l>
-<l>Or finger, that but ill rebels.</l></lg></div2>
-<div2 type="Poem" n="10" met="aaab">
+<l>Or finger, that but ill rebels.</l></lg></div>
+<div type="poem" n="10" met="aaab">
 <lg><l>Grandson of Atlas, wise of tongue,</l>
 <l>O Mercury, whose wit could tame</l>
 <l>Man's savage youth by power of song</l>
@@ -378,8 +378,8 @@ Added to repository.
 <lg><l>Thou lay'st unspotted souls to rest;</l>
 <l>Thy golden rod pale spectres know;</l>
 <l>Blest power! by all thy brethren blest,</l>
-<l>Above, below!</l></lg></div2>
-<div2 type="Poem" n="11" met="ab">
+<l>Above, below!</l></lg></div>
+<div type="poem" n="11" met="ab">
 <lg><l>Ask not ('tis forbidden knowledge), what our destined term of years,</l>
 <l>Mine and yours; nor scan the tables of your Babylonish seers.</l>
 <l>Better far to bear the future, my Leuconoe, like the past,</l>
@@ -387,8 +387,8 @@ Added to repository.
 <l><emph>This</emph>, that makes the Tyrrhene billows spend their strength against the shore.</l>
 <l>Strain your wine and prove your wisdom; life is short; should hope be more?</l>
 <l>In the moment of our talking, envious time has ebb'd away.</l>
-<l>Seize the present; trust tomorrow e'en as little as you may.</l></lg></div2>
-<div2 type="Poem" n="12" met="aaab">
+<l>Seize the present; trust tomorrow e'en as little as you may.</l></lg></div>
+<div type="poem" n="12" met="aaab">
 <lg><l>What man, what hero, <placeName key="tgn,2244631">Clio</placeName> sweet,</l>
 <l>On harp or flute wilt thou proclaim?</l>
 <l>What god shall echo's voice repeat</l>
@@ -448,8 +448,8 @@ Added to repository.
 <lg><l>Thy second let him rule below</l>
 <l>Thy car shall shake the realms above;</l>
 <l>Thy vengeful bolts shall overthrow</l>
-<l>Each guilty grove.</l></lg></div2>
-<div2 type="Poem" n="13" met="ab">
+<l>Each guilty grove.</l></lg></div>
+<div type="poem" n="13" met="ab">
 <lg><l>Telephus&mdash;you praise him still,</l>
 <l>His waxen arms, his rosy-tinted neck;</l>
 <l>Ah! and all the while I thrill</l>
@@ -469,8 +469,8 @@ Added to repository.
 <l>Happy, happy; happy they</l>
 <l>Whose living love, untroubled by all strife,</l>
 <l>Binds them till the last sad day,</l>
-<l>Nor parts asunder but with parting life!</l></lg></div2>
-<div2 type="Poem" n="14" met="aaab">
+<l>Nor parts asunder but with parting life!</l></lg></div>
+<div type="poem" n="14" met="aaab">
 <lg><l>O luckless bark! new waves will force you back</l>
 <l>To sea.  O, haste to make the haven yours!</l>
 <l>E'en now, a helpless wrack,</l>
@@ -490,8 +490,8 @@ Added to repository.
 <lg><l>Your trouble late made sick this heart of mine,</l>
 <l>And still I love you, still am ill at ease.</l>
 <l>O, shun the sea, where shine</l>
-<l>The thick-sown <placeName key="tgn,7011270">Cyclades</placeName>!</l></lg></div2>
-<div2 type="Poem" n="15" met="aaab">
+<l>The thick-sown <placeName key="tgn,7011270">Cyclades</placeName>!</l></lg></div>
+<div type="poem" n="15" met="aaab">
 <lg><l>When the false swain was hurrying o'er the deep</l>
 <l>His Spartan hostess in the Idaean bark,</l>
 <l>Old Nereus laid the unwilling winds asleep,</l>
@@ -527,8 +527,8 @@ Added to repository.
 <lg><l>What though Achilles' wrathful fleet postpone</l>
 <l>The day of doom to <placeName key="perseus,Troy">Troy</placeName> and <placeName key="perseus,Troy">Troy</placeName>'s proud dames,</l>
 <l>Her towers shall fall, the number'd winters flown,</l>
-<l>Wrapp'd in Achaenan flames.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="16" met="ab">
+<l>Wrapp'd in Achaenan flames.&rdquo;</l></lg></div>
+<div type="poem" n="16" met="ab">
 <lg><l>O lovelier than the lovely dame</l>
 <l>That bore you, sentence as you please</l>
 <l>Those scurril verses, be it flame</l>
@@ -556,8 +556,8 @@ Added to repository.
 <l>Come, let me change my sour for sweet,</l>
 <l>And smile complacent as before:</l>
 <l>Hear me my palinode repeat,</l>
-<l>And give me back your heart once more.</l></lg></div2>
-<div2 type="Poem" n="17" met="ab">
+<l>And give me back your heart once more.</l></lg></div>
+<div type="poem" n="17" met="ab">
 <lg><l>The pleasures of Lucretilis</l>
 <l>Tempt Faunus from his Grecian seat;</l>
 <l>He keeps my little goats in bliss</l>
@@ -585,8 +585,8 @@ Added to repository.
 <l>Lest Cyrus on a foe too weak</l>
 <l>Lay the rude hand of wild excess,</l>
 <l>His passion on your chaplet wreak,</l>
-<l>Or spoil your undeserving dress.</l></lg></div2>
-<div2 type="Poem" n="18" met="ab">
+<l>Or spoil your undeserving dress.</l></lg></div>
+<div type="poem" n="18" met="ab">
 <lg><l>Varus, are your trees in planting? put in none before the vine,</l>
 <l>In the rich domain of <placeName key="perseus,Tibur">Tibur</placeName>, by the walls of Catilus;</l>
 <l>There's a power above that hampers all that sober brains design,</l>
@@ -602,8 +602,8 @@ Added to repository.
 <l>Silence thou thy savage cymbals, and the Berecyntine horn;</l>
 <l>In their train Self-love still follows, dully, desperately blind,</l>
 <l>And Vain-glory, towering upwards in its emptyheaded scorn,</l>
-<l>And the Faith that keeps no secrets, with a window in its mind.</l></lg></div2>
-<div2 type="Poem" n="19" met="ab">
+<l>And the Faith that keeps no secrets, with a window in its mind.</l></lg></div>
+<div type="poem" n="19" met="ab">
 <lg><l>Cupid's mother, cruel dame,</l>
 <l>And Semele's Theban boy, and Licence bold,</l>
 <l>Bid me kindle into flame</l>
@@ -619,8 +619,8 @@ Added to repository.
 <l>Heap the grassy altar up,</l>
 <l>Bring vervain, boys, and sacred frankincense;</l>
 <l>Fill the sacrificial cup;</l>
-<l>A victim's blood will soothe her vehemence.</l></lg></div2>
-<div2 type="Poem" n="20" met="aaab">
+<l>A victim's blood will soothe her vehemence.</l></lg></div>
+<div type="poem" n="20" met="aaab">
 <lg><l>Not large my cups, nor rich my cheer,</l>
 <l>This <placeName key="tgn,7021127">Sabine</placeName> wine, which erst I seal'd,</l>
 <l>That day the applauding theatre</l>
@@ -632,8 +632,8 @@ Added to repository.
 <lg><l>For you Calenian grapes are press'd,</l>
 <l>And Caecuban; these cups of mine</l>
 <l>Falernum's bounty ne'er has bless'd,</l>
-<l>Nor Formian vine.</l></lg></div2>
-<div2 type="Poem" n="21" met="21">
+<l>Nor Formian vine.</l></lg></div>
+<div type="poem" n="21" met="21">
 <lg><l>Of Dian's praises, tender maidens, tell;</l>
 <l>Of Cynthus' unshorn god, young striplings, sing;</l>
 <l>And bright <placeName key="tgn,2013536">Latona</placeName>, well</l>
@@ -649,8 +649,8 @@ Added to repository.
 <lg><l>His arm shall banish Hunger, Plague, and War</l>
 <l>To <placeName key="tgn,7000231">Persia</placeName> and to <placeName key="tgn,7008653">Britain</placeName>'s coast, away</l>
 <l>From <placeName key="perseus,Rome">Rome</placeName> and Caesar far,</l>
-<l>If you have zeal to pray.</l></lg></div2>
-<div2 type="Poem" n="22" met="aaab">
+<l>If you have zeal to pray.</l></lg></div>
+<div type="poem" n="22" met="aaab">
 <lg><l>No need of Moorish archer's craft</l>
 <l>To guard the pure and stainless liver;</l>
 <l>He wants not, Fuscus, poison'd shaft</l>
@@ -674,8 +674,8 @@ Added to repository.
 <lg><l>Place me where none can live for heat,</l>
 <l>'Neath Phoebus' very chariot plant me,</l>
 <l>That smile so sweet, that voice so sweet,</l>
-<l>Shall still enchant me.</l></lg></div2>
-<div2 type="Poem" n="23" met="aaab">
+<l>Shall still enchant me.</l></lg></div>
+<div type="poem" n="23" met="aaab">
 <lg><l>You fly me, Chloe, as o'er trackless hills</l>
 <l>A young fawn runs her timorous dam to find,</l>
 <l>Whom empty terror thrills</l>
@@ -687,8 +687,8 @@ Added to repository.
 <lg><l>Yet I, who chase you, no grim lion am,</l>
 <l>No tiger fell, to crush you in my gripe:</l>
 <l>Come, learn to leave your dam.</l>
-<l>For lover's kisses ripe.</l></lg></div2>
-<div2 type="Poem" n="24" met="aaab">
+<l>For lover's kisses ripe.</l></lg></div>
+<div type="poem" n="24" met="aaab">
 <lg><l>Why blush to let our tears unmeasured fall</l>
 <l>For one so dear?  Begin the mournful stave,</l>
 <l>Melpomene, to whom the sire of all</l>
@@ -708,8 +708,8 @@ Added to repository.
 <lg><l>Mercury has folded with the sons of night,</l>
 <l>Untaught to prayer Fate's prison to unseal.</l>
 <l>Ah, heavy grief! but patience makes more light</l>
-<l>What sorrow may not heal.</l></lg></div2>
-<div2 type="Poem" n="26" met="ab">
+<l>What sorrow may not heal.</l></lg></div>
+<div type="poem" n="26" met="ab">
 <lg><l>The Muses love me: fear and grief,</l>
 <l>The winds may blow them to the sea;</l>
 <l>Who quail before the wintry chief</l>
@@ -721,8 +721,8 @@ Added to repository.
 <l>Pimplea sweet! my praise were vain</l>
 <l>Without thee.  String this maiden lyre,</l>
 <l>Attune for him the Lesbian strain,</l>
-<l>O goddess, with thy sister quire!</l></lg></div2>
-<div2 type="Poem" n="27" met="ab">
+<l>O goddess, with thy sister quire!</l></lg></div>
+<div type="poem" n="27" met="ab">
 <lg><l>What, fight with cups that should give joy?</l>
 <l>'Tis barbarous; leave such savage ways</l>
 <l>To Thracians. Bacchus, shamefaced boy,</l>
@@ -746,8 +746,8 @@ Added to repository.
 <l>What wizard, what Thessalian spell,</l>
 <l>What god can save you, hamper'd thus?</l>
 <l>To cope with this Chimaera fell</l>
-<l>Would task another Pegasus.</l></lg></div2>
-<div2 type="Poem" n="28" met="ab">
+<l>Would task another Pegasus.</l></lg></div>
+<div type="poem" n="28" met="ab">
 <lg><l>The sea, the earth, the innumerable sand,</l>
 <l>Archytas, thou couldst measure; now, alas!</l>
 <l>A little dust on Matine shore has spann'd</l>
@@ -783,8 +783,8 @@ Added to repository.
 <l>My prayers shall reach the avengers of all wrong;</l>
 <l>No expiations shall the curse unbind.</l>
 <l>Great though your haste, I would not task you long;</l>
-<l>Thrice sprinkle dust, then scud before the wind.</l></lg></div2>
-<div2 type="Poem" n="29" met="ab">
+<l>Thrice sprinkle dust, then scud before the wind.</l></lg></div>
+<div type="poem" n="29" met="ab">
 <lg><l>Your heart on Arab wealth is set,</l>
 <l>Good Iccius: you would try your steel</l>
 <l>On <placeName key="tgn,7016796">Saba</placeName>'s kings, unconquerd yet,</l>
@@ -800,8 +800,8 @@ Added to repository.
 <l>If you would change Panaetius' works,</l>
 <l>That costly purchase, and the clan</l>
 <l>Of Socrates, for shields and dirks,</l>
-<l>Whom once we thought a saner man?</l></lg></div2>
-<div2 type="Poem" n="30" met="aaab">
+<l>Whom once we thought a saner man?</l></lg></div>
+<div type="poem" n="30" met="aaab">
 <lg><l>Come, Cnidian, Paphian Venus, come,</l>
 <l>Thy well-beloved <placeName key="tgn,1000112">Cyprus</placeName> spurn,</l>
 <l>Haste, where for thee in Glycera's home</l>
@@ -809,8 +809,8 @@ Added to repository.
 <lg><l>Bring too thy Cupid, glowing warm,</l>
 <l>Graces and Nymphs, unzoned and free,</l>
 <l>And Youth, that lacking thee lacks charm,</l>
-<l>And Mercury.</l></lg></div2>
-<div2 type="Poem" n="31" met="ab">
+<l>And Mercury.</l></lg></div>
+<div type="poem" n="31" met="ab">
 <lg><l>What blessing shall the bard entreat</l>
 <l>The god he hallows, as he pours</l>
 <l>The winecup? Not the mounds of wheat</l>
@@ -830,8 +830,8 @@ Added to repository.
 <l>O grant me, Phoebus, calm content,</l>
 <l>Strength unimpaird, a mind entire,</l>
 <l>Old age without dishonour spent,</l>
-<l>Nor unbefriended by the lyre!</l></lg></div2>
-<div2 type="Poem" n="32" met="aaab">
+<l>Nor unbefriended by the lyre!</l></lg></div>
+<div type="poem" n="32" met="aaab">
 <lg><l>They call;&mdash;if aught in shady dell</l>
 <l>We twain have warbled, to remain</l>
 <l>Long months or years, now breathe, my shell,</l>
@@ -847,8 +847,8 @@ Added to repository.
 <lg><l>O sweetest lyre, to Phoebus dear,</l>
 <l>Delight of Jove's high festival,</l>
 <l>Blest balm in trouble, hail and hear</l>
-<l>Whene'er I call!</l></lg></div2>
-<div2 type="Poem" n="33" met="aaab">
+<l>Whene'er I call!</l></lg></div>
+<div type="poem" n="33" met="aaab">
 <lg><l>What, Albius! why this passionate despair</l>
 <l>For cruel Glycera? why melt your voice</l>
 <l>In dolorous strains, because the perjured fair</l>
@@ -864,8 +864,8 @@ Added to repository.
 <lg><l>For me sweet Love had forged a milder spell;</l>
 <l>But Myrtale still kept me her fond slave,</l>
 <l>More stormy she than the tempestuous swell</l>
-<l>That crests <placeName key="tgn,7007850">Calabria</placeName>'s wave.</l></lg></div2>
-<div2 type="Poem" n="34" met="ab">
+<l>That crests <placeName key="tgn,7007850">Calabria</placeName>'s wave.</l></lg></div>
+<div type="poem" n="34" met="ab">
 <lg><l>My prayers were scant, my offerings few,</l>
 <l>While witless wisdom fool'd my mind;</l>
 <l>But now I trim my sails anew,</l>
@@ -881,8 +881,8 @@ Added to repository.
 <l>And loftiest; bring the mighty down</l>
 <l>And lift the weak; with whirring flight</l>
 <l>Comes Fortune, plucks the monarch's crown,</l>
-<l>And decks therewith some meaner wight.</l></lg></div2>
-<div2 type="Poem" n="35" met="ab">
+<l>And decks therewith some meaner wight.</l></lg></div>
+<div type="poem" n="35" met="ab">
 <lg><l>Lady of <placeName key="perseus,Antium">Antium</placeName>, grave and stern!</l>
 <l>O Goddess, who canst lift the low</l>
 <l>To high estate, and sudden turn</l>
@@ -922,8 +922,8 @@ Added to repository.
 <l>What shrine has rapine held in awe?</l>
 <l>What altar spared?  O haste and beat</l>
 <l>The blunted steel we yet may draw</l>
-<l>On Arab and on Massagete!</l></lg></div2>
-<div2 type="Poem" n="36" met="ab">
+<l>On Arab and on Massagete!</l></lg></div>
+<div type="poem" n="36" met="ab">
 <lg><l>Bid the lyre and cittern play;</l>
 <l>Enkindle incense, shed the victim's gore;</l>
 <l>Heaven has watch'd o'er Numida,</l>
@@ -943,8 +943,8 @@ Added to repository.
 <l>Every melting eye will rest</l>
 <l>On Damalis' lovely face; but none may part</l>
 <l>Damalis from our new-found guest;</l>
-<l>She clings, and clings, like ivy, round his heart.</l></lg></div2>
-<div2 type="Poem" n="37" met="ab">
+<l>She clings, and clings, like ivy, round his heart.</l></lg></div>
+<div type="poem" n="37" met="ab">
 <lg><l>Now drink we deep, now featly tread</l>
 <l>A measure; now before each shrine</l>
 <l>With Salian feasts the table spread;</l>
@@ -976,8 +976,8 @@ Added to repository.
 <l>Death's purpose flushing in her face;</l>
 <l>Nor to our ships the glory gave,</l>
 <l>That she, no vulgar dame, should grace</l>
-<l>A triumph, crownless, and a slave.</l></lg></div2>
-<div2 type="Poem" n="38" met="aaab">
+<l>A triumph, crownless, and a slave.</l></lg></div>
+<div type="poem" n="38" met="aaab">
 <lg><l>No Persian cumber, boy, for me;</l>
 <l>I hate your garlands linden-plaited;</l>
 <l>Leave winter's rose where on the tree</l>
@@ -985,9 +985,9 @@ Added to repository.
 <lg><l>Wreath me plain myrtle; never think</l>
 <l>Plain myrtle either's wear unfitting,</l>
 <l>Yours as you wait, mine as I drink</l>
-<l>In vine-bower sitting.</l></lg></div2></div1>
-<div1 type="Book" n="2">
-<div2 type="Poem" n="1" met="ab">
+<l>In vine-bower sitting.</l></lg></div></div>
+<div type="book" n="2">
+<div type="poem" n="1" met="ab">
 <lg><l>The broils that from Metellus date,</l>
 <l>The secret springs, the dark intrigues,</l>
 <l>The freaks of Fortune, and the great</l>
@@ -1027,8 +1027,8 @@ Added to repository.
 <l>But pause, gay Muse, nor leave your play</l>
 <l>Another Cean dirge to sing;</l>
 <l>With me to Venus' bower away,</l>
-<l>And there attune a lighter string.</l></lg></div2>
-<div2 type="Poem" n="2" met="aaab">
+<l>And there attune a lighter string.</l></lg></div>
+<div type="poem" n="2" met="aaab">
 <lg><l>The silver, Sallust, shows not fair</l>
 <l>While buried in the greedy mine:</l>
 <l>You love it not till moderate wear</l>
@@ -1052,8 +1052,8 @@ Added to repository.
 <lg><l>She weans men's lips; for him she keeps</l>
 <l>The crown, the purple, and the bays,</l>
 <l>Who dares to look on treasure-heaps</l>
-<l>With unblench'd gaze.</l></lg></div2>
-<div2 type="Poem" n="3" met="ab">
+<l>With unblench'd gaze.</l></lg></div>
+<div type="poem" n="3" met="ab">
 <lg><l>An equal mind, when storms o'ercloud,</l>
 <l>Maintain, nor 'neath a brighter sky</l>
 <l>Let pleasure make your heart too proud,</l>
@@ -1081,8 +1081,8 @@ Added to repository.
 <l>One way all travel; the dark urn</l>
 <l>Shakes each man's lot, that soon or late</l>
 <l>Will force him, hopeless of return,</l>
-<l>On board the exile-ship of Fate.</l></lg></div2>
-<div2 type="Poem" n="4" met="aaab">
+<l>On board the exile-ship of Fate.</l></lg></div>
+<div type="poem" n="4" met="aaab">
 <lg><l>Why, Xanthias, blush to own you love</l>
 <l>Your slave? Briseis, long ago,</l>
 <l>A captive, could Achilles move</l>
@@ -1106,8 +1106,8 @@ Added to repository.
 <lg><l>With honest fervour I commend</l>
 <l>Those lips, those eyes; you need not fear</l>
 <l>A rival, hurrying on to end</l>
-<l>His fortieth year.</l></lg></div2>
-<div2 type="Poem" n="6" met="aaab">
+<l>His fortieth year.</l></lg></div>
+<div type="poem" n="6" met="aaab">
 <lg><l>Septimius, who with me would brave</l>
 <l>Far <placeName key="tgn,7007512">Gades</placeName>, and Cantabrian land</l>
 <l>Untamed by <placeName key="perseus,Rome">Rome</placeName>, and Moorish wave</l>
@@ -1131,8 +1131,8 @@ Added to repository.
 <lg><l>That spot, those happy heights desire</l>
 <l>Our sojourn; there, when life shall end,</l>
 <l>Your tear shall dew my yet warm pyre,</l>
-<l>Your bard and friend.</l></lg></div2>
-<div2 type="Poem" n="7" met="ab">
+<l>Your bard and friend.</l></lg></div>
+<div type="poem" n="7" met="ab">
 <lg><l>O, oft with me in troublous time</l>
 <l>Involved, when Brutus warr'd in <placeName key="tgn,1000074">Greece</placeName>,</l>
 <l>Who gives you back to your own clime</l>
@@ -1160,8 +1160,8 @@ Added to repository.
 <l>Or parsley?  Whom will Venus seat</l>
 <l>Chairman of cups? Are Bacchants sane?</l>
 <l>Then I'll be sober.  O, 'tis sweet</l>
-<l>To fool, when friends come home again!</l></lg></div2>
-<div2 type="Poem" n="8" met="aaab">
+<l>To fool, when friends come home again!</l></lg></div>
+<div type="poem" n="8" met="aaab">
 <lg><l>Had chastisement for perjured truth,</l>
 <l>Barine, mark'd you with a curse&mdash;</l>
 <l>Did one wry nail, or one black tooth,</l>
@@ -1185,8 +1185,8 @@ Added to repository.
 <lg><l>The mother dreads you for her son,</l>
 <l>The thrifty sire, the new-wed bride,</l>
 <l>Lest, lured by you, her precious one</l>
-<l>Should leave her side.</l></lg></div2>
-<div2 type="Poem" n="9" met="ab">
+<l>Should leave her side.</l></lg></div>
+<div type="poem" n="9" met="ab">
 <lg><l>The rain, it rains not every day</l>
 <l>On the soak'd meads; the Caspian main</l>
 <l>Not always feels the unequal sway</l>
@@ -1210,8 +1210,8 @@ Added to repository.
 <l>And Medus' flood, 'mid conquer'd tribes</l>
 <l>Rolling a less presumptuous tide,</l>
 <l>And Scythians taught, as <placeName key="perseus,Rome">Rome</placeName> prescribes,</l>
-<l>Henceforth o'er narrower steppes to ride.</l></lg></div2>
-<div2 type="Poem" n="10" met="aaab">
+<l>Henceforth o'er narrower steppes to ride.</l></lg></div>
+<div type="poem" n="10" met="aaab">
 <lg><l>Licinius, trust a seaman's lore:</l>
 <l>Steer not too boldly to the deep,</l>
 <l>Nor, fearing storms, by treacherous shore</l>
@@ -1235,8 +1235,8 @@ Added to repository.
 <lg><l>Be brave in trouble; meet distress</l>
 <l>With dauntless front; but when the gale</l>
 <l>Too prosperous blows, be wise no less,</l>
-<l>And shorten sail.</l></lg></div2>
-<div2 type="Poem" n="11" met="ab">
+<l>And shorten sail.</l></lg></div>
+<div type="poem" n="11" met="ab">
 <lg><l>O ask not what those sons of war,</l>
 <l>Cantabrian, Scythian, each intend,</l>
 <l>Disjoin'd from us by <placeName key="perseus,Hadria">Hadria</placeName>'s bar,</l>
@@ -1260,8 +1260,8 @@ Added to repository.
 <l>Who'll coax coy Lyde from her home?</l>
 <l>Go, bid her take her ivory lyre,</l>
 <l>The runaway, and haste to come,</l>
-<l>Her wild hair bound with Spartan tire.</l></lg></div2>
-<div2 type="Poem" n="12" met="aaab">
+<l>Her wild hair bound with Spartan tire.</l></lg></div>
+<div type="poem" n="12" met="aaab">
 <lg><l>The weary war where fierce <placeName key="tgn,7017511">Numantia</placeName> bled,</l>
 <l>Fell Hannibal, the swoln Sicilian main</l>
 <l>Purpled with Punic blood&mdash;not mine to wed</l>
@@ -1289,8 +1289,8 @@ Added to repository.
 <lg><l>While to your burning lips she bends her neck,</l>
 <l>Or with kind cruelty denies the due</l>
 <l>She means you not to beg for, but to take,</l>
-<l>Or snatches it from you?</l></lg></div2>
-<div2 type="Poem" n="13" met="ab">
+<l>Or snatches it from you?</l></lg></div>
+<div type="poem" n="13" met="ab">
 <lg><l>Black day he chose for planting thee,</l>
 <l>Accurst he rear'd thee from the ground,</l>
 <l>The bane of children yet to be,</l>
@@ -1330,8 +1330,8 @@ Added to repository.
 <l>Prometheus too and Pelops' sire</l>
 <l>In listening lose the sense of woe;</l>
 <l>Orion hearkens to the lyre,</l>
-<l>And lets the lynx and lion go.</l></lg></div2>
-<div2 type="Poem" n="14" met="ab">
+<l>And lets the lynx and lion go.</l></lg></div>
+<div type="poem" n="14" met="ab">
 <lg><l>Ah, Postumus! they fleet away,</l>
 <l>Our years, nor piety one hour</l>
 <l>Can win from wrinkles and decay,</l>
@@ -1359,8 +1359,8 @@ Added to repository.
 <l>Your heir, a larger soul, will drain</l>
 <l>The hundred-padlock'd Caecuban,</l>
 <l>And richer spilth the pavement stain</l>
-<l>Than e'er at pontiff's supper ran.</l></lg></div2>
-<div2 type="Poem" n="15" met="ab">
+<l>Than e'er at pontiff's supper ran.</l></lg></div>
+<div type="poem" n="15" met="ab">
 <lg><l>Few roods of ground the piles we raise</l>
 <l>Will leave to plough; ponds wider spread</l>
 <l>Than Lucrine lake will meet the gaze</l>
@@ -1380,8 +1380,8 @@ Added to repository.
 <l>None might the casual sod disdain</l>
 <l>To roof his home; a town alone,</l>
 <l>At public charge, a sacred fane</l>
-<l>Were honour'd with the pomp of stone.</l></lg></div2>
-<div2 type="Poem" n="16" met="aaab">
+<l>Were honour'd with the pomp of stone.</l></lg></div>
+<div type="poem" n="16" met="aaab">
 <lg><l>For ease, in wide <placeName key="tgn,7002675">Aegean</placeName> caught,</l>
 <l>The sailor prays, when clouds are hiding</l>
 <l>The moon, nor shines of starlight aught</l>
@@ -1421,8 +1421,8 @@ Added to repository.
 <lg><l>With double dyes; a small domain,</l>
 <l>The soul that breathed in Grecian harping,</l>
 <l>My portion these; and high disdain</l>
-<l>Of ribald carping.</l></lg></div2>
-<div2 type="Poem" n="17" met="ab">
+<l>Of ribald carping.</l></lg></div>
+<div type="poem" n="17" met="ab">
 <lg><l>Why rend my heart with that sad sigh?</l>
 <l>It cannot please the gods or me</l>
 <l>That you, Maecenas, first should die,</l>
@@ -1454,8 +1454,8 @@ Added to repository.
 <l>The friends of Mercury, check'd the blow</l>
 <l>In mid descent.  Be sure to pay</l>
 <l>The victims and the fane you owe;</l>
-<l>Your bard a humbler lamb will slay.</l></lg></div2>
-<div2 type="Poem" n="18" met="ab">
+<l>Your bard a humbler lamb will slay.</l></lg></div>
+<div type="poem" n="18" met="ab">
 <lg><l>Carven ivory have I none</l>
 <l>No golden cornice in my dwelling shines;</l>
 <l>Pillars choice of Libyan stone</l>
@@ -1495,8 +1495,8 @@ Added to repository.
 <l>Pelops he and Pelops' sire</l>
 <l>Holds, spite of pride, in close captivity;</l>
 <l>Beggars, who of labour tire,</l>
-<l>Call'd or uncall'd, he hears and sets them free.</l></lg></div2>
-<div2 type="Poem" n="19" met="ab">
+<l>Call'd or uncall'd, he hears and sets them free.</l></lg></div>
+<div type="poem" n="19" met="ab">
 <lg><l><placeName key="tgn,2097807">Bacchus</placeName> I saw in mountain glades</l>
 <l>Retired (believe it, after years!)</l>
 <l>Teaching his strains to Dryad maids,</l>
@@ -1528,8 +1528,8 @@ Added to repository.
 <l>Grim Cerberus wagg'd his tail to see</l>
 <l>Thy golden horn, nor dreamd of wrong.</l>
 <l>But gently fawning, follow'd thee,</l>
-<l>And lick'd thy feet with triple tongue.</l></lg></div2>
-<div2 type="Poem" n="20" met="ab">
+<l>And lick'd thy feet with triple tongue.</l></lg></div>
+<div type="poem" n="20" met="ab">
 <lg><l>No vulgar wing, nor weakly plied,</l>
 <l>Shall bear me through the liquid sky;</l>
 <l>A two-form'd bard, no more to bide</l>
@@ -1553,9 +1553,9 @@ Added to repository.
 <l>No dirges for my fancied death;</l>
 <l>No weak lament, no mournful stave;</l>
 <l>All clamorous grief were waste of breath,</l>
-<l>And vain the tribute of a grave.</l></lg></div2></div1>
-<div1 type="Book" n="3">
-<div2 type="Poem" n="1" met="ab">
+<l>And vain the tribute of a grave.</l></lg></div></div>
+<div type="book" n="3">
+<div type="poem" n="1" met="ab">
 <lg><l>Bid the unhallow'd crowd avaunt!</l>
 <l>Keep holy silence; strains unknown</l>
 <l>Till now, the Muses' hierophant,</l>
@@ -1603,8 +1603,8 @@ Added to repository.
 <l>Why with rich gate and pillard range</l>
 <l>Upbuild new mansions, twice as high,</l>
 <l>Or why my <placeName key="tgn,7021127">Sabine</placeName> vale exchange</l>
-<l>For more laborious luxury?</l></lg></div2>
-<div2 type="Poem" n="2" met="ab">
+<l>For more laborious luxury?</l></lg></div>
+<div type="poem" n="2" met="ab">
 <lg><l>To suffer hardness with good cheer,</l>
 <l>In sternest school of warfare bred,</l>
 <l>Our youth should learn; let steed and spear</l>
@@ -1636,8 +1636,8 @@ Added to repository.
 <l>And boats are wreck'd: true men and thieves</l>
 <l>Neglected Justice oft confounds:</l>
 <l>Though Vengeance halt, she seldom leaves</l>
-<l>The wretch whose flying steps she hounds.</l></lg></div2>
-<div2 type="Poem" n="3" met="ab">
+<l>The wretch whose flying steps she hounds.</l></lg></div>
+<div type="poem" n="3" met="ab">
 <lg><l>The man of firm and righteous will,</l>
 <l>No rabble, clamorous for the wrong,</l>
 <l>No tyrant's brow, whose frown may kill,</l>
@@ -1709,8 +1709,8 @@ Added to repository.
 <l>Such thunders from the lyre of love!</l>
 <l>Back, wayward Muse! refrain, refrain</l>
 <l>To tell the talk of gods above,</l>
-<l>And dwarf high themes in puny strain.</l></lg></div2>
-<div2 type="Poem" n="4" met="ab">
+<l>And dwarf high themes in puny strain.</l></lg></div>
+<div type="poem" n="4" met="ab">
 <lg><l>Come down, Calliope, from above:</l>
 <l>Breathe on the pipe a strain of fire:</l>
 <l>Or if a graver note thou love,</l>
@@ -1790,8 +1790,8 @@ Added to repository.
 <l>Still sits the bird on Tityos' breast,</l>
 <l>The warder of Unlawful love;</l>
 <l>Still suffers lewd Pirithous, prest</l>
-<l>By massive chains no hand may move.</l></lg></div2>
-<div2 type="Poem" n="5" met="ab">
+<l>By massive chains no hand may move.</l></lg></div>
+<div type="poem" n="5" met="ab">
 <lg><l>Jove rules in heaven, his thunder shows;</l>
 <l>Henceforth Augustus earth shall own</l>
 <l>Her present god, now Briton foes</l>
@@ -1847,8 +1847,8 @@ Added to repository.
 <l>As though, some tedious business o'er</l>
 <l>Of clients' court, his journey lay</l>
 <l>Towards <placeName key="perseus,Venafrum">Venafrum</placeName>'s grassy floor,</l>
-<l>Or Sparta-built <placeName key="tgn,7004100">Tarentum</placeName>'s bay.</l></lg></div2>
-<div2 type="Poem" n="6" met="ab">
+<l>Or Sparta-built <placeName key="tgn,7004100">Tarentum</placeName>'s bay.</l></lg></div>
+<div type="poem" n="6" met="ab">
 <lg><l>Your fathers' guilt you still must pay,</l>
 <l>Till, Roman, you restore each shrine,</l>
 <l>Each temple, 'mouldering in decay,</l>
@@ -1884,8 +1884,8 @@ Added to repository.
 <l>What has not cankering Time made worse?</l>
 <l>Viler than grandsires, sires beget</l>
 <l>Ourselves, yet baser, soon to curse</l>
-<l>The world with offspring baser yet.</l></lg></div2>
-<div2 type="Poem" n="7" met="aaab">
+<l>The world with offspring baser yet.</l></lg></div>
+<div type="poem" n="7" met="aaab">
 <lg><l>Why weep for him whom sweet Favonian airs</l>
 <l>Will waft next spring, Asteria, back to you,</l>
 <l>Rich with <placeName key="tgn,7016608">Bithynia</placeName>'s wares,</l>
@@ -1917,8 +1917,8 @@ Added to repository.
 <lg><l>Yet keep each evening door and window barr'd;</l>
 <l>Look not abroad when music strikes up shrill,</l>
 <l>And though he call you hard,</l>
-<l>Remain obdurate still.</l></lg></div2>
-<div2 type="Poem" n="8" met="aaab">
+<l>Remain obdurate still.</l></lg></div>
+<div type="poem" n="8" met="aaab">
 <lg><l>The first of March! a man unwed!</l>
 <l>What can these flowers, this censer mean?</l>
 <l>Or what these embers, glowing red</l>
@@ -1946,8 +1946,8 @@ Added to repository.
 <lg><l>Then fret not lest the state should ail;</l>
 <l>A private man such thoughts may spare;</l>
 <l>Enjoy the present hour's regale,</l>
-<l>And banish care.</l></lg></div2>
-<div2 type="Poem" n="9" met="ab">
+<l>And banish care.</l></lg></div>
+<div type="poem" n="9" met="ab">
 <sp><speaker>Horace</speaker>
 <p><l>While I had power to bless you,</l>
 <l>Nor any round that neck his arms did fling</l>
@@ -1972,8 +1972,8 @@ Added to repository.
 <sp><speaker>Lydia</speaker><p><l>Though he is fairer, milder,</l>
 <l>Than starlight, you lighter than bark of tree,</l>
 <l>Than stormy <placeName key="tgn,7008301">Hadria</placeName> wilder,</l>
-<l>With you to live, to die, were bliss for me.</l></p></sp></div2>
-<div2 type="Poem" n="10" met="aaab">
+<l>With you to live, to die, were bliss for me.</l></p></sp></div>
+<div type="poem" n="10" met="aaab">
 <lg><l>Ah Lyce! though your drink were <placeName key="tgn,1123466">Tanais</placeName>,</l>
 <l>Your husband some rude savage, you would weep</l>
 <l>To leave me shivering, on a night like this,</l>
@@ -1993,8 +1993,8 @@ Added to repository.
 <lg><l>O harder e'en than toughest heart of oak,</l>
 <l>Deafer than uncharm'd snake to suppliant moans!</l>
 <l>This side, I warn you, will not always brook</l>
-<l>Rain-water and cold stones.</l></lg></div2>
-<div2 type="Poem" n="11" met="aaab">
+<l>Rain-water and cold stones.</l></lg></div>
+<div type="poem" n="11" met="aaab">
 <lg><l>Come, Mercury, by whose minstrel spell</l>
 <l>Amphion raised the Theban stones,</l>
 <l>Come, with thy seven sweet strings, my shell,</l>
@@ -2046,8 +2046,8 @@ Added to repository.
 <lg><l>Go; speed your flight o'er land and wave,</l>
 <l>While Night and Venus shield you; go</l>
 <l>Be blest: and on my tomb engrave</l>
-<l>This tale of woe.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="12" met="ab">
+<l>This tale of woe.&rdquo;</l></lg></div>
+<div type="poem" n="12" met="ab">
 <lg><l>How unhappy are the maidens who with Cupid may not play,</l>
 <l>Who may never touch the wine-cup, but must tremble all the day</l>
 <l>At an uncle, and the scourging of his tongue!</l>
@@ -2059,8 +2059,8 @@ Added to repository.
 <l>As a boxer, as a runner, past compare!</l>
 <l>When the deer are flying blindly all the open country o'er,</l>
 <l>He can aim and he can hit them; he can steal upon the boar,</l>
-<l>As it couches in the thicket unaware.</l></lg></div2>
-<div2 type="Poem" n="13" met="aaab">
+<l>As it couches in the thicket unaware.</l></lg></div>
+<div type="poem" n="13" met="aaab">
 <lg><l>Bandusia's fount, in clearness crystalline,</l>
 <l>O worthy of the wine, the flowers we vow!</l>
 <l>Tomorrow shall be thine</l>
@@ -2076,8 +2076,8 @@ Added to repository.
 <lg><l>Thou too one day shalt win proud eminence</l>
 <l>'Mid honour'd founts, while I the ilex sing</l>
 <l>Crowning the cavern, whence</l>
-<l>Thy babbling wavelets spring.</l></lg></div2>
-<div2 type="Poem" n="14" met="aaab">
+<l>Thy babbling wavelets spring.</l></lg></div>
+<div type="poem" n="14" met="aaab">
 <lg><l>Our Hercules, they told us, <placeName key="perseus,Rome">Rome</placeName>,</l>
 <l>Had sought the laurel Death bestows:</l>
 <l>Now Glory brings him conqueror home</l>
@@ -2105,8 +2105,8 @@ Added to repository.
 <lg><l>Soon palls the taste for noise and fray,</l>
 <l>When hair is white and leaves are sere:</l>
 <l>How had I fired in life's warm May,</l>
-<l>In Plancus' year!</l></lg></div2>
-<div2 type="Poem" n="15" met="ab">
+<l>In Plancus' year!</l></lg></div>
+<div type="poem" n="15" met="ab">
 <lg><l>Wife of Ibycus the poor,</l>
 <l>Let aged scandals have at length their bound:</l>
 <l>Give your graceless doings o'er,</l>
@@ -2122,8 +2122,8 @@ Added to repository.
 <l>Yours should be the wool that grows</l>
 <l>By fair Luceria, not the merry lute:</l>
 <l>Flowers beseem not wither'd brows,.</l>
-<l>Nor wither'd lips with emptied wine-jars suit.</l></lg></div2>
-<div2 type="Poem" n="16" met="aaab">
+<l>Nor wither'd lips with emptied wine-jars suit.</l></lg></div>
+<div type="poem" n="16" met="aaab">
 <lg><l>Full well had Danae been secured, in truth,</l>
 <l>By oaken portals, and a brazen tower,</l>
 <l>And savage watch-dogs, from the roving youth</l>
@@ -2167,8 +2167,8 @@ Added to repository.
 <lg><l>Than if to Alyattes' wide domains</l>
 <l>I join'd the realms of Mygdon.  Great desires</l>
 <l>Sort with great wants. 'Tis best, when prayer obtains</l>
-<l>No more than life requires.</l></lg></div2>
-<div2 type="Poem" n="17" met="ab">
+<l>No more than life requires.</l></lg></div>
+<div type="poem" n="17" met="ab">
 <lg><l>Aelius, of Lamus' ancient name</l>
 <l>(For since from that high parentage</l>
 <l>The prehistoric Lamias came</l>
@@ -2184,8 +2184,8 @@ Added to repository.
 <l>The raven.  Gather, while 'tis fine,</l>
 <l>Your wood; tomorrow shall be gay</l>
 <l>With smoking pig and streaming wine,</l>
-<l>And lord and slave keep holyday.</l></lg></div2>
-<div2 type="Poem" n="18" met="aaab">
+<l>And lord and slave keep holyday.</l></lg></div>
+<div type="poem" n="18" met="aaab">
 <lg><l>O wont the flying Nymphs to woo,</l>
 <l>Good Faunus, through my sunny farm</l>
 <l>Pass gently, gently pass, nor do</l>
@@ -2201,8 +2201,8 @@ Added to repository.
 <lg><l>Wolves rove among the fearless sheep;</l>
 <l>The woods for thee their foliage strow;</l>
 <l>The delver loves on earth to leap,</l>
-<l>His ancient foe.</l></lg></div2>
-<div2 type="Poem" n="19" met="ab">
+<l>His ancient foe.</l></lg></div>
+<div type="poem" n="19" met="ab">
 <lg><l>What the time from Inachus</l>
 <l>To Codrus, who in patriot battle fell,</l>
 <l>Who were sprung from Aeacus,</l>
@@ -2230,8 +2230,8 @@ Added to repository.
 <l>You with your bright clustering hair,</l>
 <l>Your beauty, Telephus, like evening's sky,</l>
 <l>Rhoda loves, as young, as fair;</l>
-<l>I for my Glycera slowly, slowly die.</l></lg></div2>
-<div2 type="Poem" n="21" met="ab">
+<l>I for my Glycera slowly, slowly die.</l></lg></div>
+<div type="poem" n="21" met="ab">
 <lg><l>O born in Manlius' year with me,</l>
 <l>Whate'er you bring us, plaint or jest,</l>
 <l>Or passion and wild revelry,</l>
@@ -2255,8 +2255,8 @@ Added to repository.
 <l><placeName key="tgn,2032614">Liber</placeName> and <placeName key="tgn,2108237">Venus</placeName>, wills she so,</l>
 <l>And sister Graces, ne'er unknit,</l>
 <l>And living lamps shall see you flow</l>
-<l>Till stars before the sunrise flit.</l></lg></div2>
-<div2 type="Poem" n="22" met="aaab">
+<l>Till stars before the sunrise flit.</l></lg></div>
+<div type="poem" n="22" met="aaab">
 <lg><l>Guardian of hill and woodland, Maid,</l>
 <l>Who to young wives in childbirth's hour</l>
 <l>Thrice call'd, vouchsafest sovereign aid,</l>
@@ -2264,8 +2264,8 @@ Added to repository.
 <lg><l>This pine that shades my cot be thine;</l>
 <l>Here will I slay, as years come round,</l>
 <l>A youngling boar, whose tusks design</l>
-<l>The side-long wound.</l></lg></div2>
-<div2 type="Poem" n="23" met="ab">
+<l>The side-long wound.</l></lg></div>
+<div type="poem" n="23" met="ab">
 <lg><l>If, Phidyle, your hands you lift</l>
 <l>To heaven, as each new moon is born,</l>
 <l>Soothing your <placeName key="tgn,1018972">Lares</placeName> with the gift</l>
@@ -2285,8 +2285,8 @@ Added to repository.
 <l>The sprinkled salt, the votive meal,</l>
 <l>As soon their favour will regain,</l>
 <l>Let but the hand be pure and leal,</l>
-<l>As all the pomp of heifers slain.</l></lg></div2>
-<div2 type="Poem" n="24" met="ab">
+<l>As all the pomp of heifers slain.</l></lg></div>
+<div type="poem" n="24" met="ab">
 <lg><l>Though your buried wealth surpass</l>
 <l>The unsunn'd gold of Ind or Araby,</l>
 <l>Though with many a ponderous mass</l>
@@ -2350,8 +2350,8 @@ Added to repository.
 <l>Hurrying, for an heir so base,</l>
 <l>To gather riches.  Money, root of ill,</l>
 <l>Doubt it not, still grows apace:</l>
-<l>Yet the scant heap has somewhat lacking still.</l></lg></div2>
-<div2 type="Poem" n="25" met="ab">
+<l>Yet the scant heap has somewhat lacking still.</l></lg></div>
+<div type="poem" n="25" met="ab">
 <lg><l>Whither, <placeName key="tgn,2097807">Bacchus</placeName>, tear'st thou me.</l>
 <l>FiIl'd with thy strength? What dens, what forests these,</l>
 <l>Thus in wildering race I see?</l>
@@ -2371,8 +2371,8 @@ Added to repository.
 <l>Not a lowly strain is mine,</l>
 <l>No mere man's utterance.  O, 'tis venture sweet</l>
 <l>Thee to follow, God of wine,</l>
-<l>Making the vine-branch round thy temples meet!</l></lg></div2>
-<div2 type="Poem" n="26" met="ab">
+<l>Making the vine-branch round thy temples meet!</l></lg></div>
+<div type="poem" n="26" met="ab">
 <lg><l>For ladies' love I late was fit,</l>
 <l>And good success my warfare blest,</l>
 <l>But now my arms, my lyre I quit,</l>
@@ -2384,8 +2384,8 @@ Added to repository.
 <l>O Goddess! <placeName key="tgn,1000112">Cyprus</placeName> owns thy sway,</l>
 <l>And <placeName key="tgn,7001186">Memphis</placeName>, far from Thracian snow;</l>
 <l>Raise high thy lash, and deal me, pray,</l>
-<l>That haughty Chloe just one blow!</l></lg></div2>
-<div2 type="Poem" n="27" met="aaab">
+<l>That haughty Chloe just one blow!</l></lg></div>
+<div type="poem" n="27" met="aaab">
 <lg><l>When guilt goes forth, let lapwings shrill,</l>
 <l>And dogs and foxes great with young,</l>
 <l>And wolves from far Lanuvian hill,</l>
@@ -2461,8 +2461,8 @@ Added to repository.
 <lg><l>You know not you are Jove's own dame:</l>
 <l>Away with sobbing; be resign'd</l>
 <l>To greatness: you shall give your name</l>
-<l>To half mankind.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="28" met="ab">
+<l>To half mankind.&rdquo;</l></lg></div>
+<div type="poem" n="28" met="ab">
 <lg><l>Neptune's feast-day! what should man</l>
 <l>Think first of doing? Lyde mine, be bold,</l>
 <l>Broach the treasured Caecuban,</l>
@@ -2478,8 +2478,8 @@ Added to repository.
 <l>Hers our latest song, who sways</l>
 <l><placeName key="tgn,5003757">Cnidos</placeName> and Cyclads, and to <placeName key="tgn,7002373">Paphos</placeName> goes</l>
 <l>With her swans, on holydays;</l>
-<l>Night too shall claim the homage music owes.</l></lg></div2>
-<div2 type="Poem" n="29" met="ab">
+<l>Night too shall claim the homage music owes.</l></lg></div>
+<div type="poem" n="29" met="ab">
 <lg><l>Heir of Tyrrhenian kings, for you</l>
 <l>A mellow cask, unbroach'd as yet,</l>
 <l>Maecenas mine, and roses new,</l>
@@ -2543,8 +2543,8 @@ Added to repository.
 <l>Else added to the insatiate main.</l>
 <l>Then through the wild <placeName key="tgn,7002675">Aegean</placeName> roar</l>
 <l>The breezes and the Brethren Twain</l>
-<l>Shall waft my little boat ashore.</l></lg></div2>
-<div2 type="Poem" n="30" met="abba">
+<l>Shall waft my little boat ashore.</l></lg></div>
+<div type="poem" n="30" met="abba">
 <lg><l>And now 'tis done: more durable than brass</l>
 <l>My monument shall he, and raise its head</l>
 <l>O'er royal pyramids: it shall not dread</l>
@@ -2560,9 +2560,9 @@ Added to repository.
 <lg><l>First of his race to wed the Aeolian lay</l>
 <l>To notes of <placeName key="tgn,1000080">Italy</placeName>.&rdquo;  Put glory on,</l>
 <l>My own Melpomene, by genius won,</l>
-<l>And crown me of thy grace with Delphic bay.</l></lg></div2></div1>
-<div1 type="Book" n="4">
-<div2 type="Poem" n="1" met="ab">
+<l>And crown me of thy grace with Delphic bay.</l></lg></div></div>
+<div type="book" n="4">
+<div type="poem" n="1" met="ab">
 <lg><l>Yet again thou wak'st the flame</l>
 <l>That long had slumber'd!  Spare me, Venus, spare!</l>
 <l>Trust me, I am not the same</l>
@@ -2602,8 +2602,8 @@ Added to repository.
 <l>Now I hold you in my chain,</l>
 <l>And clasp you close, all in a nightly dream;</l>
 <l>Now, still dreaming, o'er the plain</l>
-<l>I chase you; now, ah cruel! down the stream.</l></lg></div2>
-<div2 type="Poem" n="2" met="aaab">
+<l>I chase you; now, ah cruel! down the stream.</l></lg></div>
+<div type="poem" n="2" met="aaab">
 <lg><l>Who fain at Pindar's flight would aim,</l>
 <l>On waxen wings, Iulus, he</l>
 <l>Soars heavenward, doom'd to give his name</l>
@@ -2663,8 +2663,8 @@ Added to repository.
 <lg><l>Like moon just dawning on the night</l>
 <l>The crescent honours of his head;</l>
 <l>One dapple spot of snowy white,</l>
-<l>The rest all red.</l></lg></div2>
-<div2 type="Poem" n="3" met="ab">
+<l>The rest all red.</l></lg></div>
+<div type="poem" n="3" met="ab">
 <lg><l>He whom thou, Melpomene,</l>
 <l>Hast welcomed with thy smile, in life arriving,</l>
 <l>Ne'er by boxer's skill shall be</l>
@@ -2688,8 +2688,8 @@ Added to repository.
 <l>O, 'tis all of thy dear grace</l>
 <l>That every finger points me out in going</l>
 <l>Lyrist of the Roman race;</l>
-<l>Breath, power to charm, if mine, are thy bestowing!</l></lg></div2>
-<div2 type="Poem" n="4" met="ab">
+<l>Breath, power to charm, if mine, are thy bestowing!</l></lg></div>
+<div type="poem" n="4" met="ab">
 <lg><l>E'en as the lightning's minister,</l>
 <l>Whom Jove o'er all the feather'd breed</l>
 <l>Made sovereign, having proved him sure</l>
@@ -2765,8 +2765,8 @@ Added to repository.
 <l>What will not Claudian hands achieve?</l>
 <l>Jove's favour is their guiding star,</l>
 <l>And watchful potencies unweave</l>
-<l>For them the tangled paths of war.</l></lg></div2>
-<div2 type="Poem" n="5" met="aaab">
+<l>For them the tangled paths of war.</l></lg></div>
+<div type="poem" n="5" met="aaab">
 <lg><l>Best guardian of <placeName key="perseus,Rome">Rome</placeName>'s people, dearest boon</l>
 <l>Of a kind Heaven, thou lingerest all too long:</l>
 <l>Thou bad'st thy senate look to meet thee soon:</l>
@@ -2806,8 +2806,8 @@ Added to repository.
 <lg><l>Ah! be it thine long holydays to give</l>
 <l>To thy Hesperia! thus, dear chief, we pray</l>
 <l>At sober sunrise; thus at mellow eve,</l>
-<l>When ocean hides the day.</l></lg></div2>
-<div2 type="Poem" n="6" met="aaab">
+<l>When ocean hides the day.</l></lg></div>
+<div type="poem" n="6" met="aaab">
 <lg><l>Thou who didst make thy vengeful might</l>
 <l>To Niobe and Tityos known,</l>
 <l>And Peleus' son, when <placeName key="perseus,Troy">Troy</placeName>'s tall height</l>
@@ -2851,8 +2851,8 @@ Added to repository.
 <lg><l>And happy brides shall say, &ldquo;'Twas mine,</l>
 <l>When years the cyclic season brought,</l>
 <l>To chant the festal hymn divine</l>
-<l>By <name>Horace</name> taught.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="7" met="ab">
+<l>By <name>Horace</name> taught.&rdquo;</l></lg></div>
+<div type="poem" n="7" met="ab">
 <lg><l>The snow is fled: the trees their leaves put on,</l>
 <l>The fields their green:</l>
 <l>Earth owns the change, and rivers lessening run</l>
@@ -2880,8 +2880,8 @@ Added to repository.
 <l>Not Dian's self can chaste Hippolytus</l>
 <l>To life recall,</l>
 <l>Nor Theseus free his loved Pirithous</l>
-<l>From Lethe's thrall.</l></lg></div2>
-<div2 type="Poem" n="8" met="abba">
+<l>From Lethe's thrall.</l></lg></div>
+<div type="poem" n="8" met="abba">
 <lg><l>Ah Censorinus! to my comrades true</l>
 <l>Rich cups, rare bronzes, gladly would I send:</l>
 <l>Choice tripods from <placeName key="perseus,Olympia">Olympia</placeName> on each friend</l>
@@ -2915,8 +2915,8 @@ Added to repository.
 <l>So Tyndareus' offspring shine as stars above,</l>
 <l>Saving lorn vessels from the yawning seas:</l></lg>
 <lg><l>So Bacchus, with the vine-wreath round his hair,</l>
-<l>Gives prosperous issue to his votary's prayer.</l></lg></div2>
-<div2 type="Poem" n="9" met="ab">
+<l>Gives prosperous issue to his votary's prayer.</l></lg></div>
+<div type="poem" n="9" met="ab">
 <lg><l>Think not those strains can e'er expire,</l>
 <l>Which, cradled 'mid the echoing roar</l>
 <l>Of <placeName key="tgn,1128017">Aufidus</placeName>, to <placeName key="tgn,7003080">Latium</placeName>'s lyre</l>
@@ -2968,8 +2968,8 @@ Added to repository.
 <l>Can bear the load of poverty,</l>
 <l>And tremble not at death, but sin:</l>
 <l>No recreant he when called to die</l>
-<l>In cause of country or of kin.</l></lg></div2>
-<div2 type="Poem" n="11" met="aaab">
+<l>In cause of country or of kin.</l></lg></div>
+<div type="poem" n="11" met="aaab">
 <lg><l>Here is a cask of <placeName key="tgn,1031727">Alban</placeName>, more</l>
 <l>Than nine years old: here grows for you</l>
 <l>Green parsley, Phyllis, and good store</l>
@@ -3005,8 +3005,8 @@ Added to repository.
 <lg><l>(For never shall another fair</l>
 <l>Enslave me), learn a tune, to sing</l>
 <l>With that dear voice: to music care</l>
-<l>Shall yield its sting.</l></lg></div2>
-<div2 type="Poem" n="12" met="aaab">
+<l>Shall yield its sting.</l></lg></div>
+<div type="poem" n="12" met="aaab">
 <lg><l>The gales of <placeName key="tgn,7002756">Thrace</placeName>, that hush the unquiet sea,</l>
 <l>Spring's comrades, on the bellying canvas blow:</l>
 <l>Clogg'd earth and brawling streams alike are free</l>
@@ -3034,8 +3034,8 @@ Added to repository.
 <lg><l>Come, quit those covetous thoughts, those knitted brows,</l>
 <l>Think on the last black embers, while you may,</l>
 <l>And be for once unwise.  When time allows,</l>
-<l>'Tis sweet the fool to play.</l></lg></div2>
-<div2 type="Poem" n="13" met="aaab">
+<l>'Tis sweet the fool to play.</l></lg></div>
+<div type="poem" n="13" met="aaab">
 <lg><l>The gods have heard, the gods have heard my prayer;</l>
 <l>Yes, Lyce! you are growing old, and still</l>
 <l>You struggle to look fair;</l>
@@ -3063,8 +3063,8 @@ Added to repository.
 <lg><l>Of Lyce, spared to raven's length of days,</l>
 <l>That youth may see, with laughter and disgust,</l>
 <l>A fire-brand, once ablaze,</l>
-<l>Now smouldering in grey dust.</l></lg></div2>
-<div2 type="Poem" n="14" met="ab">
+<l>Now smouldering in grey dust.</l></lg></div>
+<div type="poem" n="14" met="ab">
 <lg><l>What honours can a grateful <placeName key="perseus,Rome">Rome</placeName>,</l>
 <l>A grateful senate, Caesar, give</l>
 <l>To make thy worth through days to come</l>
@@ -3116,8 +3116,8 @@ Added to repository.
 <l>To thee the proud Iberians bow,</l>
 <l>And Gauls, that scorn from death to flee;</l>
 <l>The fierce Sygambrian bends his brow,</l>
-<l>And drops his arms to worship thee.</l></lg></div2>
-<div2 type="Poem" n="15" met="ab">
+<l>And drops his arms to worship thee.</l></lg></div>
+<div type="poem" n="15" met="ab">
 <lg><l>Of battles fought I fain had told,</l>
 <l>And conquer'd towns, when Phoebus smote</l>
 <l>His harp-string: &ldquo;Sooth, 'twere over-bold.</l>
@@ -3149,5 +3149,5 @@ Added to repository.
 <l>Shall sing of chiefs whose deeds are done,</l>
 <l>As wont our sires, to flute or shell,</l>
 <l>And <placeName key="tgn,7002329">Troy</placeName>, Anchises, and the son</l>
-<l>Of Venus on our tongues shall dwell.</l></lg></div2></div1>
+<l>Of Venus on our tongues shall dwell.</l></lg></div></div>
 </body></text></TEI.2>

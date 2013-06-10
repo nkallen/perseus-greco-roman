@@ -179,9 +179,9 @@ new texts
             </castList>
             <p>Scene.--<placeName key="perseus,Athens">Athens</placeName>; before the houses of LACHES,
                 PHIDIPPUS, and BACCHIS. </p>
-            <div1 type="intro">
+            <div type="intro">
                 <head>Introduction</head>
-                <div2 type="scene" n="subject">
+                <div type="scene" n="subject">
                     <head>THE SUBJECT.</head>
                     <p>PAMPHILUS, the son of Laches by his wife Sostrata, being at the time enamored
                         of Bacchis, a Courtesan, chances, one night, in a drunken fit, to debauch
@@ -217,8 +217,8 @@ new texts
                         Pamphilus had formerly taken from Philumena. By means of this it is
                         discovered that Pamphilus himself is the person who has ravished Philumena;
                         on which, overjoyed, he immediately takes home his wife and son. </p>
-                </div2>
-                <div2 type="scene" n="production">
+                </div>
+                <div type="scene" n="production">
                     <head>THE TITLE OF THE PLAY.</head>
                     <p>PERFORMED at the Megalensian Games; Sextus Julius Caesar and Cneius Cornelius
                         Dolabella being Curule Aediles. The whole was not then acted. Flaccus, the
@@ -238,8 +238,8 @@ new texts
                             had been given to it on the two first representations. See the account
                             given in the Prologues.</note>
                     </p>
-                </div2>
-                <div2 type="scene" n="summary">
+                </div>
+                <div type="scene" n="summary">
                     <head>THE SUMMARY OF C. SULPITIUS APOLLINARIS.</head>
                     <p>PAMPHILUS has married Philumena, to whom, when a virgin, he formerly, not
                         knowing who she was, offered violence; and whose ring, which he took off by
@@ -251,10 +251,10 @@ new texts
                         passion for Bacchis. While Bacchis is exculpating herself, Myrrhina, the
                         mother of the injured girl, by chance recognizes the ring. Pamphilus takes
                         back his wife, together with his son. </p>
-                </div2>
-            </div1>
-            <div1 type="act" n="prologue">
-                <div2 type="scene" n="0">
+                </div>
+            </div>
+            <div type="act" n="prologue">
+                <div type="scene" n="0">
                     <milestone n="1" unit="line"/>
                     <milestone n="1" unit="TLN line"/>
                     <stage>THE FIRST PROLOGUE.</stage>
@@ -283,8 +283,8 @@ new texts
                                 already seen the rest of his Plays.</note> you have seen
                             represented; I beg you now to give your attention to this. </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="1">
+                </div>
+                <div type="scene" n="1">
                     <milestone n="1" unit="line"/>
                     <milestone n="9" unit="TLN line"/>
                     <stage>THE SECOND PROLOGUE.</stage>
@@ -399,10 +399,10 @@ new texts
                                 representation at a more favorable period.</note>
                         </p>
                     </sp>
-                </div2>
-            </div1>
-            <div1 type="act" n="1">
-                <div2 type="scene" n="1">
+                </div>
+            </div>
+            <div type="act" n="1">
+                <div type="scene" n="1">
                     <milestone n="1" unit="line"/>
                     <milestone n="58" unit="TLN line"/>
                     <stage>Enter PHILOTIS<note anchored="yes"><lemma targOrder="U">Philotis</lemma>:
@@ -444,8 +444,8 @@ new texts
                             your age and beauty belong to me, or else these sentiments of mine to
                             you? </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="2">
+                </div>
+                <div type="scene" n="2">
                     <milestone n="1" unit="line"/>
                     <milestone n="76" unit="TLN line"/>
                     <stage>Enter PARMENO from the house of LACHES.</stage>
@@ -734,10 +734,10 @@ new texts
                                 severally.)</stage>
                         </p>
                     </sp>
-                </div2>
-            </div1>
-            <div1 type="act" n="2">
-                <div2 type="scene" n="1">
+                </div>
+            </div>
+            <div type="act" n="2">
+                <div type="scene" n="1">
                     <milestone n="1" unit="line"/>
                     <milestone n="199" unit="TLN line"/>
                     <stage>Enter LACHES and SOSTRATA, from the house of the former.</stage>
@@ -859,8 +859,8 @@ new texts
                             one; when, at your solicitation, they have married, then, at your
                             solicitation, they are to put them away again. </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="2">
+                </div>
+                <div type="scene" n="2">
                     <milestone n="1" unit="line"/>
                     <milestone n="244" unit="TLN line"/>
                     <stage>Enter PHIDIPPUS from his house.</stage>
@@ -958,8 +958,8 @@ new texts
                         <speaker>LACHES</speaker>
                         <p> I'll go with you. <stage>(Exeunt.)</stage></p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="3">
+                </div>
+                <div type="scene" n="3">
                     <milestone n="1" unit="line"/>
                     <milestone n="275" unit="TLN line"/>
                     <stage>SOSTRATA alone.</stage>
@@ -977,10 +977,10 @@ new texts
                                 house.</stage>
                         </p>
                     </sp>
-                </div2>
-            </div1>
-            <div1 type="act" n="3">
-                <div2 type="scene" n="1">
+                </div>
+            </div>
+            <div type="act" n="3">
+                <div type="scene" n="1">
                     <milestone n="1" unit="line"/>
                     <milestone n="282" unit="TLN line"/>
                     <stage>Enter PAMPHILUS and PARMENO.</stage>
@@ -1150,8 +1150,8 @@ new texts
                                 illness.</note>
                         </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="2">
+                </div>
+                <div type="scene" n="2">
                     <stage>Enter SOSTRATA.</stage>
                     <milestone n="1" unit="line"/>
                     <milestone n="337" unit="TLN line"/>
@@ -1292,8 +1292,8 @@ new texts
                             <stage>stamping.</stage> Do you loiter? <stage>(Exit PARMENO.)</stage>
                         </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="3">
+                </div>
+                <div type="scene" n="3">
                     <milestone n="1" unit="line"/>
                     <milestone n="362" unit="TLN line"/>
                     <stage>PAMPHILUS, alone.</stage>
@@ -1380,8 +1380,8 @@ new texts
                             labor. He must be dispatched by me somewhere till Philumena is
                             delivered. </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="4">
+                </div>
+                <div type="scene" n="4">
                     <milestone n="1" unit="line"/>
                     <milestone n="416" unit="TLN line"/>
                     <stage>Enter at a distance PARMENO and SOSIA, with people carrying
@@ -1524,8 +1524,8 @@ new texts
                                 apart.</stage>
                         </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="5">
+                </div>
+                <div type="scene" n="5">
                     <milestone n="1" unit="line"/>
                     <milestone n="452" unit="TLN line"/>
                     <stage>Enter, at a distance, LACHES and PHIDIPPUS.</stage>
@@ -1766,10 +1766,10 @@ new texts
                             quarrel to my wife, by whose planning all these things have been brought
                             about, and against her I will vent all the vexation that I feel. </p>
                     </sp>
-                </div2>
-            </div1>
-            <div1 type="act" n="4">
-                <div2 type="scene" n="1">
+                </div>
+            </div>
+            <div type="act" n="4">
+                <div type="scene" n="1">
                     <milestone n="1" unit="line"/>
                     <milestone n="517" unit="TLN line"/>
                     <stage>Enter MYRRHINA, from her house.</stage>
@@ -1924,8 +1924,8 @@ new texts
                             as his. <stage>Goes into the house.</stage>
                         </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="2">
+                </div>
+                <div type="scene" n="2">
                     <milestone n="1" unit="line"/>
                     <milestone n="578" unit="TLN line"/>
                     <stage>Enter SOSTRATA and PAMPHILUS.</stage>
@@ -2010,8 +2010,8 @@ new texts
                         <p> And me as well; for this affair does not cause me less sorrow than you,
                             my son. </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="3">
+                </div>
+                <div type="scene" n="3">
                     <milestone n="1" unit="line"/>
                     <milestone n="608" unit="TLN line"/>
                     <stage>Enter LACHES.</stage>
@@ -2088,8 +2088,8 @@ new texts
                                 time an old man, just like me."</note> But I see Phidippus coming
                             out just at the time; let's accost him. </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="4">
+                </div>
+                <div type="scene" n="4">
                     <milestone n="1" unit="line"/>
                     <milestone n="624" unit="TLN line"/>
                     <stage>Enter PHIDIPPUS, from his house.</stage>
@@ -2360,10 +2360,10 @@ new texts
                                 <stage>(Exit PHIDIPPUS.)</stage>
                         </p>
                     </sp>
-                </div2>
-            </div1>
-            <div1 type="act" n="5">
-                <div2 type="scene" n="1">
+                </div>
+            </div>
+            <div type="act" n="5">
+                <div type="scene" n="1">
                     <milestone n="1" unit="line"/>
                     <milestone n="728" unit="TLN line"/>
                     <stage>Enter BACCHIS attended by her WOMEN.</stage>
@@ -2498,8 +2498,8 @@ new texts
                             friend I am, or what I can effect as such, rather than what as an enemy.
                         </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="2">
+                </div>
+                <div type="scene" n="2">
                     <milestone n="1" unit="line"/>
                     <milestone n="769" unit="TLN line"/>
                     <stage>Enter PHIDIPPUS and a NURSE.</stage>
@@ -2631,8 +2631,8 @@ new texts
                                 <stage>Goes into the house.</stage>
                         </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="3">
+                </div>
+                <div type="scene" n="3">
                     <milestone n="1" unit="line"/>
                     <milestone n="801" unit="TLN line"/>
                     <stage>Enter PARMENO, moving along with difficulty.</stage>
@@ -2746,8 +2746,8 @@ new texts
                             nothing for it to befall me deservedly. It is but reasonable to endure
                             inconveniences from one from whom I have received so many benefits. </p>
                     </sp>
-                </div2>
-                <div2 type="scene" n="4">
+                </div>
+                <div type="scene" n="4">
                     <milestone n="1" unit="line"/>
                     <milestone n="843" unit="TLN line"/>
                     <stage>Enter PAMPHILUS and PARMENO, from the house of LACHES, on the other side
@@ -2959,8 +2959,8 @@ new texts
                                 only one of the Plays of Terence with a single plot.</note>
                         </p>
                     </sp>
-                </div2>
-            </div1>
+                </div>
+            </div>
         </body>
     </text>
 </TEI.2>

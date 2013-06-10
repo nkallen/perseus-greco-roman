@@ -160,8 +160,8 @@ new additions
             </castItem>
          </castList>
 
-         <div1 type="act" n="introduction">
-            <div2 type="scene" n="summary">
+         <div type="act" n="introduction">
+            <div type="scene" n="summary">
                <head>INTRODUCTION.</head>
                <p lang="en">THE plot of the Heautontimorumenos turns, as is often the case, partly
                   upon the recognition of a child which had been exposed as an infant. Sostrata the
@@ -254,16 +254,16 @@ new additions
                   next morning? Nothing but a devotion to the 'Unities' could have led to such an
                   idea; and it will be dismissed without any further discussion, now that a more
                   artistic idea of Dramatic Unity is generally recognized. </p>
-            </div2>
-            <div2 type="scene" n="production">
+            </div>
+            <div type="scene" n="production">
                <p>HEAUTONTIMORUMENOS. ACTA LUDIS MEGALENSIBUS, L. CORNELIO LENTULO L. VALERIO FLACCO
                   AEDILIBUS CURULIBUS. EGERUNT L. AMBIVIUS TURPIO ET L. ATTILIUS PRAENESTINUS. MODOS
                   FECIT FLACCUS CLAUDII. GRAECA EST MENANDRU. ACTA PRIMUM TIBIIS IMPARIBUS; DEINDE
                   DUABUS DEXTRIS. ACTA III. EDITA M. IUVENTIO ET T. SEMPRONIO COSS. </p>
-            </div2>
-         </div1>
-         <div1 type="act" n="prologue">
-            <div2 type="scene" n="0">
+            </div>
+         </div>
+         <div type="act" n="prologue">
+            <div type="scene" n="0">
                <sp>
                   <speaker>Prologus</speaker>
                   <lb ed="TLN" n="1"/>
@@ -320,11 +320,11 @@ new additions
                   <l>Exemplum statuite in me, ut adolescentuli <lb ed="TLN" n="52"/></l>
                   <l>Vobis placere studeant potius quam sibi. </l>
                </p></sp>
-            </div2>
-         </div1>
-         <div1 type="act" n="1">
+            </div>
+         </div>
+         <div type="act" n="1">
 
-            <div2 type="scene" n="1">
+            <div type="scene" n="1">
                <stage>CHREMES. MIENEDEMUS.</stage>
                <sp>
                   <speaker>Ch.</speaker>
@@ -612,8 +612,8 @@ new additions
                   <l>Ibo adeo hinc intro: sed quid crepuerunt fores <lb ed="TLN" n="174"/></l>
                   <l>Hinc a me? quisnam egreditur? huc concessero. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="2">
+            </div>
+            <div type="scene" n="2">
                <stage>CLITIPHO. CHREMES.</stage>
                <sp>
                   <speaker>Cl.</speaker>
@@ -757,11 +757,11 @@ new additions
                   <p><l part="Y"> Ego ibo hinc intro, ut videam nobis quid coenae siet. <lb ed="TLN" n="212"/></l>
                   <l>Tu, ut tempus est diei, vide sis ne quo hinc abeas longius. </l>
                </p></sp>
-            </div2>
-         </div1>
-         <div1 type="act" n="2">
+            </div>
+         </div>
+         <div type="act" n="2">
 
-            <div2 type="scene" n="1">
+            <div type="scene" n="1">
                <stage>CLITIPHO.</stage>
                <lb ed="TLN" n="213"/>
                <p><l>Quam iniqui sunt patres in omnes adolescentes iudices, <lb ed="TLN" n="214"/></l>
@@ -781,8 +781,8 @@ new additions
                <l n="15">Mea est potens, procax, magnifica, sumtuosa, nobilis. <lb ed="TLN" n="228"/></l>
                <l>Tum quod dem ei recte est; nam, nihil esse mihi, religio est dicere. <lb ed="TLN" n="229"/></l>
                <l>Hoc ego mali non pridem inveni; neque etiamdum scit pater. </l>
-            </p></div2>
-            <div2 type="scene" n="2">
+            </p></div>
+            <div type="scene" n="2">
                <stage>CLINIA. CLITIPHO.</stage>
                <sp>
                   <speaker>Clin.</speaker>
@@ -844,8 +844,8 @@ new additions
                   <speaker>Clit.</speaker>
                   <p><l part="Y"> Respira: eccum Dromonem cum Syro: una adsunt tibi. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="3">
+            </div>
+            <div type="scene" n="3">
                <stage>SYRUS. DROMO. CLITIPHO. CLINIA.</stage>
                <sp>
                   <speaker>Sy.</speaker>
@@ -1386,8 +1386,8 @@ new additions
                   <speaker>Sy.</speaker>
                   <p><l part="Y"> Ambula. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="4">
+            </div>
+            <div type="scene" n="4">
                <stage>BACCHIS. ANTIPHILA. CLINIA. SYRUS.</stage>
                <sp>
                   <speaker>Ba.</speaker>
@@ -1494,11 +1494,11 @@ new additions
                   <lb ed="TLN" n="409"/>
                   <p><l>Ite intro: nam vos iamdudum exspectat senex. </l>
                </p></sp>
-            </div2>
-         </div1>
-         <div1 type="act" n="3">
+            </div>
+         </div>
+         <div type="act" n="3">
 
-            <div2 type="scene" n="1">
+            <div type="scene" n="1">
                <stage>CHREMES. MENEDEMUS.</stage>
                <sp>
                   <speaker>Ch.</speaker>
@@ -1750,8 +1750,8 @@ new additions
                   <l>A me nescio quis exit: concede hinc domum, <lb ed="TLN" n="511"/></l>
                   <l>Ne nos inter nos congruere sentiant. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="2">
+            </div>
+            <div type="scene" n="2">
                <stage>SYRUS. CHREMES.</stage>
                <sp>
                   <speaker>Sy.</speaker>
@@ -1967,8 +1967,8 @@ new additions
                   <l>Nec quum male facerem crederem mihi impunius <lb ed="TLN" n="561"/></l>
                   <l n="50">Licere. Quisnam a nobis egreditur foras? </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="3">
+            </div>
+            <div type="scene" n="3">
                <stage>CHREMES. CLITIPHO. SYRUS.</stage>
                <sp>
                   <speaker>Ch.</speaker>
@@ -2270,11 +2270,11 @@ new additions
                   <p><l part="Y"> Iam scies. <lb ed="TLN" n="613"/></l>
                   <l>Mane, mane: quid est quod tarn a nobis graviter crepuerunt fores? </l>
                </p></sp>
-            </div2>
-         </div1>
-         <div1 type="act" n="4">
+            </div>
+         </div>
+         <div type="act" n="4">
 
-            <div2 type="scene" n="1">
+            <div type="scene" n="1">
                <stage>SOSTRATA. CHREMES. NUTRIX. SYRUS.</stage>
                <sp>
                   <speaker>So.</speaker>
@@ -2522,8 +2522,8 @@ new additions
                   <p><l>Non licet hominem esse saepe ita ut volt, si res non sinit. <lb ed="TLN" n="667"/></l>
                   <l>Nunc ita tempus est mihi ut cupiam filiam; olim nihil minus. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="2">
+            </div>
+            <div type="scene" n="2">
                <stage>SYRUS.</stage>
                <lb ed="TLN" n="668"/>
                <p><l>Nisi me animus fallit, haud permultum a me aberit infortunium: <lb ed="TLN" n="669"/></l>
@@ -2537,8 +2537,8 @@ new additions
                <l>Quid si hoc nunc sic incipiam? Nihil est. Quid si sic? Tantundem egero. <lb ed="TLN" n="677"/></l>
                <l n="10">At sic opinor. Non potest. Immo optime. Euge, habeo optimam. <lb ed="TLN" n="678"/></l>
                <l>Retraham hercle opinor ad me idem illud fugitivum argentum tamen. </l>
-            </p></div2>
-            <div2 type="scene" n="3">
+            </p></div>
+            <div type="scene" n="3">
                <stage>CLINTA. SYRUS.</stage>
                <sp>
                   <speaker>Cl.</speaker>
@@ -2736,8 +2736,8 @@ new additions
                   <speaker>Sy.</speaker>
                   <p><l part="Y"> Optime ipsa exit foras. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="4">
+            </div>
+            <div type="scene" n="4">
                <stage>BACCHIS. CLINIA. SYRUS. DROMO. PHRYGIA.</stage>
                <sp>
                   <speaker>Ba.</speaker>
@@ -2901,8 +2901,8 @@ new additions
                   <speaker>Dr.</speaker>
                   <p><l part="Y"> Mutum dices. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="5">
+            </div>
+            <div type="scene" n="5">
                <stage>CHREMES. SYRUS.</stage>
                <sp>
                   <speaker>Ch.</speaker>
@@ -3156,8 +3156,8 @@ new additions
                   <speaker>Ch.</speaker>
                   <p><l part="Y"> Effero. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="6">
+            </div>
+            <div type="scene" n="6">
                <stage>CLITIPHO. SYRUS.</stage>
                <sp>
                   <speaker>Cl.</speaker>
@@ -3255,8 +3255,8 @@ new additions
                   <l>Qua causa id fiat: obsecundato in loco. <lb ed="TLN" n="828"/></l>
                   <l>Quod imperabit facito; loquitor paucula. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="7">
+            </div>
+            <div type="scene" n="7">
                <stage>CHREMES. CLITIPHO. SYRUS.</stage>
                <sp>
                   <speaker>Ch.</speaker>
@@ -3311,8 +3311,8 @@ new additions
                   <l>Mihi nunc, relictis rebus, inveniendus est <lb ed="TLN" n="841"/></l>
                   <l>Aliquis labore inventa mea cui dem bona. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="8">
+            </div>
+            <div type="scene" n="8">
                <stage>MENEDEMUS. CHREMES.</stage>
                <sp>
                   <speaker>Me.</speaker>
@@ -3462,11 +3462,11 @@ new additions
                   <p><l part="Y"> Sane volo: <lb ed="TLN" n="873"/></l>
                   <l>Nam te sciente faciam, quicquid egero. </l>
                </p></sp>
-            </div2>
-         </div1>
-         <div1 type="act" n="5">
+            </div>
+         </div>
+         <div type="act" n="5">
 
-            <div2 type="scene" n="1">
+            <div type="scene" n="1">
                <stage>MENEDEMUS. CHREMES.</stage>
                <sp>
                   <speaker>Me.</speaker>
@@ -3881,8 +3881,8 @@ new additions
                   <l n="80">Non, ita me Di ament, auderet haec facere viduae mulieri, <lb ed="TLN" n="954"/></l>
                   <l>Quae in me fecit. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="2">
+            </div>
+            <div type="scene" n="2">
                <stage>CLITIPHO. MENEDEMITS. CHREMES. SYRUS.</stage>
                <sp>
                   <speaker>Cl.</speaker>
@@ -4097,8 +4097,8 @@ new additions
                   <l>Miror, continuo non iussisse abripi me. Ad Menedemum hunc pergam: <lb ed="TLN" n="1003"/></l>
                   <l>Eum mihi precatorem paro: seni nostro fidei nihil habeo. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="3">
+            </div>
+            <div type="scene" n="3">
                <stage>SOSTRATA. CHREMES.</stage>
                <sp>
                   <speaker>So.</speaker>
@@ -4185,8 +4185,8 @@ new additions
                   <l n="20">Tum praeterea talem nisi tu nulla pareret filium. <lb ed="TLN" n="1024"/></l>
                   <l>Sed ipse egreditur: quam severus ! rem cum videas, censeas. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="4">
+            </div>
+            <div type="scene" n="4">
                <stage>CLITIPHO. SOSTRATA. CHREMES.</stage>
                <sp>
                   <speaker>Cl.</speaker>
@@ -4257,8 +4257,8 @@ new additions
                   <p><l part="Y"> Eheu, quam ego nunc totus displiceo mihi, <lb ed="TLN" n="1045"/></l>
                   <l>Quam pudet! neque quod principium inveniam ad placandum scio. </l>
                </p></sp>
-            </div2>
-            <div2 type="scene" n="5">
+            </div>
+            <div type="scene" n="5">
                <stage>MENEDEMUS. CHIREMES. CLITIPHO. SOSTRATA.</stage>
                <sp>
                   <speaker>Me.</speaker>
@@ -4435,8 +4435,8 @@ new additions
                   <speaker>Om</speaker>
                   <p><l part="Y">Vos valete, et plaudite!</l>
                </p></sp>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

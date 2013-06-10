@@ -53,7 +53,7 @@
 
 <pb id="p.-004"/>
 
-<div1 type="preface"><head>Praefatio</head>
+<div type="preface"><head>Praefatio</head>
 
 <p>Ciceronis Brutum ex oculis hominum diu prorsus
 evanuisse satis notum est. Nam non nisi A. S. <num>mcdxxii</num>
@@ -151,12 +151,12 @@ Brutum tantum et ad Oratorem seorsum addere commodius
 esse legentibus putavi.</p>
 <closer><signed>A. S.</signed>
 <dateline>Mancunii
-<date>Id. Feb. <num>mcmiii</num>.</date></dateline></closer></div1>
+<date>Id. Feb. <num>mcmiii</num>.</date></dateline></closer></div>
 
 <pb id="p.1001"/>
 
 
-<div1 type="section"><head>SIGLA</head>
+<div type="section"><head>SIGLA</head>
 <p><hi rend="italics">F </hi>= codex Florentinus Magliabecchianus</p>
 <p><hi rend="italics">B</hi> = cod. Ottobonianus 1592</p>
 <p><hi rend="italics">O</hi> = cod. Ottobonianus 2057 <hi rend="italics">O</hi>2 = vetus corrector</p>
@@ -167,7 +167,7 @@ esse legentibus putavi.</p>
 <p><hi rend="italics">N </hi>= Venetus prior (Ellendt) Nannianus</p>
 <p><hi rend="italics">D </hi>= Parisinus 7704</p>
 <p><hi rend="italics">codd. dett. </hi>=codices inferioris notae, sive omnes sive plures</p>
-<p><hi rend="italics">vulg. </hi>= vulgata lectio</p></div1></front>
+<p><hi rend="italics">vulg. </hi>= vulgata lectio</p></div></front>
 
 <pb id="p.1002"/>
 
@@ -3338,7 +3338,7 @@ non erat amplius in exemnplari a quo abscisse sunt charte due: quamquam ut mihi 
 
 <pb id="p.1104"/>
 
-<back><div1 type="section"><head>Index Nominvm</head>
+<back><div type="section"><head>Index Nominvm</head>
 
 <p>Academia 120, 149, 306 315, 332.</p>
 <p>Academici 120.</p>
@@ -3911,6 +3911,6 @@ non erat amplius in exemnplari a quo abscisse sunt charte due: quamquam ut mihi 
 <p>Xenocles 316.</p>
 <p>Xenophon 292: cf. 132.</p>
 
-<p>Zeuxis 70.</p></div1></back></text>
+<p>Zeuxis 70.</p></div></back></text>
 
 </TEI.2>

@@ -58,20 +58,20 @@ Libri Octo</title>
 
 <text>
 	<body>
-		<div1 type="book" n="front">
-		<div2 type="chapter" n="dedication">
+		<div type="book" n="front">
+		<div type="chapter" n="dedication">
 <pb id="p.i"/>
 
 <pb id="p.iii"/>
 
 <p>Parentibus Carissimis</p>
-<p>Pietatis Ergo</p></div2>
+<p>Pietatis Ergo</p></div>
 
 <pb id="p.iv"/>
 
 <pb id="p.v"/>
 
-<div2 type="chapter" n="praef"><head>Editoris Praefatio</head>
+<div type="chapter" n="praef"><head>Editoris Praefatio</head>
 
 <p>C. Valeri Flacci carmen, quod litteratis suae aetatis viris
 haud improbatum, quod Quintiliano etiam laude, Statio imitatione dignum erat visum, posterioribus temporibus fortunam sinistram atque immeritam passum est. neque enim
@@ -2706,8 +2706,8 @@ meam inauguralem praefationis loco imprimendam liberalissime et benevolentissime
 </table>
 </p>
 </div3>
-</div2>
-	</div1>
+</div>
+	</div>
 	</body>
 </text>
 </TEI.2>

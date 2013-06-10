@@ -66,10 +66,10 @@
    </teiHeader>
    <text>
       <body>
-         <div1 type="chapter">
+         <div type="chapter">
             <pb id="v.5.p.1"/>
             <milestone unit="stephpage" id="stephpage-776a" n="776a"/>
-            <div2 type="section" n="1">
+            <div type="section" n="1">
                <p>Σωρκανὸν ἐγκολπίσασθαι καὶ φιλίαν τιμᾶν<milestone unit="stephpage" id="stephpage-776b" n="776b"/>
                   <milestone unit="tlnum" n="5"/>
 καὶ μετιέναι καὶ προσδέχεσθαι καὶ γεωργεῖν, πολλοῖς
@@ -117,8 +117,8 @@ a)ga/lmata e)p' au)ta=s baqmi/dos e(stao/ta</q> κατὰ Πίνδαρον ἀλ
 Αἰμιλίου Παύλου τοῦ δισυπάτου γέγονας, υἱωνὸς
 δὲ Σκιπίωνος τοῦ Ἀφρικανοῦ τοῦ νικήσαντος τὸν Ἀννίβαν τὸν Καρχηδόνιον, οὐκ ἄν σοι διαλέξομαι;
 </p>
-            </div2>
-            <div2 type="section" n="2">
+            </div>
+            <div type="section" n="2">
                <p>
                   <gap/> Τὸ δὲ λέγειν ὅτι δύο λόγοι εἰσίν, ὁ μὲν
 <milestone unit="tlnum" n="15"/>
@@ -184,8 +184,8 @@ a)ga/lmata e)p' au)ta=s baqmi/dos e(stao/ta</q> κατὰ Πίνδαρον ἀλ
 τὰ ὦτα διαλέξεσιν ἀκαίροις καὶ σοφιστικαῖς, βουλομένοις
 δὲ χαίρων καὶ διαλεγόμενος καὶ σχολάζων καὶ συνὼν προθύμως
 </p>
-            </div2>
-            <div2 type="section" n="3">
+            </div>
+            <div type="section" n="3">
                <p>
                   <quote rend="blockquote">
                      <l>σπείρω δ’ ἄρουραν δώδεχ’ ἡμερῶν ὁδὸν </l>
@@ -230,8 +230,8 @@ a)ga/lmata e)p' au)ta=s baqmi/dos e(stao/ta</q> κατὰ Πίνδαρον ἀλ
 <milestone unit="tlnum" n="20"/>
                   <milestone unit="stephpage" id="stephpage-779a" n="779a"/>
                </p>
-            </div2>
-            <div2 type="section" n="4">
+            </div>
+            <div type="section" n="4">
                <p>ἐμοὶ δὲ
 δοκεῖ καὶ λυροποιὸς ἂν ἣδιον λύραν ἐργάσασθαι καὶ προθυμότερον, μαθὼν ὡς ὁ ταύτην
 κτησόμενος; τὴν λύραν μέλλει τὸ Θηβαίων ἄστυ τειχίζειν
@@ -253,8 +253,8 @@ a)ga/lmata e)p' au)ta=s baqmi/dos e(stao/ta</q> κατὰ Πίνδαρον ἀλ
 ἐν πολλῷ χρόνῳ δευσοποιὸν οὖσαν καὶ δυσέκπλυτον·
 <milestone unit="tlnum" n="20"/> ἀκμαίους δ̓ ὄντας ἔτι δεῖ τῶν χρηστῶν ἀντιλαμβάνεσθαι
 λόγων.</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -146,7 +146,7 @@ Added to repository. Passed SGML parse.
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="book" n="1">
+			<div type="book" n="1">
 				<head>Book I</head>
 				<head>The Earliest Legends</head>
 				<milestone unit="chapter" n="pr"/>
@@ -771,8 +771,8 @@ Added to repository. Passed SGML parse.
 				<milestone unit="chapter" n="60"/>
 				<p><milestone unit="section" n="1"/>When the news of these proceedings reached the camp, the king, alarmed at the turn affairs were taking, hurried to <placeName key="tgn,7013962">Rome</placeName> to quell the outbreak. Brutus, who was on the same road, had become aware of his approach, and to avoid meeting him took another route, so that he reached Ardea and Tarquin <placeName key="tgn,7013962">Rome</placeName> almost at the same time, though by different ways.
 					<milestone unit="section" n="2"/> Tarquin found the gates shut, and a decree of banishment passed against him; the Liberator of the City received a joyous welcome in the camp, and the king's sons were expelled from it. Two of them followed their father, into exile amongst the Etruscans in Caere. Sextus Tarquin proceeded to Gabii, which he looked upon as his kingdom, but was killed in revenge for the old feuds he had kindled by his rapine and murders.</p> 
-				<p><milestone unit="section" n="3"/>Lucius Tarquinius Superbus reigned twenty-five years. The whole duration of the regal government from the foundation of the City to its liberation was two hundred and forty-four years. Two consuls were then elected in the assembly of centuries by the prefect of the City, in accordance with the regulations of Servius Tullius. They were Lucius Junius Brutus and Lucius Tarquinius Collatinus.</p></div1> 
-			<div1 type="book" n="2">
+				<p><milestone unit="section" n="3"/>Lucius Tarquinius Superbus reigned twenty-five years. The whole duration of the regal government from the foundation of the City to its liberation was two hundred and forty-four years. Two consuls were then elected in the assembly of centuries by the prefect of the City, in accordance with the regulations of Servius Tullius. They were Lucius Junius Brutus and Lucius Tarquinius Collatinus.</p></div> 
+			<div type="book" n="2">
 				<head>Book II</head>
 				<head>The Early Years of the Republic</head>
 				<milestone unit="chapter" n="1"/>
@@ -1456,8 +1456,8 @@ Added to repository. Passed SGML parse.
 					<milestone unit="section" n="2"/> More skillful generalship was shown against the Volscians; the enemy were routed in the first engagement and driven in flight to <placeName key="perseus,Antium">Antium</placeName>, which was, for those days, a very wealthy city. The consul did not venture to attack it, but he took <placeName key="perseus,Caeno">Caeno</placeName> from the Antiates, not by any means so wealthy a place. Whilst the Aequi and Volscians were keeping the Roman armies engaged, the Sabines extended their ravages up to the gates of the City. In a few days the consuls invaded their territory, and, attacked fiercely by both armies, they suffered heavier losses than they had inflicted. LXIV. Towards the close of the year there was a short interval of peace, but, as usual, it was marred by the struggle between the patricians and the plebeians. The plebs, in their exasperation, refused to take any part in the election of consuls; T. Quinctius and Q. Servilius were elected consuls by the patricians and their clients. They had a year similar to the previous one: agitation during the first part, then the calming of this by foreign war. The Sabines hurriedly traversed the plains of Crustumerium, and carried fire and sword into the district watered by the Anio, but were repulsed when almost close to the Colline gate and the walls of the City. They succeeded, however, in carrying off immense spoil both in men and cattle.
 					<milestone unit="section" n="3"/> The consul Servilius followed them up with an army bent on revenge, and though unable to come up with their main body in the open country, he carried on his ravages on such an extensive scale that he left no part unmolested by war, and returned with spoil many times greater than that of the enemy. Amongst the Volscians also the cause of <placeName key="perseus,Rome">Rome</placeName> was splendidly upheld by the exertions of general and soldiers alike. To begin with, they met on level ground and a pitched battle was fought with immense losses on both sides in killed and wounded. The Romans, whose paucity of numbers made them more sensible of their loss, would have retreated had not the consul called out that the enemy on the other wing were in flight, and by this well-timed falsehood roused the army to fresh effort. They made a charge and converted a supposed victory into a real one. The consul, fearing lest by pressing the attack too far he might force a renewal of the combat, gave the signal for retiring. For the next few days both sides kept quiet, as though there were a tacit understanding. During this interval, an immense body of men from all the Volscian and Aequan cities came into camp, fully expecting that when the Romans heard of their arrival they would make a nocturnal retreat. Accordingly, about the third watch they moved out to attack the camp. After allaying the confusion caused by the sudden alarm, Quinctius ordered the soldiers to remain quietly in their quarters, marched out a cohort of Hernicans to the outposts, mounted the buglers and trumpeters on horseback, and ordered them to sound their calls and keep the enemy on the alert till dawn.
 					<milestone unit="section" n="4"/> For the remainder of the night all was so quiet in the camp that the Romans even enjoyed ample sleep. The sight of the armed infantry whom the Volscians took to be Romans and more numerous than they really were, the noise and neighing of the horses, restless under their inexperienced riders and excited by the sound of the trumpets, kept the enemy in constant apprehension of an attack. LXV. At daybreak the Romans, fresh from their undisturbed sleep, were led into action, and at the first charge broke the Volscians, worn out as they were with standing and want of sleep. It was, however, a retreat rather than a rout, for in their rear there were hills to which all behind the front ranks safely retired. When they reached the rising ground, the consul halted his army. The soldiers were with difficulty restrained, they clamoured to be allowed to follow up the beaten foe. The cavalry were much more insistent, they crowded round the general and loudly declared that they would go on in advance of the infantry. While the consul, sure of the courage of his men, but not reassured as to the nature of the ground, was still hesitating, they shouted that they would go on, and followed up their shouts by making an advance. Fixing their spears in the ground that they might be more lightly equipped for the ascent, they went up at a run. The Volscians hurled their javelins at the first onset, and then flung the stones lying at their feet upon the enemy as they came up. Many were hit, and through the disorder thus created they were forced back from the higher ground.
-					<milestone unit="section" n="5"/> In this way the Roman left wing was nearly overwhelmed, but through the reproaches which the consul cast upon his retreating men for their rashness as well as their cowardice, he made their fear give way to the sense of shame. At first they stood and offered a firm resistance, then when by holding their ground they had recovered their energies they ventured upon an advance. With a renewed shout the whole line went forward, and pressing on in a second charge they surmounted the difficulties of the ascent, and were just on the point of reaching the summit when the enemy turned and fled. With a wild rush, pursuers and fugitives almost in one mass dashed into the camp, which was taken. Those of the Volscians who succeeded in escaping made for <placeName key="perseus,Antium">Antium</placeName>; thither the Roman army was led. After a few days' investment the place was surrendered, not owing to any unusual efforts on the part of the besiegers, but simply because after the unsuccessful battle and the loss of their camp the enemy had lost heart.</p></div1> 
-			<div1 type="book" n="3">
+					<milestone unit="section" n="5"/> In this way the Roman left wing was nearly overwhelmed, but through the reproaches which the consul cast upon his retreating men for their rashness as well as their cowardice, he made their fear give way to the sense of shame. At first they stood and offered a firm resistance, then when by holding their ground they had recovered their energies they ventured upon an advance. With a renewed shout the whole line went forward, and pressing on in a second charge they surmounted the difficulties of the ascent, and were just on the point of reaching the summit when the enemy turned and fled. With a wild rush, pursuers and fugitives almost in one mass dashed into the camp, which was taken. Those of the Volscians who succeeded in escaping made for <placeName key="perseus,Antium">Antium</placeName>; thither the Roman army was led. After a few days' investment the place was surrendered, not owing to any unusual efforts on the part of the besiegers, but simply because after the unsuccessful battle and the loss of their camp the enemy had lost heart.</p></div> 
+			<div type="book" n="3">
 				<head>Book III</head>
 				<head>The Decemvirate</head>
 				<milestone unit="chapter" n="1"/>
@@ -2267,8 +2267,8 @@ Added to repository. Passed SGML parse.
 					<milestone unit="section" n="4"/> Did they suppose that the surrounding nations would fix the responsibility for it on Scaptius, a mob-orator in his dotage? To him it might be a patent of nobility, but on the Roman people it would stamp a character for trickery and fraud.
 					<milestone unit="section" n="5"/> For what judge has ever dealt with a private suit so as to adjudge to himself the property in dispute? Even Scaptius would not do that, although he has outlived all sense of shame.</p> 
 				<p><milestone unit="section" n="6"/>In spite of these earnest appeals which the consuls and senators made, cupidity and Scaptius its instigator prevailed. The tribes, when called upon to vote, decided that it was part of the public domain of Rome.
-					<milestone unit="section" n="7"/> It is not denied that the result would have been the same had the case gone before other judges, but as it is, the disgrace attaching to the judgment is not in the least degree lightened by any justice in the case, nor did it appear more ugly and tyrannical to the people of Aricia and Ardea than it did to the Roman senate.</p> <p>The rest of the year remained undisturbed both at home and abroad.</p></div1> 
-			<div1 type="book" n="4">
+					<milestone unit="section" n="7"/> It is not denied that the result would have been the same had the case gone before other judges, but as it is, the disgrace attaching to the judgment is not in the least degree lightened by any justice in the case, nor did it appear more ugly and tyrannical to the people of Aricia and Ardea than it did to the Roman senate.</p> <p>The rest of the year remained undisturbed both at home and abroad.</p></div> 
+			<div type="book" n="4">
 				<head>Book IV</head>
 				<head>The Growing Power of the Plebs</head>  
 				<milestone unit="chapter" n="1"/>
@@ -2928,8 +2928,8 @@ Added to repository. Passed SGML parse.
 						<milestone unit="section" n="8"/> The Romans would have retired in disgust had not a slave betrayed the place to them.
 						<milestone unit="section" n="9"/> The soldiers, guided by him up some steep ground, effected its capture, and after they had massacred those on guard, the rest, panic-struck, surrendered.</p><p>After the town and citadel had been demolished, the legions were withdrawn from Volscian territory and the whole strength of Rome was directed against Veii.
 							<milestone unit="section" n="10"/> The traitor was rewarded not only with his freedom, but also with the property of two households, and was called Servius Romanus.</p><p>Some suppose that Artena belonged to the Veientines, not the Volscians.
-								<milestone unit="section" n="11"/> The mistake arises from the fact that there was a city of the same name between Caere and Veii, but it was destroyed in the time of the kings of Rome, and it belonged to Caere, not Veii. The other town of the same name whose destruction I have mentioned was in the Volscian territory.</p></div1> 
-			<div1 type="book" n="5">
+								<milestone unit="section" n="11"/> The mistake arises from the fact that there was a city of the same name between Caere and Veii, but it was destroyed in the time of the kings of Rome, and it belonged to Caere, not Veii. The other town of the same name whose destruction I have mentioned was in the Volscian territory.</p></div> 
+			<div type="book" n="5">
 				<head>Book V</head>
 				<head>The Veii and the Destruction of Rome by the Gauls</head>
 				<milestone unit="chapter" n="1"/>
@@ -3561,8 +3561,8 @@ Added to repository. Passed SGML parse.
 					<milestone unit="section" n="2"/> On hearing these words, the senators rushed out of the Senate-house, exclaiming that they welcomed the omen, and the people crowding round them gave an emphatic approval. The proposed measure for migration was dropped, and they began to rebuild the City in a haphazard way.
 					<milestone unit="section" n="3"/> Tiling was provided at the public expense; every one was given the right to cut stone and timber where he pleased, after giving security that the building should be completed within the year.
 					<milestone unit="section" n="4"/> In their haste, they took no trouble to plan out straight streets; as all distinctions of ownership in the soil were lost, they built on any ground that happened to be vacant.
-					<milestone unit="section" n="5"/> That is the reason why the old sewers, which originally were carried under public ground, now run everywhere under private houses, and why the conformation of the City resembles one casually built upon by settlers rather than one regularly planned out.</p></div1> 
-			<div1 type="book" n="6">
+					<milestone unit="section" n="5"/> That is the reason why the old sewers, which originally were carried under public ground, now run everywhere under private houses, and why the conformation of the City resembles one casually built upon by settlers rather than one regularly planned out.</p></div> 
+			<div type="book" n="6">
 				<head>Book VI</head>
 				<head>B.C. <date value="-389">389</date>-<date value="-366">366</date></head>
 				<head>The reconciliation of the orders</head>
@@ -4065,8 +4065,8 @@ Added to repository. Passed SGML parse.
 						<milestone unit="section" n="11"/> The patricians refused to confirm the appointment, and matters were approaching a secession of the plebs and other threatening signs of appalling civic struggles. The Dictator, however, quieted the disturbances by arranging a compromise; the nobility made a concession in the matter of a plebeian consul, the plebs gave way to the nobility on the appointment of a praetor to administer justice in the City who was to be a patrician.
 						<milestone unit="section" n="12"/> Thus after their long estrangement the two orders of the State were at length brought into harmony.</p> <p>The senate decided that this event deserved to be commemorated &mdash;and if ever the immortal gods merited men's gratitude, they merited it then &mdash;by the celebration of the Great Games, and a fourth day was added to the three hitherto devoted to them.
 							<milestone unit="section" n="13"/> The plebeian aediles refused to superintend them, whereupon the younger patricians were unanimous in declaring that they would gladly allow themselves to be appointed aediles for the honour of the immortal gods.
-							<milestone unit="section" n="14"/> They were universally thanked, and the senate made a decree that the Dictator should ask the people to elect two aediles from amongst the patricians, and that the senate should confirm all the elections of that year.</p></div1> 
-			<div1 type="book" n="7">
+							<milestone unit="section" n="14"/> They were universally thanked, and the senate made a decree that the Dictator should ask the people to elect two aediles from amongst the patricians, and that the senate should confirm all the elections of that year.</p></div> 
+			<div type="book" n="7">
 				<head>Book VII</head>
 				<head>B.C. <date value="-366">366</date>-<date value="-341">341</date></head>
 				<head>Frontier wars</head>
@@ -4603,8 +4603,8 @@ Added to repository. Passed SGML parse.
 					<milestone unit="section" n="5"/> also that it was not their leaders who made the first suggestions of concord, but what happened was that as the two
 					<milestone unit="section" n="6??"/> armies advanced towards each other prepared for action the soldiers exchanged mutual greetings, and as they drew nearer grasped each other's hands and embraced one another, and the consuls, seeing how averse the soldiers were from fighting, yielded to circumstances and made proposals to the senate for reconciliation and concord.
 					<milestone unit="section" n="7"/> Thus the ancient authorities agree in nothing but the simple fact that there was a mutiny and that it was suppressed.</p> 
-				<p><milestone unit="section" n="8"/>The report of this disturbance and the seriousness of the war which had been commenced with the Samnites made many nationalities averse from an alliance with Rome. The Latins had long been faithless to their treaty, and in addition to that the Privernates made a sudden incursion and devastated the neighbouring Roman colonies of Norba and Setia.</p></div1> 
-			<div1 type="book" n="8">
+				<p><milestone unit="section" n="8"/>The report of this disturbance and the seriousness of the war which had been commenced with the Samnites made many nationalities averse from an alliance with Rome. The Latins had long been faithless to their treaty, and in addition to that the Privernates made a sudden incursion and devastated the neighbouring Roman colonies of Norba and Setia.</p></div> 
+			<div type="book" n="8">
 				<head>Book VIII</head>
 				<head>B.C. <date value="-341">341</date>-<date value="-321">321</date></head>
 				<head>First Samnite War and settlement of Latium</head>
@@ -5151,8 +5151,8 @@ Added to repository. Passed SGML parse.
 					<milestone unit="section" n="2"/> There is no discrepancy as to A. Cornelius having been Dictator that year, the only doubt is whether he was appointed to conduct the war, or whether, owing to the serious illness of L. Plautius, the praetor, he was appointed to give the signal for starting the chariot races, and after discharging this not very noteworthy function resigned office.
 					<milestone unit="section" n="3"/> It is difficult to decide which account or which authority to prefer.
 					<milestone unit="section" n="4"/> I believe that the true history has been falsified by funeral orations and lying inscriptions on the family busts, since each family appropriates to itself an imaginary record of noble deeds and official distinctions. It is at all events owing to this cause that so much confusion has been introduced into the records of private careers and public events.
-					<milestone unit="section" n="5"/> There is no writer of those times now extant who was contemporary with the events he relates and whose authority, therefore, can he depended upon.</p></div1> 
-			<div1 type="book" n="9">
+					<milestone unit="section" n="5"/> There is no writer of those times now extant who was contemporary with the events he relates and whose authority, therefore, can he depended upon.</p></div> 
+			<div type="book" n="9">
 				<head>BOOK IX</head>
 				<head>B.C. <date value="-321">321</date>-<date value="-304">304</date></head>
 				<head>THE SECOND SAMNITE WAR</head>
@@ -5861,8 +5861,8 @@ Added to repository. Passed SGML parse.
 							<milestone unit="section" n="12"/> tribes. Such deep indignation was aroused by the election of Flavius that most of the nobles laid aside their gold rings and military decorations as a sign of
 							<milestone unit="section" n="13"/> mourning.</p> <p>From that time the citizens were divided into two parties; the uncorrupted part of the people, who favoured and supported men of integrity and patriotism, were aiming at one thing, the "mob of the Forum" were aiming at something
 								<milestone unit="section" n="14"/> else. This state of things lasted until Q. Fabius and P. Decius were made censors. Q. Fabius, for the sake of concord, and at the same time to prevent the elections from being controlled by the lowest of the populace, threw the whole of the citizens of the lowest class &mdash;the <q direct="unspecified">mob of the Forum</q> &mdash;into four tribes and called them <q direct="unspecified">the City
-									<milestone unit="section" n="15"/> Tribes.</q> Out of gratitude for his action, it is said, he received an epithet which he had not gained by all his victories, but which was now conferred upon him for the wisdom he had shown in thus adjusting the orders in the State &mdash; the cognomen <q direct="unspecified">Maximus.</q></p> <p>It is stated that he also instituted the annual parade of the cavalry on July 5.</p></div1> 
-			<div1 type="book" n="10">
+									<milestone unit="section" n="15"/> Tribes.</q> Out of gratitude for his action, it is said, he received an epithet which he had not gained by all his victories, but which was now conferred upon him for the wisdom he had shown in thus adjusting the orders in the State &mdash; the cognomen <q direct="unspecified">Maximus.</q></p> <p>It is stated that he also instituted the annual parade of the cavalry on July 5.</p></div> 
+			<div type="book" n="10">
 				<head>Book X</head>
 				<head><date value="-303">303</date>-<date value="-293">293 B.C.</date></head>
 				<head>The Third Samnite War</head>
@@ -6548,7 +6548,7 @@ Added to repository. Passed SGML parse.
 				<p><milestone unit="section" n="5"/>L. Papirius conducted the consular elections. The consuls elected were Q. Fabius Gurgites, the son of Maximus, and D. Junius Brutus Scaeva. Papirius himself was made praetor.</p> 
 				<p><milestone unit="section" n="6"/>The many incidents which helped to make the year a happy one served to console the citizens for one calamity, a pestilence which raged in the City and country districts alike. The mischief it did was looked upon as a portent. The Sacred Books were consulted to see what end or what remedy would be vouchsafed by the gods.
 					<milestone unit="section" n="7"/> It was ascertained that Aesculapius must be sent for from Epidaurus. Nothing, however, was done that year, owing to the consuls being engrossed with the war, beyond the appointment of a day of public intercession to Aesculapius.</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

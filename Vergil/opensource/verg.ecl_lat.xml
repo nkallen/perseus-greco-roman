@@ -110,7 +110,7 @@ Changed names and redid headers.
   </teiHeader>
 <text>
 <body>
-<div1 type="Poem" n="1">
+<div type="poem" n="1">
 <head>ECLOGA I. MELIBOEUS, TITYRUS</head>
 <sp><speaker>Meliboeus</speaker>
 <p><l>Tityre, tu patulae recubans sub tegmine fagi</l>
@@ -196,8 +196,8 @@ Changed names and redid headers.
 <l>fronde super viridi: sunt nobis mitia poma,</l>
 <l>castaneae molles, et pressi copia lactis;</l>
 <l>et iam summa procul villarum culmina fumant,</l>
-<l>maioresque cadunt altis de montibus umbrae.</l></p></sp></div1>
-<div1 type="Poem" n="2">
+<l>maioresque cadunt altis de montibus umbrae.</l></p></sp></div>
+<div type="poem" n="2">
 <head>ECLOGA II.</head>
 <p><l>Formosum pastor Corydon ardebat Alexim,</l>
 <l>delicias domini, nec quid speraret habebat;</l>
@@ -271,8 +271,8 @@ Changed names and redid headers.
 <l n="70">Semiputata tibi frondosa vitis in ulmo est;</l>
 <l>quin tu aliquid saltem potius, quorum indiget usus,</l>
 <l>viminibus mollique paras detexere iunco?</l>
-<l>Invenies alium, si te hic fastidit, Alexim.</l></p></div1>
-<div1 type="Poem" n="3">
+<l>Invenies alium, si te hic fastidit, Alexim.</l></p></div>
+<div type="poem" n="3">
 <head>ECLOGA III. MENALCAS, DAMOETAS, PALAEMON</head>
 
 <sp><speaker>Menalcas</speaker><p><l>Dic mihi, Damoeta, cuium pecus, an Meliboei?</l></p></sp>
@@ -385,8 +385,8 @@ Changed names and redid headers.
 <sp><speaker>Palaemon</speaker><p><l>Non nostrum inter vos tantas componere lites.</l>
 <l>Et vitula tu dignus, et hic, et quisquis amores</l>
 <l n="110">aut metuet dulces, aut experietur amaros.</l>
-<l>Claudite iam rivos, pueri, sat prata biberunt.</l></p></sp></div1>
-<div1 type="Poem" n="4">
+<l>Claudite iam rivos, pueri, sat prata biberunt.</l></p></sp></div>
+<div type="poem" n="4">
 <head>ECLOGA IV.</head>
 <lg type="stanza"><l>Sicelides Musae, paulo maiora canamus!</l>
 <l>Non omnis arbusta iuvant humilesque myricae;</l>
@@ -450,8 +450,8 @@ Changed names and redid headers.
 <l n="60">Incipe, parve puer, risu cognoscere matrem,</l>
 <l>matri longa decem tulerunt fastidia menses.</l>
 <l>Incipe, parve puer, cui non risere parentes,</l>
-<l>nec deus hunc mensa, dea nec dignata cubili est.</l></lg></div1>
-<div1 type="Poem" n="5">
+<l>nec deus hunc mensa, dea nec dignata cubili est.</l></lg></div>
+<div type="poem" n="5">
 <head>ECLOGA V. MENALCAS, MOPSUS</head>
 
 <sp><speaker>Menalcas</speaker><p><l>Cur non, Mopse, boni quoniam convenimus ambo,</l>
@@ -543,8 +543,8 @@ Changed names and redid headers.
 <l>haec eadem docuit, &lsquo;Cuium pecus, an Meliboei?&rsquo;</l></p></sp>
 <sp><speaker>Mopsus</speaker><p><l>At tu sume pedum, quod, me cum saepe rogaret,</l>
 <l>non tulit Antigenes&mdash;et erat tum dignus amari&mdash;</l>
-<l n="90">formosum paribus nodis atque aere, Menalca.</l></p></sp></div1>
-<div1 type="Poem" n="6">
+<l n="90">formosum paribus nodis atque aere, Menalca.</l></p></sp></div>
+<div type="poem" n="6">
 <head>ECLOGA VI.</head>
 <lg><l>Prima Syracosio dignata est ludere versu,</l>
 <l>nostra nec erubuit silvas habitare Thalia.</l>
@@ -631,8 +631,8 @@ Changed names and redid headers.
 <l>audiit Eurotas, iussitque ediscere laurus,</l>
 <l>ille canit: pulsae referunt ad sidera valles;</l>
 <l n="85">cogere donec ovis stabulis numerumque referri</l>
-<l>iussit, et invito processit Vesper Olympo.</l></lg></div1>
-<div1 type="Poem" n="7">
+<l>iussit, et invito processit Vesper Olympo.</l></lg></div>
+<div type="poem" n="7">
 <head>ECLOGA VII. MELIBOEUS, CORYDON, THYRSIS</head>
 
 <sp><speaker>Meliboeus</speaker><p><l>Forte sub arguta consederat ilice Daphnis,</l>
@@ -704,8 +704,8 @@ Changed names and redid headers.
 <l>saepius at si me, Lycida formose, revisas,</l>
 <l>fraxinus in silvis cedat tibi, pinus in hortis.</l>
 <l>Haec memini, et victum frustra contendere Thyrsim:</l>
-<l n="70">ex illo Corydon Corydon est tempore nobis.</l></p></sp></div1>
-<div1 type="Poem" n="8">
+<l n="70">ex illo Corydon Corydon est tempore nobis.</l></p></sp></div>
+<div type="poem" n="8">
 <head>ECLOGA VIII. DAMON, ALPHESIBOEUS</head>
 <p><l>Pastorem Musam Damonis et Alphesiboei&mdash;</l>
 <l>immemor herbarum quos est mirata iuvenca</l>
@@ -815,8 +815,8 @@ Changed names and redid headers.
 <l>sponte sua, dum ferre moror, cinis ipse: bonum sit!</l>
 <l>Nescio quid certe est, et Hylas in limine latrat.</l>
 <l>Credimus, an, qui amant, ipsi sibi somnia fingunt?</l>
-<l>Parcite, ab urbe venit, iam carmina, parcite, Daphnis.</l></lg></p></sp></p></div1>
-<div1 type="Poem" n="9">
+<l>Parcite, ab urbe venit, iam carmina, parcite, Daphnis.</l></lg></p></sp></p></div>
+<div type="poem" n="9">
 <head>ECLOGA IX. LYCIDAS, MOERIS</head>
 
 <sp><speaker>Lycidas</speaker><p><l>te, Moeri, pedes? an, quo via ducit, in urbem?</l></p></sp>
@@ -885,8 +885,8 @@ Changed names and redid headers.
 <l>cantantes licet usque (minus via laedit) eamus;</l>
 <l n="65">cantantes ut eamus, ego hoc te fasce levabo.</l></p></sp>
 <sp><speaker>Moeris</speaker><p><l>Desine plura, puer, et quod nunc instat agamus:</l>
-<l>carmina tum melius, cum venerit ipse, canemus.</l></p></sp></div1>
-<div1 type="Poem" n="10">
+<l>carmina tum melius, cum venerit ipse, canemus.</l></p></sp></div>
+<div type="poem" n="10">
 <head>ECLOGA X.</head>
 <p><l>Extremum hunc, Arethusa, mihi concede laborem:</l>
 <l>pauca meo Gallo, sed quae legat ipsa Lycoris,</l>
@@ -964,5 +964,5 @@ Changed names and redid headers.
 <l>quantum vere novo viridis se subicit alnus.</l>
 <l n="75">Surgamus; solet esse gravis cantantibus umbra;</l>
 <l>iuniperi gravis umbra; nocent et frugibus umbrae.</l>
-<l>Ite domum saturae, venit Hesperus, ite capellae.</l></lg></p></div1>
+<l>Ite domum saturae, venit Hesperus, ite capellae.</l></lg></p></div>
 </body></text></TEI.2>

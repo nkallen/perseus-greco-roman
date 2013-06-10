@@ -56,7 +56,7 @@
 
 <text>
 	<body>
-<div1 type="front">
+<div type="front">
 <pb id="p.v"/>
 
 <!--<div2 type="chapter"><head>Table of contents</head>
@@ -90,7 +90,7 @@ their appropriate employment. <ref target="p.349">349</ref></p>
 
 <pb id="p.vii"/>
 
-<div2 type="chapter"><head>Introductory note</head>
+<div type="chapter"><head>Introductory note</head>
 
 <p>A considerable portion of the three books contained in this volume is of a highly technical
 character and of interest only to professed students
@@ -105,19 +105,19 @@ referred back to III. vi, as the subject is too complicated to be dealt with in 
 Syllogism, Enthymeme or Epichaereme reference
 will be necessary to the passages indicated in the
 footnotes.</p>
-<closer><signed><name>H. E. B.</name></signed></closer></div2>
+<closer><signed><name>H. E. B.</name></signed></closer></div>
 
 <pb id="p.viii"/>
 
-<div2 type="chapter"><head>Sigla</head>
+<div type="chapter"><head>Sigla</head>
 
 <p>A = Codex Ambrosianus, 11th century.</p>
 <p>B = Agreement of Codices Bernensis, Bambergensis and
 Nostradamensis, 10th century.</p>
 <p>G = Codex Bambergensis where gaps in B have been
 supplied by an 11th-century hand.</p>
-</div2>
-</div1>
+</div>
+</div>
 	</body>
 </text>
 </TEI.2>

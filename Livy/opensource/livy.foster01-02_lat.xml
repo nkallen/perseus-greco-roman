@@ -53,7 +53,7 @@
 	
 	<text>
 		<body>
-			<div1 type="book" n="1"><head>Liber I</head>
+			<div type="book" n="1"><head>Liber I</head>
 				<p><milestone unit="chapter" n="pr"/><milestone unit="section" n="1"/><milestone unit="section" n="1"/> <reg>facturusne</reg> operae pretium sim,<note>operae pretium sirm <hi rend="italics"><reg>sabellicus</reg> (from Quint. </hi>ix. iv. 74): sim operae pretium <foreign lang="greek">W.</foreign></note> si a primordio
 					urbis res populi Romani perscripserim, nec satis scio,
 					nec,<milestone unit="section" n="2"/> si sciam, dicere ausim, quippe qui cum veterem
@@ -1674,8 +1674,8 @@
 					urbis ex commentariis Ser. <name>Tulli</name> creati sunt, L.
 					Iunius Brutus et L. Tarquinius Collatinus.</p>
 				<pb id="p.210"/>
-			</div1>
-			<div1 type="book" n="1s"><head>Libri I Periocha</head>
+			</div>
+			<div type="book" n="1s"><head>Libri I Periocha</head>
 				<p><hi rend="italics">A.</hi> ADVENTUS Aeneae in Italiam et res gestae. <reg>ascani</reg>
 					regnum Albae et deinceps Silviorum. <name>Numitoris</name> filia a
 					Marte compressa nati Romulus et Remus. <name>Amulius</name>
@@ -1731,8 +1731,8 @@
 					expulsus est, cum regnasset annos xxv. <reg>tum</reg> consules
 					primi creati sunt L. Iunius Brutus L. Tarquinius Collatinus.</p>
 				<pb id="p.218"/>
-			</div1>
-			<div1 type="book" n="2"><head>Liber II</head>
+			</div>
+			<div type="book" n="2"><head>Liber II</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> LIBERI iam hinc populi Romani res pace<note type="margin">A.U.C. 245</note> belloque gestas, annuos magistratus, imperiaque legum
 					potentiora quam hominum peragam.<milestone unit="section" n="2"/> <reg>quae</reg> libertas
 					ut laetior esset proxumi regis superbia fecerat. <reg>nam</reg>
@@ -3337,8 +3337,8 @@
 					dies deditur, nulla oppugnantium nova vi, sed quod
 					iam inde ab infelici pugna castrisque amissis ceciderant animi.</p>
 				<pb id="p.434"/>
-			</div1>
-			<div1 type="book" n="2s"><head>Libri II Periocha</head>
+			</div>
+			<div type="book" n="2s"><head>Libri II Periocha</head>
 				<p><name>Brutus</name> iureiurando populum adstrinxit neminem Romae regnare passuros. <name>Tarquinium</name> Collatinum collegam
 					suum propter adfinitatem Tarquiniorum suspectum coegit
 					consulatu se abdicare et civitate cedere. <reg>bona</reg> regum
@@ -3371,8 +3371,8 @@
 					<pb id="p.438"/>
 					ab hostibus caesi sunt. <name>Appius</name> Claudius cos. cum adversus Vulscos contumacia exercitus male pugnatum esset,
 					decimum quemque militum fuste percussit. <reg>res</reg> praeterea adversus Vulscos et Hernicos et Veientes et seditiones inter patres plebemque continet.</p>
-			</div1>
-			<div1 type="book" n="index"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><head>Index of names</head>
 				<head>(The References are to Pages.)</head>
 				<p>ABORIGINES, 8, 10, 12</p>
 				<p>Achivi, 8</p>
@@ -3701,7 +3701,7 @@
 				<p>Volesus, 202, 204</p>
 				<p>Volsci, 182, <hi rend="italics">et passim;</hi> Volsci Antiates, 328; Volscum bellum. 414; Volscus ager, 418; Ecetrani Volsci, 298</p>
 				<p>Volumnia, 346</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

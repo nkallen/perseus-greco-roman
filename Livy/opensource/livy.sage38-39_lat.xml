@@ -54,7 +54,7 @@
 	<text>
 		<body>
 			<pb id="p.2"/>
-			<div1 type="book" n="38"><head>Liber XXXVIII</head>
+			<div type="book" n="38"><head>Liber XXXVIII</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> <reg>dum</reg> in Asia bellum geritur, ne in
 					Aetolia<note type="margin">A.U.C. 565</note> quidem res quietae fuerant, principio a gente Athamanum orto.<milestone unit="section" n="2"/> <name>Athamania</name> ea tempestate pulso Amynandro sub praefectis<note>praefectis <foreign lang="greek">ς·</foreign> praefecto <hi rend="italics">B.</hi></note> Philippi regio tenebatur praesidio, qui superbo atque immodico imperio desiderium Amynandri fecerant.<milestone unit="section" n="3"/> <reg>exulanti</reg> tum<note>exulanti tum <foreign lang="greek">ς·</foreign> exulantium <hi rend="italics">B.</hi></note> Amynandro in Aetolia litteris suorum, indicantium statum Athamaniae, spes recuperandi regni facta est.<milestone unit="section" n="4"/> <reg>remissique</reg> ab eo nuntiant principibus Argitheam&mdash;id enim caput Athamaniae erat&mdash;si popularium animos satis
 					perspectos haberet, impetrato ab Aetolis auxilio in
@@ -1237,9 +1237,9 @@
 					<pb id="p.210"/>
 					acciperet eam, locupletior aliquanto esset quam ante<note type="margin">A.U.C. 567</note> calamitatem fuerat.<milestone unit="section" n="10"/> <reg>nihil</reg> accepit; quae necessaria ad cultum erant, redempta ei a proximis cognatis sunt; verteratque Scipionum invidia in praetorem
 					et consilium eius et accusatores.</p>
-			</div1>
+			</div>
 			<pb id="p.212"/>
-			<div1 type="book" n="38s"><head>Libri XXXVIII Periocha</head>
+			<div type="book" n="38s"><head>Libri XXXVIII Periocha</head>
 				<p>M. Fulvius cos. in Epiro Ambracienses obsessos in
 					deditionem accepit, Cephallaniam subegit, Aetolis perdomitis pacem dedit. <name>Cn</name>. Manlius cos., collega eius, Gallograecos, Tolostobogios et Tectosagos et Trocmos,<note><hi rend="italics"><reg>these</reg> names, much confused in the MSS., are corrected</hi> <hi rend="italics">from the Livy text.</hi></note> qui
 					Brenno duce in Asiam transierant, cum soli citra Taurum
@@ -1255,9 +1255,9 @@
 					tr. pl., qui antea Scipionibus inimicus fuerat, intercessit
 					et ob id beneficium Africani filiam duxit. <reg>cum</reg> quaestores
 					in bona eius publice possidenda missi essent,<note>missi essent <hi rend="italics">J. F. Gronovius</hi>: misissent <hi rend="italics">codd.</hi></note> non modo in his ullum vestigium pecuniae regiae apparuit, sed nequaquam tantum redactum quantae summae erat damnatus. <reg>collatam</reg> a cognatis et amicis innumerabilem pecuniam accipere noluit; quae necessaria ei erant ad cultum redempta.</p>
-			</div1>
+			</div>
 			<pb id="p.218"/>
-			<div1 type="book" n="39"><head>Liber XXXIX</head>
+			<div type="book" n="39"><head>Liber XXXIX</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> <reg>dum</reg> haec, si modo hoc anno acta sunt, Romae<note type="margin">A.U.C. 567</note> aguntur, consules ambo in Liguribus gerebant bellum.
 					<milestone unit="section" n="2"/> <reg>is</reg> hostis velut natus ad continendam inter magnorum
 					intervalla bellorum Romanis militarem disciplinam
@@ -2612,9 +2612,9 @@
 					missis praeter T. Quinctium Flamininum, cuius in ea
 					re celebre est nomen, L. Scipione Asiatico et P.
 					Scipione Nasica.</p>
-			</div1>
+			</div>
 			<pb id="p.400"/>
-			<div1 type="book" n="39s"><head>Libri XXXIX Periocha</head>
+			<div type="book" n="39s"><head>Libri XXXIX Periocha</head>
 				<p>M. Aemilius cos. <name>Liguribus</name> subactis viam Placentia
 					usque Ariminum productam Flaminiae iunxit. <reg>initia</reg>
 					luxuriae in urbem introducta ab exercitu Asiatico referuntur. <name>Ligures</name> quicumque citra Appenninum erant
@@ -2625,8 +2625,8 @@
 					<pb id="p.402"/>
 					maximus, a Messeniis occisus veneno cum ab his in bello
 					captus esset. <reg>coloriae</reg> Potentia<note>Potentia <hi rend="italics"><name>Sigonius</name></hi>: polentia <hi rend="italics">codd.</hi></note> et Pisaurum et Mutina et Parma deductae sunt. <reg>praeterea</reg> res adversus Celtiberos prospere gestas et initia causasque belli Macedonici continet. <reg>cuius</reg> origo inde fluxit quod Philippus aegre ferebat regnum suum a Romanis imminui et quod cogeretur a Thracibus aliisque locis praesidia deducere.</p>
-			</div1>
-			<div1 type="book" n="index"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><head>Index of names</head>
 				<head><hi rend="italics">The References are to Pages</hi>)</head>
 				<p>ABBASSIUS, 50</p>
 				<p>Abderitae, 140</p>
@@ -3149,7 +3149,7 @@
 				<p>Zmyrnaei, 132</p>
 				<p><hi rend="italics">Printed in Great Britain by Richard Clay (The Chaucer Press), Ltd.,
 					Bungay, Suffolk</hi></p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

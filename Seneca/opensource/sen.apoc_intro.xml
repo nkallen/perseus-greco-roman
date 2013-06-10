@@ -51,9 +51,9 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="chapter" n="front">
+			<div type="chapter" n="front">
 				<pb id="p.367"/>
-			<div2 type="section" n="intro"><head>INTRODUCTION</head>
+			<div type="section" n="intro"><head>INTRODUCTION</head>
 				<p>This piece is ascribed to Seneca by ancient tradition; it is impossible to
 					prove that it is his, and impossible to prove that it is not. The matter
 					will probably continue to be decided by every one according to his view of
@@ -71,10 +71,10 @@
 					which I have taken a few references; but my translation was made many years
 					ago.</p>
 				<signed>W. H. D. ROUSE.</signed>
-			</div2>
+			</div>
 			<pb/>
 			<pb id="p.369"/>
-			<div2 type="section" n="biblio"><head>BIBLIOGRAPHY</head>
+			<div type="section" n="biblio"><head>BIBLIOGRAPHY</head>
 				<p><hi rend="italics">Editio Princeps:</hi> Lucii Annaei Senecae in morte Claudii
 					Caesaris Ludus nuper repertus: Rome, 1513.</p>
 				<p><hi rend="italics">Latest critical text:</hi> Franz Buecheler, Weidmann, 1904 (a
@@ -83,8 +83,8 @@
 				<p><hi rend="italics">Translations and helps:</hi> The Satire of Seneca on the
 					Apotheosis of Claudius, by A. P. Ball (with introduction, notes, and translations):
 					New York: Columbia University Press; London, Macmillan, 1902.</p>
-			</div2>
-			</div1>
+			</div>
+			</div>
 			
 		</body>
 	</text>

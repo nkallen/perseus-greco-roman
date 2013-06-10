@@ -61,7 +61,7 @@
 </teiHeader>
 
 <text>
-	<body><div1 type="book" n="7"><head>Liber VII</head>
+	<body><div type="book" n="7"><head>Liber VII</head>
 
 <p><milestone unit="chapter" n="pr"/><milestone unit="section" n="1"/>de inventione, ut arbitror, satis dictum est.
 <reg>neque</reg> enim ea demum, quae ad docendum pertinent, exsecuti sumus, verum etiam motus animorum
@@ -1913,11 +1913,11 @@ copula tenebunt, <hi rend="italics">A</hi> (se <hi rend="italics">2nd hand</hi>)
 composita oratio, sed etiam continua. <reg>verum</reg> longius
 fortasse progredior fallente transitu et a dispositione
 ad elocutionis praecepta labor, quae proximus liber
-inchoabit.</p></div1>
+inchoabit.</p></div>
 
 <pb id="p.176"/>
 
-<div1 type="book" n="8"><head>Liber VIII</head>
+<div type="book" n="8"><head>Liber VIII</head>
 
 <p><milestone unit="chapter" n="pr"/><milestone unit="section" n="1"/><milestone unit="section" n="1"/> <reg>his</reg> fere, quae in proximos quinque libros collata
 sunt, ratio inveniendi atque inventa disponendi
@@ -4057,14 +4057,14 @@ modum excessit. <reg>conceditur</reg> enim amplius dicere,
 quia dici, quantum est, non potest, meliusque ultra
 quam citra stat oratio. <reg>sed</reg> de hoc satis, quia
 eundem locum plenius <corr sic="in">id</corr> eo libro, quo causas
-corruptae eloquentiae reddebamus, tractavimus.</p></div1>
+corruptae eloquentiae reddebamus, tractavimus.</p></div>
 
 
 
 <pb id="p.348"/>
 
 
-<div1 type="book" n="9"><head>Liber IX</head>
+<div type="book" n="9"><head>Liber IX</head>
 
 <p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/><reg>cum</reg> sit proximo libro de tropis dictum, sequitur
 pertinens ad figuras, quae <foreign lang="greek">σχήματα</foreign> Graece vocantur,
@@ -7017,7 +7017,7 @@ numerus. <reg>ratio</reg> <corr sic="in">ut</corr> adiectione, detractione, muta
 ita magna, ut sentiendi atque eloquendi prior sit;
 dissimulatio curae praecipua, ut numeri sponte
 fluxisse, non arcessiti et coacti esse videantur.</p>
-</div1>
+</div>
 </body>
 </text>
 </TEI.2>

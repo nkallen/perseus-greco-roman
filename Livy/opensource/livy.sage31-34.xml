@@ -54,8 +54,8 @@
 	<text>
 		<body>
 			<pb n="ix"/>
-			<div1 type="book" n="front">
-				<div2 type="chapter"><head>Translator's Preface</head>
+			<div type="book" n="front">
+				<div type="chapter"><head>Translator's Preface</head>
 					<p>I regret&mdash;though I have good ancient precedent&mdash;
 						that my first volume must begin with an explanation
 						which is at the same time a warning and an apology.
@@ -241,8 +241,8 @@
 						gratitude to the Editors and Publishers of the Loeb
 						Classical Library for their unchanging helpfulness.</p>
 					<pb n="xv"/>
-				</div2>
-				<div2 type="chapter"><head>Bibliography</head>
+				</div>
+				<div type="chapter"><head>Bibliography</head>
 					<div3 type="section"><head>I. General.</head>
 						<p>A. Klotz, art. T. Livius (9), in Pauly-
 							Wissowa, Real-Encyclop&auml;die der classischen Altertumswissenschaft, XII, Stuttgart, 1926, 816-852 (brief
@@ -288,8 +288,8 @@
 							1913; R. B. Steele, The Historical Attitude of Livy,
 							American Journal of Philology, 25, 1904, 15-44;
 							M. Gelzer, Der Anfang r&ouml;mischen Geschichtsschreibung, Hermes, 69, 1934, 46-55.</p></div3>
-				</div2>
-				<div2 type="chapter"><head>Conspectus siglorum</head>
+				</div>
+				<div type="chapter"><head>Conspectus siglorum</head>
 					<p><hi rend="italics">B</hi> = Codex Bambergensis M. IV. 9, s. 11.</p>
 					<p><hi rend="italics">F</hi> = Codex Bambergensis Q. IV. 27 (Theol. 99), s. 6.</p>
 					<p><hi rend="italics">M</hi> = Codex Moguntinus deperditus, s. 9 (?).</p>
@@ -297,8 +297,8 @@
 						most important early editions are cited by
 						name).</p>
 					<pb n="xvii"/>
-				</div2>
-				<div2 type="chapter"><head>Introductory note</head>
+				</div>
+				<div type="chapter"><head>Introductory note</head>
 					<p>It is impossible to follow the narrative of the
 						Macedonian Wars without some understanding of the
 						political situation in the East, and equally impossible
@@ -359,10 +359,10 @@
 						spiritual exhaustion after the war with Hannibal, and
 						to her national tradition.</p>
 					<pb id="p.2"/>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb id="p.3"/>
-			<div1 type="book" n="31"><head>Book XXXI</head>
+			<div type="book" n="31"><head>Book XXXI</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>I also am relieved, just as if I myself had shared<note type="margin">B.C. 201</note> the labour and the peril, that I have come to the end of the Punic War.
 					<milestone unit="section" n="2"/> For while it is not at all fitting that one who has ventured to promise to write the whole history of Rome should grow wearied in dealing with the single portions of so great a task, nevertheless, when I reflect that sixty-three years &mdash;the space between the outbreak of the First and the end of the Second Punic War<note>The dates of the events referred to are, respectively, <date value="-267">267 B.C.</date> and <date value="-204">204 B.C.</date>, by Livy's reckoning, or, according to the usual chronology (which is retained in the marginal dates), <date value="-264">264 B.C.</date> and <date value="-201">201 B.C.</date></note> &mdash;have
@@ -1002,9 +1002,9 @@
 					<milestone unit="section" n="9"/> laws because he was the flamen of Jupiter,<note>In that capacity he was not allowed to take any oath (Gellius, X. xv. 4), but Roman ingenuity finds a solution.</note> and no magistrate was allowed to hold office for more than five days unless he had taken that oath.
 					<milestone unit="section" n="10"/> At the request of Flaccus that he <pb id="p.149"/>be exempted from the operation of the law, the<note type="margin">B.C. 200</note> senate decreed that if the aedile could find someone, approved by the consuls, who would take the oath on his behalf, the consuls, if it seemed wise to them, should request the tribunes to bring a resolution before the assembly.
 					<milestone unit="section" n="11"/> Lucius Valerius Flaccus, the praetor-elect, was proposed to take the oath in his brother's place. The tribunes proposed and the people voted, that it should be as if the aedile himself had sworn. Regarding the other aedile, the assembly passed a decree;<note>A <hi rend="italics">plebiscitum</hi> (here <hi rend="italics">scitum plebi</hi>) was strictly a vote carried in the plebeian assembly (contrast <hi rend="italics">lex</hi>), but the term is used, somewhat loosely, for measures adopted by any of the assemblies. The number of such legislative bodies in Rome is debated.</note> when the tribunes put the question what two men they would order to go to the armies in Spain, in order that Gaius Cornelius the curule aedile might come to enter upon his office, and that Lucius Manlius Acidinus might be relieved of his province after many years, the assembly ordered Gnaeus Cornelius Lentulus<note>The name is probably an error for Gnaeus Cornelius Blasio (cf. XXXIII. xxvii. 1).</note> and Lucius Stertinius to exercise authority in Spain with the rank of proconsuls.</p>
-			</div1>
+			</div>
 			<pb id="p.151"/>
-			<div1 type="book" n="31s"><head>Summary of book XXXI</head>
+			<div type="book" n="31s"><head>Summary of book XXXI</head>
 				<p>The causes of the renewal of the war against King Philip
 					of Macedonia, for some time interrupted, are reported thus:
 					At the time of the mysteries, two young Acarnanians who
@@ -1034,9 +1034,9 @@
 					conducted the war with the aid of King Attalus and the
 					Rhodians. Lucius Furius the praetor triumphed over the
 					Gauls.</p>
-			</div1>
+			</div>
 			<pb id="p.155"/>
-			<div1 type="book" n="32"><head>Book XXXII</head>
+			<div type="book" n="32"><head>Book XXXII</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>The consuls and praetors, having entered upon<note type="margin">B.C. 199</note> their offices on the Ides of March, drew lots for the provinces.
 					<milestone unit="section" n="2"/> The result gave Italy to Lucius Lentulus, Macedonia to Publius Villius, while of the praetors, the city jurisdiction fell to Lucius Quinctius, Ariminum to Gnaeus Baebius, Sicily to Lucius Valerius, and Sardinia to Lucius Villius.
@@ -1591,9 +1591,9 @@
 					<milestone unit="section" n="9"/> not to pass by an allied and friendly city without some act of generosity, gave them as a present ten talents of silver and ten thousand <hi rend="italics">medimni</hi> of grain; and so he returned to his fleet at Cenchreae.</p> 
 				<p><milestone unit="section" n="10"/>And Nabis, strengthening the garrison at Argos and returning to Sparta, even as he had despoiled the men, sent his wife to rob the women.
 					<milestone unit="section" n="11"/> She invited now prominent individuals, now groups of women related to one another, and partly by flattery, partly by threats, took from them not only their money but finally even their raiment and their whole feminine adornment as well.</p>
-			</div1>
+			</div>
 			<pb id="p.275"/>
-			<div1 type="book" n="32s"><head>Summary of Book XXXII</head>
+			<div type="book" n="32s"><head>Summary of Book XXXII</head>
 				<p>Many prodigies, reported from various quarters, are
 					recorded, among them that the laurel had grown on the
 					stern of a war-ship. Titus Quinctius Flamininus the
@@ -1611,9 +1611,9 @@
 					A treaty of friendship was struck with the Lacedaemonians
 					and their tyrant Nabis. Besides, the takings of cities in
 					Macedonia are recorded.</p>
-			</div1>
+			</div>
 			<pb id="p.279"/>
-			<div1 type="book" n="33"><head>Book XXXIII</head>
+			<div type="book" n="33"><head>Book XXXIII</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>These events occurred during the winter; but<note type="margin">B.C. 197</note> in the beginning of spring Quinctius summoned Attalus to Elatia, and, wishing to bring under his control the Boeotians, a people whose attitude had thus far been uncertain, he set out through Phocis and encamped five miles from Thebes, which is the capital of Boeotia.
 					<milestone unit="section" n="2"/> Thence the next day, taking the soldiers of one company and Attalus and the numerous embassies which had come in from all directions, he set out to march towards the city, ordering the <hi rend="italics">hastati</hi><note>The soldiers in the foremost of the three lines (<hi rend="italics">hastati, principes, triarii</hi>) in which a legion was normally formed for battle.</note> of the legion &mdash;they amounted to two thousand men &mdash;to follow at the distance of a mile.
@@ -2254,9 +2254,9 @@
 					<milestone unit="section" n="6"/> After a brief stay he sailed to Antioch, and when, on his arrival there, he heard that the king had already gone to Asia, he met his son, who was holding the ritual games at Daphne, and after a courteous reception he set sail without delay.
 					<milestone unit="section" n="7"/> At Ephesus he overtook the king, still wavering in mind and undecided about the war with Rome, but the arrival of Hannibal was no small factor in making up his mind.
 					<milestone unit="section" n="8"/> At that time, too, the Aetolians were inclined to abandon their alliance with Rome, since the ambassadors whom they had sent to recover Pharsalus and Leucas and certain other cities in accordance with the original treaty had been referred by the senate to Titus Quinctius.</p>
-			</div1>
+			</div>
 			<pb id="p.409"/>
-			<div1 type="book" n="33s"><head>Summary of Book XXXIII</head>
+			<div type="book" n="33s"><head>Summary of Book XXXIII</head>
 				<p>Titus Quinctius Flamininus the proconsul ended the
 					war by defeating Philip in battle at Cynoscephalae in
 					Thessaly. Lucius Quinctius Flamininus, the brother of
@@ -2276,9 +2276,9 @@
 					senate of the Carthaginians, fled and took refuge with
 					Antiochus, king of Syria, who was planning war against
 					the Romans.</p>
-			</div1>
+			</div>
 			<pb id="p.413"/>
-			<div1 type="book" n="34"><head>Book XXXIV</head>
+			<div type="book" n="34"><head>Book XXXIV</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>Amid the anxieties of great wars, either scarce<note type="margin">B.C. 195</note> finished or soon to come, an incident occurred, trivial to relate, but which, by reason of the passions it aroused, developed into a violent contention.
 					<milestone unit="section" n="2"/> Marcus Fundanius and Lucius Valerius, tribunes of the people, proposed to the assembly the abrogation of the Oppian law.
@@ -3059,9 +3059,9 @@
 					<milestone unit="section" n="16"/> The ambassadors who were sent were Publius Scipio Africanus, Gaius Cornelius Cethegus, and Marcus Minucius Rufus, and after hearing the testimony and inspecting the place they left the matter undecided, without expressing an opinion in favour of either side.
 					<milestone unit="section" n="17"/> Whether they did this of their own accord or because they had been so instructed is not so certain as that this seemed expedient under the circumstances, that the case be left entirely undecided;
 					<milestone unit="section" n="18"/> if this were not the case, Scipio alone, either from his knowledge of the affair or through his personal influence, since he deserved so well of both sides, could have settled the dispute by a nod.</p>
-			</div1>
+			</div>
 			<pb id="p.581"/>
-			<div1 type="book" n="34s"><head>Summary of Book XXXIV</head>
+			<div type="book" n="34s"><head>Summary of Book XXXIV</head>
 				<p>The Oppian law, which Gaius Oppius, tribune of the
 					people, had proposed during the Punic war to limit the
 					expenditures of the women, was repealed after great
@@ -3091,8 +3091,8 @@
 					up the Carthaginians to make war.</p>
 				<pb/>
 				<pb id="p.583"/>
-			</div1>
-			<div1 type="book" n="index"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><head>Index of names</head>
 				<p>(<hi rend="italics">The References are to Pages</hi>)</p>
 				<p>ABYDUS, 42, 54, 56, 254, 358, 378, 380; Abydeni, 50 (<hi rend="italics">bis</hi>), 54 (<hi rend="italics">bis</hi>), 56 (<hi rend="italics">bis</hi>), 90, 150 (<hi rend="italics">Aboedeni</hi>), 216</p>
 				<p>Academia, 70</p>
@@ -3778,7 +3778,7 @@
 				<p>Zeuxippus, 350, 352 (<hi rend="italics">quater</hi>), 354 (<hi rend="italics">sexies</hi>)</p>
 				<p>Zeuxis, 318</p>
 				<p>Zmyrna, 378 (<hi rend="italics">ter</hi>)</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

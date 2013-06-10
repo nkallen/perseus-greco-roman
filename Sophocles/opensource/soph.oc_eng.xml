@@ -112,7 +112,7 @@ bring up to P3
 
 <text lang="en">
 <body>
-<div1 type="episode">
+<div type="episode">
 <milestone ed="p" n="1" unit="card"/>
 <sp>
 <speaker>Oedipus</speaker>
@@ -244,9 +244,9 @@ bring up to P3
 <sp>
 <speaker>Oedipus</speaker>
 <p>I will be mute. But hide me in the grove, apart from the road, till I learn<milestone ed="p" n="115" unit="line"/>how these men will speak.  For in learning is the safeguard of our course.<stage>They exit.</stage><milestone ed="p" n="118" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <stage>The Chorus of elders of <placeName key="perseus,Colonus">Colonus</placeName> enters the orchestra.</stage>
 <sp><speaker>Chorus</speaker>
 <p>Look! Who was he, then? Where is he staying? Where has he rushed from this place,<milestone ed="p" n="120" unit="line"/>man most insatiate of all who live? Scan the ground, look well, press the search everywhere. A wanderer that old man must have been,<milestone ed="p" n="125" unit="line"/>a wanderer, not a dweller in the land; otherwise he never would have advanced into this untrodden grove of the maidens with whom none may strive.<milestone ed="p" n="130" unit="line"/>Their name we tremble to speak; we pass them by with eyes turned away, moving our lips, without sound or word, in still devotion. But now it is said that one has come who reveres them not at all;<milestone ed="p" n="135" unit="line"/>and him I cannot yet discern, though I look round all the holy place, nor do I know where to find his lodging.</p>
@@ -260,8 +260,8 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>Zeus defend us! Who may this old man be?</p></sp>
 <sp><speaker>Oedipus</speaker>
-<p>Not so wholly of the best fate<milestone ed="p" n="145" unit="line"/>that you would call him fortunate, guardians of this land! It is plain; otherwise I would not be creeping, as you see, by the eyes of others, and buoying my strength upon weakness.<milestone ed="p" n="148" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Not so wholly of the best fate<milestone ed="p" n="145" unit="line"/>that you would call him fortunate, guardians of this land! It is plain; otherwise I would not be creeping, as you see, by the eyes of others, and buoying my strength upon weakness.<milestone ed="p" n="148" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
 <p>Alas! Were you sightless even from birth?<milestone ed="p" n="150" unit="line"/>Evil have been your days, and many, it appears. But at least if I can help it, you shall not add this curse to your lot. You go too far&mdash;too far!<milestone ed="p" n="155" unit="line"/>That your rash steps may intrude on the field of this voiceless,  grassy glade, where the waters of the mixing bowl blend their stream with the flow of honied offerings, beware, unhappiest of strangers.<milestone ed="p" n="160" unit="line"/>Retire! Withdraw! Let a wide space part us. Do you hear, toil-worn wanderer? If you have anything to say in converse with us,<milestone ed="p" n="165" unit="line"/>leave forbidden ground, and speak where it is lawful for all; but, till then, refrain.</p></sp>
 <sp><speaker>Oedipus</speaker>
@@ -273,8 +273,8 @@ bring up to P3
 <sp><speaker>Antigone</speaker>
 <p>I lay it in yours.</p></sp>
 <sp><speaker>Oedipus</speaker>
-<p>Strangers, let me not suffer wrong<milestone ed="p" n="175" unit="line"/>when I have trusted in you, and have passed from my refuge!<milestone ed="p" n="176" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Strangers, let me not suffer wrong<milestone ed="p" n="175" unit="line"/>when I have trusted in you, and have passed from my refuge!<milestone ed="p" n="176" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>Never, old man, never will anyone remove you from your resting-place here against your will.</p>
 <stage>Oedipus begins to move forward.</stage></sp>
@@ -297,8 +297,8 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>Stranger in a foreign land,<milestone ed="p" n="185" unit="line"/>poor man, have the courage to detest what the city steadfastly holds as not dear, and to reverence what it holds dear!</p></sp>
 <sp><speaker>Oedipus</speaker>
-<p>Lead me, then, child, to a spot where I may speak and listen within piety's domain,<milestone ed="p" n="190" unit="line"/>and let us not wage war with necessity.<milestone ed="p" n="192" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Lead me, then, child, to a spot where I may speak and listen within piety's domain,<milestone ed="p" n="190" unit="line"/>and let us not wage war with necessity.<milestone ed="p" n="192" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>There! Do not  incline your steps beyond that ledge of bedrock.</p></sp>
 <sp><speaker>Oedipus</speaker>
@@ -319,8 +319,8 @@ bring up to P3
 <p>Alas for my sad destruction!</p>
 <stage>Antigone seats him on the rock.</stage></sp>
 <sp><speaker>Chorus</speaker>
-<p>Ah, poor man, since now you are at ease, speak! What is your lineage among mortals? With what name are you led on your weary path?<milestone ed="p" n="205" unit="line"/>What fatherland can you tell us of?<milestone ed="p" n="207" unit="card"/></p></sp></div2>
-<div2 type="epode">
+<p>Ah, poor man, since now you are at ease, speak! What is your lineage among mortals? With what name are you led on your weary path?<milestone ed="p" n="205" unit="line"/>What fatherland can you tell us of?<milestone ed="p" n="207" unit="card"/></p></sp></div>
+<div type="epode">
 <sp><speaker>Oedipus</speaker>
 <p>Strangers, I am without a city, but do not&mdash;</p></sp>
 <sp><speaker>Chorus</speaker>
@@ -374,9 +374,9 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>No man is visited by the punishment of fate if he requites deeds which were first done to himself.<milestone ed="p" n="230" unit="line"/>Deceit on the one part matches deceits on the other, and gives pain instead of pleasure for reward. And you&mdash;back with you! Out from your seat!<milestone ed="p" n="235" unit="line"/>Away from my land with all speed, that you may not fasten some heavier burden on my city!</p></sp>
 <sp><speaker>Antigone</speaker>
-<p>Reverent strangers, since you have not endured my aged father&mdash;knowing, as you do,<milestone ed="p" n="240" unit="line"/>the rumor of his unintended deeds&mdash;pity at least my poor self, I implore you, who supplicate you for my father alone. I beg you with eyes that can still look<milestone ed="p" n="245" unit="line"/>on your own, like one sprung from your own blood, that this sufferer may meet with reverent treatment. On you, as on a god, we depend in our misery. But come, grant the favor for which we hardly dare hope!<milestone ed="p" n="250" unit="line"/>I implore you by everything that you hold dear at home: by child, by wife, or treasure, or god! Look well and you will not find the mortal who, if a god should lead him on, could escape.<milestone ed="p" n="254" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>Reverent strangers, since you have not endured my aged father&mdash;knowing, as you do,<milestone ed="p" n="240" unit="line"/>the rumor of his unintended deeds&mdash;pity at least my poor self, I implore you, who supplicate you for my father alone. I beg you with eyes that can still look<milestone ed="p" n="245" unit="line"/>on your own, like one sprung from your own blood, that this sufferer may meet with reverent treatment. On you, as on a god, we depend in our misery. But come, grant the favor for which we hardly dare hope!<milestone ed="p" n="250" unit="line"/>I implore you by everything that you hold dear at home: by child, by wife, or treasure, or god! Look well and you will not find the mortal who, if a god should lead him on, could escape.<milestone ed="p" n="254" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus</speaker>
 <p>Feel sure, daughter of Oedipus, that we pity you and him alike<milestone ed="p" n="255" unit="line"/>for your misfortune; but dreading the punishment of the gods, we could not say anything beyond what we have now said to you.</p></sp>
@@ -646,9 +646,9 @@ bring up to P3
 <p><milestone ed="p" n="505" unit="line"/>On the further side of this grove, stranger. And if you have need of anything, there is a guardian of the place. He will direct you.</p></sp>
 <sp>
 <speaker>Ismene</speaker>
-<p>Off to my task. But you, Antigone, watch our father here. In the case of parents, if we toil, we must not keep a memory of it.<stage>Ismene exits.</stage><milestone ed="p" n="510" unit="card"/></p></sp></div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+<p>Off to my task. But you, Antigone, watch our father here. In the case of parents, if we toil, we must not keep a memory of it.<stage>Ismene exits.</stage><milestone ed="p" n="510" unit="card"/></p></sp></div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
 <p><milestone ed="p" n="510" unit="line"/>Terrible it is, stranger, to arouse the old woe that has for so long been laid to rest: and yet I yearn to hear&mdash;</p></sp>
 <sp><speaker>Oedipus</speaker>
@@ -666,8 +666,8 @@ bring up to P3
 <sp><speaker>Oedipus</speaker>
 <p>Alas, alas!</p></sp>
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="520" unit="line"/>Grant my wish, as I have granted yours to the full.<milestone ed="p" n="521" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p><milestone ed="p" n="520" unit="line"/>Grant my wish, as I have granted yours to the full.<milestone ed="p" n="521" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Oedipus</speaker>
 <p>I have suffered the greatest misery, strangers&mdash;suffered it through unintended deeds&mdash;may the god know it!  No part was of my own choice.</p></sp>
 <sp><speaker>Chorus</speaker>
@@ -685,8 +685,8 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>O Zeus!</p></sp>
 <sp><speaker>Oedipus</speaker>
-<p>&mdash;of mine, sprung from the travail of the womb that bore me too.<milestone ed="p" n="534" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>&mdash;of mine, sprung from the travail of the womb that bore me too.<milestone ed="p" n="534" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>These, then, are at once your daughters, and&mdash;</p></sp>
 <sp><speaker>Oedipus</speaker>
@@ -706,8 +706,8 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>How?</p></sp>
 <sp><speaker>Oedipus</speaker>
-<p><milestone ed="p" n="540" unit="line"/>A gift was given to me&mdash;O, wretched that I am, if only I had never won from the city that gift for my services!<milestone ed="p" n="542" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p><milestone ed="p" n="540" unit="line"/>A gift was given to me&mdash;O, wretched that I am, if only I had never won from the city that gift for my services!<milestone ed="p" n="542" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>Cursed man! What of this? Did you commit the murder&mdash;</p></sp>
 <sp><speaker>Oedipus</speaker>
@@ -727,9 +727,9 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>What?</p></sp>
 <sp><speaker>Oedipus</speaker>
-<p>I will tell you: I killed in ignorance and perished utterly. Pure before the law, without knowledge of my act, I have come to this!<milestone ed="p" n="549" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>I will tell you: I killed in ignorance and perished utterly. Pure before the law, without knowledge of my act, I have come to this!<milestone ed="p" n="549" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus</speaker>
 <p>Look, there comes our lord, Theseus son of Aegeus,<milestone ed="p" n="550" unit="line"/>at the sound of your voice, to do that for which he was  summoned.</p></sp>
@@ -890,22 +890,22 @@ bring up to P3
 <sp>
 <speaker>Theseus</speaker>
 <p>I know that none will lead you from here against my will. Often threats have blustered in men's hearts with words loud and vain; but when the mind comes to itself once more,<milestone ed="p" n="660" unit="line"/>the threats have vanished. For those men, too, perhaps&mdash;yes, even if in boldness they have spoken dreadful things of bringing you back, the voyage here will prove long and hard to sail. Now I exhort you, apart from any decision of mine, to take heart,<milestone ed="p" n="665" unit="line"/>if indeed Phoebus has been your escort here. Even if I am not present, still my name, I know, will shield you from harm.<milestone ed="p" n="668" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Stranger, in this land of fine horses you have come to earth's fairest home, the shining <placeName key="perseus,Colonus">Colonus</placeName>.<milestone ed="p" n="670" unit="line"/>Here the nightingale, a constant guest, trills her clear note under the trees of green glades, dwelling amid the wine-dark ivy<milestone ed="p" n="675" unit="line"/>and the god's inviolate foliage, rich in berries and fruit, unvisited by sun, unvexed by the wind of any storm.  Here the reveller Dionysus ever walks the ground,<milestone ed="p" n="680" unit="line"/>companion of the nymphs that nursed him.<milestone ed="p" n="681" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Stranger, in this land of fine horses you have come to earth's fairest home, the shining <placeName key="perseus,Colonus">Colonus</placeName>.<milestone ed="p" n="670" unit="line"/>Here the nightingale, a constant guest, trills her clear note under the trees of green glades, dwelling amid the wine-dark ivy<milestone ed="p" n="675" unit="line"/>and the god's inviolate foliage, rich in berries and fruit, unvisited by sun, unvexed by the wind of any storm.  Here the reveller Dionysus ever walks the ground,<milestone ed="p" n="680" unit="line"/>companion of the nymphs that nursed him.<milestone ed="p" n="681" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>And, fed on heavenly dew, the narcissus blooms day by day with its fair clusters; it is the ancient crown of the Great Goddesses.<milestone ed="p" n="685" unit="line"/>And the crocus blooms with a golden gleam. Nor do the ever-flowing springs diminish, from which the waters of Cephisus wander, and each day with pure<milestone ed="p" n="690" unit="line"/>current it moves over the plains of the land's swelling bosom, bringing fertility. Nor have the dancing Muses shunned this place, nor Aphrodite of the golden rein.<milestone ed="p" n="694" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>And, fed on heavenly dew, the narcissus blooms day by day with its fair clusters; it is the ancient crown of the Great Goddesses.<milestone ed="p" n="685" unit="line"/>And the crocus blooms with a golden gleam. Nor do the ever-flowing springs diminish, from which the waters of Cephisus wander, and each day with pure<milestone ed="p" n="690" unit="line"/>current it moves over the plains of the land's swelling bosom, bringing fertility. Nor have the dancing Muses shunned this place, nor Aphrodite of the golden rein.<milestone ed="p" n="694" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>And there is a thing such as I have not heard of on Asian ground,<milestone ed="p" n="695" unit="line"/>nor as ever yet born in the great Dorian isle of Pelops: a plant unconquered, self-renewing, causing terror to destroying enemies.<milestone ed="p" n="700" unit="line"/>It greatly flourishes in this land&mdash;the gray-leafed olive, nurturer of children. Youth cannot harm it by the ravages of his hand, nor can any who lives with old age. For the sleepless eye<milestone ed="p" n="705" unit="line"/>of Zeus Morios watches over it, and gray-eyed Athena.<milestone ed="p" n="707" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>And there is a thing such as I have not heard of on Asian ground,<milestone ed="p" n="695" unit="line"/>nor as ever yet born in the great Dorian isle of Pelops: a plant unconquered, self-renewing, causing terror to destroying enemies.<milestone ed="p" n="700" unit="line"/>It greatly flourishes in this land&mdash;the gray-leafed olive, nurturer of children. Youth cannot harm it by the ravages of his hand, nor can any who lives with old age. For the sleepless eye<milestone ed="p" n="705" unit="line"/>of Zeus Morios watches over it, and gray-eyed Athena.<milestone ed="p" n="707" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>And I have more praise for this city our mother,<milestone ed="p" n="710" unit="line"/>the gift of a great divinity, a glory most great: the might of horses, the might of colts, and the might of the sea. For you, son of Cronus, lord Poseidon, have set her on the throne of this pride,<milestone ed="p" n="715" unit="line"/>by establishing first in our roads the bit that cures the rage of horses. And the shapely oar, well-fitted for the sea, in flying past the land leaps to follow the hundred-footed Nereids.<milestone ed="p" n="720" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>And I have more praise for this city our mother,<milestone ed="p" n="710" unit="line"/>the gift of a great divinity, a glory most great: the might of horses, the might of colts, and the might of the sea. For you, son of Cronus, lord Poseidon, have set her on the throne of this pride,<milestone ed="p" n="715" unit="line"/>by establishing first in our roads the bit that cures the rage of horses. And the shapely oar, well-fitted for the sea, in flying past the land leaps to follow the hundred-footed Nereids.<milestone ed="p" n="720" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Antigone</speaker>
 <p><milestone ed="p" n="720" unit="line"/>Land that is praised above all lands, now it is your task to make those bright praises seen in deeds!</p></sp>
@@ -1204,23 +1204,23 @@ bring up to P3
 <sp>
 <speaker>Oedipus</speaker>
 <p>Thanks to you, Theseus, for your nobleness and your righteous care for me!<stage>Theseus exits with attendants and Creon.</stage><milestone ed="p" n="1044" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Oh, to be where the enemy, turned to fight,<milestone ed="p" n="1045" unit="line"/>will soon join in Ares' clash of bronze, by the shores of Apollo, perhaps, or by that torch-lit beach<milestone ed="p" n="1050" unit="line"/>where the Great Goddesses maintain awful rites for mortals on whose lips the ministering Eumolpidae have laid the golden seal of silence. There, I think, the war-rousing<milestone ed="p" n="1055" unit="line"/>Theseus and the two maiden sisters will soon meet within our borders, amid the war-cry of resisting men!<milestone ed="p" n="1059" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Oh, to be where the enemy, turned to fight,<milestone ed="p" n="1045" unit="line"/>will soon join in Ares' clash of bronze, by the shores of Apollo, perhaps, or by that torch-lit beach<milestone ed="p" n="1050" unit="line"/>where the Great Goddesses maintain awful rites for mortals on whose lips the ministering Eumolpidae have laid the golden seal of silence. There, I think, the war-rousing<milestone ed="p" n="1055" unit="line"/>Theseus and the two maiden sisters will soon meet within our borders, amid the war-cry of resisting men!<milestone ed="p" n="1059" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Or perhaps they will soon draw near to the pastures on the west of Oea's snowy rock,<milestone ed="p" n="1060" unit="line"/>fleeing on young horses or in chariots racing full speed. He will be caught!<milestone ed="p" n="1065" unit="line"/>Terrible is the neighboring Ares, terrible the might of the followers of Theseus. Yes, the steel of every bridle flashes,<milestone ed="p" n="1070" unit="line"/>and against their opponents charges forward our whole cavalry, who honor horse-riding Athena, and the earth-girdling Sea-god, the dear son of Rhea.<milestone ed="p" n="1074" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Or perhaps they will soon draw near to the pastures on the west of Oea's snowy rock,<milestone ed="p" n="1060" unit="line"/>fleeing on young horses or in chariots racing full speed. He will be caught!<milestone ed="p" n="1065" unit="line"/>Terrible is the neighboring Ares, terrible the might of the followers of Theseus. Yes, the steel of every bridle flashes,<milestone ed="p" n="1070" unit="line"/>and against their opponents charges forward our whole cavalry, who honor horse-riding Athena, and the earth-girdling Sea-god, the dear son of Rhea.<milestone ed="p" n="1074" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>Is the battle now or yet to be?<milestone ed="p" n="1075" unit="line"/>For somehow my mind presages to me that soon I will meet the maidens who have suffered fearfully, who have found fearful suffering at the hands of a kinsman.</p>
-<p>Today Zeus will bring something to completion.<milestone ed="p" n="1080" unit="line"/>I predict noble struggles. Oh, to be a dove with the strength and swiftness of a whirlwind, that I might reach an airy cloud, and hang my gaze above the fight!<milestone ed="p" n="1085" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Today Zeus will bring something to completion.<milestone ed="p" n="1080" unit="line"/>I predict noble struggles. Oh, to be a dove with the strength and swiftness of a whirlwind, that I might reach an airy cloud, and hang my gaze above the fight!<milestone ed="p" n="1085" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="1085" unit="line"/>Hear, all-ruling lord of the gods, all-seeing Zeus! Grant to the guardians of this land to achieve with triumphant might the capture that gives the prize into their hands! And may your daughter grant it too, dread Pallas Athena!<milestone ed="p" n="1090" unit="line"/>And Apollo, the hunter, and his sister, who follows the spotted, swift-footed deer&mdash;I wish that they would come, a double help<milestone ed="p" n="1095" unit="line"/>to this land and to its people.</p></sp></div2>
-</div1>
-<div1 type="episode">
+<p><milestone ed="p" n="1085" unit="line"/>Hear, all-ruling lord of the gods, all-seeing Zeus! Grant to the guardians of this land to achieve with triumphant might the capture that gives the prize into their hands! And may your daughter grant it too, dread Pallas Athena!<milestone ed="p" n="1090" unit="line"/>And Apollo, the hunter, and his sister, who follows the spotted, swift-footed deer&mdash;I wish that they would come, a double help<milestone ed="p" n="1095" unit="line"/>to this land and to its people.</p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus</speaker>
 <p>Wandering stranger, you will not say your watcher was a false prophet, for I see your daughters once again drawing near.<milestone ed="p" n="1099" unit="card"/></p></sp>
@@ -1337,19 +1337,19 @@ bring up to P3
 <speaker>Theseus</speaker>
 <p>Once only do I need hear such words, and no more, old man. I do not want to boast,<milestone ed="p" n="1210" unit="line"/>but you may feel sure that your life is safe, while any of the gods preserves mine.<stage>Theseus exits.</stage>
 <milestone ed="p" n="1211" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Whoever craves the longer length of life, not content to desire a moderate span, him I will judge with no uncertainty: he clings to folly.<milestone ed="p" n="1215" unit="line"/>For the long years lay in deposit many things nearer to pain than joy; but as for your delights, you will find them nowhere, when someone's life has fallen beyond the fitting period.<milestone ed="p" n="1220" unit="line"/>The Helper comes at last to all alike, when the fate of Hades is suddenly revealed, without  marriage-song, or lyre, or dance: Death at the end.<milestone ed="p" n="1225" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Whoever craves the longer length of life, not content to desire a moderate span, him I will judge with no uncertainty: he clings to folly.<milestone ed="p" n="1215" unit="line"/>For the long years lay in deposit many things nearer to pain than joy; but as for your delights, you will find them nowhere, when someone's life has fallen beyond the fitting period.<milestone ed="p" n="1220" unit="line"/>The Helper comes at last to all alike, when the fate of Hades is suddenly revealed, without  marriage-song, or lyre, or dance: Death at the end.<milestone ed="p" n="1225" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="1225" unit="line"/>Not to be born is, beyond all estimation, best; but when a man has seen the light of day, this is next best by far, that with utmost speed he should go back from where he came. For when he has seen youth go by, with its easy merry-making,<milestone ed="p" n="1230" unit="line"/>what hard affliction is foreign to him, what suffering does he not know? Envy, factions, strife, battles,<milestone ed="p" n="1235" unit="line"/>and murders. Last of all falls to his lot old age, blamed, weak, unsociable, friendless, wherein dwells every misery among miseries.<milestone ed="p" n="1239" unit="card"/></p></sp></div2>
-<div2 type="epode">
+<p><milestone ed="p" n="1225" unit="line"/>Not to be born is, beyond all estimation, best; but when a man has seen the light of day, this is next best by far, that with utmost speed he should go back from where he came. For when he has seen youth go by, with its easy merry-making,<milestone ed="p" n="1230" unit="line"/>what hard affliction is foreign to him, what suffering does he not know? Envy, factions, strife, battles,<milestone ed="p" n="1235" unit="line"/>and murders. Last of all falls to his lot old age, blamed, weak, unsociable, friendless, wherein dwells every misery among miseries.<milestone ed="p" n="1239" unit="card"/></p></sp></div>
+<div type="epode">
 <sp><speaker>Chorus</speaker>
-<p>In such years is this poor man here, not I alone.<milestone ed="p" n="1240" unit="line"/>Like some cape that fronts the north which is lashed on every side by the waves of winter, so he also is fiercely lashed evermore by the dread disasters that break on him like the surf, some from the region of the setting sun,<milestone ed="p" n="1245" unit="line"/>some from that of its rising, some in the realm of its noon-time rays, some from the gloom-wrapped hills of the North.<milestone ed="p" n="1249" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>In such years is this poor man here, not I alone.<milestone ed="p" n="1240" unit="line"/>Like some cape that fronts the north which is lashed on every side by the waves of winter, so he also is fiercely lashed evermore by the dread disasters that break on him like the surf, some from the region of the setting sun,<milestone ed="p" n="1245" unit="line"/>some from that of its rising, some in the realm of its noon-time rays, some from the gloom-wrapped hills of the North.<milestone ed="p" n="1249" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Antigone</speaker>
 <p>Look, the stranger, it seems, is coming here to us.<milestone ed="p" n="1250" unit="line"/>Yes, without attendants, father, with tears streaming from his eyes.</p></sp>
@@ -1445,9 +1445,9 @@ bring up to P3
 <speaker>Polyneices</speaker>
 <p>It rests with the divinity, this way or that. But as for you two,<milestone ed="p" n="1445" unit="line"/>I pray to the gods that you may never meet with evil; for in all men's eyes you do not deserve to suffer.<stage>Polyneices exits.</stage>
 <milestone ed="p" n="1448" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
 <p>Behold, new ills of heavy fate have newly come from the blind stranger,<milestone ed="p" n="1450" unit="line"/>unless, perhaps, fate is finding its goal. I cannot say that a purpose of the divinities is ever vain. Time sees all things forever, and raises up some things,<milestone ed="p" n="1455" unit="line"/>then on the next day raises others back up again. The sky resounds! Zeus!</p>
 <stage>Thunder.</stage></sp>
@@ -1459,8 +1459,8 @@ bring up to P3
 <p>And what, father, is the purpose of your summons?</p></sp>
 <sp>
 <speaker>Oedipus</speaker>
-<p><milestone ed="p" n="1460" unit="line"/>This winged thunder of Zeus will soon lead me to Hades. So send someone with speed.<milestone ed="p" n="1463" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p><milestone ed="p" n="1460" unit="line"/>This winged thunder of Zeus will soon lead me to Hades. So send someone with speed.<milestone ed="p" n="1463" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <stage>Thunder.</stage>
 <sp><speaker>Chorus</speaker>
 <p>Listen! With a louder noise this one crashes down unspeakably,<milestone ed="p" n="1465" unit="line"/>hurled by Zeus! The hair of my head stands up for fear, my soul is dismayed; for again the lightning flashes in the sky. What end will it release?<milestone ed="p" n="1470" unit="line"/>I fear it, for never does it fly forth in vain, or without serious results. O great Sky! O Zeus!</p></sp>
@@ -1472,8 +1472,8 @@ bring up to P3
 <p>How do you know? By what means do you understand this?</p></sp>
 <sp>
 <speaker>Oedipus</speaker>
-<p><milestone ed="p" n="1475" unit="line"/>I know it well. But let some one go, I pray you, as quickly as he can, and bring back the lord of this land.<milestone ed="p" n="1477" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p><milestone ed="p" n="1475" unit="line"/>I know it well. But let some one go, I pray you, as quickly as he can, and bring back the lord of this land.<milestone ed="p" n="1477" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <stage>Thunder.</stage>
 <sp><speaker>Chorus</speaker>
 <p>Look! Look! Once again the piercing din is around us!<milestone ed="p" n="1480" unit="line"/>Be merciful, divinity, be merciful, if you are bringing anything of gloom for the land which is our mother! May I find you well disposed, and may I not, because I have cared for a man accursed, somehow obtain a favor without profit!<milestone ed="p" n="1485" unit="line"/>Lord Zeus, to you I cry!</p></sp>
@@ -1485,12 +1485,12 @@ bring up to P3
 <p>And what is the pledge that you would like to have firm in your mind?</p></sp>
 <sp>
 <speaker>Oedipus</speaker>
-<p>In return for his benefits,<milestone ed="p" n="1490" unit="line"/>I would grant him the fulfillment of the favor that I promised.<milestone ed="p" n="1491" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>In return for his benefits,<milestone ed="p" n="1490" unit="line"/>I would grant him the fulfillment of the favor that I promised.<milestone ed="p" n="1491" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>Hurry, my son, come to us! If you chance to be in the glade sacrificing an ox to the sea-god Poseidon,<milestone ed="p" n="1495" unit="line"/>then come! For the stranger thinks you worthy, you and your city and your friends, to receive just return for benefits. Hasten quickly, lord!<milestone ed="p" n="1500" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>Hurry, my son, come to us! If you chance to be in the glade sacrificing an ox to the sea-god Poseidon,<milestone ed="p" n="1495" unit="line"/>then come! For the stranger thinks you worthy, you and your city and your friends, to receive just return for benefits. Hasten quickly, lord!<milestone ed="p" n="1500" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enter Theseus.</stage>
 <sp>
 <speaker>Theseus</speaker>
@@ -1523,16 +1523,16 @@ bring up to P3
 <speaker>Oedipus</speaker>
 <p>I will expound myself, son of Aegeus, the treasures which will be laid up for this city, such as age can never hurt.<milestone ed="p" n="1520" unit="line"/>Immediately, with no hand to guide me, I will lead to the place where I must die. But as to that place, never reveal it to another man, neither where it is hidden, nor in what region it lies, so that it may be an eternal defence for you, better than many shields, better than the spear of neighbors which brings relief.<milestone ed="p" n="1525" unit="line"/>But as for mysteries which speech may not profane, you will learn them yourself when you come to that place alone, since I cannot declare them either to any of these people, or even to my own children, though I love them.<milestone ed="p" n="1530" unit="line"/>Reserve them always to yourself, and when you reach the end of life, reveal them to your eldest son alone, and let him reveal them to his successor in turn forever. In this way you will keep this city unscathed by the men born of the Dragon's teeth. Countless cities commit outrage<milestone ed="p" n="1535" unit="line"/>even though their neighbor commits no sin. For the gods are slow to punish, yet they are sure, when men scorn holiness and turn to frenzy. Do not desire this, son of Aegeus! But you know such things as these without my teaching.<milestone ed="p" n="1540" unit="line"/>Let us now set forth to that place&mdash;the divine summons urges me&mdash;and hesitate no longer.</p>
 <p>Children, follow me. For now in turn it is I that shine forth wondrously as a leader for you, as you were your father's. Onward. Do not touch me, but<milestone ed="p" n="1545" unit="line"/>allow me unaided to find the sacred tomb where it is my fate to be buried in this land. This way, here&mdash;come this way! Hermes the Conductor and the goddess of the dead lead me in this direction. Light of day, no light to me, once you were mine,<milestone ed="p" n="1550" unit="line"/>but now my body feels you for the last time! For now I go to hide the end of my life in the house of Hades. But you, dearest of strangers, may you yourself be prosperous, and this land, and your followers. In your prosperity,<milestone ed="p" n="1555" unit="line"/>remember me in my death, and be fortunate evermore.<stage>He  exits, followed by his daughters, Theseus, and attendants.</stage><milestone ed="p" n="1556" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>If it is right for me with prayer to adore the Unseen Goddess and you, Lord of the Dead, then hear me, Aidoneus, Aidoneus!<milestone ed="p" n="1560" unit="line"/>Grant that without pain, without a fate arousing heavy grief, the stranger may pass to the all-concealing fields of the dead below, and to the Stygian house.<milestone ed="p" n="1565" unit="line"/>Many were the sorrows that came to him without cause, but a just divinity will lift him up again.<milestone ed="p" n="1568" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>If it is right for me with prayer to adore the Unseen Goddess and you, Lord of the Dead, then hear me, Aidoneus, Aidoneus!<milestone ed="p" n="1560" unit="line"/>Grant that without pain, without a fate arousing heavy grief, the stranger may pass to the all-concealing fields of the dead below, and to the Stygian house.<milestone ed="p" n="1565" unit="line"/>Many were the sorrows that came to him without cause, but a just divinity will lift him up again.<milestone ed="p" n="1568" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Goddesses of the nether world and unconquered beast<milestone ed="p" n="1570" unit="line"/>whose lair lies in the gates of many guests, you untamable Watcher of Hades, snarling from the cavern's jaws, as rumor has always told! Hear me, Death, son of Earth and Tartarus!<milestone ed="p" n="1575" unit="line"/>May that Watcher leave a clear path for the stranger on his way to the nether fields of the dead! To you I call, giver of the eternal sleep.<milestone ed="p" n="1579" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>Goddesses of the nether world and unconquered beast<milestone ed="p" n="1570" unit="line"/>whose lair lies in the gates of many guests, you untamable Watcher of Hades, snarling from the cavern's jaws, as rumor has always told! Hear me, Death, son of Earth and Tartarus!<milestone ed="p" n="1575" unit="line"/>May that Watcher leave a clear path for the stranger on his way to the nether fields of the dead! To you I call, giver of the eternal sleep.<milestone ed="p" n="1579" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Messenger</speaker>
 <p>Citizens, my news might be summed up most briefly thus: Oedipus is dead.<milestone ed="p" n="1580" unit="line"/>But the story of the happening cannot be told in brief words, as the deeds done there were not brief.</p></sp>
@@ -1556,9 +1556,9 @@ bring up to P3
 <sp>
 <speaker>Messenger</speaker>
 <p>Not far away; the sounds of mourning show plainly that they are approaching.<milestone ed="p" n="1670" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Antigone</speaker>
 <p><milestone ed="p" n="1670" unit="line"/>Ah, me, ah, me! Now, indeed, is it for us to bewail in full the curse on our blood&mdash;ill-fated sisters as we are&mdash;deriving from our father! In former time we bore the long toil without pause,<milestone ed="p" n="1675" unit="line"/>and now at the last we bring to tell a sight and experience that baffle reason.</p></sp>
 <sp><speaker>Chorus</speaker>
@@ -1572,8 +1572,8 @@ bring up to P3
 <sp><speaker>Ismene</speaker>
 <p>I do not know. If only murderous Hades would join me in death to my aged father!<milestone ed="p" n="1690" unit="line"/>Wretched me! I cannot live the life that must be mine.</p></sp>
 <sp><speaker>Chorus</speaker>
-<p>Best of daughters, you both must bear the will of the gods. Do not be inflamed with too much grief;<milestone ed="p" n="1695" unit="line"/>what you have encountered is not to be blamed.<milestone ed="p" n="1699" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Best of daughters, you both must bear the will of the gods. Do not be inflamed with too much grief;<milestone ed="p" n="1695" unit="line"/>what you have encountered is not to be blamed.<milestone ed="p" n="1699" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Antigone</speaker>
 <p>There is longing even for woes. What was in no way dear was dear, so long as I held him in my embrace.<milestone ed="p" n="1700" unit="line"/>Father, Dear, clothed in the darkness of the underworld forever! Never in your absence will you not be dear to me and to my sister here.</p></sp>
 <sp><speaker>Chorus</speaker>
@@ -1587,8 +1587,8 @@ bring up to P3
 <sp><speaker>Ismene</speaker>
 <p>Wretched me! What fate<milestone ed="p" n="1715" unit="line"/>awaits you and me, dear, orphaned as we are of our father?</p></sp>
 <sp><speaker>Chorus</speaker>
-<p><milestone ed="p" n="1720" unit="line"/>Cease from your grief, dear girls, since his end is blessed. No one is beyond the reach of evil.<milestone ed="p" n="1723" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p><milestone ed="p" n="1720" unit="line"/>Cease from your grief, dear girls, since his end is blessed. No one is beyond the reach of evil.<milestone ed="p" n="1723" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Antigone</speaker>
 <p>Dear, let us hasten back.</p></sp>
 <sp><speaker>Ismene.</speaker>
@@ -1616,8 +1616,8 @@ bring up to P3
 <sp><speaker>Antigone</speaker>
 <p>Lead me there, and then kill me, too.</p></sp>
 <sp><speaker>Ismene</speaker>
-<p>Unhappy me! Abandoned and helpless,<milestone ed="p" n="1735" unit="line"/>where am I now to live my wretched life?<milestone ed="p" n="1737" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Unhappy me! Abandoned and helpless,<milestone ed="p" n="1735" unit="line"/>where am I now to live my wretched life?<milestone ed="p" n="1737" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>Dear girls, do not be afraid.</p></sp>
 <sp><speaker>Antigone</speaker>
@@ -1645,9 +1645,9 @@ bring up to P3
 <sp><speaker>Chorus</speaker>
 <p>Vast, then, is the sea of your troubles.</p></sp>
 <sp><speaker>Antigone</speaker>
-<p>Alas, alas! Zeus, where shall we turn?<milestone ed="p" n="1750" unit="line"/>To what last hope does the divinity now drive us?<milestone ed="p" n="1751" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>Alas, alas! Zeus, where shall we turn?<milestone ed="p" n="1750" unit="line"/>To what last hope does the divinity now drive us?<milestone ed="p" n="1751" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enter Theseus.</stage>
 <sp>
 <speaker>Theseus</speaker>
@@ -1667,7 +1667,7 @@ bring up to P3
 <sp>
 <speaker>Antigone</speaker>
 <p>What do you mean, lord, ruler of <placeName key="perseus,Athens">Athens</placeName>?</p></sp>
-<div2 type="anapests">
+<div type="anapests">
 <sp>
 <speaker>Theseus</speaker>
 <p><milestone ed="p" n="1760" unit="line"/>Children, he told me that no one should draw near that place, or approach with prayer the sacred tomb in which he sleeps. He said that, so long as I saw to this, I would always keep the country free from pain.<milestone ed="p" n="1765" unit="line"/>The divinity heard me say these things, as did the all-seeing Oath of Zeus.</p></sp>
@@ -1679,7 +1679,7 @@ bring up to P3
 <p>I will do both this and whatever other favorable service I can, for you<milestone ed="p" n="1775" unit="line"/>and for the newly-departed under the earth, according to the gratitude I owe. I am bound to spare no pains.</p></sp>
 <sp>
 <speaker>Chorus</speaker>
-<p>Cease; raise up the lamentation no further. These things are established firm and fixed.</p></sp></div2>
-</div1>
+<p>Cease; raise up the lamentation no further. These things are established firm and fixed.</p></sp></div>
+</div>
 </body></text>
 </TEI.2>

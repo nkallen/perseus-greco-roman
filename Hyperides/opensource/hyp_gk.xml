@@ -82,7 +82,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 n="1" type="speech">
+            <div n="1" type="speech">
                 <head>Ἀποπλογία ὑπὲρ Λυκόφρονος</head>
                 <p>
                     <milestone n="1" unit="fragment"/><note resp="Loeb" anchored="yes">Hoc
@@ -282,8 +282,8 @@
                     ἐὰν οὖν κελεύητε, ὦ ἄνδρες δικασταί, καλῶ τινα βοηθήσοντα.
                     ἀνάβηθί μοι, Θεόφιλε, καὶ σύνειπε ὅ τι ἔχεις· κελεύουσιν οἱ
                     δικασταί.</p>
-            </div1>
-            <div1 n="1a" type="speech">
+            </div>
+            <div n="1a" type="speech">
                 <head>Υπὲρ Λυκόφρονος 2</head>
                 <p>
                     <milestone n="1" unit="fragment"/><note type="Papyr" resp="P" anchored="yes">Column 1</note> [τοῦτο]ν δι[ο]ρῦξαι τὸν [τοῖχο]ν τῆ[ς] πρὸς τὴν
@@ -322,8 +322,8 @@
                     ἀποδημῆσα[ι] τὸν Δ[ι]ώξιππ[ο]ν στεφανώς[ο]ντα τὴν πόλιν. Λυκόφρονα δὲ
                     τέως μὲν &ldsqb;<seg type="noparse">lu</seg>&rdsqb;πέμποντα
                     ἐπις[τολὰ]ς λέγειν<gap/></p>
-            </div1>
-            <div1 n="2" type="speech">
+            </div>
+            <div n="2" type="speech">
                 <head>Κατὰ Φιλιππίδου</head>
                 <p>
                     <milestone n="1" unit="fragment"/><note resp="Loeb" anchored="yes">Frag. I
@@ -454,8 +454,8 @@
                     γραφὴν πάλιν· ὑμεῖς δὲ τῶν τε κατηγορημένων <note type="Papyr" resp="P" anchored="yes">Column 9</note> μεμνημένοι καὶ τῶν νόμων ἀκούσαντες
                     ἀναγιγνωσκομένων, τά τε δίκαια καὶ τὰ συμφέροντα ὑμῖν αὐτοῖς
                     ψηφίζεσθε.</p>
-            </div1>
-            <div1 n="3" type="speech">
+            </div>
+            <div n="3" type="speech">
                 <head>Κατ’ Ἀθηνογένους</head>
                 <p>
                     <milestone n="1" unit="section"/><note type="Papyr" resp="P" anchored="yes">Column 1</note> [αὐτ]ήν.<note resp="Loeb" anchored="yes">Primae litterae
@@ -816,8 +816,8 @@
                         columna</bibl><seg type="noparse">anthso</seg><gap/><seg type="noparse">leken</seg> ἄλλοι[ς]<gap/>[τα]ῦτα πέπονθεν <seg type="noparse">t</seg><gap/><seg type="noparse">wn</seg> ἀναλωμ[άτων]
                         λωμ[άτων]<gap/><seg type="noparse">alusit</seg><gap/>[ὀ]φείλους[ι]<gap/>ὅ ποτε ἀπέλυσεν<gap/>[ὦ ἄνδ]ρες
                     δικας[ταί, ο]ὐδεὶς ὑ[μῶν]<gap/>του<gap/><seg type="noparse">kata</seg></p>
-            </div1>
-            <div1 n="4" type="speech">
+            </div>
+            <div n="4" type="speech">
                 <head>Ὑπὲρ Εὐξενίππου ἐισαγγελίας ἀπολογία πρὸς Πολύευκτον</head>
                 <p>
                     <milestone n="1" unit="section"/><note type="Papyr" resp="P" anchored="yes">Column 1</note> ἀλλ’ ἔγωγε, ὦ ἄνδρες δικασταί, ὅπερ καὶ πρὸς
@@ -1124,8 +1124,8 @@
                     δικαστῶν καὶ τοὺς φίλους παρακαλεῖν καὶ τὰ παιδία ἀναβιβάζεσθαι.<note resp="Loeb" anchored="yes">Subscriptio in A:<foreign lang="greek">ὑπὲρ
                             Εὐξενίππου εἰσαγγελίας ἀπολογία πρὸς
                     Πολύευκτον.</foreign></note></p>
-            </div1>
-            <div1 n="5" type="speech">
+            </div>
+            <div n="5" type="speech">
                 <head>Κατὰ Δημοσθένους ὑπὲρ τῶν Ἁρπαλείων</head>
                 <p>
                     <milestone n="1" unit="fragment"/><note type="Papyr" resp="P" anchored="yes">Column 1</note> ἀλλ’ ἐγώ, ὦ [ἄνδρες]<note resp="Loeb" anchored="yes">Coll. 1 et 2 plerumque restituit Blass.</note> δικασταί, [ὅπερ καὶ]
@@ -1450,8 +1450,8 @@
                         <milestone n="c" unit="fragment"/><bibl>Harpocration, s.v.<foreign lang="greek">παραγραφή</foreign></bibl>οὐδὲ μέχρι παραγραφῆς.
                         <milestone n="d" unit="fragment"/><bibl n="Phot. 116.22">Photius, p. 116, 22
                     (Reitz)</bibl>ἄνανδρος.</p>
-            </div1>
-            <div1 n="6" type="speech">
+            </div>
+            <div n="6" type="speech">
                 <head>[Ἐπιτάφιος]</head>
                 <p>
                     <milestone n="1" unit="section"/><note type="Papyr" resp="P" anchored="yes">Column 1</note> τῶν μὲν λόγων τ[ῶν μελ]λόντων<note resp="Loeb" anchored="yes">Col. 1 plerumque restituit Blass.</note> ῥηθήσες[θαι ἐπὶ]
@@ -1742,7 +1742,7 @@
                         κηδεμονίας<note resp="Loeb" anchored="yes"><foreign lang="greek">κηδεμονίας</foreign>Ruhnken:<foreign lang="greek">ἐπιμελείας</foreign>vel<foreign lang="greek">εὐδαιμονίας</foreign>codd.: <foreign lang="greek">ἐπιμελείας καὶ
                             κηδεμονίας</foreign>Fuhr.</note> ὑπὸ τοῦ δαιμονίου
                 τυγχάνειν<gap/></p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

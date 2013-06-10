@@ -39,8 +39,8 @@
 
   <text>
     <body>
-      <div1 type="speech" n="intro">
-        <div2 type="section" n="1">
+      <div type="speech" n="intro">
+        <div type="section" n="1">
           <head>From the preface to the first edition.</head>
           <p>MY earliest interest in the Private Orations may be said to date from the time when it
             was my privilege as an undergraduate to attend, in the year 1865, a course of lectures
@@ -137,8 +137,8 @@
             being placed in square brackets and followed by his initial.</p>
           <p>J. E. S.</p>
           <p><title>October,</title> 1875. <pb n="ix"/></p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p>For the second edition of this volume, the work has been thoroughly revised, and the
             suggestions with which I have been favoured by scholars, who have had occasion to use
             it, have been carefully considered and in many cases adopted. Some redundant passages
@@ -151,8 +151,8 @@
             and corrected accordingly.</p>
           <p>J. E. S.</p>
           <p><title>October,</title> 1886.</p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p>For the third edition, the text as well as the notes has been carefully revised. The
             text has been accommodated to that of Dindorf as edited by Blass in 1889; and the points
             in which the revised text differs from that of Dindorf's own edition, together with the
@@ -167,8 +167,8 @@
             the work of Demosthenes.</p>
           <p>J. E. S.</p>
           <p><title>March,</title> 1896. <pb n="x"/></p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p>In this fourth edition, as in the third, the text adopted is that of Dindorf as revised
             by Blass. Neither the text of Dindorf nor that of Blass can claim the authority of a
               <title>Textus Receptus,</title> but no better recension of any of the Speeches
@@ -195,11 +195,11 @@
           <p>J. E. S.</p>
           <p><title>July,</title> 1910. <pb n="1"/>
           </p>
-        </div2>
-      </div1>
-      <div1 type="speech" n="36">
+        </div>
+      </div>
+      <div type="speech" n="36">
         <!-- *** hypothesis here -->
-        <div2 type="section" n="1">
+        <div type="section" n="1">
           <p>&sect;&sect; 1&mdash;3. The defendant Phormion's obvious inexperience and
             incapacity for public speaking make it necessary for his friends to state his case on
             his behalf. They confront the plaintiff Apollodorus with a special plea in bar of
@@ -257,8 +257,8 @@
             relative clause to <foreign lang="greek">ταῦτα ψηφίσησθε</foreign> is placed before it
             partly for increased emphasis, partly to bring <foreign lang="greek">δίκαια</foreign>
             closer to <foreign lang="greek">τὰ δίκαια</foreign> in the previous context. </p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p><lemma lang="greek" targOrder="U">ἵν’ ἐκκρούοντες χρόνους ἐμποιῶμεν</lemma>
             &lsquo;With the evasive object of wasting time,&rsquo; or (with Kennedy)
             &lsquo;for the sake of evasion and delay.&rsquo; The phrase <foreign lang="greek">χρόνους ἐμποιεῖν</foreign> occurs in <bibl n="Dem. 9.71">Or. 9
@@ -288,8 +288,8 @@
               <foreign lang="greek">ὅμως δ’</foreign>, or <foreign lang="greek">ἀλλ’
               ὅμως</foreign>. Perhaps it is better to regard this as an instance of the
               &lsquo;<foreign lang="la">nominativus pendens.</foreign>&rsquo; P.] </p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p><lemma lang="greek" targOrder="U">τούτου</lemma> Apollodorus.</p>
           <p><lemma lang="greek" targOrder="U">διαλύσας κ. παραδοὺς κ.τ.λ.</lemma>
             &lsquo;Having duly paid and delivered up everything&mdash;&mdash;and having
@@ -332,8 +332,8 @@
             <bibl n="Dem. 45.5">Or. 45 &sect; 5</bibl> (of this very trial), <foreign lang="greek">παρεγράψατο τὴν δίκην ἣν ἔφευγε Φορμίων οὐκ εἰσαγώγιμον
               εἶναι</foreign>. See <foreign lang="greek">ὑπόθεσις</foreign> &sect; 3,
               <foreign lang="greek">παραγράφεται</foreign>, n. </p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p>&sect;&sect; 4&mdash;11. Statement of the transactions of Phormion with
             Pasion and Apollodorus. After Phormion had become his own master, but before he had
             received the rights of Athenian citizenship, Pasion gave him a lease of the Bank and the
@@ -387,8 +387,8 @@
               <bibl n="Cic. Catil. 4.1">Cic. Catil. IV 1</bibl>
               <quote lang="la">perferrem ..feram.</quote>
             </cit> Cf. <bibl n="Dem. 53.4">Or. 53 &sect; 4</bibl>. </p>
-        </div2>
-        <div2 type="section" n="5">
+        </div>
+        <div type="section" n="5">
           <p><lemma lang="greek" targOrder="U">ἀπορίαν. .φιλεργίαν</lemma> &lsquo;Not
               <emph>want</emph> but <emph>thrift,</emph>&rsquo; or (with Kennedy) &lsquo;Not
             on account of poverty, but on account of his industry in business.&rsquo; In <bibl n="Dem. 45.33">Or. 45 &sect; 33</bibl> Apollodorus insinuates that the debt arose
@@ -442,8 +442,8 @@
           <p><lemma lang="greek" targOrder="U">παρακαταθήκη</lemma> Plato defin. p.415 <foreign lang="greek">δόμα μετὰ πίστεως</foreign>. Claims for the repayment of such banking
             deposits form the subject of two of the forensic orations of Isocrates, the Trapeziticus
             and the <foreign lang="greek">ἀμάρτυρος πρὸς Εὐθύνουν</foreign>. </p>
-        </div2>
-        <div2 type="section" n="6">
+        </div>
+        <div type="section" n="6">
           <p><lemma lang="greek" targOrder="U">μήπω τῆς πολιτείας κ.τ.λ.</lemma> No one would
             lend money on the security of land unless in default of payment (<bibl n="Dem. 35.12">Or. 35 &sect; 12</bibl>) the lender had the right to take possession of such
             land, and this right of possession was confined to citizens to the exclusion of <foreign lang="greek">μέτοικοι</foreign> (or resident aliens) like Phormion. In a similar case
@@ -491,8 +491,8 @@
             pour les onze talents. Il reste cr&eacute;ancier de ses emprunteurs, mais il devient
             d&eacute;biteur, envers la banque, d'une somme &eacute;gale de sa
             cr&eacute;ance sur ces derniers.&rsquo; Dareste. </p>
-        </div2>
-        <div2 type="section" n="7">
+        </div>
+        <div type="section" n="7">
           <p><lemma lang="greek" targOrder="U">τοῦ ἐπικαθημένου</lemma> &lsquo;The manager,
             the clerk, of the bank.&rsquo; Elsewhere Phormion himself is described by Apoll. as
               <foreign lang="greek">τὸν ἐπικαθήμενον ἐπὶ τῆς τραπέζης</foreign> (<bibl n="Dem. 49.17">Or. 49 &sect; 17</bibl>, cf. 49 &sect; 33) and <foreign lang="greek">καθήμενον καὶ διοικοῦντα ἐπὶ τῇ τραπέζῃ</foreign> (<bibl n="Dem. 45.33">Or. 45 &sect; 33</bibl>), Isocr. Or. 17 (Trapez.) &sect; 12,
@@ -525,8 +525,8 @@
               τὰς κειμένας ἐν ἱερῷ τῆς Ἀφροδίτης καὶ παρ’ Εὐνομίδη τῷ ἄρχοντι καὶ
               παρὰ τῷ θεσμοθέτῃ Κτησιφῶντι</foreign> (Meier and Schomann, p. 52, note 31 ed.
             Lipsius). </p>
-        </div2>
-        <div2 type="section" n="8">
+        </div>
+        <div type="section" n="8">
           <p><lemma lang="greek" targOrder="U">πρόκλησις</lemma> To establish Pasion's will,
             Stephanus and two others deposed that they were present when Phormion challenged
             Apollodorus to open the will, and that the latter refused. In Or. 45 Apollodorus sues
@@ -598,8 +598,8 @@
           <p><lemma lang="greek" targOrder="U">νείμασθαι</lemma> The subject is not the
             &lsquo;brothers,&rsquo; but the &lsquo;guardians,&rsquo; as is clear
             from the subsequent verbs <foreign lang="greek">νέμονται</foreign> and <foreign lang="greek">ἀπεδίδοσαν</foreign>. </p>
-        </div2>
-        <div2 type="section" n="9">
+        </div>
+        <div type="section" n="9">
           <p><lemma lang="greek" targOrder="U">ἀπεδίδοσαν</lemma> The guardians paid Apollodorus
             the share due to him, viz. half the rent of the bank and shield-manufactory. <foreign lang="greek">ἀποδιδόναι</foreign> is &lsquo;to pay a man <hi rend="italic">his
               due,</hi>&rsquo; as in Isaeus 5 &sect; 21 <foreign lang="greek">οἷς ἔδει
@@ -615,8 +615,8 @@
             In &sect; 12 we have <foreign lang="greek">ἐγκαλοῦντ’ ἀφορμήν</foreign>.</p>
           <p><foreign lang="greek">μισθώσεως</foreign>, &lsquo;lease&rsquo;; <foreign lang="greek">μισθώσεις</foreign>, &lsquo;rents.&rsquo; Cf. &sect; 33 n.
           </p>
-        </div2>
-        <div2 type="section" n="10">
+        </div>
+        <div type="section" n="10">
           <p><lemma lang="greek" targOrder="U">δοκιμασθέντος</lemma> The <foreign lang="greek">δοκιμασία</foreign> (see <title>Dict. Antiq.</title>) took place on
             &lsquo;coming of age,&rsquo; usually at 18. Aristotle's <title>Constitution of
               Athens,</title> 42 &sect; 1 <foreign lang="greek">ἐγγράφονται δ’ εἰς τοὺς
@@ -636,8 +636,8 @@
             <foreign lang="greek">μάρτυρασὡς ἀφῆκα αὐτὸν τῶν ἐγκλημάτων παρέσχετο
               ψευδεῖς, καὶ μισθώσεώς τινος ἐσκευωρημένης καὶ διαθήκης οὐδεπώποτε
               γενομένης</foreign>. </p>
-        </div2>
-        <div2 type="section" n="11">
+        </div>
+        <div type="section" n="11">
           <p><lemma lang="greek" targOrder="U">αἴρεσιν</lemma> The choice lay with him by virtue
             of being the elder brother (&sect; 34).</p>
           <p><lemma lang="greek" targOrder="U">καίτοι κ.τ.λ.</lemma> Phormion argues that, if the
@@ -656,8 +656,8 @@
             itself than a banking business. But the bank business was speculative, and involved the
             risk of losing the deposits, and therefore the manufactory, with all its drawbacks, was
             preferred by Apollodorus, as being at least safe. P.] <pb n="15"/></p>
-        </div2>
-        <div2 type="section" n="12">
+        </div>
+        <div type="section" n="12">
           <p>&sect;&sect; 12&mdash;17. <hi rend="italic">The plaintiff's claim to a sum
               of banking-stock alleged to have been held by the defendant may be proved groundless
               by many arguments:</hi> (1) <hi rend="italic">Plaintiff's father is entered in the
@@ -710,8 +710,8 @@
               ἴσου ἀργυρίου</foreign> is a false statement, or an oratorical exaggeration, but a
             careful consideration of &sect;&sect; 11 and 37 shows that this is not the case.
           </p>
-        </div2>
-        <div2 type="section" n="13">
+        </div>
+        <div type="section" n="13">
           <p><lemma lang="greek" targOrder="U">τοῦδε...αὐτὸν</lemma> Defendant and plaintiff
               respectively.&mdash;<foreign lang="greek">νῦν</foreign> &lsquo;in <hi rend="italic">that</hi> case,&rsquo; referring to the hypothesis <foreign lang="greek">εἰἀπεστερεῖτο. αὐτὸν</foreign>, standing first
             in the clause, must mean <hi rend="italic">ipsum.</hi></p>
@@ -728,8 +728,8 @@
             definition proving these points.&rsquo; Cf. &sect; 22 <hi rend="italic">ad
               finem.</hi>
           </p>
-        </div2>
-        <div2 type="section" n="14">
+        </div>
+        <div type="section" n="14">
           <p><lemma lang="greek" targOrder="U">ἐμίσθωσαν ... παρέδωκαν</lemma> The plurals refer
             to the two brothers. For <foreign lang="greek">παρέδωκαν</foreign> cf. &sect; 10 on
               <foreign lang="greek">ἀφῆκαν</foreign>.</p>
@@ -761,8 +761,8 @@
             <bibl n="Dem. 21.216">Or. 21 &sect; 216</bibl>
             <foreign lang="greek">θοἰμάτιον προέσθαι καὶ μικροῦ γυμνὸν ἐν τῷ χιτωνίσκῳ
               γενέσθαι</foreign>. </p>
-        </div2>
-        <div2 type="section" n="15">
+        </div>
+        <div type="section" n="15">
           <p><lemma lang="greek" targOrder="U">ἐπιτρέψας κ.τ.λ.</lemma> The plaintiff submitted
             the claims to the private arbitration of Deinias and Nicias (&sect; 17), his own
             father-in-law and brotherin-law respectively. Pollux: <foreign lang="greek">ἔλεγον δὲ
@@ -792,8 +792,8 @@
               Πύρωνα......δίδομεν αὐτῷ φυλάττειν τὰς συνθήκας</foreign>, ib. 17 and Andoc.
             1 &sect; 42. <bibl n="Dem. 33.18">Or. 33 &sect; 18</bibl>
             <foreign lang="greek">ἀπαντήσας εἰς τὸ Ἡφαιστεῖον</foreign>. </p>
-        </div2>
-        <div2 type="section" n="16">
+        </div>
+        <div type="section" n="16">
           <p><lemma lang="greek" targOrder="U">συμπλάσας</lemma> &lsquo;Having
             concocted,&rsquo; &lsquo;fabricated,&rsquo; &lsquo;patched
             up,&rsquo; &lsquo;put into shape.&rsquo; Aeschin. 3 &sect; 77 <foreign lang="greek">τῶν θεῶν συμπλάσας ἑαυτῷ ἐνύπνιον κατεφεύσατο</foreign>. The
@@ -807,15 +807,15 @@
               ἱερῷ</foreign>, and <bibl n="Dem. 54.26">Or. 54 &sect; 26</bibl>, <foreign lang="greek">τὸν λίθον</foreign>, n.</p>
           <p><lemma lang="greek" targOrder="U">λαμβάνων</lemma> &lsquo;On the receipt of this
             money,&rsquo; viz. the 5000 drachmae. </p>
-        </div2>
-        <div2 type="section" n="17">
+        </div>
+        <div type="section" n="17">
           <p><lemma lang="greek" targOrder="U">τούτων</lemma>
             <foreign lang="greek">τῶν μαρτύρων τῶν παραγενομένων</foreign>, &sect; 16.</p>
           <p><foreign lang="greek">τοσούτων ταλ</foreign>.] &sect; 3 <foreign lang="greek">ταλάντων εἴκοσι</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">τολμᾷ</lemma> It was acting in open defiance of the
             law to bring an action after a full acquittance had been given. <pb n="20"/></p>
-        </div2>
-        <div2 type="section" n="18">
+        </div>
+        <div type="section" n="18">
           <p>&sect;&sect; 18&mdash;21. Anticipation of the arguments likely to be
             brought forward by the plaintiff. <hi rend="italic">He will repeat what he stated before
               the arbitrator, that his mother destroyed his father's papers at the defendant's
@@ -844,8 +844,8 @@
               διδόασι χρημάτων, κ.τ.λ.</foreign> and <bibl n="Dem. 52.4">Or. 52 &sect;
               4</bibl>.</p>
           <p><lemma lang="greek" targOrder="U">ἠφάνικε</lemma> Cf. &sect; 20 <foreign lang="greek">διεφθαρκέναι</foreign>. </p>
-        </div2>
-        <div2 type="section" n="19">
+        </div>
+        <div type="section" n="19">
           <p><lemma lang="greek" targOrder="U">ἐνείμαπ’ ἂν</lemma> &lsquo;Who would have
             taken his share of his father's property, if he had not the books from which alone he
             could know the amount of property left?&rsquo; He refers to the <pb n="21"/>
@@ -861,8 +861,8 @@
               Cont.</title> p. 83, Benseler's <title>Isocr.</title> I p. xxii, Veitch, <title>Gk
               Vbs,</title> and KuhnerBlass, <title>Gr. Gr.</title> I 2, 484.</p>
           <p><lemma lang="greek" targOrder="U">ὑπὲρ τῶν γραμμάτων</lemma> sc. <foreign lang="greek">περὶ τῆς ἀφανίσεως αὐτῶν</foreign>. </p>
-        </div2>
-        <div2 type="section" n="20">
+        </div>
+        <div type="section" n="20">
           <p><lemma lang="greek" targOrder="U">ἀνὴρ γεγονὼς</lemma> Cf. &sect; 10 <foreign lang="greek">δοκιμασθέντος Πασικλέους</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">ἐκομίζετο κ.τ.λ.</lemma> &lsquo;Was getting in
             an account of the guardianship,&rsquo; i.e. the accounts from his guardians. Or. 27,
@@ -884,8 +884,8 @@
             Apollodorus sues Timotheus for payment in a speech still extant, belonging probably to
             the year B.C. 362. (Or. 49, <foreign lang="greek">πρὸς Τιμόθεον ὑπὲρ
               χρέως</foreign>.) Cf. infr. &sect;&sect; 36 and 54. </p>
-        </div2>
-        <div2 type="section" n="21">
+        </div>
+        <div type="section" n="21">
           <p><lemma lang="greek" targOrder="U">ἐκ ποίων γραμμάτων</lemma> If there <hi rend="italic">were</hi> no papers, then the grounds of your actions were fraudulent,
               <foreign lang="greek">συκοφαντίαι</foreign>, inf. In Or. 49, Pasion's papers are
             expressly cited, e.g. &sect; 43 <foreign lang="greek">κελεύοντος ἐνεγκεῖν τὰ
@@ -901,8 +901,8 @@
               εἴληχα</foreign>, 33 &sect; 35 <foreign lang="greek">ἐγκέκληκε καὶ τὴν
               λῆξιν πεποίηται</foreign>, 39 &sect; 16 <foreign lang="greek">λῆξις
               δίκης</foreign>, 58 &sect; 32.</p>
-        </div2>
-        <div2 type="section" n="22">
+        </div>
+        <div type="section" n="22">
           <p>&sect; 22. Argument from the silence of plaintiff's younger brother. <hi rend="italic">Pasicles, as a minor, had been much more liable to be wronged by the
               defendant, who as testamentary guardian had control over his ward's property. Pasicles
               makes no complaint. Therefore</hi> (<hi rend="italic">it is tacitly assumed</hi>) <hi rend="italic">he had no complaint to make.</hi> A fortiori <hi rend="italic">defendant
@@ -941,8 +941,8 @@
             brother.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">τὴν τούτου μαρτυρίαν</lemma> &lsquo;the
             deposition proving this point,&rsquo; neuter, as in &sect; 13 <hi rend="italic">prope finem.</hi></p>
-        </div2>
-        <div2 type="section" n="23">
+        </div>
+        <div type="section" n="23">
           <p>&sect;&sect; 23&mdash;25. <title>The speaker now passes from the arguments
               in support of the main issue</title> (<hi rend="italic">or the case upon its
               merits</hi>) <hi rend="italic">to those on which the defendant raises a special plea
@@ -969,12 +969,12 @@
             &sect;&sect; 46, 87; (<foreign lang="greek">τῶν τόκων</foreign>) 56
             &sect;&sect; 28, 34.</p>
           <p><lemma lang="greek" targOrder="U">διαίτης κ.τ.λ.</lemma> &sect; 16. </p>
-        </div2>
-        <div2 type="section" n="24">
+        </div>
+        <div type="section" n="24">
           <p><lemma lang="greek" targOrder="U">ἐκ τῶν νόμων</lemma> Contrasted with <foreign lang="greek">παρὰ τοὺς νόμους</foreign>. As he brought his action contrary to the
             law, we have put in an objection to it which is fully allowed by the law. </p>
-        </div2>
-        <div2 type="section" n="25">
+        </div>
+        <div type="section" n="25">
           <p><lemma lang="greek" targOrder="U">ἀκούετε κ.τ.λ.</lemma> Or. 38, <foreign lang="greek">παραγραφὴ πρὸς Ναυσίμαχον</foreign>, &sect; 5 <foreign lang="greek">ἀκούετε τοῦ νόμου σαφῶς λέγοντος ἕκαστα ὧν μὴ εῖ̓ναι δίκας,
               ὧν ἕν ἐστιν, ὁμοίως τοῖς ἄλλοις κύριον, περὶ ὧν ἄν τις ἀφῇ καὶ
               ἀπαλλάξῃ, μὴ δικάζεσθαι</foreign>. Cf. 37 &sect;&sect; 1, 19; 33
@@ -1066,8 +1066,8 @@
             verbs have no distinct meanings&rsquo;; and similarly Mr Paley held that
             &lsquo;although a shade of difference might be traced, and perhaps originally <pb n="27"/> existed between them, they had practically become synonyms.&rsquo;
             Reasons have been given above for dissenting from this view.</p>
-        </div2>
-        <div2 type="section" n="26">
+        </div>
+        <div type="section" n="26">
           <p>&sect; 26. <hi rend="italic">The plaintiff's suit is also inadmissible for another
               reason; it contravenes the statute of limitations, in which the term of five years is
               fixed as a sufficient time for injured parties to recover their dues, whereas the
@@ -1093,8 +1093,8 @@
               δικαιοτάτῃ</foreign> (VIII 122). See Dr Hager in <title>Journal of
               Philology,</title> VI 10, and Meierand Sch&ouml;mann, p. 152&mdash;5 Lipsius.
           </p>
-        </div2>
-        <div2 type="section" n="27">
+        </div>
+        <div type="section" n="27">
           <p><lemma lang="greek" targOrder="U">δοκεῖ ὁ Σόλων</lemma> A favourite rhetorical
             device, to remind the dicasts of the solemnity and <pb n="28"/> high authority of the
             law they administer.</p>
@@ -1124,8 +1124,8 @@
             not live for ever; and therefore the legislator laid down the law, with its limit of
             time, designing that, in lieu of living witnesses, the destitute should find therein a
             deathless witness on the side of right.&rsquo;</p>
-        </div2>
-        <div2 type="section" n="28">
+        </div>
+        <div type="section" n="28">
           <p>&sect;&sect; 28&mdash;32. Plaintiff's probable reply anticipated. <hi rend="italic">Surely he will not ask his audience to resent the defendant's marriage
               with the plaintiff's mother. Among bankers, there are many precedents for such an
               arrangement, and on grounds of expediency, as the only means of keeping up the
@@ -1158,8 +1158,8 @@
             &sect; 48 <foreign lang="greek">ἐγένετο Πασίων Ἀρχεστράτου</foreign>. On
               <foreign lang="greek">ἐκεῖνος</foreign> see <bibl n="Dem. 40.28">Or. 40 &sect;
               28</bibl>. </p>
-        </div2>
-        <div2 type="section" n="29">
+        </div>
+        <div type="section" n="29">
           <p><lemma lang="greek" targOrder="U">ὄντι καὶ ζῶντι</lemma> Who is still
             &lsquo;alive and in being.&rsquo; The redundancy is intended to strengthen the
             emphasis. Cf. De Corona &sect; 72 <foreign lang="greek">τὴν Μυσῶν λείαν
@@ -1171,8 +1171,8 @@
             his own death, his widow should marry Hermaeus.&rsquo; M. Dareste, however, supposes
             that there is no refer<pb n="30"/> ence to any will. He holds that the woman had either
             been divorced from her husband, or was not his lawful wife. </p>
-        </div2>
-        <div2 type="section" n="30">
+        </div>
+        <div type="section" n="30">
           <p><lemma lang="greek" targOrder="U">ὑμῖν. .τοῖς γένει πολίταις κ.τ λ.</lemma> A
             compliment to the audience, designed to smooth the way for what might otherwise prove an
             mvidious reference to the money-making of bankers in general and to the wealth of Pasion
@@ -1204,8 +1204,8 @@
             yours.&rsquo; &lsquo;Your family.&rsquo; Cf. <bibl n="Dem. 55.5">Or. 55
               &sect; 5</bibl>, n. <pb n="31"/>
           </p>
-        </div2>
-        <div2 type="section" n="31">
+        </div>
+        <div type="section" n="31">
           <p><lemma lang="greek" targOrder="U">πρὸς γένους δόξαν</lemma> Sc. <foreign lang="greek">βλέπων</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">ἀναίνει</lemma> Here, and at end of &sect;,
             &lsquo;disdain,&rsquo; &lsquo;scorn,&rsquo;
@@ -1218,8 +1218,8 @@
             stepfather.</p>
           <p><lemma lang="greek" targOrder="U">σὲ ταῦτα λέγειν</lemma> Notice the emphatic
             pronoun. </p>
-        </div2>
-        <div2 type="section" n="32">
+        </div>
+        <div type="section" n="32">
           <p><lemma lang="greek" targOrder="U">δόντος κ. ἐπισκήψαντος</lemma> By your father's
             special grant and injunction.</p>
           <p><lemma lang="greek" targOrder="U">πρὸς μέρος</lemma> &lsquo;Share and share
@@ -1246,8 +1246,8 @@
             number.</p>
           <p><foreign lang="greek">ἀφεῖναι τῶν ἐγκλ</foreign>.] &sect; 3 <foreign lang="greek">ἀφεθεὶς</foreign>, &sect; 25 <foreign lang="greek">ἀφεὶς κ.
               ἀπαλλάξας</foreign>, n.</p>
-        </div2>
-        <div2 type="section" n="33">
+        </div>
+        <div type="section" n="33">
           <p>&sect;&sect; 33&mdash;35. Anticipation of plaintiff's arguments, continued.
               <title>He will impudently assert</title> (1) <hi rend="italic">that his father made no
               will and that the document produced was a forgery, and</hi> (2) <hi rend="italic">that
@@ -1301,8 +1301,8 @@
             &lsquo;terms of a tenancy,&rsquo; or &lsquo;the conditions of a
             lease&rsquo; (27 &sect; 59; 37 &sect;&sect; 5, 6); and, once in Dem. (56
             &sect; 25), &lsquo;hiring.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="34">
+        </div>
+        <div type="section" n="34">
           <p><lemma lang="greek" targOrder="U">πρεσβεῖα</lemma> By right of primogeniture (39
             &sect; 29). Pollux: <foreign lang="greek">πρεσβεῖά ἐστι γέρα τὰ τοῖς
               πρεσβυτέροις δεδομένα</foreign>. The recognition of any such right seems quite
@@ -1315,8 +1315,8 @@
             (Boeckh, <title>Publ. Econ.</title> I 90). Apoll. may have already had a household of
             his own and his father may therefore have assigned him a <foreign lang="greek">συνοικία</foreign> (A. Schaefer, <title>Dem. u. s. Zeit,</title> III 2, 133). Cf.
             &sect; 6 <foreign lang="greek">ἐπὶ συνοικίαις</foreign>, n. </p>
-        </div2>
-        <div2 type="section" n="35">
+        </div>
+        <div type="section" n="35">
           <p><lemma lang="greek" targOrder="U">ὑποσχέσεων</lemma> He will tell you, perhaps, that
             Phormion promised to pay a good rent (<foreign lang="greek">ὑπισχνεῖτο</foreign>
             &sect; 33), and so for a long time he withheld further action.</p>
@@ -1335,8 +1335,8 @@
             remained lessees (&sect; 13) of it. Apollodorus ought, the moment they took it, to
             have looked after his dues, and seen that all his money was in the business. But he made
             no claim at all, nay even thanked Phormion for his good services in the management. <pb n="35"/></p>
-        </div2>
-        <div2 type="section" n="36">
+        </div>
+        <div type="section" n="36">
           <p>&sect;&sect; 36&mdash;42. <title>The plaintiff will complain that he is
               utterly destitute and ruined. You must know then that, from the debts due to his
               father and the rents due to himself, he has received more than forty
@@ -1356,8 +1356,8 @@
           <p><lemma lang="greek" targOrder="U">ἀποστερεῖ</lemma> &lsquo;defrauds&rsquo;
             his brother of his shares in many of the debts. <foreign lang="greek">ἀποστερεῖν</foreign> is constantly used of &lsquo;withholding what is due to
             another,&rsquo; &lsquo;keeping another out of his rights.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="37">
+        </div>
+        <div type="section" n="37">
           <p><lemma lang="greek" targOrder="U">τὴν τράπεζαν</lemma> The bank alone is mentioned,
             but it must not be forgotten that Phormion had a lease of the shield-manufactory as
             well.</p>
@@ -1382,8 +1382,8 @@
             Phormion to Apollodorus. But it was only the <hi rend="italic">total</hi> rent that was
             the same in both cases; the way in which it was divided between the brothers was
             different. </p>
-        </div2>
-        <div2 type="section" n="38">
+        </div>
+        <div type="section" n="38">
           <p><lemma lang="greek" targOrder="U">ἐτῶν ἴσως εἴκοσι</lemma> In &sect; 19 the
             interval is more strictly stated at eighteen years. It has been suggested by Mr A.
             Wright that it is here put at &lsquo;nearly 20&rsquo; to help the audience to
@@ -1419,8 +1419,8 @@
             not four and a half as Jerome Wolf and Kennedy translate it (which would require
               <foreign lang="greek">πέμπτου ἡμιταλάντου</foreign>). The plaintiff's unpaid debt
             of 156mna. is with a bitter emphasis mentioned last in the list of his resources. </p>
-        </div2>
-        <div2 type="section" n="39">
+        </div>
+        <div type="section" n="39">
           <p><lemma lang="greek" targOrder="U">ἀλλὰ νὴ Δία</lemma> Introducing a supposed
             rejoinder on the opposite side. &lsquo;Oh! but he will say, All this wealth has been
             received, in fact, not by him, but by the city.&rsquo; Cf. <bibl n="Dem. 54.34">Or.
@@ -1457,8 +1457,8 @@
           <p><lemma lang="greek" targOrder="U">μηδὲναἰτιῶ</lemma> &lsquo;Don't
             accuse the <title>State</title> then,&rsquo; &lsquo;Don't be charging the State
             with being the cause and object of your lavish expenditure.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="41">
+        </div>
+        <div type="section" n="41">
           <p><lemma lang="greek" targOrder="U">ἃ τῆς μισθ, κ.τ.λ.</lemma> The order is <foreign lang="greek">ἃ</foreign> (<foreign lang="greek">ἔξω τῆς μισθώσεως τῆς τραπέζης
               κ.τ.λ.</foreign>) <foreign lang="greek">ὠφείλετο τῷ Πασίωνι καὶ ἃ
               οὖτοι</foreign> (sc. Apoll. and Pasicles) <foreign lang="greek">παρειλήφασιν</foreign>.</p>
@@ -1487,8 +1487,8 @@
             Apollodorus is mentioned in an inscription of 352&mdash;1 B.C., <foreign lang="greek">[Οἰνηῒ]ς παίδων [ἐνίκα]. Ἀπολλόδωρος Πασί[ωνος Ἀχαρνεὺς]
               ἐχορήγει. Λυσιάδης [Ἀθηναῖος ἐδίδασκε. Ἀριστόδημος ἦρ[χε]</foreign>.
               <title>C. I. A.</title> II 3, 1238. </p>
-        </div2>
-        <div2 type="section" n="42">
+        </div>
+        <div type="section" n="42">
           <p><lemma lang="greek" targOrder="U">τόνδε ἀπὸ τῶν αὑτοῦ</lemma> &lsquo;That he
             should <hi rend="italic">continue to serve you</hi> from his own resources,&rsquo;
             &amp;c.&mdash;pointing to Phormion, who is also referred to in <foreign lang="greek">τόνδε μὲν</foreign> two lines further on.&mdash; <foreign lang="greek">τούτῳ δόντας τὰ τοῦδε</foreign>, i.e. handing over to the plaintiff
@@ -1502,8 +1502,8 @@
             self-complacency: <foreign lang="greek">τῷ μέτριος κατὰ πάσας τὰς εἰς ἐμαυτὸν
               δαπάνας εἶναι πολὺ τούτου καὶ τοιούτων ἑτέρων εὐτακτότερον ζῶν ἂν
               φανείην</foreign>.</p>
-        </div2>
-        <div2 type="section" n="43">
+        </div>
+        <div type="section" n="43">
           <p>&sect;&sect; 43&mdash;48. <hi rend="italic">As to the de-</hi>
             <pb n="40"/>
             <hi rend="italic">fendant's wealth, and his having got it from your father's
@@ -1549,8 +1549,8 @@
               50 &sect; 56</bibl>, Apollodorus describes the wide extent of his father's
             connexion and good credit (<foreign lang="greek">ἐπεξενῶσθαι πολλοῖς καὶ
               πιστευθῆναι ἐν τῇ Ἑλλάδι</foreign>). </p>
-        </div2>
-        <div2 type="section" n="44">
+        </div>
+        <div type="section" n="44">
           <p><lemma lang="greek" targOrder="U">ἐν ἐμπορίῳ καὶ χρήμασιν ἐργαζομένοις</lemma>
             Kennedy: &lsquo;In the commercial world and the money-market it is thought a
             wonderful thing, when the same person shows himself to be both honest and
@@ -1597,8 +1597,8 @@
             <foreign lang="greek">ὧν οὐδ’ ἂν εἷς ἀξίως ἐφικέσθαι τῷ λόγῳ
               δύναιτο</foreign>. For the genitive, cf. Isocr. 4 &sect; 187; 9 &sect; 49; 10
             &sect; 13. </p>
-        </div2>
-        <div2 type="section" n="45">
+        </div>
+        <div type="section" n="45">
           <p><lemma lang="greek" targOrder="U">χλανίδα</lemma> &lsquo;A mantle,&rsquo; a
             light upper garment of fine wool. Aeschin. Timarch. &sect; 131, <foreign lang="greek">τὰ κομψὰ ταῦτα χλανίσκια......καὶ τοὺς μαλακοὺς
               χιτωνίσκους</foreign>. Dem. <bibl n="Dem. 21.133">Or. 21 &sect; 133</bibl> (of
@@ -1638,8 +1638,8 @@
             operam ut circumiens inspiciat aliquid aut agat, eum <foreign lang="greek">περιάγειν</foreign> dicimur; sin autem quis quaqua incedit <hi rend="italic">secum
               trahit</hi> aliquem, cuius opera officioque utatur, eum <foreign lang="greek">περιάγεσθαι</foreign> dicitur, ut herus pedissequos, aut tyrannus
             satellites.&rsquo; (<title>Novae lectiones,</title> p. 652.) </p>
-        </div2>
-        <div2 type="section" n="46">
+        </div>
+        <div type="section" n="46">
           <p><lemma lang="greek" targOrder="U">οὐδὲ τὸν Φορμίωνα</lemma> &lsquo;Nor is
             Phormio's position unknown to him.&rsquo; Kennedy. For the double negation, see on
             &sect; 22. Though Phormion was once the slave of one who was himself a slave of the
@@ -1653,8 +1653,8 @@
               &sect; 5</bibl>; 18 &sect;&sect; 207, 252: 60 &sect; 20. [The polite
             Greeks had many <pb n="44"/> terms of this kind, <foreign lang="greek">ἀγροικία,
               σκαιότης, ἀμαθία, ἀπαιδευσία, ἀπειροκαλία</foreign>. P.] </p>
-        </div2>
-        <div2 type="section" n="47">
+        </div>
+        <div type="section" n="47">
           <p><lemma lang="greek" targOrder="U">ὑβρίζεις ... προπηλακίζεις</lemma>
             <bibl n="Dem. 23.120">Or. 23 &sect; 120</bibl>, <foreign lang="greek">ὧν ὕβρισε
               καὶ προὐπηλάκισεν</foreign>, 9 &sect; 60; 18 &sect; 12. <lemma lang="greek" targOrder="U">κοσμεῖν καὶ περιστέλλειν</lemma> &lsquo;Adorning and
@@ -1671,8 +1671,8 @@
             such a character as yourself.&rsquo; For the asyndeton, cf. &sect; 52; and <bibl n="Dem. 39.34">Or. 39 &sect; 34</bibl>
             <foreign lang="greek">ἂν δ’ ἐπιβουλεύῃς, δικάζῃ, φθονῇς, βλασθημῇς</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="48">
+        </div>
+        <div type="section" n="48">
           <p><lemma lang="greek" targOrder="U">εἰς τοῦθ’ ἥκεις μανίας</lemma> Cf. &sect; 46
               <foreign lang="greek">εἰς τοῦθ’ ἥκεις ἀγνωμοσύνης</foreign>. Madvig <title>Gk
               Syntax,</title> &sect; 50 ad fin. 27 &sect; 24; 33 &sect; 19; 40
@@ -1689,8 +1689,8 @@
             was once Pasion's property, are in fact speaking in your behalf; while you, in demanding
             that Phormio shall not be put on the same footing as yourself, are speaking against
             yourself.&rsquo; P.]</p>
-        </div2>
-        <div2 type="section" n="49">
+        </div>
+        <div type="section" n="49">
           <p>&sect;&sect; 49&mdash;52. <hi rend="italic">The defendant's management of
               the family property was the very saving of the business, and in this and many other
               respects he has been a great benefactor to the plaintiff's father and to the plaintiff
@@ -1729,8 +1729,8 @@
               σε ποιεῖν</foreign>, &amp;c. Goodwin's <title>Moods and Tenses,</title>
             &sect; 42, 2, n. = &sect; 220, ed. 1889; and Short's <title>Order of Words in
               Attic Greek Prose,</title> p. xciv. (3) (b). </p>
-        </div2>
-        <div2 type="section" n="50">
+        </div>
+        <div type="section" n="50">
           <p><lemma lang="greek" targOrder="U">Ἀριστόλοχον</lemma> In 45 &sect; 64 Stephanus
             is described as cringing to <title>Aristolochus the banker</title> in his prosperity,
             and deserting his son when in great distress after Aristolochus was ruined.</p>
@@ -1751,12 +1751,12 @@
               <foreign lang="greek">τῆς τραπέζης ἀνασκευασθείσης</foreign>. <bibl n="Dem. 49.68">Or. 49 &sect; 68</bibl>
             <foreign lang="greek">&lt;&gt;οῖς ἀνεσκευασμένοις τῶν
             τπαρεζιτω_ν</foreign>. Cf. <hi rend="italic">infra</hi> &sect; 57, <foreign lang="greek">ἁνατρέψαι</foreign>, n. </p>
-        </div2>
-        <div2 type="section" n="51">
+        </div>
+        <div type="section" n="51">
           <p><lemma lang="greek" targOrder="U">δύο τάλ. κ.τ.λ.</lemma> As rent for the bank <hi rend="italic">and the manufactory.</hi> Cf. &sect;&sect; 11, 37; 45 &sect;
             32. </p>
-        </div2>
-        <div2 type="section" n="52">
+        </div>
+        <div type="section" n="52">
           <p><lemma lang="greek" targOrder="U">ταῖς ἀραῖς</lemma> Solemn imprecations on those
             who violated the conditions of the will.</p>
           <p><lemma lang="greek" targOrder="U">ἐλαύνεις διώκεις συκοφαντεῖς</lemma>
@@ -1780,8 +1780,8 @@
             accidental.</p>
           <p><lemma lang="greek" targOrder="U">σοὶ γοῦν</lemma> &lsquo;In <hi rend="italic">your</hi> case, at any rate.&rsquo; From this primary sense <foreign lang="greek">γοῦν</foreign> often takes the secondary meaning &lsquo;for
             instance.&rsquo;</p>
-        </div2>
-        <div2 type="section" n="53">
+        </div>
+        <div type="section" n="53">
           <p>&sect;&sect; 53&mdash;57. <title>But though</title> (<hi rend="italic">for
               the sake of argument</hi>) <hi rend="italic">the speaker has pointed out the results
               which would ensue, if the defendant</hi> were <hi rend="italic">condemned, he protests
@@ -1890,8 +1890,8 @@
             indictments (<foreign lang="greek">δημοσίᾳ</foreign> in the previous sentence and
               <foreign lang="greek">τῶν κοινῶν</foreign> in the next); though this reason is not
             conclusive, as the first part of the previous sentence refers to <foreign lang="greek">δίκαι ἴδιαι</foreign>. </p>
-        </div2>
-        <div2 type="section" n="54">
+        </div>
+        <div type="section" n="54">
           <p><lemma lang="greek" targOrder="U">Ἀπολλόδωρον ὄντα κ.τ.λ.</lemma>
             <hi rend="italic">aculeatum et amarum dictum.</hi> Reiske. It is not like
               <title>Apollodorus,</title> it is inconsistent with his true character, to be going
@@ -1911,15 +1911,15 @@
             to be produced on the general character of plaintiff and defendant, are liable to
             objection on the ground of their being beside the question. The speaker here meets that
             objection beforehand. </p>
-        </div2>
-        <div2 type="section" n="55">
+        </div>
+        <div type="section" n="55">
           <p><lemma lang="greek" targOrder="U">περὶ πάντ’</lemma> Masc. <cit>
               <bibl n="Xen. Anab. 1.6.8">Xen. <title>Anab.</title> I 6 &sect; 8</bibl>
               <quote lang="greek">peri\ e)me\ a)/dikos</quote>
             </cit>. <pb n="52"/>
           </p>
-        </div2>
-        <div2 type="section" n="56">
+        </div>
+        <div type="section" n="56">
           <p><lemma lang="greek" targOrder="U">τὰς</lemma> sc. <foreign lang="greek">μαρτυρίας</foreign>. &lsquo;Testimony to the plaintiff's bad
             character.&rsquo;</p>
           <p>The four sets of depositions may probably be grouped as follows: (1) General evidence
@@ -1931,8 +1931,8 @@
           <p><lemma lang="greek" targOrder="U">ἆρ’ οὖν ὄμοιος οὐτοσί; σκοπεῖτε</lemma>
             <title>Look here, upon this picture, and on this.</title>&mdash;<foreign lang="greek">λέγε</foreign>. Thus used by Dem. in 28 &sect;&sect; 11, 12, 13
             only (Sigg, p. 431).</p>
-        </div2>
-        <div2 type="section" n="57">
+        </div>
+        <div type="section" n="57">
           <p>&sect; 57 to end. <title>The defendant not only implores your protection, but
               claims it as his right. Generous in his benefactions and</title> (<hi rend="italic">apart from his actual resources</hi>) <hi rend="italic">enjoying credit for at least
               as much besides, he is enabled by means of that good credit to be of advantage, not to
@@ -1990,8 +1990,8 @@
           <p><lemma lang="greek" targOrder="U">πίστις</lemma> &lsquo;Credit.&rsquo; Cf.
             &sect; 44 <foreign lang="greek">πίστις ἀφορμή κ.τ.λ.</foreign>
           </p>
-        </div2>
-        <div2 type="section" n="58">
+        </div>
+        <div type="section" n="58">
           <p><lemma lang="greek" targOrder="U">ἃ μὴ προῆσθε</lemma> &lsquo;Do not throw this
             away,&rsquo; i.e. &lsquo;do not sacrifice these advantages to the interests of
             the plaintiff.&rsquo;</p>
@@ -2051,8 +2051,8 @@
             <foreign lang="greek">ἃ καὶ ὑμῖν ἐστιν ἐπ’ ὠφελείᾳ μείζονι παρ’ ἡμῖν ὄντα
               ἢ παρὰ τούτοις</foreign>. Lysias Or. 18 &sect;&sect; 20, 21; 19 &sect;
             61; 21 &sect;&sect; 12&mdash;14. </p>
-        </div2>
-        <div2 type="section" n="59">
+        </div>
+        <div type="section" n="59">
           <p><lemma lang="greek" targOrder="U">τοῦλυσιτελ. εἰς χρήματα</lemma>
             <title>Pecuniary</title> advantage. Instead of being placed between the article and
             participle, as would be most natural, <foreign lang="greek">ει&lt;&gt;ς
@@ -2065,8 +2065,8 @@
             <pb n="56"/>
             <foreign lang="greek">ἰδόντα κ.τ.λ.</foreign> Cf. Isocr. ad Dem. &sect; 5 <foreign lang="greek">συμβουλεύειν, ὧν χρὴ...ὀρέγεσθαι καὶ τίνων ἔργων
               ἀπέχεσθαι</foreign>, n </p>
-        </div2>
-        <div2 type="section" n="60">
+        </div>
+        <div type="section" n="60">
           <p><foreign lang="greek">λόγον καὶ συκοφ</foreign>.] i.e. empty talk and baseless
             misrepresentation. For <foreign lang="greek">λόγος</foreign>, &lsquo;mere
             talk,&rsquo; cf. <bibl n="Dem. 20.101">Or. 20 &sect; 101</bibl>
@@ -2083,15 +2083,15 @@
               disceptavit.</hi>&rsquo; G. H. Schaefer. Cf. &sect; 17 init.</p>
           <p><lemma lang="greek" targOrder="U">δεικνύναι</lemma> sc. <foreign lang="greek">κελεύετε</foreign>, &lsquo;tell him to <hi rend="italic">try if</hi> he can
             show,&rsquo; &amp;c. To be distinguished from <foreign lang="greek">ἐπιδεῖξαι</foreign> just above. </p>
-        </div2>
-        <div2 type="section" n="61">
+        </div>
+        <div type="section" n="61">
           <p><lemma lang="greek" targOrder="U">λέγῃ</lemma> &lsquo;<title>Go on</title>
             talking.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">φυλάττετε καὶ μέμνησθε</lemma> &lsquo;Keep <pb n="57"/> in mind and remember.&rsquo; Or. 20 &sect;&sect; 163, 167; 23
             &sect; 219 <foreign lang="greek">ταῦτα φυλαττετε καὶ μεμνημένοι
               κἀθησθε</foreign>, 45 &sect; 87. </p>
-        </div2>
-        <div2 type="section" n="62">
+        </div>
+        <div type="section" n="62">
           <p><lemma lang="greek" targOrder="U">τὸν νόμον καὶ τὰς μαρτυρίας</lemma> The context
             does not show what law or what depositions are referred to: possibly another <foreign lang="greek">νόμος</foreign> of the same general purport as that recited before
             &sect; 25 (<foreign lang="greek">ὧν μὴ εἶναι δίκας</foreign>) and further
@@ -2125,10 +2125,10 @@
               ἀξιωθείς, ἀλλ’ ὑβρισθεὶς ὡς οὐκ οἶδ’ εἴ τις πώποτε ἄλλος ἀνθρώπων,
               ἀπῄειν βαρέως, ὦ ἄνδρες Ἀθηυαῖοι, καὶ χαλεπῶς φέρων</foreign>. <pb/>
           </p>
-        </div2>
-      </div1>
-      <div1 type="speech" n="45">
-        <div2 type="section" n="1">
+        </div>
+      </div>
+      <div type="speech" n="45">
+        <div type="section" n="1">
           <p>&sect;&sect; 1, 2. Exordium ( <foreign lang="greek">προοίμιον</foreign>).
               <title>Having been defeated by false testimony in my suit against Phormion, I have
               come into court to claim a verdict against those who compassed that outrageous and
@@ -2199,8 +2199,8 @@
           <p><lemma lang="greek" targOrder="U">βοηθῆσαιδίκαια</lemma>
             <bibl n="Dem. 54.2">Or. 54 &sect; 2</bibl> = <foreign lang="greek">βοηθοῦντας
               άποδοῦναί μοι τὰ δίκαια</foreign> (54 &sect; 42). </p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p><lemma lang="greek" targOrder="U">ἐπιδείξωγνώσεσθε</lemma>
             <bibl n="Dem. 36.3">Or. 36 &sect; 3</bibl>.</p>
           <p><lemma lang="greek" targOrder="U">μεμαρτυρηκότα τὰ ψευδῆ</lemma> &lsquo;guilty
@@ -2221,8 +2221,8 @@
               <foreign lang="greek">ἀκούσαντες</foreign> must be taken by itself, &lsquo;when
             you have heard it.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">ἐκείνου</lemma> sc. <foreign lang="greek">Φορμίωνος</foreign>.</p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p>&sect;&sect; 3&mdash;8. Narrative (<foreign lang="greek">διήγησις</foreign>). <hi rend="italic">My father Pasion left behind him at his death
               a large property which got into the hands of Phormion, who also married Pasion's
               widow, my mother Archippe, during my absence from Athens on public service. On my
@@ -2285,8 +2285,8 @@
             &sect; 9; <foreign lang="greek">ἐνέγκαντες</foreign> and <foreign lang="greek">ἐπενέγκας</foreign> in nonDemosthenic speeches, 49 &sect; 51; 59 &sect; 5
             (Huettner).</p>
           <p><lemma lang="greek" targOrder="U">δίκην ἰδίαν . γραφὴν ὔβρεως</lemma> Cf. <bibl n="Dem. 54.1">Or. 54 &sect; 1</bibl>, ad fin. </p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p><lemma lang="greek" targOrder="U">πόλεμον</lemma> This suspension of lawsuits, which
             the plaintiff found in force on returning from his trierarchy in B.C. 368, was due to
             the hostilities between Athens and Thebes in the period between the battle of Leuctra in
@@ -2321,8 +2321,8 @@
             tacitly meant. (Cf. Shilleto on <title>Fals. leg.</title> &sect; 117.)</p>
           <p><lemma lang="greek" targOrder="U">μέτριοι ..ταπεινοὶ</lemma> i.e. &lsquo;both
             moderate and reasonable in their terms.&rsquo; Fals. leg. &sect; 15 <foreign lang="greek">μετρίους λόγους</foreign>, where Shilleto quotes Ulpian: <foreign lang="greek">ἤγουν ἐπιεικεῖς, φιλανθρώπους</foreign>. </p>
-        </div2>
-        <div2 type="section" n="5">
+        </div>
+        <div type="section" n="5">
           <p><lemma lang="greek" targOrder="U">ἵνα...συντέμω</lemma>
             <bibl n="Dem. 39.4">Or. 39 &sect; 4</bibl>; 37 &sect; 21. The reason for the
             speaker's hurrying over this part of his statement is partly because the overtures of
@@ -2359,8 +2359,8 @@
             &sect;&sect; 1, 17; 38 &sect;&sect; 1, 3. For <foreign lang="greek">μάρτυρας ὡς ἀφῆκα</foreign>, see Or. 36 &sect;&sect; 24, 25; and for the
             depositions on the &lsquo;lease,&rsquo; <hi rend="italic">ib.</hi> &sect; 4,
             and on the &lsquo;will,&rsquo; <hi rend="italic">ib.</hi> &sect; 7. </p>
-        </div2>
-        <div2 type="section" n="6">
+        </div>
+        <div type="section" n="6">
           <p><lemma lang="greek" targOrder="U">πρότερος λέγειν</lemma> Cf. Isocr. <foreign lang="greek">παραγραφὴ πρὸς Καλλίμαχον</foreign> &sect; 1 <foreign lang="greek">φεύγων τὴν δίκην πρότερος λέγω τοῦ διώκοντος</foreign>. Cf. <bibl n="Dem. 34.4">Or. 34 &sect; 4</bibl>
             <foreign lang="greek">κατηγορεῖν τοῦ διώκοντος</foreign>, and ibid. &sect; 1
               <foreign lang="greek">ἐν τῷ μέρει λεγόντων</foreign>. Meier and Schomann, p. 250
@@ -2388,8 +2388,8 @@
             <bibl n="Dem. 21.6">Or. 21 &sect; 6</bibl>
             <foreign lang="greek">ὑβρισμένος οἷ’ οὐκ οἶδ’ εἴ τις ἄλλος</foreign>, cf. 54
             &sect; 43. </p>
-        </div2>
-        <div2 type="section" n="7">
+        </div>
+        <div type="section" n="7">
           <p><lemma lang="greek" targOrder="U">λόγον δ’ ἐμαυτῷ διδοὺς</lemma> Frequent in Hdt.;
             not found in Dem.&mdash;<foreign lang="greek">τοῖς δικάσασι κ.τ.λ.</foreign>, 21
             &sect; 75; 59 &sect; 8 (Huettner).</p>
@@ -2415,8 +2415,8 @@
             <foreign lang="greek">οὐδεμίαν πώποτε δἰκην πρὸς ὑμᾶς εἰσήλθομεν, οὔτ’
               ἐγκαλοῦντες οὔτ’ ἐγκαλούμενοι ὑφ’ ἑτέρων</foreign>. Cf. Wyse on Isaeus 1
             &sect; 3 <foreign lang="greek">εἰς ὑμᾶς</foreign>. </p>
-        </div2>
-        <div2 type="section" n="8">
+        </div>
+        <div type="section" n="8">
           <p><lemma lang="greek" targOrder="U">ἐξ αὐτῆς</lemma>
             <hi rend="italic">ex ipsa,</hi> perhaps, rather than <hi rend="italic">ex
             ea.</hi>&mdash;On <foreign lang="greek">ἐπίλαβε τὸ ὕδωρ</foreign> cf. note on
@@ -2463,8 +2463,8 @@
               <foreign lang="greek">τὰ</foreign> we must rather awkwardly get the predicate out of
               <foreign lang="greek">τὰ ἀντίγραφα</foreign>. The speaker himself expresses the
             sense better in &sect;&sect; 10, 23 (Westermann, u. s. p. 108).</p>
-        </div2>
-        <div2 type="section" n="9">
+        </div>
+        <div type="section" n="9">
           <p>&sect;&sect; 9&mdash;14. <title>It is deposed that Phormion challenged me
               to open the will, produced</title> (<hi rend="italic">it is alleged</hi>) <hi rend="italic">before the arbitrator; that I refused the challenge and would not open
               the &lsquo;will&rsquo;; that the document to which they depose is a
@@ -2518,16 +2518,16 @@
             <foreign lang="greek">ποιεῖσθαι λόγους</foreign>, <hi rend="italic">agere, disceptare
               cum aliquo</hi> (Huettner). <pb n="69"/>
           </p>
-        </div2>
-        <div2 type="section" n="10">
+        </div>
+        <div type="section" n="10">
           <p><lemma lang="greek" targOrder="U">ἃς παρέχειν</lemma> sc. <foreign lang="greek">μαρτυροῦσι</foreign>. For the infinitive in the relative clause influenced by the
             principal verb, cf. <bibl n="Dem. 36.25">Or. 36 &sect; 25</bibl>.</p>
           <p><lemma lang="greek" targOrder="U">εἶθ’ ἡ διαθήκη γέγραπται</lemma> &lsquo;Then
             follows a copy of the will,&rsquo; or (with Kennedy) &lsquo;and then the will is
             set out.&rsquo; &lsquo;<title>Deinde sequitur</title> (in testimonio eorum) <hi rend="italic">testamentum exscriptum, sequitur exeniplum testamenti.</hi>&rsquo;
             Seager, <title>Classical Journ.</title> LX p. 267. Cf. Dem. 9 &sect; 42 <foreign lang="greek">εἶθ’ ἡ αἰτία γέγραπται</foreign>. </p>
-        </div2>
-        <div2 type="section" n="11">
+        </div>
+        <div type="section" n="11">
           <p><lemma lang="greek" targOrder="U">περὶ...ὑπὲρ</lemma> These prepositions are here,
             as often, practically synonymous. Cf. infra &sect; 50, Fals. Leg. &sect; 94, p.
             371, <foreign lang="greek">οὐ περὶ τοῦ εἰ ποιητέον εἰρήνην... ἀλλ’ ὑπὲρ τοῦ
@@ -2542,8 +2542,8 @@
           <p><lemma lang="greek" targOrder="U">νὴ Δία</lemma>
             <bibl n="Dem. 36.39">Or. 36 &sect; 39</bibl>, and <bibl n="Dem. 54.34">Or. 54
               &sect; 34</bibl> n. </p>
-        </div2>
-        <div2 type="section" n="12">
+        </div>
+        <div type="section" n="12">
           <p><lemma lang="greek" targOrder="U">εἰ...μὴ προσεμαρτύρουν</lemma> &lsquo;Had they
             not deposed to the will, as well as to the challenge, I might reasonably have declined
             to open the document (purporting to be a copy of the will): but, as they actually
@@ -2558,8 +2558,8 @@
               &lsquo;<foreign lang="greek">ἂν</foreign>
             <hi rend="italic">consopitum,</hi>&rsquo; where its force is, as it were, dormant.
             It is peculiar to the later or middle Attic. </p>
-        </div2>
-        <div2 type="section" n="13">
+        </div>
+        <div type="section" n="13">
           <p><lemma lang="greek" targOrder="U">ἵν’ἐχρώμην</lemma> &sect; 17;
               <bibl n="Dem. 36.47">Or. 36 &sect; 47</bibl>, <foreign lang="greek">ἵναἐφαίνετο</foreign> n.</p>
           <p><lemma lang="greek" targOrder="U">ἄλλ’ ἄττα τῶν κ.τ.λ.</lemma>=<foreign lang="greek">ἄλλ’ ἄττα ἢ τὰ</foreign>, i.e. &lsquo;had the contents of the
@@ -2616,8 +2616,8 @@
               κ.τ.λ.</foreign></p>
           <p><lemma lang="greek" targOrder="U">πρὸς πολλούς</lemma> sc. <foreign lang="greek">τὰ
               πράγματα γενἐσθαι μοι</foreign>. </p>
-        </div2>
-        <div2 type="section" n="14">
+        </div>
+        <div type="section" n="14">
           <p><lemma lang="greek" targOrder="U">οὐ. .οὐδὲ κατ’ ἄλλου πιστεύειν</lemma>
             &lsquo;Well then, you cannot fairly believe it of any one <hi rend="italic">else</hi> either.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">ὅσοις .τῶν πραττομένων</lemma> The participle is
@@ -2642,8 +2642,8 @@
           <p><foreign lang="greek">λογισμὸς κ.τ.λ.</foreign> &lsquo;A calm calculation of one's
             interest.&rsquo; <foreign lang="greek">λ. τῶν πραγμάτων</foreign> (18 &sect;
             229), <foreign lang="greek">τῶν ἔργων</foreign> (18 &sect; 231). <foreign lang="greek">τοῦ κινδύνου</foreign> (16 &sect; 30).</p>
-        </div2>
-        <div2 type="section" n="15">
+        </div>
+        <div type="section" n="15">
           <p>&sect;&sect; 15&mdash;19. <hi rend="italic">Again, the witnesses depose to
               a Challenge as well as to a Will. Now Challenges are meant to meet the case of those
               transactions, which it is otherwise impossible to bring before the court. In the
@@ -2678,8 +2678,8 @@
               κατὰ Στεφάνου καὶ περὶ ὧν πρόκλησις γίνεται δηλοῖ</foreign>. Meier &amp;
             Schomann, p. 871 Lips.; Wyse in <title>Cambridge Companion to Greek Studies,</title>
             &sect; 421 f. </p>
-        </div2>
-        <div2 type="section" n="16">
+        </div>
+        <div type="section" n="16">
           <p><lemma lang="greek" targOrder="U">οἷον...οἷον</lemma> 54 &sect; 17 <foreign lang="greek">οἷον ...πάλιν...πάλιν</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">βασανίζειν οὐκ ἔστιν ἐναντίον ὑμῶν</lemma> In
             Dobree's <title>Adversaria,</title> we have the suggestive note &lsquo;<title>Qu.
@@ -2722,8 +2722,8 @@
           <p><lemma lang="greek" targOrder="U">ὅπου</lemma> &lsquo;since,&rsquo; or
             &lsquo;in a case where&rsquo;; 22 &sect; 11 <foreign lang="greek">ὅπου δ’
               αίτεῖν οὐκ ἐᾷ, πῶς οὐ σφόδρα δοῦναί γε κωλύει</foreign>; </p>
-        </div2>
-        <div2 type="section" n="17">
+        </div>
+        <div type="section" n="17">
           <p><lemma lang="greek" targOrder="U">ἐτελεύτησεν</lemma> B.C. 370; <bibl n="Dem. 46.13">Or. 46 &sect; 13</bibl>.</p>
           <p><lemma lang="greek" targOrder="U">ποικίλῃ στοᾷ</lemma> &lsquo;The painted
             portico.&rsquo; So called from its pictures, representing the legendary wars of
@@ -2759,8 +2759,8 @@
             &sect; 292, 3. As <hi rend="italic">first</hi> person <foreign lang="greek">ἤ?ειν</foreign> is rare, but <foreign lang="greek">προσή?ειν</foreign> is not. In
             &sect; 6 we have had <foreign lang="greek">ἀπή?ειν</foreign>. See Cobet,
               <title>Variae Lect.</title> p. 307. </p>
-        </div2>
-        <div2 type="section" n="18">
+        </div>
+        <div type="section" n="18">
           <p><lemma lang="greek" targOrder="U">εἷς ..οὐδεὶς</lemma> &lsquo;No <hi rend="italic">single</hi> witness has accepted the whole responsibility&rsquo;;
             cf. &sect; 38 <foreign lang="greek">διείλοντο τἀδικήματα. εἷς
               οὐδεὶς</foreign> is a much stronger negative than <foreign lang="greek">οὐδείς</foreign>. Or. 21 (Midias) &sect; 12 <foreign lang="greek">ἓν γὰρ
@@ -2777,8 +2777,8 @@
             <foreign lang="greek">ὁ δὲ, πεμφθεὶς</foreign>,&rsquo; to show that <foreign lang="greek">πεμφθεὶς</foreign> is subordmate to <foreign lang="greek">παρέχειν</foreign> and is not to be taken with <foreign lang="greek">ὁ
               δέ</foreign>. Trans. &lsquo;another, that he produced the will on being sent by
             him (Cephisophon)&rsquo; </p>
-        </div2>
-        <div2 type="section" n="19">
+        </div>
+        <div type="section" n="19">
           <p><lemma lang="greek" targOrder="U">παραπετάσματι</lemma> sc. <foreign lang="greek">προφάσει</foreign> (46 &sect; 9 <foreign lang="greek">πρόφασιν. τὴν
               πρόκλησιν</foreign>), <foreign lang="greek">προσχήματι</foreign> (5 &sect; 6),
             as a &lsquo;cloak,&rsquo; or &lsquo;pretext,&rsquo; lit. a
@@ -2879,8 +2879,8 @@
             Westermann <hi rend="italic">u.s.</hi> pp. 108&mdash;9, cf. &sect; 8 <hi rend="italic">supra.</hi>) The authenticity of the document is, however, confirmed by
             the fact that an inscription of the year 343 B.C. mentions <foreign lang="greek">Κηφισοφῶν Κεφαλίωνος Ἀφιδναῖος</foreign> (<title>C. I. A.</title> II 1, 114 C
             6 quoted by Kirchner p. 28). </p>
-        </div2>
-        <div2 type="section" n="20">
+        </div>
+        <div type="section" n="20">
           <p><lemma lang="greek" targOrder="U">ἐμβαλεῖν</lemma> sc. <foreign lang="greek">εἰς
               τὸν ἐχῖνον</foreign>, &sect; 17.&mdash;<foreign lang="greek">ὀργὴ</foreign>, the indignation of the court.&mdash;<foreign lang="greek">ἂν
               λαβεῖν</foreign> depends, like the previous clause, on <foreign lang="greek">ἡγεῖτο</foreign>.</p>
@@ -2893,8 +2893,8 @@
               78).&mdash;<foreign lang="greek">ἐτήρει τούτῳ</foreign> sc. <foreign lang="greek">Φορμίωνι</foreign>. &lsquo;If the inscription had been, <title>This
               belongs to Pasio, and to Phormion,</title> or <title>for Phormion,</title> or anything
             of that sort, he would reasonably have kept it for <hi rend="italic">him.</hi>&rsquo; </p>
-        </div2>
-        <div2 type="section" n="21">
+        </div>
+        <div type="section" n="21">
           <p><foreign lang="greek">πῶς οὐκ ἂν ἀνη?ρήμην</foreign>...] &lsquo;I should of
             course have recovered it.&rsquo; The plaintiff actually says that <hi rend="italic">if</hi> the terms of the will were such as alleged and if it had been really
             inscribed &lsquo;Pasion's Will&rsquo; (<foreign lang="greek">διαθήκη</foreign>
@@ -2916,8 +2916,8 @@
             testator revoking his own will; here of an heir claiming his father's will, with a view
             to suppressing it. See note on <bibl n="Dem. 34.31">Or. 34 &sect; 31</bibl>, and cf.
             48 &sect; 46. </p>
-        </div2>
-        <div2 type="section" n="22">
+        </div>
+        <div type="section" n="22">
           <p><lemma lang="greek" targOrder="U">τῷ παρέχεσθαι Φορμίωνι</lemma> &lsquo;By its
             being produced, not by, but <hi rend="italic">to</hi>
               Phormion.&rsquo;&mdash;<foreign lang="greek">είᾶσθαι δ·</foreign>
@@ -2925,8 +2925,8 @@
             myself.&rsquo; (See last note.) The pf. pass. <foreign lang="greek">είᾶσθαι</foreign> is apparently never used elsewhere. <bibl n="Dem. 8.59">Or. 8
               &sect; 59</bibl>
             <foreign lang="greek">ἐᾶσθαι</foreign>, 10 &sect;8 <foreign lang="greek">ἐαθέντα</foreign>, Isocr. 4 &sect; 97 <foreign lang="greek">εἰάθησαν</foreign>. </p>
-        </div2>
-        <div2 type="section" n="23">
+        </div>
+        <div type="section" n="23">
           <p><lemma lang="greek" targOrder="U">αὐτὸς ἔχειν</lemma> &lsquo;That he had the
             document in his own keeping.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">παρείχετο</lemma>
@@ -2941,8 +2941,8 @@
             present, it does not follow that they would know the <hi rend="italic">contents</hi> of
             the document. (See note on <bibl n="Dem. 46.2">Or. 46 &sect; 2</bibl> and Becker's
               <title>Charicles,</title> Sc. IX, note 18.)</p>
-        </div2>
-        <div2 type="section" n="24">
+        </div>
+        <div type="section" n="24">
           <p>&sect;&sect;24&mdash;26. <title>Let us now examine the terms of the
               deposition, and we shall see that its object is to make it appear by any means, fair
               or foul, that my father made this will. It speaks of</title> &lsquo;<title>the
@@ -2957,23 +2957,23 @@
             rightly or wrongly it may appear that my father made this will.&rsquo; A singular
             expression, the adverbs belonging to <foreign lang="greek">δόξει</foreign> and not to
               <foreign lang="greek">διαθέσθαι</foreign>. </p>
-        </div2>
-        <div2 type="section" n="25">
+        </div>
+        <div type="section" n="25">
           <p><lemma lang="greek" targOrder="U">εἰ τὰ μάλιστ’</lemma> &lsquo;If it <pb n="81"/> were <hi rend="italic">ever so true</hi> that the challenge took place, which I
             utterly deny.&rsquo; Cf. 16 &sect; 27.&mdash;<foreign lang="greek">ἐκείνως</foreign>, &lsquo;iu a form which I am about to show,&rsquo; viz.
             iu &sect; 26 <foreign lang="greek">τῶν διαθηκῶν</foreign> (<hi rend="italic">not</hi>
             <foreign lang="greek">τῶν Πασίωνος</foreign>) but <foreign lang="greek">ὧν φησι
               Φορμίων Πασίωνα καταλιπεῖν</foreign>. Cf. 46 &sect; 5. </p>
-        </div2>
-        <div2 type="section" n="26">
+        </div>
+        <div type="section" n="26">
           <p><lemma lang="greek" targOrder="U">εἴ τινές εἰσι</lemma> &lsquo;if there <hi rend="italic">is</hi> any will of Pasiou's at all.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">φάσκειν</lemma> (sc. <foreign lang="greek">εἶναι
               διαθήκας</foreign>.) Here, as often, used with the collateral uotion of saying what
             is untrue. Thus both <foreign lang="greek">φημὶ</foreign> and <foreign lang="greek">φάσκω</foreign> are used in <bibl n="Soph. El. 319">Soph. El. 319</bibl> of
             promising without performing: <foreign lang="greek">φησίν γε φασκων δ’ οὐδὲν ὧν
               λέγει ποιεῖ</foreign>. [For the whole sentence, cf. Eur. Alc. 528, <foreign lang="greek">χωρὶς τό τ’ εἷναι καὶ τό μὴ νομίζεται</foreign>.]</p>
-        </div2>
-        <div2 type="section" n="27">
+        </div>
+        <div type="section" n="27">
           <p>&sect;&sect; 27, 28. <title>An examination of the terms of the</title>
               &lsquo;<title>Will</title>&rsquo; <title>proves that Phormion had important
               motives for forging it, viz.</title> (1) <hi rend="italic">to escape the penalty for
@@ -3020,8 +3020,8 @@
             thinking how to escape puuishmeut for having wronged, <hi rend="italic">dishonoured,</hi> his master's household, damaged his master's property.&rsquo;
               <foreign lang="greek">τὰ τῶν δεσποτῶν</foreign> refers to his master's wife, but is
             expressed purposely in a general way. Cf. 9 &sect; 31 <foreign lang="greek">δοῦλοσὑποβολιμαῖοστὰ μὴ προσήκοντ’ ἀπώλλυε καὶ ἐλυμαίνετο</foreign>. </p>
-        </div2>
-        <div2 type="section" n="28">
+        </div>
+        <div type="section" n="28">
           <p><lemma lang="greek" targOrder="U">διαθήκην μετὰ τῆς προκλήσεως</lemma> &sect;
             12 <foreign lang="greek">προσεμαρτύρουν τῆ? προκλήσει τὴν διαθήκην</foreign> and
             &sect; 15 <foreign lang="greek">πρόκλησιν ὁμοῦ διαθήκη?
@@ -3038,8 +3038,8 @@
             mentioued in 35 &sect; 35.</p>
           <p><lemma lang="greek" targOrder="U">καὶ τοῦ ζητῆσαι .ἀποκλείων</lemma> See on <bibl n="Dem. 40.15">Or. 40 &sect; 15</bibl>
             <foreign lang="greek">έάν τι οὗτοι τῶν πατρῴων ἐπιζητῶσι</foreign>. <pb n="84"/></p>
-        </div2>
-        <div2 type="section" n="29">
+        </div>
+        <div type="section" n="29">
           <p>&sect;&sect; 29&mdash;36. <title>Again, the</title> &lsquo;<hi rend="italic">lease</hi>&rsquo; <title>upon which Phormion took the bank from my
               father, though itself a fabrication, will prove the</title>
               &lsquo;<title>Will</title>&rsquo; <hi rend="italic">an absolute
@@ -3083,8 +3083,8 @@
             deposits&rsquo; which he had put out to interest. Kennedy translates,
             &lsquo;upon the deposits to Phormion. See &sect; 31 fin. P.] <pb n="85"/>
           </p>
-        </div2>
-        <div2 type="section" n="30">
+        </div>
+        <div type="section" n="30">
           <p><lemma lang="greek" targOrder="U">ὡς ἐπὶ τῆ? μητρὶ δοθέντων</lemma> &lsquo;As
             my mother's dowry.&rsquo; Or 40, <foreign lang="greek">περὶ προικὸς</foreign>,
             &sect; 6 <foreign lang="greek">ἐκδόντος αὐτὴν ...καὶ προῖκα τάλαντον
@@ -3134,8 +3134,8 @@
               δάνειον</foreign>, and Philostratus 552 (quoted by Liddell &amp; Scott), <foreign lang="greek">τοιχωρυχεῖν τοὺς λόγους τινός</foreign>. Huettner quotes Aristides,
               <hi rend="italic">adv. Lept.</hi> 37 <foreign lang="greek">διορύξαι τὸ
               πρᾶγμα</foreign>. </p>
-        </div2>
-        <div2 type="section" n="31">
+        </div>
+        <div type="section" n="31">
           <p><lemma lang="greek" targOrder="U">ἐνεβάλοντο</lemma> &sect; 17.</p>
           <p><lemma lang="greek" targOrder="U">διὰ προκλήσεως</lemma> &lsquo;by means
             of,&rsquo; i.e. &lsquo;under cover of,&rsquo;&mdash;&lsquo;using the
@@ -3149,16 +3149,16 @@
             and in an inscription of 345 B.C. <foreign lang="greek">κατὰ τάδε ἐμίσθωσαν
               Αἰξωνεῖς τὴν Φ[ε]λεῖδα Αὐτοκλεῖ</foreign> (<title>C.I.G.</title> 93;
               <title>C.I.A.</title> II 1055). Kirchner p. 39. </p>
-        </div2>
-        <div2 type="section" n="32">
+        </div>
+        <div type="section" n="32">
           <p><lemma lang="greek" targOrder="U">μίσθωσιν φέρειν</lemma> 36 &sect;&sect; 33,
             51.</p>
           <p><lemma lang="greek" targOrder="U">τῆς καθ’ ἡμέραν διοικήσεως</lemma> &lsquo;The
             daily expenditure&rsquo; involved in managing the bank, paying under-clerks,
             &amp;c. <pb n="87"/>
           </p>
-        </div2>
-        <div2 type="section" n="33">
+        </div>
+        <div type="section" n="33">
           <p><lemma lang="greek" targOrder="U">ἔστιν οὖνὑπέμεινε</lemma>
             <bibl n="Dem. 19.308">Or. 19 &sect; 308</bibl>
             <foreign lang="greek">ἔστιν οὖν...; ἔστιν ὅστις ἂν ..ὑπέμεινεν</foreign>
@@ -3194,8 +3194,8 @@
             every reader (Judges xvi 21, Milton <title>Samson Agonistes</title> 41,
               &amp;c.).&mdash;<foreign lang="greek">μύλων</foreign> is, in respect of
             accent, a false form. (Chandler, <title>Gk Acc.</title> &sect; 638.) </p>
-        </div2>
-        <div2 type="section" n="34">
+        </div>
+        <div type="section" n="34">
           <p><lemma lang="greek" targOrder="U">ἐῶ ταῦτα κ.τ.λ.</lemma> The speaker, it will be
             observed, makes no attempt to meet fairly the statement made on the opposite side,
             accounting for the 11 talents not being actually in the bank. (Or. 36
@@ -3220,8 +3220,8 @@
             &lsquo;bimembered,&rsquo; where each clause is antithetical to the other, as
             here <foreign lang="greek">προὐνοήθη ὅπως</foreign> to <foreign lang="greek">παρεσκεύασεν ὅπως</foreign>. P.] <pb n="89"/>
           </p>
-        </div2>
-        <div2 type="section" n="35">
+        </div>
+        <div type="section" n="35">
           <p><lemma lang="greek" targOrder="U">καὶ τῆς μὲν ἐργασίας ὲφθόνησεν</lemma> The
             subject is <foreign lang="greek">τίς ἀνθρώπων</foreign> repeated from the previous
             sentence.</p>
@@ -3261,8 +3261,8 @@
           <p><lemma lang="greek" targOrder="U">ὅσην οὐδεὶς κ.τ.λ.</lemma> The mother of
             Demosthenes had a dowry of only 80mna.; the mother of Mantitheus 60mna.; the two
             daughters of Polyeuctus 40mna. each. (Dareste.) </p>
-        </div2>
-        <div2 type="section" n="36">
+        </div>
+        <div type="section" n="36">
           <p><lemma lang="greek" targOrder="U">λαμβάνοντι χρήματα</lemma> Not even if he got from
             Phormion (viz. as a bribe for leaving him his wife) the same large amount which the
             defendants pretend that he gave Phormion as a marriage portion.&mdash;<foreign lang="greek">φασὶδιδόντα</foreign>, supply <foreign lang="greek">πρᾶξαι
@@ -3275,8 +3275,8 @@
             &sect; 60) seems inexplicable, except as a rhetorical flourish, for we have had
             nothing like an argument from dates; and Dobree rightly asks <hi rend="italic">Quomodo?.</hi> Huettner suggests a reference to &sect; 33. Even <foreign lang="greek">τοῖς πεπραγμένοις</foreign> is barely justifiable, unless it is to be
             referred to &sect;&sect; 15&mdash;18.</p>
-        </div2>
-        <div2 type="section" n="37">
+        </div>
+        <div type="section" n="37">
           <p>&sect;&sect; 37&mdash;39. <hi rend="italic">Phormion attempts to prove the
               existence of the &lsquo;will,&rsquo; by going about saying that Nicocles gave
               evidence to having been guardian, and Pasicles to having been in wardship, under the
@@ -3302,8 +3302,8 @@
             know the purport of (<hi rend="italic">the terms of</hi>) such will.&rsquo; [The
             repetition of the clause <foreign lang="greek">δῆλονείδείη</foreign> seems
             needless, and perhaps is due to a copyist. P.] </p>
-        </div2>
-        <div2 type="section" n="38">
+        </div>
+        <div type="section" n="38">
           <p><lemma lang="greek" targOrder="U">τί μαθόντες</lemma>
             <bibl n="Dem. 20.127">Or. 20 &sect; 127</bibl>; 29 &sect; 20. Madvig, <title>Gk
               Synt.</title> &sect; 176 (b) R.; or Goodwin's <title>Moods and Tenses</title>
@@ -3314,8 +3314,8 @@
           <p><lemma lang="greek" targOrder="U">οἱ μὲν...οἱ δὲ</lemma> Nicocles and Pasicles.
               .<foreign lang="greek">οἱ περὶ Στέφανον.εἴρηκα καὶ
               πρότερον</foreign> refers to &sect; 18. </p>
-        </div2>
-        <div2 type="section" n="39">
+        </div>
+        <div type="section" n="39">
           <p><lemma lang="greek" targOrder="U">ἀφαιρῶν ἑκάτερος</lemma> i.e. both of them
             declining to depose to the terms entered in the will <title>by Phormion,</title> not by
             Pasion himself as is alleged.</p>
@@ -3333,8 +3333,8 @@
               <foreign lang="greek">ὕβπ&lt;&gt;ν</foreign> cf. &sect; 4, where the
               <foreign lang="greek">γάμος</foreign> leads to a <foreign lang="greek">γραφὴ
               ὕβρεως</foreign> being threatened by Apollodorus.</p>
-        </div2>
-        <div2 type="section" n="40">
+        </div>
+        <div type="section" n="40">
           <p>&sect;&sect; 40&mdash;42. <title>In bar of the previous action, Phormion
               pleaded a discharge deposed to have been granted by me, releasing him from all further
               claims. This is false, as I shall prove at the proper time; but even assuming it to be
@@ -3353,8 +3353,8 @@
           <p><foreign lang="greek">ἀφῆκε μἐν Ἀπολλόδωρος ο ἀπαλ-</foreign>
             <pb n="93"/>
             <foreign lang="greek">λαγείς, ἀπήλλαξε δὲ Φορμίων ὁ άφεθείς</foreign>. </p>
-        </div2>
-        <div2 type="section" n="41">
+        </div>
+        <div type="section" n="41">
           <p><lemma lang="greek" targOrder="U">τούτῳ κ.τ.λ.</lemma>
             <title>Stephanus,</title> however, has no right to declare that the evidence to the
             release is false. [The meaning is, that Stephanus was in league with Phormion, and
@@ -3385,8 +3385,8 @@
             in 1 &sect; 7; 2 &sect; 10; 16 &sect; 10; 17 &sect; 18. <foreign lang="greek">βέβαιος</foreign>, in 24 &sect; 37; 23 &sect; 3; 20 &sect;
             71. <pb n="94"/>
           </p>
-        </div2>
-        <div2 type="section" n="42">
+        </div>
+        <div type="section" n="42">
           <p><lemma lang="greek" targOrder="U">ἐναντία μίσθωσις διαθήκη?</lemma>
             &sect;&sect; 34&mdash;36. For <foreign lang="greek">πεπλασμένα καὶ
               κατεσκευασμένα</foreign> cf. &sect; 13, <bibl n="Dem. 36.33">Or. 36 &sect;
@@ -3395,8 +3395,8 @@
               τρόπου</foreign>, &lsquo;in this manner.&rsquo; Kennedy, doubtless following
             Bekker's text (<foreign lang="greek">ἐκ τοῦ τούτου τρόπου</foreign>), translates:
             &lsquo;just what you might expect from this man's character.&rsquo;</p>
-        </div2>
-        <div2 type="section" n="43">
+        </div>
+        <div type="section" n="43">
           <p>&sect;&sect; 43&mdash;46. <title>Stephanus will urge, that he is not
               responsible for a deposition but for a challenge, and for the latter on two points
               only,</title> (1) <title>the question whether Phormion made this challenge or not,
@@ -3413,8 +3413,8 @@
             clear from what follows: <foreign lang="greek">δεῖ αὐτὸν δοῦναι λόγον εἴτε
               προὐκαλεῖτο Φ. ἤ μή</foreign>. <pb n="95"/>
           </p>
-        </div2>
-        <div2 type="section" n="44">
+        </div>
+        <div type="section" n="44">
           <p><lemma lang="greek" targOrder="U">μαρτυρεῖν ἐν γραμματείῳ</lemma> &lsquo;All
             testimonial evidence was required to be in writing, in order that there might be no
             mistake about the terms and the witness might leave no subterfuge for himself when
@@ -3428,8 +3428,8 @@
           <p><lemma lang="greek" targOrder="U">οὐ νῦν ἐνόντων ἀναισχυντεῖν</lemma>
             &lsquo;The terms being in the deposition, he ought not to have the impudence to
             repudiate them <hi rend="italic">now.</hi>&rsquo; </p>
-        </div2>
-        <div2 type="section" n="45">
+        </div>
+        <div type="section" n="45">
           <p><lemma lang="greek" targOrder="U">σκοπεῖτε, εἰ</lemma> Here <foreign lang="greek">εἰ</foreign> is equivalent to <foreign lang="greek">πότερον.</foreign></p>
           <p><lemma lang="greek" targOrder="U">ἁλώσεται. .....ψευδομαρτυριῶν</lemma> For the gen.
             cf. <bibl n="Dem. 24.103">Or. 24 &sect; 103</bibl>
@@ -3452,8 +3452,8 @@
             &lsquo;so and so&rsquo;; &lsquo;this or that,&rsquo; cf. 9 &sect;
             68; 18 &sect; 243; 19 &sect; 74; 21 &sect; 141; 54 &sect; 26, and
             similarly <foreign lang="greek">τόσα καὶ τόσα</foreign>, 34 &sect; 24. </p>
-        </div2>
-        <div2 type="section" n="46">
+        </div>
+        <div type="section" n="46">
           <p><lemma lang="greek" targOrder="U">τὴν ἀντιγραφὴν</lemma> Harpocr. s. v. <foreign lang="greek">τὰ τῶν δικαζομένων γράμματα, ἃ ἐδίδοσαν περὶ τοῦ πράγματος,
               καὶ τὰ τοῦ διώκοντος καὶ τὰ τοῦ φεύγοντος, ἀντιγραφή, καὶ τὰ μαρτύρια·
               Δημ. κατὰ Στεφάνου</foreign>... The document that follows is the only specimen of
@@ -3478,8 +3478,8 @@
               <foreign lang="greek">εἰρήσεται</foreign> (Veitch, <title>Greek Verbs</title> s. v.
               <foreign lang="greek">εἴρω</foreign>). <foreign lang="greek">ῥηθήσεται</foreign>
             however is found in Thuc. I 73, Ar. Ethics IV 1, 14, and Rhet. I 12 and 13.</p>
-        </div2>
-        <div2 type="section" n="47">
+        </div>
+        <div type="section" n="47">
           <p>&sect;&sect; 47&mdash;50. <title>I hear they propose to speak of my
               original action and to denounce it as fraudulent and vexatious. But I submit that this
               would be irrelevant to the present issue, and I claim that, instead of their being
@@ -3504,21 +3504,21 @@
             29&mdash;36.</p>
           <p><lemma lang="greek" targOrder="U">τὸ ὕδωρ</lemma> see <bibl n="Dem. 54.36">Or. 54
               &sect; 36</bibl>. </p>
-        </div2>
-        <div2 type="section" n="48">
+        </div>
+        <div type="section" n="48">
           <p><lemma lang="greek" targOrder="U">οὔτε νῦν κ.τ.λ.</lemma> i.e. &lsquo;it is easy
             enough for my opponents to introduce into their reply matter that is irrelevant to the
             case and is in no part of my indictment, just as formerly it <pb n="98"/> was easy
             enough for them to get an acquittal by reciting false depositions.&rsquo;</p>
           <p>Whether we read <foreign lang="greek">οὔτε τότε ψευδεῖς</foreign> or not, we must
             in either case take the second clause as a pointed reference to the <hi rend="italic">former</hi> trial. </p>
-        </div2>
-        <div2 type="section" n="49">
+        </div>
+        <div type="section" n="49">
           <p><lemma lang="greek" targOrder="U">αῖς δὲ ἀφείλοντο μαρτυρίαις</lemma> sc. <foreign lang="greek">τοὺς ἐλέγχους</foreign>.&mdash;On <foreign lang="greek">τὴν
               δίκην εἰσίω</foreign>, see note on &sect; 7 <foreign lang="greek">προς
               ἐκείνους εἰσίω</foreign>. </p>
-        </div2>
-        <div2 type="section" n="50">
+        </div>
+        <div type="section" n="50">
           <p><lemma lang="greek" targOrder="U">περὶ...ὐπὲρ</lemma> &sect; 11 n.</p>
           <p><lemma lang="greek" targOrder="U">δἰωξις</lemma> (Dem.) <bibl n="Dem. 47.70">Or. 47
               &sect; 70</bibl>
@@ -3528,8 +3528,8 @@
             ποιεῖσθαι</foreign>.&mdash;On <foreign lang="greek">λήξει...εἴληχα</foreign> cf.
               <bibl n="Dem. 36.21">Or. 36 &sect; 21</bibl>
             <foreign lang="greek">λήξεων</foreign>.</p>
-        </div2>
-        <div2 type="section" n="51">
+        </div>
+        <div type="section" n="51">
           <p>&sect;&sect; 51, 52. <hi rend="italic">The defendant will urge that the jury in
               the former trial were led to dismiss my suit by reason of the witnesses in support of
               the discharge on which Phormion's special plea was based; and not by reason of those
@@ -3552,12 +3552,12 @@
             &lsquo;Weakened my arguments on the special plea.&rsquo; This need not imply
             that he actually spoke; as a matter of fact, we find the court would not listen to him
             (&sect; 6). </p>
-        </div2>
-        <div2 type="section" n="52">
+        </div>
+        <div type="section" n="52">
           <p><lemma lang="greek" targOrder="U">ἀποφαίνειν.. δεικνύναι</lemma> 18 &sect; 206;
             27 &sect; 62; 55 &sect; 6.</p>
-        </div2>
-        <div2 type="section" n="53">
+        </div>
+        <div type="section" n="53">
           <p>&sect;&sect; 53&mdash;56 <title>By giving false evidence against</title>
             me, <hi rend="italic">the defendant has done wrong to the unwritten laws of natural
               affection, for my wife is his first cousin. Very different has been the conduct of my
@@ -3611,8 +3611,8 @@
             the Greeks view all family ties as almost inviolable. With all their respect for
             &lsquo;written law,&rsquo; the obligations of relationship had more of religious
             sanction. See Cox, <title>Hist. of Greece,</title> I. pp. 15&mdash;18. P.] </p>
-        </div2>
-        <div2 type="section" n="54">
+        </div>
+        <div type="section" n="54">
           <p><lemma lang="greek" targOrder="U">ὁ τῆς ἐμῆς γυναικὸς πατὴρ</lemma> i.e. Deinias,
             father of the Theomnestus who speaks the first 15 &sect;&sect; of Or. 59
               <foreign lang="greek">κατὰ Νεαίρας</foreign>, when Apollodorus takes up the speech.
@@ -3632,8 +3632,8 @@
             &lsquo;The strong ties of kindred.&rsquo; Cf. <hi rend="italic">necessitudo.</hi> Fals. Leg. &sect; 290 <foreign lang="greek">ὑπὲρ συγγενῶν
               καὶ ἀναγκαίων</foreign>. Cf. <bibl n="Dem. 36.30">Or. 36 &sect; 30</bibl>
             <foreign lang="greek">ἀνάγκη? ..οἰκεῖον</foreign>. </p>
-        </div2>
-        <div2 type="section" n="55">
+        </div>
+        <div type="section" n="55">
           <p><lemma lang="greek" targOrder="U">Δεινίας Θεομνήστου Ἀθμονεὺς</lemma> The
             father's name is very likely to be right, as Deinias had a son named Theomnestus (Or. 59
             &sect;&sect; 2 and 16) and the grandson very often bore the same name as the
@@ -3655,8 +3655,8 @@
             Westermann u. s.) or rather something to the detriment of Stephanus' character, e.g. his
             bad behaviour to Apollodorus and his family, or his receiving bribes from Phormion to
             give false evidence against the plaintiff. (Lortzing, <title>Apoll.</title> p. 80.) </p>
-        </div2>
-        <div2 type="section" n="56">
+        </div>
+        <div type="section" n="56">
           <p><lemma lang="greek" targOrder="U">ὅμοιός γε</lemma> Or. 24 (Timocr.) &sect; 106
               <foreign lang="greek">ὅμοιός γε, οὐ γάρ; Σόλων νομοθέτης καὶ
               Τιμοκράτης</foreign>, ib. 181 and Or. 22 (Androt.) &sect; 73 <foreign lang="greek">ὅμοιόν γε, οὐ γάρ</foreign>; also 18 &sect; 136; 36 &sect;
@@ -3674,8 +3674,8 @@
             sc. <foreign lang="greek">ᾐσχύνθη</foreign>. If he had no respect for any one else,
             he might at least have respected (had some regard for) his own mother and her
             relations.</p>
-        </div2>
-        <div2 type="section" n="57">
+        </div>
+        <div type="section" n="57">
           <p>&sect;&sect; 57&mdash;62. <title>I must tell the jury, by the way, of an
               atrocious trick which was played me to my great disadvantage in the former action. At
               the trial itself, the deposition on which I mainly relied proved to be missing. I have
@@ -3707,8 +3707,8 @@
             Eur. Ion 875 <foreign lang="greek">στέρνων ἀπονησαμένη ῥᾴων ἔσομαι</foreign>.
             Herc. Fur. 1407 <foreign lang="greek">φίλτρον τοῦτ’ ἔχων ῥᾴων ἔσει</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="58">
+        </div>
+        <div type="section" n="58">
           <p><foreign lang="greek">τῷ κακῷ πληγεἱς</foreign>, <hi rend="italic">malo
               percussus;</hi> Hdt. I 41 <foreign lang="greek">συμφορῆ? πεπληγμένον</foreign>, Eur.
             Alc. 405 <foreign lang="greek">ξυμφορᾷ πεπλήγμεθα</foreign></p>
@@ -3744,8 +3744,8 @@
               γὰρ αὐτοῦ ἀνδρος ἐστιν, ἃ μὲν οἶδεν, ἐξόμνυσθαι, τῶν δὲ μὴ γενομένων
               πίστιν ἐθέλειν ἐπιθεῖναι ἦ μὴν εἰδέναι γενόμενα</foreign>. <bibl n="Dem. 29.20">Or. 29 &sect; 20</bibl>; Or. 58 (Theocrines) &sect; 7; <bibl n="Dem. 59.28">Or. 59 &sect; 28</bibl>. Meier and Schom., p. 880 Lips.;
               <title>Cambridge Companion to Greek Studies,</title> &sect; 420. </p>
-        </div2>
-        <div2 type="section" n="59">
+        </div>
+        <div type="section" n="59">
           <p><lemma lang="greek" targOrder="U">κακῶν ἀλλοτρίων κλέπτης κ.τ.λ.</lemma>
             &lsquo;did notshrink from being set down as having stolen what stood in other
             people's way.&rsquo; <foreign lang="greek">κακῶν ἀλλοτρίων κλέπτης</foreign> is
@@ -3794,8 +3794,8 @@
           <p><foreign lang="greek">ἀλλοτρίων</foreign> in any case is intended to point the
             contrast with <foreign lang="greek">ὑπὲρ αὑτοῦ</foreign> in the second half of the
             sentence. </p>
-        </div2>
-        <div2 type="section" n="60">
+        </div>
+        <div type="section" n="60">
           <p><lemma lang="greek" targOrder="U">μαρτυροῦσι κ.τ.λ.</lemma> The <pb n="106"/> composer
             of the present document and the next and of that in <bibl n="Dem. 46.21">Or. 46
               &sect; 21</bibl> has not taken the trouble to invent any names for the witnesses.
@@ -3811,8 +3811,8 @@
               27</bibl> ad fin. The word in this sense is from <foreign lang="greek">ἀποφαίνω</foreign>, not from <foreign lang="greek">ἀπόφημι</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">ἢ μαρτυρεῖτ’</lemma>
             <bibl n="Dem. 59.28">Or. 59 &sect; 28</bibl>; 40 &sect; 20. </p>
-        </div2>
-        <div2 type="section" n="61">
+        </div>
+        <div type="section" n="61">
           <p><foreign lang="greek">μαρτυρία. πρόκλησις] μαρτυρία</foreign> is applied here (and
             in Isaeus 3 &sect;&sect; 14, 56, 5 &sect; 2, 9 &sect; 26) to a joint
             deposition of several witnesses. The present passage and <bibl n="Dem. 46.21">Or. 46
@@ -3828,8 +3828,8 @@
               πηρώσω γέ σοι τὸν παῖδα τύπτων τἀργύριόν σοι κείσεται</foreign>. Antiphon VI
             (de Choreuta) &sect; 23 <foreign lang="greek">ὡμολόγουν πείς ας τὸν ο͂εσπότην
               παραδώσειν αὐτῷ βασανίζειν τρόπῳ ὁποίῳ βούλοιτο</foreign>. </p>
-        </div2>
-        <div2 type="section" n="62">
+        </div>
+        <div type="section" n="62">
           <p><lemma lang="greek" targOrder="U">φεύγειν τὴν βάσανον</lemma> 29
             &sect;&sect; 12, 13; 30 &sect; 27; 37 &sect; 28.</p>
           <p><foreign lang="greek">τὴν τοῦ κλέπτης φανῆναι</foreign> (<foreign lang="greek">δόξαν</foreign>)] &lsquo;the discredit of being <hi rend="italic">proved</hi> a
@@ -3838,8 +3838,8 @@
           <p><lemma lang="greek" targOrder="U">δεηθέντος</lemma> sc. <foreign lang="greek">τίνος</foreign>. See K&uuml;hner <title>Gk Gr.</title> &sect; 486
               <title>A,</title> 2, p. 641 &lsquo;on the gen. absol. without any substantive like
               <foreign lang="greek">ἀνθρώπων, πραγμάτων</foreign> being expressed.&rsquo;</p>
-        </div2>
-        <div2 type="section" n="63">
+        </div>
+        <div type="section" n="63">
           <p>&sect;&sect; 63&mdash;67. <hi rend="italic">Examine the defendant's life
               and character, and you will find him cringing to and flattering the prosperous, only
               to desert them when they fall into destitution. For the present, he is the creature of
@@ -3872,8 +3872,8 @@
             &sect; 43 <foreign lang="greek">ὑπέπεσε Καλλιστράτῳ</foreign>, Isaeus <bibl n="Dem. 6.29">Or. 6 &sect; 29</bibl>
             <foreign lang="greek">ὑποπεπτωκότες τῇ ἀνθρώπῳ</foreign> (with Wyse's note);
             Aesch. 3 &sect; 116; Arist. Eq. 47; inf. 84 <foreign lang="greek">παραπεπτωκώς</foreign>. </p>
-        </div2>
-        <div2 type="section" n="64">
+        </div>
+        <div type="section" n="64">
           <p><lemma lang="greek" targOrder="U">ἀπώλετ’</lemma> 36 &sect; 51.</p>
           <p><lemma lang="greek" targOrder="U">τῶν ὄντων ἐξέστη?</lemma>
             <bibl n="Dem. 36.50">Or. 36 &sect; 50</bibl>
@@ -3905,8 +3905,8 @@
           <p><lemma lang="greek" targOrder="U">Καλχηδονίους</lemma> Phormion, it seems, must have
             been implicated in some mercantile suit with people at Calchedon (opposite Byzantium).
             The affair is not alluded to elsewhere. </p>
-        </div2>
-        <div2 type="section" n="65">
+        </div>
+        <div type="section" n="65">
           <p><lemma lang="greek" targOrder="U">καλῶν κἀγαθῶν</lemma> In good Greek always <hi rend="italic">two</hi> words (neither <foreign lang="greek">καλὸσκαἰἀγαθός</foreign> nor <foreign lang="greek">καλοκἀγαθός</foreign>)
             though the derivative is nevertheless <foreign lang="greek">καλοκἀγαθία</foreign>. Cf.
               <foreign lang="greek">θεοῖς ἐχθρὸς</foreign> and <foreign lang="greek">θεοισεχθρία</foreign>. See note on Isocr. Paneg. &sect; 78.</p>
@@ -3914,8 +3914,8 @@
             associate, even on equal terms.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">κοινὸν ἐχθρὸν τῆς φύσεως</lemma> &sect; 53
               <foreign lang="greek">τὰ τῆς φύσεως οἰκεῖ’ ἀναιρεῖ</foreign>. </p>
-        </div2>
-        <div2 type="section" n="66">
+        </div>
+        <div type="section" n="66">
           <p><lemma lang="greek" targOrder="U">ἐπὶ τῷ τὴν πόλιν φεύγειν</lemma>
             &lsquo;With a view to escape the public service.&rsquo; Kennedy. [Another
             singular expression. Such citizens were called <foreign lang="greek">διαδρασιπολῖται</foreign>, Ar. Ran. 1014. P.]</p>
@@ -3939,8 +3939,8 @@
           <p><lemma lang="greek" targOrder="U">ἀλλ’ ἐπὶ τῷ κ.τ.λ.</lemma>
             &lsquo;Unfortunately, the defendant is a person who will do anything to get
             money.&rsquo; Kennedy </p>
-        </div2>
-        <div2 type="section" n="67">
+        </div>
+        <div type="section" n="67">
           <p><lemma lang="greek" targOrder="U">ὀργίλως ἔχειν</lemma> 24 &sect;&sect;
             211, 215; 21 &sect; 215; 59 &sect; 37.</p>
           <p><lemma lang="greek" targOrder="U">ἡ τῆς χρείας ἀνάγκη</lemma>
@@ -3972,8 +3972,8 @@
             by their wealth.&rsquo; Kennedy is hardly correct here in rendering &lsquo;men
             who (for all their riches) are thus flagrantly dishonest.&rsquo; It is not <hi rend="italic">in spite of,</hi> but directly <hi rend="italic">from,</hi> their large
             means that they become bad citizens. P.]</p>
-        </div2>
-        <div2 type="section" n="68">
+        </div>
+        <div type="section" n="68">
           <p>&sect;&sect; 68&mdash;70. <hi rend="italic">His affected airs as he
               sullenly slinks along the sides of the streets, so far from showing a modest reserve,
               really indicate an unsociable character. All this solemn guise is purposely put on, to
@@ -4035,8 +4035,8 @@
             one should accept your service&rsquo; in some matter. P.]</p>
           <p><lemma lang="greek" targOrder="U">πεπλασμένοις καὶ σκυθρωποῖς</lemma>
             &lsquo;Affected and sullen characters.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="69">
+        </div>
+        <div type="section" n="69">
           <p><lemma lang="greek" targOrder="U">πρόβλημα τοῦ τρόπου</lemma> &lsquo;A cloak to
             mask his real character&rsquo; Soph. Phil. 1008 <foreign lang="greek">οἵως μ’
               ὑπῆλθες, ὥς μ’ ἐθηράσω λαβὼν</foreign>
@@ -4064,8 +4064,8 @@
             <foreign lang="greek">τὸ ἥμισυ τοῦ ἀργυρίου συνεβαλόμην</foreign>. We have the
             active use in <bibl n="Dem. 34.1">Or. 34 &sect; 1</bibl>
             <foreign lang="greek">συμβόλαια πολλοῖς συμβάλλοντες</foreign>. </p>
-        </div2>
-        <div2 type="section" n="70">
+        </div>
+        <div type="section" n="70">
           <p><lemma lang="greek" targOrder="U">ἐξέβαλες</lemma> &lsquo;ousted from his
             patrimony,&rsquo; cf. <bibl n="Dem. 36.49">Or. 36 &sect; 49</bibl>
             <foreign lang="greek">ἐκβα. λεῖν</foreign>. The debtor in such a case would be said
@@ -4121,8 +4121,8 @@
           <p><lemma lang="greek" targOrder="U">εἶθ’ ὅν κ τ.λ.</lemma> 21 &sect; 97; 23
             &sect; 174; 25 &sect; 53; 39 &sect; 12; 24 &sect;&sect; 203, 205; 19
             &sect; 282. Cf. Midias &sect; 97.</p>
-        </div2>
-        <div2 type="section" n="71">
+        </div>
+        <div type="section" n="71">
           <p>&sect;&sect; 71&mdash;76. <hi rend="italic">Against Phormion, who produced
               the defendant as his witness, you have a right to be indignant for his effrontery and
               his ingratitude. When Phormion was for sale, instead of being bought by a cook, or
@@ -4148,12 +4148,12 @@
             is placed immediately before <foreign lang="greek">μαθών</foreign>. 6 &sect; 20.
             See Goodwin's <title>Moods and Tenses</title> &sect; 42, 3 note 1; &sect; 224
             ed. 1889. </p>
-        </div2>
-        <div2 type="section" n="72">
+        </div>
+        <div type="section" n="72">
           <p><lemma lang="greek" targOrder="U">τραπεζίτης ὢν</lemma> The participial clause is
             here, as often, more emphatic than the principal verb <foreign lang="greek">ἐκτήσατο</foreign>. &lsquo;Since my father, into whose hands he came, was a <hi rend="italic">banker.</hi>&rsquo; </p>
-        </div2>
-        <div2 type="section" n="73">
+        </div>
+        <div type="section" n="73">
           <p><lemma lang="greek" targOrder="U">γνώριμον</lemma> Kennedy renders this: &lsquo;a
               <hi rend="italic">friend</hi> instead of a slave.&rsquo; <foreign lang="greek">γνώριμος</foreign> however is a weaker word than <foreign lang="greek">φίλος</foreign>, though it is curiously placed after it by an anti-climax in Or. 18
             (de Corona) &sect; 284 <foreign lang="greek">ξένος ἢ φίλος ἢ
@@ -4175,8 +4175,8 @@
             <foreign lang="greek">εἰς τοῦθ’ ἥκεις μανίας</foreign>. 19 &sect; 72; 21
             &sect; 194; 27 &sect;&sect; 24, 31; 21 &sect; 62; 57 &sect; 64; 33
             &sect;&sect; 15, 22; 59 &sect; 72. </p>
-        </div2>
-        <div2 type="section" n="74">
+        </div>
+        <div type="section" n="74">
           <p><lemma lang="greek" targOrder="U">καταχύσματα</lemma> Harpocr. <foreign lang="greek">Δημοσθένης ἐν τῷ κατὰ Στεφάνου ά. ὅτι τῶν νεωνήτων οἱ δεσπόται
               τραγήματα κατέχεον’ Αριστοφάνης Πλούτῳ δηλοῖ</foreign> (Ar. Plut. 768 <foreign lang="greek">φέρε νῦν ἰοῦς’ εἴσω κομίσω καταχύσματα ὥσπερ νεωνήτοισιν
               ὀφθαλμοῖς ἐγώ</foreign>). The sweetmeats. nuts, &amp;c. were scattered over
@@ -4192,8 +4192,8 @@
           <p><lemma lang="greek" targOrder="U">θυγατέρας</lemma> Two daughters, one of whom was
             shortly afterwards married to Theomnestus, the prosecutor of Neaera (Or. 59
             &sect;&sect; 2, 8). </p>
-        </div2>
-        <div2 type="section" n="75">
+        </div>
+        <div type="section" n="75">
           <p><lemma lang="greek" targOrder="U">εἰ .συνέβη τι παθεῖν κ.τ.λ.</lemma> &lsquo;If,
             in the ordinary course of nature, anything had happened to me&rsquo;; a common
             euphemism for death. Cf. 23 &sect; 59 and note on <bibl n="Dem. 54.25">Or. 54
@@ -4230,8 +4230,8 @@
             inf. with the implied <foreign lang="greek">ὦν οὖτος</foreign> (Or <foreign lang="greek">ω&lt;&gt;͂ν αὐτὸς</foreign>) <foreign lang="greek">ἔχει</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">συνεκδώσει</lemma> 18 &sect; 268; Lysias 19
             &sect; 59. </p>
-        </div2>
-        <div2 type="section" n="76">
+        </div>
+        <div type="section" n="76">
           <p><lemma lang="greek" targOrder="U">ἐξεταζομένους</lemma>
             &lsquo;scrutinised,&rsquo; &lsquo;narrowly examined.&rsquo;
             &lsquo;called to account,&rsquo; &lsquo;taken to task&rsquo;
@@ -4247,8 +4247,8 @@
             inquire if they had, rightly or wrongly, become possessed of anything, e.g. of means to
             purchase their liberty. &lsquo;To make an inventory of property&rsquo; is
               <foreign lang="greek">ἐξετάζειν</foreign> (Ar. Eccl. 729), or <foreign lang="greek">ἐξέτασιν ποιεῖσθαι</foreign>, which is also a military term. P.]</p>
-        </div2>
-        <div2 type="section" n="77">
+        </div>
+        <div type="section" n="77">
           <p>&sect;&sect; 77&mdash;80. <hi rend="italic">My aspect of countenance, my
               quickness of walk and my loudness of talk may not, perhaps, be in my favour; they are
               not my fault but my misfortune; they annoy other people and do me no good; and yet I
@@ -4283,13 +4283,13 @@
             self-complacent assertion may be instructively compared with the passage in Or. 36
             &sect;&sect; 42 and 45, where the present plaintiff is charged with extiavagance
             of expenditure and licentiousness of life. </p>
-        </div2>
-        <div2 type="section" n="78">
+        </div>
+        <div type="section" n="78">
           <p><lemma lang="greek" targOrder="U">τοὺς ποιητοὺς</lemma>
             <bibl n="Dem. 53.18">Or. 53 &sect; 18</bibl> (of Apollodorus) <foreign lang="greek">κατὰ ψήφισμα πολίτης</foreign> (Hermann - Thumser, <title>Staatsalt.</title>
             &sect; 77). </p>
-        </div2>
-        <div2 type="section" n="79">
+        </div>
+        <div type="section" n="79">
           <p><lemma lang="greek" targOrder="U">ἑταιρεῖν μεμίσθωμαι</lemma>
             Aesch&lt;*&gt;. Timarch. &sect; 13 <foreign lang="greek">τῷ παιδὶ... ὃς
               ἂν ἐκμισθωθῇ ἑταιρεῖν</foreign>.</p>
@@ -4317,8 +4317,8 @@
             former master's wife. [<foreign lang="greek">τῆς ἀδικίας
               ἦσἠδίκηκεν</foreign>. The genitive by attraction for the cognate
             accusative, <foreign lang="greek">ἀδικεῖν τινα</foreign> (<foreign lang="greek">μεγάλην</foreign>) <foreign lang="greek">ἀδικίαν</foreign>. P.] </p>
-        </div2>
-        <div2 type="section" n="80">
+        </div>
+        <div type="section" n="80">
           <p><lemma lang="greek" targOrder="U">σύ</lemma> 19 &sect; 313 <foreign lang="greek">ὦ κακὴ κεφαλὴ σύ</foreign>, 21 &sect; 135 <foreign lang="greek">ὦ μιαρὰ
               κεφαλὴ σύ</foreign> (Blass). On <foreign lang="greek">ἐξετάζειν</foreign>, cf.
             &sect; 76.</p>
@@ -4369,8 +4369,8 @@
               reddiderit nomen aliquis, ex his qui ad Castoris negotiantur, nequam mancipia ementes
               vendentesque, quorum tabernis pessimorum servorum areae refertae sunt.</hi>
           </p>
-        </div2>
-        <div2 type="section" n="81">
+        </div>
+        <div type="section" n="81">
           <p><lemma lang="greek" targOrder="U">κλέπτην ς’ ἀπῆλον κ.τ.λ.</lemma> See <bibl n="Dem. 54.1">Or. 54 &sect; 1</bibl>
             <foreign lang="greek">τῇ τῶν λωποδυτῶν ἀπαγωγῇ</foreign> n.&mdash;<foreign lang="greek">ἐπ’ αὐτοφώρῳ</foreign>, <hi rend="italic">flagrante delicto.</hi></p>
           <p><foreign lang="greek">ἀναγαγεῖν] ἀναφέρειν</foreign>, sc. <foreign lang="greek">ἐκεῖσε ὅθεν</foreign> (or <foreign lang="greek">εἰς τοῦτον ἀφ’ οὗ</foreign>)
@@ -4396,8 +4396,8 @@
             &sect;&sect; 43 and 48, <foreign lang="greek">ἐγένετο Πασίων
               Ἀρχεστράτου</foreign>. On <foreign lang="greek">ἐξετάζειν</foreign>, cf.
             &sect; 76. </p>
-        </div2>
-        <div2 type="section" n="82">
+        </div>
+        <div type="section" n="82">
           <p><lemma lang="greek" targOrder="U">μεῖζον</lemma> sc. <foreign lang="greek">προσήκει
               φροϝεῖν</foreign>, which is also understood in both the next two clauses.</p>
           <p><lemma lang="greek" targOrder="U">κατασκευάσῃς</lemma>
@@ -4405,8 +4405,8 @@
             unfavourable sense in the orators. See Wyse on Isaeus 4 &sect; 6.</p>
           <p><lemma lang="greek" targOrder="U">σὺ δοῦλος ἦσθα</lemma> Emphatically placed at the
             close of the passage.</p>
-        </div2>
-        <div2 type="section" n="83">
+        </div>
+        <div type="section" n="83">
           <p>&sect;&sect; 83&mdash;84. <hi rend="italic">Oh, but my brother Pasicles
               takes no part with me in these claims against Phormion!</hi></p>
           <p><title>As for Pasicles</title> (<title>craving your forgiveness for being provoked into
@@ -4445,8 +4445,8 @@
             He was going to say <foreign lang="greek">ἐγὼ καὶ περὶ
               Πασικλέουσἐρῶ</foreign>, but he lost himself, as it were, in the maze
             of the intervening clauses. P.] </p>
-        </div2>
-        <div2 type="section" n="84">
+        </div>
+        <div type="section" n="84">
           <p><lemma lang="greek" targOrder="U">παραπεπτωκὼς</lemma> &lsquo;Courting,&rsquo;
             &lsquo;flattering.&rsquo; As this verb does not seem to occur elsewhere in this
             sense, H. Wolf <pb n="124"/> and Dobree would prefer <foreign lang="greek">ὑποπεπτωκὼς</foreign> as in &sect;&sect; 63, 65; but the text is supported
@@ -4464,8 +4464,8 @@
             insinuation in the text seems quite gratuitous, and its indelicacy forms a singular
             contrast to the plaintiff's affectation of reserve in referring to his mother in the
             earlier part of the speech (&sect; 3 and &sect; 27).</p>
-        </div2>
-        <div2 type="section" n="85">
+        </div>
+        <div type="section" n="85">
           <p>&sect; 85. <hi rend="italic">Farewell, then, to my so-called brother; while I turn
               to my true friends, the jury, and appeal to them not to allow me to be laughed to
               scorn by my own servants and by those who cringe to them, like Stephanus.&mdash;My
@@ -4515,8 +4515,8 @@
               figura,</hi> where it is shown that this use of the cognate accusative is specially
             frequent in legal and constitutional phrases. On the trierarchal services of
             Apollodorus, see note on <bibl n="Dem. 36.41">Or. 36 &sect; 41</bibl>.</p>
-        </div2>
-        <div2 type="section" n="86">
+        </div>
+        <div type="section" n="86">
           <p>&sect;&sect; 86&mdash;end. <title>Time would not suffice to tell of all the
               outrages inflicted on me; but you may form some notion of their enormity if each one
               of you would just think of the slave he left at home and imagine himself treated by
@@ -4552,8 +4552,8 @@
               Φρύγα, Τίβιον δὲ τὸν Παφλαγόνα</foreign> (K. F. Hermann-Blumner,
               <title>Privatalt.</title> p. 92. [Ar. Pax 1146 <foreign lang="greek">τόν τε Μανῆν
               ἡ Σύρα βωστρησάτω’κ τοῦ χωρίου</foreign>. P.] </p>
-        </div2>
-        <div2 type="section" n="87">
+        </div>
+        <div type="section" n="87">
           <p><lemma lang="greek" targOrder="U">τὸν ἀφῃρημένον</lemma> Him (i.e. Stephanus) who
             by false testimony has robbed me of it (i.e. of my right to a verdict, <foreign lang="greek">τὸ δίκην λαβεῖν</foreign>).</p>
           <p><lemma lang="greek" targOrder="U">μνημονείοντες .....φυλάττοντες</lemma>
@@ -4563,8 +4563,8 @@
               ἀντιγραφή</foreign>, &sect; 46. <pb n="127"/></p>
           <p><lemma lang="greek" targOrder="U">τοῖς ἄρχουσιν</lemma> The Forty (Meier and Schom.,
             p. 697, 59, Lips.). </p>
-        </div2>
-        <div2 type="section" n="88">
+        </div>
+        <div type="section" n="88">
           <p><lemma lang="greek" targOrder="U">τὸν μὲν ἐπιτροπευθῆναι κ.τ.λ.</lemma>
             &sect;&sect; 37, 38.</p>
           <p><lemma lang="greek" targOrder="U">τὸν δ’ ἔχειν</lemma> &lsquo;Has the document
@@ -4595,10 +4595,10 @@
             after&rsquo;). It is here perhaps middle, and not passive. &mdash;<foreign lang="greek">προσεισάγω</foreign> is found in Diogenes Laertius IX 88 (quoted by
             Liddell and Scott, who take it as <hi rend="italic">middle</hi> in the present
             passage).</p>
-        </div2>
-      </div1>
-      <div1 type="speech" n="46">
-        <div2 type="section" n="1">
+        </div>
+      </div>
+      <div type="speech" n="46">
+        <div type="section" n="1">
           <p>&sect;&sect; 1&mdash;3. <hi rend="italic">Stephanus has made a long reply
               to my former speech, and, as I suspected, has had a good deal to say in defence of his
               evidence. A cunning rogue himself, and well primed by Phormion's numerous advisers, he
@@ -4621,8 +4621,8 @@
             like <hi rend="italic">meditari,</hi> with which it is etymologically connected, is
             often used of &lsquo;rehearsing a part,&rsquo; &lsquo;conning over a
             task,&rsquo; &lsquo;practising for a performance.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p><lemma lang="greek" targOrder="U">μάρτυρας ... ὡς ... παρεγένετο</lemma> The
             plaintiff objects that Stephanus could not attest to a document being a copy of Pasion's
             &lsquo;will,&rsquo; as he calls no evidence to prove he was present when the
@@ -4645,11 +4645,11 @@
           <p><lemma lang="greek" targOrder="U">συμμέμνησθε</lemma> A verb apparently never used
             elsewhere, except in late Greek. <pb n="130"/>
           </p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p><lemma lang="greek" targOrder="U">ὁπότε</lemma> See the note on <bibl n="Dem. 34.33">Or. 34 &sect; 33</bibl> and cf. inf. &sect; 9 ad fin.</p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p>&sect;&sect; 4, 5. <title>If my opponent urges that he is responsible for a
               Challenge only and not for a deposition, then he is not speaking the truth. Every
               Challenge necessarily involves a deposition, and I shall show that he has deposed to
@@ -4664,12 +4664,12 @@
             put in evidence at a trial unless attested by the deposition of a responsible witness.
               <pb n="131"/>
           </p>
-        </div2>
-        <div2 type="section" n="5">
+        </div>
+        <div type="section" n="5">
           <p><lemma lang="greek" targOrder="U">περιφανῶς</lemma> &sect; 3; the corresponding
             substantive <foreign lang="greek">περιφάνεια</foreign> has occurred in <bibl n="Dem. 45.2">Or. 45 &sect; 2</bibl>.</p>
-        </div2>
-        <div2 type="section" n="7">
+        </div>
+        <div type="section" n="7">
           <p>&sect;&sect; 6&mdash;8. <hi rend="italic">If Phormion's assertion was the
               defendant's only reason for deposing to the document being a copy of Pasion's will,
               then he has been guilty of giving hearsay evidence which as false and which he has
@@ -4717,8 +4717,8 @@
             Leg&sect; 19 <foreign lang="greek">εἰ ἐπανελθὼν ἐκεῖνος</foreign> (sc. <foreign lang="greek">ὁ ἐκμαρτυρήσας</foreign>) <foreign lang="greek">εἶπεν, ὅτι οὐδὲν
               εἶπον, ἐκρίνοντο οὗτοι</foreign> (sc. <foreign lang="greek">οἱ
               μαρτυρήσαντες</foreign>) <foreign lang="greek">ὡς συκοφάνται</foreign>. <pb n="133"/></p>
-        </div2>
-        <div2 type="section" n="9">
+        </div>
+        <div type="section" n="9">
           <p>&sect;&sect; 9, 10. <title>The defendant has also given evidence contrary to
               another law. Under cover of the testimony of the defendant and his friends, Phormion
               has virtually given evidence in his own cause, which is illegal; and the law declares
@@ -4747,8 +4747,8 @@
             surrendering office,&rsquo; as opposed to <foreign lang="greek">δοκιμασία</foreign>, &lsquo;the enquiry preliminary to taking office.&rsquo;
               <pb n="134"/>
           </p>
-        </div2>
-        <div2 type="section" n="10">
+        </div>
+        <div type="section" n="10">
           <p><lemma lang="greek" targOrder="U">τοῖν ἀντιδίκοινμή</lemma>
             &lsquo;that both parties be compelled to answer one another's questions, but that
             neither be allowed to be a witness in his own cause.&rsquo; On <foreign lang="greek">ἐρώτησις</foreign> see Aristot. Rhet. III 18 and for examples cf. Lysias Or. 12
@@ -4771,8 +4771,8 @@
             justice. <bibl n="Dem. 47.1">Or. 47 &sect; 1</bibl>
             <foreign lang="greek">τὸν προβαλόμενον ὑπόδικον ἔχῃ τῶν κακοτεχνιῶν</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="11">
+        </div>
+        <div type="section" n="11">
           <p>&sect; 11. <hi rend="italic">That the defendant's evidence is false may be
               concluded from the material on which it is written.</hi>
             <pb n="135"/></p>
@@ -4826,8 +4826,8 @@
               κελεῦσαι τὰς διαθήκας, ἵν’, εἴ τι ἐγίγνετο ἀμφισβητήσιμον, ἦν εἰς τὰ
               γράμματα ταῦτ’ ἐπανελθεῖν</foreign> (Goodwin's <title>Moods and Tenses,</title>
             &sect; 333, ed. 1886) </p>
-        </div2>
-        <div2 type="section" n="12">
+        </div>
+        <div type="section" n="12">
           <p>&sect;&sect; 12&mdash;17. <hi rend="italic">Further, my father made no will
               at all, nor do the laws allow it, laws which bind every citizen of Athens without
               exception. It was not until ten years after my father's death that Phormion obtained
@@ -4856,8 +4856,8 @@
             his detriment, was not allowed, except in the single instance of <hi rend="italic">ostracism;</hi> cf. the law quoted in Andocides, de mysteriis &sect; 87 <foreign lang="greek">μηδὲ ἐπ’ ἀνδρὶ νόμον ἐξεῖναι θεῖναι, ἐὰν μὴ τὸν αὐτὸν ἐπὶ
               πᾶσιν Ἀθηναίοις, ἐὰν μὴ ἑξακισχιλίοις δόξῃ κρύβδην ψηφιζομένοις</foreign>
             and see Dem. Or. 24 (Timocrates) &sect; 59, and 23 (Aristocr.) &sect; 86. </p>
-        </div2>
-        <div2 type="section" n="13">
+        </div>
+        <div type="section" n="13">
           <p><lemma lang="greek" targOrder="U">ὁ μὲν νόμος ..ὁ δὲ πατὴρ κ.τ.λ.</lemma> The
             sentence is rather loosely written, and the sense might have been brought out better by
             some such arrangement as this: <foreign lang="greek">ὁ μὲν νόμος.. κελεύει, ὁ δὲ
@@ -4868,8 +4868,8 @@
             B.C. 361.</p>
           <p><lemma lang="greek" targOrder="U">τῆς δωρειᾶς</lemma> sc. <foreign lang="greek">τῆς
               πολιτείας</foreign>. <bibl n="Dem. 36.30">Or. 36 &sect; 30</bibl>. </p>
-        </div2>
-        <div2 type="section" n="14">
+        </div>
+        <div type="section" n="14">
           <p><lemma lang="greek" targOrder="U">ὅσοι μὴ ἐπεποίηντο κ.τ.λ.</lemma> &lsquo;Any
             citizen (with the exception of such as had been adopted, and had neither renounced <pb n="138"/> the adoption, nor succeeded to an estate under a legal judgment, when Solon
             entered on his archonship) shall be allowed to dispose of his own property at his
@@ -4938,8 +4938,8 @@
             Sol. 21. On <foreign lang="greek">παράνοια</foreign> as a wider term than <foreign lang="greek">μανία</foreign>, see Wyse on Isaeus 1 &sect; 19. On <foreign lang="greek">φαρμάκων</foreign> see further in &sect; 16 <foreign lang="greek">φαρμακῶντα.νόσου ἕνεκα</foreign> can only refer to cases where the
             mind was enfeebled, for bodily infirmity was of course in itself no bar to the validity
             of a will (Becker, <title>Charicles,</title> Scene IX note 19). </p>
-        </div2>
-        <div2 type="section" n="16">
+        </div>
+        <div type="section" n="16">
           <p><lemma lang="greek" targOrder="U">διότι</lemma> In the same sense as <foreign lang="greek">ὅτι</foreign>. for which it is not infrequently used, especially by
             Isocrates when an <hi rend="italic">hiatus</hi> is thereby avoided, e.g. Isocr. Lochites
             &sect; 7 <foreign lang="greek">ἐνθυμουμένους ὅτι</foreign> followed by <foreign lang="greek">καὶ διότι</foreign>. Isocr. Paneg. &sect; 48 n. Here <foreign lang="greek">σκέψασθε δὲ καὶ δι ότι</foreign> corresponds in sense to <foreign lang="greek">ἄξιον δὲ καὶ τόδε ἐνθυμηθῆναί, ὅτι</foreign> in the previous
@@ -4970,8 +4970,8 @@
             legally incompetent to make any will at all, he had urged that, his father having been
             of sound mind up to the day of his death, the &lsquo;insane&rsquo; provisions of
             the will betrayed it to be a forgery. </p>
-        </div2>
-        <div2 type="section" n="17">
+        </div>
+        <div type="section" n="17">
           <p><lemma lang="greek" targOrder="U">τῶν παίδων ... κοινωνὸν αὑτῷ</lemma> Kennedy:
             &lsquo;partner with himselfin paternity&rsquo; (by marrying his widow).</p>
           <p><lemma lang="greek" targOrder="U">σκευωρουμένους</lemma> cf. <bibl n="Dem. 45.5">Or.
@@ -4985,8 +4985,8 @@
             oratorical skill, and as a presumption in favour of the view that Apollodorus is himself
             the writer of the speeches delivered by him which have come down to us among the
             orations of Demosthenes (A. Schaefer, <title>Dem. u. s. Zeit,</title> III 2, 192).</p>
-        </div2>
-        <div2 type="section" n="18">
+        </div>
+        <div type="section" n="18">
           <p>&sect;&sect; 18&mdash;21. <hi rend="italic">The forgery of the will is also
               proved by the law of betrothals, which provides that a womanmay be affiancedfor lawful
               wedlock by her guardians, i.e. certain near relations, such as father, brother,
@@ -5014,8 +5014,8 @@
             whom he (her last <foreign lang="greek">κύριος</foreign>) shall have committed her,
             shall be <foreign lang="greek">κύριος</foreign> (have authority to contract a valid
             betrothal).&rsquo; Wyse on Isaeus, p. 285 f. </p>
-        </div2>
-        <div2 type="section" n="20">
+        </div>
+        <div type="section" n="20">
           <p><lemma lang="greek" targOrder="U">καὶ ἐὰνμητρί</lemma> &lsquo;If a
             son is born of an heiress, two years after he has attained his puberty he shall enter
             into possession of the estate, and he shall pay alimony to his mother.&rsquo;
@@ -5038,8 +5038,8 @@
             p. 176.)</p>
           <p><lemma lang="greek" targOrder="U">στρατευόμενος κ.τ.λ.</lemma> And therefore of full
             age; referring back to <foreign lang="greek">παῖδας ἡβήσαντας</foreign>. </p>
-        </div2>
-        <div2 type="section" n="21">
+        </div>
+        <div type="section" n="21">
           <p><lemma lang="greek" targOrder="U">πάλαι</lemma> Pasion died B.C. 370, the trierarchy
             probably took place in B.C. 368 (<bibl n="Dem. 45.3">Or. 45 &sect; 3</bibl>), and it
             was during the plaintiff's absence on this public service that the marriage of Archippe
@@ -5054,8 +5054,8 @@
             document. Even apart from this detail, the general contents of the deposition are
             different from what we are led to expect by the plaintiff's language in introducing it.
             (A. Westermann, u. s. p. 113.)</p>
-        </div2>
-        <div2 type="section" n="22">
+        </div>
+        <div type="section" n="22">
           <p>&sect;&sect; 22, 23. <hi rend="italic">The law does not allow any one to marry
               an &lsquo;heiress,&rsquo; without a legal adjudication. Phormion made no legal
               claim for the hand of my mother, but did exactly as he pleased, in defiance of the
@@ -5095,8 +5095,8 @@
           <p><lemma lang="greek" targOrder="U">άνεπίδικον</lemma> &lsquo;Without legal
             adjudication.&rsquo; See Hermann-Thalheim, <title>Privatalt.</title> p. 83, notes 5
             and 8. </p>
-        </div2>
-        <div2 type="section" n="23">
+        </div>
+        <div type="section" n="23">
           <p><lemma lang="greek" targOrder="U">εἴπερ ..εἴτε...εἴτε...εἰ...εἰ
               ..εἴπερ</lemma>
             <foreign lang="greek">εἰ</foreign> is here repeated in various forms no less than six
@@ -5113,8 +5113,8 @@
           <p><lemma lang="greek" targOrder="U">ὑμῶν τοὺς λαχόντας</lemma> &lsquo;Those of
             your number who were drawn for the jury&rsquo; (&lsquo;allotted for the trial of
             the cause&rsquo;).</p>
-        </div2>
-        <div2 type="section" n="24">
+        </div>
+        <div type="section" n="24">
           <p>&sect; 24. <title>Again, there is a law allowing a will made by a father</title>
               (<hi rend="italic">though he has legitimate sons</hi>) <hi rend="italic">to become
               valid if the sons die before reaching manhood. In the present case, as the sons are
@@ -5128,8 +5128,8 @@
               <title>Heres</title>).</p>
           <p>For the latter part of this statement, the present passage is perhaps the only express
             authority.</p>
-        </div2>
-        <div2 type="section" n="25">
+        </div>
+        <div type="section" n="25">
           <p>&sect;&sect; 25, 26. <title>Further, the defendant has illegally entered into a
               conspiracy to defeat the ends of justice.</title>
           </p>
@@ -5137,8 +5137,8 @@
             <bibl n="Dem. 45.58">Or. 45 &sect; 58</bibl>. On <foreign lang="greek">συνιστάμενος</foreign>, see note on <foreign lang="greek">συστάσεις</foreign>
             <bibl n="Dem. 45.67">Or. 45 &sect; 67</bibl>. <foreign lang="greek">ἐπὶ ταῖς
               δίκαις</foreign>, cf. note on &sect; 26. </p>
-        </div2>
-        <div2 type="section" n="26">
+        </div>
+        <div type="section" n="26">
           <p><lemma lang="greek" targOrder="U">συνδεκάζῃ</lemma> &lsquo;Bribe the
             Heliaea.&rsquo; Pollux VIII 42: <foreign lang="greek">δώρων κατὰ τοῦ ἐπὶ
               δώροις δικάσαντος ἦν ἡ γραφή, δεκασμοῦ δὲ κατὰ τοῦ διαφθείραντος· καὶ ὁ
@@ -5181,8 +5181,8 @@
           <p><lemma lang="greek" targOrder="U">θεσμοθέτας</lemma> &lsquo;The six minor
             Archons.&rsquo; <foreign lang="greek">γραφαὶ δώρων</foreign> are among the duties
             assigned to them in Aristotle's <title>Const. of Athens,</title> 5 &sect; 3.</p>
-        </div2>
-        <div2 type="section" n="27">
+        </div>
+        <div type="section" n="27">
           <p>&sect; 27. <title>The jury has sworn to do justice according to the laws of Athens
               and not the laws which Phormion chooses to lay down for himself. I produce the laws of
               Athens and I prove that both of my opponents have broken them, Phormion by defrauding
@@ -5193,8 +5193,8 @@
           <p><lemma lang="greek" targOrder="U">τὰ χρήματα</lemma> sc. the Bankingstock. which is
             the subject of Or. 36. The <foreign lang="greek">ἐργαστήριον</foreign> is the
             shield-manufactory of <bibl n="Dem. 36.4">Or. 36 &sect; 4</bibl>.</p>
-        </div2>
-        <div2 type="section" n="28">
+        </div>
+        <div type="section" n="28">
           <p>&sect; 28. <title>The jury, by the way, should also notice that no one ever makes a
               copy of a</title> will. <hi rend="italic">How then came Stephanus and his friends to
               know that the contents of the document appended to the deposition are a copy of my
@@ -5217,8 +5217,8 @@
             expressed by <foreign lang="greek">κατασεσημασμένας καταλείπουσιν</foreign>.</p>
           <p>For the reiteration <foreign lang="greek">διατιθέμενοι...διατίθενται</foreign>, see
             &sect;&sect; 2 and 3.</p>
-        </div2>
-        <div2 type="section" n="29">
+        </div>
+        <div type="section" n="29">
           <p>&sect; 29. <title>I implore the jury to grant me redress, that those who are so
               prompt to give false evidence may be punished on all grounds, particularly for the
               sake of justice and the laws.</title></p>
@@ -5226,10 +5226,10 @@
             the whole speech has dealt with quotations of laws and not with <foreign lang="greek">εἰκότα</foreign>, or &lsquo;presumptive proofs,&rsquo; as in the former
             oration. <pb/>
           </p>
-        </div2>
-      </div1>
-      <div1 type="speech" n="53">
-        <div2 type="section" n="1">
+        </div>
+      </div>
+      <div type="speech" n="53">
+        <div type="section" n="1">
           <p><lemma lang="greek" targOrder="U">οἰόμενος δεῖν τιμωρεῖσθαι</lemma> &lsquo;To
             avoid the fatal charge of <hi rend="italic">sycophantia,</hi> any one prosecuting a
             fellow-citizen for some public offence endeavoured to show that he had private and
@@ -5277,8 +5277,8 @@
           <p><lemma lang="greek" targOrder="U">ὥστ’ οὐκ ἂν ἐξευρεῖν</lemma> A mixed phrase
             between <foreign lang="greek">ὥστ’ οὐκ ἂν ἐξεῦρον</foreign> and <foreign lang="greek">ὥστε μὴ ἐξευρεῖν</foreign>. The use of <foreign lang="greek">ἂν</foreign> with <foreign lang="greek">ὥστε</foreign> and the infinitive is
             rare, but it occurs when a mere contingent result is described. P.] </p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p><foreign lang="greek">αὐτός</foreign> is kept in the nom., referring back to <foreign lang="greek">ἡγησάμενος</foreign>, in spite of the interposition of <foreign lang="greek">δεινότατον εἶναι</foreign>, which leads us to expect an acc. with the
             infinitive <foreign lang="greek">ἀδικεῖσθαι</foreign> (Shilleto on Fals. Leg.
             &sect; 337).</p>
@@ -5305,8 +5305,8 @@
             Kennedy. <foreign lang="greek">ὁ ἰδιώτης</foreign> is here contrasted with <foreign lang="greek">ἡ πόλις</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">ἀφίημι</lemma>
             <hi rend="italic">remitto atque condono,</hi> Reiske. </p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p><lemma lang="greek" targOrder="U">εἰ ἧν ἱκανὸν ..ὑμεῖς ἂν συγγνώμην
               εἴχετε...νῦν δ’ οὐδὲ διπλάσιον...ἱκανὸν ἂν γένοιτο</lemma> The student will
             be careful to distinguish between the two forms of conditional sentences here combined.
@@ -5321,8 +5321,8 @@
             better, &lsquo;the return they have given me for all the benefits I have conferred
             upon them.&rsquo; For this idiomatic use of the double relative, cf. Soph. El. 751
               <foreign lang="greek">οἶ’ ἔργα δράσας οἶα λαγχάνει κακά</foreign>.</p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p>&sect;&sect; 4&mdash;9. <hi rend="italic">My opponent's brother,
               Nicostratus, was my neighbour in the country, and, being about the same age, we were
                 th<foreign lang="greek">π</foreign>own much together and became more and more
@@ -5380,8 +5380,8 @@
             as well as to lead up to the subsequent narrative <foreign lang="greek">συμβαίνει δή
               μοι τριηραρχία</foreign>.&mdash;On some of the later trierarchal services of
             Apollodorus cf. note on <bibl n="Dem. 36.41">Or. 36 &sect; 41</bibl>. </p>
-        </div2>
-        <div2 type="section" n="5">
+        </div>
+        <div type="section" n="5">
           <p><lemma lang="greek" targOrder="U">τριηραρχία περὶ Πελοπόννησον κ.τ.λ.</lemma> The
             date of this event, if it could be determined with certainty, would assist materially in
             determining the date of the delivery of the speeeh. It seems very probable that this
@@ -5425,8 +5425,8 @@
             <bibl n="Dem. 33.13">Or. 33 &sect; 13</bibl>
             <foreign lang="greek">τοῦ εἰς Σικελίαν πλοῦ διὰ τοῦτον κατεκωλύθη</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="6">
+        </div>
+        <div type="section" n="6">
           <p><lemma lang="greek" targOrder="U">παρὰ τούτου</lemma> &lsquo;From the defendant's
               house.&rsquo;&mdash;<foreign lang="greek">ὧν ἐγὼ κ.τ.λ.</foreign> i.e.
             &lsquo;of the number of those whom I had given him.&rsquo;</p>
@@ -5440,8 +5440,8 @@
           <p><lemma lang="greek" targOrder="U">ἐπὶ τοῦτον</lemma> &lsquo;In quest of
             him,&rsquo; &lsquo;to fetch him back.&rsquo; <pb n="157"/>
           </p>
-        </div2>
-        <div2 type="section" n="7">
+        </div>
+        <div type="section" n="7">
           <p><lemma lang="greek" targOrder="U">ἐπῄνει</lemma> Not &lsquo;praised,&rsquo;
             but, rather, &lsquo;thanked.&rsquo; Cf. &sect; 13, <foreign lang="greek">ἐπαινέσας με ἐκέλευσε κ.τ.λ.</foreign> So also in Ar. Ranae 538 <foreign lang="greek">κάλλιστ’, ἐπαινῶ</foreign>, &lsquo;thank you!&rsquo; where
             however the notion of declining the offer is also involved.</p>
@@ -5477,8 +5477,8 @@
             found in passages where we should expect the aorist, especially in Herodotus and
             Thucydides. It may be regarded as used in a <hi rend="italic">tentative</hi> sense, in
             so far as the result of the request is uncertain. </p>
-        </div2>
-        <div2 type="section" n="8">
+        </div>
+        <div type="section" n="8">
           <p><lemma lang="greek" targOrder="U">ἔλκη ἐν ταῖς κνήμαις</lemma> Ar. Eq. 907
               <foreign lang="greek">τἀν τοῖσιν ἀντικνημίοις ἑλκύδρια
             περιαλείφειν</foreign>.</p>
@@ -5522,8 +5522,8 @@
             n&eacute;tait ni un don, ni un secours, mais un pr&ecirc;t qu'il fallait
             rembourser&rsquo; (Dareste). <pb n="159"/>
           </p>
-        </div2>
-        <div2 type="section" n="9">
+        </div>
+        <div type="section" n="9">
           <p><lemma lang="greek" targOrder="U">οὐ λόγῳ μὲν ὑπισχνούμην, ἔργῳ δ’ οὐκ
               ἐποίησα</lemma> Cf. de Corona &sect; 179 <foreign lang="greek">οὐκ εἶπον μὲν
               ταῦτα οὐκ ἔγραψα δέ, οὐδ’ ἔγραψα μὲν οὐκ ἐπρέσβευσα δέ, οὐδ’
@@ -5541,8 +5541,8 @@
           <p><lemma lang="greek" targOrder="U">δωρειὰν</lemma> not as a loan, but as a free gift
             (36 &sect; 15). Cf. <bibl n="Dem. 19.170">Or. 19 &sect; 170</bibl>
             <foreign lang="greek">ἔδωκα δωρειὰν τὰ λύτρα</foreign>.</p>
-        </div2>
-        <div2 type="section" n="10">
+        </div>
+        <div type="section" n="10">
           <p>&sect;&sect; 10&mdash;13. <hi rend="italic">Not many days afterwards, he
               came once more and told me with tears in his eyes that the persons who had advanced
               the ransom were demanding payment of the remaining sixteen minae, and that the
@@ -5628,8 +5628,8 @@
               ὀφείλοντες, καὶ ὅτι οὐδ’ ἐπιδανείσονται ἐπὶ τούτοις παρ’
               οὐδένος</foreign>. See also Or. 34 &sect;&sect; 6, 50. HermannThalheim,
               <title>Rechtsalt.</title> p. 103. </p>
-        </div2>
-        <div2 type="section" n="11">
+        </div>
+        <div type="section" n="11">
           <p><lemma lang="greek" targOrder="U">ἴνα μὴ ὄ τε ὰποδέδωκα, τὰς χιλίας δραχμάς,
               ἀπόλωνται</lemma> i.e. <foreign lang="greek">ἵνα μη ἅι τε χίλιαι δραχμαί, ἂς
               ἀποδέδωκα, ἀπόλωνται. τὰς δραχμὰς</foreign> is here attracted into the same case
@@ -5650,8 +5650,8 @@
             &lsquo;the laws enact that a person ransomed from the enemy shall be the property of
             the ransomer, if the former fail to pay the redemption money.&rsquo;
             Hermann-Thalheim, <title>Rechtsalt.</title> p. 20 note 7, p. 32 note 7. </p>
-        </div2>
-        <div2 type="section" n="12">
+        </div>
+        <div type="section" n="12">
           <p><lemma lang="greek" targOrder="U">ἄπερ ἂν</lemma> sc. <foreign lang="greek">άροκπίναιτο, ουκ ἂν νομίσας ἀδικηθη&lt;&gt;ναι</foreign>] i.e.
               <foreign lang="greek">οὐ νομίσας άδικηθῆναι ἄν. ἂν</foreign> is often
             separated from its verb by such words as <foreign lang="greek">οἶμαι, δοκῶ, οἶδα,
@@ -5706,8 +5706,8 @@
               κτῆμα</foreign>. &lsquo;Release my property from the mortgage,&rsquo; or
             (with Kennedy), &lsquo;pay off my mortgage as you promise.&rsquo; So, in another
             speech delivered by Apollodorus, Or. 50 (Polycles) &sect; 28 <foreign lang="greek">ἵνα λύσωνταί μοι τὸ χωρίον, ἀποδόντες ..τριάκοντα μνᾶς</foreign>. </p>
-        </div2>
-        <div2 type="section" n="13">
+        </div>
+        <div type="section" n="13">
           <p><lemma lang="greek" targOrder="U">τὴν συνοικίαν</lemma> not the
             &lsquo;lodging-house&rsquo; mentioned in <bibl n="Dem. 45.28">Or. 45 &sect;
               28</bibl>, for that belonged to his mother, who did not die until 360 B.C.; but
@@ -5764,8 +5764,8 @@
               μὴ εἰσπράττοιμι] ὅπως μὴ</foreign> is somewhat out of place, indeed <foreign lang="greek">ὅπως</foreign> is really superfluous, as the whole sentence depends on
             the particle of purpose <foreign lang="greek">ἵνα.ἀφείην</foreign>,
             &sect; 8. </p>
-        </div2>
-        <div2 type="section" n="14">
+        </div>
+        <div type="section" n="14">
           <p><lemma lang="greek" targOrder="U">τῶν ἀντιδίκων</lemma> Referring principally to his
             opponent Phormion (cf. &sect; 9, <foreign lang="greek">διαφόρως ἔχειν τῷ
               Φορμἱωνι</foreign>, and &sect; 14 ad fin. <foreign lang="greek">τῶν οἰκείων
@@ -5882,8 +5882,8 @@
               ἐν. δείξεις τὸν βουλόμενον ποιεῖσθαι τῶν πολιτῶν</foreign>... By <foreign lang="greek">ἔνδειξις</foreign> is meant a criminal information against a person
             acting when under legal disability. It was brought in writing before the Archon and was
             a very summary process. Hermann-Thumser, <title>Staatsalt.</title> p. 556 n. (Cf. <bibl n="Dem. 39.14">Or. 39 &sect; 14</bibl> and Pollux there quoted.) </p>
-        </div2>
-        <div2 type="section" n="15">
+        </div>
+        <div type="section" n="15">
           <p><lemma lang="greek" targOrder="U">ὁἐπιγραψἀμενος</lemma> The previous
             context shows that Nicostratus is meant, not Arethusius. <pb n="168"/></p>
           <p><lemma lang="greek" targOrder="U">ἀπρὀσκλητον δίκην</lemma> Hesychius, <foreign lang="greek">ἡ μὴ τυχοῦσα τῶν καλουμένων κλητόρων κατὰ τὸν νόμον· καὶ διὰ
@@ -6018,8 +6018,8 @@
               φασιν ἀφανίζειν</foreign>. See also Dem. Or. 43 (Macart.) &sect;&sect;
             69&mdash;71, and Aristotle's <title>Const. of Athens</title> 60 &sect;&sect;
             2, 3. </p>
-        </div2>
-        <div2 type="section" n="16">
+        </div>
+        <div type="section" n="16">
           <p><lemma lang="greek" targOrder="U">παιδάριον ἀστὸν</lemma> i.e. a little boy, who was
             free born. It was expected that Apollodorus would have mistaken the boy for a slave and
             either bound or beaten him, thereby rendering himself liable to an indictment for
@@ -6087,8 +6087,8 @@
             the case of a slave. (Becker's <title>Charicles</title> III p. 31&mdash;32 = p. 367
             of English Abridgement. Hermann-Thalheim, <title>Rechtsalt.,</title> p. 38{4} note 2.)
           </p>
-        </div2>
-        <div2 type="section" n="17">
+        </div>
+        <div type="section" n="17">
           <p><lemma lang="greek" targOrder="U">ἀνακεκριμένου</lemma> passive form in middle sense
             (&sect; 14 <foreign lang="greek">ἀνακρινοίμην τὰς δίκας</foreign>):
             &lsquo;when I had brought to the preliminary examination my indictment for false
@@ -6134,8 +6134,8 @@
               <title>Const. of Athens,</title> col. 35, 7 ed. Sandys, with Kaibel's <title>Stil u.
               Text,</title> p. 266).</p>
           <p><lemma lang="greek" targOrder="U">τὰ ψευδῆ κεκλητευκότα</lemma> &sect; 15. </p>
-        </div2>
-        <div2 type="section" n="18">
+        </div>
+        <div type="section" n="18">
           <p><lemma lang="greek" targOrder="U">ἐν τῆ? τιμήσει</lemma> In an <foreign lang="greek">ἀγὼν τιμητός</foreign>, the declaration of the <hi rend="italic">first</hi>
             verdict, that of condemnation, was followed by the <foreign lang="greek">τίμησις</foreign> or fixing of the penalty, with the <foreign lang="greek">ἀντιτίμησις</foreign>, in which latter the defendant on <hi rend="italic">his</hi>
             part submitted to the court an alleviation of the penalty claimed by the plaintiff.
@@ -6159,8 +6159,8 @@
             had the latter compassed the death of one who was by birth a citizen of Athens.</p>
           <p><lemma lang="greek" targOrder="U">ἀπεκτονὠς εἴην</lemma> Goodwin's <title>Moods and
               Tenses,</title> &sect; 18, 1 = &sect; 103 ed. 1889.</p>
-        </div2>
-        <div2 type="section" n="19">
+        </div>
+        <div type="section" n="19">
           <p>&sect;&sect; 19&mdash;21. <title>Having now recounted some of the wrongs
               done me by Arethusius and his brother Nicostratus, I will call evidence in detail to
               prove that the two slaves entered by me in the specification do not belong to
@@ -6182,8 +6182,8 @@
               ἐκ μικρῶν παιδίων ἐκτήσατο</foreign>, and similarly the far more frequent phrases
               <foreign lang="greek">ἐκ παιδός</foreign> (<bibl n="Dem. 27.4">Or. 27 &sect;
               4</bibl>), <foreign lang="greek">ἑκ νέου, ἐκ μειρακίου</foreign>. </p>
-        </div2>
-        <div2 type="section" n="20">
+        </div>
+        <div type="section" n="20">
           <p><lemma lang="greek" targOrder="U">παρ’ οἷς τοίνυνδεσπότης ὤν</lemma>
             sc. <foreign lang="greek">ὡς Ἀρεθούσιος ἐκομίζετο τοὺς μισθοὺς παρ’ ἐκείνων
               παρ’ οἷς εἰργάσατο πώποτε ὁ Κέρδων κ.τ.λ.</foreign> &lsquo;I shall show
@@ -6241,8 +6241,8 @@
             construe <foreign lang="greek">ἄπαν</foreign> with <foreign lang="greek">ἐναπετίμησεν αὐτῷ</foreign>, &lsquo;handed him over in full
             payment,&rsquo; &lsquo;paid off the whole sum in the person of Manes.&rsquo;
           </p>
-        </div2>
-        <div2 type="section" n="21">
+        </div>
+        <div type="section" n="21">
           <p><lemma lang="greek" targOrder="U">ὀπώραν πρίαιντο κ.τ.λ.</lemma> &lsquo;Whenever
             they bought up the produce of an orchard or hired themselves out to reap a harvest, it
             was Arethusius who made the bargain on their be<pb n="178"/> half for the purchase or
@@ -6254,8 +6254,8 @@
             latter verb having no present participle of its own, <foreign lang="greek">ὠνούμενος</foreign> commonly takes its place and is so used in the present passage.
             Cf. note on &sect; 10, where <foreign lang="greek">πρίασθαι</foreign> is followed
             by <foreign lang="greek">ὠνεῖσθαι</foreign>.</p>
-        </div2>
-        <div2 type="section" n="22">
+        </div>
+        <div type="section" n="22">
           <p>&sect;&sect; 22&mdash;25. <title>I now propose to deal with the Challenge
               which my opponents proposed to me, and also with that which I myself proposed to
               them.</title></p>
@@ -6297,8 +6297,8 @@
             kind of evidence on their own side.&rsquo; <foreign lang="greek">ταύτην</foreign>
             is attracted into the same gender as <foreign lang="greek">μαρτυρίαν; τοῦτο</foreign>
             would have made the same sense, but would have been less idiomatic. </p>
-        </div2>
-        <div2 type="section" n="23">
+        </div>
+        <div type="section" n="23">
           <p><lemma lang="greek" targOrder="U">εἰ ..εἰ</lemma> Two o&lt;*&gt; even three
             protases, not co-ordinate, may belong to one apodosis, e.g. Plat. Men. 74 B <foreign lang="greek">εἴ τίς σε ἀνέροιτο τοῦτο, τί ἐστι σχῆμα; εἰ αὐτῷ εἶπες
               ὅτι στρογγυλότης, εἴ σοι εἶπεν ἅπερ ἐγώ, εἶπες δήπου ἂν ὅτι σχῆμά
@@ -6311,8 +6311,8 @@
           <p><lemma lang="greek" targOrder="U">δημοσίᾳ βασανίζεσθαι</lemma> &lsquo;to be
             questioned publicly,&rsquo; i.e. &lsquo;to be tortured by a
             state-officer.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="24">
+        </div>
+        <div type="section" n="24">
           <p><lemma lang="greek" targOrder="U">οὔτε τῆς βασάνου κύριος ἐγιγνόμην</lemma> i.e.
             I did not acquire control of the &lsquo;question,&rsquo;&mdash;authority
             over the examination.</p>
@@ -6354,8 +6354,8 @@
               45 &sect; 2</bibl>
             <foreign lang="greek">ἐξ ὦν</foreign> (<foreign lang="greek">ἀκούσαντες</foreign>).
               <foreign lang="greek">γνώσεσθε</foreign>. </p>
-        </div2>
-        <div2 type="section" n="25">
+        </div>
+        <div type="section" n="25">
           <p><lemma lang="greek" targOrder="U">ἰδίᾳ βασανιζομένων τῶν ἀνθρώπων</lemma>
             equivalent to <foreign lang="greek">εἰ ἰδίᾳ ἐβασανίζοντο</foreign>. Hence in the
             corresponding clause, instead of <foreign lang="greek">δημοσιᾳ δὲ</foreign>, which
@@ -6369,8 +6369,8 @@
           <p><lemma lang="greek" targOrder="U">οἱ ἄρχοντες</lemma> &lsquo;The
             Eleven.&rsquo; See note on <foreign lang="greek">τὴν ἀρχὴν</foreign> in
             &sect; 24.</p>
-        </div2>
-        <div2 type="section" n="26">
+        </div>
+        <div type="section" n="26">
           <p>&sect;&sect; 26&mdash;29. <title>My opponents are really claiming what is
               public property, that is, your own property, men of the jury, and I shall prove this
               by your own laws. When the jury were proposing to condemn Arethusius to death, my
@@ -6397,8 +6397,8 @@
               συνεκτείσειν</foreign>, &lsquo;they agreed that they would be jointly responsible
             for the payment.&rsquo; Kennedy. <pb n="182"/>
           </p>
-        </div2>
-        <div2 type="section" n="27">
+        </div>
+        <div type="section" n="27">
           <p><lemma lang="greek" targOrder="U">τῶν ὑμετέρων</lemma> The slaves claimed by the
             state, for nonpayment of the fine due from Arethusius, are here represented as the
             property of the jury because the jury were regarded by law as the embodiment of the
@@ -6410,8 +6410,8 @@
               προς τὸ δημόσιον, τούτοις ἡ μὲν ἔκτισις ἦν ἐπὶ τῆς ἐνάτης πρυτανείας,
               εἰ δὲ μὴ διπλάσιον ὀφείλειν καὶ τὰ κτήματα αὐτῶν πεπρᾶσθαι</foreign>.
             Hermann-Thumser, <title>Staatsalt.</title> p. 477, n. 1. </p>
-        </div2>
-        <div2 type="section" n="28">
+        </div>
+        <div type="section" n="28">
           <p><lemma lang="greek" targOrder="U">πένης ὢν φαίνεται</lemma> &lsquo;is made out
             to be a poor man.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">προσφέρεσθαι</lemma> &lsquo;to
@@ -6420,8 +6420,8 @@
             disclosed&rsquo; (delivered a formal specification of) &lsquo;the estate of
               Arethusius.&rsquo;&mdash;<foreign lang="greek">τούτων αὐτῶν</foreign> i.e.
             Nicostratus and Demon. </p>
-        </div2>
-        <div2 type="section" n="29">
+        </div>
+        <div type="section" n="29">
           <p><lemma lang="greek" targOrder="U">ἐὰν οὖνἐὰν οὖν ταῦτα</lemma> The
             sentence is suspended by a parenthesis of several lines from <foreign lang="greek">ἢ
               γὰρ ὀρφανοὺς</foreign> to <foreign lang="greek">ὀφλήματος</foreign>, and it is
@@ -6447,10 +6447,10 @@
             &lsquo;disregarding.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">καταψηφίσησθε</lemma> sc. <foreign lang="greek">Νικοστράτου</foreign>. <pb/>
           </p>
-        </div2>
-      </div1>
-      <div1 type="speech" n="54">
-        <div2 type="section" n="1">
+        </div>
+      </div>
+      <div type="speech" n="54">
+        <div type="section" n="1">
           <p>
             <lemma lang="greek" targOrder="U">ὑβρισθεὶσταυτηνί</lemma> The opening
             sentence is best rendered by treating <foreign lang="greek">ὑβρισθεὶς</foreign> and
@@ -6579,8 +6579,8 @@
               ἥδιστ’ ἂν ἔκρινα</foreign>, well illustrates the fondness of the Greeks for
             participial construction. The sense is, &lsquo;though I would most gladly have
             brought him to trial on the capital charge.&rsquo; P.] </p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p><lemma lang="greek" targOrder="U">δεινῆστούτου</lemma> &lsquo;The
             original outrage, atrocious as it was, does not surpass the subsequent brutality of the
             defendant.&rsquo; See <pb n="188"/> &sect; 26. The first clause may perhaps be
@@ -6610,8 +6610,8 @@
             recital of the facts on which the suit is really founded. It is to this portion of the
             statement of the case that Rhetoricians like Theodorus of Byzantium would have given the
             name of <foreign lang="greek">προδιήγησις</foreign> (Arist. Rhet. III 13).</p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p>&sect;&sect; 3&mdash;6. <hi rend="italic">Two years ago, we were ordered
               out to Panactum on garrison duty, and, as ill luck would have it, the sons of Conon
               pitched their tents close to our own. They picked quarrels with our servants and were
@@ -6677,8 +6677,8 @@
             optative <foreign lang="greek">ἀριστήσαιεν</foreign> denotes frequent and repeated
             action, which is also clearly brought out by <foreign lang="greek">ἑκάστοτε</foreign>
             and <foreign lang="greek">διετέλουν ποιοῦντες</foreign>. </p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p><lemma lang="greek" targOrder="U">ὤραν</lemma> Not to be translated
             &lsquo;hour,&rsquo; but &lsquo;time,&rsquo; as <foreign lang="greek">ὥρα</foreign> in the former sense is found in late Greek only, and was probably
             first so used by Hipparchus the Alexandrine astronomer in the second century B.C. In
@@ -6718,8 +6718,8 @@
               γενόμενος</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">ἔξω</lemma> placed last for emphasis and also to
             avoid <hi rend="italic">hiatus</hi> (Rehdantz on Phil. 1 &sect; 34). </p>
-        </div2>
-        <div2 type="section" n="5">
+        </div>
+        <div type="section" n="5">
           <p><lemma lang="greek" targOrder="U">λοιδορηθἐντος κ.τ.λ.</lemma> &lsquo;He censured
             and rebuked them severely, not only for their brutal treatment of ourselves, but also
             for their general behaviour in the camp&rsquo; For <foreign lang="greek">λοιδορηθεὶς</foreign> used in the sense of the aorist <hi rend="italic">middle,</hi>
@@ -6743,12 +6743,12 @@
               <foreign lang="greek">ἀπώλετ’ ἃν παροινουμένη</foreign>. The active construction
             is <foreign lang="greek">παροινεῖν εἴς τινα</foreign>, cf. &sect; 4 and see note
             on Isocr. ad Dem. &sect; 30 <foreign lang="greek">πιστευθέντες</foreign>. </p>
-        </div2>
-        <div2 type="section" n="6">
+        </div>
+        <div type="section" n="6">
           <p><lemma lang="greek" targOrder="U">τοῖς...ἁμαρτηθεῖσιν</lemma> Neuter, sc. <foreign lang="greek">ὑπὸ τῶν υἱέων τῶν Κόνωνος</foreign>.</p>
           <p>Here follows the narrative proper.</p>
-        </div2>
-        <div2 type="section" n="7">
+        </div>
+        <div type="section" n="7">
           <p>&sect;&sect; 7&mdash;9. <hi rend="italic">Not long after our return from
               the camp, I was taking my usual evening walk in the market-place with a friend of
               mine, when a son of the defendant, Ctesias by name, who was intoxicated at the time,
@@ -6846,8 +6846,8 @@
             characteristically describe the scuffle in the language of military life. Similarly, a
             few lines below, <foreign lang="greek">ἀνεμείχθημεν</foreign>, &lsquo;when we
             closed with one another.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="8">
+        </div>
+        <div type="section" n="8">
           <p><lemma lang="greek" targOrder="U">συνέβαινεν ..καὶ περιτυγχάνομεν</lemma> A simple
             and somewhat archaic form of phrase instead of <foreign lang="greek">ὅτε
               περιτυγχάνομεν</foreign>. Thuc. I 50 <foreign lang="greek">ἤδη ἦν ὀψὲ καὶ οἱ
@@ -6873,8 +6873,8 @@
             they tripped me up, and made me <pb n="196"/> fall heavily into the mud, and by leaping
             upon me, and beating me, they put me into such a condition that they cut my lip right
             through, and bunged up my eyes.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="9">
+        </div>
+        <div type="section" n="9">
           <p><lemma lang="greek" targOrder="U">τὰ μὲν ἄλλαἐν ὑμῖν ἔνια</lemma>
             i.e. &lsquo;much of what they said was most abusive, and some of it I should be
             sorry to repeat in your presence.&rsquo; Cf. <bibl n="Dem. 18.103">Or. 18 &sect;
@@ -6932,8 +6932,8 @@
             Lysias, fragm. 75 (of a boy who had been severely thrashed) <foreign lang="greek">οὐ
               δυναμένου δὲ βαδίζειν ἐκόμισαν αὐτὸν εἰς τὸ δεῖγμα ἐν κλίνῃ, καὶ
               ἐπέδειξαν πολλοῖς Ἀθηναίων</foreign>.</p>
-        </div2>
-        <div2 type="section" n="10">
+        </div>
+        <div type="section" n="10">
           <p>&sect; 10. <title>I was followed to the bath by Midias and by a relative of mine
               who was returning with him from dinner; and as I was too weak to be carried home again
               that evening, I was taken to the house of Midias for the night, as will be proved by
@@ -6955,8 +6955,8 @@
             motion towards a <hi rend="italic">person,</hi> cf. Thuc. IV 79 <foreign lang="greek">άφίκετο ὡς Περδίκκαν καὶ ἐς τὴν Χαλκιδικήν</foreign>, and Isaeus 7
             &sect; 7 <foreign lang="greek">ὡς ἑαυτὸν καὶ τὴν μητέρα κομισάμενος</foreign>
             (with Wyse's note).</p>
-        </div2>
-        <div2 type="section" n="11">
+        </div>
+        <div type="section" n="11">
           <p>&sect;&sect; 11, 12. <title>The surgeon and others have deposed to the
               immediate consequences of the assault; afterwards, though he expressed no great fears
               about my external bruises, unintermittent attacks of fever ensued, attended by extreme
@@ -6972,8 +6972,8 @@
               ἀνορέκτως ἔχειν τροφῆς</foreign>.&mdash;Strict Atticists prefer <foreign lang="greek">ἀπεκεκλῄμην</foreign> (from old Attic <foreign lang="greek">κλῄω</foreign>) to <foreign lang="greek">άπεκεκλείμην</foreign> and <foreign lang="greek">άπεκεκλείσμην</foreign> (Veitch, <title>Gk
               Verbs</title>).&mdash;<foreign lang="greek">ἤτρου</foreign>, &lsquo;the pit
             of the stomach.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="12">
+        </div>
+        <div type="section" n="12">
           <p><lemma lang="greek" targOrder="U">εἰ μὴδιεφθάρην</lemma> &lsquo;If a
             copious discharge of blood had not spontaneously occurred, while I was in extreme agony
             and at the very crisis of the malady, I should have died of internal
@@ -7002,8 +7002,8 @@
             </cit>. <bibl n="Dem. 59.56">Or. 59 &sect; 56</bibl>
             <foreign lang="greek">τὰ πρόσφορα τῇ νόσῳ φέρουσαικαὶ
             ἐπισκοπούμεναι</foreign>. Two MSS (FQ) read <foreign lang="greek">ἐπισκοπουμένων</foreign> in the text.</p>
-        </div2>
-        <div2 type="section" n="13">
+        </div>
+        <div type="section" n="13">
           <p>&sect;&sect; 13&mdash;15. <hi rend="italic">Let me now tell you beforehand
               of the course which Conon will take in his reply. He will divert your attention from
               the facts and try to throw ridicule on the whole affair. He will tell you it was only
@@ -7065,8 +7065,8 @@
               λοιδορίαν κατέστησαν</foreign>.&mdash;Hesychius, referring perhaps to the
             present passage, has <foreign lang="greek">σκώμματα· λοιδορήματα γέλωτος
               χάριν</foreign>. </p>
-        </div2>
-        <div2 type="section" n="14">
+        </div>
+        <div type="section" n="14">
           <p><lemma lang="greek" targOrder="U">ὡς εἰσὶν</lemma> followed in the latter half of
             the sentence by acc. c. inf.</p>
           <p><lemma lang="greek" targOrder="U">καλῶν κἀγαθῶν</lemma> See note on <bibl n="Dem. 45.65">Or. 45 &sect; 65</bibl>. Trans. &lsquo;sons of respectable
@@ -7099,8 +7099,8 @@
             falsely.&rsquo; Cf. <bibl n="Dem. 45.82">Or. 45 &sect; 82</bibl>. <foreign lang="greek">παρασκευάσειν</foreign>, the reading of the Paris MS S, depends, like
             the previous infinitives, on the remote verb <foreign lang="greek">πέπυσμαι</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="15">
+        </div>
+        <div type="section" n="15">
           <p><lemma lang="greek" targOrder="U">χαλεπῶς  ἐνηνοχὼς</lemma>
             &lsquo;deeply indignant as I am at the wrongs I have suffered.&rsquo; <bibl n="Dem. 21.108">Or. 21 &sect; 108</bibl>
             <foreign lang="greek">ἐγὼ γὰρ ἐνηνοχὼς χαλεπῶς ἐφ’ οἶς περὶ τὴν λῃτουργίαν
@@ -7127,8 +7127,8 @@
             shall assert that he is, or his neighbour shall accuse him of being, such he shall be
             considered to be, and respectable citizens shall have no advantage at all from their
             daily life or conduct.&rsquo; Aeschin. 1 &sect; 153 and 2 &sect; 5.</p>
-        </div2>
-        <div2 type="section" n="16">
+        </div>
+        <div type="section" n="16">
           <p>&sect;&sect; 16&mdash;17. <hi rend="italic">As to our own character, no one
               has ever seen us playing drunken pranks on other people, and we cannot see how our
               opponents can call us &lsquo;hard&rsquo; on others, if we claim redress.
@@ -7160,8 +7160,8 @@
           <p><foreign lang="greek">τί ταῦτ’ ἐμοί;</foreign>] <bibl n="Dem. 20.20">Or. 20
               &sect; 20</bibl>
             <foreign lang="greek">τί τοῦτο τῇ πόλει;</foreign></p>
-        </div2>
-        <div2 type="section" n="17">
+        </div>
+        <div type="section" n="17">
           <p>&sect;&sect; 17 <hi rend="italic">cont.</hi>&mdash;20. <title>Compare the
               spirit of our laws with the course which Conon proposes to take. The laws. I
               understand, affix a penalty even to minor offences, to preclude the perpetration of
@@ -7222,8 +7222,8 @@
               κακηγορίας νόμον ἔθεσαν, ὃς κελεύει τοὺς λέγοντάς τι τῶν ἀπορρήτων
               πεντακοσίας δραχμὰς ὀφείλειν</foreign>, Cf. Lysias, Or. 10 &sect;&sect;
             6&mdash;12, Dem. <bibl n="Dem. 23.50">Or. 23 &sect; 50</bibl>, <bibl n="Dem. 21.32">Or. 21 &sect; 32</bibl>. </p>
-        </div2>
-        <div2 type="section" n="18">
+        </div>
+        <div type="section" n="18">
           <p><lemma lang="greek" targOrder="U">λοιδορούμενου</lemma> &lsquo;reviling <hi rend="italic">one another.</hi>&rsquo; For the reciprocal sense, cf. <bibl n="Dem. 54.40">Or. 54 &sect; 40</bibl>
             <foreign lang="greek">ἐχθροὺς ἀλλήλοις. λοιδορουμένους καὶ πλύνοντας αὑτοὺς
               τἀπόρρητα</foreign>, and Ar Ranae 857 <foreign lang="greek">πραόνως ἔλεγχ’
@@ -7259,8 +7259,8 @@
             the <hi rend="italic">object</hi> or <hi rend="italic">motive</hi>; the <hi rend="italic">dative,</hi> the <hi rend="italic">means and instrument or cause</hi>
             (Madvig's <title>Greek Syntaa,</title> &sect; 170, and the commentators on Thuc. II
             102; VI. 33; VIII 87 &sect; 3). </p>
-        </div2>
-        <div2 type="section" n="19">
+        </div>
+        <div type="section" n="19">
           <p><lemma lang="greek" targOrder="U">τὸ τῆς λοιδορίας κ.τ.λ.</lemma> &lsquo;the
             least of these evils, <hi rend="italic">namely, abusive language,</hi> has been provided
             for by the laws, for the avoidance of (<foreign lang="greek">πρὸ</foreign>)
@@ -7274,8 +7274,8 @@
               <pb n="207"/>
             <foreign lang="greek">ἐξ ἀντιλογίας καὶ λοιδορίας πληγὰς συναψάμενος</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="20">
+        </div>
+        <div type="section" n="20">
           <p><lemma lang="greek" targOrder="U">ἐν μὲν τοῖς νόμοις</lemma> reiterates <foreign lang="greek">οἱ μὲν γὰρ νόμοι</foreign> in &sect; 17.</p>
           <p><lemma lang="greek" targOrder="U">ἰθύφαλλοιἄγχομεν</lemma> &lsquo;we
             belong to the Priapus-club, and in our love-affairs (&sect; 14) strike and throttle
@@ -7301,8 +7301,8 @@
             Plato, Phaedo 64 A <foreign lang="greek">ἀποθνήσκειν τε καὶ τεθνάναι</foreign>, and
             71 C <foreign lang="greek">ἐκ τῶν τεθνεώτων</foreign>, followed in the very next line
             by <foreign lang="greek">ἐκ τῶν ἀποθανόντων</foreign>.</p>
-        </div2>
-        <div2 type="section" n="21">
+        </div>
+        <div type="section" n="21">
           <p>&sect;&sect; 21&mdash;23. <title>It is only those who are misled by their
               youth into acts of outrage that deserve any indulgence, and even in their case, such
               indulgence ought not to get them off altogether, but should extend simply to
@@ -7324,8 +7324,8 @@
             opponents.</p>
           <p><lemma lang="greek" targOrder="U">εἰς</lemma> &lsquo;to the extent of.&rsquo;
             For this sense, see my note on Eur. El. 1072. P.] </p>
-        </div2>
-        <div2 type="section" n="22">
+        </div>
+        <div type="section" n="22">
           <p><lemma lang="greek" targOrder="U">παρὼν δὲγεγένηται</lemma> Cf.
             &sect; 6 ad fin.</p>
           <p><foreign lang="greek">τίν’ ἂνδίκην;</foreign>] i.e. &lsquo;Is there
@@ -7338,8 +7338,8 @@
             &lsquo;even then you would have abhorred the defendant, and rightly too!&rsquo;
             or (with Kennedy) &lsquo;even then he would have deserved your
             execration.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="23">
+        </div>
+        <div type="section" n="23">
           <p><lemma lang="greek" targOrder="U">προῆκται</lemma> Perfect passive with <hi rend="italic">middle</hi> sense &lsquo;has had them brought up&rsquo; (Liddell
             and Scott), or simply &lsquo;has trained them&rsquo; (<hi rend="italic">gezogen
               hat</hi>). This explanation is due to Reiske, and is probably right. But the general
@@ -7360,8 +7360,8 @@
             sons.&mdash;The construction of the last clause is <foreign lang="greek">ἠξίου
               ἂν καὶ τούτους</foreign> (<foreign lang="greek">τιμᾶν καὶ δεδιέναι</foreign>)
               <foreign lang="greek">αὑτόν</foreign>.</p>
-        </div2>
-        <div2 type="section" n="24">
+        </div>
+        <div type="section" n="24">
           <p>&sect;&sect; 24, 25. <title>Take and read the statutes on brutal outrage and on
               highway robbery, to both of which the defendant is amenable, though I have declined to
               claim redress under these statutes. Further, had death ensued, he</title>
@@ -7387,8 +7387,8 @@
             <foreign lang="greek">μετρίου καὶ ἀπράγμονος πολίτου μὴ εὐθὺς ἐπὶ κεφαλὴν
               εἰς τὸ δικαστἡριον βαδίζειν</foreign>. Cf. <bibl n="Dem. 36.53">Or. 36 &sect;
               53</bibl>. </p>
-        </div2>
-        <div2 type="section" n="25">
+        </div>
+        <div type="section" n="25">
           <p><lemma lang="greek" targOrder="U">εἰ παθεῖν τί μοι συνέβη</lemma> a common
             euphemism for death. Or. 23 (Aristocr.) &sect; 59 <foreign lang="greek">ἂν ἄρα
               συμβῇ τι παθεῖν ἐκείνῳ</foreign>. A frequent formula at the beginning of a Greek
@@ -7449,8 +7449,8 @@
               (<title>Index Graec.</title>) is clearly wrong in his rendering <hi rend="italic">deliquerint animis sub verberibus:</hi> had the clause referred to the victim, the
             singular would have heen used, to correspond to <foreign lang="greek">τῷ
               περιπίπτοντι</foreign>.</p>
-        </div2>
-        <div2 type="section" n="26">
+        </div>
+        <div type="section" n="26">
           <p>&sect;&sect; 26&mdash;29. <title>At the arbitration my opponents, by
               wasting time and introducing irrelevant matters, protracted the proceedings beyond
               midnight, to the disgust of all the bystanders, and at last even of themselves. Then,
@@ -7539,8 +7539,8 @@
             concession to them, hurries over his admission, and in the next sentence cuts the matter
             short by the opening words <foreign lang="greek">ἐπειδὴ δ’ οὖν</foreign>, i.e.
             &lsquo;whether this was the real reason or no, at any rate when at last they <hi rend="italic">did</hi> desist, &amp;c.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="27">
+        </div>
+        <div type="section" n="27">
           <p><lemma lang="greek" targOrder="U">προκαλοῦνταιγράψαν·
               τες</lemma> &lsquo;with a view to gaining time, and preventing the cases for the
             documents from being sealed up, they put in a challenge, tendering certain slaves, whose
@@ -7575,8 +7575,8 @@
             &sect; 21 <foreign lang="greek">τὴν ἀπόφασιν ἐποιήσατο</foreign>): (2) in <hi rend="italic">passive</hi> (as here), of the award itself. Reiske's Index (to which
             these references are due) is wrong in rendering it as a past tense, <hi rend="italic">sententia iam pronuntiata.</hi>
           </p>
-        </div2>
-        <div2 type="section" n="28">
+        </div>
+        <div type="section" n="28">
           <p><lemma lang="greek" targOrder="U">τὸν πρῶτον πατάξαντα</lemma> &lsquo;I was
             pointing out the defendant, to all who came to see me, as the man who struck the first
             blow.&rsquo; In a case of assault, the question who struck the first blow would be,
@@ -7594,8 +7594,8 @@
             that, had death ensued, Conon would have been liable to a charge of <foreign lang="greek">φόνος ἐκ προνοίας</foreign>. On the jurisdiction of the Areopagus in
             cases of homicide, see especially &sect;&sect; 65&mdash;70 of the speech
             against Aristocrates, Or. 23. </p>
-        </div2>
-        <div2 type="section" n="29">
+        </div>
+        <div type="section" n="29">
           <p><foreign lang="greek">τοῦτο τὸ δίκαιον</foreign> sc. <foreign lang="greek">τὴν
               πρόκλησιν</foreign>.</p>
           <p>For <foreign lang="greek">εἰ...οὐ</foreign> (Dind.) cf. &sect; 33 ad fin.</p>
@@ -7609,8 +7609,8 @@
             took no precautions against so serious a peril (i.e. the charge of murder), yet at
             least, when on my recovery I issued a summons against him, in our <hi rend="italic">first</hi> meeting before the Arbitrator he would have shown himself willing to give
             up the slaves.&rsquo;</p>
-        </div2>
-        <div2 type="section" n="30">
+        </div>
+        <div type="section" n="30">
           <p>&sect;&sect; 30&mdash;33. <hi rend="italic">He thereupon put in false
               evidence, alleging that certain witnesses, boon companions of his own, deposed that
               they found the defendant's son and myself fighting in the market-place and that the
@@ -7641,8 +7641,8 @@
             requisite.</p>
           <p><lemma lang="greek" targOrder="U">πᾶσιν</lemma> not masc., but to be taken with
               <foreign lang="greek">τοῖς ἐγκεκλημένοις</foreign>. </p>
-        </div2>
-        <div2 type="section" n="31">
+        </div>
+        <div type="section" n="31">
           <p><lemma lang="greek" targOrder="U">ἐμβάλλεται</lemma>
             <bibl n="Dem. 40.21">Or. 40 &sect; 21</bibl>
             <foreign lang="greek">μαρτυρίαν οὐδεμίαν ἐμβεβλημένος</foreign>, ib.
@@ -7685,8 +7685,8 @@
             often with <foreign lang="greek">ὥσπερ</foreign> (<hi rend="italic">quasi vero</hi>):
             &lsquo;imagining that you will at once give credence, instead of drawing the true
             inference.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="32">
+        </div>
+        <div type="section" n="32">
           <p><lemma lang="greek" targOrder="U">ἂν</lemma> is constructed with <foreign lang="greek">ήθέλησαν</foreign>, six lines distant.</p>
           <p><lemma lang="greek" targOrder="U">Νικήρατος</lemma> possibly the Niceratos to whom
             Demosthenes pathetically refers in Or. 21 (Mid.) &sect; 165 <foreign lang="greek">Νικήρατος ὁ τοῦ Νικίου ἀγαπητὸς παῖς, ὁ παντἀπασιν ἀσθενὴς τῷ
@@ -7713,8 +7713,8 @@
             that this verb is used in Dem. of either litigant or both, or again of the cause itself,
             or even with <foreign lang="greek">δίκην</foreign> or <foreign lang="greek">γραφὴν</foreign> as accusative after it. See note on <bibl n="Dem. 45.7">Or. 45
               &sect; 7</bibl>. </p>
-        </div2>
-        <div2 type="section" n="33">
+        </div>
+        <div type="section" n="33">
           <p><lemma lang="greek" targOrder="U">τί γὰρ ἄν</lemma> &lsquo;Why should
             I?&rsquo; The MSS have the interpolation, <foreign lang="greek">ἢ διὰ
               τί</foreign>; probably a mere explanation of <foreign lang="greek">τί</foreign>; as
@@ -7751,8 +7751,8 @@
             effrontery. Cf. <foreign lang="greek">ἀπαυθαδίζεσθαι</foreign>. <bibl n="Dem. 29.20">Or. 29 &sect; 20</bibl>
             <foreign lang="greek">τὸ μὲν πρῶτον ἀπηναισχύντει, τοῦ δὲ διαιτητοῦ κελεύοντος
               μαρτυρεῖν ἢ ἐξομνύειν, ἐμαρτύρησε πἀνυ μόλις</foreign>. </p>
-        </div2>
-        <div2 type="section" n="34">
+        </div>
+        <div type="section" n="34">
           <p><lemma lang="greek" targOrder="U">ἀλλὰ νὴ Δία</lemma> used, as often, like <hi rend="italic">at enim,</hi> to introduce emphatically an anticipated rejoinder on the
             part of the opponents. &lsquo;Oh but, good heavens! they are not such characters as
             I make them out.&rsquo; The phrase may be seen in its fullest form in <bibl n="Dem. 20.3">Or. 20 &sect; 3</bibl>
@@ -7835,8 +7835,8 @@
           <p><lemma lang="greek" targOrder="U">κακῶν καὶ αἰσχρῶν</lemma> &lsquo;wickedness
             and indecency.&rsquo; <pb n="222"/>
           </p>
-        </div2>
-        <div2 type="section" n="35">
+        </div>
+        <div type="section" n="35">
           <p><lemma lang="greek" targOrder="U">τὰ λαμπρὰ καὶ νεανικά</lemma> &lsquo;their
             splendid and spirited pleas.&rsquo;</p>
           <p><lemma lang="greek" targOrder="U">οὐ γὰρ κ.τ.λ.</lemma> &lsquo;What! sha'n't we.
@@ -7855,8 +7855,8 @@
             For other constructions, cf. Plato Gorg. 469 D, <foreign lang="greek">τῆς κεφαλῆς
               κατεαγέναι</foreign> and Lys. <bibl n="Lys. 3 40">Or. 3 &sect; 40</bibl>
             <foreign lang="greek">καταγεὶς τὴν κεφαλὴν ὑπ’ αὐτοῦ</foreign>. </p>
-        </div2>
-        <div2 type="section" n="36">
+        </div>
+        <div type="section" n="36">
           <p><lemma lang="greek" targOrder="U">ὅσα μὴ</lemma> &lsquo;exceptwhatis (deposed)
             by means of themselves&rsquo;; &lsquo;<hi rend="italic">nam nisi quod sibi ipsi
               testabuntur nullum adversus nos testem habebunt.</hi> Plutarch <title>Timol.</title> 3
@@ -7898,8 +7898,8 @@
             advocate spoke, the time that elapsed was measured with an hourglass, which was laid on
             its side while the depositions were read: &lsquo;so lange namlich der Schreiber
             liest, so lange l&auml;uft die Zeit nicht&rsquo; etc. (<hi rend="italic">Itali&auml;nische Reise,</hi> p. 68 D&uuml;ntzer). </p>
-        </div2>
-        <div2 type="section" n="37">
+        </div>
+        <div type="section" n="37">
           <p><lemma lang="greek" targOrder="U">τοίχους διορύττοντες</lemma> The documents just
             read have deposed to the defendant's witnesses being guilty <hi rend="italic">inter
               alia</hi> of housebreaking (<foreign lang="greek">τοιχωρυχία</foreign>). Thalheim,
@@ -7916,8 +7916,8 @@
             <foreign lang="greek">πονηρῷ καὶ φιλαπεχθήμονι καὶ θεοῖς ἐχθρῷ</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">καίτοιτούτοις</lemma> a fortuitous
             hexameter.</p>
-        </div2>
-        <div2 type="section" n="38">
+        </div>
+        <div type="section" n="38">
           <p>&sect;&sect; 38&mdash;41. <hi rend="italic">I must warn you that Conon will
               try to impose upon you by swearing by the lives of his own sons and by other strange
               imprecations. His recklessness about oaths is proved by what I have heard of the
@@ -7979,8 +7979,8 @@
           <p><lemma lang="greek" targOrder="U">πρὸς τὸν βίονπιστεύειν</lemma>
             &lsquo;You must look to his life and character, and <hi rend="italic">then</hi>
             believe him (if you can).&rsquo; </p>
-        </div2>
-        <div2 type="section" n="39">
+        </div>
+        <div type="section" n="39">
           <p><lemma lang="greek" targOrder="U">πρὸς τὰ τοιαῦτα</lemma> sc. <foreign lang="greek">ὅρκους</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">πέπυσμαιἀνάγκης</lemma> i.e. the
             defendant has forced theenquiry upon me (cf. &sect; 17 fin. <foreign lang="greek">ἀνάγκη</foreign>...).</p>
@@ -8061,8 +8061,8 @@
             &lsquo;than anything else in the world.&rsquo; <bibl n="Dem. 56.15">Or. 56
               &sect; 15</bibl>
             <foreign lang="greek">οὐδέν γε μᾶλλον ἢ ὁτιοῦν</foreign>. </p>
-        </div2>
-        <div2 type="section" n="40">
+        </div>
+        <div type="section" n="40">
           <p><lemma lang="greek" targOrder="U">οὐ δὴ ..οὐδὲ πολλοῦ δεῖ</lemma> Here, as usual
             in this phrase, <foreign lang="greek">οὐδὲ</foreign> reiterates the preceding negation
               (<foreign lang="greek">οὐ δὴ</foreign>), but does not negative <foreign lang="greek">πολλοῦ δεῖ</foreign> although closely pronounced with it. (Cf. Fals. Leg.
@@ -8167,8 +8167,8 @@
               <foreign lang="greek">κατα-</foreign> cf. <foreign lang="greek">καταρρᾳθυμεῖν</foreign> (&lsquo;to lose by negligence&rsquo;) in <bibl n="Dem. 4.7">Or. 4 &sect; 7</bibl>
             <foreign lang="greek">τὰ κατερρᾳθυμημένα πάλιν ἀναλήψεσθε</foreign>, and <foreign lang="greek">κατεπᾴδειν</foreign>, &lsquo;to subdue by charming&rsquo; (Pl.
             Gorg. 483 E). </p>
-        </div2>
-        <div2 type="section" n="41">
+        </div>
+        <div type="section" n="41">
           <p><lemma lang="greek" targOrder="U">τῶν περιεστηκότων</lemma> Aeschin. Ctesiph.
             &sect; 56 <foreign lang="greek">ἀποκρίνομαι ἐναντίον σοι τῶν δικαστῶν καὶ
               τῶν ἄλλων πολιτῶν ὅσοι δὴ ἔξωθεν περιεστᾶσι</foreign>, and Dem. de Cor.
@@ -8194,8 +8194,8 @@
             forswear myself&rsquo;&mdash; or (as we should put it)&mdash;&lsquo;say
             so <hi rend="italic">till he bursts.</hi>&rsquo; De Cor. &sect; 21 <foreign lang="greek">ὁ σὸς κοινωνὸς, οὐχ ὁ ἐμὸς, οὐδ’ ἂν σὺ διαρραγῇς
               ψευδόμενος</foreign>.</p>
-        </div2>
-        <div2 type="section" n="42">
+        </div>
+        <div type="section" n="42">
           <p>&sect;&sect; 42&mdash;43. <title>This is no private interest of myself
               alone; Conon will appeal to the compassion of the jury, though the victim of such an
               outrage deserves their pity, rather than its perpetrators. I therefore claim from the
@@ -8226,8 +8226,8 @@
               ἐπ’ αδήλοις τοῖς ἀδικήσουσιν</foreign>. P.]</p>
           <p><lemma lang="greek" targOrder="U">μήτ’ ἔθους...φροντίζοντας</lemma> Cf. &sect;
             40 <foreign lang="greek">ὦν μὴ νομίζετε</foreign>. </p>
-        </div2>
-        <div2 type="section" n="43">
+        </div>
+        <div type="section" n="43">
           <p><lemma lang="greek" targOrder="U">δεήσεται καὶ κλαήσει</lemma>
             <bibl n="Dem. 30.32">Or. 30 &sect; 32</bibl>
             <foreign lang="greek">ἀναβὰς ἐπὶ τὸ δικαστήριον ἐδεῖτο, ἱκετεύων ὑπὲρ
@@ -8240,8 +8240,8 @@
           <p><lemma lang="greek" targOrder="U">ἂν μὲν ἀφιῆτε κ.τ.λ.</lemma> Isocr. <foreign lang="greek">κατὰ Λοχίτου</foreign> (<foreign lang="greek">αἰκείας</foreign>),
             &sect; 18 <foreign lang="greek">τοὺς ἄλλους πολίτας κοσμιωτέρους ποιήσετε καὶ
               τὸν βίον τὸν ὑμέτερον αὐτῶν ἀσφαλέστερον καταστήσετε</foreign>.</p>
-        </div2>
-        <div2 type="section" n="44">
+        </div>
+        <div type="section" n="44">
           <p>&sect; 44. <title>I might say much of the public services of my family, and show
               that my opponents have done you no such service. But time would not suffice, nor is
               this the point at issue. For even supposing we were ever so inferior to our opponents,
@@ -8275,10 +8275,10 @@
               <foreign lang="greek">ὁ ἐπίλογός ἐστιν οὐδὲ δικανικοῦ</foreign> (<foreign lang="greek">λόγου</foreign>) <foreign lang="greek">παντὸς, οἷον ἐὰν μικρὸς ὁ
               λόγος καὶ τὸ πρᾶγμα εὐμνημόνευτον</foreign>. <pb/>
           </p>
-        </div2>
-      </div1>
-      <div1 type="speech" n="55">
-        <div2 type="section" n="0">
+        </div>
+      </div>
+      <div type="speech" n="55">
+        <div type="section" n="0">
           <p><lemma lang="greek" targOrder="U">συνίστησιν</lemma> The word is. used in late Greek
             in the sense &lsquo;to give proof of,&rsquo; e.g. Polyb. III 101 &sect; 4
               <foreign lang="greek">ἐπειρᾶτο συνιστἀνειν ὅτι</foreign>... We may therefore
@@ -8288,8 +8288,8 @@
             &sect;&sect; 23&mdash; 26. Dem. <bibl n="Dem. 13.12">Or. 13 &sect;
               12</bibl>
             <foreign lang="greek">διέσυρε</foreign> (&lsquo;depreciated&rsquo;) <foreign lang="greek">τὰ παρόντα καὶ τοὺς προγόνους ἐπῄνεσε</foreign>.</p>
-        </div2>
-        <div2 type="section" n="1">
+        </div>
+        <div type="section" n="1">
           <p>&sect;&sect; 1, 2. <title>There is really no greater nuisance, gentlemen, than
               a greedy neighbour, as I have found to my cost in the case of the plaintiff Callicles.
               He has set his heart upon my property, and has therefore by every legal means, direct
@@ -8321,8 +8321,8 @@
             most commonly takes an accusative, e.g. &sect; 34 <foreign lang="greek">τὸν
               ἀνεψιὸν κατεσκεύασε</foreign>, <bibl n="Dem. 54.14">Or. 54 &sect; 14</bibl>.
           </p>
-        </div2>
-        <div2 type="section" n="2">
+        </div>
+        <div type="section" n="2">
           <p><lemma lang="greek" targOrder="U">σκευωρίας</lemma> &lsquo;intrigue,
             jobbery.&rsquo; <bibl n="Dem. 36.33">Or. 36 &sect; 33</bibl>
             <foreign lang="greek">πλάσμα καὶ σκευώρημα</foreign>.</p>
@@ -8349,8 +8349,8 @@
           <p><lemma lang="greek" targOrder="U">Καλλικράτην</lemma> On the part taken in these
             lawsuits by Callicrates, the brother of the plaintiff Callicles, see A. Schaefer,
               <title>Dcm. u. s. Zeit</title> III 2, p. 254 note. </p>
-        </div2>
-        <div2 type="section" n="3">
+        </div>
+        <div type="section" n="3">
           <p>&sect;&sect; 3&mdash;7. (<hi rend="italic">My opponents bring an action for
               damages on the ground that the building of a wall enclosing my property has stopped a
               water-course, and thus diverted the drainage of the surrounding hills on to the
@@ -8381,8 +8381,8 @@
           <p><lemma lang="greek" targOrder="U">ἀνδρὸς ἤδη</lemma> Having attained to man's
             estate and being resident at Athens, Callicles might have brought an action long ago, if
             he felt himself aggrieved. P.] </p>
-        </div2>
-        <div2 type="section" n="4">
+        </div>
+        <div type="section" n="4">
           <p><lemma lang="greek" targOrder="U">ἐπιβιόντος</lemma> Here, and elsewhere (Or. 41
             &sect;&sect; 18, 19; Plat. Rep. 615 C, Aeschin. 1 &sect; 5) the MSS give the
             incorrect form <foreign lang="greek">-βιοῦντος</foreign>, instead of the true form of
@@ -8426,8 +8426,8 @@
             It must not be confounded with <foreign lang="greek">διεμαρτύρησε</foreign>,
             &lsquo;put in a <foreign lang="greek">διαμαρτυρία</foreign>&rsquo; (see Meier
             and Schomann, p. 842 Lips.). </p>
-        </div2>
-        <div2 type="section" n="5">
+        </div>
+        <div type="section" n="5">
           <p><lemma lang="greek" targOrder="U">ἐξῆν</lemma> As usual, without <foreign lang="greek">ἄν</foreign>. See note on <foreign lang="greek">ἐχρῆν</foreign>
             <bibl n="Dem. 45.17">Or. 45 &sect; 17</bibl>, followed, as here, by <foreign lang="greek">ἵνα</foreign> with the indicative.</p>
           <p><lemma lang="greek" targOrder="U">ὑμῖν</lemma> &lsquo;You and yours,&rsquo;
@@ -8493,8 +8493,8 @@
           <p><lemma lang="greek" targOrder="U">εἶχες</lemma> without <foreign lang="greek">ἂν</foreign>, being dependent on <foreign lang="greek">ἵνα</foreign>, like the
             preceding <foreign lang="greek">ἦν</foreign>. &lsquo;<title>intelligendum de
               Callicle, qui si tale quid olim factum esset, testibus</title> nunc <hi rend="italic">uti posset.</hi>&rsquo; G. H. Schaefer. </p>
-        </div2>
-        <div2 type="section" n="6">
+        </div>
+        <div type="section" n="6">
           <p><lemma lang="greek" targOrder="U">ἐπιδεῖξαι ... χαράδραν οὖσαν</lemma> &sect;
             12 <foreign lang="greek">ἐγὼ ἀποδείξω χωρίον ὂν τοῦτ’ ἀλλ’ οὐ
               χαράδραν</foreign>.</p>
@@ -8505,8 +8505,8 @@
               9</bibl>) are not to be taken with <foreign lang="greek">ἀδικοῦντα</foreign>.&mdash;In the next sentence <foreign lang="greek">οὐδεὶς</foreign> means <foreign lang="greek">οὐδεὶς ὑμῶν</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">ἐρήμην...κατεδιῃτήσασθε</lemma> See &sect; 2.
           </p>
-        </div2>
-        <div2 type="section" n="7">
+        </div>
+        <div type="section" n="7">
           <p><lemma lang="greek" targOrder="U">εἰ ἠνέγκατεἐπεμαρτύρασθε,
               νῦν</lemma> If we retain these words, <foreign lang="greek">ἐκεῖνος</foreign> will
             refer to <foreign lang="greek">ὁ μάρτυς</foreign>. If (with the best MSS) weomit them,
@@ -8542,8 +8542,8 @@
               <title>Gk Synt.</title> &sect; 158 2 (3).&mdash; <foreign lang="greek">ταῦτ’</foreign>, acc after <foreign lang="greek">ἠδικημένοις.
               περιορᾶν</foreign>, a verb characteristic of Greek prose and comedy (Porson on Eur.
             Med. 284 and Cobet <hi rend="italic">var. lect.</hi> p. 338).</p>
-        </div2>
-        <div2 type="section" n="8">
+        </div>
+        <div type="section" n="8">
           <p>&sect;&sect; 8, 9. <title>I contend that my father had a perfect right to build
               the enclosure, as even the plaintiff himself admits that the land is our own property.
               This being admitted, a personal inspection would in itself have sufficed to show the
@@ -8571,8 +8571,8 @@
               dicitur tamen etiam &lsquo;suum pioprium illius,&rsquo; ut non putetur
               abundare &lsquo;suum,&rsquo; sed indubitabilem discretionem
               significare.</quote> Priscian, <title>Instit.</title> p. 1089 &mdash;90. </p>
-        </div2>
-        <div2 type="section" n="9">
+        </div>
+        <div type="section" n="9">
           <p><lemma lang="greek" targOrder="U">τούτου δ’ ὑπάρχοντος</lemma> &lsquo;this being
             admitted,&rsquo; &lsquo;with this fact to begin upon.&rsquo; Plat. Tim. p.
             29 A <foreign lang="greek">τούτων υπαρχόντων</foreign> = <foreign lang="greek">τούτων
@@ -8604,8 +8604,8 @@
             naturally endeavours to compensate for that disadvantage by giving his audience a
             distinct description of the relative situation of the properties of the contending
             parties. [In modern courts a map or plan made by a surveyor would be produced. P.]</p>
-        </div2>
-        <div2 type="section" n="10">
+        </div>
+        <div type="section" n="10">
           <p>&sect;&sect; 10, 11. <hi rend="italic">The estate of my opponents is separated
               from my own by a public road, and both are surrounded by a tract of mountainous
               country. Thus, the drainage from the hills flows partly into our properties, partly on
@@ -8667,8 +8667,8 @@
             it must of course overflow the properties.&rsquo; <foreign lang="greek">τηνικαῦτα</foreign>, though almost always used of <hi rend="italic">time,</hi>
             occasionally (as here after <foreign lang="greek">ἧ?</foreign>, which indicates <hi rend="italic">place</hi>) bears a more general meaning, &lsquo;in that
             case,&rsquo; &lsquo;under these circumstances.&rsquo; </p>
-        </div2>
-        <div2 type="section" n="11">
+        </div>
+        <div type="section" n="11">
           <p><lemma lang="greek" targOrder="U">ἀμεληθὲν</lemma> It seems best to regard this as an
             accusative neuter <hi rend="italic">absolute</hi> (&lsquo;neglect having
             ensued&rsquo;), and not to take it with <foreign lang="greek">τὸ ὕδωρ</foreign>,
@@ -8732,8 +8732,8 @@
             give the name <foreign lang="greek">αἱμασιὰς</foreign> to the walls built to support
             the artificial terraces of earth on the hillsides of the Morea (Ross,
               <title>Archaeologische Aufsaetze,</title> II 500).</p>
-        </div2>
-        <div2 type="section" n="12">
+        </div>
+        <div type="section" n="12">
           <p>&sect;&sect; 12&mdash;15. <hi rend="italic">The plaintiff contends I have
               damaged his estate by obstructing &lsquo;the water-course.&rsquo; In reply, I
               shall prove that what he calls a water-course is no such thing, but really part of our
@@ -8755,8 +8755,8 @@
             ad Dem. &sect; 2 <foreign lang="greek">τῶν σπουδαίων ἀλλὰ μὴ τῶν φαύλων
               εἶναι μιμητάς.</foreign>
           </p>
-        </div2>
-        <div2 type="section" n="13">
+        </div>
+        <div type="section" n="13">
           <p>
             <foreign lang="greek">εἰ μὴ συνεχωρεῖτο ἴδιον εἶναι, τάχ’ ἂν ἠδικοῦμεν, εἴ
               τι τῶν</foreign>
@@ -8786,15 +8786,15 @@
             of this speech), is of course not meant to apply to <hi rend="italic">all</hi> the tombs
             subsequently mentioned (&sect; 14). Some of them were there even before the land
             came into the speaker's possession. </p>
-        </div2>
-        <div2 type="section" n="14">
+        </div>
+        <div type="section" n="14">
           <p><lemma lang="greek" targOrder="U">καὶ γὰρ...καὶ</lemma> &lsquo;for not only .
             .but.&rsquo; A frequentidiom, though one but little observed. P.]</p>
           <p><lemma lang="greek" targOrder="U">τούτων ὑπαρχόντων</lemma> Cf. &sect; 9 <hi rend="italic">init.</hi>
             <pb n="259"/>
           </p>
-        </div2>
-        <div2 type="section" n="15">
+        </div>
+        <div type="section" n="15">
           <p><lemma lang="greek" targOrder="U">ἆρ’</lemma> We should expect <foreign lang="greek">ἆρ’ οὐχ</foreign>, which, like <hi rend="italic">nonne,</hi> distinctly implies an
             affirmative answer, But <foreign lang="greek">ἆρα</foreign> is not unfrequently used
             alone, to denote a simple interrogation, the context showing whether a negative or, as
@@ -8807,8 +8807,8 @@
             private property.&mdash;<lemma lang="greek" targOrder="U">τἄλλ· ἅπερ</lemma> The
             speaker does not specify what is included in this <hi rend="italic">et cete<foreign lang="greek">τ</foreign>a,</hi> but the depositions probably went into further
             detail.</p>
-        </div2>
-        <div2 type="section" n="16">
+        </div>
+        <div type="section" n="16">
           <p>&sect;&sect; 16&mdash;18. <hi rend="italic">The plaintiff speaks of the
               stoppage of a watercourse. Now, firstly, I don't suppose that in the whole of Attica
               there is such a thing as a water-course by the side of a public road. The water would
@@ -8858,8 +8858,8 @@
             other forms, <foreign lang="greek">βαδίσω</foreign> and <foreign lang="greek">βαδίω</foreign>, are characteristic of the worst Greek, <hi rend="italic">extrema
               bai baries</hi> (Cobet, <hi rend="italic">var. lect.</hi> 329). <pb n="261"/>
           </p>
-        </div2>
-        <div2 type="section" n="17">
+        </div>
+        <div type="section" n="17">
           <p><lemma lang="greek" targOrder="U">αὐτὸ τοὐναντίον</lemma> &lsquo;on the very
             contrary,&rsquo; so also in Or. 22 (Androt.) &sect; 6.&mdash;<foreign lang="greek">ἂν τοὐναντίον</foreign> was the common text until corrected hy
             Reiske, on the authority of two MSS and the margin of S; hut the correction is so
@@ -8891,8 +8891,8 @@
             future than <foreign lang="greek">καλῶ</foreign> (<hi rend="italic">var. lect.</hi> 28,
             29). <pb n="262"/>
           </p>
-        </div2>
-        <div2 type="section" n="18">
+        </div>
+        <div type="section" n="18">
           <p><lemma lang="greek" targOrder="U">ἦ που</lemma> &lsquo;Surely, I should scarcely
             be rash enough to turn it on to my neighbour's land&rsquo;; &mdash;&lsquo;I
             should be a very rash man indeed to do so.&rsquo; For this slightly ironical use of
@@ -8941,8 +8941,8 @@
             effectiveness of the sentence, but fails to draw attention to its humour. It is also
             quoted by Aelian, <title>Ep.</title> 6 p. 18 Hercher, <foreign lang="greek">οὐ γὰρ
               δήπου κελεύεις ἡμᾶς ἐκπιεῖν αὐτό</foreign>.</p>
-        </div2>
-        <div2 type="section" n="19">
+        </div>
+        <div type="section" n="19">
           <p>&sect; 19. <hi rend="italic">Now had there been a water-course below my property,
               to take off the drainage, I might have been doing wrong in refusing to let the water
               into my land; but, as it is, the watercourse alleged is neither passed down to me by
@@ -8985,8 +8985,8 @@
           <p><lemma lang="greek" targOrder="U">τοὺς χειμάρρους</lemma> here
             &lsquo;waterdrains,&rsquo; &lsquo;gutters,&rsquo; like <foreign lang="greek">ὑδρορρόα</foreign> Ar. Ach. 922. The word has lost all trace of its
             primary meaning &lsquo;a winter torrent.&rsquo;</p>
-        </div2>
-        <div2 type="section" n="20">
+        </div>
+        <div type="section" n="20">
           <p>&sect; 20. <hi rend="italic">The fact is, that simply owing to the plaintiff's own
               carelessness, he has suffeied from a flood, as others have before him; and the
               strangest inconsistency of all is, that the plaintiff, while he himself brings to the
@@ -9023,8 +9023,8 @@
             Kuhner &sect; 419, 12.</p>
           <p><lemma lang="greek" targOrder="U">οὐδὲ πολλαπλάσια</lemma> So in &sect; 35 the
             defendant speaks of his <foreign lang="greek">μικρὰ οὐσία</foreign>.</p>
-        </div2>
-        <div2 type="section" n="21">
+        </div>
+        <div type="section" n="21">
           <p>&sect; 21. <title>If all my neighbours were to treat me as the plaintiff has done,
               I should soon be a ruined man. But while the rest, who have had great losses, are
               content to bear their misfortune, my present opponents alone, who have lost nothing to
@@ -9073,8 +9073,8 @@
             13 &sect; 62). Both meanings are combined in Thuc. I 83 &sect; 3 <foreign lang="greek">τῶν άποβαινόντων τὸ πλέον ἐπ’ άμφότερα αἰτίας
               ἕξομεν</foreign> (note on Isocr. Paneg. &sect; 109). <foreign lang="greek">αἰτίαν ἔχειν</foreign> is &lsquo;the usual passive of <foreign lang="greek">αἰτιᾶσθαι</foreign>&rsquo; (Wayte on T&lt;*&gt;mocr. &sect;
             187).</p>
-        </div2>
-        <div2 type="section" n="22">
+        </div>
+        <div type="section" n="22">
           <p>&sect; 22. <title>The plaintiff has himself done wrong by advancing his wall and
               thus narrowing the road, and by shooting his rubbish on to the road and thus raising
               its level.</title>
@@ -9150,8 +9150,8 @@
               54).&mdash;<foreign lang="greek">αὐτίκα</foreign>, sc. at the end of &sect;
               27.&mdash;<foreign lang="greek">τηλικαύτην δίκην</foreign>, Cf. &sect; 25
               <foreign lang="greek">χιλίων δραχμῶν δίκην</foreign>.</p>
-        </div2>
-        <div2 type="section" n="23">
+        </div>
+        <div type="section" n="23">
           <p>&sect;&sect; 23&mdash;25. <title>The actual loss sustained was very
               trifling, as I know on good authority; andas for the old wall which he makes out he
               was compelled to repair, that must not be put to my account, since the wall neither
@@ -9163,8 +9163,8 @@
             35 (Lacrit.) &sect; 6 <foreign lang="greek">ἐπιτήδειοί μοί εἰσι καὶ χρώμεθ’
               άλλήλοις.τῶν ἀνδρῶν</foreign>, &lsquo;their husbands.&rsquo;
           </p>
-        </div2>
-        <div2 type="section" n="24">
+        </div>
+        <div type="section" n="24">
           <p><lemma lang="greek" targOrder="U">ἐκείνης</lemma> sc. <foreign lang="greek">τῆς
               τούτων μητρός</foreign>.</p>
           <p><lemma lang="greek" targOrder="U">οὕτωγένοιτο</lemma>
@@ -9186,8 +9186,8 @@
             barley.&rsquo; The <foreign lang="greek">μέδιμνος</foreign> = six <foreign lang="greek">ἑκτεῖς</foreign> = six <hi rend="italic">modi&lt;*&gt;</hi> =
             about 12 gallons, or a bushel and a half.&mdash;<foreign lang="greek">κεράμιον</foreign> used like the Roman <hi rend="italic">amphora</hi> as a liquid
             measure = about six gallons or two-thirds of the Greek <foreign lang="greek">ἀμφορεύς</foreign> (<foreign lang="greek">μετρητής</foreign>). </p>
-        </div2>
-        <div2 type="section" n="25">
+        </div>
+        <div type="section" n="25">
           <p><lemma lang="greek" targOrder="U">χιλίων δραχμῶν δίκην ἀτίμητον</lemma> See note
             on &sect; 18.</p>
           <p><lemma lang="greek" targOrder="U">ἐπῳκοδόμησεν</lemma> (cf. <foreign lang="greek">ἐπισκευάζειν</foreign>) refers to repairing the old wall.</p>
@@ -9196,8 +9196,8 @@
               μήτε</foreign>... would in Latin be represented by <foreign lang="la">quod nec
               cecidisset nec..</foreign>
           </p>
-        </div2>
-        <div2 type="section" n="26">
+        </div>
+        <div type="section" n="26">
           <p>&sect;&sect; 26, 27. <title>Summary of previous arguments, and calling of
               witnesses.</title>
             <pb n="270"/></p>
@@ -9208,15 +9208,15 @@
             but masc. &lsquo;they have not incurred the damage they allege.&rsquo;
             &sect; 21 <foreign lang="greek">πολλῶν πολλὰ καὶ μεγάλα βεβλαμμένων</foreign>.
           </p>
-        </div2>
-        <div2 type="section" n="27">
+        </div>
+        <div type="section" n="27">
           <p><lemma lang="greek" targOrder="U">χλῆδον</lemma> See note on &sect; 22.</p>
           <p><lemma lang="greek" targOrder="U">ὅρκον ἐδίδουν</lemma> &lsquo;offered an
             oath&rsquo; in the sense of &lsquo;proposed to administer an oath.&rsquo; On
               <foreign lang="greek">ὅρκον διδόναι καὶ λαμβάνειν</foreign>, see esp. Arist.
             Rhet. I 15 &sect; 27&mdash;33, and cf. Wyse on Isaeus 12 &sect; 9.</p>
-        </div2>
-        <div2 type="section" n="28">
+        </div>
+        <div type="section" n="28">
           <p>&sect;&sect; 28&mdash;30. <hi rend="italic">My opponents, after having
               themselves advanced their wall and raised the road's level, are most shamelessly suing
               the very victims of their own wrong, for a penalty of a thousand drachmae, while their
@@ -9247,8 +9247,8 @@
           <p><lemma lang="greek" targOrder="U">τὰς βλάβας κομίζεσθαι</lemma> &lsquo;to
             recover the damages.&rsquo;&mdash;<foreign lang="greek">μετεωροτέρας</foreign>
             = <foreign lang="greek">ὑψηλοτέρας</foreign>, cf. &sect; 22. </p>
-        </div2>
-        <div2 type="section" n="29">
+        </div>
+        <div type="section" n="29">
           <p><lemma lang="greek" targOrder="U">περίεστιν</lemma> More commonly with a genitive: but
             cf. Mid. &sect; 17 <foreign lang="greek">οὐδ’ ἐνταῦθ’ ἔστη τῆς ὕβρεως,
               άλλὰ τοσοῦτον αὐτῷ περιῆν ὥστε τὸν ἄρχοντα διέφθειρε</foreign>.</p>
@@ -9270,8 +9270,8 @@
             <gloss lang="la">Posses <foreign lang="greek">παροικοδ</foreign>. bis: sed cave facias.
               construe <foreign lang="greek">ἠδίκει ὑμᾶς περιοικοδομῶν</foreign></gloss>
               &lsquo;<emph>by</emph> hedging in&rsquo; etc. Dobree. </p>
-        </div2>
-        <div2 type="section" n="30">
+        </div>
+        <div type="section" n="30">
           <p><lemma lang="greek" targOrder="U">ἀποικοδομηθέντος</lemma> Genitive neuter absolute.
             We cannot understand either <foreign lang="greek">τοῦ ὔδατος</foreign> or <foreign lang="greek">τοῦ χωρίου</foreign>. <title>Malim</title>
             <foreign lang="greek">ἀποικοδομηθέν</foreign>, says Dobree.&mdash;<foreign lang="greek">στέρξω</foreign>, see &sect; 22.</p>
@@ -9279,8 +9279,8 @@
             infatuated,&rsquo; &lsquo;having his judgment (or reason) impaired by some
             malady,&rsquo; contrasted with <foreign lang="greek">σωφρονεῖν</foreign> in the
             previous clause. </p>
-        </div2>
-        <div2 type="section" n="31">
+        </div>
+        <div type="section" n="31">
           <p>&sect;&sect; 31, 32. The plaintiff's assurance in bringing false charges
             against me is only of a piece with his producing a forged document on a former occasion,
             when he prompted his cousin to claim my land. Apart from this, simply to spite me
@@ -9304,8 +9304,8 @@
             indictment the name of Callarus, one of my slaves; [for the same action could not be
             brought twice in the same name. P.]</p>
           <p>For another use of <foreign lang="greek">ἐπιγράφεσθαι</foreign>, cf. <bibl n="Dem. 54.31">Or. 54 &sect; 31</bibl>. </p>
-        </div2>
-        <div2 type="section" n="32">
+        </div>
+        <div type="section" n="32">
           <p><lemma lang="greek" targOrder="U">ὑπὲρ ὧν κ τ.λ.</lemma> = <foreign lang="greek">δικάζονται ὑπὲρ τούτων ἃ ἔφραξεν ὁ πατὴρ καὶ πλέον ἢ πεντεκαίδεκα
               ἔτη ἐπεβίω</foreign>. See esp. notes on <bibl n="Dem. 45.27">Or. 45 &sect;
               27</bibl>
@@ -9315,14 +9315,14 @@
             verdict of condemnation adjudging the property to them.</p>
           <p><lemma lang="greek" targOrder="U">διαλύσεις</lemma> &lsquo;compromises,&rsquo;
             &lsquo;settlements.&rsquo; <pb n="274"/></p>
-        </div2>
-        <div2 type="section" n="33">
+        </div>
+        <div type="section" n="33">
           <p>&sect;&sect; 33, 34. <title>Now if conspiracy and paltry persecution are to win
               the day, my words are merely wasted. But if you detest such conduct and intend to give
               a just verdict on the ground that neither my father nor my servant has done any damage
               or wrong to the plaintiff, then I have already said enough.</title></p>
-        </div2>
-        <div2 type="section" n="35">
+        </div>
+        <div type="section" n="35">
           <p>&sect; 35. <title>Lastly, I entreat the jury not to sacrifice me to my opponents,
               when I have done them no wrong. It is not so much the penalty that I care for, hard
               though that is for a poor man to pay, but they want to turn me out of the parish by
@@ -9352,8 +9352,8 @@
           <p><lemma lang="greek" targOrder="U">τοῖς αὐτοῖς ὑμῖν ὀμωμοκόσιν</lemma>
             &lsquo;to you who are yourselves on oath&rsquo;; &lsquo;<gloss lang="la">vobis iudicibus qui et ipsi iurastis.</gloss>&rsquo; Seager, <title>Classical
               Journal,</title> 1825, no. 61, p. 63.</p>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI.2>

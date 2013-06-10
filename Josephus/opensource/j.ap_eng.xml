@@ -92,7 +92,7 @@ Added to repository.
 </teiHeader>
 <text>
 <body>
-<div1 type="Book" n="1">
+<div type="book" n="1">
 <head>BOOK I</head>
 <milestone n="1" unit="Whiston section"/><milestone n="1" unit="section"/><p><note anchored="yes" resp="ed">This first book has a wrong title. It is not written against Apion, as
 is the first part of the second book, but against those Greeks in general
@@ -1738,8 +1738,8 @@ why should a man say any more to a person who tells such impudent lies?
 However, since this book is arisen to a competent length, I will make another
 beginning, and endeavor to add what still remains to perfect my design
 in the following book.</p>
-</div1>
-<div1 type="Book" n="2">
+</div>
+<div type="book" n="2">
 <head>BOOK II</head>
 <milestone n="1" unit="Whiston section"/><milestone n="1" unit="section"/><p>IN the former book, most honored Epaphroditus, I have demonstrated
 our antiquity, and confirmed the truth of what I have said, from the writings
@@ -3258,5 +3258,5 @@ with all the rest of those that delight in lies and reproaches, stand confuted;
 but let this and the foregoing book be dedicated to thee, Epaphroditus,
 who art so great a lover of truth, and by thy means to those that have
 been in like manner desirous to be acquainted with the affairs of our nation.</p>
-</div1>
+</div>
 </body></text></TEI.2>

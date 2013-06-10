@@ -112,7 +112,7 @@ get the English version going; more proofreading on the Latin
 
 	<text>
 		<body>
-			<div1 n="1" type="book">
+			<div n="1" type="book">
 				<head>CAESAR'S COMMENTARIES OF THE CIVIL WAR. </head>
 				<argument>
 					<list type="simple">
@@ -188,7 +188,7 @@ get the English version going; more proofreading on the Latin
                             Caesar's terms. </item>
 					</list>
 				</argument>
-				<div2 n="0" id="b1c0" type="chapter">
+				<div n="0" id="b1c0" type="chapter">
 					<head>THE SUPPLEMENT of DIONYSIUS VOSSIUS TO CAESAR'S FIRST BOOK of THE CIVIL WAR. </head>
 					<p>I think it needless to say any thing here, in opposition to those who
                         pretend, that the following Commentaries, concerning the Civil War, were not
@@ -246,8 +246,8 @@ get the English version going; more proofreading on the Latin
                         it but in full senate, and when the tribunes of the people were present: for
                         he was apprehensive, should he do otherwise, that the consuls would suppress
                         it. </p>
-				</div2>
-				<div2 n="1" id="b1c1" type="chapter">
+				</div>
+				<div n="1" id="b1c1" type="chapter">
 					<p>Caesar's letter being delivered to the consuls, the tribunes, with much
                         difficulty, procured it a reading in the senate; but could by no means
                         prevail to have his demands brought under deliberation. The consuls proposed
@@ -262,8 +262,8 @@ get the English version going; more proofreading on the Latin
                         him; but if they cooled, or were remiss in their resolves, it would be in
                         vain for them to expect his aid, if they saw cause afterwards to apply for
                         it."</p>
-				</div2>
-				<div2 n="2" id="b1c2" type="chapter">
+				</div>
+				<div n="2" id="b1c2" type="chapter">
 					<p> This speech of Scipio, as the senate was held in the city, and Pompey
                         resided in the suburbs, was considered as coming from Pompey's own mouth.
                         Some were for following milder counsels, of which number was M. Marcellus,
@@ -288,8 +288,8 @@ get the English version going; more proofreading on the Latin
                         of their interposition. Many severe speeches were made against them; and the
                         more warm and passionate any one appeared, the more was he applauded by
                         Caesar's enemies. </p>
-				</div2>
-				<div2 n="3" id="b1c3" type="chapter">
+				</div>
+				<div n="3" id="b1c3" type="chapter">
 					<p>In the evening the senate rose; and Pompey sending for all those of his
                         party, commended the forward; confirmed them in their resolutions; reproved
                         and animated the more moderate. Multitudes of veterans, who had formerly
@@ -305,8 +305,8 @@ get the English version going; more proofreading on the Latin
                         and acquaint Caesar with the state of affairs, demanding only six days for
                         that purpose. Some were for sending deputies to him, to inform him of the
                         senate's disposition. </p>
-				</div2>
-				<div2 n="4" id="b1c4" type="chapter">
+				</div>
+				<div n="4" id="b1c4" type="chapter">
 					<p>But all these proposals were rejected, because the consul, Scipio, and Cato,
                         declared against them. Cato was incited by the remembrance of an old
                         quarrel, and the disappointment he had sustained in standing candidate for
@@ -327,8 +327,8 @@ get the English version going; more proofreading on the Latin
                         detaining, for the purposes of his own ambition, the two legions destined to
                         serve in <placeName key="tgn,1000004">Asia</placeName> and <placeName key="tgn,1000140">Syria</placeName>, determined him to use all his
                         endeavours to bring on a civil war, </p>
-				</div2>
-				<div2 n="5" id="b1c5" type="chapter">
+				</div>
+				<div n="5" id="b1c5" type="chapter">
 					<p>Thus nothing but tumult and violence was to be seen in the public debates.
                         Caesar's friends had no time given them to inform him of what passed. Even
                         the tribunes themselves were not exempt from danger, nor durst they have
@@ -351,8 +351,8 @@ get the English version going; more proofreading on the Latin
                         was then at <placeName key="perseus,Ravenna">Ravenna</placeName>, waiting an answer to his late
                         demands, whose equity he hoped would dispose all parties to entertain
                         thoughts of peace. </p>
-				</div2>
-				<div2 n="6" id="b1c6" type="chapter">
+				</div>
+				<div n="6" id="b1c6" type="chapter">
 					<p>The following days the senate assembled without the city, where Pompey
                         confirmed everything he had before intimated by the mouth of Scipio. He
                         applauded the resolution and courage of the senators, acquainted them with
@@ -377,8 +377,8 @@ get the English version going; more proofreading on the Latin
                         were levied over all <placeName key="tgn,1000080">Italy</placeName>, arms enjoined, money demanded of
                         the colonies and free towns, and even taken from the very temples; in fine,
                         neither divine nor human rights were regarded. </p>
-				</div2>
-				<div2 n="7" id="b1c7" type="chapter">
+				</div>
+				<div n="7" id="b1c7" type="chapter">
 					<p>Caesar having intelligence of these proceedings, addressed himself to his
                         troops: "He took notice of the many injuries he had received on all
                         occasions from his enemies, who had alienated Pompey from him, by filling
@@ -406,8 +406,8 @@ get the English version going; more proofreading on the Latin
                         troubles, (the rest not being yet arrived,) cried out, that they were
                         determined to maintain the honour of their general, and to revenge the
                         wrongs done to the tribunes. </p>
-				</div2>
-				<div2 n="8" id="b1c8" type="chapter">
+				</div>
+				<div n="8" id="b1c8" type="chapter">
 					<p>Being assured of the good will of the soldiers, he marched with that legion
                         to <placeName key="tgn,7004929">Rimini</placeName>, where he was met by the tribunes
                         of the people, who had fled to him for protection He ordered the other
@@ -424,8 +424,8 @@ get the English version going; more proofreading on the Latin
                         against his private enemies." He added something more to the same purpose,
                         mingled with excuses for Pompey. The pretor Roscius joined likewise in the
                         negotiation, declaring he was commissioned so to do. </p>
-				</div2>
-				<div2 n="9" id="b1c9" type="chapter">
+				</div>
+				<div n="9" id="b1c9" type="chapter">
 					<p>Though all this tended little to redress the injuries of which Caesar
                         complained, yet considering these as proper persons by whom to transmit his
                         thoughts, he begged of them, that as they had not scrupled to bring Pompey's
@@ -454,8 +454,8 @@ get the English version going; more proofreading on the Latin
                         oath, let either Pompey himself draw nearer; or suffer Ceesar to approach
                         him; as all their differences may be most easily terminated by a
                         conference." </p>
-				</div2>
-				<div2 n="10" id="b1c10" type="chapter">
+				</div>
+				<div n="10" id="b1c10" type="chapter">
 					<p>Roscius and L. Caesar, having received this answer, departed for <placeName key="perseus,Capua">Capua</placeName>, where they found Pompey and the
                         consuls, and laid before them Caesar's proposals. After deliberating upon
                         the affair, they sent a reply, in writing, by the same messengers, the
@@ -463,8 +463,8 @@ get the English version going; more proofreading on the Latin
                         conditions performed, Pompey would go into <placeName key="tgn,1000095">Spain</placeName>. In the meantime, till Caesar gave
                         security for the performance of what he had promised, neither Pompey nor the
                         consuls would discontinue the levies." </p>
-				</div2>
-				<div2 n="11" id="b1c11" type="chapter">
+				</div>
+				<div n="11" id="b1c11" type="chapter">
 					<p>It was, by no means, a fair proposal, that Caesar should be obliged to quite <placeName key="tgn,7004929">Rimini</placeName> and return to <placeName key="tgn,1000070">Gaul</placeName>, while Pompey held provinces and
                         legions that were none of his: that he should dismiss his army, whilst the
                         other was levying troops: and, that only a general promise of going into <placeName key="tgn,1000095">Spain</placeName> should be given, without fixing a
@@ -475,8 +475,8 @@ get the English version going; more proofreading on the Latin
                         himself at <placeName key="tgn,7004929">Rimini</placeName>, with two, where he resolved to
                         levy troops; and seizing <placeName key="perseus,Pisaurum">Pisaurum</placeName>, <placeName key="tgn,7003987">Fanum</placeName>, and <placeName key="perseus,Ancona">Ancona</placeName>, left a cohort in each for a
                         garrison. </p>
-				</div2>
-				<div2 n="12" id="b1c12" type="chapter">
+				</div>
+				<div n="12" id="b1c12" type="chapter">
 					<p>Meantime, being informed that Thermus the pretor had entered <placeName key="perseus,Iguvium">Iguvium</placeName>, with five cohorts, and was
                         endeavouring to fortify the town; as he knew the inhabitants to be well
                         inclined to his interest, he detached Curio thither, with three cohorts,
@@ -489,8 +489,8 @@ get the English version going; more proofreading on the Latin
                         garrison, and marched to <placeName key="perseus,Auximum">Auximum</placeName>, which Attius held with a body
                         of troops, and whence he had despatched senators to levy forces overall
                         Picenum.</p>
-				</div2>
-				<div2 n="13" id="b1c13" type="chapter">
+				</div>
+				<div n="13" id="b1c13" type="chapter">
 					<p> Caesar's arrival being known, the chief citizens of <placeName key="perseus,Auximum">Auximum</placeName> went in a body to Attius
                         Varus, and told him: " That it did not belong to them to determine on which
                         side justice lay; but that neither they, nor the other municipal towns,
@@ -504,8 +504,8 @@ get the English version going; more proofreading on the Latin
                         formerly held the same rank in Pompey's army. Caesar commended Attius's
                         soldiers: dismissed Papius: returned thanks to the inhabitants of <placeName key="perseus,Auximum">Auximum</placeName>; and promised to retain always
                         a grateful remembrance of their attachment. </p>
-				</div2>
-				<div2 n="14" id="b1c14" type="chapter">
+				</div>
+				<div n="14" id="b1c14" type="chapter">
 					<p>These things being reported at <placeName key="perseus,Rome">Rome</placeName>, the consternation was so great over
                         the whole city, that when the consul Lentulus came to the treasury, to
                         deliver out the money to Pompey, in consequence of the decree of the sepate,
@@ -522,8 +522,8 @@ get the English version going; more proofreading on the Latin
                         them their liberty, furnished them with horses, and commanded them to follow
                         him. But being afterwards admonished by his friends that this step was
                         universally condemned, he dispersed them into the neighbouring town of <placeName key="tgn,7003005">Campania</placeName>, to keep garrison there. </p>
-				</div2>
-				<div2 n="15" id="b1c15" type="chapter">
+				</div>
+				<div n="15" id="b1c15" type="chapter">
 					<p>Caesar meanwhile leaving <placeName key="perseus,Auximum">Auximum</placeName>, traversed the whole country
                         of Picenum; where he was joyfully received in all parts by the inhabitants,
                         who furnished his army with every thing necessary. Even Cingulum itself, a
@@ -546,8 +546,8 @@ get the English version going; more proofreading on the Latin
                         legions. Domitius had already got together, with great expedition, twenty
                         cohorts from Alba, the country of the Marsi, Peligni,and the neighbouring
                         provinces. </p>
-				</div2>
-				<div2 n="16" id="b1c16" type="chapter">
+				</div>
+				<div n="16" id="b1c16" type="chapter">
 					<p>Caesar having made himself master of <placeName key="perseus,Asculum">Asculum</placeName>, and obliged Lentulus to
                         retire, ordered the soldiers who had deserted him, to be sought after, and
                         new levies to be made. He remained only one day there, to settle what
@@ -557,8 +557,8 @@ get the English version going; more proofreading on the Latin
                         But Caesar's advanced parties attacking them, they quickly abandoned the
                         bridge, and retired to <placeName key="perseus,Corfinium">Corfinium</placeName>. Caesar having passed with
                         his legions, halted before the town, and encamped under the walls. </p>
-				</div2>
-				<div2 n="17" id="b1c17" type="chapter">
+				</div>
+				<div n="17" id="b1c17" type="chapter">
 					<p>Upon this, Domitius engaged, by great rewards,persons well acquainted with
                         the country, to carry letters into <placeName key="tgn,7010380">Apulia</placeName> to Pompey, wherein he earnestly
                         requested him to come to his aid. He told him, "That it would be easy, in
@@ -570,8 +570,8 @@ get the English version going; more proofreading on the Latin
                         and, the more to animate them, promised each soldier four acres of land out
                         of his own estate, and, in proportion, to every centurion and volunteer.
                     </p>
-				</div2>
-				<div2 n="18" id="b1c18" type="chapter">
+				</div>
+				<div n="18" id="b1c18" type="chapter">
 					<p>Meantime Caesar was informed that the people of <placeName key="tgn,7004202">Sulmona</placeName>, a town seven miles distant from <placeName key="perseus,Corfinium">Corfinium</placeName>, desired to put themselves
                         under his protection, but were restrained by Q. Lucretius, a senator, and
                         Attius, a Pelignian, who held them in subjection with a garrison ot seven
@@ -591,8 +591,8 @@ get the English version going; more proofreading on the Latin
                         side of the town, under the command of Curio. The remaning days were spent
                         in drawing a line with redoubts round the place, which work was nearly
                         completed when the messengers, that had been sent to Pompey, returned. </p>
-				</div2>
-				<div2 n="19" id="b1c19" type="chapter">
+				</div>
+				<div n="19" id="b1c19" type="chapter">
 					<p>Domitius, perusing the despatches, thought proper to dissemble the contents,
                         and declared, in council, that Pompey would speedily come to their
                         assistance. Meantime he exhorted them to behave with courage, and provide
@@ -608,8 +608,8 @@ get the English version going; more proofreading on the Latin
                         endeavour to extricate himself as well as he could, and come and join him
                         with all his forces." But as Caesar had invested and carried his lines round
                         the place, this retreat was now become impracticable. </p>
-				</div2>
-				<div2 n="20" id="b1c20" type="chapter">
+				</div>
+				<div n="20" id="b1c20" type="chapter">
 					<p>Domitius's design being discovered, the soldiers who were at <placeName key="perseus,Corfinium">Corfinium</placeName> began to assemble in the
                         evening, and, by means of their tribunes, centurions, and other officers,
                         made known their thoughts to one another: "That they were besieged by
@@ -625,8 +625,8 @@ get the English version going; more proofreading on the Latin
                         Domitius, secured his person, and sent deputies to Caesar: "That they were
                         ready to open their gates, receive his orders, and deliver up Domitius
                         alive." </p>
-				</div2>
-				<div2 n="21" id="b1c21" type="chapter">
+				</div>
+				<div n="21" id="b1c21" type="chapter">
 					<p>Though Caesar was fully sensible of how great importance it was to get
                         possession of the town immediately, and join the garrison to his own army;
                         lest by largesses, promises of speedy relief, or false reports, any change
@@ -645,8 +645,8 @@ get the English version going; more proofreading on the Latin
                         what would be the fate of the Corfinians, what of Domitius, what of
                         Lentulus, and the other illustrious persons in the place: in fine, what was
                         like to be the issue of so complicated a scene. </p>
-				</div2>
-				<div2 n="22" id="b1c22" type="chapter">
+				</div>
+				<div n="22" id="b1c22" type="chapter">
 					<p>About the fourth watch of the night, Lentulus Spinther called from the wall
                         to the guard, and desired to be conducted to Caesar. His request being
                         granted, he came out of the town, attended by some of Domitius's soldiers,
@@ -665,8 +665,8 @@ get the English version going; more proofreading on the Latin
                         his own safety, would contribute not a little to the consolation of others,
                         some of whom were so terrified, that they were ready to take desperate
                         resolutions." Leave being granted, he departed for the town. </p>
-				</div2>
-				<div2 n="23" id="b1c23" type="chapter">
+				</div>
+				<div n="23" id="b1c23" type="chapter">
 					<p>As soon as it was light, Caesar ordered before him all the senators,
                         senators' sons, military tribunes, and Roman knights. There were
                         ofsenatorian rank, L. Domitius, P. Lentulus Spinther, L. Vibullius Rufus,
@@ -686,8 +686,8 @@ get the English version going; more proofreading on the Latin
                         him, decamped that very day; made the ordinary march; and after staying in
                         all seven days before <placeName key="perseus,Corfinium">Corfinium</placeName>, arrived in <placeName key="tgn,7010380">Apulia</placeName>, through the territories of the
                         Marrucini, Frentani, and Larinates. </p>
-				</div2>
-				<div2 n="24" id="b1c24" type="chapter">
+				</div>
+				<div n="24" id="b1c24" type="chapter">
 					<p>Pompey, having intelligence of what passed at <placeName key="perseus,Corfinium">Corfinium</placeName>, retreated from Luceria to <placeName key="perseus,Canusium">Canusium</placeName>, and from thence to <placeName key="perseus,Brundusium">Brundusium</placeName>. He ordered all the new
                         levies to join him, armed the shepherds and slaves, furnished them with
                         horses, and formed a body of about three hundred cavalry. Meanwhile the
@@ -703,8 +703,8 @@ get the English version going; more proofreading on the Latin
                         him in relation to the common safety; because they soon would be able to
                         despatch, in a personal treaty, what, if managed by the intervention of
                         others, could not be hindered from running into a tedious negotiation." </p>
-				</div2>
-				<div2 n="25" id="b1c25" type="chapter">
+				</div>
+				<div n="25" id="b1c25" type="chapter">
 					<p>Having dismissed him with these instructions, he arrived before <placeName key="perseus,Brundusium">Brundusium</placeName> with six legions, three
                         of which were composed of veteran soldiers, and the rest of new levies drawn
                         together upon his march; for as to Domitius's troops, he had sent them
@@ -727,8 +727,8 @@ get the English version going; more proofreading on the Latin
                         them. The front and sides were armed with a parapet of hurdies, and every
                         fourth float had a tower of two stories, the better to guard the work from
                         fire and the shocks of the vessels. </p>
-				</div2>
-				<div2 n="26" id="b1c26" type="chapter">
+				</div>
+				<div n="26" id="b1c26" type="chapter">
 					<p>Against these preparations, Pompey made use of several large ships which he
                         found in the port of <placeName key="perseus,Brundusium">Brundusium</placeName>: and having fi ted them
                         with towers of three stories, which he filled with a great number of engines
@@ -752,8 +752,8 @@ get the English version going; more proofreading on the Latin
                         had no power to treat of an accommodation. Thus Caesar having often tried in
                         vain to bring about a peace, thought it now time to drop that design, and
                         bend all his thoughts to war. </p>
-				</div2>
-				<div2 n="27" id="b1c27" type="chapter">
+				</div>
+				<div n="27" id="b1c27" type="chapter">
 					<p>Caesar having spent nine days about his works, had now half finished the
                         staccado, when the ships employed in the first embarkation, being sent back
                         by the consuls from <placeName key="tgn,7010750">Dyrrhachium</placeName>, returned to <placeName key="perseus,Brundusium">Brundusium</placeName>. Pompey, either alarmed
@@ -769,8 +769,8 @@ get the English version going; more proofreading on the Latin
                         placed on the walls and towers some select archers and slingers, who were to
                         wait till all the troops had got aboard, and then retire, upon a signal
                         given, to some small ships that waited them at a convenient distance. </p>
-				</div2>
-				<div2 n="28" id="b1c28" type="chapter">
+				</div>
+				<div n="28" id="b1c28" type="chapter">
 					<p>The people of <placeName key="perseus,Brundusium">Brundusium</placeName>, provoked by the
                         affronts they had received from Pompey, and the insults of his soldiers,
                         wished well to Caesar's cause; and having notice of Pompey's intended
@@ -786,8 +786,8 @@ get the English version going; more proofreading on the Latin
                         they were obliged to take a great circuit, which gave Pompey time enough to
                         put to sea. Two transports only, impeded by Caesar's mole, were taken with
                         the troops on board. </p>
-				</div2>
-				<div2 n="29" id="b1c29" type="chapter">
+				</div>
+				<div n="29" id="b1c29" type="chapter">
 					<p>Though Caesar was fully sensible, that to finish the war at a blow, he must
                         pass the sea immediately, and endeavour to come up with Pompey, before he
                         could draw his transmarine forces together; yet he dreaded the delay and
@@ -801,8 +801,8 @@ get the English version going; more proofreading on the Latin
                         in his rival's interest; to let them grow powerful by levies of horse and
                         foot, and leave <placeName key="tgn,1000070">Gaul</placeName> and <placeName key="tgn,1000080">Italy</placeName> open to their attacks in his
                         absence.</p>
-				</div2>
-				<div2 n="30" id="b1c30" type="chapter">
+				</div>
+				<div n="30" id="b1c30" type="chapter">
 					<p> He determined, therefore, to lay aside, for the present, the design of
                         pursuing Pompey, and turn all his thoughts towards <placeName key="tgn,1000095">Spain</placeName>. He ordered the magistrates of the
                         municipal towns to assemble all the vessels they could, and send them to <placeName key="perseus,Brundusium">Brundusium</placeName>. He sent Valerius, one
@@ -825,8 +825,8 @@ get the English version going; more proofreading on the Latin
                         assured them, that he was abundantly able to sustain it." Having thus
                         declared his mind, he quitted the province, which by this means submitted
                         without trouble to Curio, as <placeName key="tgn,7003121">Sardinia</placeName> had before done to Valerius.</p>
-				</div2>
-				<div2 n="31" id="b1c31" type="chapter">
+				</div>
+				<div n="31" id="b1c31" type="chapter">
 					<p> Tubero arriving in <placeName key="tgn,7001242">Africa</placeName>, found Attius Varus in possession
                         of that province, who, after the loss of his cohorts at <placeName key="perseus,Auximum">Auximum</placeName>, as we have shown above, had
                         fled into those parts, and, with the consent of the natives, taken upon him
@@ -836,8 +836,8 @@ get the English version going; more proofreading on the Latin
                         harbour and town; nor could he even obtain leave for his son to land, though
                         he had a fit of sickness upon him, but was obliged to weigh anchor and be
                         gone. </p>
-				</div2>
-				<div2 n="32" id="b1c32" type="chapter">
+				</div>
+				<div n="32" id="b1c32" type="chapter">
 					<p>These affairs despatched, Caesar that his troops might enjoy some repose,
                         cantoned them in the nearest towns, and set out himself for <placeName key="perseus,Rome">Rome</placeName>. There he assembled the senate, and
                         after complaining of the injuries of his enemies, told them, "That he had
@@ -869,8 +869,8 @@ get the English version going; more proofreading on the Latin
                         sender. That this was a little low way of thinking; and that, in the same
                         manner as he had endeavoured at a superiority in action, he would also
                         strive to be superior in justice and equity." </p>
-				</div2>
-				<div2 n="33" id="b1c33" type="chapter">
+				</div>
+				<div n="33" id="b1c33" type="chapter">
 					<p>The senate liked the proposal of a deputation to Pompey; but the great
                         difficulty was, to find deputies; every one, out of fear, refusing to charge
                         himself with that commission. For Pompey, at his departure from <placeName key="perseus,Rome">Rome</placeName>, had declared in the senate, "That
@@ -881,8 +881,8 @@ get the English version going; more proofreading on the Latin
                         coming to understand, and that he only wasted his time to no purpose; he set
                         out from <placeName key="perseus,Rome">Rome</placeName>, without effecting what he intended,
                         and arrived in farther <placeName key="tgn,1000070">Gaul</placeName>. </p>
-				</div2>
-				<div2 n="34" id="b1c34" type="chapter">
+				</div>
+				<div n="34" id="b1c34" type="chapter">
 					<p>Here he was informed, that Pompey had sent into Spain Vibullius Rufus, the
                         same who, a few days before, had been made prisoner at <placeName key="perseus,Corfinium">Corfinium</placeName>, and set at liberty by
                         Caesar; that Domitius was gone to take possession of <placeName key="tgn,7008781">Marseilles</placeName>, with seven galleys, which he
@@ -896,8 +896,8 @@ get the English version going; more proofreading on the Latin
                         had long been under their protection, and inhabited the adjoining mountains.
                         They brought provisions from the neighbouring country and castles, refitted
                         their navy, and repaired their walls and gates. </p>
-				</div2>
-				<div2 n="35" id="b1c35" type="chapter">
+				</div>
+				<div n="35" id="b1c35" type="chapter">
 					<p>Caesar sending for fifteen of the principal men of the city, exhorted them
                         not to be the first to begin the war, but to be swayed rather by the
                         authority of all <placeName key="tgn,1000080">Italy</placeName>, than the will of one particular
@@ -911,8 +911,8 @@ get the English version going; more proofreading on the Latin
                         territories and revenues; that as they were therefore equally indebted to
                         both, it became them not to aid the one against the other; but to remain
                         neuter, and grant neither an admittance into their city nor port." </p>
-				</div2>
-				<div2 n="36" id="b1c36" type="chapter">
+				</div>
+				<div n="36" id="b1c36" type="chapter">
 					<p>Whilst these things were in agitation, Domitius arrived at <placeName key="tgn,7008781">Marseilles</placeName> with his fleet, and being
                         received into the town, was appointed governor, and charged with the whole
                         administration of the war. By his order, they sent out their fleet to cruise
@@ -927,8 +927,8 @@ get the English version going; more proofreading on the Latin
                         cutting of the wood they were composed of, he put them under the command of
                         D. Brutus, and having directed the manner of the siege, left the care of it
                         to C. Trebonius, his lieutenant. </p>
-				</div2>
-				<div2 n="37" id="b1c37" type="chapter">
+				</div>
+				<div n="37" id="b1c37" type="chapter">
 					<p>During these orders and preparations, he sent C. Fabius before him into <placeName key="tgn,1000095">Spain</placeName>, with three legions that had
                         wintered about <placeName key="tgn,7008368">Narbonne</placeName>, charging him to secure with all
                         diligence the passage of the Pyrenean Mountains, which was at that time
@@ -937,8 +937,8 @@ get the English version going; more proofreading on the Latin
                         according to his instructions, having made great despatch, forced the passes
                         of the <placeName key="tgn,7016876">Pyrenees</placeName>, and by long marches came up with
                         Afranius's army. </p>
-				</div2>
-				<div2 n="38" id="b1c38" type="chapter">
+				</div>
+				<div n="38" id="b1c38" type="chapter">
 					<p>Pompey had then three lieutenants in <placeName key="tgn,1000095">Spain</placeName>, Afranius, Petreius, and Varro. The
                         first of these was at the head of three legions, and governed the nearer <placeName key="tgn,1000095">Spain</placeName>. The other two had each two legions,
                         and commanded, the one from the Castilian Forest to the Anas; the other from
@@ -952,8 +952,8 @@ get the English version going; more proofreading on the Latin
                         completed, Petreius speedily joined Afranius, through the territories of the
                         Vettones; and both resolved to make <placeName key="tgn,7008912">Lerida</placeName> the seat of the war, because the
                         country lay convenient for their purpose. </p>
-				</div2>
-				<div2 n="39" id="b1c39" type="chapter">
+				</div>
+				<div n="39" id="b1c39" type="chapter">
 					<p>We have already observed that Afranius had three legions, and Petreius two.
                         Besides these, there were about eighty cohorts, some light, some heavy
                         armed, and five thousand horse, raised in both provinces. Caesar had sent
@@ -968,8 +968,8 @@ get the English version going; more proofreading on the Latin
                         This policy was attended with two great advantages: it bound the officers to
                         him by the obligation of interest, and the soldiers by the tie of gratitude.
                     </p>
-				</div2>
-				<div2 n="40" id="b1c40" type="chapter">
+				</div>
+				<div n="40" id="b1c40" type="chapter">
 					<p>Fabius, by letters and messengers, endeavoured to sound the disposition of
                         the neighbouring states. He had laid two bridges over the Sicoris, four
                         miles distant from each other, for the convenience of foraging, having
@@ -993,8 +993,8 @@ get the English version going; more proofreading on the Latin
                         opportunity offered them by fortune, to fall upon our men. Their arrival put
                         an end to the engagement, and both parties returned to their respective
                         camps. </p>
-				</div2>
-				<div2 n="41" id="b1c41" type="chapter">
+				</div>
+				<div n="41" id="b1c41" type="chapter">
 					<p>Two days after, Caesar arrived in the camp with nine hundred horse, which he
                         had kept for a body guard. He began by re-establishing in the night the
                         bridge which had been broken down, and was not yet quite repaired. Next day
@@ -1013,8 +1013,8 @@ get the English version going; more proofreading on the Latin
                         Afranius had the least suspicion of his design to encamp there. In the
                         evening, Caesar retreated with his legions behind the ditch, and passed the
                         whole night under arms. </p>
-				</div2>
-				<div2 n="42" id="b1c42" type="chapter">
+				</div>
+				<div n="42" id="b1c42" type="chapter">
 					<p>Next day he carried the intrenchment quite round his camp, and because
                         materials for a rampart must have been fetched from a great distance, he
                         contented himself for the present with a naked ditch, as the day before,
@@ -1027,8 +1027,8 @@ get the English version going; more proofreading on the Latin
                         into the plain, they retreated again to their camp. The third day, Caesar
                         added a rampart to his camp, and brought into it the six cohorts, with the
                         baggage which he had left in his former camp. </p>
-				</div2>
-				<div2 n="43" id="b1c43" type="chapter">
+				</div>
+				<div n="43" id="b1c43" type="chapter">
 					<p>Between the city of <placeName key="tgn,7008912">Lerida</placeName>, and the hill where Petreius and
                         Afranius were encamped was a plain of about three hundred paces, in the
                         midst of which was a rising ground, which Caesar wanted to take possession
@@ -1042,8 +1042,8 @@ get the English version going; more proofreading on the Latin
                         possession of the post, obliged our men to give ground, and being reinforced
                         by fresh supplies, put them at last to rout, and forced them to fly for
                         shelter to the legions. </p>
-				</div2>
-				<div2 n="44" id="b1c44" type="chapter">
+				</div>
+				<div n="44" id="b1c44" type="chapter">
 					<p>The manner of fighting of Afranius's soldiers was, to come forward briskly
                         against an enemy, and boldly take possession of some post, neither taking
                         care to keep their ranks, nor holding it necessary to fight in a close
@@ -1057,8 +1057,8 @@ get the English version going; more proofreading on the Latin
                         think themselves at ensigns, or quit their post, without some very urgent
                         cause. The first ranks therefore being put into disorder, the legion in that
                         wing gave ground, and retired to a neighbouring hill. </p>
-				</div2>
-				<div2 n="45" id="b1c45" type="chapter">
+				</div>
+				<div n="45" id="b1c45" type="chapter">
 					<p>Caesar, contrary to his expectation, finding the consternation like to spread
                         through the whole army, encouraged his men, and led the ninth legion to
                         their assistance. He soon put a stop to the vigorous and insulting pursuit
@@ -1083,8 +1083,8 @@ get the English version going; more proofreading on the Latin
                         camp through the town, who succeeded in the place of those that were
                         fatigued. Caesar was likewise obliged to detach small parties to maintain
                         the battle, and bring off such as were wounded. </p>
-				</div2>
-				<div2 n="46" id="b1c46" type="chapter">
+				</div>
+				<div n="46" id="b1c46" type="chapter">
 					<p>The fight had now lasted five hours without intermission, when our men,
                         oppressed by the multitude of the enemy, and having spent all their darts,
                         attacked the mountain sword in hand, and overthrowing such as opposed them,
@@ -1101,8 +1101,8 @@ get the English version going; more proofreading on the Latin
                         hundred were wounded. On Afranius's side was slain T. Caecilius, first
                         centurion of a legion; also four centurions of inferior degree, and above
                         two hundred private men. </p>
-				</div2>
-				<div2 n="47" id="b1c47" type="chapter">
+				</div>
+				<div n="47" id="b1c47" type="chapter">
 					<p>Yet such were the circumstances of this day's action, that both sides laid
                         claim to the victory; the Afranians, because, though allowed to be inferior
                         in number, they had long sustained our attack, kept possession of the
@@ -1114,8 +1114,8 @@ get the English version going; more proofreading on the Latin
                         the town. Meantime Afranius fortified the hillock which had been the subject
                         of dispute, with a great number of works, and posted there a large body of
                         troops. </p>
-				</div2>
-				<div2 n="48" id="b1c48" type="chapter">
+				</div>
+				<div n="48" id="b1c48" type="chapter">
 					<p>Two days after, a very unfortunate accident happened. For so great a storm
                         arose, that the water was never known to be higher in those parts; and the
                         snow came down in such quantities from all the mountains round about, that
@@ -1137,15 +1137,15 @@ get the English version going; more proofreading on the Latin
                         country, pursued them every where. The rivers themselves did not impede
                         them, because they were accustomed to pass them on blown-up skins, which
                         they always brought with them into the field.</p>
-				</div2>
-				<div2 n="49" id="b1c49" type="chapter">
+				</div>
+				<div n="49" id="b1c49" type="chapter">
 					<p> Afranius, on the contrary, abounded in all things. He had large magazines of
                         corn already laid up, was continually receiving fresh supplies from the
                         province, and had plenty of forage. The bridge of <placeName key="tgn,7008912">Lerida</placeName> furnished all these conveniences
                         without danger, and opened a free communication with the country beyond the
                         river, from which Caesar was wholly excluded. </p>
-				</div2>
-				<div2 n="50" id="b1c50" type="chapter">
+				</div>
+				<div n="50" id="b1c50" type="chapter">
 					<p>The waters continued several days. Caesar endeavoured to re-establish his
                         bridges, but could not get the better of the obstacles occasioned by the
                         swelling of the river, and the enemy's forces stationed on the opposite
@@ -1154,8 +1154,8 @@ get the English version going; more proofreading on the Latin
                         particular spot where our men were at work: whereas it was extremely
                         difficult on our side to struggle with the force of the stream, and, at the
                         same time, guard ourselves against the assaults of the enemy.</p>
-				</div2>
-				<div2 n="51" id="b1c51" type="chapter">
+				</div>
+				<div n="51" id="b1c51" type="chapter">
 					<p>Meanwhile Afranius was informed that a large convoy, which was on its way to
                         join Caesar, had been obliged to halt at the river side. It consisted of
                         archers from Rovergue, Gaulish horse, with many carts and much baggage,
@@ -1174,8 +1174,8 @@ get the English version going; more proofreading on the Latin
                         This delay saved the convoy, for during the skirmish, the rest of the troops
                         gained the higher ground. We lost that day about two hundred archers, a few
                         troopers, and some servants and baggage. </p>
-				</div2>
-				<div2 n="52" id="b1c52" type="chapter">
+				</div>
+				<div n="52" id="b1c52" type="chapter">
 					<p>All this served to enhance the price of provisions, a calamity inseparable
                         from present scarcity, and the prospect of filture want. Corn was already at
                         fifty denarii a bushel, the soldiers began to lose their strength, and the
@@ -1186,8 +1186,8 @@ get the English version going; more proofreading on the Latin
                         present scarcity: he dismissed all the useless mouths, and applied to the
                         states that had declared for him, desiring them to send him cattle where
                         they wanted corn. </p>
-				</div2>
-				<div2 n="53" id="b1c53" type="chapter">
+				</div>
+				<div n="53" id="b1c53" type="chapter">
 					<p>These things were greatly exaggerated by Afranius, Petreius, and their
                         friends, in the letters they sent, upon this occasion, to <placeName key="perseus,Rome">Rome</placeName>. Nor was fame backward in adding to
                         the account; insomuch that the war appeared to be almost at an end. These
@@ -1196,8 +1196,8 @@ get the English version going; more proofreading on the Latin
                         the nobility flocked out of <placeName key="tgn,1000080">Italy</placeName> to Pompey; some to carry the first
                         accounts of this grateful news; others, that they might not be so late as to
                         subject them to the reproach of having waited for the event of things. </p>
-				</div2>
-				<div2 n="54" id="b1c54" type="chapter">
+				</div>
+				<div n="54" id="b1c54" type="chapter">
 					<p>Affairs being in this extremity, and all the passes guarded by Afranius's
                         parties, without a possibility of repairing the bridges; Caesar ordered the
                         soldiers to build some light boats, in imitation of those he had formerly
@@ -1210,8 +1210,8 @@ get the English version going; more proofreading on the Latin
                         him; posted a legion in this fortification; and then threw a bridge over the
                         Sicoris in two days. By this means he recovered his foragers, secured the
                         convoy, and opened a passage for future supplies.</p>
-				</div2>
-				<div2 n="55" id="b1c55" type="chapter">
+				</div>
+				<div n="55" id="b1c55" type="chapter">
 					<p> The same day he detached a great part of his cavalry over the river; who,
                         falling unexpectedly upon the enemy's foragers, dispersed up and down,
                         without a suspicion of danger, made a considerable capture of men and
@@ -1222,8 +1222,8 @@ get the English version going; more proofreading on the Latin
                         body, was surrounded and cut to pieces by our men, who returned over the
                         same bridge to the camp, without loss, and enriched with a considerably
                         booty. </p>
-				</div2>
-				<div2 n="56" id="b1c56" type="chapter">
+				</div>
+				<div n="56" id="b1c56" type="chapter">
 					<p>Whilst these things passed at <placeName key="tgn,7008912">Lerida</placeName>, the people of <placeName key="tgn,7008781">Marseilles</placeName>, by the advice of L. Domitius,
                         equipped seventeen galleys, eleven of which were covered. To these they
                         added a multitude of smaller vessels, that they might strike a terror into
@@ -1234,8 +1234,8 @@ get the English version going; more proofreading on the Latin
                         thither with him. Thus furnished and equipped, they sailed with great
                         confidence, in quest of our fleet, which was commanded by Decimus Brutus,
                         and rode at anchor at an island over against <placeName key="tgn,7008781">Marseilles</placeName>.</p>
-				</div2>
-				<div2 n="57" id="b1c57" type="chapter">
+				</div>
+				<div n="57" id="b1c57" type="chapter">
 					<p> Brutus was much inferior to the enemy in number of ships; but Caesar had
                         manned them with his best soldiers, chosen out of all the legions, and
                         headed by centurions of distinguished bravery, who had petitioned him for
@@ -1248,8 +1248,8 @@ get the English version going; more proofreading on the Latin
                         of the promises so lately made them. The shepherds too, animated by the
                         hopes of liberty, and fighting under the eye of their master, did wonders to
                         merit his approbation.</p>
-				</div2>
-				<div2 n="58" id="b1c58" type="chapter">
+				</div>
+				<div n="58" id="b1c58" type="chapter">
 					<p> The townsmen themselves, confiding in the nimbleness of their ships, and the
                         skill of their pilots, eluded the shock of our vessels, and baffled all
                         their attempts. As they had abundance of sea-room, they extended their line
@@ -1268,8 +1268,8 @@ get the English version going; more proofreading on the Latin
                         this manner they sunk part of their vessels, took some with all the men on
                         board, and drove the rest into the haven. In this engagement, the enemy had
                         nine galleys sunk or taken. </p>
-				</div2>
-				<div2 n="59" id="b1c59" type="chapter">
+				</div>
+				<div n="59" id="b1c59" type="chapter">
 					<p>The report of this battle reaching <placeName key="tgn,7008912">Lerida</placeName>, and Caesar having finished his
                         bridge over the Sicoris, affairs soon began to put on a new face. The enemy
                         dreading the courage of our horse, durst not disperse about the country as
@@ -1279,8 +1279,8 @@ get the English version going; more proofreading on the Latin
                         cavalry at a distance, they would throw down their trusses, and fly. At
                         last, they were reduced to omit foraging several days together, and resolved
                         to pursue it of war. </p>
-				</div2>
-				<div2 n="60" id="b1c60" type="chapter">
+				</div>
+				<div n="60" id="b1c60" type="chapter">
 					<p>In the mean time the Oscenses and Calagurritani, jointly sent deputies to
                         Caesar. with an offer of their submission and services. The Tarraconenses,
                         Jacitani, and Ausetani, and not many days after, the Illurgavonenses, who
@@ -1294,8 +1294,8 @@ get the English version going; more proofreading on the Latin
                         considerable states having declared in his favour; a great number of distant
                         provinces renounced their engagements with Afranius, and entered into new
                         ones with Caesar. </p>
-				</div2>
-				<div2 n="61" id="b1c61" type="chapter">
+				</div>
+				<div n="61" id="b1c61" type="chapter">
 					<p>These things having struck a terror into the enemy; that he might not be
                         always obliged to send his cavalry so far about to forage, the bridges lying
                         about seven miles from his camp, he bethought himself of draining the river,
@@ -1317,8 +1317,8 @@ get the English version going; more proofreading on the Latin
                         Octogesa, a city on that river, about twenty miles from their camp. Here
                         they commanded a bridge of boats to be built; and, having sent two legions
                         over the Sicoris, fortified their camp with a rampart of twelve feet. </p>
-				</div2>
-				<div2 n="62" id="b1c62" type="chapter">
+				</div>
+				<div n="62" id="b1c62" type="chapter">
 					<p>Caesar, having notice of this by his scouts, laboured day and night at his
                         drains with the utmost diligence; and had already so far diminished the
                         water of the Sicoris, that the cavalry could, with some difficulty, pass
@@ -1326,8 +1326,8 @@ get the English version going; more proofreading on the Latin
                         both the depth of the river, and the rapidity of the stream to struggle
                         with. Meanwhile it was known, that the bridge over the <placeName key="tgn,7007649">Iberus</placeName> was almost finished, and Caesar's
                         ford in great forwardness.</p>
-				</div2>
-				<div2 n="63" id="b1c63" type="chapter">
+				</div>
+				<div n="63" id="b1c63" type="chapter">
 					<p> This was a fresh motive to the enemy to quicken their march: wherefore,
                         leaving two auxiliary cohorts, for a garrison, at <placeName key="tgn,7008912">Lerida</placeName>, they crossed the Sicoris with all
                         their forces, and joined the two legions they had sent over before. Caesar
@@ -1337,8 +1337,8 @@ get the English version going; more proofreading on the Latin
                         forded the river, came up with Petreius and Afranius's rear, who had
                         decamped about midnight; and making a motion to surround them, began to stop
                         and retard their march. </p>
-				</div2>
-				<div2 n="64" id="b1c64" type="chapter">
+				</div>
+				<div n="64" id="b1c64" type="chapter">
 					<p>At day-break we discovered from the hills near the camp, that the enemy's
                         rear was greatly harassed by our cavalry. Sometimes they obliged them to
                         halt, and disordered their ranks: at other times, the enemy facing about,
@@ -1363,8 +1363,8 @@ get the English version going; more proofreading on the Latin
                         obliged to make a circuit of six miles, notwithstanding the time necessarily
                         lost in crossing the river, they got up at the ninth hour of the day to the
                         enemy, who had set out at midnight. </p>
-				</div2>
-				<div2 n="65" id="b1c65" type="chapter">
+				</div>
+				<div n="65" id="b1c65" type="chapter">
 					<p>When Afranius and Petreius perceived them at some distance, being with reason
                         intimidated, they suspended their march, halted on an eminence, and formed
                         in order of battle. Caesar would not hazard an action with his troops, thus
@@ -1379,8 +1379,8 @@ get the English version going; more proofreading on the Latin
                         to effect but, being fatigued by a long march, and their continual
                         skirmishes with Caesar's cavalry, they deferred it till next day. Caesar
                         likewise encamped on a hill that lay near him. </p>
-				</div2>
-				<div2 n="66" id="b1c66" type="chapter">
+				</div>
+				<div n="66" id="b1c66" type="chapter">
 					<p>About midnight, the cavalry having surprised some of the enemy, who had
                         adventured a little too far from their camp in quest of water; Caesar was
                         informed by them, that Pompey's lieutenants were decamping without noise.
@@ -1395,8 +1395,8 @@ get the English version going; more proofreading on the Latin
                         after that rough and mountainous; and that whoever should first get
                         possession of the defiles might easily prevent the other army from
                         approaching them. </p>
-				</div2>
-				<div2 n="67" id="b1c67" type="chapter">
+				</div>
+				<div n="67" id="b1c67" type="chapter">
 					<p>Upon this, a council of war was held by Petreius and Afranius, to deliberate
                         about the time of beginning their march. The greater number were for setting
                         out by night, in hopes of reaching the defiles before Caesar ould have
@@ -1412,8 +1412,8 @@ get the English version going; more proofreading on the Latin
                         of a disaster, yet the bulk of the army would escape, and be able to possess
                         themselves of the post in question." This opinion prevailed in the council,
                         and they resolved to set out the next morning by break of day. </p>
-				</div2>
-				<div2 n="68" id="b1c68" type="chapter">
+				</div>
+				<div n="68" id="b1c68" type="chapter">
 					<p>Caesar having taken a view of the country, decamped as soon as it was light,
                         taking a considerable circuit and observing no particular route; for the
                         direct way to the <placeName key="tgn,7007649">Iberus</placeName> and Octogesa lay in the rear of the
@@ -1423,8 +1423,8 @@ get the English version going; more proofreading on the Latin
                         one I another. But not a man murmured at these difficulties, in hopes of
                         seeing a speedy end of all their labours, if they could but gain the <placeName key="tgn,7007649">Iberus</placeName> before the enemy, and intercept
                         their provisions.</p>
-				</div2>
-				<div2 n="69" id="b1c69" type="chapter">
+				</div>
+				<div n="69" id="b1c69" type="chapter">
 					<p> As in this march we pursued at first an opposite course, and seemed to turn
                         our backs upon the enemy, Afranius's soldiers who observed us from their
                         camp, came forth with joyful looks, and insulted us on our supposed flight,
@@ -1437,8 +1437,8 @@ get the English version going; more proofreading on the Latin
                         indolent, as not to perceive the necessity of decamping and opposing our
                         march. Immediately they ran to arms, and leaving a few cohorts to guard the
                         camp, sallied in a body, pursuing their way directly to the <placeName key="tgn,7007649">Iberus</placeName>. </p>
-				</div2>
-				<div2 n="70" id="b1c70" type="chapter">
+				</div>
+				<div n="70" id="b1c70" type="chapter">
 					<p>All depended upon despatch, and getting the first possession of the defiles
                         and mountains. Our troops were retarded by the difficulties of the way, and
                         Afranius's by the continual attacks of Caesar's cavalry. But such was the
@@ -1458,8 +1458,8 @@ get the English version going; more proofreading on the Latin
                         perceived by Caesar's cavalry; who charged them furiously, broke them at the
                         first onset, surrounded, and cut them in pieces in sight of both armies.
                     </p>
-				</div2>
-				<div2 n="71" id="b1c71" type="chapter">
+				</div>
+				<div n="71" id="b1c71" type="chapter">
 					<p>Caesar had now an opportunity of giving the enemy an effectual blow; whose
                         army, in the present consternation it was under, would, he was sensible,
                         make but a faint resistance; more especially as it was surrounded on all
@@ -1474,8 +1474,8 @@ get the English version going; more proofreading on the Latin
                         them, without observing ranks or order: that if he was afraid to attack them
                         on the eminence, he would soon have an opportunity of more equal ground, as
                         Afranius would be obliged to remove for want of water." </p>
-				</div2>
-				<div2 n="72" id="b1c72" type="chapter">
+				</div>
+				<div n="72" id="b1c72" type="chapter">
 					<p>Caesar was in hopes of terminating the affair without bloodshed, or a battle;
                         because he had intercepted the enemy's provisions. Why therefore, even
                         supposing the event to be prosperous, should he unnecessarily lose any of
@@ -1492,8 +1492,8 @@ get the English version going; more proofreading on the Latin
                         even retreated a little, to give Afranius and Petreius liberty to regain
                         their camp, which they did. He then posted troops on the mountains, to guard
                         the defiles. and came and encamped as near the enemy as possible. </p>
-				</div2>
-				<div2 n="73" id="b1c73" type="chapter">
+				</div>
+				<div n="73" id="b1c73" type="chapter">
 					<p>The day after, Pompey's lieutenants, disturbed at finding their provisions
                         cut off, and all the ways to the <placeName key="tgn,7007649">Iberus</placeName> intercepted, consulted what was
                         proper to be done. They had it still in their power to return to <placeName key="tgn,7008912">Lerida</placeName>, or march to <placeName key="tgn,7008715">Tarraco</placeName>. But while they were debating this
@@ -1503,8 +1503,8 @@ get the English version going; more proofreading on the Latin
                         the place where they watered, that the soldiers might pass and repass under
                         cover, without fear, and without a guard. Afranius and Petreius divided this
                         work between them, and went to give directions about it in person. </p>
-				</div2>
-				<div2 n="74" id="b1c74" type="chapter">
+				</div>
+				<div n="74" id="b1c74" type="chapter">
 					<p>In their absence, their soldiers found frequent opportunities of conversing
                         with our men, and sought out every one his fellowcitizen and acquaintance.
                         They began by thanking them for having spared them the day before, owning
@@ -1531,8 +1531,8 @@ get the English version going; more proofreading on the Latin
                         Caesar, in the judgment of all, was upon the point of amply reaping the
                         fruits of his wonted clemency, and every body applauded his late conduct.
                     </p>
-				</div2>
-				<div2 n="75" id="b1c75" type="chapter">
+				</div>
+				<div n="75" id="b1c75" type="chapter">
 					<p>Afranius, having notice of what passed, quitted the work he was engaged in,
                         and returned to the camp; prepared, as it would seem, to bear with an equal
                         mind not wanting to himself. He armed his slaves; and joining them to a
@@ -1545,8 +1545,8 @@ get the English version going; more proofreading on the Latin
                         trusting to the nearness of their camp, defended themselves against the
                         Spanish target-bearers and cavalry, till they had retreated to our advanced
                         guard, who screened them from any further assault. </p>
-				</div2>
-				<div2 n="76" id="b1c76" type="chapter">
+				</div>
+				<div n="76" id="b1c76" type="chapter">
 					<p>After this he went through the whole camp, begging his troops, with tears, to
                         have pity on him, and Pompey their general; and that they would not deliver
                         them both up to the cruel vengeance of their enemies. Every one upon this
@@ -1563,16 +1563,16 @@ get the English version going; more proofreading on the Latin
                         generals, the severity shown in punishing, and the new oath they had been
                         obliged to take, defeated, for the present, all hopes of a surrender,
                         changed the soldiers' minds, and reduced the war to its former state. </p>
-				</div2>
-				<div2 n="77" id="b1c77" type="chapter">
+				</div>
+				<div n="77" id="b1c77" type="chapter">
 					<p>Caesar ordered diligent search to be made after such of the enemy's soldiers
                         as had come to his camp during the time of conference, and carefully sent
                         them back. Some military tribunes and centurions voluntarily chose to stay
                         with him; whom he afterwards treated with great distinction; promoting the
                         centurions to higher ranks, and honouring the Roman knights with the office
                         of military tribunes. </p>
-				</div2>
-				<div2 n="78" id="b1c78" type="chapter">
+				</div>
+				<div n="78" id="b1c78" type="chapter">
 					<p>The Afranian troops were destitute of forage, and could not water without
                         much difficulty. The legionary soldiers had, indeed, some provisions,
                         because they had been ordered to bring two and twenty days' corn with them
@@ -1588,8 +1588,8 @@ get the English version going; more proofreading on the Latin
                         harass and retard them in their march; and followed himself with the rest of
                         the army. The cavalry gave the enemy no respite, being continually engaged
                         with their rear. </p>
-				</div2>
-				<div2 n="79" id="b1c79" type="chapter">
+				</div>
+				<div n="79" id="b1c79" type="chapter">
 					<p>The manner of fighting was thus: Some light-armed cohorts formed the
                         rearguard, which, in a plain, halted from time to time, and made head
                         against our cavalry. When they fell in with an eminence, the very nature of
@@ -1605,8 +1605,8 @@ get the English version going; more proofreading on the Latin
                         they were forced to place it in the centre to secure it; and if any of them
                         chanced to straggle from the main body, they were immediately taken by
                         Caesar's horse. </p>
-				</div2>
-				<div2 n="80" id="b1c80" type="chapter">
+				</div>
+				<div n="80" id="b1c80" type="chapter">
 					<p>During these continual skirmishes, in which the enemy were often obliged to
                         halt, in order to disengage their rear, it is easy to perceive that their
                         march could not be very expeditious. This was in fact the case; so that
@@ -1622,8 +1622,8 @@ get the English version going; more proofreading on the Latin
                         day, attacked their rear so vigorously, that they were almost routed, a
                         great number of soldiers, and even some centurions being slain. Caesar's
                         whole army came up, and threatened them with an immediate attack. </p>
-				</div2>
-				<div2 n="81" id="b1c81" type="chapter">
+				</div>
+				<div n="81" id="b1c81" type="chapter">
 					<p>As they could then neither choose a proper place for a camp, nor continue
                         their march, they were forced to halt where they were, far from any water,
                         and on very disadvantageous ground. Caesar did not offer to attack them, for
@@ -1643,8 +1643,8 @@ get the English version going; more proofreading on the Latin
                         better to check their sudden sallies and irruptions, to which he foresaw
                         they would be obliged to have recourse at last. Want, soon constrained them
                         to kill all the beasts of burden. </p>
-				</div2>
-				<div2 n="82" id="b1c82" type="chapter">
+				</div>
+				<div n="82" id="b1c82" type="chapter">
 					<p>Two days were spent in forming and executing those resolutions; on the third,
                         Caesar had considerably advanced his works. Afranius and Petreius, sensible
                         of the consequences, drew all their forces out of the camp, and formed them
@@ -1662,8 +1662,8 @@ get the English version going; more proofreading on the Latin
                         of their camp furnished an easy retreat to the vanquished. For this reason
                         he resolved to wait the enemy's charge, and not enter the first into action.
                     </p>
-				</div2>
-				<div2 n="83" id="b1c83" type="chapter">
+				</div>
+				<div n="83" id="b1c83" type="chapter">
 					<p>Afranius's troops were ranged in two lines, consisting of five legions, and
                         the cohorts wont to be stationed in the wings, formed a body of reserve.
                         Caesar's army was upon three lines; in the first of which were posted four
@@ -1678,8 +1678,8 @@ get the English version going; more proofreading on the Latin
                         resource, endeavoured to find a fordable place in the Sicoris. But Caesar,
                         penetrating their design, sent his light-armed Germans, with part of good
                         bodies of troops along the banks, at a small distance from one another. </p>
-				</div2>
-				<div2 n="84" id="b1c84" type="chapter">
+				</div>
+				<div n="84" id="b1c84" type="chapter">
 					<p>At last, having no hope left, and being in want of every thing, wood, water,
                         forage, corn, they demanded an interview, and that it might be, if possible,
                         in some place out of the sight of the soldiers. Caesar denied the last part
@@ -1696,8 +1696,8 @@ get the English version going; more proofreading on the Latin
                         conjured him, not to make a rigorous use of his victory, but to spare the
                         lives of his unhappy countrymen." This speech was delivered with all
                         possible marks of humility and submission. </p>
-				</div2>
-				<div2 n="85" id="b1c85" type="chapter">
+				</div>
+				<div n="85" id="b1c85" type="chapter">
 					<p>Caesar replied, "That he of all mankind, had least reason to complain, or
                         implore compassion: that all the rest had fully done their duty; himself, in
                         forbearing to attack him, with all the advantages of time and place, that
@@ -1741,8 +1741,8 @@ get the English version going; more proofreading on the Latin
                         already intimated, they must resolve to quit <placeName key="tgn,1000095">Spain</placeName>, and disband their forces, in which
                         case he would injure no man. This was his final resolution, and the only
                         condition of peace they were to expect." </p>
-				</div2>
-				<div2 n="86" id="b1c86" type="chapter">
+				</div>
+				<div n="86" id="b1c86" type="chapter">
 					<p>These conditions were agreeable to Afranius's soldiers, who, instead of being
                         punished, as they feared, were in some sort rewarded by the discharge
                         procured them. They plainly showed their satisfaction. For, while the place
@@ -1754,8 +1754,8 @@ get the English version going; more proofreading on the Latin
                         houses or possessions in <placeName key="tgn,1000095">Spain</placeName>, should be discharged on the spot;
                         and the rest near the Var, a river between <placeName key="tgn,1000070">Gaul</placeName> and <placeName key="tgn,1000080">Italy</placeName>. Caesar, on his side, declared, that
                         he would hurt nobody, nor force any one to take on in his service. </p>
-				</div2>
-				<div2 n="87" id="b1c87" type="chapter">
+				</div>
+				<div n="87" id="b1c87" type="chapter">
 					<p>Caesar undertook to find them in corn until they got to the Var. He even
                         promised to restore to them all they had lost in the war, that could be
                         known again; himself indemnifying his own soldiers, who hereby lost quired
@@ -1770,9 +1770,9 @@ get the English version going; more proofreading on the Latin
                         Fufius Calenus, one of Caesar's lieutenants, presided over the march. In
                         this manner they continued their route to the Var, where the remainder of
                         the troops were disbanded. </p>
-				</div2>
-			</div1>
-			<div1 n="2" type="book">
+				</div>
+			</div>
+			<div n="2" type="book">
 				<head>CAESAR'S COMMENTARIES of THE CIVIL WAR. </head>
 				<argument>
 					<list type="simple">
@@ -1816,7 +1816,7 @@ get the English version going; more proofreading on the Latin
                             he is at last cut off with his whole army.</item>
 					</list>
 				</argument>
-				<div2 n="1" id="b2c1" type="chapter">
+				<div n="1" id="b2c1" type="chapter">
 					<p>While these things passed in <placeName key="tgn,1000095">Spain</placeName>, Trebonius, Caesar's lieutenant, who
                         had been left to carry on the siege of <placeName key="tgn,7008781">Marseilles</placeName>, raised terraces for two
                         different attacks, and approached with his towers and galleries. One of the
@@ -1829,8 +1829,8 @@ get the English version going; more proofreading on the Latin
                         province, a great number of workmen and beasts of carriage; ordered wood and
                         osiers to be brought; and having prepared all things necessary, raised a
                         terrace eighty feet high. </p>
-				</div2>
-				<div2 n="2" id="b2c2" type="chapter">
+				</div>
+				<div n="2" id="b2c2" type="chapter">
 					<p>But so well was the town provided with all the requisites of war, and so
                         great was the multitude of machines to annoy the besiegers, that no mantles
                         were sufficient to withstand their violence. For they had wooden bars,
@@ -1848,8 +1848,8 @@ get the English version going; more proofreading on the Latin
                         and set fire to the towers and mount: which though our men easily sustained,
                         driving them back with great loss into the town, yet failed not very much to
                         incommode the works. </p>
-				</div2>
-				<div2 n="3" id="b2c3" type="chapter">
+				</div>
+				<div n="3" id="b2c3" type="chapter">
 					<p>In the mean time L. Nasidius, sent by Pompey to the assistance of Domitius
                         and the Marseillians, with a fleet of sixteen ships, some of which were
                         strengthened with beaks of brass, passed the straits of <placeName key="tgn,7003122">Sicily</placeName> unknown to Curio, landed at <placeName key="tgn,7003897">Messana</placeName>, and raised so great a terrorin
@@ -1859,8 +1859,8 @@ get the English version going; more proofreading on the Latin
                         before, to apprize Domitius and the inhabitants of his coming, and press
                         them to hazard a second engagement with Brutus, when they should be
                         reinforced by his fleet. </p>
-				</div2>
-				<div2 n="4" id="b2c4" type="chapter">
+				</div>
+				<div n="4" id="b2c4" type="chapter">
 					<p>The Marseillians, after their defeat, had drawn as many old ships out of the
                         docks as they had lost in the engagement, and repaired and rigged them with
                         wondrous expedition. They were likewise well provided with rowers and
@@ -1880,8 +1880,8 @@ get the English version going; more proofreading on the Latin
                         encounter, and entering readily into all the measures proposed by Nasidius,
                         left to him the command of the left wing, and stationed themselves upon the
                         right. </p>
-				</div2>
-				<div2 n="5" id="b2c5" type="chapter">
+				</div>
+				<div n="5" id="b2c5" type="chapter">
 					<p>Brutus sailed to meet them, with his fleet considerably increased; for
                         besides the ships which Caesar had caused to be built at <placeName key="tgn,1121365">Aries</placeName>, he had also joined to it six more,
                         taken from the Marseillians, which he had refitted and rigged since the late
@@ -1899,8 +1899,8 @@ get the English version going; more proofreading on the Latin
                         left; but should they obtain the victory, they were in hopes of preserving
                         their city, either by their own forces, or t the reinforcements they
                         expected from without. </p>
-				</div2>
-				<div2 n="6" id="b2c6" type="chapter">
+				</div>
+				<div n="6" id="b2c6" type="chapter">
 					<p>Accordingly, in the engagement, they behaved with the most determined
                         courage. The remembrance of what their wives and children had represented to
                         them at their departure served to exalt their bravery; in a full persuasion,
@@ -1923,8 +1923,8 @@ get the English version going; more proofreading on the Latin
                         broken, and was in a manner totally crushed; which being observed by those
                         of our fleet that lay nearest, they suddenly fell upon and sunk them, before
                         they could recover out of their disorder. </p>
-				</div2>
-				<div2 n="7" id="b2c7" type="chapter">
+				</div>
+				<div n="7" id="b2c7" type="chapter">
 					<p>In this encounter, the ships under Nasidius were of no manner of service to
                         the Marseillians, but quickly retired out of the fight. For as they were
                         neither animated by the sight of their country, nor the entreaties of their
@@ -1937,8 +1937,8 @@ get the English version going; more proofreading on the Latin
                         dejected, than if the city had been taken by storm. However, they still
                         continued their preparations for the defence of the place with as much
                         diligence as ever. </p>
-				</div2>
-				<div2 n="8" id="b2c8" type="chapter">
+				</div>
+				<div n="8" id="b2c8" type="chapter">
 					<p>The legionaries, who had the charge of tower of brick, built at a little
                         distance from the walls, would be of great service to shelter them from the
                         frequent sallies of the enemy. At first they made it very low and small, to
@@ -1950,8 +1950,8 @@ get the English version going; more proofreading on the Latin
                         instructed by experience, which is the best of teachers,) they plainly
                         perceived, that the higher it was carried, the more serviceable it would
                         prove. The manner of effecting it was thus:</p>
-				</div2>
-				<div2 n="9" id="b2c9" type="chapter">
+				</div>
+				<div n="9" id="b2c9" type="chapter">
 					<p> When the work was raised to the height of one story, they laid a floor over
                         it, the extremities of whose beams were concealed in the thickness of the
                         wall; that they might not by appearing on the outside, be liable to be set
@@ -1978,8 +1978,8 @@ get the English version going; more proofreading on the Latin
                         proceeded from story to story, mounting them one upon another, till without
                         danger or wounds, they had completed the number of six, leaving loop-holes
                         in convenient places, for the engines to play through. </p>
-				</div2>
-				<div2 n="10" id="b2c10" type="chapter">
+				</div>
+				<div n="10" id="b2c10" type="chapter">
 					<p>When, by means of this tower, they thought they had sufficiently provided for
                         the security of the works around it, they resolved to build a gallery sixty
                         feet long, of wood, two feet in thickness, to extend from the brick tower to
@@ -1999,8 +1999,8 @@ get the English version going; more proofreading on the Latin
                         four mantles, and immediately carried forward upon rollers, in the manner
                         ships are launched, till it unexpectedly reached the very tower of the
                         enemy. </p>
-				</div2>
-				<div2 n="11" id="b2c11" type="chapter">
+				</div>
+				<div n="11" id="b2c11" type="chapter">
 					<p>The Marseillians astonished at so threatening and unlooked-for a machine,
                         pushed forward with levers the largest stones they could find, and tumbled
                         them from the top of the wall upon the gallery. But the strength of the wood
@@ -2020,8 +2020,8 @@ get the English version going; more proofreading on the Latin
                         gods, and dreading the plunder and devastation of their city, came forth in
                         the habit of suppliants, and with outstretched hands, besought the
                         compassion of the army and generals.</p>
-				</div2>
-				<div2 n="12" id="b2c12" type="chapter">
+				</div>
+				<div n="12" id="b2c12" type="chapter">
 					<p> At this new and unexpected sight, all acts of hostility ceased, and the
                         soldiers, laying aside their ardour for the fight, were eager to hear and
                         get acquainted with the proposals of the enemy, who arriving ib presence of
@@ -2037,8 +2037,8 @@ get the English version going; more proofreading on the Latin
                         pillaging the town." This, and much more of the same nature (for the
                         Marseillians are a learned people), they urged in a very moving and pathetic
                         strain. </p>
-				</div2>
-				<div2 n="13" id="b2c13" type="chapter">
+				</div>
+				<div n="13" id="b2c13" type="chapter">
 					<p>The generals, moved by these monstrances, drew off the soldiers from the
                         works, discontinued the attack, and contented themselves with posting guards
                         in convenient places. Compassion occasioned a kind of truce till Caesar's
@@ -2050,8 +2050,8 @@ get the English version going; more proofreading on the Latin
                         the sword, as they threatened to do. Nay, they were even then hardly
                         restrained from breaking into the town, and loudly murmured against
                         Trebonius for delaying a conquest which they looked upon as certain. </p>
-				</div2>
-				<div2 n="14" id="b2c14" type="chapter">
+				</div>
+				<div n="14" id="b2c14" type="chapter">
 					<p>But the Marseillians, a nation without faith, aimed at nothing further in all
                         this, than to find a time and opportunity to deceive us, and put in practice
                         the treacherous purpose they had formed. For after some days, our men
@@ -2076,8 +2076,8 @@ get the English version going; more proofreading on the Latin
                         made all necessary preparations for their defence, so that after losing many
                         men, they were obliged to retreat into the city, without effecting their
                         purpose. </p>
-				</div2>
-				<div2 n="15" id="b2c15" type="chapter">
+				</div>
+				<div n="15" id="b2c15" type="chapter">
 					<p>Trebonius immediately resolved to repair his loss, in which he found himself
                         warmly seconded by the zeal of the soldiers. They saw the works, which had
                         cost so much labour and toil, destroyed by the perfidy of a people, who made
@@ -2100,8 +2100,8 @@ get the English version going; more proofreading on the Latin
                         the necessary materials without danger, and by the eagerness with which they
                         laboured, soon completed the whole, leaving overtures in convenient places
                         to sally out upon occasion. </p>
-				</div2>
-				<div2 n="16" id="b2c16" type="chapter">
+				</div>
+				<div n="16" id="b2c16" type="chapter">
 					<p>The enemy seeing we had repaired, in so short a time, what they imagined must
                         have cost us the labour of many days; that there was now no hope left,
                         either of deceiving us, or sallying out upon us with success; that all the
@@ -2113,8 +2113,8 @@ get the English version going; more proofreading on the Latin
                         fighting us upon equal terms, though conscious of their great inferiority in
                         point of valour; they were forced to have recourse again to the same
                         conditions of truce they had so ill observed before. </p>
-				</div2>
-				<div2 n="17" id="b2c17" type="chapter">
+				</div>
+				<div n="17" id="b2c17" type="chapter">
 					<p>M. Varro, in farther <placeName key="tgn,1000095">Spain</placeName>, having early notice of what passed
                         in <placeName key="tgn,1000080">Italy</placeName>, and beginning to distrust the
                         success of Pompey's affairs, spoke in a very friendly manner to `Caesar. He
@@ -2130,8 +2130,8 @@ get the English version going; more proofreading on the Latin
                         province had unanimously declared in their favour; that Caesar himself was
                         reduced to great straits at <placeName key="tgn,7008912">Lerida</placeName>, of all which Afranius wrote
                         largely, magnifying his own advantages, he began to alter with fortune.</p>
-				</div2>
-				<div2 n="18" id="b2c18" type="chapter">
+				</div>
+				<div n="18" id="b2c18" type="chapter">
 					<p> He raised troops over the whole province; added thirty auxiliary cohorts to
                         the two legions he had already under his command; formed great magazines of
                         corn to supply <placeName key="tgn,7008781">Marseilles</placeName>, and the armies under Afranius
@@ -2159,8 +2159,8 @@ get the English version going; more proofreading on the Latin
 					<p>Caesar, though called upon by many and necessary affairs to return to <placeName key="tgn,1000080">Italy</placeName>, resolved, however, not to leave <placeName key="tgn,1000095">Spain</placeName>, till he had entirely quelled the
                         war in that province; for he knew that hither <placeName key="tgn,1000095">Spain</placeName> had many obligations to Pompey, and
                         that most of the inhabitants were strongly in his interest. </p>
-				</div2>
-				<div2 n="19" id="b2c19" type="chapter">
+				</div>
+				<div n="19" id="b2c19" type="chapter">
 					<p>Having therefore detached two legions into farther <placeName key="tgn,1000095">Spain</placeName>, under the command of Q. Cassius,
                         tribune of the people, he himself advanced, by great journeys, at the head
                         of six hundred horse. He sent orders before to the magistrates, and the
@@ -2172,8 +2172,8 @@ get the English version going; more proofreading on the Latin
                         that they might serve to protect the town. At the same time those of <placeName key="tgn,7007588">Carmona</placeName>, the most considerable state in
                         the province, drove out of their city three cohorts, which Varro had left to
                         garrison the citadel, and shut their gates against them. </p>
-				</div2>
-				<div2 n="20" id="b2c20" type="chapter">
+				</div>
+				<div n="20" id="b2c20" type="chapter">
 					<p>This determined Varro to make all possible despatch, that he might reach <placeName key="perseus,Cales">Cales</placeName>, as soon as possible, lest his
                         march should be intercepted; so great and apparent was the affection of the
                         province to Caesar. When he was advanced a little way, he received letters
@@ -2199,8 +2199,8 @@ get the English version going; more proofreading on the Latin
                         the state of the province, he faithfully resigned all the public money he
                         had in his hands, and informed him of the quantity of corn and shipping he
                         had prepared. </p>
-				</div2>
-				<div2 n="21" id="b2c21" type="chapter">
+				</div>
+				<div n="21" id="b2c21" type="chapter">
 					<p>Caesar, assembling the states at <placeName key="tgn,7002817">Cordova</placeName>, returned thanks severally to all
                         who had declared in his favour; to the Roman citizens, for having made
                         themselves masters of the town in his name; to the Spaniards, for driving
@@ -2221,8 +2221,8 @@ get the English version going; more proofreading on the Latin
                         rewarded some states; he left <placeName key="tgn,7008715">Tarraco</placeName> came by land to <placeName key="tgn,7008368">Narbonne</placeName>, and thence to <placeName key="tgn,7008781">Marseilles</placeName>. There he was informed of the
                         law touching the dictatorship, and that M. Lepidus the pretor had named him
                         to that office. </p>
-				</div2>
-				<div2 n="22" id="b2c22" type="chapter">
+				</div>
+				<div n="22" id="b2c22" type="chapter">
 					<p>The Marseillians, overwhelmed with profusion of calamities, reduced to the
                         utmost distress by famine, worsted in two different engagements by sea,
                         weakened by continual sallies, assaulted by a heavy pestilence, occasioned
@@ -2244,8 +2244,8 @@ get the English version going; more proofreading on the Latin
                         however to deliver up their arms, machines, and ships of war, whether in the
                         port or arsenal; to surrender all the money in their treasury; and to
                         receive a garrison of two legions. Then sending the rest of the army into <placeName key="tgn,1000080">Italy</placeName>, he himself set out for <placeName key="perseus,Rome">Rome</placeName>. </p>
-				</div2>
-				<div2 n="23" id="b2c23" type="chapter">
+				</div>
+				<div n="23" id="b2c23" type="chapter">
 					<p>About the same time, C. Curio sailed from <placeName key="tgn,7003122">Sicily</placeName> into <placeName key="tgn,7001242">Africa</placeName>, with two of the four legions which
                         had been put under his command by Caesar, and five hundred horse; having
                         conceived the highest contempt of the troops headed by P. Attius Varus.
@@ -2263,8 +2263,8 @@ get the English version going; more proofreading on the Latin
                         him from <placeName key="tgn,7001242">Africa</placeName>, to guard the transports; when he
                         saw Caesar's own galley upon the strand, he towed her off, and returned with
                         the fleet to Curio. </p>
-				</div2>
-				<div2 n="24" id="b2c24" type="chapter">
+				</div>
+				<div n="24" id="b2c24" type="chapter">
 					<p>Curio ordered him to sail directly for <placeName key="tgn,7018163">Utica</placeName>, and followed himself with the land
                         army. After a march of two days, he arrived at the river Bagradas, where he
                         left C. Caninius Rebilus with the legions, and advanced before with the
@@ -2276,8 +2276,8 @@ get the English version going; more proofreading on the Latin
                         fountain about half way, which runs towards the sea, and overflowing the
                         plain, forms a morass; to avoid this, in marching to <placeName key="tgn,7018163">Utica</placeName>, it is necessary to take a compass
                         of six miles.</p>
-				</div2>
-				<div2 n="25" id="b2c25" type="chapter">
+				</div>
+				<div n="25" id="b2c25" type="chapter">
 					<p> When he had taken a view of this post, he went next and examined Varus's
                         camp, which was under the walls of the town, towards the gate named the Gate
                         of War. The situation of it was extremely advantageous; for on the one side
@@ -2302,8 +2302,8 @@ get the English version going; more proofreading on the Latin
                         leaving <placeName key="tgn,7018163">Utica</placeName>, sailed whither they were ordered;
                         by which means the army was plentifully supplied with every thing they stood
                         in need of. </p>
-				</div2>
-				<div2 n="26" id="b2c26" type="chapter">
+				</div>
+				<div n="26" id="b2c26" type="chapter">
 					<p>These things despatched, Curio repaired to his camp at Bagrada, where, with
                         the joint acclamations of the whole army, he was saluted by the name of
                         Imperator. Next day he led his army towards <placeName key="tgn,7018163">Utica</placeName>, and encamped not far from the town.
@@ -2320,8 +2320,8 @@ get the English version going; more proofreading on the Latin
                         into confusion, at last betook themselves to flight. The cavalry, wheeling
                         nimbly along the shore, escaped, with little loss, into the town; but great
                         numbers of the infantry were cut to pieces. </p>
-				</div2>
-				<div2 n="27" id="b2c27" type="chapter">
+				</div>
+				<div n="27" id="b2c27" type="chapter">
 					<p>Next night, two centurions of the nation of the Marsi, with twenty-two
                         private soldiers, deserted from Curio, and went over to Attius Varus. These,
                         either believing the thing themselves, or desirous to carry grateful tidings
@@ -2331,8 +2331,8 @@ get the English version going; more proofreading on the Latin
                         advance, and come to a conference with them, Accordingly Varus drew out his
                         legions next day. Curio did the same; and the two armies stood facing one
                         another in order of battle, with a small valley between them. </p>
-				</div2>
-				<div2 n="28" id="b2c28" type="chapter">
+				</div>
+				<div n="28" id="b2c28" type="chapter">
 					<p>Sextus Quintilius Varus, who, as we have related above, had been made
                         prisoner at <placeName key="perseus,Corfinium">Corfinium</placeName>, was now in the enemy's
                         army: for Caesar having granted him his liberty, he had retired into <placeName key="tgn,7001242">Africa</placeName>. Curio had brought over with him
@@ -2349,8 +2349,8 @@ get the English version going; more proofreading on the Latin
                         follow his fortune and that of Attius. But his speech made no impression
                         upon Curio's troops, so that both armies retired to their respective camps.
                     </p>
-				</div2>
-				<div2 n="29" id="b2c29" type="chapter">
+				</div>
+				<div n="29" id="b2c29" type="chapter">
 					<p>But an uncommon panic soon spread itself over Curio's camp, which the various
                         discourses of the soldiers served only to increase. For every one had his
                         opinion, and added the suggestions of his own fear to that which he heard
@@ -2367,8 +2367,8 @@ get the English version going; more proofreading on the Latin
                         of the soldiers blamed their companions for this so great freedom of talk
                         and others, who affected to appear more diligent than the rest, enlarged in
                         their accounts of it to the officers. </p>
-				</div2>
-				<div2 n="30" id="b2c30" type="chapter">
+				</div>
+				<div n="30" id="b2c30" type="chapter">
 					<p>For these reasons,Curio summoning a council of war, began to deliberate were
                         for attacking, at all hazards, the camp of Varus, in order to find
                         employment for the soldiers, whose idleness they considered as the cause of
@@ -2380,8 +2380,8 @@ get the English version going; more proofreading on the Latin
                         disaster, they could, with more safety and ease, make good their retreat
                         into <placeName key="tgn,7003122">Sicily</placeName>, by means of the great number of
                         ships they were there provided with.</p>
-				</div2>
-				<div2 n="31" id="b2c31" type="chapter">
+				</div>
+				<div n="31" id="b2c31" type="chapter">
 					<p> Curio relished neither of these notions: the one, he thought, argued
                         cowardice; the other, a rash boldness: to retreat, would have all the
                         appearance of a shameful flight; to attack, they must resolve to fight in a
@@ -2410,8 +2410,8 @@ get the English version going; more proofreading on the Latin
                         called them together to deliberate upon the present state of affairs,
                         doubted not, with their assistance, to take such measures as would be
                         attended with success." </p>
-				</div2>
-				<div2 n="32" id="b2c32" type="chapter">
+				</div>
+				<div n="32" id="b2c32" type="chapter">
 					<p>He then dismissed the council; and assembling the soldiers, put them in mind
                         of what advantage their steadiness and zeal had been to Caesar at <placeName key="perseus,Corfinium">Corfinium</placeName>, and how serviceable
                         towards the conquest of the greatest part of <placeName key="tgn,1000080">Italy</placeName>. " It was you," said he, "that gave
@@ -2467,8 +2467,8 @@ get the English version going; more proofreading on the Latin
                         Imperator, which I am ready this moment to resign, if you think me unworthy
                         of the favour. Restore me my former name, that it may not be said I was
                         honoured, to be covered afterwards with the greater ignominy." </p>
-				</div2>
-				<div2 n="33" id="b2c33" type="chapter">
+				</div>
+				<div n="33" id="b2c33" type="chapter">
 					<p>These remonstrances made such an impression upon the soldiers, that they
                         frequently interrupted him while he was speaking, and appeared deeply
                         touched at his suspecting their fidelity. As he retired, they all gathered
@@ -2481,8 +2481,8 @@ get the English version going; more proofreading on the Latin
                         battle. Attius Varus did the same; that if an opportunity offered, either of
                         corrupting the soldiers, or fighting to advantage, he might be in readiness
                         to lay hold of it. </p>
-				</div2>
-				<div2 n="34" id="b2c34" type="chapter">
+				</div>
+				<div n="34" id="b2c34" type="chapter">
 					<p>Between the two armies lay a valley, as we have observed above, not indeed
                         considerable for its breadth, but steep and difficult of ascent. Both
                         sideswaited till the other should pass it, that they might engage to more
@@ -2504,8 +2504,8 @@ get the English version going; more proofreading on the Latin
                         thought of making resistance, fancying themselves already surrounded by our
                         cavalry; so that before we could arrive within reach of the dart, the whole
                         army of Varus fled and retreated to their camp. </p>
-				</div2>
-				<div2 n="35" id="b2c35" type="chapter">
+				</div>
+				<div n="35" id="b2c35" type="chapter">
 					<p>In this flight, one Fabius Pelignus, a centurion of the lowest rank in
                         Curio's army, as he was pursuing the fugitives, called with a loud voice to
                         Varus as if he had been one of his own men, who wanted to admonish him of
@@ -2528,8 +2528,8 @@ get the English version going; more proofreading on the Latin
                         observing this, and that a universal dread had seized the army, left only a
                         trumpet in the camp, with a few tents for show, and, about midnight,
                         silently entered the town with all his forces. </p>
-				</div2>
-				<div2 n="36" id="b2c36" type="chapter">
+				</div>
+				<div n="36" id="b2c36" type="chapter">
 					<p>Next day Curio resolved to besiege <placeName key="tgn,7018163">Utica</placeName>, and draw a line ofcircumvallation
                         round it. There was in the town a multitude of men unfit for the fatigues of
                         war, through a long enjoyment of peace. The inhabitants themselves were
@@ -2541,8 +2541,8 @@ get the English version going; more proofreading on the Latin
                         messengers sent by king <placeName key="tgn,1094266">Juba</placeName> arrived, who informed them of the
                         approach of his army, and exhorted them to defend the city; which
                         contributed not a little to confirm their wavering minds. </p>
-				</div2>
-				<div2 n="37" id="b2c37" type="chapter">
+				</div>
+				<div n="37" id="b2c37" type="chapter">
 					<p>Curio received the same news, but for some time would not believe it, so
                         greatly did he confide in his good fortune. Besides, Caesar's success in <placeName key="tgn,1000095">Spain</placeName> was already known in <placeName key="tgn,7001242">Africa</placeName>; whence he concluded it improbable
                         that <placeName key="tgn,1094266">Juba</placeName> would attempt any thing against him.
@@ -2557,8 +2557,8 @@ get the English version going; more proofreading on the Latin
                         resolved, therefore, with the consent of the whole army, to wait here the
                         arrival of the rest of the troops, and make preparation for continuing the
                         war. </p>
-				</div2>
-				<div2 n="38" id="b2c38" type="chapter">
+				</div>
+				<div n="38" id="b2c38" type="chapter">
 					<p>This resolution being taken, and meeting with general approbation, some of
                         the townsmen, who had deserted to Curio, informed him, that the war in which <placeName key="tgn,1094266">Juba</placeName> was engaged with the Leptitani,
                         having obliged him to return into his own kingdom, he had only sent his
@@ -2577,8 +2577,8 @@ get the English version going; more proofreading on the Latin
                         them therefore, in this confusion, and oppressed with sleep, they slew great
                         numbers, and obliged the rest to fly in the utmost consternation; after
                         which they returned to Curio with the prisoners they had taken. </p>
-				</div2>
-				<div2 n="39" id="b2c39" type="chapter">
+				</div>
+				<div n="39" id="b2c39" type="chapter">
 					<p>Curio had set out with all his forces about the fourth watch of the night,
                         leaving only five cohorts to guard his camp. After a march of six miles he
                         was met by his cavalry, who informed him of all that had passed. He asked
@@ -2602,8 +2602,8 @@ get the English version going; more proofreading on the Latin
                         with their late march, they found themselves unable to keep pace with the
                         army; but stopped, some in one place, some in another; which, however,
                         retarded not Curio's hopes. </p>
-				</div2>
-				<div2 n="40" id="b2c40" type="chapter">
+				</div>
+				<div n="40" id="b2c40" type="chapter">
 					<p><placeName key="tgn,1094266">Juba</placeName> having notice from Sabura of the
                         action in the night, detached to his assistance two thousand Spanish and
                         Gallic horse, of his ordinary guard, with that part of the infantry in which
@@ -2617,8 +2617,8 @@ get the English version going; more proofreading on the Latin
 					<p>Curio, flattered with new hopes, and imagining, by the enemy's motions, that
                         they were preparing for flight, made his troops come down from the mountain
                         into the plain; </p>
-				</div2>
-				<div2 n="41" id="b2c41" type="chapter">
+				</div>
+				<div n="41" id="b2c41" type="chapter">
 					<p>and advancing still farther, though his army was already very much fatigued,
                         halted at last to give the men breath. That moment Sabura sounded the
                         charge, led on his men in order of battle, and went from rank to rank to
@@ -2644,8 +2644,8 @@ get the English version going; more proofreading on the Latin
                         recommended their relations to their fellow-soldiers, if any should be so
                         fortunate as to escape that danger. The whole army was filled with
                         consternation and grief. </p>
-				</div2>
-				<div2 n="42" id="b2c42" type="chapter">
+				</div>
+				<div n="42" id="b2c42" type="chapter">
 					<p>Curio perceiving the general alarm, and that neither his exhortations nor
                         prayers were regarded, ordered the troops to retire with the standards to
                         the nearest mountains, as the only resource in the present exigence. But the
@@ -2659,8 +2659,8 @@ get the English version going; more proofreading on the Latin
                         of the cavalry escaped, those only excepted who had stopped to refresh their
                         horses; for perceiving at a distance the rout of the whole army, they
                         returned to their camp. All the infantry were slain to a man. </p>
-				</div2>
-				<div2 n="43" id="b2c43" type="chapter">
+				</div>
+				<div n="43" id="b2c43" type="chapter">
 					<p>When this disaster was known, M. Rufus the questor, whom Curio had left to
                         guard the camp, entreated his men not to lose courage. They begged and
                         requested him to reconduct them into <placeName key="tgn,7003122">Sicily</placeName>; which he promised, and ordered the
@@ -2676,8 +2676,8 @@ get the English version going; more proofreading on the Latin
                         rendezvous. The disorder was so great upon the shore, every one striving who
                         should first embark, that many boats sunk under the crowd, and others were
                         afraid to come near the land. </p>
-				</div2>
-				<div2 n="44" id="b2c44" type="chapter">
+				</div>
+				<div n="44" id="b2c44" type="chapter">
 					<p>Thus only a few soldiers and aged men, who either through interest or
                         compassion were received on board, or had strength enough to swim to the
                         transports, got safe to <placeName key="tgn,7003122">Sicily</placeName>. The rest, deputing their
@@ -2689,9 +2689,9 @@ get the English version going; more proofreading on the Latin
                         among whom were Servius Sulpicius, and Licinius Damasippus. Here he stayed a
                         few days, to give what orders he thought necessary; and then returned, with
                         all his forces, into his kingdom. </p>
-				</div2>
-			</div1>
-			<div1 n="3" type="book">
+				</div>
+			</div>
+			<div n="3" type="book">
 				<head>CAESAR'S COMMENTARIES of THE CIVIL WAR. </head>
 				<argument>
 					<list type="simple">
@@ -2805,7 +2805,7 @@ get the English version going; more proofreading on the Latin
                             new war.</item>
 					</list>
 				</argument>
-				<div2 n="1" id="b3c1" type="chapter">
+				<div n="1" id="b3c1" type="chapter">
 					<p>Caesar, as dictator, holding the Comitia, Julius Caesar, and P. Servilius,
                         were chosen consuls; for this was the year in which he could be elected to
                         that magistracy, consistent with the laws. This affair being despatched, as
@@ -2826,8 +2826,8 @@ get the English version going; more proofreading on the Latin
                         restoration should seem to flow from the people, than appear a mere act of
                         bounty in him, that he might neither be charged with ingratitude to his
                         followers, nor accused of invading the prerogatives of the people. </p>
-				</div2>
-				<div2 n="2" id="b3c2" type="chapter">
+				</div>
+				<div n="2" id="b3c2" type="chapter">
 					<p>All this business, with the celebration of the Latin festivals, and the
                         holding of the comitia for elections, took him up eleven days, at the end of
                         which he abdicated the dictatorship, and immediately set out from <placeName key="perseus,Rome">Rome</placeName>, in order to reach <placeName key="perseus,Brundusium">Brundusium</placeName>, where he had ordered
@@ -2838,8 +2838,8 @@ get the English version going; more proofreading on the Latin
                         and the long and painful march from <placeName key="tgn,1000095">Spain</placeName>; and an unhealthful autumn in <placeName key="tgn,7010380">Apulia</placeName>, and about <placeName key="perseus,Brundusium">Brundusium</placeName>, with the change of so
                         fine a climate as that of <placeName key="tgn,1000070">Gaul</placeName> and <placeName key="tgn,1000095">Spain</placeName>, had brought a general sickness
                         among the troops. </p>
-				</div2>
-				<div2 n="3" id="b3c3" type="chapter">
+				</div>
+				<div n="3" id="b3c3" type="chapter">
 					<p>Pompey having had a whole year to complete his preparations, undisturbed by
                         wars, and free from the interruption of an enemy, had collected a mighty
                         fleet from <placeName key="tgn,1000004">Asia</placeName> the <placeName key="tgn,7011270">Cyclades</placeName>, <placeName key="tgn,7010886">Corcyra</placeName>, <placeName key="perseus,Athens">Athens</placeName>, <placeName key="tgn,7016619">Pontus</placeName>, <placeName key="tgn,7016608">Bithynia</placeName>, <placeName key="tgn,1000140">Syria</placeName>, <placeName key="tgn,7002470">Cilicia</placeName>, <placeName key="tgn,6004687">Phoenicia</placeName>, and Eygpt, and had given orders
@@ -2847,8 +2847,8 @@ get the English version going; more proofreading on the Latin
                         people of <placeName key="tgn,1000004">Asia</placeName> and <placeName key="tgn,1000140">Syria</placeName>; from the kings, tetrarchs, and
                         dynasties of those parts; from the free states of <placeName key="tgn,7002733">Achaia</placeName>, and from the corporations of the
                         provinces subject to his command.</p>
-				</div2>
-				<div2 n="4" id="b3c4" type="chapter">
+				</div>
+				<div n="4" id="b3c4" type="chapter">
 					<p> He had raised nine legions of Roman citizens; five he had brought with him
                         from <placeName key="tgn,1000080">Italy</placeName>; one had been sent him from <placeName key="tgn,7003122">Sicily</placeName>, consisting wholly of veterans, and
                         called Gemella, because composed of two; another from <placeName key="tgn,7012056">Crete</placeName> and <placeName key="tgn,7006667">Macedonia</placeName>, of veteran soldiers likewise,
@@ -2873,8 +2873,8 @@ get the English version going; more proofreading on the Latin
                         of Dardanians and Bessians, partly volunteers, partly mercenaries; with
                         others from <placeName key="tgn,7006667">Macedonia</placeName>, <placeName key="tgn,7001399">Thessaly</placeName>, and the adjoining states and
                         provinces; who altogether made up the number mentioned above.</p>
-				</div2>
-				<div2 n="5" id="b3c5" type="chapter">
+				</div>
+				<div n="5" id="b3c5" type="chapter">
 					<p> To subsist this mighty army, he had taken care to amass vast quantities of
                         corn from <placeName key="tgn,7001399">Thessaly</placeName>, <placeName key="tgn,1000004">Asia</placeName>, <placeName key="tgn,7016833">Egypt</placeName>, <placeName key="tgn,7012056">Crete</placeName>, <placeName key="tgn,7000639">Cyrene</placeName>, and other countries; resolving to
                         quarter his troops, during the winter, at <placeName key="tgn,7010750">Dyrrhachium</placeName>, <placeName key="perseus,Apollonia">Apollonia</placeName>, and the other maritime
@@ -2884,8 +2884,8 @@ get the English version going; more proofreading on the Latin
                         Syrian; C. Marcellus and C. Coponius the Rhodian; Scribonius Libo and M.
                         Octavius the Liburnian and Achaian: but the chief authority was vested in M.
                         Bibulus, who was admiral of the whole, and gave his orders accordingly. </p>
-				</div2>
-				<div2 n="6" id="b3c6" type="chapter">
+				</div>
+				<div n="6" id="b3c6" type="chapter">
 					<p>Caesar, upon his arrival at <placeName key="perseus,Brundusium">Brundusium</placeName>, harangued his troops,
                         and told them: "That as they were now upon the point of seeing an end of all
                         their toils and dangers, they ought baggage behind them in <placeName key="tgn,1000080">Italy</placeName>, that they might embark with less
@@ -2899,8 +2899,8 @@ get the English version going; more proofreading on the Latin
                         port, as he apprehended they were all in the enemy's possession; he landed
                         his troops at a place called <placeName key="tgn,7010797">Pharsalus</placeName>, whither he brought his fleet,
                         without the loss of a single ship. </p>
-				</div2>
-				<div2 n="7" id="b3c7" type="chapter">
+				</div>
+				<div n="7" id="b3c7" type="chapter">
 					<p>Lucretius Vespillo and Minucius Rufus were at Oricum, with eighteen Asiatic
                         ships: and Bibulus had a hundred and ten at <placeName key="tgn,7010886">Corcyra</placeName>. But the first durst not hazard an
                         engagement, though Caesar was escorted by no more than twelve galleys, only
@@ -2908,8 +2908,8 @@ get the English version going; more proofreading on the Latin
                         and soldiers, who were dispersed in full security; for no news of Caesar's
                         approach had reached those parts, till his fleet was seen from the
                         continent. </p>
-				</div2>
-				<div2 n="8" id="b3c8" type="chapter">
+				</div>
+				<div n="8" id="b3c8" type="chapter">
 					<p>Caesar having landed his troops, sent the fleet back the same night to <placeName key="perseus,Brundusium">Brundusium</placeName>, to bring over his other
                         legions and cavalry. Fufius Kalenus, lieutenant-general, had the charge of
                         this expedition, with orders to use the utmost despatch. But setting sail
@@ -2924,8 +2924,8 @@ get the English version going; more proofreading on the Latin
                         extraordinary care, and even lay himself aboard, notwithstanding the rigour
                         of the winter; declining no danger nor fatigue, and solely intent upon
                         intercepting Caesar's supplies. </p>
-				</div2>
-				<div2 n="9" id="b3c9" type="chapter">
+				</div>
+				<div n="9" id="b3c9" type="chapter">
 					<p>After the departure of the Liburnian his command, sailed from <placeName key="tgn,7016683">Illyricum</placeName>, and came before <placeName key="tgn,7017320">Salona</placeName>. Having spirited up the Dalmatians,
                         and other barbarous nations in those parts, he drew <placeName key="tgn,1054432">Issa</placeName> to revolt from Caesar. But finding
                         that the council of <placeName key="tgn,7017320">Salona</placeName> was neither to be moved by promises
@@ -2953,8 +2953,8 @@ get the English version going; more proofreading on the Latin
                         and Octavius their leader, to betake themselves to their ships. Such was the
                         issue of the siege. As winter now approached, and the loss had been very
                         considerable; Octavius, despairing to reduce the place, retired to <placeName key="tgn,7010750">Dyrrhachium</placeName>, and joined Pompey. </p>
-				</div2>
-				<div2 n="10" id="b3c10" type="chapter">
+				</div>
+				<div n="10" id="b3c10" type="chapter">
 					<p>We have seen that L. Vibullius Rufus, Pompey's chief engineer, had fallen
                         twice into Caesar's hands, and been as often set at liberty; the first time
                         at <placeName key="perseus,Corfinium">Corfinium</placeName>, the next in <placeName key="tgn,1000095">Spain</placeName>. Having been therefore twice
@@ -2985,8 +2985,8 @@ get the English version going; more proofreading on the Latin
                         people. In fine, that to give Pompey a proof of his readiness to perform
                         these proposals, he would give immediate orders for the discharge of all his
                         forces, both in garrison and in the field." </p>
-				</div2>
-				<div2 n="11" id="b3c11" type="chapter">
+				</div>
+				<div n="11" id="b3c11" type="chapter">
 					<p>Vibullius having received these instructions, thought it necessary to give
                         Pompey speedy notice of Caesar's arrival, that he might be provided against
                         that event, before he laid open the commission he was charged with.
@@ -3004,8 +3004,8 @@ get the English version going; more proofreading on the Latin
                         accord, endeavouring to admit Caesar, Torquatus, despairing of relief,
                         opened the gates, and surrendered both himself and the town to Caesar, who
                         readily granted him his life. </p>
-				</div2>
-				<div2 n="12" id="b3c12" type="chapter">
+				</div>
+				<div n="12" id="b3c12" type="chapter">
 					<p>Caesar having made himself master of Oricum, marched directly to <placeName key="perseus,Apollonia">Apollonia</placeName>. Upon the report of his
                         arrival, L. Staberius, who commanded in the place, ordered water to be
                         carried into the castle, fortified it with great care, and demanded hostages
@@ -3017,8 +3017,8 @@ get the English version going; more proofreading on the Latin
                         rest of the neighbouring countries, and all <placeName key="tgn,7002705">Epirus</placeName>, followed their example;
                         acquainting Caesar, by their ambassadors, that they were ready to execute
                         his commands. </p>
-				</div2>
-				<div2 n="13" id="b3c13" type="chapter">
+				</div>
+				<div n="13" id="b3c13" type="chapter">
 					<p>Meanwhile Pompey, having notice of what passed at Oricum and <placeName key="perseus,Apollonia">Apollonia</placeName>, and being apprehensive
                         for <placeName key="tgn,7010750">Dyrrhachium</placeName>, marched day and night to
                         reach the place. At the same time it was reported that Caesar was not far
@@ -3038,8 +3038,8 @@ get the English version going; more proofreading on the Latin
                         and wait the arrival of the rest of his legions out of <placeName key="tgn,1000080">Italy</placeName>. Pompey did the like, and having
                         encamped on the other side of the Apsus, assembled there all his legions and
                         auxiliaries. </p>
-				</div2>
-				<div2 n="14" id="b3c14" type="chapter">
+				</div>
+				<div n="14" id="b3c14" type="chapter">
 					<p>Kalenus having embarked the legions and cavalry at <placeName key="perseus,Brundusium">Brundusium</placeName>, according to the
                         instructions he had received, put to sea with his whole fleet; but had not
                         sailed very far till he was met by letters from Caesar, informing him that
@@ -3050,8 +3050,8 @@ get the English version going; more proofreading on the Latin
                         Oricum, fell into the hands of Bibulus, who, not sparing the very children,
                         put all on board to death, both freemen and slaves. So much did the safety
                         of the whole army depend upon a single moment. </p>
-				</div2>
-				<div2 n="15" id="b3c15" type="chapter">
+				</div>
+				<div n="15" id="b3c15" type="chapter">
 					<p>Bibulus, as we have related above, lay at Oricum, with his fleet; and as he
                         deprived Caesar of all supplies by sea, so was he, in like manner, greatly
                         incommoded by Caesar at land; who, having disposed parties along the coast,
@@ -3073,8 +3073,8 @@ get the English version going; more proofreading on the Latin
                         Marcus and Acilius believing their proposals to be serious, knew how
                         extremely grateful they would be to Caesar, and doubted not but Vibullius
                         had succeeded in his negotiation. </p>
-				</div2>
-				<div2 n="16" id="b3c16" type="chapter">
+				</div>
+				<div n="16" id="b3c16" type="chapter">
 					<p>Caesar was then at <placeName key="perseus,Buthrotum">Buthrotum</placeName>, a town over against <placeName key="tgn,7010886">Corcyra</placeName>; whither he was gone, with one
                         legion, to reduce some of the more distant states, and supply himself with
                         corn, which then began to be scarce. Here, receiving letters from Acilius
@@ -3095,8 +3095,8 @@ get the English version going; more proofreading on the Latin
                         of hostility, till an answer could be obtained." He added something about
                         the justice of their cause, and their forces, both natural and
                         auxiliary;</p>
-				</div2>
-				<div2 n="17" id="b3c17" type="chapter">
+				</div>
+				<div n="17" id="b3c17" type="chapter">
 					<p> to which Caesar neither at that time returned any answer, nor do we now
                         think it of importance enough to be transmitted to posterity. Caesar's
                         demands were: "That he might have leave to send ambassadors to Pompey; and
@@ -3113,8 +3113,8 @@ get the English version going; more proofreading on the Latin
                         the only aim of the enemy was to extricate themselves out of their present
                         straits and danger, and that it was in vain to entertain any hopes of peace,
                         turned all his thoughts to the vigorous prosecution of the war. </p>
-				</div2>
-				<div2 n="18" id="b3c18" type="chapter">
+				</div>
+				<div n="18" id="b3c18" type="chapter">
 					<p>Bibulus having kept at sea for many days, and contracted a dangerous illness
                         by the cold and perpetual fatigue, as he could neither have proper
                         assistance on board, nor would be prevailed upon to quit his post, he at
@@ -3132,8 +3132,8 @@ get the English version going; more proofreading on the Latin
                         speech, after the conclusion of the war, by those who were present when it
                         was delivered: he still continued, however, by other methods, to try to
                         bring about an accommodation. </p>
-				</div2>
-				<div2 n="19" id="b3c19" type="chapter">
+				</div>
+				<div n="19" id="b3c19" type="chapter">
 					<p>As the two camps were only separated by the river Apsus, the soldiers had
                         frequent discourse among themselves; and it was settled by mutual consent,
                         that no act of hostility should pass during the conferences. Caesar taking
@@ -3159,8 +3159,8 @@ get the English version going; more proofreading on the Latin
                         wounded. Labienus then lifted up his voice, and cried: "Leave off prating of
                         an accommodation; for you must not expect peace, till you bring us Caesar's
                         head." </p>
-				</div2>
-				<div2 n="20" id="b3c20" type="chapter">
+				</div>
+				<div n="20" id="b3c20" type="chapter">
 					<p>About the same time, M. Caelius Rufus, pretor at <placeName key="tgn,7000874">Rome</placeName> for foreign affairs, having
                         undertaken the cause of the debtors, on his entrance into his office,
                         ordered his tribunal to be fixed near that of the city pretor, C. Trebonius,
@@ -3180,8 +3180,8 @@ get the English version going; more proofreading on the Latin
                         an unjustifiable cause, he published a law, by which he allowed the debtors
                         six years for the discharge of their debts, wihch they were to clear at
                         equal payments, without interest.</p>
-				</div2>
-				<div2 n="21" id="b3c21" type="chapter">
+				</div>
+				<div n="21" id="b3c21" type="chapter">
 					<p>But the consul Servilius, and the rest of the magistrates opposing the law,
                         when he found it had not the effect he expected, he thought proper to drop
                         that design; and in the view of inflaming the people, proposed two new laws;
@@ -3203,8 +3203,8 @@ get the English version going; more proofreading on the Latin
                         increased every moment, because the citizens had taken arms, and began to
                         consider him as a public enemy; he desisted from the project he had formed,
                         and thought proper to change his rout.</p>
-				</div2>
-				<div2 n="22" id="b3c22" type="chapter">
+				</div>
+				<div n="22" id="b3c22" type="chapter">
 					<p>In the meantime <placeName key="tgn,7010922">Milo</placeName>, having despatched letters to all the
                         colonies and free towns, intimating that what he did was in virtue of
                         Pompey's authority, who had sent him orders by Bibulus, endeavored to draw
@@ -3220,8 +3220,8 @@ get the English version going; more proofreading on the Latin
                         wherewith the magistrates were distracted, and the ticklish situation of the
                         times, threatened great revolutions, and alarmed all <placeName key="tgn,1000080">Italy</placeName>, were brought to a safe and speedy
                         issue. </p>
-				</div2>
-				<div2 n="23" id="b3c23" type="chapter">
+				</div>
+				<div n="23" id="b3c23" type="chapter">
 					<p>Libo leaving Oricum, with the fleet under his command, consisting of fifty
                         sail, came to <placeName key="perseus,Brundusium">Brundusium</placeName>, and possessed himself
                         of an island directly facing the harbour, judging it of more consequence to
@@ -3234,8 +3234,8 @@ get the English version going; more proofreading on the Latin
                         that he wrote Pompey word, he might draw the rest of the navy on shore, and
                         order them to be careened; for he alone, with his squadron, would undertake
                         to cut off Caesar's supplies. </p>
-				</div2>
-				<div2 n="24" id="b3c24" type="chapter">
+				</div>
+				<div n="24" id="b3c24" type="chapter">
 					<p>Antony was then at <placeName key="perseus,Brundusium">Brundusium</placeName>, who confiding in the
                         valour of the troops, ordered some boats belonging to the fleet to be armed
                         with hurdles and galleries, and having filled them with chosen troops,
@@ -3252,8 +3252,8 @@ get the English version going; more proofreading on the Latin
                         along the coast, hindered the enemy from watering; which reduced them to
                         such straits that Libo was forced to quit the blockade or <placeName key="perseus,Brundusium">Brundusium</placeName>, and retire with his
                         fleet. </p>
-				</div2>
-				<div2 n="25" id="b3c25" type="chapter">
+				</div>
+				<div n="25" id="b3c25" type="chapter">
 					<p>Several months had now passed; the winter was almost over; meantime, neither
                         the ships nor legions were yet arrived, which Caesar expected from <placeName key="perseus,Brundusium">Brundusium</placeName>. He could not help
                         thinking that some opportunities had been lost, as it was certain the wind
@@ -3270,8 +3270,8 @@ get the English version going; more proofreading on the Latin
                         to steer for the coast of <placeName key="perseus,Apollonia">Apollonia</placeName>, which they could approach
                         with less danger, as it was not so strictly guarded by the enemy, who were
                         afraid of venturing on a coast so ill provided with havens. </p>
-				</div2>
-				<div2 n="26" id="b3c26" type="chapter">
+				</div>
+				<div n="26" id="b3c26" type="chapter">
 					<p>The lieutenants, roused and emboldened by these letters, and encouraged by
                         the exhortations of the troops themselves, who professed they were ready to
                         face any danger for Caesar's sake, embarked under the direction of M. Antony
@@ -3292,16 +3292,16 @@ get the English version going; more proofreading on the Latin
                         favourable turn: for the fleet so lately in danger from the enemy, was
                         sheltered in a safe commodious port; and that whichthreatened ours with
                         destruction, was in its turn exposed to the utmost peril. </p>
-				</div2>
-				<div2 n="27" id="b3c27" type="chapter">
+				</div>
+				<div n="27" id="b3c27" type="chapter">
 					<p>By this unexpected
                         change, the storm, which protected our fleet, beat so furiously on the
                         Rhodian galleys, that they were all, to the number of sixteen, broken to
                         pieces against the shore. Most of the soldiers and mariners perished among
                         the rocks: the rest were taken up by our men, and sent by Caesar's orders to
                         their several homes. </p>
-				</div2>
-				<div2 n="28" id="b3c28" type="chapter">
+				</div>
+				<div n="28" id="b3c28" type="chapter">
 					<p>Two of our transports, unable to keep up with the rest, were overtaken by the
                         night: and not knowing where the fleet had put in, cast anchor over against <placeName key="tgn,7010760">Lissus</placeName>. Otacilius Crassus, who commanded
                         in the place, sent out some boats and small vessels to attack them: at the
@@ -3321,8 +3321,8 @@ get the English version going; more proofreading on the Latin
                         pursued them sword in hand; but they defendedthemselves with great bravery,
                         and having slain some of the enemy, rejoined, without loss, the rest of the
                         troops. </p>
-				</div2>
-				<div2 n="29" id="b3c29" type="chapter">
+				</div>
+				<div n="29" id="b3c29" type="chapter">
 					<p>Upon this the Roman citizens inhabiting <placeName key="tgn,7010760">Lissus</placeName>, to whom Caesar had before made a
                         grant of the town, after fortifying it with great care, opened their gates
                         to Antony, and furnished him with every thing he stood in need of.
@@ -3335,8 +3335,8 @@ get the English version going; more proofreading on the Latin
                         to run thither, as was commonly rumoured, Caesar might be able to follow
                         him. At the same time he gave Caesar speedy notice of the number of forces
                         he had brought over with him, and the place where he had landed. </p>
-				</div2>
-				<div2 n="30" id="b3c30" type="chapter">
+				</div>
+				<div n="30" id="b3c30" type="chapter">
 					<p>This intelligence reached Caesar and Pompey much about the same time; for
                         both had seen the fleet pass <placeName key="perseus,Apollonia">Apollonia</placeName> and <placeName key="tgn,7010750">Dyrrhachium</placeName>, and had in consequence
                         directed their march that way; but neither knew, for some days, into what
@@ -3356,8 +3356,8 @@ get the English version going; more proofreading on the Latin
                         armies, quitted the place, and coming with all his forces to Asparagium, a
                         town belonging to the Dyrrhachians, encamped there on an advantageous
                         ground. </p>
-				</div2>
-				<div2 n="31" id="b3c31" type="chapter">
+				</div>
+				<div n="31" id="b3c31" type="chapter">
 					<p>About the same time Scipio, notwithstanding some checks he had received near
                         Mount Amanus, assumed the title of emperor; after which he exacted great
                         sums of money from the neighbouring states and princes; obliged the farmers
@@ -3373,8 +3373,8 @@ get the English version going; more proofreading on the Latin
                         these discontents, he made considerable presents to the troops, quartered
                         them in <placeName key="tgn,7016140">Pergamus</placeName> and other rich towns, and gave up
                         the whole country to their discretion.</p>
-				</div2>
-				<div2 n="32" id="b3c32" type="chapter">
+				</div>
+				<div n="32" id="b3c32" type="chapter">
 					<p> Meanwhile the money demanded of the province was levied with great rigour,
                         and various pretences were devised, to serve as a ground to new exactions.
                         Slaves and freemen were subject to a capitation tax. Imposts were laid upon
@@ -3396,8 +3396,8 @@ get the English version going; more proofreading on the Latin
                         state and corporation, as a loan upon the senate's decree; and the farmers
                         of the revenue were ordered to advance the next year's tribute, in like
                         manner as when they first entered upon office.</p>
-				</div2>
-				<div2 n="33" id="b3c33" type="chapter">
+				</div>
+				<div n="33" id="b3c33" type="chapter">
 					<p> Besides all this, Scipio gave orders for seizing the treasures of the temple
                         of Diana at <placeName key="tgn,7002499">Ephesus</placeName>, with all the statues of that
                         goddess. But when he came to the temple, attended by many persons of
@@ -3408,8 +3408,8 @@ get the English version going; more proofreading on the Latin
                         at <placeName key="tgn,7002499">Ephesus</placeName>, made preparations for passing
                         into <placeName key="tgn,7006667">Macedonia</placeName>, and began his march a few days
                         after. Thus the Ephesian treasures escaped being plundered. </p>
-				</div2>
-				<div2 n="34" id="b3c34" type="chapter">
+				</div>
+				<div n="34" id="b3c34" type="chapter">
 					<p>Caesar having joined Antony's army, and recalled the legion he had left at
                         Oricum to guard the sea-coast, judged it necessary to advance farther into
                         the country, and possess himself of the more distant provinces. At the same
@@ -3423,16 +3423,16 @@ get the English version going; more proofreading on the Latin
                         with the eleventh and twelfth legions, and five hundred horse, to march into <placeName key="tgn,7006667">Macedonia</placeName>: for Menedemus, the principal
                         man of that country, having come ambassador to Caesar, had assured him of
                         the affection of the province. </p>
-				</div2>
-				<div2 n="35" id="b3c35" type="chapter">
+				</div>
+				<div n="35" id="b3c35" type="chapter">
 					<p>Calvisius was well received by the Aetolians, and having driven the enemy's
                         garrisons from Calydon and Naupactum, possessed himself of the whole
                         country. Cassius arriving in <placeName key="tgn,7001399">Thessaly</placeName> with his legion, found the state
                         divided into two factions. Egesaretus, a man in years, and of established
                         credii, favoured Pompey; Petreius, a young nobleman of the first rank,
                         exerted his whole interest in behalf of Caesar. </p>
-				</div2>
-				<div2 n="36" id="b3c36" type="chapter">
+				</div>
+				<div n="36" id="b3c36" type="chapter">
 					<p>About the same time Domitius arrived in <placeName key="tgn,7006667">Macedonia</placeName>; and while deputies were
                         attending him from all parts, news came that Scipio approached with his
                         legions, which spread a great alarm through the country; as fame, for the
@@ -3457,8 +3457,8 @@ get the English version going; more proofreading on the Latin
                         opportunely, that the dust of Domitius's army, and his advanced parties,
                         were descried at the same time. Thus Domitius's care preserved Cassius, and
                         Scipio's diligence Favonius. </p>
-				</div2>
-				<div2 n="37" id="b3c37" type="chapter">
+				</div>
+				<div n="37" id="b3c37" type="chapter">
 					<p>Scipio continued two days in his camp upon the Haliacmon, which ran between
                         him and the army of Domitius, put his troops in motion on the third, and by
                         day-break forded the river. Early next morning he drew up his troops in
@@ -3481,8 +3481,8 @@ get the English version going; more proofreading on the Latin
                         their turn vigorously charged the enemy. About fourscore fell on this
                         occasion; the rest betook themselves to flight; and our men returned to
                         their camp, with the loss of only two of their number. </p>
-				</div2>
-				<div2 n="38" id="b3c38" type="chapter">
+				</div>
+				<div n="38" id="b3c38" type="chapter">
 					<p>After this rencounter, Domitius, hoping to draw Scipio to a battle, feigned
                         to decamp for want of provisions; and having made the usual signal for
                         retreating, after a march of three miles, drew up his cavalry and legions in
@@ -3497,8 +3497,8 @@ get the English version going; more proofreading on the Latin
                         two squadrons that were most advanced. M. Opinius, general of the horse to
                         Domitius, was amongst these, but somehow found means to escape. All the rest
                         were either slain, or made prisoners. </p>
-				</div2>
-				<div2 n="39" id="b3c39" type="chapter">
+				</div>
+				<div n="39" id="b3c39" type="chapter">
 					<p>Caesar having drawn off his garrisons from the sea-coast, as we have related
                         above, left three cohorts at Oricum to defend the town, and committed to
                         their charge the one of his lieutenants, had the command of these troops;
@@ -3507,8 +3507,8 @@ get the English version going; more proofreading on the Latin
                         transport in the mouth of the haven, behind which another rode at anchor, on
                         whose deck a tower was erected, facing the entrance of the port, and filled
                         with troops, to be ready in case of surprise.</p>
-				</div2>
-				<div2 n="40" id="b3c40" type="chapter">
+				</div>
+				<div n="40" id="b3c40" type="chapter">
 					<p> Young Pompey, who commanded the Egyptian fleet, having notice of this, came
                         to Oricum; weighed up the vessel that had been sunk in the mouth of the
                         harbour; and, after an obstinate resistance, took the other, which had been
@@ -3530,8 +3530,8 @@ get the English version going; more proofreading on the Latin
                         garrison Caesar had left, defended it so well, that at the end of three
                         days, he retired without effecting his purpose, having lost some men in the
                         attempt. </p>
-				</div2>
-				<div2 n="41" id="b3c41" type="chapter">
+				</div>
+				<div n="41" id="b3c41" type="chapter">
 					<p>Caesar being informed that Pompey was at Asparagium, marched thither with his
                         army; and having taken the capital of the Parthinians by the way, where
                         Pompey had a garrison; arrived the third day in <placeName key="tgn,7006667">Macedonia</placeName>, and encamped at a small
@@ -3551,8 +3551,8 @@ get the English version going; more proofreading on the Latin
                         allowing them to repose during only a small part of the night, arrived next
                         morning at <placeName key="tgn,7010750">Dyrrhachium</placeName>, where he immediately formed a
                         camp, just as Pompey's van began to appear at a distance. </p>
-				</div2>
-				<div2 n="42" id="b3c42" type="chapter">
+				</div>
+				<div n="42" id="b3c42" type="chapter">
 					<p>Pompey, thus excluded from <placeName key="tgn,7010750">Dyrrhachium</placeName>, and unable to execute his
                         first design, came to a resolution of encamping on an eminence, called <placeName key="perseus,Petra">Petra</placeName>, where was a tolerable harbour,
                         sheltered from some winds. Here he ordered part of his fleet to attend him,
@@ -3569,8 +3569,8 @@ get the English version going; more proofreading on the Latin
                         the inhabitants often to import grain; partly because Pompey, foreseeing
                         Caesar's wants, had, some days before, ravaged the country of the
                         Parthinians, plundered their houses, and, corn. </p>
-				</div2>
-				<div2 n="43" id="b3c43" type="chapter">
+				</div>
+				<div n="43" id="b3c43" type="chapter">
 					<p>For these reasons, Caesar formed a project, which the very nature of the
                         country suggested. All round Pompey's camp, at a small distance, were high
                         and steep hills. Caesar took possession of those hills, and built forts upon
@@ -3583,8 +3583,8 @@ get the English version going; more proofreading on the Latin
                         when it should be reported all over the world, that he had suffered himself
                         to be blockaded, and, as it were, imprisoned by Caesar's works; and durst
                         not hazard a battle to set himself at liberty. </p>
-				</div2>
-				<div2 n="44" id="b3c44" type="chapter">
+				</div>
+				<div n="44" id="b3c44" type="chapter">
 					<p>Pompey would neither leave the sea and <placeName key="tgn,7010750">Dyrrhachium</placeName>, where he had all his
                         magazines and engines of war, and whence he was supplied with provisions by
                         means of his fleet; nor could prevent the progress of Caesar's works,
@@ -3605,8 +3605,8 @@ get the English version going; more proofreading on the Latin
                         and slingers; who wounded great numbers of our men, and occasioned such a
                         dread of their arrows, that almost all the soldiers furnished themselves,
                         with coats of danger. </p>
-				</div2>
-				<div2 n="45" id="b3c45" type="chapter">
+				</div>
+				<div n="45" id="b3c45" type="chapter">
 					<p>Both parties disputed every post with great obstinacy: Caesar, that he might
                         inclose Pompey within as narrow a space as possible; and Pompey, that he
                         might have liberty to extend himself; which occasioned many sharp
@@ -3623,8 +3623,8 @@ get the English version going; more proofreading on the Latin
                         drawing off, imagining he gave way through fear. Pompey went so far as to
                         say, That he consented to be accounted a general of no merit, if Caesar's
                         men got off without considerable loss.</p>
-				</div2>
-				<div2 n="46" id="b3c46" type="chapter">
+				</div>
+				<div n="46" id="b3c46" type="chapter">
 					<p>Caesar, concerned about the retreat of his men, ordered hurdles to be fixed
                         on the ridge of the hill fronting the enemy: behind which he dug a moderate
                         ditch, and rendered the place as inaccessible as he could, on all sides.
@@ -3644,8 +3644,8 @@ get the English version going; more proofreading on the Latin
                         their retreat, having killed several of the enemy, and lost only five of
                         their own number, retired without the least disturbance, and inclosing some
                         other hills within their lines, completed the circumvallation. </p>
-				</div2>
-				<div2 n="47" id="b3c47" type="chapter">
+				</div>
+				<div n="47" id="b3c47" type="chapter">
 					<p>This method of making war was new and extraordinary; as well in regard to the
                         number of forts, the extent of the circumvallation, the greatness of his
                         works, and the manner of attack and defence, as on other accounts. For
@@ -3667,15 +3667,15 @@ get the English version going; more proofreading on the Latin
                         of corn, they took it cheerfully; and thought themselves regaled when they
                         got any cattle, which <placeName key="tgn,7002705">Epirus</placeName> furnished them with in great
                         abundance.</p>
-				</div2>
-				<div2 n="48" id="b3c48" type="chapter">
+				</div>
+				<div n="48" id="b3c48" type="chapter">
 					<p> They discovered in the country a root, called chara, which they pounded and
                         kneaded with milk, so as to make a sort of bread of it. This furnished a
                         plentiful supply; and when their adversaries reproached them with their
                         want, by way of answer to their insults, they threw their loaves at them.
                     </p>
-				</div2>
-				<div2 n="49" id="b3c49" type="chapter">
+				</div>
+				<div n="49" id="b3c49" type="chapter">
 					<p>By this time, the corn began to ripen, and the hopes of a speedy supply
                         supported the soldiers under their present wants. Nay, they were often heard
                         to say one to another, that they would sooner live on the bark of trees,
@@ -3696,15 +3696,15 @@ get the English version going; more proofreading on the Latin
                         of all kinds of provisions, corn excepted, which they hoped to be soon
                         supplied with, as the season was now pretty far advanced, and harvest
                         approached. </p>
-				</div2>
-				<div2 n="50" id="b3c50" type="chapter">
+				</div>
+				<div n="50" id="b3c50" type="chapter">
 					<p>In this method of making war, new stratagems were every day put in practice
                         by both generals. Pompey's soldiers, observing by the fires the place where
                         our cohorts were upon guard, stole thither privately by night, and pouring
                         upon them a flight of arrows, retired instantly to their camp, which obliged
                         our men to have fires in one place, and keep guard in another. </p>
-				</div2>
-				<div2 n="51" id="b3c51" type="chapter">
+				</div>
+				<div n="51" id="b3c51" type="chapter">
 					<p>Meanwhile P. Sylla, whom Caesar at his departure had left to command the
                         camp, being informed of what passed, came to the assistance of the cohort,
                         with two legions. His arrival soon put the Pompeians to flight, who could
@@ -3728,16 +3728,16 @@ get the English version going; more proofreading on the Latin
                         an eminence, at such a distance from our fort, as to be secure from darts
                         and military engines. Here he encamped, threw up an intrenchment, and drew
                         his forces together to defend the place. </p>
-				</div2>
-				<div2 n="52" id="b3c52" type="chapter">
+				</div>
+				<div n="52" id="b3c52" type="chapter">
 					<p>At the same time we were engaged in two other places; for Pompey attacked
                         several castles together to divide our forces, and hinder the forts from
                         mutually sucouring one another. In one of these, Volcatius Tullus, with
                         three cohorts, sustained the charge of a whole legion, and forced them to
                         retire. In the other, the Germans, sallying out of their intrenchments, slew
                         several of the enemy, and returned again without loss. </p>
-				</div2>
-				<div2 n="53" id="b3c53" type="chapter">
+				</div>
+				<div n="53" id="b3c53" type="chapter">
 					<p>Thus there happened no less than six actions in one day; three near <placeName key="tgn,7010750">Dyrrhachium</placeName>, and three about the lines. In
                         computing the number of the slain, it appeared that Pompey lost about two
                         thousand men, with several volunteers and centurions, among whom was
@@ -3754,17 +3754,17 @@ get the English version going; more proofreading on the Latin
                         the preservation of the fort was chiefly owing to his valour. He also
                         distributed military rewards among the other offithem double pay, and a
                         double allowance of corn. </p>
-				</div2>
-				<div2 n="54" id="b3c54" type="chapter">
+				</div>
+				<div n="54" id="b3c54" type="chapter">
 					<p>Pompey laboured all night at his fortifications, raised redoubts the
                         following lays, and having carried his works fifteen feet high, covered that
                         part of his camp with mantelets. Five days after, taking advantage of very
                         dark night, he walled up the gates of his camp, rendered all the avenues
                         impracticable; and drawing out his troops in great silence about midnight,
                         returned to his former works. </p>
-				</div2>
+				</div>
 				<!-- 55 occurs elsewhere in this translation -->
-				<div2 n="56" id="b3c56" type="chapter">
+				<div n="56" id="b3c56" type="chapter">
 					<p><placeName key="tgn,7002678">Aetolia</placeName>, <placeName key="tgn,7002679">Acarnania</placeName>, and Amphilochis, having been
                         reduced by Cassius Longinus, and Calvisius Sabinus, as we have related
                         above; Caesar thought it expedient to pursue his conquests, and attempt to
@@ -3776,16 +3776,16 @@ get the English version going; more proofreading on the Latin
                         Calenus; some states he obtained by force, and sending deputies to the rest
                         endeavoured to make them declare for Caesar. These negotiations found
                         sufficient employment for Fufius. </p>
-				</div2>
-				<div2 n="55" id="b3c55" type="chapter">
+				</div>
+				<div n="55" id="b3c55" type="chapter">
 					<p>Caesar meanwhile drew up his army every day, offering Pompey battle upon
                         equal ground; and, to provoke him to accept it, advanced so near his camp,
                         that his van was within engine-shot of the rampart. Pompey, to preserve his
                         reputation, drew out his legions too, but posted them in such a manner, that
                         his third line touched the rampart, and the whole army lay under cover of
                         the weapons discharged from thence. </p>
-				</div2>
-				<div2 n="57" id="b3c57" type="chapter">
+				</div>
+				<div n="57" id="b3c57" type="chapter">
 					<p>Whilst these things passed in <placeName key="tgn,7002733">Achaia</placeName> and at <placeName key="tgn,7010750">Dyrrhachium</placeName>, and it was now known that
                         Scipio was arrived in <placeName key="tgn,7006667">Macedonia</placeName>. Caesar still adhering to his
                         former views of peace, despatched Clodius to him, an intimate friend of
@@ -3804,8 +3804,8 @@ get the English version going; more proofreading on the Latin
                         Favonius having sharply reprimanded Scipio, as we learned after the
                         conclusion of the war, the negotiation was discontinued, and Clodius
                         returned to Caesar without success. </p>
-				</div2>
-				<div2 n="58" id="b3c58" type="chapter">
+				</div>
+				<div n="58" id="b3c58" type="chapter">
 					<p>Caesar, the more effectually to shut up Pompey's horse at <placeName key="tgn,7010750">Dyrrhachium</placeName>, and hinder them from
                         foraging, blocked up the two narrow passes, of which we have spoken, with
                         strong works, and raised forts to defend them. Pompey finding his cavalry
@@ -3818,8 +3818,8 @@ get the English version going; more proofreading on the Latin
                         with barley, and by these contrivances support their horses. At last, all
                         expedients being exhausted, and the horses dying daily, Pompey thought it
                         time to attempt to force the barricade, and set himself at liberty. </p>
-				</div2>
-				<div2 n="59" id="b3c59" type="chapter">
+				</div>
+				<div n="59" id="b3c59" type="chapter">
 					<p>Among the cavalry in Caesar's camp were two brothers, Allobrogians by birth,
                         named Roscillus and Aegus, the sons of Adbucillus, who had long held the
                         chief sway in his own state; men of singular bravery, and who had been of
@@ -3835,8 +3835,8 @@ get the English version going; more proofreading on the Latin
                         at these proceedings, went in a body to Caesar, and openly complained of the
                         two brothers; adding, among other accusations, that, by giving in false
                         musters, they received pay for more men than they had.</p>
-				</div2>
-				<div2 n="60" id="b3c60" type="chapter">
+				</div>
+				<div n="60" id="b3c60" type="chapter">
 					<p> Caesar not thinking it a proper time for animadversion, and regarding them
                         greatly on account of their valour, declined all public notice of the
                         affair, and contented himself with reprimanding them in private, admonishing
@@ -3858,8 +3858,8 @@ get the English version going; more proofreading on the Latin
                         pretence of reimbursing the troops, and making restitution; and having
                         bought up a great number of horses, went over to Pompey, with those whom
                         they had made acquainted with their design.</p>
-				</div2>
-				<div2 n="61" id="b3c61" type="chapter">
+				</div>
+				<div n="61" id="b3c61" type="chapter">
 					<p> As they were persons of noble birth, liberally educated, came with a great
                         train of horses and servants, had been highly honoured by Caesar, and were
                         universally esteemed on account of their valour, Pompey carried them
@@ -3872,8 +3872,8 @@ get the English version going; more proofreading on the Latin
                         foible of the lines lay, the particular times, distance of places, strength
                         and vigilance of the guards, with the temper and character of the officers
                         who commanded in every post, made an exact report of all to Pompey. </p>
-				</div2>
-				<div2 n="62" id="b3c62" type="chapter">
+				</div>
+				<div n="62" id="b3c62" type="chapter">
 					<p>Upon this intelligence, having already formed the design of forcing Caesar's
                         lines, he ordered the soldiers to make coverings of osier for their helmets,
                         and provide themselves with fascines. This done, he embarked by night, in
@@ -3887,8 +3887,8 @@ get the English version going; more proofreading on the Latin
                         instructions. Lentulus Marcellinus the questor, with the ninth legion, had
                         charge of this part of the fortifications: and as his health was but infirm,
                         Caesar had joined Fulvius Posthumus with him in tilhcommand. </p>
-				</div2>
-				<div2 n="63" id="b3c63" type="chapter">
+				</div>
+				<div n="63" id="b3c63" type="chapter">
 					<p>This place was guarded by a ditch, fifteen feet broad, with a rampart towards
                         the enemy, ten feet high, and of equal thickness. Behind this, at the
                         distance of six hundred feet, was another rampart, somewhat lower than the
@@ -3916,8 +3916,8 @@ get the English version going; more proofreading on the Latin
                         between the two ramparts, where the line of communication towards the sea
                         remained unfinished, they attacked our soldiers in the rear, and obliged
                         them to abandon both sides of the works. </p>
-				</div2>
-				<div2 n="64" id="b3c64" type="chapter">
+				</div>
+				<div n="64" id="b3c64" type="chapter">
 					<p>Marcellinus hearing of this disorder, detached some cohorts to sustain the
                         flying troops: but as the rout was become general, they could neither
                         persuade them to rally, nor were able themselves to withstand the enemy's
@@ -3933,8 +3933,8 @@ get the English version going; more proofreading on the Latin
                         experience, in losing it, an ignominy, with which they have been hitherto
                         unacquainted." Thus the eagle was preserved ; but all the centurions of the
                         first cohort were slain, except the first of the Principes. </p>
-				</div2>
-				<div2 n="65" id="b3c65" type="chapter">
+				</div>
+				<div n="65" id="b3c65" type="chapter">
 					<p>And now the Pompeians, having made great slaughter of our men, approached the
                         quarters of Marcellinus, to the no small terror of the rest of the cohorts;
                         when Mark Antony, who commanded in the nearer redoubts, upon notice of what
@@ -3947,8 +3947,8 @@ get the English version going; more proofreading on the Latin
                         forced the lines, being able to forage, and having an easy communication
                         with the sea; he quitted his former project, which had proved unsuccessful,
                         and encamped as near Pompey as he could. </p>
-				</div2>
-				<div2 n="66" id="b3c66" type="chapter">
+				</div>
+				<div n="66" id="b3c66" type="chapter">
 					<p>When the intrenchments were finished, Caesar had notice from his scouts, that
                         a certain number of the enemy's cohorts, which to them appeared a complete
                         legion, were retired behind a wood, and seemed to be on their march to the
@@ -3967,8 +3967,8 @@ get the English version going; more proofreading on the Latin
                         mind, for reasons which it is not needful to repeat here; and abandoned the
                         place, which thereby was left several days without troops, though the
                         fortifications remained entire.</p>
-				</div2>
-				<div2 n="67" id="b3c67" type="chapter">
+				</div>
+				<div n="67" id="b3c67" type="chapter">
 					<p> Hither the scouts reported they saw the standard of a legion carried; which
                         was likewise confirmed by those who were stationed in the higher forts. The
                         place was about five hundred paces distant from Pompey's new camp. Caesar,
@@ -3989,8 +3989,8 @@ get the English version going; more proofreading on the Latin
                         barricade, broke first into the greater camp, and afterwards into the fort
                         within it, whither the legion had retired, some of whom were slain,
                         endeavouring to defend themselves. </p>
-				</div2>
-				<div2 n="68" id="b3c68" type="chapter">
+				</div>
+				<div n="68" id="b3c68" type="chapter">
 					<p>But fortune, whose influence is very great, as in other things, so
                         particularly in war; often effects mighty changes from the most trifling
                         causes: as happened upon this occasion. For the cohorts of Caesar's right
@@ -3999,8 +3999,8 @@ get the English version going; more proofreading on the Latin
                         quest of a gate; but perceiving at length their error, and that nobody
                         defend. ed the intrenchment, they immediately mounted the rampart, and were
                         followed by the whole cavalry.</p>
-				</div2>
-				<div2 n="69" id="b3c69" type="chapter">
+				</div>
+				<div n="69" id="b3c69" type="chapter">
 					<p> This delay saved the enemy: for Pompey, having notice of what passed,
                         brought up the fifth legion to sustain his party; so that at one and the
                         same instant, his cavalry approached ours, and his troops were seen
@@ -4024,8 +4024,8 @@ get the English version going; more proofreading on the Latin
                         seized any by the arm, they struggled till they got away. If he laid hold of
                         the colours, they left them in his hands. Not a man could be prevailed on to
                         face about. </p>
-				</div2>
-				<div2 n="70" id="b3c70" type="chapter">
+				</div>
+				<div n="70" id="b3c70" type="chapter">
 					<p>In this calamity, what saved the army from entire destruction was, that
                         Pompey, apprehending an ambuscade (probably because the success was beyond
                         his hopes, as a little before he had seen his men worsted and put to
@@ -4036,8 +4036,8 @@ get the English version going; more proofreading on the Latin
                         camp and the river, stopped the course of Caesar's victory, when he had
                         already forced Pompey's lines: and the same, by retarding the pursuit of his
                         enemy, saved the army from destruction. </p>
-				</div2>
-				<div2 n="71" id="b3c71" type="chapter">
+				</div>
+				<div n="71" id="b3c71" type="chapter">
 					<p>In these two actions, Caesar lost nine hundred and sixty private men, thirty
                         officers, and several knights of note, as Flavius Tuticanus Gallus, a
                         senator's son; C. Felginus, of <placeName key="perseus,Placentia">Placentia</placeName>; A. Gravius, of <placeName key="perseus,Puteoli">Puteoli</placeName>; and M. Sacrativir, of <placeName key="perseus,Capua">Capua</placeName>. But the greatest part of these
@@ -4051,8 +4051,8 @@ get the English version going; more proofreading on the Latin
                         cruel as usual, diverted himself with insulting them in their calamity; and
                         asked them sarcastically, if it was usual for veterans to run away; after
                         which, he caused them all to be put to death. </p>
-				</div2>
-				<div2 n="72" id="b3c72" type="chapter">
+				</div>
+				<div n="72" id="b3c72" type="chapter">
 					<p>This success gave such confidence and spirit to the Pompeian party, that they
                         now no longer took any concern about the conduct of the war, but began to
                         consider themselves as already victorious. They never reflected on the
@@ -4071,8 +4071,8 @@ get the English version going; more proofreading on the Latin
                         to take root in an army. But as if the victory had been purely the effect of
                         their valour, and no change of fortune was to be apprehended, they every
                         where proclaimed and made public the success of this day. </p>
-				</div2>
-				<div2 n="73" id="b3c73" type="chapter">
+				</div>
+				<div n="73" id="b3c73" type="chapter">
 					<p>Caesar, seeing all his former projects disconcerted, resolved to submit to
                         fortune, and entirely change the manner of the war. He therefore called in
                         all his forces from the forts, gave up the design of inclosing Pompey, and
@@ -4097,8 +4097,8 @@ get the English version going; more proofreading on the Latin
                         misfortunes to a benefit, as happened at <placeName key="tgn,6002232">Gergovia</placeName>, where those who at first dreaded
                         to encounter the enemy, demanded earnestly in the end to be led to battle."
                     </p>
-				</div2>
-				<div2 n="74" id="b3c74" type="chapter">
+				</div>
+				<div n="74" id="b3c74" type="chapter">
 					<p> Having made this speech, he contented himself with stigmatizing, and
                         reducing to private men, some of the standard bearers; for the whole army
                         were so grieved at their loss, and so desirous of expunging the stain their
@@ -4113,8 +4113,8 @@ get the English version going; more proofreading on the Latin
                         late fright. He was for allowing them time to recover themselves; and having
                         quitted his works, thought it needful to provide for the security of his
                         convoys. </p>
-				</div2>
-				<div2 n="75" id="b3c75" type="chapter">
+				</div>
+				<div n="75" id="b3c75" type="chapter">
 					<p>Accordingly, after proper care taken of the sick and wounded, and as soon as
                         night approached, he sent all the baggage privately towards <placeName key="perseus,Apollonia">Apollonia</placeName>, under a guard of one
                         legion, with orders not to halt till they had reached the place. This affair
@@ -4135,8 +4135,8 @@ get the English version going; more proofreading on the Latin
                         intermixed with some light-armed troops; who charged with that vigour and
                         success, as to put them all to rout, and leave a considerable number dead
                         upon the field, and return without loss to the main body of their army. </p>
-				</div2>
-				<div2 n="76" id="b3c76" type="chapter">
+				</div>
+				<div n="76" id="b3c76" type="chapter">
 					<p>Having completed the intended march of that day, and brought his army over
                         the Genusus, he took up his quarters in his old camp at Asparagium,
                         suffering none of the soldiers to stroll without the rampart, and charging
@@ -4152,8 +4152,8 @@ get the English version going; more proofreading on the Latin
                         the signal for decamping, led forth his troops, and doubling that day's
                         march, gained eight miles upon Pompey, who could not follow him by reason
                         his troops were dispersed. </p>
-				</div2>
-				<div2 n="77" id="b3c77" type="chapter">
+				</div>
+				<div n="77" id="b3c77" type="chapter">
 					<p>Next day Caesar decamped again at three in the morning, having sent away his
                         baggage over night, that if he should find himself under a necessity of
                         fighting, he might have his army clear of all encumbrance. The same he did
@@ -4162,8 +4162,8 @@ get the English version going; more proofreading on the Latin
                         march. For Pompey, after the first day's hinderance, endeavouring in vain by
                         long and forced marches to overtake Caesar, gave over the pursuit on the
                         fourth, and began to think of taking other measures. </p>
-				</div2>
-				<div2 n="78" id="b3c78" type="chapter">
+				</div>
+				<div n="78" id="b3c78" type="chapter">
 					<p>Caesar was under a necessity of going to <placeName key="perseus,Apollonia">Apollonia</placeName>, to leave his wounded
                         there, to pay his army, confirm his friends in their duty, and garrison the
                         towns that had submitted. But he took no longer time to these affairs, than
@@ -4183,8 +4183,8 @@ get the English version going; more proofreading on the Latin
                         still keep near <placeName key="tgn,7010886">Corcyra</placeName>, and the sea, because of the
                         legions and cavalry he expected from <placeName key="tgn,1000080">Italy</placeName>; in that case, he purposed to fall
                         upon Domitius with all his forces. </p>
-				</div2>
-				<div2 n="79" id="b3c79" type="chapter">
+				</div>
+				<div n="79" id="b3c79" type="chapter">
 					<p>For these reasons both generals studied despatch, as well to afford timely
                         succour to their friends, as not to miss an opportunity of distressing their
                         enemies. But Caesar had turned off to <placeName key="perseus,Apollonia">Apollonia</placeName>; whereas Pompey took the
@@ -4207,8 +4207,8 @@ get the English version going; more proofreading on the Latin
                         this to Calvinus, who was not above four hours' march from the enemy, he
                         avoided the danger by a timely retreat, and joined Caesar near Aeginium, a
                         town on the borders of <placeName key="tgn,7001399">Thessaly</placeName>. </p>
-				</div2>
-				<div2 n="80" id="b3c80" type="chapter">
+				</div>
+				<div n="80" id="b3c80" type="chapter">
 					<p>After the junction of the two armies, Caesar arrived at Gomphi, the first
                         town of <placeName key="tgn,7001399">Thessaly</placeName>, as you come from <placeName key="tgn,7002705">Epirus</placeName>. A few months before, the
                         inhabitants had of their own accord sent ambassadors to Caesar, to make an
@@ -4235,8 +4235,8 @@ get the English version going; more proofreading on the Latin
                         having made himself master of it before sun-set, gave it up to be plundered.
                         From Gomphi, Caesar marched directly to Metropolis, and arrived before they
                         were acquainted with the misfortune of their neighbours. </p>
-				</div2>
-				<div2 n="81" id="b3c81" type="chapter">
+				</div>
+				<div n="81" id="b3c81" type="chapter">
 					<p>The Metropolitans at first following the example of Gomphi, to which they
                         were moved by the same reports, shut their gates and manned the walls. But
                         no sooner came they to understand the fate of their neighbour city, by some
@@ -4248,8 +4248,8 @@ get the English version going; more proofreading on the Latin
                         Metellus Scipio. As the country was good and covered with corn, which was
                         near ripe, Caesar took up his quarters there, judging it a proper place to
                         wait for Pompey in, and render the theatre of the war. </p>
-				</div2>
-				<div2 n="82" id="b3c82" type="chapter">
+				</div>
+				<div n="82" id="b3c82" type="chapter">
 					<p>A few days after, Pompey arrived in <placeName key="tgn,7001399">Thessaly</placeName>, and joining Metellus Scipio,
                         harangued both armies. He first thanked his own for their late services, and
                         then turning to Scipio's troops, exhorted them to put in for their share of
@@ -4275,8 +4275,8 @@ get the English version going; more proofreading on the Latin
                         while such as aspired to this office complained publicly,that a promise
                         should be made to any one candidate, when all were embarked in the same
                         cause, and shared the like dangers.</p>
-				</div2>
-				<div2 n="83" id="b3c83" type="chapter">
+				</div>
+				<div n="83" id="b3c83" type="chapter">
 					<p> Already Domitius, Scipio, and Lentulus Spinther, were openly quarrelling
                         about the high priesthood, which Caesar was in possession of. They even
                         descended to personal abuse, and pleaded their several pretensions; Lentulus
@@ -4292,8 +4292,8 @@ get the English version going; more proofreading on the Latin
                         a pecuniary fine. In a word, nothing was thought on but honours, or profit,
                         or vengeance; nor did they consider by what methods they were to conquer,
                         but what advantage they should make of victory. </p>
-				</div2>
-				<div2 n="84" id="b3c84" type="chapter">
+				</div>
+				<div n="84" id="b3c84" type="chapter">
 					<p>Caesar having provided for the subsistence of his troops, who were now no
                         longer fatigued, and had sufficiently recovered from the consternation the
                         different actions at <placeName key="tgn,7010750">Dyrrhachium</placeName> had thrown them into; thought
@@ -4313,8 +4313,8 @@ get the English version going; more proofreading on the Latin
                         they actually got the better in a skirmish that happened between them, and
                         killed Aegus the Allobrogian, one of the two brothers who deserted to
                         Pompey, with several others of his party. </p>
-				</div2>
-				<div2 n="85" id="b3c85" type="chapter">
+				</div>
+				<div n="85" id="b3c85" type="chapter">
 					<p>Pompey, whose camp was on an eminence, drew up his army at the foot of the
                         mountain, expecting, as may be presumed, that Casar would attack him in that
                         advantageous situation. But Caesar despairing to draw Pompey to battle on
@@ -4333,8 +4333,8 @@ get the English version going; more proofreading on the Latin
                         wished for; let us therefore arm ourselves with courage, and not miss so
                         favourable and opportunity." This said, he immediately drew out his forces.
                     </p>
-				</div2>
-				<div2 n="86" id="b3c86" type="chapter">
+				</div>
+				<div n="86" id="b3c86" type="chapter">
 					<p>Pompey likewise, as was afterwards known, had resolved to offer battle, in
                         compliance with the repeated importunities of his friends. He even said in a
                         council of war, held some days before, that Caesar's army would be defeated
@@ -4351,8 +4351,8 @@ get the English version going; more proofreading on the Latin
                         Be ready therefore for battle; and since the so much desired opportunity of
                         fighting is come, take care not to fall short of the good opinion the world
                         entertains of your valour and experience."</p>
-				</div2>
-				<div2 n="87" id="b3c87" type="chapter">
+				</div>
+				<div n="87" id="b3c87" type="chapter">
 					<p> Labienus spoke next, highly applauding this scheme of Pompey, and expressing
                         the greatest contempt of Caesar's army: "Think not," says he, addressing
                         himself to Pompey, "that these are the legions which conquered <placeName key="tgn,1000070">Gaul</placeName> and <placeName key="tgn,7000084">Germany</placeName>. I was present in all those
@@ -4372,8 +4372,8 @@ get the English version going; more proofreading on the Latin
                         as already victorious, and relying, entirely on the ability of their
                         general; who, in an affair of that importance, they were confident would
                         promise nothing without an assurance of success. </p>
-				</div2>
-				<div2 n="88" id="b3c88" type="chapter">
+				</div>
+				<div n="88" id="b3c88" type="chapter">
 					<p>When Caesar approached Pompey's camp, he found his army drawn up in this
                         manner: In the left wing were the two legions delivered by Caesar, at the
                         beginning of the quarrel, in consequence of a decree of the senate; one of
@@ -4390,8 +4390,8 @@ get the English version going; more proofreading on the Latin
                         cohorts were left to guard the camp and the adjoining forts. As the Enipeus,
                         a river with very steep banks, covered his right wing, he placed all his
                         horse, slingers, and archers in the left. </p>
-				</div2>
-				<div2 n="89" id="b3c89" type="chapter">
+				</div>
+				<div n="89" id="b3c89" type="chapter">
 					<p>Caesar observing his ancient custom, placed the tenth legion in the right,
                         and the ninth in the left wing. As this last had been considerably weakened
                         by the general actions at <placeName key="tgn,7010750">Dyrrhachium</placeName>, he joined the eighth to it in
@@ -4409,8 +4409,8 @@ get the English version going; more proofreading on the Latin
                         whole army, and in particular the third line, not to advance to battle
                         without orders; which, when he saw it proper, he would give, by making the
                         usual signal. </p>
-				</div2>
-				<div2 n="90" id="b3c90" type="chapter">
+				</div>
+				<div n="90" id="b3c90" type="chapter">
 					<p>When he was exhorting them to battle, as military custom required, and
                         reminding them of the many favours they had, on all occasions, received at
                         his hands, he chiefly took care to observe, "That they had themselves been
@@ -4422,8 +4422,8 @@ get the English version going; more proofreading on the Latin
                         the commonwealth the loss of one of her armies." After this speech,
                         observing his soldiers ardent for the fight, he ordered the trumpets to
                         sound a charge.</p>
-				</div2>
-				<div2 n="91" id="b3c91" type="chapter">
+				</div>
+				<div n="91" id="b3c91" type="chapter">
 					<p> Among the volunteers in Caesar's army was one Crastinus, a man of
                         distinguished courage, who the year before, had been first centurion of the
                         tenth legion. This brave officer, as soon as the signal was given, calling
@@ -4435,8 +4435,8 @@ get the English version going; more proofreading on the Latin
                         whether I live or die, I will take care to deserve your commendations." So
                         saying he marched up to the enemy, and began the attack at the head of a
                         hundred and twenty volunteers. </p>
-				</div2>
-				<div2 n="92" id="b3c92" type="chapter">
+				</div>
+				<div n="92" id="b3c92" type="chapter">
 					<p>Between the two armies, there was an interval sufficient for the onset: but
                         Pompey had given his troops orders to keep their ground, that Caesar's army
                         might have all that way to run. This he is said to have done by the advice
@@ -4454,8 +4454,8 @@ get the English version going; more proofreading on the Latin
                         our ancestors, that the trumpets should sound on every side, and the whole
                         army raise a shout, in order to animate the courage of their own men, and
                         strike terror into the enemy.</p>
-				</div2>
-				<div2 n="93" id="b3c93" type="chapter">
+				</div>
+				<div n="93" id="b3c93" type="chapter">
 					<p>Caesar's soldiers entirely defeated Pompey's hopes, by their good discipline
                         and experience. For, perceiving the enemy did not stir, they halted, of
                         their own accord, in the midst of their career; and having taken a moment's
@@ -4473,8 +4473,8 @@ get the English version going; more proofreading on the Latin
                         deprived of their protection, were soon after cut to pieces. Meanwhile the
                         six cohorts, not content with this success, wheeled round upon the enemy's
                         left wing, and began to charge it in the rear:</p>
-				</div2>
-				<div2 n="94" id="b3c94" type="chapter">
+				</div>
+				<div n="94" id="b3c94" type="chapter">
 					<p> whereupon Caesar, perceiving the victory so far advanced, to complete it,
                         brought up his third line, which till then had not engaged. Pompey's
                         infantry being thus doubly attacked, in front by fresh troops, and in rear,
@@ -4492,8 +4492,8 @@ get the English version going; more proofreading on the Latin
                         case of an attack. I go to visit the other gates, and give orders for their
                         defence." This said, he retired to his tent, despairing of success, yet
                         waiting the event.</p>
-				</div2>
-				<div2 n="95" id="b3c95" type="chapter">
+				</div>
+				<div n="95" id="b3c95" type="chapter">
 					<p> Caesar, having forced the Pompeians to seek refuge in their camp, and not
                         willing to allow them time to recover From their consternation, exhorted his
                         troops to make the best of their present victory, and vigorously attack the
@@ -4509,8 +4509,8 @@ get the English version going; more proofreading on the Latin
                         continually poured upon them ; which, in the end, obliged them to retire
                         covered with wounds, and under the conduct of their tribunes and centurions,
                         seek shelter in the mountains adjoining to the camp. </p>
-				</div2>
-				<div2 n="96" id="b3c96" type="chapter">
+				</div>
+				<div n="96" id="b3c96" type="chapter">
 					<p>On entering Pompey's camp, we found tables ready-covered, sideboards loaded
                         with plate, and tents adorned with branches of myrtle; that of L. Lentulus,
                         with some others, was shaded with ivy. Every thing gave proofs of the
@@ -4528,8 +4528,8 @@ get the English version going; more proofreading on the Latin
                         followers, as to see those very men, from whom he expected victory, the
                         first to fly, and in a manner betray him into the hands of his enemies."
                     </p>
-				</div2>
-				<div2 n="97" id="b3c97" type="chapter">
+				</div>
+				<div n="97" id="b3c97" type="chapter">
 					<p>Caesar having mastered the enemy's camp, requested his soldiers not to leave
                         the victory imperfect, by busying themselves about the plunder. Finding them
                         ready to obey, he began a line of circumvallation round the mountain. The
@@ -4547,8 +4547,8 @@ get the English version going; more proofreading on the Latin
                         a surrender. Affairs continued in this situation all that night, of which
                         some few senators, who had accompanied them, took the advantage to make
                         their escape.</p>
-				</div2>
-				<div2 n="98" id="b3c98" type="chapter">
+				</div>
+				<div n="98" id="b3c98" type="chapter">
 					<p> At break of day, they all, by Caesar's order, came down into the plain, and
                         delivered up their arms; humbly imploring his goodness, and suing for mercy.
                         Caesar spoke to them with great mildness, and to alleviate their
@@ -4558,8 +4558,8 @@ get the English version going; more proofreading on the Latin
                         then sent for the legions, which had passed the night in camp, to relieve
                         those that had accompanied, him in the pursuit; and being determined to
                         follow Pompey, began his march, and arrived the same day at Larissa. </p>
-				</div2>
-				<div2 n="99" id="b3c99" type="chapter">
+				</div>
+				<div n="99" id="b3c99" type="chapter">
 					<p>This battle cost Caesar no more than two hundred soldiers: but he lost thirty
                         centurions, men of singular courage. Among these latter was Crastinus, whose
                         gallantry and intrepidity, in marching up to battle, has been taken notice
@@ -4573,8 +4573,8 @@ get the English version going; more proofreading on the Latin
                         taken, and nine eagles. L. Domitius, flying towards the mountains, and
                         growing faint through the fatigue, was overtaken and killed by some
                         horsemen. </p>
-				</div2>
-				<div2 n="100" id="b3c100" type="chapter">
+				</div>
+				<div n="100" id="b3c100" type="chapter">
 					<p>About this time D. Laelius arrived with his fleet at <placeName key="perseus,Brundusium">Brundusium</placeName>, and possessesd himself
                         of the island over against the harbour, as Libo had done before. Vatinius,
                         who commanded in the place, having equipped several boats, endeavoured to
@@ -4586,8 +4586,8 @@ get the English version going; more proofreading on the Latin
                         from which neither the disgrace of losing his ships, nor the want of
                         necessaries could divert him, till he received intelligence of the battle of
                         Pharsalia. </p>
-				</div2>
-				<div2 n="101" id="b3c101" type="chapter">
+				</div>
+				<div n="101" id="b3c101" type="chapter">
 					<p>Much about the same time Cassius arrived in <placeName key="tgn,7003122">Sicily</placeName>, with the Syrian, Phoenician, and
                         Cilician fleets. And as Caesar's fleet was divided into two parts, in one of
                         which P. Sulpicius the pretor commanded at Vibo, in the straits; in the
@@ -4612,8 +4612,8 @@ get the English version going; more proofreading on the Latin
                         soon after he was informed of the defeat at Pharsalia, by some of Pompey's
                         own followers; for hitherto he had regarded it as a false report, spread
                         about by Caesar's lieutenants and friends. Upon this intelligence he quitted <placeName key="tgn,7003122">Sicily</placeName>, and retired with his fleet. </p>
-				</div2>
-				<div2 n="102" id="b3c102" type="chapter">
+				</div>
+				<div n="102" id="b3c102" type="chapter">
 					<p>Caesar laying all other thoughts aside, determined to pursue Pompey,
                         whithersoever he should retire, to prevent his drawing together fresh
                         forces, and renewing the war. He marched every day as far as the body of
@@ -4637,8 +4637,8 @@ get the English version going; more proofreading on the Latin
                         order to withdraw immediately, which they were necessitated to comply with;
                         for the fame of Caesar's approach had now reached the neighbouring states.
                     </p>
-				</div2>
-				<div2 n="103" id="b3c103" type="chapter">
+				</div>
+				<div n="103" id="b3c103" type="chapter">
 					<p>Upon this intelligence Pompey laid aside his design of going into <placeName key="tgn,1000140">Syria</placeName>, seized all the money he found in
                         the public bank, borrowed as much more as he could of his friends, sent
                         great quantities of brass on board for military uses; and having raised two
@@ -4654,8 +4654,8 @@ get the English version going; more proofreading on the Latin
                         fortune. Among these troops were many of Pompey's old soldiers, whom
                         Gabinius, having draughted out of the Syrian army, had carried to <placeName key="perseus,Alexandria">Alexandria</placeName>, and, upon the
                         conclusion of the war, left there with the young king's father.</p>
-				</div2>
-				<div2 n="104" id="b3c104" type="chapter">
+				</div>
+				<div n="104" id="b3c104" type="chapter">
 					<p> The king's ministers, who had the care of the government during his
                         minority, being informed of this, either out of fear, as they afterwards
                         pretended, lest Pompey should debauch the army, and thereby render himself
@@ -4667,8 +4667,8 @@ get the English version going; more proofreading on the Latin
                         Septimius, who had served under him as a centurion in the war with the
                         pirates; and inviting him into the boat, treacherously slew him. L. Lentulus
                         was likewise seized by the king's command, and put to death in prison. </p>
-				</div2>
-				<div2 n="105" id="b3c105" type="chapter">
+				</div>
+				<div n="105" id="b3c105" type="chapter">
 					<p>When Caesar arrived in <placeName key="tgn,1000004">Asia</placeName> he found that T. Ampius, having
                         formed the design of seizing the treasures of the Ephesian Diana, and
                         summoned all the senators in the province to bear witness to the sum taken,
@@ -4684,8 +4684,8 @@ get the English version going; more proofreading on the Latin
                         enter, the sound of Cymbals was heard. And in the Temple of Victory, at
                         Trallis, where a statue was consecrated to Caesar, a palm sprouted betweeh
                         the joining of the stones that arched the roof. </p>
-				</div2>
-				<div2 n="106" id="b3c106" type="chapter">
+				</div>
+				<div n="106" id="b3c106" type="chapter">
 					<p>Caesar, after a short stay in <placeName key="tgn,1000004">Asia</placeName>, hearing that Pompey had been seen at <placeName key="tgn,1000112">Cyprus</placeName>, and thence conjecturing that he
                         was for <placeName key="tgn,7016833">Egypt</placeName>, because of the interest he had in
                         that kingdom, and the advantages it would afford him, left <placeName key="tgn,7011266">Rhodes</placeName>, with a convoy of ten Rhodian
@@ -4703,8 +4703,8 @@ get the English version going; more proofreading on the Latin
                         they interpreted a degradation of the sovereign authority. Though this
                         tumult was appeased, yet each day produced some fresh disturbance, and many
                         of the Roman soldiers were murdered in all parts of the city. </p>
-				</div2>
-				<div2 n="107" id="b3c107" type="chapter">
+				</div>
+				<div n="107" id="b3c107" type="chapter">
 					<p>For these reasons he sent into <placeName key="tgn,1000004">Asia</placeName> for some of the legions which he had
                         raised out of the remains of Pompey's army: being himself necessarily
                         detained by the Etesian winds, which are directly contrary to any passage by
@@ -4715,8 +4715,8 @@ get the English version going; more proofreading on the Latin
                         consulship; he gave the king and Cleopatra to understand, that it was his
                         pleasure they should dismiss their troops, and instead of having recourse to
                         arms, come and plead their cause before him. </p>
-				</div2>
-				<div2 n="108" id="b3c108" type="chapter">
+				</div>
+				<div n="108" id="b3c108" type="chapter">
 					<p>Pothinus the eunuch, governor to the young king, had the chief management of
                         affairs during his minority. This minister complained bitterly to his
                         friends, that the king should be summoned to plead his cause before Caesar:
@@ -4732,8 +4732,8 @@ get the English version going; more proofreading on the Latin
                         of this will was sent by ambassadors to <placeName key="perseus,Rome">Rome</placeName>, to be deposited in the public
                         treasury; but the domestic troubles preventing it, it was left in the hands
                         of Pompey. The original, signed and sealed, was kept at <placeName key="perseus,Alexandria">Alexandria</placeName>. </p>
-				</div2>
-				<div2 n="109" id="b3c109" type="chapter">
+				</div>
+				<div n="109" id="b3c109" type="chapter">
 					<p>While this affair was debated before Caesar, who passionately desired to
                         terminate the matter amicably, and to the satisfaction of both parties, he
                         was informed that the king's army, with all the cavalry, were arrived at <placeName key="perseus,Alexandria">Alexandria</placeName>. Caesar's forces were by
@@ -4751,8 +4751,8 @@ get the English version going; more proofreading on the Latin
                         secure the king's person, the authority of whose name would authorise his
                         proceedings, and occasion Achillas and his associates to be esteemed
                         seditious and rebellious. </p>
-				</div2>
-				<div2 n="110" id="b3c110" type="chapter">
+				</div>
+				<div n="110" id="b3c110" type="chapter">
 					<p>Achillas's army was far from being contemptible, whether we regard their
                         number, courage, or experience in war. It amounted to twenty thousand
                         effective men, many of whom were originally Romans, brought into the country
@@ -4772,8 +4772,8 @@ get the English version going; more proofreading on the Latin
                         These had restored Ptolemy the father to his kingdom, killed Bibulus's two
                         sons, warred against the Egytians with success, and acquired a thorough
                         experience in military affairs. </p>
-				</div2>
-				<div2 n="111" id="b3c111" type="chapter">
+				</div>
+				<div n="111" id="b3c111" type="chapter">
 					<p>Achillas trusting to the valour of his troops, and despising the handful of
                         men that followed Caesar, quickly made himself master of <placeName key="perseus,Alexandria">Alexandria</placeName>, the palace only
                         excepted, where Caesar thought proper to make his stand, and which he
@@ -4789,8 +4789,8 @@ get the English version going; more proofreading on the Latin
                         themselves with incredible vigour. At length Caesar carried his point, and
                         not only set fire to the vessels abovementioned, but to all that were in the
                         arsenals, after which he passed some troops into the Isle of Pharos. </p>
-				</div2>
-				<div2 n="112" id="b3c112" type="chapter">
+				</div>
+				<div n="112" id="b3c112" type="chapter">
 					<p>The Pharos is a tower of prodigious height and wonderful workmanship, built
                         in an island, from whence it takes its name. This island, lying over against <placeName key="perseus,Alexandria">Alexandria</placeName>, makes a haven, and is
                         joined to the continent by a causeway of nine hundred paces, and by a
@@ -4818,8 +4818,8 @@ get the English version going; more proofreading on the Latin
                         correspondence with Achillas, whom he encouraged to the vigorous prosecution
                         of his enterprise, Caesar ordered him to be put to death. Such was the
                         beginning of the Alexandrian war. </p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

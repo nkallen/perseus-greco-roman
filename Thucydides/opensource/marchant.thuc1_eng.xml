@@ -38,7 +38,7 @@
 </teiHeader>
 <text lang="en">
 <body>
-<div1 type="book" n="1">
+<div type="book" n="1">
 <pb n="133"/>   
 <milestone n="1" unit="chapter"/>  
 <milestone n="1" unit="section"/>  
@@ -2456,4 +2456,4 @@
 <milestone n="146" unit="chapter"/>  
 <milestone n="1" unit="section"/> 
 <milestone unit="note" id="n.1.146.1.1" n="1"/><p>17. <lemma lang="greek" targOrder="U">αἰτίαι δέ</lemma>&mdash;taking up c. <bibl n="Thuc. 1.23.5">23. 5</bibl>.</p> 
-<milestone unit="note" id="n.1.146.1.2" n="2"/><p>22. <lemma lang="greek" targOrder="U">ἀκηρύκτως</lemma>&mdash;there could be no communication without a herald after war had begun. At <foreign lang="greek">ἀκηρύκτως</foreign>, with which strictly the sentence should end, Thuc. suddenly adds a qualification.</p> </div1> </body> </text> </TEI.2>
+<milestone unit="note" id="n.1.146.1.2" n="2"/><p>22. <lemma lang="greek" targOrder="U">ἀκηρύκτως</lemma>&mdash;there could be no communication without a herald after war had begun. At <foreign lang="greek">ἀκηρύκτως</foreign>, with which strictly the sentence should end, Thuc. suddenly adds a qualification.</p> </div> </body> </text> </TEI.2>

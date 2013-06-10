@@ -57,7 +57,7 @@
 
   <text>
     <body>
-      <div1 n="1" type="speech">
+      <div n="1" type="speech">
         <head>Κατὰ Λεωκράτους</head>
         <p>
           <milestone n="hypothesis" unit="section"/>μετὰ τὰ ἐν Χαιρωνείᾳ δεινὰ ψήφισμα
@@ -1531,7 +1531,7 @@
           ἀναμνησθέντες τῶν κατηγορημένων, ὅτι<note resp="Loeb" anchored="yes">Ante<foreign lang="greek"> ὅτι </foreign>habent<foreign lang="greek"> καὶ </foreign>codd., del.
             Morus.</note> οὐ πλέον ἰσχύει παρ’ ὑμῖν ἔλεος οὐδὲ δάκρυα τῆς ὑπὲρ τῶν
           νόμων καὶ τοῦ δήμου σωτηρίας.<note resp="Loeb" anchored="yes"><foreign lang="greek">σωτηρίας τιμωρίας </foreign>Reiske.</note></p>
-      </div1>
+      </div>
     </body>
   </text>
 </TEI.2>

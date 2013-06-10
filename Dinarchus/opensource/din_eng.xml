@@ -57,7 +57,7 @@
 
     <text>
         <body>
-            <div1 n="1" type="speech">
+            <div n="1" type="speech">
                 <head>Against Demosthenes</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>This popular
@@ -1107,9 +1107,9 @@
                     deserted the city or given more weight to personal favor than to the people's
                     vote. With an appeal to you to show the same spirit I now hand over the water to
                     the other prosecutors.</p>
-            </div1>
+            </div>
 
-            <div1 n="2" type="speech">
+            <div n="2" type="speech">
                 <head>Against Aristogiton</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>There is
@@ -1323,9 +1323,9 @@
                     is the reason why they faced danger against the barbarian worthily of the city
                     and their ancestors.<note resp="Loeb" anchored="yes">The conclusion of the
                         speech is lost.</note></p>
-            </div1>
+            </div>
 
-            <div1 n="3" type="speech">
+            <div n="3" type="speech">
                 <head>Against Philocles</head>
                 <p>
                     <milestone n="1" unit="section"/>What in Heaven's name are we to say about such
@@ -1479,7 +1479,7 @@
                     to be your friends and to work for the city's interests, and having made their
                     reputation thanks to you.<note resp="Loeb" anchored="yes">The concluding
                         sentences of the speech are lost.</note></p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

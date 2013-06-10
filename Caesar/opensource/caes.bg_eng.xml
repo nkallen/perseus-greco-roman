@@ -111,7 +111,7 @@ Re-inserted Hirtius.
     </teiHeader>
     <text>
         <body>
-            <div1 type="Book" n="1">
+            <div type="book" n="1">
                 <milestone n="1" unit="chapter"/>
                 <p>All <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name> is divided into three parts, one of which the <name type="ethnic">Belgae</name> inhabit, the <name type="ethnic">Aquitani</name>
                     another, those who in their own language are called <name type="ethnic">Celts</name>, in our <name type="ethnic">Gauls</name>, the third. All these
@@ -1269,8 +1269,8 @@ Re-inserted Hirtius.
                     <name>Sequani</name>, a little earlier than the season of the year required. He
                     appointed <name>Labienus</name> over the winter-quarters, and set out in person
                     for Hither <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name> to hold the assizes.</p>
-            </div1>
-            <div1 type="Book" n="2">
+            </div>
+            <div type="book" n="2">
                 <milestone n="1" unit="chapter"/>
                 <p>While <name type="pers">Caesar</name> was in winter quarters in Hither <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name>, as we have shown above, frequent reports were brought to him,
                     and he was also informed by letters from <name>Labienus</name>, that all the
@@ -1845,8 +1845,8 @@ Re-inserted Hirtius.
                     thanksgiving of fifteen days was decreed for those achievements, upon receiving
                         <name type="pers">Caesar</name>'s letter; [an honor] which before that time
                     had been conferred on none.</p>
-            </div1>
-            <div1 type="Book" n="3">
+            </div>
+            <div type="book" n="3">
                 <milestone n="1" unit="chapter"/>
                 <p>When <name type="pers">Caesar</name> was setting out for <name key="tgn,1000080" type="place" reg="Italy [12.833,42.833] (nation), Europe">Italy</name>, he
                     sent <name>Servius Galba</name> with the twelfth legion and part of the cavalry,
@@ -2331,8 +2331,8 @@ Re-inserted Hirtius.
                     their country, [and] having burned their villages and houses, <name type="pers">Caesar</name> led back his army and stationed them in winter quarters among
                     the <name>Aulerci</name> and <name>Lexovii</name>, and the other states which
                     had made war upon him last.</p>
-            </div1>
-            <div1 type="Book" n="4">
+            </div>
+            <div type="book" n="4">
                 <milestone n="1" unit="chapter"/>
                 <p>The following winter (this was the year in which <name>Cn. Pompey</name> and
                         <name type="pers">M. Crassus</name> were consuls [<date value="-55">55</date> B.C.]), those <name type="ethnic">Germans</name> [called] the
@@ -2941,8 +2941,8 @@ Re-inserted Hirtius.
                     rest omitted to do so. For these successes, a thanksgiving of twenty days was
                     decreed by the senate upon receiving <name type="pers">Caesar</name>'s
                     letter.</p>
-            </div1>
-            <div1 type="Book" n="5">
+            </div>
+            <div type="book" n="5">
                 <milestone n="1" unit="chapter"/>
                 <p><name>Lucius Domitius</name> and <name>Appius Claudius</name> being consuls
                         [<date value="-54">54</date> B.C.], <name type="pers">Caesar</name>, when
@@ -3928,8 +3928,8 @@ Re-inserted Hirtius.
                         <name>Nervii</name> which had assembled, depart; and for a short time after
                     this action, <name type="pers">Caesar</name> was less harassed in the government
                     of <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name>.</p>
-            </div1>
-            <div1 type="Book" n="6">
+            </div>
+            <div type="book" n="6">
                 <milestone n="1" unit="chapter"/>
                 <p><name type="pers">Caesar</name>, expecting for many reasons a greater commotion
                     in <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name>, resolves to hold a levy by the means of <name type="pers">M.
@@ -4661,8 +4661,8 @@ Re-inserted Hirtius.
                     in the territories of the <name key="tgn,1035697" type="place" reg="  +Senones [6.983,48.4] (inhabited place), Vosges, Lorraine, France, Europe ">Senones </name>; and, having provided corn for the army, he set out for
                         <name key="tgn,1000080" type="place" reg="Italy [12.833,42.833] (nation), Europe">Italy</name>, as he had
                     determined, to hold the assizes.</p>
-            </div1>
-            <div1 type="Book" n="7">
+            </div>
+            <div type="book" n="7">
                 <milestone n="1" unit="chapter"/>
                 <p><name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name> being tranquil, <name type="pers">Caesar</name>, as he had
                     determined, sets out for <name key="tgn,1000080" type="place" reg="Italy [12.833,42.833] (nation), Europe">Italy</name> to hold the
@@ -6237,8 +6237,8 @@ Re-inserted Hirtius.
                     procure supplies of corn. He himself determines to winter at <name key="tgn,6000798" type="place" reg="  +Mont Beuvray (inhabited place), Saone-et-Loire, Burgundy, France, Europe ">Bibracte </name>. A supplication of twenty-days is decreed by the senate at
                         <name key="perseus,Rome" type="place" reg="  +Rome [12.4833,41.9] (Perseus) ">Rome </name>, on learning these
                     successes from <name type="pers">Caesar</name>'s dispatches.</p>
-            </div1>
-            <div1 type="Book" n="8">
+            </div>
+            <div type="book" n="8">
                 <milestone n="0" unit="chapter"/>
                 <p>Prevailed on by your continued solicitations, <name>Balbus</name>, I have engaged
                     in a most difficult task, as my daily refusals appear to plead not my inability,
@@ -7106,7 +7106,7 @@ Re-inserted Hirtius.
                     this transaction it was evident to every one that war was designed against <name type="pers">Caesar</name>, yet he resolved to submit to any thing, as long
                     as there were hopes left of deciding the dispute in an equitable manner, rather
                     than to have recourse to arms.</p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

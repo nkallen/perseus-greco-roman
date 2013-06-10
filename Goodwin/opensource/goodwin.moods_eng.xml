@@ -61,9 +61,9 @@
     </teiHeader>
     <text lang="en">
         <body>
-            <div1 n="1" type="chapter" org="uniform" sample="complete">
+            <div n="1" type="chapter" org="uniform" sample="complete">
                 <head>Chapter I</head>
-                <div2 n="1" type="section" org="uniform" sample="complete">
+                <div n="1" type="section" org="uniform" sample="complete">
                     <head>General View of the Moods.</head>
                     <milestone unit="smythp" id="s1" n="1"/>
                         <p>The Mood of a verb shows the <emph>manner</emph> in which the assertion of the verb is made.</p>
@@ -78,8 +78,8 @@
                             subjunctive, optative, imperative, and infinitive, as opposed to the
                             indicative, are sometimes called the <emph>dependent</emph> moods.</p>
                     
-                </div2>
-                <div2 n="2" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="2" type="section" org="uniform" sample="complete">
                     <head>I. Indicative.</head>
                     <milestone unit="smythp" id="s2" n="2"/>
                         <p>The indicative, in its most primitive use, makes a simple,
@@ -159,8 +159,8 @@
                         <p>For the indicative with <foreign lang="greek">ἄν</foreign> or <foreign lang="greek">κέ</foreign>,
                             the <emph>potential</emph> indicative, <ref target="s243">see 243</ref>.</p>
                     
-                </div2>
-                <div2 n="3" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="3" type="section" org="uniform" sample="complete">
                     <head>II. Subjunctive.</head>
                     <milestone unit="smythp" id="s6" n="6"/>
                         <list type="simple">
@@ -285,8 +285,8 @@
                             perceptibly in meaning from the future with <foreign lang="greek">κέ</foreign> or <foreign lang="greek">ἄν</foreign>, <ref target="s201">see
                                 201</ref>, 1.</p>
                     
-                </div2>
-                <div2 n="4" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="4" type="section" org="uniform" sample="complete">
                     <head>III. Optative.</head>
                     <milestone unit="smythp" id="s12" n="12"/>
                         <p>The optative is commonly a less distinct and direct form of
@@ -411,8 +411,8 @@
                         <p>For a more full discussion of the relations of the optative
                             to the other moods, see Appendix I.</p>
                     
-                </div2>
-                <div2 n="5" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="5" type="section" org="uniform" sample="complete">
                     <head>IV. Imperative.</head>
                     <milestone unit="smythp" id="s18" n="18"/>
                         <p>The imperative expresses a command, exhortation, entreaty, or
@@ -424,11 +424,11 @@
                             <foreign lang="greek">Μὴ ποίει ἄδικα</foreign>, <gloss>do not do what is unjust.</gloss>
                         </p>
                     
-                </div2>
-            </div1>
-            <div1 n="2" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="2" type="chapter" org="uniform" sample="complete">
                 <head>Chapter II</head>
-                <div2 n="6" type="section" org="uniform" sample="complete">
+                <div n="6" type="section" org="uniform" sample="complete">
                     <head>The Tenses.</head>
                     <milestone unit="smythp" id="s19" n="19"/>
                         <p>There are seven Tenses,&mdash;the present, imperfect,
@@ -495,8 +495,8 @@
                             with <foreign lang="greek">ἵνα, ὅπως</foreign>, etc.;
                             and usually in the participle; but not in protasis.</p>
                     
-                </div2>
-                <div2 n="7" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="7" type="section" org="uniform" sample="complete">
                     <head>I. Tenses of the Indicative: Present.</head>
                     <milestone unit="smythp" id="s23" n="23"/>
                         <p>The present indicative represents an action as <emph>going on</emph> at the time of speaking or writing;
@@ -973,8 +973,8 @@
                             </list></p>
                         <p>The historic present is not found in Homer.</p>
                     
-                </div2>
-                <div2 n="8" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="8" type="section" org="uniform" sample="complete">
                     <head>Imperfect.</head>
                     <milestone unit="smythp" id="s34" n="34"/>
                         <p>The imperfect represents an action as <emph>going on</emph> in past time; as <foreign lang="greek">ἔγραφον</foreign>, <gloss>I was
@@ -1311,8 +1311,8 @@
                                 88.</bibl>
                             </cit></p>
                     
-                </div2>
-                <div2 n="9" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="9" type="section" org="uniform" sample="complete">
                     <head>Perfect and Pluperfect.</head>
                     <milestone unit="smythp" id="s42" n="42"/>
                         <p>The perfect represents an action as already finished at the
@@ -1675,8 +1675,8 @@
                             </list></p>
                         <p>For the gnomic perfect, <ref target="s154">see 154</ref> and <ref target="s155">155</ref>.</p>
                     
-                </div2>
-                <div2 n="11" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="11" type="section" org="uniform" sample="complete">
                     <head>Aorist.</head>
                     <milestone unit="smythp" id="s53" n="53"/>
                         <p>The aorist indicative expresses the simple <emph>occurrence</emph> of an action in past time; as
@@ -1930,8 +1930,8 @@
                             </list></p>
                         <p>For the gnomic aorist <ref target="s154">see 154</ref>.</p>
                     
-                </div2>
-                <div2 n="12" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="12" type="section" org="uniform" sample="complete">
                     <head>Future.</head>
                     <milestone unit="smythp" id="s63" n="63"/>
                         <p>The future denotes that an action is to take place in time to
@@ -2268,8 +2268,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="13" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="13" type="section" org="uniform" sample="complete">
                     <head>Future Perfect.</head>
                     <milestone unit="smythp" id="s77" n="77"/>
                         <p>The future perfect denotes that an action will be <emph>already finished</emph> at some future time. It is
@@ -2391,8 +2391,8 @@
                             or the English would use a future perfect in a dependent clause, the
                             Greek uses an aorist or even a perfect subjunctive. (<ref target="s90">See 90</ref> and <ref target="s103">103</ref>, with the examples.)</p>
                     
-                </div2>
-                <div2 n="14" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="14" type="section" org="uniform" sample="complete">
                     <head>II. Tenses of the Dependent Moods.</head>
                     <milestone unit="smythp" id="s85" n="85"/>
                         <p>The distinctions of time which mark the various tenses in the
@@ -2406,8 +2406,8 @@
                         <p>The tenses in these two uses must, therefore, be discussed
                             separately.</p>
                     
-                </div2>
-                <div2 n="15" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="15" type="section" org="uniform" sample="complete">
                     <head>Not in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s86" n="86"/>
                         <p>In the subjunctive and imperative, and also in the optative
@@ -2416,8 +2416,8 @@
                             completion of the action is to be emphasized (see <ref target="s102">102-110</ref>). For the occasional
                             future, see <ref target="s111">111-113</ref>; <ref target="s130">130-132.</ref></p>
                     
-                </div2>
-                <div2 n="16" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="16" type="section" org="uniform" sample="complete">
                     <head>Present and Aorist.</head>
                     <milestone unit="smythp" id="s87" n="87"/>
                         <p>The present and aorist here differ only in this, that the
@@ -2519,8 +2519,8 @@
                             examples. It is certain, however, that either present or aorist would
                             express the meaning equally well in all these cases.</p>
                     
-                </div2>
-                <div2 n="17" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="17" type="section" org="uniform" sample="complete">
                     <head>Subjunctive and Imperative.</head>
                     <milestone unit="smythp" id="s89" n="89"/>
                         <p>The present and aorist subjunctive and imperative are always
@@ -2993,8 +2993,8 @@
                                 from the Trojans</emph>
                             <ref target="s95">(95)</ref>.</p>
                     
-                </div2>
-                <div2 n="18" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="18" type="section" org="uniform" sample="complete">
                     <head>Optative.</head>
                     <milestone unit="smythp" id="s94" n="94"/>
                         <p>The present and aorist optative in independent sentences (in
@@ -3192,8 +3192,8 @@
                             Greek (see <ref target="s91">91</ref>). For
                             a peculiar aorist optative in <bibl n="Hom. Il. 10.537">Il. x. 537</bibl>, see above (<ref target="s93">93</ref>, end).</p>
                     
-                </div2>
-                <div2 n="19" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="19" type="section" org="uniform" sample="complete">
                     <head>Infinitive.</head>
                     <milestone unit="smythp" id="s96" n="96"/>
                         <p>A present or aorist infinitive (without <foreign lang="greek">ἄν</foreign>) not in indirect discourse is still a
@@ -3616,8 +3616,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="20" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="20" type="section" org="uniform" sample="complete">
                     <head>Perfect.</head>
                     <milestone unit="smythp" id="s102" n="102"/>
                         <p>As the perfect indicative represents an act as finished at
@@ -4114,8 +4114,8 @@
                                     or aorist would be.)</item>
                             </list></p>
                     
-                </div2>
-                <div2 n="21" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="21" type="section" org="uniform" sample="complete">
                     <head>Future.</head>
                     <milestone unit="smythp" id="s111" n="111"/>
                         <p>The future is used in the dependent moods only in the
@@ -4297,8 +4297,8 @@
                             discourse <ref target="s137">(137)</ref>,
                             except in verbs whose perfect has the sense of a present <ref target="s82">(82)</ref>.</p>
                     
-                </div2>
-                <div2 n="22" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="22" type="section" org="uniform" sample="complete">
                     <head>Optative and Infinitive of Indirect Discourse.</head>
                     <milestone unit="smythp" id="s115" n="115"/>
                         <p>When the optative and infinitive are in indirect discourse,
@@ -4313,8 +4313,8 @@
                             infinitive, <ref target="s684">see
                             684</ref>.</p>
                     
-                </div2>
-                <div2 n="23" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="23" type="section" org="uniform" sample="complete">
                     <head>Present Optative.</head>
                     <milestone unit="smythp" id="s116" n="116"/>
                         <p>The present optative in indirect discourse may represent the
@@ -4407,8 +4407,8 @@
                         <p>This is the rare imperfect optative <ref target="s673">(673)</ref>. The imperfect indicative is
                             regularly retained in such cases, and is always retained in a <emph>dependent</emph> clause of a quotation (<ref target="s689">689, 2</ref>).</p>
                     
-                </div2>
-                <div2 n="24" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="24" type="section" org="uniform" sample="complete">
                     <head>Present Infinitive.</head>
                     <milestone unit="smythp" id="s117" n="117"/>
                         <p>(As Present.) The present infinitive in indirect discourse
@@ -4649,8 +4649,8 @@
                                     i. 108.</bibl>
                             </cit></p>
                     
-                </div2>
-                <div2 n="25" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="25" type="section" org="uniform" sample="complete">
                     <head>Perfect Optative.</head>
                     <milestone unit="smythp" id="s121" n="121"/>
                         <p>The perfect optative in indirect discourse may
@@ -4704,8 +4704,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="26" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="26" type="section" org="uniform" sample="complete">
                     <head>Perfect Infinitive.</head>
                     <milestone unit="smythp" id="s122" n="122"/>
                         <p>The perfect infinitive in indirect discourse generally
@@ -4786,8 +4786,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="27" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="27" type="section" org="uniform" sample="complete">
                     <head>Aorist Optative.</head>
                     <milestone unit="smythp" id="s124" n="124"/>
                         <p>The aorist optative in indirect discourse may represent&mdash;
@@ -4908,8 +4908,8 @@
                             indicative used in a direct question is generally retained; <foreign lang="greek">εἰ ἀναπλεύσειεν</foreign> in 1 is,
                             therefore, exceptional.</p>
                     
-                </div2>
-                <div2 n="28" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="28" type="section" org="uniform" sample="complete">
                     <head>Aorist Infinitive.</head>
                     <milestone unit="smythp" id="s126" n="126"/>
                         <p>The aorist infinitive in indirect discourse represents an
@@ -5052,8 +5052,8 @@
                             Homeric passages than in Attic Greek, where the uses of indirect
                             discourse are more precisely fixed.</p>
                     
-                </div2>
-                <div2 n="29" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="29" type="section" org="uniform" sample="complete">
                     <head>Future Optative.</head>
                     <milestone unit="smythp" id="s128" n="128"/>
                         <p>The future optative is used chiefly in indirect discourse
@@ -5255,8 +5255,8 @@
                             </cit>.) See <bibl n="Isaeus 2. 10">ISAE.
                                 ii. 10</bibl> (quoted in <ref target="s130">130</ref>).</p>
                     
-                </div2>
-                <div2 n="30" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="30" type="section" org="uniform" sample="complete">
                     <head>Future Infinitive.</head>
                     <milestone unit="smythp" id="s135" n="135"/>
                         <p>The future infinitive is regularly used only in indirect
@@ -5551,8 +5551,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="31" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="31" type="section" org="uniform" sample="complete">
                     <head>Future Perfect.</head>
                     <milestone unit="smythp" id="s137" n="137"/>
                         <p>The future perfect of the dependent moods is rare, except in
@@ -5568,8 +5568,8 @@
                                 74.</bibl>
                             </cit> (Here the direct discourse was <foreign lang="greek">πεπράξεται ταῦτα</foreign>, <gloss>these things will have been already accomplished.</gloss>)</p>
                     
-                </div2>
-                <div2 n="32" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="32" type="section" org="uniform" sample="complete">
                     <head>III. Tenses of the Participle.</head>
                     <milestone unit="smythp" id="s138" n="138"/>
                         <p>The tenses of the participle generally express time present,
@@ -5578,8 +5578,8 @@
                         <p>The uses of the participle with <foreign lang="greek">ἄν</foreign> are not included here. For these see
                             Chapter III.</p>
                     
-                </div2>
-                <div2 n="33" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="33" type="section" org="uniform" sample="complete">
                     <head>Present Participle.</head>
                     <milestone unit="smythp" id="s139" n="139"/>
                         <p>The present participle generally represents an action as
@@ -5694,8 +5694,8 @@
                             </list></p>
                         <p>For a corresponding use of the aorist participle, <ref target="s152">see 152</ref>.</p>
                     
-                </div2>
-                <div2 n="34" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="34" type="section" org="uniform" sample="complete">
                     <head>Perfect Participle.</head>
                     <milestone unit="smythp" id="s142" n="142"/>
                         <p>The perfect participle in all its uses represents an action
@@ -5738,8 +5738,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="35" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="35" type="section" org="uniform" sample="complete">
                     <head>Aorist Participle.</head>
                     <milestone unit="smythp" id="s143" n="143"/>
                         <p>The aorist participle generally represents an action as past
@@ -6336,8 +6336,8 @@
                             the future perfect, <ref target="s81">see
                             81</ref>. For the aorist participle in protasis, <ref target="s472">see 472</ref> and 841.</p>
                     
-                </div2>
-                <div2 n="36" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="36" type="section" org="uniform" sample="complete">
                     <head>Future Participle.</head>
                     <milestone unit="smythp" id="s153" n="153"/>
                         <p>The future participle represents an action as future with
@@ -6356,8 +6356,8 @@
                         <p>For the various uses of the future participle, and examples,
                             see Chapter VI.</p>
                     
-                </div2>
-                <div2 n="37" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="37" type="section" org="uniform" sample="complete">
                     <head>Gnomic and Iterative tenses: Gnomic Aorist and Perfect.</head>
                     <milestone unit="smythp" id="s154" n="154"/>
                         <p>The aorist and sometimes the perfect indicative are used in
@@ -6587,8 +6587,8 @@
                                 <bibl n="Hom. Il. 9.509">Il. ix.
                             509</bibl>; cf. <bibl n="Hom. Il. 14.133">xiv. 133</bibl>.</p>
                     
-                </div2>
-                <div2 n="38" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="38" type="section" org="uniform" sample="complete">
                     <head>Iterative Imperfect and Aorist with <foreign lang="greek">ἄν</foreign>.&mdash;Ionic Iterative Forms in
                             <foreign lang="greek">-σκον</foreign> and <foreign lang="greek">-σκόμην</foreign>.</head>
                     <milestone unit="smythp" id="s162" n="162"/>
@@ -6660,8 +6660,8 @@
                                 <bibl n="Hdt. 4.130">iv. 130</bibl>
                             </cit>. See Kr&uuml;ger, II. &sect; 53, 10, 5.</p>
                     
-                </div2>
-                <div2 n="39" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="39" type="section" org="uniform" sample="complete">
                     <head>Dependence of Moods and Tenses.</head>
                     <milestone unit="smythp" id="s165" n="165"/>
                         <p>In dependent sentences, where the construction allows both
@@ -6721,8 +6721,8 @@
                             the indicative or subjunctive, and which as secondary tenses by the
                             optative.</p>
                     
-                </div2>
-                <div2 n="40" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="40" type="section" org="uniform" sample="complete">
                     <head>Indicative.</head>
                     <milestone unit="smythp" id="s170" n="170"/>
                         <p>In the indicative the general rule holds, that the present,
@@ -6778,8 +6778,8 @@
                             <bibl n="Hdt. 1. 91">HDT. i. 91.</bibl>
                         </p>
                     
-                </div2>
-                <div2 n="41" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="41" type="section" org="uniform" sample="complete">
                     <head>Subjunctive and Imperative.</head>
                     <milestone unit="smythp" id="s174" n="174"/>
                         <p>All the tenses of the subjunctive and imperative are <emph>primary</emph>, as they refer to future or to present
@@ -6805,8 +6805,8 @@
                             other reading, <foreign lang="greek">ἵνα μή τις
                             εἴποι</foreign>, the example would illustrate 176 <emph>A</emph> (below).</p>
                     
-                </div2>
-                <div2 n="42" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="42" type="section" org="uniform" sample="complete">
                     <head>Optative.</head>
                     <milestone unit="smythp" id="s176" n="176"/>
                         <p>As the optative refers sometimes to the future and sometimes
@@ -7100,8 +7100,8 @@
                                 χρήσωμαι;τί εἴπω;</foreign> The subjunctive can always be
                             retained in this construction, even after past tenses <ref target="s677">(677)</ref>.</p>
                     
-                </div2>
-                <div2 n="43" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="43" type="section" org="uniform" sample="complete">
                     <head>Infinitive and Participle.</head>
                     <milestone unit="smythp" id="s187" n="187"/>
                         <p>The present, perfect, and future of the infinitive and
@@ -7234,11 +7234,11 @@
                             they represent, if these stood in the same position. See Chapter III.
                         </p>
                     
-                </div2>
-            </div1>
-            <div1 n="3" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="3" type="chapter" org="uniform" sample="complete">
                 <head>Chapter III</head>
-                <div2 n="44" type="section" org="uniform" sample="complete">
+                <div n="44" type="section" org="uniform" sample="complete">
                     <head>The Particle <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s192" n="192"/>
                         <p>The adverb <foreign lang="greek">ἄν</foreign>
@@ -7294,8 +7294,8 @@
                             particles are used in substantially the same sense in all epic and lyric
                             poetry. In Herodotus and Attic Greek only <foreign lang="greek">ἄν</foreign> is used.</p>
                     
-                </div2>
-                <div2 n="45" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="45" type="section" org="uniform" sample="complete">
                     <head>Indicative with <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s195" n="195"/>
                         <p>The present and perfect indicative are never used with <foreign lang="greek">ἄν</foreign>.</p>
@@ -7397,8 +7397,8 @@
                             sense <ref target="s162">(162)</ref>, which
                             construction must not be confounded with that just mentioned <ref target="s198">(198)</ref>.</p>
                     
-                </div2>
-                <div2 n="46" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="46" type="section" org="uniform" sample="complete">
                     <head>Subjunctive and Optative with <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s200" n="200"/>
                         <p>In Attic Greek <foreign lang="greek">ἄν</foreign> is regularly used with the subjunctive in protasis and in
@@ -7448,8 +7448,8 @@
                             <ref target="s196">(196)</ref> was nearly
                             extinct, it was never used with <foreign lang="greek">ἄν</foreign>.</p>
                     
-                </div2>
-                <div2 n="47" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="47" type="section" org="uniform" sample="complete">
                     <head>Infinitive with <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s204" n="204"/>
                         <p>The infinitive can be used with <foreign lang="greek">ἄν</foreign> in all cases in which a finite verb
@@ -7658,8 +7658,8 @@
                                 else</gloss>, the construction is practically that of indirect
                             discourse <ref target="s794">(794)</ref>.</p>
                     
-                </div2>
-                <div2 n="48" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="48" type="section" org="uniform" sample="complete">
                     <head>Participle with <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s213" n="213"/>
                         <p>When the participle is used with <foreign lang="greek">ἄν</foreign>, each tense represents the
@@ -7745,8 +7745,8 @@
                             of protasis which could be represented by a participle, where <foreign lang="greek">ἄν</foreign> is separable from the
                             conditional particle. (<ref target="s224">See 224</ref>.)</p>
                     
-                </div2>
-                <div2 n="49" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="49" type="section" org="uniform" sample="complete">
                     <head>Position of <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s218" n="218"/>
                         <p>1. When <foreign lang="greek">ἄν</foreign> is
@@ -7863,8 +7863,8 @@
                             (or without the commas), <emph>the future you can hear
                                 when it comes</emph>, <bibl n="Aesch. Ag. 250">AESCH. Ag. 250.</bibl></p>
                     
-                </div2>
-                <div2 n="50" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="50" type="section" org="uniform" sample="complete">
                     <head>Repetition of <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s223" n="223"/>
                         <p><foreign lang="greek">Ἄν</foreign> is
@@ -7979,8 +7979,8 @@
                                 ὀφθαλμοῖς; Οὐ δῆτα. Τί δέ; ἀκούσαις ἄλλῳ ἢ
                             ὠσίν;</foreign> So with <foreign lang="greek">πράττοι</foreign> after <foreign lang="greek">γάρ</foreign>, ib. 439</p>
                     
-                </div2>
-                <div2 n="51" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="51" type="section" org="uniform" sample="complete">
                     <head>Elliptical uses of <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s227" n="227"/>
                         <p><foreign lang="greek">Ἄν</foreign> is
@@ -8068,11 +8068,11 @@
                                 wherever you go.</quote>
                         </p>
                     
-                </div2>
-            </div1>
-            <div1 n="4" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="4" type="chapter" org="uniform" sample="complete">
                 <head>Chapter IV</head>
-                <div2 n="52" type="section" org="uniform" sample="complete">
+                <div n="52" type="section" org="uniform" sample="complete">
                     <head>Use of the Moods.</head>
                     <milestone unit="smythp" id="s230" n="230"/>
                         <p>This chapter treats of all constructions which require any
@@ -8102,8 +8102,8 @@
                         <p>IX. Causal sentences.</p>
                         <p>X. Expressions of a wish.</p>
                     
-                </div2>
-                <div2 n="53" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="53" type="section" org="uniform" sample="complete">
                     <head>Section I: The Potential Optative and Indicative.</head>
                     <milestone unit="smythp" id="s232" n="232"/>
                         <p>We find fully established in the Homeric language a use of
@@ -8114,8 +8114,8 @@
                             or <emph>would</emph>) <emph>have
                             gone.</emph> Such an optative or indicative is called <emph>potential.</emph></p>
                     
-                </div2>
-                <div2 n="54" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="54" type="section" org="uniform" sample="complete">
                     <head>I. Potential Optative.</head>
                     <milestone unit="smythp" id="s233" n="233"/>
                         <p>It has already been seen <ref target="s13">(13)</ref> that Homer sometimes uses the optative in a
@@ -8524,8 +8524,8 @@
                         <p>The cases cited from Attic prose are now generally admitted
                             to be corrupt. See Kr&uuml;ger, ii. 54, 3, Anm. 8.</p>
                     
-                </div2>
-                <div2 n="55" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="55" type="section" org="uniform" sample="complete">
                     <head>II. Potential Indicative.</head>
                     <milestone unit="smythp" id="s243" n="243"/>
                         <p>As the potential optative represents a future act as
@@ -8936,14 +8936,14 @@
                             seen that the latter did not involve originally any denial of its own
                             action.</p>
                     
-                </div2>
-                <div2 n="56" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="56" type="section" org="uniform" sample="complete">
                     <head>Section II.</head>
                     <p>The Imperative and Subjunctive in Commands, Exhortations, and
                         Prohibitions.&mdash;Subjunctive and Indicative with <foreign lang="greek">μή</foreign> and <foreign lang="greek">μὴ
                             οὐ</foreign> in Cautious Assertions.&mdash;<foreign lang="greek">Ὅπως</foreign> and <foreign lang="greek">ὅπως μή</foreign> with the Independent Future Indicative, etc.</p>
-                </div2>
-                <div2 n="57" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="57" type="section" org="uniform" sample="complete">
                     <head>Imperative in Commands, etc.</head>
                     <milestone unit="smythp" id="s250" n="250"/>
                         <p>The imperative is used to express a command, an exhortation,
@@ -9093,8 +9093,8 @@
                             <bibl n="Xen. Hiero 8. 3">XEN. Hier. viii.
                                 3.</bibl></p>
                     
-                </div2>
-                <div2 n="58" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="58" type="section" org="uniform" sample="complete">
                     <head>First Person of Subjunctive as Imperative.</head>
                     <milestone unit="smythp" id="s255" n="255"/>
                         <p>The want of a first person in the imperative is supplied by
@@ -9257,8 +9257,8 @@
                             follow the analogy of the negative <foreign lang="greek">μὴ μάθῃς</foreign>. Nauck reads <foreign lang="greek">μάθε</foreign> here. See also <foreign lang="greek">τὸ ψάφισμα ἀνατεθᾷ</foreign> in an inscription
                             quoted in Appendix I. p. 385.</p>
                     
-                </div2>
-                <div2 n="59" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="59" type="section" org="uniform" sample="complete">
                     <head>Imperative and Subjunctive in Prohibitions.</head>
                     <milestone unit="smythp" id="s259" n="259"/>
                         <p>In prohibitions, in the second and third persons, the <emph>present</emph> imperative or the <emph>aorist</emph> subjunctive is used with <foreign lang="greek">μή</foreign> and its compounds. The distinction of
@@ -9398,8 +9398,8 @@
                                     e)piou/shs e)lpi/dos</quote>
                             </cit>.</p>
                     
-                </div2>
-                <div2 n="60" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="60" type="section" org="uniform" sample="complete">
                     <head>Independent Subjunctive with <foreign lang="greek">μή</foreign> Implying Fear (Homeric).</head>
                     <milestone unit="smythp" id="s261" n="261"/>
                         <p>In the following Homeric examples the independent subjunctive
@@ -9575,8 +9575,8 @@
                         <p>Euripides and Herodotus are the first after Homer to use
                                 <foreign lang="greek">μὴ οὐ</foreign> in <emph>dependent</emph> clauses of fear <ref target="s306">(306)</ref>.</p>
                     
-                </div2>
-                <div2 n="61" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="61" type="section" org="uniform" sample="complete">
                     <head>Subjunctive with <foreign lang="greek">μή</foreign> and <foreign lang="greek">μὴ
                         οὐ</foreign> in Cautious Assertions.</head>
                     <milestone unit="smythp" id="s265" n="265"/>
@@ -9702,8 +9702,8 @@
                             ἄν</foreign> takes the place of <foreign lang="greek">ᾖ</foreign>, and <foreign lang="greek">πῶς</foreign>
                             shows that the original force of <foreign lang="greek">μή</foreign> is forgotten.</p>
                     
-                </div2>
-                <div2 n="62" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="62" type="section" org="uniform" sample="complete">
                     <head>Indicative with <foreign lang="greek">μή</foreign> and <foreign lang="greek">μὴ οὐ</foreign>
                         in Cautious Assertions.</head>
                     <milestone unit="smythp" id="s269" n="269"/>
@@ -9743,8 +9743,8 @@
                             occurs chiefly in ordinary clauses after verbs of fearing where the
                             object of fear is negative (<ref target="s305">305</ref>; <ref target="s365">365</ref>).</p>
                     
-                </div2>
-                <div2 n="63" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="63" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὅπως</foreign>
                         and <foreign lang="greek">ὅπως μή</foreign> with the
                         Independent Future Indicative, etc.</head>
@@ -10023,8 +10023,8 @@
                             which there is no such analogy and little or no MS. authority. On this
                             ground the examples are given above as they stand in the MSS.</p>
                     
-                </div2>
-                <div2 n="64" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="64" type="section" org="uniform" sample="complete">
                     <head>Section III: Subjunctive, like the Future Indicative, in
                         Independent Sentences.&mdash;Interrogative Subjunctive.</head>
                     <head>Homeric Subjunctive.</head>
@@ -10176,8 +10176,8 @@
                                 31</bibl>
                             </cit>, &mdash; both referring to the same thing.</p>
                     
-                </div2>
-                <div2 n="65" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="65" type="section" org="uniform" sample="complete">
                     <head>Interrogative Subjunctive.</head>
                     <milestone unit="smythp" id="s287" n="287"/>
                         <p>The first person of the subjunctive is used in <emph>questions of appeal</emph>, where the speaker asks
@@ -10509,8 +10509,8 @@
                             think?</emph> as the answer must be affirmative (see Stallbaum's
                         note).</p>
                     
-                </div2>
-                <div2 n="66" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="66" type="section" org="uniform" sample="complete">
                     <head>Section IV: <foreign lang="greek">οὐ
                         μή</foreign> with the Subjunctive and the Future Indicative.</head>
                     <milestone unit="smythp" id="s294" n="294"/>
@@ -10851,8 +10851,8 @@
                             subjunctive was more common in clauses of denial, and the future in
                             clauses of prohibition.</p>
                     
-                </div2>
-                <div2 n="67" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="67" type="section" org="uniform" sample="complete">
                     <head>Section V.: Final and Object Clauses after <foreign lang="greek">ἵνα, ὡς, ὅπως, ὄφρα</foreign>, and
                             <foreign lang="greek">μή</foreign>.</head>
                     <head>Classification.&mdash;Negatives.</head>
@@ -10954,8 +10954,8 @@
                             final clause, <foreign lang="greek">μὴ . . . μὴ
                                 προσδέχοιτο</foreign>, <bibl n="Plat. Euthyd. 295D">PLAT. Euthyd. 295D.</bibl></p>
                     
-                </div2>
-                <div2 n="68" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="68" type="section" org="uniform" sample="complete">
                     <head>Development of Clauses with <foreign lang="greek">ἵνα, ὡς, ὅπως, ὄφρα</foreign>, and <foreign lang="greek">μή</foreign>.</head>
                     <milestone unit="smythp" id="s307" n="307"/>
                         <p>The development of final clauses and of clauses with <foreign lang="greek">μή</foreign> after verbs of fearing from
@@ -11280,8 +11280,8 @@
                                 ἔκτεινας, ὡς μήποτε τοῦτ’ ἔδειξα;</foreign>
                             <gloss> why did you not kill me</gloss>, <emph>that I might never have shown this?</emph> (<ref target="s333">See 333</ref>.)</p>
                     
-                </div2>
-                <div2 n="69" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="69" type="section" org="uniform" sample="complete">
                     <head> Pure Final Clauses.</head>
                     <milestone unit="smythp" id="s317" n="317"/>
                         <p>Pure final clauses regularly take the subjunctive if the
@@ -11804,8 +11804,8 @@
                                 <bibl n="Hom. Il. 20.301">Il. xx.
                             301.</bibl></p>
                     
-                </div2>
-                <div2 n="70" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="70" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ἄν</foreign>, or
                             <foreign lang="greek">κέ</foreign>, in Final Clauses
                         with Subjunctive.</head>
@@ -11971,8 +11971,8 @@
                                 ὅπως ἂν μίαν γνώμην ἔχωσιν ἅπαντες καὶ μὴ τοῖς
                                 ἐχθροῖς ἡδονὴν ποιῶσιν</foreign>. <bibl n="Dem. 19.298">DEM. xix. 298</bibl>: so xiv. 23.</p>
                     
-                </div2>
-                <div2 n="71" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="71" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ἄν</foreign>, or
                             <foreign lang="greek">κέ</foreign>, <gloss>in Final Clauses with Optative.</gloss></head>
                     <milestone unit="smythp" id="s329" n="329"/>
@@ -12181,8 +12181,8 @@
                         <p>In these cases the final force is equally strong with the
                             potential.</p>
                     
-                </div2>
-                <div2 n="72" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="72" type="section" org="uniform" sample="complete">
                     <head>Elliptical Constructions.</head>
                     <milestone unit="smythp" id="s331" n="331"/>
                         <p>In colloquial Greek we often find <foreign lang="greek">ἵνα τί;</foreign>
@@ -12204,8 +12204,8 @@
                                 that you may not take to flight</emph>, etc. <bibl n="Aeschin. 3.21">AESCHIN. iii.
                             21.</bibl></p>
                     
-                </div2>
-                <div2 n="73" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="73" type="section" org="uniform" sample="complete">
                     <head>Secondary Tenses of Indicative in Final Clauses.</head>
                     <milestone unit="smythp" id="s333" n="333"/>
                         <p>In Attic Greek the secondary tenses of the indicative are
@@ -12360,8 +12360,8 @@
                             by <foreign lang="greek">ὑπέρ</foreign> with the genitive
                             of the articular infinitive <ref target="s802">(802)</ref>.</p>
                     
-                </div2>
-                <div2 n="74" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="74" type="section" org="uniform" sample="complete">
                     <head> Object Clauses with <foreign lang="greek">ὅπως</foreign> and <foreign lang="greek">ὅπως μή</foreign> after Verbs of Striving, etc.</head>
                     <milestone unit="smythp" id="s339" n="339"/>
                         <p>In Attic Greek and in Herodotus, object clauses with <foreign lang="greek">ὅπως</foreign> and <foreign lang="greek">ὅπως μή</foreign> after verbs signifying <emph>to strive, to plan, to care for, to effect</emph>,
@@ -12483,8 +12483,8 @@
                             the future optative, which is theoretically the regular form after
                             secondary tenses, being rarely used. (<ref target="s128">See 128</ref>.)</p>
                     
-                </div2>
-                <div2 n="75" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="75" type="section" org="uniform" sample="complete">
                     <head>Homeric and other Early Usages.</head>
                     <milestone unit="smythp" id="s341" n="341"/>
                         <p>In Homer, verbs signifying <emph>to plan, to
@@ -12700,8 +12700,8 @@
                                 <bibl n="Aesch. Eum. 771"> Eum.
                             771</bibl>; SOLON xiii. 38; <bibl n="Soph. Ant. 215">SOPH. Ant. 215</bibl> (in <ref target="s281">281, above</ref>).</p>
                     
-                </div2>
-                <div2 n="76" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="76" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὅπως
                         ἄν</foreign>, in Attic Greek and Herodotus.: <foreign lang="greek">ὡς</foreign>, and <foreign lang="greek">ὡς ἄν</foreign>, in Xenophon.</head>
                     <milestone unit="smythp" id="s348" n="348"/>
@@ -12804,8 +12804,8 @@
                         <p>For a full enumeration of all the irregular passages of this
                             class in Xenophon, see Appendix IV.</p>
                     
-                </div2>
-                <div2 n="77" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="77" type="section" org="uniform" sample="complete">
                     <head>Negative Object Clauses.</head>
                     <milestone unit="smythp" id="s352" n="352"/>
                         <p>None of the object clauses with <foreign lang="greek">ὅπως</foreign> or <foreign lang="greek">ὡς</foreign> in Homer <ref target="s341">(341)</ref> are negative, except that
@@ -12878,8 +12878,8 @@
                                 ἐργάσηται</foreign>. <bibl n="Plat. Sym. 213D">PLAT. Symp. 213D</bibl> So <bibl n="Hom. Il. 15.164">Il. xv. 164</bibl> (see 342).</p>
                         <p>See the corresponding use of <foreign lang="greek">ὅπως μή</foreign> for <foreign lang="greek">μή</foreign> after verbs of fearing <ref target="s370">(370)</ref>.</p>
                     
-                </div2>
-                <div2 n="78" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="78" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὅπως</foreign>,
                         after Verbs of Asking, Commanding, etc.</head>
                     <milestone unit="smythp" id="s355" n="355"/>
@@ -13026,8 +13026,8 @@
                             like <foreign lang="greek">σέ</foreign> in <foreign lang="greek">δεῖ σε τούτου</foreign>, the <foreign lang="greek">ὅπως</foreign> clause representing the
                             genitive.</p>
                     
-                </div2>
-                <div2 n="79" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="79" type="section" org="uniform" sample="complete">
                     <head>Object Infinitive and Indirect Questions.</head>
                     <milestone unit="smythp" id="s361" n="361"/>
                         <p>Some verbs which regularly take an object clause with <foreign lang="greek">ὅπως</foreign> sometimes take an object
@@ -13056,8 +13056,8 @@
                                 <foreign lang="greek">σκοπεῖτε</foreign>, see
                         271-283.</p>
                     
-                </div2>
-                <div2 n="80" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="80" type="section" org="uniform" sample="complete">
                     <head>Aorist Subjunctive in <foreign lang="greek">-σω</foreign> and <foreign lang="greek">-σωμαι</foreign> -- Dawes's Canon.</head>
                     <milestone unit="smythp" id="s363" n="363"/>
                         <p>When an aorist subjunctive active or middle was to be used
@@ -13125,8 +13125,8 @@
                                 Philological Association for</emph> 186970, pp. 46-55, where this
                             question is discussed more fully.</p>
                     
-                </div2>
-                <div2 n="81" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="81" type="section" org="uniform" sample="complete">
                     <head>Clauses with <foreign lang="greek">μή</foreign> after Verbs of Fearing, etc.</head>
                     <milestone unit="smythp" id="s365" n="365"/>
                         <p>Verbs and phrases which express or imply <emph>fear, caution</emph>, or <emph>danger</emph> take
@@ -13693,8 +13693,8 @@
                             479A.</bibl> So <bibl n="Thuc. 7. 67">THUC.
                                 vii. 67.</bibl></p>
                     
-                </div2>
-                <div2 n="82" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="82" type="section" org="uniform" sample="complete">
                     <head>Section VI: Conditional Sentences.</head>
                     <milestone unit="smythp" id="s378" n="378"/>
                         <p>A conditional sentence consists of two clauses, a dependent
@@ -13841,8 +13841,8 @@
                             2</bibl>; <bibl n="Dem. 38.18">DEM.
                                 xxxviii. 18</bibl>; <bibl n="Aeschin. 3.242">AESCHIN. iii. 242.</bibl></p>
                     
-                </div2>
-                <div2 n="83" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="83" type="section" org="uniform" sample="complete">
                     <head>Classification of Conditional Sentences.</head>
                     <milestone unit="smythp" id="s388" n="388"/>
                         <p>The most obvious natural distinction is that of (<emph>a</emph>) <emph>present and
@@ -13864,8 +13864,8 @@
                             which have a peculiar construction (395, <emph>a</emph>
                             and <emph>b</emph>), we have&mdash;</p>
                     
-                </div2>
-                <div2 n="84" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="84" type="section" org="uniform" sample="complete">
                     <head>I. Four Forms of Ordinary Conditions: (a) Present and Past
                         Conditions.</head>
                     <milestone unit="smythp" id="s390" n="390"/>
@@ -13926,8 +13926,8 @@
                             fulfilled</emph>, and it is hardly conceivable that any language should
                             find such a form necessary or useful.</p>
                     
-                </div2>
-                <div2 n="85" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="85" type="section" org="uniform" sample="complete">
                     <head>(b) Future Conditions.</head>
                     <milestone unit="smythp" id="s392" n="392"/>
                         <p>The question as to the fulfilment of a future condition is
@@ -13966,8 +13966,8 @@
                                 <foreign lang="greek">εἰ τοῦτο πράσσοι</foreign>,
                                 <gloss>if he should do this.</gloss></p>
                     
-                </div2>
-                <div2 n="86" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="86" type="section" org="uniform" sample="complete">
                     <head>II. Present and Past General Suppositions.</head>
                     <milestone unit="smythp" id="s394" n="394"/>
                         <p>The supposition contained in a protasis may be either <emph>particular</emph> or <emph>general.</emph></p>
@@ -14050,8 +14050,8 @@
                             in form (see 396). On the other hand, <foreign lang="greek">ἐάν</foreign> with the subjunctive in a future
                             condition agrees substantially in sense with <foreign lang="greek">εἰ</foreign> and the <emph>future</emph> indicative <ref target="s447">(447)</ref>, and is never interchangeable with <foreign lang="greek">εἰ</foreign> and the <emph>present</emph> indicative.</p>
                     
-                </div2>
-                <div2 n="87" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="87" type="section" org="uniform" sample="complete">
                     <head>Origin of the Greek Conditional Sentence.&mdash;Early
                         Combinations of <foreign lang="greek">εἰ</foreign> with
                             <foreign lang="greek">κέ</foreign> or <foreign lang="greek">ἄν</foreign>.</head>
@@ -14174,8 +14174,8 @@
                             requires <foreign lang="greek">ἄν</foreign> in both
                             particular and general conditions.</p>
                     
-                </div2>
-                <div2 n="88" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="88" type="section" org="uniform" sample="complete">
                     <head>I. Four Forms of Ordinary Conditional Sentences: (a)
                         Present and Past Conditions.</head>
                     <head>1. Simple Suppositions (<emph>chiefly
@@ -14340,8 +14340,8 @@
                             58</bibl>. (<ref target="s458">See
                             458</ref>, and other examples in 506.)</p>
                     
-                </div2>
-                <div2 n="89" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="89" type="section" org="uniform" sample="complete">
                     <head>2. With Supposition contrary to Fact.</head>
                     <milestone unit="smythp" id="s410" n="410"/>
                         <p>When the protasis states a present or past supposition,
@@ -14632,8 +14632,8 @@
                             return.</emph> So <bibl n="Eur. Alc. 360">Alc.
                                 360.</bibl></p>
                     
-                </div2>
-                <div2 n="90" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="90" type="section" org="uniform" sample="complete">
                     <head>Apodosis without <foreign lang="greek">ἄν.Ἔδει, χρῆν</foreign>, etc. with the Infinitive.</head>
                     <milestone unit="smythp" id="s415" n="415"/>
                         <p>A peculiar form of potential indicative without <foreign lang="greek">ἄν</foreign> consists of an infinitive
@@ -15248,8 +15248,8 @@
                             this English <emph>it were better if he had gone</emph>,
                             but only by a change of construction.</p>
                     
-                </div2>
-                <div2 n="91" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="91" type="section" org="uniform" sample="complete">
                     <head>Homeric Peculiarities.</head>
                     <milestone unit="smythp" id="s434" n="434"/>
                         <p>In Homer the construction of the unreal conditional sentence
@@ -15445,8 +15445,8 @@
                             with <bibl n="Hom. Il. 1.271">Il. i.
                             271</bibl> and v. 303.</p>
                     
-                </div2>
-                <div2 n="92" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="92" type="section" org="uniform" sample="complete">
                     <head>Homeric Usages in Herodotus and in Attic Greek.</head>
                     <milestone unit="smythp" id="s443" n="443"/>
                         <p>(<emph>a</emph>) Herodotus has a few cases of
@@ -15486,8 +15486,8 @@
                                 k.t.l.</quote>
                             </cit> Such examples are extremely rare in Attic Greek.</p>
                     
-                </div2>
-                <div2 n="93" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="93" type="section" org="uniform" sample="complete">
                     <head>(b) Future Conditions: 1. Subjunctive or Future Indicative
                         in Protasis with a future Apodosis.</head>
                     <milestone unit="smythp" id="s444" n="444"/>
@@ -15728,8 +15728,8 @@
                             present conditions <ref target="s407">(407)</ref>, where it is equivalent to <foreign lang="greek">μέλλω</foreign> and the infinitive and cannot be
                             interchanged with the subjunctive.</p>
                     
-                </div2>
-                <div2 n="94" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="94" type="section" org="uniform" sample="complete">
                     <head>Homeric Peculiarities.</head>
                     <p>In the Homeric language the following peculiarities appear in
                         this construction:&mdash;</p>
@@ -15811,8 +15811,8 @@
                                 ξυστῶσιν αἱ πόλεις φοβηθεῖσαι</foreign>. (Here a few inferior MSS.
                             read <foreign lang="greek">ἤν</foreign>.)</p>
                     
-                </div2>
-                <div2 n="95" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="95" type="section" org="uniform" sample="complete">
                     <head>2. Optative in Protasis and Apodosis.</head>
                     <milestone unit="smythp" id="s455" n="455"/>
                         <p>When a supposed future case is stated less distinctly and
@@ -15918,8 +15918,8 @@
                             direct discourse. (<ref target="s128">See
                                 128</ref> and <ref target="s203">203</ref>.)</p>
                     
-                </div2>
-                <div2 n="96" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="96" type="section" org="uniform" sample="complete">
                     <head>Homeric Peculiarities.</head>
                     <milestone unit="smythp" id="s460" n="460"/>
                         <p><foreign lang="greek">Εἴ κε</foreign> with the
@@ -15974,8 +15974,8 @@
                         <p>The Homeric use of the optative in present and past unreal
                             conditional sentences has been discussed <ref target="s438">(438)</ref>.</p>
                     
-                </div2>
-                <div2 n="97" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="97" type="section" org="uniform" sample="complete">
                     <head>II. Present and Past General Suppositions.</head>
                     <milestone unit="smythp" id="s462" n="462"/>
                         <p>In present or past general suppositions, the apodosis
@@ -16120,8 +16120,8 @@
                                 φαίνοιτο</foreign>. <bibl n="Xen. Ages. 11.3">Xen. Ag. xi. 3.</bibl>Here, without any apparent reason,
                             the writer changes from the indicative to the optative. (<ref target="s534">See 534</ref>.)</p>
                     
-                </div2>
-                <div2 n="98" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="98" type="section" org="uniform" sample="complete">
                     <head>Homeric and Other Poetic Peculiarities.</head>
                     <milestone unit="smythp" id="s468" n="468"/>
                         <p>In Homer the subjunctive appears in protasis in general
@@ -16202,8 +16202,8 @@
                             relation of <foreign lang="greek">εἰ</foreign> to <foreign lang="greek">εἴ κε, ἤν, ἐάν</foreign>, etc.,
                                 <ref target="s401">see 401</ref>.</p>
                     
-                </div2>
-                <div2 n="99" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="99" type="section" org="uniform" sample="complete">
                     <head>Peculiar Forms of Conditional Sentences: Substitution and
                         Ellipsis in Protasis.&mdash;Protasis without a Verb.</head>
                     <milestone unit="smythp" id="s472" n="472"/>
@@ -16582,8 +16582,8 @@
                             apodoses, might be classed here; but these have higher claims to be
                             treated as independent sentences. See Chapter IV., Section I. </p>
                     
-                </div2>
-                <div2 n="100" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="100" type="section" org="uniform" sample="complete">
                     <head>Substitution and Ellipsis in Apodosis.</head>
                     <milestone unit="smythp" id="s479" n="479"/>
                         <p>The apodosis, in any of its forms, may be expressed by an
@@ -16766,8 +16766,8 @@
                         <p>There is the same suppression of the apodosis in the examples
                             in 475, where the protasis also is wanting with <foreign lang="greek">ὡς εἰ</foreign> and similar expressions.</p>
                     
-                </div2>
-                <div2 n="101" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="101" type="section" org="uniform" sample="complete">
                     <head>Apodosis contained in the Protasis.</head>
                     <milestone unit="smythp" id="s486" n="486"/>
                         <p>A protasis may depend on a verb which is not its apodosis,
@@ -17264,8 +17264,8 @@
                             interrogative use is fully established, only the simple <foreign lang="greek">εἰ</foreign> (never <foreign lang="greek">ἤν</foreign> or <foreign lang="greek">ἐάν</foreign>) can mean <emph>whether</emph>, even
                             when the verb is subjunctive <ref target="s680">(680)</ref>. </p>
                     
-                </div2>
-                <div2 n="102" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="102" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">εἰ</foreign> after
                         Expressions of Wonder, Indignation, etc.</head>
                     <milestone unit="smythp" id="s494" n="494"/>
@@ -17367,8 +17367,8 @@
                             ἦλθεν</foreign>, <gloss>I asked whether he had
                             come.</gloss></p>
                     
-                </div2>
-                <div2 n="103" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="103" type="section" org="uniform" sample="complete">
                     <head>Mixed Constructions.</head>
                     <milestone unit="smythp" id="s498" n="498"/>
                         <p>The forms of protasis and apodosis which are contained in the
@@ -17380,8 +17380,8 @@
                             variety of combination; and the early poets used much greater freedom in
                             these sentences than suited the more exact style of Attic prose.</p>
                     
-                </div2>
-                <div2 n="104" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="104" type="section" org="uniform" sample="complete">
                     <head>I. Optative in Protasis, with Future or Present Indicative
                         or an equivalent form in Apodosis.</head>
                     <milestone unit="smythp" id="s499" n="499"/>
@@ -17503,8 +17503,8 @@
                             optative is more common in the corresponding relative conditional
                             sentences <ref target="s555">(555)</ref>.</p>
                     
-                </div2>
-                <div2 n="105" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="105" type="section" org="uniform" sample="complete">
                     <head>II. Indicative or Subjunctive in Protasis, with Potential
                         Optative or Indicative in Apodosis.</head>
                     <milestone unit="smythp" id="s503" n="503"/>
@@ -17658,8 +17658,8 @@
                                 νῦν ἄνοιαν ὀφλισκάνων ὅμως ἐκλαλεῖ, ταῦτα δυνηθεὶς μὴ
                                 πράξει</foreign>. <bibl n="Dem. 1.26">DEM. i. 26.</bibl></p>
                     
-                </div2>
-                <div2 n="106" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="106" type="section" org="uniform" sample="complete">
                     <head>III. Potential Optative or Indicative (with <foreign lang="greek">ἄν</foreign>) in the Protasis.</head>
                     <milestone unit="smythp" id="s506" n="506"/>
                         <p>A potential optative (with <foreign lang="greek">ἄν</foreign>) in the protasis may express a present
@@ -17718,8 +17718,8 @@
                             been</emph>), or <emph>if it</emph> IS <emph>the case that something would hereafter be under
                                 certain circumstances.</emph> (<ref target="s409">See 409</ref>.)</p>
                     
-                </div2>
-                <div2 n="107" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="107" type="section" org="uniform" sample="complete">
                     <head>IV. Irregular Combinations.&mdash;Present or Past with
                         Future in one Protasis.</head>
                     <milestone unit="smythp" id="s508" n="508"/>
@@ -17770,8 +17770,8 @@
                                 the statesman to have done?</emph>
                             <bibl n="Dem. 18.190"> Ib. 190.</bibl></p>
                     
-                </div2>
-                <div2 n="108" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="108" type="section" org="uniform" sample="complete">
                     <head>V. Several Protases in one Sentence.</head>
                     <milestone unit="smythp" id="s510" n="510"/>
                         <p>Two or more protases, not co-ordinate, may belong to the same
@@ -17864,8 +17864,8 @@
                             merely descriptive (as if it were <foreign lang="greek">οὐκ ἔχων</foreign>). For <foreign lang="greek">μὴ
                                 οὐ</foreign> with the participle, <ref target="s818">see 818</ref>.</p>
                     
-                </div2>
-                <div2 n="109" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="109" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">δέ,
                         ἀλλά</foreign>, and <foreign lang="greek">αὐτάρ</foreign> in Apodosis.</head>
                     <milestone unit="smythp" id="s512" n="512"/>
@@ -17924,8 +17924,8 @@
                             depends, <ref target="s564">see
                         564</ref>.</p>
                     
-                </div2>
-                <div2 n="110" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="110" type="section" org="uniform" sample="complete">
                     <head>Section VII: Relative and Temporal Sentences.</head>
                     <milestone unit="smythp" id="s514" n="514"/>
                         <p>Relative sentences may be introduced by relative pronouns and
@@ -17977,8 +17977,8 @@
                             unless the general construction requires <foreign lang="greek">μή</foreign> (as in prohibitions, wishes, final
                             expressions, etc.).</p>
                     
-                </div2>
-                <div2 n="111" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="111" type="section" org="uniform" sample="complete">
                     <head>Relative with Definite Antecedent.</head>
                     <milestone unit="smythp" id="s519" n="519"/>
                         <p>A relative with a <emph>definite</emph>
@@ -18095,8 +18095,8 @@
                             112.</bibl> (<ref target="s913">See
                             913</ref>.)</p>
                     
-                </div2>
-                <div2 n="112" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="112" type="section" org="uniform" sample="complete">
                     <head>Relative with Indefinite Antecedent. &mdash;Conditional
                         Relative.</head>
                     <milestone unit="smythp" id="s520" n="520"/>
@@ -18203,16 +18203,16 @@
                             classes of ordinary conditions and two of general conditions, given in
                             388-395, applies equally to conditional relative sentences.</p>
                     
-                </div2>
-                <div2 n="113" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="113" type="section" org="uniform" sample="complete">
                     <head>I. Four Forms of Ordinary Conditional Relative Sentences.</head>
                     <milestone unit="smythp" id="s524" n="524"/>
                         <p>The conditional relative sentence has <emph>four</emph> forms, two of <emph>present</emph> and
                                 <emph>past</emph> (525 and 528) and two of <emph>future</emph> conditions (529 and 531), which
                             correspond to the four forms of ordinary protasis.</p>
                     
-                </div2>
-                <div2 n="114" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="114" type="section" org="uniform" sample="complete">
                     <head>(a) Present and Past Conditions.</head>
                     <milestone unit="smythp" id="s525" n="525"/>
                         <p>When the relative clause simply states a present or past
@@ -18409,8 +18409,8 @@
                             rule for <emph>assimilation</emph>
                             <ref target="s559">(559)</ref>.</p>
                     
-                </div2>
-                <div2 n="115" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="115" type="section" org="uniform" sample="complete">
                     <head>(b) Future Conditions.</head>
                     <milestone unit="smythp" id="s529" n="529"/>
                         <p>(<emph>Subjunctive.</emph>) When the relative
@@ -18588,8 +18588,8 @@
                                 542</ref>. All these examples fall also under the general rule for
                             assimilation <ref target="s558">(558)</ref>.</p>
                     
-                </div2>
-                <div2 n="116" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="116" type="section" org="uniform" sample="complete">
                     <head>II. General Conditional Relative Sentences.</head>
                     <milestone unit="smythp" id="s532" n="532"/>
                         <p>A conditional relative sentence may express a <emph>general</emph> supposition, when the verb of the
@@ -18882,8 +18882,8 @@
                                 <bibl n="Thgn.  964">THEOG.
                         964.</bibl></p>
                     
-                </div2>
-                <div2 n="117" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="117" type="section" org="uniform" sample="complete">
                     <head>Homeric and other Poetic Peculiarities in Conditional
                         Relative Sentences: Subjunctive without <foreign lang="greek">κέ</foreign> or <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s538" n="538"/>
@@ -19006,8 +19006,8 @@
                             established with the subjunctive as the regular form (like <foreign lang="greek">ἐάν</foreign>, etc.) in both general
                             and particular conditions. (<ref target="s471">See 471</ref>.)</p>
                     
-                </div2>
-                <div2 n="118" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="118" type="section" org="uniform" sample="complete">
                     <head>Relative with <foreign lang="greek">κέ</foreign> or <foreign lang="greek">ἄν</foreign> and
                         the Optative in Conditions.</head>
                     <milestone unit="smythp" id="s542" n="542"/>
@@ -19041,8 +19041,8 @@
                             time: <foreign lang="greek">ἐπευθόμεθα . . . ὅτε κέν
                                 τιν’ ἐπιζάφελος χόλος ἵκοι</foreign>, <bibl n="Hom. Il. 9.525">Il. ix. 525.</bibl></p>
                     
-                </div2>
-                <div2 n="119" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="119" type="section" org="uniform" sample="complete">
                     <head>Homeric Similes with <foreign lang="greek">Ὡς</foreign> etc.</head>
                     <milestone unit="smythp" id="s543" n="543"/>
                         <p>In Homer similes and comparisons may be expressed by the
@@ -19184,8 +19184,8 @@
                                 <foreign lang="greek">ὡς εἴ τε</foreign> with the
                             optative in Homeric similes, <ref target="s485">see 485</ref>.</p>
                     
-                </div2>
-                <div2 n="120" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="120" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὅ τι
                         μή</foreign> and <foreign lang="greek">ὅσον
                         μή</foreign> without a Verb.</head>
@@ -19229,8 +19229,8 @@
                                 σπένδεσκε θεῶν ὅ τι μὴ Διὶ πατρί</foreign>, i.e. <emph>except to Zeus</emph> (<foreign lang="greek">ὅ τι μή</foreign> = <foreign lang="greek">εἰ μή</foreign>), <bibl n="Hom. Il. 16.227">Il. xvi. 227.</bibl>Here Lange (p. 161)
                             reads <foreign lang="greek">ὅτε μή</foreign>.</p>
                     
-                </div2>
-                <div2 n="121" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="121" type="section" org="uniform" sample="complete">
                     <head>Special Forms of Antecedent Clause.</head>
                     <milestone unit="smythp" id="s552" n="552"/>
                         <p>A conditional relative clause (like a protasis with <foreign lang="greek">εἰ</foreign>) may depend on an
@@ -19265,8 +19265,8 @@
                             334</bibl>, <bibl n="Hom. Il. 9.191">Il.
                                 ix. 191</bibl>, <bibl n="Hom. Il. 18.524">Il. xviii. 524.</bibl> (<ref target="s698">See 698</ref>.)</p>
                     
-                </div2>
-                <div2 n="122" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="122" type="section" org="uniform" sample="complete">
                     <head>Mixed Conditional Constructions.</head>
                     <milestone unit="smythp" id="s554" n="554"/>
                         <p>The relative with the optative sometimes depends on a present
@@ -19396,8 +19396,8 @@
                             potential), <ref target="s542">see
                             542</ref>.</p>
                     
-                </div2>
-                <div2 n="123" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="123" type="section" org="uniform" sample="complete">
                     <head>Assimilation in Conditional Relative Clauses.</head>
                     <milestone unit="smythp" id="s558" n="558"/>
                         <p>When a conditional relative clause <emph>referring to the future</emph> depends on a subjunctive or optative
@@ -19507,8 +19507,8 @@
                                 ποιεῖν</foreign>. <bibl n="Xen. Cyrop. 2.1.30">XEN. Cyr. ii. 1, 30.</bibl> (Here <foreign lang="greek">βούλοιτο</foreign> for <foreign lang="greek">ἐβούλετο</foreign> would correspond to <foreign lang="greek">δέοιντο</foreign> in <bibl n="Xen. Ages. 9. 2"> Ag. ix. 2</bibl>,
                             above.)</p>
                     
-                </div2>
-                <div2 n="124" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="124" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">δέ</foreign> in
                         the Antecedent Clause.</head>
                     <milestone unit="smythp" id="s564" n="564"/>
@@ -19531,8 +19531,8 @@
                             <foreign lang="greek">Ὥσπερ οἱ ὁπλῖται, οὕτω δὲ
                                 καὶ οἱ πελτασταί</foreign>. <bibl n="Xen. Cyrop. 8.5.12">XEN. Cyr. viii. 5, 12.</bibl></p>
                     
-                </div2>
-                <div2 n="125" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="125" type="section" org="uniform" sample="complete">
                     <head>Final Relative Clauses Expressing Purpose.</head>
                     <milestone unit="smythp" id="s565" n="565"/>
                         <p>(<emph>Future Indicative.</emph>) In Attic
@@ -19705,8 +19705,8 @@
                                 <foreign lang="greek">καθ’ οὓς πολιτεύσουσι</foreign>
                             is used in the same sense.)</p>
                     
-                </div2>
-                <div2 n="126" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="126" type="section" org="uniform" sample="complete">
                     <head>Consecutive Relative Clauses Expressing Result. -- Causal
                         Relative.</head>
                     <milestone unit="smythp" id="s575" n="575"/>
@@ -19895,8 +19895,8 @@
                                 are wretched.</emph> The same combination of cause and condition is
                             seen in the Latin <foreign lang="la">siquidem.</foreign></p>
                     
-                </div2>
-                <div2 n="127" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="127" type="section" org="uniform" sample="complete">
                     <head>Consecutive Clauses with <foreign lang="greek">ὥστε</foreign> or 
                         <foreign lang="greek">ὡς</foreign> and with <foreign lang="greek">ἐφ’ ᾧ</foreign> 
                         or <foreign lang="greek">ἐφ’ ᾧτε</foreign>.</head>
@@ -20031,8 +20031,8 @@
                             authors. (<ref target="s608">See
                         608</ref>.)</p>
                     
-                </div2>
-                <div2 n="128" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="128" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὥστε</foreign>
                         with the Infinitive.</head>
                     <milestone unit="smythp" id="s587" n="587"/>
@@ -20547,8 +20547,8 @@
                                 <emph>you could hardly break them with a
                             stone.</emph></p>
                     
-                </div2>
-                <div2 n="129" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="129" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὥστε</foreign>
                         with the Finite Moods.</head>
                     <milestone unit="smythp" id="s601" n="601"/>
@@ -20696,8 +20696,8 @@
                             Compare <foreign lang="greek">ὥστε μή</foreign> with the
                             infinitive in <bibl n="Plat. Gorg. 479C">PLAT. Gorg. 479 C</bibl> (quoted in <ref target="s587">587, 3</ref>).</p>
                     
-                </div2>
-                <div2 n="130" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="130" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὥστε</foreign>
                         with the Participle.</head>
                     <milestone unit="smythp" id="s607" n="607"/>
@@ -20740,8 +20740,8 @@
                                 τῷ κατὰ γῆν ὑπερέχουσαν, ὅσον τὴν ἡμετέραν ἐν τοῖς
                                 κινδύνοις τοῖς κατὰ θάλατταν διαφέρουσαν</foreign>.</p>
                     
-                </div2>
-                <div2 n="131" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="131" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὡς</foreign> used
                         like <foreign lang="greek">ὥστε</foreign>.</head>
                     <milestone unit="smythp" id="s608" n="608"/>
@@ -20833,8 +20833,8 @@
                             infinitive after the comparative and <foreign lang="greek">ἤ</foreign>, <ref target="s764">see
                             764</ref>.</p>
                     
-                </div2>
-                <div2 n="132" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="132" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ἐφ’ ᾧ</foreign>
                         and <foreign lang="greek">ἐφ’ ᾧτε</foreign> with the
                         Infinitive and the Future Indicative.</head>
@@ -20882,8 +20882,8 @@
                             <bibl n="Thuc. 1. 103">Id. i.
                         103.</bibl></p>
                     
-                </div2>
-                <div2 n="133" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="133" type="section" org="uniform" sample="complete">
                     <head>Temporal Particles signifying Until and Before.: <foreign lang="greek">ἕως</foreign>, <foreign lang="greek">ὄφρα, εἰς ὅ</foreign> or
                             <foreign lang="greek">εἰσόκε, ἔστε, ἄχρι, μέχρι</foreign>, until.</head>
                     
@@ -21355,8 +21355,8 @@
                                 <foreign lang="greek">ἄν</foreign> with the
                             subjunctive, even in Attic prose, <ref target="s648">see 648</ref>.</p>
                     
-                </div2>
-                <div2 n="134" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="134" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρίν</foreign>,
                         before, until: Meaning and General Use of <foreign lang="greek">πρίν</foreign>.</head>
                     
@@ -21401,8 +21401,8 @@
                             affirmative, the subjunctive and optative are never used unless the
                             leading clause is negative or involves a negative idea.</p>
                     
-                </div2>
-                <div2 n="135" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="135" type="section" org="uniform" sample="complete">
                     <head>Development of the Constructions with <foreign lang="greek">πρίν</foreign>.</head>
                     <milestone unit="smythp" id="s623" n="623"/>
                         <p>The Attic uses of <foreign lang="greek">πρίν</foreign> with the indicative, subjunctive, and optative, are seen
@@ -21503,8 +21503,8 @@
                         <p>The history of the uses of <foreign lang="greek">πρίν</foreign> after Homer will be found below. (See
                             627; 632-634; 637; 642; 643; 645.)</p>
                     
-                </div2>
-                <div2 n="136" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="136" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρίν</foreign>
                         with the Infinitive.</head>
                     <milestone unit="smythp" id="s626" n="626"/>
@@ -21678,8 +21678,8 @@
                                 κατασχεῖν τὴν ἀρχήν</foreign>. <bibl n="Isoc. 8. 126">ISOC. viii. 126.</bibl></p>
                         <p>This ellipsis occurs first in Xenophon.</p>
                     
-                </div2>
-                <div2 n="137" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="137" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρίν</foreign>
                         with the Indicative.</head>
                     <milestone unit="smythp" id="s632" n="632"/>
@@ -21874,8 +21874,8 @@
                                 us.</gloss></p>
                         <p>For the same construction with <foreign lang="greek">πρότερον ἤ</foreign> in <bibl n="Hdt. 8. 93">HDT. viii. 93</bibl>, <ref target="s653">see 653</ref>.</p>
                     
-                </div2>
-                <div2 n="138" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="138" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρίν</foreign>
                         with the Subjunctive and Optative: Subjunctive.</head>
                     <milestone unit="smythp" id="s638" n="638"/>
@@ -21974,8 +21974,8 @@
                                     Phaedr. 242A.</bibl>
                             </cit></p>
                     
-                </div2>
-                <div2 n="139" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="139" type="section" org="uniform" sample="complete">
                     <head>Optative.</head>
                     <milestone unit="smythp" id="s643" n="643"/>
                         <p>When a clause with <foreign lang="greek">πρίν</foreign>, <gloss>until</gloss>, referring to the
@@ -22049,8 +22049,8 @@
                             sentences, <ref target="s629">see
                         629</ref>.</p>
                     
-                </div2>
-                <div2 n="140" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="140" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρίν</foreign>
                         with Subjunctive in General Suppositions.</head>
                     <milestone unit="smythp" id="s645" n="645"/>
@@ -22154,8 +22154,8 @@
                                 281D.</bibl> The leading verb here has merely the effect of a future
                             form on the clause with <foreign lang="greek">πρίν</foreign>.</p>
                     
-                </div2>
-                <div2 n="141" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="141" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρὶν ἤ,
                             πρότερον ἤ</foreign>, and <foreign lang="greek">πάρος</foreign>, in the sense of <foreign lang="greek">πρίν</foreign>.</head>
                     <milestone unit="smythp" id="s651" n="651"/>
@@ -22306,8 +22306,8 @@
                             infinitive occurs twelve times in Homer, always after affirmative
                             sentences (except in <bibl n="Hom. Od. 23.309">Od. xxiii. 309</bibl>).</p>
                     
-                </div2>
-                <div2 n="142" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="142" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">πρίν</foreign> (as
                         Adverb), <foreign lang="greek">πάρος, πρότερον,
                         πρόσθεν</foreign>, etc., before <foreign lang="greek">πρίν</foreign>, in the Leading Sentence.</head>
@@ -22399,8 +22399,8 @@
                                 often be reduced to slavery before any of us heard of
                         it.</gloss></p>
                     
-                </div2>
-                <div2 n="143" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="143" type="section" org="uniform" sample="complete">
                     <head>Section VIII: Indirect Discourse or Oratio Obliqua,
                         including Indirect Quotations and Questions.</head>
                     <milestone unit="smythp" id="s662" n="662"/>
@@ -22507,8 +22507,8 @@
                             discourse. (<ref target="s694">See 694</ref>
                             and 684.)</p>
                     
-                </div2>
-                <div2 n="144" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="144" type="section" org="uniform" sample="complete">
                     <head>General Principles of Indirect Discourse.</head>
                     <milestone unit="smythp" id="s667" n="667"/>
                         <p>The following are the general principles of indirect
@@ -22560,8 +22560,8 @@
                             this</gloss>, <emph>whether you tell the
                         truth.</emph></p>
                     
-                </div2>
-                <div2 n="145" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="145" type="section" org="uniform" sample="complete">
                     <head>Simple Sentences in Indirect Discourse: Indicative and
                         Optative after <foreign lang="greek">ὅτι</foreign> and
                             <foreign lang="greek">ὡς</foreign>, and in Indirect
@@ -23079,8 +23079,8 @@
                                 it is</emph> (<emph>was</emph>) <emph>his nature to press on towards pure Being</emph>, etc. (the
                             optatives representing indicatives). <bibl n="Plat. Rep. 490A">PLAT. Rep. 490A.</bibl></p>
                     
-                </div2>
-                <div2 n="146" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="146" type="section" org="uniform" sample="complete">
                     <head>Subjunctive or Optative representing the Interrogative
                         Subjunctive.</head>
                     <milestone unit="smythp" id="s677" n="677"/>
@@ -23208,8 +23208,8 @@
                             wherever this introduces a subjunctive the expression is conditional.
                                 (<ref target="s493">See 493</ref>.)</p>
                     
-                </div2>
-                <div2 n="147" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="147" type="section" org="uniform" sample="complete">
                     <head>Indicative or Optative with <foreign lang="greek">ἄν</foreign>.</head>
                     <milestone unit="smythp" id="s681" n="681"/>
                         <p>An indicative or optative with <foreign lang="greek">ἄν</foreign> retains its mood and tense (with <foreign lang="greek">ἄν</foreign>) unchanged in indirect
@@ -23274,8 +23274,8 @@
                             (The direct discourse was <foreign lang="greek">κρεῖττον
                                 ἦν μοι ἀποθανεῖν</foreign>.)</p>
                     
-                </div2>
-                <div2 n="148" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="148" type="section" org="uniform" sample="complete">
                     <head>Infinitive in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s683" n="683"/>
                         <p>When the infinitive stands in indirect discourse, its tense
@@ -23567,8 +23567,8 @@
                             strange use of <foreign lang="greek">μή</foreign> in these
                             last examples.</p>
                     
-                </div2>
-                <div2 n="149" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="149" type="section" org="uniform" sample="complete">
                     <head>Participle in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s687" n="687"/>
                         <p>When the participle stands in indirect discourse, it follows
@@ -23705,8 +23705,8 @@
                             constructions affecting the later construction of indirect discourse
                                 <ref target="s685">(685)</ref>.</p>
                     
-                </div2>
-                <div2 n="150" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="150" type="section" org="uniform" sample="complete">
                     <head>Indirect Quotation of Complex Sentences.</head>
                     <milestone unit="smythp" id="s689" n="689"/>
                         <p>When a complex sentence is indirectly quoted, its leading
@@ -24096,8 +24096,8 @@
                             here. Madvig, however, reads <foreign lang="greek">ὅτι</foreign> in both clauses. See <bibl n="Xen. Mem. 1.4.19">XEN. Mem. i. 4, 19</bibl> (quoted in
                             714). (See also 700, and the examples.)</p>
                     
-                </div2>
-                <div2 n="151" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="151" type="section" org="uniform" sample="complete">
                     <head>Single Dependent Clauses in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s694" n="694"/>
                         <p>1. The principles which govern dependent clauses of indirect
@@ -24456,8 +24456,8 @@
                                 i. 91.</bibl> (Here <foreign lang="greek">ὁπόταν
                                 ἀκούσωσιν</foreign> is changed to <foreign lang="greek">ὁπότε ἀκούσειαν</foreign>, although <foreign lang="greek">ἀφῶσιν</foreign> is retained.)</p>
                     
-                </div2>
-                <div2 n="152" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="152" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">οἶδ’
                         ὅτι</foreign>, without a Verb.</head>
                     <milestone unit="smythp" id="s705" n="705"/>
@@ -24481,8 +24481,8 @@
                         <p>In such cases it would be useless or impossible to add the
                             implied verb.</p>
                     
-                </div2>
-                <div2 n="153" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="153" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὅπως, ὅ,
                             οὕνεκα</foreign>, and <foreign lang="greek">ὁθούνεκα</foreign>, in Indirect Quotations.</head>
                     <milestone unit="smythp" id="s706" n="706"/>
@@ -24680,8 +24680,8 @@
                                 ὅτι τοῦτο . . . ἔφυμεν ἔχοντες, καὶ διότι . . . αὐτῶν
                                 διηνέγκαμεν</foreign>.</p>
                     
-                </div2>
-                <div2 n="154" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="154" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὅτι</foreign>,
                         before Direct Quotations.</head>
                     <milestone unit="smythp" id="s711" n="711"/>
@@ -24711,8 +24711,8 @@
                                 the history of this construction and collected examples, especially
                                 those in the Orators.</note></p>
                     
-                </div2>
-                <div2 n="155" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="155" type="section" org="uniform" sample="complete">
                     <head>Section IX: Causal Sentences.</head>
                     <milestone unit="smythp" id="s712" n="712"/>
                         <p>Causal sentences express the cause of something stated in the
@@ -24908,8 +24908,8 @@
                                 <bibl n="Hom. Od. 1.242">Hom. Od.
                             242</bibl>).</p>
                     
-                </div2>
-                <div2 n="156" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="156" type="section" org="uniform" sample="complete">
                     <head>Section X: Expression of a Wish.</head>
                     <milestone unit="smythp" id="s720" n="720"/>
                         <p>Wishes may be divided into two classes: (<emph>a</emph>) those referring to a future object, and (<emph>b</emph>) those referring to a present or past object
@@ -24923,8 +24923,8 @@
                         <p>From its use in wishes the <emph>optative</emph> mood (<foreign lang="greek">ἔγκλισις
                                 εὐκτική</foreign>) received its name.</p>
                     
-                </div2>
-                <div2 n="157" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="157" type="section" org="uniform" sample="complete">
                     <head>Wishes Referring to the Future.</head>
                     <milestone unit="smythp" id="s721" n="721"/>
                         <p>A wish referring to the future may be expressed in Greek in
@@ -25234,8 +25234,8 @@
                             was afterwards appended. For a discussion of this view, see Appendix
                         I.</p>
                     
-                </div2>
-                <div2 n="158" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="158" type="section" org="uniform" sample="complete">
                     <head>Wishes (Not Attained) in Present or Past Time.</head>
                     <milestone unit="smythp" id="s731" n="731"/>
                         <p>A wish referring to a present or past object, which (it is
@@ -25489,11 +25489,11 @@
                             reasonable thing were or had been ours, only such wishing implies that
                             we do not or did not have it. </p>
                     
-                </div2>
-            </div1>
-            <div1 n="5" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="5" type="chapter" org="uniform" sample="complete">
                 <head>Chapter V</head>
-                <div2 n="159" type="section" org="uniform" sample="complete">
+                <div n="159" type="section" org="uniform" sample="complete">
                     <head>The Infinitive.</head>
                     <milestone unit="smythp" id="s741" n="741"/>
                         <p>The infinitive is originally a verbal noun, expressing the
@@ -25611,8 +25611,8 @@
                                 genitive. For undoubted examples in later Greek, see <emph>Trans. of Assoc. Phil. for</emph> 1877, p.
                             7.</note></p>
                     
-                </div2>
-                <div2 n="160" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="160" type="section" org="uniform" sample="complete">
                     <head>Infinitive without the Article: Infinitive as Subject,
                         Predicate, or Appositive.</head>
                     <milestone unit="smythp" id="s745" n="745"/>
@@ -25658,8 +25658,8 @@
                             243.</bibl></p>
                         <p>For the subject infinitive in indirect discourse, <ref target="s751">see 751</ref>.</p>
                     
-                </div2>
-                <div2 n="161" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="161" type="section" org="uniform" sample="complete">
                     <head>Infinitive as Object.</head>
                     <milestone unit="smythp" id="s746" n="746"/>
                         <p>The infinitive may be the object of a verb, generally
@@ -25670,8 +25670,8 @@
                             verbs of <emph>saying</emph> and <emph>thinking.</emph></p>
                         <p>For the infinitive in indirect discourse, <ref target="s751">see 751</ref>.</p>
                     
-                </div2>
-                <div2 n="162" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="162" type="section" org="uniform" sample="complete">
                     <head>Object Infinitive not in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s747" n="747"/>
                         <p>The verbs which take the ordinary object infinitive are in
@@ -25850,8 +25850,8 @@
                                 <bibl n="Aristoph. Birds 448">AR. Av.
                                 448.</bibl></p>
                     
-                </div2>
-                <div2 n="163" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="163" type="section" org="uniform" sample="complete">
                     <head>Infinitive in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s751" n="751"/>
                         <p>The infinitive in indirect discourse is generally the object
@@ -25998,8 +25998,8 @@
                                 i. 24</bibl> the story of Arion and the dolphin is told in this
                             construction, the infinitives all depending on <foreign lang="greek">λέγουσι</foreign> at the beginning.</p>
                     
-                </div2>
-                <div2 n="164" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="164" type="section" org="uniform" sample="complete">
                     <head>Infinitive after Adjectives, Adverbs, and Nouns.</head>
                     <milestone unit="smythp" id="s758" n="758"/>
                         <p>The infinitive may depend on adjectives denoting <emph>ability, fitness, desert, qualification, sufficiency,
@@ -26323,8 +26323,8 @@
                             <bibl n="Hom. Il. 14.521">Il. xiv.
                             521.</bibl></p>
                     
-                </div2>
-                <div2 n="165" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="165" type="section" org="uniform" sample="complete">
                     <head>Infinitive of Purpose.</head>
                     <milestone unit="smythp" id="s770" n="770"/>
                         <p>The infinitive may express a <emph>purpose.
@@ -26514,8 +26514,8 @@
                                 ᾧτε</foreign>, see 582-600; 608-610.</p>
                         <p>For the infinitive with <foreign lang="greek">πρίν</foreign>, see 626-631.</p>
                     
-                </div2>
-                <div2 n="166" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="166" type="section" org="uniform" sample="complete">
                     <head>Absolute Infinitive.</head>
                     
                         <p>Absolute Infinitive.<note n="1" place="unspecified" anchored="yes">See Gr&uuml;newald, <emph>Der freie formelhafte Infinitiv der Limitation im
@@ -26780,8 +26780,8 @@
                             inadequate translation of <foreign lang="greek">ὡς
                                 εἰπεῖν</foreign>, <gloss>so to speak.</gloss></p>
                     
-                </div2>
-                <div2 n="167" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="167" type="section" org="uniform" sample="complete">
                     <head>Infinitive in Commands and Prohibitions for the Imperative.
                         Infinitive in Wishes and Exclamations.</head>
                     <milestone unit="smythp" id="s784" n="784"/>
@@ -26928,8 +26928,8 @@
                             </cit> This infinitive often has the article <foreign lang="greek">τό</foreign>
                             <ref target="s805">(805)</ref>.</p>
                     
-                </div2>
-                <div2 n="168" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="168" type="section" org="uniform" sample="complete">
                     <head>Infinitive with the Article.</head>
                     
                         <p>Infinitive with the Article.<note n="1" place="unspecified" anchored="yes">See Gildersleeve, <title>Contributions to the History of the Articular Infinitive</title>,
@@ -26985,8 +26985,8 @@
                                 in each author before Aristotle, see Birklein's table, p.
                         91.</note></p>
                     
-                </div2>
-                <div2 n="169" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="169" type="section" org="uniform" sample="complete">
                     <head>Articular Infinitive as Subject or Object.</head>
                     <milestone unit="smythp" id="s789" n="789"/>
                         <p>Although the infinitive, as subject or object of a verb,
@@ -27150,8 +27150,8 @@
                             <bibl n="Soph. Ant. 235">SOPH. Ant.
                             235.</bibl>For the articular infinitive with <foreign lang="greek">ἄν</foreign> in other constructions, <ref target="s212">see 212</ref>.</p>
                     
-                </div2>
-                <div2 n="170" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="170" type="section" org="uniform" sample="complete">
                     <head>Infinitive with <foreign lang="greek">τό</foreign>, after Adjectives and Nouns.</head>
                     <milestone unit="smythp" id="s795" n="795"/>
                         <p>In some constructions in which the simple infinitive appears
@@ -27234,8 +27234,8 @@
                                 <foreign lang="greek">τὸ μὴ οὐ</foreign> after verbs
                             implying a negative <ref target="s811">(811)</ref>. See also 813 and 814.</p>
                     
-                </div2>
-                <div2 n="171" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="171" type="section" org="uniform" sample="complete">
                     <head>Infinitive with <foreign lang="greek">τοῦ, τῷ</foreign>, and <foreign lang="greek">τό</foreign>, as a Noun, in various Constructions.</head>
                     <milestone unit="smythp" id="s798" n="798"/>
                         <p>The infinitive with <foreign lang="greek">τοῦ</foreign> appears as an adnominal genitive, a genitive after verbs
@@ -27511,8 +27511,8 @@
                             <bibl n="Dem. 19.55">Id. xix.
                         55.</bibl></p>
                     
-                </div2>
-                <div2 n="172" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="172" type="section" org="uniform" sample="complete">
                     <head>Simple Infinitive and Infinitive with <foreign lang="greek">τοῦ</foreign>, after Verbs of Hindrance, etc.</head>
                     
                         <p>Simple Infinitive and Infinitive with <foreign lang="greek">τοῦ</foreign>, after Verbs of Hindrance, etc.<note n="1" place="unspecified" anchored="yes">See Madvig's
@@ -27695,8 +27695,8 @@
                                 (<emph>c</emph>), and (<emph>d</emph>), (but, according to Madvig, not in the form (<emph>b</emph>), with <foreign lang="greek">τοῦ</foreign> without <foreign lang="greek">μή</foreign>) may follow negatives in the construction of 807. See the
                             examples.</p>
                     
-                </div2>
-                <div2 n="173" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="173" type="section" org="uniform" sample="complete">
                     <head>Infinitive with <foreign lang="greek">τὸ
                             μή</foreign>, or <foreign lang="greek">τὸ μὴ
                         οὐ</foreign>.</head>
@@ -27904,8 +27904,8 @@
                             <bibl n="Plat. Apol. 29C">PLAT. Ap. 29
                             C</bibl>.</p>
                     
-                </div2>
-                <div2 n="174" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="174" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">μὴ οὐ</foreign>
                         with Infinitive and Participle, and (Rarely) with Nouns.</head>
                     <milestone unit="smythp" id="s815" n="815"/>
@@ -28074,11 +28074,11 @@
                         <p>It may be noted that <foreign lang="greek">μὴ
                                 οὐ</foreign> in poetry always forms one syllable. </p>
                     
-                </div2>
-            </div1>
-            <div1 n="6" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="6" type="chapter" org="uniform" sample="complete">
                 <head>Chapter VI</head>
-                <div2 n="175" type="section" org="uniform" sample="complete">
+                <div n="175" type="section" org="uniform" sample="complete">
                     <head>The Participle.</head>
                     <milestone unit="smythp" id="s821" n="821"/>
                         <p>As the infinitive is a verbal noun, so the participle is a
@@ -28107,8 +28107,8 @@
                             for convenience, though the lines (like many others in syntax) must not
                             be drawn so strictly as to defeat their object.</p>
                     
-                </div2>
-                <div2 n="176" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="176" type="section" org="uniform" sample="complete">
                     <head>Attributive Participle.</head>
                     <milestone unit="smythp" id="s824" n="824"/>
                         <p>The participle may qualify a noun, like an attributive
@@ -28416,8 +28416,8 @@
                                 <foreign lang="greek">ἔσομαι</foreign> with the
                             perfect and aorist participle for the future perfect, in 80 and 81.</p>
                     
-                </div2>
-                <div2 n="177" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="177" type="section" org="uniform" sample="complete">
                     <head>Circumstantial Participle.</head>
                     <milestone unit="smythp" id="s832" n="832"/>
                         <p>The participle may define the <emph>circumstances</emph> under which an action takes place, agreeing
@@ -28824,8 +28824,8 @@
                             circumstantial participles are possible, as many express various
                             relations at the same time. <ref target="s823">See 823</ref>.</p>
                     
-                </div2>
-                <div2 n="178" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="178" type="section" org="uniform" sample="complete">
                     <head>Genitive Absolute.</head>
                     <milestone unit="smythp" id="s847" n="847"/>
                         <p>When a circumstantial participle (<ref target="s832">832</ref>-846) belongs to a substantive
@@ -28969,8 +28969,8 @@
                                     Civ. i. 29.</bibl>
                             </cit></p>
                     
-                </div2>
-                <div2 n="179" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="179" type="section" org="uniform" sample="complete">
                     <head>Accusative Absolute.</head>
                     <milestone unit="smythp" id="s851" n="851"/>
                         <p>The participle of an <emph>impersonal</emph>
@@ -29080,8 +29080,8 @@
                                 314 C</bibl>, where we may supply <foreign lang="greek">ποιεῖν</foreign>, or <foreign lang="greek">δόξαν ταῦτα</foreign> may represent <foreign lang="greek">ἔδοξε ταῦτα</foreign>. So <bibl n="Xen. Anab. 4.1.13">XEN. An. iv. 1,
                                 13.</bibl></p>
                     
-                </div2>
-                <div2 n="180" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="180" type="section" org="uniform" sample="complete">
                     <head>Adverbs connected with the Circumstantial Participle.</head>
                     <milestone unit="smythp" id="s855" n="855"/>
                         <p>The adverbs <foreign lang="greek">τότε,
@@ -29480,8 +29480,8 @@
                             essentially the same sense. So in <foreign lang="greek">ἐφοβήθη ὡσπερανεὶ παῖς</foreign>, <bibl n="Plat. Gorg. 479A">PLAT. Gorg. 479 A</bibl>, <foreign lang="greek">ὥσπερ παῖς</foreign>, <gloss>like a child</gloss>, would probably have expressed
                             the whole idea with less emphasis.</p>
                     
-                </div2>
-                <div2 n="181" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="181" type="section" org="uniform" sample="complete">
                     <head>Remarks on <foreign lang="greek">ὥσπερ</foreign> and <foreign lang="greek">ὡς</foreign>
                         with the Participle.</head>
                     <milestone unit="smythp" id="s869" n="869"/>
@@ -29580,8 +29580,8 @@
                                 <foreign lang="greek">ὑπό</foreign> and a participle
                             of circumstance being united under <foreign lang="greek">ἤτοι</foreign> and <foreign lang="greek">ἤ</foreign>.</p>
                     
-                </div2>
-                <div2 n="182" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="182" type="section" org="uniform" sample="complete">
                     <head>Omission of <foreign lang="greek">ὤν</foreign>.</head>
                     <milestone unit="smythp" id="s875" n="875"/>
                         <p>The participle <foreign lang="greek">ὤν</foreign> is sometimes omitted, leaving a predicate adjective or
@@ -29676,8 +29676,8 @@
                                 οὐδ’ ἑτοίμων</foreign>). See other examples in K&uuml;hner, vol.
                             ii. &sect; 491.</p>
                     
-                </div2>
-                <div2 n="183" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="183" type="section" org="uniform" sample="complete">
                     <head>Combinations of Circumstantial Participles.</head>
                     <milestone unit="smythp" id="s876" n="876"/>
                         <p>As the participle in the genitive or accusative absolute
@@ -29716,8 +29716,8 @@
                                 ἀφαιρήσεται</foreign>, which contains <foreign lang="greek">ἐπελθών</foreign> and <foreign lang="greek">ἀτειχίστων ὄντων</foreign> as circumstantial
                             participles.</p>
                     
-                </div2>
-                <div2 n="184" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="184" type="section" org="uniform" sample="complete">
                     <head>Supplementary Participle.</head>
                     <milestone unit="smythp" id="s877" n="877"/>
                         <p>The supplementary participle completes the idea expressed by
@@ -29739,8 +29739,8 @@
                                 speak the truth;</gloss> and compare both with <foreign lang="greek">κωλύομέν σε λέγειν</foreign>, <gloss>we prevent you from speaking</gloss>, and <foreign lang="greek">φησί σε λέγειν τἀληθῆ</foreign>,
                                 <gloss>he says that you speak the truth.</gloss></p>
                     
-                </div2>
-                <div2 n="185" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="185" type="section" org="uniform" sample="complete">
                     <head>I. Not in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s879" n="879"/>
                         <p>I. The participle may be used with verbs signifying <emph>to begin, to continue, to endure, to persevere, to
@@ -30627,8 +30627,8 @@
                         <p>With the expressions of 901 the infinitive is more common
                             (903, 7).</p>
                     
-                </div2>
-                <div2 n="186" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="186" type="section" org="uniform" sample="complete">
                     <head>Omission of <foreign lang="greek">ὤν</foreign>.</head>
                     <milestone unit="smythp" id="s902" n="902"/>
                         <p>Occasionally the participle <foreign lang="greek">ὤν</foreign> is omitted in the constructions of the
@@ -30677,8 +30677,8 @@
                                 </item>
                             </list></p>
                     
-                </div2>
-                <div2 n="187" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="187" type="section" org="uniform" sample="complete">
                     <head>Infinitive with Verbs which may also have the Supplementary
                         Participle.</head>
                     <milestone unit="smythp" id="s903" n="903"/>
@@ -30838,8 +30838,8 @@
                                 <quote lang="greek">ou)k e)/fqhs fra/sai</quote>
                             </cit>, Meineke reads <foreign lang="greek">ἐλθών</foreign> and <foreign lang="greek">φράσας</foreign>. See Classen on <bibl n="Thuc. 3. 82">THUC. iii. 82</bibl>, <foreign lang="greek">ὁ φθάσας θαρσῆσαι</foreign> (?).</p>
                     
-                </div2>
-                <div2 n="188" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="188" type="section" org="uniform" sample="complete">
                     <head>II. Participle in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s904" n="904"/>
                         <p>The participle is used with verbs signifying <emph>to see, to hear</emph> or <emph>learn,
@@ -31278,8 +31278,8 @@
                                 <item>So <bibl n="Hom. Il. 15.18">Il. xv. 18.</bibl> (<ref target="s519">See 519</ref>, end.)</item>
                             </list></p>
                     
-                </div2>
-                <div2 n="189" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="189" type="section" org="uniform" sample="complete">
                     <head>Infinitive with the Verbs of &sect; 904.</head>
                     <milestone unit="smythp" id="s914" n="914"/>
                         <p>Many of the verbs which regularly have the participle in
@@ -31661,8 +31661,8 @@
                             </cit>
                         </p>
                     
-                </div2>
-                <div2 n="190" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="190" type="section" org="uniform" sample="complete">
                     <head><foreign lang="greek">ὡς</foreign> with
                         the Participle in Indirect Discourse.</head>
                     <milestone unit="smythp" id="s916" n="916"/>
@@ -32023,11 +32023,11 @@
                             </list>
                         </p>
                     
-                </div2>
-            </div1>
-            <div1 n="7" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="7" type="chapter" org="uniform" sample="complete">
                 <head>Chapter VII</head>
-                <div2 n="1" type="section" org="uniform" sample="complete">
+                <div n="1" type="section" org="uniform" sample="complete">
                     <head>Verbal Adjectives in <foreign lang="greek">-τέος</foreign> and <foreign lang="greek">-τέον</foreign></head>
                     <milestone unit="smythp" id="s920" n="920"/>
                         <p>The verbal in <foreign lang="greek">-τέος</foreign> is used in both a personal and an impersonal
@@ -32267,11 +32267,11 @@
                                 ποιητέον</foreign>, but only <foreign lang="greek">τοῦτο ἡμᾶς δεῖ
                                 ποιεῖν</foreign>. </p>
                     
-                </div2>
-            </div1>
-            <div1 n="appendix" type="chapter" org="uniform" sample="complete">
+                </div>
+            </div>
+            <div n="appendix" type="chapter" org="uniform" sample="complete">
                 <head>Appendix</head>
-                <div2 n="1" type="section" org="uniform" sample="complete">
+                <div n="1" type="section" org="uniform" sample="complete">
                     <head>The Relation of the Optative to the Subjunctive and Other
                         Moods.</head>
                     
@@ -33277,8 +33277,8 @@
                             is substantially that of a <quote>remoter future,</quote> as it is in
                             independent sentences and in protasis. </p>
                     
-                </p></div2>
-                <div2 n="2" type="section" org="uniform" sample="complete">
+                </p></div>
+                <div n="2" type="section" org="uniform" sample="complete">
                     <head>On the Origin of the Construction of <foreign lang="greek">οὐ μή</foreign> with the Subjunctive and the Future
                             Indicative.<note n="1" place="unspecified" anchored="yes">Reprinted, with a few changes, from the Harvard Studies in Classical
                             Philology, vol. i. pp. 65-76.</note></head>
@@ -33871,8 +33871,8 @@
                             element.</note>
                         </p>
                     
-                </div2>
-                <div2 n="3" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="3" type="section" org="uniform" sample="complete">
                     <head>Statistics of the Use of the Final Particles.</head>
                     
                         <p>The following tables are based on the statistics given by Dr.
@@ -34604,8 +34604,8 @@
                             compounds, 14 times; <foreign lang="greek">βουλεύω</foreign> and <foreign lang="greek">βουλὴν
                                 εἰπεῖν</foreign>, 5 times; <foreign lang="greek">πειρῶ</foreign>, 5 times; <foreign lang="greek">μερμηρίζω</foreign>, 4 times; <foreign lang="greek">ὁρμαίνω</foreign> and <foreign lang="greek">λίσσομαι</foreign>, each twice; and <foreign lang="greek">νοέω, λεύσσω, μῆτιν ὕφηνον</foreign>, and <foreign lang="greek">μνήσομαι</foreign>, each once. (36 total) </p>
                     
-                </div2>
-                <div2 n="4" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="4" type="section" org="uniform" sample="complete">
                     <head>Xenophon's Peculiar use of <foreign lang="greek">ὡς, ὡς ἄν</foreign>, and <foreign lang="greek">ὅπως ἄν</foreign> in Final and Object Clauses.</head>
                     <div3 type="smythp" org="uniform" sample="complete">
                         <head>In Final Clauses.</head>
@@ -35047,8 +35047,8 @@
                             </list>
                         </p>
                     </div3>
-                </div2>
-                <div2 n="4" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="4" type="section" org="uniform" sample="complete">
                     <head>On some Disputed Points in the Construction of <foreign lang="greek">ἔδει, χρῆν</foreign>, etc. with the
                             Infinitive.<note n="1" place="unspecified" anchored="yes">Many parts of this paper are identical with the article with the same
                             title in the Harvard Studies in Classical Philology, vol. i. pp.
@@ -35558,8 +35558,8 @@
                             <emph>they would have been bound to send.</emph> In
                         Latin, as in Greek and English, the peculiar force of the past tense of the
                         indicative with the infinitive is purely idiomatic.</p>
-                </div2>
-                <div2 n="6" type="section" org="uniform" sample="complete">
+                </div>
+                <div n="6" type="section" org="uniform" sample="complete">
                     <head>Deliberative Constructions</head>
                     
                         <p>IN a paper on <title>The Extent of the
@@ -35720,8 +35720,8 @@
                                 εἰς ὅ τι βλέπω</foreign> in <bibl n="Soph. Aj. 514">SOPH. Aj. 514</bibl>, and I have therefore included
                             this passage with the examples under <ref target="s573">&sect; 573.2</ref>.</p>
                     
-                </div2>
-            </div1>
+                </div>
+            </div>
         </body>
     </text>
 </TEI.2>

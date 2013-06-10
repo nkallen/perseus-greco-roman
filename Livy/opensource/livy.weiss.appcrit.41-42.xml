@@ -66,24 +66,24 @@
       </item></change></revisionDesc></teiHeader>
 
 <text><body>
-<div1 type="introduction">
+<div type="introduction">
 <pb id="p.173"/>
 <head>Abweichungen von der Wiener handschrift.</head>
 <p>Die noch &uuml;brigen f&uuml;nf B&uuml;cher des Livius sind nur in einer, in dem 6. oder 7. Jahrhundert entstandenen Handschrift erhalten, welche, 1527 von Simon Grynaeus in dem Kloster Lorsch bei W&uuml;rzburg aufgefunden, jetzt in der kaiserlichen Bibliothek zu Wien aufbewahrt wird. Die Handschrift bestand urspr&uuml;nglich aus 34 Lagen je zu 8 Bl&auml;ttern, war aber schon, als Grynaeus sie entdeckte, unvollst&auml;ndig: es fehlte die erste, die funfzehnte bis achtzehnte Lage ganz, 43, 3, 7, von der vierten fand sich nur ein Blatt, s. 41, 18, 16: <foreign lang="la">deduxit,</foreign> ebenso von der f&uuml;nften, 41, 20, 13; von der f&uuml;nfundzwanzigsten fehlte das erste Blatt, 44, 30, 15; die beiden mittleren 44, 32, 11 und das letzte 44, 34, 10; von der sechsundzwanzigsten die vier mittleren Bl&auml;tter 44, 35, 23; von der siebenundzwanzigsten die beiden mittleren 44, 40, 10; von der achtundzwanzigsten das letzte 44, 46, 11; von der dreissigsten das erste 45, 14, 9 und das letzte 45, 21, 8; von der vierunddreissigsten das erste Blatt 45, 39, 2. Jetzt ist auch die erste Lage 41, 1&mdash;41, 9, 10 <foreign lang="la">tum cons. sc.</foreign> verloren gegangen. Nachdem Grynaeus die 5 B&uuml;cher in der edit. Frobeniana 1531 herausgegeben und viele Fehler der Handschrift verbessert hatte, ist diese erst in der neuesten Zeit wieder vollst&auml;ndig verglichen worden, von Kopitar, von Madvig und f&uuml;r ihn von Forchhammer und einem anderen Gelehrten und von Vahlen. In der folgenden Zusammenstellung der Lesarten dieser Handschrift ist die f&uuml;r die Weidmann'sche Buchhandlung von Kopitar veranstaltete, durch sp&auml;tere von ihm Kreyssig mitgetheilte Zus&auml;tze vervollst&auml;ndigte Collation zu Grunde gelegt, welche, was sich nach den Anf&uuml;hrungen Beckers und selbst Kreyssigs kaum erwarten l&auml;sst, nicht allein die meisten abweichenden Lesarten (nur die in der Hds. selbst durch Zusetzung von fehlenden Buchstaben &uuml;ber der Zeile oder Punktirung von zu tilgenden verbesserten Worte sind zum Theil, wie es scheint absichtlich, einzelne richtige Worte zwischen unrichtigen wol nicht aus Unachtsamkeit &uuml;bergegangen), sondern auch die zahlreichen orthographischen Abweichungen der Drakenb. Ausgabe (<foreign lang="la">cum</foreign> statt <foreign lang="la">quum, causa, nuntio</foreign> u. s. w.) enth&auml;lt. Mit derselben sind die beiden anderen Collationen verglichen, das allen Gemeinschaftliche ohne Zeichen angef&uuml;hrt, das Kopitar Eigenth&uuml;mliche in [], das demselben mit einer der beiden anderen Collationen Gemeinsame in [] mit <ref>V</ref> oder <ref>M,</ref> das den beiden anderen Collationen Eigenth&uuml;mliche mit (), das in einer allein Bemerkte mit (&mdash;<ref>M</ref>) oder (&mdash;<ref>V</ref>) bezeichnet. Wo schon Grynaeus die hds. Lesart gebessert hat, ist nur diese angef&uuml;hrt, wo die in den Text aufgenommene Verbesserung anderen Gelehrten angeh&ouml;rt, sind deren Namen in derselben Weise wie in den vorhergehenden B&uuml;chern hinzugef&uuml;gt.
-</p></div1>
-<div1 type="book" n="41">
+</p></div>
+<div type="book" n="41">
 
 <pb id="p.174"/>
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <div3 type="section" n="3">
 <p>tuendam viginti navibus mari superiore <ref>Florebellus.</ref> 6. in histriamque suum, <ref>Gr.</ref> | ibd. adiicere, <ref>W., Mg.</ref>| 8. pro regulo erat, <ref>Crev.</ref></p>
 
 
-<p>aut amplius, <ref>Florebellus.</ref></p></div3></div2>
+<p>aut amplius, <ref>Florebellus.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="2">
+<div type="chapter" n="2">
 
 <div3 type="section" n="3">
 
@@ -105,17 +105,17 @@
 
 <div3 type="section" n="11">
 
-<p>direptis quae, <ref>Drak.</ref></p></div3></div2>
+<p>direptis quae, <ref>Drak.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="3">
+<div type="chapter" n="3">
 
 <div3 type="section" n="5">
 
-<p>nuntius ad tertiam, <ref>W.</ref></p></div3></div2>
+<p>nuntius ad tertiam, <ref>W.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="4">
+<div type="chapter" n="4">
 
 <div3 type="section" n="2">
 
@@ -125,10 +125,10 @@
 
 <div3 type="section" n="4">
 
-<p>modice vinosi erant, <ref>Heerwagen, Mg.</ref></p></div3></div2>
+<p>modice vinosi erant, <ref>Heerwagen, Mg.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="5">
+<div type="chapter" n="5">
 
 <div3 type="section" n="6">
 
@@ -153,10 +153,10 @@
 
 <div3 type="section" n="10">
 
-<p>iustos coniuges, <ref>W.</ref> 11. alicuiquam, <ref>Herald.</ref></p></div3></div2>
+<p>iustos coniuges, <ref>W.</ref> 11. alicuiquam, <ref>Herald.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="7">
+<div type="chapter" n="7">
 
 <div3 type="section" n="2">
 
@@ -169,10 +169,10 @@
 <p>decreuisset, quando id bellum populus, <ref>Gr</ref> &verbar;</p></div3>
 
 
-<div3 type="section" n="9"><p><lemma>fuerit &verbar; caeteros,</lemma> Crev.</p></div3></div2>
+<div3 type="section" n="9"><p><lemma>fuerit &verbar; caeteros,</lemma> Crev.</p></div3></div>
 
 
-<div2 type="chapter" n="8">
+<div type="chapter" n="8">
 
 <div3 type="section" n="1">
 
@@ -233,10 +233,10 @@
 
 <div3 type="section" n="12">
 
-<p>factus esset haec, <ref>Sig., Douiat.</ref></p></div3></div2>
+<p>factus esset haec, <ref>Sig., Douiat.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="9">
+<div type="chapter" n="9">
 
 <div3 type="section" n="4">
 
@@ -316,9 +316,9 @@
 <div3 type="section" n="13">
 
 <p>(moratis) &verbar; aequae (que <ref>M</ref>) ampliuspraecipiti, <ref>Florebellus.</ref></p></div3>
-</div2>
+</div>
 
-<div2 type="chapter" n="11">
+<div type="chapter" n="11">
 <div3 type="section" n="1">
 <p>manliusquae &verbar; oppidumetmattiusquo, <ref>Cluver.</ref> &verbar; uioppugnanteo, <ref>W.</ref></p></div3>
 
@@ -512,10 +512,10 @@
 
 <div3 type="section" n="11">
 
-<p>e. claudio, <ref>Sig.</ref></p></div3></div2>
+<p>e. claudio, <ref>Sig.</ref></p></div3></div>
 
 
-<div2 type="chapter" n="15">
+<div type="chapter" n="15">
 
 <div3 type="section" n="1">
 
@@ -588,9 +588,9 @@
 <p>i<foreign lang="la">u</foreign>reiurarunt, <ref>Crev.</ref> &verbar; etfonteius &verbar; imperi &verbar; hi &verbar; c~c~&utilde;milium socium et [ccc <ref>M</ref>].</p></div3>
 <pb id="p.175"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="16">
+<div type="chapter" n="16">
 <div3 type="section" n="1">
 <p>[III <ref>M</ref>] non mai &verbar; ianinus [s <foreign lang="la">am Ende &uuml;b. d. Zeile</foreign>] praecatus &verbar; [&ptilde;. r. <ref>M</ref>] &verbar; legioni</p></div3>
 
@@ -1146,9 +1146,9 @@
 
 <pb id="p.179"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="25">
+<div type="chapter" n="25">
 <div3 type="section" n="1">
 <p><lemma>u</lemma>ipsos &verbar; furorum &verbar;&verbar; utinsedibus (utuisedibus)</p></div3>
 
@@ -1346,11 +1346,11 @@
 <div3 type="section" n="10">
 
 <p>autque &verbar; aliquod &verbar; datamuneragladiatorumunum &verbar; titiliui(1.)aburbecondita &verbar;&verbar; lib. XLI expl . . . (exp.) inc. lib. XLII &verbar;&verbar; felici (f. lici) . . r. Die Schrift ist verwischt, die Hds. durchl&ouml;chert.</p></div3>
-</div2></div1>
+</div></div>
 
-<div1 type="book" n="42">
+<div type="book" n="42">
 
-<div2 type="chapter" n="1">
+<div type="chapter" n="1">
 <div3 type="section" n="1">
 <p>postumius <foreign lang="la">bis</foreign> rettulisset <foreign lang="la">mit rother Dinte geschrieben</foreign>] &verbar; (popillius)prouincisexser (exer)citibus (citus <ref>V</ref>), <ref>Vahlen.</ref> &verbar; absenatum &verbar; dc., <ref>Drak.</ref> &verbar; et [a. <ref>M</ref>]pedites &verbar; centumequitibusccscribiiussa</p></div3>
 
@@ -1590,9 +1590,9 @@
 
 <pb id="p.180"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="6">
+<div type="chapter" n="6">
 <div3 type="section" n="1">
 <p>delpiset[aetoli <ref>M</ref>]concilio &verbar; peloponnensiumtraiecitquoaceis, <ref>Gryn., Crev.</ref></p></div3>
 
@@ -1750,10 +1750,10 @@
 
 <div3 type="section" n="8">
 
-<p>armquoquetemporefierinec, <ref>Sig., Mg.</ref> &verbar; oppugnantis, <ref>Clericus.</ref> &verbar; [seuiendo]</p></div3></div2>
+<p>armquoquetemporefierinec, <ref>Sig., Mg.</ref> &verbar; oppugnantis, <ref>Clericus.</ref> &verbar; [seuiendo]</p></div3></div>
 
 
-<div2 type="chapter" n="9">
+<div type="chapter" n="9">
 
 <div3 type="section" n="1">
 
@@ -1883,9 +1883,9 @@
 <p>feris &verbar; habituros &verbar; rep.</p></div3>
 <pb id="p.181"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="11">
+<div type="chapter" n="11">
 <div3 type="section" n="1">
 <p>uidisseromam &verbar; depersonacrimina</p></div3>
 
@@ -2154,9 +2154,9 @@
 <p>cedentem &verbar; constarinpauidus.</p></div3>
 <pb id="p.182"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="16">
+<div type="chapter" n="16">
 <div3 type="section" n="1">
 <p>maceriem &verbar; add. &verbar; adque &verbar; eorumexconprenso, <ref>Kr.</ref> &verbar; occiderunt</p></div3>
 
@@ -2393,9 +2393,9 @@
 <div3 type="section" n="8">
 
 <p>plebis (plebi <ref>V</ref>)sciuitatiiusitique ex &verbar; liciniusproconsuluit &verbar; querereexrogatione, <ref>Drk.</ref> &verbar; querere &verbar; [iusserant <ref>M</ref>].</p></div3>
-</div2>
+</div>
 
-<div2 type="chapter" n="22">
+<div type="chapter" n="22">
 <div3 type="section" n="1">
 <p>ceperunt, <ref>Gr.</ref></p></div3>
 
@@ -2610,9 +2610,9 @@
 <p>tessali &verbar; senatum &verbar; usurarepesse &verbar; eorumesset, <ref>Gr.</ref> &verbar; uenissetu.</p></div3>
 <pb id="p.183"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="26">
+<div type="chapter" n="26">
 <div3 type="section" n="1">
 <p>[magnoopere] &verbar; adtinead &verbar; consulis &verbar; [cesserant] &verbar; exasperathosacliguris</p></div3>
 
@@ -2881,9 +2881,9 @@
 <p>aduersuspraetoremconsiliainissent &verbar; (cla<foreign lang="la">u</foreign>ssem).</p></div3>
 <pb id="p.184"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="31">
+<div type="chapter" n="31">
 <div3 type="section" n="1">
 <p>sortirenturque &verbar; [p<foreign lang="la">r</foreign>]satisfecissem &verbar; (persequerebur)</p></div3>
 
@@ -3114,9 +3114,9 @@
 <div3 type="section" n="6">
 
 <p>societatemque &verbar; sagittari &verbar; numida &verbar; cretamitt (mit <ref>V</ref>)erentlegatos[res <ref>V</ref>]ire &verbar; decium, <ref>Sig.</ref></p></div3>
-</div2>
+</div>
 
-<div2 type="chapter" n="36">
+<div type="chapter" n="36">
 <div3 type="section" n="1">
 <p>(legatoi)</p></div3>
 
@@ -3361,9 +3361,9 @@
 <p>nostro, <foreign lang="la">dann leerer Raum f&uuml;r etwa 16 Buchst.,</foreign> hospitio &verbar; materiem, <ref>Hz.</ref> &verbar; aput.</p></div3>
 <pb id="p.185"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="41">
+<div type="chapter" n="41">
 <div3 type="section" n="1">
 <p>adealex &verbar; aput[equos <ref>V</ref>] &verbar; aput &verbar; agant</p></div3>
 
@@ -3632,9 +3632,9 @@
 <p>(silyriorum <ref>V</ref>) &verbar; redit.</p></div3>
 <pb id="p.186"/> 
 
-</div2>
+</div>
 
-<div2 type="chapter" n="46">
+<div type="chapter" n="46">
 <div3 type="section" n="1">
 <p>adconloquio, <ref>Kr.</ref> &verbar; deincohor (cohora <ref>V</ref>)tiscum &verbar; byzantiumetrhodumetlegatiferendas, <ref>Crev.</ref></p></div3>
 
@@ -3897,9 +3897,9 @@
 <p>itabello, <ref>Doering, Mg.</ref> &verbar; [cessisse <ref>V</ref>] &verbar; quicquamprodignitateadmaiestate.</p></div3>
 <pb id="p.187"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="51">
+<div type="chapter" n="51">
 <div3 type="section" n="1">
 <p>pelle &verbar; inquid &verbar; [lit (ut <ref>V</ref>)terisquae] &verbar; titium &verbar; omniscontraipsacentumhostis &verbar; alcidemconfacto, <ref>Turnebus.</ref> &verbar; manus &verbar; (macedeonum)externorum, <ref>Vahlen, Hz.</ref></p></div3>
 
@@ -4198,9 +4198,9 @@
 <p>tessalorumomnisequitatus(partus)[separatus]erat, <ref>Drk.</ref> &verbar; quam[CCC <ref>M</ref>]erantadqueincastrisromanos &verbar; admillea (mille. d. <ref>V</ref>)dederunt, <ref>Kr.</ref></p></div3>
 <pb id="p.188"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="56">
+<div type="chapter" n="56">
 <div3 type="section" n="1">
 <p>maleum[mallum]calcidem &verbar; peteret &verbar; corintium &verbar; prooccupandas &verbar; [boetia <ref>V</ref>]</p></div3>
 
@@ -4497,9 +4497,9 @@
 <div3 type="section" n="9">
 
 <p>secutus &verbar; dicebanturthessali, <ref>Kr.</ref></p></div3>
-</div2>
+</div>
 
-<div2 type="chapter" n="61">
+<div type="chapter" n="61">
 <div3 type="section" n="1">
 <p>armainsici(gi <ref>M</ref>)liaaliquisequosquibusdam (aliquisquib. dam <ref>M</ref>) &verbar; domo, n <foreign lang="la">&uuml;b.</foreign> m, dabant, <ref>Drk.</ref> &verbar; supra [CIO].a. loricae &verbar; (CIO.amplius <ref>M</ref>) &verbar; gladioque (q. <ref>M</ref>)</p></div3>
 
@@ -4555,10 +4555,10 @@
 
 <div3 type="section" n="11">
 
-<p>tumulushycantetempeste&verbar;&verbar; esteminetlarisaemediusabestonum (<bibl n="Liv. Frag. 62">62.1</bibl>) nonabscendentesadripapaenei</p></div3></div2>
+<p>tumulushycantetempeste&verbar;&verbar; esteminetlarisaemediusabestonum (<bibl n="Liv. Frag. 62">62.1</bibl>) nonabscendentesadripapaenei</p></div3></div>
 
 
-<div2 type="chapter" n="62">
+<div type="chapter" n="62">
 
 <div3 type="section" n="3">
 
@@ -4682,10 +4682,10 @@
 
 <div3 type="section" n="12">
 
-<p>inttebanosductus &verbar; recepti &verbar; (romanosrum <ref>V</ref>) &verbar; (adversa) &verbar; inboetia(am) &verbar; redit (dredit).</p></div3></div2>
+<p>inttebanosductus &verbar; recepti &verbar; (romanosrum <ref>V</ref>) &verbar; (adversa) &verbar; inboetia(am) &verbar; redit (dredit).</p></div3></div>
 
 
-<div2 type="chapter" n="64">
+<div type="chapter" n="64">
 
 <div3 type="section" n="1">
 
@@ -4734,9 +4734,9 @@
 <p>romanosquattuorpostquam, <ref>W.</ref> &verbar; equites &verbar; sycirium &verbar; insecuti &verbar; adque.</p></div3>
 <pb id="p.189"/>
 
-</div2>
+</div>
 
-<div2 type="chapter" n="65">
+<div type="chapter" n="65">
 <div3 type="section" n="1">
 <p>itineri &verbar; grannonis &verbar; palanneum</p></div3>
 
@@ -4922,4 +4922,4 @@
 <pb id="p.190"/>
 
 
-</div2></div1></body></text></TEI.2>
+</div></div></body></text></TEI.2>

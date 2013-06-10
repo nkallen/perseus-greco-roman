@@ -124,8 +124,8 @@ new additions
 <castItem type="role"><role>SYRA, anus,</role><roleDesc>lena.</roleDesc></castItem>
 </castList>
 
-<div1 type="act" n="introduction">
-<div2 type="scene" n="summary">
+<div type="act" n="introduction">
+<div type="scene" n="summary">
 <head>INTRODUCTION.</head>
 <p lang="en">THE Hecyra takes its name from the fact that its plot turns upon the misunderstanding between a mother and daughter-in-law. Colman has translated the word 'step-mother;' but <foreign lang="greek">ἑκυρά</foreign> is etymologically, and in meaning, the same word as '<foreign lang="la">socrus</foreign>,' a mother-in-law; and there is the same close connexion between the correlative words <foreign lang="greek">νυός</foreign> and '<foreign lang="la">nurus</foreign>,' a daughter-in-law.</p>
 <p lang="en">The story of the play is as follows: A young man named Pamphilus, son of Laches and Sostrata, used to keep company with one Bacchis. One night as he was going to her house, rather the worse for wine, he met Philumena, the daughter of Phidippus and Myrrhina, on the road, and offered her violence, both of them being ignorant who the other was. She could not get any thing from him which could serve as a clue to his recognition; but he in the struggle managed to tear from her finger a ring, which he carried to Bacchis and gave to her. A short time after this he was married; for his father was very anxious to break off his intimacy with Bacchis, and to see his son quietly settled down, that he might have some prospect of domestic comfort in his old age; and he never let his son have any peace till he consented to take to himself a wife. By a strange coincidence the wife selected for him was this very Philumena, whom he had met at night on his way to his mistress's house; and her mother was only too glad to have her married, hoping that she would be saved from public disgrace. But things did not turn out as smoothly as she expected; for Pamphilus did not at first shake off his old love, but continued to visit Bacchis every day, and totally avoided the company of his wife. Gradually, however, a change took place. Bacehis, being annoyed at the marriage of Pamphilus, behaved with great coldness and caprice towards him. Philumena, on the other hand, bore his neglect with the greatest patience and good temper. And so it came about that Pamphilus abandoned Bacchis altogether, and became devotedly attached to his wife. At this moment a relation of his father's dies at Imbros, and Pamphilus is despatched to the spot to look after his property, his wife being left with her mother-in-law Sostrata. But this arrangement does not last long. Philumena, finding that she has no hope of concealing her situation from her mother-in-law, begins to avoid her, and to withdraw from her company as much as possible; till, at last, she goes to her own mother on the pretence of attending a family sacrifice, and stays with her, refusing to return to her mother-in-law. Sostrata sends for her, but in vain; and she goes to see her, but is refused admittance.</p>
@@ -135,13 +135,13 @@ new additions
 </p>
 <p lang="en">Bacchis is accordingly sent for, and she completely clears herself and Pamphilus from the suspicion, and further undertakes to explain the real state of affairs to Myrrhina and Philumena. This brings out the true history of Philumena; and Bacchis is able to inform Pamphilus that his wife was the owner of the ring which she had received from him. This entirely changes Pamphilus' view of the case, and he is beside himself with delight.</p>
 <p lang="en">This play is not remarkable for any of the spirit which generally appears in Terence's plays. The event on which the plot of the play depends, and the circumstances of Philumena's illness, having necessarily to be kept in the background, gives an air of restraint to the whole piece. Indeed, within the whole action, properly so called, there is no incident except the discovery of the ring. The plot is much more simple, and the characters less interesting than those of any other play; and in the treatment of the character of the slave we notice a marked departure from the ordinary idea of that part. The Parmeno of the Hecyra is a very different personage from his namesake of the Eunuchus. He is merely sententious and inquisitive; and the only amusement which we get out of him is that he is very anxious to discover his master's secret, and that his curiosity is not gratified.
-</p></div2>
-<div2 type="scene" n="production">
+</p></div>
+<div type="scene" n="production">
 <p>HECYRA.  ACTA LUDIS MEGALENSIBUS, SEX. IUL. CAESARE CN. CORNELIO DOLABELLA AEDILIBUS CURULIBUS. NON EST PERACTA. MODOS FECIT FLACCUS CLAUDII, TIBIIS PARIBUS. TOTA GRAECA APOLLODORU FACTA EST. ACTA PRIMO SINE PROLOGO. DATA SECUNDO CN. OCTAVIO T. MANLIO COSS. RELATA EST L. AEMILII PAULI LUDIS FUNEBRIBUS. NON EST PLACITA. TERTIO RELATA EST Q. FULVIO L. MARCIO AEDILIBUS CURULIBUS. EGIT L. AMBIVIUS TURPIO. PLACUIT.
 
-</p></div2></div1>
-<div1 type="act" n="prologue">
-<div2 type="scene" n="0">
+</p></div></div>
+<div type="act" n="prologue">
+<div type="scene" n="0">
 <sp><speaker>Prologus</speaker>
 <lb ed="TLN" n="1"/><p><l>Hecyra est huic nomen fabulae: haec cum data
 <lb ed="TLN" n="2"/></l><l>Nova est novum intervenit vitium et calamitas,
@@ -151,8 +151,8 @@ new additions
 <lb ed="TLN" n="6"/></l><l>Et is qui scripsit hanc ob eam rem noluit
 <lb ed="TLN" n="7"/></l><l>Iterum referre ut iterum posset vendere.
 <lb ed="TLN" n="8"/></l><l>Alias cognostis eius: quaeso hanc nunc noscite.
-</l></p></sp></div2>
-<div2 type="scene" n="1">
+</l></p></sp></div>
+<div type="scene" n="1">
 <head>ALTER PROLOGUS.</head>
 <sp><speaker>Prologus</speaker>
 <lb ed="TLN" n="9"/><p><l>Orator ad vos venio ornatu prologi:
@@ -204,9 +204,9 @@ new additions
 <lb ed="TLN" n="55"/></l><l>Mea causa causam hanc accipite, et date silentium,
 <lb ed="TLN" n="56"/></l><l>Ut libeat scribere aliis, mihique ut discere
 <lb ed="TLN" n="57"/></l><l>Novas expediat posthac pretio emtas meo.
-</l></p></sp></div2></div1>
-<div1 type="act" n="1">
-<div2 type="scene" n="1">
+</l></p></sp></div></div>
+<div type="act" n="1">
+<div type="scene" n="1">
 <stage>PHILOTIS. SYRA.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="58"/><p><l>Per pol quam paucos reperias meretricibus
 <lb ed="TLN" n="59"/></l><l>Fideles evenire amatores, Syra.
@@ -228,8 +228,8 @@ new additions
 <lb ed="TLN" n="73"/></l><l>Aut qua via te captent eadem ipsos capi?
 <lb ed="TLN" n="74"/></l><l>Eheu me miseram, cur non aut istaec mihi
 <lb ed="TLN" n="75"/></l><l>Aetas et forma est, aut tibi haec sententia?
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>PARMENO. PHILOTIS. SYRA.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="76"/><p><l>Senex si quaeret me, modo isse dicito
 <lb ed="TLN" n="77"/></l><l>Ad portum, percontatum adventum Pamphili.
@@ -374,9 +374,9 @@ new additions
 <lb ed="TLN" n="198"/></l><l>Quod agas.
    </l></p></sp><sp><speaker>Ph.</speaker> <p><l part="Y"> Vale.
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Et tu bene vale, Philotium.
-</l></p></sp></div2></div1>
-<div1 type="act" n="2">
-<div2 type="scene" n="1">
+</l></p></sp></div></div>
+<div type="act" n="2">
+<div type="scene" n="1">
 <stage>LACHES. SOSTRATA.</stage>
 <sp><speaker>La.</speaker> <lb ed="TLN" n="199"/><p><l>Pro Deum atque hominum fidem, quod hoc genus est, quae haec est coniuratio.
 <lb ed="TLN" n="200"/></l><l>Utine omnes mulieres eadem aeque studeant, nolintque omnia;
@@ -431,8 +431,8 @@ new additions
 <lb ed="TLN" n="241"/></l><l>Et merito adeo; nam vestrarum nulla est quin gnatum velit
 <lb ed="TLN" n="242"/></l><l>Ducere uxorem; et quae vobis placita est conditio datur.
 <lb ed="TLN" n="243"/></l><l n="45">Ubi duxere impulsu vestro, vestro impulsu easdem exigunt.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>PHIDIPPUS. LACHES. SOSTRATA.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="244"/><p><l>Etsi scio ego, Philumena, meum ius esse ut te cogam
 <lb ed="TLN" n="245"/></l><l>Quae ego imperem facere; ego tamen patrio animo victus faciam
@@ -472,8 +472,8 @@ new additions
    </l></p></sp><sp><speaker>Ph.</speaker> <p><l part="Y"> Nunc quidem ut videtur: sed numquid vis?
 <lb ed="TLN" n="274"/></l><l>Nam est quod me transire ad forum iam oporteat.
    </l></p></sp><sp><speaker>La.</speaker> <p><l part="Y"> Eo tecum una.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>SOSTRATA.</stage>
 <sp><speaker>Sostrata</speaker>
 <lb ed="TLN" n="275"/><p><l>Edepol ne nos sumus inique aeque omnes invisae viris,
@@ -483,9 +483,9 @@ new additions
 <lb ed="TLN" n="279"/></l><l n="5">Omnes esse iniquas: haud pol me quidem; nam nunquam secus
 <lb ed="TLN" n="280"/></l><l>Habui illam ac si ex me esset nata: nec qui hoc mihi eveniat scio;
 <lb ed="TLN" n="281"/></l><l>Nisi pol filium multimodis iam exspecto ut redeat domum.
-</l></p></sp></div2></div1>
-<div1 type="act" n="3">
-<div2 type="scene" n="1">
+</l></p></sp></div></div>
+<div type="act" n="3">
+<div type="scene" n="1">
 <stage>PAMPHILUS. PARMENO. MYRRHINA.</stage>
 <sp><speaker>Pam.</speaker> <lb ed="TLN" n="282"/><p><l>Nemini ego plura acerba credo esse ex amore homini unquam oblata
 <lb ed="TLN" n="283"/></l><l>Quam mihi. Heu me infelicem, hancine ego vitam parsi perdere?
@@ -557,8 +557,8 @@ new additions
 <lb ed="TLN" n="334"/></l><l>Aliquid tulisse comminiscentur mali
 <lb ed="TLN" n="335"/></l><l>Capiti atque aetati illorum, morbus qui auctus siet.
 <lb ed="TLN" n="336"/></l><l n="55">Hera in crimen veniet, ego vero in magnum malum.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>SOSTRATA. PARMENO. PAMPHILUS.</stage>
 <sp><speaker>So.</speaker> <lb ed="TLN" n="337"/><p><l>Nescio quid iamdudum audio hic tumultuari misera:
 <lb ed="TLN" n="338"/></l><l>Male metuo ne Philumenae magis morbus aggravescat;
@@ -601,8 +601,8 @@ new additions
 <sp><speaker>Pam.</speaker> <lb ed="TLN" n="360"/><p><l>Tu pueris curre Parmeno obviam, atque eis onera adiuta.</l></p></sp>
 <sp><speaker>Par.</speaker> <lb ed="TLN" n="361"/><p><l n="25">Quid? non sciunt ipsi viam domum qua redeant?
    </l></p></sp><sp><speaker>Pam.</speaker> <p><l part="Y"> Cessas?
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>PAMPHILUS.</stage>
 <sp><speaker>Pamphilius</speaker>
 <lb ed="TLN" n="362"/><p><l>Nequeo mearum rerum initium ullum invenire idoneum,
@@ -659,8 +659,8 @@ new additions
 <lb ed="TLN" n="413"/></l><l>Vereor, si clamorem eius hic crebro audiat,
 <lb ed="TLN" n="414"/></l><l>Ne parturire intelligat: aliquo mihi est
 <lb ed="TLN" n="415"/></l><l>Hinc ablegandus dum parit Philumena.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>PARMENO. SOSIA. PAMPHILUS.</stage>
 <sp><speaker>Par.</speaker> <lb ed="TLN" n="416"/><p><l>Ain tu tibi hoc incommodum evenisse iter?</l></p></sp>
 <sp><speaker>So.</speaker> <lb ed="TLN" n="417"/><p><l>Non hercle verbis, Parmeno, dici potest
@@ -709,8 +709,8 @@ new additions
 <lb ed="TLN" n="449"/></l><l>Nam me parenti potius quam amori obsequi
 <lb ed="TLN" n="450"/></l><l n="35">Oportet. Atat eccum Phidippum et patrem
 <lb ed="TLN" n="451"/></l><l>Video: horsum pergunt. Quid dicam hisce incertus sum.
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>LACHES. PHIDIPPUS. PAMIPHILUS.</stage>
 <sp><speaker>La.</speaker> <lb ed="TLN" n="452"/><p><l>Dixtin dudum illam dixisse se exspectare filium?</l></p></sp>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="453"/><p><l>Factum.
@@ -795,9 +795,9 @@ new additions
 <lb ed="TLN" n="514"/></l><l>Quae dico parvi pendunt. Porto hoc iurgium
 <lb ed="TLN" n="515"/></l><l>Ad uxorem, cuius haec fiunt consilio omnia;
 <lb ed="TLN" n="516"/></l><l n="65">Atque in eam hoc omne quod mihi aegre est evomam.
-</l></p></sp></div2></div1>
-<div1 type="act" n="4">
-<div2 type="scene" n="1">
+</l></p></sp></div></div>
+<div type="act" n="4">
+<div type="scene" n="1">
 <stage>MYRRHINA. PHIDIPPUS.</stage>
 <sp><speaker>My.</speaker> <lb ed="TLN" n="517"/><p><l>Perii: quid agam? quo me vertam? quid viro meo respondebo
 <lb ed="TLN" n="518"/></l><l>Misera? nam audivisse vocem pueri visus est vagientis:
@@ -866,8 +866,8 @@ new additions
 <lb ed="TLN" n="575"/></l><l>Ipse eripuit vi in digito quem habuit virgini abiens annulum.
 <lb ed="TLN" n="576"/></l><l n="60">Simul vereor Pamphilum, ne orata nostra nequeat diutius
 <lb ed="TLN" n="577"/></l><l>Celare, quum sciet alienum puerum tolli pro suo.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>SOSTRATA. PAMPHILUS.</stage>
 <sp><speaker>So.</speaker> <lb ed="TLN" n="578"/><p><l>Non clam me est, nate mi, tibi me esse suspectam uxorem tuam
 <lb ed="TLN" n="579"/></l><l>Propter meos mores hinc abisse, etsi ea dissimulas sedulo.
@@ -903,8 +903,8 @@ new additions
 <lb ed="TLN" n="606"/></l><l>Mi gnate, da veniam hanc mihi: reduce illam.
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Vae misero mihi!</l></p></sp>
 <sp><speaker>So.</speaker> <lb ed="TLN" n="607"/><p><l n="30">Et mihi quidem! nam haec res non minus me male habet quam te, gnate mi.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>LACHES. SOSTRATA. PAMPHILUS.</stage>
 <sp><speaker>La.</speaker> <lb ed="TLN" n="608"/><p><l>Quem cum istoc sermonem habueris procul hinc stans accepi, uxor.
 <lb ed="TLN" n="609"/></l><l>Istuc est sapere, qui ubicumque opus sit animum possis flectere;
@@ -930,8 +930,8 @@ new additions
 <lb ed="TLN" n="621"/></l><l>E medio aequum excedere est. Postremo iam nos fabula
 <lb ed="TLN" n="622"/></l><l n="15">Sumus, Pamphile, "senex atque anus."
 <lb ed="TLN" n="623"/></l><l>Sed video Phidippum egredi per tempus: accedamus.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>PHIDIPPUS. LACHES. PAMPHILUS.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="624"/><p><l>Tibi quoque edepol iratus sum, Philumena,
 <lb ed="TLN" n="625"/></l><l>Graviter quidem; nam hercle abs te factum est turpiter;
@@ -1055,9 +1055,9 @@ new additions
 <lb ed="TLN" n="725"/></l><l>Si ullo modo est ut possit, quod spero fore.
 <lb ed="TLN" n="726"/></l><l>Sed visne adesse me una, dum istam convenis?</l></p></sp>
 <sp><speaker>La.</speaker> <lb ed="TLN" n="727"/><p><l>Immo vero abi: aliquam puero nutricem para.
-</l></p></sp></div2></div1>
-<div1 type="act" n="5">
-<div2 type="scene" n="1">
+</l></p></sp></div></div>
+<div type="act" n="5">
+<div type="scene" n="1">
 <stage>BACCHIS. LACHES.</stage>
 <sp><speaker>Ba.</speaker> <lb ed="TLN" n="728"/><p><l>Non hoc de nihilo est quod Laches me nunc conventam esse expetit;
 <lb ed="TLN" n="729"/></l><l>Nec pol me multum fallit quin quod suspicor sit quod velit.</l></p></sp>
@@ -1107,8 +1107,8 @@ new additions
 <lb ed="TLN" n="766"/></l><l>Aliter si facias ---- sed reprimam me, ne aegre quicquam ex me audias.
 <lb ed="TLN" n="767"/></l><l n="40">Verum te hoc moneo unum: amicus qualis sim aut quid possiem
 <lb ed="TLN" n="768"/></l><l>Potius quam inimicus periclum facias.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>PHIDIPPUS. LACHES. BACCHIS.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="769"/><p><l>Nihil apud me tibi
 <lb ed="TLN" n="770"/></l><l>Defieri patiar quin quod opus sit benigne praebeatur.
@@ -1146,8 +1146,8 @@ new additions
 <lb ed="TLN" n="798"/></l><l n="30">Nam si est ut haec nunc Pamphilum vere ab se segregarit,
 <lb ed="TLN" n="799"/></l><l>Scit sibi nobilitatem ex eo et rem natam et gloriam esse,
 <lb ed="TLN" n="800"/></l><l>Referetque gratiam ei, unaque nos sibi opera amicos iunget.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>PARMENO. BACCHIS.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="801"/><p><l>Edepol nae meam herus esse operam deputat parvi preti,
 <lb ed="TLN" n="802"/></l><l>Qui ob rem nullam misit, frustra ubi totum desedi diem,
@@ -1199,8 +1199,8 @@ new additions
 <lb ed="TLN" n="840"/></l><l n="40">Incommode mihi nuptiis evenit: factum fateor.
 <lb ed="TLN" n="841"/></l><l>At pol me fecisse arbitror ne id merito mihi eveniret.
 <lb ed="TLN" n="842"/></l><l>Multa ex quo fuerint commoda, eius incommoda aequum est ferre.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>PAMIPHILUS. PARMENO. BACCHIS.</stage>
 <sp><speaker>Pam.</speaker> <lb ed="TLN" n="843"/><p><l>Vide, mi Parmeno, etiam sodes ut mihi haec certa et clara attuleris,
 <lb ed="TLN" n="844"/></l><l>Ne me in breve coniicias tempus gaudio hoc falso frui.</l></p></sp>
@@ -1265,6 +1265,6 @@ new additions
 <sp><speaker>Pam.</speaker> <lb ed="TLN" n="881"/><p><l>Sequere me intro, Parmeno.
    </l></p></sp><sp><speaker>Par.</speaker> <p><l part="Y"> Sequor. Equidem plus hodie boni
 <lb ed="TLN" n="882"/></l><l n="40">Feci imprudens quam sciens ante hunc diem unquam.
-   </l></p></sp><sp><speaker>Om.</speaker> <p><l part="Y">Plaudite.</l></p></sp></div2></div1>
+   </l></p></sp><sp><speaker>Om.</speaker> <p><l part="Y">Plaudite.</l></p></sp></div></div>
 </body></text>
 </TEI.2>

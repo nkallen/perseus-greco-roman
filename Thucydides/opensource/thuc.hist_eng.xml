@@ -52,7 +52,7 @@
     </teiHeader>
     <text>
          <front>
-            <div1 type="speaker">
+            <div type="speaker">
                 <list>
                     <item id="corinthians">Corinthians</item>
                     <item id="corcyreans">Corcyreans</item>
@@ -64,10 +64,10 @@
 		    <item id="themistocles">Themistocles</item> 
  		    <item id="xerxes">Xerxes</item>
                 </list>
-            </div1>
+            </div>
         </front>
        <body>
-            <div1 n="1" type="Book">
+            <div n="1" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -4772,8 +4772,8 @@
                         were occurring which were equivalent to a breach of the treaty and matter
                         for war.</seg>
                 </p>
-            </div1>
-            <div1 n="2" type="Book">
+            </div>
+            <div n="2" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -8613,8 +8613,8 @@
                    <seg>And so ended this winter, and the third year of this war, of which
                         Thucydides was the historian.</seg>
                 </p>
-            </div1>
-            <div1 n="3" type="Book">
+            </div>
+            <div n="3" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -12647,8 +12647,8 @@
                     <seg>Such were the events of this winter; and with it ended the sixth year of this war, of which Thucydides was the
                         historian.</seg>
                 </p>
-            </div1>
-            <div1 n="4" type="Book">
+            </div>
+            <div n="4" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -17304,8 +17304,8 @@
                     <seg>So ended the winter and the ninth year of this war of which Thucydides is
                         the historian.</seg>
                 </p>
-            </div1>
-            <div1 n="5" type="Book">
+            </div>
+            <div n="5" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -20999,8 +20999,8 @@
                             colonists and inhabited the place themselves.</seg>
                     </p>
                 </sp>
-            </div1>
-            <div1 n="6" type="Book">
+            </div>
+            <div n="6" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -24729,8 +24729,8 @@
                         returned home after ravaging their land and killing some of the
                     inhabitants.</seg>
                 </p>
-            </div1>
-            <div1 n="7" type="Book">
+            </div>
+            <div n="7" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -28009,8 +28009,8 @@
                         returned home.</seg>
                     <seg>Such were the events in <placeName key="tgn,7003122">Sicily</placeName>.</seg>
                 </p>
-            </div1>
-            <div1 n="8" type="Book">
+            </div>
+            <div n="8" type="book">
                 <p>
                     <milestone n="1" unit="chapter"/>
 
@@ -31820,7 +31820,7 @@
                         <milestone unit="para" ed="P"/>&lsqb;When the winter after this summer
                         is over the twenty-first year of this war will be completed.&lsqb;</seg>
                 </p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

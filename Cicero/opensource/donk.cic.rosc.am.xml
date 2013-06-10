@@ -42,8 +42,8 @@
 <text lang="en">
 <body>
 
-<div1 type="introduction"><head>INTRODUCTION</head>
-<div2 type="section" n="A.-THE HISTORY OF THE CASE.">
+<div type="introduction"><head>INTRODUCTION</head>
+<div type="section" n="A.-THE HISTORY OF THE CASE.">
 <div3 type="subsect" n="1"><head>1.</head>
 
 <p>The trial of Sextus Roscius for parricide was the first <foreign lang="la">causa publica</foreign> <note anchored="yes" n="1"> &sect; <bibl n="Cic. S. Rosc. 59">59</bibl>. A <foreign lang="la">causa publica</foreign> was one which concerned the State (<foreign lang="la">populus</foreign>), and dealt with an offence not against an individual (<foreign lang="la">privatus</foreign>), but against the whole citizen-body. Willful murder was such an offence, as it threatened the public safety.</note>
@@ -274,9 +274,9 @@ consul of B.C. 53 is meant, "who was now sixteen years of age, reckoning from
 the age at which the consulship was usually obtained, and had only lately
 assumed the toga virilis."</note></p><p/>
 <p/></div3>
-</div2>
+</div>
 
-<div2 type="section" n="B.-THE SPEECH.">
+<div type="section" n="B.-THE SPEECH.">
 
 <div3 type="subsect" n="8"><head>8.</head>
 <p>Cicero's defence divides into three parts.<note anchored="yes" n="57">  &sect; <bibl n="Cic. S. Rosc. 35">35</bibl>.</note>
@@ -325,9 +325,9 @@ indignation which speaks from every line of the speech must have made all the
 deeper impression on his hearers in the forum because of the length of time
 during which the voice of justice and truth had been silenced under the
 pressure of brute force.</p><p/></div3>
-</div2>
+</div>
 
-<div2 type="section" n="C.-THE PUNISHMENT OF PARRICIDE.">
+<div type="section" n="C.-THE PUNISHMENT OF PARRICIDE.">
 
 <div3 type="subsect" n="10"><head>10.</head>
 <p>From two passages <note anchored="yes" n="64">  De Inv. 2. 50,149; ad Her. 1.13.23. A case of the <foreign lang="la">poena cullei</foreign> is mentioned in the Epitome of Liv. Lxviii., dating about B.C. 101. Probably the book may have contained a detailed account of the punishment.</note> in Cicero's rhetorical treatises, we learn what was
@@ -373,9 +373,9 @@ speech <note anchored="yes" n="72">  &sect;&sect; <bibl n="Cic. S. Rosc. 70">70<
 of which his adversaries had dared to accuse Sex. Roscius, not to rouse the
 pity of the jury as if he were really in danger of so horrible a punishment.
 </p></div3>
-</div2>
+</div>
 
-<div2 type="section" n="D.-THE COURT OF JUSTICE.">
+<div type="section" n="D.-THE COURT OF JUSTICE.">
 
 <div3 type="subsect" n="12"><head>12.</head>
 <p>The court of justice before which an accusation for parricide was brought,
@@ -422,12 +422,12 @@ and that the president of the <foreign lang="la">quaestio inter sicarios</foreig
 or chose among the first, so that he could secure those jurors who were most
 distinguished for strict rectitude ; or at any rate that his jurors counted as
 such.</p>
-</div3></div2></div1>
+</div3></div></div>
 
-<div1 type="commentary">
+<div type="commentary">
 <head>Pro.Rosc.donk</head>
 <pb n="1"/> 
-<div2 type="section" n="1">
+<div type="section" n="1">
 <milestone n="1" unit="chapter"/>
 
 <p><lemma lang="la" targOrder="U">Credo ego vos mirari</lemma> = <foreign lang="greek">θαυμάζοιτε</foreign>. <foreign lang="la">iudices</foreign>, <ref n="intro.,13" targOrder="U">Introd. &sect; 13</ref>.
@@ -449,9 +449,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">defendi</lemma>: notice two special meanings of this verb in the present speech; here, <gloss>to ward off, repel</gloss> ; in &sect; <bibl n="Cic. S. Rosc. 136">136</bibl> <gloss>to support or strive for (an undertaking)</gloss>.
 </p>
 <p> <lemma lang="la" targOrder="U">officium</lemma>, as <foreign lang="la">hospites</foreign>, &sect; <bibl n="Cic. S. Rosc. 15">15</bibl>.</p>
-</div2>
+</div>
 
-<div2 type="section" n="2">
+<div type="section" n="2">
 
 <p> <lemma lang="la" targOrder="U">Quid ergo?</lemma> introduces a question which the speaker only suggests in order to negative it at once : cf. &sect; <bibl n="Cic. S. Rosc. 122">122</bibl>, <foreign lang="la">quid igitur?</foreign> and see &sect; <bibl n="Cic. S. Rosc. 36">36</bibl>, first note.
 </p>
@@ -468,9 +468,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">multo plura</lemma>, etc.; i.e. a mere hint, from a prominent man, of his political opinions, would be caught up and exaggerated by the audience.
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="3">
+<div type="section" n="3">
 <p><lemma lang="la" targOrder="U">exire atque . . . emanare</lemma>, i.e. will not be reported so far by word of mouth, and so be liable to be exaggerated and misrepresented. Note the slightness of antithesis between this and <foreign lang="la">multo plura . . . dixisse putaretur</foreign>, which words would rather lead on to the thought, <gloss>but <emph>my</emph> words will not be taken for more than they are worth.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">concedi . . . ignosci</lemma>, synonymous terms used for variety; cf. &sect; <bibl n="Cic. S. Rosc. 10">10</bibl> sub fin., <foreign lang="la">praebeas . . . impertias</foreign>.
@@ -483,9 +483,9 @@ such.</p>
 .1.18, <foreign lang="la">praecipiendi rationem</foreign> =<gloss> teaching</gloss>, <gloss>theorising</gloss>, with other instances.
 </p>
 <p> <lemma lang="la" targOrder="U">cognoscendi</lemma>.  <foreign lang="la">Cognoscere</foreign> is the technical term for inquiry into a crime; a process which had been abandoned for the summary procedure of the proscriptions. For the <foreign lang="la">paronomasia</foreign>, cf. Ter. Heaut. 2.1.5, <foreign lang="la">Mihi si umquam filius erit, ne ille facili me utetur patre : Nam et cognoscendi et ignoscendi dabitur peccati locus</foreign>: and in this speech, &sect; <bibl n="Cic. S. Rosc. 18">18</bibl>, <foreign lang="la">suspiciosum . . . perspicuum; </foreign> &sect; <bibl n="Cic. S. Rosc. 42">42</bibl>, <foreign lang="la">confirmaret . . . infirmem; </foreign> &sect; <bibl n="Cic. S. Rosc. 89">89</bibl>, <foreign lang="la">derogo . . . adrogo; </foreign> &sect; <bibl n="Cic. S. Rosc. 135">135</bibl>, <foreign lang="la">videtis . . . invidetis; </foreign> &sect; <bibl n="Cic. S. Rosc. 117">117</bibl>, <foreign lang="la">praediis . . . praemiis;</foreign> &sect; <bibl n="Cic. S. Rosc. 112">112</bibl>, <foreign lang="la">offers . . . officio . . . officis . . . obstas.</foreign> Landgraf quotes these among many instances of the <foreign lang="la">Asianum genus dicendi</foreign>, i.e. the artificial florid style, followed at first by Cicero before he studied under Melon in Rhodes.</p>
-</div2>
+</div>
 
-<div2 type="section" n="4">
+<div type="section" n="4">
 <p><lemma lang="la" targOrder="U">dicerent</lemma>, sc. <foreign lang="la">causam</foreign>: see &sect; <bibl n="Cic. S. Rosc. 5">5</bibl>, note.
 </p>
 <p> <lemma lang="la" targOrder="U">ita petitum sit . . .</lemma>; the request was made to others <foreign lang="la">ita</foreign>, <emph>only</emph> in such a manner, i.e. backed by <emph>only</emph> such moderate claims, that they felt they could equally comply or not, without violating friendship. For <foreign lang="la">ita</foreign> in this limiting sense see &sect; <bibl n="Cic. S. Rosc. 55">55</bibl>, note.
@@ -493,9 +493,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">utrumvis</lemma>, to undertake the defence or decline it; cf. &sect; <bibl n="Cic. S. Rosc. 83">83</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">ii contenderunt</lemma>, <ref n="7" targOrder="U">Introd. &sect;  7</ref>.</p>
-</div2>
+</div>
 
-<div2 type="section" n="5">
+<div type="section" n="5">
 <milestone n="II" unit="chapter"/>
 <p><lemma lang="la" targOrder="U">causis . . . causae</lemma>,  <gloss>reasons . . . case.</gloss> This figure of speech, <foreign lang="la">cum continenter unum verbum non eadem sententia ponitur</foreign> (Cic. Orat. 135), was named <foreign lang="greek">πλοκή</foreign>  or <foreign lang="greek">ἀντιμετάθεσις</foreign> by the rhetoricians. Cf. &sect; <bibl n="Cic. S. Rosc. 28">28</bibl>, <foreign lang="la">ut ad eam rem aliquem accusatorem veterem compararent, qui de ea re posset dicere aliquid, in qua re</foreign>, etc. ; &sect; <bibl n="Cic. S. Rosc. 149">149</bibl>, <foreign lang="la">causam mihi tradidit, quem sua causa cupere intellegebat ; &sect; <bibl n="Cic. S. Rosc. 7">7</bibl>, peto . . . vitam ne petat.</foreign> Auct. ad Herenn. IV. 21, <foreign lang="la">"Cur eam rem tam studiose curas, quae multas tibi dabit curas?" "Nam amari iucundum est, si curetur, ne quid insit amari." "Veniam ad vos, si mihi senatus det veniam."</foreign>
 </p>
@@ -508,9 +508,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">causam dicere</lemma>: said alike of the <foreign lang="la">reus</foreign> (&sect;&sect; <bibl n="Cic. S. Rosc. 13">13</bibl>, <bibl n="Cic. S. Rosc. 56">56</bibl>, <bibl n="Cic. S. Rosc. 82">82</bibl>, <bibl n="Cic. S. Rosc. 85">85</bibl>) and of the <foreign lang="la">patronus causae</foreign> (here and &sect; <bibl n="Cic. S. Rosc. 12">12</bibl>).
 </p>
 <p> <lemma lang="la" targOrder="U">eius rei</lemma>; sc. the fact that they held in their possession the property of the murdered man.  On <lemma lang="la" targOrder="U">ab accusatoribus</lemma>, see <ref n="n.,49" targOrder="U">Introd. note 49</ref>.</p>
-</div2>
+</div>
 
-<div2 type="section" n="6">
+<div type="section" n="6">
 <p><lemma lang="la" targOrder="U">quae sunt</lemma>, <gloss>which are worth.</gloss> Supply the abl. <foreign lang="la">centenis milibus sestertium</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">de viro</lemma>, as representative of the State. In historical language Cicero would not have said <foreign lang="la">de L. Sulla bona emit</foreign>; but the words, which he puts with bitter irony into the mouth of Chrysogonus, point to Sulla as the authorizer of the purchase, and to the sale <foreign lang="la">sub hasta</foreign>, as of State property, <ref n="n.,23" targOrder="U">Introd. note 23</ref>. Cf. Verr. 2.3.81 : <foreign lang="la">Unus adhuc fuit post Romam conditam, cui respublica se totam traderet, L. Sulla  Hic tantum potuit, ut nemo illo invito nec bona nec patriam nec vitam retinere posset; tantum animi habuit ad audaciam, ut dicere in contione non dubitaret, bona civium Romanorum cum venderet, se praedam suam vendere</foreign>. The phrase <foreign lang="la">emere de aliquo</foreign> is as frequent as <foreign lang="la">ab aliquo</foreign>.
@@ -550,10 +550,10 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">sceleri</lemma> : see &sect; <bibl n="Cic. S. Rosc. 1">1</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">et in causa</lemma>.  <foreign lang="la">Et</foreign> is very rare with the third member in a series : here the first two, being in antithesis with each other, may be regarded as forming one.  Or<gloss> the third is the resultant of the first two </gloss> (Richter). </p>
-</div2>
+</div>
 <milestone n="III" unit="chapter"/>
 
-<div2 type="section" n="8">
+<div type="section" n="8">
 <p><lemma lang="la" targOrder="U">causa criminis</lemma>, <gloss>grounds for an accusation.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">illi</lemma> : <foreign lang="la">ille</foreign> and <foreign lang="la">iste</foreign> in judicial speeches mean <gloss>my opponent</gloss> ; <foreign lang="la">hic</foreign>, <gloss>my client</gloss>, the man near me. <foreign lang="la">Ille</foreign> implies that the orator is speaking to the audience <emph>of</emph> his adversary ; <foreign lang="la">iste</foreign>, that he is speaking <emph>at</emph> his adversary.  <foreign lang="la">Ille</foreign> is said here (and <foreign lang="la">illorum</foreign> below), not <foreign lang="la">isti</foreign>, because Cicero is addressing the jurors direct. Cf. pro Sulla, 34.
@@ -580,18 +580,18 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">homines sicarios</lemma>. The addition of <foreign lang="la">homines</foreign> expresses contempt : <gloss>a set of cut-throat fellows.</gloss> Cf. Ter. Adelph. I. 2. 31, <foreign lang="la">Tu homo adigis me ad insaniam.</foreign>
 <pb n="5"/></p>
-</div2>
+</div>
 
-<div2 type="section" n="9">
+<div type="section" n="9">
 <milestone n="IV" unit="chapter"/>
 <p><lemma lang="la" targOrder="U">commode</lemma>, <gloss>in a manner appropriate to, worthy of, my subject</gloss>, so that the speech may correspond to the <foreign lang="la">atrocitas rerum.</foreign> Cf. &sect; <bibl n="Cic. S. Rosc. 33">33</bibl>, <foreign lang="la">laudare satis commode ;</foreign> &sect; <bibl n="Cic. S. Rosc. 61">61</bibl>, <foreign lang="la">causam si non commode, at</foreign> <foreign lang="la">libere dici</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">graviter</lemma>, <gloss>impressively.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">natura pudorque</lemma> : see &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>, note.</p>
-</div2>
+</div>
 
-<div2 type="section" n="10">
+<div type="section" n="10">
 <p><lemma lang="la" targOrder="U">fide</lemma>, fidelity to their oath as jurors.
 </p>
 <p> <lemma lang="la" targOrder="U">non spero</lemma>, <gloss>I will not hope</gloss>, <gloss>I do not expect.</gloss> <foreign lang="la">Spero</foreign>, of unwelcome expectation, is only found with a negative in Cicero; without a negative only in poets and later writers.
@@ -607,9 +607,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">impertias</lemma>, a variety for <foreign lang="la">praebeas</foreign> : see &sect; <bibl n="Cic. S. Rosc. 3">3</bibl>.
 <pb n="6"/>
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="11">
+<div type="section" n="11">
  <milestone n="v" unit="chapter"/> 
 <p> <lemma lang="la" targOrder="U">mortales</lemma> in Cicero = <foreign lang="la">homines</foreign> only in connection with <foreign lang="la">omnes</foreign> and <foreign lang="la">multi</foreign> : cf. &sect; <bibl n="Cic. S. Rosc. 95">95</bibl>, <foreign lang="la">omnibus mortalibus</foreign>.
 </p>
@@ -620,9 +620,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">cum interea . . . factae sunt</lemma>, <gloss>while in the meantime . . </gloss> This phrase is regularly followed by the indicative ; cf. Verr. 2. 5. 162, <foreign lang="la">caedebatur virgis . . . cum interea nullus gemitus audiebatur</foreign>. It may be classified with the <gloss>inverted </gloss> <foreign lang="la">cum</foreign> and indicative, as in Caes. B.G. 7.26, <foreign lang="la">jamque hoc facere apparabant, cum matres procurrerunt</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">sanguine</lemma>, <gloss>bloodshed </gloss> ; <foreign lang="la">dignissimum</foreign>, <gloss>fully worthy</gloss>, corresponding to the greatness of the crimes : cf. just below, <foreign lang="la">ut quam acerrime maleficia vindicetis</foreign>, and &sect; <bibl n="Cic. S. Rosc. 9">9</bibl>, <foreign lang="la">satis commode dicere</foreign>, note. The reading of the MSS. is corrupt and meaningless. Halm calls the reading in the text <gloss>only a makeshift.</gloss></p>
-</div2>
+</div>
 
-<div2 type="section" n="12">
+<div type="section" n="12">
 <p><lemma lang="la" targOrder="U">vociferatione</lemma>, i.e. an appeal for due severity.
 </p>
 <p> <lemma lang="la" targOrder="U">causam dicimus</lemma>, <gloss>who are answering to a charge.</gloss> The phrase here suits Cicero both as <foreign lang="la">patronus</foreign> and as identified with his client : cf. &sect;5.
@@ -632,9 +632,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">prorumpere</lemma> (for which <foreign lang="la">proruptura esse</foreign> or <foreign lang="la">prorumpere posse</foreign> would be expected) =<gloss> is on the way to break forth.</gloss> The construction is irregular, and so rare as to render the reading doubtful. The pres. may be rhetorical : is even now breaking all bounds ' Richter ; who compares Cic. Ep. XII. 6.2, <foreign lang="la">si Brutus conservatus erit, vicimus</foreign>, where the perf. instead of the fut. is forcible.
 </p>
 <p> <lemma lang="la" targOrder="U">hic in foro</lemma>.  "The Praetor had his seat (<foreign lang="la">sella curulis</foreign>) on a raised platform (<foreign lang="la">tribunal</foreign>), under the open air, in the forum ; the jurors and clerks sat around him on low benches (<foreign lang="la">subsellia</foreign>) ; lower down (<foreign lang="la">ante pedes vestros</foreign>), perhaps on the ground itself, stood <foreign lang="la">subsellia</foreign> for the two contending parties, separated from one another ; in a circle around stood the public (<foreign lang="la">corona</foreign>) who were interested in the case." (Richter.)</p>
-</div2>
+</div>
 
-<div2 type="section" n="13">
+<div type="section" n="13">
 <p><lemma lang="la" targOrder="U">accusant ei</lemma>, etc. Note the fine succession of antitheses.
 </p>
 <p> <lemma lang="la" targOrder="U">quibus bono fuit</lemma> : cf. &sect;&sect; <bibl n="Cic. S. Rosc. 84">84</bibl>, <bibl n="Cic. S. Rosc. 86">86</bibl>, <foreign lang="la">cui bono</foreign>.
@@ -645,17 +645,17 @@ such.</p>
 <pb n="7"/></p>
 <p> <lemma lang="la" targOrder="U">poscit</lemma> (sc. <foreign lang="la">in judicium</foreign>), demands for trial and punishment ; cf. pro Sest. 46, <foreign lang="la">cum ob hasce causas me unum deposcerent</foreign>. Liv. 9. 26. 17, <foreign lang="la">poscere reum</foreign> = to demand a man for accusation. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="14">
+<div type="section" n="14">
 <p><lemma lang="la" targOrder="U">Atque</lemma>, etc., marks the transition to the <foreign lang="la">narratio</foreign> (account of the facts of the case).
 </p>
 <p> <lemma lang="la" targOrder="U">res quem ad modum gesta sit</lemma>, <gloss>the particulars of the affair.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="15">
+<div type="section" n="15">
 <milestone n="VI" unit="chapter"/>
 
 <p><lemma lang="la" targOrder="U">municeps</lemma>, a citizen of a <foreign lang="la">municipium</foreign>, which term at this date meant a town governed by its own magistrates, and possessing the full rights of Roman citizenship ; the latter having been granted to all Italian towns during the Social War by the <foreign lang="la">lex Iulia</foreign>, B.C. 90, and the lex <foreign lang="la">Plautia Papiria</foreign>, B.C. 89.
@@ -671,9 +671,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">domestici praedones</lemma>, i.e. who were members of his own family (<foreign lang="la">domus</foreign>) : cf. &sect; <bibl n="Cic. S. Rosc. 17">17</bibl>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="16">
+<div type="section" n="16">
 <p><lemma lang="la" targOrder="U">is</lemma>, the elder Roscius. 
 </p>
 <p><lemma lang="la" targOrder="U">cum fuisset</lemma>, <gloss>since he had been</gloss>, or <gloss>having been . </gloss>
@@ -692,9 +692,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">ut</lemma>, <gloss>so that.</gloss>
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="17">
+<div type="section" n="17">
 <p><lemma lang="la" targOrder="U">veteres inimicitiae</lemma>, <ref n="1" targOrder="U">Introd. &sect; 1</ref>. For the plural, see Madvig, &sect; 51 d.
 </p>
 <p> <lemma lang="la" targOrder="U">quorum alterum</lemma>, T. Roscius Magnus.
@@ -717,9 +717,9 @@ such.</p>
 </p>
 <p> <foreign lang="la">quod possim</foreign> ; and Madvig, &sect; 364, Obs. 2. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="18">
+<div type="section" n="18">
 <milestone n="VII" unit="chapter"/>
 
 <p><lemma lang="la" targOrder="U">cum hic Sex. Roscius . . . cum hic filius</lemma>: both phrases refer to the son. The second <foreign lang="la">cum</foreign> is not co-ordinate with but subordinate to the first : <gloss>while Sextus the son was at Ameria . . . through being constantly present on the estates </gloss> ; <lemma lang="la" targOrder="U">ipse autem</lemma>, <gloss>whereas the father (<foreign lang="la">ipse</foreign>) was often in Rome.</gloss> <foreign lang="la">Ipse</foreign> is a good emendation for MSS. <foreign lang="la">iste</foreign>, which would mean Magnus ; we have just been told that he was in Rome.
@@ -752,9 +752,9 @@ such.</p>
 </p>
 <p> <pb n="82"/> <lemma lang="la" targOrder="U">cisiis</lemma>: <foreign lang="la"><gloss>cisium genus vehiculi Gallici</gloss>,</foreign> Schol. The plural (cf. Phil. 2. 77, <foreign lang="la">cisio ad urbem advectus</foreign>) shows that the messenger took fresh carriages at the different stations. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="20">
+<div type="section" n="20">
 <p><lemma lang="la" targOrder="U">quadriduo quo</lemma>, <gloss>within four days after that</gloss>, etc., abbrev. for <foreign lang="la">quadriduo a die quo</foreign>; so Halm; but Madvig, &sect; 276, Obs. 4, says, <gloss>in the course of the same four days during which these things took place</gloss> : cf. Ter. And. 1.1.77, <foreign lang="la">In paucis diebus, quibus haec acta sunt, Chrysis moritur</foreign>. Cf. below, &sect; <bibl n="Cic. S. Rosc. 105">105</bibl>. Suet. Iul. &sect; 35, <foreign lang="la">quem . . . quatuor quibus in conspecturn venit horis . . . profligavit</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">Volaterras</lemma>, <ref n="n.,14" targOrder="U">Introd. note 14</ref>: cf. &sect; <bibl n="Cic. S. Rosc. 105">105</bibl>, <foreign lang="la">ad Volaterras</foreign>, which is more accurate, as denoting the <foreign lang="la">vicinity</foreign> of the town. Madvig  232.
@@ -773,9 +773,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">societas coitur</lemma>, between Chrysog., Magnus, and Capito; cf. &sect;&sect; <bibl n="Cic. S. Rosc. 28">28</bibl>, <bibl n="Cic. S. Rosc. 58">58</bibl>, <bibl n="Cic. S. Rosc. 60">60</bibl>, <bibl n="Cic. S. Rosc. 87">87</bibl>, <bibl n="Cic. S. Rosc. 95">95</bibl>.  The last two passages imply that there were other associates as well. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="21">
+<div type="section" n="21">
 <milestone n="VIII" unit="chapter"/>
 
 <p><lemma lang="la" targOrder="U">mentio</lemma>: &sect; <bibl n="Cic. S. Rosc. 128">128</bibl>; <ref n="n.,20" targOrder="U">Introd. note 20</ref>.
@@ -792,9 +792,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">imprudente L. Sulla</lemma>.  With this and the following passage, cf. &sect;&sect; <bibl n="Cic. S. Rosc. 127">127</bibl>, <bibl n="Cic. S. Rosc. 131">131</bibl>. Cicero takes care to say nothing against the dictator.
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="22">
+<div type="section" n="22">
 <p><lemma lang="la" targOrder="U">quae praeterita sunt</lemma> sc. the wounds inflicted on the State in the civil war.
 </p>
 <p> <lemma lang="la" targOrder="U">sanet</lemma>: a better reading is Prof. Clark's <foreign lang="la">reparet</foreign>, in much the same sense.  <foreign lang="la">Reparet</foreign>, rhyming with <foreign lang="la">praeparet</foreign>, would have pleased Cicero at this period (see &sect; <bibl n="Cic. S. Rosc. 3">3</bibl>, note), and is thus confirmed.
@@ -820,9 +820,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">neminem . . . neque . . . neque</lemma>.  For the double negative, the first, a general one, not destroying the subordinate ones, see Roby 2246, and cf. &sect;&sect; <bibl n="Cic. S. Rosc. 73">73</bibl>, <bibl n="Cic. S. Rosc. 96">96</bibl>, <bibl n="Cic. S. Rosc. 139">139</bibl>, <bibl n="Cic. S. Rosc. 146">146</bibl>. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="23">
+<div type="section" n="23">
 <p> <lemma lang="la" targOrder="U">interea</lemma> brings the events graphically before the hearers' eyes: <gloss>Meantime (while I am digressing), T. Roscius comes to Ameria</gloss>, etc. <lemma lang="la" targOrder="U">vir optimus</lemma>: ironical, as in &sect; <bibl n="Cic. S. Rosc. 104">104</bibl>. procurator.  "<foreign lang="la">Procurator est qui aliena negotia mandatu domini administrat</foreign>," Ulpianus. <lemma lang="la" targOrder="U">nondum etiam</lemma>: cf. Cat. 1.10, <foreign lang="la">vixdum etiam</foreign>; Verr. Iv. 9, <foreign lang="la">nihildum etiam</foreign>. <lemma lang="la" targOrder="U">omnia iusta solvisset</lemma>.  Funeral ceremonies lasted nine days after the interment , and ended with a repast (<foreign lang="la">novemdialia</foreign>) placed beside the tomb, as an offering to the <foreign lang="la">Manes</foreign>. <lemma lang="la" targOrder="U">disque</lemma>: without a preposition, as the persons stood for the place.  On the other hand, pro Quinct. &sect; 83, <foreign lang="la">iam de fundo expulsus, iam a suis dis penatibus praeceps eiectus</foreign>.
 
 
@@ -834,9 +834,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">auctione</lemma>, <ref n="n.,29" targOrder="U">Introd. note 29</ref>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="24">
+<div type="section" n="24">
 <milestone n="IX" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">iter ad sepulcrum</lemma>. 'The Romans frequently built tombs for themselves and their families on their estates, and, if they sold such estates, used to stipulate for the right of free access to the <foreign lang="la">sepulcra.</foreign> Unless such a stipulation were made in the deed of sale, the seller lost all right of access. So material an encroachment as this on the right of property was named <foreign lang="la">servitus</foreign> (<foreign lang="la">fundus servit</foreign>) ; by <foreign lang="la">servitus itineris</foreign> or simply <foreign lang="la">iter</foreign>, as here, was meant that the owner conceded to the former owner or to any interested person the right of walking, riding, or being carried over the land to the <foreign lang="la">sepulcrum; viae servitus</foreign> or <foreign lang="la">via</foreign> was the right of driving thither, and included the <foreign lang="la">iter</foreign>. The younger Roscius could not retain even the relic of his <foreign lang="la">patrimonium</foreign> usually preserved, the <foreign lang="la">iter ad sepulcrum patrium in fundo</foreign>
@@ -851,9 +851,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">iactantem</lemma>, <gloss>pluming himself</gloss>; <lemma lang="la" targOrder="U">dominantem</lemma>, <gloss>playing the proprietor.</gloss> 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="25">
+<div type="section" n="25">
 <p> <lemma lang="la" targOrder="U">decurionum . . . decem primi</lemma>, <ref n="n.,31" targOrder="U">Introd. note 31</ref>. <lemma lang="la" targOrder="U">fit ut proficiscantur</lemma>, etc.  Note the pres. tense, carried graphically into the subordinate clauses : cf. &sect; <bibl n="Cic. S. Rosc. 110">110</bibl>, <foreign lang="la">monet ut provideat, ne . . . agatur</foreign>; but below, <foreign lang="la">allegat, qui peterent</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">scelere</lemma>: &sect;7, note.
@@ -864,9 +864,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">allegat qui peterent</lemma>: here the historic present is strictly treated and has a historic tense after it. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="26">
+<div type="section" n="26">
 <p><lemma lang="la" targOrder="U">autem</lemma>, <gloss>but</gloss> (though he professed such readiness to serve them).  <lemma lang="la" targOrder="U">antiqui</lemma>, <gloss>men of the old stamp.</gloss> Pl. Ep. 11.9, <foreign lang="la">vir sanctus, anitiquus</foreign>.
 
 
@@ -900,9 +900,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">in reos</lemma> = <foreign lang="la">in reorum album</foreign> (list); <foreign lang="la">in proscriptos</foreign> = <foreign lang="la">in proscriptorum tabulas</foreign>. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="28">
+<div type="section" n="28">
 <p><lemma lang="la" targOrder="U">ut . . . deferrent</lemma>: <foreign lang="la">ut</foreign> epexegetic, <gloss>namely that they should</gloss>, etc.; as in &sect;&sect; <bibl n="Cic. S. Rosc. 77">77</bibl>, <bibl n="Cic. S. Rosc. 128">128</bibl>, <bibl n="Cic. S. Rosc. 136">136</bibl>.  Cf. Madvig, &sect; 417, Obs. 2 ad fin.
 </p>
 <p> <lemma lang="la" targOrder="U">ad eam rem</lemma>, <gloss>for that purpose</gloss>  <foreign lang="la">de ea re</foreign>, as Mr. Stock shows =<gloss>about <emph>a</emph> matter</gloss>, <foreign lang="la">in qua re</foreign> <gloss>in which . . .</gloss>; omit the second <foreign lang="la">re</foreign> in English.  See &sect; <bibl n="Cic. S. Rosc. 5">5</bibl>, first note.
@@ -920,9 +920,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">patronos</lemma>: see &sect; <bibl n="Cic. S. Rosc. 30">30</bibl> sub fin.  societate: see &sect; <bibl n="Cic. S. Rosc. 20">20</bibl> sub fin.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="29">
+<div type="section" n="29">
 <p> <lemma lang="la" targOrder="U">atque adeo</lemma> =<foreign lang="la">ac potius</foreign>, as in &sect;&sect; <bibl n="Cic. S. Rosc. 100">100</bibl>, <bibl n="Cic. S. Rosc. 113">113</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">jugulandum</lemma>.  Cicero chooses a word implying judicial murder : cf. Verr. 2.2.26, <foreign lang="la">decretis iugulare</foreign>; pro Mil. &sect; 31, <foreign lang="la">iugulari a vobis</foreign> (<foreign lang="la">iudicibus</foreign>).  Compare the metaphor for an accused man, <foreign lang="la">laqueis legum constrictus</foreign>. 
@@ -930,9 +930,9 @@ such.</p>
 <milestone n="XI" unit="chapter"/></p>
 <p> <lemma lang="la" targOrder="U">deorumne . . . populine . . . vestramne</lemma>; strictly should be <foreign lang="la">deorumne . . . an . . . an</foreign>.  This is the rhetorical figure called anaphora, repetition, which adds much animation. Cf. Cic. Fin. 1.20, <foreign lang="la">si loca,si fana, si campum, si canes, si equos adamare solemus</foreign>. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="30">
+<div type="section" n="30">
 <p> <lemma lang="la" targOrder="U">quid. . . videtur</lemma>: cf. &sect; <bibl n="Cic. S. Rosc. 118">118</bibl> init.
 </p>
 <p> <lemma lang="la" targOrder="U">infesta</lemma>, <gloss>endangered.</gloss>  Gellius, N.A. 9. 12.2, <foreign lang="la">Infestus et is appellatur, qui malum infert cuipiam, et contra, cui aliunde impendet malum.</foreign> (Richter.)
@@ -949,9 +949,9 @@ such.</p>
 <pb n="14"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="31">
+<div type="section" n="31">
 <p> <lemma lang="la" targOrder="U">quoniam quidem</lemma>.  The latter word is adversative, <gloss>however</gloss> ; cf. in Caecil. &sect; 48, <foreign lang="la">quid in dicendo posset, nunquam satis attendi, in clamando quidem video eum esse bene robustum</foreign>. Cf. N&auml;gelsbach, Lat. Stil. &sect; 195 c.
 </p>
 <p> <lemma lang="la" targOrder="U">licet hercules</lemma>. More commonly <foreign lang="la">hercule</foreign> or <foreign lang="la">hercle</foreign>: cf. <foreign lang="la">mehercules, &sect;&sect;</foreign> 58, 151, but Verr. 11.3.145, <foreign lang="la">licet hercules omnes omnia dicant</foreign>.
@@ -964,18 +964,18 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">vim adhibere</lemma>, <gloss>have more power over me</gloss>; more freq. in the sense of <foreign lang="la">vim adferre</foreign>. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="32">
+<div type="section" n="32">
 <p> <lemma lang="la" targOrder="U">dissoluto</lemma>, <gloss>insensate</gloss>, <gloss>heedless</gloss>, implies a higher degree of <foreign lang="la">neglegentia</foreign> : cf. pro Quinct. 38, <foreign lang="la">quis tam dissolutus in re familiari fuisset, quis tam neglegens?</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">patrem meum</lemma>, as in &sect; <bibl n="Cic. S. Rosc. 145">145</bibl>, the so-called rhetor. figure <foreign lang="greek">προσωποποία</foreign>: cf. Cat. 1, &sect; 18, Halm's note.
 </p>
 <p> <lemma lang="la" targOrder="U">Ut aut iuguletis aut condemnetis</lemma>, to effect either a direct murder or an indirect one (i.e. judicial, through the <foreign lang="la">iudices</foreign>). <foreign lang="la">Condemnare</foreign>, as often, <gloss>to effect a condemnation.</gloss> The verbs have no object, but describe in general terms the aim of Cicero's opponents. Kayser well compares Auct. ad Her. 4. &sect; 19, <foreign lang="la">nam cum istos ut absolvant rogas, ut periurent rogas</foreign>; ib. 4. &sect; 48. Cf. below, &sect; <bibl n="Cic. S. Rosc. 56">56</bibl>, <foreign lang="la">ut significent</foreign>. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="33">
+<div type="section" n="33">
 <milestone n="XII" unit="chapter"/>
 
  
@@ -1015,9 +1015,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">per compositionem</lemma>: cf. 136, <foreign lang="la">componeretur</foreign>. It is not otherwise known that Scaevola wished to mediate between the Marians and Sulla.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="34">
+<div type="section" n="34">
 <p> <lemma lang="la" targOrder="U">estne</lemma>=<gloss>is not?</gloss> <foreign lang="la">Ne</foreign>=<foreign lang="la">nonne</foreign>; as in &sect; <bibl n="Cic. S. Rosc. 66">66</bibl>, <foreign lang="la">videtisne</foreign>, and &sect; <bibl n="Cic. S. Rosc. 113">113</bibl>, <foreign lang="la">itane est?</foreign>  =<gloss> Is it not so?</gloss> These are abbreviated forms, the other clause of the question being understood: <foreign lang="la">estne</foreign> (<foreign lang="la">an non est?</foreign>) <foreign lang="la">videtisne</foreign> (<foreign lang="la">an non videtis?</foreign>).
 </p>
 <p> <lemma lang="la" targOrder="U">in Scaevola</lemma>, <gloss>in the case of Scaevola</gloss>; cf. de Orat. 3.36, <foreign lang="la">se calcaribus in Ephoro, . . . in Theopompo frenis uti solere</foreign>.
@@ -1029,9 +1029,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">quid sequi</lemma>: cf. &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>, <foreign lang="la">secuti</foreign>, note.  De Invent. 1.22, <foreign lang="la">certum quiddam destinatur auditori, in quo animum debeat habere occupatum</foreign>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="35">
+<div type="section" n="35">
 <milestone n="XIII" unit="chapter"/>
 
 <p>This sec. contains the <foreign lang="la">partitio</foreign> (enumeration of topics to be discussed; see de Invent. 1.22).
@@ -1042,16 +1042,16 @@ such.</p>
 <pb n="16"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="36">
+<div type="section" n="36">
 <p> <lemma lang="la" targOrder="U">quid igitur est</lemma>; as in &sect; <bibl n="Cic. S. Rosc. 55">55</bibl>, <foreign lang="la">quid ergo est?</foreign> a phrase limiting what has just been said; in sense =<foreign lang="la">sed</foreign>. (Richter.) <foreign lang="la">non eodem modo</foreign>, i.e. (<foreign lang="la">dicam equidem de his rebus sed</foreign>) <foreign lang="la">non eodem modo</foreign>, not at the same length, <foreign lang="la">de omnibus</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">primo quoque tempore</lemma>, <gloss>at the very first opportunity</gloss>, <gloss>the sooner the better.</gloss> 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="37">
+<div type="section" n="37">
 <p> <lemma lang="la" targOrder="U">occidisse. - - arguitur</lemma>; the <foreign lang="la">propositio</foreign>, <gloss>allegation</gloss>, of the accusers.
 </p>
 <p> <lemma lang="la" targOrder="U">complexa</lemma>, in a passive sense.  We may retain this reading because Priscian (8.16, and 11.29) quotes the passage thus, as an example of the passive use of deponent verbs.
@@ -1060,9 +1060,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">cogebant</lemma>. The indicative is used, as if the phrase were <foreign lang="la">debebat mori</foreign>; cf. &sect;&sect; <bibl n="Cic. S. Rosc. 53">53</bibl>, <bibl n="Cic. S. Rosc. 91">91</bibl>, <bibl n="Cic. S. Rosc. 94">94</bibl>, etc. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="38">
+<div type="section" n="38">
 <p><lemma lang="la" targOrder="U">exstitit</lemma>, <gloss>has appeared.</gloss> Halm suggests the pres. <foreign lang="la">exsistit</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">immanemque</lemma>, as opp. to <foreign lang="la">humana natura</foreign>, <gloss>brutish.</gloss> Cf. &sect; <bibl n="Cic. S. Rosc. 63">63</bibl>, <foreign lang="la">qui tantum immanitate bestias vicerit</foreign>; &sect;&sect; <bibl n="Cic. S. Rosc. 71">71</bibl>, <bibl n="Cic. S. Rosc. 146">146</bibl>, <bibl n="Cic. S. Rosc. 150">150</bibl>.
@@ -1075,9 +1075,9 @@ such.</p>
 
 <milestone n="xiv" unit="chapter"/> 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="39">
+<div type="section" n="39">
 <p> <lemma lang="la" targOrder="U">qui</lemma> (=<foreign lang="la">qualis</foreign>) <lemma lang="la" targOrder="U">homo</lemma>? Cicero proceeds to show that the former life of Sex. Roscius afforded no ground for believing him guilty; a line of argument termed <foreign lang="la">probabile ex vita</foreign> by the rhetoricians.  It continues through &sect; <bibl n="Cic. S. Rosc. 39">39</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">annos natus maior quadraginta</lemma>. As <foreign lang="la">natus</foreign> itself has no comparative, <foreign lang="la">natus maior</foreign> (<foreign lang="la">minor</foreign>) was said, and the number of years subjoined either in the abl. (Verr. 2.2.122, <foreign lang="la">ne qui minor triginta annis natus</foreign>) or in the accus., <foreign lang="la">quam</foreign> being omitted as after <foreign lang="la">plus</foreign> (<foreign lang="la">amplius</foreign>) and <foreign lang="la">minus</foreign>. For a third form without <foreign lang="la">natus</foreign>, cf. &sect; <bibl n="Cic. S. Rosc. 100">100</bibl>, <foreign lang="la">minorem annis sexaginta</foreign>. Madvig, &sect; 306, Obs. 1.
@@ -1089,18 +1089,18 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">cupiditate</lemma>, <gloss>avarice</gloss> ; <foreign lang="la">officio</foreign>, <gloss>observance of duty</gloss>, i.e. of moral duty : cf. &sect; <bibl n="Cic. S. Rosc. 27">27</bibl>, <foreign lang="la">officii</foreign>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="40">
+<div type="section" n="40">
 <p><lemma lang="la" targOrder="U">obiecit</lemma>; used of feelings which mislead or confound: <foreign lang="la">obicere errorem, rabiem, metum</foreign>, etc. This section begins the <foreign lang="la">probabile ex causa, i.e</foreign>. the inquiry whcther the accused had any motive for committing the crime laid to his charge.
 </p>
 <p> <lemma lang="la" targOrder="U">lustam</lemma>, <gloss>adequate.</gloss> <foreign lang="la">Eam quoque</foreign>, that secondary cause, no less than the primary one.
 </p>
 <p> <lemma lang="la" targOrder="U">necessariis</lemma>, <gloss>cogent.</gloss> 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="41">
+<div type="section" n="41">
 <p><lemma lang="la" targOrder="U">eodem</lemma>, to the same point (the so-called <foreign lang="la">probabile ex vita</foreign>), to look for proofs for the statement <foreign lang="la">patri non placebat</foreign>.
 
 
@@ -1113,18 +1113,18 @@ such.</p>
 </p>
 <p> <milestone n="xv" unit="chapter"/> 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="42">
+<div type="section" n="42">
 <p> <lemma lang="la" targOrder="U">praedia rustica</lemma>, estates in the country, as opposed to <foreign lang="la">praedia urbana</foreign>, which lay in the precincts of the city.
 </p>
 <p> <lemma lang="la" targOrder="U">relegarat</lemma>. Roman history gives various instances of this kind of penalty: the best known is that of L. Manlius Imperiosus, dictator B.C. 363: Cic. de Off. 3.112, <foreign lang="la">criminabatur etiam</foreign> (M. Pomponius trib. pl.) <foreign lang="la">quod Titum filium, qui postea est Torquatus appellatus</foreign>, ab <foreign lang="la">hominibus relegasset et ruri habitare jussisset</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">quod... idem</lemma>; i.e. the same difficulty which met Erucius, etc., occurs to me, etc. The next sentence describes it. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="43">
+<div type="section" n="43">
 <p> <lemma lang="la" targOrder="U">fructuosa</lemma>; cf. Tuac. 11.13, <foreign lang="la">ager quamvis fertilis sine cultura fructuosus esse non potest</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">tuenda</lemma>; usually the duty of the <foreign lang="la">villicus</foreign>.
@@ -1135,9 +1135,9 @@ such.</p>
 <pb n="19"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="44">
+<div type="section" n="44">
 <p> <lemma lang="la" targOrder="U">in agro</lemma>, <gloss>out in the fields.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">aleretur</lemma>, <gloss>should get his food</gloss>, like a dog kept to guard the house.
@@ -1151,9 +1151,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">amandatio</lemma>, a <foreign lang="greek">ἅπαξ λεγόμενον</foreign>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="45">
+<div type="section" n="45">
 <p> <lemma lang="la" targOrder="U">usque eo ... non</lemma>, <gloss>so little </gloss>= <foreign lang="la">adeo non</foreign>; for either of which <foreign lang="la">tantum abest ut</foreign> could be said.
 </p>
 <p> <lemma lang="la" targOrder="U">quod arguas</lemma>, <gloss>what you can allege in proof</gloss>: cf. <foreign lang="la">criminaris</foreign> above, <gloss>allege in accusation</gloss>; Verr. 2.3.37, <foreign lang="la">defendere</foreign>, <gloss>allege in defence.</gloss>
@@ -1166,9 +1166,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">hoc</lemma>, what I am going to say. So &sect; <bibl n="Cic. S. Rosc. 47">47</bibl>, <foreign lang="la">illud</foreign>, as often, refers to what follows. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="46">
+<div type="section" n="46">
 <p><lemma lang="la" targOrder="U">certo</lemma>, <gloss>known as such.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">qui animus patrius</lemma>.  Erucius might have known a father's feelings in his own person, and to appeal to him as a father would have been Cicero's most obvious course. But the hit at his parentage serves Cicero as an excuse for the allusion to the comedy. <foreign lang="la">Qui animus . . . esset</foreign>, after <foreign lang="la">posses</foreign>: note the sequence of tenses; we should say, <gloss>what <emph>is</emph> the disposition of parents</gloss>, etc.
@@ -1192,9 +1192,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">alterum in urbe</lemma>, etc.  We may suppose that those who had seen the play would at once feel the absurdity of such an idea.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="47">
+<div type="section" n="47">
 <p><lemma lang="la" targOrder="U">quasi vero</lemma>, etc., like the English <gloss>As if it would be difficult!</gloss> abbreviated for <gloss>You speak as if it would be</gloss>, etc.
 </p>
 <p> <lemma lang="la" targOrder="U">tribules</lemma>. "The Romans did not say <foreign lang="la">contribules</foreign>, <foreign lang="la">concives</foreign> (<foreign lang="greek">συμπολῖται</foreign>), for men of the same tribe or city, but <foreign lang="la">tribules</foreign>, <foreign lang="la">cives</foreign>. Cf. <foreign lang="la">municeps, &sect;&sect;</foreign> 87, 105. Cicero as a citizen of Arpinum belonged to the <foreign lang="la">tribus Cornelia</foreign>; see Liv. 38. 36."  Osenbr&uuml;ggen.
@@ -1211,9 +1211,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">expressam</lemma>, the technical term for figures moulded or sculptured to represent the full bodily form, as opposed to <foreign lang="la">imagines adumbratae</foreign>, sketches on a flat surface:  hence <foreign lang="la">expressus</foreign> figurat. = <gloss>true to nature, lifelike.</gloss> 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="48">
+<div type="section" n="48">
 <p> <lemma lang="la" targOrder="U">age nunc</lemma> marks a transition, as in &sect;&sect; <bibl n="Cic. S. Rosc. 93">93</bibl>, <bibl n="Cic. S. Rosc. 105">105</bibl>, <bibl n="Cic. S. Rosc. 108">108</bibl>; <foreign lang="la">refer</foreign> forms the protasis to <foreign lang="la">intelleges</foreign> : cf. &sect; <bibl n="Cic. S. Rosc. 83">83</bibl>, <foreign lang="la">desinamus</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">sis</lemma>, a colloquialism for <foreign lang="la">si vis</foreign>, as in pro Mu. 60, <foreign lang="la">cave sis mentiare</foreign>.
@@ -1227,9 +1227,9 @@ such.</p>
 <milestone n="XVII" unit="chapter"/></p>
 <p> <lemma lang="la" targOrder="U">ipsi</lemma> = <foreign lang="la">sua sponte</foreign>, as opposed to <foreign lang="la">patrum voluntate</foreign>: <lemma lang="la" targOrder="U">et</lemma> answers to <foreign lang="la">que</foreign> after <foreign lang="la">vitam</foreign>, for which see Cat. II. 28, Halm's note.
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="49">
+<div type="section" n="49">
 <p><lemma lang="la" targOrder="U">quid censes. . . quo studio. . . </lemma> Strictly we should have <foreign lang="la">quo studio censes hunc esse?</foreign> <gloss>With what zeal do you think he is endued?</gloss> But the naturalness of the phrase <foreign lang="la">quid censes?</foreign> <gloss>what do you think?</gloss> led writers to begin sentences of the present kind with that phrase, and to think of it as accus. and infin. regardless of strict grammar. Cf. de Off. 2.25, <foreign lang="la">quid censemus . . . Dionysium quo cruciatu angi solitum?</foreign> An extreme case is Horace Ep. 1.6.5, where the construction is repeatedly broken by <foreign lang="la">quid.</foreign> Translate, <gloss>As to this Sex. Roscius himself, what do you suppose is the zeal</gloss>, etc.
 </p>
 <p> <lemma lang="la" targOrder="U">callidior</lemma>: Richter compares de Nat. Deor. 3.25, <foreign lang="la">callidos appello, quorum, tamquam manus opere, sic animus usu concalluit</foreign>
@@ -1249,9 +1249,9 @@ such.</p>
 
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="50">
+<div type="section" n="50">
 <milestone n="XVIII" unit="chapter"/>
 <p> <lemma lang="la" targOrder="U">Ne tu</lemma>: <foreign lang="la">ne</foreign> is rarely found in the best writers vithout a personal or demonstrative pronoun. The spelling ,<foreign lang="la">nae</foreign> is contrary to the MSS.
 </p>
@@ -1271,9 +1271,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">quibus rebus</lemma>, <gloss>by which qualities</gloss>, i.e. industry and contentment.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="51">
+<div type="section" n="51">
 <p> <lemma lang="la" targOrder="U">eo quo sint</lemma>, <gloss>on the ground that</gloss>, of a reason which is not the true one: cf. pro Quinct. 5, <foreign lang="la">non eo dico, C. Aquili, quo mihi veniat in dubium tua fides</foreign>.
 
 </p>
@@ -1287,9 +1287,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">assiduus</lemma>: see &sect; <bibl n="Cic. S. Rosc. 16">16</bibl>, note on <foreign lang="la">frequens</foreign>.
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="52">
+<div type="section" n="52">
 <p> <lemma lang="la" targOrder="U">immo vero</lemma> gives an affirmative answer where a negative would be expected. With this sentence the second point iu the <foreign lang="la">probabile ex causa</foreign> (see &sect; <bibl n="Cic. S. Rosc. 40">40</bibl>) is entered on.
 </p>
 <p> <lemma lang="la" targOrder="U">audio</lemma>, <gloss>that I will listen to</gloss>: cf. Verr. 2.3.79, <foreign lang="la">non audio</foreign>, <gloss>I will not hear it.</gloss>
@@ -1313,9 +1313,9 @@ such.</p>
 <p><lemma lang="la" targOrder="U">quod coepimus</lemma>, sc. <foreign lang="la">videre</foreign>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="53">
+<div type="section" n="53">
 <p><lemma lang="la" targOrder="U">exheredare</lemma>, etc.; the thesis of the second point in the <foreign lang="la">probabile ex causa</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">mitto quaerere </lemma>= <foreign lang="la">non quaero</foreign>: cf. pro Quinct. 85, <foreign lang="la">mitto illud licere</foreign>.
@@ -1328,9 +1328,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">vinceret . . . eiceret. . . oblivisceretur</lemma>, etc.; sc. in disinheriting his son. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="54">
+<div type="section" n="54">
 <p><lemma lang="la" targOrder="U">concedo</lemma>, <gloss>I permit</gloss>; <lemma lang="la" targOrder="U">concedis</lemma>, <gloss>you admit, confess</gloss>: cf. &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>, note on <foreign lang="la">peto ... petat</foreign>.
 </p>
 <p> <lemma lang="la" targOrder="U">ea praetereas</lemma>; <foreign lang="la">ea</foreign> = the <emph>causes</emph> of the father's intention to disinherit the son: <lemma lang="la" targOrder="U">nulla esse</lemma>, <gloss>not to exist at all</gloss>; see &sect; <bibl n="Cic. S. Rosc. 128">128</bibl>.
@@ -1350,9 +1350,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ad libidinem</lemma>, <gloss>at the bidding of gain and desire</gloss>; i.e. desire for gain. <foreign lang="la">Ad</foreign>, as in such phrases as <foreign lang="la">ad voluntatem</foreign>, <foreign lang="la">ad nutum</foreign>, <foreign lang="la">ad arbitrium</foreign>, etc.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="55">
+<div type="section" n="55">
 <p><lemma lang="la" targOrder="U">inimicitias nullas esse</lemma>: Cicero admits that no personal enmity prompted Erucius to accuse Sex. Roscius. Cf. Lysias, Eratosth. &sect; 2:  <foreign lang="greek">τοὐναντίον δέ μοι δοκοῦμεν πείσεσθαι ἢ ἐν τῷ πρὸ τοῦ χρόνῳ. πρότερον μὲν γὰρ ἔδει τὴν ἔχθραν τοὺς κατηγοροῦντας ἐπιδεῖξαι, ἥτις εἴη πρὸς τοὺς φεύγοντας· νυνὶ δὲ κ.τ.λ.</foreign> i.e. formerly it was taken for granted that an accuser was prompted by personal enmity against the accused, and he was even required to state the grounds of it; but now the case is different, etc.
 </p>
 <p> <lemma lang="la" targOrder="U">huiusce pecunia</lemma>: cf. &sect; <bibl n="Cic. S. Rosc. 30">30</bibl>.
@@ -1366,9 +1366,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">legem Remmiam</lemma>, "<foreign lang="la">qua qui calumniabatur damnabatur, si crimen adprobare non poterat.</foreign>" It is not known by whom or when the law was passed. An accused person could apply for a <foreign lang="la">calumniae iudicium</foreign> against his accuser before his trial ended; if he was acquitted, the same jury which had tried him decided the case of the accuser, who, if found to have knowingly urged a false charge (<foreign lang="la">calumniari</foreign>), was probably branded on the forehead with the letter K (<foreign lang="la">kalumniator</foreign>), and lost the right of acting again as accuser. 
 
 <milestone n="xx" unit="chapter"/> </p>
-</div2>
+</div>
 
-<div2 type="section" n="56">
+<div type="section" n="56">
 
 <p> <lemma lang="la" targOrder="U">Accusatores</lemma>.  There was no official public prosecutor at Rome; it was left to private persons to prefer the accusations in criminal trials, and if they proved their case they were rewarded. Hence during the reigns of terror accusation amounted to a trade for earning a livelihood; accusers were hired, as in the present case (&sect; <bibl n="Cic. S. Rosc. 55">55</bibl>); even clubs or associations of accusers were formed.
 </p>
@@ -1402,9 +1402,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">salutatum</lemma> = <foreign lang="la">veneratum</foreign>.
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="57">
+<div type="section" n="57">
 <p> <lemma lang="la" targOrder="U">est ratio</lemma>, <gloss>the case is the same with.</gloss> The comparison, though it must have amused and delighted the audience, fails in several points : e.g. the geese were not kept to guard the Capitol, but by way of reward (cf. <foreign lang="la">sacri Iunonis</foreign>, Liv. 5.47); and accusers were not officially paid by the State.
 </p>
 <p> <lemma lang="la" targOrder="U">cibaria</lemma> answers to the money given to Erucius by Magnus and Capito, &sect;&sect; <bibl n="Cic. S. Rosc. 30">30</bibl>, <bibl n="Cic. S. Rosc. 55">55</bibl>, <bibl n="Cic. S. Rosc. 58">58</bibl>.
@@ -1419,9 +1419,9 @@ such.</p>
 
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="58">
+<div type="section" n="58">
 <milestone n="XXI" unit="chapter"/>
 <p>Here the digression on the <foreign lang="la">accusatores</foreign> ends. With the question <lemma lang="la" targOrder="U">quid mihi</lemma>, etc., Cicero recalls the subject of c. XIX., the contents of which are recapitulated in the form of <foreign lang="la">altercatio</foreign> (opposed to <foreign lang="la">perpetua oratio</foreign>: see on pro Sulla, &sect;48). Cf. &sect;94.
 </p>
@@ -1432,9 +1432,9 @@ such.</p>
 <p> <pb n="26"/> <lemma lang="la" targOrder="U">Nihil est</lemma>, is reiterated in <foreign lang="la">non . . .</foreign>; <gloss> You have nothing to say; not a word as to whom he conferred with, whom he informed, whence that suspicion entered your minds.</gloss> <lemma lang="la" targOrder="U">fraudem</lemma>, i.e. the false accusation.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="59">
+<div type="section" n="59">
 <p> <lemma lang="la" targOrder="U">operae pretium erat</lemma>, <foreign lang="la">si. . . </foreign>, lit. <gloss>to consider his negligence, if you observed it, was a reward for your trouble.</gloss> We say, <gloss>would have been worth your while</gloss>. Cf. &sect; <bibl n="Cic. S. Rosc. 53">53</bibl>, <foreign lang="la">id erat</foreign>, note.
 </p>
 <p> <lemma lang="la" targOrder="U">credo</lemma>, not ironically, but in jest; <gloss>I cannot help thinking that he must have inquired</gloss>, etc.
@@ -1451,9 +1451,9 @@ such.</p>
 
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="60">
+<div type="section" n="60">
 <milestone n="XXII" unit="chapter"/>
 <p> <lemma lang="la" targOrder="U">aurrexi ego</lemma> ; the last word is emphasized: <gloss>it was I, none of the</gloss> <foreign lang="la">summi oratores nobilissimique viri</foreign> (&sect; <bibl n="Cic. S. Rosc. 1">1</bibl>), <gloss>who arose</gloss>.
 </p>
@@ -1465,9 +1465,9 @@ such.</p>
 <p><lemma lang="la" targOrder="U">vexari pessime</lemma>, <gloss>was being very roughly handled.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="61">
+<div type="section" n="61">
 <p> <lemma lang="la" targOrder="U">commode</lemma>, &sect; <bibl n="Cic. S. Rosc. 9">9</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">quem dedi. . . vides indicare</lemma>, explanatory of the previous clause, and forming a kind of parenthesis, as if it were, <foreign lang="la">quem enim dedi</foreign>, etc.
@@ -1478,9 +1478,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">latrocinium</lemma>, an act of robbery, a crime: or concrete, <gloss>a band of robbers</gloss>; so Richter. 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="62">
+<div type="section" n="62">
 <p> <lemma lang="la" targOrder="U">de parricidio causa dicitur</lemma>, etc. An instance of a <foreign lang="la">universi generis oratio</foreign>, or statement in general terms ; Greek <foreign lang="greek">θέσις</foreign>.  <gloss>A charge of parricide is being preferred : yet no reason is given by the accuser why the son should have murdered the father.</gloss>  See Cic. Topica, &sect; 79; Orator, &sect; 46; and cf. de Imp. Pomp. &sect; 28 sqq.
 </p>
 <p> <lemma lang="la" targOrder="U">his levioribus</lemma>; <foreign lang="la">his</foreign> implies <gloss> these that we all know so well.</gloss>
@@ -1499,9 +1499,9 @@ such.</p>
 </p>
 <p> <lemma lang="la" targOrder="U">per quos</lemma>, <gloss>by what agent?</gloss>: cf. &sect;&sect; <bibl n="Cic. S. Rosc. 74">74</bibl>, <bibl n="Cic. S. Rosc. 79">79</bibl>.
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="63">
+<div type="section" n="63">
 <p><lemma lang="la" targOrder="U">portentum atque monstrum</lemma>, and <lemma lang="la" targOrder="U">immanitate</lemma> below : cf. &sect; <bibl n="Cic. S. Rosc. 38">38</bibl> ; <lemma lang="la" targOrder="U">esse aliquem</lemma>; <foreign lang="la">esse</foreign>, not <foreign lang="la">aliquem</foreign>, has the emphasis ; <gloss>that there should exist a creature.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">propter quos</lemma> : see &sect; <bibl n="Cic. S. Rosc. 16">16</bibl>, note.
@@ -1511,9 +1511,9 @@ such.</p>
 
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="64">
+<div type="section" n="64">
 <milestone n="XXIII" unit="chapter"/>
 <p> <lemma lang="la" targOrder="U">Tarracinensem</lemma>, of Tarracina, the ancient Anxur, a town in Latium in the Volscian territory.
 </p>
@@ -1530,17 +1530,17 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">defendere absolute</lemma>, <gloss>give protection.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="65">
+<div type="section" n="65">
 <p> <lemma lang="la" targOrder="U">non modo </lemma>=<gloss> not only not</gloss>, the second <foreign lang="la">non</foreign> being omitted when the common verb <foreign lang="la">possunt</foreign> is in the second clause ; when it is in the first, as &sect; <bibl n="Cic. S. Rosc. 137">137</bibl>, <foreign lang="la">id non modo re prohibere non licet, sed ne verbis quidem vituperare</foreign>, or when there are two verbs, as &sect; <bibl n="Cic. S. Rosc. 54">54</bibl>, <foreign lang="la">quod planum facere non modo non possis, verum ne coneris quidem</foreign>, the second <foreign lang="la">non</foreign> is added.
 
 
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="66">
+<div type="section" n="66">
 <milestone n="XXIV" unit="chapter"/>
 <p> <lemma lang="la" targOrder="U">videtisne </lemma>: see &sect; <bibl n="Cic. S. Rosc. 113">113</bibl>, note on <foreign lang="la">itane est.</foreign>
 </p>
@@ -1555,9 +1555,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">necessitatem</lemma>, <gloss>restraining force </gloss> ; religionem, <gloss>sanctity, which should protect them from injury.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="67">
+<div type="section" n="67">
 <p> <lemma lang="la" targOrder="U">nolite putare</lemma>, etc. : cf. Cicero's later expression of the same thought, in Pisonem, &sect; 46, <foreign lang="la">nolite enim putare, ut in scaena videtis, homines consceleratos impulsu deorum terreri Furiarum taedis ardentibus : sua quemque fraus, suum facinus, suum scelus, sua audacia de sanitate ac mente deturbat ; hae sunt impiorum furiae, hae flammae, hae faces.</foreign> The original passage appears to be Aeschines in Tim. 180.
 
 
@@ -1571,9 +1571,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">domesticae</lemma>, <gloss>belonging to their home</gloss>, i.e. familiar, abiding ; perhaps at the same time implying <foreign lang="greek">πατρὸς ἢ μητρὸς  Ἐρίνυες</foreign>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="68">
+<div type="section" n="68">
 <p> <lemma lang="la" targOrder="U">manifestum</lemma>.  Gellius, N.A. 11. 18.11, <foreign lang="la">mansfestum furtum est, ut ait Masurius, quod deprehenditur dum fit.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">praerupta</lemma>, literally, <gloss>broken off suddenly </gloss> ; i.e. headlong, impetuous.  Cf. Tac. Ann. 16.7, <foreign lang="la">iuvenis animo praeruptus.</foreign>
@@ -1585,9 +1585,9 @@ such.</p>
 
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="69">
+<div type="section" n="69">
 <milestone n="XXV" unit="chapter"/>
 <p> <lemma lang="la" targOrder="U">multis ex rebus </lemma>: we should say, <gloss>from many <emph>other</emph> things</gloss>; Verr. 2.4.174, <foreign lang="la">cum multa, tum etiam hoc me memini dicere.</foreign>
 
@@ -1595,9 +1595,9 @@ such.</p>
 <pb n="31"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="70">
+<div type="section" n="70">
 <p> <lemma lang="la" targOrder="U">dum ea rerum potita est</lemma>, i.e. as long as it held the supremacy among the Greek states : cf. ad Fam. 5.17.3, <foreign lang="la">et in nostra civitate et in ceteris, quae rerum potitae sunt</foreign> (i.e. have had dominion over other <foreign lang="la">civitates.</foreign>)  For the rare sense of <foreign lang="la">potior</foreign>  <gloss>to be in possession of</gloss>, cf. Cic. Acad. Pr. II. 126, <foreign lang="la">Cleanthes Solem dominari et rerum potiri putat</foreign> ; Val. Max. 9.15.5, <foreign lang="la">Sulla rerum potiente</foreign>, <gloss>during Sulla's supremacy</gloss>; Tac. Ann. 11.42, etc.
 </p>
 <p> <lemma lang="la" targOrder="U">hodie quoque utuntur</lemma>.  Though Greece was at this time a Roman province, Athens as a <foreign lang="la">libera civitas</foreign> enjoyed autonomy.
@@ -1609,9 +1609,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">supplicium singulare</lemma> : see Introd. &sect;&sect; <bibl n="Cic. S. Rosc. 10">10</bibl>, <bibl n="Cic. S. Rosc. 11">11</bibl>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="71">
+<div type="section" n="71">
 <milestone n="XXVI" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">ex rerum natura</lemma>, <gloss>out of the world </gloss> ; by denying him the four elements (<foreign lang="la">coelum, solem aquam, terram</foreign>), "<foreign lang="la">ex quibus omnia nata esse dicuntur</foreign>."
@@ -1633,9 +1633,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">expiari putantur</lemma> : so Iphigenia seeks to purify her brother Orestes with sea-water, since <foreign lang="greek">θάλασσα κλύζει πάντα τἀνθρώπων κακά</foreign>, Eur. Iphig. Taur. 1193.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="72">
+<div type="section" n="72">
 <p> <lemma lang="la" targOrder="U">vivis</lemma>, etc. : the substantival use of adjectives, which is most common in the plural, is especially found in an enumeration of several adjectives, as here ; cf. Zumpt, &sect; 363.
 
 
@@ -1649,9 +1649,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">venisses</lemma>, not <gloss>you would have come</gloss>, but <gloss>you ought to have come</gloss> = <foreign lang="la">venire debuisses</foreign>, the <gloss>past jussive.</gloss>  Cf. pro Sest. 45, <foreign lang="la">restitisses, repugnasses, mortem pugnans oppetisses</foreign> ; Ib. 54 ; pro Sulla, 25 ; Aeneid 8. 643, <foreign lang="la">At tu dictis, Albane, maneres.</foreign>  See Roby, 1604.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="73">
+<div type="section" n="73">
 <p> <lemma lang="la" targOrder="U">neminem ne . . . quidem</lemma>: see &sect; <bibl n="Cic. S. Rosc. 22">22</bibl>, note in fin.
 
 
@@ -1668,9 +1668,9 @@ such.</p>
 <pb n="33"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="74">
+<div type="section" n="74">
 <p> <lemma lang="la" targOrder="U">ipsum</lemma>, sc. <foreign lang="la">percussisse.</foreign>  <foreign lang="la">Romae non fuit</foreign>, abbrev. for <foreign lang="la">respondeo eum Romae non fuisse.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">si liberos</lemma>, wanting in the MSS. ; but the words are indispensable, since here Cicero begins discussing the latter of the two alternatives, <foreign lang="la">servosne an liberos</foreign> ; the other follows in &sect; <bibl n="Cic. S. Rosc. 77">77</bibl>, <foreign lang="la">reliquum est ut per servos id admiserit.</foreign>
@@ -1688,9 +1688,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">constitisse</lemma> = <foreign lang="la">moratum esse</foreign> ; Verr. 1. l. 101, <foreign lang="la">qui Romae vix triduum constitisset.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="75">
+<div type="section" n="75">
 <p> <lemma lang="la" targOrder="U">praetereo illud</lemma>, etc. Richter remarks that the commonplace about the innocence of a rustic life is put into the form <foreign lang="la">praeteritio</foreign> (see &sect; <bibl n="Cic. S. Rosc. 106">106</bibl>), being really of little value as evidence, in spite of Cicero's <foreign lang="la">quod mihi maximo</foreign>, etc.
 </p>
 <p> <lemma lang="la" targOrder="U">inculta</lemma>, <gloss>uncivilized.</gloss>
@@ -1706,9 +1706,9 @@ such.</p>
 <pb n="34"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="76">
+<div type="section" n="76">
 <milestone n="XXVIII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">tam occultum</lemma>, since even the accuser had nothing to say as to the particular circumstances under which it was committed.
@@ -1720,9 +1720,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">causa dicitur</lemma> : see &sect; <bibl n="Cic. S. Rosc. 5">5</bibl>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="77">
+<div type="section" n="77">
 <p> <lemma lang="la" targOrder="U">reliquum est</lemma>, the other alternative of the dilemma: see &sect; <bibl n="Cic. S. Rosc. 74">74</bibl>, note on <foreign lang="la">si per liberos</foreign>.  <lemma lang="la" targOrder="U">ut</lemma>: see 28, first note.
 </p>
 <p> <lemma lang="la" targOrder="U">in quaestionem</lemma>, here = <gloss>for examination under torture</gloss>. The evidence of slaves was only taken under torture in Rome.
@@ -1743,9 +1743,9 @@ such.</p>
 <pb n="35"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="78">
+<div type="section" n="78">
 <p> <lemma lang="la" targOrder="U">ne quaerendi . . . permittitur</lemma>, sc. by the refusal of Magnus to surrender the slaves for examination. <foreign lang="la">Quaerere</foreign> or <foreign lang="la">quaestionem habere de morte alicuius</foreign> = <gloss>to hold an investigation into a person's death</gloss>: cf. pro Cluent. &sect; 176.
 </p>
 <p> <lemma lang="la" targOrder="U">in caede</lemma>, as <foreign lang="la">sicarii</foreign> ; <lemma lang="la" targOrder="U">ex caede</lemma>, as <foreign lang="la">sectores.</foreign>  (Richter.)
@@ -1757,9 +1757,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ad hunc locum</lemma> : see &sect; <bibl n="Cic. S. Rosc. 19">19</bibl>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="79">
+<div type="section" n="79">
 <milestone n="XXIX" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">conveniat mihi</lemma>, etc., recapitulation of the last two chapters.
@@ -1780,9 +1780,9 @@ such.</p>
 <pb n="36"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="80">
+<div type="section" n="80">
 <p> <lemma lang="la" targOrder="U">una mercede duas res adsequi</lemma>.  For other forms of the proverb, cf. ad Fam. 7. 29. 2, <foreign lang="la">duo parietes de eadem fidelia</foreign> (pot of paint) <foreign lang="la">dealbare</foreign> ; Plaut. Casin. 2.8.40,  <foreign lang="la">iam ego uno in saltu lepide apros copione duos</foreign> ; and the English equivalent. <foreign lang="la">Una mercede</foreign> is abl. of price.
 </p>
 <p> <lemma lang="la" targOrder="U">perfundere</lemma>, <gloss>to wet all over the surface </gloss> (not <gloss>to drench </gloss> ) seems here the meaning.  Cic. says, <gloss>You are trying to give us a merely superficial splashing with your legal process, but genuinely to accuse those in whose pity you are</gloss>, since the arguments of Erucius tell against his own side.  Professor Clark supports this sense of <foreign lang="la">perfundere</foreign> by comparing Suet. Dom. S <foreign lang="la">perfusoriis assertionibus</foreign>, <gloss>superficial, unauthorised claims for freedom.</gloss>  So, perhaps, Seneca 23. 4, <foreign lang="la">tenuis et perfusoria voluptas</foreign>, <gloss>a pleasure only skin deep.</gloss> <foreign lang="la">Perfundere</foreign> misunderstood has led to weak emendations, e.g. <foreign lang="la">pervertere</foreign>, <gloss>overthrow.</gloss>
@@ -1798,18 +1798,18 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">nescisne per ista</lemma>, etc. ; i.e. <emph> the</emph> <foreign lang="la">sectores bonorum</foreign>, <gloss>such as Chrysogonus, Magnus, and Capito were usually also the</gloss> <foreign lang="la">sectores collorum</foreign> <gloss>(cut-throats) ; so that if you talk of the multitude of assassins, you accuse the very persons in whose pay you are.</gloss>  In the repeated <foreign lang="la">sectores</foreign> there is of course a play on the two meanings.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="81">
+<div type="section" n="81">
 <p> <lemma lang="la" targOrder="U">denique</lemma> implies indignation.
 
 
 <pb n="37"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="82">
+<div type="section" n="82">
 <p> <lemma lang="la" targOrder="U">dissoluta est</lemma>, the phrase for solving catch-questions (Acad. Pr. 2.46, <foreign lang="la">fallaces et captiosas interrogationes dissolvere</foreign>), also said, like the more common <foreign lang="la">diluere</foreign> of the refutation of charges which it required dialectical skill to subvert.
 </p>
 <p> <lemma lang="la" targOrder="U">exspectatis ut</lemma>, <gloss>wait in the expectation that </gloss> : see Madvig, &sect; 360, Obs. l.
@@ -1825,9 +1825,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ipsa causa</lemma>, i.e. <gloss>my speech for the defence.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="83">
+<div type="section" n="83">
 <milestone n="XXX" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">Venio nunc</lemma>. The transition to the second main division of the speech ; see &sect; <bibl n="Cic. S. Rosc. 35">35</bibl>.  Cicero now turns accuser, and shows that the guilt of the murder really attaches to Magnus and Capito themselves.
@@ -1854,9 +1854,9 @@ such.</p>
 <pb n="38"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="84">
+<div type="section" n="84">
 <p> <lemma lang="la" targOrder="U">causam</lemma>, <gloss>motive </gloss> : cf. &sect; <bibl n="Cic. S. Rosc. 40">40</bibl>. Erucius had professed to discover one, but Cicero refuted him, and hence can say <foreign lang="la">nullam reperiebas</foreign> : cf. &sect; <bibl n="Cic. S. Rosc. 79">79</bibl>, <foreign lang="la">negas.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">istic</lemma>, sc. <foreign lang="la">in subselliis accusatorum</foreign>, &sect;&sect; <bibl n="Cic. S. Rosc. 17">17</bibl>, <bibl n="Cic. S. Rosc. 87">87</bibl>, etc.
@@ -1878,9 +1878,9 @@ such.</p>
 <p> . . <foreign lang="la">bone.</foreign> The literal meaning is,  <gloss>to whom it had been for-an-advantage.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="85">
+<div type="section" n="85">
 <p> <lemma lang="la" targOrder="U">periculum</lemma>; used in reference to the accused in a <foreign lang="la">causa publica</foreign> (<ref n="1" targOrder="U">Introd. &sect; 1</ref>), not in private suits : cf. de Imp. Pomp. &sect; 2, Halm's note.  Shakespeare, Merchant of Venice, act iv. so. 1, <quote><l>You stand within his danger, do you not?</l></quote>.
 </p>
 <p> <lemma lang="la" targOrder="U">applicatus</lemma>. The MSS. give <foreign lang="la">implicitus</foreign>, which needs emendation.  Graevius suggested <foreign lang="la">implacatus</foreign> = <foreign lang="la">implacabilis</foreign>,  <gloss>unrelenting </gloss> ; <foreign lang="la">ad severitatem</foreign> would then have to mean, <gloss>to a degree amounting to sternness </gloss> (cf. pro Cluent. 183 <foreign lang="la">callidus ad fraudem</foreign>). <foreign lang="la">Applicatus</foreign> is preferable, as <foreign lang="la">ad</foreign> follows more naturally ; <gloss>given to, with a leaning to, severity.</gloss>
@@ -1897,9 +1897,9 @@ such.</p>
 <pb n="39"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="86">
+<div type="section" n="86">
 <milestone n="XXXI" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">cum viderent </lemma>: here <foreign lang="la">si viderent</foreign> would be purely conditional, <gloss>if they had seen</gloss>;   <foreign lang="la">cum viderint</foreign> assumes the condition, <gloss>when they saw</gloss>, <gloss>on seeing, </gloss> as they would do if present.
@@ -1909,9 +1909,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">eodem</lemma>, to the <foreign lang="la">praeda</foreign>, i.e. to the fact that you have got it.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="87">
+<div type="section" n="87">
 <p> <lemma lang="la" targOrder="U">praefers</lemma>, <gloss>you display </gloss> ; a rare form for <foreign lang="la">prae te fers.</foreign> Ov. Her. 17.36, <foreign lang="la">si modo quem praefers non simulatur amer.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">societatem coieris</lemma> : cf. &sect; <bibl n="Cic. S. Rosc. 20">20</bibl> sub fin.  We do not know whether Cicero knew this as a fact, or assumes it here, to serve as a proof of <foreign lang="la">avaritia.</foreign>  "The proof of <foreign lang="la">avaritia</foreign> is illogical, since what is given as evidence of it could only be shown through the trial itself." Halm.
@@ -1923,9 +1923,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">inimicitias . . . rei familiaris controversias</lemma>.  The latter give the grounds of the former.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="88">
+<div type="section" n="88">
 <p> <lemma lang="la" targOrder="U">hoc dubitemus</lemma>, <gloss>that we weigh this point.</gloss> Cf. Virg. Aen. 9. 191, <foreign lang="la">quid dubitem</foreign>, <gloss>what I am debating</gloss>, see Page's note.
 </p>
 <p> <lemma lang="la" targOrder="U">quaestum here in a narrow sense</lemma>, <gloss>dishonourable gain.</gloss> For the contrast with <foreign lang="la">fructum</foreign>, cf. Tusc. v.86, <foreign lang="la">quaestuosa mercatura, fructuosa aratio dicitur</foreign> : <gloss>commerce is lucrative, makes money ;  agriculture earns a livelihood.</gloss> Cf. the kindred verbs : <foreign lang="la">quaestus</foreign> = gain got by seeking it (<foreign lang="la">quaero</foreign>), implying avarice ; <foreign lang="la">fructus</foreign> = gain enjoyed, made use of (<foreign lang="la">fruor</foreign>) ; and cf. Liv. 21. 63, <foreign lang="la">quaestus omnis patribus indecorus visus</foreign>
@@ -1935,9 +1935,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">fori iudiclorumque</lemma>, objective genitives ; <lemma lang="la" targOrder="U">insolentiam</lemma>, <gloss>unfamiliarity with.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="89">
+<div type="section" n="89">
 <milestone n="XXXII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">tempus citius quam oratio</lemma>; cf. Sall. lug. 42, <foreign lang="la">de studiis partium si singillatim aut pro magnitudine parem disserere, tempus quam res maturius me deseret.</foreign>
@@ -1953,9 +1953,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">sat bonum</lemma>, sc. <foreign lang="la">accusatorem. Sat</foreign> or <foreign lang="la">satis</foreign> has a limiting sense, like the French <foreign lang="fr">assez</foreign> : de Orat. 3. 84, <foreign lang="la">oratorem sat bonum, bonum denique</foreign>, <gloss>fairly good, nay, good </gloss> ; de Off. 2. 59, <foreign lang="la">bene pascere, satis bene pascere, male pascere.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="90">
+<div type="section" n="90">
 <p> <lemma lang="la" targOrder="U">ad Servilium lacum</lemma>, an artificial reservoir, situated near the entrance of the <foreign lang="la">vicus iugarius</foreign> into the forum, and abutting on the <foreign lang="la">basilica Iulia</foreign> ; see Festus, p.290.  We learn from several authorities (Seneca, de Provid. c. 3 ; Iulii Firmici Astron. 1.3  Schol. ad Lucanum 2.161) that the heads of the proscribed were displayed at the <foreign lang="la">Lacus Servilius</foreign> as well as on the <foreign lang="la">rostrum.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">Quis ibi</lemma>, etc., an imperfect trochaic verse, taken, according to the Scholiast, from the tragedy Achilles of Ennius, and spoken by Ulysses when the Greeks were driven back to their ships by Hector and their bravest heroes killed.
@@ -1979,9 +1979,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">qui omnes . . . viverent</lemma> shows Cicero's confidence in the strength of his case.  <lemma lang="la" targOrder="U">canes</lemma>, cf. &sect; <bibl n="Cic. S. Rosc. 56">56</bibl>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="91">
+<div type="section" n="91">
 <p> <lemma lang="la" targOrder="U">verum</lemma>, i.e. <foreign lang="la">verum</foreign> (<foreign lang="la">etsi nihil mali est</foreign>, etc., <foreign lang="la">occisi sunt nam</foreign>), etc. <foreign lang="la">turba</foreign>, <gloss>commotion, confusion.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">dum . . . erat occupatus</lemma>: this is here an imperfect tense, not pluperfect. <foreign lang="la">Dum</foreign> = <gloss>during the time that</gloss> more usually has a present (Roby 1661). Halm thinks the imperfect due to the fact that a long-continued or repeated state of things is spoken of.
@@ -2010,9 +2010,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">studio . . . officio</lemma>.  The ablatives are adverbial : <gloss>intentionally accusing, defending as in duty bound.</gloss> Cf. Hor. Sat. 1. 4. 79 ; and <foreign lang="la">fraude</foreign> (=<foreign lang="la">fraudulenter) agere, furto fallere, consilio petere</foreign>= (on purpose), etc.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="92">
+<div type="section" n="92">
 <milestone n="XXXIII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">video causas esse . . . impellerent</lemma>, <gloss>I see that there <emph>are</emph> (perceptible <emph>now</emph>) many motives which might <emph>then</emph> have been urging him.</gloss>  A passage often noticed because of the non-sequence of tenses.  But the rule of sequence need not here apply. The direct statement would have been <foreign lang="la">causae multae istum impellerent</foreign>, <gloss>many motives might have been urging him,</gloss> <foreign lang="la">impellerent</foreign> being potential subj., implying an <gloss>if</gloss> dause, <gloss>if they had chanced to be operative,</gloss> or the like. When the statement is oblique after <foreign lang="la">video</foreign>, <foreign lang="la">esse</foreign> is a natural tense to use, as shown above ;  <foreign lang="la">impellerent</foreign>, the original subjunctive, is not changed. So in Vatin. 5, <foreign lang="la">quaero a te cur Cornelium non defenderem</foreign> :  I ask you why I was not to defend . . .'  The above explanation is on the lines suggested by Gildersleeve and Lodge 519, and seems the best. Some explain <foreign lang="la">esse</foreign> as imperf. infin.
@@ -2026,9 +2026,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">quasi nunc</lemma>, etc. (cf. &sect; <bibl n="Cic. S. Rosc. 47">47</bibl>, note), i.e. Cicero did not name the place of the murder in order to search all Rome (<foreign lang="la">tanta multitudine</foreign>) for the murderer, but as a crucial test applied to two given persons.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="93">
+<div type="section" n="93">
 <p> <lemma lang="la" targOrder="U">ceteras facultates</lemma>.  Cicero now shows that Magnus had a further <foreign lang="la">facultas</foreign> in being a professed <foreign lang="la">sicarius</foreign>, or in league with <foreign lang="la">sicarii</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">commemoravit</lemma> : see &sect; <bibl n="Cic. S. Rosc. 80">80</bibl>.
@@ -2048,9 +2048,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">aliquem</lemma>, <gloss>some one or other </gloss> ; hinting at Chrysogonus.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="94">
+<div type="section" n="94">
 <p> <lemma lang="la" targOrder="U">quid postea </lemma>: cf. &sect; <bibl n="Cic. S. Rosc. 80">80</bibl>.  The ensuing sentences are in the so-called figure <foreign lang="la">altercatio</foreign> : see &sect; <bibl n="Cic. S. Rosc. 58">58</bibl>, note.
 </p>
 <p> <lemma lang="la" targOrder="U">ego</lemma> : cf. &sect; <bibl n="Cic. S. Rosc. 32">32</bibl>, note.
@@ -2066,9 +2066,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">plures</lemma>, <gloss>a number of persons,</gloss> viz. all who had taken part in the proscriptions.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="95">
+<div type="section" n="95">
 <milestone n="XXXIV" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">sicut cetera</lemma>.  Supply <foreign lang="la">vidimus.</foreign> After examining the <foreign lang="la">causas quae T. Roscium impellerent</foreign>, and the <foreign lang="la">facultates suscipiendi maleficii</foreign>, Cicero now proceeds to the so-called <foreign lang="la">consecutio</foreign>, i.e. inferring the guilt or innocence of a suspected person from his behaviour after the event.  See pro Mi]. &sect; 61, Halm's note.
@@ -2088,9 +2088,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">de morum praeda</lemma>.  The rule would require <foreign lang="la">de nta praeda</foreign>, but exceptions are found : cf. Verr. 2.1.86, <foreign lang="la">Milesios navem poposcit, quae eum praesidii causa Myndum prosequeretur</foreign> ; and <foreign lang="la">illorum</foreign> makes a stronger antithesis with <foreign lang="la">huius</foreign>  Similarly <foreign lang="la">ut . . . non</foreign> (instead of <foreign lang="la">ne</foreign>) before <foreign lang="la">sed</foreign>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="96">
+<div type="section" n="96">
 <p> <lemma lang="la" targOrder="U">antea</lemma>, &sect; <bibl n="Cic. S. Rosc. 19">19</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">quid attinuit</lemma>, <gloss>what object was there in,</gloss> etc. differing little from a simple <foreign lang="la">cur</foreign> : cf. Verr. 2.5. 169. <foreign lang="la">eum</foreign>, not the obj. after <foreign lang="la">attinuit</foreign>, but the subj . to <foreign lang="la">nuntiare.</foreign>
@@ -2106,9 +2106,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">optime convenientes</lemma>, <gloss>on the best of terms with him.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="97">
+<div type="section" n="97">
 <p> <lemma lang="la" targOrder="U">nihil est quod metuas</lemma>, <gloss>there is no reason for you to fear </gloss> : so &sect; <bibl n="Cic. S. Rosc. 138">138</bibl>, <foreign lang="la">nihil est quod quisquam dicat.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">excutio</lemma>, of searching a person's dress : cf. Val. Max. 5.4, &sect; 7, <foreign lang="la">aditum filiae, sed diligenter excussae, ne quid cibi inferret, dedit.</foreign> The present tense is figurative, as though he still had the weapons upon him .
@@ -2120,9 +2120,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">tantum itineris</lemma> : see on &sect; <bibl n="Cic. S. Rosc. 19">19</bibl>. <foreign lang="la">contendere</foreign>, <gloss>to traverse</gloss> ; rare in this sense with an accus. : cf. Virg. Aen. 5. 834, <foreign lang="la">contendere cursum.</foreign>  For an analogous use, see Hor. Ep. 1.1.28, <foreign lang="la">non possis oculo quantum contendere Lynceus</foreign>,  <gloss>you cannot reach as far with your eyesight.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="98">
+<div type="section" n="98">
 <milestone n="XXXV" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">etiamne</lemma> asks an indignant question.
@@ -2138,15 +2138,15 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">honoris causa</lemma>, <gloss>from personal regard for him</gloss> (the French <foreign lang="fr">en egard</foreign>) ; ironically for the simple <foreign lang="la">sua causa</foreign>, as in &sect; <bibl n="Cic. S. Rosc. 132">132</bibl>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="99">
+<div type="section" n="99">
 <p> <lemma lang="la" targOrder="U">Quid erat . . .</lemma> <gloss>What reason was there for his wishing . . . ? </gloss> <lemma lang="la" targOrder="U">nisi hoc</lemma> = <foreign lang="la">hoc tamen</foreign>. <foreign lang="la">Nisi</foreign> here is nearly equivalent to <foreign lang="la">sed</foreign> ; instances are frequent in the comic poets : cf. Pl. Rud. 751, <foreign lang="la">nescio nisi scio</foreign> ; Ter. Eun. 827, <foreign lang="la">nescio nisi credo.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="100">
+<div type="section" n="100">
 <p> <lemma lang="la" targOrder="U">palmas </lemma>: see &sect; <bibl n="Cic. S. Rosc. 17">17</bibl>, note. <foreign lang="la">lemniscatam</foreign> : Fest. p.115, <foreign lang="la">lemnisci, id est fasciolae coloriae</foreign> (coloured ribbons), <foreign lang="la">dependentes ex coronis.</foreign> The <foreign lang="la">lemnisci</foreign> were an additional mark of distinction, as a reward for a special victory : Auson. Epist. 5.20, <foreign lang="la">Et quae iamdudum tibi palma poetica pollet, Lemnisco ornata est, quo mea palma caret.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">quae Roma ei deferatur</lemma>, <gloss>which is transmitted to him from Rome </gloss> : a figurative way of saying that the murder had been committed, unlike Capito's former crimes, in Rome ; and that it was the greatest of them all, since a gladiator would prize most highly a victory won in the capital. Cf. Phil. 2.11, <foreign lang="la">Sexta palma urbana etiam in gladiatore difficilis</foreign>
@@ -2165,9 +2165,9 @@ such.</p>
 <pb n="46"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="101">
+<div type="section" n="101">
 <p> <lemma lang="la" targOrder="U">volumen</lemma>, <gloss>roll.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">pro testimonio</lemma>, <gloss>as evidence</gloss>.
@@ -2177,9 +2177,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ius iurandum accommodetis</lemma>, <gloss>fit the claims of your oath to suit his evidence. </gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="102">
+<div type="section" n="102">
 <milestone n="XXXVI" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">alter</lemma>, Magnus ; <lemma lang="la" targOrder="U">ex ipsa caede</lemma>, <gloss>immediately after</gloss> : cf. Tac. Germ. 22, <foreign lang="la">statim e somno lavantur.</foreign>
@@ -2197,9 +2197,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ut ne minimis quidem in rebus dicerent</lemma> : cf. &sect; <bibl n="Cic. S. Rosc. 77">77</bibl>, <foreign lang="la">unus puer . . . relictus non est</foreign>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="103">
+<div type="section" n="103">
 <p> <lemma lang="la" targOrder="U">tertiam partem orbis terrarum</lemma>, a rhetorical exaggeration.
 </p>
 <p> <lemma lang="la" targOrder="U">si ageretur . . .  diceret</lemma>, <gloss>if an affair of his own had been in hand he would not have given evidence.</gloss> The imperf. subj. need not imply that Africanus never really found himself so situated. His contemporaries would have said, <foreign lang="la">si . . . agatur, non . . . dicat</foreign>, the contingency being a possible one. Cicero, from a later standpoint, puts their pres. subj. into the imperf., with the same idea of possibility. The subjunctive in either tense is <gloss>prospective,</gloss> as Prof. Sonnensehein well calls it. He cites Livy 21.5.11, <foreign lang="la">invicta acies</foreign> si aequo <foreign lang="la">dimicaretur campo</foreign> (Class. Rev. 1897).
@@ -2209,9 +2209,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">crederetur</lemma>, impersonal ; its object would be a dative, <foreign lang="la">ei</foreign>, or <foreign lang="la">testimonio</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="104">
+<div type="section" n="104">
 <p> <lemma lang="la" targOrder="U">quid tu?</lemma> Cicero addresses Magnus direct, who had tried to interrupt him or made a gesture of indignation at the plain statement of Capito's guilt, <foreign lang="la">occidendum, curarit.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">ne tibi desis </lemma>(<foreign lang="la">tibi</foreign> and <foreign lang="la">tua</foreign> are emphasized) = <gloss>you must think of yourself, not only of Capito </gloss> Cf. Hor. Sat. 1.9.56, <foreign lang="la">haud mihi deero.</foreign>
@@ -2227,9 +2227,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">a nobis</lemma> : see &sect; <bibl n="Cic. S. Rosc. 85">85</bibl>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="105">
+<div type="section" n="105">
 <milestone n="XXXVII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">quadriduo quo </lemma>: see &sect; <bibl n="Cic. S. Rosc. 20">20</bibl>, notes.
@@ -2239,9 +2239,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">municipem</lemma>: see &sect; <bibl n="Cic. S. Rosc. 47">47</bibl>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="106">
+<div type="section" n="106">
 <p> <lemma lang="la" targOrder="U">suspiciosum</lemma>, <gloss>merely a matter of conjecture,</gloss> as opposed to <foreign lang="la">perspicuum</foreign> : cf. Auct. ad Her. 2. &sect; 11, <foreign lang="la">cum multa concurrant argumenta et signa quae inter se consentiant, rem perspicuam, non suspiciosam videri oportere.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">non enim ita disputabo</lemma>, in antithesis with <foreign lang="la">certo scio</foreign> below. Cicero says, <gloss>I will not argue for the <emph>probability</emph> that Chrysogonus got his information from the two Roscii, for it is a known fact ; they admit it themselves.</gloss> <lemma lang="la" targOrder="U">erat enim</lemma>, etc., and <lemma lang="la" targOrder="U">nam cum</lemma>, etc., hint two reasons which <foreign lang="la">might</foreign> be given for the probability, but are let pass ; an instance of the figure <foreign lang="la">praeteritio</foreign> or <foreign lang="la">occupatio</foreign> ; cf. Auct. ad Her. 4. &sect; 37. Note that <foreign lang="la">nam cum</foreign>, etc., is not a reason for <foreign lang="la">erat antea amicitia</foreign>, but a second reason for <foreign lang="la">verisimile est Roscios detulisse</foreign>, etc.
@@ -2249,9 +2249,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">cum multos veteres </lemma>. . . <gloss>though the Roscii had many patrons and guest-friends through ties long since inherited from their ancestors ...</gloss> The ties of <foreign lang="la">patrocinium</foreign> and <foreign lang="la">hospitium</foreign> were hereditary.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="107">
+<div type="section" n="107">
 <p> <lemma lang="la" targOrder="U">possum</lemma>, &sect; <bibl n="Cic. S. Rosc. 91">91</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">indicii partem</lemma> = <foreign lang="la">partem praedae</foreign> below ; <foreign lang="la">indicii</foreign>, not the information itself, but the thing about which information was given.  On the other hand, cf. Ulp. Dig. 12. 5. 4, <foreign lang="la">si tibi indicium dedero ut futitivum meum indices</foreign>, where <foreign lang="la">indicium</foreign> = <gloss>regard for</gloss> your information. So <foreign lang="la">lis</foreign> in Liv. 3.72= <foreign lang="la">id de quo lis erat.</foreign> Clark gives <foreign lang="la">indici causa partem.</foreign>
@@ -2259,9 +2259,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">Qui sunt igitur in istis</lemma>, <gloss>Who are the persons, then, in the case of these goods, to whom Chrysogonos has given a share?</gloss> (Stock's translation. ) The subj. <foreign lang="la">dederit</foreign> characterises : <gloss>Who are such persons as fit the description "recipients from Chrysogonus ?" </gloss>,  So <foreign lang="la">acceperit</foreign> above.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="108">
+<div type="section" n="108">
 <p> <lemma lang="la" targOrder="U">age nunc</lemma>, &sect; <bibl n="Cic. S. Rosc. 48">48</bibl> 814) init.
 </p>
 <p> <lemma lang="la" targOrder="U">iudicio</lemma>: sarcastic. Chrysogonus has convicted the Roscii of the murder, by rewarding them so richly.
@@ -2283,9 +2283,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">re cognita</lemma>, emphatic, <gloss>when he knew what they had done.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="109">
+<div type="section" n="109">
 <milestone n="XXXVIII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">decem primis</lemma>, <ref n="n.,31" targOrder="U">Introd. note 31</ref>.
@@ -2295,9 +2295,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">indicatote</lemma> : see &sect; <bibl n="Cic. S. Rosc. 18">18</bibl>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="110">
+<div type="section" n="110">
 <p> <lemma lang="la" targOrder="U">palam</lemma>, i.e. before Sulla.
 </p>
 <p> <lemma lang="la" targOrder="U">auctore</lemma>, <gloss>at his advice, suggestion</gloss> ; <foreign lang="la">intercessore</foreign>, <gloss>he undertaking the matter, on his security </gloss> ; not = <foreign lang="la">impediente</foreign>, but in the sense of one who represents or acts for another. Capito undertook that the object of the <foreign lang="la">legati</foreign> should be attained. So Halm ; otherwise explained as =<gloss> owing to his interference.</gloss>
@@ -2313,9 +2313,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">re certa</lemma>, <gloss>an accomplished fact.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="111">
+<div type="section" n="111">
 <p> <lemma lang="la" targOrder="U">rem mandatam </lemma>: a matter entrusted to a person's charge ; a commission.  A <foreign lang="la">mandatum</foreign> was a contract by which one person undertook to transact an affair for another without remuneration : of the two parties, the former was termed by the jurists <foreign lang="la">mandatarius</foreign>, by Cicero <foreign lang="la">is cui mandatur</foreign> or <foreign lang="la">qui mandatum recipit</foreign> ; the latter <foreign lang="la">mandans</foreign> or <foreign lang="la">mandator</foreign>, by Cicero <foreign lang="la">qui mandat</foreign>. The Romans classed <foreign lang="la">mandatum</foreign> among the so-called consensual contracts, i.e. those which were entered on merely <foreign lang="la">consensu</foreign>, by mutual agreement. The <foreign lang="la">mandatarius</foreign> was bound to execute the affair with the <foreign lang="la">diligentia diligentis patris familias</foreign> ; if he overlooked it, the <foreign lang="la">mandans</foreign> could bring an <foreign lang="la">actio mandati</foreign>, if he had been injured either intentionally (<foreign lang="la">dolo malo</foreign>, in Cicero <foreign lang="la">malitiose</foreign>), or through neglect (<foreign lang="la">culpa</foreign>, or <foreign lang="la">neglegentia</foreign>, the opposite of <foreign lang="la">diligentia</foreign>).
 </p>
 <p> <lemma lang="la" targOrder="U">non modo malitiosius verum etiam negiegentius</lemma>. Note the position of the adversative particles, next to the specially contrasted words.  So placed in English, they would combine <foreign lang="la">malitiosius</foreign> and <foreign lang="la">neglegentius</foreign> into one idea, and make no sense. To give the required sense we put them at the head of the two clauses : <gloss>not only if a man had culpably mismanaged, but even if he had merely neglected . . . our ancestors thought,</gloss> etc. Cf. pro Deiot. 15, <foreign lang="la">tanto scelere non modo perfecto, sed</foreign>
@@ -2329,9 +2329,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">gubernetur</lemma>, <gloss>may be promoted.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="112">
+<div type="section" n="112">
 <p> <lemma lang="la" targOrder="U">officio . . . officis</lemma>; there is a play on the two meanings; <gloss>by a pretended service you do a disservice to . . .</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">de medio</lemma>, Sc. <foreign lang="la">stadio</foreign> ; a term perhaps borrowed from the language of games : cf. Herod. 8.22, <foreign lang="greek">ἐκ τοῦ μέσου ἡμῖν ἕζεσθε</foreign>
@@ -2346,9 +2346,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">credidisset</lemma>, without object, = <foreign lang="la">fidem habuisset</foreign>, as in Tusc. 5.58.  Richter compares &sect; 59 <foreign lang="la">defensurus esset</foreign>, &sect; <bibl n="Cic. S. Rosc. 61">61</bibl> <foreign lang="la">iudicare</foreign>, &sect; <bibl n="Cic. S. Rosc. 70">70</bibl> <foreign lang="la">prohibere</foreign>, <foreign lang="la">admonere</foreign>, etc., used absolutely.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="113">
+<div type="section" n="113">
 <p> <lemma lang="la" targOrder="U">Itane est </lemma>: see &sect; <bibl n="Cic. S. Rosc. 34">34</bibl>, note.
 </p>
 <p> <lemma lang="la" targOrder="U">commendatae</lemma>, stronger form for <foreign lang="la">mandatae</foreign> (so <foreign lang="la">concreditae</foreign> for <foreign lang="la">creditae</foreign>).
@@ -2366,9 +2366,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">maculaque adfecerit</lemma>, instead of the more common <foreign lang="la">adsperserit</foreign> (pro Planc. 30), for a play on <foreign lang="la">poena adficietur.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="114">
+<div type="section" n="114">
 <p> <lemma lang="la" targOrder="U">ei</lemma>, <foreign lang="la">i.e. Capitoni</foreign> ; fidem suam, i.e. Capito<gloss>s own credit</gloss> ; <lemma lang="la" targOrder="U">interponeret</lemma>, <gloss>stake </gloss> ; decideret, <gloss>strike a bargain </gloss> ; <lemma lang="la" targOrder="U">ille</lemma>, Capito.
 </p>
 <p> <lemma lang="la" targOrder="U">inque eam rem</lemma>. Cicero more often writes <foreign lang="la">in eamque rem.</foreign>
@@ -2382,9 +2382,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">honestatem</lemma> (<gloss>good name </gloss> ) <lemma lang="la" targOrder="U">amitteret</lemma> = <foreign lang="la">infamis fieret.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="115">
+<div type="section" n="115">
 <p> <lemma lang="la" targOrder="U">nunc</lemma>, <gloss>as it is </gloss> =<foreign lang="greek">νῦν δὲ</foreign> : as in &sect; <bibl n="Cic. S. Rosc. 148">148</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">publice</lemma>, <gloss>in the name of the <foreign lang="la">municipium</foreign> </gloss>: cf. <foreign lang="la">voluntatem decurionum ac muiticipum</foreign> below.
@@ -2397,9 +2397,9 @@ such.</p>
 <pb n="52"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="116">
+<div type="section" n="116">
 <milestone n="XL" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">videto</lemma>, etc. Infidelity to Sex. Roscius, represented as neglect of a <foreign lang="la">mandatum</foreign>, was the first aspect (c. XXXIX.) of Capito's guilt as emissary ; the next aspect (c. XL.) is infidelity to his co-emissaries, <foreign lang="la">socii.</foreign> A <foreign lang="la">societas</foreign> or association of several persons for a common object, especially for mercantile purposes, belonged, like <foreign lang="la">mandatum</foreign>, to the consensual contracts (&sect; <bibl n="Cic. S. Rosc. 111">111</bibl>); and virtually the same regulations were current for both.
@@ -2415,9 +2415,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">etiam</lemma>, with <foreign lang="la">metuimus</foreign>, in contrast to <foreign lang="la">cavere</foreign> : <gloss>if we do but <emph>fear</emph> him,</gloss> etc.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="117">
+<div type="section" n="117">
 <p> <lemma lang="la" targOrder="U">rei pecuniariae </lemma>: pecuniary matters were the most usual object of a <foreign lang="la">societas</foreign>, which in such cases was called <foreign lang="la">societas quaestus et lucri</foreign>  <lemma lang="la" targOrder="U">qui de eius scelere . . . </lemma> <foreign lang="la">qui</foreign> goes with the first three verbs that follow ; its antecedent with the fourth.
 </p>
 <p> <lemma lang="la" targOrder="U">parum</lemma>, with <foreign lang="la">cauti</foreign> and <foreign lang="la">providi</foreign>
@@ -2431,9 +2431,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">flagitiis</lemma>, <gloss>disgraceful actions</gloss> ; <foreign lang="la">maleficium</foreign>, <gloss>crime,</gloss> viz. the murder.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="118">
+<div type="section" n="118">
 <p> <lemma lang="la" targOrder="U">hoc quidem</lemma>, sc. the <foreign lang="la">scelus</foreign> : <lemma lang="la" targOrder="U">quod</lemma>, relative pronoun, but adversative, <gloss>but it</gloss> ; cf. &sect; <bibl n="Cic. S. Rosc. 83">83</bibl>, <foreign lang="la">quod certum est.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">inteUegatur</lemma>, <gloss>is to be inferred </gloss> : see &sect; <bibl n="Cic. S. Rosc. 25">25</bibl>.
@@ -2449,9 +2449,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">hic</lemma> is put instead of <foreign lang="la">iste</foreign> (though not meaning the defendant) as an antithesis to <foreign lang="la">ille</foreign> : see &sect; <bibl n="Cic. S. Rosc. 17">17</bibl>, note. The comparison serves to lead to the transition to Roscius Magnus, &sect; 119.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="119">
+<div type="section" n="119">
 <milestone n="XLI" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">iam antea </lemma>: see &sect; <bibl n="Cic. S. Rosc. 77">77</bibl>. <foreign lang="la">ab</foreign> (from) <foreign lang="la">istis ab adversarus</foreign>, &sect; <bibl n="Cic. S. Rosc. 77">77</bibl> ; in both places Magnus is specified as answering the request, as being the bailiff of Chrysogonus.
@@ -2467,9 +2467,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">nemo esset . . . </lemma>; as in &sect; <bibl n="Cic. S. Rosc. 102">102</bibl> the subjunctives do double duty ; <gloss>that there would have been no one who would not have thought . . .</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="120">
+<div type="section" n="120">
 <p> <lemma lang="la" targOrder="U">cum</lemma>, <gloss>at the moment when </gloss> ; joined with the present tense, as <foreign lang="la">dum</foreign>, though the construction is very rare.
 </p>
 <p> <lemma lang="la" targOrder="U">oppugnari</lemma>, with <foreign lang="la">ne</foreign> following, like verbs of hindering, <foreign lang="la">repugnari</foreign>, <foreign lang="la">obsisti</foreign>, etc. Cf. pro Lig. 13, <foreign lang="la">id ne impetremus oppugnabis?</foreign>
@@ -2490,17 +2490,17 @@ such.</p>
 <pb n="55"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="121">
+<div type="section" n="121">
 <p> <lemma lang="la" targOrder="U">ut</lemma> follows <foreign lang="la">veri simile est</foreign> only in a negative sentence or in a question expecting a negative answer : see Madvig &sect; 374, Obs. 2.
 </p>
 <p> <lemma lang="la" targOrder="U">ut . . . cognorit</lemma>; i.e. probably there had been neither time nor opportunity for this.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="122">
+<div type="section" n="122">
 <milestone n="XLII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">meministis me distribuisse </lemma>; <foreign lang="la">memini</foreign> is followed by the pres. infin. even of a past event. when the person witnessed it ; by the perf. infin. when he did not witness it but can vouch for its having happened. Here, then, we expect <foreign lang="la">distribuere.</foreign> But by the perf. infin. Cicero lays a momentary stress on the fact that the thing happened, not on the fact that the jurors wititessed it.  The sense is, <gloss>you bear in mind the fact that I subdivided</gloss> ; not, <gloss>you heard me and can remember how I subdivided </gloss> : cf. &sect; <bibl n="Cic. S. Rosc. 77">77</bibl>.
@@ -2511,9 +2511,9 @@ such.</p>
 <pb n="56"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="123">
+<div type="section" n="123">
 <p> <lemma lang="la" targOrder="U">dixit initio</lemma>, &sect; <bibl n="Cic. S. Rosc. 83">83</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">possunt</lemma> : see &sect; <bibl n="Cic. S. Rosc. 9">9</bibl> l, note.
@@ -2525,9 +2525,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ingeniis coniecturaeque</lemma> : see &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>, note on <foreign lang="la">per sententias.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="124">
+<div type="section" n="124">
 <milestone n="XLIII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">nomen aureum Clirysogoni</lemma>, periphrasis for <foreign lang="la">ad Chrysogonum.</foreign> In <foreign lang="la">aureum</foreign> there is an allusion not only to the name (<gloss>gold-born</gloss>), but also to the wealth amassed by Chrysogonus through the proscriptions.
@@ -2543,9 +2543,9 @@ such.</p>
 <pb n="57"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="125">
+<div type="section" n="125">
 <p> <lemma lang="la" targOrder="U">qua ratione </lemma><gloss>on what principle</gloss> : cf. &sect;96.
 </p>
 <p> <lemma lang="la" targOrder="U">si . . . audientur</lemma>, etc. The meaning seems to be this:  Cicero is discussing the purchase merely as <emph>illegal</emph> because the late owner had not been proscribed, not as <emph>unjust</emph> because he was an inoffensive man ; and he says, If complaints of this latter kind (viz. <foreign lang="la">hominis innocentis bona veniisse</foreign>) shall ever (in happier times) be freely discussed and listened to, there will be more distinguished men than Sex. Roscius to complain about.
@@ -2555,9 +2555,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">non enim novi nec scio</lemma>.  <gloss>For I am not acquainted with it, and so do not know which it is </gloss> is Stock's translation.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="126">
+<div type="section" n="126">
 <p> <lemma lang="la" targOrder="U">In adversariorum praesidiis </lemma>= <gloss>within the enemy's lines, outposts</gloss>: see pro Lig. 27, Halm's note, and cf. pro Caec. 83, <foreign lang="la">in meis castris praesidusque versaris.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">si lege</lemma>, sc. <foreign lang="la">occisus est.</foreign>
@@ -2567,9 +2567,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">quo modo</lemma>, <gloss>in what way,</gloss> i.e. as the property of a proscribed person, or as that of an enemy, or on what other principle : <lemma lang="la" targOrder="U">qua lege</lemma>, <gloss>by what law,</gloss> since those just mentioned do not authorize it.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="127">
+<div type="section" n="127">
 <milestone n="XLIV" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">quem vis</lemma>, sc. <foreign lang="la">in quem vis</foreign>  Cicero often omits a monosyllabic preposition with the relative, when the same preposition is used just before in the demonstrative clause : cf. Tusc. 1.111, <foreign lang="la">esse cum aliquo sensu in iis malis, quibus vulgo opinantur</foreign>
@@ -2584,9 +2584,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">postea</lemma> : see &sect; <bibl n="Cic. S. Rosc. 132">132</bibl>, note on <foreign lang="la">Erucius.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="128">
+<div type="section" n="128">
 <p> <lemma lang="la" targOrder="U">Kalendas Iunias </lemma>; i.e. the 1st of June is named in the law as the <foreign lang="la">dies</foreign> (date), <foreign lang="la">ad quam diem . . . fiant.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">haec bona</lemma>, i.e. the proceeds of the sale (<foreign lang="la">sectio</foreign>) of this property; <lemma lang="la" targOrder="U">nulla redierunt</lemma>, <gloss>were not entered at all</gloss> : a combination of two constructions, <foreign lang="la">nulla bona ex hic redierunt</foreign>, and <foreign lang="la">haec bona non redierunt.</foreign> Cf. &sect; <bibl n="Cic. S. Rosc. 54">54</bibl>.
@@ -2605,9 +2605,9 @@ such.</p>
 <pb n="59"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="129">
+<div type="section" n="129">
 <p> <lemma lang="la" targOrder="U">sensu ac dolore</lemma>, <gloss>painful feeling </gloss> : cf. &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>,
 </p>
 <p> <lemma lang="la" targOrder="U">sententias iusque iurandum</lemma>, note.
@@ -2619,9 +2619,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">In extrema</lemma>, &sect;&sect; <bibl n="Cic. S. Rosc. 143">143</bibl> sqq.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="130">
+<div type="section" n="130">
 <milestone n="XLV" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">mea sponte </lemma>: cf. &sect; <bibl n="Cic. S. Rosc. 129">129</bibl>, <foreign lang="la">animi mei sensu ac dolore</foreign> ; &sect;&sect; <bibl n="Cic. S. Rosc. 143">143</bibl> sqq. <foreign lang="la">remoto</foreign>, i.e. without regarding him.
@@ -2635,9 +2635,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">partim invito</lemma>, Madvig's conjecture ; the MSS. give only one <foreign lang="la">partim</foreign>, which demands another before or after. With it we want a word in the sense of <foreign lang="la">invito</foreign> ; notice Prof. Clark's far superior suggestion <foreign lang="la">improbante</foreign>, <gloss>disapproving</gloss> ; the scribe would more easily confuse this with <foreign lang="la">imprudente</foreign> and omit it. And the assonance confirms it, as above in &sect; <bibl n="Cic. S. Rosc. 22">22</bibl>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="131">
+<div type="section" n="131">
 <p> <lemma lang="la" targOrder="U">placet</lemma>, <gloss>is it pleasing, is it as it should be?</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">pernicii</lemma> ; so spelt here by Cicero, according to Gellius and Nonius ; the grammarian Charisius read <foreign lang="la">pernicies</foreign> ; MSS. <foreign lang="la">pernicie</foreign>  All three forms of the genitive are found.
@@ -2649,9 +2649,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">nisi hoc . . .</lemma> <gloss>unless, forsooth, it is marvellous that the human mind has not attained to what divine power cannot compass</gloss>.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="132">
+<div type="section" n="132">
 <p> <lemma lang="la" targOrder="U">nomen deferendum </lemma>: see &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>, note.
 </p>
 <p> <lemma lang="la" targOrder="U">cuius honoris</lemma> : see &sect; <bibl n="Cic. S. Rosc. 98">98</bibl>, note.
@@ -2665,9 +2665,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">Sallentinis . . . Bruttiis</lemma>; the former were a people dwelling at the extremity of the <emph>heel </emph> of Italy ; the latter at the <emph>toe.</emph>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="133">
+<div type="section" n="133">
 <p><lemma lang="la" targOrder="U">alter</lemma>, Chrysogonus ; <foreign lang="la">tibi</foreign>, <gloss>ethic,</gloss> dative, expressing here Cicero's indignation ; cf. pro Sest. 89, <foreign lang="la">ecce tibi consul, rraetor, tribunus pl. nova novi generis edicta proponunt.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">de Palatio</lemma>, from the Palatine hill, on which many Roman nobles had mansions. From the time of Augustus the Palatine was the site of the imperial residence, whence the derivation of <gloss>palace</gloss> (<foreign lang="la">palatium</foreign>).
@@ -2691,9 +2691,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">marmoris </lemma>; i.e. not statues (<foreign lang="la">signorum</foreign>), but as used for the wainscotting of walls, and for inlaid floors.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="134">
+<div type="section" n="134">
 <p> <lemma lang="la" targOrder="U">familiam</lemma>, <gloss>establishment of slaves.</gloss>
 </p>
 <p> <lemma lang="la" targOrder="U">artificiis</lemma>, <gloss>qualifications.</gloss>
@@ -2703,9 +2703,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">officina nequitiae</lemma>, <gloss>a factory for the production of wickedness.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="135">
+<div type="section" n="135">
 <p> <lemma lang="la" targOrder="U">togatorum</lemma>, said bitterly for <foreign lang="la">civium</foreign>, citizens, who disgraced the <foreign lang="la">toga</foreign>, their robe of honour, by attending and enjoying the patronage of a freedman.
 </p>
 <p> <lemma lang="la" targOrder="U">ut . . . ut . . . ut</lemma>, <gloss>how.</gloss>
@@ -2720,9 +2720,9 @@ such.</p>
 <pb n="62"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="136">
+<div type="section" n="136">
 <milestone n="XLVII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">ut componeretur</lemma>, impersonal : in substantival, <gloss>namely that an agreement should be made.</gloss>
@@ -2734,9 +2734,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">perditi civis erat</lemma>, <gloss>it would have been . . .</gloss> : cf. &sect; <bibl n="Cic. S. Rosc. 53">53</bibl>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="137">
+<div type="section" n="137">
 <p> <lemma lang="la" targOrder="U">contra</lemma>, adverbial ; against Sulla.
 </p>
 <p> <lemma lang="la" targOrder="U">viris fortibus</lemma>, Sulla's soldiers and supporters.
@@ -2755,9 +2755,9 @@ such.</p>
 <pb n="63"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="138">
+<div type="section" n="138">
 <milestone n="XLVIII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">haec</lemma>, the present regime.
@@ -2773,9 +2773,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">Indicassem</lemma>, in the capacity of a juror.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="139">
+<div type="section" n="139">
 <p> <lemma lang="la" targOrder="U">magistratus creavit</lemma>.  In 82 B.c. Sulla was appointed dictator on the motion of the interrex L. Valerius Flaccus ; but he caused consuls to be chosen for the next year, in order to carry out his changes under constitutional forms.
 </p>
 <p> <lemma lang="la" targOrder="U">leges</lemma> ; referring partly to the constitution and the administration, partly to judicial matters, <foreign lang="la">leges iudiciariae</foreign> : see Mommsen, Rom. Hist. 3. p.349.
@@ -2795,9 +2795,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">necesse est</lemma> : a true prophecy. Ten years later, B.C. 70, the senators lost their exclusive judicial privileges.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="140">
+<div type="section" n="140">
 <p> <lemma lang="la" targOrder="U">male</lemma>, <gloss>disloyally.</gloss>
 
 
@@ -2817,9 +2817,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">ad ius jurandum</lemma>: see &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>, note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="141">
+<div type="section" n="141">
 <p> <lemma lang="la" targOrder="U">hoc</lemma>=<foreign lang="la">hoc re</foreign>, <foreign lang="la">propterea</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">quod verear</lemma>, subjunctive as being the unreal reason.
@@ -2835,9 +2835,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">rem publicam </lemma>; i.e. here the government.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="142">
+<div type="section" n="142">
 <p> <lemma lang="la" targOrder="U">hoc</lemma>, se <foreign lang="la">victoriam nobilium.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">inermis</lemma> ; i.e., without myself joining in the combat.
@@ -2851,9 +2851,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">laeditur . . . separatur</lemma>, <gloss>is injured in that he is shut out from this glorious cause</gloss>: i.e. invectives which, as Cicero's, deny any connection between Chrysogonus and the party of the nobles, deny it equally of any man who is the <foreign lang="la">fautor</foreign> of Chrysogonus.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="143">
+<div type="section" n="143">
 <p><lemma lang="la" targOrder="U">haec omnis oratio</lemma>, <gloss>all this part of my speech</gloss>, from &sect; <bibl n="Cic. S. Rosc. 129">129</bibl> onwards : cf. <foreign lang="la">extrema oratio</foreign>, &sect; <bibl n="Cic. S. Rosc. 129">129</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">mea est</lemma> ; i.e. the accused at least shall not suffer any evil consequences from Cicero's boldness.
@@ -2863,9 +2863,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">more, lege, iure gentium</lemma> <gloss>in accordance with custom, law, and the principles of justice that all nations recognise.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="144">
+<div type="section" n="144">
 <p> <lemma lang="la" targOrder="U">si nihil</lemma>, etc. ; see &sect; <bibl n="Cic. S. Rosc. 82">82</bibl>, <foreign lang="la">de peculatu</foreign>, note.
 </p>
 <p> <lemma lang="la" targOrder="U">optima fide sua</lemma>, <gloss>to the best of his belief.</gloss>
@@ -2876,9 +2876,9 @@ such.</p>
 <pb n="66"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="145">
+<div type="section" n="145">
 <milestone n="L" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">hominem</lemma>, not <gloss>a man,</gloss> but = Sex. Roscius, who has just been represented as speaking : here Cicero speaks again in his own person.
@@ -2890,9 +2890,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">tu metuere non debeas</lemma>, because, even if Sulla should become more conciliatory to his former enemies, he would surely not wrest from <emph>you</emph> the possessions you have won : <foreign lang="la">ne</foreign>, <gloss>namely that,</gloss> as &sect; <bibl n="Cic. S. Rosc. 136">136</bibl>, <foreign lang="la">ut componeretur.</foreign>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="146">
+<div type="section" n="146">
 <p> <lemma lang="la" targOrder="U">facis iniuriam </lemma>; in the same sense as <foreign lang="la">facis iniuste, si putas</foreign>, pro Flacco, 41.
 </p>
 <p> <lemma lang="la" targOrder="U">spem emptionis</lemma>, shortly for <gloss>hope that your purchase will hold good.</gloss>
@@ -2906,9 +2906,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">cruenta spolia </lemma>:  i.e. <foreign lang="greek">αἱματόεντα τὰ σκεύη</foreign>, not <foreign lang="greek">τὰ αἱματόεντα σκεύη</foreign> : <gloss>carry off the spoils when blood-stained.</gloss>
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="147">
+<div type="section" n="147">
 <p> <lemma lang="la" targOrder="U">nihil audere</lemma>, sc. with a view to recover his property.
 </p>
 <p> <lemma lang="la" targOrder="U">contra rem tuam</lemma> : <gloss>against your interests </gloss> ; cf. Phil. 2.3, <foreign lang="la">contra rem suam me venisse questus est.</foreign>
@@ -2924,9 +2924,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">quanto honore</lemma> should have been followed by <foreign lang="la">tanta ornamenta</foreign> or <foreign lang="la">tantum</foreign> (<foreign lang="la">honorem</foreign>). Cicero chose <foreign lang="la">non minora</foreign> in order to speak in a more moderate tone of the woman than of her male relations.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="148">
+<div type="section" n="148">
 <milestone n="LI" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">hospitiis </lemma>: see &sect; <bibl n="Cic. S. Rosc. 15">15</bibl>.
@@ -2944,9 +2944,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">nunc</lemma>: see &sect; <bibl n="Cic. S. Rosc. 115">115</bibl>,note.
 
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="149">
+<div type="section" n="149">
 <p> <lemma lang="la" targOrder="U">rationem</lemma>, <gloss>the department, the matter of</gloss> : cf. de Off. 1.76, <foreign lang="la">haec quidem res non solum ex domestica est ratione attingit etiam bellicam.</foreign>
 </p>
 <p> <lemma lang="la" targOrder="U">M. Messalla</lemma> : <ref n="7" targOrder="U">Introd. &sect; 7</ref>.
@@ -2967,9 +2967,9 @@ such.</p>
 <pb n="69"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="151">
+<div type="section" n="151">
 <milestone n="LII" unit="chapter"/>
 
 <p> <lemma lang="la" targOrder="U">sectores ac sicarii </lemma>: a play on the original sense of <foreign lang="la">sectores</foreign> ; cf. &sect; <bibl n="Cic. S. Rosc. 80">80</bibl>, <foreign lang="la">sectores bonorum et collorum.</foreign>
@@ -2984,9 +2984,9 @@ such.</p>
 <pb n="70"/>
  
 </p>
-</div2>
+</div>
 
-<div2 type="section" n="152">
+<div type="section" n="152">
 <p> <lemma lang="la" targOrder="U">tollantur</lemma>, from fear that they might in consequence of a political reaction be restored to their rights and property : see <ref n="n.,36" targOrder="U">Introd. note 36</ref>.
 </p>
 <p> <lemma lang="la" targOrder="U">in</lemma>, <gloss>in the case of, in the opportunity offered by</gloss> ; <lemma lang="la" targOrder="U">vestro iure iurando</lemma> =<foreign lang="la">vestris sententiis</foreign>, see &sect; <bibl n="Cic. S. Rosc. 8">8</bibl>.
@@ -2994,9 +2994,9 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">dubiumne est</lemma>, etc. : this recapitulation of a former argument seems suggested here by the words <foreign lang="la">in vestro iure iurando</foreign> ; <gloss>and if you are true to that oath, how you will decide the case cannot be doubtful, <foreign lang="la">cum videatis,</foreign></gloss> etc.
 </p>
 <p> <lemma lang="la" targOrder="U">hic</lemma>, <gloss>at the present juncture.</gloss></p>
-</div2>
+</div>
 
-<div2 type="section" n="153">
+<div type="section" n="153">
 <p> <lemma lang="la" targOrder="U">Quodsi </lemma>: here Cicero returns to the subject of the <foreign lang="la">proscriptorum liberi</foreign>, &sect; <bibl n="Cic. S. Rosc. 152">152</bibl> sub init.
 </p>
 <p> <lemma lang="la" targOrder="U">potuerunt</lemma> : <foreign lang="la">voluerunt</foreign> has been suggested ; but by <foreign lang="la">potuerunt</foreign> Cicero means to imply with rhetorical exaggeration that the sons of the proscribed were <emph>not</emph> able to bear arms, i.e. were all <foreign lang="la">impuberes et inermes</foreign>, deserving pity. So <foreign lang="la">infantium puerorum</foreign> below.
@@ -3006,11 +3006,11 @@ such.</p>
 <p> <lemma lang="la" targOrder="U">more maiorum</lemma> : cf. pro Sest. 65, <foreign lang="la">cur, cum de capite civis et de bonis proscriptio ferretur, cum et sacratis legibus et XII tabulis sanctum esset, ut ne cui privilegium inrogari liceret neve de capite nisi comitiis centuriatis rogari, nulla vox est audita consulum</foreign>, etc. See the speech of Caesar in Sall. Cat. 51, &sect;&sect; <bibl n="Cic. S. Rosc. 22">22</bibl> and <bibl n="Cic. S. Rosc. 40">40</bibl>.
 </p>
 <p> <lemma lang="la" targOrder="U">videte . . . putetis</lemma>, a common form : cf. de Imp. Pomp. &sect;&sect; <bibl n="Cic. S. Rosc. 26">26</bibl>, <bibl n="Cic. S. Rosc. 27">27</bibl>, <bibl n="Cic. S. Rosc. 38">38</bibl>, <bibl n="Cic. S. Rosc. 46">46</bibl> ; and ib. &sect; 11, Halm's note. <foreign lang="la">Videte quem in locum respublica ventura sit</foreign> would mean, <gloss>consider to what condition the State <emph>will</emph> come </gloss> ; but <foreign lang="la">putetis</foreign> gives the last verb the force of the Greek optative with <foreign lang="greek">ἄν</foreign>, <gloss>to what condition the State <emph>may</emph> (in your opinion) come.</gloss></p>
-</div2>
+</div>
 
-<div2 type="section" n="154">
+<div type="section" n="154">
 <p> <lemma lang="la" targOrder="U">domestica</lemma> = <foreign lang="la">in cives</foreign>
 </p>
 <p> Some editors have conjectured that the conclusion of the speech is lost. It would be difficult to say what Cicero could have added ; he concludes very suitably with the wish that the acquittal of Sex. Roscius might show the time of bloodshed to have passed away without extinguishing all the feelings of humanity in the hearts of men.</p>
-</div2>
-</div1></body></text></TEI.2>
+</div>
+</div></body></text></TEI.2>

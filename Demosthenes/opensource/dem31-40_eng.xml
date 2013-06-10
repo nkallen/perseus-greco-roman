@@ -45,7 +45,7 @@
 
     <text>
         <body>
-            <div1 n="31" type="speech">
+            <div n="31" type="speech">
                 <head>Against Onetor 2</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>There is one
@@ -161,9 +161,9 @@
                     have recovered nothing whatever, though ready to meet any of your<note resp="Loeb" anchored="yes">The pronoun is in the plural and refers to Onetor
                         and Aphobus.</note> proposals, had you been willing to do anything that
                     justice required?</p>
-            </div1>
+            </div>
 
-            <div1 n="32" type="speech">
+            <div n="32" type="speech">
                 <head>Against Zenothemis</head>
                 <p>
                     <milestone n="Intro" unit="part"/><milestone n="1" unit="section"/><milestone ed="P" unit="para"/>Men of the jury, having entered a plea that the action
@@ -404,9 +404,9 @@
                     single private case, but . . .<note resp="Loeb" anchored="yes">The speech is
                         mutilated at the end, and the concluding words yield no satisfactory
                         sense.</note><milestone n="Concl" unit="part"/></p>
-            </div1>
+            </div>
 
-            <div1 n="33" type="speech">
+            <div n="33" type="speech">
                 <head>Against Apaturius</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>The law, men of
@@ -723,9 +723,9 @@
                     the agreement, against whom he ought to feel resentment, if it were not that
                     they are leagued together in their evil scheming?<milestone ed="P" unit="para"/>I have made a just plea to the best of my ability. Do you now give a just
                     decision in accordance with the laws.</p>
-            </div1>
+            </div>
 
-            <div1 n="34" type="speech">
+            <div n="34" type="speech">
                 <head>Against Phormio</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>The request that
@@ -1211,9 +1211,9 @@
                     be defrauded by monsters such as these.<milestone ed="P" unit="para"/>I have
                     said all that it was in my power to say. But I am ready to call another of my
                     friends, if you so bid.</p>
-            </div1>
+            </div>
 
-            <div1 n="35" type="speech">
+            <div n="35" type="speech">
                 <head>Against Lacritus</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>The
@@ -1699,9 +1699,9 @@
                     If you do this, you will be found to have decided in accordance with your own
                     interests, and will rid yourselves of all the rascalities of unprincipled men,
                     which certain ones of them are employing in regard to maritime contracts.</p>
-            </div1>
+            </div>
 
-            <div1 n="36" type="speech">
+            <div n="36" type="speech">
                 <head>For Phormio</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>Phormio's
@@ -2298,9 +2298,9 @@
                         left in the water-clock. This he effectively bids the attendant to pour out.
                             <bibl n="Dem. 38">Dem. 38</bibl> closes with these same words. In <bibl n="Dem. 54">Dem. 54</bibl>, while depositions are being read, the
                         attendant is bidden to check the flow of the water.</note></p>
-            </div1>
+            </div>
 
-            <div1 n="37" type="speech">
+            <div n="37" type="speech">
                 <head>Against Pantaenetus</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>Inasmuch as the
@@ -2833,9 +2833,9 @@
                     that I should fail to obtain justice in your court, but that you should now in
                     our day do away with a just practice, established from the beginning of
                     time.</p>
-            </div1>
+            </div>
 
-            <div1 n="38" type="speech">
+            <div n="38" type="speech">
                 <head>Against Nausimachus and Xenopeithes</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>Inasmuch as the
@@ -3085,9 +3085,9 @@
                         paragraph which occurs also at the end of <bibl n="Dem. 36">Dem.
                         36</bibl>.</note>; for I believe that nothing that I have said has escaped
                     you. Pour out the water.</p>
-            </div1>
+            </div>
 
-            <div1 n="39" type="speech">
+            <div n="39" type="speech">
                 <head>Against Boeotus 1</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>It was not from
@@ -3484,9 +3484,9 @@
                     made, my request of you, men of Athens, is reasonable, and my claims just; while
                     my opponent asks what is not only unreasonable, but contrary to established
                     usage.</p>
-            </div1>
+            </div>
 
-            <div1 n="40" type="speech">
+            <div n="40" type="speech">
                 <head>Against Boeotus 2</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone ed="P" unit="para"/>Nothing is more
@@ -3990,7 +3990,7 @@
                     addition to all the rest that they have done, should, in utter defiance of
                     justice, rob me also of my house, which was set apart to secure the payment of
                     the marriage-portion.</p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

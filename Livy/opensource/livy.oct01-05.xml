@@ -135,7 +135,7 @@ Added to repository. Passed SGML parse.
 
 <text lang="la" n="Liv.">
 <body>
-<div1 type="book" n="1">
+<div type="book" n="1">
 <milestone unit="chapter" n="pr"/>
 
 <milestone unit="section" n="1"/><pb id="p.1001"/><p>facturusne operae pretium sim si a primordio urbis res populi Romani perscripserim nec satis scio nec, si sciam, dicere ausim,
@@ -1274,7 +1274,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="2"/>Tarquinio clausae portae exsiliumque indictum: liberatorem urbis laeta castra accepere, exactique inde liberi regis. duo patrem secuti sunt qui exsulatum Caere in Etruscos ierunt. <persName n="3"><foreName>Sex.</foreName> <surname>Tarquinius</surname></persName> Gabios tamquam in suum regnum profectus ab ultoribus ueterum simultatium, quas sibi ipse caedibus rapinisque concierat, est interfectus.
 
-<milestone unit="section" n="3"/><pb id="p.1090" n="quadraginta q"/><persName n="3"><foreName>L.</foreName> <surname>Tarquinius</surname> <addName>Superbus</addName></persName> regnauit annos quinque et uiginti. regnatum Romae ab condita urbe ad liberatam annos ducentos quadraginta quattuor. duo consules inde comitiis centuriatis a praefecto urbis ex commentariis <persName n="2"><foreName>Ser.</foreName> <surname>Tulli</surname></persName> creati sunt, <persName n="3"><foreName>L.</foreName> <surname>Iunius</surname> <addName>Brutus</addName></persName> et <persName n="3"><foreName>L.</foreName> <surname>Tarquinius</surname> <addName>Collatinus</addName></persName>.</p> </div1><div1 type="book" n="2">
+<milestone unit="section" n="3"/><pb id="p.1090" n="quadraginta q"/><persName n="3"><foreName>L.</foreName> <surname>Tarquinius</surname> <addName>Superbus</addName></persName> regnauit annos quinque et uiginti. regnatum Romae ab condita urbe ad liberatam annos ducentos quadraginta quattuor. duo consules inde comitiis centuriatis a praefecto urbis ex commentariis <persName n="2"><foreName>Ser.</foreName> <surname>Tulli</surname></persName> creati sunt, <persName n="3"><foreName>L.</foreName> <surname>Iunius</surname> <addName>Brutus</addName></persName> et <persName n="3"><foreName>L.</foreName> <surname>Tarquinius</surname> <addName>Collatinus</addName></persName>.</p> </div><div type="book" n="2">
 
 <milestone unit="chapter" n="1"/>
 
@@ -2576,7 +2576,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="6"/>iam prope erat ut in summum cliui iugum euaderent cum terga hostes dedere, effusoque cursu paene agmine uno fugientes sequentesque castris incidere. in eo pauore castra capiuntur: qui Uolscorum effugere potuerunt, Antium petunt.
 
-<milestone unit="section" n="7"/>Antium et Romanus exercitus ductus. paucos circumsessum dies deditur, nulla oppugnantium noua ui, sed quod iam inde ab infelici pugna castrisque amissis ceciderant animi.</p> </div1><div1 type="book" n="3">
+<milestone unit="section" n="7"/>Antium et Romanus exercitus ductus. paucos circumsessum dies deditur, nulla oppugnantium noua ui, sed quod iam inde ab infelici pugna castrisque amissis ceciderant animi.</p> </div><div type="book" n="3">
 
 <milestone unit="chapter" n="1"/>
 
@@ -4062,7 +4062,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="6"/>haec consules, haec patres uociferantur; sed plus cupiditas et auctor cupiditatis [Scaptius] ualet. uocatae tribus iudicauerunt agrum publicum populi Romani esse.
 
-<milestone unit="section" n="7"/>nec abnuitur ita fuisse, si ad iudices alios itum foret; nunc haud sane quicquam bono causae leuatur dedecus iudicii; idque non Aricinis Ardeatibusque quam patribus Romanis foedius atque acerbius uisum. reliquum anni quietum ab urbanis motibus et ab externis mansit.</p> </div1><div1 type="book" n="4">
+<milestone unit="section" n="7"/>nec abnuitur ita fuisse, si ad iudices alios itum foret; nunc haud sane quicquam bono causae leuatur dedecus iudicii; idque non Aricinis Ardeatibusque quam patribus Romanis foedius atque acerbius uisum. reliquum anni quietum ab urbanis motibus et ab externis mansit.</p> </div><div type="book" n="4">
 
 <milestone unit="chapter" n="1"/>
 
@@ -5324,7 +5324,7 @@ Added to repository. Passed SGML parse.
 
 <milestone unit="section" n="10"/>proditori praeter libertatem duarum familiarum bona in praemium data; Seruius Romanus uocitatus. sunt qui Artenam Ueientium, non Uolscorum fuisse credant.
 
-<milestone unit="section" n="11"/>praebet errorem quod eiusdem nominis urbs inter Caere atque Ueios fuit; sed eam reges Romani deleuere, Caeretumque, non Ueientium fuerat; altera haec nomine eodem in Uolsco agro fuit, cuius excidium est dictum.</p> </div1><div1 type="book" n="5">
+<milestone unit="section" n="11"/>praebet errorem quod eiusdem nominis urbs inter Caere atque Ueios fuit; sed eam reges Romani deleuere, Caeretumque, non Ueientium fuerat; altera haec nomine eodem in Uolsco agro fuit, cuius excidium est dictum.</p> </div><div type="book" n="5">
 
 <milestone unit="chapter" n="1"/>
 
@@ -6501,5 +6501,5 @@ Added to repository. Passed SGML parse.
 <milestone unit="section" n="5"/>ea est causa ut ueteres cloacae,
 primo per publicum ductae, nunc priuata passim subeant
 tecta, formaque urbis sit occupatae magis quam diuisae
-similis.</p></div1>
+similis.</p></div>
 </body></text></TEI.2>

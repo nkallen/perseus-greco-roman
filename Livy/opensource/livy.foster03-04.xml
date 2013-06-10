@@ -55,8 +55,8 @@
 		<pb id="p.v"/>
 		<pb/>
 		<pb id="p.vii"/>
-		<div1 type="book" n="front">
-			<div2 type="chapter"><head>Translator's Preface</head>
+		<div type="book" n="front">
+			<div type="chapter"><head>Translator's Preface</head>
 				<p>THE Latin text of Vols. II. to IV. (comprising
 					Books III.-X.) has been set up, like that of Vol. I.,
 					from the latest revisions of the Weissenborn-Mueller
@@ -103,8 +103,8 @@
 					furnished me.</p>
 				<p><hi rend="italics">August,</hi> 1939.</p>
 				<pb id="p.ix"/>
-			</div2>
-			<div2 type="chapter"><head>The Manuscripts</head>
+			</div>
+			<div type="chapter"><head>The Manuscripts</head>
 				<p><hi rend="italics">V</hi> = Veronensis, 4th century.</p>
 				<p><hi rend="italics">F</hi>= Floriacensis, 9th century.</p>
 				<p><hi rend="italics">P</hi> = Parisiensis, 10th century.</p>
@@ -125,8 +125,8 @@
 				<p><foreign lang="greek">W</foreign> = such of the above MSS. as contain the passage in question and are not otherwise reported.</p>
 				<p><foreign lang="greek">ς</foreign> = one or more of the late MSS. or early printed texts.</p>
 				<pb id="p.x"/>
-			</div2>
-			<div2 type="chapter"><head>Abbreviations</head>
+			</div>
+			<div type="chapter"><head>Abbreviations</head>
 				<p>Ald. (or ed. Ald) = the Aldine edition, Venice, 1518.</p>
 				<p>Cassiod. = Cassiodorius.</p>
 				<p><hi rend="italics">Class. Quart.</hi> = <hi rend="italics">The Classical Quarterly,</hi> London, 1907 ff.</p>
@@ -134,9 +134,9 @@
 				<p>Diod. = Diodorus Siculus.</p>
 				<p>Dion. Hal. = Dionysius of Halicarnassus.</p>
 				<pb id="p.2"/>
-			</div2>
-		</div1>
-		<div1 type="book" n="3"> <head>Book III</head>
+			</div>
+		</div>
+		<div type="book" n="3"> <head>Book III</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>AFTER the capture of Antium, Titus Aemilius and<note type="margin">B.C. 467</note> Quintus Fabius were elected consuls. This was that 467 Fabius who had been the sole survivor of his family destroyed at the Cremera.<note>See 2.1. 11.</note>
 				<milestone unit="section" n="2"/> In his former consulship Aemilius had already supported the assignment of land to the plebs. Consequently, when he entered a second time upon the office, not only had the agrarians begun to have hopes of a law, but the tribunes, who had often tried to carry the measure against the opposition of the consuls, now took it up in the belief that with the co-operation of a consul it could certainly be made good; and the consul continued of the same mind.
@@ -1021,8 +1021,8 @@
 				<milestone unit="section" n="4"/> What grief it would cause the former, and what joy the latter! Did they suppose that Scaptius, a meddling old hanger-on of assemblies, would be held responsible for this by the neighbouring nations? It would be a famous thing for Scaptius to have inscribed beneath his portrait, but the Roman People would be playing a role of chicanery and of usurpation of the claims of others.
 				<milestone unit="section" n="5"/> For what umpire in a private suit would have thought of awarding to himself the object of litigation? Even Scaptius, though he had already outlived all sense of shame, would not do that.
 				<milestone unit="section" n="6"/> These arguments were loudly urged both by the consuls and by the Fathers; but they were less convincing than men's cupidity, or than Scaptius, who had aroused it. The tribes, being called upon to vote, decided the territory to be public land belonging to the Roman People.
-				<milestone unit="section" n="7"/> Nor is it denied that such would have been the verdict if recourse had been had to another court; but in the circumstances the excellence of the cause did not in the slightest degree extenuate the disgrace of the judgment, <pb id="p.249"/>which seemed no less scandalous and harsh to the<note type="margin">B.C. 446</note> Roman senators than to the men of Aricia and Ardea. The remainder of the year passed without disturbances in either domestic or foreign relations.</p> <pb id="p.251"/></div1> 
-		<div1 type="book" n="3s"><head>Summary of book III</head>
+				<milestone unit="section" n="7"/> Nor is it denied that such would have been the verdict if recourse had been had to another court; but in the circumstances the excellence of the cause did not in the slightest degree extenuate the disgrace of the judgment, <pb id="p.249"/>which seemed no less scandalous and harsh to the<note type="margin">B.C. 446</note> Roman senators than to the men of Aricia and Ardea. The remainder of the year passed without disturbances in either domestic or foreign relations.</p> <pb id="p.251"/></div> 
+		<div type="book" n="3s"><head>Summary of book III</head>
 			<p>THERE were quarrels about land-laws. The Capitol
 				was seized by exiles and slaves; who were slain and
 				the Capitol recovered. The census was taken twice. By
@@ -1064,8 +1064,8 @@
 				territory in dispute.</p>
 			<pb/>
 			<pb id="p.257"/>
-		</div1>
-		<div1 type="book" n="4"><head>Book IV</head>
+		</div>
+		<div type="book" n="4"><head>Book IV</head>
 			<p><milestone unit="chapter" n="1"/>
 				<milestone unit="section" n="1"/>MARCUS GENUClUS and Gaius Curtius succeeded<note type="margin">B.C. 445</note> these men as consuls. It was a year of quarrels both at home and abroad. For at its commencement Gaius Canuleius, a tribune of the plebs, proposed a bill regarding the intermarriage of patricians and plebeians which the patricians looked upon as involving the debasement of their blood and the subversion of the principles inhering in the <hi rend="italics">gentes,</hi> or families;
 				<milestone unit="section" n="2"/> and a suggestion, cautiously put forward at first by the tribunes, that it should be lawful for one of the consuls to be chosen from the plebs, was afterwards carried so far that nine tribunes proposed a bill giving the people power to choose consuls as they might see fit, from either the plebs or the patriciate.
@@ -1819,8 +1819,8 @@
 				<milestone unit="section" n="8"/> This man admitted some soldiers by way of a steep approach, and they captured it and slew the sentries; whereupon the rest of the garrison was seized with a sudden panic and surrendered.
 				<milestone unit="section" n="9"/> After demolishing the citadel and the town of Artena, the legions were withdrawn from the Volsci and all the might of Rome was brought to bear upon Veii.
 				<milestone unit="section" n="10"/> The traitor was given the property of two families as a reward, besides his liberty, and was named Servius Romanus.<note>Later it was the custom to give a slave thus manumitted by the state the name of the officiating magistrate.</note> There are those who think that Artena had belonged to the Veientes, not to the Volsci.
-				<milestone unit="section" n="11"/> Their mistake is due to the fact that there was a city of the same name between Caere and Veii; but this place was destroyed by the Roman kings,<note>Livy does not mention the incident in Book I.</note> and it had been a dependency of Caere, not of Veii; the other town of the same name, whose overthrow I have just related, was in Volscian territory.</p> <pb id="p.459"/></div1> 
-		<div1 type="book" n="4s"><head>Summary of book IV</head>
+				<milestone unit="section" n="11"/> Their mistake is due to the fact that there was a city of the same name between Caere and Veii; but this place was destroyed by the Roman kings,<note>Livy does not mention the incident in Book I.</note> and it had been a dependency of Caere, not of Veii; the other town of the same name, whose overthrow I have just related, was in Volscian territory.</p> <pb id="p.459"/></div> 
+		<div type="book" n="4s"><head>Summary of book IV</head>
 			<p>A LAW about the marriage of patricians and plebeians
 				was carried by the tribunes, after a violent struggle,
 				against the opposition of the patricians. The tribunes
@@ -1851,8 +1851,8 @@
 				contains also campaigns waged against the Volsci and the
 				Fidenates and the Faliscans.</p>
 			<pb id="p.461"/>
-		</div1>
-		<div1 type="book" n="index"><div2 type="chapter"><head>Index of names</head>
+		</div>
+		<div type="book" n="index"><div type="chapter"><head>Index of names</head>
 			<head>(<hi rend="italics">The References are to Pages.</hi>)</head>
 			<p>AEBUTIUS, L., 20, 22; Postumus Aebutius Cornicen, 294; M.</p>
 			<p>Aebutius Helva, 294; Postumus Aebutius Helva, 326</p>
@@ -2062,7 +2062,7 @@
 			<p>Voltumna, 330, 336, 454</p>
 			<p>Volturnum, 376</p>
 			<p>Volumnius, P., 34, 62, 86</p>
-		</div2></div1>
+		</div></div>
 	</body>
 	</text>
 </TEI.2>

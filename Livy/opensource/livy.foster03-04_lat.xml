@@ -53,7 +53,7 @@
 	
 	<text>
 		<body>
-			<div1 type="book" n="3"><head>Liber III</head>
+			<div type="book" n="3"><head>Liber III</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> ANTIO capto T. Aemilius et Q. Fabius consules<note type="margin">A.U.C. 287</note> fiunt. <reg>hic</reg> erat Fabius<note>Fabius <foreign lang="greek">ς·</foreign> Fabius Quinctius <foreign lang="greek">W.</foreign></note> qui unus exstinctae ad Cremeram genti superfuerat. <reg>iam</reg> priore consulatu Aemilius dandi agri plebi fuerat auctor;<milestone unit="section" n="2"/> itaque
 					secundo quoque consulatu eius et agrarii se in spem
 					legis erexerant, et tribuni, rem contra consules saepe
@@ -1906,8 +1906,8 @@
 					alios itum foret; nunc <corr sic="baud">haud</corr> sane quicquam bono
 					<pb id="p.248"/>
 					causae levatur dedecus iudicii; idque non Aricinis<note type="margin">A.U.C. 308</note> Ardeatibusque quam patribus Romanis foedius atque acerbius visum. <reg>reliquum</reg> anni quietum ab urbanis motibus et ab externis mansit.</p>  <pb id="p.250"/>
-			</div1>
-			<div1 type="book" n="3s"><head>Libri III Periocha</head>
+			</div>
+			<div type="book" n="3s"><head>Libri III Periocha</head>
 				<p>SEDITIONES de agrariis legibus fuere. <name>Capitolium</name> ab
 					exulibus et servis occupatum caesis his receptum est.
 					<reg>census</reg> bis actus est. <reg>priore</reg> lustro censa sunt civium
@@ -1935,8 +1935,8 @@
 					agrum de quo ambigebatur sibi adiudicavit.</p>
 				<pb/>
 				<pb id="p.256"/>
-			</div1>
-			<div1 type="book" n="4"><head>Liber IV</head>
+			</div>
+			<div type="book" n="4"><head>Liber IV</head>
 				<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/> <reg>hos</reg> secuti M. Genucius et C. Curtius<note>C. Curtius <hi rend="italics"><name>Sigonius</name></hi> (<hi rend="italics">cf. C.I.L.</hi> i2 <hi rend="italics">p.</hi> 108; <hi rend="italics"><name>Diod</name>.</hi> XII. xxxi. 1&mdash;<hi rend="italics">who however gives the pr&oelig;nomen as</hi> <foreign lang="greek">̓́Aγριππαν;</foreign>&mdash; Varro, <hi rend="italics">L.L. v.</hi> 150): p. curatius <foreign lang="greek">W</foreign>.</note> consules.<note type="margin">A.U.C. 309</note> <reg>fuit</reg> annus domi forisque infestus. <reg>nam</reg><note>Nam <hi rend="italics"><name>Conway</name> and Walters:</hi> nam anni (ani <hi rend="italics">B,</hi> animi <hi rend="italics">PU</hi>) <foreign lang="greek">W</foreign>: anni nam <hi rend="italics">M.</hi></note> principio et de conubio patrum et plebis C. Canuleius tribunus plebis rogationem promulgavit,<milestone unit="section" n="2?"/> qua contaminari
 					sanguinem suum patres confandique iura gentium
 					rebantur, et mentio primo sensim inlata a tribunis,
@@ -3527,8 +3527,8 @@
 					nomine eodem in Volsco agro fuit, cuius excidium
 					est dictum.</p>
 				<pb id="p.458"/>
-			</div1>
-			<div1 type="book" n="4s"><head>Libri IV Periocha</head>
+			</div>
+			<div type="book" n="4s"><head>Libri IV Periocha</head>
 				<p>LEX de conubio patrum et plebis a tribunis contentione magna patrihus repugnantibus perlata est. <reg>tribuni</reg>
 					* * plebis. <reg>aliquot</reg> annos res populi R. domi militiaeque per hoc genus magistratus administratae sunt.
 					<reg>item</reg> censores tune primum creati sunt. <reg>ager</reg> Ardeatibus<note>Ardeatibus <hi rend="italics"><reg>delrius</reg>:</hi> ardeatinus (<hi rend="italics">or</hi> ardeatinis) <hi rend="italics">MSS.</hi></note> populi iudicio ablatus missis in eum colonis restitutus est.
@@ -3541,8 +3541,8 @@
 						Aemilio <hi rend="italics"><reg>drakenborch</reg>:</hi> m. aemilio (<hi rend="italics">or simply</hi> emilio)</note> dictatore victi sunt et Fidenae captae. <reg>coniuratio</reg> servorum oppressa est. <name>Postumius</name> tribunus militum propter crudelitatem ab exercitu occisus est. <reg>stipendium</reg> 
 					ex aerario tum primum militibus datum est. <reg>res</reg> praeterea gestas adversus Vulscos et Fidenates et Faliscos<note>Faliscos <hi rend="italics">edd.:</hi> labs cos (<hi rend="italics">or</hi> labascos <hi rend="italics">or</hi> babscos) <hi rend="italics">MSS.</hi></note> continet.</p>  
 				<pb id="p.3"/>  
-			</div1>
-			<div1 type="book" n="index"><div2 type="chapter"><head>Index of names</head>
+			</div>
+			<div type="book" n="index"><div type="chapter"><head>Index of names</head>
 				<head>(<hi rend="italics">The References are to Pages.</hi>)</head>
 				<p>AEBUTIUS, L., 20, 22; Postumus Aebutius Cornicen, 294; M.</p>
 				<p>Aebutius Helva, 294; Postumus Aebutius Helva, 326</p>
@@ -3752,8 +3752,8 @@
 				<p>Voltumna, 330, 336, 454</p>
 				<p>Volturnum, 376</p>
 				<p>Volumnius, P., 34, 62, 86</p>
-			</div2>
-			</div1>
+			</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

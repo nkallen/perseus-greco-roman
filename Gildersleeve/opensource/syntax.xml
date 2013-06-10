@@ -64,10 +64,10 @@
 	<text lang="en">
 		<body>
 			
-			<div0 type="part" n="1">
-				<div1 type="section" n="1">
+			<div type="part" n="1">
+				<div type="section" n="1">
 					<head>Preface to part I</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<milestone unit="smythp" n="pref1"/>
 						<p>In compliance with the wishes of many of my former pupils, I have
 							determined to publish my Greek Syntax in parts. The framework was
@@ -116,12 +116,12 @@
 						<signed>BASIL L. GILDERSLEEVE, <placeName>THE JOHNS HOPKINS UNIVERSITY,
 							BALTIMORE.</placeName></signed>
 						
-					</div2>
-				</div1>
+					</div>
+				</div>
 				
-				<div1 type="section" n="2">
+				<div type="section" n="2">
 					<head>GREEK SYNTAX</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<milestone unit="smythp" id="s1" n="1"/>
 						<p><term>Syntax</term> treats of the formation and combination of
 							sentences.</p>
@@ -142,18 +142,18 @@
 							the sentence occur but once, as above, <quote lang="greek">a)/nqrwpos manqa/nei</quote>.</p>
 						<p>For the <term>compound</term> sentence, see Index. </p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="3">
+					</div>
+				</div>
+				<div type="section" n="3">
 					<head>Syntax of the simple sentence</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<milestone unit="smythp" id="s2" n="2"/>
 						<p>The most simple form of the sentence is the finite verb: <quote lang="greek">ei)-mi/</quote>, <gloss>I am</gloss>; <quote lang="greek">di/dw-s</quote>, <gloss>thou givest</gloss>; <quote lang="greek">fh-si/</quote>, <gloss>he says</gloss>.</p>
 						<p>Here the form contains in itself all the necessary elements, the
 							subject being indicated by the ending. </p>
 						
-					</div2>
-					<div2 type="subsection" n="1">
+					</div>
+					<div type="subsection" n="1">
 						<head>Nominative Case</head>
 						<milestone unit="smythp" id="s3" n="3"/>
 						<p><hi rend="bold">Subject</hi></p>
@@ -593,8 +593,8 @@
 							<quote lang="greek">a)/lloi</quote>
 						</cit>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="2">
+					</div>
+					<div type="subsection" n="2">
 						<head>Vocative Case</head>
 						<milestone unit="smythp" id="s14" n="14"/>
 						<p>The Vocative (the case of direct address) is not affected by the
@@ -917,11 +917,11 @@
 							<quote lang="greek">w)= polu/klaute qanw\n duna/sta</quote>
 						</cit>. </p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="4">
+					</div>
+				</div>
+				<div type="section" n="4">
 					<head>Forms of the subject.</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head>Adjectives</head>
 						<milestone unit="smythp" id="s26" n="26"/>
 						<p>The expressed subject of the finite verb may be in the form of a
@@ -3069,8 +3069,8 @@
 							<quote lang="greek">xrh=m' e(/kaston</quote>
 						</cit>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Abstract nouns</head>
 						<milestone unit="smythp" id="s41" n="41"/>
 						<p><hi rend="bold">Abstract noun used as a concrete.</hi></p>
@@ -3491,8 +3491,8 @@
 							<l>yuxh/n t' a)/ristoi keu)ge/neian e)kprepei=s</l>
 						</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Plurals</head>
 						<milestone unit="smythp" id="s44" n="44"/>
 						<p><hi rend="bold">Plural abstract nouns used concretely.&mdash;plural of proper
@@ -4238,11 +4238,11 @@
 							<quote lang="greek">a)ll' a)/ge mi/mnete</quote>
 						</cit>, similarly elsewhere. </p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="5">
+					</div>
+				</div>
+				<div type="section" n="5">
 					<head>Copula</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head><foreign lang="greek">εἶναι</foreign> and <foreign lang="greek">γίγνομαι</foreign></head>
 						<milestone unit="smythp" id="s60" n="60"/>
 						<p>When the predicate is not in the form of a verb, but in the form of
@@ -4501,8 +4501,8 @@
 							<l>xalko/s</l>
 						</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Other verbs</head>
 						<milestone unit="smythp" id="s64" n="64"/>
 						<p><hi rend="bold">Copulative verbs.</hi></p>
@@ -4767,11 +4767,11 @@
 								u(/par</quote>.</p>
 						<p>On the Double Acc. after Active Verbs see Index.</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="6">
+					</div>
+				</div>
+				<div type="section" n="6">
 					<head>Omission of parts of the simple sentence</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head>Omission of the subject</head>
 						<milestone unit="smythp" id="s68" n="68"/>
 						<p><hi rend="bold">Personal pronoun expressed. </hi></p>
@@ -5411,8 +5411,8 @@
 						<p>Il. 4.375: <quote lang="greek">pe/ri d' a)/llwn fasi\
 							gene/sqai</quote>. 18.487: <quote lang="greek">kale/ousin</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Omission of the copula.</head>
 						<milestone unit="smythp" id="s83" n="83"/>
 						<p>The forms <quote lang="greek">e)sti/</quote> and <quote lang="greek">ei)si/</quote> of the copula are omitted in saws and proverbs,
@@ -5586,8 +5586,8 @@
 											e)pideuh/s</quote> (sc. <quote lang="greek">e)/h|</quote>), and so
 							elsewhere. 20.434 (85).</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Omission of the verbal predicate.</head>
 						<milestone unit="smythp" id="s87" n="87"/>
 						<p>As in other languages, so in Greek the verbal predicate may be
@@ -5665,11 +5665,11 @@
 								tre/yeian ei)s kefalh/n</quote>
 						</cit>). </p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="7">
+					</div>
+				</div>
+				<div type="section" n="7">
 					<head>Concord</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head>The three concords.</head>
 						<milestone unit="smythp" id="s88a" n="88"/>
 						<p>There are three great concords in Greek:</p>
@@ -5679,8 +5679,8 @@
 						<p>3. The agreement of the relative with the antecedent (see Index).
 						</p>
 						
-					</div2>
-					<div2 type="subsection" n="3">
+					</div>
+					<div type="subsection" n="3">
 						<head>Agreement of the Predicate with the Subject</head>
 						<milestone unit="smythp" id="s88" n="88"/>
 						<p><hi rend="bold">The verbal predicate.</hi></p>
@@ -5881,8 +5881,8 @@
 								moi</quote>
 						</cit> (To Hermes).</p>
 						
-					</div2>
-					<div2 type="subsection" n="4">
+					</div>
+					<div type="subsection" n="4">
 						<head>General Exceptions</head>
 						<milestone unit="smythp" id="s97" n="97"/>
 						<p><hi rend="bold">Neuter plural with singular verb.</hi></p>
@@ -6400,8 +6400,8 @@
 						</cit>. (The emphatic position of <quote lang="greek">gou/nata</quote> keeps it before the mind, and <quote lang="greek">te</quote> is treated as <foreign lang="la">cum</foreign> would
 							be in Latin.) </p>
 						
-					</div2>
-					<div2 type="subsection" n="5">
+					</div>
+					<div type="subsection" n="5">
 						<head>Special Exceptions</head>
 						<milestone unit="smythp" id="s119" n="119"/>
 						<p>The natural relation may be preferred to the artificial, the nearer
@@ -6988,11 +6988,11 @@
 												rule that applies to men as well as women.</note>
 						</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="8">
+					</div>
+				</div>
+				<div type="section" n="8">
 					<head>Forms of the verbal predicate</head>
-					<div2 type="subsection" n="6">
+					<div type="subsection" n="6">
 						<head>Voices of the Verb</head>
 						
 						<milestone unit="smythp" id="s137" n="137"/>
@@ -7003,8 +7003,8 @@
 							differentiated, the future in -<quote lang="greek">qh/somai</quote>,
 							which is constructed on the basis of -<quote lang="greek">qhn</quote>, itself only prevalently passive.</p>
 						
-					</div2>
-					<div2 type="subsection" n="7">
+					</div>
+					<div type="subsection" n="7">
 						<head>Active Voice</head>
 						
 						<milestone unit="smythp" id="s138" n="138"/>
@@ -7224,8 +7224,8 @@
 							<quote lang="greek">tou= kubernh/tou</quote>).</p>
 						<p>For Intransitive Verbs of Passive Signification, see 171.</p>
 						
-					</div2>
-					<div2 type="subsection" n="8">
+					</div>
+					<div type="subsection" n="8">
 						<head>Middle Voice</head>
 						
 						<milestone unit="smythp" id="s145" n="145"/>
@@ -7662,8 +7662,8 @@
 						<p>Il. 7.2: <quote lang="greek">*zeu)s de\ qew=n a)gorh\n poih/sato
 							terpike/raunos</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="9">
+					</div>
+					<div type="subsection" n="9">
 						<head>Passive Voice</head>
 						
 						<milestone unit="smythp" id="s157" n="157"/>
@@ -8358,8 +8358,8 @@
 						<p>Il. 7.409-10: <quote lang="greek">feidw\ . . . gi/gnet</quote>(<quote lang="greek">ai</quote>). 22.243-4: <quote lang="greek">mhde/ ti
 								dou/rwn e)/stw feidwlh/</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Reciprocal expressions.</head>
 						<milestone unit="smythp" id="s179" n="179"/>
 						<p>Reciprocal relations are expressed by forms of <quote lang="greek">a)llh/lwn</quote>, for which the reflexive is not infrequently
@@ -8435,11 +8435,11 @@
 							kako\s kako\n h(ghla/zei</quote>, &verbar; <quote lang="greek">w(s ai)ei\ to\n o(moi=on a)/gei qeo\s w(s to\n
 								o(moi=on</quote>.</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="9">
+					</div>
+				</div>
+				<div type="section" n="9">
 					<head>Mood Defined</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<milestone unit="smythp" id="s183" n="183"/>
 						<p>The Greek language has four moods proper. A mood is a tone given to
 							the predication by the speaker or writer. These moods are the
@@ -8451,11 +8451,11 @@
 							cannot be understood without the use of the tenses, it is necessary
 							to consider first the tenses.</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="10">
+					</div>
+				</div>
+				<div type="section" n="10">
 					<head>Tenses</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head>Tense in general</head>
 						<milestone unit="smythp" id="s184" n="184"/>
 						<p>The tenses express the relations of time, embracing:</p>
@@ -8564,8 +8564,8 @@
 							</table>
 						</p>
 						
-					</div2>
-					<div2 type="subsection" n="10">
+					</div>
+					<div type="subsection" n="10">
 						<head>Present Tense</head>
 						
 						<milestone unit="smythp" id="s189" n="189"/>
@@ -9162,8 +9162,8 @@
 							&verbar; <quote lang="greek">kei/nou d' au)= kai\ o)/leqron
 								a)peuqe/a qh=ke *kroni/wn</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="11">
+					</div>
+					<div type="subsection" n="11">
 						<head>Imperfect Tense<note anchored="yes">See B. L. G., A. J. P. iv (1883),
 							158-65; C. W. E. Miller, A. J. P. xvi (1895), 139-185.</note></head>
 						
@@ -9945,8 +9945,8 @@
 						</cit> (<ref target="s208" targOrder="U">208</ref>). <quote lang="greek">w)/|xeto de\ pro\s qeo/n</quote>, PIND. N.
 							7.40.</p>
 						
-					</div2>
-					<div2 type="subsection" n="12">
+					</div>
+					<div type="subsection" n="12">
 						<head>Perfect Tense</head>
 						
 						<milestone unit="smythp" id="s226" n="226"/>
@@ -10191,8 +10191,8 @@
 						<p>On the Periphrastic Perfect, see 286-8.</p>
 						<p>On the Gnomic Perfect, see 257.</p>
 						
-					</div2>
-					<div2 type="subsection" n="13">
+					</div>
+					<div type="subsection" n="13">
 						<head>Pluperfect Tense</head>
 						
 						<milestone unit="smythp" id="s235" n="235"/>
@@ -10324,8 +10324,8 @@
 							a)mfibebh/kei</quote>, <emph>The sun stood astride the
 								midheaven.</emph></p>
 						
-					</div2>
-					<div2 type="subsection" n="14">
+					</div>
+					<div type="subsection" n="14">
 						<head>Aorist Tense</head>
 						
 						<milestone unit="smythp" id="s238" n="238"/>
@@ -11120,8 +11120,8 @@
 							a)llh/lous a)go/reuon</quote>. &verbar; <quote lang="greek">du/seto d' h)e/lios, tete/lesto de\ e)/rgon
 								*)axaiw=n</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="15">
+					</div>
+					<div type="subsection" n="15">
 						<head>Future Tense</head>
 						
 						<milestone unit="smythp" id="s265" n="265"/>
@@ -11508,8 +11508,8 @@
 								bi/on</quote>; (So the MSS, but Nauck follows Elmsley in reading
 							<quote lang="greek">sw/|zein</quote>.) </p>
 						
-					</div2>
-					<div2 type="subsection" n="16">
+					</div>
+					<div type="subsection" n="16">
 						<head>Future Perfect Tense</head>
 						<milestone unit="smythp" id="s279" n="279"/>
 						<p>The future perfect is the perfect transferred to the future.</p>
@@ -11668,8 +11668,8 @@
 									a)poleloghme/nos e)/somai</quote>.</p>
 						<p>XEN. Hell. 5.2.27 (see above).</p>
 						
-					</div2>
-					<div2 type="subsection" n="17">
+					</div>
+					<div type="subsection" n="17">
 						<head>Periphrastic Tenses</head>
 						
 						<milestone unit="smythp" id="s285" n="285"/>
@@ -12069,8 +12069,8 @@
 							<quote lang="greek">o(/n g' ei)=xon h)/dh xro/nion
 								e)kbeblhko/tes</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="18">
+					</div>
+					<div type="subsection" n="18">
 						<head>Epistolary Tenses</head>
 						
 						<milestone unit="smythp" id="s297" n="297"/>
@@ -12090,11 +12090,11 @@
 							aorist in the N. T. is clearly due to Roman influence, and is not to
 							be cited. </p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="11">
+					</div>
+				</div>
+				<div type="section" n="11">
 					<head>Tenses of the Moods</head>
-					<div2 type="subsection" n="19">
+					<div type="subsection" n="19">
 						<milestone unit="smythp" id="s299" n="299"/>
 						<p>In the language of classic prose the indicative alone expresses the
 							sphere of time directly (183), the other moods express the sphere of
@@ -12124,8 +12124,8 @@
 						<p>In not a few verbs, owing to their sense, some of the modal tenses
 							are not used, some are rare. We should not expect to find <quote lang="greek">a)pollu/oito</quote>, and <quote lang="greek">xarei/h</quote> (HOM. Il, 6.481) is scarce.</p>
 						
-					</div2>
-					<div2 type="subsection" n="20">
+					</div>
+					<div type="subsection" n="20">
 						<head>Tenses of the Imperative</head>
 						
 						<milestone unit="smythp" id="s303" n="303"/>
@@ -12143,8 +12143,8 @@
 							<emph>Let the die be cast and stay cast.</emph></p>
 						<p>For additional examples see under <emph>Imperative Mood.</emph></p>
 						
-					</div2>
-					<div2 type="subsection" n="21">
+					</div>
+					<div type="subsection" n="21">
 						<head>Tenses of the Subjunctive</head>
 						
 						<milestone unit="smythp" id="s304" n="304"/>
@@ -12160,8 +12160,8 @@
 						<p>For additional examples see chapters on the Subjunctive and the
 							Imperative Mood.</p>
 						
-					</div2>
-					<div2 type="subsection" n="22">
+					</div>
+					<div type="subsection" n="22">
 						<head>Tenses of the Pure Optative</head>
 						
 						<milestone unit="smythp" id="s305" n="305"/>
@@ -12192,8 +12192,8 @@
 										covered himself with glory</emph></note></p>
 						<p>For further examples see under the <emph>Optative Mood.</emph></p>
 						
-					</div2>
-					<div2 type="subsection" n="23">
+					</div>
+					<div type="subsection" n="23">
 						<head>Tenses of the Optative with <foreign lang="greek">ἄν</foreign></head>
 						
 						<milestone unit="smythp" id="s306" n="306"/>
@@ -12223,8 +12223,8 @@
 						<p>See further the chapter on the <emph>Optative with</emph>
 							<quote lang="greek">a)/n</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="24">
+					</div>
+					<div type="subsection" n="24">
 						<head>Tenses of the Optative as Representative of the Indicative</head>
 						
 						<milestone unit="smythp" id="s307" n="307"/>
@@ -12377,8 +12377,8 @@
 						<p>See further on this whole subject <emph>Oratio Obliqua</emph> and
 							<emph>Object Sentences.</emph></p>
 						
-					</div2>
-					<div2 type="subsection" n="25">
+					</div>
+					<div type="subsection" n="25">
 						<head>Tenses of the Infinitive</head>
 						
 						<milestone unit="smythp" id="s313" n="313"/>
@@ -12387,8 +12387,8 @@
 							aorist, more rarely in the perfect. The temporal relation is that of
 							the kind of time. </p>
 						
-					</div2>
-					<div2 type="subsection" n="26">
+					</div>
+					<div type="subsection" n="26">
 						<head>Infinitive as a subject<note anchored="yes">Or quasi-subject. See
 							<emph>Infinitive.</emph></note></head>
 						<milestone unit="smythp" id="s314" n="314"/>
@@ -12585,8 +12585,8 @@
 								h(/diston</quote>
 						</cit>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Infinitive as an object</head>
 						<milestone unit="smythp" id="s320" n="320"/>
 						<p>PRESENT:</p>
@@ -12746,8 +12746,8 @@
 									hurl fire into the wooden ramparts.</emph></p>
 						<p>See further the <emph>Infinitive.</emph></p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Infinitive as the representative of the indicative</head>
 						<milestone unit="smythp" id="s327" n="327"/>
 						<p>The infinitive as the representative of the indicative takes all the
@@ -12840,8 +12840,8 @@
 							</quote>
 						</cit>.</p>
 						
-					</div2>
-					<div2 type="subsection" n="27">
+					</div>
+					<div type="subsection" n="27">
 						<head>Tenses of the Participle</head>
 						<milestone unit="smythp" id="s329" n="329"/>
 						<p><hi rend="bold">Participle as a verbal adjective</hi></p>
@@ -12853,8 +12853,8 @@
 								different ranges of classic Greek.</note> The sphere of time
 							depends on the context.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Present participle</head>
 						<milestone unit="smythp" id="s330" n="330"/>
 						<p><hi rend="bold">Contemporaneous action.</hi></p>
@@ -13068,8 +13068,8 @@
 										a)ge/men</quote>
 								</cit>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Aorist participle</head>
 						<milestone unit="smythp" id="s339" n="339"/>
 						<p>The action of the aorist participle is ordinarily prior, but it may
@@ -13247,8 +13247,8 @@
 								diaqe/menos</quote>
 						</cit>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Perfect participle</head>
 						<milestone unit="smythp" id="s348" n="348"/>
 						<p>The perfect participle expresses completion.</p>
@@ -13307,8 +13307,8 @@
 						</cit>, <gloss>We had returned from having reinforced the
 							Euboeans.</gloss></p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Participle as the representative of the indicative</head>
 						<milestone unit="smythp" id="s354" n="354"/>
 						<p>The participle as the representative of the indicative takes all the
@@ -13414,11 +13414,11 @@
 						</cit>.</p>
 						<p>On the Future Participle after Verbs of Motion, see Index. </p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="12">
+					</div>
+				</div>
+				<div type="section" n="12">
 					<head>Moods</head>
-					<div2 type="subsection" n="28">
+					<div type="subsection" n="28">
 						<head>Indicative Mood</head>
 						<milestone unit="smythp" id="s361" n="361"/>
 						<p>The indicative mood represents the predicate as a reality. It is
@@ -13701,8 +13701,8 @@
 						<p>On the Indicative with <quote lang="greek">a)/n</quote>, see
 							428-33.</p>
 						
-					</div2>
-					<div2 type="subsection" n="29">
+					</div>
+					<div type="subsection" n="29">
 						<head>Subjunctive Mood</head>
 						
 						<milestone unit="smythp" id="s369" n="369"/>
@@ -14125,8 +14125,8 @@
 							though there are many exceptions in the older language and in
 							poetry. See 456.</p>
 						
-					</div2>
-					<div2 type="subsection" n="30">
+					</div>
+					<div type="subsection" n="30">
 						<head>Optative Mood</head>
 						
 						<milestone unit="smythp" id="s388" n="388"/>
@@ -14463,8 +14463,8 @@
 							commands, in <emph>oratio obliqua,</emph> and in complementary
 							clauses.</p>
 						
-					</div2>
-					<div2 type="subsection" n="31">
+					</div>
+					<div type="subsection" n="31">
 						<head>Imperative Mood</head>
 						
 						<milestone unit="smythp" id="s401" n="401"/>
@@ -15202,11 +15202,11 @@
 						</cit>
 						</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="13">
+					</div>
+				</div>
+				<div type="section" n="13">
 					<head>The Particle <foreign lang="greek">ἄν</foreign></head>
-					<div2 type="subsection" n="32">
+					<div type="subsection" n="32">
 						<head>Its use and etymology</head>
 						<milestone unit="smythp" id="s423" n="423"/>
 						<p>The particle <quote lang="greek">a)/n</quote> is largely used to
@@ -15262,8 +15262,8 @@
 							and in combination with the subjunctive and the optative is little
 							more than a sharper future. <quote lang="greek">ken</quote> (<quote lang="greek">ka</quote>) is also an unsolved riddle.</p>
 						
-					</div2>
-					<div2 type="subsection" n="33">
+					</div>
+					<div type="subsection" n="33">
 						<head>Indicative with <foreign lang="greek">ἄν</foreign></head>
 						<milestone unit="smythp" id="s428" n="428"/>
 						<p>The particle <quote lang="greek">a)/n</quote> belongs to that which
@@ -15502,8 +15502,8 @@
 							make a mistake in this regard. In ANDOC. 1.117 read <quote lang="greek">bou/loisqe</quote> for <quote lang="greek">bou/lesqe</quote>. In <bibl n="Plat. Laws 712E">PLATO, Legg.
 										712E</bibl>, read with Schanz <quote lang="greek">a)nerwthqei/s</quote> (cf. 793 A). </p>
 						
-					</div2>
-					<div2 type="subsection" n="34">
+					</div>
+					<div type="subsection" n="34">
 						<head>Optative with <foreign lang="greek">ἄν</foreign></head>
 						<milestone unit="smythp" id="s434" n="434"/>
 						<p><hi rend="bold">Potential optative.</hi></p>
@@ -16297,8 +16297,8 @@
 								pa/qoimi</quote>. 20.286: <quote lang="greek">o(\ ou) du/o
 									g)</quote> (<quote lang="greek">du/o k)</quote> Cauer) <quote lang="greek">a)/ndre fe/roien</quote> (= 5.303).</p>
 						
-					</div2>
-					<div2 type="subsection" n="35">
+					</div>
+					<div type="subsection" n="35">
 						<head>Subjunctive with <foreign lang="greek">ἄν</foreign></head>
 						
 						<milestone unit="smythp" id="s451" n="451"/>
@@ -16918,13 +16918,13 @@
 							24.437: <quote lang="greek">soi\ d' a)\n egw pompo\s kai/ ke kluto\n
 								*)/argos i(koi/mhn</quote>. </p>
 						
-					</div2>
-				</div1>
-			</div0>
-			<div0 type="part" n="2">
-				<div1 type="section" n="14">
+					</div>
+				</div>
+			</div>
+			<div type="part" n="2">
+				<div type="section" n="14">
 					<head>Preface to part II</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<milestone unit="smythp" n="pref2"/>
 						<p>THE first part of this Greek Syntax is a fragment of a larger scheme
 							of a Greek Series, which was abandoned for good and sufficient
@@ -16962,22 +16962,22 @@
 						<signed>BASIL L. GILDERSLEEVE, <placeName>THE JOHNS HOPKINS UNIVERSITY,
 							BALTIMORE</placeName>.</signed>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="15">
+					</div>
+				</div>
+				<div type="section" n="15">
 					<head>The simple sentence expanded</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<milestone unit="smythp" id="s468" n="468"/>
 						<p>The sentence may be expanded by the Multiplication or by the
 							Qualification</p>
 						<p>A. of the Subject.</p>
 						<p>B. of the Predicate.</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="16">
+					</div>
+				</div>
+				<div type="section" n="16">
 					<head>Multiplication of the Subject</head>
-					<div2 type="subsection" n="37">
+					<div type="subsection" n="37">
 						<head>Concord of the Predicate</head>
 						
 						<milestone unit="smythp" id="s469" n="469"/>
@@ -17564,11 +17564,11 @@
 								e)gw/</quote>, &verbar; <quote lang="greek">a)ll' o( no/mos
 									e(/lkei s</quote>(<quote lang="greek">e</quote>).</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="17">
+					</div>
+				</div>
+				<div type="section" n="17">
 					<head>Qualification of the Subject</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head>Attributes of the subject</head>
 						<milestone unit="smythp" id="s484" n="484"/>
 						<p>The subject may be qualified by giving it an attribute. An attribute
@@ -17677,8 +17677,8 @@
 							a)/ndras. 11.514: i)htro\s ... a)nh/r. 17.65: a)/ndres ...
 							nomh=es. 21.574: a)ndro\s qhrhth=ros</quote>.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>The oblique cases</head>
 						<milestone unit="smythp" id="s488" n="488"/>
 						<p><hi rend="bold">The Genitive Case:</hi></p>
@@ -17812,11 +17812,11 @@
 							<emph>Relative Clauses.</emph></p>
 						<p>For the substantive in apposition, see <emph>Apposition.</emph></p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="18">
+					</div>
+				</div>
+				<div type="section" n="18">
 					<head>Concord of the adjective attribute.</head>
-					<div2 type="subsection">
+					<div type="subsection">
 						<head>The normal rule</head>
 						<milestone unit="smythp" id="s492" n="492"/>
 						<p>The adjective attribute agrees with its substantive in gender,
@@ -17837,8 +17837,8 @@
 									toi=n lo/goin toi=n a)ndroi=n e(kate/roin toi=n
 									basanisqe/ntoin</quote>, ANTIPHON, 5.49.</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Exceptions. </head>
 						<milestone unit="smythp" id="s493" n="493"/>
 						<p>Exceptions to the above rule are found in the matter of dual concord
@@ -18353,8 +18353,8 @@
 							te mh/dea, fai/dim' *)odusseu=, sh/ t' a)ganofrosu/nh melihde/a
 							qumo\n a)phu/ra</quote> (473).</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Position of the adjective attribute.</head>
 						<milestone unit="smythp" id="s505" n="505"/>
 						<p>The adjective attribute precedes the substantive. This, which is the
@@ -18832,19 +18832,19 @@
 								kai\ li/qous kai\ cu/la ta\ tuxo/nta kai\ qhri/a
 								se/besqai</quote>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Peculiar forms of the adjective attribute</head>
 						<milestone unit="smythp" id="s513" n="513"/>
 						<p>The demonstrative and other adjective pronouns present important
 							peculiarities. Of these pronouns the most common is the article.
 						</p>
 						
-					</div2>
-				</div1>
-				<div1 type="section" n="19">
+					</div>
+				</div>
+				<div type="section" n="19">
 					<head>The Article</head>
-					<div2 type="subsection" n="40">
+					<div type="subsection" n="40">
 						<milestone unit="smythp" id="s514" n="514"/>
 						<p>The function of the article, which was originally a demonstrative,
 							and always has more or less demonstrative force, is to fix a
@@ -18903,8 +18903,8 @@
 							is found chiefly in fixed phrases and certain old-fashioned turns of
 							expression. </p>
 						
-					</div2>
-					<div2 type="subsection" n="41">
+					</div>
+					<div type="subsection" n="41">
 						<head>Substantive Use</head>
 						<milestone unit="smythp" id="s515" n="515"/>
 						<p><hi rend="bold"><foreign lang="greek">ὃ μὲν . . . ὃ δέ, ὃ μὲν . . . δέ,
@@ -19777,15 +19777,15 @@
 									u(potaktiko/n</quote>, and relative and article were blended in
 							the consciousness of the people. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Adjective use</head>
 						<milestone unit="smythp" id="s531" n="531"/>
 						<p>The article is commonly treated under two heads, that of the
 							individual or specific article and that of the generic article. </p>
 						
-					</div2>
-					<div2 type="subsection" n="42">
+					</div>
+					<div type="subsection" n="42">
 						<head>Individual or Specific Article</head>
 						<milestone unit="smythp" id="s532" n="532"/>
 						<p>The use of the Individual or Specific Article is so much like the
@@ -21915,8 +21915,8 @@
 												tw=| *qesmoforiw| fai/netai. 558: ta\ kre/) e)c *)apatouri/wn
 												tai=s mastropoi=s didou=sai</quote>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Generic article.</head>
 						<milestone unit="smythp" id="s563" n="563"/>
 						<p>The principle of the generic article is the selection of a
@@ -22192,8 +22192,8 @@
 								pleasures attendant upon health and temperance.</emph>
 						</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Absence of the article.</head>
 						<milestone unit="smythp" id="s568" n="568"/>
 						<p>Prepositional phrases and other formulae may dispense with the
@@ -22453,8 +22453,8 @@
 									</cit>. Pl. 170: <quote lang="greek">me/gas de\ basileu/s</quote>.
 						</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>The article with substantivized adjectives and participles.</head>
 						<milestone unit="smythp" id="s573" n="573"/>
 						<p>Adjectives and participles when used as substantives regularly take
@@ -22937,8 +22937,8 @@
 							<emph>Articular Infinitive.</emph>
 						</p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Article in combination with pronouns.</head>
 						<milestone unit="smythp" id="s583" n="583"/>
 						<p>The article is used with sundry pronouns, partly coinciding with our
@@ -23683,8 +23683,8 @@
 								ou) xrh\</quote> &verbar; <quote lang="greek">ta\ polla\
 									be/lea kartu/nein xeroi=n</quote>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Position of the article.</head>
 						<milestone unit="smythp" id="s602" n="602"/>
 						<p>The article always precedes in prose. In Homer the article,
@@ -23924,8 +23924,8 @@
 								qa/lassa</quote>, and similar words, see under the article with
 							proper names &sect;&sect; 536 ff. </p>
 						
-					</div2>
-					<div2 type="subsection" n="43">
+					</div>
+					<div type="subsection" n="43">
 						<head>The Article in the Combination of Article, Adjective, and Substantive</head>
 						<milestone unit="smythp" id="s608" n="608"/>
 						<p>In the combination of article, adjective, and substantive five
@@ -24834,8 +24834,8 @@
 						<p>HOM. Il. 24.687: <quote lang="greek">pai=des toi\ meto/pisqe
 							leleimme/noi</quote>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Predicative position of article, substantive, and adjective.</head>
 						<milestone unit="smythp" id="s627" n="627"/>
 						<p>When adjective and substantive are associated without the article, it
@@ -25212,8 +25212,8 @@
 							<quote lang="greek">e)p' a)rrh/tois ge toi=s e)moi=s
 								lo/gois</quote>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Predicative positions.</head>
 						<milestone unit="smythp" id="s631" n="631"/>
 						<p>The first position in which the predicative adjective precedes the
@@ -27916,8 +27916,8 @@
 								qeo/s</quote>
 						</cit>. </p>
 						
-					</div2>
-					<div2 type="subsection">
+					</div>
+					<div type="subsection">
 						<head>Article with several attributes.</head>
 						<milestone unit="smythp" id="s669" n="669"/>
 						<p>When there are several attributes, the article may or may not be
@@ -28590,9 +28590,9 @@
 							<quote lang="greek">ta\ po/ll' e)kei=n' o(/t' e)ce/xrh
 								kaka/</quote>
 						</cit>.</p>
-					</div2>
-				</div1>
-			</div0>
+					</div>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI.2>

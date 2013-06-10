@@ -131,7 +131,7 @@ Added to repository. Passed SGML parse.
 </teiHeader>
 <text n="AJ">
 <body>
-<div1 type="Book" n="1"><note anchored="yes" type="title" place="inline" resp="ed">Book I</note>
+<div type="book" n="1"><note anchored="yes" type="title" place="inline" resp="ed">Book I</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF THREE THOUSAND EIGHT HUNDRED AND
 THIRTY-THREE YEARS.
 FROM THE CREATION TO THE DEATH OF ISAAC.</note>
@@ -2190,8 +2190,8 @@ his wife, in <placeName key="tgn,7000243">Hebron</placeName>, where they had a m
 forefathers. Now Isaac was a man who was beloved of God, and was vouchsafed
 great instances of providence by God, after Abraham his father, and lived
 to be exceeding old; for when he had lived virtuously one hundred and eighty-five
-years, he then died.</p></div1>
-<div1 type="Book" n="2"><note anchored="yes" type="title" place="inline" resp="ed">Book II</note>
+years, he then died.</p></div>
+<div type="book" n="2"><note anchored="yes" type="title" place="inline" resp="ed">Book II</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF TWO HUNDRED AND TWENTY YEARS.
 FROM THE DEATH OF ISAAC TO THE EXODUS OUT OF EGYPT.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -4204,8 +4204,8 @@ and the force of the winds resisting it; and he conjectured that this also
 happened by Divine Providence, that so they might not be destitute of weapons.
 So when he had ordered the Hebrews to arm themselves with them, he led
 them to Mount Sinai, in order to offer sacrifice to God, and to render
-oblations for the salvation of the multitude, as he was charged to do beforehand.</p></div1>
-<div1 type="Book" n="3"><note anchored="yes" type="title" place="inline" resp="ed">Book III</note>
+oblations for the salvation of the multitude, as he was charged to do beforehand.</p></div>
+<div type="book" n="3"><note anchored="yes" type="title" place="inline" resp="ed">Book III</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF TWO YEARS.
 FROM THE EXODUS OUT OF EGYPT, TO THE REJECTION OF THAT
 GENERATION.</note>
@@ -6099,8 +6099,8 @@ we are not to wonder at what was then done, while to this very day the
 writings left by Moses have so great a force, that even those that hate
 us do confess, that he who established this settlement was God, and that
 it was by the means of Moses, and of his virtue; but as to these matters,
-let every one take them as he thinks fit.</p></div1>
-<div1 type="Book" n="4"><note anchored="yes" type="title" place="inline" resp="ed">Book IV</note>
+let every one take them as he thinks fit.</p></div>
+<div type="book" n="4"><note anchored="yes" type="title" place="inline" resp="ed">Book IV</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF THIRTY-EIGHT YEARS.
 FROM THE REJECTION OF THAT GENERATION TO THE DEATH OF
 MOSES.</note>
@@ -8061,8 +8061,8 @@ of Moses: nor were those that had experienced his conduct the only persons
 that desired him, but those also that perused the laws he left behind him
 had a strong desire after him, and by them gathered the extraordinary virtue
 he was master of. And this shall suffice for the declaration of the manner
-of the death of Moses.</p></div1>
-<div1 type="Book" n="5"><note anchored="yes" type="title" place="inline" resp="ed">Book V</note>
+of the death of Moses.</p></div>
+<div type="book" n="5"><note anchored="yes" type="title" place="inline" resp="ed">Book V</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF FOUR HUNDRED AND SEVENTY-SIX YEARS.
 FROM THE DEATH OF MOSES TO THE DEATH OF ELI.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -10075,8 +10075,8 @@ which Eleazar bequeathed to his son Phineas; after whom Abiezer his son
 took the honor, and delivered it to his son, whose name was Bukki, from
 whom his son Ozi received it; after whom Eli, of whom we have been speaking,
 had the priesthood, and so he and his posterity until the thee of Solomon's
-reign; but then the posterity of Eleazar reassumed it.</p></div1>
-<div1 type="Book" n="6"><note anchored="yes" type="title" place="inline" resp="ed">Book VI</note>
+reign; but then the posterity of Eleazar reassumed it.</p></div>
+<div type="book" n="6"><note anchored="yes" type="title" place="inline" resp="ed">Book VI</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF THIRTY-TWO YEARS.
 FROM THE DEATH OF ELI TO THE DEATH OF SAUL.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -12468,8 +12468,8 @@ because he disobeyed the commands of God about the Amalekites, and on the
 account of his destroying the family of Ahimelech the high priest, with
 Ahimelech himself, and the city of the high priests. Now Saul, when he
 had reigned eighteen years while Samuel was alive, and after his death
-two [and twenty], ended his life in this manner.</p></div1>
-<div1 type="Book" n="7"><note anchored="yes" type="title" place="inline" resp="ed">Book VII</note>
+two [and twenty], ended his life in this manner.</p></div>
+<div type="book" n="7"><note anchored="yes" type="title" place="inline" resp="ed">Book VII</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF FORTY YEARS.
 FROM THE DEATH OF SAUL TO THE DEATH OF DAVID.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -14885,8 +14885,8 @@ and that many years, Herod the king opened another room, and took away
 a great deal of money, and yet neither of them came at the coffins of the
 kings themselves, for their bodies were buried under the earth so artfully,
 that they did not appear to even those that entered into their monuments.
-But so much shall suffice us to have said concerning these matters.</p></div1>
-<div1 type="Book" n="8"><note anchored="yes" type="title" place="inline" resp="ed">Book VIII</note>
+But so much shall suffice us to have said concerning these matters.</p></div>
+<div type="book" n="8"><note anchored="yes" type="title" place="inline" resp="ed">Book VIII</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF ONE HUNDRED AND SIXTY-THREE YEARS.
 FROM THE DEATH OF DAVID TO THE DEATH OF AHAB.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -17601,8 +17601,8 @@ souls, and flatters them with pleasing hopes, till it leads them about
 to the place where it will be too hard for them. Accordingly Ahab appears
 to have been deceived thereby, till he disbelieved those that foretold
 his defeat; but, by giving credit to such as foretold what was grateful
-to him, was slain; and his son Ahaziah succeeded him.</p></div1>
-<div1 type="Book" n="9"><note anchored="yes" type="title" place="inline" resp="ed">Book IX</note>
+to him, was slain; and his son Ahaziah succeeded him.</p></div>
+<div type="book" n="9"><note anchored="yes" type="title" place="inline" resp="ed">Book IX</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF ONE HUNDRED AND FIFTY-SEVEN
 YEARS.
 FROM THE DEATH OF AHAB TO THE CAPTIVITY OF THE TEN TRIBES.</note>
@@ -19305,8 +19305,8 @@ with them; but when they see them falling into a low condition, they say
 they are no way related to them, and that the Jews have no right to expect
 any kindness or marks of kindred from them, but they declare that they
 are sojourners, that come from other countries. But of these we shall have
-a more seasonable opportunity to discourse hereafter.</p></div1>
-<div1 type="Book" n="10"><note anchored="yes" type="title" place="inline" resp="ed">Book X</note>
+a more seasonable opportunity to discourse hereafter.</p></div>
+<div type="book" n="10"><note anchored="yes" type="title" place="inline" resp="ed">Book X</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF ONE HUNDRED AND EIGHTY-TWO YEARS
 AND A HALF.
 FROM THE CAPTIVITY OF THE TEN TRIBES TO THE FIRST YEAR
@@ -20931,8 +20931,8 @@ that the world went on by mechanical necessity, we should not see that
 all things would come to pass according to his prophecy. Now as to myself,
 I have so described these matters as I have found them and read them; but
 if any one is inclined to another opinion about them, let him enjoy his
-different sentiments without any blame from me.</p></div1>
-<div1 type="Book" n="11"><note anchored="yes" type="title" place="inline" resp="ed">Book XI</note>
+different sentiments without any blame from me.</p></div>
+<div type="book" n="11"><note anchored="yes" type="title" place="inline" resp="ed">Book XI</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF TWO HUNDRED AND FIFTY-THREE YEARS
 AND FIVE MONTHS.
 FROM THE FIRST OF CYRUS TO THE DEATH OF ALEXANDER THE
@@ -22716,8 +22716,8 @@ or of having broken the sabbath, or of any other crime of the like nature,
 he fled away to the Shechemites, and said that he was accused unjustly.
 About this time it was that Jaddua the high priest died, and Onias his
 son took the high priesthood. This was the state of the affairs of the
-people of Jerusalem at this time.</p></div1>
-<div1 type="Book" n="12"><note anchored="yes" type="title" place="inline" resp="ed">Book XII</note>
+people of Jerusalem at this time.</p></div>
+<div type="book" n="12"><note anchored="yes" type="title" place="inline" resp="ed">Book XII</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF A HUNDRED AND SEVENTY YEARS.
 FROM THE DEATH OF ALEXANDER THE GREAT TO THE DEATH OF
 JUDAS MACCABEUS.</note>
@@ -24858,8 +24858,8 @@ all difficulties, both in doing and suffering, for the liberty of his countrymen
 And when his character was so excellent [while he was alive], he left behind
 him a glorious reputation and memorial, by gaining freedom for his nation,
 and delivering them from slavery under the Macedonians. And when he had
-retained the high priesthood three years, he died.</p></div1>
-<div1 type="Book" n="13"><note anchored="yes" type="title" place="inline" resp="ed">Book XIII</note>
+retained the high priesthood three years, he died.</p></div>
+<div type="book" n="13"><note anchored="yes" type="title" place="inline" resp="ed">Book XIII</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF EIGHTY-TWO YEARS,
 FROM THE DEATH OF JUDAS MACCABEUS TO THE DEATH OF QUEEN
 ALEXANDRA.</note>
@@ -27294,8 +27294,8 @@ destitute of a proper support of great men; and, indeed, her management
 during her administration while she was alive, was such as filled the palace
 after her death with calamities and disturbance. However, although this
 had been her way of governing, she preserved the nation in peace. And this
-is the conclusion of the affairs of, Alexandra.</p></div1>
-<div1 type="Book" n="14"><note anchored="yes" type="title" place="inline" resp="ed">Book XIV</note>
+is the conclusion of the affairs of, Alexandra.</p></div>
+<div type="book" n="14"><note anchored="yes" type="title" place="inline" resp="ed">Book XIV</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF THIRTY-TWO YEARS.
 FROM THE DEATH OF QUEEN ALEXANDRA TO THE DEATH OF ANTIGONUS.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -29811,8 +29811,8 @@ actions their ancestors had performed for our nation; but these men lost
 the government by their dissensions one with another, and it came to Herod,
 the son of Antipater, who was of no more than a vulgar family, and of no
 eminent extraction, but one that was subject to other kings. And this is
-what history tells us was the end of the Asamonean family.</p></div1>
-<div1 type="Book" n="15"><note anchored="yes" type="title" place="inline" resp="ed">Book XV</note>
+what history tells us was the end of the Asamonean family.</p></div>
+<div type="book" n="15"><note anchored="yes" type="title" place="inline" resp="ed">Book XV</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF EIGHTEEN YEARS.
 FROM THE DEATH OF ANTIGONUS TO THE FINISHING OF THE TEMPLE
 BY HEROD.</note>
@@ -32092,8 +32092,8 @@ that during the time that the temple was building, it did not rain in the
 daytime, but that the showers fell in the nights, so that the work was
 not hindered. And this our fathers have delivered to us; nor is it incredible,
 if any one have regard to the manifestations of God. And thus was performed
-the work of the rebuilding of the temple.</p></div1>
-<div1 type="Book" n="16"><note anchored="yes" type="title" place="inline" resp="ed">Book XVI</note>
+the work of the rebuilding of the temple.</p></div>
+<div type="book" n="16"><note anchored="yes" type="title" place="inline" resp="ed">Book XVI</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF TWELVE YEARS.
 FROM THE FINISHING OF THE TEMPLE BY HEROD TO THE DEATH
 OF ALEXANDER AND ARISTOBULUS.</note>
@@ -34006,8 +34006,8 @@ to be the best beloved of his friends that were left, wherein, though the
 justice of the punishment caused those that perished to be the less pitied,
 yet was the barbarity of the man here equal, in that he did not abstain
 from their slaughter also. But of those persons we shall have occasion
-to discourse more hereafter.</p></div1>
-<div1 type="Book" n="17"><note anchored="yes" type="title" place="inline" resp="ed">Book XVII</note>
+to discourse more hereafter.</p></div>
+<div type="book" n="17"><note anchored="yes" type="title" place="inline" resp="ed">Book XVII</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF FOURTEEN YEARS.
 FROM THE DEATH OF ALEXANDER AND ARISTOBULUS TO THE BANISHMENT
 OF ARCHELAUS.</note>
@@ -35976,8 +35976,8 @@ such relations, let him indeed enjoy his own opinion, but let him not hinder
 another that would thereby encourage himself in virtue. So Archelaus's
 country was laid to the province of Syria; and Cyrenius, one that had been
 consul, was sent by Caesar to take account of people's effects in Syria,
-and to sell the house of Archelaus.</p></div1>
-<div1 type="Book" n="18"><note anchored="yes" type="title" place="inline" resp="ed">Book XVIII</note>
+and to sell the house of Archelaus.</p></div>
+<div type="book" n="18"><note anchored="yes" type="title" place="inline" resp="ed">Book XVIII</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF THIRTY-TWO YEARS.
 FROM THE BANISHMENT OF ARCHELUS TO THE DEPARTURE FROM BABYLON.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -37854,8 +37854,8 @@ that live in those places agreed with the Seleucians in the war against
 the Jews; so the most of them gathered themselves together, and went to
 Neerda and Nisibis, and obtained security there by the strength of those
 cities; besides which their inhabitants, who were a great many, were all
-warlike men. And this was the state of the Jews at this time in Babylonia.</p></div1>
-<div1 type="Book" n="19"><note anchored="yes" type="title" place="inline" resp="ed">Book XIX</note>
+warlike men. And this was the state of the Jews at this time in Babylonia.</p></div>
+<div type="book" n="19"><note anchored="yes" type="title" place="inline" resp="ed">Book XIX</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF THREE YEARS AND A HALF.
 FROM THE DEPARTURE OUT OF BABYLON TO FADUS, THE ROMAN
 PROCURATOR.</note>
@@ -39668,8 +39668,8 @@ him, and got leave to abide in Judea still; and these were the very men
 that became the source of very great calamities to the Jews in after-times,
 and sowed the seeds of that war which began under Florus; whence it was
 that when Vespasian had subdued the country, he removed them out of his
-province, as we shall relate hereafter.</p></div1>
-<div1 type="Book" n="20"><note anchored="yes" type="title" place="inline" resp="ed">Book XX</note>
+province, as we shall relate hereafter.</p></div>
+<div type="book" n="20"><note anchored="yes" type="title" place="inline" resp="ed">Book XX</note>
 <note anchored="yes" type="title" place="inline" resp="ed">CONTAINING THE INTERVAL OF TWENTY-TWO YEARS.
 FROM FADUS THE PROCURATOR TO FLORUS.</note>
 <milestone n="1" unit="Whiston chapter"/>
@@ -41006,5 +41006,5 @@ one; nor do we ever again, with what befell us therein to this very day,
 which is the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth
 year of my own life. I have also an intention to write three books concerning
 our Jewish opinions about God and his essence, and about our laws; why,
-according to them, some things are permitted us to do, and others are prohibited.</p></div1>
+according to them, some things are permitted us to do, and others are prohibited.</p></div>
 </body></text></TEI.2>

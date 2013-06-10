@@ -31,11 +31,11 @@
   </teiHeader>
   <text>
     <body>
-      <div1 type="book" n="7">
+      <div type="book" n="7">
         <p>
           <pb/>
         </p>
-        <div2 type="CHAPTER" n="1">
+        <div type="chapter" n="1">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Ὁ</lemma>&mdash;the art. added because this is
@@ -241,8 +241,8 @@
               under Archonides.) <pb n="112"/>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="2">
+        </div>
+        <div type="chapter" n="2">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Λευκάδος</lemma>&mdash;Gylippus and Pythen had
@@ -421,8 +421,8 @@
               <foreign lang="greek">οἱ μὲν δὴ οὕτως ἐπεπράγεσαν. οἱ δὲ ἄλλοι</foreign>;
                 <bibl n="Thuc. 3.24">III. 24</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="3">
+        </div>
+        <div type="chapter" n="3">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">αἰφνιδίως</lemma>&mdash;Thuc. uses <foreign lang="greek">ἄφνω, αἰφνιδίως, ἐξαίφνης</foreign>, and, in the earlier books,
@@ -573,8 +573,8 @@
               <lemma lang="greek" targOrder="U">ἐφορμοῦσα</lemma>&mdash;sent out from the A.
               fleet to the mouth of the Harbour.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="4">
+        </div>
+        <div type="chapter" n="4">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐτείχιζον</lemma>&mdash;his <cit>
@@ -833,8 +833,8 @@
                 in wait for them.</gloss>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="5">
+        </div>
+        <div type="chapter" n="5">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">προπαρεβάλοντο</lemma>&mdash;<gloss>had
@@ -920,8 +920,8 @@
               <lemma lang="greek" targOrder="U">ἐξελάσασθαι</lemma>&mdash;the mid., which is
               unusual, is found also in <bibl n="Thuc. 4.35">IV. 35</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="6">
+        </div>
+        <div type="chapter" n="6">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">εἰ . . μὴ ἐθέλοιεν . .
@@ -1014,8 +1014,8 @@
               ἀποτειχίσαι</lemma>&mdash;virtually oblique f&oacute;r <foreign lang="greek">οὐκ ἂν ἀποτειχίσειαν</foreign>. <pb n="122"/>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="7">
+        </div>
+        <div type="chapter" n="7">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">αἵ τε</lemma>&mdash;answered by <foreign lang="greek">καὶ ὁ Γύλιππος</foreign> below.</p>
@@ -1070,8 +1070,8 @@
                 <bibl n="Thuc. 2.8">II. 8</bibl>
               <foreign lang="greek">ἔρρωντο ἐς τὸν πόλεμον</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="8">
+        </div>
+        <div type="chapter" n="8">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἔπεμπε . . ἀγγέλλων</lemma>&mdash;so <bibl n="Thuc. 2.81">2.81</bibl>
@@ -1156,8 +1156,8 @@
             <p>
               <lemma lang="greek" targOrder="U">ἐπεμέλετο</lemma>&mdash;absolute.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="9">
+        </div>
+        <div type="chapter" n="9">
           <p>
             <lemma lang="greek" targOrder="U">Περδίκκου</lemma>&mdash;Perdiccas II., son of
             Alexander the Philhellene. His shifty policy gave great trouble to Athens in the war.
@@ -1182,8 +1182,8 @@
               action fails;</hi> cf <bibl n="Thuc. 5.6">V. 6</bibl>
             <foreign lang="greek">Σταγείρῳ προσβάλλει . . . καὶ οὐχ εἷλεν, Γαληψὸν δὲ
               λαμβάνει</foreign>.</p>
-        </div2>
-        <div2 type="CHAPTER" n="10">
+        </div>
+        <div type="chapter" n="10">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἥκοντες</lemma>&mdash;<gloss>came in due
@@ -1227,8 +1227,8 @@
               συμφέρον</foreign>. Cf. the third letter of Isocrates, written after Chaeronea to
               Philip.)</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="11">
+        </div>
+        <div type="chapter" n="11">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐν ἄλλαις</lemma>&mdash;here <foreign lang="greek">ἐν</foreign> contains the meaning <gloss>on account of,</gloss>
@@ -1363,8 +1363,8 @@
               <lemma lang="greek" targOrder="U">ἐπὶ πολὺ</lemma>&mdash;used here of <hi rend="ITALIC">spacc</hi>, less often of <hi rend="ITALIC">time.</hi>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="12">
+        </div>
+        <div type="chapter" n="12">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">πεπόμφασι δὲ καὶ . . . καὶ . . .
@@ -1456,8 +1456,8 @@
               <lemma lang="greek" targOrder="U">ἐξουσία</lemma>&mdash;the idiom <foreign lang="greek">ἐξουσία ἐστι</foreign> or <foreign lang="greek">γίγνεται</foreign>
               with plain infin. occurs frequently.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="13">
+        </div>
+        <div type="chapter" n="13">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐκ πολλῆς περιουσίας</lemma>&mdash;<gloss>as
@@ -1554,8 +1554,8 @@
               <foreign lang="greek">τὴν ἀ. τῆς διώξεως ἀφείλοντο</foreign>. <pb n="129"/>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="14">
+        </div>
+        <div type="chapter" n="14">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐπισταμένοις δ’ ὐμῖν
@@ -1692,8 +1692,8 @@
               key-note of Nicias' policy. <pb n="131"/>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="15">
+        </div>
+        <div type="chapter" n="15">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ὡς ἐφ’ ἃ ἤλθομεν</lemma>&mdash;<gloss>and
@@ -1757,8 +1757,8 @@
               <foreign lang="greek">λεγόμενον μὲν . . . οὐ μέντοι ἐμνημον εύετο</foreign>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="16">
+        </div>
+        <div type="chapter" n="16">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">παρέλυσαν</lemma>&mdash;<gloss>released.</gloss> Cf. <bibl n="Hdt. 7.38">Herod.
@@ -1812,8 +1812,8 @@
               of abstract nouns with <foreign lang="greek">εἰμί, γίγνομαι</foreign> are very
               idiomatic.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="17">
+        </div>
+        <div type="chapter" n="17">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ὑπομένων</lemma>&mdash;remaining <hi rend="ITALIC">behind</hi>, esp. in a place of danger or duty. Hence often used by
@@ -1890,8 +1890,8 @@
                 which would be opposing them</gloss>; i.e. the attention which the A. would have to
               bestow on the Cor. triremes would give the merchant ships a chance.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="18">
+        </div>
+        <div type="chapter" n="18">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">παρεσκευάζοντο δὲ</lemma>&mdash;this <hi rend="ITALIC">epanaphora</hi> of <foreign lang="greek">παρασκευά-</foreign>
@@ -2023,8 +2023,8 @@
               <lemma lang="greek" targOrder="U">ἐτελεύτα τῷδε</lemma>&mdash;the <hi rend="ITALIC">epanaphora</hi> of the verb in this formula is prob. accidental. The
               formal close is in aeeordance with the Gk. habit of ending quietly.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="19">
+        </div>
+        <div type="chapter" n="19">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐπιγιγνομένου</lemma>&mdash;used of natural
@@ -2145,8 +2145,8 @@
               <lemma lang="greek" targOrder="U">τὸν νοῦν ἔχωσιν</lemma>&mdash;distinguish
               from <foreign lang="greek">νοῦν ἔχειν</foreign> = to be sensible.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="20">
+        </div>
+        <div type="chapter" n="20">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">περί τε</lemma>&mdash;answered by <foreign lang="greek">καὶ τὸν Δημοσθένη</foreign>.</p>
@@ -2216,8 +2216,8 @@
               object of <foreign lang="greek">περιέμενε</foreign>. Cf. <bibl n="Thuc. 3.2.2">III.
                 2.2</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="21">
+        </div>
+        <div type="chapter" n="21">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἧκεν</lemma>&mdash;<gloss>returned</gloss>
@@ -2368,8 +2368,8 @@
                 <bibl n="Soph. OC 734">Soph. OC 734</bibl>
               <foreign lang="greek">πρὸς πόλιν δ’ ἐπίσταμαι</foreign> &verbar; <foreign lang="greek">σθένουσαν ἥκων, εἴ τιν’ Ἑλλάδος, μέγα</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="22">
+        </div>
+        <div type="chapter" n="22">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ὁ δὲ Γ.</lemma>&mdash;put first for emphasis
@@ -2417,8 +2417,8 @@
               <lemma lang="greek" targOrder="U">ταῖς μὲν</lemma>&mdash;again the art. in
               giving the parts of a whole.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="23">
+        </div>
+        <div type="chapter" n="23">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐπικαταβάντων</lemma>&mdash;gone down to the
@@ -2495,8 +2495,8 @@
             <p>
               <lemma lang="greek" targOrder="U">στρατόπεδον</lemma>&mdash;as l. 14 above.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="24">
+        </div>
+        <div type="chapter" n="24">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ούτως ἐπεπράγεσαν</lemma>&mdash;used of a bad
@@ -2544,8 +2544,8 @@
               joins the sentences, this being a use of <foreign lang="greek">τε</foreign> that
               gradually fell out of Attic prose.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="25">
+        </div>
+        <div type="chapter" n="25">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">οἵπερ . . . φράσουσιν</lemma>&mdash;purpose.</p>
@@ -2669,8 +2669,8 @@
               <lemma lang="greek" targOrder="U">ἔπρασσον</lemma>&mdash;of negociation or
               diplomacy, as often.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="26">
+        </div>
+        <div type="chapter" n="26">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ξυνελέγη αὐτῷ</lemma>&mdash;continues from
@@ -2699,8 +2699,8 @@
             <p>
               <lemma lang="greek" targOrder="U">ξυγκατέλαβε</lemma>&mdash;with Charicles.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="27">
+        </div>
+        <div type="chapter" n="27">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">μαχαιροφόρων</lemma>&mdash;the wearing of dirks
@@ -2795,8 +2795,8 @@
                 continual fatigue.</gloss>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="28">
+        </div>
+        <div type="chapter" n="28">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Ὠρωποῦ</lemma>&mdash;at this time O. belonged
@@ -2939,8 +2939,8 @@
               <foreign lang="greek">προσήκει ἡμᾶς οῦχ ἥκιστα εὶπεῖν, ὅσῳ καὶ μέγιστα
                 έγκλήματα ἔχομεν</foreign>; c. <bibl n="thuc. 7.41.3">41.3</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="29">
+        </div>
+        <div type="chapter" n="29">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῷ Δ. ὑστερήσαντας</lemma>&mdash;<gloss>who
@@ -3055,8 +3055,8 @@
               <lemma lang="greek" targOrder="U">μᾶλλον ἑτέρας</lemma>&mdash;a common idiom in
               place of a superlative.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="30">
+        </div>
+        <div type="chapter" n="30">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">προκεχωρηκότας</lemma>&mdash;on the return
@@ -3103,8 +3103,8 @@
                 <hi rend="ITALIC">dignus, aptus,</hi> the infin. is used only in poetry and Silver
               prose. Also the pass. infin. is used, while in Gk. the act or mid. is regular.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="31">
+        </div>
+        <div type="chapter" n="31">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τότε</lemma>&mdash;refers to c. <bibl n="thuc. 7.26.3">26.3</bibl>.</p>
@@ -3196,8 +3196,8 @@
               but as colleague, <foreign lang="greek">ξυνάρχων</foreign>, of Demosth. in this
               expedition.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="32">
+        </div>
+        <div type="chapter" n="32">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">οἱ δὲ . . . πρέσβεις</lemma>&mdash;the subj.
@@ -3244,8 +3244,8 @@
                 pectus atque os manibus verberans.</hi>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="33">
+        </div>
+        <div type="chapter" n="33">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Καμαριναῖοι</lemma>&mdash;C. had previously
@@ -3321,8 +3321,8 @@
               of the anti-Athenian party would make an offensive and defensive alliance
             possible.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="34">
+        </div>
+        <div type="chapter" n="34">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῶν ὁλκάδων</lemma>&mdash;depends on <foreign lang="greek">κομιδῆς</foreign>.</p>
@@ -3425,8 +3425,8 @@
               shows that Thuc. states this as a fact: <foreign lang="greek">νικῷεν</foreign> would
               mean that the A. reflected <foreign lang="greek">οὐ νικῷμεν</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="35">
+        </div>
+        <div type="chapter" n="35">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">παρεσκευάσθησαν</lemma>&mdash;<gloss>had been
@@ -3467,8 +3467,8 @@
             <p>
               <lemma lang="greek" targOrder="U">Πέτραν</lemma>=Leucopetra.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="36">
+        </div>
+        <div type="chapter" n="36">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">αὖθις</lemma>&mdash;referring to the previous
@@ -3656,8 +3656,8 @@
               <lemma lang="greek" targOrder="U">οὐ μεγάλου</lemma>&mdash;thus Plem. and
               Ortygia controlled the whole width of the mouth.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="37">
+        </div>
+        <div type="chapter" n="37">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">πρὸς τὴν ἑαυτῶν
@@ -3699,8 +3699,8 @@
               <lemma lang="greek" targOrder="U">ἱππέας</lemma>&mdash;Freeman remarks that it
               is strange that we hear nothing of the A. cavalry.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="38">
+        </div>
+        <div type="chapter" n="38">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῆς δὲ ἡμέρας</lemma>&mdash;<gloss>after
@@ -3765,8 +3765,8 @@
               <lemma lang="greek" targOrder="U">μέχρι νυκτὸς</lemma>&mdash;the art. omitted as
               usual with words denoting time.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="39">
+        </div>
+        <div type="chapter" n="39">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῆς . . . ὥρας πρῴτερον</lemma>&mdash;lit.
@@ -3818,8 +3818,8 @@
               to alter this to <foreign lang="greek">αὐτοῦ</foreign> with the edd., following
               Portus. It may be ethic, applying to <foreign lang="greek">πάντας</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="40">
+        </div>
+        <div type="chapter" n="40">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">καὶ οἱ μὲν</lemma>&mdash;the style here
@@ -3878,8 +3878,8 @@
               <lemma lang="greek" targOrder="U">αὐτῶν</lemma>&mdash;<foreign lang="greek">τῶν
                 πλοίων</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="41">
+        </div>
+        <div type="chapter" n="41">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">διὰ τῶν ὁλκάδων</lemma>&mdash;each of these
@@ -3919,8 +3919,8 @@
                 <bibl>Freeman</bibl>
               </cit>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="42">
+        </div>
+        <div type="chapter" n="42">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐν τούτῳ</lemma>&mdash;while the Syr.
@@ -4091,8 +4091,8 @@
               <lemma lang="greek" targOrder="U">ὅτι μὴ</lemma>&mdash;<gloss>except.</gloss>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="43">
+        </div>
+        <div type="chapter" n="43">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">μηχαναῖς</lemma>&mdash;Freeman says
@@ -4213,8 +4213,8 @@
               <lemma lang="greek" targOrder="U">οἱ Βοιωτοὶ</lemma>&mdash;i.e. the Thespians
               who in a single ship had met the Syracusan fleet at Locri (c. <bibl n="thuc. 7.25.3">25.3</bibl>). The majority of the three hundred Bocotians referred to in c. <bibl n="thuc. 7.19.3">19.3</bibl> had not yet reached Syr. See c. <bibl n="thuc. 7.50.1">50.1</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="44">
+        </div>
+        <div type="chapter" n="44">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἣν</lemma>&mdash;<gloss>with reference to
@@ -4363,8 +4363,8 @@
             <p>
               <lemma lang="greek" targOrder="U">διεφύγγανον</lemma>&mdash;The form <foreign lang="greek">φυγγάνω</foreign> is occasionally found even in the Orators.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="45">
+        </div>
+        <div type="chapter" n="45">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ᾗ ἡ πρόσβασις</lemma>&mdash;sc. <foreign lang="greek">ἐστί</foreign>, i.e. where the ascent to E. is. For the omission of
@@ -4376,8 +4376,8 @@
               &lsquo;shields&rsquo;; it is often so used by Herod. So <hi rend="ITALIC">arma</hi> in contrast with <hi rend="ITALIC">tela.</hi>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="46">
+        </div>
+        <div type="chapter" n="46">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">αὖ</lemma>&mdash;<gloss>again</gloss>
@@ -4394,8 +4394,8 @@
             <p>
               <lemma lang="greek" targOrder="U">ἐν ἐλπίδι ὢν</lemma>&mdash;cf. c. <bibl n="thuc. 7.25.1">25.1</bibl>. Here it is constructed as <foreign lang="greek">ἐλπίζω</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="47">
+        </div>
+        <div type="chapter" n="47">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">πρός τε</lemma>&mdash;<cit>
@@ -4464,8 +4464,8 @@
               <lemma lang="greek" targOrder="U">εἰκὸς εἶναι</lemma>&mdash;<hi rend="ITALIC">decere.</hi>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="48">
+        </div>
+        <div type="chapter" n="48">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐνόμιζε μὲν</lemma>&mdash;Freeman says
@@ -4711,8 +4711,8 @@
               beaten by <hi rend="ITALIC">money.</hi> And Nicias chooses words which will bear both
               senses, as they help to disgnise the weakness of the A.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="49">
+        </div>
+        <div type="chapter" n="49">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἰσχυρίζετο</lemma>&mdash;<gloss>spoke
@@ -4794,8 +4794,8 @@
               <lemma lang="greek" targOrder="U">κατὰ χώραν ἔμενον</lemma>&mdash;a common
               phrase. (Stein on <bibl n="Hdt. 3.135">Herod. III. 135</bibl>, Kock on <bibl n="Aristoph. Kn. 1354">Aristoph. Eq. 1354</bibl>.)</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="50">
+        </div>
+        <div type="chapter" n="50">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Γύλιππος</lemma>&mdash;see c. <bibl n="Thuc. 7.46">46</bibl>.</p>
@@ -4906,8 +4906,8 @@
               attacked. &lsquo;And so the A., after delaying for this reason, had resolved to
               remain.&rsquo;</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="51">
+        </div>
+        <div type="chapter" n="51">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐπηρμένοι ἦσαν</lemma>&mdash;<gloss>felt
@@ -4957,8 +4957,8 @@
               <lemma lang="greek" targOrder="U">ἵππους</lemma>&mdash;apparently he does not
               know how many riders were killed. Donbtless in the confusion some escaped.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="52">
+        </div>
+        <div type="chapter" n="52">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ταῖς τε ναυσὶν</lemma>&mdash;the Syr. had not
@@ -4981,8 +4981,8 @@
               ἐπισπομένας</lemma>&mdash;cf. <foreign lang="greek">μετὰ Ἀθηναίων
                 ἠκολούθουν</foreign> c. <bibl n="thuc. 7.57.9">57.9</bibl>. Diodorus says that <hi rend="ITALIC">seven</hi> A. ships were here sunk.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="53">
+        </div>
+        <div type="chapter" n="53">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Γύλιππος</lemma>&mdash;he had remained on
@@ -5049,8 +5049,8 @@
               <lemma lang="greek" targOrder="U">παύσαντες . . . τὸ μὴ
               προσελθεῖν</lemma>&mdash;see on c. <bibl n="thuc. 7.33.3">33.3</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="54">
+        </div>
+        <div type="chapter" n="54">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῆς ἄνω</lemma>&mdash;that related in c.
@@ -5063,8 +5063,8 @@
               <lemma lang="greek" targOrder="U">ὅθεν</lemma>&mdash;<gloss>by which.</gloss>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="55">
+        </div>
+        <div type="chapter" n="55">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">λαμπρᾶς</lemma> &mdash; cf. <bibl n="Thuc. 2.7.1">II. 7.1</bibl>
@@ -5177,8 +5177,8 @@
             <p>
               <lemma lang="greek" targOrder="U">μᾶλλον</lemma>&mdash;sc. <foreign lang="greek">ἠπόρουν</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="56">
+        </div>
+        <div type="chapter" n="56">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἀδεῶς</lemma>&mdash;even past the A. station.
@@ -5279,8 +5279,8 @@
               supply <foreign lang="greek">ξυνελθόντος</foreign>, but the ellipse is very awkward,
               and, as Stahl says, the sense <hi rend="ITALIC">ad urbem convenire</hi> is absurd.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="57">
+        </div>
+        <div type="chapter" n="57">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐπὶ Σ. καὶ περὶ Σ.</lemma>&mdash;belongs
@@ -5582,8 +5582,8 @@
               <lemma lang="greek" targOrder="U">τοσάδε . . . ἔθνη</lemma>&mdash;it must have
               been very hard to get all these different elements to work with a common will.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="58">
+        </div>
+        <div type="chapter" n="58">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Καμαριναῖοι</lemma>&mdash;see on c. <bibl n="thuc. 7.33.1">33.1</bibl>, as also for <foreign lang="greek">Γελῷοι</foreign>.</p>
@@ -5644,8 +5644,8 @@
               troops <foreign lang="greek">ὅμιλος</foreign> is confined to poetry, Herod., Thuc.,
               and late authors. Thuc. uses it often.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="59">
+        </div>
+        <div type="chapter" n="59">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">οὐκέτι οὐδὲν κ.τ.λ.</lemma>&mdash;the object
@@ -5686,8 +5686,8 @@
                 <bibl n="Plut. Demetr. 43">Plut. Demetr. 43</bibl>
               <foreign lang="greek">μικρὸν οὐδὲν ἔτι ἐφρόνουν</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="60">
+        </div>
+        <div type="chapter" n="60">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τὴν ἄλλην
@@ -5755,8 +5755,8 @@
               <lemma lang="greek" targOrder="U">κρατηθῆναι</lemma>&mdash;alluding to cc.
             52-3.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="61">
+        </div>
+        <div type="chapter" n="61">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἄλλων</lemma>&mdash;see c. <bibl n="thuc. 7.4.3">4.3</bibl>.</p>
@@ -5823,8 +5823,8 @@
               <lemma lang="greek" targOrder="U">ὑμῶν αὐτῶν</lemma>&mdash;attracted into the
               rel. clause, like <foreign lang="greek">ἕκαστος</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="62">
+        </div>
+        <div type="chapter" n="62">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Ἃ δὲ ἀρωγὰ κ.τ.λ.</lemma>&mdash;<gloss>we
@@ -5894,8 +5894,8 @@
               <lemma lang="greek" targOrder="U">ὅσον ἂν . . . ἐπέχῃ</lemma> &mdash;
               &lsquo;so much as our troops will occupy.&rsquo;</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="63">
+        </div>
+        <div type="chapter" n="63">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ὧν χρὴ κ.τ.λ.</lemma>&mdash;<gloss>Bear this
@@ -6019,8 +6019,8 @@
                 <foreign lang="greek">καὶ μετ’ ἀσθενείας καὶ ξ.</foreign> Observe this very
               common use of <foreign lang="greek">μετὰ</foreign> with abstract nouns.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="64">
+        </div>
+        <div type="chapter" n="64">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τούς τε Ἀ. κ.τ.λ.</lemma>&mdash;<gloss>Those
@@ -6095,8 +6095,8 @@
             <p>
               <lemma lang="greek" targOrder="U">προφέρει</lemma> = <foreign lang="greek">προέχει</foreign>, but used so only by Herod., Thuc., and poets.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="65">
+        </div>
+        <div type="chapter" n="65">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">παρῆν μὲν κ.τ λ.</lemma>&mdash;<gloss>as they
@@ -6120,8 +6120,8 @@
               <lemma lang="greek" targOrder="U">ὅπως ἂν ἀπολισθάνοι</lemma>&mdash;<foreign lang="greek">ὅπως ἃν</foreign> appears with opt. in final clauses in Homer,
               Herod., only here in Thuc., and four times in Xen, and in <bibl n="Aesch. Ag. 364">Aesch. Ag. 364</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="66">
+        </div>
+        <div type="chapter" n="66">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Ὅτι μὲν καλὰ
@@ -6180,8 +6180,8 @@
                 their enemies will look forward to nothing but <hi rend="ITALIC">defeat,</hi> and
                 consequently will fail to exert the power which they have.</gloss> Bloomfield.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="67">
+        </div>
+        <div type="chapter" n="67">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἡμῶν δὲ κ.τ.λ.</lemma>&mdash;<gloss>with us
@@ -6272,8 +6272,8 @@
               &lsquo;actual force&rsquo; here, as Bloomfield and Arnold say, but it is
                 <foreign lang="greek">τὸ παρεσκευάσθαι</foreign>, the opposite of <foreign lang="greek">ἀταξία</foreign> in c. <bibl n="thuc. 7.68.1">68.1</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="68">
+        </div>
+        <div type="chapter" n="68">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Πρὸς οὖν ἀταξίαν
@@ -6401,8 +6401,8 @@
               <lemma lang="greek" targOrder="U">σφαλῆναι βλάπτοντες</lemma>&mdash;<foreign lang="greek">σφαλλω</foreign> and <foreign lang="greek">βλάπτω</foreign> are often
               near neighbours.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="69">
+        </div>
+        <div type="chapter" n="69">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">καὶ οἱ μὲν</lemma>&mdash;the description of
@@ -6552,8 +6552,8 @@
               he should have told us.) <pb n="194"/>
             </p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="70">
+        </div>
+        <div type="chapter" n="70">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">προεξαγαγόμενοι</lemma>&mdash;<gloss>putting
@@ -6678,8 +6678,8 @@
             <p>
               <lemma lang="greek" targOrder="U">φεύγοντας φεύγουσιν</lemma>&mdash;<hi rend="ITALIC">traductio,</hi> for the sake of heightening the contrast.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="71">
+        </div>
+        <div type="chapter" n="71">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ὅ τε ἐκ τῆς γῆς</lemma>&mdash;the following
@@ -6843,8 +6843,8 @@
               <lemma lang="greek" targOrder="U">ἐν</lemma>&mdash;the perf. partic. of a verb of
               motion implies rest in, and so <foreign lang="greek">ἐν</foreign> can be used.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="72">
+        </div>
+        <div type="chapter" n="72">
           <div3 type="SECTION" n="2">
             <p>
               <lemma lang="greek" targOrder="U">νεκρῶν μὲν πέρι ἢ
@@ -6870,8 +6870,8 @@
             <p>
               <lemma lang="greek" targOrder="U">ἂν ἔτι</lemma>&mdash;with <foreign lang="greek">κρατῆσαι</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="73">
+        </div>
+        <div type="chapter" n="73">
           <div3 type="SECTION" n="1">
             <p/>
             <p>
@@ -6971,8 +6971,8 @@
             <p>
               <lemma lang="greek" targOrder="U">τῶν ἔνδοθεν</lemma>&mdash;neut.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="74">
+        </div>
+        <div type="chapter" n="74">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">πρὸς τὸ ἄγγελμα</lemma>&mdash;how near this
@@ -7028,8 +7028,8 @@
               their graves and bones have been recently found. (See Freeman <hi rend="ITALIC">Hist.
                 Sic.</hi> III. p. 365.)</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="75">
+        </div>
+        <div type="chapter" n="75">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">παρεσκευάσθαι</lemma>&mdash;impersonal.</p>
@@ -7243,8 +7243,8 @@
                 ναυτικῷ</lemma>&mdash;<gloss>trusting, not to a fleet, but to
               hoplites.</gloss> This was a bad omen for the queen of the sea.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="76">
+        </div>
+        <div type="chapter" n="76">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ὡς ἐκ τῶν ὑ.</lemma>&mdash;<gloss>as well as
@@ -7263,8 +7263,8 @@
               <lemma lang="greek" targOrder="U">γεγωνίσκων</lemma>&mdash;a poetical word for
                 <foreign lang="greek">γέγωνα</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="77">
+        </div>
+        <div type="chapter" n="77">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">Ἔτι καὶ ἐκ κ.τ.λ.</lemma>&mdash;<gloss>even
@@ -7388,8 +7388,8 @@
               &verbar; <foreign lang="greek">ἐρῆμος ἀνδρῶν μὴ ξυνοικούντων
               ἔσω</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="78">
+        </div>
+        <div type="chapter" n="78">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἄμα</lemma>&mdash;with <foreign lang="greek">παρακελευόμενος</foreign>.</p>
@@ -7442,8 +7442,8 @@
               <lemma lang="greek" targOrder="U">ἀποχωρεῖν</lemma>&mdash;i.e. from the main
               body, for the purpose of foraging</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="79">
+        </div>
+        <div type="chapter" n="79">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἐβιάσαντο πρὸς</lemma>&mdash;<gloss>forced
@@ -7501,8 +7501,8 @@
               <lemma lang="greek" targOrder="U">ἀνεπαύοντο</lemma>&mdash;a little south of the
               camp of the previous night.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="80">
+        </div>
+        <div type="chapter" n="80">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῶν τε ἐ. . . . ἀπορίᾳ . . . καὶ . . .
@@ -7591,8 +7591,8 @@
               <lemma lang="greek" targOrder="U">ἐκέλευον</lemma>&mdash;sc. <foreign lang="greek">χωρεῖν</foreign>&mdash;this was done in the hope that they might
               find some way into the interior that was unoccupied by the enemy.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="81">
+        </div>
+        <div type="chapter" n="81">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἡ ήμέρα</lemma>&mdash;i.e. the day referred
@@ -7667,8 +7667,8 @@
               <lemma lang="greek" targOrder="U">ἐπ’</lemma>&mdash;<hi rend="ITALIC">ut in.</hi>
               The <foreign lang="greek">μὴ</foreign> is inserted because hindrance is implied.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="82">
+        </div>
+        <div type="chapter" n="82">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τῶν νησιωτῶν</lemma>&mdash;who might be
@@ -7705,8 +7705,8 @@
               not <foreign lang="greek">ἠναντιούμην</foreign>; see Rutherford <hi rend="ITALIC">New Phryn.</hi> p. 81; and for the Attic uses of <foreign lang="greek">καθίζω</foreign>
               <hi rend="ITALIC">ib.</hi> p. 336.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="83">
+        </div>
+        <div type="chapter" n="83">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">σπένδεται</lemma>&mdash;the middle expresses
@@ -7739,8 +7739,8 @@
               <lemma lang="greek" targOrder="U">ἐχώρουν</lemma>&mdash;they were afterwards
               caught; c. <bibl n="thuc. 7.85.2">85.2</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="84">
+        </div>
+        <div type="chapter" n="84">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">ἦγε</lemma>&mdash;still along the Helorine
@@ -7804,8 +7804,8 @@
             <p>
               <lemma lang="greek" targOrder="U">ὁμοῦ τῷ πηλῷ</lemma>&mdash;with <foreign lang="greek">ἐπίνετο</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="85">
+        </div>
+        <div type="chapter" n="85">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τοῦ μὲν . . . τοῦ
@@ -7871,8 +7871,8 @@
               They continued to fight for Catana against Syr. <bibl n="Lys. 20.24">Lys.
               20.24</bibl>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="86">
+        </div>
+        <div type="chapter" n="86">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">τὰ σκῦλα</lemma>&mdash;<bibl n="Plut. Nic. 27">Plut. Nic. 27</bibl> says that the finest trees on the banks of the Assinarus were
@@ -7929,8 +7929,8 @@
                 ἐπιτετηδευκότες, ἣν δὴ καλοῦσι σωφροσύνην τε καὶ δικαιοσύνην, ἐξ ἔθους
                 τε καὶ μελέτης γεγονυῖαν ἄνευ φιλοσοφίας τε καὶ νοῦ</foreign>.</p>
           </div3>
-        </div2>
-        <div2 type="CHAPTER" n="87">
+        </div>
+        <div type="chapter" n="87">
           <div3 type="SECTION" n="1">
             <p>
               <lemma lang="greek" targOrder="U">μετεχείρισαν</lemma>&mdash;Thuc. like Herod.,
@@ -8024,8 +8024,8 @@
               </quote>
             </p>
           </div3>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI.2>

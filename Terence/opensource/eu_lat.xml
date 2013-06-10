@@ -133,8 +133,8 @@ new additions
 <castItem type="role"><role>THRASO</role><roleDesc>miles.</roleDesc></castItem>
 </castList>
 
-<div1 type="act" n="introduction">
-<div2 type="scene" n="summary">
+<div type="act" n="introduction">
+<div type="scene" n="summary">
 <head>INTRODUCTION.</head>
 
 <p lang="en">PAMPHILA and Chremes were the children of an Athenian
@@ -223,18 +223,18 @@ delicate, even in the famous scene which describes the successful
 issue of Chaerea's scheme. The play is said by the author of the Life
 of Terence to have been acted twice in one day: and no doubt it was
 acted on more than one occasion.
-</p></div2>
-<div2 type="scene" n="production">
+</p></div>
+<div type="scene" n="production">
 <p>EUNUCHUS.  ACTA LUDIS MEGALENSIBUS, L. POSTUMIO ALBINO L. CORNELIO MERULA AEDILIBUS CURULIBUS. EGERE L. AMBIVIUS TURPIO L. ATILIUS PRAENESTINUS TIBIIS DUABUS DEXTRIS. GRAECA MENANDRU. ACTA II. MODOS FECIT FLACCUS CLAUDII, M. VALERIO C. FANNIO COSS.
 
-</p></div2></div1>
-<div1 type="act" n="prologue">
-<div2 type="scene" n="0">
+</p></div></div>
+<div type="act" n="prologue">
+<div type="scene" n="0">
 <sp><speaker>Prologus</speaker>
 
 <lb ed="TLN" n="1"/><p><l>Si quisquam est qui placere se studeat bonis
-<lb ed="TLN" n="2"/></l><l>Quam plurimis et minime multos laedere,</l></p></sp></div2>
-<div2><lb ed="TLN" n="3"/><p><l>In his poeta hic nomen profitetur suum.
+<lb ed="TLN" n="2"/></l><l>Quam plurimis et minime multos laedere,</l></p></sp></div>
+<div><lb ed="TLN" n="3"/><p><l>In his poeta hic nomen profitetur suum.
 <lb ed="TLN" n="4"/></l><l>Tum si quis est qui dictum in se inclementius
 <lb ed="TLN" n="5"/></l><l n="5">Existimavit esse, sic existimet,
 <lb ed="TLN" n="6"/></l><l>Responsum non dictum esse, quia laesit prior,
@@ -280,10 +280,10 @@ acted on more than one occasion.
 <lb ed="TLN" n="43"/></l><l>Quae veteres factitarunt si faciunt novi.
 <lb ed="TLN" n="44"/></l><l>Date operam, et cum silentio animadvertite,
 <lb ed="TLN" n="45"/></l><l n="45">Ut pernoscatis quid sibi Eunuchus velit.
-</l></p></div2></div1>
-<div1 type="act" n="1">
+</l></p></div></div>
+<div type="act" n="1">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>PHAEDRIA. PARMENO.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="46"/><p><l>Quid igitur faciam? non eam? ne nunc quidem
 <lb ed="TLN" n="47"/></l><l>Cum arcessor ultro? an potius ita me comparem
@@ -326,8 +326,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="79"/></l><l>Sed ecca ipsa egreditur nostri fundi calamitas;
 <lb ed="TLN" n="80"/></l><l n="35">Nam quod nos capere oportet haec intercipit.
 
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>THAIS. PHAEDRIA. PARMENO.</stage>
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="81"/><p><l>Miseram me! vereor ne illud gravius Phaedria
 <lb ed="TLN" n="82"/></l><l>Tulerit, neve aliorsum atque ego feci acceperit,
@@ -487,10 +487,10 @@ acted on more than one occasion.
 <lb ed="TLN" n="204"/></l><l>Iam repperisse, adolescentem adeo nobilem:
 <lb ed="TLN" n="205"/></l><l n="125">Et is hodie venturum ad me constituit domum.
 <lb ed="TLN" n="206"/></l><l>Concedam hinc intro atque expectabo dum venit.
-</l></p></sp></div2></div1>
-<div1 type="act" n="2">
+</l></p></sp></div></div>
+<div type="act" n="2">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>PHAEDRIA. PARMENO.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="207"/><p><l part="I">Fac ita ut iussi deducantur isti. 
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="M"> Faciam. 
@@ -535,8 +535,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="229"/></l><l>Militis: ducit secum una virginem dono huic. Papae!
 <lb ed="TLN" n="230"/></l><l>Facie honesta: mirum ni ego me turpiter hodie hic dabo
 <lb ed="TLN" n="231"/></l><l n="25">Cum meo decrepito hoc eunucho. Haec superat ipsam Thaidem.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>GNATHO. PARMENO.</stage>
 <sp><speaker>Gn.</speaker> <lb ed="TLN" n="232"/><p><l>Di immortales! homini homo quid praestat, stulto intelligens
 <lb ed="TLN" n="233"/></l><l>Quid interest! hoc adeo ex hac re venit in mentem mihi.
@@ -623,8 +623,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="289"/></l><l>Sed video herilem filium minorem huc advenire.
 <lb ed="TLN" n="290"/></l><l>Miror quid ex Piraeeo abierit; nam ibi custos publice est nunc.
 <lb ed="TLN" n="291"/></l><l n="60">Non temere est; et properans venit: nescio quid circumspectat.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>CHAEREA. PARMENO.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="292"/><p><l>Occidi.
 <lb ed="TLN" n="293"/></l><l>Neque virgo est usquam; neque ego, qui illam e conspectu amisi meo.
@@ -800,10 +800,10 @@ acted on more than one occasion.
 <lb ed="TLN" n="389"/></l><l>Numquam defugiam auctoritatem: sequere. 
    </l></p></sp><sp><speaker>Pa.</speaker> <p><l part="Y"> Di vortant bene.
 
-</l></p></sp></div2></div1>
-<div1 type="act" n="3">
+</l></p></sp></div></div>
+<div type="act" n="3">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>THRASO. GNATHO. PARMENO.</stage>
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="390"/><p><l>Magnas vero agere gratias Thais mihi?</l></p></sp>
 <sp><speaker>Gn.</speaker> <lb ed="TLN" n="391"/><p><l>Ingentes. 
@@ -904,8 +904,8 @@ acted on more than one occasion.
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="450"/><p><l>Bene dixti: at mihi istuc non in mentem venerat.</l></p></sp>
 <sp><speaker>Gn.</speaker> <lb ed="TLN" n="451"/><p><l>Ridiculum: non enim cogitaras: caeterum
 <lb ed="TLN" n="452"/></l><l>Idem hoc tute melius quanto invenisses Thraso!
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>THAIS. THRASO. PARMENO. GNATHO. PYTHIAS.</stage>
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="453"/><p><l>Audire vocem visa sum modo militis.
 <lb ed="TLN" n="454"/></l><l>Atque eccum. Salve mi Thraso. 
@@ -987,8 +987,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="505"/></l><l>Domi adsitis facite. 
    </l></p></sp><sp><speaker>Thr.</speaker> <p><l part="Y"> Eamus. 
    </l></p></sp><sp><speaker>Th.</speaker> <p><l part="Y"> Vos me sequimini.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>CHREMES. PYTHIAS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="506"/><p><l>Profecto quanto magis magisque cogito,
 <lb ed="TLN" n="507"/></l><l>Nimirum dabit haec Thais mihi magnum malum:
@@ -1033,8 +1033,8 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> Eo.</l></p></sp>
 <sp><speaker>Py.</speaker> <lb ed="TLN" n="537"/><p><l>Abi Dorias cito hunc deduce ad militem.
 
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>ANTIPHO.</stage>
 <sp><speaker>Antipho</speaker>
 <lb ed="TLN" n="538"/><p><l>Heri aliquot adolescentuli coimus in Piraeeo,
@@ -1048,8 +1048,8 @@ acted on more than one occasion.
 
 <lb ed="TLN" n="546"/></l><l>Quid illud mali est? nequeo satis mirari neque coniicere.
 <lb ed="TLN" n="547"/></l><l n="10">Nisi quicquid est, procul hinc libet prius quid sit sciscitari.
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>CHAEREA. ANTIPHO.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="548"/><p><l>Numquis hic est? nemo est: numquis hinc me sequitur? nemo homo est.
 <lb ed="TLN" n="549"/></l><l>Iamne erumpere hoc licet mihi gaudium? pro Iupiter!
@@ -1146,10 +1146,10 @@ acted on more than one occasion.
 <lb ed="TLN" n="613"/></l><l>Potiri, consilium volo capere una tecum. 
    </l></p></sp><sp><speaker>An.</speaker> <p><l part="Y"> Fiat.
 
-</l></p></sp></div2></div1>
-<div1 type="act" n="4">
+</l></p></sp></div></div>
+<div type="act" n="4">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>DORIAS.</stage>
 <sp><speaker>Dorias</speaker>
 <lb ed="TLN" n="614"/><p><l>Ita me Di ament, quantum ego illum vidi, nonnihil timeo misera
@@ -1167,8 +1167,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="625"/></l><l>In convivium illam?" Miles tendere: inde ad iurgium.
 <lb ed="TLN" n="626"/></l><l>Interea aurum sibi clam mulier demit; dat mihi ut auferam.
 <lb ed="TLN" n="627"/></l><l>Hoc est signi; ubi primum poterit se illinc subducet, scio.
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>PHAEDRIA.</stage>
 <sp><speaker>Phaedria</speaker>
 <lb ed="TLN" n="628"/><p><l>Dum rus eo coepi egomet mecum inter vias,
@@ -1185,8 +1185,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="639"/></l><l>Saltem hoc licebit. Certe extrema linea
 <lb ed="TLN" n="640"/></l><l>Amare haud nihil est." Villam praetereo sciens.
 <lb ed="TLN" n="641"/></l><l>Sed quid hoc quod timida subito egreditur Pythias?
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>PYTHIAS. PHAEDRIA. DORIAS.</stage>
 <sp><speaker>Py.</speaker> <lb ed="TLN" n="642"/><p><l>Ubi ego ilium scelerosum misera atque impium inveniam? aut ubi quaeram?
 
@@ -1225,8 +1225,8 @@ acted on more than one occasion.
 <sp><speaker>Py.</speaker> <lb ed="TLN" n="664"/><p><l>At pol ego amatores mulierum esse audieram eos maximos,
 <lb ed="TLN" n="665"/></l><l>Sed nihil potesse; verum miserae non in mentem venerat;
 <lb ed="TLN" n="666"/></l><l n="25">Nam illum aliquo conclusissem, neque illi commisissem virginem.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>PHAEDRIA. DORUS. PYTHIAS. DORIAS.</stage>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="667"/><p><l>Exi foras, sceleste: at etiam restitas
 <lb ed="TLN" n="668"/></l><l>Fugitive? prodi, male conciliate. 
@@ -1340,8 +1340,8 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Dor.</speaker> <p><l part="Y"> Quia cum inde abeo, iam tum inceperat
 <lb ed="TLN" n="725"/></l><l>Turba inter eos. 
    </l></p></sp><sp><speaker>Py.</speaker> <p><l part="Y"> Aufer aurum hoc: ego scibo ex hoc quid siet.
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>CHREMES. PYTHIAS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="726"/><p><l>At at! data hercle verba mihi sunt: vicit vinum quod bibi.
 
@@ -1361,8 +1361,8 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> At nescibam id dicere illam; nisi quia
 <lb ed="TLN" n="736"/></l><l>Correxit miles quod intellexi minus: nam me extrusit foras.
 <lb ed="TLN" n="737"/></l><l>Sed eccam ipsam: miror ubi ego huic anteverterim.
-</l></p></sp></div2>
-<div2 type="scene" n="6">
+</l></p></sp></div>
+<div type="scene" n="6">
 <stage>THAIS. CHREMES. PYTHIAS.</stage>
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="738"/><p><l>Credo equidem ilium iam adfuturum esse, ut illam a me eripiat. Sine veniat.
 
@@ -1420,8 +1420,8 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Ch.</speaker> <p><l part="Y"> Faciam. 
    </l></p></sp><sp><speaker>Th.</speaker> <p><l part="Y"> Attolle pallium.
 <lb ed="TLN" n="769"/></l><l>Perii! huic ipsi est opus patrono quem defensorem paro.
-</l></p></sp></div2>
-<div2 type="scene" n="7">
+</l></p></sp></div>
+<div type="scene" n="7">
 <stage>THRASO. GNATHO. SANGA. CHREMES. THAIS.</stage>
 <sp><speaker>Thr.</speaker> <lb ed="TLN" n="770"/><p><l>Hancine ego ut contumeliam tam insignem in me accipiam, Gnatho?
 <lb ed="TLN" n="771"/></l><l>Mori me satius est. Simalio, Donax, Syrisce, sequimini.
@@ -1513,10 +1513,10 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Gn.</speaker> <p><l part="Y"> Frugi es. 
    </l></p></sp><sp><speaker>Thr.</speaker> <p><l part="Y"> Vos me hac sequimini.
 
-</l></p></sp></div2></div1>
-<div1 type="act" n="5">
+</l></p></sp></div></div>
+<div type="act" n="5">
 
-<div2 type="scene" n="1">
+<div type="scene" n="1">
 <stage>THAIS. PYTHIAS.</stage>
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="816"/><p><l>Pergin scelesta mecum perplexe loqui?
 <lb ed="TLN" n="817"/></l><l>"Scio; nescio; abiit; audivi; ego non affui."
@@ -1556,8 +1556,8 @@ acted on more than one occasion.
 
 <lb ed="TLN" n="837"/></l><l>Vide amabo si non, qutun adspicias, os impudens
 <lb ed="TLN" n="838"/></l><l>Videtur: non est? tum quae eius confidentia est!
-</l></p></sp></div2>
-<div2 type="scene" n="2">
+</l></p></sp></div>
+<div type="scene" n="2">
 <stage>CHAEREA. THAIS. PYTHIAS.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="839"/><p><l>Apud Antiphonem uterque, mater et pater,
 <lb ed="TLN" n="840"/></l><l>Quasi dedita opera domi erant, ut nullo modo
@@ -1660,8 +1660,8 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Py.</speaker> <p><l part="Y"> Id ipsum? Virgo vero. 
    </l></p></sp><sp><speaker>Th.</speaker> <p><l part="Y"> I prae; sequor.
 <lb ed="TLN" n="908"/></l><l n="70">Tu istic mane, ut Chremem introducas, Pythias.
-</l></p></sp></div2>
-<div2 type="scene" n="3">
+</l></p></sp></div>
+<div type="scene" n="3">
 <stage>PYTHIAS. CHREMES. SOPHRONA.</stage>
 <sp><speaker>Py.</speaker> <lb ed="TLN" n="909"/><p><l>Quid? quid venire in mentem nunc possit mihi?
 <lb ed="TLN" n="910"/></l><l>Quidnam qui referam illi sacrilego gratiam
@@ -1682,8 +1682,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="919"/></l><l>Spero me habere qui hunc meo excruciem modo.
 <lb ed="TLN" n="920"/></l><l>Ibo intro de cognitione ut certum sciam:
 <lb ed="TLN" n="921"/></l><l>Post exibo atque hunc perterrebo sacrilegum.
-</l></p></sp></div2>
-<div2 type="scene" n="4">
+</l></p></sp></div>
+<div type="scene" n="4">
 <stage>PARMENO. PYHIAS.</stage>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="922"/><p><l>Reviso quidnam Chaerea hic rerum gerat.
 <lb ed="TLN" n="923"/></l><l>Quod si astu rem tractavit, Di vestram fidem,
@@ -1755,8 +1755,8 @@ acted on more than one occasion.
    </l></p></sp><sp><speaker>Py.</speaker> <p><l part="Y"> Sapis.
 <lb ed="TLN" n="969"/></l><l>Ego abeo intro: tu isti narra omnem rem ordine ut factum siet.
 
-</l></p></sp></div2>
-<div2 type="scene" n="5">
+</l></p></sp></div>
+<div type="scene" n="5">
 <stage>LACHES. PARMENO.</stage>
 <sp><speaker>La.</speaker> <lb ed="TLN" n="970"/><p><l>Ex meo propinquo rure hoc capio commodi,
 <lb ed="TLN" n="971"/></l><l>Neque agri neque urbis odium me umquam percipit.
@@ -1802,8 +1802,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="999"/></l><l n="30">Nam iam diu aliquam causam quaerebat senex,
 <lb ed="TLN" n="1000"/></l><l>Quamobrem insigne aliquid faceret iis. Nunc repperit.
 
-</l></p></sp></div2>
-<div2 type="scene" n="6">
+</l></p></sp></div>
+<div type="scene" n="6">
 <stage>PYTHIAS. PARMENO.</stage>
 <sp><speaker>Py.</speaker> <lb ed="TLN" n="1001"/><p><l>Numquam edepol quicquam iam diu quod magis vellem evenire
 <lb ed="TLN" n="1002"/></l><l>Mihi evenit quam quod modo senex intro ad nos venit errans.
@@ -1840,8 +1840,8 @@ acted on more than one occasion.
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="1022"/><p><l>Nullus sum. 
    </l></p></sp><sp><speaker>Py.</speaker> <p><l part="Y"> Hic pro illo munere tibi honos est habitus: abeo.</l></p></sp>
 <sp><speaker>Pa.</speaker> <lb ed="TLN" n="1023"/><p><l>Egomet meo indicio miser quasi sorex hodie perii.
-</l></p></sp></div2>
-<div2 type="scene" n="7">
+</l></p></sp></div>
+<div type="scene" n="7">
 <stage>GNATHO. THRASO.</stage>
 <sp><speaker>Gn.</speaker> <lb ed="TLN" n="1024"/><p><l>Quid nunc? qua spe aut quo consilio huc imus? quid inceptas, Thraso?</l></p></sp>
 <sp><speaker>Th.</speaker> <lb ed="TLN" n="1025"/><p><l>Egone? ut Thaidi me dedam, et faciam quod iubeat. 
@@ -1853,8 +1853,8 @@ acted on more than one occasion.
 <lb ed="TLN" n="1028"/></l><l n="5">Sed fores crepuerunt ab ea. 
    </l></p></sp><sp><speaker>Th.</speaker> <p><l part="Y"> Perii. Quid hoc autem est mali?
 <lb ed="TLN" n="1029"/></l><l>Hunc ego numquam videram etiam: quidnam hic properans prosilit?
-</l></p></sp></div2>
-<div2 type="scene" n="8">
+</l></p></sp></div>
+<div type="scene" n="8">
 <stage>CHAEREA. PARMENO. PHAEDRIA. GNATHO. THRASO.</stage>
 <sp><speaker>Ch.</speaker> <lb ed="TLN" n="1030"/><p><l>O populares, ecquis me hodie vivit fortunatior?
 <lb ed="TLN" n="1031"/></l><l>Nemo hercle quisquam; nam in me plane Di potestatem suam
@@ -1966,6 +1966,6 @@ acted on more than one occasion.
 <lb ed="TLN" n="1091"/></l><l>Numquam etiam fui usquam quin me omlnes amarent plurimum.</l></p></sp>
 <sp><speaker>Gn.</speaker> <lb ed="TLN" n="1092"/><p><l>Dixine ego in hoc inesse vobis Atticam elegantiam?</l></p></sp>
 <sp><speaker>Ph.</speaker> <lb ed="TLN" n="1093"/><p><l>Nihil praetermissum est: ite hac. 
-   </l></p></sp><sp><speaker>Omnes</speaker> <p><l part="Y">Vol valete, et plaudite.</l></p></sp></div2></div1>
+   </l></p></sp><sp><speaker>Omnes</speaker> <p><l part="Y">Vol valete, et plaudite.</l></p></sp></div></div>
 </body></text>
 </TEI.2>

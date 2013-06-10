@@ -55,7 +55,7 @@
 
     <text>
         <body>
-            <div1 n="1" type="speech">
+            <div n="1" type="speech">
                 <head>First Olynthiac</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>You would, I
@@ -261,9 +261,9 @@
                     fatherland; of the statesmen, that they may give a ready account of their
                     stewardship, for as is the issue of these events, so will be your judgement of
                     their policy. On every ground may that issue be prosperous!</p>
-            </div1>
+            </div>
 
-            <div1 n="2" type="speech">
+            <div n="2" type="speech">
                 <head>Second Olynthiac</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>On many
@@ -494,9 +494,9 @@
                     this man or that man is pleased to suggest. If you do this, you will be able to
                     congratulate the speaker at once and yourselves later on, when you find the
                     cause of the nation prospering.</p>
-            </div1>
+            </div>
 
-            <div1 n="3" type="speech">
+            <div n="3" type="speech">
                 <head>Third Olynthiac</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>Very different,
@@ -746,9 +746,9 @@
                         <milestone unit="para" ed="P"/>I have now said almost all that I consider
                     suitable. It is for you to choose what is likely to benefit the city and all of
                     you.</p>
-            </div1>
+            </div>
 
-            <div1 n="4" type="speech">
+            <div n="4" type="speech">
                 <head>First Philippic</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>If the question
@@ -1119,9 +1119,9 @@
                     uncertainty of what the result of my proposal may be for myself, yet in the
                     conviction that it will be to your interest to adopt it, I have ventured to
                     address you. Whatever shall be to the advantage of all, may that prevail!</p>
-            </div1>
+            </div>
 
-            <div1 n="5" type="speech">
+            <div n="5" type="speech">
                 <head>On the Peace</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>I perceive, men
@@ -1288,9 +1288,9 @@
                     perversity, after dealing with the powers one by one on matters of vital concern
                     to ourselves, to challenge them all together to fight about this phantom at
                         <placeName key="perseus,Delphi">Delphi</placeName>.</p>
-            </div1>
+            </div>
 
-            <div1 n="6" type="speech">
+            <div n="6" type="speech">
                 <head>Second Philippic</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>Whenever, men of
@@ -1543,9 +1543,9 @@
                     brought to the sternest test! For I would not willingly see one man suffer, even
                     though he deserve to perish, if his punishment involves the danger and the
                     damage of all.</p>
-            </div1>
+            </div>
 
-            <div1 n="7" type="speech">
+            <div n="7" type="speech">
                 <head>On Halonnesus</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>Men of
@@ -1829,9 +1829,9 @@
                     for me, in answer to this precious letter and to the speeches of the
                     ambassadors, to propose the resolution which I conceive to be in accordance with
                     justice and your interests.</p>
-            </div1>
+            </div>
 
-            <div1 n="8" type="speech">
+            <div n="8" type="speech">
                 <head>On the <placeName key="tgn,7017285">Chersonese</placeName></head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>It should be the
@@ -2311,9 +2311,9 @@
                     of dissent or approval, and drawing back from every call to duty, I see not that
                     any words, divorced from the necessary action on your part, can ever save the
                     State.</p>
-            </div1>
+            </div>
 
-            <div1 n="9" type="speech">
+            <div n="9" type="speech">
                 <head>Third Philippic</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>Many speeches
@@ -2810,9 +2810,9 @@
                     may retrieve our fortunes. If anyone has anything better to propose, let him
                     speak and advise. But whatever you decide, I pray heaven it may be to your
                     advantage.</p>
-            </div1>
+            </div>
 
-            <div1 n="10" type="speech">
+            <div n="10" type="speech">
                 <head>Fourth Philippic</head>
                 <p>
                     <milestone unit="section" n="1"/><milestone unit="para" ed="P"/>The matters that
@@ -3333,7 +3333,7 @@
                     the State into our enemies' hands. Either, then, you must abandon these habits
                     of yours, or you must throw the blame for all our failures on no one but
                     yourselves.</p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

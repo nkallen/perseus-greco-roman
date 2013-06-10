@@ -138,13 +138,13 @@ initial coding
 
 <text lang="en">
 <body>
-<div1 type="chapter" n="1">
+<div type="chapter" n="1">
 <head>Nouns, Adjectives, and Pronouns</head>
 <p>The nominal system comprises nouns, adjectives, and pronouns:  the classes of
 words that inflect for number and case.  Participles (and gerundives) are adjectives formed from
 verbs;  infinitives (and supines and gerunds) are nouns formed from verbs.
 </p>
-<div2 type="form" n="noun_agree">
+<div type="form" n="noun_agree">
 <head>Agreement</head>
 <p>Adjectives agree with the nouns they modify in number, gender, and case.  <bibl n="AG 286">AG 286</bibl> 
 <list type="simple">
@@ -176,8 +176,8 @@ not of the case of its antecedent.  <bibl n="AG 305">AG 305</bibl>
 <l>et acris solet incitare morsus...</l></lg></quote> <bibl n="Catul. 2">Catullus 2.1-4</bibl></cit></item>
 <item><cit><quote lang="la">Arma virumque cano, Troiae <emph>qui</emph> [= vir] primus ab oris ... venit</quote> <bibl n="Verg. A. 1.1">Virgil, Aen. 1.1</bibl></cit></item>
 </list>
-</p></div2>
-<div2 type="form" n="nom">
+</p></div>
+<div type="form" n="nom">
 <head>Nominative</head>
 <p>The subject of a finite verb is in the nominative.  <bibl n="AG 339">AG 339</bibl>
 <list type="simple">
@@ -194,8 +194,8 @@ in apposition to the subject.  <bibl n="AG 283">AG 283-284</bibl>
 <item><cit><quote lang="la">Urbs antiqua fuit <emph>Karthago</emph>.</quote> <bibl n="Verg. A. 1.12">Virgil, Aen. 1.12</bibl></cit></item>
 <item><cit><quote lang="la"><emph>Graves</emph> erunt homines qui hoc iurati dicere audebunt.</quote> <bibl n="Cic. Cael. 20">Cicero, Cael. 20</bibl></cit></item>
 </list>
-</p></div2>
-<div2 type="form" n="gen">
+</p></div>
+<div type="form" n="gen">
 <head>Genitive</head>
 <p>The genitive case is most often used for possession.  <bibl n="AG 343">AG 343</bibl>
 <list type="simple">
@@ -226,8 +226,8 @@ gives the object of the implied verb.  For example, <quote lang="la">amor patria
 <item><cit><quote lang="la">Insequitur cumulo praeruptus <emph>aquae</emph> mons.</quote> <bibl n="Verg. A. 1.105">Virgil, Aen. 1.105</bibl></cit></item>
 </list>
 
-</p></div2>
-<div2 type="form" n="dat">
+</p></div>
+<div type="form" n="dat">
 <head>Dative</head>
 <p>The dative case is most often used for the indirect object of a verb.  <bibl n="AG 361">AG 361</bibl>
 <list type="simple">
@@ -273,8 +273,8 @@ This construction is variously called "dative of reference," "dative of interest
 <item><cit><quote lang="la">Haedui equitatum <emph>Caesari auxilio</emph> miserant.</quote> <bibl n="Caes. Gal. 1.18">Caesar, BG 1.18</bibl></cit>  <gloss>They had sent an army to Caesar as assistance</gloss>, in order to help him, for the purpose of being an aid to him, as a source of aid to him.</item>
 <item><cit><quote lang="la">Estne <emph>novis nuptis odio</emph> Venus?</quote> <bibl n="Catul. 66">Catullus 66.15</bibl></cit>  <gloss>Is Venus hateful to newlyweds?</gloss></item>
 </list>
-</p></div2>
-<div2 type="form" n="acc">
+</p></div>
+<div type="form" n="acc">
 <head>Accusative</head>
 <p>The accusative case is most often used for the direct object of a transitive verb.  <bibl n="AG 387">AG 387</bibl>
 <list type="simple">
@@ -318,8 +318,8 @@ called the "adverbial accusative."  <bibl n="AG 397">AG 397 a, b</bibl>
 <item><cit><quote lang="la"><lg type="elegiac"><l><emph>Multas per gentes</emph> et <emph>multa per aequora</emph> vectus</l>
 <l>advenio <emph>has miseras</emph>, frater, <emph>ad inferias.</emph></l></lg></quote> <bibl n="Catul. 101">Catullus 101.1-2</bibl></cit></item>
 </list>
-</p></div2>
-<div2 type="form" n="abl">
+</p></div>
+<div type="form" n="abl">
 <head>Ablative</head>
 <p>The ablative case can denote the means by which something is done.  <bibl n="AG 409">AG 409</bibl>
 <list type="simple">
@@ -394,8 +394,8 @@ but not grammatically, related to the main sentence.  <bibl n="AG 419">AG 419-42
 <item><cit><quote lang="la">Quo usque tandem abutere, Catilina, <emph>patientia nostra</emph>?</quote> <bibl n="Cic. Catil. 1.1">Cicero, Catil. 1.1</bibl></cit></item>
 <item><cit><quote lang="la"><emph>Auro</emph> opus fuit.</quote> <bibl n="Cic. Cael. 31">Cicero, Cael. 31</bibl></cit>  The idiom <quote lang="la">opus est</quote> takes this ablative as well.</item>
 </list>
-</p></div2>
-<div2 type="form" n="voc">
+</p></div>
+<div type="form" n="voc">
 <head>Vocative and locative</head>
 <p>The vocative case is used for talking to people.  Vocatives and imperatives are
 often found together;  they are morphologically similar, since each is the bare stem form.  <bibl n="AG 340">AG 340</bibl>
@@ -414,12 +414,12 @@ the place where something happens.  <bibl n="AG 427">AG 427</bibl>
 <item><cit><quote lang="la">Hoc fit quod <emph>Romae</emph> vivimus.</quote> <bibl n="Catul. 68">Catullus 68a.44</bibl></cit></item>
 <item><cit><quote lang="la">Septem ingentia victor corpora fundat humi.</quote> <bibl n="Verg. A. 1.193">Virgil, Aen. 1.192-193</bibl></cit></item>
 </list>
-</p></div2></div1>
-<div1 type="chapter" n="2">
+</p></div></div>
+<div type="chapter" n="2">
 <head>Verbs</head>
 <p>Verbs are words that inflect for person, number, tense, mood, and voice.
 </p>
-<div2 type="form" n="verb_agree">
+<div type="form" n="verb_agree">
 <head>Agreement</head>
 <p>A verb and its subject agree in person and number.  <bibl n="AG 316">AG 316</bibl>
 <list type="simple">
@@ -442,8 +442,8 @@ neuter singular.  <bibl n="AG 452">AG 452</bibl>, <bibl n="AG 501">501-502</bibl
 <item><cit><quote lang="la"><emph>Perfacile</emph> est imperio potiri.</quote> <bibl n="Caes. Gal. 1.2">Caesar, BG 1.2</bibl></cit></item>
 <item><cit><quote lang="la"><emph>Difficile</emph> est longum subito deponere amorem.</quote> <bibl n="Catul. 76">Catullus 76.13</bibl></cit></item>
 </list>
-</p></div2>
-<div2 type="section" n="2">
+</p></div>
+<div type="section" n="2">
 <head>Tense</head>
 <p>The tense of a verb form indicates whether the action it describes takes place
 in the past, the present, or the future.  <bibl n="AG 464">AG 464</bibl></p>
@@ -516,8 +516,8 @@ after that of the main verb (that is, action that is not completed), the subjunc
 <item><cit><quote lang="la">Multa quoque et bello passus, dum <emph>conderet</emph> urbem.</quote> <bibl n="Verg. A. 1.5">Virgil, Aen. 1.5</bibl></cit>  The main verbs in this sentence (which extents over the first seven lines of the <title>Aeneid</title>) are all in the past, including <quote lang="la">passus [est]</quote> here.  The founding of the city is subsequent to Aeneas's sufferings.  Subsequent action in secondary sequence calls for the imperfect subjunctive.</item>
 <item><cit><quote lang="la">Accusatio crimen desiderat rem ut <emph>definiat</emph>, hominem <emph>notet</emph>, argumento <emph>probet</emph>, teste <emph>confirmet</emph>.</quote> <bibl n="Cic. Cael. 6">Cicero, Cael. 6</bibl></cit>  This general description of the legal system is in the present tense.  The purpose clauses describe actions subsequent to the main verb, as purpose clauses often do.  Subsequent action in primary sequence calls for the present subjunctive.</item>
 </list>
-</p></div3></div2>
-<div2 type="section" n="3">
+</p></div3></div>
+<div type="section" n="3">
 <head>Mood</head>
 <p>Latin has three finite moods:  the indicative, the subjunctive, and the imperative.
 The verbal nouns and adjectives are non-finite moods:  the infinitives, participles,
@@ -682,8 +682,8 @@ commands often take the subjunctive;  positive requests may.  <bibl n="AG 450">A
 <item><cit><quote lang="la"><lg type="choliamb"><l>Miser Catulle, <emph>desinas</emph> ineptire,</l>
 <l>et quod vides perisse perditum <emph>ducas</emph>.</l></lg></quote><bibl n="Catul. 8">Catullus 8.1-2</bibl></cit></item>
 </list>
-</p></div3></div2>
-<div2 type="section" n="4">
+</p></div3></div>
+<div type="section" n="4">
 <head>Voice</head>
 <p>Voice indicates whether the grammatical subject is the agent. <bibl n="AG 156">AG 156</bibl></p>
 <div3 type="form" n="act">
@@ -716,8 +716,8 @@ preposition <quote lang="la">ab</quote>.  <bibl n="AG 405">AG 405</bibl>
 <item><cit><quote lang="la">Haec <emph>a te</emph> dictaque factaque sunt.</quote><bibl n="Catul. 76">Catullus 76.8</bibl></cit></item>
 <item><cit><quote lang="la">Non enim <emph>ab isdem</emph> accusatur M. Caelius <emph>a quibus</emph> oppugnatur.</quote> <bibl n="Cic. Cael. 20">Cicero, Cael. 20</bibl></cit></item>
 </list>
-</p></div3></div2>
-<div2 type="form" n="infin">
+</p></div3></div>
+<div type="form" n="infin">
 <head>Infinitives</head>
 <p>The infinitive is most often used for indirect statement.  <bibl n="AG 580">AG 580</bibl>
 <list type="simple">
@@ -738,8 +738,8 @@ preposition <quote lang="la">ab</quote>.  <bibl n="AG 405">AG 405</bibl>
 <item><cit><quote lang="la">Perfacile est totius Galliae imperio <emph>potiri</emph>.</quote> <bibl n="Caes. Gal. 1.2">Caesar, BG 1.2</bibl></cit></item>
 <item><cit><quote lang="la">Ad mortem te <emph>duci</emph> iam pridem oportebat.</quote> <bibl n="Cic. Catil. 1.2">Cicero, Catil. 1.2</bibl></cit>  Note how this infinitve has its own subject, <quote lang="la">te</quote>.</item>
 </list>
-</p></div2>
-<div2 type="form" n="part">
+</p></div>
+<div type="form" n="part">
 <head>Participles</head>
 <p>Participles are verbal adjectives.  <bibl n="AG 488">AG 488</bibl>
 <list type="simple">
@@ -766,8 +766,8 @@ gerundive agrees with the subject, and is neuter singular when the subject is im
 <item><cit><quote lang="la">Nobis... nox <emph>est</emph> perpetua una <emph>dormienda</emph></quote><bibl n="Catul. 5">Catullus 5.5-6</bibl></cit></item>
 <item><cit><quote lang="la"><emph>Erit verendum</emph> mihi ne quisquam hoc dicat.</quote> <bibl n="Cic. Catil. 1.5">Cicero, Catil. 1.5</bibl></cit></item>
 </list>
-</p></div2></div1>
-<div1 type="chapter" n="3">
+</p></div></div>
+<div type="chapter" n="3">
 <head>Sentence Construction</head>
 <p>Latin writers use more complicated sentences than English writers do, but
 there are certain conventions and patterns that they generally follow.  Because
@@ -777,7 +777,7 @@ to emphasize puns and other word play, to fit poetic meter, or to put a surprise
 at the end of the sentence.  Sentences in Latin prose can be long, but the best
 writers construct them carefully so the listener or reader does not get lost.
 </p>
-<div2 type="form" n="prose_order">
+<div type="form" n="prose_order">
 <head>Word order</head>
 <p>The usual order of words in a Latin sentence is subject, direct object, verb.  <bibl n="AG 596">AG 596</bibl>
 <list type="simple">
@@ -815,8 +815,8 @@ word is not in its expected place, there is usually a reason.  <bibl n="AG 597">
 <item><cit><quote lang="la"><emph>Hos</emph> ego video <emph>consul</emph> et de re publica sententiam rogo, et quos ferro trucidari oportebat, eos nondum voce volnero!</quote> <bibl n="Cic. Catil. 1.9">Cicero, Catil. 1.9</bibl></cit>  The direct object appears first partly to emphasize it and partly to allow Cicero to delay the word <quote lang="la">consul</quote>, making it emphatic;  a more ordinary order might be <quote lang="la">Ego consul hos video</quote>.</item>
 <item><cit><quote lang="la"><emph>Quae lex</emph> ad imperium, ad maiestatem, ad statum patriae, ad salutem omnium pertinet, <emph>quam legem</emph> Q. Catulus armata dissensione civium rei publicae paene extremis temporibus tulit, <emph>quaeque lex</emph> sedata illa flamma consulatus mei fumantis reliquias coniurationis exstinxit, <emph>hac nunc lege</emph> Caeli adulescentia non ad rei publicae poenas sed ad mulieris libidines et delicias deposcitur.</quote> <bibl n="Cic. Cael. 70">Cicero, Cael. 70</bibl></cit>  Here the phrases with <quote>lex</quote> are all placed at the front of their clauses, even though the second is a direct object and the fourth, in the main clause, an ablative of means;  this is a form of the rhetorical figure of anaphora, used here to emphasize the discongruity between Caelio's actions and the grave crimes for which the law was originally intended.</item>
 </list>
-</p></div2>
-<div2 type="form" n="period">
+</p></div>
+<div type="form" n="period">
 <head>Periodic sentences</head>
 <p>A periodic sentence (sometimes just called a period) is a highly structured sentence, usually
 rather long and including several subordinate clauses.  Formal writing uses periodic
@@ -848,8 +848,8 @@ the very last word.
 <item><cit><quote lang="la"><emph>Ut</emph> saepe homines aegri morbo gravi, <emph>cum</emph> aestu febrique iactantur, <emph>si</emph> aquam gelidam biberunt, <emph>primo</emph> relevari videntur, <emph>deinde</emph> multo gravius vehementiusque adflictantur, <emph>sic</emph> hic morbus qui est in re publica relevatus istius poena vehementius reliquis vivis ingravescet.</quote> <bibl n="Cic. Catil. 1.31">Cicero, Catil. 1.31</bibl></cit>  Here we have a comparison:  the sickness that now afflicts the republic is like a person's fever.  The fever is described first:  in certain circumstances (<quote lang="la">cum</quote>), if people do certain things (<quote lang="la">si</quote>), first they seem better and then they get worse (<quote lang="la">primo, deinde</quote>).  Similarly (<quote lang="la">sic</quote>), the Republic now seems to be getting sicker.</item>
 <item><cit><quote lang="la">Illud tamen te esse admonitum volo, <emph>primum</emph> ut qualis es talem te omnes esse existiment, ut quantum a rerum turpitudine abes tantum te a verborum libertate seiungas;  <emph>deinde</emph> ut ea in alterum ne dicas quae, cum tibi falso responsa sint, erubescas.</quote> <bibl n="Cic. Cael. 8">Cicero, Cael. 8</bibl></cit>  Here <quote lang="la">primum</quote> and <quote lang="la">deinde</quote> mark off the two parts of the warning, so the listener does not get confused by the various <quote lang="la">ut</quote>-clauses.</item>
 </list>
-</p></div2>
-<div2 type="form" n="poetic_order">
+</p></div>
+<div type="form" n="poetic_order">
 <head>Poetic word order</head>
 <p>Normal word order in a poem is the same as in prose.
 <list type="simple">
@@ -891,7 +891,7 @@ the last word of the line.  Similarly, the last word of the first half of the
 <item><cit><quote lang="la">monstrum horrendum, informe, ingens, cui lumen ademptum.</quote> <bibl n="Verg. A. 3.658">Virgil, Aen. 3.658</bibl></cit>  The elisions and the four contracted bicipitia emphasize the ungainliness of Polyphemus.</item>
 <item><cit><quote lang="la">...spargens umida mella soporiferumque papaver.</quote> <bibl n="Verg. A. 4.486">Virgil, Aen. 4.486</bibl></cit>  This line is soporific because all the stressed syllables come in princeps positions.</item>
 </list>
-</p></div2></div1>
+</p></div></div>
 </body>
 </text>
 </TEI.2>

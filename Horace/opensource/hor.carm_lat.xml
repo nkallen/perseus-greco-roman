@@ -94,8 +94,8 @@ Added to repository. Passed SGML parse.
 </revisionDesc>
 </teiHeader>
 <text><body>
-<div1 type="Book" n="1">
-<div2 type="Poem" n="1" met="First Asclepiadean">
+<div type="book" n="1">
+<div type="poem" n="1" met="First Asclepiadean">
 <p><l>Maecenas atavis edite regibus,</l>
 <l>o et praesidium et dulce decus meum:</l>
 <l>sunt quos curriculo pulverem Olympicum</l>
@@ -131,8 +131,8 @@ Added to repository. Passed SGML parse.
 <l>Euterpe cohibet nec Polyhymnia</l>
 <l>Lesboum refugit tendere barbiton.</l>
 <l>quodsi me lyricis vatibus inseres,</l>
-<l>sublimi feriam sidera vertice.</l></p></div2>
-<div2 type="Poem" n="2" met="Sapphic Strophe">
+<l>sublimi feriam sidera vertice.</l></p></div>
+<div type="poem" n="2" met="Sapphic Strophe">
 <lg type="stanza"><l>Iam satis terris nivis atque dirae</l>
 <l>grandinis misit pater et rubente</l>
 <l>dextera sacras iaculatus arcis</l>
@@ -184,8 +184,8 @@ Added to repository. Passed SGML parse.
 <lg><l>tollat; hic magnos potius triumphos,</l>
 <l>hic ames dici pater atque princeps</l>
 <l>neu sinas Medos equitare inultos</l>
-<l>te duce, Caesar.</l></lg></div2>
-<div2 type="Poem" n="3" met="Second Asclepiadean">
+<l>te duce, Caesar.</l></lg></div>
+<div type="poem" n="3" met="Second Asclepiadean">
 <p><l>Sic te diva potens Cypri,</l>
 <l>sic fratres Helenae, lucida sidera,</l>
 <l>ventorumque regat pater</l>
@@ -225,8 +225,8 @@ Added to repository. Passed SGML parse.
 <l>nil mortalibus ardui est:</l>
 <l>caelum ipsum petimus stultitia neque</l>
 <l>per nostrum patimur scelus</l>
-<l>iracunda Iovem ponere fulmina.</l></p></div2>
-<div2 type="Poem" n="4" met="Fourth Archilochian">
+<l>iracunda Iovem ponere fulmina.</l></p></div>
+<div type="poem" n="4" met="Fourth Archilochian">
 <p><l>Solvitur acris hiems grata vice veris et Favoni</l>
 <l>trahuntque siccas machinae carinas</l>
 <l>ac neque iam stabulis gaudet pecus aut arator igni</l>
@@ -246,8 +246,8 @@ Added to repository. Passed SGML parse.
 <l>et domus exilis Plutonia; quo simul mearis,</l>
 <l>nec regna vini sortiere talis</l>
 <l>nec tenerum Lycidan mirabere, quo calet iuventus</l>
-<l>nunc omnis et mox virgines tepebunt.</l></p></div2>
-<div2 type="Poem" n="5" met="Fourth Asclepiadean">
+<l>nunc omnis et mox virgines tepebunt.</l></p></div>
+<div type="poem" n="5" met="Fourth Asclepiadean">
 <lg><l>Quis multa gracilis te puer in rosa</l>
 <l>perfusus liquidis urget odoribus</l>
 <l>grato, Pyrrha, sub antro?</l>
@@ -263,8 +263,8 @@ Added to repository. Passed SGML parse.
 <lg><l>intemptata nites. me tabula sacer</l>
 <l>votiva paries indicat uvida</l>
 <l>suspendisse potenti</l>
-<l>vestimenta maris deo.</l></lg></div2>
-<div2 type="Poem" n="6" met="Third Asclepiadean">
+<l>vestimenta maris deo.</l></lg></div>
+<div type="poem" n="6" met="Third Asclepiadean">
 <lg><l>Scriberis Vario fortis et hostium</l>
 <l>victor Maeonii carminis alite,</l>
 <l>quam rem cumque ferox navibus aut equis</l>
@@ -284,8 +284,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nos convivia, nos proelia virginum</l>
 <l>sectis in iuvenes unguibus acrium</l>
 <l>cantamus, vacui sive quid urimur,</l>
-<l>non praeter solitum leves.</l></lg></div2>
-<div2 type="Poem" n="7" met="Alcmanian Strophe">
+<l>non praeter solitum leves.</l></lg></div>
+<div type="poem" n="7" met="Alcmanian Strophe">
 <p><l>Laudabunt alii claram Rhodon aut Mytilenen</l>
 <l>aut Epheson bimarisve Corinthi</l>
 <l>moenia vel Baccho Thebas vel Apolline Delphos</l>
@@ -317,8 +317,8 @@ Added to repository. Passed SGML parse.
 <l>ambiguam tellure nova Salamina futuram.</l>
 <l>o fortes peioraque passi</l>
 <l>mecum saepe viri, nunc vino pellite curas;</l>
-<l>cras ingens iterabimus aequor.&rdquo;</l></p></div2>
-<div2 type="Poem" n="8" met="(Greater) Sapphic Strophe">
+<l>cras ingens iterabimus aequor.&rdquo;</l></p></div>
+<div type="poem" n="8" met="(Greater) Sapphic Strophe">
 <p><l>Lydia, dic per omnis</l>
 <l>te deos oro, Sybarin cur properes amando</l>
 <l>perdere, cur apricum</l>
@@ -334,8 +334,8 @@ Added to repository. Passed SGML parse.
 <l>quid latet, ut marinae</l>
 <l>filium dicunt Thetidis sub lacrimosa Troiae</l>
 <l>funera, ne virilis</l>
-<l>cultus in caedem et Lycias proriperet catervas?</l></p></div2>
-<div2 type="Poem" n="9" met="Alcaic Strophe">
+<l>cultus in caedem et Lycias proriperet catervas?</l></p></div>
+<div type="poem" n="9" met="Alcaic Strophe">
 <lg><l>Vides ut alta stet nive candidum</l>
 <l>Soracte nec iam sustineant onus</l>
 <l>silvae laborantes geluque</l>
@@ -359,8 +359,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nunc et latentis proditor intumo</l>
 <l>gratus puellae risus ab angulo</l>
 <l>pignusque dereptum lacertis</l>
-<l>aut digito male pertinaci.</l></lg></div2>
-<div2 type="Poem" n="10" met="Sapphic Strophe">
+<l>aut digito male pertinaci.</l></lg></div>
+<div type="poem" n="10" met="Sapphic Strophe">
 <lg><l>Mercuri facunde nepos Atlantis,</l>
 <l>qui feros cultus hominum recentum</l>
 <l>voce formasti catus et decorae</l>
@@ -380,8 +380,8 @@ Added to repository. Passed SGML parse.
 <lg><l>tu pias laetis animas reponis</l>
 <l>sedibus virgaque levem coerces</l>
 <l>aurea turbam, superis deorum</l>
-<l>gratus et imis.</l></lg></div2>
-<div2 type="Poem" n="11" met="Fifth (Greater) Asclepiadean">
+<l>gratus et imis.</l></lg></div>
+<div type="poem" n="11" met="Fifth (Greater) Asclepiadean">
 <p><l>Tu ne quaesieris, scire nefas, quem mihi, quem tibi</l>
 <l>finem di dederint, Leuconoe, nec Babylonios</l>
 <l>temptaris numeros. ut melius, quidquid erit, pati.</l>
@@ -389,8 +389,8 @@ Added to repository. Passed SGML parse.
 <l>quae nunc oppositis debilitat pumicibus mare</l>
 <l>Tyrrhenum: sapias, vina liques et spatio brevi</l>
 <l>spem longam reseces. dum loquimur, fugerit invida</l>
-<l>aetas: carpe diem quam minimum credula postero.</l></p></div2>
-<div2 type="Poem" n="12" met="Sapphic Strophe">
+<l>aetas: carpe diem quam minimum credula postero.</l></p></div>
+<div type="poem" n="12" met="Sapphic Strophe">
 <lg><l>Quem virum aut heroa lyra vel acri</l>
 <l>tibia sumis celebrare, Clio?</l>
 <l>quem deum? cuius recinet iocosa</l>
@@ -450,8 +450,8 @@ Added to repository. Passed SGML parse.
 <lg><l>te minor latum reget aequos orbem:</l>
 <l>tu gravi curru quaties Olympum,</l>
 <l>tu parum castis inimica mittes</l>
-<l>fulmina lucis.</l></lg></div2>
-<div2 type="Poem" n="13" met="Second Asclepiadean">
+<l>fulmina lucis.</l></lg></div>
+<div type="poem" n="13" met="Second Asclepiadean">
 <p><l>Cum tu, Lydia, Telephi</l>
 <l>cervicem roseam, cerea Telephi</l>
 <l>laudas bracchia, vae, meum</l>
@@ -471,8 +471,8 @@ Added to repository. Passed SGML parse.
 <l>felices ter et amplius</l>
 <l>quos inrupta tenet copula nec malis</l>
 <l>divolsus querimoniis</l>
-<l>suprema citius solvet amor die.</l></p></div2>
-<div2 type="Poem" n="14" met="Fourth Asclepiadean">
+<l>suprema citius solvet amor die.</l></p></div>
+<div type="poem" n="14" met="Fourth Asclepiadean">
 <lg><l>O navis, referent in mare te novi</l>
 <l>fluctus. o quid agis? fortiter occupa</l>
 <l>portum. nonne vides, ut</l>
@@ -492,8 +492,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nuper sollicitum quae mihi taedium,</l>
 <l>nunc desiderium curaque non levis,</l>
 <l>interfusa nitentis</l>
-<l>vites aequora Cycladas.</l></lg></div2>
-<div2 type="Poem" n="15" met="Third Asclepiadean">
+<l>vites aequora Cycladas.</l></lg></div>
+<div type="poem" n="15" met="Third Asclepiadean">
 <lg><l>Pastor cum traheret per freta navibus</l>
 <l>Idaeis Helenen perfidus hospitam,</l>
 <l>ingrato celeres obruit otio</l>
@@ -529,8 +529,8 @@ Added to repository. Passed SGML parse.
 <lg><l>iracunda diem proferet Ilio</l>
 <l>matronisque Phrygum classis Achillei;</l>
 <l>post certas hiemes uret Achaicus</l>
-<l>ignis Iliacas domos.</l></lg></div2>
-<div2 type="Poem" n="16" met="Alcaic Strophe">
+<l>ignis Iliacas domos.</l></lg></div>
+<div type="poem" n="16" met="Alcaic Strophe">
 <lg><l>O matre pulcra filia pulchrior,</l>
 <l>quem criminosis cumque voles modum</l>
 <l>pones iambis, sive flamma</l>
@@ -558,8 +558,8 @@ Added to repository. Passed SGML parse.
 <lg><l>misit furentem. nunc ego mitibus</l>
 <l>mutare quaero tristia, dum mihi</l>
 <l>fias recantatis amica</l>
-<l>opprobriis animumque reddas.</l></lg></div2>
-<div2 type="Poem" n="17" met="Alcaic Strophe">
+<l>opprobriis animumque reddas.</l></lg></div>
+<div type="poem" n="17" met="Alcaic Strophe">
 <lg><l>Velox amoenum saepe Lucretilem</l>
 <l>mutat Lycaeo Faunus et igneam</l>
 <l>defendit aestatem capellis</l>
@@ -587,8 +587,8 @@ Added to repository. Passed SGML parse.
 <lg><l>suspecta Cyrum, ne male dispari</l>
 <l>incontinentis iniciat manus</l>
 <l>et scindat haerentem coronam</l>
-<l>crinibus inmeritamque vestem.</l></lg></div2>
-<div2 type="Poem" n="18" met="Fifth (Greater) Asclepiadean">
+<l>crinibus inmeritamque vestem.</l></lg></div>
+<div type="poem" n="18" met="Fifth (Greater) Asclepiadean">
 <p><l>Nullam, Vare, sacra vite prius severis arborem</l>
 <l>circa mite solum Tiburis et moenia Catili;</l>
 <l>siccis omnia nam dura deus proposuit neque</l>
@@ -604,8 +604,8 @@ Added to repository. Passed SGML parse.
 <l>sub divum rapiam. saeva tene cum Berecyntio</l>
 <l>cornu tympana, quae subsequitur caecus amor sui</l>
 <l>et tollens vacuum plus nimio gloria verticem</l>
-<l>arcanique fides prodiga, perlucidior vitro.</l></p></div2>
-<div2 type="Poem" n="19" met="Second Asclepiadean">
+<l>arcanique fides prodiga, perlucidior vitro.</l></p></div>
+<div type="poem" n="19" met="Second Asclepiadean">
 <p><l>Mater saeva Cupidinum</l>
 <l>Thebanaeque iubet me Semelae puer</l>
 <l>et lasciva Licentia</l>
@@ -621,8 +621,8 @@ Added to repository. Passed SGML parse.
 <l>hic vivum mihi caespitem, hic</l>
 <l>verbenas, pueri, ponite turaque</l>
 <l>bimi cum patera meri:</l>
-<l>mactata veniet lenior hostia.</l></p></div2>
-<div2 type="Poem" n="20" met="Sapphic Strophe">
+<l>mactata veniet lenior hostia.</l></p></div>
+<div type="poem" n="20" met="Sapphic Strophe">
 <lg><l>Vile potabis modicis Sabinum</l>
 <l>cantharis, Graeca quod ego ipse testa</l>
 <l>conditum levi, datus in theatro</l>
@@ -634,8 +634,8 @@ Added to repository. Passed SGML parse.
 <lg><l>Caecubum et prelo domitam Caleno</l>
 <l>tu bibes uvam: mea nec Falernae</l>
 <l>temperant vites neque Formiani</l>
-<l>pocula colles.</l></lg></div2>
-<div2 type="Poem" n="21" met="Fourth Asclepiadean">
+<l>pocula colles.</l></lg></div>
+<div type="poem" n="21" met="Fourth Asclepiadean">
 <lg><l>Dianam tenerae dicite virgines,</l>
 <l>intonsum pueri dicite Cynthium</l>
 <l>Latonamque supremo</l>
@@ -651,8 +651,8 @@ Added to repository. Passed SGML parse.
 <lg><l>hic bellum lacrimosum, hic miseram famem</l>
 <l>pestemque a populo et principe Caesare in</l>
 <l>Persas atque Britannos</l>
-<l>vestra motus aget prece.</l></lg></div2>
-<div2 type="Poem" n="22" met="Sapphic Strophe">
+<l>vestra motus aget prece.</l></lg></div>
+<div type="poem" n="22" met="Sapphic Strophe">
 <lg><l>Integer vitae scelerisque purus</l>
 <l>non eget Mauris iaculis neque arcu</l>
 <l>nec venenatis gravida sagittis,</l>
@@ -676,8 +676,8 @@ Added to repository. Passed SGML parse.
 <lg><l>pone sub curru nimium propinqui</l>
 <l>solis in terra domibus negata:</l>
 <l>dulce ridentem Lalagen amabo,</l>
-<l>dulce loquentem.</l></lg></div2>
-<div2 type="Poem" n="23" met="Fourth Asclepiadean">
+<l>dulce loquentem.</l></lg></div>
+<div type="poem" n="23" met="Fourth Asclepiadean">
 <lg><l>Vitas hinnuleo me similis, Chloe,</l>
 <l>quaerenti pavidam montibus aviis</l>
 <l>matrem non sine vano</l>
@@ -689,8 +689,8 @@ Added to repository. Passed SGML parse.
 <lg><l>atqui non ego te tigris ut aspera</l>
 <l>Gaetulusve leo frangere persequor:</l>
 <l>tandem desine matrem</l>
-<l>tempestiva sequi viro.</l></lg></div2>
-<div2 type="Poem" n="24" met="Third Asclepiadean">
+<l>tempestiva sequi viro.</l></lg></div>
+<div type="poem" n="24" met="Third Asclepiadean">
 <lg><l>Quis desiderio sit pudor aut modus</l>
 <l>tam cari capitis? praecipe lugubris</l>
 <l>cantus, Melpomene, cui liquidam pater</l>
@@ -710,8 +710,8 @@ Added to repository. Passed SGML parse.
 <lg><l>non lenis precibus fata recludere</l>
 <l>nigro conpulerit Mercurius gregi?</l>
 <l>durum: sed levius fit patientia</l>
-<l>quidquid corrigere est nefas.</l></lg></div2>
-<div2 type="Poem" n="25" met="Sapphic Strophe">
+<l>quidquid corrigere est nefas.</l></lg></div>
+<div type="poem" n="25" met="Sapphic Strophe">
 <lg><l>Parcius iunctas quatiunt fenestras</l>
 <l>iactibus crebris iuvenes protervi</l>
 <l>nec tibi somnos adimunt amatque</l>
@@ -731,8 +731,8 @@ Added to repository. Passed SGML parse.
 <lg><l>laeta quod pubes hedera virenti</l>
 <l>gaudeat pulla magis atque myrto,</l>
 <l>aridas frondes hiemis sodali</l>
-<l>dedicet Euro.</l></lg></div2>
-<div2 type="Poem" n="26" met="Alcaic Strophe">
+<l>dedicet Euro.</l></lg></div>
+<div type="poem" n="26" met="Alcaic Strophe">
 <lg><l>Musis amicus tristitiam et metus</l>
 <l>tradam protervis in mare Creticum</l>
 <l>portare ventis, quis sub Arcto</l>
@@ -744,8 +744,8 @@ Added to repository. Passed SGML parse.
 <lg><l>Piplei dulcis. nil sine te mei</l>
 <l>prosunt honores: hunc fidibus novis,</l>
 <l>hunc Lesbio sacrare plectro</l>
-<l>teque tuasque decet sorores.</l></lg></div2>
-<div2 type="Poem" n="27" met="Alcaic Strophe">
+<l>teque tuasque decet sorores.</l></lg></div>
+<div type="poem" n="27" met="Alcaic Strophe">
 <lg><l>Natis in usum laetitiae scyphis</l>
 <l>pugnare Thracum est: tollite barbarum</l>
 <l>morem verecundumque Bacchum</l>
@@ -769,8 +769,8 @@ Added to repository. Passed SGML parse.
 <lg><l>quae saga, quis te solvere Thessalis</l>
 <l>magus venenis, quis poterit deus?</l>
 <l>vix inligatum te triformi</l>
-<l>Pegasus expediet Chimaera.</l></lg></div2>
-<div2 type="Poem" n="28" met="Alcaic Strophe">
+<l>Pegasus expediet Chimaera.</l></lg></div>
+<div type="poem" n="28" met="Alcaic Strophe">
 <p><l>Te maris et terrae numeroque carentis harenae</l>
 <l>mensorem cohibent, Archyta,</l>
 <l>pulveris exigui prope litus parva Matinum</l>
@@ -806,8 +806,8 @@ Added to repository. Passed SGML parse.
 <l>te maneant ipsum: precibus non linquar inultis</l>
 <l>teque piacula nulla resolvent.</l>
 <l>quamquam festinas, non est mora longa; licebit</l>
-<l>iniecto ter pulvere curras.</l></p></div2>
-<div2 type="Poem" n="29" met="Alcaic Strophe">
+<l>iniecto ter pulvere curras.</l></p></div>
+<div type="poem" n="29" met="Alcaic Strophe">
 <lg><l>Icci, beatis nunc Arabum invides</l>
 <l>gazis et acrem militiam paras</l>
 <l>non ante devictis Sabaeae</l>
@@ -823,8 +823,8 @@ Added to repository. Passed SGML parse.
 <lg><l>cum tu coemptos undique nobilis</l>
 <l>libros Panaeti Socraticam et domum</l>
 <l>mutare loricis Hiberis,</l>
-<l>pollicitus meliora, tendis?</l></lg></div2>
-<div2 type="Poem" n="30" met="Sapphic Strophe">
+<l>pollicitus meliora, tendis?</l></lg></div>
+<div type="poem" n="30" met="Sapphic Strophe">
 <lg><l>O Venus regina Cnidi Paphique,</l>
 <l>sperne dilectam Cypron et vocantis</l>
 <l>ture te multo Glycerae decoram</l>
@@ -832,8 +832,8 @@ Added to repository. Passed SGML parse.
 <lg><l>fervidus tecum puer et solutis</l>
 <l>Gratiae zonis properentque Nymphae</l>
 <l>et parum comis sine te Iuventas</l>
-<l>Mercuriusque.</l></lg></div2>
-<div2 type="Poem" n="31" met="Alcaic Strophe">
+<l>Mercuriusque.</l></lg></div>
+<div type="poem" n="31" met="Alcaic Strophe">
 <lg><l>Quid dedicatum poscit Apollinem</l>
 <l>vates? quid orat de patera novum</l>
 <l>fundens liquorem? non opimae</l>
@@ -853,8 +853,8 @@ Added to repository. Passed SGML parse.
 <lg><l>frui paratis et valido mihi,</l>
 <l>Latoe, dones et precor integra</l>
 <l>cum mente nec turpem senectam</l>
-<l>degere nec cithara carentem.</l></lg></div2>
-<div2 type="Poem" n="32" met="Sapphic Strophe">
+<l>degere nec cithara carentem.</l></lg></div>
+<div type="poem" n="32" met="Sapphic Strophe">
 <lg><l>Poscimur. si quid vacui sub umbra</l>
 <l>lusimus tecum, quod et hunc in annum</l>
 <l>vivat et pluris, age dic Latinum,</l>
@@ -870,8 +870,8 @@ Added to repository. Passed SGML parse.
 <lg><l>o decus Phoebi et dapibus supremi</l>
 <l>grata testudo Iovis, o laborum</l>
 <l>dulce lenimen, mihi cumque salve</l>
-<l>rite vocanti!</l></lg></div2>
-<div2 type="Poem" n="33" met="Third Asclepiadean">
+<l>rite vocanti!</l></lg></div>
+<div type="poem" n="33" met="Third Asclepiadean">
 <lg><l>Albi, ne doleas plus nimio memor</l>
 <l>inmitis Glycerae neu miserabilis</l>
 <l>decantes elegos, cur tibi iunior</l>
@@ -887,8 +887,8 @@ Added to repository. Passed SGML parse.
 <lg><l>ipsum me melior cum peteret Venus,</l>
 <l>grata detinuit compede Myrtale</l>
 <l>libertina, fretis acrior Hadriae</l>
-<l>curvantis Calabros sinus.</l></lg></div2>
-<div2 type="Poem" n="34" met="Alcaic Strophe">
+<l>curvantis Calabros sinus.</l></lg></div>
+<div type="poem" n="34" met="Alcaic Strophe">
 <lg><l>Parcus deorum cultor et infrequens,</l>
 <l>insanientis dum sapientiae</l>
 <l>consultus erro, nunc retrorsum</l>
@@ -904,8 +904,8 @@ Added to repository. Passed SGML parse.
 <lg><l>mutare et insignem attenuat deus</l>
 <l>obscura promens; hinc apicem rapax:</l>
 <l>Fortuna cum stridore acuto</l>
-<l>sustulit, hic posuisse gaudet.</l></lg></div2>
-<div2 type="Poem" n="35" met="Alcaic Strophe">
+<l>sustulit, hic posuisse gaudet.</l></lg></div>
+<div type="poem" n="35" met="Alcaic Strophe">
 <lg><l>O diva, gratum quae regis Antium,</l>
 <l>praesens vel imo tollere de gradu</l>
 <l>mortale corpus vel superbos</l>
@@ -945,8 +945,8 @@ Added to repository. Passed SGML parse.
 <lg><l>metu deorum continuit? quibus</l>
 <l>pepercit aris? o utinam nova</l>
 <l>incude diffingas retusum in</l>
-<l>Massagetas Arabasque ferrum.</l></lg></div2>
-<div2 type="Poem" n="36" met="Second Asclepiadean">
+<l>Massagetas Arabasque ferrum.</l></lg></div>
+<div type="poem" n="36" met="Second Asclepiadean">
 <p><l>Et ture et fidibus iuvat</l>
 <l>placare et vituli sanguine debito</l>
 <l>custodes Numidae deos,</l>
@@ -966,8 +966,8 @@ Added to repository. Passed SGML parse.
 <l>omnes in Damalin putris</l>
 <l>deponent oculos nec Damalis novo</l>
 <l>divelletur adultero</l>
-<l>lascivis hederis ambitiosior.</l></p></div2>
-<div2 type="Poem" n="37" met="Alcaic Strophe">
+<l>lascivis hederis ambitiosior.</l></p></div>
+<div type="poem" n="37" met="Alcaic Strophe">
 <lg><l>Nunc est bibendum, nunc pede libero</l>
 <l>pulsanda tellus; nunc Saliaribus</l>
 <l>ornare pulvinar deorum</l>
@@ -999,8 +999,8 @@ Added to repository. Passed SGML parse.
 <lg><l>deliberata morte ferocior;</l>
 <l>saevis Liburnis scilicet invidens</l>
 <l>privata deduci superbo,</l>
-<l>non humilis mulier, triumpho.</l></lg></div2>
-<div2 type="Poem" n="38" met="Sapphic Strophe">
+<l>non humilis mulier, triumpho.</l></lg></div>
+<div type="poem" n="38" met="Sapphic Strophe">
 <lg><l>Persicos odi, puer, adparatus,</l>
 <l>displicent nexae philyra coronae,</l>
 <l>mitte sectari, rosa quo locorum</l>
@@ -1008,9 +1008,9 @@ Added to repository. Passed SGML parse.
 <lg><l>simplici myrto nihil adlabores</l>
 <l>sedulus curo: neque te ministrum</l>
 <l>dedecet myrtus neque me sub arta</l>
-<l>vite bibentem.</l></lg></div2></div1>
-<div1 type="Book" n="2">
-<div2 type="Poem" n="1" met="Alcaic Strophe">
+<l>vite bibentem.</l></lg></div></div>
+<div type="book" n="2">
+<div type="poem" n="1" met="Alcaic Strophe">
 <lg><l>Motum ex Metello consule civicum</l>
 <l>bellique causas et vitia et modos</l>
 <l>ludumque Fortunae gravisque</l>
@@ -1050,8 +1050,8 @@ Added to repository. Passed SGML parse.
 <lg><l>sed ne relictis, Musa procax, iocis</l>
 <l>Ceae retractes munera neniae,</l>
 <l>mecum Dionaeo sub antro</l>
-<l>quaere modos leviore plectro.</l></lg></div2>
-<div2 type="Poem" n="2" met="Sapphic Strophe">
+<l>quaere modos leviore plectro.</l></lg></div>
+<div type="poem" n="2" met="Sapphic Strophe">
 <lg><l>Nullus argento color est avaris</l>
 <l>abdito terris, inimice lamnae</l>
 <l>Crispe Sallusti, nisi temperato</l>
@@ -1075,8 +1075,8 @@ Added to repository. Passed SGML parse.
 <lg><l>vocibus, regnum et diadema tutum</l>
 <l>deferens uni propriamque laurum</l>
 <l>quisquis ingentis oculo inretorto</l>
-<l>spectat acervos.</l></lg></div2>
-<div2 type="Poem" n="3" met="Alcaic Strophe">
+<l>spectat acervos.</l></lg></div>
+<div type="poem" n="3" met="Alcaic Strophe">
 <lg><l>Aequam memento rebus in arduis</l>
 <l>servare mentem, non secus in bonis</l>
 <l>ab insolenti temperatam</l>
@@ -1104,8 +1104,8 @@ Added to repository. Passed SGML parse.
 <lg><l>omnes eodem cogimur, omnium</l>
 <l>versatur urna serius ocius</l>
 <l>sors exitura et nos in aeternum</l>
-<l>exilium inpositura cumbae.</l></lg></div2>
-<div2 type="Poem" n="4" met="Sapphic Strophe">
+<l>exilium inpositura cumbae.</l></lg></div>
+<div type="poem" n="4" met="Sapphic Strophe">
 <lg><l>Ne sit ancillae tibi amor pudori,</l>
 <l>Xanthia Phoceu: prius insolentem</l>
 <l>serva Briseis niveo colore</l>
@@ -1129,8 +1129,8 @@ Added to repository. Passed SGML parse.
 <lg><l>bracchia et voltum teretesque suras</l>
 <l>integer laudo: fuge suspicari,</l>
 <l>cuius octavum trepidavit aetas</l>
-<l>claudere lustrum.</l></lg></div2>
-<div2 type="Poem" n="5" met="Alcaic Strophe">
+<l>claudere lustrum.</l></lg></div>
+<div type="poem" n="5" met="Alcaic Strophe">
 <lg><l>Nondum subacta ferre iugum valet</l>
 <l>cervice, nondum munia conparis</l>
 <l>aequare nec tauri ruentis</l>
@@ -1154,8 +1154,8 @@ Added to repository. Passed SGML parse.
 <lg><l>quem si puellarum insereres choro,</l>
 <l>mire sagacis falleret hospites</l>
 <l>discrimen obscurum solutis</l>
-<l>crinibus ambiguoque voltu.</l></lg></div2>
-<div2 type="Poem" n="6" met="Sapphic strophe">
+<l>crinibus ambiguoque voltu.</l></lg></div>
+<div type="poem" n="6" met="Sapphic strophe">
 <lg><l>Septimi, Gadis aditure mecum et</l>
 <l>Cantabrum indoctum iuga ferre nostra et</l>
 <l>barbaras Syrtis, ubi Maura semper</l>
@@ -1179,8 +1179,8 @@ Added to repository. Passed SGML parse.
 <lg><l>ille te mecum locus et beatae</l>
 <l>postulant arces: ibi tu calentem</l>
 <l>debita sparges lacrima favillam</l>
-<l>vatis amici.</l></lg></div2>
-<div2 type="Poem" n="7" met="Alcaic Strophe">
+<l>vatis amici.</l></lg></div>
+<div type="poem" n="7" met="Alcaic Strophe">
 <lg><l>O saepe mecum tempus in ultimum</l>
 <l>deducte Bruto militiae duce,</l>
 <l>quis te redonavit Quiritem</l>
@@ -1208,8 +1208,8 @@ Added to repository. Passed SGML parse.
 <lg><l>curatve myrto? quem Venus arbitrum</l>
 <l>dicet bibendi? non ego sanius</l>
 <l>bacchabor Edonis: recepto</l>
-<l>dulce mihi furere est amico.</l></lg></div2>
-<div2 type="Poem" n="8" met="Sapphic Strophe">
+<l>dulce mihi furere est amico.</l></lg></div>
+<div type="poem" n="8" met="Sapphic Strophe">
 <lg><l>Vlla si iuris tibi peierati</l>
 <l>poena, Barine, nocuisset umquam,</l>
 <l>dente si nigro fieres vel uno</l>
@@ -1233,8 +1233,8 @@ Added to repository. Passed SGML parse.
 <lg><l>te suis matres metuunt iuvencis,</l>
 <l>te senes parci miseraeque nuper</l>
 <l>virgines nuptae, tua ne retardet</l>
-<l>aura maritos.</l></lg></div2>
-<div2 type="Poem" n="9" met="Alcaic Strophe">
+<l>aura maritos.</l></lg></div>
+<div type="poem" n="9" met="Alcaic Strophe">
 <lg><l>Non semper imbres nubibus hispidos</l>
 <l>manant in agros aut mare Caspium</l>
 <l>vexant inaequales procellae</l>
@@ -1258,8 +1258,8 @@ Added to repository. Passed SGML parse.
 <lg><l>Medumque flumen gentibus additum</l>
 <l>victis minores volvere vertices</l>
 <l>intraque praescriptum Gelonos</l>
-<l>exiguis equitare campis.</l></lg></div2>
-<div2 type="Poem" n="10" met="Sapphic Strophe">
+<l>exiguis equitare campis.</l></lg></div>
+<div type="poem" n="10" met="Sapphic Strophe">
 <lg><l>Rectius vives, Licini, neque altum</l>
 <l>semper urgendo neque, dum procellas</l>
 <l>cautus horrescis, nimium premendo</l>
@@ -1283,8 +1283,8 @@ Added to repository. Passed SGML parse.
 <lg><l>rebus angustis animosus atque</l>
 <l>fortis adpare: sapienter idem</l>
 <l>contrahes vento nimium secundo</l>
-<l>turgida vela.</l></lg></div2>
-<div2 type="Poem" n="11" met="Alcaic Strophe">
+<l>turgida vela.</l></lg></div>
+<div type="poem" n="11" met="Alcaic Strophe">
 <lg><l>Quid bellicosus Cantaber et Scythes,</l>
 <l>Hirpine Quinti, cogitet Hadria</l>
 <l>divisus obiecto, remittas</l>
@@ -1308,8 +1308,8 @@ Added to repository. Passed SGML parse.
 <lg><l>quis devium scortum eliciet domo</l>
 <l>Lyden? eburna, dic age, cum lyra</l>
 <l>maturet, in comptum Lacaenae</l>
-<l>more comam religata nodum.</l></lg></div2>
-<div2 type="Poem" n="12" met="Third Asclepiadean">
+<l>more comam religata nodum.</l></lg></div>
+<div type="poem" n="12" met="Third Asclepiadean">
 <lg><l>Nolis longa ferae bella Numantiae</l>
 <l>nec durum Hannibalem nec Siculum mare</l>
 <l>Poeno purpureum sanguine mollibus</l>
@@ -1337,8 +1337,8 @@ Added to repository. Passed SGML parse.
 <lg><l>cum flagrantia detorquet ad oscula</l>
 <l>cervicem aut facili saevitia negat</l>
 <l>quae poscente magis gaudeat eripi,</l>
-<l>interdum rapere occupet?</l></lg></div2>
-<div2 type="Poem" n="13" met="Alcaic Strophe">
+<l>interdum rapere occupet?</l></lg></div>
+<div type="poem" n="13" met="Alcaic Strophe">
 <lg><l>Ille et nefasto te posuit die</l>
 <l>quicumque primum, et sacrilega manu</l>
 <l>produxit, arbos, in nepotum</l>
@@ -1378,8 +1378,8 @@ Added to repository. Passed SGML parse.
 <lg><l>quin et Prometheus et Pelopis parens</l>
 <l>dulci laborem decipitur sono</l>
 <l>nec curat Orion leones</l>
-<l>aut timidos agitare lyncas</l></lg></div2>
-<div2 type="Poem" n="14" met="Alcaic Strophe">
+<l>aut timidos agitare lyncas</l></lg></div>
+<div type="poem" n="14" met="Alcaic Strophe">
 <lg><l>Eheu fugaces, Postume, Postume,</l>
 <l>labuntur anni nec pietas moram</l>
 <l>rugis et instanti senectae</l>
@@ -1407,8 +1407,8 @@ Added to repository. Passed SGML parse.
 <lg><l>absumet heres Caecuba dignior</l>
 <l>servata centum clavibus et mero</l>
 <l>tinguet pavimentum superbo,</l>
-<l>pontificum potiore cenis.</l></lg></div2>
-<div2 type="Poem" n="15" met="Alcaic Strophe">
+<l>pontificum potiore cenis.</l></lg></div>
+<div type="poem" n="15" met="Alcaic Strophe">
 <lg><l>Iam pauca aratro iugera regiae</l>
 <l>moles relinquent, undique latius</l>
 <l>extenta visentur Lucrino</l>
@@ -1428,8 +1428,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nec fortuitum spernere caespitem</l>
 <l>leges sinebant, oppida publico</l>
 <l>sumptu iubentes et deorum</l>
-<l>templa novo decorare saxo.</l></lg></div2>
-<div2 type="Poem" n="16" met="Sapphic Strophe">
+<l>templa novo decorare saxo.</l></lg></div>
+<div type="poem" n="16" met="Sapphic Strophe">
 <lg><l>Otium divos rogat in patenti</l>
 <l>prensus Aegaeo, simul atra nubes</l>
 <l>condidit lunam neque certa fulgent</l>
@@ -1469,8 +1469,8 @@ Added to repository. Passed SGML parse.
 <lg><l>vestiunt lanae: mihi parva rura et</l>
 <l>spiritum Graiae tenuem Camenae</l>
 <l>Parca non mendax dedit et malignum</l>
-<l>spernere volgus.</l></lg></div2>
-<div2 type="Poem" n="17" met="Alcaic Strophe">
+<l>spernere volgus.</l></lg></div>
+<div type="poem" n="17" met="Alcaic Strophe">
 <lg><l>Cur me querelis exanimas tuis?</l>
 <l>nec dis amicum est nec mihi te prius</l>
 <l>obire, Maecenas, mearum</l>
@@ -1502,8 +1502,8 @@ Added to repository. Passed SGML parse.
 <lg><l>dextra levasset, Mercurialium</l>
 <l>custos virorum. reddere victimas</l>
 <l>aedemque votivam memento;</l>
-<l>nos humilem feriemus agnam.</l></lg></div2>
-<div2 type="Poem" n="18" met="Trochaic strophe">
+<l>nos humilem feriemus agnam.</l></lg></div>
+<div type="poem" n="18" met="Trochaic strophe">
 <lg><l>Non ebur neque aureum</l>
 <l>mea renidet in domo lacunar,</l>
 <l>non trabes Hymettiae</l>
@@ -1543,8 +1543,8 @@ Added to repository. Passed SGML parse.
 <lg><l>Tantalum atque Tantali</l>
 <l>genus coercet, hic levare functum</l>
 <l>pauperem laboribus</l>
-<l>vocatus atque non vocatus audit.</l></lg></div2>
-<div2 type="Poem" n="19" met="Alcaic Strophe">
+<l>vocatus atque non vocatus audit.</l></lg></div>
+<div type="poem" n="19" met="Alcaic Strophe">
 <lg><l>Bacchum in remotis carmina rupibus</l>
 <l>vidi docentem, credite posteri,</l>
 <l>Nymphasque discentis et auris</l>
@@ -1576,8 +1576,8 @@ Added to repository. Passed SGML parse.
 <lg><l>te vidit insons Cerberus aureo</l>
 <l>cornu decorum leniter atterens</l>
 <l>caudam et recedentis trilingui</l>
-<l>ore pedes tetigitque crura.</l></lg></div2>
-<div2 type="Poem" n="20" met="Alcaic Strophe">
+<l>ore pedes tetigitque crura.</l></lg></div>
+<div type="poem" n="20" met="Alcaic Strophe">
 <lg><l>Non usitata nec tenui ferar</l>
 <l>penna biformis per liquidum aethera</l>
 <l>vates neque in terris morabor</l>
@@ -1601,9 +1601,9 @@ Added to repository. Passed SGML parse.
 <lg><l>absint inani funere neniae</l>
 <l>luctusque turpes et querimoniae;</l>
 <l>conpesce clamorem ac sepulcri</l>
-<l>mitte supervacuos honores.</l></lg></div2></div1>
-<div1 type="Book" n="3">
-<div2 type="Poem" n="1" met="Alcaic Strophe">
+<l>mitte supervacuos honores.</l></lg></div></div>
+<div type="book" n="3">
+<div type="poem" n="1" met="Alcaic Strophe">
 <lg><l>Odi profanum volgus et arceo.</l>
 <l>favete linguis: carmina non prius</l>
 <l>audita Musarum sacerdos</l>
@@ -1651,8 +1651,8 @@ Added to repository. Passed SGML parse.
 <lg><l>cur invidendis postibus et novo</l>
 <l>sublime ritu moliar atrium?</l>
 <l>cur valle permutem Sabina</l>
-<l>divitias operosiores?</l></lg></div2>
-<div2 type="Poem" n="2" met="Alcaic Strophex">
+<l>divitias operosiores?</l></lg></div>
+<div type="poem" n="2" met="Alcaic Strophex">
 <lg><l>Angustam amice pauperiem pati</l>
 <l>robustus acri militia puer</l>
 <l>condiscat et Parthos ferocis</l>
@@ -1684,8 +1684,8 @@ Added to repository. Passed SGML parse.
 <lg><l>solvat phaselon; saepe Diespiter</l>
 <l>neglectus incesto addidit integrum,</l>
 <l>raro antecedentem scelestum</l>
-<l>deseruit pede Poena claudo.</l></lg></div2>
-<div2 type="Poem" n="3" met="Alcaic Strophe">
+<l>deseruit pede Poena claudo.</l></lg></div>
+<div type="poem" n="3" met="Alcaic Strophe">
 <lg><l>Iustum et tenacem propositi virum</l>
 <l>non civium ardor prava iubentium,</l>
 <l>non voltus instantis tyranni</l>
@@ -1757,8 +1757,8 @@ Added to repository. Passed SGML parse.
 <lg><l>non hoc iocosae conveniet lyrae &mdash;</l>
 <l>quo, Musa, tendis? desine pervicax</l>
 <l>referre sermones deorum et</l>
-<l>magna modis tenuare parvis.</l></lg></div2>
-<div2 type="Poem" n="4" met="Alcaic Strophe">
+<l>magna modis tenuare parvis.</l></lg></div>
+<div type="poem" n="4" met="Alcaic Strophe">
 <lg><l>Descende caelo et dic age tibia</l>
 <l>regina longum Calliope melos,</l>
 <l>seu voce nunc mavis acuta</l>
@@ -1838,8 +1838,8 @@ Added to repository. Passed SGML parse.
 <lg><l>incontinentis nec Tityi iecur</l>
 <l>reliquit ales, nequitiae additus</l>
 <l>custos; amatorem trecentae</l>
-<l>Pirithoum cohibent catenae.</l></lg></div2>
-<div2 type="Poem" n="5" met="Alcaic Strophe">
+<l>Pirithoum cohibent catenae.</l></lg></div>
+<div type="poem" n="5" met="Alcaic Strophe">
 <lg><l>Caelo tonantem credidimus Iovem</l>
 <l>regnare; praesens divus habebitur</l>
 <l>Augustus adiectis Britannis</l>
@@ -1895,8 +1895,8 @@ Added to repository. Passed SGML parse.
 <lg><l>quam si clientum longa negotia</l>
 <l>diiudicata lite relinqueret</l>
 <l>tendens Venafranos in agros</l>
-<l>aut Lacedaemonium Tarentum.</l></lg></div2>
-<div2 type="Poem" n="6" met="Alcaic Strophe">
+<l>aut Lacedaemonium Tarentum.</l></lg></div>
+<div type="poem" n="6" met="Alcaic Strophe">
 <lg><l>Delicta maiorum inmeritus lues,</l>
 <l>Romane, donec templa refeceris</l>
 <l>aedisque labentis deorum et</l>
@@ -1944,8 +1944,8 @@ Added to repository. Passed SGML parse.
 <lg><l>damnosa quid non inminuit dies?</l>
 <l>aetas parentum, peior avis, tulit</l>
 <l>nos nequiores, mox daturos</l>
-<l>progeniem vitiosiorem.</l></lg></div2>
-<div2 type="Poem" n="7" met="Fourth Asclepiadean">
+<l>progeniem vitiosiorem.</l></lg></div>
+<div type="poem" n="7" met="Fourth Asclepiadean">
 <lg><l>Quid fles, Asterie, quem tibi, candidi</l>
 <l>primo restituent vere Favonii</l>
 <l>Thyna merce beatum,</l>
@@ -1977,8 +1977,8 @@ Added to repository. Passed SGML parse.
 <lg><l>prima nocte domum claude neque in vias</l>
 <l>sub cantu querulae despice tibiae</l>
 <l>et te saepe vocanti</l>
-<l>duram difficilis mane.</l></lg></div2>
-<div2 type="Poem" n="8" met="Sapphic Strophe">
+<l>duram difficilis mane.</l></lg></div>
+<div type="poem" n="8" met="Sapphic Strophe">
 <lg><l>Martiis caelebs quid agam kalendis,</l>
 <l>quid velint flores et acerra turis</l>
 <l>plena miraris positusque carbo in</l>
@@ -2006,8 +2006,8 @@ Added to repository. Passed SGML parse.
 <lg><l>neglegens, ne qua populus laboret,</l>
 <l>parce privatus nimium cavere et</l>
 <l>dona praesentis cape laetus horae,</l>
-<l>linque severa.</l></lg></div2>
-<div2 type="Poem" n="9" met="Second Asclepiadean">
+<l>linque severa.</l></lg></div>
+<div type="poem" n="9" met="Second Asclepiadean">
 <lg><l>&ldquo;Donec gratus eram tibi</l>
 <l>nec quisquam potior bracchia candidae</l>
 <l>cervici iuvenis dabat,</l>
@@ -2031,8 +2031,8 @@ Added to repository. Passed SGML parse.
 <lg><l>&ldquo;quamquam sidere pulchrior</l>
 <l>ille est, tu levior cortice et inprobo</l>
 <l>iracundior Hadria:</l>
-<l>tecum vivere amem, tecum obeam lubens.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="10" met="Third Asclepiadean">
+<l>tecum vivere amem, tecum obeam lubens.&rdquo;</l></lg></div>
+<div type="poem" n="10" met="Third Asclepiadean">
 <lg><l>Extremum Tanain si biberes, Lyce,</l>
 <l>saevo nupta viro, me tamen asperas</l>
 <l>porrectum ante foris obicere incolis</l>
@@ -2052,8 +2052,8 @@ Added to repository. Passed SGML parse.
 <lg><l>parcas, nec rigida mollior aesculo</l>
 <l>nec Mauris animum mitior anguibus:</l>
 <l>non hoc semper erit liminis aut aquae</l>
-<l>caelestis patiens latus.</l></lg></div2>
-<div2 type="Poem" n="11" met="Sapphic Strophe">
+<l>caelestis patiens latus.</l></lg></div>
+<div type="poem" n="11" met="Sapphic Strophe">
 <lg><l>Mercuri, nam te docilis magistro</l>
 <l>movit Amphion lapides canendo,</l>
 <l>tuque testudo resonare septem</l>
@@ -2105,8 +2105,8 @@ Added to repository. Passed SGML parse.
 <lg><l>i pedes quo te rapiunt et aurae,</l>
 <l>dum favet nox et Venus, i secundo</l>
 <l>omine et nostri memorem sepulcro</l>
-<l>scalpe querelam.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="12" met="Ten Ionici a minore">
+<l>scalpe querelam.&rdquo;</l></lg></div>
+<div type="poem" n="12" met="Ten Ionici a minore">
 <lg><l>Miserarum est neque amori dare ludum neque dulci</l>
 <l>mala vino lavere, aut exanimari metuentis</l>
 <l>patruae verbera linguae.</l></lg>
@@ -2118,8 +2118,8 @@ Added to repository. Passed SGML parse.
 <l>neque segni pede victus,</l></lg>
 <lg><l>catus idem per apertum fugientis agitato</l>
 <l>grege cervos iaculari et celer arto latitantem</l>
-<l>fruticeto excipere aprum.</l></lg></div2>
-<div2 type="Poem" n="13" met="Fourth Asclepiadean">
+<l>fruticeto excipere aprum.</l></lg></div>
+<div type="poem" n="13" met="Fourth Asclepiadean">
 <lg><l>O fons Bandusiae splendidior vitro,</l>
 <l>dulci digne mero non sine floribus,</l>
 <l>cras donaberis haedo,</l>
@@ -2135,8 +2135,8 @@ Added to repository. Passed SGML parse.
 <lg><l>fies nobilium tu quoque fontium</l>
 <l>me dicente cavis inpositam ilicem</l>
 <l>saxis, unde loquaces</l>
-<l>lymphae desiliunt tuae.</l></lg></div2>
-<div2 type="Poem" n="14" met="Sapphic Strophe">
+<l>lymphae desiliunt tuae.</l></lg></div>
+<div type="poem" n="14" met="Sapphic Strophe">
 <lg><l>Herculis ritu modo dictus, o plebs,</l>
 <l>morte venalem petiisse laurum</l>
 <l>Caesar Hispana repetit penatis</l>
@@ -2164,8 +2164,8 @@ Added to repository. Passed SGML parse.
 <lg><l>lenit albescens animos capillus</l>
 <l>litium et rixae cupidos protervae;</l>
 <l>non ego hoc ferrem calidus iuventa</l>
-<l>consule Planco.</l></lg></div2>
-<div2 type="Poem" n="15" met="Second Asclepiadean">
+<l>consule Planco.</l></lg></div>
+<div type="poem" n="15" met="Second Asclepiadean">
 <lg><l>Uxor pauperis Ibyci,</l>
 <l>tandem nequitiae fige modum tuae</l>
 <l>famosisque laboribus;</l>
@@ -2181,8 +2181,8 @@ Added to repository. Passed SGML parse.
 <lg><l>te lanae prope nobilem</l>
 <l>tonsae Luceriam, non citharae decent</l>
 <l>nec flos purpureus rosae</l>
-<l>nec poti, vetulam, faece tenus cadi.</l></lg></div2>
-<div2 type="Poem" n="16" met="Third Asclepiadean">
+<l>nec poti, vetulam, faece tenus cadi.</l></lg></div>
+<div type="poem" n="16" met="Third Asclepiadean">
 <lg><l>Inclusam Danaen turris aenea</l>
 <l>robustaeque fores et vigilum canum</l>
 <l>tristes excubiae munierant satis</l>
@@ -2226,8 +2226,8 @@ Added to repository. Passed SGML parse.
 <lg><l>quam si Mygdoniis regnum Alyattei</l>
 <l>campis continuem. multa petentibus</l>
 <l>desunt multa: bene est cui deus obtulit</l>
-<l>parca quod satis est manu.</l></lg></div2>
-<div2 type="Poem" n="17" met="Alcaic Strophe">
+<l>parca quod satis est manu.</l></lg></div>
+<div type="poem" n="17" met="Alcaic Strophe">
 <lg><l>Aeli vetusto nobilis ab Lamo,</l>
 <l>quando et priores hinc Lamias ferunt</l>
 <l>denominatos et nepotum</l>
@@ -2243,8 +2243,8 @@ Added to repository. Passed SGML parse.
 <lg><l>annosa cornix. dum potes, aridum</l>
 <l>conpone lignum: cras genium mero</l>
 <l>curabis et porco bimenstri</l>
-<l>cum famulis operum solutis.</l></lg></div2>
-<div2 type="Poem" n="18" met="Sapphic Strophe">
+<l>cum famulis operum solutis.</l></lg></div>
+<div type="poem" n="18" met="Sapphic Strophe">
 <lg><l>Faune, Nympharum fugientum amator,</l>
 <l>per meos finis et aprica rura</l>
 <l>lenis incedas abeasque parvis</l>
@@ -2260,8 +2260,8 @@ Added to repository. Passed SGML parse.
 <lg><l>inter audacis lupus errat agnos,</l>
 <l>spargit agrestis tibi silva frondes,</l>
 <l>gaudet invisam pepulisse fossor</l>
-<l>ter pede terram.</l></lg></div2>
-<div2 type="Poem" n="19" met="Second Asclepiadean">
+<l>ter pede terram.</l></lg></div>
+<div type="poem" n="19" met="Second Asclepiadean">
 <lg><l>Quantum distet ab Inacho</l>
 <l>Codrus pro patria non timidus mori</l>
 <l>narras et genus Aeaci</l>
@@ -2289,8 +2289,8 @@ Added to repository. Passed SGML parse.
 <lg><l>spissa te nitidum coma,</l>
 <l>puro te similem, Telephe, Vespero</l>
 <l>tempestiva petit Rhode;</l>
-<l>me lentus Glycerae torret amor meae.</l></lg></div2>
-<div2 type="Poem" n="20" met="Sapphic Strophe">
+<l>me lentus Glycerae torret amor meae.</l></lg></div>
+<div type="poem" n="20" met="Sapphic Strophe">
 <lg><l>Non vides, quanto moveas periclo,</l>
 <l>Pyrrhe, Gaetulae catulos leaenae?</l>
 <l>dura post paulo fugies inaudax</l>
@@ -2306,8 +2306,8 @@ Added to repository. Passed SGML parse.
 <lg><l>fertur et leni recreare vento</l>
 <l>sparsum odoratis umerum capillis,</l>
 <l>qualis aut Nireus fuit aut aquosa</l>
-<l>raptus ab Ida.</l></lg></div2>
-<div2 type="Poem" n="21" met="Alcaic Strophe">
+<l>raptus ab Ida.</l></lg></div>
+<div type="poem" n="21" met="Alcaic Strophe">
 <lg><l>O nata mecum consule Manlio,</l>
 <l>seu tu querellas sive geris iocos</l>
 <l>seu rixam et insanos amores</l>
@@ -2331,8 +2331,8 @@ Added to repository. Passed SGML parse.
 <lg><l>te Liber et si laeta aderit Venus</l>
 <l>segnesque nodum solvere Gratiae</l>
 <l>vivaeque producent lucernae,</l>
-<l>dum rediens fugat astra Phoebus.</l></lg></div2>
-<div2 type="Poem" n="22" met="Sapphic Strophe">
+<l>dum rediens fugat astra Phoebus.</l></lg></div>
+<div type="poem" n="22" met="Sapphic Strophe">
 <lg><l>Montium custos nemorumque, virgo,</l>
 <l>quae laborantis utero puellas</l>
 <l>ter vocata audis adimisque leto,</l>
@@ -2340,8 +2340,8 @@ Added to repository. Passed SGML parse.
 <lg><l>imminens villae tua pinus esto,</l>
 <l>quam per exactos ego laetus annos</l>
 <l>verris obliquum meditantis ictum</l>
-<l>sanguine donem.</l></lg></div2>
-<div2 type="Poem" n="23" met="Alcaic Strophe">
+<l>sanguine donem.</l></lg></div>
+<div type="poem" n="23" met="Alcaic Strophe">
 <lg><l>Caelo supinas si tuleris manus</l>
 <l>nascente luna, rustica Phidyle,</l>
 <l>si ture placaris et horna</l>
@@ -2361,8 +2361,8 @@ Added to repository. Passed SGML parse.
 <lg><l>inmunis aram si tetigit manus,</l>
 <l>non sumptuosa blandior hostia,</l>
 <l>mollivit aversos Penatis</l>
-<l>farre pio et saliente mica.</l></lg></div2>
-<div2 type="Poem" n="24" met="Second Asclepiadean">
+<l>farre pio et saliente mica.</l></lg></div>
+<div type="poem" n="24" met="Second Asclepiadean">
 <lg><l>Intactis opulentior</l>
 <l>thesauris Arabum et divitis Indiae</l>
 <l>caementis licet occupes</l>
@@ -2426,8 +2426,8 @@ Added to repository. Passed SGML parse.
 <lg><l>indignoque pecuniam</l>
 <l>heredi properet. scilicet inprobae</l>
 <l>crescunt divitiae, tamen</l>
-<l>curtae nescio quid semper abest rei.</l></lg></div2>
-<div2 type="Poem" n="25" met="Second Asclepiadean">
+<l>curtae nescio quid semper abest rei.</l></lg></div>
+<div type="poem" n="25" met="Second Asclepiadean">
 <lg><l>Quo me, Bacche, rapis tui</l>
 <l>plenum? quae nemora aut quos agor in specus,</l>
 <l>velox mente nova? quibus</l>
@@ -2447,8 +2447,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nil parvum aut humili modo,</l>
 <l>nil mortale loquar. dulce periculum est,</l>
 <l>o Lenaee, sequi deum</l>
-<l>cingentem viridi tempora pampino.</l></lg></div2>
-<div2 type="Poem" n="26" met="Alcaic Strophe">
+<l>cingentem viridi tempora pampino.</l></lg></div>
+<div type="poem" n="26" met="Alcaic Strophe">
 <lg><l>Vixi puellis nuper idoneus</l>
 <l>et militavi non sine gloria;</l>
 <l>nunc arma defunctumque bello</l>
@@ -2460,8 +2460,8 @@ Added to repository. Passed SGML parse.
 <lg><l>o quae beatam diva tenes Cyprum et</l>
 <l>Memphin carentem Sithonia nive,</l>
 <l>regina, sublimi flagello</l>
-<l>tange Chloen semel arrogantem.</l></lg></div2>
-<div2 type="Poem" n="27" met="Sapphic Strophe">
+<l>tange Chloen semel arrogantem.</l></lg></div>
+<div type="poem" n="27" met="Sapphic Strophe">
 <lg><l>Inpios parrae recinentis omen</l>
 <l>ducat et praegnans canis aut ab agro</l>
 <l>rava decurrens lupa Lanuvino</l>
@@ -2537,8 +2537,8 @@ Added to repository. Passed SGML parse.
 <lg><l>uxor invicti Iovis esse nescis.</l>
 <l>mitte singultus, bene ferre magnam</l>
 <l>disce fortunam; tua sectus orbis</l>
-<l>nomina ducet.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="28" met="Second Asclepiadean">
+<l>nomina ducet.&rdquo;</l></lg></div>
+<div type="poem" n="28" met="Second Asclepiadean">
 <lg><l>Festo quid potius die</l>
 <l>Neptuni faciam? prome reconditum,</l>
 <l>Lyde, strenua Caecubum,</l>
@@ -2554,8 +2554,8 @@ Added to repository. Passed SGML parse.
 <lg><l>summo carmine quae Cnidon</l>
 <l>fulgentisque tenet Cycladas et Paphon</l>
 <l>iunctis visit oloribus</l>
-<l>dicetur, merita Nox quoque nenia.</l></lg></div2>
-<div2 type="Poem" n="29" met="Alcaic Strophe">
+<l>dicetur, merita Nox quoque nenia.</l></lg></div>
+<div type="poem" n="29" met="Alcaic Strophe">
 <lg><l>Tyrrhena regum progenies, tibi</l>
 <l>non ante verso lene merum cado</l>
 <l>cum flore, Maecenas, rosarum et</l>
@@ -2619,8 +2619,8 @@ Added to repository. Passed SGML parse.
 <lg><l>addant avaro divitias mari:</l>
 <l>tunc me biremis praesidio scaphae</l>
 <l>tutum per Aegaeos tumultus</l>
-<l>aura feret geminusque Pollux.</l></lg></div2>
-<div2 type="Poem" n="30" met="First Asclepiadean">
+<l>aura feret geminusque Pollux.</l></lg></div>
+<div type="poem" n="30" met="First Asclepiadean">
 <p><l>Exegi monumentum aere perennius</l>
 <l>regalique situ pyramidum altius,</l>
 <l>quod non imber edax, non aquilo impotens</l>
@@ -2636,9 +2636,9 @@ Added to repository. Passed SGML parse.
 <l>princeps Aeolium carmen ad Italos</l>
 <l>deduxisse modos. sume superbiam</l>
 <l>quaesitam meritis et mihi Delphica</l>
-<l>lauro cinge volens, Melpomene, comam.</l></p></div2></div1>
-<div1 type="Book" n="4">
-<div2 type="Poem" n="1" met="Second Asclepiadean">
+<l>lauro cinge volens, Melpomene, comam.</l></p></div></div>
+<div type="book" n="4">
+<div type="poem" n="1" met="Second Asclepiadean">
 <lg><l>Intermissa, Venus, diu</l>
 <l>rursus bella moves? parce, precor precor.</l>
 <l>non sum qualis eram bonae</l>
@@ -2678,8 +2678,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nocturnis ego somniis</l>
 <l>iam captum teneo, iam volucrem sequor</l>
 <l>te per gramina Martii</l>
-<l>campi, te per aquas, dure, volubilis.</l></lg></div2>
-<div2 type="Poem" n="2" met="Sapphic Strophe">
+<l>campi, te per aquas, dure, volubilis.</l></lg></div>
+<div type="poem" n="2" met="Sapphic Strophe">
 <lg><l>Pindarum quisquis studet aemulari,</l>
 <l>Iulle, ceratis ope Daedalea</l>
 <l>nititur pennis vitreo daturus</l>
@@ -2739,8 +2739,8 @@ Added to repository. Passed SGML parse.
 <lg><l>fronte curvatos imitatus ignis</l>
 <l>tertium lunae referentis ortum,</l>
 <l>qua notam duxit, niveus videri,</l>
-<l>cetera fulvos.</l></lg></div2>
-<div2 type="Poem" n="3" met="Second Asclepiadean">
+<l>cetera fulvos.</l></lg></div>
+<div type="poem" n="3" met="Second Asclepiadean">
 <lg><l>Quem tu, Melpomene, semel</l>
 <l>nascentem placido lumine videris,</l>
 <l>illum non labor Isthmius</l>
@@ -2764,8 +2764,8 @@ Added to repository. Passed SGML parse.
 <lg><l>totum muneris hoc tui est,</l>
 <l>quod monstror digito praetereuntium</l>
 <l>Romanae fidicen lyrae:</l>
-<l>quod spiro et placeo, si placeo, tuum est.</l></lg></div2>
-<div2 type="Poem" n="4" met="Alcaic Strophe">
+<l>quod spiro et placeo, si placeo, tuum est.</l></lg></div>
+<div type="poem" n="4" met="Alcaic Strophe">
 <lg><l>Qualem ministrum fulminis alitem,</l>
 <l>cui rex deorum regnum in avis vagas</l>
 <l>permisit expertus fidelem</l>
@@ -2841,8 +2841,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nil Claudiae non perficient manus,</l>
 <l>quas et benigno numine Iuppiter</l>
 <l>defendit et curae sagaces</l>
-<l>expediunt per acuta belli&rdquo;.</l></lg></div2>
-<div2 type="Poem" n="5" met="Third Asclepiadean">
+<l>expediunt per acuta belli&rdquo;.</l></lg></div>
+<div type="poem" n="5" met="Third Asclepiadean">
 <lg><l>Divis orte bonis, optume Romulae</l>
 <l>custos gentis, abes iam nimium diu;</l>
 <l>maturum reditum pollicitus patrum</l>
@@ -2882,8 +2882,8 @@ Added to repository. Passed SGML parse.
 <lg><l>&ldquo;longas o utinam, dux bone, ferias</l>
 <l>praestes Hesperiae!&rdquo; dicimus integro</l>
 <l>sicci mane die, dicimus uvidi,</l>
-<l>cum sol Oceano subest.</l></lg></lg></div2>
-<div2 type="Poem" n="6" met="Sapphic Strophe">
+<l>cum sol Oceano subest.</l></lg></lg></div>
+<div type="poem" n="6" met="Sapphic Strophe">
 <lg><l>Dive, quem proles Niobea magnae</l>
 <l>vindicem linguae Tityosque raptor</l>
 <l>sensit et Troiae prope victor altae</l>
@@ -2927,8 +2927,8 @@ Added to repository. Passed SGML parse.
 <lg><l>nupta iam dices &ldquo;ego dis amicum</l>
 <l>saeculo festas referente luces</l>
 <l>reddidi carmen docilis modorum</l>
-<l> vatis Horati.&rdquo;</l></lg></div2>
-<div2 type="Poem" n="7" met="First Archilochian">
+<l> vatis Horati.&rdquo;</l></lg></div>
+<div type="poem" n="7" met="First Archilochian">
 <lg><l>Diffugere nives, redeunt iam gramina campis</l>
 <l>arboribusque comae;</l>
 <l>mutat terra vices et decrescentia ripas</l>
@@ -2956,8 +2956,8 @@ Added to repository. Passed SGML parse.
 <lg><l>infernis neque enim tenebris Diana pudicum</l>
 <l>liberat Hippolytum</l>
 <l>nec Lethaea valet Theseus abrumpere caro</l>
-<l>vincula Pirithoo.</l></lg></div2>
-<div2 type="Poem" n="8" met="First Asclepiadean">
+<l>vincula Pirithoo.</l></lg></div>
+<div type="poem" n="8" met="First Asclepiadean">
 <p><l>Donarem pateras grataque commodus,</l>
 <l>Censorine, meis aera sodalibus,</l>
 <l>donarem tripodas, praemia fortium</l>
@@ -2991,8 +2991,8 @@ Added to repository. Passed SGML parse.
 <l>clarum Tyndaridae sidus ab infimis</l>
 <l>quassas eripiunt aequoribus ratis,</l>
 <l>ornatus viridi tempora pampino</l>
-<l>Liber vota bonos ducit ad exitus.</l></p></div2>
-<div2 type="Poem" n="9" met="Alcaic Strophe">
+<l>Liber vota bonos ducit ad exitus.</l></p></div>
+<div type="poem" n="9" met="Alcaic Strophe">
 <lg><l>Ne forte credas interitura quae</l>
 <l>longe sonantem natus ad Aufidum</l>
 <l>non ante volgatas per artis</l>
@@ -3044,8 +3044,8 @@ Added to repository. Passed SGML parse.
 <lg><l>duramque callet pauperiem pati</l>
 <l>peiusque leto flagitium timet,</l>
 <l>non ille pro caris amicis</l>
-<l>aut patria timidus perire.</l></lg></lg></div2>
-<div2 type="Poem" n="10" met="Fifth (Greater) Asclepiadean">
+<l>aut patria timidus perire.</l></lg></lg></div>
+<div type="poem" n="10" met="Fifth (Greater) Asclepiadean">
 <p><l>O crudelis adhuc et Veneris muneribus potens,</l>
 <l>insperata tuae cum veniet pluma superbiae</l>
 <l>et, quae nunc umeris involitant, deciderint comae,</l>
@@ -3053,8 +3053,8 @@ Added to repository. Passed SGML parse.
 <l>mutatus Ligurinum in faciem verterit hispidam,</l>
 <l>dices &ldquo;heu,&rdquo; quotiens te speculo videris alterum,</l>
 <l>&ldquo;quae mens est hodie, cur eadem non puero fuit,</l>
-<l>vel cur his animis incolumes non redeunt genae?&rdquo;</l></p></div2>
-<div2 type="Poem" n="11" met="Sapphic Strophe">
+<l>vel cur his animis incolumes non redeunt genae?&rdquo;</l></p></div>
+<div type="poem" n="11" met="Sapphic Strophe">
 <lg><l>Est mihi nonum superantis annum</l>
 <l>plenus Albani cadus, est in horto,</l>
 <l>Phylli, nectendis apium coronis;</l>
@@ -3090,8 +3090,8 @@ Added to repository. Passed SGML parse.
 <lg><l>(non enim posthac alia calebo</l>
 <l>femina) condisce modos, amanda</l>
 <l>voce quos reddas: minuentur atrae</l>
-<l>carmine curae.</l></lg></div2>
-<div2 type="Poem" n="12" met="Third Asclepiadean">
+<l>carmine curae.</l></lg></div>
+<div type="poem" n="12" met="Third Asclepiadean">
 <lg><l>Iam veris comites, quae mare temperant,</l>
 <l>inpellunt animae lintea Thraciae,</l>
 <l>iam nec prata rigent nec fluvii strepunt</l>
@@ -3119,8 +3119,8 @@ Added to repository. Passed SGML parse.
 <lg><l>verum pone moras et studium lucri</l>
 <l>nigrorumque memor, dum licet, ignium</l>
 <l>misce stultitiam consiliis brevem:</l>
-<l>dulce est desipere in loco.</l></lg></div2>
-<div2 type="Poem" n="13" met="Fourth Asclepiadean">
+<l>dulce est desipere in loco.</l></lg></div>
+<div type="poem" n="13" met="Fourth Asclepiadean">
 <lg><l>Audivere, Lyce, di mea vota, di</l>
 <l>audivere, Lyce: fis anus et tamen</l>
 <l>vis formosa videri</l>
@@ -3148,8 +3148,8 @@ Added to repository. Passed SGML parse.
 <lg><l>cornicis vetulae temporibus Lycen,</l>
 <l>possent ut iuvenes visere fervidi</l>
 <l>multo non sine risu</l>
-<l>dilapsam in cineres facem.</l></lg></div2>
-<div2 type="Poem" n="14" met="Alcaic Strophe">
+<l>dilapsam in cineres facem.</l></lg></div>
+<div type="poem" n="14" met="Alcaic Strophe">
 <lg><l>Quae cura patrum quaeve Quiritium</l>
 <l>plenis honorum muneribus tuas,</l>
 <l>Auguste, virtutes in aevum</l>
@@ -3201,8 +3201,8 @@ Added to repository. Passed SGML parse.
 <lg><l>te non paventis funera Galliae</l>
 <l>duraeque tellus audit Hiberiae,</l>
 <l>te caede gaudentes Sygambri</l>
-<l>conpositis venerantur armis.</l></lg></div2>
-<div2 type="Poem" n="15" met="Alcaic Strophe">
+<l>conpositis venerantur armis.</l></lg></div>
+<div type="poem" n="15" met="Alcaic Strophe">
 <lg><l>Phoebus volentem proelia me loqui</l>
 <l>victas et urbis increpuit lyra,</l>
 <l>ne parva Tyrrhenum per aequor</l>
@@ -3235,5 +3235,5 @@ Added to repository. Passed SGML parse.
 <l>Lydis remixto carmine tibiis</l>
 <l>Troiamque et Anchisen et almae</l>
 <l>progeniem Veneris canemus.</l></lg>
-</div2></div1>
+</div></div>
 </body></text></TEI.2>

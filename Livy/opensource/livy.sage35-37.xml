@@ -54,8 +54,8 @@
 	<text>
 		<body>
 			<pb n="vii"/>
-			<div1 type="book" n="front">
-				<div2 type="chapter"><head>Translator's preface</head>
+			<div type="book" n="front">
+				<div type="chapter"><head>Translator's preface</head>
 					<p>Little need be added to the Translator's Preface
 						of the preceding volume. My resources, problems,
 						aims and methods of work are essentially those
@@ -92,8 +92,8 @@
 						and to my son, Robert L. Sage, of the Oriental
 						Institute, University of Chicago, for aid, particularly
 						with the place-names of Asia Minor.</p>
-				</div2>
-				<div2 type="chapter"><head>Conspectus Siglorum</head>
+				</div>
+				<div type="chapter"><head>Conspectus Siglorum</head>
 					<p><hi rend="italics">B</hi> = Codex Bambergensis M. IV. 9, s. 11.</p>
 					<p><hi rend="italics">F</hi> = Codex Bambergensis Q. IV. 27 (Theol. 99), s. 6.</p>
 					<p><hi rend="italics">M</hi> = Codex Moguntinus deperditus, s. 9 (?).</p>
@@ -101,8 +101,8 @@
 						most important early editions are cited by
 						name).</p>
 					<pb n="ix"/>
-				</div2>
-				<div2 type="chapter"><head>Introductory Note</head>
+				</div>
+				<div type="chapter"><head>Introductory Note</head>
 					<p>In the Introductory Note to Volume IX I tried to
 						picture with the maximum of simplicity the semianarchy prevailing in the eastern Mediterranean
 						when Roman armies first showed themselves seriously
@@ -177,10 +177,10 @@
 						internal politics made the realization impossible.
 						Perhaps a disinterested and unambitious conqueror
 						has at all times been an anachronism.</p>
-				</div2>
-			</div1>
+				</div>
+			</div>
 			<pb id="p.3"/>
-			<div1 type="book" n="35"><head>Book XXXV</head>
+			<div type="book" n="35"><head>Book XXXV</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>In the beginning of the year in which these<note type="margin">B.C. 193</note> events occurred, Sextus Digitius, praetor in Hither Spain,<note>For the assignment of Digitius to Hither Spain, see XXXIV. xliii. 7.</note> fought battles, numerous rather than memorable, with the tribes which had, in great numbers, revolted after the departure of Marcus Cato,<note>For Cato's campaign in Spain, see XXXIV. xi-xxi; for his return and triumph, XXXIV. xlvi. 2.</note> and most of these engagements were so unfortunate
 					<milestone unit="section" n="2??"/> in result that he turned over to his successor barely half as many soldiers as he had received.
@@ -839,9 +839,9 @@
 					<milestone unit="section" n="8"/> The Achaeans and the soldiers of Eumenes were the first to bargain that they be allowed to depart under safeguard and left their post; with greater stubbornness the Romans tried to hold the Euripus.
 					<milestone unit="section" n="9"/> Nevertheless, even they, when they were besieged by land and sea and saw the engines and artillery being moved forward, did not withstand the siege.
 					<milestone unit="section" n="10"/> Since the king held this, which was the chief city of Euboea, the other cities of the island did not disobey his orders, and he seemed to himself to have made an important start to the war in the fact that so great an island and so many well-situated cities had come under his sway.</p>
-			</div1>
+			</div>
 			<pb id="p.151"/>
-			<div1 type="book" n="35s"><head>Summary of Book XXXV</head>
+			<div type="book" n="35s"><head>Summary of Book XXXV</head>
 				<p>Publius Scipio Africanus, sent on an embassy to
 					Antiochus, at Ephesus conversed with Hannibal, who had
 					associated himself with Antiochus, in order that, if it
@@ -875,9 +875,9 @@
 					and all Euboea. The book contains in addition the
 					narrative of events among the Ligures and the preparations
 					of Antiochus for war.</p>
-			</div1>
+			</div>
 			<pb id="p.155"/>
-			<div1 type="book" n="36"><head>Book XXXVI</head>
+			<div type="book" n="36"><head>Book XXXVI</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>Publius Cornelius Scipio, the son of Gnaeus,<note type="margin">B.C. 191</note> and Manius Acilius Glabrio<note>For their election cf. XXXV. xxiv. 5.</note> were inaugurated consuls, and were directed by the
 					<milestone unit="section" n="2??"/> Fathers, before they took up the question of provinces, to perform sacrifices with full-grown victims at all the shrines at which the <hi rend="italics">lectisternium</hi><note>The <hi rend="italics">lectisternium</hi> was a festival at which the images of the gods were exposed on couches (hence <hi rend="italics">lecti-</hi>) on the streets and were served with food.</note> was customarily celebrated throughout the greater part of the year, and to offer prayer that what the senate had in mind regarding the new war might turn out well and successfully for the senate and the Roman people.<note>For the formula cf. XXI. v. 4.</note>
@@ -1438,9 +1438,9 @@
 					<milestone unit="section" n="7"/> the Romans on their way to Chios first sailed past Phoenicus, the port of the Erythraean land, and at nightfall dropped anchor; the next day they crossed to the island and to the city itself. There they delayed a few days resting their rowers, and then crossed to Phocaea.
 					<milestone unit="section" n="8"/> Leaving four quinqueremes there as a garrison for the city, the fleet came to Canae; and since winter was now at hand, the ships were beached and surrounded with a wall and ditch.</p> 
 				<p><milestone unit="section" n="9"/>At the end of the year the elections were held in Rome, at which Lucius Cornelius Scipio and Gaius Laelius &mdash;all looking towards Africanus<note>Lucius Scipio was the brother and Laelius the closest friend of Scipio Africanus.</note> &mdash;were chosen consuls to end the war with Antiochus. The next day the praetors were elected, Marcus Tuccius, Lucius Aurunculeius, Gnaeus Fulvius, Lucius Aemilius, Publius Junius, Gaius Atinius Labeo.</p>
-			</div1>
+			</div>
 			<pb id="p.287"/>
-			<div1 type="book" n="36s"><head>Summary of Book XXXVI</head>
+			<div type="book" n="36s"><head>Summary of Book XXXVI</head>
 				<p>Acilius Glabrio the consul, with the aid of King
 					Philip, defeated Antiochus at Thermopylae and drove
 					him from Greece, and also subdued the Aetolians. Publius
@@ -1450,9 +1450,9 @@
 					senate. He also received the surrender of the Gallic Boii
 					after their defeat, and triumphed over them. Besides,
 					naval victories over the officers of Antiochus are recorded.</p>
-			</div1>
+			</div>
 			<pb id="p.291"/>
-			<div1 type="book" n="37"><head>Book XXXVII</head>
+			<div type="book" n="37"><head>Book XXXVII</head>
 				<p><milestone unit="chapter" n="1"/>
 					<milestone unit="section" n="1"/>Lucius Cornelius Scipio and Gaius Laelius<note type="margin">B.C. 190</note> entered upon the consulship, and after the religious observances were carried out, no question in the senate had priority over that concerning the Aetolians. And their ambassadors were urging a decision, since only a brief time of truce was allowed them, and they were seconded by Titus Quinctius, who had now returned to Rome from Greece.
 					<milestone unit="section" n="2"/> The Aetolians, like men who reposed more hope in the mercy of the senate than in their own case, pleaded like suppliants, balancing former services against recent misdeeds.
@@ -2242,9 +2242,9 @@
 					<milestone unit="section" n="5"/> The Cretans did not <pb id="p.479"/>pay much attention to this: none of them restored<note type="margin">B.C. 189</note> the prisoners except the Gortynians.
 					<milestone unit="section" n="6"/> Valerius Antias wrote that four thousand prisoners were given back from the whole island because they feared the threat of war; and. that this was the explanation of the fact that Fabius, although he had done nothing else, received a naval triumph from the senate.
 					<milestone unit="section" n="7"/> From Crete Fabius returned to Ephesus; thence he sent three ships to the coast of Thrace and ordered the garrisons of Antiochus withdrawn from Aenos and Maronea, that these states might be at liberty.<note>These cities seem to have been overlooked before, possibly because the withdrawal of Antiochus from Lysimachia was a <hi rend="italics">de facto</hi> abandonment of his territorial claims in Europe.</note></p>
-			</div1>
+			</div>
 			<pb id="p.481"/>
-			<div1 type="book" n="37s"><head>Summary of Book XXXVII</head>
+			<div type="book" n="37s"><head>Summary of Book XXXVII</head>
 				<p>Lucius Cornelius Scipio the consul, with his brother
 					Scipio Africanus as his lieutenant (Africanus had said that
 					he would be his brother's lieutenant if the province of
@@ -2270,9 +2270,9 @@
 					naval triumph. Manius Acilius Glabrio triumphed over
 					Antiochus, whom he had driven out of Greece, and over
 					the Aetolians.</p>
-			</div1>
+			</div>
 			<pb id="p.483"/>
-			<div1 type="book" n="index"><head>Index of names</head>
+			<div type="book" n="index"><head>Index of names</head>
 				<head>(<hi rend="italics">The References are to Pages</hi>)</head>
 				<p>ABYDUS, 316 (<hi rend="italics">bis</hi>), 324 (<hi rend="italics">bis</hi>), 330</p>
 				<p>Acarnania, 190 (<hi rend="italics">bis</hi>), 192, 194 (<hi rend="italics">bis</hi>),
@@ -3177,7 +3177,7 @@
 				<p>Zeuxis, 408, 420 (<hi rend="italics">bis</hi>)</p>
 				<p>Zmyrna, 46,50,122,390; Zmyrnaei, 46,
 					336, 452 (<hi rend="italics">bis;</hi> Zmyrnaeae naves, 334</p>
-			</div1>
+			</div>
 		</body>
 	</text>
 </TEI.2>

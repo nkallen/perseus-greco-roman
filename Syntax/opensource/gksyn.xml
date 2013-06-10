@@ -82,9 +82,9 @@ finally, this widely-cited document is in the hopper
 
 <text lang="en">
 <body>
-<div1 id="og.1" type="chapter" n="1">
+<div id="og.1" type="chapter" n="1">
 <head>Nouns, Adjectives, and Pronouns</head>
-<div2 id="og.1.nom" type="form" n="nom">
+<div id="og.1.nom" type="form" n="nom">
 <head>Nominative</head>
 <p>Used as the subject, predicate object, or independently in titles.
 
@@ -98,8 +98,8 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Independent:</hi>  Standing independently describing titles or names.  <bibl n="Smyth grammar 940">Smyth 940-942</bibl></p>
 <p><cit><quote lang="greek">prosei/lhfe th\n tw=n ponhrw=n koinh\n e)pwnumi/an sukofa/nths</quote> <bibl n="Aeschin. 2.99">Aeschin. 2.99</bibl></cit>;  <gloss>he -- the syncophant -- received the common appellation of the vile</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.1.gen" type="form" n="gen">
+  </p></div>
+<div id="og.1.gen" type="form" n="gen">
 <head>Genitive</head>
 <p>1.  limits the meaning of a noun</p>
 <p>2. expresses the idea of source or separation.</p>
@@ -159,8 +159,8 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Purpose:</hi>  The genitive articular infinitive can express purpose.  <bibl n="Smyth grammar 1408">Smyth 1408-1409</bibl></p>
 <p><cit><quote lang="greek">tou= mh\ ta\ di/kaia poiei=n</quote> <bibl n="Dem. 18.107">Dem. 18.107</bibl></cit>;  <gloss>in order not to do what was just</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.1.dat" type="form" n="dat">
+  </p></div>
+<div id="og.1.dat" type="form" n="dat">
 <head>Dative</head>
 <p>1.  Used as the indirect object.</p>
 <p>2.  Expresses how or with what something is done.</p>
@@ -207,8 +207,8 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">With compound verbs:</hi>  The dative is used as the direct object of many verbs compounded with the prepositions <foreign lang="greek">ἐν, σύν, </foreign> and <foreign lang="greek">ἐπί</foreign> and less frequently with the prepositions <foreign lang="greek">πρός, παρά, περί, </foreign> and <foreign lang="greek">ὑπό</foreign>.  <bibl n="Smyth grammar 1544">Smyth 1544-1550</bibl></p>
 <p><cit><quote lang="greek">e)lpi/das e)mpoiei=n a)nqrw/pois</quote> <bibl n="Xen. Cyrop. 1.6.19">Xen. Cyrop. 1.6.19</bibl></cit>;  <gloss>to create expectations in men</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.1.acc" type="form" n="acc">
+  </p></div>
+<div id="og.1.acc" type="form" n="acc">
 <head>Accusative</head>
 <p>Used as the direct object of a verb, or to communicate relationships of motion, space, or time.
 
@@ -246,8 +246,8 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Predicate Accusative:</hi>  Verbs of naming, appointing, considering take a second accusative as a predicate of the direct object.  <bibl n="Smyth grammar 1613">Smyth 1613-1618</bibl></p>
 <p><cit><quote lang="greek">strathgo\n au)to\n a)pe/deice</quote> <bibl n="Xen. Anab. 1.1.2">Xen. Anab. 1.1.2</bibl></cit>;  <gloss>he appointed him general</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.1.voc" type="form" n="voc">
+  </p></div>
+<div id="og.1.voc" type="form" n="voc">
 <head>Vocative</head>
 <p>Used for exclamations and emphatic address.
 
@@ -258,10 +258,10 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Emphatic address:</hi>  The vocative is used for emphatic addresses.  <bibl n="Smyth grammar 1283">Smyth 1283-1288</bibl></p>
 <p><cit><quote lang="greek">a)kou/eis <hi rend="bold">*ai)sxi/nh</hi>;</quote> <bibl n="Dem. 18.121">Dem. 18.121</bibl></cit> <gloss>do you hear, <emph>Aeschines</emph>?</gloss> </p></item>
 </list>
-  </p></div2></div1>
-<div1 id="og.2" type="chapter" n="2">
+  </p></div></div>
+<div id="og.2" type="chapter" n="2">
 <head>Verbs:  Tense</head>
-<div2 id="og.2.pres" type="form" n="pres">
+<div id="og.2.pres" type="form" n="pres">
 <head>Present</head>
 <p>The present tense denotes an action in the present time with continuing aspect.
 
@@ -281,8 +281,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">a)dikou=nta, h)\n la/bh|s, kola/zeis;</quote> <bibl n="Xen. Cyrop. 3.1.11">Xen. Cyrop. 3.1.11</bibl></cit>;  <gloss>Do you punish a wrong-doer if you catch him?</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.2.perf" type="form" n="perf">
+  </p></div>
+<div id="og.2.perf" type="form" n="perf">
 <head>Perfect</head>
 <p>The perfect denotes present time and completed aspect.
 
@@ -297,8 +297,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">ei) ou)=n bou/lesqe, e)/cestin u(mi=n h(ma=s labei=n cumma/xous</quote> <bibl n="Xen. Anab. 5.4.6">Xen. Anab. 5.4.6</bibl></cit>;  <gloss>If you wish, you can take us as allies</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.2.plup" type="form" n="plup">
+  </p></div>
+<div id="og.2.plup" type="form" n="plup">
 <head>Pluperfect</head>
 <p>The pluperfect expresses past time and completed aspect.
 
@@ -309,8 +309,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">ei)/ te/ ti a)/llo . . . e)ge/neto e)piki/ndunon toi=s *(/ellhsi, pa/ntwn . . . mete/sxomen</quote> <bibl n="Thuc. 3.54">Thuc. 3.54</bibl></cit>;  <gloss>and if any other danger befell the Greeks, we took our share in all</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.2.imperf" type="form" n="imperf">
+  </p></div>
+<div id="og.2.imperf" type="form" n="imperf">
 <head>Imperfect</head>
 <p>The imperfect expresses past time and continuing aspect.
 
@@ -337,8 +337,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">ei) de/ tis kai\ a)ntei/poi, eu)qu\s . . . e)teqnh/kei</quote> <bibl n="Thuc. 8.66">Thuc. 8.66</bibl></cit>;  <gloss>but if any one even made an objection, he was promptly put to death</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.2.aor" type="form" n="aor">
+  </p></div>
+<div id="og.2.aor" type="form" n="aor">
 <head>Aorist</head>
 <p>The aorist expresses past time and simple aspect.
 
@@ -359,8 +359,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">ei)/ te/ ti a)/llo . . . e)ge/neto e)piki/ndunon toi=s *(/ellhsi, pa/ntwn . . . mete/sxomen</quote> <bibl n="Thuc. 3.54">Thuc. 3.54</bibl></cit>;  <gloss>and if any other danger befell the Greeks, we took our share in all</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.2.fut" type="form" n="fut">
+  </p></div>
+<div id="og.2.fut" type="form" n="fut">
 <head>Future</head>
 <p>The future expresses future time with either simple or continuing aspect.
 
@@ -381,8 +381,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">a)poktenei=s ga/r, ei)/ me gh=s e)/cw balei=s</quote> <bibl n="Eur. Phoen. 1621">Eur. Phoen. 1621</bibl></cit>;  <gloss>for you will slay me if you cast me out of the land</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.2.futperf" type="form" n="futperf">
+  </p></div>
+<div id="og.2.futperf" type="form" n="futperf">
 <head>Future Perfect</head>
 <p>The future perfect expresses future time and completed aspect.
 
@@ -391,10 +391,10 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">h( qu/ra keklh/setai</quote> <bibl n="Aristoph. Lys. 1071">Aristoph. Lys. 1071</bibl></cit>;  <gloss>the door will be kept shut</gloss>
 </p></item>
 </list>
-</p></div2></div1>
-<div1 id="og.3" type="chapter" n="3">
+</p></div></div>
+<div id="og.3" type="chapter" n="3">
 <head>Verbs:  Voice</head>  
-<div2 id="og.3.act" type="form" n="act">
+<div id="og.3.act" type="form" n="act">
 <head>Active Voice</head>
 <p>The active voice denotes that the subject is the agent of an action.
 
@@ -403,8 +403,8 @@ finally, this widely-cited document is in the hopper
 </p></item>
 <item><p><hi rend="bold">Intransitive:</hi>  An intransitive verb has an indirect impact on an object.  The object can be 1) the subject, 2) defined by an oblique case, or 3) defined by a prepositional phrase.  <bibl n="Smyth grammar 1707">Smyth 1707-1710</bibl></p></item>
 </list>
-  </p></div2>
-<div2 id="og.3.mid" type="form" n="mid">
+  </p></div>
+<div id="og.3.mid" type="form" n="mid">
 <head>Middle Voice</head>
 <p>The middle voice denotes that the subject is both an agent of an action and somehow concerned with the action.
 
@@ -415,14 +415,14 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Indirect Reflexive:</hi>  An indirect reflexive middle denotes the idea of <emph>self</emph> as an indirect object.  <bibl n="Smyth grammar 1719">Smyth 1719-1722</bibl></p>
 <p><cit><quote lang="greek">me/nein te au)to\n e)ke/leue kai\ su/ndeipnon e)poih/sato</quote> <bibl n="xen. anab. 2.5.27">Xen. Anab. 2.5.27</bibl></cit>;  <gloss>He invited him to remain and made him his guest.</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.3.pass" type="form" n="pass">
+  </p></div>
+<div id="og.3.pass" type="form" n="pass">
 <head>Passive Voice</head>
 <p>The passive voice denotes that the subject is acted upon.
-  </p></div2></div1>
-<div1 id="og.4" type="chapter" n="4">
+  </p></div></div>
+<div id="og.4" type="chapter" n="4">
 <head>Verbs:  Mood</head>
-<div2 id="og.4.ind" type="form" n="ind">
+<div id="og.4.ind" type="form" n="ind">
 <head>Indicative</head>
 <p>The indicative mood expresses simple statements or questions of fact.
 
@@ -475,8 +475,8 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Future Most Vivid Conditions:</hi>  The future indicative stands in the protasis and apodosis of future most vivid conditions.  <bibl n="Smyth grammar 2328">Smyth 2328</bibl></p>
 <p><cit><quote lang="greek">a)poktenei=s ga/r, ei)/ me gh=s e)/cw balei=s</quote> <bibl n="Eur. Phoen. 1621">Eur. Phoen. 1621</bibl></cit>;  <gloss>for you will slay me if you cast me out of the land</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.4.subj" type="form" n="subj">
+  </p></div>
+<div id="og.4.subj" type="form" n="subj">
 <head>Subjunctive</head>
 <p>The meaning of the subjunctive mood varies according to its context.
 
@@ -511,8 +511,8 @@ finally, this widely-cited document is in the hopper
 <item><p><hi rend="bold">Future More Vivid Conditions:</hi>  The subjunctive with <foreign lang="greek">ἐάν</foreign> stands in the protasis of future more vivid conditions.  The future indicative stands in the apodosis.  <bibl n="Smyth grammar 2323">Smyth 2323-2327</bibl></p>
 <p><cit><quote lang="greek">ti/ e)/stai toi=s stratiw/tais, e)a\n au)tw=| tau=ta xari/swntai</quote> <bibl n="Xen. Anab. 2.1.10">Xen. Anab. 2.1.10</bibl></cit>;  <gloss>What will the soldiers have, if they oblige him in this?</gloss></p></item>
 </list>
-  </p></div2>
-<div2 id="og.4.opt" type="form" n="opt">
+  </p></div>
+<div id="og.4.opt" type="form" n="opt">
 <head>Optative</head>
 <p>The meaning of the optative mood varies according to its context.
 
@@ -551,8 +551,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">deina\ a)\n ei)/hn ei)rgasme/nos, . . . ei) li/poimi th\n ta/cin</quote> <bibl n="Plat. Apol. 28d">Plat. Apol. 28d</bibl></cit>;  <gloss>I should be in the state of having committed a dreadful deed, if I were to desert my post</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.4.imperat" type="form" n="imperat">
+  </p></div>
+<div id="og.4.imperat" type="form" n="imperat">
 <head>Imperative</head>
 <p>The imperative mood is used to express commands and prohibitions.
 
@@ -564,8 +564,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">mh\ mainw/meqa mhd' ai)sxrw=s a)polw/meqa</quote> <bibl n="Xen. Anab. 7.1.29">Xen. Anab. 7.1.29</bibl></cit>;  <gloss>let us not act like madmen nor perish disgracefully</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.4.infin" type="form" n="infin">
+  </p></div>
+<div id="og.4.infin" type="form" n="infin">
 <head>Infinitive</head>
 <p>The infinitive is a verbal noun.  It is verbal in that it is formed from a verbal stem, modified by adverbs, and admits the constructions of a finite verb.  It is a noun in that it can be the subject or object of a verb, and can exhibit case syntax.
 
@@ -604,8 +604,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">a)ni/h kai\ to\ fula/ssein</quote> <bibl n="Hom. Od. 20.52">Hom. Od. 20.52</bibl></cit>;  <gloss>to watch is also trouble</gloss>
 </p></item>
 </list>
-  </p></div2>
-<div2 id="og.4.part" type="form" n="part">
+  </p></div>
+<div id="og.4.part" type="form" n="part">
 <head>Participle</head>
 <p>Participles are verbal adjectives.  Participles are like adjectives in that:
 <list type="simple"><item>1.   they have both case and number,</item>
@@ -658,8 +658,8 @@ finally, this widely-cited document is in the hopper
 <p><cit><quote lang="greek">me/mnhmai *kriti/a| tw=|de cuno/nta se</quote> <bibl n="Plat. Charm. 156a">Plat. Charm. 156a</bibl></cit>;  <gloss>I remember that you were in company with Critias here</gloss>
 </p></item>
 </list>
-  </p></div2></div1>
-<div1 id="og.sources" type="chapter" n="sources">
+  </p></div></div>
+<div id="og.sources" type="chapter" n="sources">
 <head>Sources Cited</head>
 <listBibl>
 <bibl>Bevier, L. <title>Brief Greek Syntax.</title> New York: 1903.</bibl>
@@ -667,7 +667,7 @@ finally, this widely-cited document is in the hopper
 <bibl n="KG">K&uuml;hner, R. and B. Gerth. <title lang="de">Ausf&uuml;hrliche Grammatik der Griechischen Sprache.</title> Hannover: 1898.</bibl>
 <bibl>Mastronarde, D. <title>Introduction to Attic Greek</title>. Berkeley: 1993.</bibl>
 <bibl n="Smyth grammar">Smyth, H. <title>Greek Grammar.</title> Cambridge: 1920.</bibl>
-</listBibl></div1>
+</listBibl></div>
 
 </body>
 </text>

@@ -46,7 +46,7 @@
     <text>
         <body>
 
-            <div1 n="51" type="speech">
+            <div n="51" type="speech">
                 <head>On The Trierarchic Crown</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>If the decree,
@@ -211,9 +211,9 @@
                     Otherwise you will teach all to perform the duties imposed by you with the least
                     possible outlay, but to hire the largest number of people possible to utter
                     impudent falsehoods before you in support of their claims.</p>
-            </div1>
+            </div>
 
-            <div1 n="52" type="speech">
+            <div n="52" type="speech">
                 <head>Apollodorus Against Callipus</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>There is no
@@ -473,9 +473,9 @@
                     yourselves and of my father; since for myself, I should rather let you take
                     everything I have, than pay an unjust claim as the victim of a malicious
                     suit.</p>
-            </div1>
+            </div>
 
-            <div1 n="53" type="speech">
+            <div n="53" type="speech">
                 <head>Apollodorus Against Nicostratus</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>I have no desire
@@ -725,9 +725,9 @@
                     matters by which they think they can most easily deceive you, they will try to
                     rob the state of what is due her;&mdash;if, I say, you disregard all these
                     tricks, and reach an adverse verdict, you will decide aright.</p>
-            </div1>
+            </div>
 
-            <div1 n="54" type="speech">
+            <div n="54" type="speech">
                 <head>Against <persName><surname>Conon</surname></persName></head>
                 <p>
                     <milestone n="Intro" unit="part"/><milestone n="1" unit="section"/><milestone unit="para" ed="P"/>With gross outrage I have met, men of the jury, at the
@@ -1186,9 +1186,9 @@
                         you.<note resp="Loeb" anchored="yes">Compare the concluding paragraph in
                             <bibl n="Dem. 36">Dem. 36</bibl> and <bibl n="Dem. 28">Dem.
                         28</bibl>.</note></p>
-            </div1>
+            </div>
 
-            <div1 n="55" type="speech">
+            <div n="55" type="speech">
                 <head>Against Callicles</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>There is after
@@ -1450,9 +1450,9 @@
                     </quote><quote type="Depositions">
                         <title>Depositions</title>
                     </quote></p>
-            </div1>
+            </div>
 
-            <div1 n="56" type="speech">
+            <div n="56" type="speech">
                 <head>Against Dionysodorus</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>I am a sharer in
@@ -1835,8 +1835,8 @@
                     of their interests.<milestone unit="para" ed="P"/>I, for my part, have said all
                     that I could; but I desire also to have one of my friends speak in my
                         behalf.<milestone unit="para" ed="P"/>Come forward, Demosthenes.</p>
-            </div1>
-            <div1 n="57" type="speech">
+            </div>
+            <div n="57" type="speech">
                 <head>Against Eubulides</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>Since Eubulides
@@ -2462,9 +2462,9 @@
                     off from such a host of relatives, and bring me to utter ruin. Rather than
                     abandon them, if it prove impossible for them to save me, I will kill myself,
                     that at least I may be buried by them in my country.</p>
-            </div1>
+            </div>
 
-            <div1 n="58" type="speech">
+            <div n="58" type="speech">
                 <head>Against Theocrines</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>Inasmuch as my
@@ -3134,9 +3134,9 @@
                     fixed the penalty at ten talents. We, therefore, beg and implore you: give us a
                     just verdict.<milestone unit="para" ed="P"/>Come to our aid, anyone who has
                     anything to say, and plead for us. Mount the platform.</p>
-            </div1>
+            </div>
 
-            <div1 n="59" type="speech">
+            <div n="59" type="speech">
                 <head>Apollodorus Against Neaera</head>
                 <p>
                     <milestone n="speaker" unit="part"/><milestone n="1" unit="section"/><milestone unit="para" ed="P"/>Many indeed are the reasons, men of <placeName key="perseus,Athens">Athens</placeName>, which urged me to prefer this
@@ -4331,8 +4331,8 @@
                     given an honorable and just decision on this indictment which I have preferred
                     against Neaera, charging that she, being an alien, lives as his wife with an
                     Athenian citizen.</p>
-            </div1>
-            <div1 n="60" type="speech">
+            </div>
+            <div n="60" type="speech">
                 <head>The Funeral Speech</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>After<note resp="Loeb" anchored="yes">In this genre <foreign lang="greek">ὦ ἄνδρες
@@ -4779,8 +4779,8 @@
                     concern how I might make a long speech, but how I might speak the truth. And now
                     do you, having spent your grief and done your part as law and custom require,
                     disperse to your homes.</p>
-            </div1>
-            <div1 n="61" type="speech">
+            </div>
+            <div n="61" type="speech">
                 <head>The Erotic Essay</head>
                 <p>
                     <milestone n="1" unit="section"/><milestone unit="para" ed="P"/>Well, since you
@@ -5279,7 +5279,7 @@
                     being friendly and agreeable to all of these, to heed those of them who have the
                     most sense, so that you may seem even more worthy of respect to this particular
                     group and to the rest of the citizens. Farewell.</p>
-            </div1>
+            </div>
         </body>
     </text>
 </TEI.2>

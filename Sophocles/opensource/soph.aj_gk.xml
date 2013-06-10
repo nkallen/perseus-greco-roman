@@ -107,7 +107,7 @@ antilabe in all files
 
 <text>
 <body n="Aj.">
-<div1 type="episode">
+<div type="episode">
 <milestone ed="p" n="1" unit="card"/>
 <sp>
 <speaker>Ἀθήνα</speaker>
@@ -411,7 +411,7 @@ antilabe in all files
 <l>θεοὶ φιλοῦσι καὶ στυγοῦσι τοὺς κακούς.</l>
 <milestone ed="p" n="134" unit="card"/>
 </p></sp>
-<div2 type="anapests">
+<div type="anapests">
 <sp><speaker>Χορός</speaker>
 <p><l>Τελαμώνιε παῖ, τῆς ἀμφιρύτου</l>
 <l n="135">Σαλαμῖνος ἔχων βάθρον ἀγχιάλου,</l>
@@ -452,10 +452,10 @@ antilabe in all files
 <l n="170">τάχ’ ἂν ἐξαίφνης, εἰ σὺ φανείης,</l>
 <l>σιγῇ πτήξειαν ἄφωνοι.</l>
 <milestone ed="p" n="172" unit="card"/>
-</p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</p></sp></div>
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>ἦ ῥά σε Ταυροπόλα Διὸς Ἄρτεμις&mdash;</l>
 <l>ὦ μεγάλα φάτις, ὦ</l>
@@ -467,8 +467,8 @@ antilabe in all files
 <l>ἢ χαλκοθώραξ μή τιν’ Ἐνυάλιος</l>
 <l n="180">μομφὰν ἔχων ξυνοῦ δορὸς ἐννυχίοις</l>
 <l>μαχαναῖς ἐτίσατο λώβαν;</l>
-<milestone ed="p" n="182" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<milestone ed="p" n="182" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>οὔ ποτε γὰρ φρενόθεν γ’ ἐπ’ ἀριστερά,</l>
 <l>παῖ Τελαμῶνος, ἔβας</l>
@@ -480,8 +480,8 @@ antilabe in all files
 <l n="190">ἢ τᾶς ἀσώτου Σισυφιδᾶν γενεᾶς,</l>
 <l>μὴ μή, ἄναξ, ἔθ’ ὧδ’ ἐφάλοις κλισίαις</l>
 <l>ὄμμ’ ἔχων κακὰν φάτιν ἄρῃ.</l>
-<milestone ed="p" n="193" unit="card"/></p></sp></div2>
-<div2 type="epode">
+<milestone ed="p" n="193" unit="card"/></p></sp></div>
+<div type="epode">
 <sp><speaker>Χορός</speaker>
 <p><l>ἀλλ’ ἄνα ἐξ ἑδράνων, ὅπου μακραίωνι</l>
 <l>στηρίζει ποτὲ τᾷδ’ ἀγωνίῳ σχολᾷ</l>
@@ -491,10 +491,10 @@ antilabe in all files
 <l>πάντων καγχαζόντων</l>
 <l>γλώσσαις βαρυάλγητα·</l>
 <l n="200">ἐμοὶ δ’ ἄχος ἕστακεν.</l>
-<milestone ed="p" n="201" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
-<div2 type="anapests">
+<milestone ed="p" n="201" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
+<div type="anapests">
 <sp><speaker>Τέκμησσα</speaker>
 <p><l>ναὸς ἀρωγοὶ τῆς Αἴαντος,</l>
 <l>γενεᾶς χθονίων ἀπ’ Ἐρεχθειδῶν,</l>
@@ -511,10 +511,10 @@ antilabe in all files
 <l>λέγ’, ἐπεὶ σὲ λέχος δουριάλωτον</l>
 <l>στέρξας ἀνέχει θούριος Αἴας·</l>
 <l>ὥστ’ οὐκ ἂν ἄϊδρις ὑπείποις.</l>
-</p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="anapests">
+</p></sp></div>
+</div>
+<div type="choral">
+<div type="anapests">
 <sp><speaker>Τέκμησσα</speaker>
 <p><l n="215">πῶς δῆτα λέγω λόγον ἄρρητον;</l>
 <l>θανάτῳ γὰρ ἴσον βάρος ἐκπεύσει.</l>
@@ -524,8 +524,8 @@ antilabe in all files
 <l>χειροδάϊκτα σφάγι’ αἱμοβαφῆ,</l>
 <l n="220">κείνου χρηστήρια τἀνδρός.</l>
 <milestone ed="p" n="221" unit="card"/>
-</p></sp></div2>
-<div2 type="strophe" n="1">
+</p></sp></div>
+<div type="strophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>οἵαν ἐδήλωσας ἀνέρος αἴθονος</l>
 <l>ἀγγελίαν ἄτλατον οὐδὲ φευκτάν,</l>
@@ -534,8 +534,8 @@ antilabe in all files
 <l>οἴμοι φοβοῦμαι τὸ προσέρπον· περίφαντος ἁνὴρ</l>
 <l>θανεῖται, παραπλάκτῳ χερὶ συγκατακτὰς</l>
 <l n="230">κελαινοῖς ξίφεσιν βοτὰ καὶ βοτῆρας ἱππονώμας.</l>
-<milestone ed="p" n="231" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<milestone ed="p" n="231" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp><speaker>Τέκμησσα</speaker>
 <p><l>ὤμοι· κεῖθεν κεῖθεν ἄρ’ ἡμῖν</l>
 <l>δεσμῶτιν ἄγων ἤλυθε ποίμνην·</l>
@@ -550,8 +550,8 @@ antilabe in all files
 <l>κακὰ δεννάζων ῥήμαθ’, ἃ δαίμων</l>
 <l>κοὐδεὶς ἀνδρῶν ἐδίδαξεν.</l>
 <milestone ed="p" n="245" unit="card"/>
-</p></sp></div2>
-<div2 type="antistrophe" n="1">
+</p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l n="245">ὥρα τιν’ ἤδη τοι κρᾶτα καλύμμασι</l>
 <l>κρυψάμενον ποδοῖν κλοπὰν ἀρέσθαι</l>
@@ -560,8 +560,8 @@ antilabe in all files
 <l>τοίας ἐρέσσουσιν ἀπειλὰς δικρατεῖς Ἀτρεῖδαι</l>
 <l>καθ’ ἡμῶν· πεφόβημαι λιθόλευστον Ἄρη</l>
 <l n="255">ξυναλγεῖν μετὰ τοῦδε τυπείς, τὸν αἶς’ ἄπλατος ἴσχει.</l>
-<milestone ed="p" n="257" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<milestone ed="p" n="257" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp><speaker>Τέκμησσα</speaker>
 <p><l>οὐκέτι· λαμπρᾶς γὰρ ἄτερ στεροπῆς</l>
 <l>ᾄξας ὀξὺς νότος ὣς λήγει,</l>
@@ -570,9 +570,9 @@ antilabe in all files
 <l>μηδενὸς ἄλλου παραπράξαντος,</l>
 <l>μεγάλας ὀδύνας ὑποτείνει.</l>
 <milestone ed="p" n="263" unit="card"/>
-</p></sp></div2>
-</div1>
-<div1 type="episode">
+</p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Χορός</speaker>
 <p><l>ἀλλ’ εἰ πέπαυται, κάρτ’ ἂν εὐτυχεῖν δοκῶ·</l>
@@ -721,9 +721,9 @@ antilabe in all files
 <l>τὰ τοῦδε πράγη, καὐτὸς ὡς ἔχων κυρεῖ.</l>
 <milestone ed="p" n="348" unit="card"/>
 </p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Αἴας</speaker>
 <p><l>ἰὼ</l>
 <l>φίλοι ναυβάται, μόνοι ἐμῶν φίλων,</l>
@@ -735,8 +735,8 @@ antilabe in all files
 <p><l>οἴμ’ ὡς ἔοικας ὀρθὰ μαρτυρεῖν ἄγαν.</l>
 <l n="355">δηλοῖ δὲ τοὔργον ὡς ἀφροντίστως ἔχει.</l>
 <milestone ed="p" n="356" unit="card"/>
-</p></sp></div2>
-<div2 type="antistrophe" n="1">
+</p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Αἴας</speaker>
 <p><l>ἰὼ</l>
 <l>γένος ναί̈ας ἀρωγὸν τέχνας,</l>
@@ -748,8 +748,8 @@ antilabe in all files
 <p><l>εὔφημα φώνει· μὴ κακὸν κακῷ διδοὺς</l>
 <l>ἄκος, πλέον τὸ πῆμα τῆς ἄτης τίθει.</l>
 <milestone ed="p" n="364" unit="card"/>
-</p></sp></div2>
-<div2 type="strophe" n="2">
+</p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Αἴας</speaker>
 <p><l>ὁρᾷς τὸν θρασύν, τὸν εὐκάρδιον,</l>
 <l n="365">τὸν ἐν δαί̈οις ἄτρεστον μάχαις,</l>
@@ -773,8 +773,8 @@ antilabe in all files
 <p><l>τί δῆτ’ ἂν ἀλγοίης ἐπ’ ἐξειργασμένοις;</l>
 <l>οὐ γὰρ γένοιτ’ ἂν ταῦθ’ ὅπως οὐχ ὧδ’ ἔχειν.</l>
 <milestone ed="p" n="379" unit="card"/>
-</p></sp></div2>
-<div2 type="antistrophe" n="2">
+</p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Αἴας</speaker>
 <p><l>ἰὼ πάνθ’ ὁρῶν ἁπάντων τ’ ἀεὶ          </l>
 <l n="380">κακῶν ὄργανον, τέκνον Λαρτίου,</l>
@@ -798,8 +798,8 @@ antilabe in all files
 <p><l>ὅταν κατεύχῃ ταῦθ’, ὁμοῦ κἀμοὶ θανεῖν</l>
 <l>εὔχου· τί γὰρ δεῖ ζῆν με σοῦ τεθνηκότος;</l>
 <milestone ed="p" n="394" unit="card"/>
-</p></sp></div2>
-<div2 type="strophe" n="3">
+</p></sp></div>
+<div type="strophe" n="3">
 <sp><speaker>Αἴας</speaker>
 <p><l>ἰὼ</l>
 <l n="395">σκότος, ἐμὸν φάος,</l>
@@ -822,8 +822,8 @@ antilabe in all files
 <p><l n="410">ὦ δυστάλαινα, τοιάδ’ ἄνδρα χρήσιμον</l>
 <l>φωνεῖν, ἃ πρόσθεν οὗτος οὐκ ἔτλη ποτ’ ἄν.</l>
 <milestone ed="p" n="412" unit="card"/>
-</p></sp></div2>
-<div2 type="antistrophe" n="3">
+</p></sp></div>
+<div type="antistrophe" n="3">
 <sp><speaker>Αἴας</speaker>
 <p><l>ἰὼ</l>
 <l>πόροι ἁλίρροθοι</l>
@@ -846,9 +846,9 @@ antilabe in all files
 <p><l>οὔτοι ς’ ἀπείργειν οὐδ’ ὅπως ἐῶ λέγειν</l>
 <l>ἔχω, κακοῖς τοιοῖσδε συμπεπτωκότα.</l>
 <milestone ed="p" n="430" unit="card"/>
-</p></sp></div2>
-</div1>
-<div1 type="episode">
+</p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Αἴας</speaker>
 <p><l n="430">αἰαῖ· τίς ἄν ποτ’ ᾤεθ’ ὧδ’ ἐπώνυμον</l>
@@ -1127,9 +1127,9 @@ antilabe in all files
 <l n="595">εἰ τοὐμὸν ἦθος ἄρτι παιδεύειν νοεῖς.</l>
 <milestone ed="p" n="596" unit="card"/>
 </p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>ὦ κλεινὰ Σαλαμίς, σὺ μέν που</l>
 <l>ναίεις ἁλίπλακτος, εὐδαίμων,</l>
@@ -1141,8 +1141,8 @@ antilabe in all files
 <l>κακὰν ἐλπίδ’ ἔχων</l>
 <l>ἔτι μέ ποτ’ ἀνύσειν</l>
 <l>τὸν ἀπότροπον ἀί̈δηλον Ἅιδαν.</l>
-<milestone ed="p" n="609" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<milestone ed="p" n="609" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>καί μοι δυσθεράπευτος Αἴας</l>
 <l n="610">ξύνεστιν ἔφεδρος, ὤμοι μοι,</l>
@@ -1154,8 +1154,8 @@ antilabe in all files
 <l>μεγίστας ἀρετᾶς</l>
 <l n="620">ἄφιλα παρ’ ἀφίλοις</l>
 <l>ἔπες’ ἔπεσε μελέοις Ἀτρείδαις.</l>
-<milestone ed="p" n="622" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<milestone ed="p" n="622" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Χορός</speaker>
 <p><l>ἦ που παλαιᾷ μὲν σύντροφος ἁμέρᾳ,</l>
 <l n="625">λευκῷ δὲ γήρᾳ μάτηρ νιν ὅταν νοσοῦντα</l>
@@ -1166,8 +1166,8 @@ antilabe in all files
 <l>θρηνήσει, χερόπλακτοι δ’</l>
 <l>ἐν στέρνοισι πεσοῦνται</l>
 <l>δοῦποι καὶ πολιᾶς ἄμυγμα χαίτας.</l>
-<milestone ed="p" n="635" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<milestone ed="p" n="635" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Χορός</speaker>
 <p><l n="635">κρείσσων παρ’ Ἅιδᾳ κεύθων ὁ νοσῶν μάταν,</l>
 <l>ὃς ἐκ πατρῴας ἥκων γενεᾶς ἄριστος</l>
@@ -1178,9 +1178,9 @@ antilabe in all files
 <l>παιδὸς δύσφορον ἄταν,</l>
 <l>ἃν οὔπω τις ἔθρεψεν</l>
 <l n="645">αἰὼν Αἰακιδᾶν ἄτερθε τοῦδε.</l>
-<milestone ed="p" n="646" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<milestone ed="p" n="646" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Αἴας</speaker>
 <p><l>ἅπανθ’ ὁ μακρὸς κἀναρίθμητος χρόνος</l>
@@ -1232,9 +1232,9 @@ antilabe in all files
 <l>πύθοισθε, κεἰ νῦν δυστυχῶ, σεσωσμένον.</l>
 <milestone ed="p" n="693" unit="card"/>
 </p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>ἔφριξ’ ἔρωτι, περιχαρὴς δ’ ἀνεπτόμαν.</l>
 <l>ἰὼ ἰὼ Πὰν Πάν,</l>
@@ -1246,8 +1246,8 @@ antilabe in all files
 <l>Ἰκαρίων δ’ ὑπὲρ πελαγέων μολὼν ἄναξ Ἀπόλλων</l>
 <l n="705">ὁ Δάλιος εὔγνωστος</l>
 <l>ἐμοὶ ξυνείη διὰ παντὸς εὔφρων.</l>
-<milestone ed="p" n="707" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<milestone ed="p" n="707" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>ἔλυσεν αἰνὸν ἄχος ἀπ’ ὀμμάτων Ἄρης.</l>
 <l>ἰὼ ἰώ, νῦν αὖ,</l>
@@ -1259,9 +1259,9 @@ antilabe in all files
 <l n="715">κοὐδὲν ἀναύδατον φατίσαιμ’ ἄν, εὖτέ γ’ ἐξ ἀέλπτων</l>
 <l>Αἴας μετανεγνώσθη</l>
 <l>θυμοῦ τ’ Ἀτρείδαις μεγάλων τε νεικέων.</l>
-<milestone ed="p" n="719" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<milestone ed="p" n="719" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Ἄγγελος</speaker>
 <p><l>ἄνδρες φίλοι, τὸ πρῶτον ἀγγεῖλαι θέλω·</l>
@@ -1482,7 +1482,7 @@ antilabe in all files
 <l n="865">τὰ δ’ ἄλλ’ ἐν Ἅιδου τοῖς κάτω μυθήσομαι.</l>
 <milestone ed="p" n="866" unit="card"/>
 </p></sp>
-<div2 type="kommos">
+<div type="kommos">
 <sp><speaker>Ἡμιχόριον 1</speaker>
 <p><l>πόνος πόνῳ πόνον φέρει.</l>
 <l>πᾷ πᾷ</l>
@@ -1510,10 +1510,10 @@ antilabe in all files
 <p><l>ἀλλ’ οὐδὲ μὲν δὴ τὴν ἀφ’ ἡλίου βολῶν</l>
 <l>κέλευθον ἁνὴρ οὐδαμοῦ δηλοῖ φανείς.</l>
 <milestone ed="p" n="879" unit="card"/>
-</p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</p></sp></div>
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>τίς ἂν δῆτά μοι, τίς ἂν φιλοπόνων</l>
 <l n="880">ἁλιαδᾶν ἔχων ἀύ̈πνους ἄγρας,</l>
@@ -1570,8 +1570,8 @@ antilabe in all files
 <l>ὦ δύσμορ’ Αἴας, οἷος ὢν οἵως ἔχεις,</l>
 <l n="925">ὡς καὶ παρ’ ἐχθροῖς ἄξιος θρήνων τυχεῖν.</l>
 <milestone ed="p" n="926" unit="card"/>
-</p></sp></div2>
-<div2 type="antistrophe" n="1">
+</p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>ἔμελλες, τάλας, ἔμελλες χρόνῳ</l>
 <l>στερεόφρων ἄρ’ ἐξανύσσειν κακὰν</l>
@@ -1614,9 +1614,9 @@ antilabe in all files
 <p><l n="955">ἦ ῥα κελαινώπαν θυμὸν ἐφυβρίζει πολύτλας ἀνήρ,</l>
 <l>γελᾷ δὲ τοῖσδε μαινομένοις ἄχεσιν πολὺν γέλωτα, φεῦ φεῦ,</l>
 <l n="960">ξύν τε διπλοῖ βασιλῆς κλύοντες Ἀτρεῖδαι.</l>
-<milestone ed="p" n="961" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<milestone ed="p" n="961" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Τέκμησσα</speaker>
 <p><l>οἱ δ’ οὖν γελώντων κἀπιχαιρόντων κακοῖς</l>
@@ -1991,7 +1991,7 @@ antilabe in all files
 <l>ἀνδρὸς ματαίου φλαῦρ’ ἔπη μυθουμένου.</l>
 <milestone ed="p" n="1163" unit="card"/>
 </p></sp>
-<div2 type="anapests">
+<div type="anapests">
 <sp><speaker>Χορός</speaker>
 <p><l>ἔσται μεγάλης ἔριδός τις ἀγών.</l>
 <l>ἀλλ’ ὡς δύνασαι, Τεῦκρε, ταχύνας</l>
@@ -1999,8 +1999,8 @@ antilabe in all files
 <l>τῷδ’, ἔνθα βροτοῖς τὸν ἀείμνηστον</l>
 <l>τάφον εὐρώεντα καθέξει.</l>
 <milestone ed="p" n="1168" unit="card"/>
-</p></sp></div2>
-<div2 type="dialogue">
+</p></sp></div>
+<div type="dialogue">
 <sp>
 <speaker>Τεῦκρος</speaker>
 <p><l>καὶ μὴν ἐς αὐτὸν καιρὸν οἵδε πλησίοι</l>
@@ -2021,26 +2021,26 @@ antilabe in all files
 <l>παρέστατ’, ἀλλ’ ἀρήγετ’, ἔστ’ ἐγὼ μολὼν</l>
 <l>τάφου μεληθῶ τῷδε, κἂν μηδεὶς ἐᾷ.</l>
 <milestone ed="p" n="1185" unit="card"/>
-</p></sp></div2>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</p></sp></div>
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l n="1185">τίς ἄρα νέατος ἐς πότε λήξει πολυπλάγκτων ἐτέων ἀριθμός,</l>
 <l>τὰν ἄπαυστον αἰὲν ἐμοὶ δορυσσοήτων</l>
 <l>μόχθων ἄταν ἐπάγων</l>
 <l n="1190">ἄν τὰν εὐρώδεα Τρωί̈αν,</l>
 <l>δύστανον ὄνειδος Ἑλλάνων;</l>
-<milestone ed="p" n="1192" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<milestone ed="p" n="1192" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Χορός</speaker>
 <p><l>ὄφελε πρότερον αἰθέρα δῦναι μέγαν ἢ τὸν πολύκοινον Ἅιδαν</l>
 <l n="1195">κεῖνος ἁνήρ, ὃς στυγερῶν ἔδειξεν ὅπλων</l>
 <l>Ἕλλασιν κοινὸν Ἄρη.</l>
 <l>ἰὼ πόνοι πρόγονοι πόνων·</l>
 <l>κεῖνος γὰρ ἔπερσεν ἀνθρώπους.</l>
-<milestone ed="p" n="1199" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<milestone ed="p" n="1199" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Χορός</speaker>
 <p><l>ἐκεῖνος οὔτε στεφάνων</l>
 <l n="1200">οὔτε βαθεῖαν κυλίκων</l>
@@ -2053,8 +2053,8 @@ antilabe in all files
 <l>ἀεὶ πυκιναῖς δρόσοις</l>
 <l>τεγγόμενος κόμας,</l>
 <l n="1210">λυγρᾶς μνήματα Τροίας.</l>
-<milestone ed="p" n="1211" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<milestone ed="p" n="1211" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Χορός</speaker>
 <p><l>καὶ πρὶν μὲν αἰὲν νυχίου</l>
 <l>δείματος ἦν μοι προβολὰ</l>
@@ -2067,9 +2067,9 @@ antilabe in all files
 <l n="1220">ὑπὸ πλάκα Σουνίου,</l>
 <l>τὰς ἱερὰς ὅπως</l>
 <l>προσείποιμεν Ἀθάνας.</l>
-<milestone ed="p" n="1223" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<milestone ed="p" n="1223" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Τεῦκρος</speaker>
 <p><l>καὶ μὴν ἰδὼν ἔσπευσα τὸν στρατηλάτην</l>
@@ -2383,7 +2383,7 @@ antilabe in all files
 <p><l n="1400">ἀλλ’ ἤθελον μέν· εἰ δὲ μή ’στί σοι φίλον</l>
 <l>πράσσειν τάδ’ ἡμᾶς, εἶμ’ ἐπαινέσας τὸ σόν.</l>
 </p></sp>
-<div2 type="anapests">
+<div type="anapests">
 <sp><speaker>Τεῦκρος</speaker>
 <p><l>ἅλις· ἤδη γὰρ πολὺς ἐκτέταται</l>
 <l>χρόνος.  ἀλλ’ οἱ μὲν κοίλην κάπετον</l>
@@ -2406,8 +2406,8 @@ antilabe in all files
 <p><l>ἦ πολλὰ βροτοῖς ἔστιν ἰδοῦσιν</l>
 <l n="1420">γνῶναι· πρὶν ἰδεῖν δ’ οὐδεὶς μάντις</l>
 <l>τῶν μελλόντων, ὅ τι πράξει.</l>
-</p></sp></div2>
-</div1>
+</p></sp></div>
+</div>
 </body>
 </text>
 </TEI.2>

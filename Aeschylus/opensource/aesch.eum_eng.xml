@@ -130,7 +130,7 @@ bring up to P3
 
 <text lang="en">
 <body>
-<div1 type="episode">
+<div type="episode">
 <milestone ed="p" n="1" unit="card"/>
 <sp n="Priestess of Pythian Apollo">
 <speaker>The Priestess of Pythian Apollo</speaker>
@@ -189,29 +189,29 @@ bring up to P3
 <sp>
 <speaker>Chorus</speaker>
 <p>Awake! Wake her up, as I wake you.<milestone ed="p" n="140" unit="line"/>Still asleep? Get up, shake off sleep, let us see if any part of this beginning<note anchored="yes" n="142" resp="Smyth">The utterances of the Furies, as they rouse themselves to action, will be only a prelude to the fuller expression of their wrath. It is uncertain whether the first and second strophic groups were sung by single voices or by semi-choruses.</note>is in vain.<milestone ed="p" n="143" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
 <p>Oh, oh! Alas! We have suffered, friends.</p>
-<p>Indeed I have suffered much and all in vain. We have suffered very painfully,<milestone ed="p" n="145" unit="line"/>oh! an unbearable evil. The beast has escaped from our nets and is gone.  Overcome by sleep, I have lost my prey.<milestone ed="p" n="149" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Indeed I have suffered much and all in vain. We have suffered very painfully,<milestone ed="p" n="145" unit="line"/>oh! an unbearable evil. The beast has escaped from our nets and is gone.  Overcome by sleep, I have lost my prey.<milestone ed="p" n="149" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Oh! Child of Zeus, you have become a thief&mdash;you, a youth, have ridden down old divinities&mdash;<milestone ed="p" n="150" unit="line"/>by showing respect to your suppliant, a godless man and cruel to a parent; although you are a god, you have stolen away a man that killed his mother. What is there here that anyone shall call just?<milestone ed="p" n="155" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Oh! Child of Zeus, you have become a thief&mdash;you, a youth, have ridden down old divinities&mdash;<milestone ed="p" n="150" unit="line"/>by showing respect to your suppliant, a godless man and cruel to a parent; although you are a god, you have stolen away a man that killed his mother. What is there here that anyone shall call just?<milestone ed="p" n="155" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>Reproach, coming to me in a dream,<milestone ed="p" n="155" unit="line"/>struck me like a charioteer with goad held tight, under my heart, under my vitals. I can feel the cruel, the very cruel chill of the executioner's destroying scourge.<milestone ed="p" n="160" unit="line"/><milestone ed="p" n="162" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Reproach, coming to me in a dream,<milestone ed="p" n="155" unit="line"/>struck me like a charioteer with goad held tight, under my heart, under my vitals. I can feel the cruel, the very cruel chill of the executioner's destroying scourge.<milestone ed="p" n="160" unit="line"/><milestone ed="p" n="162" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>They do such things, the younger gods, who rule, wholly beyond justice, a throne dripping blood, about its foot, about its head.<milestone ed="p" n="165" unit="line"/>I can see the center-stone of the earth defiled with a terrible pollution of blood.<milestone ed="p" n="169" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="3">
+<p>They do such things, the younger gods, who rule, wholly beyond justice, a throne dripping blood, about its foot, about its head.<milestone ed="p" n="165" unit="line"/>I can see the center-stone of the earth defiled with a terrible pollution of blood.<milestone ed="p" n="169" unit="card"/></p></sp></div>
+<div type="strophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>Although he is a prophet, he has stained his sanctuary with pollution at its hearth, at his own urging, at his own bidding;<milestone ed="p" n="170" unit="line"/>against the law of the gods, he has honored mortal things and caused the ancient allotments to decay.<milestone ed="p" n="174" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="3">
+<p>Although he is a prophet, he has stained his sanctuary with pollution at its hearth, at his own urging, at his own bidding;<milestone ed="p" n="170" unit="line"/>against the law of the gods, he has honored mortal things and caused the ancient allotments to decay.<milestone ed="p" n="174" unit="card"/></p></sp></div>
+<div type="antistrophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>And he brings distress to me too, but he shall not win his release; even if he escapes beneath the earth, he is never set free.<milestone ed="p" n="175" unit="line"/>A suppliant, he will acquire another avenger from his family.<note anchored="yes" n="177" resp="Smyth">As Agamemnon was slain by Clytaemestra and Clytaemestra by Orestes, so Orestes shall be slain by one of his own race. <foreign lang="greek">μιάστωρ</foreign>is properly &ldquo;polluter.&rdquo;</note><milestone ed="p" n="178" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>And he brings distress to me too, but he shall not win his release; even if he escapes beneath the earth, he is never set free.<milestone ed="p" n="175" unit="line"/>A suppliant, he will acquire another avenger from his family.<note anchored="yes" n="177" resp="Smyth">As Agamemnon was slain by Clytaemestra and Clytaemestra by Orestes, so Orestes shall be slain by one of his own race. <foreign lang="greek">μιάστωρ</foreign>is properly &ldquo;polluter.&rdquo;</note><milestone ed="p" n="178" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enters from the inner sanctuary.</stage>
 <sp>
 <speaker>Apollo</speaker>
@@ -300,61 +300,61 @@ bring up to P3
 <p>Taught by misery, I know many purification rituals, and I know where it is right to speak and equally to be silent; and in this case, I have been ordered to speak by a wise teacher. For the blood is slumbering and fading from my hand,<milestone ed="p" n="280" unit="line"/>the pollution of matricide is washed away; while it was still fresh, it was driven away at the hearth of the god Phoebus by purifying sacrifices of swine. It would be a long story to tell from the beginning, how many people I have visited, with no harm from association with me.<milestone ed="p" n="285" unit="line"/>&lsqb;Time purges all things, aging with them.&rsqb;</p>
 <p>So now with a pure mouth I piously invoke Athena, lady of this land, to come to my aid. Without the spear, she will win me and my land and the <placeName key="tgn,5001993">Argive</placeName> people<milestone ed="p" n="290" unit="line"/>as faithful and true allies for all time. But whether in some region of the Libyan land, near the waters of Triton, her native stream, she is in action or at rest,<note anchored="yes" n="294" resp="Smyth">Literally, &ldquo;she places her foot upright or covered over.&rdquo; The poet may have in mind statues of the goddess: <foreign lang="greek">ὀρθόν</foreign> referring to upright posture, <foreign lang="greek">κατηρεφῆ</foreign> to her long garment falling over her foot when she was represented as sitting.</note> aiding those whom she loves, or whether, like a bold marshal, she is surveying the Phlegraean <note anchored="yes" n="295" resp="Smyth">The scene of the battle of the Gods and Giants, in which Athena slew Enceladus.</note> plain,<milestone ed="p" n="295" unit="line"/>oh, let her come&mdash;as a goddess, she hears even from far away&mdash;to be my deliverer from distress!<milestone ed="p" n="299" unit="card"/>
 </p></sp>
-</div1>
-<div1 type="choral">
+</div>
+<div type="choral">
 <sp>
 <speaker>Chorus</speaker>
 <p>No, neither Apollo nor Athena's strength can save you from perishing abandoned,<milestone ed="p" n="300" unit="line"/>not knowing where joy is in your heart&mdash;a bloodless victim of the  gods below, a shadow.</p>
 <p>You do not answer, but scorn my words, you who are fattened and consecrated to me? Living, you will be my feast, not slain
 at an altar;<milestone ed="p" n="305" unit="line"/>now you will hear this hymn, a spell to bind you.</p></sp>
 <milestone ed="p" n="307" unit="card"/>
-<div2 type="anapests">
+<div type="anapests">
 <sp><speaker>Chorus</speaker>
-<p>Come now, let us also join the dance, since we are resolved to display our hated song and to declare our allotted office, how our party directs the affairs of men.<milestone ed="p" n="310" unit="line"/>We claim to be just and upright. No wrath from us will come stealthily to the one who holds out clean hands, and he will go through life unharmed;<milestone ed="p" n="315" unit="line"/>but whoever sins, as this man has, and hides his blood-stained hands, as avengers of bloodshed we appear against him to the end, presenting ourselves as upright witnesses for the dead.<milestone ed="p" n="320" unit="line"/><milestone ed="p" n="321" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="1">
+<p>Come now, let us also join the dance, since we are resolved to display our hated song and to declare our allotted office, how our party directs the affairs of men.<milestone ed="p" n="310" unit="line"/>We claim to be just and upright. No wrath from us will come stealthily to the one who holds out clean hands, and he will go through life unharmed;<milestone ed="p" n="315" unit="line"/>but whoever sins, as this man has, and hides his blood-stained hands, as avengers of bloodshed we appear against him to the end, presenting ourselves as upright witnesses for the dead.<milestone ed="p" n="320" unit="line"/><milestone ed="p" n="321" unit="card"/></p></sp></div>
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>O mother Night, hear me, mother who gave birth to me as a retribution for the blind and the seeing. For Leto's son dishonors me by snatching away this cowering wretch,<milestone ed="p" n="325" unit="line"/>a proper expiation for his mother's blood.<milestone ed="p" n="328" unit="card"/></p></sp></div2>
-<div2 type="ephymnion" n="1">
+<p>O mother Night, hear me, mother who gave birth to me as a retribution for the blind and the seeing. For Leto's son dishonors me by snatching away this cowering wretch,<milestone ed="p" n="325" unit="line"/>a proper expiation for his mother's blood.<milestone ed="p" n="328" unit="card"/></p></sp></div>
+<div type="ephymnion" n="1">
 <sp><speaker>Chorus</speaker>
-<p>This is our song over the sacrificial victim&mdash;frenzied, maddened, destroying the mind,<milestone ed="p" n="330" unit="line"/>the Furies' hymn, a spell to bind the soul, not tuned to the lyre, withering the life of mortals.<milestone ed="p" n="334" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>This is our song over the sacrificial victim&mdash;frenzied, maddened, destroying the mind,<milestone ed="p" n="330" unit="line"/>the Furies' hymn, a spell to bind the soul, not tuned to the lyre, withering the life of mortals.<milestone ed="p" n="334" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>For this is the office that relentless Fate spun for us to hold securely:<milestone ed="p" n="335" unit="line"/> when rash murders of kin come upon mortals, we pursue them until they go under the earth; and after death, they have no great freedom.<milestone ed="p" n="340" unit="line"/><milestone ed="p" n="341" unit="card"/></p></sp></div2>
-<div2 type="ephymnion" n="1">
+<p>For this is the office that relentless Fate spun for us to hold securely:<milestone ed="p" n="335" unit="line"/> when rash murders of kin come upon mortals, we pursue them until they go under the earth; and after death, they have no great freedom.<milestone ed="p" n="340" unit="line"/><milestone ed="p" n="341" unit="card"/></p></sp></div>
+<div type="ephymnion" n="1">
 <sp><speaker>Chorus</speaker>
-<p>This is our song over the sacrificial victim&mdash;frenzied, maddened, destroying the mind,the Furies' hymn, a spell to bind the soul, not tuned to the lyre, withering the life of mortals.<milestone ed="p" n="345" unit="line"/><milestone ed="p" n="347" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>This is our song over the sacrificial victim&mdash;frenzied, maddened, destroying the mind,the Furies' hymn, a spell to bind the soul, not tuned to the lyre, withering the life of mortals.<milestone ed="p" n="345" unit="line"/><milestone ed="p" n="347" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>This office was ordained for us at birth; but the immortal gods must hold back their hands from us, nor does any of them share a feast in common with us;<milestone ed="p" n="350" unit="line"/>and I have neither lot nor portion of pure white ceremonial robes &lt;<gap desc="*"/>&gt;<milestone ed="p" n="354" unit="card"/></p></sp></div2>
-<div2 type="ephymnion" n="2">
+<p>This office was ordained for us at birth; but the immortal gods must hold back their hands from us, nor does any of them share a feast in common with us;<milestone ed="p" n="350" unit="line"/>and I have neither lot nor portion of pure white ceremonial robes &lt;<gap desc="*"/>&gt;<milestone ed="p" n="354" unit="card"/></p></sp></div>
+<div type="ephymnion" n="2">
 <sp><speaker>Chorus</speaker>
-<p>For I have chosen the overthrow of houses, whenever violence raised in the home seizes someone near and dear.<milestone ed="p" n="355" unit="line"/>So speeding after this man, we weaken him, even though he is strong, because of the fresh blood.<milestone ed="p" n="360" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>For I have chosen the overthrow of houses, whenever violence raised in the home seizes someone near and dear.<milestone ed="p" n="355" unit="line"/>So speeding after this man, we weaken him, even though he is strong, because of the fresh blood.<milestone ed="p" n="360" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>We are eager to take these cares away from another,<milestone ed="p" n="360" unit="line"/>and to establish for the gods exemption from my concerns, so that it will not come to trial; for Zeus has considered us, a blood-dripping, hateful band, unworthy of his council.<milestone ed="p" n="365" unit="line"/><milestone ed="p" n="354a" unit="card"/></p></sp></div2>
-<div2 type="ephymnion" n="2">
+<p>We are eager to take these cares away from another,<milestone ed="p" n="360" unit="line"/>and to establish for the gods exemption from my concerns, so that it will not come to trial; for Zeus has considered us, a blood-dripping, hateful band, unworthy of his council.<milestone ed="p" n="365" unit="line"/><milestone ed="p" n="354a" unit="card"/></p></sp></div>
+<div type="ephymnion" n="2">
 <sp><speaker>Chorus</speaker>
-<p>&lt;For I have chosen the overthrow of houses, whenever violence raised in the home seizes someone near and dear.<milestone ed="p" n="355a" unit="line"/>Speeding after this man, we weaken him, even though he is strong, because of the fresh blood.&gt;<milestone ed="p" n="368" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="3">
+<p>&lt;For I have chosen the overthrow of houses, whenever violence raised in the home seizes someone near and dear.<milestone ed="p" n="355a" unit="line"/>Speeding after this man, we weaken him, even though he is strong, because of the fresh blood.&gt;<milestone ed="p" n="368" unit="card"/></p></sp></div>
+<div type="strophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>And men's thoughts, very proud under the sky, waste away and dwindle in dishonor beneath the earth, at our attack in black robes<milestone ed="p" n="370" unit="line"/>and the vindictive dance of our feet.<milestone ed="p" n="372" unit="card"/></p></sp></div2>
-<div2 type="ephymnion" n="3">
+<p>And men's thoughts, very proud under the sky, waste away and dwindle in dishonor beneath the earth, at our attack in black robes<milestone ed="p" n="370" unit="line"/>and the vindictive dance of our feet.<milestone ed="p" n="372" unit="card"/></p></sp></div>
+<div type="ephymnion" n="3">
 <sp><speaker>Chorus</speaker>
-<p>For surely with a great leap from above I bring down the heavily falling force of my foot, my limbs that trip even swift runners<milestone ed="p" n="375" unit="line"/>&mdash;unendurable ruin.<milestone ed="p" n="377" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="3">
+<p>For surely with a great leap from above I bring down the heavily falling force of my foot, my limbs that trip even swift runners<milestone ed="p" n="375" unit="line"/>&mdash;unendurable ruin.<milestone ed="p" n="377" unit="card"/></p></sp></div>
+<div type="antistrophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>But, as he falls, he does not know it, because of his senseless folly; pollution hovers over the man in such darkness, and mournful rumor speaks of a dark mist over his house.<milestone ed="p" n="380" unit="line"/><milestone ed="p" n="372a" unit="card"/></p></sp></div2>
-<div2 type="ephymnion" n="3">
+<p>But, as he falls, he does not know it, because of his senseless folly; pollution hovers over the man in such darkness, and mournful rumor speaks of a dark mist over his house.<milestone ed="p" n="380" unit="line"/><milestone ed="p" n="372a" unit="card"/></p></sp></div>
+<div type="ephymnion" n="3">
 <sp><speaker>Chorus</speaker>
-<p>&lt;For surely with a great leap from above I bring down the heavily falling force of my foot, my limbs that trip even swift runners<milestone ed="p" n="375a" unit="line"/>&mdash;unendurable ruin.&gt;<milestone ed="p" n="381" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="4">
+<p>&lt;For surely with a great leap from above I bring down the heavily falling force of my foot, my limbs that trip even swift runners<milestone ed="p" n="375a" unit="line"/>&mdash;unendurable ruin.&gt;<milestone ed="p" n="381" unit="card"/></p></sp></div>
+<div type="strophe" n="4">
 <sp><speaker>Chorus</speaker>
-<p>For it remains. We are skilled in plotting, powerful in execution, and we remember evil deeds; we are revered and hard for mortals to appease, pursuing our allotted office which is without rights, without honor,<milestone ed="p" n="385" unit="line"/>separated from the gods in sunless light&mdash;our office that makes the path rough for seeing and dim-sighted alike.<milestone ed="p" n="389" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="4">
+<p>For it remains. We are skilled in plotting, powerful in execution, and we remember evil deeds; we are revered and hard for mortals to appease, pursuing our allotted office which is without rights, without honor,<milestone ed="p" n="385" unit="line"/>separated from the gods in sunless light&mdash;our office that makes the path rough for seeing and dim-sighted alike.<milestone ed="p" n="389" unit="card"/></p></sp></div>
+<div type="antistrophe" n="4">
 <sp><speaker>Chorus</speaker>
-<p>What mortal, then, does not stand in awe and dread of this,<milestone ed="p" n="390" unit="line"/>when he hears from me the law ordained by Fate, given by the gods for perfect fulfilment? My ancient privilege still remains, I do not meet with dishonor,<milestone ed="p" n="395" unit="line"/> although I have my place under the earth and in sunless darkness.<milestone ed="p" n="397" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>What mortal, then, does not stand in awe and dread of this,<milestone ed="p" n="390" unit="line"/>when he hears from me the law ordained by Fate, given by the gods for perfect fulfilment? My ancient privilege still remains, I do not meet with dishonor,<milestone ed="p" n="395" unit="line"/> although I have my place under the earth and in sunless darkness.<milestone ed="p" n="397" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enter Athena, wearing the aegis.</stage>
 <sp>
 <speaker>Athena</speaker>
@@ -428,34 +428,34 @@ at an altar;<milestone ed="p" n="305" unit="line"/>now you will hear this hymn, 
 <speaker>Athena</speaker>
 <p>The matter is too great, if any mortal thinks to pass judgment on it;<milestone ed="p" n="470" unit="line"/>no, it is not lawful even for me to decide on cases of murder that is followed by the quick anger of the Furies, especially since you, by rites fully performed, have come a pure and harmless suppliant to my house; and so I respect you, since you do not bring harm to my city.<milestone ed="p" n="475" unit="line"/>Yet these women have an office that does not permit them to be dismissed lightly; and if they fail to win their cause, the venom from their resentment will fall upon the ground, an intolerable, perpetual plague afterwards in the land.</p>
 <p>So stands the case:<milestone ed="p" n="480" unit="line"/>either course&mdash;to let them stay, to drive them out&mdash;brings disaster and perplexity to me. But since this matter has fallen here, I will select judges of homicide bound by oath, and I will establish this tribunal for all time. Summon your witnesses and proofs, <milestone ed="p" n="485" unit="line"/>sworn evidence to support your case; and I will return when I have chosen the best of my citizens, for them to decide this matter truly, after they take an oath that they will pronounce no judgment contrary to justice. <stage>Exit</stage><milestone ed="p" n="490" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>Here is the overturning of new laws,<milestone ed="p" n="490" unit="line"/>if the wrongful cause of this matricide is to triumph. Now his deed will accustom all men to recklessness;<milestone ed="p" n="495" unit="line"/>many sorrowful wounds, given in truth by children, wait for parents in the future time.<milestone ed="p" n="499" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Here is the overturning of new laws,<milestone ed="p" n="490" unit="line"/>if the wrongful cause of this matricide is to triumph. Now his deed will accustom all men to recklessness;<milestone ed="p" n="495" unit="line"/>many sorrowful wounds, given in truth by children, wait for parents in the future time.<milestone ed="p" n="499" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>For the wrath of us, the Furies who keep watch on mortals, will not come stealthily upon such deeds<milestone ed="p" n="500" unit="line"/>&mdash;I will let loose death in every form. And as he anticipates his neighbor's evils, one man will ask of another when hardship is to end or to decrease;<milestone ed="p" n="505" unit="line"/>and the poor wretch offers the vain consolation of uncertain remedies.<milestone ed="p" n="508" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>For the wrath of us, the Furies who keep watch on mortals, will not come stealthily upon such deeds<milestone ed="p" n="500" unit="line"/>&mdash;I will let loose death in every form. And as he anticipates his neighbor's evils, one man will ask of another when hardship is to end or to decrease;<milestone ed="p" n="505" unit="line"/>and the poor wretch offers the vain consolation of uncertain remedies.<milestone ed="p" n="508" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>Do not let anyone who is struck by misfortune make an appeal and cry aloud this word,<milestone ed="p" n="510" unit="line"/>&ldquo;Justice!&rdquo; &ldquo;Thrones of the Furies!&rdquo; Perhaps some father, or mother, in new sorrow, may cry out these words piteously, now that the house of Justice is falling.<milestone ed="p" n="515" unit="line"/><milestone ed="p" n="517" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Do not let anyone who is struck by misfortune make an appeal and cry aloud this word,<milestone ed="p" n="510" unit="line"/>&ldquo;Justice!&rdquo; &ldquo;Thrones of the Furies!&rdquo; Perhaps some father, or mother, in new sorrow, may cry out these words piteously, now that the house of Justice is falling.<milestone ed="p" n="515" unit="line"/><milestone ed="p" n="517" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>There is a time when fear is good and ought to remain seated as a guardian of the heart. It is profitable to learn wisdom under strain.<milestone ed="p" n="520" unit="line"/>But who, if he did not train his heart in fear, either city or mortal, would still revere justice in the same way?<milestone ed="p" n="525" unit="line"/><milestone ed="p" n="526" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="3">
+<p>There is a time when fear is good and ought to remain seated as a guardian of the heart. It is profitable to learn wisdom under strain.<milestone ed="p" n="520" unit="line"/>But who, if he did not train his heart in fear, either city or mortal, would still revere justice in the same way?<milestone ed="p" n="525" unit="line"/><milestone ed="p" n="526" unit="card"/></p></sp></div>
+<div type="strophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>Do not approve of a lawless life or one subject to a tyrant. The god grants power to moderation in every form, but he oversees other matters in different ways.<milestone ed="p" n="530" unit="line"/>I have a timely word of advice: arrogance is truly the child of impiety, but from health of soul<milestone ed="p" n="535" unit="line"/>comes happiness, dear to all, much prayed for.<milestone ed="p" n="538" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="3">
+<p>Do not approve of a lawless life or one subject to a tyrant. The god grants power to moderation in every form, but he oversees other matters in different ways.<milestone ed="p" n="530" unit="line"/>I have a timely word of advice: arrogance is truly the child of impiety, but from health of soul<milestone ed="p" n="535" unit="line"/>comes happiness, dear to all, much prayed for.<milestone ed="p" n="538" unit="card"/></p></sp></div>
+<div type="antistrophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>And as for the whole matter, I say to you: respect the altar of Justice and do not, looking to profit, dishonor it by spurning with godless foot;<milestone ed="p" n="540" unit="line"/>for punishment will come upon you. The appointed fulfilment remains. Therefore, let a man rightly put first in honor the reverence owed to his parents,<milestone ed="p" n="545" unit="line"/>and have regard for attentions paid to guests welcomed in his house.<milestone ed="p" n="550" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="4">
+<p>And as for the whole matter, I say to you: respect the altar of Justice and do not, looking to profit, dishonor it by spurning with godless foot;<milestone ed="p" n="540" unit="line"/>for punishment will come upon you. The appointed fulfilment remains. Therefore, let a man rightly put first in honor the reverence owed to his parents,<milestone ed="p" n="545" unit="line"/>and have regard for attentions paid to guests welcomed in his house.<milestone ed="p" n="550" unit="card"/></p></sp></div>
+<div type="strophe" n="4">
 <sp><speaker>Chorus</speaker>
-<p>Whoever is just willingly and without compulsion<milestone ed="p" n="550" unit="line"/>will not lack happiness; he will never be utterly destroyed. But I say that the man who boldly transgresses, amassing a great heap unjustly&mdash;by force, in time, he will strike his sail,<milestone ed="p" n="555" unit="line"/>when trouble seizes him as the yardarm is splintered.<milestone ed="p" n="558" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="4">
+<p>Whoever is just willingly and without compulsion<milestone ed="p" n="550" unit="line"/>will not lack happiness; he will never be utterly destroyed. But I say that the man who boldly transgresses, amassing a great heap unjustly&mdash;by force, in time, he will strike his sail,<milestone ed="p" n="555" unit="line"/>when trouble seizes him as the yardarm is splintered.<milestone ed="p" n="558" unit="card"/></p></sp></div>
+<div type="antistrophe" n="4">
 <sp><speaker>Chorus</speaker>
-<p>He calls on those who hear nothing and he struggles in the midst of the whirling waters. The god laughs at the hot-headed man, <milestone ed="p" n="560" unit="line"/>seeing him, who boasted that this would never happen, exhausted by distress without remedy and unable to surmount the cresting wave. He wrecks the happiness of his earlier life on the reef of Justice, and he perishes unwept, unseen.<milestone ed="p" n="565" unit="line"/><milestone ed="p" n="566" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>He calls on those who hear nothing and he struggles in the midst of the whirling waters. The god laughs at the hot-headed man, <milestone ed="p" n="560" unit="line"/>seeing him, who boasted that this would never happen, exhausted by distress without remedy and unable to surmount the cresting wave. He wrecks the happiness of his earlier life on the reef of Justice, and he perishes unwept, unseen.<milestone ed="p" n="565" unit="line"/><milestone ed="p" n="566" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <stage>Enter, in procession, Athena, a herald, the jury of the Areopagus, a crowd of citizens. Orestes removes to the place appointed for the accused. Apollo appears after Athena's first speech.</stage>
 <sp>
 <speaker>Athena</speaker>
@@ -644,34 +644,34 @@ Or. 552</bibl>; Frag. 1064, the Pythagoreans cited by Stobaeus &lpar;Hense ii. 7
     <p>I will return to my home now, after I swear an oath to this land and to your people<note anchored="yes" n="764" resp="Smyth">The passage points to the league between <placeName key="perseus,Athens">Athens</placeName> and <placeName key="perseus,Argos">Argos</placeName>, formed after Cimon was ostracized &lpar;<date value="-461">461</date> B.C.&rpar; and the treaty with <placeName key="perseus,Sparta">Sparta</placeName> denounced.</note> for the future and for all time to come, that no captain of my land<milestone ed="p" n="765" unit="line"/>will ever come here and bring a well-equipped spear against them. For I myself, then in my grave, will accomplish it by failure without remedy, making their marches spiritless and their journeys 
 ill-omened,<milestone ed="p" n="770" unit="line"/>so that those who violate my present oath will repent their enterprise. But while the straight course is preserved, and they hold in everlasting honor this city of Pallas with their allied spears, I will be the more well-disposed to them.</p>
 <p>And so farewell&mdash;you and the people who guard your city.<milestone ed="p" n="775" unit="line"/>May your struggle with your enemies let none escape, bringing you safety and victory with the spear!<stage>Exit.</stage><milestone ed="p" n="778" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
 <p>Younger gods, you have ridden down the ancient laws and have taken them from my hands!<note anchored="yes" n="779" resp="Smyth">To avoid the collision of metaphors, Abresch assumed the loss of a line in which some qualification of Orestes would have been named as object of the second verb. Verrall thought the object was designedly omitted to indicate the passion of the Erinyes.</note> And I&mdash;dishonored, unhappy, deeply angry&mdash;<milestone ed="p" n="780" unit="line"/>on this land, alas, I will release venom from my heart, venom in return for my grief, drops that the land cannot endure. From it, a blight that destroys leaves, destroys children&mdash;a just return&mdash;<milestone ed="p" n="785" unit="line"/>speeding over the plain, will cast infection on the land to ruin mortals. I groan aloud. What shall I do? I am mocked by the people. What I have suffered is unbearable.<milestone ed="p" n="790" unit="line"/>Ah, cruel indeed are the wrongs of the daughters of Night, mourning over dishonor!<milestone ed="p" n="793" unit="card"/></p></sp>
 <sp>
 <speaker>Athena</speaker>
-<p>Be persuaded by me not to bear it with heavy lament. For you have not been defeated; the trial resulted fairly in an equal vote, without disgrace to you;<milestone ed="p" n="795" unit="line"/>but clear testimony from Zeus was present, and he himself who spoke the oracle himself gave witness that Orestes should not suffer harm for his deed. Do not be angry, do not hurl your heavy rage on this land,<milestone ed="p" n="800" unit="line"/>or cause barrenness, letting loose drops whose savage spirit will devour the seed. For I promise you most sacredly that you will have a cavernous sanctuary in a righteous land,<milestone ed="p" n="805" unit="line"/>where you will sit on shining thrones at your hearths, worshipped with honor by my citizens here.<milestone ed="p" n="808" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Be persuaded by me not to bear it with heavy lament. For you have not been defeated; the trial resulted fairly in an equal vote, without disgrace to you;<milestone ed="p" n="795" unit="line"/>but clear testimony from Zeus was present, and he himself who spoke the oracle himself gave witness that Orestes should not suffer harm for his deed. Do not be angry, do not hurl your heavy rage on this land,<milestone ed="p" n="800" unit="line"/>or cause barrenness, letting loose drops whose savage spirit will devour the seed. For I promise you most sacredly that you will have a cavernous sanctuary in a righteous land,<milestone ed="p" n="805" unit="line"/>where you will sit on shining thrones at your hearths, worshipped with honor by my citizens here.<milestone ed="p" n="808" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
 <p>Younger gods, you have ridden down the ancient laws and have taken them from my hands! And I&mdash;dishonored, unhappy, deeply angry&mdash;<milestone ed="p" n="810" unit="line"/>on this land, alas, I will release venom from my heart, venom in return for my grief, drops that the land cannot endure. From it a blight that destroys leaves, destroys children&mdash;a just return&mdash;<milestone ed="p" n="815" unit="line"/>speeding over the plain, will cast infection on the land to ruin mortals. I groan aloud. What shall I do? I am mocked by the people. What I have suffered is unbearable.<milestone ed="p" n="820" unit="line"/>Ah, cruel indeed are the wrongs of the daughters of Night, mourning over dishonor!<milestone ed="p" n="823" unit="card"/></p></sp>
 <sp>
 <speaker>Athena</speaker>
-<p>You are not dishonored; so, although you are goddesses, do not, in excessive rage, blight past all cure a land of mortals.<milestone ed="p" n="825" unit="line"/>I also rely on Zeus&mdash;what need is there to mention that?&mdash;and I alone of the gods know the keys to the house where his thunderbolt is sealed. But there is no need of that. So yield to my persuasion and do not hurl the words of a reckless tongue against the land,<milestone ed="p" n="830" unit="line"/>that all things bearing fruit will not prosper. Calm the black wave's bitter anger, since you will receive proud honors and will live with me. And when you have the first-fruits of this great land forever, offerings on behalf of children and of marriage rites,<milestone ed="p" n="835" unit="line"/>you will praise my counsel.<milestone ed="p" n="837" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>You are not dishonored; so, although you are goddesses, do not, in excessive rage, blight past all cure a land of mortals.<milestone ed="p" n="825" unit="line"/>I also rely on Zeus&mdash;what need is there to mention that?&mdash;and I alone of the gods know the keys to the house where his thunderbolt is sealed. But there is no need of that. So yield to my persuasion and do not hurl the words of a reckless tongue against the land,<milestone ed="p" n="830" unit="line"/>that all things bearing fruit will not prosper. Calm the black wave's bitter anger, since you will receive proud honors and will live with me. And when you have the first-fruits of this great land forever, offerings on behalf of children and of marriage rites,<milestone ed="p" n="835" unit="line"/>you will praise my counsel.<milestone ed="p" n="837" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>For me to suffer this, alas! For me, with ancient wisdom, to live beneath the earth, alas, without honor, unclean! I am breathing fury and utter rage.<milestone ed="p" n="840" unit="line"/>Oh, oh, the shame of it! What anguish steals into my breast! Hear my anger, mother Night; for the deceptions of the gods, hard to fight, have deprived me of my ancient honors, bringing me to nothing.<milestone ed="p" n="845" unit="line"/><milestone ed="p" n="848" unit="card"/></p></sp>
 <sp>
 <speaker>Athena</speaker>
-<p>I will endure your anger, for you are older, and in that respect you are surely wiser than I; yet Zeus has given me, too, no mean understanding.<milestone ed="p" n="850" unit="line"/>But as for you, if you go to a foreign land, you will come to love this land&mdash;I forewarn you. For time, flowing on, will bring greater honor to these citizens. And you, having a seat of honor at the house of Erechtheus,<milestone ed="p" n="855" unit="line"/>will obtain from hosts of men and women more than you could ever win from other mortals. So do not cast on my realm keen incentives to bloodshed, harmful to young hearts, maddening them with a fury not of wine;<milestone ed="p" n="860" unit="line"/>and do not, as if taking the heart out of fighting cocks, plant in my people the spirit of tribal war and boldness against each other. Let their war be with foreign enemies, and without stint for one in whom there will be a terrible passion for glory;<milestone ed="p" n="865" unit="line"/>but I say there will be no battling of birds within the home. It is possible for you to choose such things from me: bestowing good, receiving good, well honored in this land that is most beloved to the gods.<milestone ed="p" n="870" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>I will endure your anger, for you are older, and in that respect you are surely wiser than I; yet Zeus has given me, too, no mean understanding.<milestone ed="p" n="850" unit="line"/>But as for you, if you go to a foreign land, you will come to love this land&mdash;I forewarn you. For time, flowing on, will bring greater honor to these citizens. And you, having a seat of honor at the house of Erechtheus,<milestone ed="p" n="855" unit="line"/>will obtain from hosts of men and women more than you could ever win from other mortals. So do not cast on my realm keen incentives to bloodshed, harmful to young hearts, maddening them with a fury not of wine;<milestone ed="p" n="860" unit="line"/>and do not, as if taking the heart out of fighting cocks, plant in my people the spirit of tribal war and boldness against each other. Let their war be with foreign enemies, and without stint for one in whom there will be a terrible passion for glory;<milestone ed="p" n="865" unit="line"/>but I say there will be no battling of birds within the home. It is possible for you to choose such things from me: bestowing good, receiving good, well honored in this land that is most beloved to the gods.<milestone ed="p" n="870" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
 <p>For me to suffer this, alas! For me, with ancient wisdom, to live beneath the earth, alas, without honor, unclean! I am breathing fury and utter rage. Oh, oh the shame of it! What anguish steals into my breast!<milestone ed="p" n="875" unit="line"/>Hear my anger, mother Night; for the deceptions of the gods, hard to fight, have deprived me of my ancient honors, bringing me to nothing.<milestone ed="p" n="880" unit="line"/><milestone ed="p" n="881" unit="card"/></p></sp>
 <sp>
 <speaker>Athena</speaker>
-<p>No, I will not grow tired of telling you about these good things, so you will never be able to say that you, an ancient goddess, were cast out, dishonored and banished, from this land by me, a younger goddess, and by the mortal guardians of my city. But if you give holy reverence to Persuasion,<milestone ed="p" n="885" unit="line"/>the sweetness and charm of my tongue, then you might remain. But if you are not willing to stay, then surely it would be unjust for you to inflict on this city any wrath or rage or harm to the people. For it is possible for you to have a share of the land justly, with full honors.<milestone ed="p" n="890" unit="line"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>No, I will not grow tired of telling you about these good things, so you will never be able to say that you, an ancient goddess, were cast out, dishonored and banished, from this land by me, a younger goddess, and by the mortal guardians of my city. But if you give holy reverence to Persuasion,<milestone ed="p" n="885" unit="line"/>the sweetness and charm of my tongue, then you might remain. But if you are not willing to stay, then surely it would be unjust for you to inflict on this city any wrath or rage or harm to the people. For it is possible for you to have a share of the land justly, with full honors.<milestone ed="p" n="890" unit="line"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Chorus</speaker>
 <p>Lady Athena, what place do you say I will have?</p></sp>
@@ -709,65 +709,65 @@ ill-omened,<milestone ed="p" n="770" unit="line"/>so that those who violate my p
 <speaker>Athena</speaker>
 <p>Blessings that aim at a victory not evil; blessings from the earth and from the waters of the sea and from the heavens: that the breathing gales of wind may approach the land in radiant sunshine,<milestone ed="p" n="905" unit="line"/>and that the fruit of the earth and offspring of grazing beasts, flourishing in overflow, may not fail my citizens in the course of time, and that the seed of mortals will be kept safe. May you make more prosperous the offspring of godly men;<milestone ed="p" n="910" unit="line"/>for I, like a gardener, cherish the race of these just men, free of sorrow.<stage>Pointing to the audience.</stage></p>
 <p>Such blessings are yours to give. I, for my part, will not allow this city to be without honor among mortals, this city victorious in the glorious contests of deadly war.<milestone ed="p" n="915" unit="line"/><milestone ed="p" n="916" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>I will accept a home with Pallas, and I will not dishonor a city which she, with Zeus the omnipotent and Ares, holds as a fortress of the gods, the bright ornament that guards the altars of the gods of <placeName key="tgn,1000074">Hellas</placeName>.<milestone ed="p" n="920" unit="line"/>I pray for the city, with favorable prophecy, that the bright gleam of the sun may cause blessings that give happiness to life to spring from the earth, in plenty.<milestone ed="p" n="925" unit="line"/><milestone ed="p" n="927" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>I will accept a home with Pallas, and I will not dishonor a city which she, with Zeus the omnipotent and Ares, holds as a fortress of the gods, the bright ornament that guards the altars of the gods of <placeName key="tgn,1000074">Hellas</placeName>.<milestone ed="p" n="920" unit="line"/>I pray for the city, with favorable prophecy, that the bright gleam of the sun may cause blessings that give happiness to life to spring from the earth, in plenty.<milestone ed="p" n="925" unit="line"/><milestone ed="p" n="927" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Athena</speaker>
-<p>I act zealously for these citizens in this way, installing here among them divinities great and hard to please. For they have been appointed to arrange everything among mortals.<milestone ed="p" n="930" unit="line"/>Yet the one who has not found them grievous does not know where the blows of life come from. For the sins of his fathers drag him before them; destruction, in silence and hateful wrath, levels him to the dust, for all his loud boasting.<milestone ed="p" n="935" unit="line"/><milestone ed="p" n="938" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>I act zealously for these citizens in this way, installing here among them divinities great and hard to please. For they have been appointed to arrange everything among mortals.<milestone ed="p" n="930" unit="line"/>Yet the one who has not found them grievous does not know where the blows of life come from. For the sins of his fathers drag him before them; destruction, in silence and hateful wrath, levels him to the dust, for all his loud boasting.<milestone ed="p" n="935" unit="line"/><milestone ed="p" n="938" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus</speaker>
-<p>May no hurtful wind blow to harm the trees&mdash;I declare my favor&mdash;and may no burning heat, stealing the buds from plants, pass the border of its proper place;<milestone ed="p" n="940" unit="line"/>may no deadly plague draw near to kill the fruit; may the earth nurture the thriving flocks with twin offspring at the appointed time;<milestone ed="p" n="945" unit="line"/>and may the rich produce of the earth always pay the gods' gift of lucky gain.<note anchored="yes" n="948" resp="Smyth">Because the god's gifts of precious metals &lpar;the Athenians have especially silver in mind&rpar; must be found, as it were, by luck; and Hermes is the god of lucky finds. <foreign lang="greek">ἕρμαιον</foreign> is an &ldquo;unexpected find.&rdquo;</note><milestone ed="p" n="949" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>May no hurtful wind blow to harm the trees&mdash;I declare my favor&mdash;and may no burning heat, stealing the buds from plants, pass the border of its proper place;<milestone ed="p" n="940" unit="line"/>may no deadly plague draw near to kill the fruit; may the earth nurture the thriving flocks with twin offspring at the appointed time;<milestone ed="p" n="945" unit="line"/>and may the rich produce of the earth always pay the gods' gift of lucky gain.<note anchored="yes" n="948" resp="Smyth">Because the god's gifts of precious metals &lpar;the Athenians have especially silver in mind&rpar; must be found, as it were, by luck; and Hermes is the god of lucky finds. <foreign lang="greek">ἕρμαιον</foreign> is an &ldquo;unexpected find.&rdquo;</note><milestone ed="p" n="949" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Athena</speaker>
-<p>Do you hear, guards of my city, the things she will accomplish? For the lady Erinys is very powerful,<milestone ed="p" n="950" unit="line"/>both with the deathless gods and with those below the earth; and in their dealings with mankind, they accomplish matters visibly, perfectly; to some giving songs, to others a life made dim by tears.<milestone ed="p" n="955" unit="line"/><milestone ed="p" n="956" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Do you hear, guards of my city, the things she will accomplish? For the lady Erinys is very powerful,<milestone ed="p" n="950" unit="line"/>both with the deathless gods and with those below the earth; and in their dealings with mankind, they accomplish matters visibly, perfectly; to some giving songs, to others a life made dim by tears.<milestone ed="p" n="955" unit="line"/><milestone ed="p" n="956" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>I forbid deadly and untimely fate for men; grant to lovely maidens life with a husband, you that have the rightful power;<milestone ed="p" n="960" unit="line"/>you, divine Fates, our sisters by one mother, divinities who distribute justly, who have a share in every home, and whose righteous visitations press heavily at every season,<milestone ed="p" n="965" unit="line"/>most honored everywhere among the gods!<milestone ed="p" n="968" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>I forbid deadly and untimely fate for men; grant to lovely maidens life with a husband, you that have the rightful power;<milestone ed="p" n="960" unit="line"/>you, divine Fates, our sisters by one mother, divinities who distribute justly, who have a share in every home, and whose righteous visitations press heavily at every season,<milestone ed="p" n="965" unit="line"/>most honored everywhere among the gods!<milestone ed="p" n="968" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Athena</speaker>
-<p>I am glad that they are zealously accomplishing these things for my land; and I am grateful to Persuasion,<milestone ed="p" n="970" unit="line"/>that her glance kept watch over my tongue and mouth, when I encountered their fierce refusal. But Zeus of the assembly has prevailed.<note anchored="yes" n="973" resp="Smyth">Zeus presides over the assemblies of citizens and directs the speech of public men.</note> Our rivalry in doing good is victorious forever.<milestone ed="p" n="975" unit="line"/><milestone ed="p" n="976" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>I am glad that they are zealously accomplishing these things for my land; and I am grateful to Persuasion,<milestone ed="p" n="970" unit="line"/>that her glance kept watch over my tongue and mouth, when I encountered their fierce refusal. But Zeus of the assembly has prevailed.<note anchored="yes" n="973" resp="Smyth">Zeus presides over the assemblies of citizens and directs the speech of public men.</note> Our rivalry in doing good is victorious forever.<milestone ed="p" n="975" unit="line"/><milestone ed="p" n="976" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus</speaker>
-<p>I pray that discord, greedy for evil, may never clamor in this city, and may the dust not drink the black blood of its people<milestone ed="p" n="980" unit="line"/>and through passion cause ruinous murder for vengeance to the destruction of the state.<note anchored="yes" n="983" resp="Smyth">The expression of the thought &ldquo;take reprisals in a civil war,&rdquo; is overloaded and the grammatical relation of the words is involved. More exactly: &ldquo;seize greedily &lpar;as a wild beast seizes his prey&rpar; upon calamities&mdash;of vengeance&mdash;to the State, calamities in which blood is shed in requital for blood.&rdquo;</note> But may they return joy for joy in a spirit of common love,<milestone ed="p" n="985" unit="line"/>and may they hate with one mind; for this is the cure of many an evil in the world.<milestone ed="p" n="988" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>I pray that discord, greedy for evil, may never clamor in this city, and may the dust not drink the black blood of its people<milestone ed="p" n="980" unit="line"/>and through passion cause ruinous murder for vengeance to the destruction of the state.<note anchored="yes" n="983" resp="Smyth">The expression of the thought &ldquo;take reprisals in a civil war,&rdquo; is overloaded and the grammatical relation of the words is involved. More exactly: &ldquo;seize greedily &lpar;as a wild beast seizes his prey&rpar; upon calamities&mdash;of vengeance&mdash;to the State, calamities in which blood is shed in requital for blood.&rdquo;</note> But may they return joy for joy in a spirit of common love,<milestone ed="p" n="985" unit="line"/>and may they hate with one mind; for this is the cure of many an evil in the world.<milestone ed="p" n="988" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Athena</speaker>
-<p>Do they not then intend to find the path of good speech? From these terrible faces<milestone ed="p" n="990" unit="line"/>I see great profit for these citizens; for, if you always greatly honor with kindness the kindly ones, you will surely be pre-eminent, keeping your land and city in the straight path of justice.<milestone ed="p" n="995" unit="line"/><milestone ed="p" n="996" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="3">
+<p>Do they not then intend to find the path of good speech? From these terrible faces<milestone ed="p" n="990" unit="line"/>I see great profit for these citizens; for, if you always greatly honor with kindness the kindly ones, you will surely be pre-eminent, keeping your land and city in the straight path of justice.<milestone ed="p" n="995" unit="line"/><milestone ed="p" n="996" unit="card"/></p></sp></div>
+<div type="strophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>Farewell, farewell, in the wealth allotted to you by fate. Farewell, people of the city, seated near to Zeus, the beloved of the beloved maiden, learning at last the way of wisdom.<milestone ed="p" n="1000" unit="line"/>The Father stands in awe of you, since you are under Pallas' wings.<milestone ed="p" n="1003" unit="card"/></p></sp></div2>
-<div2 type="anapests">
+<p>Farewell, farewell, in the wealth allotted to you by fate. Farewell, people of the city, seated near to Zeus, the beloved of the beloved maiden, learning at last the way of wisdom.<milestone ed="p" n="1000" unit="line"/>The Father stands in awe of you, since you are under Pallas' wings.<milestone ed="p" n="1003" unit="card"/></p></sp></div>
+<div type="anapests">
 <sp>
 <speaker>Athena</speaker>
-<p>Farewell to you also; but I must lead the way to show you your dwellings by the sacred light of these, your escorts.<note anchored="yes" n="1005" resp="Smyth">The Chorus is now to be solemnly conducted to the cave beneath the Hill of Ares, the seat of the worship of the Venerable Ones &lpar;<foreign lang="greek">Σεμναί</foreign>, l. 1041&rpar;, with whom the poet here identifies the Erinyes, the Angry Ones, the Avenging Spirits. The identification seems also to include the Eumenides, the Kindly Ones, who were worshipped at <placeName key="tgn,7011104">Sicyon</placeName>, at <placeName key="perseus,Argos">Argos</placeName>, and in <placeName key="tgn,7002681">Attica</placeName> at <placeName key="tgn,7012055">Phlya</placeName> and <placeName key="perseus,Colonus">Colonus</placeName> &lpar;see <bibl n="Soph. OT 1">Soph. OT</bibl>&rpar;. The procession is formed by Athena &lpar;at its head&rpar;, the Chorus, the Areopagites, torch-bearers, the women who guard the Palladium, and various others. In the rear came the Athenian public.</note><milestone ed="p" n="1005" unit="line"/>Go, and, speeding beneath the earth with these solemn sacrifices, hold back what is ruinous to the land, but send what is profitable for the city to win her victory. You who hold the city, children of Cranaus,<note anchored="yes" n="1011" resp="Smyth">Cranaus was the mythical founder of the &ldquo;rocky city&rdquo; &lpar;<foreign lang="greek">κραναός</foreign> &ldquo;rocky&rdquo;&rpar;, a favourite name of Athens.</note> lead on their way these new dwellers here.<milestone ed="p" n="1010" unit="line"/>May there be good will in the citizens in return for good done to them!<milestone ed="p" n="1014" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="3">
+<p>Farewell to you also; but I must lead the way to show you your dwellings by the sacred light of these, your escorts.<note anchored="yes" n="1005" resp="Smyth">The Chorus is now to be solemnly conducted to the cave beneath the Hill of Ares, the seat of the worship of the Venerable Ones &lpar;<foreign lang="greek">Σεμναί</foreign>, l. 1041&rpar;, with whom the poet here identifies the Erinyes, the Angry Ones, the Avenging Spirits. The identification seems also to include the Eumenides, the Kindly Ones, who were worshipped at <placeName key="tgn,7011104">Sicyon</placeName>, at <placeName key="perseus,Argos">Argos</placeName>, and in <placeName key="tgn,7002681">Attica</placeName> at <placeName key="tgn,7012055">Phlya</placeName> and <placeName key="perseus,Colonus">Colonus</placeName> &lpar;see <bibl n="Soph. OT 1">Soph. OT</bibl>&rpar;. The procession is formed by Athena &lpar;at its head&rpar;, the Chorus, the Areopagites, torch-bearers, the women who guard the Palladium, and various others. In the rear came the Athenian public.</note><milestone ed="p" n="1005" unit="line"/>Go, and, speeding beneath the earth with these solemn sacrifices, hold back what is ruinous to the land, but send what is profitable for the city to win her victory. You who hold the city, children of Cranaus,<note anchored="yes" n="1011" resp="Smyth">Cranaus was the mythical founder of the &ldquo;rocky city&rdquo; &lpar;<foreign lang="greek">κραναός</foreign> &ldquo;rocky&rdquo;&rpar;, a favourite name of Athens.</note> lead on their way these new dwellers here.<milestone ed="p" n="1010" unit="line"/>May there be good will in the citizens in return for good done to them!<milestone ed="p" n="1014" unit="card"/></p></sp></div>
+<div type="antistrophe" n="3">
 <sp><speaker>Chorus</speaker>
-<p>Farewell, farewell, again, I repeat, all you in the city,<milestone ed="p" n="1015" unit="line"/>both gods and mortals, living in Pallas' city; if you duly revere my residence among you, you will not blame the chances of life.<milestone ed="p" n="1020" unit="line"/><milestone ed="p" n="1021" unit="card"/></p></sp></div2>
-</div1>
-<div1 type="episode">
+<p>Farewell, farewell, again, I repeat, all you in the city,<milestone ed="p" n="1015" unit="line"/>both gods and mortals, living in Pallas' city; if you duly revere my residence among you, you will not blame the chances of life.<milestone ed="p" n="1020" unit="line"/><milestone ed="p" n="1021" unit="card"/></p></sp></div>
+</div>
+<div type="episode">
 <sp>
 <speaker>Athena</speaker>
 <p>I approve the words of your invocation, and will escort you by the light of gleaming torches to the places below and beneath the earth, with the attendant women who guard my image in duty bound.<milestone ed="p" n="1025" unit="line"/>For the eye of the whole land of Theseus will come forth, a glorious troop of children, matrons and a band of old women.</p>
 <p>Dress them honorably in robes dyed scarlet, and let the torches' light move on, so that this kindly company of visitors to our land<milestone ed="p" n="1030" unit="line"/>may show itself afterwards in blessings that bring prosperity to men.<milestone ed="p" n="1032" unit="card"/></p></sp>
-</div1>
-<div1 type="choral">
-<div2 type="strophe" n="1">
+</div>
+<div type="choral">
+<div type="strophe" n="1">
 <sp><speaker>Chorus of the Processional Escort</speaker>
-<p>Go on your way to your home, children of Night: mighty, lovers of honor, children, yet aged, under kindly escort&mdash;you who dwell in the land, refrain from inauspicious speech!<milestone ed="p" n="1035" unit="line"/><milestone ed="p" n="1035" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="1">
+<p>Go on your way to your home, children of Night: mighty, lovers of honor, children, yet aged, under kindly escort&mdash;you who dwell in the land, refrain from inauspicious speech!<milestone ed="p" n="1035" unit="line"/><milestone ed="p" n="1035" unit="card"/></p></sp></div>
+<div type="antistrophe" n="1">
 <sp><speaker>Chorus of the Processional Escort</speaker>
-<p>Under the primeval caverns of the earth, gaining the high honor of worship and sacrifice&mdash;all you people, refrain from inauspicious speech!<milestone ed="p" n="1040" unit="card"/></p></sp></div2>
-<div2 type="strophe" n="2">
+<p>Under the primeval caverns of the earth, gaining the high honor of worship and sacrifice&mdash;all you people, refrain from inauspicious speech!<milestone ed="p" n="1040" unit="card"/></p></sp></div>
+<div type="strophe" n="2">
 <sp><speaker>Chorus of the Processional Escort</speaker>
-<p>Gracious and favorable to the land,<milestone ed="p" n="1040" unit="line"/>come here, venerable goddesses, with flame-fed torch, rejoicing as you go&mdash;cry aloud now in echo to our song!<milestone ed="p" n="1044" unit="card"/></p></sp></div2>
-<div2 type="antistrophe" n="2">
+<p>Gracious and favorable to the land,<milestone ed="p" n="1040" unit="line"/>come here, venerable goddesses, with flame-fed torch, rejoicing as you go&mdash;cry aloud now in echo to our song!<milestone ed="p" n="1044" unit="card"/></p></sp></div>
+<div type="antistrophe" n="2">
 <sp><speaker>Chorus of the Processional Escort</speaker>
-<p>Peace endures for all time between Pallas' citizens and these new dwellers here.<milestone ed="p" n="1045" unit="line"/>Zeus who sees all and Fate have come down to lend aid&mdash;cry aloud now in echo to our song!<stage>Exeunt omnes.</stage></p></sp></div2>
-</div1></body></text>
+<p>Peace endures for all time between Pallas' citizens and these new dwellers here.<milestone ed="p" n="1045" unit="line"/>Zeus who sees all and Fate have come down to lend aid&mdash;cry aloud now in echo to our song!<stage>Exeunt omnes.</stage></p></sp></div>
+</div></body></text>
 </TEI.2>

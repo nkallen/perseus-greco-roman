@@ -61,7 +61,7 @@ card breaks not yet aligned
 </revisionDesc>
 </teiHeader>
 <text><body>
-<div1 type="book" n="1">
+<div type="book" n="1">
 <head>Liber Primus</head>
 <milestone unit="card" n="1"/>
 <p><l>Aeneadum genetrix, hominum divomque voluptas,</l>
@@ -1189,9 +1189,9 @@ card breaks not yet aligned
 <l n="1115">namque alid ex alio clarescet nec tibi caeca</l>
 <l>nox iter eripiet, quin ultima naturai</l>
 <l>pervideas: ita res accendent lumina rebus.</l>
-</p></div1>
+</p></div>
 
-<div1 type="book" n="2">
+<div type="book" n="2">
 <head>Liber Secundus</head>
 <milestone unit="card" n="1"/>
 <p><l>Suave, mari magno turbantibus aequora ventis</l>
@@ -2377,8 +2377,8 @@ card breaks not yet aligned
 <l>cum minor esset agri multo modus ante viritim;</l>
 <l>nec tenet omnia paulatim tabescere et ire</l>
 <l>ad capulum spatio aetatis defessa vetusto.</l>
-</p></div1>
-<div1 type="book" n="3">
+</p></div>
+<div type="book" n="3">
 <head>Liber Tertius</head>
 <milestone unit="card" n="1"/>
 <p><l>E tenebris tantis tam clarum extollere lumen</l>
@@ -3506,8 +3506,8 @@ card breaks not yet aligned
 <l>nec minus ille diu iam non erit, ex hodierno</l>
 <l>lumine qui finem vitai fecit, et ille,</l>
 <l>mensibus atque annis qui multis occidit ante.</l>
-</p></div1>
-<div1 type="book" n="4">
+</p></div>
+<div type="book" n="4">
 <head>Liber Quartus</head>
 <milestone unit="card" n="1"/>
 <p><l>Avia Pieridum peragro loca nullius ante</l>
@@ -4840,8 +4840,8 @@ card breaks not yet aligned
 <l n="1285">vincitur in longo spatio tamen atque labascit.</l>
 <l>nonne vides etiam guttas in saxa cadentis</l>
 <l>umoris longo in spatio pertundere saxa?</l>
-</p></div1>
-<div1 type="book" n="5">
+</p></div>
+<div type="book" n="5">
 <head>Liber Quintus</head>
 <milestone unit="card" n="1"/>
 <p><l>Quis potis est dignum pollenti pectore carmen</l>
@@ -6350,8 +6350,8 @@ card breaks not yet aligned
 <l n="1455">in medium ratioque in luminis erigit oras;</l>
 <l>namque alid ex alio clarescere corde videbant,</l>
 <l>artibus ad summum donec venere cacumen.</l>
-</p></div1>
-<div1 type="book" n="6">
+</p></div>
+<div type="book" n="6">
 <head>Liber Sextus</head>
 <milestone unit="card" n="1"/>
 <p><l>Primae frugiparos fetus mortalibus aegris</l>
@@ -7686,6 +7686,6 @@ card breaks not yet aligned
 <l>inde bonam partem in lectum maerore dabantur;</l>
 <l n="1285">nec poterat quisquam reperiri, quem neque morbus</l>
 <l>nec mors nec luctus temptaret tempore tali.</l>
-</p></div1>
+</p></div>
 </body></text>
 </TEI.2>
